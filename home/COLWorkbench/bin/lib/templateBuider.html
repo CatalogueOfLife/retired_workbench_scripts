@@ -1,0 +1,152 @@
+<script type="text/javascript" language="JavaScript">
+
+function buildEditorial(){
+var HTMLSelect;
+
+HTMLSelect = "<select size='4' onchange = 'createEditorialForm(this.value);'><option value='delete'>Delete records where...</option><option value='change'>Change field values where...</option><option value='concat'>Concatenate</option><option value='insert'>Insert into table values</option></select>";
+
+document.getElementById("HTMLForm").innerHTML =  "Choose Editorial Transformations:<br/>" + HTMLSelect;
+}
+
+function createEditorialForm(transformationType) {
+switch(transformationType)
+{
+case "delete":
+
+
+  document.getElementById("HTMLForm").innerHTML =  "DELETE WHERE database.table.field IS empty/IS NOT empty/value equal(=)/value not equal(<>)/value greater than/fewer than/match/not match/contains (starts with)/contains (ends)/contains (anywhere)/is between/is in a list VALUE OR RANGE";
+  break;
+case "change":
+
+  document.getElementById("HTMLForm").innerHTML =  "UPDATE database.table.field WHERE database.table.field IS empty/IS NOT empty/value equal(=)/value not equal(<>)/value greater than/fewer than/match/not match/contains (starts with)/contains (ends)/contains (anywhere)/is between/is in a list VALUE OR RANGE";
+  break;
+case "concat":
+
+  document.getElementById("HTMLForm").innerHTML =  "UPDATE database.table.field CONCATENATE database.table.field or value AND database.table.field or value";
+  break;
+case "insert":
+
+  document.getElementById("HTMLForm").innerHTML =  "INSERT INTO database.table VALUES field field field";
+  break;
+default:
+  break;
+}
+
+}
+
+function buildTablesSelect() {
+var fieldid =""; 
+var HTMLForm = "";
+var tableField ="";
+var i, ii;
+var AssemblyTables = new Array;
+var AssemblyFields = new Array;
+
+AssemblyTables = ["databases", "families", "scientific_names", "common_names", "distribution", "lifezone", "scientific_name_references", "references", "specialists"]; 
+
+AssemblyFields["databases"] = ["record_id", "database_name", "database_full_name", "web_site", "organization", "contact_person", "taxa", "taxonomic_coverage", "abstract", "version", "release_date", "SpeciesCount", "SpeciesEst", "autors_editors", "accepted_species_names", "accepted_infraspecies_names", "species_synonyms", "infraspecies_synonyms", "common_names", "total_names", "is_new", "coverage", "completeness", "confidence"];
+AssemblyFields["families"] = ["record_id", "hierarchy_code", "kingdom", "phylum", "class", "order", "family", "superfamily", "database_id", "family_code"];
+AssemblyFields["scientific_names"] = ["record_id", "name_code", "web_site", "genus", "subgenus", "species", "infraspecies_parent_name_code", "infraspecies", "infraspecies_marker", "autror", "accepted_name_code", "comment", "scrutiny_date", "sp2000_status_id", "database_id", "specialist_id", "family_id", "specialist_code", "family_code", "is_accepted_name", "GSDTaxonGUI", "GSDNameGUI"];  
+AssemblyFields["common_names"] = ["record_id", "name_code", "common_name", "transliteration", "language", "country", "area", "reference_id", "database_id", "is_infraspecies", "reference_code"];
+AssemblyFields["distribution"] = ["record_id", "name_code", "distribution", "StandardInUse", "DistributionStatus", "database_id"];           
+AssemblyFields["lifezone"] = ["record_id", "name_code", "lifezone", "database_id"];       
+AssemblyFields["scientific_name_references"] = ["record_id", "name_code", "reference_type", "reference_id", "reference_code", "database_id"];                 
+AssemblyFields["references"] = ["record_id","author","year","title","source","database_id","reference_code"];
+AssemblyFields["specialists"] = ["record_id", "specialist_name", "specialist_code", "database_id"];
+
+for (i=0; i<AssemblyTables.length; i++) {
+     HTMLForm += "<b>Link Buffer tables and fields to Assembly table: " + AssemblyTables[i] + "</b><br />";
+          
+    for (ii=0; ii<AssemblyFields[AssemblyTables[i]].length; ii++) {
+    fieldid =  AssemblyTables[i] + ii;
+    HTMLForm += "<div><span id ='s" + fieldid + "' style = 'width: 100px;'>---<img src = 'redarrow.gif'></span><span id ='" + fieldid + "' onclick = buildSelectTable('" + fieldid + "');><input id = 'h" + fieldid + "' type = 'hidden' value = '0'><input id = 'tab" + fieldid + "' type = 'hidden' value = ''>&nbsp;" + AssemblyTables[i] + "." + AssemblyFields[AssemblyTables[i]][ii]+"</span></div>";
+    }
+     HTMLForm += "<br />";
+}   
+document.getElementById("HTMLForm").innerHTML =  HTMLForm;  
+}
+
+
+function finaliseTableFieldChoice(chosenField, fieldid) {
+var tabFieldid = "tab" + fieldid;
+var selectFieldid = "s" + fieldid;
+
+document.getElementById(tabFieldid).value += "."+chosenField;
+document.getElementById(selectFieldid).innerHTML = document.getElementById(tabFieldid).value + "<img src = 'greenarrow.gif'>"; 
+}
+
+
+function buildFieldsSelect(tabName, fieldid) {
+var tabFieldid = "tab"+fieldid;
+var selectFieldid = "s" + fieldid;
+var i, HTMLSelect;
+var BufferFields = new Array;
+
+<!--BufferFieldsPlaceholder-->
+
+document.getElementById(tabFieldid).value = tabName;
+
+if (tabName == "NULL")
+{
+document.getElementById(selectFieldid).innerHTML = tabName + "&nbsp;<img src = 'greenarrow.gif'>"; 
+}
+else
+{
+HTMLSelect = "<select onchange='finaliseTableFieldChoice(this.value,"+'"'+fieldid+'"'+");'><option>Choose field</option><option>NULL</option>";
+for (i=0; i<BufferFields[tabName].length; i++) {
+    HTMLSelect += "<option>"  + BufferFields[tabName][i] + "</option>"; 
+}
+HTMLSelect += "</select>";
+document.getElementById(selectFieldid).innerHTML = tabName + HTMLSelect + "&nbsp;<img src = 'redarrow.gif'>"; 
+}
+
+}
+
+
+
+function buildSelectTable(fieldid) {
+var flagFieldid = "h" + fieldid;
+var selectFieldid = "s" + fieldid;
+var tabFieldid = "tab"+fieldid;
+var i, HTMLSelect;
+var BufferTables = new Array;
+
+<!--BufferTablesPlaceholder-->
+
+if (document.getElementById(flagFieldid).value == 1 && document.getElementById(tabFieldid).value)
+{
+   document.getElementById(flagFieldid).value = 0;
+   document.getElementById(selectFieldid).innerHTML = document.getElementById(tabFieldid).value + "&nbsp;<img src = 'greenarrow.gif'>";
+}
+else if (document.getElementById(flagFieldid).value == 1 && !document.getElementById(tabFieldid).value)
+{
+   document.getElementById(flagFieldid).value = 0;
+   document.getElementById(selectFieldid).innerHTML = document.getElementById(tabFieldid).value + "&nbsp;<img src = 'redarrow.gif'>";
+}
+else if (!document.getElementById(flagFieldid).value && document.getElementById(tabFieldid).value)
+{
+   document.getElementById(flagFieldid).value = 0;
+   document.getElementById(selectFieldid).innerHTML = document.getElementById(tabFieldid).value + "&nbsp;<img src = 'greenarrow.gif'>";
+}
+else 
+{
+document.getElementById(flagFieldid).value = 1;
+HTMLSelect = "<select onchange='buildFieldsSelect(this.value,"+'"'+fieldid+'"'+");'><option>Choose table</option><option>NULL</option>";
+for (i=0; i<BufferTables.length; i++) {
+    HTMLSelect += "<option>"  + BufferTables[i] + "</option>"; 
+}
+HTMLSelect += "</select>&nbsp;<img src = 'redarrow.gif'>";
+
+document.getElementById(selectFieldid).innerHTML = HTMLSelect;
+}
+}
+
+</script>
+
+
+<textarea style="width: 400; height:300" id="SQLtext">
+</textarea><br />
+<input type="button" value="Source to Assembly mapping" onclick="buildTablesSelect();">
+<input type="button" value="Editorial transformations" onclick="buildEditorial();">
+<div id="HTMLForm">
+</div>

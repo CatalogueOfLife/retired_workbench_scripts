@@ -1,0 +1,2172 @@
+<html><body>
+<br><b>Harvesting...</b>\n<pre>
+</pre><hr><b>File format conversions...</b>\n<pre>
+Unzipping
+Archive:  WoRMS_Holothuroidea.zip
+  inflating: AcceptedSpecies.txt     
+  inflating: AcceptedInfraSpecificTaxa.txt  
+  inflating: Synonyms.txt            
+  inflating: CommonNames.txt         
+  inflating: Distribution.txt        
+  inflating: References.txt          
+  inflating: NameReferencesLinks.txt  
+  inflating: SourceDatabase.txt      
+Skipping format conversion
+</pre><hr><b>Creating buffer database, performing structural transformations...</b>\n<pre>
+<pre>
+Initiating buffer creation - this may take a while depending on size of the dataset...\n
+Creating buffer database Buffer_Holothuroidea in schema as provided by Holothuroidea
+--------------
+DROP DATABASE IF EXISTS Buffer_Holothuroidea
+--------------
+
+--------------
+CREATE DATABASE IF NOT EXISTS Buffer_Holothuroidea
+--------------
+
+--------------
+CREATE TABLE `AcceptedInfraSpecificTaxa` (
+`AcceptedTaxonID` varchar(50) PRIMARY KEY,
+`ParentSpeciesID` varchar(50) default NULL,
+`InfraSpeciesEpithet` varchar(50) default NULL,
+`InfraSpecificAuthorString` varchar(50) default NULL,
+`InfraSpecificMarker` varchar(10) default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`IsFossil` tinyint(1) default NULL,
+`LifeZone` varchar(50) default NULL,
+`AdditionalData` varchar(255) default NULL,
+`LTSSpecialist` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`LTSDate` varchar(50) default NULL,
+`InfraSpeciesURL` varchar(255) default NULL,
+`GSDTaxonGUI` varchar(255) default NULL,
+`GSDNameGUI`  varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `AcceptedSpecies` (
+`AcceptedTaxonID` varchar(50) PRIMARY KEY,
+`Kingdom` varchar(50) default NULL,
+`Phylum` varchar(50) default NULL,
+`Class` varchar(50) default NULL,
+`Order` varchar(50) default NULL,
+`Superfamily` varchar(50) default NULL,
+`Family` varchar(50) default NULL,
+`Genus` varchar(50) default NULL,
+`SubGenusName` varchar(50) default NULL,
+`Species` varchar(50) default NULL,
+`AuthorString` varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`IsFossil` tinyint(1) default NULL,
+`LifeZone` varchar(50) default NULL,
+`AdditionalData` varchar(255) default NULL,
+`LTSSpecialist` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`LTSDate` varchar(50) default NULL,
+`SpeciesURL` varchar(255) default NULL,
+`GSDTaxonGUI` varchar(255) default NULL,
+`GSDNameGUI` varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `CommonNames` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`CommonName` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Transliteration` varchar(255) default NULL,
+`Language` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`Country`  varchar(255) default NULL,
+`Area`  varchar(255) default NULL,
+`ReferenceID` varchar(50) default NULL,
+PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE = utf8_general_ci
+--------------
+
+--------------
+CREATE TABLE `Distribution` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`Distribution` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`StandardInUse` varchar(50) default NULL,
+`DistributionStatus` varchar(50) default NULL,
+PRIMARY KEY (`record_id`) 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE = utf8_general_ci
+--------------
+
+--------------
+CREATE TABLE `References` (
+`ReferenceID` varchar(50) PRIMARY KEY,
+`Authors` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`Year` varchar(255) default NULL,
+`Title` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Details` varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `NameReferencesLinks` (
+`ID` integer(10) PRIMARY KEY,
+`ReferenceType` varchar(50) default NULL,
+`ReferenceID` varchar(50) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `SourceDatabase` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`DatabaseFullName` varchar(255) NOT NULL,
+`DatabaseShortName` varchar(50) NOT NULL,
+`DatabaseVersion` varchar(50) NOT NULL,
+`ReleaseDate` varchar(50) NOT NULL,
+`AuthorsEditors` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`TaxonomicCoverage` varchar(255) NOT NULL,
+`GroupNameInEnglish` varchar(255) NOT NULL,
+`Abstract` text  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Organisation` varchar(255) NOT NULL,
+`HomeURL` varchar(255) default NULL,
+`Coverage` varchar(50) default NULL,
+`Completeness` integer(3) default NULL,
+`Confidence` integer(1) default NULL,
+`LogoFileName`  varchar(255) default NULL,
+`ContactPerson` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+PRIMARY KEY (`record_id`) 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `Synonyms` (
+`ID` integer(10) PRIMARY KEY,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`Genus` varchar(50) NOT NULL,
+`SubGenusName` varchar(50) default NULL,
+`Species` varchar(50) NOT NULL,
+`AuthorString` varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`InfraSpecies` varchar(50) default NULL,
+`InfraSpecificMarker` varchar(50) default NULL,
+`InfraSpecificAuthorString`  varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`GSDNameGUI` varchar(255) default NULL 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'AcceptedInfraSpecificTaxa.txt' INTO TABLE `AcceptedInfraSpecificTaxa` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES 
+(`AcceptedTaxonID`, `ParentSpeciesID`, `InfraSpeciesEpithet`, `InfraSpecificAuthorString`,  `InfraSpecificMarker`, `GSDNameStatus`,  `Sp2000NameStatus`, `IsFossil`, `LifeZone`, `AdditionalData`, `LTSSpecialist`, `LTSDate`, `InfraSpeciesURL`, `GSDTaxonGUI`, `GSDNameGUI`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'AcceptedSpecies.txt' INTO TABLE `AcceptedSpecies` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `Kingdom`, `Phylum`, `Class`, `Order`, `Superfamily`, `Family`, `Genus`, `SubGenusName`, `Species`, `AuthorString`, `GSDNameStatus`, `Sp2000NameStatus`, `IsFossil`, `LifeZone`, `AdditionalData`, `LTSSpecialist`, `LTSDate`, `SpeciesURL`, `GSDTaxonGUI`, `GSDNameGUI`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'CommonNames.txt' INTO TABLE `CommonNames` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `CommonName`, `Transliteration`, `Country`, `Area`, `Language`, `ReferenceID`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'Distribution.txt' INTO TABLE `Distribution` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `Distribution`, `StandardInUse`, `DistributionStatus`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'NameReferencesLinks.txt' INTO TABLE NameReferencesLinks CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ID`, `ReferenceType`, `ReferenceID`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'References.txt' INTO TABLE `References` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ReferenceID`, `Authors`, `Year`, `Title`, `Details`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'SourceDatabase.txt' INTO TABLE `SourceDatabase` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`DatabaseFullName`, `DatabaseShortName`, `DatabaseVersion`, `ReleaseDate`, `AuthorsEditors`, `TaxonomicCoverage`, `GroupNameInEnglish`, `Abstract`, `Organisation`, `HomeURL`, `Coverage`, `Completeness`, `Confidence`, `LogoFileName`, `ContactPerson`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'Synonyms.txt' INTO TABLE `Synonyms` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ID`, `AcceptedTaxonID`, `Genus`, `SubGenusName`, `Species`, `AuthorString`, `InfraSpecies`, `InfraSpecificMarker`, `InfraSpecificAuthorString`, `GSDNameStatus`, `Sp2000NameStatus`, `GSDNameGUI`)
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+Initial database created. Creating database Assembly_Holothuroidea in assembly schema
+--------------
+DROP DATABASE IF EXISTS Assembly_Holothuroidea
+--------------
+
+--------------
+CREATE DATABASE IF NOT EXISTS Assembly_Holothuroidea
+--------------
+
+--------------
+DROP TABLE IF EXISTS `databases`
+--------------
+
+--------------
+CREATE TABLE  `databases` (
+  `database_name_displayed` varchar(125) DEFAULT NULL,
+  `record_id` int(10) NOT NULL AUTO_INCREMENT,
+  `database_name` varchar(150) DEFAULT NULL,
+  `database_full_name` varchar(100) NOT NULL DEFAULT '',
+  `web_site` longtext,
+  `organization` longtext,
+  `contact_person` varchar(255) DEFAULT NULL,
+  `taxa` varchar(255) DEFAULT NULL,
+  `taxonomic_coverage` longtext,
+  `abstract` longtext,
+  `version` varchar(255) DEFAULT NULL,
+  `release_date` date DEFAULT '0000-00-00',
+  `SpeciesCount` int(11) DEFAULT 0,
+  `SpeciesEst` int(11) DEFAULT 0,
+  `authors_editors` longtext,
+  `accepted_species_names` int(10) DEFAULT 0,
+  `accepted_infraspecies_names` int(10) DEFAULT 0,
+  `species_synonyms` int(10) DEFAULT 0,
+  `infraspecies_synonyms` int(10) DEFAULT 0,
+  `common_names` int(10) DEFAULT 0,
+  `total_names` int(10) DEFAULT 0,
+  `is_new` tinyint(1) NOT NULL DEFAULT 0,
+  `coverage` varchar(45) DEFAULT NULL,
+  `completeness` int(3) unsigned DEFAULT 0,
+  `confidence` 	tinyint(1) unsigned DEFAULT 0,
+  PRIMARY KEY (`record_id`),
+  KEY `database_name` (`database_name`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `families`
+--------------
+
+--------------
+CREATE TABLE  `families` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `hierarchy_code` varchar(250) NOT NULL,
+  `kingdom` varchar(50) NOT NULL DEFAULT 'Not Assigned',
+  `phylum` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `class` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `order` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `family` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `superfamily` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  `family_code` varchar(50) NOT NULL,
+  `is_accepted_name` int(1) unsigned,
+  PRIMARY KEY (`record_id`),
+  KEY (`family_code`),
+  KEY `kingdom` (`kingdom`),
+  KEY `phylum` (`phylum`),
+  KEY `class` (`class`),
+  KEY `order` (`order`),
+  KEY `family` (`family`),
+  KEY `superfamily` (`superfamily`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `sp2000_statuses`
+--------------
+
+--------------
+CREATE TABLE  `sp2000_statuses` (
+  `record_id` int(1) NOT NULL AUTO_INCREMENT,
+  `sp2000_status` varchar(50) NOT NULL DEFAULT '',
+  PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM
+--------------
+
+--------------
+DROP TABLE IF EXISTS `scientific_names`
+--------------
+
+--------------
+CREATE TABLE  `scientific_names` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `web_site` longtext,
+  `genus` varchar(50) DEFAULT NULL,
+  `subgenus` varchar(50) DEFAULT NULL,
+  `species` varchar(60) DEFAULT NULL,
+  `infraspecies_parent_name_code` varchar(42) DEFAULT NULL,
+  `infraspecies` varchar(50) DEFAULT NULL,
+  `infraspecies_marker` varchar(50) DEFAULT NULL,
+  `author` varchar(100) DEFAULT NULL,
+  `accepted_name_code` varchar(42) DEFAULT NULL,
+  `comment` longtext,
+  `scrutiny_date` text,
+  `sp2000_status_id` int(1) DEFAULT NULL,
+  `database_id` int(10) DEFAULT NULL,
+  `specialist_id` int(10) DEFAULT NULL,
+  `family_id` int(10) DEFAULT NULL,
+  `specialist_code` varchar(50) DEFAULT NULL,
+  `family_code` varchar(50) DEFAULT NULL,
+  `is_accepted_name` int(1) DEFAULT NULL,
+  `GSDTaxonGUID` longtext,
+  `GSDNameGUID` longtext,
+  PRIMARY KEY (`record_id`,`name_code`),
+  KEY `database_id` (`database_id`),
+  KEY `family_id` (`family_id`),
+  KEY `species` (`species`),
+  KEY `infraspecies` (`infraspecies`),
+  KEY `accepted_name_code` (`accepted_name_code`),
+  KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
+  KEY `name_code1` (`name_code`,`family_id`),
+  KEY `record_id` (`record_id`,`family_id`),
+  KEY `genus` (`genus`,`species`,`infraspecies`),
+  KEY `sp2000_status_id` (`sp2000_status_id`),
+  KEY `sp2000_status_id_2` (`sp2000_status_id`,`database_id`,`infraspecies`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `common_names`
+--------------
+
+--------------
+CREATE TABLE  `common_names` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL DEFAULT '',
+  `common_name` varchar(700) NOT NULL,
+  `transliteration` varchar(700),
+  `language` varchar(25) NOT NULL,
+  `country` varchar(44) NOT NULL DEFAULT '',
+  `area` varchar(50) DEFAULT NULL,
+  `reference_id` int(10) DEFAULT '0',
+  `database_id` int(10) NOT NULL,
+  `is_infraspecies` int(1) NOT NULL DEFAULT '0',
+  `reference_code` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `common_name` (`common_name`),
+  KEY `name_code` (`name_code`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `distribution`
+--------------
+
+--------------
+CREATE TABLE  `distribution` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `distribution` longtext,
+  `StandardInUse` varchar(255) DEFAULT NULL,
+  
+   `DistributionStatus` varchar(255),
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`),
+  KEY `database_id` (`database_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `lifezone`
+--------------
+
+--------------
+CREATE TABLE  `lifezone` (
+  `record_id` int(11) NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42),
+  `lifezone` varchar(255),
+  `database_id` int(10),
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`),
+  KEY `database_id` (`database_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `scientific_name_references`
+--------------
+
+--------------
+CREATE TABLE  `scientific_name_references` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL DEFAULT '',
+  `reference_type` varchar(10) DEFAULT NULL,
+  `reference_id` int(10) DEFAULT '0',
+  `reference_code` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`,`reference_id`,`reference_type`),
+  KEY `name_code_2` (`name_code`,`reference_type`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `references`
+--------------
+
+--------------
+CREATE TABLE  `references` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `author` varchar(200) DEFAULT NULL,
+  `year` varchar(50) DEFAULT NULL,
+  `title` longtext,
+  `source` longtext,
+  `database_id` int(10) NOT NULL,
+  `reference_code` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `specialists`
+--------------
+
+--------------
+CREATE TABLE  `specialists` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `specialist_name` varchar(255) NOT NULL DEFAULT '',
+  `specialist_code` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+INSERT INTO `sp2000_statuses` 
+VALUES (1,'accepted name'),
+(2,'ambiguous synonym'),
+(3,'misapplied name'),
+(4,'provisionally accepted name'),
+(5,'synonym')
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+CREATE TRIGGER delfamcascade AFTER DELETE ON `families`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `scientific_names` WHERE family_code = old.family_code;
+
+END;
+
+CREATE TRIGGER delspcascade AFTER DELETE ON `scientific_names`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+DELETE FROM `distribution` WHERE name_code = old.name_code;
+DELETE FROM `lifezone` WHERE name_code = old.name_code;
+DELETE FROM `scientific_name_references` WHERE name_code = old.name_code;
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+
+END;
+
+CREATE TRIGGER delrefscascade AFTER DELETE ON `scientific_name_references`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `references` WHERE reference_code = old.reference_code;
+
+END;
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+\nCreation of the assembly database completed.\n
+Starting structural transformations (ACEF3 to ACI)
+--------------
+SET @dbid = 107
+--------------
+
+--------------
+SET @dbabbr = 'W-Hol-'
+--------------
+
+--------------
+SET @dbtouse = 'Buffer_Holothuroidea'
+--------------
+
+--------------
+UPDATE `databases` SET `taxonomic_coverage`="Animalia-Echinodermata-Holothuroidea", `is_new` = 2, `taxa`="Sea cucumbers", `coverage`="Global", `completeness` = 98, `confidence` = 4
+--------------
+
+--------------
+SET foreign_key_checks = 0
+--------------
+
+--------------
+TRUNCATE TABLE `databases`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `databases` 
+ SELECT
+ CONCAT(`DatabaseShortName`, ': ', `DatabaseFullName`)  AS `database_name_displayed`,
+ @dbid AS `record_id`,
+ `DatabaseShortName` AS `database_name`,
+ `DatabaseFullName` AS `database_full_name`,
+  `HomeURL` AS `web_site`,
+  `Organisation` AS `organization`,
+  `ContactPerson` AS `contact_person`,
+  `GroupNameInEnglish` AS `taxa`,
+  `TaxonomicCoverage` AS `taxonomic_coverage`,
+  `Abstract` AS `abstract`,
+  `DatabaseVersion` AS `version`,
+  `ReleaseDate` AS `release_date`,
+  `Coverage` AS `SpeciesCount`,
+  `Completeness` AS `SpeciesEst`,
+  `AuthorsEditors` AS `authors_editors`,
+  NULL AS `accepted_species_names`,
+  NULL AS `accepted_infraspecies_names`,
+  NULL AS `species_synonyms`,
+  NULL AS `infraspecies_synonyms`,
+  NULL AS `common_names`,
+  NULL AS `total_names`,
+  NULL AS `is_new`,
+  NULL AS `coverage`,
+  NULL AS `completeness`,
+  NULL AS `confidence`
+  FROM ",
+@dbtouse,
+".`SourceDatabase`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `distribution`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `distribution` 
+ SELECT
+ NULL AS `record_id`,
+ CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
+ `Distribution` AS `distribution`,
+ `StandardInUse` AS `StandardInUse`, 
+ `DistributionStatus` AS `DistributionStatus`,
+@dbid AS `database_id`
+ FROM ",
+@dbtouse,
+".`Distribution`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `families`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `families`
+SELECT DISTINCT
+NULL AS `record_id`,
+NULL AS `hierarchy_code`,
+`Kingdom` AS `kingdom`,
+`Phylum` AS `phylum`,
+`Class` AS `class`,
+`Order` AS `order`,
+`Family` AS `family`,
+`Superfamily` AS `superfamily`,
+@dbid AS `database_id`,
+NULL AS `family_code`,
+NULL AS `is_accepted_name`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+UPDATE `families` SET `family_code` = CONCAT(@dbabbr,record_id)
+--------------
+
+--------------
+TRUNCATE TABLE `specialists`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `specialists`
+SELECT DISTINCT 
+NULL  AS `record_id`,
+`LTSSpecialist` AS `specialist_name`,
+NULL AS `specialist_code`,
+@dbid AS `database_id`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies` 
+WHERE `LTSSpecialist` IS NOT NULL OR 
+`LTSSpecialist` != ''")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+UPDATE `specialists` SET `specialist_code` = CONCAT(@dbabbr,record_id)
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_names`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
+`SpeciesURL` AS `web_site`,
+`Genus` AS `genus`,
+`SubGenusName` AS `subgenus`,
+`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+NULL  AS `infraspecies`,
+NULL  AS `infraspecies_marker`,
+`AuthorString` AS `author`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `accepted_name_code`,
+`AdditionalData` AS `comment`,
+`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+`specialists`.`record_id` AS `specialist_id`,
+`families`.`record_id` AS `family_id`,
+`specialists`.`specialist_code` AS `specialist_code`,
+`families`.`family_code` AS `family_code`,
+1 AS `is_accepted_name`,
+`GSDTaxonGUI` AS `GSDTaxonGUI`,
+`GSDNameGUI` AS `GSDNameGUI`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies` AcceptedSpecies
+LEFT OUTER JOIN `families` ON 
+(`AcceptedSpecies`.`Kingdom` = `families`.`kingdom` AND
+`AcceptedSpecies`.`Phylum` = `families`.`phylum` AND
+`AcceptedSpecies`.`Class` = `families`.`class` AND
+`AcceptedSpecies`.`Order` = `families`.`order` AND
+`AcceptedSpecies`.`Superfamily` = `families`.`superfamily` AND
+`AcceptedSpecies`.`Family` = `families`.`family`)
+LEFT OUTER JOIN `specialists` ON
+`AcceptedSpecies`.`LTSSpecialist` = `specialists`.`specialist_name`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`AcceptedSpecies`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
+WHERE `AcceptedSpecies`.`IsFossil` = 0")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `lifezone`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `lifezone`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
+`LifeZone` AS `lifezone`,
+@dbid AS `database_id`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`
+WHERE `LifeZone` IN('marine','freshwater','Marine','Freshwater')")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AIT`.`AcceptedTaxonID`) AS `name_code`,
+NULL AS `web_site`,
+`sn`.`genus` AS `genus`,
+NULL AS `subgenus`,
+`sn`.`species` AS `species`,
+CONCAT(@dbabbr,`AIT`.`ParentSpeciesID`) AS `infraspecies_parent_name_code`,
+`AIT`.`InfraSpeciesEpithet` AS `infraspecies`,
+`AIT`.`InfraSpecificMarker` AS `infraspecies_marker`,
+`AIT`.`InfraSpecificAuthorString` AS `author`,
+CONCAT(@dbabbr,`AIT`.`AcceptedTaxonID`) AS `accepted_name_code`,
+`AIT`.`AdditionalData` AS `comment`,
+`AIT`.`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+`specialists`.`specialist_code` AS `specialist_code`,
+sn.family_code AS `family_code`,
+1 AS `is_accepted_name`,
+NULL AS `GSDTaxonGUI`,
+`AIT`.`GSDNameGUI` AS `GSDNameGUI` 
+FROM ",
+@dbtouse,
+".`AcceptedInfraSpecificTaxa` AIT
+LEFT OUTER JOIN scientific_names sn ON
+CONCAT(@dbabbr,`AIT`.`ParentSpeciesID`) = `sn`.`name_code`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`AIT`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
+LEFT OUTER JOIN `specialists` ON
+`AIT`.`LTSSpecialist` = `specialists`.`specialist_name`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`Synonyms`.`ID`) AS `name_code`,
+NULL AS `web_site`,
+`Synonyms`.`Genus` AS `genus`,
+`Synonyms`.`SubGenusName` AS `subgenus`,
+`Synonyms`.`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+`Synonyms`.`InfraSpecies` AS `infraspecies`,
+`Synonyms`.`InfraSpecificMarker` AS `infraspecies_marker`,
+`Synonyms`.`AuthorString` AS `author`,
+CONCAT(@dbabbr,`Synonyms`.`AcceptedTaxonID`) AS `accepted_name_code`,
+NULL AS `comment`,
+NULL AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+sn.`specialist_code` AS `specialist_code`,
+sn.`family_code` AS `family_code`,
+0 AS `is_accepted_name`,
+NULL AS `GSDTaxonGUI`,
+`Synonyms`.`GSDNameGUI` AS `GSDNameGUI` 
+FROM ",
+@dbtouse,
+".`Synonyms` Synonyms
+LEFT OUTER JOIN scientific_names sn ON
+CONCAT(@dbabbr,`Synonyms`.`AcceptedTaxonID`) = `sn`.`name_code`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`Synonyms`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `common_names`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `common_names` 
+SELECT
+NULL, 
+CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
+CONVERT(`CommonName` USING utf8) AS `common_name`,
+`Transliteration` AS `transliteration`,
+`Language` AS `language`,
+`Country` AS `country`,
+`Area` AS `area`,
+ NULL AS `reference_ID`,
+@dbid AS `database_ID`,
+ NULL AS `is_infraspecies`,
+ `ReferenceID` AS `reference_code`
+ FROM ",
+@dbtouse,
+".`CommonNames`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `references`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `references` 
+SELECT
+NULL AS `record_id`, 
+`Authors` AS `author`,
+`Year` AS `year`,
+NULL AS `title`,
+`Title` AS `source`,
+@dbid AS `database_id`,
+CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`
+ FROM ",
+@dbtouse,
+".`References`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_name_references`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_name_references` 
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr, `ID`) AS `name_code`,	
+`ReferenceType` AS `reference_type`,	
+NULL AS `reference_id`,
+CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`,
+@dbid AS `database_id`
+ FROM ",
+@dbtouse,
+".`NameReferencesLinks`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET foreign_key_checks = 1
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+\nData Loaded.
+</pre>
+</pre><hr><b>Backing up...</b>\n<pre>
+Creating directory  23_42_05_05Apr2015
+Backing up files
+</pre><hr><b>Executing local editorial checks</b>\n<pre>
+<pre>
+Integrity and editorial checks - this may take a while depending on size of the dataset...\n
+Starting local editorial transformations
+--------------
+DELETE FROM `common_names` WHERE `common_name` IS NULL OR `common_name` = ""
+--------------
+
+--------------
+DELETE FROM `distribution` WHERE `distribution` IS NULL OR `distribution` = ""
+--------------
+
+--------------
+DELETE FROM `references` WHERE (`title` IS NULL OR `title` = "") AND (`author` IS NULL OR `author` = "")
+--------------
+
+--------------
+DELETE FROM `specialists` WHERE `specialist_name` IS NULL OR `specialist_name` = ""
+--------------
+
+--------------
+DELETE FROM `scientific_names` WHERE (`species` IS NULL OR `species` LIKE "%sp.%" OR `species` LIKE "%spp.%") AND `infraspecies` IS NULL
+--------------
+
+--------------
+DELETE FROM `scientific_names` WHERE `genus` IS NULL OR `genus` = "" OR genus like "% %" OR `genus` LIKE '%sp.%' OR `genus` LIKE "%spp.%"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `family_id` = NULL
+--------------
+
+--------------
+UPDATE `scientific_names` SET `specialist_id` = NULL
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "forma" WHERE `infraspecies_marker` LIKE "f.%"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "var." WHERE `infraspecies_marker` LIKE "Variety"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "subsp." WHERE `infraspecies_marker` LIKE "Subspecies"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `sp2000_status_id` = 5 WHERE `sp2000_status_id` IS NULL AND `is_accepted_name` = 0
+--------------
+
+--------------
+UPDATE `families` SET `family` = "Not assigned" WHERE `family` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `order` = "Not assigned" WHERE `order` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `class` = "Not assigned" WHERE `class` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `phylum` = "Not assigned" WHERE `phylum` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `kingdom` = "Not assigned" WHERE `kingdom` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `family` = "Not assigned" WHERE (`family` IS NULL OR `family` = '')
+--------------
+
+--------------
+UPDATE `families` SET `order` = "Not assigned" WHERE (`order` IS NULL OR `order` = '')
+--------------
+
+--------------
+UPDATE `families` SET `class` = "Not assigned" WHERE (`class` IS NULL OR `class` = '')
+--------------
+
+--------------
+UPDATE `families` SET `phylum` = "Not assigned" WHERE (`phylum` IS NULL OR `phylum` = '')
+--------------
+
+--------------
+UPDATE `families` SET `kingdom` = "Not assigned" WHERE (`kingdom` IS NULL OR `kingdom` = '')
+--------------
+
+--------------
+UPDATE `families` SET `hierarchy_code` = CONCAT(`kingdom`,'-',`phylum`,'-',`class`,'-',`order`,'-',`family`)
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "subsequent type designation%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "Nom%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "taxonomy source%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "additional source%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "original description%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "source of synonymy%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "basis of record%"
+--------------
+
+--------------
+UPDATE `databases` SET database_name_displayed = REPLACE(database_name_displayed,'_',' ')
+--------------
+
+--------------
+UPDATE `databases` SET database_name = REPLACE(database_name,'_',' ')
+--------------
+
+--------------
+UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ',', '')
+--------------
+
+--------------
+UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ';', ',')
+--------------
+
+--------------
+SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+--------------
+
+Duplicate accepted names:	name_code	sp2000_status_id	genus	species	infraspecies_marker	infraspecies	author
+Duplicate accepted names:	W-Hol-241875	1	Holothuria	strigosa			Selenka, 1867
+Duplicate accepted names:	W-Hol-529391	1	Mesothuria	cathedralis	NULL	NULL	Heding, 1940
+Duplicate accepted names:	W-Hol-732620	1	Mesothuria	cathedralis	NULL	NULL	Heding, 1940
+--------------
+SELECT "Accepted name to be retained", MAX(name_code), genus, species, infraspecies_marker, infraspecies, author FROM
+(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn
+ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author
+--------------
+
+Accepted name to be retained	MAX(name_code)	genus	species	infraspecies_marker	infraspecies	author
+Accepted name to be retained	W-Hol-241875	Holothuria	strigosa			Selenka, 1867
+Accepted name to be retained	W-Hol-732620	Mesothuria	cathedralis	NULL	NULL	Heding, 1940
+--------------
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
+(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
+(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+FROM scientific_names
+GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
+LEFT JOIN scientific_names sn
+ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+--------------
+
+Accepted name to be deleted	name_code	sp2000_status_id	genus	species	infraspecies_marker	infraspecies	author
+Accepted name to be deleted	W-Hol-529391	1	Mesothuria	cathedralis	NULL	NULL	Heding, 1940
+--------------
+SELECT 'Common name without parent accepted name', record_id, common_name, name_code FROM common_names
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+CREATE TEMPORARY TABLE scientific_names_tmp AS SELECT * FROM scientific_names
+--------------
+
+--------------
+SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, species, infraspecies, accepted_name_code FROM scientific_names
+WHERE is_accepted_name != 1 AND family_code IS NULL
+--------------
+
+Missing parent accepted name for synonym	record_id	name_code	genus	species	infraspecies	accepted_name_code
+Missing parent accepted name for synonym	1798	W-Hol-124716	Deima	atlanticum		W-Hol-125223
+Missing parent accepted name for synonym	1799	W-Hol-124717	Deima	blakei		W-Hol-125223
+Missing parent accepted name for synonym	1800	W-Hol-292993	Deima	fastosum		W-Hol-125223
+Missing parent accepted name for synonym	1801	W-Hol-292992	Deima	mosaicum		W-Hol-125223
+Missing parent accepted name for synonym	1802	W-Hol-292994	Deima	pacificum		W-Hol-292995
+Missing parent accepted name for synonym	1803	W-Hol-124718	Deima	validum		W-Hol-125223
+Missing parent accepted name for synonym	1811	W-Hol-529200	Elpidia	hanseni		W-Hol-529411
+Missing parent accepted name for synonym	2332	W-Hol-530142	Oneirophanta	affinis		W-Hol-428875
+Missing parent accepted name for synonym	2333	W-Hol-124719	Oneirophanta	alternata		W-Hol-428876
+Missing parent accepted name for synonym	2334	W-Hol-530602	Oneirophanta	alternata	var. talismani	W-Hol-428876
+Missing parent accepted name for synonym	2335	W-Hol-124720	Oneirophanta	mutabilis		W-Hol-428876
+Missing parent accepted name for synonym	2939	W-Hol-530565	Mesothuria	lactea	var. spinosa	W-Hol-529392
+Missing parent accepted name for synonym	3363	W-Hol-125256	Echinocucumis	hispida	var. abyssalis	W-Hol-125219
+Missing parent accepted name for synonym	3364	W-Hol-530553	Echinocucumis	typica	var. abyssalis	W-Hol-125219
+Missing parent accepted name for synonym	3373	W-Hol-124596	Ypsilothuria	talismani		W-Hol-125219
+Missing parent accepted name for synonym	3374	W-Hol-530644	Ypsilothuria	talismani	var. elegans	W-Hol-529419
+Missing parent accepted name for synonym	3393	W-Hol-210668	Cucumaria	deichmanni		W-Hol-224110
+Missing parent accepted name for synonym	3394	W-Hol-210660	Cucumaria	frauenfeldi		W-Hol-224110
+Missing parent accepted name for synonym	3402	W-Hol-530079	Cucumaria	posthuma		W-Hol-224110
+Missing parent accepted name for synonym	3419	W-Hol-210665	Cucumaria	webbi		W-Hol-224111
+Missing parent accepted name for synonym	3443	W-Hol-212476	Roweia	frauenfeldi		W-Hol-224110
+--------------
+SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, species, infraspecies, infraspecies_parent_name_code FROM scientific_names WHERE LENGTH(infraspecies)>1  AND family_code IS NULL
+--------------
+
+Missing parent accepted name for infraspecies	record_id	name_code	genus	species	infraspecies	infraspecies_parent_name_code
+Missing parent accepted name for infraspecies	2334	W-Hol-530602	Oneirophanta	alternata	var. talismani	NULL
+Missing parent accepted name for infraspecies	2939	W-Hol-530565	Mesothuria	lactea	var. spinosa	NULL
+Missing parent accepted name for infraspecies	3363	W-Hol-125256	Echinocucumis	hispida	var. abyssalis	NULL
+Missing parent accepted name for infraspecies	3364	W-Hol-530553	Echinocucumis	typica	var. abyssalis	NULL
+Missing parent accepted name for infraspecies	3374	W-Hol-530644	Ypsilothuria	talismani	var. elegans	NULL
+--------------
+SELECT 'Lifezone without parent accepted name', record_id, name_code, lifezone FROM lifezone
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+SELECT 'Distribution without parent accepted name', record_id, name_code, distribution FROM distribution
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+SELECT 'Accepted name without parent family', record_id, name_code, genus, species, infraspecies, family_code FROM scientific_names
+WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+--------------
+
+--------------
+SELECT 'Reference link to non-existing accepted name', record_id, reference_code, name_code FROM scientific_name_references
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+Reference link to non-existing accepted name	record_id	reference_code	name_code
+Reference link to non-existing accepted name	60	W-Hol-64	W-Hol-124610
+Reference link to non-existing accepted name	218	W-Hol-145608	W-Hol-529213
+Reference link to non-existing accepted name	219	W-Hol-145735	W-Hol-529228
+Reference link to non-existing accepted name	234	W-Hol-64	W-Hol-124488
+Reference link to non-existing accepted name	262	W-Hol-64	W-Hol-124690
+Reference link to non-existing accepted name	263	W-Hol-1368	W-Hol-124692
+Reference link to non-existing accepted name	274	W-Hol-1368	W-Hol-124743
+Reference link to non-existing accepted name	283	W-Hol-1368	W-Hol-125179
+Reference link to non-existing accepted name	289	W-Hol-64	W-Hol-152549
+Reference link to non-existing accepted name	301	W-Hol-6129	W-Hol-210684
+Reference link to non-existing accepted name	363	W-Hol-6516	W-Hol-528981
+Reference link to non-existing accepted name	376	W-Hol-145704	W-Hol-529220
+Reference link to non-existing accepted name	377	W-Hol-168181	W-Hol-529242
+Reference link to non-existing accepted name	378	W-Hol-146025	W-Hol-529268
+Reference link to non-existing accepted name	379	W-Hol-145732	W-Hol-529306
+Reference link to non-existing accepted name	380	W-Hol-6516	W-Hol-529315
+Reference link to non-existing accepted name	407	W-Hol-64	W-Hol-124496
+Reference link to non-existing accepted name	445	W-Hol-64	W-Hol-124805
+Reference link to non-existing accepted name	447	W-Hol-145703	W-Hol-124811
+Reference link to non-existing accepted name	454	W-Hol-22984	W-Hol-174044
+Reference link to non-existing accepted name	463	W-Hol-6831	W-Hol-183306
+Reference link to non-existing accepted name	500	W-Hol-6346	W-Hol-213629
+Reference link to non-existing accepted name	534	W-Hol-6516	W-Hol-242059
+Reference link to non-existing accepted name	565	W-Hol-168119	W-Hol-528960
+Reference link to non-existing accepted name	573	W-Hol-64	W-Hol-124482
+Reference link to non-existing accepted name	648	W-Hol-5997	W-Hol-210959
+Reference link to non-existing accepted name	684	W-Hol-43056	W-Hol-247769
+Reference link to non-existing accepted name	687	W-Hol-43951	W-Hol-254676
+Reference link to non-existing accepted name	734	W-Hol-145702	W-Hol-124788
+Reference link to non-existing accepted name	807	W-Hol-6221	W-Hol-528880
+Reference link to non-existing accepted name	825	W-Hol-168026	W-Hol-529215
+Reference link to non-existing accepted name	826	W-Hol-145735	W-Hol-529225
+Reference link to non-existing accepted name	827	W-Hol-35161	W-Hol-529264
+Reference link to non-existing accepted name	829	W-Hol-37270	W-Hol-529276
+Reference link to non-existing accepted name	830	W-Hol-145730	W-Hol-529284
+Reference link to non-existing accepted name	831	W-Hol-43023	W-Hol-529303
+Reference link to non-existing accepted name	832	W-Hol-145732	W-Hol-529308
+Reference link to non-existing accepted name	833	W-Hol-168134	W-Hol-529321
+Reference link to non-existing accepted name	839	W-Hol-168026	W-Hol-529817
+Reference link to non-existing accepted name	867	W-Hol-50818	W-Hol-147438
+Reference link to non-existing accepted name	963	W-Hol-145735	W-Hol-529226
+Reference link to non-existing accepted name	964	W-Hol-168181	W-Hol-529241
+Reference link to non-existing accepted name	965	W-Hol-146014	W-Hol-529262
+Reference link to non-existing accepted name	966	W-Hol-146025	W-Hol-529269
+Reference link to non-existing accepted name	967	W-Hol-145732	W-Hol-529307
+Reference link to non-existing accepted name	968	W-Hol-145587	W-Hol-529309
+Reference link to non-existing accepted name	969	W-Hol-168105	W-Hol-529322
+Reference link to non-existing accepted name	970	W-Hol-145594	W-Hol-529323
+Reference link to non-existing accepted name	1010	W-Hol-5916	W-Hol-210716
+Reference link to non-existing accepted name	1049	W-Hol-132589	W-Hol-414285
+Reference link to non-existing accepted name	1067	W-Hol-145857	W-Hol-529002
+Reference link to non-existing accepted name	1077	W-Hol-37270	W-Hol-529189
+Reference link to non-existing accepted name	1080	W-Hol-168026	W-Hol-529216
+Reference link to non-existing accepted name	1081	W-Hol-21228	W-Hol-529236
+Reference link to non-existing accepted name	1082	W-Hol-168181	W-Hol-529239
+Reference link to non-existing accepted name	1083	W-Hol-145830	W-Hol-529244
+Reference link to non-existing accepted name	1085	W-Hol-145730	W-Hol-529278
+Reference link to non-existing accepted name	1086	W-Hol-145735	W-Hol-529288
+Reference link to non-existing accepted name	1087	W-Hol-145734	W-Hol-529290
+Reference link to non-existing accepted name	1088	W-Hol-145735	W-Hol-529295
+Reference link to non-existing accepted name	1090	W-Hol-145732	W-Hol-529302
+Reference link to non-existing accepted name	1132	W-Hol-4179	W-Hol-174118
+Reference link to non-existing accepted name	1142	W-Hol-5997	W-Hol-210958
+Reference link to non-existing accepted name	1201	W-Hol-145606	W-Hol-529212
+Reference link to non-existing accepted name	1202	W-Hol-39396	W-Hol-529217
+Reference link to non-existing accepted name	1203	W-Hol-145735	W-Hol-529230
+Reference link to non-existing accepted name	1204	W-Hol-164444	W-Hol-529254
+Reference link to non-existing accepted name	1205	W-Hol-46934	W-Hol-529260
+Reference link to non-existing accepted name	1206	W-Hol-22984	W-Hol-529275
+Reference link to non-existing accepted name	1213	W-Hol-1368	W-Hol-124632
+Reference link to non-existing accepted name	1222	W-Hol-1658	W-Hol-152568
+Reference link to non-existing accepted name	1326	W-Hol-281	W-Hol-148808
+Reference link to non-existing accepted name	1328	W-Hol-4179	W-Hol-174028
+Reference link to non-existing accepted name	1335	W-Hol-6317	W-Hol-210872
+Reference link to non-existing accepted name	1387	W-Hol-146052	W-Hol-528933
+Reference link to non-existing accepted name	1422	W-Hol-6130	W-Hol-210699
+Reference link to non-existing accepted name	1443	W-Hol-42380	W-Hol-241352
+Reference link to non-existing accepted name	1496	W-Hol-145692	W-Hol-529219
+Reference link to non-existing accepted name	1497	W-Hol-145735	W-Hol-529229
+Reference link to non-existing accepted name	1498	W-Hol-1065	W-Hol-529234
+Reference link to non-existing accepted name	1499	W-Hol-146023	W-Hol-529294
+Reference link to non-existing accepted name	1507	W-Hol-145729	W-Hol-529926
+Reference link to non-existing accepted name	1581	W-Hol-146018	W-Hol-530328
+Reference link to non-existing accepted name	1597	W-Hol-145704	W-Hol-530656
+Reference link to non-existing accepted name	1600	W-Hol-1168	W-Hol-732196
+Reference link to non-existing accepted name	1644	W-Hol-146025	W-Hol-530372
+Reference link to non-existing accepted name	1659	W-Hol-146015	W-Hol-530675
+Reference link to non-existing accepted name	1672	W-Hol-145639	W-Hol-732528
+Reference link to non-existing accepted name	1728	W-Hol-34506	W-Hol-732213
+Reference link to non-existing accepted name	1754	W-Hol-139483	W-Hol-530020
+Reference link to non-existing accepted name	1791	W-Hol-145730	W-Hol-732375
+Reference link to non-existing accepted name	1817	W-Hol-145734	W-Hol-529222
+Reference link to non-existing accepted name	1818	W-Hol-145734	W-Hol-529223
+Reference link to non-existing accepted name	1819	W-Hol-168124	W-Hol-529247
+Reference link to non-existing accepted name	1820	W-Hol-168124	W-Hol-529248
+Reference link to non-existing accepted name	1821	W-Hol-164444	W-Hol-529250
+Reference link to non-existing accepted name	1822	W-Hol-46934	W-Hol-529257
+Reference link to non-existing accepted name	1823	W-Hol-46934	W-Hol-529258
+Reference link to non-existing accepted name	1825	W-Hol-145732	W-Hol-529299
+Reference link to non-existing accepted name	1826	W-Hol-145732	W-Hol-529313
+Reference link to non-existing accepted name	1877	W-Hol-145857	W-Hol-530670
+Reference link to non-existing accepted name	1893	W-Hol-145823	W-Hol-732466
+Reference link to non-existing accepted name	1906	W-Hol-21228	W-Hol-529235
+Reference link to non-existing accepted name	1907	W-Hol-168181	W-Hol-529240
+Reference link to non-existing accepted name	1908	W-Hol-145735	W-Hol-529280
+Reference link to non-existing accepted name	1909	W-Hol-146014	W-Hol-529314
+Reference link to non-existing accepted name	1924	W-Hol-145746	W-Hol-529940
+Reference link to non-existing accepted name	1926	W-Hol-145749	W-Hol-529942
+Reference link to non-existing accepted name	1939	W-Hol-6518	W-Hol-530128
+Reference link to non-existing accepted name	1971	W-Hol-145747	W-Hol-732240
+Reference link to non-existing accepted name	1995	W-Hol-146051	W-Hol-529174
+Reference link to non-existing accepted name	1999	W-Hol-7476	W-Hol-529233
+Reference link to non-existing accepted name	2000	W-Hol-146051	W-Hol-529272
+Reference link to non-existing accepted name	2001	W-Hol-146051	W-Hol-529279
+Reference link to non-existing accepted name	2002	W-Hol-168134	W-Hol-529325
+Reference link to non-existing accepted name	2003	W-Hol-146052	W-Hol-529327
+Reference link to non-existing accepted name	2030	W-Hol-6516	W-Hol-530072
+Reference link to non-existing accepted name	2067	W-Hol-146024	W-Hol-530607
+Reference link to non-existing accepted name	2070	W-Hol-146015	W-Hol-530664
+Reference link to non-existing accepted name	2075	W-Hol-1168	W-Hol-732198
+Reference link to non-existing accepted name	2078	W-Hol-145732	W-Hol-732343
+Reference link to non-existing accepted name	2088	W-Hol-6513	W-Hol-732526
+Reference link to non-existing accepted name	2117	W-Hol-168124	W-Hol-530093
+Reference link to non-existing accepted name	2120	W-Hol-145856	W-Hol-530152
+Reference link to non-existing accepted name	2148	W-Hol-146002	W-Hol-530666
+Reference link to non-existing accepted name	2149	W-Hol-145830	W-Hol-530724
+Reference link to non-existing accepted name	2153	W-Hol-43179	W-Hol-732344
+Reference link to non-existing accepted name	2158	W-Hol-168108	W-Hol-732372
+Reference link to non-existing accepted name	2162	W-Hol-145593	W-Hol-732554
+Reference link to non-existing accepted name	2164	W-Hol-145732	W-Hol-767380
+Reference link to non-existing accepted name	2169	W-Hol-145734	W-Hol-529224
+Reference link to non-existing accepted name	2170	W-Hol-46934	W-Hol-529259
+Reference link to non-existing accepted name	2171	W-Hol-146051	W-Hol-529271
+Reference link to non-existing accepted name	2172	W-Hol-145733	W-Hol-529287
+Reference link to non-existing accepted name	2173	W-Hol-145734	W-Hol-529292
+Reference link to non-existing accepted name	2174	W-Hol-145732	W-Hol-529311
+Reference link to non-existing accepted name	2242	W-Hol-168102	W-Hol-530687
+Reference link to non-existing accepted name	2246	W-Hol-145732	W-Hol-732242
+Reference link to non-existing accepted name	2252	W-Hol-145735	W-Hol-529297
+Reference link to non-existing accepted name	2253	W-Hol-145732	W-Hol-529304
+Reference link to non-existing accepted name	2254	W-Hol-145732	W-Hol-529318
+Reference link to non-existing accepted name	2279	W-Hol-6521	W-Hol-530181
+Reference link to non-existing accepted name	2308	W-Hol-6221	W-Hol-530669
+Reference link to non-existing accepted name	2315	W-Hol-145654	W-Hol-732557
+Reference link to non-existing accepted name	2375	W-Hol-145691	W-Hol-528828
+Reference link to non-existing accepted name	2401	W-Hol-145734	W-Hol-529221
+Reference link to non-existing accepted name	2402	W-Hol-6221	W-Hol-529237
+Reference link to non-existing accepted name	2403	W-Hol-168124	W-Hol-529246
+Reference link to non-existing accepted name	2404	W-Hol-46934	W-Hol-529255
+Reference link to non-existing accepted name	2405	W-Hol-46934	W-Hol-529256
+Reference link to non-existing accepted name	2406	W-Hol-37014	W-Hol-529261
+Reference link to non-existing accepted name	2407	W-Hol-146021	W-Hol-529267
+Reference link to non-existing accepted name	2408	W-Hol-145734	W-Hol-529289
+Reference link to non-existing accepted name	2426	W-Hol-34506	W-Hol-530005
+Reference link to non-existing accepted name	2448	W-Hol-164444	W-Hol-530270
+Reference link to non-existing accepted name	2474	W-Hol-6517	W-Hol-732392
+Reference link to non-existing accepted name	2479	W-Hol-146072	W-Hol-732525
+Reference link to non-existing accepted name	2497	W-Hol-6129	W-Hol-210678
+Reference link to non-existing accepted name	2505	W-Hol-5916	W-Hol-210934
+Reference link to non-existing accepted name	2559	W-Hol-145735	W-Hol-529227
+Reference link to non-existing accepted name	2560	W-Hol-7476	W-Hol-529232
+Reference link to non-existing accepted name	2561	W-Hol-6517	W-Hol-529249
+Reference link to non-existing accepted name	2562	W-Hol-145732	W-Hol-529320
+Reference link to non-existing accepted name	2660	W-Hol-146015	W-Hol-210975
+Reference link to non-existing accepted name	2729	W-Hol-146018	W-Hol-529196
+Reference link to non-existing accepted name	2732	W-Hol-6221	W-Hol-529238
+Reference link to non-existing accepted name	2733	W-Hol-164444	W-Hol-529253
+Reference link to non-existing accepted name	2734	W-Hol-145735	W-Hol-529281
+Reference link to non-existing accepted name	2737	W-Hol-145730	W-Hol-529293
+Reference link to non-existing accepted name	2738	W-Hol-145732	W-Hol-529316
+Reference link to non-existing accepted name	2739	W-Hol-145732	W-Hol-529317
+Reference link to non-existing accepted name	2744	W-Hol-145924	W-Hol-529388
+Reference link to non-existing accepted name	2800	W-Hol-146052	W-Hol-530460
+Reference link to non-existing accepted name	2818	W-Hol-6392	W-Hol-732341
+Reference link to non-existing accepted name	2819	W-Hol-43179	W-Hol-732342
+Reference link to non-existing accepted name	2836	W-Hol-172624	W-Hol-151873
+Reference link to non-existing accepted name	2906	W-Hol-146018	W-Hol-529130
+Reference link to non-existing accepted name	2912	W-Hol-168124	W-Hol-529245
+Reference link to non-existing accepted name	2914	W-Hol-164444	W-Hol-529252
+Reference link to non-existing accepted name	2915	W-Hol-146018	W-Hol-529266
+Reference link to non-existing accepted name	2916	W-Hol-22984	W-Hol-529273
+Reference link to non-existing accepted name	2917	W-Hol-145732	W-Hol-529300
+Reference link to non-existing accepted name	2918	W-Hol-145587	W-Hol-529319
+Reference link to non-existing accepted name	2934	W-Hol-145752	W-Hol-529946
+Reference link to non-existing accepted name	2941	W-Hol-6517	W-Hol-530123
+Reference link to non-existing accepted name	2957	W-Hol-146020	W-Hol-530358
+Reference link to non-existing accepted name	2970	W-Hol-145803	W-Hol-530566
+Reference link to non-existing accepted name	2980	W-Hol-164893	W-Hol-710718
+Reference link to non-existing accepted name	2982	W-Hol-145898	W-Hol-732225
+Reference link to non-existing accepted name	2995	W-Hol-1368	W-Hol-124659
+Reference link to non-existing accepted name	3013	W-Hol-5916	W-Hol-217323
+Reference link to non-existing accepted name	3057	W-Hol-37270	W-Hol-529190
+Reference link to non-existing accepted name	3058	W-Hol-145641	W-Hol-529195
+Reference link to non-existing accepted name	3059	W-Hol-168026	W-Hol-529214
+Reference link to non-existing accepted name	3061	W-Hol-145737	W-Hol-529231
+Reference link to non-existing accepted name	3062	W-Hol-35161	W-Hol-529265
+Reference link to non-existing accepted name	3063	W-Hol-145730	W-Hol-529285
+Reference link to non-existing accepted name	3064	W-Hol-145587	W-Hol-529324
+Reference link to non-existing accepted name	3075	W-Hol-168026	W-Hol-529814
+Reference link to non-existing accepted name	3076	W-Hol-145674	W-Hol-529841
+Reference link to non-existing accepted name	3116	W-Hol-6221	W-Hol-530668
+Reference link to non-existing accepted name	3117	W-Hol-42	W-Hol-584814
+Reference link to non-existing accepted name	3124	W-Hol-146015	W-Hol-732345
+--------------
+SELECT 'Reference link to non-existing reference', record_id, reference_code, name_code FROM scientific_name_references
+WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+--------------
+
+Reference link to non-existing reference	record_id	reference_code	name_code
+Reference link to non-existing reference	1	W-Hol-147411	W-Hol-124535
+Reference link to non-existing reference	3	W-Hol-147411	W-Hol-149904
+Reference link to non-existing reference	4	W-Hol-147412	W-Hol-124710
+Reference link to non-existing reference	5	W-Hol-163039	W-Hol-125182
+Reference link to non-existing reference	6	W-Hol-147411	W-Hol-124455
+Reference link to non-existing reference	7	W-Hol-147411	W-Hol-124661
+Reference link to non-existing reference	9	W-Hol-141968	W-Hol-125180
+Reference link to non-existing reference	10	W-Hol-147411	W-Hol-124671
+Reference link to non-existing reference	11	W-Hol-163043	W-Hol-124501
+Reference link to non-existing reference	13	W-Hol-147411	W-Hol-124593
+Reference link to non-existing reference	14	W-Hol-147411	W-Hol-124462
+Reference link to non-existing reference	15	W-Hol-147411	W-Hol-124549
+Reference link to non-existing reference	16	W-Hol-147411	W-Hol-149898
+Reference link to non-existing reference	17	W-Hol-147411	W-Hol-124670
+Reference link to non-existing reference	18	W-Hol-147411	W-Hol-124645
+Reference link to non-existing reference	19	W-Hol-147412	W-Hol-124612
+Reference link to non-existing reference	20	W-Hol-147411	W-Hol-124463
+Reference link to non-existing reference	22	W-Hol-147411	W-Hol-124448
+Reference link to non-existing reference	23	W-Hol-163039	W-Hol-124525
+Reference link to non-existing reference	24	W-Hol-141968	W-Hol-367868
+Reference link to non-existing reference	25	W-Hol-147411	W-Hol-124465
+Reference link to non-existing reference	26	W-Hol-147411	W-Hol-124470
+Reference link to non-existing reference	27	W-Hol-147411	W-Hol-124696
+Reference link to non-existing reference	29	W-Hol-147411	W-Hol-124713
+Reference link to non-existing reference	31	W-Hol-141968	W-Hol-125181
+Reference link to non-existing reference	32	W-Hol-147411	W-Hol-124653
+Reference link to non-existing reference	33	W-Hol-147411	W-Hol-124681
+Reference link to non-existing reference	34	W-Hol-141968	W-Hol-241876
+Reference link to non-existing reference	35	W-Hol-147411	W-Hol-124544
+Reference link to non-existing reference	37	W-Hol-64	W-Hol-124444
+Reference link to non-existing reference	43	W-Hol-64	W-Hol-124478
+Reference link to non-existing reference	50	W-Hol-64	W-Hol-124517
+Reference link to non-existing reference	51	W-Hol-64	W-Hol-124521
+Reference link to non-existing reference	56	W-Hol-64	W-Hol-124576
+Reference link to non-existing reference	58	W-Hol-64	W-Hol-124585
+Reference link to non-existing reference	60	W-Hol-64	W-Hol-124610
+Reference link to non-existing reference	62	W-Hol-64	W-Hol-124619
+Reference link to non-existing reference	64	W-Hol-145790	W-Hol-124627
+Reference link to non-existing reference	66	W-Hol-64	W-Hol-124644
+Reference link to non-existing reference	72	W-Hol-64	W-Hol-124687
+Reference link to non-existing reference	75	W-Hol-64	W-Hol-124712
+Reference link to non-existing reference	78	W-Hol-64	W-Hol-124721
+Reference link to non-existing reference	80	W-Hol-64	W-Hol-124746
+Reference link to non-existing reference	82	W-Hol-64	W-Hol-124751
+Reference link to non-existing reference	83	W-Hol-64	W-Hol-124755
+Reference link to non-existing reference	89	W-Hol-64	W-Hol-124776
+Reference link to non-existing reference	90	W-Hol-64	W-Hol-124780
+Reference link to non-existing reference	93	W-Hol-64	W-Hol-124785
+Reference link to non-existing reference	96	W-Hol-64	W-Hol-124810
+Reference link to non-existing reference	97	W-Hol-64	W-Hol-125189
+Reference link to non-existing reference	103	W-Hol-64	W-Hol-149789
+Reference link to non-existing reference	105	W-Hol-64	W-Hol-152563
+Reference link to non-existing reference	180	W-Hol-146013	W-Hol-254668
+Reference link to non-existing reference	181	W-Hol-145612	W-Hol-254671
+Reference link to non-existing reference	182	W-Hol-47563	W-Hol-292993
+Reference link to non-existing reference	211	W-Hol-146013	W-Hol-529127
+Reference link to non-existing reference	225	W-Hol-64	W-Hol-124439
+Reference link to non-existing reference	226	W-Hol-64	W-Hol-124441
+Reference link to non-existing reference	234	W-Hol-64	W-Hol-124488
+Reference link to non-existing reference	235	W-Hol-64	W-Hol-124490
+Reference link to non-existing reference	238	W-Hol-64	W-Hol-124505
+Reference link to non-existing reference	239	W-Hol-64	W-Hol-124524
+Reference link to non-existing reference	244	W-Hol-64	W-Hol-124541
+Reference link to non-existing reference	249	W-Hol-145790	W-Hol-124581
+Reference link to non-existing reference	250	W-Hol-64	W-Hol-124588
+Reference link to non-existing reference	251	W-Hol-64	W-Hol-124590
+Reference link to non-existing reference	254	W-Hol-64	W-Hol-124605
+Reference link to non-existing reference	258	W-Hol-64	W-Hol-124639
+Reference link to non-existing reference	262	W-Hol-64	W-Hol-124690
+Reference link to non-existing reference	266	W-Hol-64	W-Hol-124705
+Reference link to non-existing reference	269	W-Hol-64	W-Hol-124724
+Reference link to non-existing reference	270	W-Hol-1153	W-Hol-124726
+Reference link to non-existing reference	272	W-Hol-64	W-Hol-124739
+Reference link to non-existing reference	273	W-Hol-64	W-Hol-124741
+Reference link to non-existing reference	278	W-Hol-64	W-Hol-124775
+Reference link to non-existing reference	279	W-Hol-64	W-Hol-124790
+Reference link to non-existing reference	288	W-Hol-64	W-Hol-149760
+Reference link to non-existing reference	289	W-Hol-64	W-Hol-152549
+Reference link to non-existing reference	353	W-Hol-133468	W-Hol-428578
+Reference link to non-existing reference	403	W-Hol-64	W-Hol-124469
+Reference link to non-existing reference	407	W-Hol-64	W-Hol-124496
+Reference link to non-existing reference	408	W-Hol-64	W-Hol-124503
+Reference link to non-existing reference	411	W-Hol-64	W-Hol-124526
+Reference link to non-existing reference	421	W-Hol-64	W-Hol-124596
+Reference link to non-existing reference	424	W-Hol-64	W-Hol-124603
+Reference link to non-existing reference	429	W-Hol-64	W-Hol-124660
+Reference link to non-existing reference	430	W-Hol-64	W-Hol-124662
+Reference link to non-existing reference	438	W-Hol-64	W-Hol-124760
+Reference link to non-existing reference	439	W-Hol-64	W-Hol-124762
+Reference link to non-existing reference	441	W-Hol-64	W-Hol-124769
+Reference link to non-existing reference	444	W-Hol-64	W-Hol-124803
+Reference link to non-existing reference	445	W-Hol-64	W-Hol-124805
+Reference link to non-existing reference	451	W-Hol-64	W-Hol-149762
+Reference link to non-existing reference	452	W-Hol-64	W-Hol-152547
+Reference link to non-existing reference	463	W-Hol-6831	W-Hol-183306
+Reference link to non-existing reference	464	W-Hol-6831	W-Hol-183340
+Reference link to non-existing reference	549	W-Hol-133468	W-Hol-428648
+Reference link to non-existing reference	550	W-Hol-133468	W-Hol-428655
+Reference link to non-existing reference	566	W-Hol-64	W-Hol-124432
+Reference link to non-existing reference	567	W-Hol-64	W-Hol-124433
+Reference link to non-existing reference	569	W-Hol-64	W-Hol-124447
+Reference link to non-existing reference	573	W-Hol-64	W-Hol-124482
+Reference link to non-existing reference	578	W-Hol-64	W-Hol-124533
+Reference link to non-existing reference	579	W-Hol-64	W-Hol-124547
+Reference link to non-existing reference	582	W-Hol-64	W-Hol-124583
+Reference link to non-existing reference	587	W-Hol-64	W-Hol-124633
+Reference link to non-existing reference	592	W-Hol-64	W-Hol-124682
+Reference link to non-existing reference	598	W-Hol-64	W-Hol-124732
+Reference link to non-existing reference	599	W-Hol-64	W-Hol-124733
+Reference link to non-existing reference	602	W-Hol-64	W-Hol-124747
+Reference link to non-existing reference	610	W-Hol-64	W-Hol-125218
+Reference link to non-existing reference	625	W-Hol-64	W-Hol-178813
+Reference link to non-existing reference	626	W-Hol-6831	W-Hol-183227
+Reference link to non-existing reference	629	W-Hol-6831	W-Hol-183341
+Reference link to non-existing reference	672	W-Hol-145612	W-Hol-241816
+Reference link to non-existing reference	684	W-Hol-43056	W-Hol-247769
+Reference link to non-existing reference	717	W-Hol-64	W-Hol-124456
+Reference link to non-existing reference	721	W-Hol-64	W-Hol-124522
+Reference link to non-existing reference	722	W-Hol-64	W-Hol-124556
+Reference link to non-existing reference	727	W-Hol-64	W-Hol-124622
+Reference link to non-existing reference	732	W-Hol-64	W-Hol-124722
+Reference link to non-existing reference	741	W-Hol-42	W-Hol-158532
+Reference link to non-existing reference	796	W-Hol-133468	W-Hol-428644
+Reference link to non-existing reference	797	W-Hol-133468	W-Hol-428761
+Reference link to non-existing reference	837	W-Hol-145612	W-Hol-529798
+Reference link to non-existing reference	844	W-Hol-64	W-Hol-124438
+Reference link to non-existing reference	846	W-Hol-64	W-Hol-124472
+Reference link to non-existing reference	852	W-Hol-64	W-Hol-124608
+Reference link to non-existing reference	854	W-Hol-64	W-Hol-124625
+Reference link to non-existing reference	857	W-Hol-64	W-Hol-124706
+Reference link to non-existing reference	860	W-Hol-64	W-Hol-124740
+Reference link to non-existing reference	863	W-Hol-64	W-Hol-124774
+Reference link to non-existing reference	866	W-Hol-64	W-Hol-124808
+Reference link to non-existing reference	872	W-Hol-64	W-Hol-149761
+Reference link to non-existing reference	873	W-Hol-64	W-Hol-149774
+Reference link to non-existing reference	875	W-Hol-64	W-Hol-152552
+Reference link to non-existing reference	916	W-Hol-145783	W-Hol-241939
+Reference link to non-existing reference	934	W-Hol-133468	W-Hol-428762
+Reference link to non-existing reference	976	W-Hol-64	W-Hol-124493
+Reference link to non-existing reference	980	W-Hol-64	W-Hol-124579
+Reference link to non-existing reference	982	W-Hol-64	W-Hol-124629
+Reference link to non-existing reference	986	W-Hol-64	W-Hol-124729
+Reference link to non-existing reference	989	W-Hol-64	W-Hol-124779
+Reference link to non-existing reference	991	W-Hol-42	W-Hol-124802
+Reference link to non-existing reference	992	W-Hol-64	W-Hol-125222
+Reference link to non-existing reference	1051	W-Hol-133468	W-Hol-428638
+Reference link to non-existing reference	1052	W-Hol-133468	W-Hol-428781
+Reference link to non-existing reference	1097	W-Hol-64	W-Hol-124442
+Reference link to non-existing reference	1101	W-Hol-64	W-Hol-124485
+Reference link to non-existing reference	1104	W-Hol-64	W-Hol-124519
+Reference link to non-existing reference	1106	W-Hol-64	W-Hol-124578
+Reference link to non-existing reference	1114	W-Hol-64	W-Hol-124744
+Reference link to non-existing reference	1115	W-Hol-64	W-Hol-124753
+Reference link to non-existing reference	1116	W-Hol-64	W-Hol-124778
+Reference link to non-existing reference	1119	W-Hol-64	W-Hol-125255
+Reference link to non-existing reference	1120	W-Hol-44	W-Hol-147444
+Reference link to non-existing reference	1125	W-Hol-64	W-Hol-152556
+Reference link to non-existing reference	1167	W-Hol-43056	W-Hol-247763
+Reference link to non-existing reference	1168	W-Hol-43056	W-Hol-247772
+Reference link to non-existing reference	1177	W-Hol-141756	W-Hol-474834
+Reference link to non-existing reference	1218	W-Hol-64	W-Hol-124735
+Reference link to non-existing reference	1224	W-Hol-42	W-Hol-158534
+Reference link to non-existing reference	1268	W-Hol-145612	W-Hol-241814
+Reference link to non-existing reference	1310	W-Hol-64	W-Hol-124595
+Reference link to non-existing reference	1312	W-Hol-64	W-Hol-124634
+Reference link to non-existing reference	1313	W-Hol-64	W-Hol-124638
+Reference link to non-existing reference	1316	W-Hol-64	W-Hol-124688
+Reference link to non-existing reference	1318	W-Hol-64	W-Hol-124702
+Reference link to non-existing reference	1331	W-Hol-64	W-Hol-178811
+Reference link to non-existing reference	1367	W-Hol-47563	W-Hol-292992
+Reference link to non-existing reference	1410	W-Hol-64	W-Hol-125188
+Reference link to non-existing reference	1418	W-Hol-6831	W-Hol-183014
+Reference link to non-existing reference	1419	W-Hol-6831	W-Hol-183321
+Reference link to non-existing reference	1457	W-Hol-146013	W-Hol-247767
+Reference link to non-existing reference	1465	W-Hol-133468	W-Hol-428765
+Reference link to non-existing reference	1467	W-Hol-145612	W-Hol-528767
+Reference link to non-existing reference	1657	W-Hol-145790	W-Hol-530644
+Reference link to non-existing reference	1661	W-Hol-42	W-Hol-584815
+Reference link to non-existing reference	1743	W-Hol-145612	W-Hol-529799
+Reference link to non-existing reference	1785	W-Hol-145790	W-Hol-530643
+Reference link to non-existing reference	1997	W-Hol-145612	W-Hol-529200
+Reference link to non-existing reference	1998	W-Hol-146013	W-Hol-529211
+Reference link to non-existing reference	2323	W-Hol-64	W-Hol-124684
+Reference link to non-existing reference	2330	W-Hol-44	W-Hol-151528
+Reference link to non-existing reference	2331	W-Hol-64	W-Hol-152560
+Reference link to non-existing reference	2335	W-Hol-6831	W-Hol-183378
+Reference link to non-existing reference	2357	W-Hol-145612	W-Hol-241815
+Reference link to non-existing reference	2364	W-Hol-43056	W-Hol-247768
+Reference link to non-existing reference	2371	W-Hol-133468	W-Hol-428804
+Reference link to non-existing reference	2486	W-Hol-64	W-Hol-124518
+Reference link to non-existing reference	2491	W-Hol-64	W-Hol-124768
+Reference link to non-existing reference	2493	W-Hol-44	W-Hol-147443
+Reference link to non-existing reference	2528	W-Hol-43056	W-Hol-247762
+Reference link to non-existing reference	2642	W-Hol-64	W-Hol-149900
+Reference link to non-existing reference	2691	W-Hol-145612	W-Hol-528768
+Reference link to non-existing reference	2692	W-Hol-145612	W-Hol-528769
+Reference link to non-existing reference	2766	W-Hol-140261	W-Hol-530027
+Reference link to non-existing reference	2877	W-Hol-133468	W-Hol-428636
+Reference link to non-existing reference	2879	W-Hol-141756	W-Hol-477227
+Reference link to non-existing reference	2911	W-Hol-146013	W-Hol-529207
+Reference link to non-existing reference	2998	W-Hol-64	W-Hol-152550
+Reference link to non-existing reference	3073	W-Hol-145612	W-Hol-529797
+Reference link to non-existing reference	3117	W-Hol-42	W-Hol-584814
+--------------
+SELECT 'Specialist not present in scientific names table', record_id, specialist_name, specialist_code FROM specialists
+WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+--------------
+
+--------------
+SELECT 'Reference without parent accepted or common name', record_id, author, year, title, reference_code FROM `references`
+WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
+UNION SELECT DISTINCT reference_code FROM common_names)
+--------------
+
+Reference without parent accepted or common name	record_id	author	year	title	reference_code
+Reference without parent accepted or common name	7	Hayward, P.J.; Nelson-Smith, A.; Shields, C.	1996	NULL	W-Hol-614
+Reference without parent accepted or common name	13	Sibuet, M.	1974	NULL	W-Hol-1042
+Reference without parent accepted or common name	14	Rowe, F.W.E.	1970	NULL	W-Hol-1049
+Reference without parent accepted or common name	19	von Marenzeller, E.	1893	NULL	W-Hol-1059
+Reference without parent accepted or common name	32	Théel, H.	1877	NULL	W-Hol-1299
+Reference without parent accepted or common name	33	Koren, J. & Danielsen, D.C.	1877	NULL	W-Hol-1300
+Reference without parent accepted or common name	34	Danielssen & Koren	1880	NULL	W-Hol-1301
+Reference without parent accepted or common name	39	Gosner,	1977	NULL	W-Hol-2965
+Reference without parent accepted or common name	41	Meinkoth, N.A.	1981	NULL	W-Hol-3017
+Reference without parent accepted or common name	42	Pollock, L.W.	1998	NULL	W-Hol-3042
+Reference without parent accepted or common name	46	Bell, F. J.	1908	NULL	W-Hol-3139
+Reference without parent accepted or common name	53	Bell, F.J.	1884	NULL	W-Hol-5938
+Reference without parent accepted or common name	68	Clark, A.M.	1984	NULL	W-Hol-6112
+Reference without parent accepted or common name	92	Cherbonnier, G.	1954	NULL	W-Hol-6264
+Reference without parent accepted or common name	97	Rowe, F.W.E.	1977	NULL	W-Hol-6297
+Reference without parent accepted or common name	98	Jangoux, M.	1973	NULL	W-Hol-6313
+Reference without parent accepted or common name	127	Massin, C.; Appeltans, W.; Van Hoey, G.; Vincx, M.; Degraer, S.	2005	NULL	W-Hol-6870
+Reference without parent accepted or common name	129	Müller O. F.	1789	NULL	W-Hol-7966
+Reference without parent accepted or common name	131	Pawson, D.L.; Valentine, J.F.	1981	NULL	W-Hol-9165
+Reference without parent accepted or common name	132	Hansen, B.; McKenzie, J.D.	1991	NULL	W-Hol-9177
+Reference without parent accepted or common name	136	Streftaris, N.; Zenetos, A.; Papathanassiou, E.	2005	NULL	W-Hol-9271
+Reference without parent accepted or common name	139	Gutt, J.	1988	NULL	W-Hol-12747
+Reference without parent accepted or common name	159	Marenzeller, E. von.	1874	NULL	W-Hol-23019
+Reference without parent accepted or common name	171	M'Intosh, W.C.,	1866	NULL	W-Hol-36618
+Reference without parent accepted or common name	188	Pawson, D. L.; Vance, D. J.	2005	NULL	W-Hol-42930
+Reference without parent accepted or common name	191	Pawson, D.L.; Vance, D.J.	2004	NULL	W-Hol-42933
+Reference without parent accepted or common name	194	Pawson, D. L.	1969	NULL	W-Hol-43032
+Reference without parent accepted or common name	200	Bent Hansen	1973	NULL	W-Hol-43938
+Reference without parent accepted or common name	214	Müller O. F. 	1806	NULL	W-Hol-51125
+Reference without parent accepted or common name	215	Sars, M	1835	NULL	W-Hol-51738
+Reference without parent accepted or common name	218	Grieg, James A.	1889	NULL	W-Hol-61370
+Reference without parent accepted or common name	230	Bohn.	2005	NULL	W-Hol-128100
+Reference without parent accepted or common name	231	Levin & Stepanov.	2002	NULL	W-Hol-128845
+Reference without parent accepted or common name	232	Levin.	2003	NULL	W-Hol-128846
+Reference without parent accepted or common name	233	Levin.	2004	NULL	W-Hol-128847
+Reference without parent accepted or common name	235	Massin, Zulfigar, Hwai & Boss.	2002	NULL	W-Hol-128952
+Reference without parent accepted or common name	236	O'Loughlin & Ahearn.	2005	NULL	W-Hol-129132
+Reference without parent accepted or common name	237	Pawson, D. L.	2002	NULL	W-Hol-129177
+Reference without parent accepted or common name	238	Rowe & Massin.	2006	NULL	W-Hol-129327
+Reference without parent accepted or common name	239	Solis-Marin, Billett, Preston & Rogers.	2004	NULL	W-Hol-129456
+Reference without parent accepted or common name	242	Thandar.	2006	NULL	W-Hol-129518
+Reference without parent accepted or common name	244	Samyn & Thandar.	2003	NULL	W-Hol-131169
+Reference without parent accepted or common name	245	Thandar & Moodley.	2003	NULL	W-Hol-131238
+Reference without parent accepted or common name	247	Verrill, A. E.	1866	NULL	W-Hol-132644
+Reference without parent accepted or common name	260	Mortensen, T.	1926	NULL	W-Hol-139448
+Reference without parent accepted or common name	262	Baranova, Z. I.	1955	NULL	W-Hol-139517
+Reference without parent accepted or common name	283	Barrois, T.	1882	NULL	W-Hol-145598
+Reference without parent accepted or common name	284	Bartolini, B.	1914	NULL	W-Hol-145599
+Reference without parent accepted or common name	295	Bell FJ	1889	NULL	W-Hol-145611
+Reference without parent accepted or common name	304	Belyaev, GM., & Vinigradov, ME.,	1969	NULL	W-Hol-145620
+Reference without parent accepted or common name	307	Brady, GS., & Robertson, D.,	1871	NULL	W-Hol-145624
+Reference without parent accepted or common name	308	Britten, M.	1907	NULL	W-Hol-145626
+Reference without parent accepted or common name	337	Cherbonnier, G.	1957	NULL	W-Hol-145660
+Reference without parent accepted or common name	343	Cherbonnier, G.	1959	NULL	W-Hol-145668
+Reference without parent accepted or common name	348	Cherbonnier, G.	1963	NULL	W-Hol-145673
+Reference without parent accepted or common name	354	Cherbonnier, G.	1970	NULL	W-Hol-145679
+Reference without parent accepted or common name	355	Cherbonnier, G.,	1970	NULL	W-Hol-145680
+Reference without parent accepted or common name	356	Cherbonnier, G.	1972	NULL	W-Hol-145681
+Reference without parent accepted or common name	359	Cherbonnier, G.	1979	NULL	W-Hol-145684
+Reference without parent accepted or common name	371	Costa, A.,	1869	NULL	W-Hol-145699
+Reference without parent accepted or common name	403	Düben, MW.V., & Koren, J.,	1844	NULL	W-Hol-145738
+Reference without parent accepted or common name	428	Grieg, JA.,	1921	NULL	W-Hol-145766
+Reference without parent accepted or common name	431	Hansen, B.	1978	NULL	W-Hol-145770
+Reference without parent accepted or common name	432	Hansen, B.; Madsen, F. J.	1956	NULL	W-Hol-145771
+Reference without parent accepted or common name	445	Heding, SG.,	1935	NULL	W-Hol-145786
+Reference without parent accepted or common name	446	Heding, SG.	1938	NULL	W-Hol-145789
+Reference without parent accepted or common name	452	Hernandez, D. A.	1987	NULL	W-Hol-145797
+Reference without parent accepted or common name	453	Hérouard, E.	1896	NULL	W-Hol-145798
+Reference without parent accepted or common name	454	Herouard, E.	1898	NULL	W-Hol-145799
+Reference without parent accepted or common name	455	Hérouard, E.	1899	NULL	W-Hol-145800
+Reference without parent accepted or common name	457	Herouard, E.	1906	NULL	W-Hol-145802
+Reference without parent accepted or common name	459	Hérouard, E.,	1889	NULL	W-Hol-145804
+Reference without parent accepted or common name	464	Hodge G.	1865	NULL	W-Hol-145810
+Reference without parent accepted or common name	465	Huxley, TW.,	1852	NULL	W-Hol-145812
+Reference without parent accepted or common name	468	John, DD.	1939	NULL	W-Hol-145815
+Reference without parent accepted or common name	472	Keferstein, W.,	1862	NULL	W-Hol-145820
+Reference without parent accepted or common name	485	Levin, V. S.	2003	NULL	W-Hol-145837
+Reference without parent accepted or common name	487	Levin, V. S.; Stepanov, V. G.	1999	NULL	W-Hol-145839
+Reference without parent accepted or common name	488	Levin, V. S.; Stepanov, V. G.	2002	NULL	W-Hol-145840
+Reference without parent accepted or common name	498	Ludwig HL	1898	NULL	W-Hol-145851
+Reference without parent accepted or common name	501	Ludwig, H.	1892	NULL	W-Hol-145855
+Reference without parent accepted or common name	514	Marenzeller, E. von.	1893	NULL	W-Hol-145901
+Reference without parent accepted or common name	534	O'loughlin, P. M.; Alcock, N.	2000	NULL	W-Hol-145928
+Reference without parent accepted or common name	537	Östergren, H.	1896	NULL	W-Hol-145931
+Reference without parent accepted or common name	538	Östergren, H.,	1904	NULL	W-Hol-145933
+Reference without parent accepted or common name	544	Panning, A.,	1940	NULL	W-Hol-145939
+Reference without parent accepted or common name	561	Pawson, D. L.; Gust, C. A.	1981	NULL	W-Hol-145962
+Reference without parent accepted or common name	563	Pawson, D. L.; Caycedo, I. E.	1980	NULL	W-Hol-145965
+Reference without parent accepted or common name	573	Perrier, R.,	1899	NULL	W-Hol-145977
+Reference without parent accepted or common name	580	Petit, L.,	1885	NULL	W-Hol-145984
+Reference without parent accepted or common name	586	Reys, JP.	1959	NULL	W-Hol-145993
+Reference without parent accepted or common name	588	Rogacheva, A., I. A. Cross, and D. S. M. Billett.	2009	NULL	W-Hol-145995
+Reference without parent accepted or common name	597	Salvini-Plawen, L.v.,	1972	NULL	W-Hol-146004
+Reference without parent accepted or common name	600	Sars, M.	1859	NULL	W-Hol-146008
+Reference without parent accepted or common name	608	Semon R.,	1887	NULL	W-Hol-146017
+Reference without parent accepted or common name	625	Solis-Marin, F. A.	2005	NULL	W-Hol-146034
+Reference without parent accepted or common name	627	Steenstrup, J.,	1851	NULL	W-Hol-146036
+Reference without parent accepted or common name	628	Stepanov, V. G.; Pilganchuk, O. A.	2002	NULL	W-Hol-146037
+Reference without parent accepted or common name	629	Stimpson, W.,	1851	NULL	W-Hol-146038
+Reference without parent accepted or common name	631	Strussenfelt A.M.	1765	NULL	W-Hol-146042
+Reference without parent accepted or common name	639	Théel, H.,	1876	NULL	W-Hol-146054
+Reference without parent accepted or common name	641	Tommasi, LR.	1972	NULL	W-Hol-146057
+Reference without parent accepted or common name	647	Verrill, A. E.	1882	NULL	W-Hol-146067
+Reference without parent accepted or common name	664	Cross, I.A.; Gebruk, A.V.; Billett, D.; Rogacheva, A.V.	2012	NULL	W-Hol-165077
+Reference without parent accepted or common name	687	Ascanius, P.	1805	NULL	W-Hol-168111
+Reference without parent accepted or common name	723	Théel, H.,	1882	NULL	W-Hol-168160
+Reference without parent accepted or common name	732	Danielssen, D.; Koren, J.	1879	NULL	W-Hol-177399
+Reference without parent accepted or common name	735	Gebruk, A. V.	1989	NULL	W-Hol-190428
+Reference without parent accepted or common name	736	Bohn, J. M.; Heß, M.	2014	NULL	W-Hol-191618
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+CREATE TEMPORARY TABLE duplicates_to_delete AS SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
+(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
+(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+FROM scientific_names
+GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
+LEFT JOIN scientific_names sn
+ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_names USING scientific_names INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
+--------------
+
+--------------
+DELETE FROM common_names WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_names WHERE is_accepted_name != 1 AND accepted_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_names WHERE infraspecies_parent_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+--------------
+
+--------------
+DELETE QUICK FROM lifezone WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+OPTIMIZE TABLE lifezone
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Holothuroidea.lifezone	optimize	status	OK
+--------------
+DELETE QUICK FROM distribution WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+OPTIMIZE TABLE distribution
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Holothuroidea.distribution	optimize	status	OK
+--------------
+DELETE QUICK FROM scientific_names WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+--------------
+
+--------------
+OPTIMIZE TABLE scientific_names
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Holothuroidea.scientific_names	optimize	status	OK
+--------------
+DELETE QUICK FROM scientific_name_references WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_name_references WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+--------------
+
+--------------
+OPTIMIZE TABLE scientific_name_references
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Holothuroidea.scientific_name_references	optimize	status	OK
+--------------
+DELETE FROM specialists WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+--------------
+
+--------------
+DELETE QUICK FROM `references` WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
+UNION SELECT DISTINCT reference_code FROM common_names)
+--------------
+
+--------------
+OPTIMIZE TABLE `references`
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Holothuroidea.references	optimize	status	OK
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+CREATE TRIGGER delfamcascade AFTER DELETE ON `families`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `scientific_names` WHERE family_code = old.family_code;
+
+END;
+
+CREATE TRIGGER delspcascade AFTER DELETE ON `scientific_names`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+DELETE FROM `distribution` WHERE name_code = old.name_code;
+DELETE FROM `lifezone` WHERE name_code = old.name_code;
+DELETE FROM `scientific_name_references` WHERE name_code = old.name_code;
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+
+END;
+
+CREATE TRIGGER delrefscascade AFTER DELETE ON `scientific_name_references`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `references` WHERE reference_code = old.reference_code;
+
+END;
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+</pre>
+<pre>
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+\nEditorial and Integrity checks Completed.
+</pre>
+</pre><hr><b>Replacing sectors in Assembly Global database</b>\n<pre>
+<pre>
+Starting Sector Management
+--------------
+SET @dbid = 107
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+DELETE FROM ",
+@dbtouse,
+".`databases` WHERE `record_id` = @dbid")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`families` SELECT 
+NULL AS `record_id`,
+`hierarchy_code`,	
+`kingdom`,	
+`phylum`,	
+`class`,	
+`order`,	
+`family`,	
+`superfamily`, 	
+`database_id`, 	
+`family_code`,
+`is_accepted_name`
+FROM  `families`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`databases` SELECT 
+`database_name_displayed`, 
+`record_id`, 
+`database_name`, 
+`database_full_name`, 
+`web_site`, 
+`organization`, 
+`contact_person`, 
+`taxa`, 
+`taxonomic_coverage`, 
+`abstract`, 
+`version`, 
+`release_date`, 
+`SpeciesCount`, 
+`SpeciesEst`, 
+`authors_editors`, 
+`accepted_species_names`, 
+`accepted_infraspecies_names`, 
+`species_synonyms`, 
+`infraspecies_synonyms`, 
+`common_names`, 
+`total_names`, 
+`is_new`,
+`coverage`,
+`completeness`,
+`confidence`
+FROM `databases`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`scientific_names` 
+(`record_id`, `name_code`, `web_site`, `genus`, `subgenus`, `species`, `infraspecies_parent_name_code`, `infraspecies`, `infraspecies_marker`, `author`, `accepted_name_code`, `comment`, `scrutiny_date`, `sp2000_status_id`, `database_id`, `specialist_id`, `family_id`, `specialist_code`, `family_code`, `is_accepted_name`, `GSDTaxonGUID`, `GSDNameGUID`) SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`web_site`, 
+`genus`, 
+`subgenus`, 
+`species`, 
+`infraspecies_parent_name_code`, 
+`infraspecies`, 
+`infraspecies_marker`, 
+`author`, 
+`accepted_name_code`, 
+`comment`, 
+`scrutiny_date`, 
+`sp2000_status_id`, 
+`database_id`, 
+`specialist_id`, 
+`family_id`, 
+`specialist_code`, 
+`family_code`, 
+`is_accepted_name`, 
+`GSDTaxonGUID`, 
+`GSDNameGUID`
+FROM `scientific_names`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`common_names` SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`common_name`, 
+`transliteration`, 
+`language`, 
+`country`, 
+`area`, 
+NULL AS `reference_id`, 
+`database_id`, 
+`is_infraspecies`, 
+`reference_code`
+FROM  `common_names`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`distribution` SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`distribution`, 
+`StandardInUse`, 
+`DistributionStatus`,
+`database_id`
+FROM  `distribution`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`lifezone` SELECT 
+NULL AS `record_id`,
+`name_code`, 	
+`lifezone`,
+`database_id`
+FROM  `lifezone`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`scientific_name_references` SELECT 
+NULL AS `record_id`,
+`name_code`,	
+`reference_type`, 	
+NULL AS `reference_id`,	
+`reference_code`,
+`database_id`
+FROM  `scientific_name_references`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`references` SELECT 
+NULL AS `record_id`, 
+`author`, 
+`year`, 
+`title`, 
+`source`, 
+`database_id`, 
+`reference_code`
+FROM  `references`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`specialists` SELECT 
+NULL AS `record_id`,
+`specialist_name`,
+`specialist_code`,
+`database_id`
+FROM  `specialists`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+\nTransformations Completed.
+<pre>
+</pre><hr><b>Chain completed</b>
+</body></html>

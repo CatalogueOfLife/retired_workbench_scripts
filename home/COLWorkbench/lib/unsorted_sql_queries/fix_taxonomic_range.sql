@@ -1,0 +1,1 @@
+SELECT CONCAT("UPDATE _source_database_details SET taxonomic_coverage = '", taxonomic_coverage, "' WHERE id = ", record_id, ";") FROM `databases`

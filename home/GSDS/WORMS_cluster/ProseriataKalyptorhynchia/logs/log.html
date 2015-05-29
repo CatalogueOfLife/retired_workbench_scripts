@@ -1,0 +1,1900 @@
+<html><body>
+<br><b>Harvesting...</b>
+<pre>
+</pre><hr><b>File format conversions...</b>
+<pre>
+Unzipping
+Archive:  WoRMS_Proser-Kalyptor.zip
+Skipping format conversion
+</pre><hr><b>Creating buffer database, performing structural transformations...</b>
+<pre>
+<pre>
+Initiating buffer creation - this may take a while depending on size of the dataset...
+
+Creating buffer database Buffer_ProseriataKalyptorhynchia in schema as provided by ProseriataKalyptorhynchia
+--------------
+DROP DATABASE IF EXISTS Buffer_ProseriataKalyptorhynchia
+--------------
+
+--------------
+CREATE DATABASE IF NOT EXISTS Buffer_ProseriataKalyptorhynchia
+--------------
+
+--------------
+CREATE TABLE `AcceptedInfraSpecificTaxa` (
+`AcceptedTaxonID` varchar(50) PRIMARY KEY,
+`ParentSpeciesID` varchar(50) default NULL,
+`InfraSpeciesEpithet` varchar(50) default NULL,
+`InfraSpecificAuthorString` varchar(50) default NULL,
+`InfraSpecificMarker` varchar(10) default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`IsFossil` tinyint(1) default NULL,
+`LifeZone` varchar(50) default NULL,
+`AdditionalData` varchar(255) default NULL,
+`LTSSpecialist` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`LTSDate` varchar(50) default NULL,
+`InfraSpeciesURL` varchar(255) default NULL,
+`GSDTaxonGUI` varchar(255) default NULL,
+`GSDNameGUI`  varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `AcceptedSpecies` (
+`AcceptedTaxonID` varchar(50) PRIMARY KEY,
+`Kingdom` varchar(50) default NULL,
+`Phylum` varchar(50) default NULL,
+`Class` varchar(50) default NULL,
+`Order` varchar(50) default NULL,
+`Superfamily` varchar(50) default NULL,
+`Family` varchar(50) default NULL,
+`Genus` varchar(50) default NULL,
+`SubGenusName` varchar(50) default NULL,
+`Species` varchar(50) default NULL,
+`AuthorString` varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`IsFossil` tinyint(1) default NULL,
+`LifeZone` varchar(50) default NULL,
+`AdditionalData` varchar(255) default NULL,
+`LTSSpecialist` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`LTSDate` varchar(50) default NULL,
+`SpeciesURL` varchar(255) default NULL,
+`GSDTaxonGUI` varchar(255) default NULL,
+`GSDNameGUI` varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `CommonNames` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`CommonName` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Transliteration` varchar(255) default NULL,
+`Language` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`Country`  varchar(255) default NULL,
+`Area`  varchar(255) default NULL,
+`ReferenceID` varchar(50) default NULL,
+PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE = utf8_general_ci
+--------------
+
+--------------
+CREATE TABLE `Distribution` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`Distribution` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`StandardInUse` varchar(50) default NULL,
+`DistributionStatus` varchar(50) default NULL,
+PRIMARY KEY (`record_id`) 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE = utf8_general_ci
+--------------
+
+--------------
+CREATE TABLE `References` (
+`ReferenceID` varchar(50) PRIMARY KEY,
+`Authors` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`Year` varchar(255) default NULL,
+`Title` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Details` varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `NameReferencesLinks` (
+`ID` integer(10) PRIMARY KEY,
+`ReferenceType` varchar(50) default NULL,
+`ReferenceID` varchar(50) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `SourceDatabase` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`DatabaseFullName` varchar(255) NOT NULL,
+`DatabaseShortName` varchar(50) NOT NULL,
+`DatabaseVersion` varchar(50) NOT NULL,
+`ReleaseDate` varchar(50) NOT NULL,
+`AuthorsEditors` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`TaxonomicCoverage` varchar(255) NOT NULL,
+`GroupNameInEnglish` varchar(255) NOT NULL,
+`Abstract` text  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Organisation` varchar(255) NOT NULL,
+`HomeURL` varchar(255) default NULL,
+`Coverage` varchar(50) default NULL,
+`Completeness` integer(3) default NULL,
+`Confidence` integer(1) default NULL,
+`LogoFileName`  varchar(255) default NULL,
+`ContactPerson` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+PRIMARY KEY (`record_id`) 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `Synonyms` (
+`ID` integer(10) PRIMARY KEY,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`Genus` varchar(50) NOT NULL,
+`SubGenusName` varchar(50) default NULL,
+`Species` varchar(50) NOT NULL,
+`AuthorString` varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`InfraSpecies` varchar(50) default NULL,
+`InfraSpecificMarker` varchar(50) default NULL,
+`InfraSpecificAuthorString`  varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`GSDNameGUI` varchar(255) default NULL 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'AcceptedInfraSpecificTaxa.txt' INTO TABLE `AcceptedInfraSpecificTaxa` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES 
+(`AcceptedTaxonID`, `ParentSpeciesID`, `InfraSpeciesEpithet`, `InfraSpecificAuthorString`,  `InfraSpecificMarker`, `GSDNameStatus`,  `Sp2000NameStatus`, `IsFossil`, `LifeZone`, `AdditionalData`, `LTSSpecialist`, `LTSDate`, `InfraSpeciesURL`, `GSDTaxonGUI`, `GSDNameGUI`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'AcceptedSpecies.txt' INTO TABLE `AcceptedSpecies` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `Kingdom`, `Phylum`, `Class`, `Order`, `Superfamily`, `Family`, `Genus`, `SubGenusName`, `Species`, `AuthorString`, `GSDNameStatus`, `Sp2000NameStatus`, `IsFossil`, `LifeZone`, `AdditionalData`, `LTSSpecialist`, `LTSDate`, `SpeciesURL`, `GSDTaxonGUI`, `GSDNameGUI`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'CommonNames.txt' INTO TABLE `CommonNames` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `CommonName`, `Transliteration`, `Country`, `Area`, `Language`, `ReferenceID`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'Distribution.txt' INTO TABLE `Distribution` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `Distribution`, `StandardInUse`, `DistributionStatus`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'NameReferencesLinks.txt' INTO TABLE NameReferencesLinks CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ID`, `ReferenceType`, `ReferenceID`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'References.txt' INTO TABLE `References` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ReferenceID`, `Authors`, `Year`, `Title`, `Details`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'SourceDatabase.txt' INTO TABLE `SourceDatabase` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`DatabaseFullName`, `DatabaseShortName`, `DatabaseVersion`, `ReleaseDate`, `AuthorsEditors`, `TaxonomicCoverage`, `GroupNameInEnglish`, `Abstract`, `Organisation`, `HomeURL`, `Coverage`, `Completeness`, `Confidence`, `LogoFileName`, `ContactPerson`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'Synonyms.txt' INTO TABLE `Synonyms` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ID`, `AcceptedTaxonID`, `Genus`, `SubGenusName`, `Species`, `AuthorString`, `InfraSpecies`, `InfraSpecificMarker`, `InfraSpecificAuthorString`, `GSDNameStatus`, `Sp2000NameStatus`, `GSDNameGUI`)
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+Initial database created. Creating database Assembly_ProseriataKalyptorhynchia in assembly schema
+--------------
+DROP DATABASE IF EXISTS Assembly_ProseriataKalyptorhynchia
+--------------
+
+--------------
+CREATE DATABASE IF NOT EXISTS Assembly_ProseriataKalyptorhynchia
+--------------
+
+--------------
+DROP TABLE IF EXISTS `databases`
+--------------
+
+--------------
+CREATE TABLE  `databases` (
+  `database_name_displayed` varchar(125) DEFAULT NULL,
+  `record_id` int(10) NOT NULL AUTO_INCREMENT,
+  `database_name` varchar(150) DEFAULT NULL,
+  `database_full_name` varchar(100) NOT NULL DEFAULT '',
+  `web_site` longtext,
+  `organization` longtext,
+  `contact_person` varchar(255) DEFAULT NULL,
+  `taxa` varchar(255) DEFAULT NULL,
+  `taxonomic_coverage` longtext,
+  `abstract` longtext,
+  `version` varchar(255) DEFAULT NULL,
+  `release_date` date DEFAULT '0000-00-00',
+  `SpeciesCount` int(11) DEFAULT 0,
+  `SpeciesEst` int(11) DEFAULT 0,
+  `authors_editors` longtext,
+  `accepted_species_names` int(10) DEFAULT 0,
+  `accepted_infraspecies_names` int(10) DEFAULT 0,
+  `species_synonyms` int(10) DEFAULT 0,
+  `infraspecies_synonyms` int(10) DEFAULT 0,
+  `common_names` int(10) DEFAULT 0,
+  `total_names` int(10) DEFAULT 0,
+  `is_new` tinyint(1) NOT NULL DEFAULT 0,
+  `coverage` varchar(45) DEFAULT NULL,
+  `completeness` int(3) unsigned DEFAULT 0,
+  `confidence` 	tinyint(1) unsigned DEFAULT 0,
+  PRIMARY KEY (`record_id`),
+  KEY `database_name` (`database_name`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `families`
+--------------
+
+--------------
+CREATE TABLE  `families` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `hierarchy_code` varchar(250) NOT NULL,
+  `kingdom` varchar(50) NOT NULL DEFAULT 'Not Assigned',
+  `phylum` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `class` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `order` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `family` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `superfamily` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  `family_code` varchar(50) NOT NULL,
+  `is_accepted_name` int(1) unsigned,
+  PRIMARY KEY (`record_id`),
+  KEY (`family_code`),
+  KEY `kingdom` (`kingdom`),
+  KEY `phylum` (`phylum`),
+  KEY `class` (`class`),
+  KEY `order` (`order`),
+  KEY `family` (`family`),
+  KEY `superfamily` (`superfamily`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `sp2000_statuses`
+--------------
+
+--------------
+CREATE TABLE  `sp2000_statuses` (
+  `record_id` int(1) NOT NULL AUTO_INCREMENT,
+  `sp2000_status` varchar(50) NOT NULL DEFAULT '',
+  PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM
+--------------
+
+--------------
+DROP TABLE IF EXISTS `scientific_names`
+--------------
+
+--------------
+CREATE TABLE  `scientific_names` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `web_site` longtext,
+  `genus` varchar(50) DEFAULT NULL,
+  `subgenus` varchar(50) DEFAULT NULL,
+  `species` varchar(60) DEFAULT NULL,
+  `infraspecies_parent_name_code` varchar(42) DEFAULT NULL,
+  `infraspecies` varchar(50) DEFAULT NULL,
+  `infraspecies_marker` varchar(50) DEFAULT NULL,
+  `author` varchar(100) DEFAULT NULL,
+  `accepted_name_code` varchar(42) DEFAULT NULL,
+  `comment` longtext,
+  `scrutiny_date` text,
+  `sp2000_status_id` int(1) DEFAULT NULL,
+  `database_id` int(10) DEFAULT NULL,
+  `specialist_id` int(10) DEFAULT NULL,
+  `family_id` int(10) DEFAULT NULL,
+  `specialist_code` varchar(50) DEFAULT NULL,
+  `family_code` varchar(50) DEFAULT NULL,
+  `is_accepted_name` int(1) DEFAULT NULL,
+  `GSDTaxonGUID` longtext,
+  `GSDNameGUID` longtext,
+  PRIMARY KEY (`record_id`,`name_code`),
+  KEY `database_id` (`database_id`),
+  KEY `family_id` (`family_id`),
+  KEY `species` (`species`),
+  KEY `infraspecies` (`infraspecies`),
+  KEY `accepted_name_code` (`accepted_name_code`),
+  KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
+  KEY `name_code1` (`name_code`,`family_id`),
+  KEY `record_id` (`record_id`,`family_id`),
+  KEY `genus` (`genus`,`species`,`infraspecies`),
+  KEY `sp2000_status_id` (`sp2000_status_id`),
+  KEY `sp2000_status_id_2` (`sp2000_status_id`,`database_id`,`infraspecies`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `common_names`
+--------------
+
+--------------
+CREATE TABLE  `common_names` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL DEFAULT '',
+  `common_name` varchar(700) NOT NULL,
+  `transliteration` varchar(700),
+  `language` varchar(25) NOT NULL,
+  `country` varchar(44) NOT NULL DEFAULT '',
+  `area` varchar(50) DEFAULT NULL,
+  `reference_id` int(10) DEFAULT '0',
+  `database_id` int(10) NOT NULL,
+  `is_infraspecies` int(1) NOT NULL DEFAULT '0',
+  `reference_code` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `common_name` (`common_name`),
+  KEY `name_code` (`name_code`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `distribution`
+--------------
+
+--------------
+CREATE TABLE  `distribution` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `distribution` longtext,
+  `StandardInUse` varchar(255) DEFAULT NULL,
+  
+   `DistributionStatus` varchar(255),
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`),
+  KEY `database_id` (`database_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `lifezone`
+--------------
+
+--------------
+CREATE TABLE  `lifezone` (
+  `record_id` int(11) NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42),
+  `lifezone` varchar(255),
+  `database_id` int(10),
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`),
+  KEY `database_id` (`database_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `scientific_name_references`
+--------------
+
+--------------
+CREATE TABLE  `scientific_name_references` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL DEFAULT '',
+  `reference_type` varchar(10) DEFAULT NULL,
+  `reference_id` int(10) DEFAULT '0',
+  `reference_code` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`,`reference_id`,`reference_type`),
+  KEY `name_code_2` (`name_code`,`reference_type`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `references`
+--------------
+
+--------------
+CREATE TABLE  `references` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `author` varchar(200) DEFAULT NULL,
+  `year` varchar(50) DEFAULT NULL,
+  `title` longtext,
+  `source` longtext,
+  `database_id` int(10) NOT NULL,
+  `reference_code` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `specialists`
+--------------
+
+--------------
+CREATE TABLE  `specialists` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `specialist_name` varchar(255) NOT NULL DEFAULT '',
+  `specialist_code` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+INSERT INTO `sp2000_statuses` 
+VALUES (1,'accepted name'),
+(2,'ambiguous synonym'),
+(3,'misapplied name'),
+(4,'provisionally accepted name'),
+(5,'synonym')
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+CREATE TRIGGER delfamcascade AFTER DELETE ON `families`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `scientific_names` WHERE family_code = old.family_code;
+
+END;
+
+CREATE TRIGGER delspcascade AFTER DELETE ON `scientific_names`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+DELETE FROM `distribution` WHERE name_code = old.name_code;
+DELETE FROM `lifezone` WHERE name_code = old.name_code;
+DELETE FROM `scientific_name_references` WHERE name_code = old.name_code;
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+
+END;
+
+CREATE TRIGGER delrefscascade AFTER DELETE ON `scientific_name_references`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `references` WHERE reference_code = old.reference_code;
+
+END;
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Creation of the assembly database completed.
+
+Starting structural transformations (ACEF3 to ACI)
+--------------
+SET @dbid = 60
+--------------
+
+--------------
+SET @dbabbr = 'W-Rha-'
+--------------
+
+--------------
+SET @dbtouse = 'Buffer_ProseriataKalyptorhynchia'
+--------------
+
+--------------
+SET foreign_key_checks = 0
+--------------
+
+--------------
+TRUNCATE TABLE `databases`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `databases` 
+ SELECT
+ CONCAT(`DatabaseShortName`, ': ', `DatabaseFullName`)  AS `database_name_displayed`,
+ @dbid AS `record_id`,
+ `DatabaseShortName` AS `database_name`,
+ `DatabaseFullName` AS `database_full_name`,
+  `HomeURL` AS `web_site`,
+  `Organisation` AS `organization`,
+  `ContactPerson` AS `contact_person`,
+  `GroupNameInEnglish` AS `taxa`,
+  `TaxonomicCoverage` AS `taxonomic_coverage`,
+  `Abstract` AS `abstract`,
+  `DatabaseVersion` AS `version`,
+  `ReleaseDate` AS `release_date`,
+  `Coverage` AS `SpeciesCount`,
+  `Completeness` AS `SpeciesEst`,
+  `AuthorsEditors` AS `authors_editors`,
+  NULL AS `accepted_species_names`,
+  NULL AS `accepted_infraspecies_names`,
+  NULL AS `species_synonyms`,
+  NULL AS `infraspecies_synonyms`,
+  NULL AS `common_names`,
+  NULL AS `total_names`,
+  NULL AS `is_new`,
+  NULL AS `coverage`,
+  NULL AS `completeness`,
+  NULL AS `confidence`
+  FROM ",
+@dbtouse,
+".`SourceDatabase`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `distribution`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `distribution` 
+ SELECT
+ NULL AS `record_id`,
+ CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
+ `Distribution` AS `distribution`,
+ `StandardInUse` AS `StandardInUse`, 
+ `DistributionStatus` AS `DistributionStatus`,
+@dbid AS `database_id`
+ FROM ",
+@dbtouse,
+".`Distribution`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `families`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `families`
+SELECT DISTINCT
+NULL AS `record_id`,
+NULL AS `hierarchy_code`,
+`Kingdom` AS `kingdom`,
+`Phylum` AS `phylum`,
+`Class` AS `class`,
+`Order` AS `order`,
+`Family` AS `family`,
+`Superfamily` AS `superfamily`,
+@dbid AS `database_id`,
+NULL AS `family_code`,
+NULL AS `is_accepted_name`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+UPDATE `families` SET `family_code` = CONCAT(@dbabbr,record_id)
+--------------
+
+--------------
+TRUNCATE TABLE `specialists`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `specialists`
+SELECT DISTINCT 
+NULL  AS `record_id`,
+`LTSSpecialist` AS `specialist_name`,
+NULL AS `specialist_code`,
+@dbid AS `database_id`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies` 
+WHERE `LTSSpecialist` IS NOT NULL OR 
+`LTSSpecialist` != ''")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+UPDATE `specialists` SET `specialist_code` = CONCAT(@dbabbr,record_id)
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_names`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
+`SpeciesURL` AS `web_site`,
+`Genus` AS `genus`,
+`SubGenusName` AS `subgenus`,
+`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+NULL  AS `infraspecies`,
+NULL  AS `infraspecies_marker`,
+`AuthorString` AS `author`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `accepted_name_code`,
+`AdditionalData` AS `comment`,
+`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+`specialists`.`record_id` AS `specialist_id`,
+`families`.`record_id` AS `family_id`,
+`specialists`.`specialist_code` AS `specialist_code`,
+`families`.`family_code` AS `family_code`,
+1 AS `is_accepted_name`,
+`GSDTaxonGUI` AS `GSDTaxonGUI`,
+`GSDNameGUI` AS `GSDNameGUI`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies` AcceptedSpecies
+LEFT OUTER JOIN `families` ON 
+(`AcceptedSpecies`.`Kingdom` = `families`.`kingdom` AND
+`AcceptedSpecies`.`Phylum` = `families`.`phylum` AND
+`AcceptedSpecies`.`Class` = `families`.`class` AND
+`AcceptedSpecies`.`Order` = `families`.`order` AND
+`AcceptedSpecies`.`Superfamily` = `families`.`superfamily` AND
+`AcceptedSpecies`.`Family` = `families`.`family`)
+LEFT OUTER JOIN `specialists` ON
+`AcceptedSpecies`.`LTSSpecialist` = `specialists`.`specialist_name`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`AcceptedSpecies`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
+WHERE `AcceptedSpecies`.`IsFossil` = 0")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `lifezone`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `lifezone`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
+`LifeZone` AS `lifezone`,
+@dbid AS `database_id`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`
+WHERE `LifeZone` IN('marine','freshwater','Marine','Freshwater')")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AIT`.`AcceptedTaxonID`) AS `name_code`,
+NULL AS `web_site`,
+`sn`.`genus` AS `genus`,
+NULL AS `subgenus`,
+`sn`.`species` AS `species`,
+CONCAT(@dbabbr,`AIT`.`ParentSpeciesID`) AS `infraspecies_parent_name_code`,
+`AIT`.`InfraSpeciesEpithet` AS `infraspecies`,
+`AIT`.`InfraSpecificMarker` AS `infraspecies_marker`,
+`AIT`.`InfraSpecificAuthorString` AS `author`,
+CONCAT(@dbabbr,`AIT`.`AcceptedTaxonID`) AS `accepted_name_code`,
+`AIT`.`AdditionalData` AS `comment`,
+`AIT`.`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+`specialists`.`specialist_code` AS `specialist_code`,
+sn.family_code AS `family_code`,
+1 AS `is_accepted_name`,
+NULL AS `GSDTaxonGUI`,
+`AIT`.`GSDNameGUI` AS `GSDNameGUI` 
+FROM ",
+@dbtouse,
+".`AcceptedInfraSpecificTaxa` AIT
+LEFT OUTER JOIN scientific_names sn ON
+CONCAT(@dbabbr,`AIT`.`ParentSpeciesID`) = `sn`.`name_code`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`AIT`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
+LEFT OUTER JOIN `specialists` ON
+`AIT`.`LTSSpecialist` = `specialists`.`specialist_name`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`Synonyms`.`ID`) AS `name_code`,
+NULL AS `web_site`,
+`Synonyms`.`Genus` AS `genus`,
+`Synonyms`.`SubGenusName` AS `subgenus`,
+`Synonyms`.`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+`Synonyms`.`InfraSpecies` AS `infraspecies`,
+`Synonyms`.`InfraSpecificMarker` AS `infraspecies_marker`,
+`Synonyms`.`AuthorString` AS `author`,
+CONCAT(@dbabbr,`Synonyms`.`AcceptedTaxonID`) AS `accepted_name_code`,
+NULL AS `comment`,
+NULL AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+sn.`specialist_code` AS `specialist_code`,
+sn.`family_code` AS `family_code`,
+0 AS `is_accepted_name`,
+NULL AS `GSDTaxonGUI`,
+`Synonyms`.`GSDNameGUI` AS `GSDNameGUI` 
+FROM ",
+@dbtouse,
+".`Synonyms` Synonyms
+LEFT OUTER JOIN scientific_names sn ON
+CONCAT(@dbabbr,`Synonyms`.`AcceptedTaxonID`) = `sn`.`name_code`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`Synonyms`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `common_names`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `common_names` 
+SELECT
+NULL, 
+CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
+CONVERT(`CommonName` USING utf8) AS `common_name`,
+`Transliteration` AS `transliteration`,
+`Language` AS `language`,
+`Country` AS `country`,
+`Area` AS `area`,
+ NULL AS `reference_ID`,
+@dbid AS `database_ID`,
+ NULL AS `is_infraspecies`,
+ `ReferenceID` AS `reference_code`
+ FROM ",
+@dbtouse,
+".`CommonNames`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `references`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `references` 
+SELECT
+NULL AS `record_id`, 
+`Authors` AS `author`,
+`Year` AS `year`,
+NULL AS `title`,
+`Title` AS `source`,
+@dbid AS `database_id`,
+CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`
+ FROM ",
+@dbtouse,
+".`References`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_name_references`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_name_references` 
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr, `ID`) AS `name_code`,	
+`ReferenceType` AS `reference_type`,	
+NULL AS `reference_id`,
+CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`,
+@dbid AS `database_id`
+ FROM ",
+@dbtouse,
+".`NameReferencesLinks`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET foreign_key_checks = 1
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Data Loaded.
+</pre>
+</pre><hr><b>Backing up...</b>
+<pre>
+Creating directory  23_26_05_05Apr2013
+Backing up files
+</pre><hr><b>Executing local editorial checks</b>
+<pre>
+<pre>
+Integrity and editorial checks - this may take a while depending on size of the dataset...
+
+Starting local editorial transformations
+--------------
+DELETE FROM `common_names` WHERE `common_name` IS NULL OR `common_name` = ""
+--------------
+
+--------------
+DELETE FROM `distribution` WHERE `distribution` IS NULL OR `distribution` = ""
+--------------
+
+--------------
+DELETE FROM `references` WHERE (`title` IS NULL OR `title` = "") AND (`author` IS NULL OR `author` = "")
+--------------
+
+--------------
+DELETE FROM `specialists` WHERE `specialist_name` IS NULL OR `specialist_name` = ""
+--------------
+
+--------------
+DELETE FROM `scientific_names` WHERE (`species` IS NULL OR `species` LIKE "%sp.%" OR `species` LIKE "%spp.%") AND `infraspecies` IS NULL
+--------------
+
+--------------
+DELETE FROM `scientific_names` WHERE `genus` IS NULL OR `genus` = "" OR genus like "% %" OR `genus` LIKE '%sp.%' OR `genus` LIKE "%spp.%"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `family_id` = NULL
+--------------
+
+--------------
+UPDATE `scientific_names` SET `specialist_id` = NULL
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "forma" WHERE `infraspecies_marker` LIKE "f.%"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "var." WHERE `infraspecies_marker` LIKE "Variety"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "subsp." WHERE `infraspecies_marker` LIKE "Subspecies"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `sp2000_status_id` = 5 WHERE `sp2000_status_id` IS NULL AND `is_accepted_name` = 0
+--------------
+
+--------------
+UPDATE `families` SET `family` = "Not assigned" WHERE `family` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `order` = "Not assigned" WHERE `order` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `class` = "Not assigned" WHERE `class` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `phylum` = "Not assigned" WHERE `phylum` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `kingdom` = "Not assigned" WHERE `kingdom` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `family` = "Not assigned" WHERE (`family` IS NULL OR `family` = '')
+--------------
+
+--------------
+UPDATE `families` SET `order` = "Not assigned" WHERE (`order` IS NULL OR `order` = '')
+--------------
+
+--------------
+UPDATE `families` SET `class` = "Not assigned" WHERE (`class` IS NULL OR `class` = '')
+--------------
+
+--------------
+UPDATE `families` SET `phylum` = "Not assigned" WHERE (`phylum` IS NULL OR `phylum` = '')
+--------------
+
+--------------
+UPDATE `families` SET `kingdom` = "Not assigned" WHERE (`kingdom` IS NULL OR `kingdom` = '')
+--------------
+
+--------------
+UPDATE `families` SET `hierarchy_code` = CONCAT(`kingdom`,'-',`phylum`,'-',`class`,'-',`order`,'-',`family`)
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "subsequent type designation%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "Nom%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "taxonomy source%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "additional source%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "original description%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "source of synonymy%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "basis of record%"
+--------------
+
+--------------
+UPDATE `databases` SET database_name_displayed = REPLACE(database_name_displayed,'_',' ')
+--------------
+
+--------------
+UPDATE `databases` SET database_name = REPLACE(database_name,'_',' ')
+--------------
+
+--------------
+UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ',', '')
+--------------
+
+--------------
+UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ';', ',')
+--------------
+
+--------------
+SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+--------------
+
+--------------
+SELECT "Accepted name to be retained", MAX(name_code), genus, species, infraspecies_marker, infraspecies, author FROM
+(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn
+ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author
+--------------
+
+--------------
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
+(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
+(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+FROM scientific_names
+GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
+LEFT JOIN scientific_names sn
+ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+--------------
+
+--------------
+SELECT 'Common name without parent accepted name', record_id, common_name, name_code FROM common_names
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+CREATE TEMPORARY TABLE scientific_names_tmp AS SELECT * FROM scientific_names
+--------------
+
+--------------
+SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, species, infraspecies, accepted_name_code FROM scientific_names
+WHERE is_accepted_name != 1 AND family_code IS NULL
+--------------
+
+--------------
+SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, species, infraspecies, infraspecies_parent_name_code FROM scientific_names WHERE LENGTH(infraspecies)>1  AND family_code IS NULL
+--------------
+
+--------------
+SELECT 'Lifezone without parent accepted name', record_id, name_code, lifezone FROM lifezone
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+SELECT 'Distribution without parent accepted name', record_id, name_code, distribution FROM distribution
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+SELECT 'Accepted name without parent family', record_id, name_code, genus, species, infraspecies, family_code FROM scientific_names
+WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+--------------
+
+--------------
+SELECT 'Reference link to non-existing accepted name', record_id, reference_code, name_code FROM scientific_name_references
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+Reference link to non-existing accepted name	record_id	reference_code	name_code
+Reference link to non-existing accepted name	14	W-Rha-1359	W-Rha-143175
+Reference link to non-existing accepted name	21	W-Rha-1359	W-Rha-143209
+Reference link to non-existing accepted name	67	W-Rha-2307	W-Rha-152883
+Reference link to non-existing accepted name	117	W-Rha-1359	W-Rha-143069
+Reference link to non-existing accepted name	136	W-Rha-1359	W-Rha-143205
+Reference link to non-existing accepted name	165	W-Rha-1359	W-Rha-143596
+Reference link to non-existing accepted name	184	W-Rha-2697	W-Rha-154159
+Reference link to non-existing accepted name	190	W-Rha-2114	W-Rha-154792
+Reference link to non-existing accepted name	208	W-Rha-2809	W-Rha-155715
+Reference link to non-existing accepted name	209	W-Rha-2760	W-Rha-155719
+Reference link to non-existing accepted name	314	W-Rha-2866	W-Rha-155700
+Reference link to non-existing accepted name	315	W-Rha-2210	W-Rha-155701
+Reference link to non-existing accepted name	355	W-Rha-1359	W-Rha-143555
+Reference link to non-existing accepted name	364	W-Rha-1807	W-Rha-143656
+Reference link to non-existing accepted name	385	W-Rha-2697	W-Rha-154768
+Reference link to non-existing accepted name	403	W-Rha-2886	W-Rha-155985
+Reference link to non-existing accepted name	550	W-Rha-2834	W-Rha-153484
+Reference link to non-existing accepted name	562	W-Rha-2809	W-Rha-155219
+Reference link to non-existing accepted name	583	W-Rha-2811	W-Rha-176584
+Reference link to non-existing accepted name	598	W-Rha-2111	W-Rha-143202
+Reference link to non-existing accepted name	617	W-Rha-1359	W-Rha-143620
+Reference link to non-existing accepted name	657	W-Rha-2866	W-Rha-155702
+Reference link to non-existing accepted name	659	W-Rha-2460	W-Rha-155710
+Reference link to non-existing accepted name	660	W-Rha-2760	W-Rha-155722
+Reference link to non-existing accepted name	676	W-Rha-1359	W-Rha-143204
+Reference link to non-existing accepted name	722	W-Rha-2866	W-Rha-155697
+Reference link to non-existing accepted name	792	W-Rha-2866	W-Rha-155703
+Reference link to non-existing accepted name	793	W-Rha-2760	W-Rha-155721
+Reference link to non-existing accepted name	843	W-Rha-2697	W-Rha-153015
+Reference link to non-existing accepted name	844	W-Rha-2113	W-Rha-153254
+Reference link to non-existing accepted name	868	W-Rha-2210	W-Rha-155699
+Reference link to non-existing accepted name	869	W-Rha-2760	W-Rha-155711
+Reference link to non-existing accepted name	942	W-Rha-1359	W-Rha-143110
+Reference link to non-existing accepted name	956	W-Rha-2697	W-Rha-153000
+Reference link to non-existing accepted name	958	W-Rha-2697	W-Rha-153566
+Reference link to non-existing accepted name	960	W-Rha-2839	W-Rha-154141
+Reference link to non-existing accepted name	962	W-Rha-2697	W-Rha-154209
+Reference link to non-existing accepted name	975	W-Rha-2210	W-Rha-155691
+Reference link to non-existing accepted name	976	W-Rha-2105	W-Rha-155717
+Reference link to non-existing accepted name	987	W-Rha-1359	W-Rha-143174
+Reference link to non-existing accepted name	1010	W-Rha-2809	W-Rha-155218
+Reference link to non-existing accepted name	1018	W-Rha-2866	W-Rha-155693
+Reference link to non-existing accepted name	1019	W-Rha-2410	W-Rha-155723
+Reference link to non-existing accepted name	1027	W-Rha-2811	W-Rha-176585
+Reference link to non-existing accepted name	1028	W-Rha-2809	W-Rha-178533
+Reference link to non-existing accepted name	1055	W-Rha-2307	W-Rha-154144
+Reference link to non-existing accepted name	1079	W-Rha-1359	W-Rha-143206
+Reference link to non-existing accepted name	1089	W-Rha-2307	W-Rha-152882
+Reference link to non-existing accepted name	1106	W-Rha-2210	W-Rha-155695
+Reference link to non-existing accepted name	1107	W-Rha-2866	W-Rha-155725
+Reference link to non-existing accepted name	1147	W-Rha-2697	W-Rha-154153
+Reference link to non-existing accepted name	1167	W-Rha-2811	W-Rha-176746
+--------------
+SELECT 'Reference link to non-existing reference', record_id, reference_code, name_code FROM scientific_name_references
+WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+--------------
+
+Reference link to non-existing reference	record_id	reference_code	name_code
+Reference link to non-existing reference	54	W-Rha-820	W-Rha-152460
+Reference link to non-existing reference	64	W-Rha-2809	W-Rha-152613
+Reference link to non-existing reference	76	W-Rha-2809	W-Rha-154817
+Reference link to non-existing reference	83	W-Rha-2809	W-Rha-155136
+Reference link to non-existing reference	85	W-Rha-2809	W-Rha-155302
+Reference link to non-existing reference	86	W-Rha-2809	W-Rha-155319
+Reference link to non-existing reference	88	W-Rha-2809	W-Rha-155587
+Reference link to non-existing reference	104	W-Rha-2809	W-Rha-156021
+Reference link to non-existing reference	112	W-Rha-2809	W-Rha-178983
+Reference link to non-existing reference	193	W-Rha-2809	W-Rha-154906
+Reference link to non-existing reference	199	W-Rha-2809	W-Rha-155140
+Reference link to non-existing reference	207	W-Rha-2809	W-Rha-155706
+Reference link to non-existing reference	208	W-Rha-2809	W-Rha-155715
+Reference link to non-existing reference	224	W-Rha-2809	W-Rha-156051
+Reference link to non-existing reference	228	W-Rha-2809	W-Rha-156178
+Reference link to non-existing reference	231	W-Rha-2809	W-Rha-178979
+Reference link to non-existing reference	267	W-Rha-2809	W-Rha-143513
+Reference link to non-existing reference	281	W-Rha-2809	W-Rha-152536
+Reference link to non-existing reference	283	W-Rha-2809	W-Rha-152622
+Reference link to non-existing reference	284	W-Rha-2809	W-Rha-152672
+Reference link to non-existing reference	304	W-Rha-2809	W-Rha-155144
+Reference link to non-existing reference	305	W-Rha-2809	W-Rha-155145
+Reference link to non-existing reference	310	W-Rha-2809	W-Rha-155677
+Reference link to non-existing reference	325	W-Rha-2809	W-Rha-156148
+Reference link to non-existing reference	368	W-Rha-2809	W-Rha-152593
+Reference link to non-existing reference	391	W-Rha-2809	W-Rha-155299
+Reference link to non-existing reference	401	W-Rha-2809	W-Rha-155935
+Reference link to non-existing reference	430	W-Rha-2809	W-Rha-143210
+Reference link to non-existing reference	451	W-Rha-820	W-Rha-152470
+Reference link to non-existing reference	457	W-Rha-2809	W-Rha-152706
+Reference link to non-existing reference	465	W-Rha-2809	W-Rha-154257
+Reference link to non-existing reference	478	W-Rha-2809	W-Rha-155142
+Reference link to non-existing reference	479	W-Rha-2809	W-Rha-155143
+Reference link to non-existing reference	501	W-Rha-2809	W-Rha-178978
+Reference link to non-existing reference	538	W-Rha-2809	W-Rha-152462
+Reference link to non-existing reference	552	W-Rha-2809	W-Rha-154100
+Reference link to non-existing reference	560	W-Rha-2809	W-Rha-154853
+Reference link to non-existing reference	562	W-Rha-2809	W-Rha-155219
+Reference link to non-existing reference	563	W-Rha-2809	W-Rha-155304
+Reference link to non-existing reference	565	W-Rha-2809	W-Rha-155321
+Reference link to non-existing reference	568	W-Rha-2809	W-Rha-155572
+Reference link to non-existing reference	569	W-Rha-2809	W-Rha-155585
+Reference link to non-existing reference	578	W-Rha-2809	W-Rha-155789
+Reference link to non-existing reference	585	W-Rha-2809	W-Rha-178985
+Reference link to non-existing reference	586	W-Rha-42	W-Rha-234086
+Reference link to non-existing reference	620	W-Rha-2809	W-Rha-152592
+Reference link to non-existing reference	644	W-Rha-2809	W-Rha-154907
+Reference link to non-existing reference	649	W-Rha-2809	W-Rha-155300
+Reference link to non-existing reference	663	W-Rha-2809	W-Rha-155800
+Reference link to non-existing reference	693	W-Rha-2809	W-Rha-152601
+Reference link to non-existing reference	716	W-Rha-2809	W-Rha-155141
+Reference link to non-existing reference	717	W-Rha-2809	W-Rha-155148
+Reference link to non-existing reference	718	W-Rha-2809	W-Rha-155323
+Reference link to non-existing reference	726	W-Rha-2809	W-Rha-155816
+Reference link to non-existing reference	766	W-Rha-2809	W-Rha-152875
+Reference link to non-existing reference	784	W-Rha-2809	W-Rha-155138
+Reference link to non-existing reference	790	W-Rha-2809	W-Rha-155606
+Reference link to non-existing reference	799	W-Rha-2809	W-Rha-156049
+Reference link to non-existing reference	803	W-Rha-2809	W-Rha-178981
+Reference link to non-existing reference	834	W-Rha-2809	W-Rha-152624
+Reference link to non-existing reference	841	W-Rha-2809	W-Rha-152874
+Reference link to non-existing reference	845	W-Rha-2809	W-Rha-153646
+Reference link to non-existing reference	846	W-Rha-2809	W-Rha-153653
+Reference link to non-existing reference	847	W-Rha-2809	W-Rha-153660
+Reference link to non-existing reference	848	W-Rha-2809	W-Rha-154103
+Reference link to non-existing reference	851	W-Rha-2809	W-Rha-154146
+Reference link to non-existing reference	858	W-Rha-2809	W-Rha-154732
+Reference link to non-existing reference	865	W-Rha-2809	W-Rha-155132
+Reference link to non-existing reference	866	W-Rha-2809	W-Rha-155139
+Reference link to non-existing reference	867	W-Rha-2809	W-Rha-155325
+Reference link to non-existing reference	873	W-Rha-2809	W-Rha-155768
+Reference link to non-existing reference	879	W-Rha-2809	W-Rha-178982
+Reference link to non-existing reference	903	W-Rha-2809	W-Rha-152588
+Reference link to non-existing reference	905	W-Rha-2809	W-Rha-152653
+Reference link to non-existing reference	906	W-Rha-2809	W-Rha-152703
+Reference link to non-existing reference	921	W-Rha-2809	W-Rha-155146
+Reference link to non-existing reference	931	W-Rha-2809	W-Rha-155797
+Reference link to non-existing reference	949	W-Rha-2809	W-Rha-152523
+Reference link to non-existing reference	951	W-Rha-2809	W-Rha-152659
+Reference link to non-existing reference	957	W-Rha-2809	W-Rha-153161
+Reference link to non-existing reference	959	W-Rha-2809	W-Rha-153659
+Reference link to non-existing reference	968	W-Rha-42	W-Rha-154731
+Reference link to non-existing reference	971	W-Rha-2809	W-Rha-155133
+Reference link to non-existing reference	974	W-Rha-2809	W-Rha-155626
+Reference link to non-existing reference	1010	W-Rha-2809	W-Rha-155218
+Reference link to non-existing reference	1011	W-Rha-2809	W-Rha-155318
+Reference link to non-existing reference	1014	W-Rha-2809	W-Rha-155588
+Reference link to non-existing reference	1017	W-Rha-2809	W-Rha-155605
+Reference link to non-existing reference	1024	W-Rha-2809	W-Rha-156039
+Reference link to non-existing reference	1028	W-Rha-2809	W-Rha-178533
+Reference link to non-existing reference	1045	W-Rha-2809	W-Rha-152619
+Reference link to non-existing reference	1047	W-Rha-2809	W-Rha-152654
+Reference link to non-existing reference	1061	W-Rha-2809	W-Rha-154908
+Reference link to non-existing reference	1072	W-Rha-2809	W-Rha-155963
+Reference link to non-existing reference	1076	W-Rha-2809	W-Rha-178908
+Reference link to non-existing reference	1086	W-Rha-2809	W-Rha-152612
+Reference link to non-existing reference	1090	W-Rha-2809	W-Rha-153665
+Reference link to non-existing reference	1091	W-Rha-2809	W-Rha-154099
+Reference link to non-existing reference	1092	W-Rha-2809	W-Rha-154101
+Reference link to non-existing reference	1097	W-Rha-2809	W-Rha-154735
+Reference link to non-existing reference	1100	W-Rha-2809	W-Rha-155137
+Reference link to non-existing reference	1101	W-Rha-2809	W-Rha-155220
+Reference link to non-existing reference	1102	W-Rha-2809	W-Rha-155301
+Reference link to non-existing reference	1104	W-Rha-2809	W-Rha-155586
+Reference link to non-existing reference	1114	W-Rha-2809	W-Rha-155937
+Reference link to non-existing reference	1123	W-Rha-2809	W-Rha-178984
+Reference link to non-existing reference	1124	W-Rha-2809	W-Rha-178986
+Reference link to non-existing reference	1145	W-Rha-2809	W-Rha-153576
+Reference link to non-existing reference	1160	W-Rha-2809	W-Rha-155573
+Reference link to non-existing reference	1161	W-Rha-2809	W-Rha-155623
+Reference link to non-existing reference	1164	W-Rha-2809	W-Rha-155798
+Reference link to non-existing reference	1169	W-Rha-2809	W-Rha-178980
+--------------
+SELECT 'Specialist not present in scientific names table', record_id, specialist_name, specialist_code FROM specialists
+WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+--------------
+
+--------------
+SELECT 'Reference without parent accepted or common name', record_id, author, year, title, reference_code FROM `references`
+WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
+UNION SELECT DISTINCT reference_code FROM common_names)
+--------------
+
+Reference without parent accepted or common name	record_id	author	year	title	reference_code
+Reference without parent accepted or common name	4	Ax, P.,	1956	NULL	W-Rha-2823
+Reference without parent accepted or common name	6	Mack-Fira V.	1968	NULL	W-Rha-2345
+Reference without parent accepted or common name	10	Martens P.M. & Schockaert E.R.	1981	NULL	W-Rha-2399
+Reference without parent accepted or common name	13	Sabussow H.,	1900	NULL	W-Rha-2840
+Reference without parent accepted or common name	19	Ax, P.	1971	NULL	W-Rha-1752
+Reference without parent accepted or common name	26	BRIINKMANN,	1905	NULL	W-Rha-2857
+Reference without parent accepted or common name	28	Ferguson F.F. & Ruffin Jones E. Jr	1940	NULL	W-Rha-2073
+Reference without parent accepted or common name	30	Schultze M.S.	1851	NULL	W-Rha-2594
+Reference without parent accepted or common name	37	Ax, P. & Heller R.	1970	NULL	W-Rha-1775
+Reference without parent accepted or common name	39	Karling T.G.	1963	NULL	W-Rha-2216
+Reference without parent accepted or common name	46	Ax, P.,	1959	NULL	W-Rha-2843
+Reference without parent accepted or common name	53	Evdonin L.A.	1969	NULL	W-Rha-2033
+Reference without parent accepted or common name	58	Schockaert E.R.	1976	NULL	W-Rha-2582
+Reference without parent accepted or common name	61	KAISER,	1974	NULL	W-Rha-2880
+Reference without parent accepted or common name	65	Hochberg.	2004	NULL	W-Rha-130800
+Reference without parent accepted or common name	69	Schilke K.	1970	NULL	W-Rha-2574
+Reference without parent accepted or common name	73	SCHOCKAERT,	1973	NULL	W-Rha-2860
+Reference without parent accepted or common name	75	Westblad E.	1954	NULL	W-Rha-2791
+Reference without parent accepted or common name	81	Riedl R.	1956	NULL	W-Rha-2511
+Reference without parent accepted or common name	84	Gieysztor M. ,	1939	NULL	W-Rha-2854
+Reference without parent accepted or common name	88	Riedl R.	1959	NULL	W-Rha-2514
+Reference without parent accepted or common name	90	KOLLIKER,	1845	NULL	W-Rha-2869
+Reference without parent accepted or common name	98	Schmidt O.	1861	NULL	W-Rha-2577
+Reference without parent accepted or common name	102	Kolasa J.	1977	NULL	W-Rha-2265
+Reference without parent accepted or common name	103	Southern R.	1936	NULL	W-Rha-2692
+Reference without parent accepted or common name	107	Hartog, G. Den,	1964	NULL	W-Rha-2835
+Reference without parent accepted or common name	109	Sopott-Ehlers B.	1980	NULL	W-Rha-2643
+Reference without parent accepted or common name	110	Westblad E.	1955	NULL	W-Rha-2792
+Reference without parent accepted or common name	113	Tyler S, Schilling S, Hooge M, and Bush LF (comp.)	2006	NULL	W-Rha-5866
+Reference without parent accepted or common name	118	Sopott-Ehlers B.	1992	NULL	W-Rha-2663
+Reference without parent accepted or common name	129	Meixner J.	1929	NULL	W-Rha-2417
+Reference without parent accepted or common name	134	Sterrer, W., ed.,	1986	NULL	W-Rha-31783
+Reference without parent accepted or common name	137	Karling T.G. & Kinnander,H.	1953	NULL	W-Rha-2248
+Reference without parent accepted or common name	142	Karling T.G.	1982	NULL	W-Rha-2237
+Reference without parent accepted or common name	145	REISINGER,	1955	NULL	W-Rha-2881
+Reference without parent accepted or common name	149	Ehlers B. & Ehlers U.	1977	NULL	W-Rha-1982
+Reference without parent accepted or common name	165	Beklemischev W.	1928	NULL	W-Rha-1808
+Reference without parent accepted or common name	166	Mack-Fira V.	1971	NULL	W-Rha-2349
+Reference without parent accepted or common name	168	Martens P.M.	1984	NULL	W-Rha-2389
+Reference without parent accepted or common name	170	Midelburg A.	1908	NULL	W-Rha-2426
+Reference without parent accepted or common name	171	Brunet M.	1966	NULL	W-Rha-1848
+Reference without parent accepted or common name	176	Martens E.E.	1986	NULL	W-Rha-2383
+Reference without parent accepted or common name	178	Bohmig L.,	1902	NULL	W-Rha-2833
+Reference without parent accepted or common name	179	Ax, P.	1958	NULL	W-Rha-1742
+Reference without parent accepted or common name	182	Meixner J	1938	NULL	W-Rha-2884
+Reference without parent accepted or common name	196	Noldt U.	1989	NULL	W-Rha-2412
+Reference without parent accepted or common name	205	Murina, G.-V.,	1981	NULL	W-Rha-2841
+Reference without parent accepted or common name	207	Muller, O.F.	1773	NULL	W-Rha-3528
+Reference without parent accepted or common name	208	Schockaert E.R. & Karling T.G.	1975	NULL	W-Rha-2592
+Reference without parent accepted or common name	209	Noldt U. & Jouk Ph.	1988	NULL	W-Rha-2438
+Reference without parent accepted or common name	213	l’Hardy J.-P.	1966	NULL	W-Rha-2292
+Reference without parent accepted or common name	216	Martens E.E. & Schockaert E.R.	1981	NULL	W-Rha-2386
+Reference without parent accepted or common name	217	Westblad E.	1923	NULL	W-Rha-2787
+Reference without parent accepted or common name	218	l’Hardy J.-P.	1964	NULL	W-Rha-2289
+Reference without parent accepted or common name	222	Beklemischev W.N.	1922	NULL	W-Rha-1811
+Reference without parent accepted or common name	223	Schilke K.	1969	NULL	W-Rha-2572
+Reference without parent accepted or common name	224	Fleming L.C. & Burt M.D.B.	1978	NULL	W-Rha-2080
+Reference without parent accepted or common name	228	SABUSSOW,	1897	NULL	W-Rha-2864
+Reference without parent accepted or common name	230	Martens, P.M.; Schockaert, E.R.	1981	NULL	W-Rha-1035
+Reference without parent accepted or common name	232	SOUTHERN,	1912	NULL	W-Rha-2856
+Reference without parent accepted or common name	233	Steinbock, O.,	1931	NULL	W-Rha-2850
+Reference without parent accepted or common name	234	Meixner J.	1924	NULL	W-Rha-2409
+Reference without parent accepted or common name	242	Armonies W. & Hellwig M.	1987	NULL	W-Rha-1706
+Reference without parent accepted or common name	246	REMANE,	1955	NULL	W-Rha-2865
+Reference without parent accepted or common name	249	Ax, P.	1955	NULL	W-Rha-1737
+Reference without parent accepted or common name	254	Martens E.E. & Schockaert E.R.	1985	NULL	W-Rha-2387
+Reference without parent accepted or common name	261	Ax, P.	1951	NULL	W-Rha-1720
+Reference without parent accepted or common name	266	Giard, A.	1904	NULL	W-Rha-163265
+Reference without parent accepted or common name	280	Riedl R.	1959	NULL	W-Rha-2513
+Reference without parent accepted or common name	281	Ax, P.,	1956	NULL	W-Rha-2822
+Reference without parent accepted or common name	282	Hoxhold S.	1971	NULL	W-Rha-2158
+Reference without parent accepted or common name	284	Orlova, M.I.; Telesh, I.V.; Berezina, N.A.; Antsulevich, A.E.; Maximov, A.A.; Litvinchuk, L.F.	2006	NULL	W-Rha-9798
+Reference without parent accepted or common name	293	Ax, P.	1956	NULL	W-Rha-1740
+Reference without parent accepted or common name	295	l’Hardy J.-P.	1963	NULL	W-Rha-2287
+Reference without parent accepted or common name	300	Meixner J.	1923	NULL	W-Rha-2407
+Reference without parent accepted or common name	302	Oersted A.S.,	1842	NULL	W-Rha-2836
+Reference without parent accepted or common name	307	BEAUCHAMPS,	1961	NULL	W-Rha-2862
+Reference without parent accepted or common name	308	Steinbock O.	1924	NULL	W-Rha-2693
+Reference without parent accepted or common name	312	Sopott-Ehlers B.	1992	NULL	W-Rha-2662
+Reference without parent accepted or common name	314	Ferguson F.F. & Jones E.R., Jr.	1949	NULL	W-Rha-2072
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+CREATE TEMPORARY TABLE duplicates_to_delete AS SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
+(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
+(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+FROM scientific_names
+GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
+LEFT JOIN scientific_names sn
+ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_names USING scientific_names INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
+--------------
+
+--------------
+DELETE FROM common_names WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_names WHERE is_accepted_name != 1 AND accepted_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_names WHERE infraspecies_parent_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+--------------
+
+--------------
+DELETE QUICK FROM lifezone WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+OPTIMIZE TABLE lifezone
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_ProseriataKalyptorhynchia.lifezone	optimize	status	OK
+--------------
+DELETE QUICK FROM distribution WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+OPTIMIZE TABLE distribution
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_ProseriataKalyptorhynchia.distribution	optimize	status	OK
+--------------
+DELETE QUICK FROM scientific_names WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+--------------
+
+--------------
+OPTIMIZE TABLE scientific_names
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_ProseriataKalyptorhynchia.scientific_names	optimize	status	OK
+--------------
+DELETE QUICK FROM scientific_name_references WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_name_references WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+--------------
+
+--------------
+OPTIMIZE TABLE scientific_name_references
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_ProseriataKalyptorhynchia.scientific_name_references	optimize	status	OK
+--------------
+DELETE FROM specialists WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+--------------
+
+--------------
+DELETE QUICK FROM `references` WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
+UNION SELECT DISTINCT reference_code FROM common_names)
+--------------
+
+--------------
+OPTIMIZE TABLE `references`
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_ProseriataKalyptorhynchia.references	optimize	status	OK
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+CREATE TRIGGER delfamcascade AFTER DELETE ON `families`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `scientific_names` WHERE family_code = old.family_code;
+
+END;
+
+CREATE TRIGGER delspcascade AFTER DELETE ON `scientific_names`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+DELETE FROM `distribution` WHERE name_code = old.name_code;
+DELETE FROM `lifezone` WHERE name_code = old.name_code;
+DELETE FROM `scientific_name_references` WHERE name_code = old.name_code;
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+
+END;
+
+CREATE TRIGGER delrefscascade AFTER DELETE ON `scientific_name_references`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `references` WHERE reference_code = old.reference_code;
+
+END;
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+</pre>
+<pre>
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Editorial and Integrity checks Completed.
+</pre>
+</pre><hr><b>Replacing sectors in Assembly Global database</b>
+<pre>
+<pre>
+Starting Sector Management
+--------------
+SET @dbid = 60
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+DELETE FROM ",
+@dbtouse,
+".`databases` WHERE `record_id` = @dbid")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`families` SELECT 
+NULL AS `record_id`,
+`hierarchy_code`,	
+`kingdom`,	
+`phylum`,	
+`class`,	
+`order`,	
+`family`,	
+`superfamily`, 	
+`database_id`, 	
+`family_code`,
+`is_accepted_name`
+FROM  `families`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`databases` SELECT 
+`database_name_displayed`, 
+`record_id`, 
+`database_name`, 
+`database_full_name`, 
+`web_site`, 
+`organization`, 
+`contact_person`, 
+`taxa`, 
+`taxonomic_coverage`, 
+`abstract`, 
+`version`, 
+`release_date`, 
+`SpeciesCount`, 
+`SpeciesEst`, 
+`authors_editors`, 
+`accepted_species_names`, 
+`accepted_infraspecies_names`, 
+`species_synonyms`, 
+`infraspecies_synonyms`, 
+`common_names`, 
+`total_names`, 
+`is_new`,
+`coverage`,
+`completeness`,
+`confidence`
+FROM `databases`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`scientific_names` 
+(`record_id`, `name_code`, `web_site`, `genus`, `subgenus`, `species`, `infraspecies_parent_name_code`, `infraspecies`, `infraspecies_marker`, `author`, `accepted_name_code`, `comment`, `scrutiny_date`, `sp2000_status_id`, `database_id`, `specialist_id`, `family_id`, `specialist_code`, `family_code`, `is_accepted_name`, `GSDTaxonGUID`, `GSDNameGUID`) SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`web_site`, 
+`genus`, 
+`subgenus`, 
+`species`, 
+`infraspecies_parent_name_code`, 
+`infraspecies`, 
+`infraspecies_marker`, 
+`author`, 
+`accepted_name_code`, 
+`comment`, 
+`scrutiny_date`, 
+`sp2000_status_id`, 
+`database_id`, 
+`specialist_id`, 
+`family_id`, 
+`specialist_code`, 
+`family_code`, 
+`is_accepted_name`, 
+`GSDTaxonGUID`, 
+`GSDNameGUID`
+FROM `scientific_names`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`common_names` SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`common_name`, 
+`transliteration`, 
+`language`, 
+`country`, 
+`area`, 
+NULL AS `reference_id`, 
+`database_id`, 
+`is_infraspecies`, 
+`reference_code`
+FROM  `common_names`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`distribution` SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`distribution`, 
+`StandardInUse`, 
+`DistributionStatus`,
+`database_id`
+FROM  `distribution`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`lifezone` SELECT 
+NULL AS `record_id`,
+`name_code`, 	
+`lifezone`,
+`database_id`
+FROM  `lifezone`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`scientific_name_references` SELECT 
+NULL AS `record_id`,
+`name_code`,	
+`reference_type`, 	
+NULL AS `reference_id`,	
+`reference_code`,
+`database_id`
+FROM  `scientific_name_references`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`references` SELECT 
+NULL AS `record_id`, 
+`author`, 
+`year`, 
+`title`, 
+`source`, 
+`database_id`, 
+`reference_code`
+FROM  `references`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`specialists` SELECT 
+NULL AS `record_id`,
+`specialist_name`,
+`specialist_code`,
+`database_id`
+FROM  `specialists`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Transformations Completed.
+<pre>
+</pre><hr><b>Chain completed</b>
+</body></html>

@@ -1,0 +1,5 @@
+mysql -ukwok -pwork -e \
+'DROP DATABASE IF EXISTS COL_Production;
+CREATE DATABASE COL_Production CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE COL_Production;
+\. /home/kwok/tmp/Assembly_Base_Schema.sql'

@@ -1,0 +1,3111 @@
+<html><body>
+<br><b>Harvesting...</b>\n<pre>
+</pre><hr><b>File format conversions...</b>\n<pre>
+Unzipping
+Archive:  WoRMS_Porifera.zip
+  inflating: AcceptedSpecies.txt     
+  inflating: AcceptedInfraSpecificTaxa.txt  
+  inflating: Synonyms.txt            
+  inflating: CommonNames.txt         
+  inflating: Distribution.txt        
+  inflating: References.txt          
+  inflating: NameReferencesLinks.txt  
+  inflating: SourceDatabase.txt      
+Skipping format conversion
+</pre><hr><b>Creating buffer database, performing structural transformations...</b>\n<pre>
+<pre>
+Initiating buffer creation - this may take a while depending on size of the dataset...\n
+Creating buffer database Buffer_Porifera in schema as provided by Porifera
+--------------
+DROP DATABASE IF EXISTS Buffer_Porifera
+--------------
+
+--------------
+CREATE DATABASE IF NOT EXISTS Buffer_Porifera
+--------------
+
+--------------
+CREATE TABLE `AcceptedInfraSpecificTaxa` (
+`AcceptedTaxonID` varchar(50) PRIMARY KEY,
+`ParentSpeciesID` varchar(50) default NULL,
+`InfraSpeciesEpithet` varchar(50) default NULL,
+`InfraSpecificAuthorString` varchar(50) default NULL,
+`InfraSpecificMarker` varchar(10) default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`IsFossil` tinyint(1) default NULL,
+`LifeZone` varchar(50) default NULL,
+`AdditionalData` varchar(255) default NULL,
+`LTSSpecialist` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`LTSDate` varchar(50) default NULL,
+`InfraSpeciesURL` varchar(255) default NULL,
+`GSDTaxonGUI` varchar(255) default NULL,
+`GSDNameGUI`  varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `AcceptedSpecies` (
+`AcceptedTaxonID` varchar(50) PRIMARY KEY,
+`Kingdom` varchar(50) default NULL,
+`Phylum` varchar(50) default NULL,
+`Class` varchar(50) default NULL,
+`Order` varchar(50) default NULL,
+`Superfamily` varchar(50) default NULL,
+`Family` varchar(50) default NULL,
+`Genus` varchar(50) default NULL,
+`SubGenusName` varchar(50) default NULL,
+`Species` varchar(50) default NULL,
+`AuthorString` varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`IsFossil` tinyint(1) default NULL,
+`LifeZone` varchar(50) default NULL,
+`AdditionalData` varchar(255) default NULL,
+`LTSSpecialist` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`LTSDate` varchar(50) default NULL,
+`SpeciesURL` varchar(255) default NULL,
+`GSDTaxonGUI` varchar(255) default NULL,
+`GSDNameGUI` varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `CommonNames` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`CommonName` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Transliteration` varchar(255) default NULL,
+`Language` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`Country`  varchar(255) default NULL,
+`Area`  varchar(255) default NULL,
+`ReferenceID` varchar(50) default NULL,
+PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE = utf8_general_ci
+--------------
+
+--------------
+CREATE TABLE `Distribution` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`Distribution` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`StandardInUse` varchar(50) default NULL,
+`DistributionStatus` varchar(50) default NULL,
+PRIMARY KEY (`record_id`) 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE = utf8_general_ci
+--------------
+
+--------------
+CREATE TABLE `References` (
+`ReferenceID` varchar(50) PRIMARY KEY,
+`Authors` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`Year` varchar(255) default NULL,
+`Title` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Details` varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `NameReferencesLinks` (
+`ID` integer(10) PRIMARY KEY,
+`ReferenceType` varchar(50) default NULL,
+`ReferenceID` varchar(50) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `SourceDatabase` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`DatabaseFullName` varchar(255) NOT NULL,
+`DatabaseShortName` varchar(50) NOT NULL,
+`DatabaseVersion` varchar(50) NOT NULL,
+`ReleaseDate` varchar(50) NOT NULL,
+`AuthorsEditors` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`TaxonomicCoverage` varchar(255) NOT NULL,
+`GroupNameInEnglish` varchar(255) NOT NULL,
+`Abstract` text  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Organisation` varchar(255) NOT NULL,
+`HomeURL` varchar(255) default NULL,
+`Coverage` varchar(50) default NULL,
+`Completeness` integer(3) default NULL,
+`Confidence` integer(1) default NULL,
+`LogoFileName`  varchar(255) default NULL,
+`ContactPerson` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+PRIMARY KEY (`record_id`) 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `Synonyms` (
+`ID` integer(10) PRIMARY KEY,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`Genus` varchar(50) NOT NULL,
+`SubGenusName` varchar(50) default NULL,
+`Species` varchar(50) NOT NULL,
+`AuthorString` varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`InfraSpecies` varchar(50) default NULL,
+`InfraSpecificMarker` varchar(50) default NULL,
+`InfraSpecificAuthorString`  varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`GSDNameGUI` varchar(255) default NULL 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'AcceptedInfraSpecificTaxa.txt' INTO TABLE `AcceptedInfraSpecificTaxa` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES 
+(`AcceptedTaxonID`, `ParentSpeciesID`, `InfraSpeciesEpithet`, `InfraSpecificAuthorString`,  `InfraSpecificMarker`, `GSDNameStatus`,  `Sp2000NameStatus`, `IsFossil`, `LifeZone`, `AdditionalData`, `LTSSpecialist`, `LTSDate`, `InfraSpeciesURL`, `GSDTaxonGUI`, `GSDNameGUI`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'AcceptedSpecies.txt' INTO TABLE `AcceptedSpecies` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `Kingdom`, `Phylum`, `Class`, `Order`, `Superfamily`, `Family`, `Genus`, `SubGenusName`, `Species`, `AuthorString`, `GSDNameStatus`, `Sp2000NameStatus`, `IsFossil`, `LifeZone`, `AdditionalData`, `LTSSpecialist`, `LTSDate`, `SpeciesURL`, `GSDTaxonGUI`, `GSDNameGUI`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'CommonNames.txt' INTO TABLE `CommonNames` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `CommonName`, `Transliteration`, `Country`, `Area`, `Language`, `ReferenceID`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'Distribution.txt' INTO TABLE `Distribution` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `Distribution`, `StandardInUse`, `DistributionStatus`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'NameReferencesLinks.txt' INTO TABLE NameReferencesLinks CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ID`, `ReferenceType`, `ReferenceID`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'References.txt' INTO TABLE `References` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ReferenceID`, `Authors`, `Year`, `Title`, `Details`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'SourceDatabase.txt' INTO TABLE `SourceDatabase` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`DatabaseFullName`, `DatabaseShortName`, `DatabaseVersion`, `ReleaseDate`, `AuthorsEditors`, `TaxonomicCoverage`, `GroupNameInEnglish`, `Abstract`, `Organisation`, `HomeURL`, `Coverage`, `Completeness`, `Confidence`, `LogoFileName`, `ContactPerson`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'Synonyms.txt' INTO TABLE `Synonyms` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ID`, `AcceptedTaxonID`, `Genus`, `SubGenusName`, `Species`, `AuthorString`, `InfraSpecies`, `InfraSpecificMarker`, `InfraSpecificAuthorString`, `GSDNameStatus`, `Sp2000NameStatus`, `GSDNameGUI`)
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+Initial database created. Creating database Assembly_Porifera in assembly schema
+--------------
+DROP DATABASE IF EXISTS Assembly_Porifera
+--------------
+
+--------------
+CREATE DATABASE IF NOT EXISTS Assembly_Porifera
+--------------
+
+--------------
+DROP TABLE IF EXISTS `databases`
+--------------
+
+--------------
+CREATE TABLE  `databases` (
+  `database_name_displayed` varchar(125) DEFAULT NULL,
+  `record_id` int(10) NOT NULL AUTO_INCREMENT,
+  `database_name` varchar(150) DEFAULT NULL,
+  `database_full_name` varchar(100) NOT NULL DEFAULT '',
+  `web_site` longtext,
+  `organization` longtext,
+  `contact_person` varchar(255) DEFAULT NULL,
+  `taxa` varchar(255) DEFAULT NULL,
+  `taxonomic_coverage` longtext,
+  `abstract` longtext,
+  `version` varchar(255) DEFAULT NULL,
+  `release_date` date DEFAULT '0000-00-00',
+  `SpeciesCount` int(11) DEFAULT 0,
+  `SpeciesEst` int(11) DEFAULT 0,
+  `authors_editors` longtext,
+  `accepted_species_names` int(10) DEFAULT 0,
+  `accepted_infraspecies_names` int(10) DEFAULT 0,
+  `species_synonyms` int(10) DEFAULT 0,
+  `infraspecies_synonyms` int(10) DEFAULT 0,
+  `common_names` int(10) DEFAULT 0,
+  `total_names` int(10) DEFAULT 0,
+  `is_new` tinyint(1) NOT NULL DEFAULT 0,
+  `coverage` varchar(45) DEFAULT NULL,
+  `completeness` int(3) unsigned DEFAULT 0,
+  `confidence` 	tinyint(1) unsigned DEFAULT 0,
+  PRIMARY KEY (`record_id`),
+  KEY `database_name` (`database_name`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `families`
+--------------
+
+--------------
+CREATE TABLE  `families` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `hierarchy_code` varchar(250) NOT NULL,
+  `kingdom` varchar(50) NOT NULL DEFAULT 'Not Assigned',
+  `phylum` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `class` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `order` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `family` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `superfamily` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  `family_code` varchar(50) NOT NULL,
+  `is_accepted_name` int(1) unsigned,
+  PRIMARY KEY (`record_id`),
+  KEY (`family_code`),
+  KEY `kingdom` (`kingdom`),
+  KEY `phylum` (`phylum`),
+  KEY `class` (`class`),
+  KEY `order` (`order`),
+  KEY `family` (`family`),
+  KEY `superfamily` (`superfamily`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `sp2000_statuses`
+--------------
+
+--------------
+CREATE TABLE  `sp2000_statuses` (
+  `record_id` int(1) NOT NULL AUTO_INCREMENT,
+  `sp2000_status` varchar(50) NOT NULL DEFAULT '',
+  PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM
+--------------
+
+--------------
+DROP TABLE IF EXISTS `scientific_names`
+--------------
+
+--------------
+CREATE TABLE  `scientific_names` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `web_site` longtext,
+  `genus` varchar(50) DEFAULT NULL,
+  `subgenus` varchar(50) DEFAULT NULL,
+  `species` varchar(60) DEFAULT NULL,
+  `infraspecies_parent_name_code` varchar(42) DEFAULT NULL,
+  `infraspecies` varchar(50) DEFAULT NULL,
+  `infraspecies_marker` varchar(50) DEFAULT NULL,
+  `author` varchar(100) DEFAULT NULL,
+  `accepted_name_code` varchar(42) DEFAULT NULL,
+  `comment` longtext,
+  `scrutiny_date` text,
+  `sp2000_status_id` int(1) DEFAULT NULL,
+  `database_id` int(10) DEFAULT NULL,
+  `specialist_id` int(10) DEFAULT NULL,
+  `family_id` int(10) DEFAULT NULL,
+  `specialist_code` varchar(50) DEFAULT NULL,
+  `family_code` varchar(50) DEFAULT NULL,
+  `is_accepted_name` int(1) DEFAULT NULL,
+  `GSDTaxonGUID` longtext,
+  `GSDNameGUID` longtext,
+  PRIMARY KEY (`record_id`,`name_code`),
+  KEY `database_id` (`database_id`),
+  KEY `family_id` (`family_id`),
+  KEY `species` (`species`),
+  KEY `infraspecies` (`infraspecies`),
+  KEY `accepted_name_code` (`accepted_name_code`),
+  KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
+  KEY `name_code1` (`name_code`,`family_id`),
+  KEY `record_id` (`record_id`,`family_id`),
+  KEY `genus` (`genus`,`species`,`infraspecies`),
+  KEY `sp2000_status_id` (`sp2000_status_id`),
+  KEY `sp2000_status_id_2` (`sp2000_status_id`,`database_id`,`infraspecies`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `common_names`
+--------------
+
+--------------
+CREATE TABLE  `common_names` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL DEFAULT '',
+  `common_name` varchar(700) NOT NULL,
+  `transliteration` varchar(700),
+  `language` varchar(25) NOT NULL,
+  `country` varchar(44) NOT NULL DEFAULT '',
+  `area` varchar(50) DEFAULT NULL,
+  `reference_id` int(10) DEFAULT '0',
+  `database_id` int(10) NOT NULL,
+  `is_infraspecies` int(1) NOT NULL DEFAULT '0',
+  `reference_code` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `common_name` (`common_name`),
+  KEY `name_code` (`name_code`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `distribution`
+--------------
+
+--------------
+CREATE TABLE  `distribution` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `distribution` longtext,
+  `StandardInUse` varchar(255) DEFAULT NULL,
+  
+   `DistributionStatus` varchar(255),
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`),
+  KEY `database_id` (`database_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `lifezone`
+--------------
+
+--------------
+CREATE TABLE  `lifezone` (
+  `record_id` int(11) NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42),
+  `lifezone` varchar(255),
+  `database_id` int(10),
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`),
+  KEY `database_id` (`database_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `scientific_name_references`
+--------------
+
+--------------
+CREATE TABLE  `scientific_name_references` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL DEFAULT '',
+  `reference_type` varchar(10) DEFAULT NULL,
+  `reference_id` int(10) DEFAULT '0',
+  `reference_code` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`,`reference_id`,`reference_type`),
+  KEY `name_code_2` (`name_code`,`reference_type`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `references`
+--------------
+
+--------------
+CREATE TABLE  `references` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `author` varchar(200) DEFAULT NULL,
+  `year` varchar(50) DEFAULT NULL,
+  `title` longtext,
+  `source` longtext,
+  `database_id` int(10) NOT NULL,
+  `reference_code` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `specialists`
+--------------
+
+--------------
+CREATE TABLE  `specialists` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `specialist_name` varchar(255) NOT NULL DEFAULT '',
+  `specialist_code` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+INSERT INTO `sp2000_statuses` 
+VALUES (1,'accepted name'),
+(2,'ambiguous synonym'),
+(3,'misapplied name'),
+(4,'provisionally accepted name'),
+(5,'synonym')
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+CREATE TRIGGER delfamcascade AFTER DELETE ON `families`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `scientific_names` WHERE family_code = old.family_code;
+
+END;
+
+CREATE TRIGGER delspcascade AFTER DELETE ON `scientific_names`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+DELETE FROM `distribution` WHERE name_code = old.name_code;
+DELETE FROM `lifezone` WHERE name_code = old.name_code;
+DELETE FROM `scientific_name_references` WHERE name_code = old.name_code;
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+
+END;
+
+CREATE TRIGGER delrefscascade AFTER DELETE ON `scientific_name_references`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `references` WHERE reference_code = old.reference_code;
+
+END;
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+\nCreation of the assembly database completed.\n
+Starting structural transformations (ACEF3 to ACI)
+--------------
+SET @dbid = 44
+--------------
+
+--------------
+SET @dbabbr = 'W-Por-'
+--------------
+
+--------------
+SET @dbtouse = 'Buffer_Porifera'
+--------------
+
+--------------
+UPDATE `databases` SET `taxonomic_coverage`="Animalia - Porifera", `is_new` = 2, `taxa`="Sponges", `coverage`="Global", `completeness` = 96, `confidence` = 5
+--------------
+
+--------------
+SET foreign_key_checks = 0
+--------------
+
+--------------
+TRUNCATE TABLE `databases`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `databases` 
+ SELECT
+ CONCAT(`DatabaseShortName`, ': ', `DatabaseFullName`)  AS `database_name_displayed`,
+ @dbid AS `record_id`,
+ `DatabaseShortName` AS `database_name`,
+ `DatabaseFullName` AS `database_full_name`,
+  `HomeURL` AS `web_site`,
+  `Organisation` AS `organization`,
+  `ContactPerson` AS `contact_person`,
+  `GroupNameInEnglish` AS `taxa`,
+  `TaxonomicCoverage` AS `taxonomic_coverage`,
+  `Abstract` AS `abstract`,
+  `DatabaseVersion` AS `version`,
+  `ReleaseDate` AS `release_date`,
+  `Coverage` AS `SpeciesCount`,
+  `Completeness` AS `SpeciesEst`,
+  `AuthorsEditors` AS `authors_editors`,
+  NULL AS `accepted_species_names`,
+  NULL AS `accepted_infraspecies_names`,
+  NULL AS `species_synonyms`,
+  NULL AS `infraspecies_synonyms`,
+  NULL AS `common_names`,
+  NULL AS `total_names`,
+  NULL AS `is_new`,
+  NULL AS `coverage`,
+  NULL AS `completeness`,
+  NULL AS `confidence`
+  FROM ",
+@dbtouse,
+".`SourceDatabase`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `distribution`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `distribution` 
+ SELECT
+ NULL AS `record_id`,
+ CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
+ `Distribution` AS `distribution`,
+ `StandardInUse` AS `StandardInUse`, 
+ `DistributionStatus` AS `DistributionStatus`,
+@dbid AS `database_id`
+ FROM ",
+@dbtouse,
+".`Distribution`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `families`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `families`
+SELECT DISTINCT
+NULL AS `record_id`,
+NULL AS `hierarchy_code`,
+`Kingdom` AS `kingdom`,
+`Phylum` AS `phylum`,
+`Class` AS `class`,
+`Order` AS `order`,
+`Family` AS `family`,
+`Superfamily` AS `superfamily`,
+@dbid AS `database_id`,
+NULL AS `family_code`,
+NULL AS `is_accepted_name`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+UPDATE `families` SET `family_code` = CONCAT(@dbabbr,record_id)
+--------------
+
+--------------
+TRUNCATE TABLE `specialists`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `specialists`
+SELECT DISTINCT 
+NULL  AS `record_id`,
+`LTSSpecialist` AS `specialist_name`,
+NULL AS `specialist_code`,
+@dbid AS `database_id`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies` 
+WHERE `LTSSpecialist` IS NOT NULL OR 
+`LTSSpecialist` != ''")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+UPDATE `specialists` SET `specialist_code` = CONCAT(@dbabbr,record_id)
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_names`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
+`SpeciesURL` AS `web_site`,
+`Genus` AS `genus`,
+`SubGenusName` AS `subgenus`,
+`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+NULL  AS `infraspecies`,
+NULL  AS `infraspecies_marker`,
+`AuthorString` AS `author`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `accepted_name_code`,
+`AdditionalData` AS `comment`,
+`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+`specialists`.`record_id` AS `specialist_id`,
+`families`.`record_id` AS `family_id`,
+`specialists`.`specialist_code` AS `specialist_code`,
+`families`.`family_code` AS `family_code`,
+1 AS `is_accepted_name`,
+`GSDTaxonGUI` AS `GSDTaxonGUI`,
+`GSDNameGUI` AS `GSDNameGUI`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies` AcceptedSpecies
+LEFT OUTER JOIN `families` ON 
+(`AcceptedSpecies`.`Kingdom` = `families`.`kingdom` AND
+`AcceptedSpecies`.`Phylum` = `families`.`phylum` AND
+`AcceptedSpecies`.`Class` = `families`.`class` AND
+`AcceptedSpecies`.`Order` = `families`.`order` AND
+`AcceptedSpecies`.`Superfamily` = `families`.`superfamily` AND
+`AcceptedSpecies`.`Family` = `families`.`family`)
+LEFT OUTER JOIN `specialists` ON
+`AcceptedSpecies`.`LTSSpecialist` = `specialists`.`specialist_name`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`AcceptedSpecies`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
+WHERE `AcceptedSpecies`.`IsFossil` = 0")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `lifezone`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `lifezone`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
+`LifeZone` AS `lifezone`,
+@dbid AS `database_id`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`
+WHERE `LifeZone` IN('marine','freshwater','Marine','Freshwater')")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AIT`.`AcceptedTaxonID`) AS `name_code`,
+NULL AS `web_site`,
+`sn`.`genus` AS `genus`,
+NULL AS `subgenus`,
+`sn`.`species` AS `species`,
+CONCAT(@dbabbr,`AIT`.`ParentSpeciesID`) AS `infraspecies_parent_name_code`,
+`AIT`.`InfraSpeciesEpithet` AS `infraspecies`,
+`AIT`.`InfraSpecificMarker` AS `infraspecies_marker`,
+`AIT`.`InfraSpecificAuthorString` AS `author`,
+CONCAT(@dbabbr,`AIT`.`AcceptedTaxonID`) AS `accepted_name_code`,
+`AIT`.`AdditionalData` AS `comment`,
+`AIT`.`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+`specialists`.`specialist_code` AS `specialist_code`,
+sn.family_code AS `family_code`,
+1 AS `is_accepted_name`,
+NULL AS `GSDTaxonGUI`,
+`AIT`.`GSDNameGUI` AS `GSDNameGUI` 
+FROM ",
+@dbtouse,
+".`AcceptedInfraSpecificTaxa` AIT
+LEFT OUTER JOIN scientific_names sn ON
+CONCAT(@dbabbr,`AIT`.`ParentSpeciesID`) = `sn`.`name_code`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`AIT`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
+LEFT OUTER JOIN `specialists` ON
+`AIT`.`LTSSpecialist` = `specialists`.`specialist_name`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`Synonyms`.`ID`) AS `name_code`,
+NULL AS `web_site`,
+`Synonyms`.`Genus` AS `genus`,
+`Synonyms`.`SubGenusName` AS `subgenus`,
+`Synonyms`.`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+`Synonyms`.`InfraSpecies` AS `infraspecies`,
+`Synonyms`.`InfraSpecificMarker` AS `infraspecies_marker`,
+`Synonyms`.`AuthorString` AS `author`,
+CONCAT(@dbabbr,`Synonyms`.`AcceptedTaxonID`) AS `accepted_name_code`,
+NULL AS `comment`,
+NULL AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+sn.`specialist_code` AS `specialist_code`,
+sn.`family_code` AS `family_code`,
+0 AS `is_accepted_name`,
+NULL AS `GSDTaxonGUI`,
+`Synonyms`.`GSDNameGUI` AS `GSDNameGUI` 
+FROM ",
+@dbtouse,
+".`Synonyms` Synonyms
+LEFT OUTER JOIN scientific_names sn ON
+CONCAT(@dbabbr,`Synonyms`.`AcceptedTaxonID`) = `sn`.`name_code`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`Synonyms`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `common_names`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `common_names` 
+SELECT
+NULL, 
+CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
+CONVERT(`CommonName` USING utf8) AS `common_name`,
+`Transliteration` AS `transliteration`,
+`Language` AS `language`,
+`Country` AS `country`,
+`Area` AS `area`,
+ NULL AS `reference_ID`,
+@dbid AS `database_ID`,
+ NULL AS `is_infraspecies`,
+ `ReferenceID` AS `reference_code`
+ FROM ",
+@dbtouse,
+".`CommonNames`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `references`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `references` 
+SELECT
+NULL AS `record_id`, 
+`Authors` AS `author`,
+`Year` AS `year`,
+NULL AS `title`,
+`Title` AS `source`,
+@dbid AS `database_id`,
+CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`
+ FROM ",
+@dbtouse,
+".`References`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_name_references`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_name_references` 
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr, `ID`) AS `name_code`,	
+`ReferenceType` AS `reference_type`,	
+NULL AS `reference_id`,
+CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`,
+@dbid AS `database_id`
+ FROM ",
+@dbtouse,
+".`NameReferencesLinks`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET foreign_key_checks = 1
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+\nData Loaded.
+</pre>
+</pre><hr><b>Backing up...</b>\n<pre>
+Creating directory  23_24_14_05Apr2015
+Backing up files
+</pre><hr><b>Executing local editorial checks</b>\n<pre>
+<pre>
+Integrity and editorial checks - this may take a while depending on size of the dataset...\n
+Starting local editorial transformations
+--------------
+DELETE FROM `common_names` WHERE `common_name` IS NULL OR `common_name` = ""
+--------------
+
+--------------
+DELETE FROM `distribution` WHERE `distribution` IS NULL OR `distribution` = ""
+--------------
+
+--------------
+DELETE FROM `references` WHERE (`title` IS NULL OR `title` = "") AND (`author` IS NULL OR `author` = "")
+--------------
+
+--------------
+DELETE FROM `specialists` WHERE `specialist_name` IS NULL OR `specialist_name` = ""
+--------------
+
+--------------
+DELETE FROM `scientific_names` WHERE (`species` IS NULL OR `species` LIKE "%sp.%" OR `species` LIKE "%spp.%") AND `infraspecies` IS NULL
+--------------
+
+--------------
+DELETE FROM `scientific_names` WHERE `genus` IS NULL OR `genus` = "" OR genus like "% %" OR `genus` LIKE '%sp.%' OR `genus` LIKE "%spp.%"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `family_id` = NULL
+--------------
+
+--------------
+UPDATE `scientific_names` SET `specialist_id` = NULL
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "forma" WHERE `infraspecies_marker` LIKE "f.%"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "var." WHERE `infraspecies_marker` LIKE "Variety"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "subsp." WHERE `infraspecies_marker` LIKE "Subspecies"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `sp2000_status_id` = 5 WHERE `sp2000_status_id` IS NULL AND `is_accepted_name` = 0
+--------------
+
+--------------
+UPDATE `families` SET `family` = "Not assigned" WHERE `family` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `order` = "Not assigned" WHERE `order` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `class` = "Not assigned" WHERE `class` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `phylum` = "Not assigned" WHERE `phylum` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `kingdom` = "Not assigned" WHERE `kingdom` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `family` = "Not assigned" WHERE (`family` IS NULL OR `family` = '')
+--------------
+
+--------------
+UPDATE `families` SET `order` = "Not assigned" WHERE (`order` IS NULL OR `order` = '')
+--------------
+
+--------------
+UPDATE `families` SET `class` = "Not assigned" WHERE (`class` IS NULL OR `class` = '')
+--------------
+
+--------------
+UPDATE `families` SET `phylum` = "Not assigned" WHERE (`phylum` IS NULL OR `phylum` = '')
+--------------
+
+--------------
+UPDATE `families` SET `kingdom` = "Not assigned" WHERE (`kingdom` IS NULL OR `kingdom` = '')
+--------------
+
+--------------
+UPDATE `families` SET `hierarchy_code` = CONCAT(`kingdom`,'-',`phylum`,'-',`class`,'-',`order`,'-',`family`)
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "subsequent type designation%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "Nom%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "taxonomy source%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "additional source%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "original description%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "source of synonymy%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "basis of record%"
+--------------
+
+--------------
+UPDATE `databases` SET database_name_displayed = REPLACE(database_name_displayed,'_',' ')
+--------------
+
+--------------
+UPDATE `databases` SET database_name = REPLACE(database_name,'_',' ')
+--------------
+
+--------------
+UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ',', '')
+--------------
+
+--------------
+UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ';', ',')
+--------------
+
+--------------
+SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+--------------
+
+Duplicate accepted names:	name_code	sp2000_status_id	genus	species	infraspecies_marker	infraspecies	author
+Duplicate accepted names:	W-Por-744401	1	Antho	anisotyla			(Lévi, 1960)
+Duplicate accepted names:	W-Por-234166	1	Antho	bakusi			Sim & Lee, 1998
+Duplicate accepted names:	W-Por-744400	1	Antho	burtoni			(Lévi, 1952)
+Duplicate accepted names:	W-Por-167851	1	Antho	circonflexa			(Lévi, 1960)
+Duplicate accepted names:	W-Por-167852	1	Antho	coriacea			(Bowerbank, 1874)
+Duplicate accepted names:	W-Por-167853	1	Antho	delaubenfelsi			(Little, 1963)
+Duplicate accepted names:	W-Por-167854	1	Antho	elegans			(Ridley & Dendy, 1887)
+Duplicate accepted names:	W-Por-412836	1	Antho	erecta			(Ferrer-Hernandez, 1923)
+Duplicate accepted names:	W-Por-167857	1	Antho	frondifera			(Lamarck, 1814)
+Duplicate accepted names:	W-Por-412839	1	Antho	gymnazusa			(Schmidt, 1870)
+Duplicate accepted names:	W-Por-744395	1	Antho	hallezi			(Topsent, 1904)
+Duplicate accepted names:	W-Por-167861	1	Antho	illgi			(Bakus, 1966)
+Duplicate accepted names:	W-Por-744397	1	Antho	karyoka			(Dickinson, 1945)
+Duplicate accepted names:	W-Por-827728	1	Antho	lithophoenix			(De Laubenfels, 1927)
+Duplicate accepted names:	W-Por-412849	1	Antho	manaarensis			(Carter, 1880)
+Duplicate accepted names:	W-Por-744402	1	Antho	novizelanica			(Ridley & Duncan, 1881)
+Duplicate accepted names:	W-Por-166193	1	Callyspongia	paucispina			(Lendenfeld, 1887)
+Duplicate accepted names:	W-Por-166223	1	Callyspongia	plicifera			(Lamarck, 1814)
+Duplicate accepted names:	W-Por-166230	1	Callyspongia	tenerrima			Duchassaing & Michelotti, 1864
+Duplicate accepted names:	W-Por-166232	1	Callyspongia	vaginalis			(Lamarck, 1814)
+Duplicate accepted names:	W-Por-744244	1	Clathria	anchorata			(Carter, 1874)
+Duplicate accepted names:	W-Por-815531	1	Clathria	carteri	NULL	NULL	Topsent, 1889
+Duplicate accepted names:	W-Por-190501	1	Clathria	carteri	NULL	NULL	Topsent, 1889
+Duplicate accepted names:	W-Por-410881	1	Clathria	flabellata			(Burton, 1936)
+Duplicate accepted names:	W-Por-167744	1	Clathria	jolicoeuri			(Topsent, 1892)
+Duplicate accepted names:	W-Por-744269	1	Clathria	pachyaxia			(Lévi, 1960)
+Duplicate accepted names:	W-Por-734493	1	Clathria	parva			Lévi, 1963
+Duplicate accepted names:	W-Por-408856	1	Clathria	toxivaria			(Sarà, 1959)
+Duplicate accepted names:	W-Por-367997	1	Crateromorpha	lankesteri			Kirkpatrick, 1902
+Duplicate accepted names:	W-Por-169074	1	Crella	albula			(Bowerbank, 1866)
+Duplicate accepted names:	W-Por-175276	1	Crella	crassa			(Hentschel, 1914)
+Duplicate accepted names:	W-Por-166605	1	Haliclona	cinerea			(Grant, 1826)
+Duplicate accepted names:	W-Por-166606	1	Haliclona	ciocalyptoides			Burton, 1933
+Duplicate accepted names:	W-Por-737980	1	Hamacantha	acerata			Lévi, 1993
+Duplicate accepted names:	W-Por-737982	1	Hamacantha	atoxa			Lévi, 1993
+Duplicate accepted names:	W-Por-737981	1	Hamacantha	azorica			Topsent, 1904
+Duplicate accepted names:	W-Por-737988	1	Hamacantha	bowerbanki			Lundbeck, 1902
+Duplicate accepted names:	W-Por-737989	1	Hamacantha	carteri			Topsent, 1904
+Duplicate accepted names:	W-Por-737990	1	Hamacantha	forcipulata			Lévi, 1993
+Duplicate accepted names:	W-Por-737991	1	Hamacantha	megancistra			Pulitzer-Finali, 1978
+Duplicate accepted names:	W-Por-387326	1	Hamacantha	microxifera			Lopes & Hajdu, 2004
+Duplicate accepted names:	W-Por-737992	1	Hamacantha	papillata			Vosmaer, 1885
+Duplicate accepted names:	W-Por-396983	1	Hyalonema	aculeatum			Schulze, 1895
+Duplicate accepted names:	W-Por-171451	1	Hyalonema	apertum			Schulze, 1886
+Duplicate accepted names:	W-Por-171452	1	Hyalonema	apertum			Schulze, 1886
+Duplicate accepted names:	W-Por-171528	1	Hyalonema	brevancora			Lendenfeld, 1915
+Duplicate accepted names:	W-Por-396984	1	Hyalonema	cebuense			Higgin, 1875
+Duplicate accepted names:	W-Por-396985	1	Hyalonema	clavigerum			Schulze, 1886
+Duplicate accepted names:	W-Por-396986	1	Hyalonema	globus			Schulze, 1886
+Duplicate accepted names:	W-Por-396987	1	Hyalonema	heideri			Schulze, 1895
+Duplicate accepted names:	W-Por-171482	1	Hyalonema	intermedium			Ijima, 1927
+Duplicate accepted names:	W-Por-171497	1	Hyalonema	lusitanicum			Bocage, 1864
+Duplicate accepted names:	W-Por-171444	1	Hyalonema	pateriferum			Wilson, 1904
+Duplicate accepted names:	W-Por-171486	1	Hyalonema	pellucidum			Ijima, 1894
+Duplicate accepted names:	W-Por-171487	1	Hyalonema	proximum			Schulze, 1904
+Duplicate accepted names:	W-Por-171474	1	Hyalonema	tenerum			Schulze, 1886
+Duplicate accepted names:	W-Por-171475	1	Hyalonema	thomsoni			Marshall, 1875
+Duplicate accepted names:	W-Por-171477	1	Hyalonema	thomsoni			Marshall, 1875
+Duplicate accepted names:	W-Por-396982	1	Hyalonema	topsenti			Ijima, 1927
+Duplicate accepted names:	W-Por-169146	1	Hymedesmia	basiclavata			Topsent, 1928
+Duplicate accepted names:	W-Por-133565	1	Hymedesmia	depressa			Topsent, 1928
+Duplicate accepted names:	W-Por-133574	1	Hymedesmia	flaccida			Topsent, 1928
+Duplicate accepted names:	W-Por-133576	1	Hymedesmia	gracilisigma			Topsent, 1928
+Duplicate accepted names:	W-Por-133580	1	Hymedesmia	hallmanni			Topsent, 1928
+Duplicate accepted names:	W-Por-133584	1	Hymedesmia	inflata			Vacelet, 1969
+Duplicate accepted names:	W-Por-133588	1	Hymedesmia	jugalis			Topsent, 1928
+Duplicate accepted names:	W-Por-133589	1	Hymedesmia	koehleri			(Topsent, 1896)
+Duplicate accepted names:	W-Por-133609	1	Hymedesmia	mutabilis			(Topsent, 1904)
+Duplicate accepted names:	W-Por-133618	1	Hymedesmia	pachychela			Topsent, 1928
+Duplicate accepted names:	W-Por-133628	1	Hymedesmia	plicata			Topsent, 1928
+Duplicate accepted names:	W-Por-133642	1	Hymedesmia	serrulata			Vacelet, 1969
+Duplicate accepted names:	W-Por-169273	1	Hymedesmia	velata			Topsent, 1928
+Duplicate accepted names:	W-Por-168698	1	Mycale	angulosa			(Duchassaing & Michelotti, 1864)
+Duplicate accepted names:	W-Por-168629	1	Mycale	doellojuradoi			Burton, 1940
+Duplicate accepted names:	W-Por-168561	1	Mycale	laxissima			(Duchassaing & Michelotti, 1864)
+Duplicate accepted names:	W-Por-168534	1	Mycale	magellanica			(Ridley, 1881)
+Duplicate accepted names:	W-Por-168562	1	Mycale	mirabilis			(Lendenfeld, 1887)
+Duplicate accepted names:	W-Por-592897	1	Mycale	thaumatochela			Lundbeck, 1905
+Duplicate accepted names:	W-Por-723279	1	Myxilla	asigmata			(Topsent, 1901)
+Duplicate accepted names:	W-Por-168124	1	Raspailia	falcifera			Topsent, 1890
+Duplicate accepted names:	W-Por-168125	1	Raspailia	humilis			Topsent, 1892
+Duplicate accepted names:	W-Por-449150	1	Raspailia	stelliderma			(Carter, 1885)
+--------------
+SELECT "Accepted name to be retained", MAX(name_code), genus, species, infraspecies_marker, infraspecies, author FROM
+(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn
+ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author
+--------------
+
+Accepted name to be retained	MAX(name_code)	genus	species	infraspecies_marker	infraspecies	author
+Accepted name to be retained	W-Por-744401	Antho	anisotyla			(Lévi, 1960)
+Accepted name to be retained	W-Por-234166	Antho	bakusi			Sim & Lee, 1998
+Accepted name to be retained	W-Por-744400	Antho	burtoni			(Lévi, 1952)
+Accepted name to be retained	W-Por-167851	Antho	circonflexa			(Lévi, 1960)
+Accepted name to be retained	W-Por-167852	Antho	coriacea			(Bowerbank, 1874)
+Accepted name to be retained	W-Por-167853	Antho	delaubenfelsi			(Little, 1963)
+Accepted name to be retained	W-Por-167854	Antho	elegans			(Ridley & Dendy, 1887)
+Accepted name to be retained	W-Por-412836	Antho	erecta			(Ferrer-Hernandez, 1923)
+Accepted name to be retained	W-Por-167857	Antho	frondifera			(Lamarck, 1814)
+Accepted name to be retained	W-Por-412839	Antho	gymnazusa			(Schmidt, 1870)
+Accepted name to be retained	W-Por-744395	Antho	hallezi			(Topsent, 1904)
+Accepted name to be retained	W-Por-167861	Antho	illgi			(Bakus, 1966)
+Accepted name to be retained	W-Por-744397	Antho	karyoka			(Dickinson, 1945)
+Accepted name to be retained	W-Por-827728	Antho	lithophoenix			(De Laubenfels, 1927)
+Accepted name to be retained	W-Por-412849	Antho	manaarensis			(Carter, 1880)
+Accepted name to be retained	W-Por-744402	Antho	novizelanica			(Ridley & Duncan, 1881)
+Accepted name to be retained	W-Por-166193	Callyspongia	paucispina			(Lendenfeld, 1887)
+Accepted name to be retained	W-Por-166223	Callyspongia	plicifera			(Lamarck, 1814)
+Accepted name to be retained	W-Por-166230	Callyspongia	tenerrima			Duchassaing & Michelotti, 1864
+Accepted name to be retained	W-Por-166232	Callyspongia	vaginalis			(Lamarck, 1814)
+Accepted name to be retained	W-Por-744244	Clathria	anchorata			(Carter, 1874)
+Accepted name to be retained	W-Por-815531	Clathria	carteri	NULL	NULL	Topsent, 1889
+Accepted name to be retained	W-Por-410881	Clathria	flabellata			(Burton, 1936)
+Accepted name to be retained	W-Por-167744	Clathria	jolicoeuri			(Topsent, 1892)
+Accepted name to be retained	W-Por-744269	Clathria	pachyaxia			(Lévi, 1960)
+Accepted name to be retained	W-Por-734493	Clathria	parva			Lévi, 1963
+Accepted name to be retained	W-Por-408856	Clathria	toxivaria			(Sarà, 1959)
+Accepted name to be retained	W-Por-367997	Crateromorpha	lankesteri			Kirkpatrick, 1902
+Accepted name to be retained	W-Por-169074	Crella	albula			(Bowerbank, 1866)
+Accepted name to be retained	W-Por-175276	Crella	crassa			(Hentschel, 1914)
+Accepted name to be retained	W-Por-166605	Haliclona	cinerea			(Grant, 1826)
+Accepted name to be retained	W-Por-166606	Haliclona	ciocalyptoides			Burton, 1933
+Accepted name to be retained	W-Por-737980	Hamacantha	acerata			Lévi, 1993
+Accepted name to be retained	W-Por-737982	Hamacantha	atoxa			Lévi, 1993
+Accepted name to be retained	W-Por-737981	Hamacantha	azorica			Topsent, 1904
+Accepted name to be retained	W-Por-737988	Hamacantha	bowerbanki			Lundbeck, 1902
+Accepted name to be retained	W-Por-737989	Hamacantha	carteri			Topsent, 1904
+Accepted name to be retained	W-Por-737990	Hamacantha	forcipulata			Lévi, 1993
+Accepted name to be retained	W-Por-737991	Hamacantha	megancistra			Pulitzer-Finali, 1978
+Accepted name to be retained	W-Por-387326	Hamacantha	microxifera			Lopes & Hajdu, 2004
+Accepted name to be retained	W-Por-737992	Hamacantha	papillata			Vosmaer, 1885
+Accepted name to be retained	W-Por-396983	Hyalonema	aculeatum			Schulze, 1895
+Accepted name to be retained	W-Por-171452	Hyalonema	apertum			Schulze, 1886
+Accepted name to be retained	W-Por-171528	Hyalonema	brevancora			Lendenfeld, 1915
+Accepted name to be retained	W-Por-396984	Hyalonema	cebuense			Higgin, 1875
+Accepted name to be retained	W-Por-396985	Hyalonema	clavigerum			Schulze, 1886
+Accepted name to be retained	W-Por-396986	Hyalonema	globus			Schulze, 1886
+Accepted name to be retained	W-Por-396987	Hyalonema	heideri			Schulze, 1895
+Accepted name to be retained	W-Por-171482	Hyalonema	intermedium			Ijima, 1927
+Accepted name to be retained	W-Por-171497	Hyalonema	lusitanicum			Bocage, 1864
+Accepted name to be retained	W-Por-171444	Hyalonema	pateriferum			Wilson, 1904
+Accepted name to be retained	W-Por-171486	Hyalonema	pellucidum			Ijima, 1894
+Accepted name to be retained	W-Por-171487	Hyalonema	proximum			Schulze, 1904
+Accepted name to be retained	W-Por-171474	Hyalonema	tenerum			Schulze, 1886
+Accepted name to be retained	W-Por-171477	Hyalonema	thomsoni			Marshall, 1875
+Accepted name to be retained	W-Por-396982	Hyalonema	topsenti			Ijima, 1927
+Accepted name to be retained	W-Por-169146	Hymedesmia	basiclavata			Topsent, 1928
+Accepted name to be retained	W-Por-133565	Hymedesmia	depressa			Topsent, 1928
+Accepted name to be retained	W-Por-133574	Hymedesmia	flaccida			Topsent, 1928
+Accepted name to be retained	W-Por-133576	Hymedesmia	gracilisigma			Topsent, 1928
+Accepted name to be retained	W-Por-133580	Hymedesmia	hallmanni			Topsent, 1928
+Accepted name to be retained	W-Por-133584	Hymedesmia	inflata			Vacelet, 1969
+Accepted name to be retained	W-Por-133588	Hymedesmia	jugalis			Topsent, 1928
+Accepted name to be retained	W-Por-133589	Hymedesmia	koehleri			(Topsent, 1896)
+Accepted name to be retained	W-Por-133609	Hymedesmia	mutabilis			(Topsent, 1904)
+Accepted name to be retained	W-Por-133618	Hymedesmia	pachychela			Topsent, 1928
+Accepted name to be retained	W-Por-133628	Hymedesmia	plicata			Topsent, 1928
+Accepted name to be retained	W-Por-133642	Hymedesmia	serrulata			Vacelet, 1969
+Accepted name to be retained	W-Por-169273	Hymedesmia	velata			Topsent, 1928
+Accepted name to be retained	W-Por-168698	Mycale	angulosa			(Duchassaing & Michelotti, 1864)
+Accepted name to be retained	W-Por-168629	Mycale	doellojuradoi			Burton, 1940
+Accepted name to be retained	W-Por-168561	Mycale	laxissima			(Duchassaing & Michelotti, 1864)
+Accepted name to be retained	W-Por-168534	Mycale	magellanica			(Ridley, 1881)
+Accepted name to be retained	W-Por-168562	Mycale	mirabilis			(Lendenfeld, 1887)
+Accepted name to be retained	W-Por-592897	Mycale	thaumatochela			Lundbeck, 1905
+Accepted name to be retained	W-Por-723279	Myxilla	asigmata			(Topsent, 1901)
+Accepted name to be retained	W-Por-168124	Raspailia	falcifera			Topsent, 1890
+Accepted name to be retained	W-Por-168125	Raspailia	humilis			Topsent, 1892
+Accepted name to be retained	W-Por-449150	Raspailia	stelliderma			(Carter, 1885)
+--------------
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
+(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
+(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+FROM scientific_names
+GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
+LEFT JOIN scientific_names sn
+ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+--------------
+
+Accepted name to be deleted	name_code	sp2000_status_id	genus	species	infraspecies_marker	infraspecies	author
+Accepted name to be deleted	W-Por-190501	1	Clathria	carteri	NULL	NULL	Topsent, 1889
+Accepted name to be deleted	W-Por-171451	1	Hyalonema	apertum			Schulze, 1886
+Accepted name to be deleted	W-Por-171475	1	Hyalonema	thomsoni			Marshall, 1875
+--------------
+SELECT 'Common name without parent accepted name', record_id, common_name, name_code FROM common_names
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+CREATE TEMPORARY TABLE scientific_names_tmp AS SELECT * FROM scientific_names
+--------------
+
+--------------
+SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, species, infraspecies, accepted_name_code FROM scientific_names
+WHERE is_accepted_name != 1 AND family_code IS NULL
+--------------
+
+Missing parent accepted name for synonym	record_id	name_code	genus	species	infraspecies	accepted_name_code
+Missing parent accepted name for synonym	9486	W-Por-195863	Chalinissa	elongata	var. tenuispicula	W-Por-166097
+Missing parent accepted name for synonym	9632	W-Por-195847	Ceraochalina	reticutis	var. salomonensis	W-Por-166196
+Missing parent accepted name for synonym	12930	W-Por-195467	Geodinella	robusta	var. megasterra	W-Por-170172
+Missing parent accepted name for synonym	13310	W-Por-195569	Hymedesmia	similima	var. antarctica	W-Por-169255
+Missing parent accepted name for synonym	13728	W-Por-195465	Geodinella	robusta	var. carolae	W-Por-170170
+Missing parent accepted name for synonym	15100	W-Por-195416	Spongelia	elegans	var. pontica	W-Por-134449
+Missing parent accepted name for synonym	16883	W-Por-557892	Axociella	ongulensis		W-Por-412621
+Missing parent accepted name for synonym	17221	W-Por-195493	Isodictya	simulans	var. tubuloramosa	W-Por-166353
+Missing parent accepted name for synonym	18090	W-Por-195466	Geodinella	robusta	var. megaclada	W-Por-170171
+--------------
+SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, species, infraspecies, infraspecies_parent_name_code FROM scientific_names WHERE LENGTH(infraspecies)>1  AND family_code IS NULL
+--------------
+
+Missing parent accepted name for infraspecies	record_id	name_code	genus	species	infraspecies	infraspecies_parent_name_code
+Missing parent accepted name for infraspecies	9486	W-Por-195863	Chalinissa	elongata	var. tenuispicula	NULL
+Missing parent accepted name for infraspecies	9632	W-Por-195847	Ceraochalina	reticutis	var. salomonensis	NULL
+Missing parent accepted name for infraspecies	12930	W-Por-195467	Geodinella	robusta	var. megasterra	NULL
+Missing parent accepted name for infraspecies	13310	W-Por-195569	Hymedesmia	similima	var. antarctica	NULL
+Missing parent accepted name for infraspecies	13728	W-Por-195465	Geodinella	robusta	var. carolae	NULL
+Missing parent accepted name for infraspecies	15100	W-Por-195416	Spongelia	elegans	var. pontica	NULL
+Missing parent accepted name for infraspecies	17221	W-Por-195493	Isodictya	simulans	var. tubuloramosa	NULL
+Missing parent accepted name for infraspecies	18090	W-Por-195466	Geodinella	robusta	var. megaclada	NULL
+--------------
+SELECT 'Lifezone without parent accepted name', record_id, name_code, lifezone FROM lifezone
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+Lifezone without parent accepted name	record_id	name_code	lifezone
+Lifezone without parent accepted name	85	W-Por-459136	marine
+Lifezone without parent accepted name	858	W-Por-264850	marine
+Lifezone without parent accepted name	1770	W-Por-412621	marine
+Lifezone without parent accepted name	2537	W-Por-742733	marine
+Lifezone without parent accepted name	4093	W-Por-171485	marine
+Lifezone without parent accepted name	6291	W-Por-607820	marine
+Lifezone without parent accepted name	6316	W-Por-562486	marine
+Lifezone without parent accepted name	7214	W-Por-742734	marine
+--------------
+SELECT 'Distribution without parent accepted name', record_id, name_code, distribution FROM distribution
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+Distribution without parent accepted name	record_id	name_code	distribution
+Distribution without parent accepted name	1	W-Por-742733	Belgium
+Distribution without parent accepted name	2	W-Por-742734	Belgium
+Distribution without parent accepted name	512	W-Por-412621	Antarctica
+Distribution without parent accepted name	517	W-Por-739251	Germany
+Distribution without parent accepted name	944	W-Por-167078	Japan
+Distribution without parent accepted name	1886	W-Por-167142	Chile
+Distribution without parent accepted name	2475	W-Por-167148	Namibia
+Distribution without parent accepted name	4919	W-Por-167232	German Exclusive Economic Zone
+Distribution without parent accepted name	7929	W-Por-167148	Namibian Exclusive Economic Zone
+Distribution without parent accepted name	9156	W-Por-167069	Brazilian Exclusive Economic Zone
+Distribution without parent accepted name	11318	W-Por-264850	Western Australia (state)
+Distribution without parent accepted name	11663	W-Por-607820	Victoria (Australian state)
+Distribution without parent accepted name	12983	W-Por-171485	East England
+Distribution without parent accepted name	13225	W-Por-167069	South East Asia
+Distribution without parent accepted name	15752	W-Por-412621	East Antarctic Dronning Maud Land
+--------------
+SELECT 'Accepted name without parent family', record_id, name_code, genus, species, infraspecies, family_code FROM scientific_names
+WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+--------------
+
+--------------
+SELECT 'Reference link to non-existing accepted name', record_id, reference_code, name_code FROM scientific_name_references
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+Reference link to non-existing accepted name	record_id	reference_code	name_code
+Reference link to non-existing accepted name	231	W-Por-9314	W-Por-167459
+Reference link to non-existing accepted name	338	W-Por-138966	W-Por-164688
+Reference link to non-existing accepted name	383	W-Por-7356	W-Por-190634
+Reference link to non-existing accepted name	384	W-Por-7475	W-Por-459136
+Reference link to non-existing accepted name	390	W-Por-7763	W-Por-362555
+Reference link to non-existing accepted name	413	W-Por-8985	W-Por-170714
+Reference link to non-existing accepted name	424	W-Por-7557	W-Por-164681
+Reference link to non-existing accepted name	434	W-Por-7675	W-Por-193772
+Reference link to non-existing accepted name	445	W-Por-7675	W-Por-165394
+Reference link to non-existing accepted name	462	W-Por-9898	W-Por-234411
+Reference link to non-existing accepted name	502	W-Por-7997	W-Por-167069
+Reference link to non-existing accepted name	600	W-Por-7794	W-Por-191573
+Reference link to non-existing accepted name	602	W-Por-138691	W-Por-195827
+Reference link to non-existing accepted name	741	W-Por-7675	W-Por-193781
+Reference link to non-existing accepted name	793	W-Por-7448	W-Por-170443
+Reference link to non-existing accepted name	840	W-Por-43903	W-Por-166170
+Reference link to non-existing accepted name	966	W-Por-1421	W-Por-133314
+Reference link to non-existing accepted name	1092	W-Por-7391	W-Por-193355
+Reference link to non-existing accepted name	1237	W-Por-194951	W-Por-827723
+Reference link to non-existing accepted name	1251	W-Por-7835	W-Por-189833
+Reference link to non-existing accepted name	1257	W-Por-193023	W-Por-817978
+Reference link to non-existing accepted name	1359	W-Por-8186	W-Por-171670
+Reference link to non-existing accepted name	1396	W-Por-8207	W-Por-189819
+Reference link to non-existing accepted name	1407	W-Por-8180	W-Por-190411
+Reference link to non-existing accepted name	1416	W-Por-7384	W-Por-133290
+Reference link to non-existing accepted name	1445	W-Por-7448	W-Por-165198
+Reference link to non-existing accepted name	1641	W-Por-100017	W-Por-597816
+Reference link to non-existing accepted name	1650	W-Por-8350	W-Por-189812
+Reference link to non-existing accepted name	1668	W-Por-8180	W-Por-169111
+Reference link to non-existing accepted name	1675	W-Por-7557	W-Por-190081
+Reference link to non-existing accepted name	1683	W-Por-1421	W-Por-132217
+Reference link to non-existing accepted name	1687	W-Por-7763	W-Por-346677
+Reference link to non-existing accepted name	1780	W-Por-44041	W-Por-193596
+Reference link to non-existing accepted name	1864	W-Por-8185	W-Por-597286
+Reference link to non-existing accepted name	1926	W-Por-7336	W-Por-408840
+Reference link to non-existing accepted name	1972	W-Por-9230	W-Por-192125
+Reference link to non-existing accepted name	1988	W-Por-8223	W-Por-166271
+Reference link to non-existing accepted name	2136	W-Por-7688	W-Por-189827
+Reference link to non-existing accepted name	2210	W-Por-7384	W-Por-133317
+Reference link to non-existing accepted name	2257	W-Por-169780	W-Por-742740
+Reference link to non-existing accepted name	2365	W-Por-1421	W-Por-133144
+Reference link to non-existing accepted name	2369	W-Por-170393	W-Por-742734
+Reference link to non-existing accepted name	2386	W-Por-8598	W-Por-597551
+Reference link to non-existing accepted name	2502	W-Por-44041	W-Por-167485
+Reference link to non-existing accepted name	2526	W-Por-7675	W-Por-193827
+Reference link to non-existing accepted name	2559	W-Por-8134	W-Por-194131
+Reference link to non-existing accepted name	2564	W-Por-132582	W-Por-236222
+Reference link to non-existing accepted name	2604	W-Por-7763	W-Por-346554
+Reference link to non-existing accepted name	2639	W-Por-150860	W-Por-171771
+Reference link to non-existing accepted name	2696	W-Por-7675	W-Por-193791
+Reference link to non-existing accepted name	2758	W-Por-7675	W-Por-195688
+Reference link to non-existing accepted name	2772	W-Por-1421	W-Por-134206
+Reference link to non-existing accepted name	2879	W-Por-7457	W-Por-165148
+Reference link to non-existing accepted name	2894	W-Por-7946	W-Por-192697
+Reference link to non-existing accepted name	2920	W-Por-7693	W-Por-178364
+Reference link to non-existing accepted name	2921	W-Por-8354	W-Por-196843
+Reference link to non-existing accepted name	2936	W-Por-1421	W-Por-132436
+Reference link to non-existing accepted name	3025	W-Por-9291	W-Por-170577
+Reference link to non-existing accepted name	3035	W-Por-9419	W-Por-266970
+Reference link to non-existing accepted name	3044	W-Por-43903	W-Por-178499
+Reference link to non-existing accepted name	3046	W-Por-7821	W-Por-169670
+Reference link to non-existing accepted name	3075	W-Por-8995	W-Por-560018
+Reference link to non-existing accepted name	3107	W-Por-8402	W-Por-165261
+Reference link to non-existing accepted name	3313	W-Por-7675	W-Por-195721
+Reference link to non-existing accepted name	3353	W-Por-7675	W-Por-594536
+Reference link to non-existing accepted name	3377	W-Por-7821	W-Por-194042
+Reference link to non-existing accepted name	3379	W-Por-1421	W-Por-132227
+Reference link to non-existing accepted name	3393	W-Por-7771	W-Por-598960
+Reference link to non-existing accepted name	3396	W-Por-7655	W-Por-165497
+Reference link to non-existing accepted name	3397	W-Por-8186	W-Por-367542
+Reference link to non-existing accepted name	3437	W-Por-7763	W-Por-193706
+Reference link to non-existing accepted name	3479	W-Por-8213	W-Por-189823
+Reference link to non-existing accepted name	3563	W-Por-8180	W-Por-171650
+Reference link to non-existing accepted name	3573	W-Por-7801	W-Por-190829
+Reference link to non-existing accepted name	3594	W-Por-138646	W-Por-171485
+Reference link to non-existing accepted name	3599	W-Por-7290	W-Por-192297
+Reference link to non-existing accepted name	3601	W-Por-8542	W-Por-170552
+Reference link to non-existing accepted name	3610	W-Por-7675	W-Por-165245
+Reference link to non-existing accepted name	3635	W-Por-7557	W-Por-190107
+Reference link to non-existing accepted name	3670	W-Por-7763	W-Por-346678
+Reference link to non-existing accepted name	3686	W-Por-43903	W-Por-573753
+Reference link to non-existing accepted name	3723	W-Por-7578	W-Por-170500
+Reference link to non-existing accepted name	3769	W-Por-162892	W-Por-817960
+Reference link to non-existing accepted name	3771	W-Por-7448	W-Por-422747
+Reference link to non-existing accepted name	3866	W-Por-7675	W-Por-165233
+Reference link to non-existing accepted name	3946	W-Por-7448	W-Por-394776
+Reference link to non-existing accepted name	3984	W-Por-169703	W-Por-739251
+Reference link to non-existing accepted name	3993	W-Por-43903	W-Por-291631
+Reference link to non-existing accepted name	4015	W-Por-141796	W-Por-166497
+Reference link to non-existing accepted name	4030	W-Por-43903	W-Por-268167
+Reference link to non-existing accepted name	4071	W-Por-7675	W-Por-195686
+Reference link to non-existing accepted name	4116	W-Por-8213	W-Por-189839
+Reference link to non-existing accepted name	4182	W-Por-7920	W-Por-367377
+Reference link to non-existing accepted name	4317	W-Por-1421	W-Por-133922
+Reference link to non-existing accepted name	4395	W-Por-7645	W-Por-189991
+Reference link to non-existing accepted name	4396	W-Por-7694	W-Por-132329
+Reference link to non-existing accepted name	4426	W-Por-7675	W-Por-165169
+Reference link to non-existing accepted name	4428	W-Por-132619	W-Por-593577
+Reference link to non-existing accepted name	4454	W-Por-194950	W-Por-827743
+Reference link to non-existing accepted name	4463	W-Por-7448	W-Por-170477
+Reference link to non-existing accepted name	4465	W-Por-663	W-Por-133151
+Reference link to non-existing accepted name	4494	W-Por-8306	W-Por-234394
+Reference link to non-existing accepted name	4634	W-Por-7780	W-Por-196702
+Reference link to non-existing accepted name	4721	W-Por-194950	W-Por-827738
+Reference link to non-existing accepted name	4814	W-Por-141259	W-Por-367546
+Reference link to non-existing accepted name	4918	W-Por-10069	W-Por-190090
+Reference link to non-existing accepted name	4983	W-Por-8179	W-Por-132287
+Reference link to non-existing accepted name	4993	W-Por-7224	W-Por-171763
+Reference link to non-existing accepted name	5023	W-Por-1421	W-Por-134160
+Reference link to non-existing accepted name	5044	W-Por-7530	W-Por-167397
+Reference link to non-existing accepted name	5052	W-Por-44041	W-Por-193599
+Reference link to non-existing accepted name	5062	W-Por-1421	W-Por-134062
+Reference link to non-existing accepted name	5101	W-Por-7675	W-Por-815346
+Reference link to non-existing accepted name	5125	W-Por-7763	W-Por-193822
+Reference link to non-existing accepted name	5134	W-Por-7290	W-Por-192287
+Reference link to non-existing accepted name	5162	W-Por-9419	W-Por-598956
+Reference link to non-existing accepted name	5164	W-Por-8123	W-Por-241000
+Reference link to non-existing accepted name	5282	W-Por-1421	W-Por-132426
+Reference link to non-existing accepted name	5368	W-Por-8134	W-Por-170896
+Reference link to non-existing accepted name	5379	W-Por-7787	W-Por-827587
+Reference link to non-existing accepted name	5461	W-Por-7763	W-Por-362591
+Reference link to non-existing accepted name	5468	W-Por-165332	W-Por-714911
+Reference link to non-existing accepted name	5493	W-Por-8180	W-Por-169113
+Reference link to non-existing accepted name	5647	W-Por-169780	W-Por-742727
+Reference link to non-existing accepted name	5710	W-Por-7771	W-Por-598961
+Reference link to non-existing accepted name	5735	W-Por-8597	W-Por-191248
+Reference link to non-existing accepted name	6010	W-Por-7820	W-Por-165486
+Reference link to non-existing accepted name	6053	W-Por-7557	W-Por-146489
+Reference link to non-existing accepted name	6074	W-Por-133492	W-Por-169779
+Reference link to non-existing accepted name	6078	W-Por-7675	W-Por-195720
+Reference link to non-existing accepted name	6120	W-Por-7763	W-Por-346558
+Reference link to non-existing accepted name	6196	W-Por-7448	W-Por-191171
+Reference link to non-existing accepted name	6290	W-Por-44036	W-Por-268169
+Reference link to non-existing accepted name	6303	W-Por-7714	W-Por-190344
+Reference link to non-existing accepted name	6323	W-Por-7557	W-Por-190108
+Reference link to non-existing accepted name	6326	W-Por-7823	W-Por-194049
+Reference link to non-existing accepted name	6384	W-Por-8501	W-Por-192391
+Reference link to non-existing accepted name	6398	W-Por-7686	W-Por-189829
+Reference link to non-existing accepted name	6399	W-Por-148639	W-Por-412621
+Reference link to non-existing accepted name	6406	W-Por-7325	W-Por-133165
+Reference link to non-existing accepted name	6468	W-Por-193218	W-Por-818978
+Reference link to non-existing accepted name	6476	W-Por-7675	W-Por-594538
+Reference link to non-existing accepted name	6481	W-Por-165332	W-Por-714915
+Reference link to non-existing accepted name	6499	W-Por-7675	W-Por-195685
+Reference link to non-existing accepted name	6664	W-Por-44028	W-Por-754662
+Reference link to non-existing accepted name	6703	W-Por-7990	W-Por-189838
+Reference link to non-existing accepted name	6745	W-Por-7448	W-Por-165184
+Reference link to non-existing accepted name	6754	W-Por-7763	W-Por-362559
+Reference link to non-existing accepted name	6785	W-Por-7292	W-Por-517594
+Reference link to non-existing accepted name	6854	W-Por-44031	W-Por-264850
+Reference link to non-existing accepted name	6878	W-Por-7111	W-Por-607425
+Reference link to non-existing accepted name	6891	W-Por-7448	W-Por-193793
+Reference link to non-existing accepted name	6940	W-Por-7693	W-Por-189859
+Reference link to non-existing accepted name	6954	W-Por-1421	W-Por-132292
+Reference link to non-existing accepted name	7080	W-Por-150860	W-Por-171764
+Reference link to non-existing accepted name	7116	W-Por-8351	W-Por-133954
+Reference link to non-existing accepted name	7133	W-Por-132582	W-Por-165654
+Reference link to non-existing accepted name	7173	W-Por-7763	W-Por-193809
+Reference link to non-existing accepted name	7185	W-Por-7148	W-Por-608076
+Reference link to non-existing accepted name	7263	W-Por-7124	W-Por-240424
+Reference link to non-existing accepted name	7281	W-Por-8180	W-Por-133220
+Reference link to non-existing accepted name	7319	W-Por-7675	W-Por-165231
+Reference link to non-existing accepted name	7519	W-Por-7655	W-Por-164990
+Reference link to non-existing accepted name	7527	W-Por-35810	W-Por-193632
+Reference link to non-existing accepted name	7568	W-Por-7821	W-Por-165412
+Reference link to non-existing accepted name	7584	W-Por-145448	W-Por-468857
+Reference link to non-existing accepted name	7615	W-Por-7681	W-Por-189835
+Reference link to non-existing accepted name	7634	W-Por-44036	W-Por-267170
+Reference link to non-existing accepted name	7647	W-Por-1421	W-Por-132432
+Reference link to non-existing accepted name	7656	W-Por-7417	W-Por-164717
+Reference link to non-existing accepted name	7734	W-Por-8446	W-Por-821607
+Reference link to non-existing accepted name	7771	W-Por-7448	W-Por-165166
+Reference link to non-existing accepted name	7772	W-Por-8354	W-Por-380409
+Reference link to non-existing accepted name	7853	W-Por-7694	W-Por-190962
+Reference link to non-existing accepted name	7857	W-Por-194950	W-Por-827742
+Reference link to non-existing accepted name	7874	W-Por-7402	W-Por-231722
+Reference link to non-existing accepted name	7890	W-Por-7883	W-Por-165798
+Reference link to non-existing accepted name	7913	W-Por-7765	W-Por-167231
+Reference link to non-existing accepted name	7926	W-Por-190494	W-Por-815471
+Reference link to non-existing accepted name	7933	W-Por-7224	W-Por-171748
+Reference link to non-existing accepted name	8019	W-Por-7448	W-Por-194548
+Reference link to non-existing accepted name	8021	W-Por-7981	W-Por-242615
+Reference link to non-existing accepted name	8136	W-Por-63171	W-Por-133223
+Reference link to non-existing accepted name	8150	W-Por-7675	W-Por-193818
+Reference link to non-existing accepted name	8279	W-Por-7556	W-Por-236308
+Reference link to non-existing accepted name	8283	W-Por-7231	W-Por-132231
+Reference link to non-existing accepted name	8297	W-Por-8176	W-Por-132740
+Reference link to non-existing accepted name	8354	W-Por-150860	W-Por-171773
+Reference link to non-existing accepted name	8482	W-Por-7578	W-Por-190665
+Reference link to non-existing accepted name	8483	W-Por-8017	W-Por-192209
+Reference link to non-existing accepted name	8499	W-Por-7814	W-Por-557245
+Reference link to non-existing accepted name	8518	W-Por-7766	W-Por-464439
+Reference link to non-existing accepted name	8576	W-Por-7259	W-Por-170277
+Reference link to non-existing accepted name	8591	W-Por-150860	W-Por-171746
+Reference link to non-existing accepted name	8636	W-Por-7448	W-Por-169664
+Reference link to non-existing accepted name	8657	W-Por-10069	W-Por-164687
+Reference link to non-existing accepted name	8678	W-Por-7530	W-Por-233997
+Reference link to non-existing accepted name	8680	W-Por-7384	W-Por-133364
+Reference link to non-existing accepted name	8705	W-Por-7694	W-Por-132184
+Reference link to non-existing accepted name	8747	W-Por-8180	W-Por-418833
+Reference link to non-existing accepted name	8864	W-Por-7384	W-Por-133299
+Reference link to non-existing accepted name	8879	W-Por-8221	W-Por-189813
+Reference link to non-existing accepted name	8881	W-Por-43010	W-Por-193829
+Reference link to non-existing accepted name	8907	W-Por-8197	W-Por-559292
+Reference link to non-existing accepted name	8948	W-Por-7207	W-Por-191345
+Reference link to non-existing accepted name	9028	W-Por-8223	W-Por-190930
+Reference link to non-existing accepted name	9135	W-Por-7448	W-Por-194542
+Reference link to non-existing accepted name	9162	W-Por-7267	W-Por-236307
+Reference link to non-existing accepted name	9193	W-Por-6833	W-Por-171740
+Reference link to non-existing accepted name	9261	W-Por-7833	W-Por-195684
+Reference link to non-existing accepted name	9265	W-Por-7448	W-Por-193792
+Reference link to non-existing accepted name	9308	W-Por-8338	W-Por-236760
+Reference link to non-existing accepted name	9312	W-Por-7763	W-Por-346503
+Reference link to non-existing accepted name	9364	W-Por-7645	W-Por-396901
+Reference link to non-existing accepted name	9390	W-Por-44038	W-Por-268165
+Reference link to non-existing accepted name	9532	W-Por-150860	W-Por-171772
+Reference link to non-existing accepted name	9584	W-Por-7557	W-Por-190057
+Reference link to non-existing accepted name	9629	W-Por-7763	W-Por-193676
+Reference link to non-existing accepted name	9632	W-Por-7448	W-Por-169635
+Reference link to non-existing accepted name	9637	W-Por-132619	W-Por-593578
+Reference link to non-existing accepted name	9675	W-Por-132308	W-Por-167238
+Reference link to non-existing accepted name	9697	W-Por-7578	W-Por-170502
+Reference link to non-existing accepted name	9699	W-Por-42963	W-Por-242614
+Reference link to non-existing accepted name	9711	W-Por-7763	W-Por-165246
+Reference link to non-existing accepted name	9747	W-Por-7771	W-Por-598962
+Reference link to non-existing accepted name	9762	W-Por-44037	W-Por-268164
+Reference link to non-existing accepted name	9838	W-Por-7833	W-Por-195682
+Reference link to non-existing accepted name	9861	W-Por-194951	W-Por-827749
+Reference link to non-existing accepted name	9938	W-Por-7820	W-Por-193118
+Reference link to non-existing accepted name	9955	W-Por-44041	W-Por-193580
+Reference link to non-existing accepted name	10008	W-Por-150860	W-Por-171741
+Reference link to non-existing accepted name	10016	W-Por-7680	W-Por-189836
+Reference link to non-existing accepted name	10077	W-Por-7675	W-Por-165200
+Reference link to non-existing accepted name	10113	W-Por-7763	W-Por-346504
+Reference link to non-existing accepted name	10190	W-Por-7675	W-Por-193761
+Reference link to non-existing accepted name	10196	W-Por-194951	W-Por-827744
+Reference link to non-existing accepted name	10214	W-Por-142169	W-Por-167185
+Reference link to non-existing accepted name	10240	W-Por-8186	W-Por-192606
+Reference link to non-existing accepted name	10276	W-Por-7763	W-Por-362594
+Reference link to non-existing accepted name	10306	W-Por-8254	W-Por-410773
+Reference link to non-existing accepted name	10328	W-Por-7920	W-Por-367376
+Reference link to non-existing accepted name	10401	W-Por-7578	W-Por-170514
+Reference link to non-existing accepted name	10570	W-Por-142036	W-Por-167142
+Reference link to non-existing accepted name	10613	W-Por-138691	W-Por-560390
+Reference link to non-existing accepted name	10683	W-Por-169780	W-Por-742744
+Reference link to non-existing accepted name	10721	W-Por-7714	W-Por-596898
+Reference link to non-existing accepted name	10781	W-Por-8213	W-Por-189811
+Reference link to non-existing accepted name	10826	W-Por-7345	W-Por-194020
+Reference link to non-existing accepted name	10859	W-Por-7208	W-Por-591100
+Reference link to non-existing accepted name	10895	W-Por-7340	W-Por-190912
+Reference link to non-existing accepted name	10942	W-Por-7694	W-Por-134295
+Reference link to non-existing accepted name	10943	W-Por-7675	W-Por-193821
+Reference link to non-existing accepted name	10946	W-Por-7607	W-Por-465703
+Reference link to non-existing accepted name	10954	W-Por-43010	W-Por-165249
+Reference link to non-existing accepted name	10980	W-Por-1421	W-Por-133224
+Reference link to non-existing accepted name	11004	W-Por-7384	W-Por-168508
+Reference link to non-existing accepted name	11012	W-Por-7764	W-Por-711728
+Reference link to non-existing accepted name	11022	W-Por-43010	W-Por-165172
+Reference link to non-existing accepted name	11039	W-Por-7324	W-Por-234183
+Reference link to non-existing accepted name	11048	W-Por-8402	W-Por-164903
+Reference link to non-existing accepted name	11067	W-Por-7763	W-Por-362558
+Reference link to non-existing accepted name	11072	W-Por-165332	W-Por-714914
+Reference link to non-existing accepted name	11177	W-Por-43903	W-Por-193668
+Reference link to non-existing accepted name	11181	W-Por-7823	W-Por-194052
+Reference link to non-existing accepted name	11195	W-Por-8180	W-Por-178371
+Reference link to non-existing accepted name	11211	W-Por-1421	W-Por-132585
+Reference link to non-existing accepted name	11268	W-Por-43903	W-Por-267171
+Reference link to non-existing accepted name	11277	W-Por-165331	W-Por-714973
+Reference link to non-existing accepted name	11294	W-Por-42257	W-Por-189965
+Reference link to non-existing accepted name	11305	W-Por-100017	W-Por-597818
+Reference link to non-existing accepted name	11318	W-Por-1421	W-Por-132453
+Reference link to non-existing accepted name	11356	W-Por-7208	W-Por-236226
+Reference link to non-existing accepted name	11357	W-Por-7530	W-Por-164828
+Reference link to non-existing accepted name	11428	W-Por-7721	W-Por-189822
+Reference link to non-existing accepted name	11509	W-Por-6841	W-Por-194032
+Reference link to non-existing accepted name	11545	W-Por-7799	W-Por-397154
+Reference link to non-existing accepted name	11586	W-Por-7530	W-Por-192738
+Reference link to non-existing accepted name	11631	W-Por-671	W-Por-170647
+Reference link to non-existing accepted name	11634	W-Por-8252	W-Por-134007
+Reference link to non-existing accepted name	11700	W-Por-7821	W-Por-164991
+Reference link to non-existing accepted name	11853	W-Por-150860	W-Por-171742
+Reference link to non-existing accepted name	11858	W-Por-7578	W-Por-178367
+Reference link to non-existing accepted name	11899	W-Por-165331	W-Por-714979
+Reference link to non-existing accepted name	11925	W-Por-7801	W-Por-555688
+Reference link to non-existing accepted name	11926	W-Por-6841	W-Por-170276
+Reference link to non-existing accepted name	11946	W-Por-7448	W-Por-394774
+Reference link to non-existing accepted name	12007	W-Por-7557	W-Por-164680
+Reference link to non-existing accepted name	12020	W-Por-44041	W-Por-165337
+Reference link to non-existing accepted name	12040	W-Por-7319	W-Por-744861
+Reference link to non-existing accepted name	12041	W-Por-7946	W-Por-178884
+Reference link to non-existing accepted name	12075	W-Por-8175	W-Por-133370
+Reference link to non-existing accepted name	12081	W-Por-7675	W-Por-165232
+Reference link to non-existing accepted name	12090	W-Por-9419	W-Por-598959
+Reference link to non-existing accepted name	12099	W-Por-8180	W-Por-178365
+Reference link to non-existing accepted name	12221	W-Por-6833	W-Por-190636
+Reference link to non-existing accepted name	12321	W-Por-193021	W-Por-817959
+Reference link to non-existing accepted name	12448	W-Por-7751	W-Por-405936
+Reference link to non-existing accepted name	12449	W-Por-7763	W-Por-165280
+Reference link to non-existing accepted name	12530	W-Por-7763	W-Por-410069
+Reference link to non-existing accepted name	12607	W-Por-7675	W-Por-165243
+Reference link to non-existing accepted name	12874	W-Por-8180	W-Por-192828
+Reference link to non-existing accepted name	12877	W-Por-8430	W-Por-184442
+Reference link to non-existing accepted name	12933	W-Por-7675	W-Por-165196
+Reference link to non-existing accepted name	12997	W-Por-7557	W-Por-190079
+Reference link to non-existing accepted name	13049	W-Por-7990	W-Por-189815
+Reference link to non-existing accepted name	13073	W-Por-8175	W-Por-134272
+Reference link to non-existing accepted name	13124	W-Por-44041	W-Por-193636
+Reference link to non-existing accepted name	13160	W-Por-9291	W-Por-170573
+Reference link to non-existing accepted name	13223	W-Por-132764	W-Por-607820
+Reference link to non-existing accepted name	13248	W-Por-7680	W-Por-189832
+Reference link to non-existing accepted name	13309	W-Por-7448	W-Por-193802
+Reference link to non-existing accepted name	13332	W-Por-8284	W-Por-189820
+Reference link to non-existing accepted name	13369	W-Por-7448	W-Por-165190
+Reference link to non-existing accepted name	13411	W-Por-190494	W-Por-815464
+Reference link to non-existing accepted name	13420	W-Por-138966	W-Por-192698
+Reference link to non-existing accepted name	13436	W-Por-8501	W-Por-192386
+Reference link to non-existing accepted name	13499	W-Por-1421	W-Por-132607
+Reference link to non-existing accepted name	13528	W-Por-7530	W-Por-178346
+Reference link to non-existing accepted name	13541	W-Por-7325	W-Por-191630
+Reference link to non-existing accepted name	13553	W-Por-44036	W-Por-291630
+Reference link to non-existing accepted name	13571	W-Por-150860	W-Por-171745
+Reference link to non-existing accepted name	13599	W-Por-8186	W-Por-367379
+Reference link to non-existing accepted name	13656	W-Por-7990	W-Por-189814
+Reference link to non-existing accepted name	13669	W-Por-7821	W-Por-194054
+Reference link to non-existing accepted name	13693	W-Por-43903	W-Por-166233
+Reference link to non-existing accepted name	13697	W-Por-7771	W-Por-598955
+Reference link to non-existing accepted name	13707	W-Por-9108	W-Por-192104
+Reference link to non-existing accepted name	13733	W-Por-43010	W-Por-193776
+Reference link to non-existing accepted name	13738	W-Por-7476	W-Por-184452
+Reference link to non-existing accepted name	13809	W-Por-8041	W-Por-233887
+Reference link to non-existing accepted name	13838	W-Por-7763	W-Por-346556
+Reference link to non-existing accepted name	13877	W-Por-7394	W-Por-195840
+Reference link to non-existing accepted name	13879	W-Por-7675	W-Por-193811
+Reference link to non-existing accepted name	13922	W-Por-141796	W-Por-164865
+Reference link to non-existing accepted name	13925	W-Por-142187	W-Por-167078
+Reference link to non-existing accepted name	13931	W-Por-7686	W-Por-189826
+Reference link to non-existing accepted name	13933	W-Por-138939	W-Por-133917
+Reference link to non-existing accepted name	13935	W-Por-7876	W-Por-714728
+Reference link to non-existing accepted name	13959	W-Por-193073	W-Por-818074
+Reference link to non-existing accepted name	14016	W-Por-7448	W-Por-165191
+Reference link to non-existing accepted name	14026	W-Por-7675	W-Por-193825
+Reference link to non-existing accepted name	14065	W-Por-182101	W-Por-766546
+Reference link to non-existing accepted name	14070	W-Por-142139	W-Por-167232
+Reference link to non-existing accepted name	14298	W-Por-163792	W-Por-607858
+Reference link to non-existing accepted name	14322	W-Por-8186	W-Por-367543
+Reference link to non-existing accepted name	14344	W-Por-194951	W-Por-827752
+Reference link to non-existing accepted name	14475	W-Por-165332	W-Por-714912
+Reference link to non-existing accepted name	14478	W-Por-7675	W-Por-193803
+Reference link to non-existing accepted name	14480	W-Por-7691	W-Por-192164
+Reference link to non-existing accepted name	14515	W-Por-195583	W-Por-832086
+Reference link to non-existing accepted name	14566	W-Por-7282	W-Por-193338
+Reference link to non-existing accepted name	14593	W-Por-7763	W-Por-362560
+Reference link to non-existing accepted name	14754	W-Por-7821	W-Por-165319
+Reference link to non-existing accepted name	14771	W-Por-100017	W-Por-597817
+Reference link to non-existing accepted name	14903	W-Por-8571	W-Por-194512
+Reference link to non-existing accepted name	14945	W-Por-7680	W-Por-189834
+Reference link to non-existing accepted name	15055	W-Por-194950	W-Por-827741
+Reference link to non-existing accepted name	15058	W-Por-8501	W-Por-193816
+Reference link to non-existing accepted name	15086	W-Por-7324	W-Por-234184
+Reference link to non-existing accepted name	15124	W-Por-7457	W-Por-193649
+Reference link to non-existing accepted name	15139	W-Por-7821	W-Por-165332
+Reference link to non-existing accepted name	15146	W-Por-8598	W-Por-169781
+Reference link to non-existing accepted name	15211	W-Por-194951	W-Por-827724
+Reference link to non-existing accepted name	15218	W-Por-165332	W-Por-714909
+Reference link to non-existing accepted name	15240	W-Por-150540	W-Por-597552
+Reference link to non-existing accepted name	15253	W-Por-7557	W-Por-194246
+Reference link to non-existing accepted name	15270	W-Por-7767	W-Por-189828
+Reference link to non-existing accepted name	15287	W-Por-7448	W-Por-719534
+Reference link to non-existing accepted name	15360	W-Por-8213	W-Por-189830
+Reference link to non-existing accepted name	15517	W-Por-7448	W-Por-394772
+Reference link to non-existing accepted name	15674	W-Por-142514	W-Por-490098
+Reference link to non-existing accepted name	15687	W-Por-7581	W-Por-236309
+Reference link to non-existing accepted name	15806	W-Por-7448	W-Por-165357
+Reference link to non-existing accepted name	15843	W-Por-7821	W-Por-195458
+Reference link to non-existing accepted name	15875	W-Por-44036	W-Por-267169
+Reference link to non-existing accepted name	15889	W-Por-132582	W-Por-192300
+Reference link to non-existing accepted name	15965	W-Por-7660	W-Por-191449
+Reference link to non-existing accepted name	15986	W-Por-9419	W-Por-598957
+Reference link to non-existing accepted name	15988	W-Por-44041	W-Por-165149
+Reference link to non-existing accepted name	16015	W-Por-7466	W-Por-133090
+Reference link to non-existing accepted name	16017	W-Por-7833	W-Por-195683
+Reference link to non-existing accepted name	16024	W-Por-9419	W-Por-598954
+Reference link to non-existing accepted name	16141	W-Por-7693	W-Por-178363
+Reference link to non-existing accepted name	16142	W-Por-7557	W-Por-164520
+Reference link to non-existing accepted name	16143	W-Por-7686	W-Por-189840
+Reference link to non-existing accepted name	16146	W-Por-9230	W-Por-234325
+Reference link to non-existing accepted name	16158	W-Por-7448	W-Por-165213
+Reference link to non-existing accepted name	16247	W-Por-8122	W-Por-192284
+Reference link to non-existing accepted name	16248	W-Por-150860	W-Por-171766
+Reference link to non-existing accepted name	16321	W-Por-195580	W-Por-829372
+Reference link to non-existing accepted name	16391	W-Por-7990	W-Por-189817
+Reference link to non-existing accepted name	16400	W-Por-8501	W-Por-719501
+Reference link to non-existing accepted name	16439	W-Por-7448	W-Por-193787
+Reference link to non-existing accepted name	16451	W-Por-7694	W-Por-132618
+Reference link to non-existing accepted name	16500	W-Por-7767	W-Por-437241
+Reference link to non-existing accepted name	16525	W-Por-7686	W-Por-189824
+Reference link to non-existing accepted name	16541	W-Por-138658	W-Por-190078
+Reference link to non-existing accepted name	16549	W-Por-7675	W-Por-165183
+Reference link to non-existing accepted name	16604	W-Por-7675	W-Por-193812
+Reference link to non-existing accepted name	16624	W-Por-43903	W-Por-410053
+Reference link to non-existing accepted name	16709	W-Por-7448	W-Por-170442
+Reference link to non-existing accepted name	16710	W-Por-7448	W-Por-193770
+Reference link to non-existing accepted name	16746	W-Por-8597	W-Por-242183
+Reference link to non-existing accepted name	16748	W-Por-7448	W-Por-165238
+Reference link to non-existing accepted name	16749	W-Por-8213	W-Por-464440
+Reference link to non-existing accepted name	16759	W-Por-194951	W-Por-832085
+Reference link to non-existing accepted name	16760	W-Por-7821	W-Por-165320
+Reference link to non-existing accepted name	16801	W-Por-165332	W-Por-714908
+Reference link to non-existing accepted name	16810	W-Por-7448	W-Por-165199
+Reference link to non-existing accepted name	16857	W-Por-43903	W-Por-193669
+Reference link to non-existing accepted name	16860	W-Por-7821	W-Por-190400
+Reference link to non-existing accepted name	16888	W-Por-7680	W-Por-189816
+Reference link to non-existing accepted name	17029	W-Por-7680	W-Por-189825
+Reference link to non-existing accepted name	17059	W-Por-9419	W-Por-598958
+Reference link to non-existing accepted name	17065	W-Por-7675	W-Por-165247
+Reference link to non-existing accepted name	17073	W-Por-9848	W-Por-234182
+Reference link to non-existing accepted name	17196	W-Por-7660	W-Por-191413
+Reference link to non-existing accepted name	17218	W-Por-7675	W-Por-165234
+Reference link to non-existing accepted name	17305	W-Por-7384	W-Por-191131
+Reference link to non-existing accepted name	17357	W-Por-7249	W-Por-189810
+Reference link to non-existing accepted name	17369	W-Por-1421	W-Por-132433
+Reference link to non-existing accepted name	17405	W-Por-7448	W-Por-193788
+Reference link to non-existing accepted name	17424	W-Por-142172	W-Por-480130
+Reference link to non-existing accepted name	17427	W-Por-7530	W-Por-164817
+Reference link to non-existing accepted name	17433	W-Por-7530	W-Por-192039
+Reference link to non-existing accepted name	17475	W-Por-3042	W-Por-157408
+Reference link to non-existing accepted name	17493	W-Por-7292	W-Por-410776
+Reference link to non-existing accepted name	17499	W-Por-194951	W-Por-827759
+Reference link to non-existing accepted name	17518	W-Por-7675	W-Por-165214
+Reference link to non-existing accepted name	17526	W-Por-169780	W-Por-742741
+Reference link to non-existing accepted name	17527	W-Por-100017	W-Por-597813
+Reference link to non-existing accepted name	17539	W-Por-7448	W-Por-170891
+Reference link to non-existing accepted name	17547	W-Por-100017	W-Por-597814
+Reference link to non-existing accepted name	17598	W-Por-7530	W-Por-178343
+Reference link to non-existing accepted name	17617	W-Por-7813	W-Por-190093
+Reference link to non-existing accepted name	17623	W-Por-165332	W-Por-714913
+Reference link to non-existing accepted name	17625	W-Por-7763	W-Por-362593
+Reference link to non-existing accepted name	17692	W-Por-7530	W-Por-478550
+Reference link to non-existing accepted name	17748	W-Por-7578	W-Por-190670
+Reference link to non-existing accepted name	17786	W-Por-8595	W-Por-195371
+Reference link to non-existing accepted name	17797	W-Por-169780	W-Por-742747
+Reference link to non-existing accepted name	17808	W-Por-9314	W-Por-169637
+Reference link to non-existing accepted name	17911	W-Por-194951	W-Por-832084
+Reference link to non-existing accepted name	17956	W-Por-7691	W-Por-527496
+Reference link to non-existing accepted name	17961	W-Por-8213	W-Por-189821
+Reference link to non-existing accepted name	17964	W-Por-170393	W-Por-742733
+Reference link to non-existing accepted name	17979	W-Por-8279	W-Por-189831
+Reference link to non-existing accepted name	18000	W-Por-150860	W-Por-171765
+Reference link to non-existing accepted name	18043	W-Por-44041	W-Por-165321
+Reference link to non-existing accepted name	18201	W-Por-7578	W-Por-170513
+Reference link to non-existing accepted name	18214	W-Por-671	W-Por-266971
+Reference link to non-existing accepted name	18250	W-Por-165331	W-Por-714976
+Reference link to non-existing accepted name	18261	W-Por-7578	W-Por-190671
+Reference link to non-existing accepted name	18266	W-Por-7675	W-Por-165182
+Reference link to non-existing accepted name	18317	W-Por-132582	W-Por-414510
+Reference link to non-existing accepted name	18333	W-Por-146695	W-Por-747334
+Reference link to non-existing accepted name	18357	W-Por-145489	W-Por-529745
+Reference link to non-existing accepted name	18389	W-Por-8180	W-Por-170426
+Reference link to non-existing accepted name	18390	W-Por-7698	W-Por-193408
+Reference link to non-existing accepted name	18403	W-Por-7675	W-Por-193794
+Reference link to non-existing accepted name	18411	W-Por-7763	W-Por-346290
+Reference link to non-existing accepted name	18465	W-Por-7765	W-Por-362595
+Reference link to non-existing accepted name	18493	W-Por-7448	W-Por-170888
+Reference link to non-existing accepted name	18524	W-Por-7578	W-Por-190663
+Reference link to non-existing accepted name	18532	W-Por-7775	W-Por-708877
+Reference link to non-existing accepted name	18582	W-Por-7946	W-Por-192695
+Reference link to non-existing accepted name	18587	W-Por-7563	W-Por-169850
+Reference link to non-existing accepted name	18629	W-Por-132144	W-Por-171775
+Reference link to non-existing accepted name	18655	W-Por-195583	W-Por-832087
+Reference link to non-existing accepted name	18685	W-Por-8206	W-Por-189837
+Reference link to non-existing accepted name	18700	W-Por-141993	W-Por-167140
+Reference link to non-existing accepted name	18709	W-Por-7448	W-Por-170898
+Reference link to non-existing accepted name	18728	W-Por-7356	W-Por-164545
+Reference link to non-existing accepted name	18763	W-Por-7766	W-Por-178289
+Reference link to non-existing accepted name	18808	W-Por-7675	W-Por-195722
+Reference link to non-existing accepted name	18829	W-Por-7660	W-Por-191457
+Reference link to non-existing accepted name	18899	W-Por-7946	W-Por-192694
+Reference link to non-existing accepted name	18914	W-Por-8191	W-Por-562486
+Reference link to non-existing accepted name	18932	W-Por-8206	W-Por-367992
+Reference link to non-existing accepted name	18941	W-Por-8099	W-Por-194035
+Reference link to non-existing accepted name	18964	W-Por-7763	W-Por-362556
+Reference link to non-existing accepted name	18973	W-Por-7675	W-Por-194771
+Reference link to non-existing accepted name	18978	W-Por-7788	W-Por-178372
+Reference link to non-existing accepted name	18981	W-Por-7897	W-Por-194736
+Reference link to non-existing accepted name	19014	W-Por-7763	W-Por-362592
+Reference link to non-existing accepted name	19038	W-Por-8213	W-Por-189818
+Reference link to non-existing accepted name	19052	W-Por-7821	W-Por-165322
+Reference link to non-existing accepted name	19067	W-Por-7394	W-Por-192294
+Reference link to non-existing accepted name	19094	W-Por-7448	W-Por-394775
+Reference link to non-existing accepted name	19097	W-Por-7290	W-Por-191807
+Reference link to non-existing accepted name	19205	W-Por-7675	W-Por-195735
+Reference link to non-existing accepted name	19226	W-Por-7448	W-Por-170454
+Reference link to non-existing accepted name	19254	W-Por-8179	W-Por-191141
+Reference link to non-existing accepted name	19264	W-Por-7448	W-Por-171790
+Reference link to non-existing accepted name	19268	W-Por-194951	W-Por-832083
+Reference link to non-existing accepted name	19280	W-Por-7448	W-Por-193782
+Reference link to non-existing accepted name	19298	W-Por-7557	W-Por-194247
+Reference link to non-existing accepted name	19303	W-Por-8542	W-Por-195693
+Reference link to non-existing accepted name	19327	W-Por-7675	W-Por-397259
+Reference link to non-existing accepted name	19350	W-Por-7448	W-Por-191172
+--------------
+SELECT 'Reference link to non-existing reference', record_id, reference_code, name_code FROM scientific_name_references
+WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+--------------
+
+Reference link to non-existing reference	record_id	reference_code	name_code
+Reference link to non-existing reference	2	W-Por-147411	W-Por-132181
+Reference link to non-existing reference	3	W-Por-163039	W-Por-132487
+Reference link to non-existing reference	4	W-Por-163039	W-Por-165081
+Reference link to non-existing reference	5	W-Por-163039	W-Por-266969
+Reference link to non-existing reference	7	W-Por-147411	W-Por-132377
+Reference link to non-existing reference	8	W-Por-147412	W-Por-132201
+Reference link to non-existing reference	9	W-Por-147412	W-Por-132317
+Reference link to non-existing reference	10	W-Por-147412	W-Por-150243
+Reference link to non-existing reference	11	W-Por-2901	W-Por-157411
+Reference link to non-existing reference	13	W-Por-163039	W-Por-133913
+Reference link to non-existing reference	14	W-Por-163039	W-Por-134121
+Reference link to non-existing reference	15	W-Por-147412	W-Por-165853
+Reference link to non-existing reference	16	W-Por-147411	W-Por-133961
+Reference link to non-existing reference	19	W-Por-147411	W-Por-165251
+Reference link to non-existing reference	20	W-Por-163039	W-Por-166616
+Reference link to non-existing reference	21	W-Por-163039	W-Por-166837
+Reference link to non-existing reference	22	W-Por-163039	W-Por-134311
+Reference link to non-existing reference	23	W-Por-147411	W-Por-134024
+Reference link to non-existing reference	24	W-Por-147411	W-Por-133941
+Reference link to non-existing reference	25	W-Por-147411	W-Por-132430
+Reference link to non-existing reference	26	W-Por-163039	W-Por-132321
+Reference link to non-existing reference	30	W-Por-147411	W-Por-191482
+Reference link to non-existing reference	31	W-Por-147412	W-Por-132736
+Reference link to non-existing reference	32	W-Por-147412	W-Por-152475
+Reference link to non-existing reference	34	W-Por-147411	W-Por-133938
+Reference link to non-existing reference	36	W-Por-147411	W-Por-133958
+Reference link to non-existing reference	38	W-Por-2901	W-Por-132588
+Reference link to non-existing reference	39	W-Por-2901	W-Por-132216
+Reference link to non-existing reference	42	W-Por-147411	W-Por-165220
+Reference link to non-existing reference	43	W-Por-163043	W-Por-133911
+Reference link to non-existing reference	44	W-Por-163039	W-Por-132324
+Reference link to non-existing reference	45	W-Por-163039	W-Por-133693
+Reference link to non-existing reference	47	W-Por-163039	W-Por-132472
+Reference link to non-existing reference	48	W-Por-147412	W-Por-133259
+Reference link to non-existing reference	50	W-Por-163039	W-Por-134112
+Reference link to non-existing reference	51	W-Por-163039	W-Por-134146
+Reference link to non-existing reference	53	W-Por-147412	W-Por-236327
+Reference link to non-existing reference	55	W-Por-147411	W-Por-165801
+Reference link to non-existing reference	56	W-Por-147411	W-Por-132380
+Reference link to non-existing reference	57	W-Por-163039	W-Por-132499
+Reference link to non-existing reference	58	W-Por-163039	W-Por-133679
+Reference link to non-existing reference	62	W-Por-147412	W-Por-134210
+Reference link to non-existing reference	63	W-Por-147411	W-Por-165160
+Reference link to non-existing reference	64	W-Por-163039	W-Por-133928
+Reference link to non-existing reference	65	W-Por-147411	W-Por-134106
+Reference link to non-existing reference	67	W-Por-147412	W-Por-134285
+Reference link to non-existing reference	68	W-Por-2901	W-Por-157373
+Reference link to non-existing reference	69	W-Por-2901	W-Por-132218
+Reference link to non-existing reference	71	W-Por-163043	W-Por-132275
+Reference link to non-existing reference	73	W-Por-147411	W-Por-132407
+Reference link to non-existing reference	74	W-Por-147412	W-Por-132316
+Reference link to non-existing reference	75	W-Por-147411	W-Por-167144
+Reference link to non-existing reference	77	W-Por-147411	W-Por-132511
+Reference link to non-existing reference	78	W-Por-147411	W-Por-134348
+Reference link to non-existing reference	80	W-Por-147412	W-Por-244432
+Reference link to non-existing reference	82	W-Por-163043	W-Por-132454
+Reference link to non-existing reference	84	W-Por-147411	W-Por-165250
+Reference link to non-existing reference	85	W-Por-147411	W-Por-134011
+Reference link to non-existing reference	86	W-Por-147411	W-Por-134025
+Reference link to non-existing reference	87	W-Por-10085	W-Por-132473
+Reference link to non-existing reference	88	W-Por-2901	W-Por-132762
+Reference link to non-existing reference	92	W-Por-7614	W-Por-175295
+Reference link to non-existing reference	204	W-Por-7384	W-Por-195502
+Reference link to non-existing reference	210	W-Por-7384	W-Por-168528
+Reference link to non-existing reference	213	W-Por-8203	W-Por-195704
+Reference link to non-existing reference	222	W-Por-7412	W-Por-195401
+Reference link to non-existing reference	279	W-Por-7384	W-Por-132598
+Reference link to non-existing reference	286	W-Por-7384	W-Por-193107
+Reference link to non-existing reference	288	W-Por-7614	W-Por-192645
+Reference link to non-existing reference	428	W-Por-42	W-Por-157391
+Reference link to non-existing reference	451	W-Por-8387	W-Por-132521
+Reference link to non-existing reference	467	W-Por-7412	W-Por-190580
+Reference link to non-existing reference	557	W-Por-132308	W-Por-195374
+Reference link to non-existing reference	596	W-Por-8387	W-Por-133989
+Reference link to non-existing reference	599	W-Por-7359	W-Por-165711
+Reference link to non-existing reference	659	W-Por-8387	W-Por-183627
+Reference link to non-existing reference	685	W-Por-7412	W-Por-166848
+Reference link to non-existing reference	720	W-Por-8387	W-Por-168544
+Reference link to non-existing reference	723	W-Por-8387	W-Por-192442
+Reference link to non-existing reference	830	W-Por-7359	W-Por-195493
+Reference link to non-existing reference	855	W-Por-7833	W-Por-195465
+Reference link to non-existing reference	936	W-Por-7412	W-Por-170890
+Reference link to non-existing reference	965	W-Por-7359	W-Por-168076
+Reference link to non-existing reference	980	W-Por-7833	W-Por-170129
+Reference link to non-existing reference	1008	W-Por-7412	W-Por-166755
+Reference link to non-existing reference	1029	W-Por-7614	W-Por-568000
+Reference link to non-existing reference	1067	W-Por-7833	W-Por-170222
+Reference link to non-existing reference	1081	W-Por-7614	W-Por-195610
+Reference link to non-existing reference	1130	W-Por-141756	W-Por-474836
+Reference link to non-existing reference	1239	W-Por-8387	W-Por-190502
+Reference link to non-existing reference	1259	W-Por-7412	W-Por-414493
+Reference link to non-existing reference	1289	W-Por-7614	W-Por-718577
+Reference link to non-existing reference	1306	W-Por-7384	W-Por-134476
+Reference link to non-existing reference	1372	W-Por-7384	W-Por-165821
+Reference link to non-existing reference	1416	W-Por-7384	W-Por-133290
+Reference link to non-existing reference	1442	W-Por-8387	W-Por-168543
+Reference link to non-existing reference	1574	W-Por-7614	W-Por-168996
+Reference link to non-existing reference	1576	W-Por-8387	W-Por-133490
+Reference link to non-existing reference	1637	W-Por-7384	W-Por-132832
+Reference link to non-existing reference	1655	W-Por-7614	W-Por-169338
+Reference link to non-existing reference	1677	W-Por-9914	W-Por-195848
+Reference link to non-existing reference	1712	W-Por-7384	W-Por-132671
+Reference link to non-existing reference	1757	W-Por-7412	W-Por-380198
+Reference link to non-existing reference	1763	W-Por-7412	W-Por-238712
+Reference link to non-existing reference	1835	W-Por-8387	W-Por-132299
+Reference link to non-existing reference	1837	W-Por-7412	W-Por-166967
+Reference link to non-existing reference	1847	W-Por-8387	W-Por-236300
+Reference link to non-existing reference	1868	W-Por-132308	W-Por-195762
+Reference link to non-existing reference	1869	W-Por-7614	W-Por-170512
+Reference link to non-existing reference	1903	W-Por-7412	W-Por-192470
+Reference link to non-existing reference	1928	W-Por-7614	W-Por-168909
+Reference link to non-existing reference	1943	W-Por-8387	W-Por-193481
+Reference link to non-existing reference	1981	W-Por-7384	W-Por-132672
+Reference link to non-existing reference	2083	W-Por-8387	W-Por-132688
+Reference link to non-existing reference	2163	W-Por-8387	W-Por-236213
+Reference link to non-existing reference	2210	W-Por-7384	W-Por-133317
+Reference link to non-existing reference	2220	W-Por-7614	W-Por-195611
+Reference link to non-existing reference	2261	W-Por-7412	W-Por-238718
+Reference link to non-existing reference	2320	W-Por-7833	W-Por-170148
+Reference link to non-existing reference	2357	W-Por-7412	W-Por-192950
+Reference link to non-existing reference	2445	W-Por-7384	W-Por-134134
+Reference link to non-existing reference	2671	W-Por-7614	W-Por-166969
+Reference link to non-existing reference	2678	W-Por-7614	W-Por-167904
+Reference link to non-existing reference	2695	W-Por-7412	W-Por-193446
+Reference link to non-existing reference	2755	W-Por-7614	W-Por-169280
+Reference link to non-existing reference	2833	W-Por-8387	W-Por-195410
+Reference link to non-existing reference	2852	W-Por-8387	W-Por-150218
+Reference link to non-existing reference	2940	W-Por-7412	W-Por-168876
+Reference link to non-existing reference	2973	W-Por-7412	W-Por-192883
+Reference link to non-existing reference	3160	W-Por-7412	W-Por-191985
+Reference link to non-existing reference	3162	W-Por-7384	W-Por-166460
+Reference link to non-existing reference	3225	W-Por-7412	W-Por-814799
+Reference link to non-existing reference	3326	W-Por-8387	W-Por-133053
+Reference link to non-existing reference	3352	W-Por-7384	W-Por-195638
+Reference link to non-existing reference	3493	W-Por-7412	W-Por-190488
+Reference link to non-existing reference	3595	W-Por-7614	W-Por-169596
+Reference link to non-existing reference	3681	W-Por-7384	W-Por-181131
+Reference link to non-existing reference	3694	W-Por-7384	W-Por-195478
+Reference link to non-existing reference	3698	W-Por-7359	W-Por-171315
+Reference link to non-existing reference	3705	W-Por-7412	W-Por-171234
+Reference link to non-existing reference	3782	W-Por-7833	W-Por-170111
+Reference link to non-existing reference	3868	W-Por-7384	W-Por-166461
+Reference link to non-existing reference	3903	W-Por-7412	W-Por-195766
+Reference link to non-existing reference	3909	W-Por-7359	W-Por-170883
+Reference link to non-existing reference	3944	W-Por-7384	W-Por-195639
+Reference link to non-existing reference	4010	W-Por-7833	W-Por-195466
+Reference link to non-existing reference	4162	W-Por-7384	W-Por-195503
+Reference link to non-existing reference	4240	W-Por-8387	W-Por-133011
+Reference link to non-existing reference	4249	W-Por-7614	W-Por-195618
+Reference link to non-existing reference	4383	W-Por-7833	W-Por-170095
+Reference link to non-existing reference	4402	W-Por-132308	W-Por-167239
+Reference link to non-existing reference	4435	W-Por-7412	W-Por-194763
+Reference link to non-existing reference	4450	W-Por-7412	W-Por-166614
+Reference link to non-existing reference	4703	W-Por-7384	W-Por-180946
+Reference link to non-existing reference	4728	W-Por-7384	W-Por-134452
+Reference link to non-existing reference	4756	W-Por-7412	W-Por-525480
+Reference link to non-existing reference	4763	W-Por-7384	W-Por-133359
+Reference link to non-existing reference	4868	W-Por-7614	W-Por-175119
+Reference link to non-existing reference	5001	W-Por-7359	W-Por-164961
+Reference link to non-existing reference	5033	W-Por-7412	W-Por-166609
+Reference link to non-existing reference	5059	W-Por-7384	W-Por-134299
+Reference link to non-existing reference	5074	W-Por-8387	W-Por-236252
+Reference link to non-existing reference	5135	W-Por-8387	W-Por-133051
+Reference link to non-existing reference	5230	W-Por-7614	W-Por-184418
+Reference link to non-existing reference	5302	W-Por-7359	W-Por-166352
+Reference link to non-existing reference	5376	W-Por-7412	W-Por-193045
+Reference link to non-existing reference	5391	W-Por-7412	W-Por-193314
+Reference link to non-existing reference	5477	W-Por-7412	W-Por-167995
+Reference link to non-existing reference	5579	W-Por-7614	W-Por-193477
+Reference link to non-existing reference	5651	W-Por-7384	W-Por-181136
+Reference link to non-existing reference	5703	W-Por-7384	W-Por-181132
+Reference link to non-existing reference	5715	W-Por-7614	W-Por-165903
+Reference link to non-existing reference	5721	W-Por-7359	W-Por-167606
+Reference link to non-existing reference	5770	W-Por-7614	W-Por-191307
+Reference link to non-existing reference	5836	W-Por-7412	W-Por-234230
+Reference link to non-existing reference	5838	W-Por-8387	W-Por-167628
+Reference link to non-existing reference	5847	W-Por-7614	W-Por-175276
+Reference link to non-existing reference	5911	W-Por-7412	W-Por-510927
+Reference link to non-existing reference	5914	W-Por-8387	W-Por-134204
+Reference link to non-existing reference	6004	W-Por-7359	W-Por-166226
+Reference link to non-existing reference	6084	W-Por-7614	W-Por-196520
+Reference link to non-existing reference	6104	W-Por-7412	W-Por-191456
+Reference link to non-existing reference	6162	W-Por-9914	W-Por-166164
+Reference link to non-existing reference	6228	W-Por-7384	W-Por-367255
+Reference link to non-existing reference	6240	W-Por-7412	W-Por-167776
+Reference link to non-existing reference	6244	W-Por-7384	W-Por-134466
+Reference link to non-existing reference	6347	W-Por-7614	W-Por-192034
+Reference link to non-existing reference	6351	W-Por-7412	W-Por-191548
+Reference link to non-existing reference	6602	W-Por-7614	W-Por-196738
+Reference link to non-existing reference	6613	W-Por-7833	W-Por-170214
+Reference link to non-existing reference	6636	W-Por-8387	W-Por-410055
+Reference link to non-existing reference	6645	W-Por-7412	W-Por-168703
+Reference link to non-existing reference	6715	W-Por-7614	W-Por-192312
+Reference link to non-existing reference	6719	W-Por-7614	W-Por-240981
+Reference link to non-existing reference	6726	W-Por-7359	W-Por-233933
+Reference link to non-existing reference	6731	W-Por-7384	W-Por-132896
+Reference link to non-existing reference	6791	W-Por-7412	W-Por-166627
+Reference link to non-existing reference	6815	W-Por-7359	W-Por-404784
+Reference link to non-existing reference	6819	W-Por-7833	W-Por-195469
+Reference link to non-existing reference	6874	W-Por-7412	W-Por-510940
+Reference link to non-existing reference	6897	W-Por-7614	W-Por-195569
+Reference link to non-existing reference	6908	W-Por-7833	W-Por-170104
+Reference link to non-existing reference	6919	W-Por-7412	W-Por-165996
+Reference link to non-existing reference	7158	W-Por-7614	W-Por-168663
+Reference link to non-existing reference	7371	W-Por-7384	W-Por-134475
+Reference link to non-existing reference	7381	W-Por-7412	W-Por-195512
+Reference link to non-existing reference	7405	W-Por-7833	W-Por-170191
+Reference link to non-existing reference	7413	W-Por-7412	W-Por-166182
+Reference link to non-existing reference	7466	W-Por-7412	W-Por-168842
+Reference link to non-existing reference	7487	W-Por-7412	W-Por-165634
+Reference link to non-existing reference	7498	W-Por-7412	W-Por-194621
+Reference link to non-existing reference	7564	W-Por-9914	W-Por-195863
+Reference link to non-existing reference	7600	W-Por-7412	W-Por-193272
+Reference link to non-existing reference	7669	W-Por-7412	W-Por-190450
+Reference link to non-existing reference	7690	W-Por-7614	W-Por-239370
+Reference link to non-existing reference	7845	W-Por-7359	W-Por-195496
+Reference link to non-existing reference	7889	W-Por-7412	W-Por-165922
+Reference link to non-existing reference	7930	W-Por-7384	W-Por-195416
+Reference link to non-existing reference	8013	W-Por-7412	W-Por-193432
+Reference link to non-existing reference	8034	W-Por-7412	W-Por-166860
+Reference link to non-existing reference	8084	W-Por-7614	W-Por-574345
+Reference link to non-existing reference	8156	W-Por-7384	W-Por-195499
+Reference link to non-existing reference	8241	W-Por-7614	W-Por-169603
+Reference link to non-existing reference	8350	W-Por-7833	W-Por-170213
+Reference link to non-existing reference	8355	W-Por-7384	W-Por-166842
+Reference link to non-existing reference	8578	W-Por-7833	W-Por-366337
+Reference link to non-existing reference	8624	W-Por-8387	W-Por-194110
+Reference link to non-existing reference	8680	W-Por-7384	W-Por-133364
+Reference link to non-existing reference	8683	W-Por-7412	W-Por-190542
+Reference link to non-existing reference	8703	W-Por-7614	W-Por-192500
+Reference link to non-existing reference	8864	W-Por-7384	W-Por-133299
+Reference link to non-existing reference	9056	W-Por-7359	W-Por-168636
+Reference link to non-existing reference	9136	W-Por-7412	W-Por-166004
+Reference link to non-existing reference	9139	W-Por-7614	W-Por-167424
+Reference link to non-existing reference	9261	W-Por-7833	W-Por-195684
+Reference link to non-existing reference	9414	W-Por-7384	W-Por-168531
+Reference link to non-existing reference	9472	W-Por-7384	W-Por-557284
+Reference link to non-existing reference	9497	W-Por-7384	W-Por-195507
+Reference link to non-existing reference	9636	W-Por-7614	W-Por-169432
+Reference link to non-existing reference	9675	W-Por-132308	W-Por-167238
+Reference link to non-existing reference	9734	W-Por-7384	W-Por-133281
+Reference link to non-existing reference	9742	W-Por-7412	W-Por-166990
+Reference link to non-existing reference	9758	W-Por-7833	W-Por-170105
+Reference link to non-existing reference	9759	W-Por-7384	W-Por-168656
+Reference link to non-existing reference	9838	W-Por-7833	W-Por-195682
+Reference link to non-existing reference	9924	W-Por-7614	W-Por-195601
+Reference link to non-existing reference	9939	W-Por-7384	W-Por-190045
+Reference link to non-existing reference	9946	W-Por-7614	W-Por-246643
+Reference link to non-existing reference	10049	W-Por-7412	W-Por-193221
+Reference link to non-existing reference	10125	W-Por-7412	W-Por-191803
+Reference link to non-existing reference	10175	W-Por-7614	W-Por-168910
+Reference link to non-existing reference	10275	W-Por-7614	W-Por-169056
+Reference link to non-existing reference	10354	W-Por-7384	W-Por-132857
+Reference link to non-existing reference	10445	W-Por-7359	W-Por-190661
+Reference link to non-existing reference	10571	W-Por-7359	W-Por-191124
+Reference link to non-existing reference	10686	W-Por-7384	W-Por-166395
+Reference link to non-existing reference	10697	W-Por-7412	W-Por-165465
+Reference link to non-existing reference	10733	W-Por-7614	W-Por-568003
+Reference link to non-existing reference	10747	W-Por-7412	W-Por-167446
+Reference link to non-existing reference	10894	W-Por-7412	W-Por-191872
+Reference link to non-existing reference	10897	W-Por-7412	W-Por-325440
+Reference link to non-existing reference	10905	W-Por-7412	W-Por-168251
+Reference link to non-existing reference	11004	W-Por-7384	W-Por-168508
+Reference link to non-existing reference	11071	W-Por-7412	W-Por-165871
+Reference link to non-existing reference	11143	W-Por-7412	W-Por-234376
+Reference link to non-existing reference	11228	W-Por-7833	W-Por-170190
+Reference link to non-existing reference	11249	W-Por-7412	W-Por-169318
+Reference link to non-existing reference	11421	W-Por-8203	W-Por-165222
+Reference link to non-existing reference	11541	W-Por-7412	W-Por-169020
+Reference link to non-existing reference	11554	W-Por-7412	W-Por-234375
+Reference link to non-existing reference	11588	W-Por-7384	W-Por-195479
+Reference link to non-existing reference	11614	W-Por-7614	W-Por-191809
+Reference link to non-existing reference	11696	W-Por-7384	W-Por-134472
+Reference link to non-existing reference	11773	W-Por-7384	W-Por-195641
+Reference link to non-existing reference	11906	W-Por-7359	W-Por-195492
+Reference link to non-existing reference	12008	W-Por-7614	W-Por-167390
+Reference link to non-existing reference	12031	W-Por-7384	W-Por-195480
+Reference link to non-existing reference	12033	W-Por-7359	W-Por-190680
+Reference link to non-existing reference	12086	W-Por-64	W-Por-132940
+Reference link to non-existing reference	12116	W-Por-42	W-Por-169367
+Reference link to non-existing reference	12208	W-Por-7412	W-Por-170660
+Reference link to non-existing reference	12249	W-Por-8387	W-Por-191259
+Reference link to non-existing reference	12317	W-Por-7614	W-Por-167418
+Reference link to non-existing reference	12427	W-Por-7833	W-Por-170096
+Reference link to non-existing reference	12429	W-Por-7833	W-Por-170153
+Reference link to non-existing reference	12450	W-Por-7614	W-Por-191944
+Reference link to non-existing reference	12505	W-Por-7614	W-Por-530746
+Reference link to non-existing reference	12538	W-Por-7412	W-Por-408424
+Reference link to non-existing reference	12577	W-Por-7412	W-Por-191462
+Reference link to non-existing reference	12634	W-Por-7412	W-Por-517291
+Reference link to non-existing reference	12668	W-Por-7384	W-Por-134469
+Reference link to non-existing reference	12719	W-Por-7359	W-Por-166815
+Reference link to non-existing reference	12763	W-Por-7614	W-Por-168400
+Reference link to non-existing reference	12791	W-Por-7359	W-Por-164960
+Reference link to non-existing reference	12825	W-Por-8203	W-Por-477359
+Reference link to non-existing reference	12844	W-Por-7614	W-Por-190745
+Reference link to non-existing reference	12875	W-Por-7359	W-Por-190164
+Reference link to non-existing reference	12878	W-Por-7412	W-Por-165672
+Reference link to non-existing reference	12884	W-Por-7359	W-Por-195495
+Reference link to non-existing reference	12967	W-Por-7412	W-Por-166285
+Reference link to non-existing reference	12980	W-Por-7833	W-Por-195467
+Reference link to non-existing reference	13024	W-Por-7412	W-Por-165933
+Reference link to non-existing reference	13047	W-Por-7412	W-Por-165546
+Reference link to non-existing reference	13133	W-Por-7384	W-Por-194696
+Reference link to non-existing reference	13137	W-Por-7412	W-Por-165706
+Reference link to non-existing reference	13155	W-Por-7384	W-Por-170181
+Reference link to non-existing reference	13201	W-Por-7384	W-Por-134467
+Reference link to non-existing reference	13399	W-Por-7614	W-Por-167902
+Reference link to non-existing reference	13418	W-Por-8387	W-Por-827793
+Reference link to non-existing reference	13425	W-Por-7384	W-Por-195504
+Reference link to non-existing reference	13471	W-Por-7412	W-Por-171321
+Reference link to non-existing reference	13606	W-Por-7359	W-Por-195494
+Reference link to non-existing reference	13612	W-Por-7614	W-Por-191244
+Reference link to non-existing reference	13666	W-Por-7384	W-Por-195506
+Reference link to non-existing reference	13749	W-Por-7412	W-Por-165547
+Reference link to non-existing reference	13823	W-Por-7412	W-Por-171263
+Reference link to non-existing reference	13905	W-Por-7412	W-Por-192955
+Reference link to non-existing reference	14022	W-Por-7412	W-Por-193241
+Reference link to non-existing reference	14035	W-Por-7412	W-Por-166718
+Reference link to non-existing reference	14140	W-Por-7384	W-Por-132772
+Reference link to non-existing reference	14141	W-Por-7614	W-Por-168930
+Reference link to non-existing reference	14225	W-Por-7412	W-Por-234390
+Reference link to non-existing reference	14245	W-Por-7412	W-Por-711591
+Reference link to non-existing reference	14268	W-Por-7614	W-Por-193282
+Reference link to non-existing reference	14302	W-Por-42	W-Por-157379
+Reference link to non-existing reference	14327	W-Por-7614	W-Por-192580
+Reference link to non-existing reference	14370	W-Por-7359	W-Por-550383
+Reference link to non-existing reference	14446	W-Por-7384	W-Por-195501
+Reference link to non-existing reference	14472	W-Por-7384	W-Por-183616
+Reference link to non-existing reference	14603	W-Por-7412	W-Por-412634
+Reference link to non-existing reference	14636	W-Por-7412	W-Por-192949
+Reference link to non-existing reference	14644	W-Por-7384	W-Por-132559
+Reference link to non-existing reference	14685	W-Por-7359	W-Por-192437
+Reference link to non-existing reference	14732	W-Por-7384	W-Por-195505
+Reference link to non-existing reference	14758	W-Por-7359	W-Por-166330
+Reference link to non-existing reference	14766	W-Por-7614	W-Por-167401
+Reference link to non-existing reference	14779	W-Por-7384	W-Por-195487
+Reference link to non-existing reference	14887	W-Por-7359	W-Por-244448
+Reference link to non-existing reference	14904	W-Por-7412	W-Por-192941
+Reference link to non-existing reference	14905	W-Por-7833	W-Por-170106
+Reference link to non-existing reference	14978	W-Por-7384	W-Por-134454
+Reference link to non-existing reference	15008	W-Por-7614	W-Por-170723
+Reference link to non-existing reference	15022	W-Por-7412	W-Por-195403
+Reference link to non-existing reference	15089	W-Por-7412	W-Por-193029
+Reference link to non-existing reference	15110	W-Por-7412	W-Por-166991
+Reference link to non-existing reference	15122	W-Por-7359	W-Por-167317
+Reference link to non-existing reference	15128	W-Por-7614	W-Por-169051
+Reference link to non-existing reference	15169	W-Por-9914	W-Por-195846
+Reference link to non-existing reference	15196	W-Por-8387	W-Por-836398
+Reference link to non-existing reference	15198	W-Por-7833	W-Por-195468
+Reference link to non-existing reference	15216	W-Por-7833	W-Por-170189
+Reference link to non-existing reference	15293	W-Por-7384	W-Por-134462
+Reference link to non-existing reference	15294	W-Por-7833	W-Por-191320
+Reference link to non-existing reference	15312	W-Por-7614	W-Por-195584
+Reference link to non-existing reference	15331	W-Por-8203	W-Por-195705
+Reference link to non-existing reference	15338	W-Por-7412	W-Por-165984
+Reference link to non-existing reference	15345	W-Por-7614	W-Por-165904
+Reference link to non-existing reference	15371	W-Por-8203	W-Por-165221
+Reference link to non-existing reference	15391	W-Por-7384	W-Por-132897
+Reference link to non-existing reference	15509	W-Por-7384	W-Por-195607
+Reference link to non-existing reference	15552	W-Por-7833	W-Por-170141
+Reference link to non-existing reference	15649	W-Por-7412	W-Por-167003
+Reference link to non-existing reference	15771	W-Por-7614	W-Por-169362
+Reference link to non-existing reference	15790	W-Por-7412	W-Por-171382
+Reference link to non-existing reference	15805	W-Por-7412	W-Por-169021
+Reference link to non-existing reference	15855	W-Por-7384	W-Por-165858
+Reference link to non-existing reference	15880	W-Por-7384	W-Por-181135
+Reference link to non-existing reference	16017	W-Por-7833	W-Por-195683
+Reference link to non-existing reference	16039	W-Por-8387	W-Por-133003
+Reference link to non-existing reference	16197	W-Por-7412	W-Por-165962
+Reference link to non-existing reference	16239	W-Por-7833	W-Por-170147
+Reference link to non-existing reference	16274	W-Por-7359	W-Por-194373
+Reference link to non-existing reference	16314	W-Por-7614	W-Por-489339
+Reference link to non-existing reference	16389	W-Por-7359	W-Por-192795
+Reference link to non-existing reference	16398	W-Por-7359	W-Por-195488
+Reference link to non-existing reference	16404	W-Por-7384	W-Por-195608
+Reference link to non-existing reference	16526	W-Por-7359	W-Por-178408
+Reference link to non-existing reference	16551	W-Por-7384	W-Por-181133
+Reference link to non-existing reference	16582	W-Por-7384	W-Por-195640
+Reference link to non-existing reference	16643	W-Por-7359	W-Por-171035
+Reference link to non-existing reference	16661	W-Por-7412	W-Por-165545
+Reference link to non-existing reference	16702	W-Por-7412	W-Por-166818
+Reference link to non-existing reference	16733	W-Por-7384	W-Por-246126
+Reference link to non-existing reference	16769	W-Por-7384	W-Por-132791
+Reference link to non-existing reference	16782	W-Por-7384	W-Por-134463
+Reference link to non-existing reference	16787	W-Por-7412	W-Por-169345
+Reference link to non-existing reference	16827	W-Por-7384	W-Por-195500
+Reference link to non-existing reference	16961	W-Por-7614	W-Por-567224
+Reference link to non-existing reference	17052	W-Por-7384	W-Por-195508
+Reference link to non-existing reference	17057	W-Por-7384	W-Por-134455
+Reference link to non-existing reference	17061	W-Por-7359	W-Por-190908
+Reference link to non-existing reference	17091	W-Por-7614	W-Por-170681
+Reference link to non-existing reference	17137	W-Por-7614	W-Por-167420
+Reference link to non-existing reference	17172	W-Por-7614	W-Por-568002
+Reference link to non-existing reference	17205	W-Por-7412	W-Por-167001
+Reference link to non-existing reference	17305	W-Por-7384	W-Por-191131
+Reference link to non-existing reference	17319	W-Por-7384	W-Por-181134
+Reference link to non-existing reference	17322	W-Por-7412	W-Por-167587
+Reference link to non-existing reference	17323	W-Por-7614	W-Por-238735
+Reference link to non-existing reference	17334	W-Por-7384	W-Por-166309
+Reference link to non-existing reference	17519	W-Por-7412	W-Por-195646
+Reference link to non-existing reference	17578	W-Por-7384	W-Por-195498
+Reference link to non-existing reference	17649	W-Por-7614	W-Por-170640
+Reference link to non-existing reference	17783	W-Por-8387	W-Por-193036
+Reference link to non-existing reference	17995	W-Por-7833	W-Por-170212
+Reference link to non-existing reference	18012	W-Por-8387	W-Por-825493
+Reference link to non-existing reference	18030	W-Por-7412	W-Por-192951
+Reference link to non-existing reference	18101	W-Por-7412	W-Por-190336
+Reference link to non-existing reference	18134	W-Por-7614	W-Por-246644
+Reference link to non-existing reference	18203	W-Por-7614	W-Por-170686
+Reference link to non-existing reference	18321	W-Por-7614	W-Por-568001
+Reference link to non-existing reference	18391	W-Por-7384	W-Por-833638
+Reference link to non-existing reference	18407	W-Por-7412	W-Por-195847
+Reference link to non-existing reference	18457	W-Por-7359	W-Por-164959
+Reference link to non-existing reference	18462	W-Por-7614	W-Por-175045
+Reference link to non-existing reference	18548	W-Por-7614	W-Por-567758
+Reference link to non-existing reference	18597	W-Por-7412	W-Por-168010
+Reference link to non-existing reference	18614	W-Por-7359	W-Por-170476
+Reference link to non-existing reference	18616	W-Por-7412	W-Por-242180
+Reference link to non-existing reference	18670	W-Por-7614	W-Por-170806
+Reference link to non-existing reference	18736	W-Por-7412	W-Por-166810
+Reference link to non-existing reference	18802	W-Por-7384	W-Por-165836
+Reference link to non-existing reference	18820	W-Por-8387	W-Por-491978
+Reference link to non-existing reference	18858	W-Por-7833	W-Por-170100
+Reference link to non-existing reference	18882	W-Por-7614	W-Por-814869
+Reference link to non-existing reference	18943	W-Por-7833	W-Por-814734
+Reference link to non-existing reference	18956	W-Por-7412	W-Por-195389
+Reference link to non-existing reference	18968	W-Por-7384	W-Por-165817
+Reference link to non-existing reference	19004	W-Por-7614	W-Por-169435
+Reference link to non-existing reference	19006	W-Por-7614	W-Por-195692
+Reference link to non-existing reference	19065	W-Por-7412	W-Por-191228
+Reference link to non-existing reference	19118	W-Por-7384	W-Por-195497
+Reference link to non-existing reference	19251	W-Por-7412	W-Por-168702
+Reference link to non-existing reference	19294	W-Por-7412	W-Por-195402
+Reference link to non-existing reference	19305	W-Por-7614	W-Por-191678
+Reference link to non-existing reference	19347	W-Por-7412	W-Por-165707
+Reference link to non-existing reference	19368	W-Por-7359	W-Por-166367
+--------------
+SELECT 'Specialist not present in scientific names table', record_id, specialist_name, specialist_code FROM specialists
+WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+--------------
+
+--------------
+SELECT 'Reference without parent accepted or common name', record_id, author, year, title, reference_code FROM `references`
+WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
+UNION SELECT DISTINCT reference_code FROM common_names)
+--------------
+
+Reference without parent accepted or common name	record_id	author	year	title	reference_code
+Reference without parent accepted or common name	4	Westendorp, G.D.	1843	NULL	W-Por-1309
+Reference without parent accepted or common name	6	Cristobo, F. J.	1998	NULL	W-Por-42910
+Reference without parent accepted or common name	7	Wörheide, G.	2008	NULL	W-Por-156288
+Reference without parent accepted or common name	11	Coelho, E.L.; Mello-Leite, A. de,	1978	NULL	W-Por-172642
+Reference without parent accepted or common name	12	Økland, K.A.; Økland, J.	1989	NULL	W-Por-172649
+Reference without parent accepted or common name	16	Fol,  H.	1890	NULL	W-Por-191643
+Reference without parent accepted or common name	18	Rützler, K.; Piantoni, C.; Van Soest, R. W. M.; Diaz, M. C.	2014	NULL	W-Por-191664
+Reference without parent accepted or common name	19	Lendenfeld, R. von	1897	NULL	W-Por-191668
+Reference without parent accepted or common name	20	Van Soest, R.; De Voogd, N.	2013	NULL	W-Por-171021
+Reference without parent accepted or common name	25	Gray, S.F.	1821	NULL	W-Por-173181
+Reference without parent accepted or common name	34	Sarà, M.	1952	NULL	W-Por-195843
+Reference without parent accepted or common name	49	Zainuddin, I.; Pauzi, M.A.; Abdul Razak, L.; Yazid, M.Y.	2000	NULL	W-Por-182059
+Reference without parent accepted or common name	51	Ereskovsky, A.V.; Lavrov, D.V.; Boury-Esnault, N.; Vacelet, J.	2011	NULL	W-Por-149281
+Reference without parent accepted or common name	53	Van Lear, G. E.; Morton, G. O.; Fulmor, W.	1973	NULL	W-Por-190486
+Reference without parent accepted or common name	55	Dendy, A.; Frederick, L. M.	1924	NULL	W-Por-190448
+Reference without parent accepted or common name	58	Sar?, M.; Bavestrello, G.; Mensi, P.	1992	NULL	W-Por-149033
+Reference without parent accepted or common name	59	Borges, P.A.V., Costa, A., Cunha, R., Gabriel, R., Gonçalves, V., Martins, A.F., Melo, I., Parente, M., Raposeiro, P., Rodrigues, P., Santos, R.S., Silva, L., Vieira, P. & Vieira, V. (Eds.)	2010	NULL	W-Por-149079
+Reference without parent accepted or common name	82	Manconi, R.; Pronzato, R.	2007	NULL	W-Por-168648
+Reference without parent accepted or common name	85	Ridley, C. P.; Bergquist, P. R.; Harper, M. K.; Faulkner, D. J.; Hooper, J. N. A.; Haygood, M. G.	2005	NULL	W-Por-168329
+Reference without parent accepted or common name	86	Duran, C.; Solorzano, M. R.	1982	NULL	W-Por-164340
+Reference without parent accepted or common name	87	Ereskovsky, A. V.; Boury-Esnault, N.	2002	NULL	W-Por-162641
+Reference without parent accepted or common name	91	Muricy, G.; Silva, O. C.	1999	NULL	W-Por-156348
+Reference without parent accepted or common name	92	Turque, A. S.; Batista, D.; Silveira, C. B.; Cardoso, A. M.; Vieira, R. P.; Moraes, F. C.; Clementino, M. M.; Albano, R. M.; Paranhos, R.; Martins, O. B.; Muricy, G.	2010	NULL	W-Por-156359
+Reference without parent accepted or common name	95	R W M Van Soest	1976	NULL	W-Por-43171
+Reference without parent accepted or common name	99	Bitar, G.; Dailianis, T.; Zibrowius, H.; P?rez, T.	2008	NULL	W-Por-149343
+Reference without parent accepted or common name	102	Jones, W. C.	1987	NULL	W-Por-147498
+Reference without parent accepted or common name	127	Lanna, E.; Cavalcanti, F. F.; Cardoso, L.; Muricy, G.; Klautau, M. 	2009	NULL	W-Por-127011
+Reference without parent accepted or common name	128	Ricciardi, A.; Reiswig, H. M.	1992	NULL	W-Por-133541
+Reference without parent accepted or common name	129	Macintyre, I. G.; Rützler, K.; Norris, J. N.; Smith, K. P.; Cairns, S. D.; Bucher, K. E.; Steneck, R. S.	1991	NULL	W-Por-133568
+Reference without parent accepted or common name	132	Rodriguez-Babio, C.; Lorenzo-Gondar, E.	1978	NULL	W-Por-130344
+Reference without parent accepted or common name	136	Breitfuss, L.	1935	NULL	W-Por-127046
+Reference without parent accepted or common name	139	Borojevic, R.; Graat-Kleeton, G.	1965	NULL	W-Por-127174
+Reference without parent accepted or common name	141	Solé-Cava, A. M.; Klautau, M.; Boury-Esnault, N.; Borojevic, R.; Thorpe, J. P.	1991	NULL	W-Por-124592
+Reference without parent accepted or common name	143	Veena, S. and Laxmilatha, P.	2011	NULL	W-Por-170370
+Reference without parent accepted or common name	153	Ereskovsky, A.V., Borchiellini, C., Gazave, E., Ivanisevic, J., Lapébie, P., Pérez, T., Renard, E. & Vacelet, J.	2009	NULL	W-Por-148150
+Reference without parent accepted or common name	154	Pronzato, R.; Manconi, R.	2008	NULL	W-Por-148197
+Reference without parent accepted or common name	157	Rützler, K.; Bromley, R. G.	1981	NULL	W-Por-149014
+Reference without parent accepted or common name	159	Koltun, V.M.	1970	NULL	W-Por-149021
+Reference without parent accepted or common name	165	Boury-Esnault, N.	1970	NULL	W-Por-149003
+Reference without parent accepted or common name	168	Cuénot, L.	1936	NULL	W-Por-149283
+Reference without parent accepted or common name	173	Bakran-Petricioli, T.; Vacelet, J.; Zibrowius, H.; Petricioli, D.; Chevaldonné, P.; Raa, T.	2007	NULL	W-Por-152180
+Reference without parent accepted or common name	186	Thomas, P.A.	1985	NULL	W-Por-166170
+Reference without parent accepted or common name	187	Nassonow, N.	1924	NULL	W-Por-166273
+Reference without parent accepted or common name	209	Pallas, P. S.	1766	NULL	W-Por-188051
+Reference without parent accepted or common name	213	Arndt, W.	1928	NULL	W-Por-149492
+Reference without parent accepted or common name	218	Poirrier, M. A.	1978	NULL	W-Por-162925
+Reference without parent accepted or common name	219	Bibiloni, M-A	1982	NULL	W-Por-195361
+Reference without parent accepted or common name	225	Fol,  H.	1890	NULL	W-Por-192961
+Reference without parent accepted or common name	229	Topsent, E.	1904	NULL	W-Por-177784
+Reference without parent accepted or common name	232	Volkmer-Ribeiro, C.; De Rosa-Barbosa, R.	1985	NULL	W-Por-152226
+Reference without parent accepted or common name	233	Aguilar, R.;  López Correa, M.; Calcinai, B.; Pastor, X.; De La Torriente, A.; Garcia, S.	2011	NULL	W-Por-152174
+Reference without parent accepted or common name	244	Cárdenas,P.; Rapp, H.T.;	2013	NULL	W-Por-169592
+Reference without parent accepted or common name	254	Klautau, M.; Custodio, M.R. & Borojevic, R.	1994	NULL	W-Por-156351
+Reference without parent accepted or common name	255	Salgado, A.; Vieiralves, T.; Lamarão, F.R.M.; Assumpção, L.L.M.; Gomes, D.; Jascone, L.; Valadão, A.L.; Albano, R.M. & Lôbo-Hajdu, G.	2007	NULL	W-Por-156355
+Reference without parent accepted or common name	256	Junqueira, A.O.R.; Tavares, M.D.S.; Schaeffer-Noveli, Y.; Radashevsky, V.I.; Cirelli, J.O.; Julio, L.M.; Romagnoli, E.C.; Santos, K.C. & Ferreira-Silva, M.A.G.	2009	NULL	W-Por-156356
+Reference without parent accepted or common name	257	Santos, O.C.S.; Pontes, P.V.M.L.; Santos, J.F.M.; Muricy, G.; Giambiagi-de Marval, M. & Laport, M.S.	2010	NULL	W-Por-156358
+Reference without parent accepted or common name	258	Nassar, C. A. G.; Silva, S. H. G.	1999	NULL	W-Por-156360
+Reference without parent accepted or common name	259	Junqueira, A.O.R.; Lavrado, H.P.; Viana, M.S. & Pinto, M.M.	2004	NULL	W-Por-156361
+Reference without parent accepted or common name	260	Schönberg, C.H.L.	2002	NULL	W-Por-156370
+Reference without parent accepted or common name	262	Santos, J.P.; Cantarelli, J. & Tenório, D.O.	2002	NULL	W-Por-156344
+Reference without parent accepted or common name	263	Longo, C.; Mastrototaro, F. & Corriero, G.	2007	NULL	W-Por-156349
+Reference without parent accepted or common name	264	Lôbo-Hajdu, G.; Salgado, A.; Rosario, M. L.; Hajdu, E.; Muricy, G.; Albano, R. M.	1999	NULL	W-Por-156352
+Reference without parent accepted or common name	265	Lanna, E.; Monteiro, L.C. & Klautau, M.	2007	NULL	W-Por-156354
+Reference without parent accepted or common name	275	Pinheiro, U. S.; Hajdu, E.; Correa, M. D.	2002	NULL	W-Por-152686
+Reference without parent accepted or common name	277	Meurer, B. C.; Lages, N. S.; Pereira, O. A.; Palhano, S.; Magalh?es, G. M.	2010	NULL	W-Por-147698
+Reference without parent accepted or common name	278	Xavier, J.R.; Van Soest, R.W.M.; Breeuwer, J.A.J.; Martins, A.M.F.; Menken, S.B.J.	2010	NULL	W-Por-147699
+Reference without parent accepted or common name	280	Bocage, J.V.B. Du,	1865	NULL	W-Por-167698
+Reference without parent accepted or common name	282	Thomas, P. A.	1973	NULL	W-Por-148304
+Reference without parent accepted or common name	285	R W M Van Soest	1989	NULL	W-Por-149085
+Reference without parent accepted or common name	289	Vanhöffen, E.	1897	NULL	W-Por-155156
+Reference without parent accepted or common name	290	Hoshino, S., Takeda, M., Watanabe, Y.	2003	NULL	W-Por-155279
+Reference without parent accepted or common name	298	Usher, K.M.; Sutton, D.C.; Toze, S.; Kuo, J.; Fromont, J.	2004	NULL	W-Por-167702
+Reference without parent accepted or common name	315	Uriz,M.-J.; Rosell, M.D.	1986	NULL	W-Por-172933
+Reference without parent accepted or common name	321	Keller, C.	1883	NULL	W-Por-34638
+Reference without parent accepted or common name	326	Thomson, C.W.,	1877	NULL	W-Por-35235
+Reference without parent accepted or common name	332	Ellis, J.,	1766	NULL	W-Por-35901
+Reference without parent accepted or common name	333	Desqueyroux-Faúndez, R.	1989	NULL	W-Por-43148
+Reference without parent accepted or common name	340	Barnich, R.; Janussen, D.	2006	NULL	W-Por-172641
+Reference without parent accepted or common name	342	Schweigger, A. F.	1819	NULL	W-Por-37085
+Reference without parent accepted or common name	356	Pulitzer-Finali G Sarà Boll Musei Istit Biol Univ	1969	NULL	W-Por-42968
+Reference without parent accepted or common name	358	Rützler, K.	2002	NULL	W-Por-8983
+Reference without parent accepted or common name	367	Van Soest, R.W.M.	2002	NULL	W-Por-8991
+Reference without parent accepted or common name	382	Pisera, A.; Lévi, C.	2002	NULL	W-Por-9003
+Reference without parent accepted or common name	384	Pisera, A.; Lévi, C.	2002	NULL	W-Por-9005
+Reference without parent accepted or common name	391	Hooper, J.N.A.	2002	NULL	W-Por-9019
+Reference without parent accepted or common name	397	Van Soest, R.W.M.	2002	NULL	W-Por-9027
+Reference without parent accepted or common name	423	Peixinho, S.; Cosme, B.; Hajdu, E.	2005	NULL	W-Por-9241
+Reference without parent accepted or common name	444	Hooper, J.N.A.; Van Soest, R.W.M.	2002	NULL	W-Por-9128
+Reference without parent accepted or common name	445	Topsent, E.	1929	NULL	W-Por-10027
+Reference without parent accepted or common name	450	Cabioch, L.	1968	NULL	W-Por-11242
+Reference without parent accepted or common name	462	Lerner, C.; Carraro, J.L.; Van Soest, R.W.M.	2006	NULL	W-Por-9227
+Reference without parent accepted or common name	475	Grübe, E.	1872	NULL	W-Por-9238
+Reference without parent accepted or common name	494	Buizer, D. A. G.; R W M Van Soest	1977	NULL	W-Por-10082
+Reference without parent accepted or common name	510	Ferrer Hernández, F.	1912	NULL	W-Por-9240
+Reference without parent accepted or common name	530	Arndt, W.	1937	NULL	W-Por-7078
+Reference without parent accepted or common name	535	Arnesen, E.	1901	NULL	W-Por-7084
+Reference without parent accepted or common name	538	Babiç, K.	1921	NULL	W-Por-7088
+Reference without parent accepted or common name	548	Berg, C.	1899	NULL	W-Por-7110
+Reference without parent accepted or common name	558	Bergquist, P. R.	1980	NULL	W-Por-7120
+Reference without parent accepted or common name	570	Bibiloni, M.A.	1981	NULL	W-Por-7138
+Reference without parent accepted or common name	573	Bocage, J.V. Barboza, Du	1868	NULL	W-Por-7147
+Reference without parent accepted or common name	574	Bibiloni, M. A.; Uriz, M. J.; Gili, J. M.	1989	NULL	W-Por-7141
+Reference without parent accepted or common name	579	Borojevic, R.	1965	NULL	W-Por-7155
+Reference without parent accepted or common name	584	Borojevic, R.	1967	NULL	W-Por-7163
+Reference without parent accepted or common name	585	Borojevic, R.	1968	NULL	W-Por-7164
+Reference without parent accepted or common name	586	Borojevic, R.; Boury-Esnault, N.	1986	NULL	W-Por-7170
+Reference without parent accepted or common name	593	Corriero, G.	1989	NULL	W-Por-9245
+Reference without parent accepted or common name	627	Burton, M.	1931	NULL	W-Por-7272
+Reference without parent accepted or common name	645	Carballo, J.L.	2001	NULL	W-Por-7299
+Reference without parent accepted or common name	646	Carballo, J. L.; J C García-Gómez	1994	NULL	W-Por-7300
+Reference without parent accepted or common name	674	Carter, H.J.	1879	NULL	W-Por-7333
+Reference without parent accepted or common name	677	McCoy, F.	1844	NULL	W-Por-7379
+Reference without parent accepted or common name	680	Carter, H.J.	1880	NULL	W-Por-7337
+Reference without parent accepted or common name	690	Carter, H.J.	1883	NULL	W-Por-7347
+Reference without parent accepted or common name	699	Czerniavsky, V.	1878	NULL	W-Por-7383
+Reference without parent accepted or common name	700	Carter, H.J.; Hope, R.	1889	NULL	W-Por-7361
+Reference without parent accepted or common name	711	Dendy, A.	1888	NULL	W-Por-7390
+Reference without parent accepted or common name	721	Gray, D. J. E.	1857	NULL	W-Por-7524
+Reference without parent accepted or common name	726	Desqueyroux-Faúndez, R.	1981	NULL	W-Por-7424
+Reference without parent accepted or common name	737	Döderlein, L.	1892	NULL	W-Por-7441
+Reference without parent accepted or common name	741	Dujardin, F.	1838	NULL	W-Por-7449
+Reference without parent accepted or common name	763	Fry, W. G.; Fry, P. D.	1979	NULL	W-Por-7492
+Reference without parent accepted or common name	769	Gray, J.E.	1868	NULL	W-Por-7536
+Reference without parent accepted or common name	770	Gray, J.E.	1868	NULL	W-Por-7537
+Reference without parent accepted or common name	774	Grant, R.E.	1826	NULL	W-Por-7513
+Reference without parent accepted or common name	776	Grant, R.E.	1835	NULL	W-Por-7515
+Reference without parent accepted or common name	778	Gray, J.E.	1835	NULL	W-Por-7522
+Reference without parent accepted or common name	783	Gray, J.E.	1867	NULL	W-Por-7531
+Reference without parent accepted or common name	787	Guiler, E.R.	1950	NULL	W-Por-7553
+Reference without parent accepted or common name	793	Hajdu, E.	1999	NULL	W-Por-7560
+Reference without parent accepted or common name	815	Hanitsch, R.	1894	NULL	W-Por-7583
+Reference without parent accepted or common name	816	Hechtel, G.J.	1976	NULL	W-Por-7606
+Reference without parent accepted or common name	822	Hentschel, E.	1923	NULL	W-Por-7616
+Reference without parent accepted or common name	831	Hiemstra, F.; Hooper, J. N. A.	1991	NULL	W-Por-7622
+Reference without parent accepted or common name	850	Hooper, J. N. A.; Krasochin, V. B.	1989	NULL	W-Por-7650
+Reference without parent accepted or common name	853	Hooper, J. N. A.; Capon, R. J.; Hodder, R. A.	1991	NULL	W-Por-7657
+Reference without parent accepted or common name	860	Hooper, J.N.A.; Kennedy, J.A.; Van Soest, R.W.M.	2000	NULL	W-Por-7662
+Reference without parent accepted or common name	866	Hoppe, W. F.; Reichert, M. J. M.	1987	NULL	W-Por-7665
+Reference without parent accepted or common name	867	Hoshino, T.	1990	NULL	W-Por-7669
+Reference without parent accepted or common name	889	Kelly-Borges, M.; Pomponi, S.; Vacelet, J.	1993	NULL	W-Por-7706
+Reference without parent accepted or common name	912	Kirkpatrick, R.	1911	NULL	W-Por-7736
+Reference without parent accepted or common name	941	Laubenfels, M.W. De	1928	NULL	W-Por-7774
+Reference without parent accepted or common name	961	Lehnert, H.	1998	NULL	W-Por-7804
+Reference without parent accepted or common name	962	Lazoski, C.; Solé-Cava, A.M.; Boury-Esnault, N.; Klautau, M.; Russo, C.A.M.	2001	NULL	W-Por-7800
+Reference without parent accepted or common name	972	Leidy, J.	1868	NULL	W-Por-7810
+Reference without parent accepted or common name	985	Lendenfeld, R. Von	1889	NULL	W-Por-7822
+Reference without parent accepted or common name	1018	Lévi, C.	1983	NULL	W-Por-7863
+Reference without parent accepted or common name	1019	Lévi, C.	1986	NULL	W-Por-7864
+Reference without parent accepted or common name	1022	Lévi, C.; Lévi, P.	1979	NULL	W-Por-7869
+Reference without parent accepted or common name	1027	Li, Jinhe	1987	NULL	W-Por-7881
+Reference without parent accepted or common name	1032	Lister, J.J.	1900	NULL	W-Por-7890
+Reference without parent accepted or common name	1040	Maldonado, M.; Benito, J.	1991	NULL	W-Por-7902
+Reference without parent accepted or common name	1044	Maldonado, M.; Young, C. M.	1998	NULL	W-Por-7908
+Reference without parent accepted or common name	1047	Marenzeller, E.M. Von.	1889	NULL	W-Por-7918
+Reference without parent accepted or common name	1056	McCormack, G. P.; Kelly, M.	2002	NULL	W-Por-7930
+Reference without parent accepted or common name	1058	Morrow, C.; Boury-Esnault, N.	2000	NULL	W-Por-7958
+Reference without parent accepted or common name	1059	Melone, N.	1963	NULL	W-Por-7940
+Reference without parent accepted or common name	1075	Muricy, G.; Hajdu, E.; Custodio, M.; Klautau, M.; Russo, C.; Peixinho, S.	1991	NULL	W-Por-7975
+Reference without parent accepted or common name	1077	Murie, J.	1877	NULL	W-Por-7978
+Reference without parent accepted or common name	1081	Norman, A.M.	1869	NULL	W-Por-7984
+Reference without parent accepted or common name	1094	Poggiano, G.	1965	NULL	W-Por-8015
+Reference without parent accepted or common name	1110	Pouliquen, L.; Vacelet, J.	1970	NULL	W-Por-8033
+Reference without parent accepted or common name	1114	Pulitzer-Finali, G.	1973	NULL	W-Por-8037
+Reference without parent accepted or common name	1125	Reiswig, H. M.	1990	NULL	W-Por-8069
+Reference without parent accepted or common name	1137	Rezvoi, P.	1936	NULL	W-Por-8091
+Reference without parent accepted or common name	1147	Rützler, K.; Sarà, M.	1962	NULL	W-Por-8132
+Reference without parent accepted or common name	1148	Rützler, K.; Smith, K.P.	1992	NULL	W-Por-8133
+Reference without parent accepted or common name	1150	Rosell, D.	1996	NULL	W-Por-8119
+Reference without parent accepted or common name	1160	Sandford, F.; Kelly-Borges, M.	1997	NULL	W-Por-8139
+Reference without parent accepted or common name	1163	Sarà, M.	1959	NULL	W-Por-8142
+Reference without parent accepted or common name	1206	Schulze, F.E.	1885	NULL	W-Por-8205
+Reference without parent accepted or common name	1224	Sollas, W.J.	1879	NULL	W-Por-8242
+Reference without parent accepted or common name	1225	Sollas, W.J.	1880	NULL	W-Por-8243
+Reference without parent accepted or common name	1231	Solórzano, M.R.; Cristobo, F.J.; Urgorri, V.	1991	NULL	W-Por-8258
+Reference without parent accepted or common name	1233	Steenstrup, E.; Tendal, O.S.	1982	NULL	W-Por-8262
+Reference without parent accepted or common name	1241	Stone, S.K.M.	1986	NULL	W-Por-8271
+Reference without parent accepted or common name	1243	Stutchbury, S.	1841	NULL	W-Por-8273
+Reference without parent accepted or common name	1275	Topsent, E.	1904	NULL	W-Por-8356
+Reference without parent accepted or common name	1277	Topsent, E.	1894	NULL	W-Por-8336
+Reference without parent accepted or common name	1298	Topsent, E.	1894	NULL	W-Por-8333
+Reference without parent accepted or common name	1304	Topsent, E.	1898	NULL	W-Por-8343
+Reference without parent accepted or common name	1306	Topsent, E.	1898	NULL	W-Por-8345
+Reference without parent accepted or common name	1313	Topsent, E.	1904	NULL	W-Por-8352
+Reference without parent accepted or common name	1314	Topsent, E.	1904	NULL	W-Por-8357
+Reference without parent accepted or common name	1323	Topsent, E.	1915	NULL	W-Por-8371
+Reference without parent accepted or common name	1331	Topsent, E.	1920	NULL	W-Por-8379
+Reference without parent accepted or common name	1353	Tsurnamal, M.	1967	NULL	W-Por-8416
+Reference without parent accepted or common name	1355	Tuzet, O.; Paris, J.	1963	NULL	W-Por-8418
+Reference without parent accepted or common name	1359	Uriz, M.J.	1975	NULL	W-Por-8423
+Reference without parent accepted or common name	1360	Uriz, M.J.	1981	NULL	W-Por-8424
+Reference without parent accepted or common name	1361	Uriz, M.J	1983	NULL	W-Por-8426
+Reference without parent accepted or common name	1362	Uriz, M.J.	1984	NULL	W-Por-8427
+Reference without parent accepted or common name	1366	Uriz, M.J.; Maldonado, M.	1996	NULL	W-Por-8434
+Reference without parent accepted or common name	1370	Vacelet, J.	1961	NULL	W-Por-8441
+Reference without parent accepted or common name	1379	Vacelet, J.	1979	NULL	W-Por-8450
+Reference without parent accepted or common name	1382	Vacelet, J.; Boury-Esnault, N.	1982	NULL	W-Por-8456
+Reference without parent accepted or common name	1383	Vacelet, J.; Boury-Esnault, N.	1996	NULL	W-Por-8458
+Reference without parent accepted or common name	1386	Vacelet, J.; Perez, T.	1998	NULL	W-Por-8461
+Reference without parent accepted or common name	1387	Volkmer-Ribeiro, C.	1976	NULL	W-Por-8511
+Reference without parent accepted or common name	1421	Vethaak, A.D.; Cronie, R.J.A.; Van Soest, R.W.M.	1982	NULL	W-Por-8507
+Reference without parent accepted or common name	1432	Volkmer-Ribeiro, C.; Rützler, K.	1997	NULL	W-Por-8527
+Reference without parent accepted or common name	1433	Volkmer-Ribeiro, C.; Watanabe, Y.	1983	NULL	W-Por-8528
+Reference without parent accepted or common name	1444	Vosmaer, G.C.J.	1935	NULL	W-Por-8546
+Reference without parent accepted or common name	1446	Vosmaer, G.C.J.; Vernhout, J.H.	1902	NULL	W-Por-8548
+Reference without parent accepted or common name	1464	Wesche, S.J.; Adlard, R.D.; Hooper, J.N.A.	1997	NULL	W-Por-8576
+Reference without parent accepted or common name	1465	Whitelegge, T.	1889	NULL	W-Por-8578
+Reference without parent accepted or common name	1471	Willenz, Ph.; Pomponi, S.A.	1996	NULL	W-Por-8592
+Reference without parent accepted or common name	1477	Wörheide, G.	1998	NULL	W-Por-8603
+Reference without parent accepted or common name	1483	De Voogd, N.J.; Van Soest, R.W.M.	2007	NULL	W-Por-42305
+Reference without parent accepted or common name	1490	Sarà, M.; Gaino, E.	1971	NULL	W-Por-42376
+Reference without parent accepted or common name	1496	Klitgaard, A. B.	1995	NULL	W-Por-16063
+Reference without parent accepted or common name	1509	Heim, I.; Nickel, M.	2010	NULL	W-Por-141719
+Reference without parent accepted or common name	1514	Vacelet, J.	1958	NULL	W-Por-141790
+Reference without parent accepted or common name	1517	Giard, A.	1873	NULL	W-Por-43247
+Reference without parent accepted or common name	1523	Breitfuss, L.L.	1898	NULL	W-Por-42876
+Reference without parent accepted or common name	1540	Gugel, J.; Pfannkuchen, M.; Brümmer, F.	2006	NULL	W-Por-42966
+Reference without parent accepted or common name	1547	Hajdu, E.; Boury-Esnault, N.	1991	NULL	W-Por-42965
+Reference without parent accepted or common name	1548	Plotkin, A.S.	2002	NULL	W-Por-43004
+Reference without parent accepted or common name	1549	Rezvoi, P. D.	1927	NULL	W-Por-43005
+Reference without parent accepted or common name	1560	Cárdenas, P.; Rapp, H.T.; Schander, C.; Tendal, O.S.	2010	NULL	W-Por-139293
+Reference without parent accepted or common name	1562	Gerasimova, E.; Erpenbeck, D.; Plotkin, A.	2008	NULL	W-Por-47575
+Reference without parent accepted or common name	1566	Schönberg, C.H.L.; Beuck, L.	2007	NULL	W-Por-47600
+Reference without parent accepted or common name	1567	Dendy, A.	1897	NULL	W-Por-132522
+Reference without parent accepted or common name	1588	Sim, C.J.; Lee, K.J.	2003	NULL	W-Por-47821
+Reference without parent accepted or common name	1589	Walker, J.	1808	NULL	W-Por-47822
+Reference without parent accepted or common name	1592	Kent, W. Saville,	1870	NULL	W-Por-125392
+Reference without parent accepted or common name	1593	Carter, H.J.	1879	NULL	W-Por-129822
+Reference without parent accepted or common name	1596	Boury-Esnault N., E. Hajdu, M. Klautau, M. Custotio & R. Borojevic	1994	NULL	W-Por-130293
+Reference without parent accepted or common name	1597	Muricy, G.	1989	NULL	W-Por-130318
+Reference without parent accepted or common name	1605	Campos, M., Mothes, B. & Veitenheimer Mendes, I. L.	2007	NULL	W-Por-124599
+Reference without parent accepted or common name	1625	Kobluk, D. R.; van Soest, R. W. M.	1989	NULL	W-Por-133551
+Reference without parent accepted or common name	1627	Uriz, M.-J.; Gili, J.-M.; Orejas, C.; Perez-Porro, A.-R.	2010	NULL	W-Por-145491
+Reference without parent accepted or common name	1628	Bousfield, E.L.	1964	NULL	W-Por-145894
+Reference without parent accepted or common name	1638	Topsent, E.	1936	NULL	W-Por-127044
+Reference without parent accepted or common name	1651	Santos, C. P.; Hajdu, E.	2003	NULL	W-Por-9824
+Reference without parent accepted or common name	1661	Klautau, M.; Monteiro, L.; Borojevic, R.	2004	NULL	W-Por-47896
+Reference without parent accepted or common name	1665	Carter, H.J.	1872	NULL	W-Por-9821
+Reference without parent accepted or common name	1667	Parra-Velandia, F.J.; Zea, S.; Van Soest, R.W.M.	2014	NULL	W-Por-176869
+Reference without parent accepted or common name	1673	Hartman, W.D.	1979	NULL	W-Por-7593
+Reference without parent accepted or common name	1683	Ackers, R.G.; Moss, D.; Picton, B.E.	1992	NULL	W-Por-7030
+Reference without parent accepted or common name	1706	Alvarez, B.; Van Soest,  R. W. M.	1993	NULL	W-Por-7042
+Reference without parent accepted or common name	1726	Bocage, J.V.B. Du,	1867	NULL	W-Por-167699
+Reference without parent accepted or common name	1728	Arndt, W.	1928	NULL	W-Por-172652
+Reference without parent accepted or common name	1729	Kirkpatrick, R.	1909	NULL	W-Por-42937
+Reference without parent accepted or common name	1732	Quoy J. E. & Gaimard J. P.	1832	NULL	W-Por-40326
+Reference without parent accepted or common name	1733	Dall, W. H.; Olivi, G.; Vio, G.	1792	NULL	W-Por-40146
+Reference without parent accepted or common name	1734	Van Soest, R.W.M.	1984a	NULL	W-Por-42939
+Reference without parent accepted or common name	1752	Hyatt, A.	1878	NULL	W-Por-9816
+Reference without parent accepted or common name	1760	Könnecker, G.	1973	NULL	W-Por-10007
+Reference without parent accepted or common name	1765	Bowerbank, J.S.	1845	NULL	W-Por-7200
+Reference without parent accepted or common name	1774	Bowerbank, J.S.	1869	NULL	W-Por-7212
+Reference without parent accepted or common name	1785	Boury-Esnault, N.; Vacelet, J.	1994	NULL	W-Por-7197
+Reference without parent accepted or common name	1802	Gray, J.E.	1868	NULL	W-Por-145258
+Reference without parent accepted or common name	1820	Thomas, M.L.H. (ed.).	1983	NULL	W-Por-3071
+Reference without parent accepted or common name	1821	Meinkoth, N.A.	1981	NULL	W-Por-3017
+Reference without parent accepted or common name	1824	Logan, A.	1998	NULL	W-Por-3000
+Reference without parent accepted or common name	1827	Gosner, K.L.	1978	NULL	W-Por-2966
+Reference without parent accepted or common name	1831	Bromley, J. E. C.; Bleakney, J. S.	1984	NULL	W-Por-2928
+Reference without parent accepted or common name	1834	Van Beneden, P. J.	1867	NULL	W-Por-1659
+Reference without parent accepted or common name	1838	Montagu, G.	1818	NULL	W-Por-311
+Reference without parent accepted or common name	1855	Eneman, E.	1984	NULL	W-Por-755
+Reference without parent accepted or common name	1856	Annys, A.	1984	NULL	W-Por-757
+Reference without parent accepted or common name	1870	Bianchi, C.N. & C. Morri,	1983	NULL	W-Por-23339
+Reference without parent accepted or common name	1871	Dybowski, W.	1884	NULL	W-Por-23055
+Reference without parent accepted or common name	1890	Bergquist, P.R.; Cook, S.D.C.	2002	NULL	W-Por-9078
+Reference without parent accepted or common name	1894	Bergquist, P.R.; Cook, S.D.C.	2002	NULL	W-Por-9080
+Reference without parent accepted or common name	1896	Bergquist, P.R.; Cook, S.D.C.	2002	NULL	W-Por-9082
+Reference without parent accepted or common name	1904	Hooper, J.N.A.; Maldonado, M.	2002	NULL	W-Por-8978
+Reference without parent accepted or common name	1908	Koltun, V.M.	1959	NULL	W-Por-9225
+Reference without parent accepted or common name	1919	Lendenfeld, R. Von	1894	NULL	W-Por-9173
+Reference without parent accepted or common name	1926	Cruz-Barraza, J.A.; Carballo, J.L.	2005	NULL	W-Por-8943
+Reference without parent accepted or common name	1945	Laubenfels, M. W.; De	1932	NULL	W-Por-47551
+Reference without parent accepted or common name	1948	Mothes de Moraes B.	1985	NULL	W-Por-130319
+Reference without parent accepted or common name	1954	Bidder, G.	1895	NULL	W-Por-138620
+Reference without parent accepted or common name	1955	Koolwijk, T. V.	1982	NULL	W-Por-138621
+Reference without parent accepted or common name	1967	Schulze, F.E.	1880	NULL	W-Por-132519
+Reference without parent accepted or common name	1977	Ríos, P.; Cristobo, J.	2007	NULL	W-Por-44019
+Reference without parent accepted or common name	1999	Risso, A.	1826	NULL	W-Por-46934
+Reference without parent accepted or common name	2000	Semper, C.	1867	NULL	W-Por-47020
+Reference without parent accepted or common name	2007	Resnichenko, O. G.	1967	NULL	W-Por-133516
+Reference without parent accepted or common name	2019	Bianco, S.L.O.	1888	NULL	W-Por-127049
+Reference without parent accepted or common name	2031	Rubio, M.	1981	NULL	W-Por-133517
+Reference without parent accepted or common name	2035	Zammit, P.P.; Longo, C. & Schembri, P.J.	2009	NULL	W-Por-156350
+Reference without parent accepted or common name	2039	Carter, H.J.	1885	NULL	W-Por-47763
+Reference without parent accepted or common name	2046	Reiswig, H. M.; Champagne, P.	1995	NULL	W-Por-9872
+Reference without parent accepted or common name	2056	Silva, C.M.M.; Volkmer-Ribeiro, C.	2001	NULL	W-Por-9895
+Reference without parent accepted or common name	2059	Perez, T.; Perrin, B.; Carteron, S.; Vacelet, J.; Boury-Esnault, N.	2006	NULL	W-Por-9841
+Reference without parent accepted or common name	2067	Sarà, M.; Bavestrello, G.	1995	NULL	W-Por-9863
+Reference without parent accepted or common name	2086	Zahn, R.K.; Müller, I.; Müller, W.E.G.	1977	NULL	W-Por-8609
+Reference without parent accepted or common name	2088	Topsent, E.	1906	NULL	W-Por-132403
+Reference without parent accepted or common name	2096	Lim, S.C.; Tan, K.S.	2008	NULL	W-Por-123702
+Reference without parent accepted or common name	2104	Schulze, F.E.	1878b	NULL	W-Por-193090
+Reference without parent accepted or common name	2106	Henkel, D.; Janussen, D.	2011	NULL	W-Por-149220
+Reference without parent accepted or common name	2109	Carreón-Palau, L.; Guzmán del Próo, S.A.; Belmar-Pérez, J.; Carrillo-Laguna, J. & Herrera-Fragoso, R.	2003	NULL	W-Por-196356
+Reference without parent accepted or common name	2119	Monteiro-Marques, V.; Andrade, F.	1981	NULL	W-Por-54797
+Reference without parent accepted or common name	2128	Vacelet, J.; Lévi, C.	1958	NULL	W-Por-132765
+Reference without parent accepted or common name	2132	Templado, J.; Garcia-Carrascosa, M.; Baratech, L.; Capaccioni, R.; Juan, A.; Lopez-Ibor, A.; Silvestre, R.; Masso, C.	1986	NULL	W-Por-63884
+Reference without parent accepted or common name	2135	Holdsworth, E.W.H.	1873	NULL	W-Por-132150
+Reference without parent accepted or common name	2139	Carter, H.J.	1887	NULL	W-Por-132711
+Reference without parent accepted or common name	2143	Gray, J.E.	1858	NULL	W-Por-132151
+Reference without parent accepted or common name	2148	Topsent, E.	1911	NULL	W-Por-141326
+Reference without parent accepted or common name	2150	Boury-Esnault, N.	1974	NULL	W-Por-145578
+Reference without parent accepted or common name	2164	Dendy, A.	1913	NULL	W-Por-163850
+Reference without parent accepted or common name	2179	Hadzische, S.	1953	NULL	W-Por-142465
+Reference without parent accepted or common name	2206	Dendy, A.	1887	NULL	W-Por-141628
+Reference without parent accepted or common name	2215	Zintzen, V.	2007	NULL	W-Por-131973
+Reference without parent accepted or common name	2219	Sowerby, J.	1804	NULL	W-Por-129735
+Reference without parent accepted or common name	2229	Kelly, M.	2003	NULL	W-Por-129760
+Reference without parent accepted or common name	2239	Voultsiadou, E.	2005	NULL	W-Por-149737
+Reference without parent accepted or common name	2244	Thomas, P.A.	1972	NULL	W-Por-133503
+Reference without parent accepted or common name	2249	Pomponi, S.A.; Kelly, M.; Reed, J.K.; Wright, A.E.	2001	NULL	W-Por-142531
+Reference without parent accepted or common name	2252	Koukouras, A.	2010	NULL	W-Por-142068
+Reference without parent accepted or common name	2254	Van Soest, R.W.M.; Lavaleye, M.S.S.	2005	NULL	W-Por-147550
+Reference without parent accepted or common name	2256	Stone, S. M.; Boardley, E.; Gill, M.	1987	NULL	W-Por-147500
+Reference without parent accepted or common name	2270	Boury-Esnault, N.	1980	NULL	W-Por-142133
+Reference without parent accepted or common name	2274	Hooper, J. N. A.; Kelly-borges, M.; Riddle, M.	1993	NULL	W-Por-142129
+Reference without parent accepted or common name	2290	Gee, N. G.	1930	NULL	W-Por-142182
+Reference without parent accepted or common name	2291	Roberts, J.M., A.J. Davies, L.A. Henry, L.A. Dodds, G.C.A. Duineveld, M.S.S.  Lavaleye, C. Maier, R.W.M. van Soest,    M.J.N. Bergman, V. Huehnerbach, V.A.I. Huvenne, D.J. Sinclair, T. Watmough, D. Lo	2009	NULL	W-Por-144181
+Reference without parent accepted or common name	2292	Van Soest, R.W.M.; Storm, B.; Swarte, M.	2000	NULL	W-Por-142472
+Reference without parent accepted or common name	2293	Ehrenberg, G.C.	1841	NULL	W-Por-142473
+Reference without parent accepted or common name	2294	Semper, C.	1868	NULL	W-Por-142476
+Reference without parent accepted or common name	2296	Topsent, E.	1925	NULL	W-Por-8385
+Reference without parent accepted or common name	2307	Bonetto, A. A.; Ezcurra, D.	1967	NULL	W-Por-162923
+Reference without parent accepted or common name	2309	Kerckhof, F.	1987	NULL	W-Por-140199
+Reference without parent accepted or common name	2312	Quoy, J.C.R. & Gaimard, P.	1833	NULL	W-Por-137503
+Reference without parent accepted or common name	2314	Ridley, S.O.	1881	NULL	W-Por-166193
+Reference without parent accepted or common name	2321	Wiedenmayer, F.	1978	NULL	W-Por-191496
+Reference without parent accepted or common name	2326	Schulze F.E	1881	NULL	W-Por-165109
+Reference without parent accepted or common name	2327	van Soest, R.W.M.	1994	NULL	W-Por-141290
+Reference without parent accepted or common name	2331	Sanders, M.; van Soest, R.W.M.	1996	NULL	W-Por-141291
+Reference without parent accepted or common name	2339	Cleary, D. F. R.; De Kluijver, M. J.; Lavaleye, M. S. S.; Maier, C.; Van Duyl, F. C.	2007	NULL	W-Por-147551
+Reference without parent accepted or common name	2346	Lanna, E. & Klautau, M.	2010	NULL	W-Por-150821
+Reference without parent accepted or common name	2350	Pinheiro,U.; Docio, L.; Nicacio G.; Hajdu, E.	2013	NULL	W-Por-168874
+Reference without parent accepted or common name	2353	Pisera, A.	1999	NULL	W-Por-138931
+Reference without parent accepted or common name	2354	Longo, C.; Mastrototaro, F.; Corriero, G.	2005	NULL	W-Por-171451
+Reference without parent accepted or common name	2357	Gazave, E.; Carteron, S.; Chenuil, A.; Richelle-maurer, E.; Boury-esnault, N.; Borchiellini, C.	2010	NULL	W-Por-152377
+Reference without parent accepted or common name	2359	Castritsi-Catharios, J.; van Soest, R.W.M.; Kefalas, E.; Vacelet, J.	2011	NULL	W-Por-155445
+Reference without parent accepted or common name	2363	Jackson, S. A.; Flemer, B.; McCann, A.; Kennedy, J.; Morrissey, J. P.; O’Gara, F.; Dobson, A. D. W.	2013	NULL	W-Por-196361
+Reference without parent accepted or common name	2365	Dohrmann, M.	2015	NULL	W-Por-194523
+Reference without parent accepted or common name	2369	Økland, K.A.; Økland, J.	1996	NULL	W-Por-172650
+Reference without parent accepted or common name	2375	Ayling, A.L.; Stone, S.M.; Smith, B.J.	1982	NULL	W-Por-194474
+Reference without parent accepted or common name	2386	Reiswig, H.W.	1996	NULL	W-Por-196147
+Reference without parent accepted or common name	2387	Gómez López, P. & Greeen, G.	1984	NULL	W-Por-195936
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+CREATE TEMPORARY TABLE duplicates_to_delete AS SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
+(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
+(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+FROM scientific_names
+GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
+LEFT JOIN scientific_names sn
+ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_names USING scientific_names INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
+--------------
+
+--------------
+DELETE FROM common_names WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_names WHERE is_accepted_name != 1 AND accepted_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_names WHERE infraspecies_parent_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+--------------
+
+--------------
+DELETE QUICK FROM lifezone WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+OPTIMIZE TABLE lifezone
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Porifera.lifezone	optimize	status	OK
+--------------
+DELETE QUICK FROM distribution WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+OPTIMIZE TABLE distribution
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Porifera.distribution	optimize	status	OK
+--------------
+DELETE QUICK FROM scientific_names WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+--------------
+
+--------------
+OPTIMIZE TABLE scientific_names
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Porifera.scientific_names	optimize	status	OK
+--------------
+DELETE QUICK FROM scientific_name_references WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_name_references WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+--------------
+
+--------------
+OPTIMIZE TABLE scientific_name_references
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Porifera.scientific_name_references	optimize	status	OK
+--------------
+DELETE FROM specialists WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+--------------
+
+--------------
+DELETE QUICK FROM `references` WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
+UNION SELECT DISTINCT reference_code FROM common_names)
+--------------
+
+--------------
+OPTIMIZE TABLE `references`
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Porifera.references	optimize	status	OK
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+CREATE TRIGGER delfamcascade AFTER DELETE ON `families`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `scientific_names` WHERE family_code = old.family_code;
+
+END;
+
+CREATE TRIGGER delspcascade AFTER DELETE ON `scientific_names`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+DELETE FROM `distribution` WHERE name_code = old.name_code;
+DELETE FROM `lifezone` WHERE name_code = old.name_code;
+DELETE FROM `scientific_name_references` WHERE name_code = old.name_code;
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+
+END;
+
+CREATE TRIGGER delrefscascade AFTER DELETE ON `scientific_name_references`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `references` WHERE reference_code = old.reference_code;
+
+END;
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+</pre>
+<pre>
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+\nEditorial and Integrity checks Completed.
+</pre>
+</pre><hr><b>Replacing sectors in Assembly Global database</b>\n<pre>
+<pre>
+Starting Sector Management
+--------------
+SET @dbid = 44
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+DELETE FROM ",
+@dbtouse,
+".`databases` WHERE `record_id` = @dbid")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`families` SELECT 
+NULL AS `record_id`,
+`hierarchy_code`,	
+`kingdom`,	
+`phylum`,	
+`class`,	
+`order`,	
+`family`,	
+`superfamily`, 	
+`database_id`, 	
+`family_code`,
+`is_accepted_name`
+FROM  `families`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`databases` SELECT 
+`database_name_displayed`, 
+`record_id`, 
+`database_name`, 
+`database_full_name`, 
+`web_site`, 
+`organization`, 
+`contact_person`, 
+`taxa`, 
+`taxonomic_coverage`, 
+`abstract`, 
+`version`, 
+`release_date`, 
+`SpeciesCount`, 
+`SpeciesEst`, 
+`authors_editors`, 
+`accepted_species_names`, 
+`accepted_infraspecies_names`, 
+`species_synonyms`, 
+`infraspecies_synonyms`, 
+`common_names`, 
+`total_names`, 
+`is_new`,
+`coverage`,
+`completeness`,
+`confidence`
+FROM `databases`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`scientific_names` 
+(`record_id`, `name_code`, `web_site`, `genus`, `subgenus`, `species`, `infraspecies_parent_name_code`, `infraspecies`, `infraspecies_marker`, `author`, `accepted_name_code`, `comment`, `scrutiny_date`, `sp2000_status_id`, `database_id`, `specialist_id`, `family_id`, `specialist_code`, `family_code`, `is_accepted_name`, `GSDTaxonGUID`, `GSDNameGUID`) SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`web_site`, 
+`genus`, 
+`subgenus`, 
+`species`, 
+`infraspecies_parent_name_code`, 
+`infraspecies`, 
+`infraspecies_marker`, 
+`author`, 
+`accepted_name_code`, 
+`comment`, 
+`scrutiny_date`, 
+`sp2000_status_id`, 
+`database_id`, 
+`specialist_id`, 
+`family_id`, 
+`specialist_code`, 
+`family_code`, 
+`is_accepted_name`, 
+`GSDTaxonGUID`, 
+`GSDNameGUID`
+FROM `scientific_names`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`common_names` SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`common_name`, 
+`transliteration`, 
+`language`, 
+`country`, 
+`area`, 
+NULL AS `reference_id`, 
+`database_id`, 
+`is_infraspecies`, 
+`reference_code`
+FROM  `common_names`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`distribution` SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`distribution`, 
+`StandardInUse`, 
+`DistributionStatus`,
+`database_id`
+FROM  `distribution`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`lifezone` SELECT 
+NULL AS `record_id`,
+`name_code`, 	
+`lifezone`,
+`database_id`
+FROM  `lifezone`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`scientific_name_references` SELECT 
+NULL AS `record_id`,
+`name_code`,	
+`reference_type`, 	
+NULL AS `reference_id`,	
+`reference_code`,
+`database_id`
+FROM  `scientific_name_references`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`references` SELECT 
+NULL AS `record_id`, 
+`author`, 
+`year`, 
+`title`, 
+`source`, 
+`database_id`, 
+`reference_code`
+FROM  `references`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`specialists` SELECT 
+NULL AS `record_id`,
+`specialist_name`,
+`specialist_code`,
+`database_id`
+FROM  `specialists`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+\nTransformations Completed.
+<pre>
+</pre><hr><b>Chain completed</b>
+</body></html>

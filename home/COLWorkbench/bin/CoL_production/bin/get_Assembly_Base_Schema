@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Script to get Assembly_Base_Schema.sql
+
+/usr/bin/wget -O /home/kwok/tmp/Assembly_Base_Schema.sql \
+http://salx9-vm9/download/Assembly_Base_Schema.sql \
+--http-user='col' --http-password='col'

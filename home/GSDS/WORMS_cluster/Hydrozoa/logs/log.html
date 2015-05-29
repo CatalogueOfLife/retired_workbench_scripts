@@ -1,0 +1,3322 @@
+<html><body>
+<br><b>Harvesting...</b>\n<pre>
+</pre><hr><b>File format conversions...</b>\n<pre>
+Unzipping
+Archive:  WoRMS_Hydrozoa.zip
+  inflating: AcceptedSpecies.txt     
+  inflating: AcceptedInfraSpecificTaxa.txt  
+  inflating: Synonyms.txt            
+  inflating: CommonNames.txt         
+  inflating: Distribution.txt        
+  inflating: References.txt          
+  inflating: NameReferencesLinks.txt  
+  inflating: SourceDatabase.txt      
+Skipping format conversion
+</pre><hr><b>Creating buffer database, performing structural transformations...</b>\n<pre>
+<pre>
+Initiating buffer creation - this may take a while depending on size of the dataset...\n
+Creating buffer database Buffer_Hydrozoa in schema as provided by Hydrozoa
+--------------
+DROP DATABASE IF EXISTS Buffer_Hydrozoa
+--------------
+
+--------------
+CREATE DATABASE IF NOT EXISTS Buffer_Hydrozoa
+--------------
+
+--------------
+CREATE TABLE `AcceptedInfraSpecificTaxa` (
+`AcceptedTaxonID` varchar(50) PRIMARY KEY,
+`ParentSpeciesID` varchar(50) default NULL,
+`InfraSpeciesEpithet` varchar(50) default NULL,
+`InfraSpecificAuthorString` varchar(50) default NULL,
+`InfraSpecificMarker` varchar(10) default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`IsFossil` tinyint(1) default NULL,
+`LifeZone` varchar(50) default NULL,
+`AdditionalData` varchar(255) default NULL,
+`LTSSpecialist` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`LTSDate` varchar(50) default NULL,
+`InfraSpeciesURL` varchar(255) default NULL,
+`GSDTaxonGUI` varchar(255) default NULL,
+`GSDNameGUI`  varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `AcceptedSpecies` (
+`AcceptedTaxonID` varchar(50) PRIMARY KEY,
+`Kingdom` varchar(50) default NULL,
+`Phylum` varchar(50) default NULL,
+`Class` varchar(50) default NULL,
+`Order` varchar(50) default NULL,
+`Superfamily` varchar(50) default NULL,
+`Family` varchar(50) default NULL,
+`Genus` varchar(50) default NULL,
+`SubGenusName` varchar(50) default NULL,
+`Species` varchar(50) default NULL,
+`AuthorString` varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`IsFossil` tinyint(1) default NULL,
+`LifeZone` varchar(50) default NULL,
+`AdditionalData` varchar(255) default NULL,
+`LTSSpecialist` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`LTSDate` varchar(50) default NULL,
+`SpeciesURL` varchar(255) default NULL,
+`GSDTaxonGUI` varchar(255) default NULL,
+`GSDNameGUI` varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `CommonNames` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`CommonName` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Transliteration` varchar(255) default NULL,
+`Language` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`Country`  varchar(255) default NULL,
+`Area`  varchar(255) default NULL,
+`ReferenceID` varchar(50) default NULL,
+PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE = utf8_general_ci
+--------------
+
+--------------
+CREATE TABLE `Distribution` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`Distribution` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`StandardInUse` varchar(50) default NULL,
+`DistributionStatus` varchar(50) default NULL,
+PRIMARY KEY (`record_id`) 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE = utf8_general_ci
+--------------
+
+--------------
+CREATE TABLE `References` (
+`ReferenceID` varchar(50) PRIMARY KEY,
+`Authors` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`Year` varchar(255) default NULL,
+`Title` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Details` varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `NameReferencesLinks` (
+`ID` integer(10) PRIMARY KEY,
+`ReferenceType` varchar(50) default NULL,
+`ReferenceID` varchar(50) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `SourceDatabase` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`DatabaseFullName` varchar(255) NOT NULL,
+`DatabaseShortName` varchar(50) NOT NULL,
+`DatabaseVersion` varchar(50) NOT NULL,
+`ReleaseDate` varchar(50) NOT NULL,
+`AuthorsEditors` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`TaxonomicCoverage` varchar(255) NOT NULL,
+`GroupNameInEnglish` varchar(255) NOT NULL,
+`Abstract` text  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Organisation` varchar(255) NOT NULL,
+`HomeURL` varchar(255) default NULL,
+`Coverage` varchar(50) default NULL,
+`Completeness` integer(3) default NULL,
+`Confidence` integer(1) default NULL,
+`LogoFileName`  varchar(255) default NULL,
+`ContactPerson` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+PRIMARY KEY (`record_id`) 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `Synonyms` (
+`ID` integer(10) PRIMARY KEY,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`Genus` varchar(50) NOT NULL,
+`SubGenusName` varchar(50) default NULL,
+`Species` varchar(50) NOT NULL,
+`AuthorString` varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`InfraSpecies` varchar(50) default NULL,
+`InfraSpecificMarker` varchar(50) default NULL,
+`InfraSpecificAuthorString`  varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`GSDNameGUI` varchar(255) default NULL 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'AcceptedInfraSpecificTaxa.txt' INTO TABLE `AcceptedInfraSpecificTaxa` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES 
+(`AcceptedTaxonID`, `ParentSpeciesID`, `InfraSpeciesEpithet`, `InfraSpecificAuthorString`,  `InfraSpecificMarker`, `GSDNameStatus`,  `Sp2000NameStatus`, `IsFossil`, `LifeZone`, `AdditionalData`, `LTSSpecialist`, `LTSDate`, `InfraSpeciesURL`, `GSDTaxonGUI`, `GSDNameGUI`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'AcceptedSpecies.txt' INTO TABLE `AcceptedSpecies` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `Kingdom`, `Phylum`, `Class`, `Order`, `Superfamily`, `Family`, `Genus`, `SubGenusName`, `Species`, `AuthorString`, `GSDNameStatus`, `Sp2000NameStatus`, `IsFossil`, `LifeZone`, `AdditionalData`, `LTSSpecialist`, `LTSDate`, `SpeciesURL`, `GSDTaxonGUI`, `GSDNameGUI`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'CommonNames.txt' INTO TABLE `CommonNames` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `CommonName`, `Transliteration`, `Country`, `Area`, `Language`, `ReferenceID`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'Distribution.txt' INTO TABLE `Distribution` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `Distribution`, `StandardInUse`, `DistributionStatus`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'NameReferencesLinks.txt' INTO TABLE NameReferencesLinks CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ID`, `ReferenceType`, `ReferenceID`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'References.txt' INTO TABLE `References` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ReferenceID`, `Authors`, `Year`, `Title`, `Details`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'SourceDatabase.txt' INTO TABLE `SourceDatabase` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`DatabaseFullName`, `DatabaseShortName`, `DatabaseVersion`, `ReleaseDate`, `AuthorsEditors`, `TaxonomicCoverage`, `GroupNameInEnglish`, `Abstract`, `Organisation`, `HomeURL`, `Coverage`, `Completeness`, `Confidence`, `LogoFileName`, `ContactPerson`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'Synonyms.txt' INTO TABLE `Synonyms` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ID`, `AcceptedTaxonID`, `Genus`, `SubGenusName`, `Species`, `AuthorString`, `InfraSpecies`, `InfraSpecificMarker`, `InfraSpecificAuthorString`, `GSDNameStatus`, `Sp2000NameStatus`, `GSDNameGUI`)
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+Initial database created. Creating database Assembly_Hydrozoa in assembly schema
+--------------
+DROP DATABASE IF EXISTS Assembly_Hydrozoa
+--------------
+
+--------------
+CREATE DATABASE IF NOT EXISTS Assembly_Hydrozoa
+--------------
+
+--------------
+DROP TABLE IF EXISTS `databases`
+--------------
+
+--------------
+CREATE TABLE  `databases` (
+  `database_name_displayed` varchar(125) DEFAULT NULL,
+  `record_id` int(10) NOT NULL AUTO_INCREMENT,
+  `database_name` varchar(150) DEFAULT NULL,
+  `database_full_name` varchar(100) NOT NULL DEFAULT '',
+  `web_site` longtext,
+  `organization` longtext,
+  `contact_person` varchar(255) DEFAULT NULL,
+  `taxa` varchar(255) DEFAULT NULL,
+  `taxonomic_coverage` longtext,
+  `abstract` longtext,
+  `version` varchar(255) DEFAULT NULL,
+  `release_date` date DEFAULT '0000-00-00',
+  `SpeciesCount` int(11) DEFAULT 0,
+  `SpeciesEst` int(11) DEFAULT 0,
+  `authors_editors` longtext,
+  `accepted_species_names` int(10) DEFAULT 0,
+  `accepted_infraspecies_names` int(10) DEFAULT 0,
+  `species_synonyms` int(10) DEFAULT 0,
+  `infraspecies_synonyms` int(10) DEFAULT 0,
+  `common_names` int(10) DEFAULT 0,
+  `total_names` int(10) DEFAULT 0,
+  `is_new` tinyint(1) NOT NULL DEFAULT 0,
+  `coverage` varchar(45) DEFAULT NULL,
+  `completeness` int(3) unsigned DEFAULT 0,
+  `confidence` 	tinyint(1) unsigned DEFAULT 0,
+  PRIMARY KEY (`record_id`),
+  KEY `database_name` (`database_name`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `families`
+--------------
+
+--------------
+CREATE TABLE  `families` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `hierarchy_code` varchar(250) NOT NULL,
+  `kingdom` varchar(50) NOT NULL DEFAULT 'Not Assigned',
+  `phylum` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `class` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `order` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `family` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `superfamily` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  `family_code` varchar(50) NOT NULL,
+  `is_accepted_name` int(1) unsigned,
+  PRIMARY KEY (`record_id`),
+  KEY (`family_code`),
+  KEY `kingdom` (`kingdom`),
+  KEY `phylum` (`phylum`),
+  KEY `class` (`class`),
+  KEY `order` (`order`),
+  KEY `family` (`family`),
+  KEY `superfamily` (`superfamily`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `sp2000_statuses`
+--------------
+
+--------------
+CREATE TABLE  `sp2000_statuses` (
+  `record_id` int(1) NOT NULL AUTO_INCREMENT,
+  `sp2000_status` varchar(50) NOT NULL DEFAULT '',
+  PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM
+--------------
+
+--------------
+DROP TABLE IF EXISTS `scientific_names`
+--------------
+
+--------------
+CREATE TABLE  `scientific_names` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `web_site` longtext,
+  `genus` varchar(50) DEFAULT NULL,
+  `subgenus` varchar(50) DEFAULT NULL,
+  `species` varchar(60) DEFAULT NULL,
+  `infraspecies_parent_name_code` varchar(42) DEFAULT NULL,
+  `infraspecies` varchar(50) DEFAULT NULL,
+  `infraspecies_marker` varchar(50) DEFAULT NULL,
+  `author` varchar(100) DEFAULT NULL,
+  `accepted_name_code` varchar(42) DEFAULT NULL,
+  `comment` longtext,
+  `scrutiny_date` text,
+  `sp2000_status_id` int(1) DEFAULT NULL,
+  `database_id` int(10) DEFAULT NULL,
+  `specialist_id` int(10) DEFAULT NULL,
+  `family_id` int(10) DEFAULT NULL,
+  `specialist_code` varchar(50) DEFAULT NULL,
+  `family_code` varchar(50) DEFAULT NULL,
+  `is_accepted_name` int(1) DEFAULT NULL,
+  `GSDTaxonGUID` longtext,
+  `GSDNameGUID` longtext,
+  PRIMARY KEY (`record_id`,`name_code`),
+  KEY `database_id` (`database_id`),
+  KEY `family_id` (`family_id`),
+  KEY `species` (`species`),
+  KEY `infraspecies` (`infraspecies`),
+  KEY `accepted_name_code` (`accepted_name_code`),
+  KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
+  KEY `name_code1` (`name_code`,`family_id`),
+  KEY `record_id` (`record_id`,`family_id`),
+  KEY `genus` (`genus`,`species`,`infraspecies`),
+  KEY `sp2000_status_id` (`sp2000_status_id`),
+  KEY `sp2000_status_id_2` (`sp2000_status_id`,`database_id`,`infraspecies`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `common_names`
+--------------
+
+--------------
+CREATE TABLE  `common_names` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL DEFAULT '',
+  `common_name` varchar(700) NOT NULL,
+  `transliteration` varchar(700),
+  `language` varchar(25) NOT NULL,
+  `country` varchar(44) NOT NULL DEFAULT '',
+  `area` varchar(50) DEFAULT NULL,
+  `reference_id` int(10) DEFAULT '0',
+  `database_id` int(10) NOT NULL,
+  `is_infraspecies` int(1) NOT NULL DEFAULT '0',
+  `reference_code` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `common_name` (`common_name`),
+  KEY `name_code` (`name_code`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `distribution`
+--------------
+
+--------------
+CREATE TABLE  `distribution` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `distribution` longtext,
+  `StandardInUse` varchar(255) DEFAULT NULL,
+  
+   `DistributionStatus` varchar(255),
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`),
+  KEY `database_id` (`database_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `lifezone`
+--------------
+
+--------------
+CREATE TABLE  `lifezone` (
+  `record_id` int(11) NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42),
+  `lifezone` varchar(255),
+  `database_id` int(10),
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`),
+  KEY `database_id` (`database_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `scientific_name_references`
+--------------
+
+--------------
+CREATE TABLE  `scientific_name_references` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL DEFAULT '',
+  `reference_type` varchar(10) DEFAULT NULL,
+  `reference_id` int(10) DEFAULT '0',
+  `reference_code` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`,`reference_id`,`reference_type`),
+  KEY `name_code_2` (`name_code`,`reference_type`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `references`
+--------------
+
+--------------
+CREATE TABLE  `references` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `author` varchar(200) DEFAULT NULL,
+  `year` varchar(50) DEFAULT NULL,
+  `title` longtext,
+  `source` longtext,
+  `database_id` int(10) NOT NULL,
+  `reference_code` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `specialists`
+--------------
+
+--------------
+CREATE TABLE  `specialists` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `specialist_name` varchar(255) NOT NULL DEFAULT '',
+  `specialist_code` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+INSERT INTO `sp2000_statuses` 
+VALUES (1,'accepted name'),
+(2,'ambiguous synonym'),
+(3,'misapplied name'),
+(4,'provisionally accepted name'),
+(5,'synonym')
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+CREATE TRIGGER delfamcascade AFTER DELETE ON `families`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `scientific_names` WHERE family_code = old.family_code;
+
+END;
+
+CREATE TRIGGER delspcascade AFTER DELETE ON `scientific_names`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+DELETE FROM `distribution` WHERE name_code = old.name_code;
+DELETE FROM `lifezone` WHERE name_code = old.name_code;
+DELETE FROM `scientific_name_references` WHERE name_code = old.name_code;
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+
+END;
+
+CREATE TRIGGER delrefscascade AFTER DELETE ON `scientific_name_references`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `references` WHERE reference_code = old.reference_code;
+
+END;
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+\nCreation of the assembly database completed.\n
+Starting structural transformations (ACEF3 to ACI)
+--------------
+SET @dbid = 112
+--------------
+
+--------------
+SET @dbabbr = 'W-Hyd-'
+--------------
+
+--------------
+SET @dbtouse = 'Buffer_Hydrozoa'
+--------------
+
+--------------
+UPDATE `databases` SET `taxonomic_coverage`="Animalia-Cnidaria-Hydrozoa", `is_new` = 2, `taxa`="Hydroids", `coverage`="Global", `completeness` = 95, `confidence` = 5
+--------------
+
+--------------
+SET foreign_key_checks = 0
+--------------
+
+--------------
+TRUNCATE TABLE `databases`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `databases` 
+ SELECT
+ CONCAT(`DatabaseShortName`, ': ', `DatabaseFullName`)  AS `database_name_displayed`,
+ @dbid AS `record_id`,
+ `DatabaseShortName` AS `database_name`,
+ `DatabaseFullName` AS `database_full_name`,
+  `HomeURL` AS `web_site`,
+  `Organisation` AS `organization`,
+  `ContactPerson` AS `contact_person`,
+  `GroupNameInEnglish` AS `taxa`,
+  `TaxonomicCoverage` AS `taxonomic_coverage`,
+  `Abstract` AS `abstract`,
+  `DatabaseVersion` AS `version`,
+  `ReleaseDate` AS `release_date`,
+  `Coverage` AS `SpeciesCount`,
+  `Completeness` AS `SpeciesEst`,
+  `AuthorsEditors` AS `authors_editors`,
+  NULL AS `accepted_species_names`,
+  NULL AS `accepted_infraspecies_names`,
+  NULL AS `species_synonyms`,
+  NULL AS `infraspecies_synonyms`,
+  NULL AS `common_names`,
+  NULL AS `total_names`,
+  NULL AS `is_new`,
+  NULL AS `coverage`,
+  NULL AS `completeness`,
+  NULL AS `confidence`
+  FROM ",
+@dbtouse,
+".`SourceDatabase`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `distribution`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `distribution` 
+ SELECT
+ NULL AS `record_id`,
+ CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
+ `Distribution` AS `distribution`,
+ `StandardInUse` AS `StandardInUse`, 
+ `DistributionStatus` AS `DistributionStatus`,
+@dbid AS `database_id`
+ FROM ",
+@dbtouse,
+".`Distribution`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `families`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `families`
+SELECT DISTINCT
+NULL AS `record_id`,
+NULL AS `hierarchy_code`,
+`Kingdom` AS `kingdom`,
+`Phylum` AS `phylum`,
+`Class` AS `class`,
+`Order` AS `order`,
+`Family` AS `family`,
+`Superfamily` AS `superfamily`,
+@dbid AS `database_id`,
+NULL AS `family_code`,
+NULL AS `is_accepted_name`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+UPDATE `families` SET `family_code` = CONCAT(@dbabbr,record_id)
+--------------
+
+--------------
+TRUNCATE TABLE `specialists`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `specialists`
+SELECT DISTINCT 
+NULL  AS `record_id`,
+`LTSSpecialist` AS `specialist_name`,
+NULL AS `specialist_code`,
+@dbid AS `database_id`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies` 
+WHERE `LTSSpecialist` IS NOT NULL OR 
+`LTSSpecialist` != ''")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+UPDATE `specialists` SET `specialist_code` = CONCAT(@dbabbr,record_id)
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_names`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
+`SpeciesURL` AS `web_site`,
+`Genus` AS `genus`,
+`SubGenusName` AS `subgenus`,
+`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+NULL  AS `infraspecies`,
+NULL  AS `infraspecies_marker`,
+`AuthorString` AS `author`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `accepted_name_code`,
+`AdditionalData` AS `comment`,
+`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+`specialists`.`record_id` AS `specialist_id`,
+`families`.`record_id` AS `family_id`,
+`specialists`.`specialist_code` AS `specialist_code`,
+`families`.`family_code` AS `family_code`,
+1 AS `is_accepted_name`,
+`GSDTaxonGUI` AS `GSDTaxonGUI`,
+`GSDNameGUI` AS `GSDNameGUI`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies` AcceptedSpecies
+LEFT OUTER JOIN `families` ON 
+(`AcceptedSpecies`.`Kingdom` = `families`.`kingdom` AND
+`AcceptedSpecies`.`Phylum` = `families`.`phylum` AND
+`AcceptedSpecies`.`Class` = `families`.`class` AND
+`AcceptedSpecies`.`Order` = `families`.`order` AND
+`AcceptedSpecies`.`Superfamily` = `families`.`superfamily` AND
+`AcceptedSpecies`.`Family` = `families`.`family`)
+LEFT OUTER JOIN `specialists` ON
+`AcceptedSpecies`.`LTSSpecialist` = `specialists`.`specialist_name`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`AcceptedSpecies`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
+WHERE `AcceptedSpecies`.`IsFossil` = 0")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `lifezone`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `lifezone`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
+`LifeZone` AS `lifezone`,
+@dbid AS `database_id`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`
+WHERE `LifeZone` IN('marine','freshwater','Marine','Freshwater')")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AIT`.`AcceptedTaxonID`) AS `name_code`,
+NULL AS `web_site`,
+`sn`.`genus` AS `genus`,
+NULL AS `subgenus`,
+`sn`.`species` AS `species`,
+CONCAT(@dbabbr,`AIT`.`ParentSpeciesID`) AS `infraspecies_parent_name_code`,
+`AIT`.`InfraSpeciesEpithet` AS `infraspecies`,
+`AIT`.`InfraSpecificMarker` AS `infraspecies_marker`,
+`AIT`.`InfraSpecificAuthorString` AS `author`,
+CONCAT(@dbabbr,`AIT`.`AcceptedTaxonID`) AS `accepted_name_code`,
+`AIT`.`AdditionalData` AS `comment`,
+`AIT`.`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+`specialists`.`specialist_code` AS `specialist_code`,
+sn.family_code AS `family_code`,
+1 AS `is_accepted_name`,
+NULL AS `GSDTaxonGUI`,
+`AIT`.`GSDNameGUI` AS `GSDNameGUI` 
+FROM ",
+@dbtouse,
+".`AcceptedInfraSpecificTaxa` AIT
+LEFT OUTER JOIN scientific_names sn ON
+CONCAT(@dbabbr,`AIT`.`ParentSpeciesID`) = `sn`.`name_code`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`AIT`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
+LEFT OUTER JOIN `specialists` ON
+`AIT`.`LTSSpecialist` = `specialists`.`specialist_name`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`Synonyms`.`ID`) AS `name_code`,
+NULL AS `web_site`,
+`Synonyms`.`Genus` AS `genus`,
+`Synonyms`.`SubGenusName` AS `subgenus`,
+`Synonyms`.`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+`Synonyms`.`InfraSpecies` AS `infraspecies`,
+`Synonyms`.`InfraSpecificMarker` AS `infraspecies_marker`,
+`Synonyms`.`AuthorString` AS `author`,
+CONCAT(@dbabbr,`Synonyms`.`AcceptedTaxonID`) AS `accepted_name_code`,
+NULL AS `comment`,
+NULL AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+sn.`specialist_code` AS `specialist_code`,
+sn.`family_code` AS `family_code`,
+0 AS `is_accepted_name`,
+NULL AS `GSDTaxonGUI`,
+`Synonyms`.`GSDNameGUI` AS `GSDNameGUI` 
+FROM ",
+@dbtouse,
+".`Synonyms` Synonyms
+LEFT OUTER JOIN scientific_names sn ON
+CONCAT(@dbabbr,`Synonyms`.`AcceptedTaxonID`) = `sn`.`name_code`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`Synonyms`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `common_names`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `common_names` 
+SELECT
+NULL, 
+CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
+CONVERT(`CommonName` USING utf8) AS `common_name`,
+`Transliteration` AS `transliteration`,
+`Language` AS `language`,
+`Country` AS `country`,
+`Area` AS `area`,
+ NULL AS `reference_ID`,
+@dbid AS `database_ID`,
+ NULL AS `is_infraspecies`,
+ `ReferenceID` AS `reference_code`
+ FROM ",
+@dbtouse,
+".`CommonNames`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `references`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `references` 
+SELECT
+NULL AS `record_id`, 
+`Authors` AS `author`,
+`Year` AS `year`,
+NULL AS `title`,
+`Title` AS `source`,
+@dbid AS `database_id`,
+CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`
+ FROM ",
+@dbtouse,
+".`References`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_name_references`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_name_references` 
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr, `ID`) AS `name_code`,	
+`ReferenceType` AS `reference_type`,	
+NULL AS `reference_id`,
+CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`,
+@dbid AS `database_id`
+ FROM ",
+@dbtouse,
+".`NameReferencesLinks`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET foreign_key_checks = 1
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+\nData Loaded.
+</pre>
+</pre><hr><b>Backing up...</b>\n<pre>
+Creating directory  23_44_07_05Apr2015
+Backing up files
+</pre><hr><b>Executing local editorial checks</b>\n<pre>
+<pre>
+Integrity and editorial checks - this may take a while depending on size of the dataset...\n
+Starting local editorial transformations
+--------------
+DELETE FROM `common_names` WHERE `common_name` IS NULL OR `common_name` = ""
+--------------
+
+--------------
+DELETE FROM `distribution` WHERE `distribution` IS NULL OR `distribution` = ""
+--------------
+
+--------------
+DELETE FROM `references` WHERE (`title` IS NULL OR `title` = "") AND (`author` IS NULL OR `author` = "")
+--------------
+
+--------------
+DELETE FROM `specialists` WHERE `specialist_name` IS NULL OR `specialist_name` = ""
+--------------
+
+--------------
+DELETE FROM `scientific_names` WHERE (`species` IS NULL OR `species` LIKE "%sp.%" OR `species` LIKE "%spp.%") AND `infraspecies` IS NULL
+--------------
+
+--------------
+DELETE FROM `scientific_names` WHERE `genus` IS NULL OR `genus` = "" OR genus like "% %" OR `genus` LIKE '%sp.%' OR `genus` LIKE "%spp.%"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `family_id` = NULL
+--------------
+
+--------------
+UPDATE `scientific_names` SET `specialist_id` = NULL
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "forma" WHERE `infraspecies_marker` LIKE "f.%"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "var." WHERE `infraspecies_marker` LIKE "Variety"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "subsp." WHERE `infraspecies_marker` LIKE "Subspecies"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `sp2000_status_id` = 5 WHERE `sp2000_status_id` IS NULL AND `is_accepted_name` = 0
+--------------
+
+--------------
+UPDATE `families` SET `family` = "Not assigned" WHERE `family` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `order` = "Not assigned" WHERE `order` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `class` = "Not assigned" WHERE `class` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `phylum` = "Not assigned" WHERE `phylum` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `kingdom` = "Not assigned" WHERE `kingdom` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `family` = "Not assigned" WHERE (`family` IS NULL OR `family` = '')
+--------------
+
+--------------
+UPDATE `families` SET `order` = "Not assigned" WHERE (`order` IS NULL OR `order` = '')
+--------------
+
+--------------
+UPDATE `families` SET `class` = "Not assigned" WHERE (`class` IS NULL OR `class` = '')
+--------------
+
+--------------
+UPDATE `families` SET `phylum` = "Not assigned" WHERE (`phylum` IS NULL OR `phylum` = '')
+--------------
+
+--------------
+UPDATE `families` SET `kingdom` = "Not assigned" WHERE (`kingdom` IS NULL OR `kingdom` = '')
+--------------
+
+--------------
+UPDATE `families` SET `hierarchy_code` = CONCAT(`kingdom`,'-',`phylum`,'-',`class`,'-',`order`,'-',`family`)
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "subsequent type designation%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "Nom%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "taxonomy source%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "additional source%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "original description%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "source of synonymy%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "basis of record%"
+--------------
+
+--------------
+UPDATE `databases` SET database_name_displayed = REPLACE(database_name_displayed,'_',' ')
+--------------
+
+--------------
+UPDATE `databases` SET database_name = REPLACE(database_name,'_',' ')
+--------------
+
+--------------
+UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ',', '')
+--------------
+
+--------------
+UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ';', ',')
+--------------
+
+--------------
+SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+--------------
+
+--------------
+SELECT "Accepted name to be retained", MAX(name_code), genus, species, infraspecies_marker, infraspecies, author FROM
+(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn
+ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author
+--------------
+
+--------------
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
+(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
+(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+FROM scientific_names
+GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
+LEFT JOIN scientific_names sn
+ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+--------------
+
+--------------
+SELECT 'Common name without parent accepted name', record_id, common_name, name_code FROM common_names
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+CREATE TEMPORARY TABLE scientific_names_tmp AS SELECT * FROM scientific_names
+--------------
+
+--------------
+SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, species, infraspecies, accepted_name_code FROM scientific_names
+WHERE is_accepted_name != 1 AND family_code IS NULL
+--------------
+
+Missing parent accepted name for synonym	record_id	name_code	genus	species	infraspecies	accepted_name_code
+Missing parent accepted name for synonym	3693	W-Hyd-546922	Sporadopora	cleithridium		W-Hyd-546921
+Missing parent accepted name for synonym	3694	W-Hyd-546917	Axoporella	kolosvaryi		W-Hyd-546912
+Missing parent accepted name for synonym	3695	W-Hyd-546908	Axopora	fisheri		W-Hyd-512166
+Missing parent accepted name for synonym	3696	W-Hyd-546907	Axopora	michelinii		W-Hyd-512166
+Missing parent accepted name for synonym	3697	W-Hyd-546909	Millepora	mamillosa		W-Hyd-512166
+Missing parent accepted name for synonym	5170	W-Hyd-526953	Astylus	crassa		W-Hyd-526951
+Missing parent accepted name for synonym	5771	W-Hyd-717348	Tarracodiscus	vllaltai		W-Hyd-717347
+Missing parent accepted name for synonym	5918	W-Hyd-527467	Spinipora	irregularis		W-Hyd-527402
+Missing parent accepted name for synonym	6065	W-Hyd-527683	Cryptaxis	alloporoides		W-Hyd-527676
+Missing parent accepted name for synonym	6068	W-Hyd-527684	Dendracis	compressus		W-Hyd-527676
+Missing parent accepted name for synonym	6069	W-Hyd-527680	Dendracis	multipora		W-Hyd-527676
+Missing parent accepted name for synonym	6070	W-Hyd-527679	Dendracis	pygmaea		W-Hyd-527676
+Missing parent accepted name for synonym	6071	W-Hyd-527681	Dendracis	tuberculosa		W-Hyd-527676
+Missing parent accepted name for synonym	6072	W-Hyd-528694	Deontopora	mooraboolensis		W-Hyd-528692
+--------------
+SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, species, infraspecies, infraspecies_parent_name_code FROM scientific_names WHERE LENGTH(infraspecies)>1  AND family_code IS NULL
+--------------
+
+--------------
+SELECT 'Lifezone without parent accepted name', record_id, name_code, lifezone FROM lifezone
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+Lifezone without parent accepted name	record_id	name_code	lifezone
+Lifezone without parent accepted name	333	W-Hyd-512167	marine
+Lifezone without parent accepted name	334	W-Hyd-512166	marine
+Lifezone without parent accepted name	677	W-Hyd-526956	marine
+Lifezone without parent accepted name	680	W-Hyd-526957	marine
+Lifezone without parent accepted name	685	W-Hyd-526961	marine
+Lifezone without parent accepted name	819	W-Hyd-526964	marine
+Lifezone without parent accepted name	925	W-Hyd-526973	marine
+Lifezone without parent accepted name	1062	W-Hyd-527402	marine
+Lifezone without parent accepted name	1663	W-Hyd-711100	marine
+Lifezone without parent accepted name	1684	W-Hyd-284907	marine
+Lifezone without parent accepted name	1783	W-Hyd-527472	marine
+Lifezone without parent accepted name	2341	W-Hyd-527575	marine
+Lifezone without parent accepted name	2345	W-Hyd-527577	marine
+Lifezone without parent accepted name	2871	W-Hyd-527580	marine
+Lifezone without parent accepted name	2872	W-Hyd-527583	marine
+Lifezone without parent accepted name	2948	W-Hyd-527585	marine
+Lifezone without parent accepted name	2983	W-Hyd-527631	marine
+Lifezone without parent accepted name	2999	W-Hyd-527675	marine
+Lifezone without parent accepted name	3002	W-Hyd-527676	marine
+Lifezone without parent accepted name	3006	W-Hyd-579991	marine
+Lifezone without parent accepted name	3018	W-Hyd-528689	marine
+Lifezone without parent accepted name	3039	W-Hyd-528691	marine
+Lifezone without parent accepted name	3041	W-Hyd-528692	marine
+Lifezone without parent accepted name	3048	W-Hyd-528698	marine
+Lifezone without parent accepted name	3068	W-Hyd-527470	marine
+--------------
+SELECT 'Distribution without parent accepted name', record_id, name_code, distribution FROM distribution
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+Distribution without parent accepted name	record_id	name_code	distribution
+Distribution without parent accepted name	1687	W-Hyd-526961	Antarctica
+Distribution without parent accepted name	1688	W-Hyd-527676	Germany
+Distribution without parent accepted name	1703	W-Hyd-527675	Japan
+Distribution without parent accepted name	1705	W-Hyd-526973	France
+Distribution without parent accepted name	1733	W-Hyd-527631	Italy
+Distribution without parent accepted name	1771	W-Hyd-528692	Australia
+Distribution without parent accepted name	1831	W-Hyd-526957	Denmark
+Distribution without parent accepted name	1832	W-Hyd-526951	Denmark
+Distribution without parent accepted name	1838	W-Hyd-527402	Denmark
+Distribution without parent accepted name	1839	W-Hyd-527575	Denmark
+Distribution without parent accepted name	1840	W-Hyd-527577	Denmark
+Distribution without parent accepted name	1841	W-Hyd-527580	Denmark
+Distribution without parent accepted name	1847	W-Hyd-527472	Denmark
+Distribution without parent accepted name	1904	W-Hyd-527583	New Zealand
+Distribution without parent accepted name	1905	W-Hyd-528689	New Zealand
+Distribution without parent accepted name	3878	W-Hyd-526952	Tonga
+Distribution without parent accepted name	6211	W-Hyd-579991	West Australia
+Distribution without parent accepted name	6417	W-Hyd-526964	Tonga Islands
+Distribution without parent accepted name	6418	W-Hyd-527585	Tonga Islands
+Distribution without parent accepted name	7329	W-Hyd-528691	Washington (State)
+--------------
+SELECT 'Accepted name without parent family', record_id, name_code, genus, species, infraspecies, family_code FROM scientific_names
+WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+--------------
+
+--------------
+SELECT 'Reference link to non-existing accepted name', record_id, reference_code, name_code FROM scientific_name_references
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+Reference link to non-existing accepted name	record_id	reference_code	name_code
+Reference link to non-existing accepted name	76	W-Hyd-38632	W-Hyd-289556
+Reference link to non-existing accepted name	168	W-Hyd-9247	W-Hyd-117664
+Reference link to non-existing accepted name	254	W-Hyd-2928	W-Hyd-151785
+Reference link to non-existing accepted name	255	W-Hyd-1666	W-Hyd-151832
+Reference link to non-existing accepted name	259	W-Hyd-1309	W-Hyd-152032
+Reference link to non-existing accepted name	264	W-Hyd-64	W-Hyd-152140
+Reference link to non-existing accepted name	270	W-Hyd-25826	W-Hyd-156473
+Reference link to non-existing accepted name	295	W-Hyd-1419	W-Hyd-117374
+Reference link to non-existing accepted name	322	W-Hyd-1419	W-Hyd-117608
+Reference link to non-existing accepted name	343	W-Hyd-37921	W-Hyd-117787
+Reference link to non-existing accepted name	383	W-Hyd-153855	W-Hyd-135474
+Reference link to non-existing accepted name	393	W-Hyd-620	W-Hyd-151883
+Reference link to non-existing accepted name	396	W-Hyd-1609	W-Hyd-152067
+Reference link to non-existing accepted name	405	W-Hyd-1229	W-Hyd-152141
+Reference link to non-existing accepted name	421	W-Hyd-1419	W-Hyd-117344
+Reference link to non-existing accepted name	425	W-Hyd-1419	W-Hyd-117387
+Reference link to non-existing accepted name	431	W-Hyd-9269	W-Hyd-117439
+Reference link to non-existing accepted name	443	W-Hyd-1419	W-Hyd-117557
+Reference link to non-existing accepted name	457	W-Hyd-1419	W-Hyd-117646
+Reference link to non-existing accepted name	471	W-Hyd-130045	W-Hyd-117785
+Reference link to non-existing accepted name	495	W-Hyd-1379	W-Hyd-135443
+Reference link to non-existing accepted name	505	W-Hyd-34526	W-Hyd-151679
+Reference link to non-existing accepted name	507	W-Hyd-1659	W-Hyd-151737
+Reference link to non-existing accepted name	509	W-Hyd-1659	W-Hyd-151771
+Reference link to non-existing accepted name	517	W-Hyd-8	W-Hyd-152119
+Reference link to non-existing accepted name	518	W-Hyd-8	W-Hyd-152153
+Reference link to non-existing accepted name	540	W-Hyd-1419	W-Hyd-117473
+Reference link to non-existing accepted name	541	W-Hyd-1419	W-Hyd-117528
+Reference link to non-existing accepted name	565	W-Hyd-138695	W-Hyd-117841
+Reference link to non-existing accepted name	567	W-Hyd-1419	W-Hyd-117866
+Reference link to non-existing accepted name	594	W-Hyd-1659	W-Hyd-151914
+Reference link to non-existing accepted name	598	W-Hyd-1659	W-Hyd-152055
+Reference link to non-existing accepted name	599	W-Hyd-64	W-Hyd-152077
+Reference link to non-existing accepted name	604	W-Hyd-8	W-Hyd-152137
+Reference link to non-existing accepted name	605	W-Hyd-1075	W-Hyd-152151
+Reference link to non-existing accepted name	608	W-Hyd-1075	W-Hyd-153787
+Reference link to non-existing accepted name	624	W-Hyd-1419	W-Hyd-117472
+Reference link to non-existing accepted name	625	W-Hyd-1419	W-Hyd-117479
+Reference link to non-existing accepted name	632	W-Hyd-1419	W-Hyd-117572
+Reference link to non-existing accepted name	672	W-Hyd-1659	W-Hyd-151677
+Reference link to non-existing accepted name	683	W-Hyd-8	W-Hyd-152136
+Reference link to non-existing accepted name	693	W-Hyd-1419	W-Hyd-117520
+Reference link to non-existing accepted name	711	W-Hyd-9247	W-Hyd-117984
+Reference link to non-existing accepted name	712	W-Hyd-1379	W-Hyd-135437
+Reference link to non-existing accepted name	724	W-Hyd-1609	W-Hyd-152064
+Reference link to non-existing accepted name	728	W-Hyd-8	W-Hyd-152120
+Reference link to non-existing accepted name	731	W-Hyd-758	W-Hyd-152185
+Reference link to non-existing accepted name	751	W-Hyd-1419	W-Hyd-117398
+Reference link to non-existing accepted name	756	W-Hyd-37920	W-Hyd-117461
+Reference link to non-existing accepted name	757	W-Hyd-1419	W-Hyd-117462
+Reference link to non-existing accepted name	762	W-Hyd-1419	W-Hyd-117505
+Reference link to non-existing accepted name	793	W-Hyd-6932	W-Hyd-135500
+Reference link to non-existing accepted name	801	W-Hyd-1309	W-Hyd-152030
+Reference link to non-existing accepted name	813	W-Hyd-42	W-Hyd-158175
+Reference link to non-existing accepted name	816	W-Hyd-1419	W-Hyd-117287
+Reference link to non-existing accepted name	824	W-Hyd-36133	W-Hyd-117474
+Reference link to non-existing accepted name	853	W-Hyd-1419	W-Hyd-117946
+Reference link to non-existing accepted name	865	W-Hyd-620	W-Hyd-151877
+Reference link to non-existing accepted name	869	W-Hyd-1229	W-Hyd-152101
+Reference link to non-existing accepted name	871	W-Hyd-1073	W-Hyd-152138
+Reference link to non-existing accepted name	874	W-Hyd-7454	W-Hyd-153826
+Reference link to non-existing accepted name	888	W-Hyd-167312	W-Hyd-117467
+Reference link to non-existing accepted name	896	W-Hyd-1419	W-Hyd-117647
+Reference link to non-existing accepted name	914	W-Hyd-23852	W-Hyd-151874
+Reference link to non-existing accepted name	915	W-Hyd-8	W-Hyd-152025
+Reference link to non-existing accepted name	918	W-Hyd-1419	W-Hyd-117326
+Reference link to non-existing accepted name	922	W-Hyd-38509	W-Hyd-117438
+Reference link to non-existing accepted name	932	W-Hyd-130042	W-Hyd-117663
+Reference link to non-existing accepted name	943	W-Hyd-1419	W-Hyd-117977
+Reference link to non-existing accepted name	944	W-Hyd-164481	W-Hyd-135422
+Reference link to non-existing accepted name	951	W-Hyd-1609	W-Hyd-152085
+Reference link to non-existing accepted name	954	W-Hyd-8	W-Hyd-152154
+Reference link to non-existing accepted name	956	W-Hyd-1666	W-Hyd-152173
+Reference link to non-existing accepted name	961	W-Hyd-9247	W-Hyd-117463
+Reference link to non-existing accepted name	980	W-Hyd-1659	W-Hyd-151715
+Reference link to non-existing accepted name	981	W-Hyd-1659	W-Hyd-151733
+Reference link to non-existing accepted name	1079	W-Hyd-124419	W-Hyd-284245
+Reference link to non-existing accepted name	1100	W-Hyd-25287	W-Hyd-284400
+Reference link to non-existing accepted name	1110	W-Hyd-124419	W-Hyd-284460
+Reference link to non-existing accepted name	1114	W-Hyd-124419	W-Hyd-284510
+Reference link to non-existing accepted name	1115	W-Hyd-37395	W-Hyd-284514
+Reference link to non-existing accepted name	1117	W-Hyd-37920	W-Hyd-284542
+Reference link to non-existing accepted name	1118	W-Hyd-124419	W-Hyd-284545
+Reference link to non-existing accepted name	1123	W-Hyd-24856	W-Hyd-284603
+Reference link to non-existing accepted name	1164	W-Hyd-26170	W-Hyd-284940
+Reference link to non-existing accepted name	1192	W-Hyd-7675	W-Hyd-164808
+Reference link to non-existing accepted name	1215	W-Hyd-64	W-Hyd-183599
+Reference link to non-existing accepted name	1268	W-Hyd-124419	W-Hyd-284246
+Reference link to non-existing accepted name	1269	W-Hyd-24241	W-Hyd-284258
+Reference link to non-existing accepted name	1297	W-Hyd-124419	W-Hyd-284516
+Reference link to non-existing accepted name	1304	W-Hyd-124419	W-Hyd-284573
+Reference link to non-existing accepted name	1318	W-Hyd-141205	W-Hyd-284713
+Reference link to non-existing accepted name	1335	W-Hyd-26159	W-Hyd-284910
+Reference link to non-existing accepted name	1364	W-Hyd-2898	W-Hyd-157613
+Reference link to non-existing accepted name	1378	W-Hyd-4182	W-Hyd-174669
+Reference link to non-existing accepted name	1411	W-Hyd-1318	W-Hyd-271287
+Reference link to non-existing accepted name	1458	W-Hyd-124419	W-Hyd-284521
+Reference link to non-existing accepted name	1460	W-Hyd-124419	W-Hyd-284538
+Reference link to non-existing accepted name	1461	W-Hyd-124419	W-Hyd-284551
+Reference link to non-existing accepted name	1463	W-Hyd-124419	W-Hyd-284568
+Reference link to non-existing accepted name	1464	W-Hyd-26159	W-Hyd-284569
+Reference link to non-existing accepted name	1491	W-Hyd-124419	W-Hyd-284802
+Reference link to non-existing accepted name	1500	W-Hyd-141951	W-Hyd-284899
+Reference link to non-existing accepted name	1508	W-Hyd-26530	W-Hyd-284963
+Reference link to non-existing accepted name	1511	W-Hyd-124419	W-Hyd-285006
+Reference link to non-existing accepted name	1514	W-Hyd-26261	W-Hyd-285026
+Reference link to non-existing accepted name	1575	W-Hyd-178568	W-Hyd-254601
+Reference link to non-existing accepted name	1596	W-Hyd-39025	W-Hyd-284255
+Reference link to non-existing accepted name	1597	W-Hyd-124419	W-Hyd-284257
+Reference link to non-existing accepted name	1605	W-Hyd-124419	W-Hyd-284325
+Reference link to non-existing accepted name	1614	W-Hyd-124419	W-Hyd-284398
+Reference link to non-existing accepted name	1620	W-Hyd-124419	W-Hyd-284457
+Reference link to non-existing accepted name	1627	W-Hyd-124419	W-Hyd-284530
+Reference link to non-existing accepted name	1630	W-Hyd-124419	W-Hyd-284555
+Reference link to non-existing accepted name	1631	W-Hyd-124419	W-Hyd-284559
+Reference link to non-existing accepted name	1661	W-Hyd-124419	W-Hyd-284900
+Reference link to non-existing accepted name	1667	W-Hyd-124419	W-Hyd-284968
+Reference link to non-existing accepted name	1668	W-Hyd-33933	W-Hyd-284969
+Reference link to non-existing accepted name	1669	W-Hyd-33895	W-Hyd-284976
+Reference link to non-existing accepted name	1684	W-Hyd-124419	W-Hyd-174682
+Reference link to non-existing accepted name	1712	W-Hyd-131344	W-Hyd-283232
+Reference link to non-existing accepted name	1718	W-Hyd-124419	W-Hyd-284048
+Reference link to non-existing accepted name	1744	W-Hyd-124419	W-Hyd-284314
+Reference link to non-existing accepted name	1751	W-Hyd-34489	W-Hyd-284399
+Reference link to non-existing accepted name	1766	W-Hyd-124419	W-Hyd-284548
+Reference link to non-existing accepted name	1767	W-Hyd-124419	W-Hyd-284550
+Reference link to non-existing accepted name	1788	W-Hyd-124419	W-Hyd-284807
+Reference link to non-existing accepted name	1797	W-Hyd-124419	W-Hyd-284907
+Reference link to non-existing accepted name	1807	W-Hyd-24856	W-Hyd-285027
+Reference link to non-existing accepted name	1818	W-Hyd-4182	W-Hyd-173719
+Reference link to non-existing accepted name	1828	W-Hyd-5899	W-Hyd-210731
+Reference link to non-existing accepted name	1843	W-Hyd-9269	W-Hyd-231818
+Reference link to non-existing accepted name	1844	W-Hyd-9269	W-Hyd-231832
+Reference link to non-existing accepted name	1848	W-Hyd-36883	W-Hyd-283991
+Reference link to non-existing accepted name	1861	W-Hyd-124419	W-Hyd-284231
+Reference link to non-existing accepted name	1862	W-Hyd-124419	W-Hyd-284238
+Reference link to non-existing accepted name	1865	W-Hyd-124419	W-Hyd-284281
+Reference link to non-existing accepted name	1867	W-Hyd-34719	W-Hyd-284315
+Reference link to non-existing accepted name	1869	W-Hyd-31764	W-Hyd-284328
+Reference link to non-existing accepted name	1880	W-Hyd-34691	W-Hyd-284452
+Reference link to non-existing accepted name	1883	W-Hyd-124419	W-Hyd-284467
+Reference link to non-existing accepted name	1885	W-Hyd-37920	W-Hyd-284513
+Reference link to non-existing accepted name	1886	W-Hyd-124419	W-Hyd-284517
+Reference link to non-existing accepted name	1922	W-Hyd-124419	W-Hyd-174722
+Reference link to non-existing accepted name	1979	W-Hyd-124419	W-Hyd-284447
+Reference link to non-existing accepted name	1984	W-Hyd-24234	W-Hyd-284511
+Reference link to non-existing accepted name	1985	W-Hyd-124419	W-Hyd-284515
+Reference link to non-existing accepted name	1986	W-Hyd-124419	W-Hyd-284540
+Reference link to non-existing accepted name	1987	W-Hyd-34746	W-Hyd-284543
+Reference link to non-existing accepted name	1988	W-Hyd-124419	W-Hyd-284558
+Reference link to non-existing accepted name	1998	W-Hyd-141205	W-Hyd-284664
+Reference link to non-existing accepted name	2010	W-Hyd-124419	W-Hyd-284890
+Reference link to non-existing accepted name	2022	W-Hyd-4182	W-Hyd-174620
+Reference link to non-existing accepted name	2050	W-Hyd-1318	W-Hyd-271285
+Reference link to non-existing accepted name	2066	W-Hyd-34546	W-Hyd-284312
+Reference link to non-existing accepted name	2070	W-Hyd-124419	W-Hyd-284357
+Reference link to non-existing accepted name	2078	W-Hyd-124419	W-Hyd-284523
+Reference link to non-existing accepted name	2080	W-Hyd-124419	W-Hyd-284557
+Reference link to non-existing accepted name	2087	W-Hyd-124419	W-Hyd-284732
+Reference link to non-existing accepted name	2088	W-Hyd-24239	W-Hyd-284752
+Reference link to non-existing accepted name	2102	W-Hyd-124419	W-Hyd-284957
+Reference link to non-existing accepted name	2105	W-Hyd-33933	W-Hyd-284967
+Reference link to non-existing accepted name	2107	W-Hyd-124419	W-Hyd-285000
+Reference link to non-existing accepted name	2118	W-Hyd-42	W-Hyd-157940
+Reference link to non-existing accepted name	2140	W-Hyd-35747	W-Hyd-283990
+Reference link to non-existing accepted name	2166	W-Hyd-124419	W-Hyd-284363
+Reference link to non-existing accepted name	2219	W-Hyd-124419	W-Hyd-284235
+Reference link to non-existing accepted name	2221	W-Hyd-124419	W-Hyd-284269
+Reference link to non-existing accepted name	2227	W-Hyd-124419	W-Hyd-284384
+Reference link to non-existing accepted name	2231	W-Hyd-124419	W-Hyd-284535
+Reference link to non-existing accepted name	2264	W-Hyd-6376	W-Hyd-220573
+Reference link to non-existing accepted name	2282	W-Hyd-124419	W-Hyd-284244
+Reference link to non-existing accepted name	2283	W-Hyd-124419	W-Hyd-284261
+Reference link to non-existing accepted name	2291	W-Hyd-124419	W-Hyd-284526
+Reference link to non-existing accepted name	2300	W-Hyd-124419	W-Hyd-284811
+Reference link to non-existing accepted name	2306	W-Hyd-124419	W-Hyd-284980
+Reference link to non-existing accepted name	2335	W-Hyd-124419	W-Hyd-285195
+Reference link to non-existing accepted name	2348	W-Hyd-124419	W-Hyd-285331
+Reference link to non-existing accepted name	2351	W-Hyd-124419	W-Hyd-285346
+Reference link to non-existing accepted name	2360	W-Hyd-34546	W-Hyd-285413
+Reference link to non-existing accepted name	2364	W-Hyd-124419	W-Hyd-285446
+Reference link to non-existing accepted name	2423	W-Hyd-124419	W-Hyd-285981
+Reference link to non-existing accepted name	2426	W-Hyd-164966	W-Hyd-287264
+Reference link to non-existing accepted name	2431	W-Hyd-38197	W-Hyd-287279
+Reference link to non-existing accepted name	2438	W-Hyd-124419	W-Hyd-287317
+Reference link to non-existing accepted name	2492	W-Hyd-124419	W-Hyd-290512
+Reference link to non-existing accepted name	2494	W-Hyd-24038	W-Hyd-290518
+Reference link to non-existing accepted name	2515	W-Hyd-1318	W-Hyd-292188
+Reference link to non-existing accepted name	2533	W-Hyd-24246	W-Hyd-285282
+Reference link to non-existing accepted name	2643	W-Hyd-124419	W-Hyd-289362
+Reference link to non-existing accepted name	2650	W-Hyd-124419	W-Hyd-289753
+Reference link to non-existing accepted name	2681	W-Hyd-154001	W-Hyd-291203
+Reference link to non-existing accepted name	2694	W-Hyd-1318	W-Hyd-292225
+Reference link to non-existing accepted name	2727	W-Hyd-124419	W-Hyd-285270
+Reference link to non-existing accepted name	2732	W-Hyd-130045	W-Hyd-285322
+Reference link to non-existing accepted name	2745	W-Hyd-124419	W-Hyd-285457
+Reference link to non-existing accepted name	2749	W-Hyd-124419	W-Hyd-285504
+Reference link to non-existing accepted name	2764	W-Hyd-124419	W-Hyd-285691
+Reference link to non-existing accepted name	2846	W-Hyd-24863	W-Hyd-290241
+Reference link to non-existing accepted name	2868	W-Hyd-39025	W-Hyd-292224
+Reference link to non-existing accepted name	2872	W-Hyd-30643	W-Hyd-292269
+Reference link to non-existing accepted name	2886	W-Hyd-124419	W-Hyd-285257
+Reference link to non-existing accepted name	2889	W-Hyd-124419	W-Hyd-285291
+Reference link to non-existing accepted name	2933	W-Hyd-124419	W-Hyd-285759
+Reference link to non-existing accepted name	2934	W-Hyd-124419	W-Hyd-285768
+Reference link to non-existing accepted name	2984	W-Hyd-124419	W-Hyd-289771
+Reference link to non-existing accepted name	3013	W-Hyd-34669	W-Hyd-292212
+Reference link to non-existing accepted name	3015	W-Hyd-1318	W-Hyd-292241
+Reference link to non-existing accepted name	3020	W-Hyd-124419	W-Hyd-285150
+Reference link to non-existing accepted name	3022	W-Hyd-124419	W-Hyd-285184
+Reference link to non-existing accepted name	3031	W-Hyd-124419	W-Hyd-285341
+Reference link to non-existing accepted name	3050	W-Hyd-124419	W-Hyd-285586
+Reference link to non-existing accepted name	3093	W-Hyd-124423	W-Hyd-287268
+Reference link to non-existing accepted name	3134	W-Hyd-49881	W-Hyd-290347
+Reference link to non-existing accepted name	3139	W-Hyd-124419	W-Hyd-291000
+Reference link to non-existing accepted name	3158	W-Hyd-33933	W-Hyd-284970
+Reference link to non-existing accepted name	3167	W-Hyd-124419	W-Hyd-285160
+Reference link to non-existing accepted name	3177	W-Hyd-124419	W-Hyd-285317
+Reference link to non-existing accepted name	3200	W-Hyd-124419	W-Hyd-285760
+Reference link to non-existing accepted name	3201	W-Hyd-124419	W-Hyd-285767
+Reference link to non-existing accepted name	3219	W-Hyd-164392	W-Hyd-287272
+Reference link to non-existing accepted name	3243	W-Hyd-124419	W-Hyd-290297
+Reference link to non-existing accepted name	3254	W-Hyd-124419	W-Hyd-285051
+Reference link to non-existing accepted name	3303	W-Hyd-124419	W-Hyd-285762
+Reference link to non-existing accepted name	3304	W-Hyd-124419	W-Hyd-285769
+Reference link to non-existing accepted name	3318	W-Hyd-172623	W-Hyd-287262
+Reference link to non-existing accepted name	3338	W-Hyd-124419	W-Hyd-289302
+Reference link to non-existing accepted name	3343	W-Hyd-124419	W-Hyd-289756
+Reference link to non-existing accepted name	3344	W-Hyd-124419	W-Hyd-289795
+Reference link to non-existing accepted name	3346	W-Hyd-124419	W-Hyd-289838
+Reference link to non-existing accepted name	3362	W-Hyd-124419	W-Hyd-290513
+Reference link to non-existing accepted name	3369	W-Hyd-124419	W-Hyd-291110
+Reference link to non-existing accepted name	3384	W-Hyd-1318	W-Hyd-292358
+Reference link to non-existing accepted name	3431	W-Hyd-23820	W-Hyd-512167
+Reference link to non-existing accepted name	3432	W-Hyd-37521	W-Hyd-526956
+Reference link to non-existing accepted name	3435	W-Hyd-37521	W-Hyd-527631
+Reference link to non-existing accepted name	3436	W-Hyd-37521	W-Hyd-528692
+Reference link to non-existing accepted name	3444	W-Hyd-34766	W-Hyd-564221
+Reference link to non-existing accepted name	3445	W-Hyd-152357	W-Hyd-574080
+Reference link to non-existing accepted name	3447	W-Hyd-35277	W-Hyd-592890
+Reference link to non-existing accepted name	3451	W-Hyd-43903	W-Hyd-660409
+Reference link to non-existing accepted name	3452	W-Hyd-37	W-Hyd-660519
+Reference link to non-existing accepted name	3453	W-Hyd-37	W-Hyd-670390
+Reference link to non-existing accepted name	3469	W-Hyd-166154	W-Hyd-717360
+Reference link to non-existing accepted name	3474	W-Hyd-31968	W-Hyd-720130
+Reference link to non-existing accepted name	3481	W-Hyd-39038	W-Hyd-732925
+Reference link to non-existing accepted name	3500	W-Hyd-164433	W-Hyd-746116
+Reference link to non-existing accepted name	3502	W-Hyd-42132	W-Hyd-746145
+Reference link to non-existing accepted name	3504	W-Hyd-6911	W-Hyd-746199
+Reference link to non-existing accepted name	3505	W-Hyd-6888	W-Hyd-746202
+Reference link to non-existing accepted name	3508	W-Hyd-34748	W-Hyd-747449
+Reference link to non-existing accepted name	3512	W-Hyd-172734	W-Hyd-759194
+Reference link to non-existing accepted name	3514	W-Hyd-26507	W-Hyd-759764
+Reference link to non-existing accepted name	3516	W-Hyd-36535	W-Hyd-760190
+Reference link to non-existing accepted name	3528	W-Hyd-37873	W-Hyd-835533
+Reference link to non-existing accepted name	3530	W-Hyd-141775	W-Hyd-835827
+Reference link to non-existing accepted name	3532	W-Hyd-35065	W-Hyd-836340
+Reference link to non-existing accepted name	3537	W-Hyd-124419	W-Hyd-285157
+Reference link to non-existing accepted name	3572	W-Hyd-124419	W-Hyd-285761
+Reference link to non-existing accepted name	3573	W-Hyd-124419	W-Hyd-285770
+Reference link to non-existing accepted name	3585	W-Hyd-172620	W-Hyd-287250
+Reference link to non-existing accepted name	3596	W-Hyd-124419	W-Hyd-289837
+Reference link to non-existing accepted name	3617	W-Hyd-1318	W-Hyd-292268
+Reference link to non-existing accepted name	3627	W-Hyd-1318	W-Hyd-292409
+Reference link to non-existing accepted name	3661	W-Hyd-34774	W-Hyd-394912
+Reference link to non-existing accepted name	3677	W-Hyd-34568	W-Hyd-422959
+Reference link to non-existing accepted name	3686	W-Hyd-23821	W-Hyd-512166
+Reference link to non-existing accepted name	3689	W-Hyd-37521	W-Hyd-527575
+Reference link to non-existing accepted name	3690	W-Hyd-37521	W-Hyd-527676
+Reference link to non-existing accepted name	3691	W-Hyd-35155	W-Hyd-528687
+Reference link to non-existing accepted name	3692	W-Hyd-37521	W-Hyd-528698
+Reference link to non-existing accepted name	3696	W-Hyd-35285	W-Hyd-564207
+Reference link to non-existing accepted name	3710	W-Hyd-163001	W-Hyd-599765
+Reference link to non-existing accepted name	3732	W-Hyd-35041	W-Hyd-732921
+Reference link to non-existing accepted name	3735	W-Hyd-43903	W-Hyd-735843
+Reference link to non-existing accepted name	3736	W-Hyd-43903	W-Hyd-735844
+Reference link to non-existing accepted name	3743	W-Hyd-36081	W-Hyd-740632
+Reference link to non-existing accepted name	3750	W-Hyd-35782	W-Hyd-744526
+Reference link to non-existing accepted name	3813	W-Hyd-142492	W-Hyd-489056
+Reference link to non-existing accepted name	3816	W-Hyd-23822	W-Hyd-528697
+Reference link to non-existing accepted name	3820	W-Hyd-23820	W-Hyd-546912
+Reference link to non-existing accepted name	3821	W-Hyd-23820	W-Hyd-546921
+Reference link to non-existing accepted name	3840	W-Hyd-37	W-Hyd-659134
+Reference link to non-existing accepted name	3841	W-Hyd-37	W-Hyd-660513
+Reference link to non-existing accepted name	3842	W-Hyd-37	W-Hyd-662415
+Reference link to non-existing accepted name	3843	W-Hyd-37	W-Hyd-694932
+Reference link to non-existing accepted name	3845	W-Hyd-8	W-Hyd-709413
+Reference link to non-existing accepted name	3850	W-Hyd-31737	W-Hyd-713870
+Reference link to non-existing accepted name	3853	W-Hyd-166153	W-Hyd-717347
+Reference link to non-existing accepted name	3862	W-Hyd-26516	W-Hyd-732920
+Reference link to non-existing accepted name	3868	W-Hyd-8	W-Hyd-735842
+Reference link to non-existing accepted name	3869	W-Hyd-8	W-Hyd-735851
+Reference link to non-existing accepted name	3882	W-Hyd-35782	W-Hyd-744528
+Reference link to non-existing accepted name	3892	W-Hyd-164343	W-Hyd-746192
+Reference link to non-existing accepted name	3895	W-Hyd-36272	W-Hyd-747160
+Reference link to non-existing accepted name	3898	W-Hyd-25287	W-Hyd-759023
+Reference link to non-existing accepted name	3899	W-Hyd-579	W-Hyd-759996
+Reference link to non-existing accepted name	3911	W-Hyd-26761	W-Hyd-832338
+Reference link to non-existing accepted name	3938	W-Hyd-30229	W-Hyd-117776
+Reference link to non-existing accepted name	3947	W-Hyd-64	W-Hyd-152123
+Reference link to non-existing accepted name	3951	W-Hyd-36102	W-Hyd-156385
+Reference link to non-existing accepted name	3956	W-Hyd-1419	W-Hyd-117595
+Reference link to non-existing accepted name	3968	W-Hyd-620	W-Hyd-151837
+Reference link to non-existing accepted name	3972	W-Hyd-8	W-Hyd-152152
+Reference link to non-existing accepted name	3982	W-Hyd-1419	W-Hyd-117652
+Reference link to non-existing accepted name	3983	W-Hyd-1419	W-Hyd-117666
+Reference link to non-existing accepted name	3995	W-Hyd-1609	W-Hyd-151707
+Reference link to non-existing accepted name	3996	W-Hyd-8	W-Hyd-152049
+Reference link to non-existing accepted name	4004	W-Hyd-1419	W-Hyd-117407
+Reference link to non-existing accepted name	4007	W-Hyd-1419	W-Hyd-117609
+Reference link to non-existing accepted name	4016	W-Hyd-1419	W-Hyd-117943
+Reference link to non-existing accepted name	4021	W-Hyd-1309	W-Hyd-152039
+Reference link to non-existing accepted name	4037	W-Hyd-1419	W-Hyd-117976
+Reference link to non-existing accepted name	4047	W-Hyd-1318	W-Hyd-292296
+Reference link to non-existing accepted name	4051	W-Hyd-1318	W-Hyd-292360
+Reference link to non-existing accepted name	4085	W-Hyd-130042	W-Hyd-473672
+Reference link to non-existing accepted name	4087	W-Hyd-26159	W-Hyd-477131
+Reference link to non-existing accepted name	4101	W-Hyd-34586	W-Hyd-555016
+Reference link to non-existing accepted name	4107	W-Hyd-51895	W-Hyd-564227
+Reference link to non-existing accepted name	4115	W-Hyd-34702	W-Hyd-600489
+Reference link to non-existing accepted name	4121	W-Hyd-164489	W-Hyd-710040
+Reference link to non-existing accepted name	4135	W-Hyd-34699	W-Hyd-718664
+Reference link to non-existing accepted name	4136	W-Hyd-142492	W-Hyd-718850
+Reference link to non-existing accepted name	4142	W-Hyd-34542	W-Hyd-730528
+Reference link to non-existing accepted name	4149	W-Hyd-671	W-Hyd-735848
+Reference link to non-existing accepted name	4150	W-Hyd-7454	W-Hyd-735850
+Reference link to non-existing accepted name	4165	W-Hyd-172608	W-Hyd-746176
+Reference link to non-existing accepted name	4166	W-Hyd-164343	W-Hyd-746196
+Reference link to non-existing accepted name	4167	W-Hyd-6911	W-Hyd-746197
+Reference link to non-existing accepted name	4181	W-Hyd-51738	W-Hyd-832344
+Reference link to non-existing accepted name	4184	W-Hyd-34780	W-Hyd-835446
+Reference link to non-existing accepted name	4203	W-Hyd-1318	W-Hyd-292367
+Reference link to non-existing accepted name	4223	W-Hyd-64	W-Hyd-345183
+Reference link to non-existing accepted name	4243	W-Hyd-141205	W-Hyd-422760
+Reference link to non-existing accepted name	4244	W-Hyd-26840	W-Hyd-430386
+Reference link to non-existing accepted name	4248	W-Hyd-130042	W-Hyd-468912
+Reference link to non-existing accepted name	4250	W-Hyd-145236	W-Hyd-509747
+Reference link to non-existing accepted name	4258	W-Hyd-37521	W-Hyd-527583
+Reference link to non-existing accepted name	4295	W-Hyd-172608	W-Hyd-710730
+Reference link to non-existing accepted name	4316	W-Hyd-7457	W-Hyd-735837
+Reference link to non-existing accepted name	4323	W-Hyd-23852	W-Hyd-736878
+Reference link to non-existing accepted name	4332	W-Hyd-147357	W-Hyd-744128
+Reference link to non-existing accepted name	4342	W-Hyd-164343	W-Hyd-746200
+Reference link to non-existing accepted name	4351	W-Hyd-23984	W-Hyd-765327
+Reference link to non-existing accepted name	4366	W-Hyd-24856	W-Hyd-835693
+Reference link to non-existing accepted name	4376	W-Hyd-1318	W-Hyd-292448
+Reference link to non-existing accepted name	4390	W-Hyd-23852	W-Hyd-408550
+Reference link to non-existing accepted name	4402	W-Hyd-37521	W-Hyd-527580
+Reference link to non-existing accepted name	4407	W-Hyd-37154	W-Hyd-564193
+Reference link to non-existing accepted name	4417	W-Hyd-37	W-Hyd-660520
+Reference link to non-existing accepted name	4434	W-Hyd-34839	W-Hyd-729848
+Reference link to non-existing accepted name	4440	W-Hyd-23513	W-Hyd-735824
+Reference link to non-existing accepted name	4450	W-Hyd-6936	W-Hyd-742585
+Reference link to non-existing accepted name	4453	W-Hyd-35782	W-Hyd-744544
+Reference link to non-existing accepted name	4465	W-Hyd-39038	W-Hyd-747298
+Reference link to non-existing accepted name	4466	W-Hyd-35267	W-Hyd-747299
+Reference link to non-existing accepted name	4478	W-Hyd-34634	W-Hyd-832342
+Reference link to non-existing accepted name	4485	W-Hyd-36002	W-Hyd-835520
+Reference link to non-existing accepted name	4487	W-Hyd-35060	W-Hyd-835876
+Reference link to non-existing accepted name	4508	W-Hyd-130478	W-Hyd-285205
+Reference link to non-existing accepted name	4516	W-Hyd-124419	W-Hyd-285335
+Reference link to non-existing accepted name	4591	W-Hyd-124419	W-Hyd-285256
+Reference link to non-existing accepted name	4604	W-Hyd-124419	W-Hyd-285541
+Reference link to non-existing accepted name	4659	W-Hyd-124419	W-Hyd-290302
+Reference link to non-existing accepted name	4667	W-Hyd-36060	W-Hyd-158169
+Reference link to non-existing accepted name	4670	W-Hyd-4182	W-Hyd-173765
+Reference link to non-existing accepted name	4690	W-Hyd-124419	W-Hyd-284285
+Reference link to non-existing accepted name	4699	W-Hyd-124419	W-Hyd-284536
+Reference link to non-existing accepted name	4732	W-Hyd-24246	W-Hyd-284322
+Reference link to non-existing accepted name	4736	W-Hyd-124419	W-Hyd-284458
+Reference link to non-existing accepted name	4737	W-Hyd-124419	W-Hyd-284508
+Reference link to non-existing accepted name	4748	W-Hyd-124419	W-Hyd-284815
+Reference link to non-existing accepted name	4750	W-Hyd-124419	W-Hyd-284858
+Reference link to non-existing accepted name	4760	W-Hyd-124419	W-Hyd-285151
+Reference link to non-existing accepted name	4786	W-Hyd-37521	W-Hyd-533698
+Reference link to non-existing accepted name	4796	W-Hyd-37	W-Hyd-660518
+Reference link to non-existing accepted name	4801	W-Hyd-9419	W-Hyd-710301
+Reference link to non-existing accepted name	4805	W-Hyd-164853	W-Hyd-711023
+Reference link to non-existing accepted name	4813	W-Hyd-39038	W-Hyd-720124
+Reference link to non-existing accepted name	4814	W-Hyd-39038	W-Hyd-721251
+Reference link to non-existing accepted name	4820	W-Hyd-34715	W-Hyd-729856
+Reference link to non-existing accepted name	4837	W-Hyd-172600	W-Hyd-745953
+Reference link to non-existing accepted name	4841	W-Hyd-169697	W-Hyd-746127
+Reference link to non-existing accepted name	4842	W-Hyd-164343	W-Hyd-746201
+Reference link to non-existing accepted name	4844	W-Hyd-35986	W-Hyd-751399
+Reference link to non-existing accepted name	4851	W-Hyd-24241	W-Hyd-816191
+Reference link to non-existing accepted name	4855	W-Hyd-195409	W-Hyd-828542
+Reference link to non-existing accepted name	4858	W-Hyd-34824	W-Hyd-834194
+Reference link to non-existing accepted name	4861	W-Hyd-36002	W-Hyd-835522
+Reference link to non-existing accepted name	4870	W-Hyd-124419	W-Hyd-284028
+Reference link to non-existing accepted name	4876	W-Hyd-124419	W-Hyd-284277
+Reference link to non-existing accepted name	4877	W-Hyd-124419	W-Hyd-284278
+Reference link to non-existing accepted name	4882	W-Hyd-124419	W-Hyd-284528
+Reference link to non-existing accepted name	4885	W-Hyd-124419	W-Hyd-284578
+Reference link to non-existing accepted name	4891	W-Hyd-124419	W-Hyd-284964
+Reference link to non-existing accepted name	4893	W-Hyd-124419	W-Hyd-285014
+Reference link to non-existing accepted name	4897	W-Hyd-124419	W-Hyd-285163
+Reference link to non-existing accepted name	4900	W-Hyd-124419	W-Hyd-285214
+Reference link to non-existing accepted name	4908	W-Hyd-124419	W-Hyd-285308
+Reference link to non-existing accepted name	4919	W-Hyd-124419	W-Hyd-285551
+Reference link to non-existing accepted name	4939	W-Hyd-124419	W-Hyd-287491
+Reference link to non-existing accepted name	4959	W-Hyd-124419	W-Hyd-291142
+Reference link to non-existing accepted name	4971	W-Hyd-26519	W-Hyd-292363
+Reference link to non-existing accepted name	4972	W-Hyd-1318	W-Hyd-292365
+Reference link to non-existing accepted name	4987	W-Hyd-124419	W-Hyd-291001
+Reference link to non-existing accepted name	4991	W-Hyd-1318	W-Hyd-292242
+Reference link to non-existing accepted name	4994	W-Hyd-1318	W-Hyd-292292
+Reference link to non-existing accepted name	4999	W-Hyd-1318	W-Hyd-292356
+Reference link to non-existing accepted name	5015	W-Hyd-1318	W-Hyd-292699
+Reference link to non-existing accepted name	5033	W-Hyd-130042	W-Hyd-477125
+Reference link to non-existing accepted name	5042	W-Hyd-25132	W-Hyd-528689
+Reference link to non-existing accepted name	5056	W-Hyd-671	W-Hyd-660172
+Reference link to non-existing accepted name	5060	W-Hyd-35076	W-Hyd-710822
+Reference link to non-existing accepted name	5071	W-Hyd-35065	W-Hyd-720065
+Reference link to non-existing accepted name	5072	W-Hyd-35935	W-Hyd-720142
+Reference link to non-existing accepted name	5075	W-Hyd-35332	W-Hyd-729857
+Reference link to non-existing accepted name	5088	W-Hyd-38284	W-Hyd-738912
+Reference link to non-existing accepted name	5092	W-Hyd-26508	W-Hyd-742587
+Reference link to non-existing accepted name	5097	W-Hyd-35782	W-Hyd-744529
+Reference link to non-existing accepted name	5139	W-Hyd-1318	W-Hyd-292702
+Reference link to non-existing accepted name	5149	W-Hyd-141205	W-Hyd-418897
+Reference link to non-existing accepted name	5154	W-Hyd-130042	W-Hyd-474095
+Reference link to non-existing accepted name	5155	W-Hyd-130042	W-Hyd-474104
+Reference link to non-existing accepted name	5166	W-Hyd-37521	W-Hyd-528691
+Reference link to non-existing accepted name	5169	W-Hyd-39038	W-Hyd-555892
+Reference link to non-existing accepted name	5175	W-Hyd-35392	W-Hyd-564226
+Reference link to non-existing accepted name	5178	W-Hyd-35338	W-Hyd-574089
+Reference link to non-existing accepted name	5183	W-Hyd-154236	W-Hyd-590741
+Reference link to non-existing accepted name	5186	W-Hyd-24234	W-Hyd-596589
+Reference link to non-existing accepted name	5203	W-Hyd-34551	W-Hyd-720132
+Reference link to non-existing accepted name	5209	W-Hyd-34764	W-Hyd-730529
+Reference link to non-existing accepted name	5212	W-Hyd-26519	W-Hyd-732927
+Reference link to non-existing accepted name	5230	W-Hyd-35782	W-Hyd-744530
+Reference link to non-existing accepted name	5236	W-Hyd-34780	W-Hyd-746157
+Reference link to non-existing accepted name	5238	W-Hyd-164343	W-Hyd-746190
+Reference link to non-existing accepted name	5239	W-Hyd-6911	W-Hyd-746191
+Reference link to non-existing accepted name	5240	W-Hyd-6941	W-Hyd-746203
+Reference link to non-existing accepted name	5249	W-Hyd-39038	W-Hyd-761043
+Reference link to non-existing accepted name	5265	W-Hyd-24423	W-Hyd-834402
+Reference link to non-existing accepted name	5274	W-Hyd-124419	W-Hyd-285038
+Reference link to non-existing accepted name	5303	W-Hyd-124419	W-Hyd-285757
+Reference link to non-existing accepted name	5331	W-Hyd-124419	W-Hyd-290084
+Reference link to non-existing accepted name	5338	W-Hyd-24856	W-Hyd-345276
+Reference link to non-existing accepted name	5348	W-Hyd-132823	W-Hyd-416475
+Reference link to non-existing accepted name	5362	W-Hyd-145241	W-Hyd-509844
+Reference link to non-existing accepted name	5381	W-Hyd-36549	W-Hyd-564225
+Reference link to non-existing accepted name	5391	W-Hyd-35532	W-Hyd-594933
+Reference link to non-existing accepted name	5394	W-Hyd-37	W-Hyd-660512
+Reference link to non-existing accepted name	5395	W-Hyd-26656	W-Hyd-708954
+Reference link to non-existing accepted name	5406	W-Hyd-165443	W-Hyd-715992
+Reference link to non-existing accepted name	5419	W-Hyd-36612	W-Hyd-729858
+Reference link to non-existing accepted name	5422	W-Hyd-36136	W-Hyd-730530
+Reference link to non-existing accepted name	5446	W-Hyd-35782	W-Hyd-744531
+Reference link to non-existing accepted name	5456	W-Hyd-23364	W-Hyd-754181
+Reference link to non-existing accepted name	5458	W-Hyd-34633	W-Hyd-759765
+Reference link to non-existing accepted name	5459	W-Hyd-34552	W-Hyd-760426
+Reference link to non-existing accepted name	5468	W-Hyd-34747	W-Hyd-834184
+Reference link to non-existing accepted name	5469	W-Hyd-34734	W-Hyd-835340
+Reference link to non-existing accepted name	5472	W-Hyd-36002	W-Hyd-835521
+Reference link to non-existing accepted name	5503	W-Hyd-124419	W-Hyd-286000
+Reference link to non-existing accepted name	5515	W-Hyd-124419	W-Hyd-289757
+Reference link to non-existing accepted name	5516	W-Hyd-124419	W-Hyd-289758
+Reference link to non-existing accepted name	5517	W-Hyd-124419	W-Hyd-289993
+Reference link to non-existing accepted name	5556	W-Hyd-141205	W-Hyd-292255
+Reference link to non-existing accepted name	5566	W-Hyd-1318	W-Hyd-292477
+Reference link to non-existing accepted name	5593	W-Hyd-39049	W-Hyd-474096
+Reference link to non-existing accepted name	5599	W-Hyd-37521	W-Hyd-526951
+Reference link to non-existing accepted name	5601	W-Hyd-37521	W-Hyd-527402
+Reference link to non-existing accepted name	5624	W-Hyd-37	W-Hyd-660515
+Reference link to non-existing accepted name	5630	W-Hyd-28422	W-Hyd-711100
+Reference link to non-existing accepted name	5632	W-Hyd-165442	W-Hyd-715979
+Reference link to non-existing accepted name	5638	W-Hyd-39038	W-Hyd-720127
+Reference link to non-existing accepted name	5647	W-Hyd-8	W-Hyd-735840
+Reference link to non-existing accepted name	5656	W-Hyd-35041	W-Hyd-742586
+Reference link to non-existing accepted name	5671	W-Hyd-39038	W-Hyd-761039
+Reference link to non-existing accepted name	5675	W-Hyd-36883	W-Hyd-762339
+Reference link to non-existing accepted name	5680	W-Hyd-26804	W-Hyd-833979
+Reference link to non-existing accepted name	5691	W-Hyd-1318	W-Hyd-292706
+Reference link to non-existing accepted name	5707	W-Hyd-35155	W-Hyd-528684
+Reference link to non-existing accepted name	5743	W-Hyd-36883	W-Hyd-721201
+Reference link to non-existing accepted name	5753	W-Hyd-24318	W-Hyd-734312
+Reference link to non-existing accepted name	5767	W-Hyd-34496	W-Hyd-742589
+Reference link to non-existing accepted name	5786	W-Hyd-36471	W-Hyd-754562
+Reference link to non-existing accepted name	5795	W-Hyd-24234	W-Hyd-816155
+Reference link to non-existing accepted name	5809	W-Hyd-35267	W-Hyd-835512
+Reference link to non-existing accepted name	5823	W-Hyd-1318	W-Hyd-292329
+Reference link to non-existing accepted name	5829	W-Hyd-1318	W-Hyd-292478
+Reference link to non-existing accepted name	5860	W-Hyd-37521	W-Hyd-526952
+Reference link to non-existing accepted name	5865	W-Hyd-37521	W-Hyd-530794
+Reference link to non-existing accepted name	5866	W-Hyd-37521	W-Hyd-533687
+Reference link to non-existing accepted name	5892	W-Hyd-37	W-Hyd-660514
+Reference link to non-existing accepted name	5900	W-Hyd-34699	W-Hyd-718665
+Reference link to non-existing accepted name	5903	W-Hyd-34497	W-Hyd-720066
+Reference link to non-existing accepted name	5904	W-Hyd-34551	W-Hyd-720133
+Reference link to non-existing accepted name	5919	W-Hyd-8	W-Hyd-735841
+Reference link to non-existing accepted name	5924	W-Hyd-23852	W-Hyd-736880
+Reference link to non-existing accepted name	5943	W-Hyd-36700	W-Hyd-754567
+Reference link to non-existing accepted name	5947	W-Hyd-35655	W-Hyd-766284
+Reference link to non-existing accepted name	5956	W-Hyd-29170	W-Hyd-835480
+Reference link to non-existing accepted name	5985	W-Hyd-124419	W-Hyd-285997
+Reference link to non-existing accepted name	5988	W-Hyd-172610	W-Hyd-287281
+Reference link to non-existing accepted name	5989	W-Hyd-124419	W-Hyd-289359
+Reference link to non-existing accepted name	5993	W-Hyd-39017	W-Hyd-291319
+Reference link to non-existing accepted name	6010	W-Hyd-1318	W-Hyd-292637
+Reference link to non-existing accepted name	6012	W-Hyd-1318	W-Hyd-292704
+Reference link to non-existing accepted name	6013	W-Hyd-6984	W-Hyd-345879
+Reference link to non-existing accepted name	6014	W-Hyd-1592	W-Hyd-396737
+Reference link to non-existing accepted name	6015	W-Hyd-172828	W-Hyd-403670
+Reference link to non-existing accepted name	6023	W-Hyd-33933	W-Hyd-428868
+Reference link to non-existing accepted name	6026	W-Hyd-36898	W-Hyd-477122
+Reference link to non-existing accepted name	6031	W-Hyd-35155	W-Hyd-528686
+Reference link to non-existing accepted name	6036	W-Hyd-37920	W-Hyd-555884
+Reference link to non-existing accepted name	6040	W-Hyd-131344	W-Hyd-564960
+Reference link to non-existing accepted name	6051	W-Hyd-37	W-Hyd-695000
+Reference link to non-existing accepted name	6052	W-Hyd-37	W-Hyd-695001
+Reference link to non-existing accepted name	6075	W-Hyd-43903	W-Hyd-735845
+Reference link to non-existing accepted name	6117	W-Hyd-34824	W-Hyd-836294
+Reference link to non-existing accepted name	6122	W-Hyd-2928	W-Hyd-158194
+Reference link to non-existing accepted name	6133	W-Hyd-124419	W-Hyd-284001
+Reference link to non-existing accepted name	6134	W-Hyd-124419	W-Hyd-284003
+Reference link to non-existing accepted name	6142	W-Hyd-31764	W-Hyd-284229
+Reference link to non-existing accepted name	6145	W-Hyd-124419	W-Hyd-284267
+Reference link to non-existing accepted name	6147	W-Hyd-124419	W-Hyd-284337
+Reference link to non-existing accepted name	6150	W-Hyd-124419	W-Hyd-284554
+Reference link to non-existing accepted name	6166	W-Hyd-5987	W-Hyd-214471
+Reference link to non-existing accepted name	6176	W-Hyd-124419	W-Hyd-284243
+Reference link to non-existing accepted name	6177	W-Hyd-124419	W-Hyd-284276
+Reference link to non-existing accepted name	6182	W-Hyd-124419	W-Hyd-284693
+Reference link to non-existing accepted name	6188	W-Hyd-124419	W-Hyd-284894
+Reference link to non-existing accepted name	6194	W-Hyd-24856	W-Hyd-285073
+Reference link to non-existing accepted name	6197	W-Hyd-124419	W-Hyd-285161
+Reference link to non-existing accepted name	6198	W-Hyd-124419	W-Hyd-285162
+Reference link to non-existing accepted name	6218	W-Hyd-124419	W-Hyd-285765
+Reference link to non-existing accepted name	6219	W-Hyd-124419	W-Hyd-285766
+Reference link to non-existing accepted name	6232	W-Hyd-124419	W-Hyd-290710
+Reference link to non-existing accepted name	6255	W-Hyd-49881	W-Hyd-412600
+Reference link to non-existing accepted name	6261	W-Hyd-36139	W-Hyd-446140
+Reference link to non-existing accepted name	6262	W-Hyd-24545	W-Hyd-477128
+Reference link to non-existing accepted name	6265	W-Hyd-37521	W-Hyd-527577
+Reference link to non-existing accepted name	6266	W-Hyd-35155	W-Hyd-528685
+Reference link to non-existing accepted name	6281	W-Hyd-171105	W-Hyd-579991
+Reference link to non-existing accepted name	6286	W-Hyd-36293	W-Hyd-595783
+Reference link to non-existing accepted name	6316	W-Hyd-36038	W-Hyd-743410
+Reference link to non-existing accepted name	6319	W-Hyd-35782	W-Hyd-744542
+Reference link to non-existing accepted name	6321	W-Hyd-170203	W-Hyd-747296
+Reference link to non-existing accepted name	6342	W-Hyd-34715	W-Hyd-834706
+Reference link to non-existing accepted name	6343	W-Hyd-196241	W-Hyd-834720
+Reference link to non-existing accepted name	6353	W-Hyd-124419	W-Hyd-285288
+Reference link to non-existing accepted name	6373	W-Hyd-164477	W-Hyd-287260
+Reference link to non-existing accepted name	6376	W-Hyd-124419	W-Hyd-289719
+Reference link to non-existing accepted name	6417	W-Hyd-39049	W-Hyd-474097
+Reference link to non-existing accepted name	6435	W-Hyd-149715	W-Hyd-565162
+Reference link to non-existing accepted name	6446	W-Hyd-166153	W-Hyd-717346
+Reference link to non-existing accepted name	6451	W-Hyd-36630	W-Hyd-720103
+Reference link to non-existing accepted name	6453	W-Hyd-34633	W-Hyd-720143
+Reference link to non-existing accepted name	6455	W-Hyd-39038	W-Hyd-732928
+Reference link to non-existing accepted name	6456	W-Hyd-34780	W-Hyd-732931
+Reference link to non-existing accepted name	6461	W-Hyd-671	W-Hyd-735849
+Reference link to non-existing accepted name	6467	W-Hyd-39038	W-Hyd-740652
+Reference link to non-existing accepted name	6469	W-Hyd-6936	W-Hyd-740700
+Reference link to non-existing accepted name	6479	W-Hyd-164343	W-Hyd-746193
+--------------
+SELECT 'Reference link to non-existing reference', record_id, reference_code, name_code FROM scientific_name_references
+WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+--------------
+
+Reference link to non-existing reference	record_id	reference_code	name_code
+Reference link to non-existing reference	1	W-Hyd-147412	W-Hyd-117426
+Reference link to non-existing reference	2	W-Hyd-147412	W-Hyd-117336
+Reference link to non-existing reference	3	W-Hyd-147412	W-Hyd-290157
+Reference link to non-existing reference	6	W-Hyd-2901	W-Hyd-117270
+Reference link to non-existing reference	7	W-Hyd-2901	W-Hyd-157953
+Reference link to non-existing reference	9	W-Hyd-1318	W-Hyd-117558
+Reference link to non-existing reference	10	W-Hyd-1318	W-Hyd-117871
+Reference link to non-existing reference	11	W-Hyd-1318	W-Hyd-117913
+Reference link to non-existing reference	13	W-Hyd-147412	W-Hyd-117995
+Reference link to non-existing reference	17	W-Hyd-2901	W-Hyd-117302
+Reference link to non-existing reference	19	W-Hyd-1318	W-Hyd-117538
+Reference link to non-existing reference	20	W-Hyd-1318	W-Hyd-284654
+Reference link to non-existing reference	21	W-Hyd-1318	W-Hyd-117731
+Reference link to non-existing reference	23	W-Hyd-147411	W-Hyd-247957
+Reference link to non-existing reference	24	W-Hyd-147412	W-Hyd-117590
+Reference link to non-existing reference	25	W-Hyd-147412	W-Hyd-117994
+Reference link to non-existing reference	30	W-Hyd-1318	W-Hyd-117545
+Reference link to non-existing reference	31	W-Hyd-1318	W-Hyd-151876
+Reference link to non-existing reference	32	W-Hyd-147411	W-Hyd-157933
+Reference link to non-existing reference	33	W-Hyd-147412	W-Hyd-117382
+Reference link to non-existing reference	36	W-Hyd-1315	W-Hyd-117940
+Reference link to non-existing reference	37	W-Hyd-1318	W-Hyd-117832
+Reference link to non-existing reference	38	W-Hyd-1318	W-Hyd-285860
+Reference link to non-existing reference	39	W-Hyd-147411	W-Hyd-117299
+Reference link to non-existing reference	40	W-Hyd-2901	W-Hyd-117730
+Reference link to non-existing reference	41	W-Hyd-1318	W-Hyd-117849
+Reference link to non-existing reference	45	W-Hyd-2901	W-Hyd-117930
+Reference link to non-existing reference	46	W-Hyd-1318	W-Hyd-117399
+Reference link to non-existing reference	50	W-Hyd-10085	W-Hyd-117890
+Reference link to non-existing reference	51	W-Hyd-147411	W-Hyd-117764
+Reference link to non-existing reference	52	W-Hyd-132969	W-Hyd-117348
+Reference link to non-existing reference	53	W-Hyd-147411	W-Hyd-152128
+Reference link to non-existing reference	56	W-Hyd-1318	W-Hyd-283998
+Reference link to non-existing reference	57	W-Hyd-1318	W-Hyd-284054
+Reference link to non-existing reference	58	W-Hyd-1318	W-Hyd-117824
+Reference link to non-existing reference	60	W-Hyd-10085	W-Hyd-178913
+Reference link to non-existing reference	61	W-Hyd-147411	W-Hyd-231683
+Reference link to non-existing reference	62	W-Hyd-147412	W-Hyd-117377
+Reference link to non-existing reference	63	W-Hyd-64	W-Hyd-117912
+Reference link to non-existing reference	66	W-Hyd-1318	W-Hyd-285070
+Reference link to non-existing reference	67	W-Hyd-1318	W-Hyd-117386
+Reference link to non-existing reference	69	W-Hyd-147411	W-Hyd-117385
+Reference link to non-existing reference	73	W-Hyd-1318	W-Hyd-117831
+Reference link to non-existing reference	75	W-Hyd-123768	W-Hyd-117870
+Reference link to non-existing reference	78	W-Hyd-1318	W-Hyd-284249
+Reference link to non-existing reference	79	W-Hyd-1318	W-Hyd-151717
+Reference link to non-existing reference	80	W-Hyd-1318	W-Hyd-117283
+Reference link to non-existing reference	81	W-Hyd-42	W-Hyd-117402
+Reference link to non-existing reference	84	W-Hyd-1318	W-Hyd-284873
+Reference link to non-existing reference	85	W-Hyd-10085	W-Hyd-117389
+Reference link to non-existing reference	86	W-Hyd-147412	W-Hyd-117452
+Reference link to non-existing reference	88	W-Hyd-1318	W-Hyd-288712
+Reference link to non-existing reference	89	W-Hyd-1318	W-Hyd-291216
+Reference link to non-existing reference	92	W-Hyd-147412	W-Hyd-117978
+Reference link to non-existing reference	94	W-Hyd-147411	W-Hyd-117379
+Reference link to non-existing reference	95	W-Hyd-147412	W-Hyd-117554
+Reference link to non-existing reference	96	W-Hyd-147412	W-Hyd-117791
+Reference link to non-existing reference	99	W-Hyd-1318	W-Hyd-287421
+Reference link to non-existing reference	102	W-Hyd-1318	W-Hyd-290843
+Reference link to non-existing reference	103	W-Hyd-1318	W-Hyd-117906
+Reference link to non-existing reference	105	W-Hyd-132969	W-Hyd-117340
+Reference link to non-existing reference	108	W-Hyd-2901	W-Hyd-117784
+Reference link to non-existing reference	109	W-Hyd-1318	W-Hyd-210726
+Reference link to non-existing reference	110	W-Hyd-1318	W-Hyd-285370
+Reference link to non-existing reference	111	W-Hyd-42	W-Hyd-117260
+Reference link to non-existing reference	121	W-Hyd-9249	W-Hyd-117338
+Reference link to non-existing reference	130	W-Hyd-9247	W-Hyd-117429
+Reference link to non-existing reference	142	W-Hyd-42	W-Hyd-117510
+Reference link to non-existing reference	151	W-Hyd-42	W-Hyd-117561
+Reference link to non-existing reference	168	W-Hyd-9247	W-Hyd-117664
+Reference link to non-existing reference	176	W-Hyd-42	W-Hyd-117725
+Reference link to non-existing reference	181	W-Hyd-9247	W-Hyd-117765
+Reference link to non-existing reference	192	W-Hyd-42	W-Hyd-117846
+Reference link to non-existing reference	251	W-Hyd-1318	W-Hyd-151718
+Reference link to non-existing reference	253	W-Hyd-1285	W-Hyd-151775
+Reference link to non-existing reference	261	W-Hyd-64	W-Hyd-152090
+Reference link to non-existing reference	264	W-Hyd-64	W-Hyd-152140
+Reference link to non-existing reference	267	W-Hyd-64	W-Hyd-152190
+Reference link to non-existing reference	268	W-Hyd-64	W-Hyd-152191
+Reference link to non-existing reference	269	W-Hyd-1318	W-Hyd-156149
+Reference link to non-existing reference	276	W-Hyd-42	W-Hyd-157937
+Reference link to non-existing reference	279	W-Hyd-42	W-Hyd-158173
+Reference link to non-existing reference	280	W-Hyd-42	W-Hyd-158186
+Reference link to non-existing reference	282	W-Hyd-4182	W-Hyd-173690
+Reference link to non-existing reference	283	W-Hyd-4182	W-Hyd-173841
+Reference link to non-existing reference	297	W-Hyd-9247	W-Hyd-117404
+Reference link to non-existing reference	307	W-Hyd-42	W-Hyd-117483
+Reference link to non-existing reference	308	W-Hyd-9247	W-Hyd-117489
+Reference link to non-existing reference	328	W-Hyd-9247	W-Hyd-117672
+Reference link to non-existing reference	394	W-Hyd-64	W-Hyd-152048
+Reference link to non-existing reference	402	W-Hyd-64	W-Hyd-152099
+Reference link to non-existing reference	404	W-Hyd-64	W-Hyd-152133
+Reference link to non-existing reference	406	W-Hyd-64	W-Hyd-152150
+Reference link to non-existing reference	426	W-Hyd-42	W-Hyd-117406
+Reference link to non-existing reference	428	W-Hyd-42	W-Hyd-117415
+Reference link to non-existing reference	432	W-Hyd-42	W-Hyd-117440
+Reference link to non-existing reference	437	W-Hyd-42	W-Hyd-117504
+Reference link to non-existing reference	439	W-Hyd-9247	W-Hyd-117519
+Reference link to non-existing reference	447	W-Hyd-42	W-Hyd-117581
+Reference link to non-existing reference	452	W-Hyd-42	W-Hyd-117606
+Reference link to non-existing reference	464	W-Hyd-42	W-Hyd-117747
+Reference link to non-existing reference	504	W-Hyd-64	W-Hyd-150682
+Reference link to non-existing reference	513	W-Hyd-64	W-Hyd-152061
+Reference link to non-existing reference	529	W-Hyd-9247	W-Hyd-117335
+Reference link to non-existing reference	533	W-Hyd-42	W-Hyd-117395
+Reference link to non-existing reference	537	W-Hyd-1318	W-Hyd-117436
+Reference link to non-existing reference	549	W-Hyd-42	W-Hyd-117654
+Reference link to non-existing reference	561	W-Hyd-42	W-Hyd-117790
+Reference link to non-existing reference	570	W-Hyd-1318	W-Hyd-117938
+Reference link to non-existing reference	587	W-Hyd-1318	W-Hyd-151705
+Reference link to non-existing reference	591	W-Hyd-64	W-Hyd-151768
+Reference link to non-existing reference	593	W-Hyd-64	W-Hyd-151911
+Reference link to non-existing reference	596	W-Hyd-64	W-Hyd-152004
+Reference link to non-existing reference	599	W-Hyd-64	W-Hyd-152077
+Reference link to non-existing reference	602	W-Hyd-64	W-Hyd-152113
+Reference link to non-existing reference	606	W-Hyd-1285	W-Hyd-152161
+Reference link to non-existing reference	630	W-Hyd-42	W-Hyd-117539
+Reference link to non-existing reference	634	W-Hyd-42	W-Hyd-117596
+Reference link to non-existing reference	655	W-Hyd-42	W-Hyd-117839
+Reference link to non-existing reference	680	W-Hyd-64	W-Hyd-152105
+Reference link to non-existing reference	682	W-Hyd-42	W-Hyd-152135
+Reference link to non-existing reference	688	W-Hyd-42	W-Hyd-117405
+Reference link to non-existing reference	689	W-Hyd-9247	W-Hyd-117441
+Reference link to non-existing reference	694	W-Hyd-42	W-Hyd-117541
+Reference link to non-existing reference	696	W-Hyd-9247	W-Hyd-117577
+Reference link to non-existing reference	703	W-Hyd-1318	W-Hyd-117721
+Reference link to non-existing reference	711	W-Hyd-9247	W-Hyd-117984
+Reference link to non-existing reference	722	W-Hyd-64	W-Hyd-151710
+Reference link to non-existing reference	723	W-Hyd-64	W-Hyd-152046
+Reference link to non-existing reference	727	W-Hyd-64	W-Hyd-152110
+Reference link to non-existing reference	733	W-Hyd-42	W-Hyd-157917
+Reference link to non-existing reference	734	W-Hyd-42	W-Hyd-157942
+Reference link to non-existing reference	740	W-Hyd-1318	W-Hyd-162495
+Reference link to non-existing reference	748	W-Hyd-64	W-Hyd-117342
+Reference link to non-existing reference	755	W-Hyd-9247	W-Hyd-117460
+Reference link to non-existing reference	767	W-Hyd-1318	W-Hyd-117604
+Reference link to non-existing reference	777	W-Hyd-9247	W-Hyd-117769
+Reference link to non-existing reference	794	W-Hyd-1318	W-Hyd-146757
+Reference link to non-existing reference	805	W-Hyd-1318	W-Hyd-152130
+Reference link to non-existing reference	813	W-Hyd-42	W-Hyd-158175
+Reference link to non-existing reference	814	W-Hyd-1318	W-Hyd-158182
+Reference link to non-existing reference	834	W-Hyd-9247	W-Hyd-117610
+Reference link to non-existing reference	849	W-Hyd-9247	W-Hyd-117844
+Reference link to non-existing reference	863	W-Hyd-1318	W-Hyd-146843
+Reference link to non-existing reference	868	W-Hyd-64	W-Hyd-152088
+Reference link to non-existing reference	879	W-Hyd-9247	W-Hyd-117318
+Reference link to non-existing reference	881	W-Hyd-9247	W-Hyd-117375
+Reference link to non-existing reference	891	W-Hyd-9247	W-Hyd-117511
+Reference link to non-existing reference	941	W-Hyd-42	W-Hyd-117884
+Reference link to non-existing reference	953	W-Hyd-64	W-Hyd-152115
+Reference link to non-existing reference	961	W-Hyd-9247	W-Hyd-117463
+Reference link to non-existing reference	964	W-Hyd-1318	W-Hyd-117556
+Reference link to non-existing reference	979	W-Hyd-1318	W-Hyd-151703
+Reference link to non-existing reference	983	W-Hyd-64	W-Hyd-151925
+Reference link to non-existing reference	986	W-Hyd-64	W-Hyd-152107
+Reference link to non-existing reference	992	W-Hyd-4182	W-Hyd-173839
+Reference link to non-existing reference	997	W-Hyd-4182	W-Hyd-174377
+Reference link to non-existing reference	998	W-Hyd-4182	W-Hyd-174491
+Reference link to non-existing reference	1001	W-Hyd-4182	W-Hyd-174527
+Reference link to non-existing reference	1002	W-Hyd-4182	W-Hyd-174541
+Reference link to non-existing reference	1004	W-Hyd-4182	W-Hyd-174577
+Reference link to non-existing reference	1005	W-Hyd-4182	W-Hyd-174591
+Reference link to non-existing reference	1008	W-Hyd-4182	W-Hyd-174676
+Reference link to non-existing reference	1009	W-Hyd-4182	W-Hyd-174677
+Reference link to non-existing reference	1010	W-Hyd-4182	W-Hyd-174691
+Reference link to non-existing reference	1014	W-Hyd-4182	W-Hyd-174791
+Reference link to non-existing reference	1042	W-Hyd-9224	W-Hyd-231580
+Reference link to non-existing reference	1043	W-Hyd-9224	W-Hyd-231581
+Reference link to non-existing reference	1045	W-Hyd-9224	W-Hyd-231594
+Reference link to non-existing reference	1046	W-Hyd-9224	W-Hyd-231595
+Reference link to non-existing reference	1050	W-Hyd-9224	W-Hyd-231630
+Reference link to non-existing reference	1051	W-Hyd-9224	W-Hyd-231631
+Reference link to non-existing reference	1052	W-Hyd-9247	W-Hyd-231677
+Reference link to non-existing reference	1190	W-Hyd-42	W-Hyd-158166
+Reference link to non-existing reference	1193	W-Hyd-4182	W-Hyd-174211
+Reference link to non-existing reference	1194	W-Hyd-4182	W-Hyd-174247
+Reference link to non-existing reference	1195	W-Hyd-4182	W-Hyd-174347
+Reference link to non-existing reference	1196	W-Hyd-4182	W-Hyd-174504
+Reference link to non-existing reference	1198	W-Hyd-4182	W-Hyd-174511
+Reference link to non-existing reference	1199	W-Hyd-4182	W-Hyd-174513
+Reference link to non-existing reference	1200	W-Hyd-4182	W-Hyd-174606
+Reference link to non-existing reference	1201	W-Hyd-4182	W-Hyd-174613
+Reference link to non-existing reference	1202	W-Hyd-4182	W-Hyd-174670
+Reference link to non-existing reference	1206	W-Hyd-4182	W-Hyd-174704
+Reference link to non-existing reference	1207	W-Hyd-4182	W-Hyd-174706
+Reference link to non-existing reference	1208	W-Hyd-4182	W-Hyd-174740
+Reference link to non-existing reference	1211	W-Hyd-4182	W-Hyd-174806
+Reference link to non-existing reference	1215	W-Hyd-64	W-Hyd-183599
+Reference link to non-existing reference	1235	W-Hyd-9224	W-Hyd-231574
+Reference link to non-existing reference	1236	W-Hyd-9224	W-Hyd-231608
+Reference link to non-existing reference	1237	W-Hyd-9224	W-Hyd-231610
+Reference link to non-existing reference	1238	W-Hyd-9224	W-Hyd-231617
+Reference link to non-existing reference	1367	W-Hyd-4182	W-Hyd-173780
+Reference link to non-existing reference	1368	W-Hyd-4182	W-Hyd-174384
+Reference link to non-existing reference	1369	W-Hyd-4182	W-Hyd-174469
+Reference link to non-existing reference	1370	W-Hyd-4182	W-Hyd-174516
+Reference link to non-existing reference	1372	W-Hyd-4182	W-Hyd-174533
+Reference link to non-existing reference	1373	W-Hyd-4182	W-Hyd-174550
+Reference link to non-existing reference	1374	W-Hyd-4182	W-Hyd-174601
+Reference link to non-existing reference	1376	W-Hyd-4182	W-Hyd-174618
+Reference link to non-existing reference	1378	W-Hyd-4182	W-Hyd-174669
+Reference link to non-existing reference	1379	W-Hyd-4182	W-Hyd-174686
+Reference link to non-existing reference	1380	W-Hyd-4182	W-Hyd-174699
+Reference link to non-existing reference	1383	W-Hyd-6831	W-Hyd-183035
+Reference link to non-existing reference	1403	W-Hyd-9224	W-Hyd-231586
+Reference link to non-existing reference	1405	W-Hyd-9224	W-Hyd-231603
+Reference link to non-existing reference	1406	W-Hyd-9224	W-Hyd-231620
+Reference link to non-existing reference	1408	W-Hyd-9247	W-Hyd-231686
+Reference link to non-existing reference	1411	W-Hyd-1318	W-Hyd-271287
+Reference link to non-existing reference	1525	W-Hyd-4182	W-Hyd-173729
+Reference link to non-existing reference	1528	W-Hyd-4182	W-Hyd-173852
+Reference link to non-existing reference	1529	W-Hyd-4182	W-Hyd-174252
+Reference link to non-existing reference	1531	W-Hyd-4182	W-Hyd-174397
+Reference link to non-existing reference	1536	W-Hyd-4182	W-Hyd-174588
+Reference link to non-existing reference	1537	W-Hyd-4182	W-Hyd-174597
+Reference link to non-existing reference	1539	W-Hyd-4182	W-Hyd-174622
+Reference link to non-existing reference	1540	W-Hyd-4182	W-Hyd-174665
+Reference link to non-existing reference	1541	W-Hyd-4182	W-Hyd-174695
+Reference link to non-existing reference	1543	W-Hyd-4182	W-Hyd-174788
+Reference link to non-existing reference	1562	W-Hyd-9224	W-Hyd-231565
+Reference link to non-existing reference	1565	W-Hyd-9224	W-Hyd-231599
+Reference link to non-existing reference	1568	W-Hyd-9247	W-Hyd-231665
+Reference link to non-existing reference	1676	W-Hyd-4182	W-Hyd-174481
+Reference link to non-existing reference	1677	W-Hyd-4182	W-Hyd-174538
+Reference link to non-existing reference	1678	W-Hyd-4182	W-Hyd-174545
+Reference link to non-existing reference	1680	W-Hyd-4182	W-Hyd-174579
+Reference link to non-existing reference	1682	W-Hyd-4182	W-Hyd-174679
+Reference link to non-existing reference	1683	W-Hyd-4182	W-Hyd-174681
+Reference link to non-existing reference	1686	W-Hyd-4182	W-Hyd-174774
+Reference link to non-existing reference	1687	W-Hyd-4182	W-Hyd-174779
+Reference link to non-existing reference	1698	W-Hyd-9224	W-Hyd-231576
+Reference link to non-existing reference	1700	W-Hyd-9224	W-Hyd-231583
+Reference link to non-existing reference	1701	W-Hyd-9224	W-Hyd-231585
+Reference link to non-existing reference	1707	W-Hyd-9247	W-Hyd-231681
+Reference link to non-existing reference	1818	W-Hyd-4182	W-Hyd-173719
+Reference link to non-existing reference	1824	W-Hyd-4182	W-Hyd-174562
+Reference link to non-existing reference	1837	W-Hyd-9224	W-Hyd-231609
+Reference link to non-existing reference	1838	W-Hyd-9224	W-Hyd-231616
+Reference link to non-existing reference	1840	W-Hyd-9247	W-Hyd-231691
+Reference link to non-existing reference	1842	W-Hyd-1318	W-Hyd-231785
+Reference link to non-existing reference	1915	W-Hyd-4182	W-Hyd-174403
+Reference link to non-existing reference	1917	W-Hyd-4182	W-Hyd-174421
+Reference link to non-existing reference	1918	W-Hyd-4182	W-Hyd-174446
+Reference link to non-existing reference	1921	W-Hyd-4182	W-Hyd-174696
+Reference link to non-existing reference	1924	W-Hyd-4182	W-Hyd-174782
+Reference link to non-existing reference	1941	W-Hyd-9224	W-Hyd-231593
+Reference link to non-existing reference	1942	W-Hyd-9224	W-Hyd-231600
+Reference link to non-existing reference	2015	W-Hyd-42	W-Hyd-158184
+Reference link to non-existing reference	2016	W-Hyd-4182	W-Hyd-174254
+Reference link to non-existing reference	2017	W-Hyd-1318	W-Hyd-174344
+Reference link to non-existing reference	2020	W-Hyd-4182	W-Hyd-174531
+Reference link to non-existing reference	2021	W-Hyd-4182	W-Hyd-174595
+Reference link to non-existing reference	2022	W-Hyd-4182	W-Hyd-174620
+Reference link to non-existing reference	2023	W-Hyd-4182	W-Hyd-174688
+Reference link to non-existing reference	2043	W-Hyd-9224	W-Hyd-231626
+Reference link to non-existing reference	2046	W-Hyd-9247	W-Hyd-231688
+Reference link to non-existing reference	2048	W-Hyd-9247	W-Hyd-233228
+Reference link to non-existing reference	2050	W-Hyd-1318	W-Hyd-271285
+Reference link to non-existing reference	2113	W-Hyd-64	W-Hyd-152087
+Reference link to non-existing reference	2116	W-Hyd-1318	W-Hyd-156116
+Reference link to non-existing reference	2118	W-Hyd-42	W-Hyd-157940
+Reference link to non-existing reference	2119	W-Hyd-4182	W-Hyd-174444
+Reference link to non-existing reference	2131	W-Hyd-9224	W-Hyd-231577
+Reference link to non-existing reference	2132	W-Hyd-9224	W-Hyd-231584
+Reference link to non-existing reference	2133	W-Hyd-9224	W-Hyd-231598
+Reference link to non-existing reference	2136	W-Hyd-9224	W-Hyd-231627
+Reference link to non-existing reference	2137	W-Hyd-9224	W-Hyd-231634
+Reference link to non-existing reference	2139	W-Hyd-42	W-Hyd-238378
+Reference link to non-existing reference	2193	W-Hyd-4182	W-Hyd-173815
+Reference link to non-existing reference	2195	W-Hyd-4182	W-Hyd-174700
+Reference link to non-existing reference	2196	W-Hyd-4182	W-Hyd-174766
+Reference link to non-existing reference	2200	W-Hyd-1318	W-Hyd-221199
+Reference link to non-existing reference	2204	W-Hyd-9224	W-Hyd-231606
+Reference link to non-existing reference	2207	W-Hyd-1318	W-Hyd-271286
+Reference link to non-existing reference	2261	W-Hyd-4182	W-Hyd-174792
+Reference link to non-existing reference	2263	W-Hyd-1318	W-Hyd-220572
+Reference link to non-existing reference	2514	W-Hyd-1318	W-Hyd-291717
+Reference link to non-existing reference	2515	W-Hyd-1318	W-Hyd-292188
+Reference link to non-existing reference	2517	W-Hyd-1318	W-Hyd-292203
+Reference link to non-existing reference	2520	W-Hyd-1318	W-Hyd-292238
+Reference link to non-existing reference	2521	W-Hyd-1318	W-Hyd-292252
+Reference link to non-existing reference	2522	W-Hyd-1318	W-Hyd-292253
+Reference link to non-existing reference	2525	W-Hyd-1318	W-Hyd-292288
+Reference link to non-existing reference	2526	W-Hyd-1318	W-Hyd-292302
+Reference link to non-existing reference	2527	W-Hyd-1318	W-Hyd-292303
+Reference link to non-existing reference	2528	W-Hyd-1318	W-Hyd-292338
+Reference link to non-existing reference	2529	W-Hyd-1318	W-Hyd-292339
+Reference link to non-existing reference	2530	W-Hyd-1318	W-Hyd-292352
+Reference link to non-existing reference	2531	W-Hyd-1318	W-Hyd-292353
+Reference link to non-existing reference	2686	W-Hyd-1318	W-Hyd-291716
+Reference link to non-existing reference	2687	W-Hyd-1318	W-Hyd-291723
+Reference link to non-existing reference	2689	W-Hyd-1318	W-Hyd-292182
+Reference link to non-existing reference	2690	W-Hyd-1318	W-Hyd-292189
+Reference link to non-existing reference	2692	W-Hyd-1318	W-Hyd-292216
+Reference link to non-existing reference	2693	W-Hyd-1318	W-Hyd-292223
+Reference link to non-existing reference	2694	W-Hyd-1318	W-Hyd-292225
+Reference link to non-existing reference	2695	W-Hyd-1318	W-Hyd-292259
+Reference link to non-existing reference	2697	W-Hyd-1318	W-Hyd-292282
+Reference link to non-existing reference	2698	W-Hyd-1318	W-Hyd-292289
+Reference link to non-existing reference	2699	W-Hyd-1318	W-Hyd-292316
+Reference link to non-existing reference	2700	W-Hyd-1318	W-Hyd-292318
+Reference link to non-existing reference	2701	W-Hyd-1318	W-Hyd-292325
+Reference link to non-existing reference	2702	W-Hyd-1318	W-Hyd-292359
+Reference link to non-existing reference	2705	W-Hyd-1318	W-Hyd-292382
+Reference link to non-existing reference	2706	W-Hyd-1318	W-Hyd-292416
+Reference link to non-existing reference	2707	W-Hyd-1318	W-Hyd-292418
+Reference link to non-existing reference	2709	W-Hyd-1318	W-Hyd-292423
+Reference link to non-existing reference	2710	W-Hyd-1318	W-Hyd-292425
+Reference link to non-existing reference	2711	W-Hyd-1318	W-Hyd-292459
+Reference link to non-existing reference	2712	W-Hyd-1318	W-Hyd-292482
+Reference link to non-existing reference	2713	W-Hyd-1318	W-Hyd-292518
+Reference link to non-existing reference	2862	W-Hyd-1318	W-Hyd-291726
+Reference link to non-existing reference	2864	W-Hyd-1318	W-Hyd-292177
+Reference link to non-existing reference	2865	W-Hyd-1318	W-Hyd-292194
+Reference link to non-existing reference	2866	W-Hyd-1318	W-Hyd-292211
+Reference link to non-existing reference	2870	W-Hyd-1318	W-Hyd-292245
+Reference link to non-existing reference	2871	W-Hyd-1318	W-Hyd-292262
+Reference link to non-existing reference	3010	W-Hyd-1318	W-Hyd-292173
+Reference link to non-existing reference	3012	W-Hyd-1318	W-Hyd-292207
+Reference link to non-existing reference	3015	W-Hyd-1318	W-Hyd-292241
+Reference link to non-existing reference	3017	W-Hyd-1318	W-Hyd-292266
+Reference link to non-existing reference	3147	W-Hyd-1318	W-Hyd-291321
+Reference link to non-existing reference	3148	W-Hyd-1318	W-Hyd-291721
+Reference link to non-existing reference	3152	W-Hyd-1318	W-Hyd-292184
+Reference link to non-existing reference	3154	W-Hyd-1318	W-Hyd-292248
+Reference link to non-existing reference	3155	W-Hyd-1318	W-Hyd-292250
+Reference link to non-existing reference	3372	W-Hyd-1318	W-Hyd-292183
+Reference link to non-existing reference	3373	W-Hyd-1318	W-Hyd-292208
+Reference link to non-existing reference	3374	W-Hyd-1318	W-Hyd-292226
+Reference link to non-existing reference	3376	W-Hyd-1318	W-Hyd-292251
+Reference link to non-existing reference	3377	W-Hyd-1318	W-Hyd-292276
+Reference link to non-existing reference	3378	W-Hyd-1318	W-Hyd-292290
+Reference link to non-existing reference	3379	W-Hyd-1318	W-Hyd-292315
+Reference link to non-existing reference	3381	W-Hyd-1318	W-Hyd-292333
+Reference link to non-existing reference	3382	W-Hyd-1318	W-Hyd-292340
+Reference link to non-existing reference	3384	W-Hyd-1318	W-Hyd-292358
+Reference link to non-existing reference	3385	W-Hyd-1318	W-Hyd-292383
+Reference link to non-existing reference	3387	W-Hyd-1318	W-Hyd-292401
+Reference link to non-existing reference	3388	W-Hyd-1318	W-Hyd-292408
+Reference link to non-existing reference	3389	W-Hyd-1318	W-Hyd-292426
+Reference link to non-existing reference	3390	W-Hyd-1318	W-Hyd-292451
+Reference link to non-existing reference	3392	W-Hyd-1318	W-Hyd-292465
+Reference link to non-existing reference	3395	W-Hyd-1318	W-Hyd-292490
+Reference link to non-existing reference	3397	W-Hyd-1318	W-Hyd-292540
+Reference link to non-existing reference	3402	W-Hyd-1318	W-Hyd-292601
+Reference link to non-existing reference	3403	W-Hyd-1318	W-Hyd-292608
+Reference link to non-existing reference	3404	W-Hyd-1318	W-Hyd-292665
+Reference link to non-existing reference	3452	W-Hyd-37	W-Hyd-660519
+Reference link to non-existing reference	3453	W-Hyd-37	W-Hyd-670390
+Reference link to non-existing reference	3608	W-Hyd-1318	W-Hyd-292175
+Reference link to non-existing reference	3610	W-Hyd-1318	W-Hyd-292200
+Reference link to non-existing reference	3611	W-Hyd-1318	W-Hyd-292209
+Reference link to non-existing reference	3613	W-Hyd-1318	W-Hyd-292234
+Reference link to non-existing reference	3614	W-Hyd-1318	W-Hyd-292239
+Reference link to non-existing reference	3615	W-Hyd-1318	W-Hyd-292243
+Reference link to non-existing reference	3617	W-Hyd-1318	W-Hyd-292268
+Reference link to non-existing reference	3618	W-Hyd-1318	W-Hyd-292273
+Reference link to non-existing reference	3619	W-Hyd-1318	W-Hyd-292298
+Reference link to non-existing reference	3620	W-Hyd-1318	W-Hyd-292307
+Reference link to non-existing reference	3622	W-Hyd-1318	W-Hyd-292332
+Reference link to non-existing reference	3623	W-Hyd-1318	W-Hyd-292341
+Reference link to non-existing reference	3624	W-Hyd-1318	W-Hyd-292366
+Reference link to non-existing reference	3625	W-Hyd-1318	W-Hyd-292375
+Reference link to non-existing reference	3626	W-Hyd-1318	W-Hyd-292400
+Reference link to non-existing reference	3627	W-Hyd-1318	W-Hyd-292409
+Reference link to non-existing reference	3629	W-Hyd-1318	W-Hyd-292434
+Reference link to non-existing reference	3630	W-Hyd-1318	W-Hyd-292443
+Reference link to non-existing reference	3631	W-Hyd-1318	W-Hyd-292468
+Reference link to non-existing reference	3632	W-Hyd-1318	W-Hyd-292473
+Reference link to non-existing reference	3640	W-Hyd-1318	W-Hyd-292566
+Reference link to non-existing reference	3642	W-Hyd-1318	W-Hyd-292388
+Reference link to non-existing reference	3643	W-Hyd-1318	W-Hyd-292389
+Reference link to non-existing reference	3644	W-Hyd-1318	W-Hyd-292402
+Reference link to non-existing reference	3645	W-Hyd-1318	W-Hyd-292403
+Reference link to non-existing reference	3646	W-Hyd-1318	W-Hyd-292438
+Reference link to non-existing reference	3647	W-Hyd-1318	W-Hyd-292439
+Reference link to non-existing reference	3648	W-Hyd-1318	W-Hyd-292453
+Reference link to non-existing reference	3650	W-Hyd-1318	W-Hyd-292488
+Reference link to non-existing reference	3651	W-Hyd-1318	W-Hyd-292588
+Reference link to non-existing reference	3652	W-Hyd-1318	W-Hyd-292589
+Reference link to non-existing reference	3653	W-Hyd-1318	W-Hyd-292638
+Reference link to non-existing reference	3654	W-Hyd-1318	W-Hyd-292653
+Reference link to non-existing reference	3656	W-Hyd-1318	W-Hyd-292703
+Reference link to non-existing reference	3773	W-Hyd-1318	W-Hyd-292275
+Reference link to non-existing reference	3774	W-Hyd-1318	W-Hyd-292309
+Reference link to non-existing reference	3776	W-Hyd-1318	W-Hyd-292334
+Reference link to non-existing reference	3777	W-Hyd-1318	W-Hyd-292343
+Reference link to non-existing reference	3778	W-Hyd-1318	W-Hyd-292368
+Reference link to non-existing reference	3779	W-Hyd-1318	W-Hyd-292373
+Reference link to non-existing reference	3781	W-Hyd-1318	W-Hyd-292398
+Reference link to non-existing reference	3782	W-Hyd-1318	W-Hyd-292407
+Reference link to non-existing reference	3783	W-Hyd-1318	W-Hyd-292432
+Reference link to non-existing reference	3784	W-Hyd-1318	W-Hyd-292441
+Reference link to non-existing reference	3785	W-Hyd-1318	W-Hyd-292466
+Reference link to non-existing reference	3786	W-Hyd-1318	W-Hyd-292475
+Reference link to non-existing reference	3788	W-Hyd-1318	W-Hyd-292534
+Reference link to non-existing reference	3789	W-Hyd-1318	W-Hyd-292568
+Reference link to non-existing reference	3790	W-Hyd-1318	W-Hyd-292577
+Reference link to non-existing reference	3791	W-Hyd-1318	W-Hyd-292602
+Reference link to non-existing reference	3792	W-Hyd-1318	W-Hyd-292607
+Reference link to non-existing reference	3794	W-Hyd-1318	W-Hyd-292641
+Reference link to non-existing reference	3796	W-Hyd-1318	W-Hyd-292666
+Reference link to non-existing reference	3840	W-Hyd-37	W-Hyd-659134
+Reference link to non-existing reference	3841	W-Hyd-37	W-Hyd-660513
+Reference link to non-existing reference	3842	W-Hyd-37	W-Hyd-662415
+Reference link to non-existing reference	3843	W-Hyd-37	W-Hyd-694932
+Reference link to non-existing reference	3946	W-Hyd-64	W-Hyd-152109
+Reference link to non-existing reference	3947	W-Hyd-64	W-Hyd-152123
+Reference link to non-existing reference	3967	W-Hyd-64	W-Hyd-151742
+Reference link to non-existing reference	4046	W-Hyd-1318	W-Hyd-292279
+Reference link to non-existing reference	4047	W-Hyd-1318	W-Hyd-292296
+Reference link to non-existing reference	4048	W-Hyd-1318	W-Hyd-292313
+Reference link to non-existing reference	4049	W-Hyd-1318	W-Hyd-292330
+Reference link to non-existing reference	4050	W-Hyd-1318	W-Hyd-292347
+Reference link to non-existing reference	4051	W-Hyd-1318	W-Hyd-292360
+Reference link to non-existing reference	4052	W-Hyd-1318	W-Hyd-292364
+Reference link to non-existing reference	4053	W-Hyd-1318	W-Hyd-292377
+Reference link to non-existing reference	4054	W-Hyd-1318	W-Hyd-292394
+Reference link to non-existing reference	4056	W-Hyd-1318	W-Hyd-292411
+Reference link to non-existing reference	4057	W-Hyd-1318	W-Hyd-292428
+Reference link to non-existing reference	4058	W-Hyd-1318	W-Hyd-292445
+Reference link to non-existing reference	4060	W-Hyd-1318	W-Hyd-292462
+Reference link to non-existing reference	4062	W-Hyd-1318	W-Hyd-292513
+Reference link to non-existing reference	4063	W-Hyd-1318	W-Hyd-292530
+Reference link to non-existing reference	4064	W-Hyd-1318	W-Hyd-292547
+Reference link to non-existing reference	4066	W-Hyd-1318	W-Hyd-292594
+Reference link to non-existing reference	4067	W-Hyd-1318	W-Hyd-292598
+Reference link to non-existing reference	4068	W-Hyd-1318	W-Hyd-292662
+Reference link to non-existing reference	4190	W-Hyd-1318	W-Hyd-291724
+Reference link to non-existing reference	4191	W-Hyd-1318	W-Hyd-292174
+Reference link to non-existing reference	4192	W-Hyd-1318	W-Hyd-292217
+Reference link to non-existing reference	4194	W-Hyd-1318	W-Hyd-292231
+Reference link to non-existing reference	4196	W-Hyd-1318	W-Hyd-292274
+Reference link to non-existing reference	4197	W-Hyd-1318	W-Hyd-292281
+Reference link to non-existing reference	4201	W-Hyd-1318	W-Hyd-292324
+Reference link to non-existing reference	4202	W-Hyd-1318	W-Hyd-292331
+Reference link to non-existing reference	4203	W-Hyd-1318	W-Hyd-292367
+Reference link to non-existing reference	4204	W-Hyd-1318	W-Hyd-292374
+Reference link to non-existing reference	4205	W-Hyd-1318	W-Hyd-292381
+Reference link to non-existing reference	4206	W-Hyd-1318	W-Hyd-292410
+Reference link to non-existing reference	4207	W-Hyd-1318	W-Hyd-292424
+Reference link to non-existing reference	4208	W-Hyd-1318	W-Hyd-292460
+Reference link to non-existing reference	4209	W-Hyd-1318	W-Hyd-292467
+Reference link to non-existing reference	4210	W-Hyd-1318	W-Hyd-292474
+Reference link to non-existing reference	4213	W-Hyd-1318	W-Hyd-292524
+Reference link to non-existing reference	4217	W-Hyd-1318	W-Hyd-292567
+Reference link to non-existing reference	4218	W-Hyd-1318	W-Hyd-292574
+Reference link to non-existing reference	4220	W-Hyd-1318	W-Hyd-292617
+Reference link to non-existing reference	4222	W-Hyd-1318	W-Hyd-292660
+Reference link to non-existing reference	4223	W-Hyd-64	W-Hyd-345183
+Reference link to non-existing reference	4369	W-Hyd-1318	W-Hyd-292284
+Reference link to non-existing reference	4370	W-Hyd-1318	W-Hyd-292291
+Reference link to non-existing reference	4372	W-Hyd-1318	W-Hyd-292348
+Reference link to non-existing reference	4373	W-Hyd-1318	W-Hyd-292350
+Reference link to non-existing reference	4374	W-Hyd-1318	W-Hyd-292357
+Reference link to non-existing reference	4375	W-Hyd-1318	W-Hyd-292391
+Reference link to non-existing reference	4376	W-Hyd-1318	W-Hyd-292448
+Reference link to non-existing reference	4378	W-Hyd-1318	W-Hyd-292493
+Reference link to non-existing reference	4380	W-Hyd-1318	W-Hyd-292593
+Reference link to non-existing reference	4381	W-Hyd-1318	W-Hyd-292657
+Reference link to non-existing reference	4382	W-Hyd-42	W-Hyd-370559
+Reference link to non-existing reference	4417	W-Hyd-37	W-Hyd-660520
+Reference link to non-existing reference	4664	W-Hyd-64	W-Hyd-152114
+Reference link to non-existing reference	4666	W-Hyd-42	W-Hyd-158163
+Reference link to non-existing reference	4668	W-Hyd-42	W-Hyd-158180
+Reference link to non-existing reference	4670	W-Hyd-4182	W-Hyd-173765
+Reference link to non-existing reference	4671	W-Hyd-4182	W-Hyd-174365
+Reference link to non-existing reference	4672	W-Hyd-4182	W-Hyd-174535
+Reference link to non-existing reference	4714	W-Hyd-42	W-Hyd-157931
+Reference link to non-existing reference	4715	W-Hyd-4182	W-Hyd-173853
+Reference link to non-existing reference	4719	W-Hyd-4182	W-Hyd-174771
+Reference link to non-existing reference	4722	W-Hyd-9224	W-Hyd-231625
+Reference link to non-existing reference	4723	W-Hyd-9249	W-Hyd-231663
+Reference link to non-existing reference	4724	W-Hyd-9247	W-Hyd-231664
+Reference link to non-existing reference	4763	W-Hyd-1318	W-Hyd-292525
+Reference link to non-existing reference	4765	W-Hyd-1318	W-Hyd-292616
+Reference link to non-existing reference	4766	W-Hyd-1318	W-Hyd-292659
+Reference link to non-existing reference	4796	W-Hyd-37	W-Hyd-660518
+Reference link to non-existing reference	4863	W-Hyd-4182	W-Hyd-174259
+Reference link to non-existing reference	4864	W-Hyd-4182	W-Hyd-174509
+Reference link to non-existing reference	4865	W-Hyd-6831	W-Hyd-183308
+Reference link to non-existing reference	4868	W-Hyd-9247	W-Hyd-231694
+Reference link to non-existing reference	4963	W-Hyd-1318	W-Hyd-291722
+Reference link to non-existing reference	4965	W-Hyd-1318	W-Hyd-292190
+Reference link to non-existing reference	4966	W-Hyd-1318	W-Hyd-292215
+Reference link to non-existing reference	4967	W-Hyd-1318	W-Hyd-292233
+Reference link to non-existing reference	4968	W-Hyd-1318	W-Hyd-292301
+Reference link to non-existing reference	4969	W-Hyd-1318	W-Hyd-292308
+Reference link to non-existing reference	4970	W-Hyd-1318	W-Hyd-292351
+Reference link to non-existing reference	4972	W-Hyd-1318	W-Hyd-292365
+Reference link to non-existing reference	4973	W-Hyd-1318	W-Hyd-292390
+Reference link to non-existing reference	4974	W-Hyd-1318	W-Hyd-292415
+Reference link to non-existing reference	4975	W-Hyd-1318	W-Hyd-292433
+Reference link to non-existing reference	4976	W-Hyd-1318	W-Hyd-292440
+Reference link to non-existing reference	4977	W-Hyd-1318	W-Hyd-292458
+Reference link to non-existing reference	4978	W-Hyd-1318	W-Hyd-292483
+Reference link to non-existing reference	4979	W-Hyd-1318	W-Hyd-292576
+Reference link to non-existing reference	4980	W-Hyd-1318	W-Hyd-292615
+Reference link to non-existing reference	4981	W-Hyd-1318	W-Hyd-292640
+Reference link to non-existing reference	4989	W-Hyd-1318	W-Hyd-292192
+Reference link to non-existing reference	4990	W-Hyd-1318	W-Hyd-292206
+Reference link to non-existing reference	4991	W-Hyd-1318	W-Hyd-292242
+Reference link to non-existing reference	4992	W-Hyd-1318	W-Hyd-292249
+Reference link to non-existing reference	4993	W-Hyd-1318	W-Hyd-292256
+Reference link to non-existing reference	4994	W-Hyd-1318	W-Hyd-292292
+Reference link to non-existing reference	4995	W-Hyd-1318	W-Hyd-292299
+Reference link to non-existing reference	4996	W-Hyd-1318	W-Hyd-292306
+Reference link to non-existing reference	4997	W-Hyd-1318	W-Hyd-292342
+Reference link to non-existing reference	4998	W-Hyd-1318	W-Hyd-292349
+Reference link to non-existing reference	4999	W-Hyd-1318	W-Hyd-292356
+Reference link to non-existing reference	5000	W-Hyd-1318	W-Hyd-292385
+Reference link to non-existing reference	5001	W-Hyd-1318	W-Hyd-292392
+Reference link to non-existing reference	5002	W-Hyd-1318	W-Hyd-292399
+Reference link to non-existing reference	5003	W-Hyd-1318	W-Hyd-292435
+Reference link to non-existing reference	5004	W-Hyd-1318	W-Hyd-292442
+Reference link to non-existing reference	5006	W-Hyd-1318	W-Hyd-292449
+Reference link to non-existing reference	5008	W-Hyd-1318	W-Hyd-292485
+Reference link to non-existing reference	5009	W-Hyd-1318	W-Hyd-292492
+Reference link to non-existing reference	5012	W-Hyd-1318	W-Hyd-292535
+Reference link to non-existing reference	5014	W-Hyd-1318	W-Hyd-292635
+Reference link to non-existing reference	5015	W-Hyd-1318	W-Hyd-292699
+Reference link to non-existing reference	5137	W-Hyd-1318	W-Hyd-292575
+Reference link to non-existing reference	5138	W-Hyd-1318	W-Hyd-292600
+Reference link to non-existing reference	5139	W-Hyd-1318	W-Hyd-292702
+Reference link to non-existing reference	5337	W-Hyd-1318	W-Hyd-292658
+Reference link to non-existing reference	5394	W-Hyd-37	W-Hyd-660512
+Reference link to non-existing reference	5525	W-Hyd-1318	W-Hyd-291720
+Reference link to non-existing reference	5526	W-Hyd-1318	W-Hyd-292171
+Reference link to non-existing reference	5527	W-Hyd-1318	W-Hyd-292185
+Reference link to non-existing reference	5528	W-Hyd-1318	W-Hyd-292220
+Reference link to non-existing reference	5529	W-Hyd-1318	W-Hyd-292235
+Reference link to non-existing reference	5530	W-Hyd-1318	W-Hyd-292271
+Reference link to non-existing reference	5531	W-Hyd-1318	W-Hyd-292285
+Reference link to non-existing reference	5532	W-Hyd-1318	W-Hyd-292321
+Reference link to non-existing reference	5533	W-Hyd-1318	W-Hyd-292335
+Reference link to non-existing reference	5534	W-Hyd-1318	W-Hyd-292370
+Reference link to non-existing reference	5535	W-Hyd-1318	W-Hyd-292371
+Reference link to non-existing reference	5538	W-Hyd-1318	W-Hyd-292420
+Reference link to non-existing reference	5539	W-Hyd-1318	W-Hyd-292421
+Reference link to non-existing reference	5540	W-Hyd-1318	W-Hyd-292456
+Reference link to non-existing reference	5541	W-Hyd-1318	W-Hyd-292470
+Reference link to non-existing reference	5542	W-Hyd-1318	W-Hyd-292471
+Reference link to non-existing reference	5543	W-Hyd-1318	W-Hyd-292521
+Reference link to non-existing reference	5549	W-Hyd-1318	W-Hyd-292179
+Reference link to non-existing reference	5553	W-Hyd-1318	W-Hyd-292213
+Reference link to non-existing reference	5554	W-Hyd-1318	W-Hyd-292230
+Reference link to non-existing reference	5555	W-Hyd-1318	W-Hyd-292247
+Reference link to non-existing reference	5557	W-Hyd-1318	W-Hyd-292277
+Reference link to non-existing reference	5558	W-Hyd-1318	W-Hyd-292294
+Reference link to non-existing reference	5559	W-Hyd-1318	W-Hyd-292311
+Reference link to non-existing reference	5560	W-Hyd-1318	W-Hyd-292328
+Reference link to non-existing reference	5561	W-Hyd-1318	W-Hyd-292362
+Reference link to non-existing reference	5562	W-Hyd-1318	W-Hyd-292396
+Reference link to non-existing reference	5563	W-Hyd-1318	W-Hyd-292413
+Reference link to non-existing reference	5564	W-Hyd-1318	W-Hyd-292430
+Reference link to non-existing reference	5565	W-Hyd-1318	W-Hyd-292447
+Reference link to non-existing reference	5566	W-Hyd-1318	W-Hyd-292477
+Reference link to non-existing reference	5567	W-Hyd-1318	W-Hyd-292481
+Reference link to non-existing reference	5568	W-Hyd-1318	W-Hyd-292494
+Reference link to non-existing reference	5569	W-Hyd-1318	W-Hyd-292528
+Reference link to non-existing reference	5571	W-Hyd-1318	W-Hyd-292579
+Reference link to non-existing reference	5572	W-Hyd-1318	W-Hyd-292596
+Reference link to non-existing reference	5573	W-Hyd-1318	W-Hyd-292613
+Reference link to non-existing reference	5574	W-Hyd-1318	W-Hyd-292664
+Reference link to non-existing reference	5616	W-Hyd-42	W-Hyd-584816
+Reference link to non-existing reference	5624	W-Hyd-37	W-Hyd-660515
+Reference link to non-existing reference	5687	W-Hyd-1318	W-Hyd-292606
+Reference link to non-existing reference	5688	W-Hyd-1318	W-Hyd-292620
+Reference link to non-existing reference	5689	W-Hyd-1318	W-Hyd-292621
+Reference link to non-existing reference	5690	W-Hyd-1318	W-Hyd-292656
+Reference link to non-existing reference	5691	W-Hyd-1318	W-Hyd-292706
+Reference link to non-existing reference	5817	W-Hyd-1318	W-Hyd-291712
+Reference link to non-existing reference	5818	W-Hyd-1318	W-Hyd-292193
+Reference link to non-existing reference	5819	W-Hyd-1318	W-Hyd-292278
+Reference link to non-existing reference	5820	W-Hyd-1318	W-Hyd-292312
+Reference link to non-existing reference	5821	W-Hyd-1318	W-Hyd-292314
+Reference link to non-existing reference	5822	W-Hyd-1318	W-Hyd-292327
+Reference link to non-existing reference	5823	W-Hyd-1318	W-Hyd-292329
+Reference link to non-existing reference	5824	W-Hyd-1318	W-Hyd-292412
+Reference link to non-existing reference	5825	W-Hyd-1318	W-Hyd-292414
+Reference link to non-existing reference	5826	W-Hyd-1318	W-Hyd-292427
+Reference link to non-existing reference	5827	W-Hyd-1318	W-Hyd-292463
+Reference link to non-existing reference	5829	W-Hyd-1318	W-Hyd-292478
+Reference link to non-existing reference	5830	W-Hyd-1318	W-Hyd-292514
+Reference link to non-existing reference	5832	W-Hyd-1318	W-Hyd-292578
+Reference link to non-existing reference	5833	W-Hyd-1318	W-Hyd-292612
+Reference link to non-existing reference	5834	W-Hyd-1318	W-Hyd-292663
+Reference link to non-existing reference	5892	W-Hyd-37	W-Hyd-660514
+Reference link to non-existing reference	5994	W-Hyd-1318	W-Hyd-292169
+Reference link to non-existing reference	5995	W-Hyd-1318	W-Hyd-292219
+Reference link to non-existing reference	5997	W-Hyd-1318	W-Hyd-292237
+Reference link to non-existing reference	5998	W-Hyd-1318	W-Hyd-292304
+Reference link to non-existing reference	5999	W-Hyd-1318	W-Hyd-292305
+Reference link to non-existing reference	6000	W-Hyd-1318	W-Hyd-292322
+Reference link to non-existing reference	6001	W-Hyd-1318	W-Hyd-292355
+Reference link to non-existing reference	6002	W-Hyd-1318	W-Hyd-292372
+Reference link to non-existing reference	6003	W-Hyd-1318	W-Hyd-292386
+Reference link to non-existing reference	6005	W-Hyd-1318	W-Hyd-292436
+Reference link to non-existing reference	6006	W-Hyd-1318	W-Hyd-292437
+Reference link to non-existing reference	6007	W-Hyd-1318	W-Hyd-292572
+Reference link to non-existing reference	6008	W-Hyd-1318	W-Hyd-292623
+Reference link to non-existing reference	6009	W-Hyd-1318	W-Hyd-292636
+Reference link to non-existing reference	6010	W-Hyd-1318	W-Hyd-292637
+Reference link to non-existing reference	6011	W-Hyd-1318	W-Hyd-292654
+Reference link to non-existing reference	6012	W-Hyd-1318	W-Hyd-292704
+Reference link to non-existing reference	6013	W-Hyd-6984	W-Hyd-345879
+Reference link to non-existing reference	6014	W-Hyd-1592	W-Hyd-396737
+Reference link to non-existing reference	6024	W-Hyd-42	W-Hyd-456708
+Reference link to non-existing reference	6051	W-Hyd-37	W-Hyd-695000
+Reference link to non-existing reference	6052	W-Hyd-37	W-Hyd-695001
+Reference link to non-existing reference	6120	W-Hyd-64	W-Hyd-152149
+Reference link to non-existing reference	6121	W-Hyd-1153	W-Hyd-152183
+Reference link to non-existing reference	6123	W-Hyd-4182	W-Hyd-174583
+Reference link to non-existing reference	6124	W-Hyd-4182	W-Hyd-174768
+Reference link to non-existing reference	6128	W-Hyd-9247	W-Hyd-231670
+Reference link to non-existing reference	6129	W-Hyd-9249	W-Hyd-231673
+Reference link to non-existing reference	6130	W-Hyd-9247	W-Hyd-231685
+Reference link to non-existing reference	6132	W-Hyd-43140	W-Hyd-247958
+Reference link to non-existing reference	6165	W-Hyd-4182	W-Hyd-174407
+Reference link to non-existing reference	6237	W-Hyd-1318	W-Hyd-291719
+Reference link to non-existing reference	6238	W-Hyd-1318	W-Hyd-292204
+Reference link to non-existing reference	6239	W-Hyd-1318	W-Hyd-292218
+Reference link to non-existing reference	6240	W-Hyd-1318	W-Hyd-292272
+Reference link to non-existing reference	6241	W-Hyd-1318	W-Hyd-292286
+Reference link to non-existing reference	6243	W-Hyd-1318	W-Hyd-292336
+Reference link to non-existing reference	6244	W-Hyd-1318	W-Hyd-292354
+Reference link to non-existing reference	6245	W-Hyd-1318	W-Hyd-292387
+Reference link to non-existing reference	6246	W-Hyd-1318	W-Hyd-292422
+Reference link to non-existing reference	6247	W-Hyd-1318	W-Hyd-292472
+Reference link to non-existing reference	6248	W-Hyd-1318	W-Hyd-292587
+Reference link to non-existing reference	6249	W-Hyd-1318	W-Hyd-292605
+Reference link to non-existing reference	6250	W-Hyd-1318	W-Hyd-292622
+Reference link to non-existing reference	6251	W-Hyd-1318	W-Hyd-292655
+Reference link to non-existing reference	6382	W-Hyd-1318	W-Hyd-292197
+Reference link to non-existing reference	6384	W-Hyd-1318	W-Hyd-292210
+Reference link to non-existing reference	6385	W-Hyd-1318	W-Hyd-292244
+Reference link to non-existing reference	6386	W-Hyd-1318	W-Hyd-292246
+Reference link to non-existing reference	6387	W-Hyd-1318	W-Hyd-292261
+Reference link to non-existing reference	6388	W-Hyd-1318	W-Hyd-292295
+Reference link to non-existing reference	6389	W-Hyd-1318	W-Hyd-292297
+Reference link to non-existing reference	6390	W-Hyd-1318	W-Hyd-292310
+Reference link to non-existing reference	6392	W-Hyd-1318	W-Hyd-292344
+Reference link to non-existing reference	6393	W-Hyd-1318	W-Hyd-292346
+Reference link to non-existing reference	6394	W-Hyd-1318	W-Hyd-292361
+Reference link to non-existing reference	6395	W-Hyd-1318	W-Hyd-292380
+Reference link to non-existing reference	6396	W-Hyd-1318	W-Hyd-292395
+Reference link to non-existing reference	6397	W-Hyd-1318	W-Hyd-292397
+Reference link to non-existing reference	6398	W-Hyd-1318	W-Hyd-292431
+Reference link to non-existing reference	6399	W-Hyd-1318	W-Hyd-292446
+Reference link to non-existing reference	6400	W-Hyd-1318	W-Hyd-292561
+Reference link to non-existing reference	6401	W-Hyd-1318	W-Hyd-292580
+Reference link to non-existing reference	6402	W-Hyd-1318	W-Hyd-292661
+--------------
+SELECT 'Specialist not present in scientific names table', record_id, specialist_name, specialist_code FROM specialists
+WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+--------------
+
+--------------
+SELECT 'Reference without parent accepted or common name', record_id, author, year, title, reference_code FROM `references`
+WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
+UNION SELECT DISTINCT reference_code FROM common_names)
+--------------
+
+Reference without parent accepted or common name	record_id	author	year	title	reference_code
+Reference without parent accepted or common name	2	Zibrowius, H. & S.D. Cairns,	1982	NULL	W-Hyd-27059
+Reference without parent accepted or common name	5	Edwards, C.	1978	NULL	W-Hyd-24165
+Reference without parent accepted or common name	6	Xu, Z.; Zhang, J.; Fujian, P.; China Acta scient nat Univ	1978	NULL	W-Hyd-32206
+Reference without parent accepted or common name	14	Millard, N.A.H.,	1977	NULL	W-Hyd-25639
+Reference without parent accepted or common name	20	Kramp, P.L.,	1958	NULL	W-Hyd-24852
+Reference without parent accepted or common name	21	Mulder, J. F.; Trebilcock, R. E.	1909	NULL	W-Hyd-36754
+Reference without parent accepted or common name	22	Elhers, E. H.; Keferstein, W. M.	1861	NULL	W-Hyd-164895
+Reference without parent accepted or common name	25	Allman, G. J.	1864	NULL	W-Hyd-34547
+Reference without parent accepted or common name	26	Hastings, A. B.	1932	NULL	W-Hyd-24480
+Reference without parent accepted or common name	30	Pallas, P. S.	1771	NULL	W-Hyd-576
+Reference without parent accepted or common name	33	Totton, A. K.	1949	NULL	W-Hyd-26687
+Reference without parent accepted or common name	40	Zeidler, W.; Gershwin, L. A.	2004	NULL	W-Hyd-38635
+Reference without parent accepted or common name	43	Puce, S.; Cerrano, C.; Bavestrello, G.	2002	NULL	W-Hyd-38243
+Reference without parent accepted or common name	46	Burton, E.J. and Lundsten, L.	2008	NULL	W-Hyd-164342
+Reference without parent accepted or common name	51	Blanco, O.M. & D.A. Bellusci de Miralles,	1971	NULL	W-Hyd-23444
+Reference without parent accepted or common name	54	Totton, A. K., and Fraser, J. H.	1955	NULL	W-Hyd-164975
+Reference without parent accepted or common name	56	Rees, J.T.,	1977	NULL	W-Hyd-26126
+Reference without parent accepted or common name	57	Xu, Z.; Huang, J.	1994	NULL	W-Hyd-131350
+Reference without parent accepted or common name	64	Naumov, D. V.	1951	NULL	W-Hyd-25820
+Reference without parent accepted or common name	67	Jacobs, W.	1937	NULL	W-Hyd-164898
+Reference without parent accepted or common name	68	Dunn, C. W., & Wagner, G. P.	2006	NULL	W-Hyd-153408
+Reference without parent accepted or common name	70	Pagès, F.; Bouillon, J.; Gili, J. M.	1991	NULL	W-Hyd-30989
+Reference without parent accepted or common name	71	Mills, C. E.; Biol Bull mar biol Lab	1976	NULL	W-Hyd-25665
+Reference without parent accepted or common name	73	Romanes, G.J.,	1876	NULL	W-Hyd-36989
+Reference without parent accepted or common name	76	Calder, D. R.; Vervoort, W.	1986	NULL	W-Hyd-23862
+Reference without parent accepted or common name	83	Segonzac, M. & W. Vervoort,	1995	NULL	W-Hyd-27400
+Reference without parent accepted or common name	86	Vanderperren, J.-P.	1991	NULL	W-Hyd-139287
+Reference without parent accepted or common name	87	Millard, N.A.H.,	1959	NULL	W-Hyd-25628
+Reference without parent accepted or common name	89	Mapstone 2003, G. M.	1976	NULL	W-Hyd-38512
+Reference without parent accepted or common name	91	Iwanzoff, N.,	1896	NULL	W-Hyd-36348
+Reference without parent accepted or common name	99	Marfenin, N.N.,	1983	NULL	W-Hyd-25542
+Reference without parent accepted or common name	101	Cornelius, P. F. S.; Garfath, J. B.	1980	NULL	W-Hyd-23999
+Reference without parent accepted or common name	103	Biggs, D. C.	1977	NULL	W-Hyd-6879
+Reference without parent accepted or common name	105	Duchassaing, P., and Michelin, H.	1846	NULL	W-Hyd-156379
+Reference without parent accepted or common name	107	Naumov, D. V.; Stepanjants, S. D.	1962	NULL	W-Hyd-25828
+Reference without parent accepted or common name	108	X-M, M.; X-B, B.	1999	NULL	W-Hyd-37730
+Reference without parent accepted or common name	114	Leloup, E.,	1938	NULL	W-Hyd-30282
+Reference without parent accepted or common name	117	Vannucci, M.,	1956	NULL	W-Hyd-26770
+Reference without parent accepted or common name	118	Pourtalès, L.F. de,	1867	NULL	W-Hyd-37759
+Reference without parent accepted or common name	120	ICZN Opinion 2157,	2006	NULL	W-Hyd-164846
+Reference without parent accepted or common name	125	Dyntaxa	2013	NULL	W-Hyd-165516
+Reference without parent accepted or common name	126	Bouillon, J.,	1974	NULL	W-Hyd-23590
+Reference without parent accepted or common name	127	Pugh, P. R.; Pagès, F.	1995	NULL	W-Hyd-6910
+Reference without parent accepted or common name	129	Ronowicz, M., & Schuchert, P.	2007	NULL	W-Hyd-149094
+Reference without parent accepted or common name	130	Fewkes, J.W.,	1888	NULL	W-Hyd-34602
+Reference without parent accepted or common name	131	Gaw, H.Z. & L.H. Kung,	1939	NULL	W-Hyd-32435
+Reference without parent accepted or common name	132	Brien, P.,	1961	NULL	W-Hyd-23684
+Reference without parent accepted or common name	134	Cairns, S.D.,	1988	NULL	W-Hyd-23830
+Reference without parent accepted or common name	136	Hong, H., and Zhang, S.	1981	NULL	W-Hyd-164391
+Reference without parent accepted or common name	137	Coward, W.E.,	1909	NULL	W-Hyd-34650
+Reference without parent accepted or common name	146	Boero, F.; Gravili, C.; Denitto, F.; Miglietta, M. P.; Bouillon, J.	1997	NULL	W-Hyd-33995
+Reference without parent accepted or common name	147	Kramp, P.L.,	1953	NULL	W-Hyd-24841
+Reference without parent accepted or common name	149	El Beshbeeshy, M.,	1991	NULL	W-Hyd-29040
+Reference without parent accepted or common name	151	Carré, C.	1968	NULL	W-Hyd-164952
+Reference without parent accepted or common name	156	Kramp, P. L.; Göteb Kungl Vetenskaps- och Vitterhets-Samh Hand	1935	NULL	W-Hyd-24821
+Reference without parent accepted or common name	160	Hummelinck, P. Wagenaar,	1930	NULL	W-Hyd-24606
+Reference without parent accepted or common name	163	Pugh, P. R., and Youngbluth, M. J.	1988	NULL	W-Hyd-164282
+Reference without parent accepted or common name	165	Blainville, H.M.D. De	1834	NULL	W-Hyd-7145
+Reference without parent accepted or common name	167	Warren, E.	1907	NULL	W-Hyd-34736
+Reference without parent accepted or common name	172	Yamada, M.,	1959	NULL	W-Hyd-26993
+Reference without parent accepted or common name	174	Best, W.G., G. Faure & M. Pichon	1980	NULL	W-Hyd-6043
+Reference without parent accepted or common name	182	Roberts, J.M., A. Wheeler, A. Freiwald, and S.D. Cairns,	2009	NULL	W-Hyd-142536
+Reference without parent accepted or common name	195	Picard, J.,	1958	NULL	W-Hyd-26017
+Reference without parent accepted or common name	196	Calder, D.R.	1988	NULL	W-Hyd-23853
+Reference without parent accepted or common name	197	Lamouroux, J.V.F.	1821	NULL	W-Hyd-7772
+Reference without parent accepted or common name	199	Hirohito,	1983	NULL	W-Hyd-24543
+Reference without parent accepted or common name	202	Uchida, T.	1971	NULL	W-Hyd-26727
+Reference without parent accepted or common name	204	Damas, H.	1934	NULL	W-Hyd-1234
+Reference without parent accepted or common name	206	Gasca, R.; Su?rez, E.	1993	NULL	W-Hyd-164394
+Reference without parent accepted or common name	208	Bigelow H B H M S Research	1911	NULL	W-Hyd-164866
+Reference without parent accepted or common name	209	Allman, G. J.	1859	NULL	W-Hyd-167311
+Reference without parent accepted or common name	212	Carré, C.	1969	NULL	W-Hyd-6945
+Reference without parent accepted or common name	215	Rees, J. T.; Hand, C.; Mills, C.	1976	NULL	W-Hyd-26132
+Reference without parent accepted or common name	217	Puce, S., Cerrano C., Boyer M., Ferretti C., Bavestrello G.,	2002	NULL	W-Hyd-38180
+Reference without parent accepted or common name	219	Schierwater, B. & A. Ender,	2000	NULL	W-Hyd-37662
+Reference without parent accepted or common name	220	Biggs, D.C.,	1978	NULL	W-Hyd-38203
+Reference without parent accepted or common name	223	Daniel, R.	1985	NULL	W-Hyd-164494
+Reference without parent accepted or common name	225	Richmond, M. (Ed.)	1997	NULL	W-Hyd-6066
+Reference without parent accepted or common name	228	Carré, C.,	1968	NULL	W-Hyd-38188
+Reference without parent accepted or common name	233	Goy, J.,	1979	NULL	W-Hyd-24363
+Reference without parent accepted or common name	237	Blackburn, M.,	1937	NULL	W-Hyd-28201
+Reference without parent accepted or common name	240	Fraser, C. McLean,	1912	NULL	W-Hyd-24228
+Reference without parent accepted or common name	242	Bouillon, J. & G. Deroux,	1967	NULL	W-Hyd-23630
+Reference without parent accepted or common name	244	Bouillon, J.,	1967	NULL	W-Hyd-23587
+Reference without parent accepted or common name	246	Hincks, T.	1863	NULL	W-Hyd-36276
+Reference without parent accepted or common name	250	Purcell, J.E.,	1984	NULL	W-Hyd-33125
+Reference without parent accepted or common name	256	Kirchenpauer, G.H.,	1864	NULL	W-Hyd-34519
+Reference without parent accepted or common name	262	Van Beneden, P.-J.	1844	NULL	W-Hyd-35274
+Reference without parent accepted or common name	267	Raskoff & Robison.	2005	NULL	W-Hyd-129263
+Reference without parent accepted or common name	269	Cernosvitov, L.,	1935	NULL	W-Hyd-28588
+Reference without parent accepted or common name	272	Hirohito,	1971	NULL	W-Hyd-24540
+Reference without parent accepted or common name	274	Lankester, E.R.,	1880	NULL	W-Hyd-35174
+Reference without parent accepted or common name	279	Mapstone, G. M.	1998	NULL	W-Hyd-6930
+Reference without parent accepted or common name	282	Kubota, S.,	1979	NULL	W-Hyd-24881
+Reference without parent accepted or common name	283	Boschma, H.,	1966	NULL	W-Hyd-23564
+Reference without parent accepted or common name	285	Elrod, M. J.; Ricker, M.	1902	NULL	W-Hyd-35907
+Reference without parent accepted or common name	288	Huvé, P.	1952	NULL	W-Hyd-24938
+Reference without parent accepted or common name	289	Agassiz, L.	1860	NULL	W-Hyd-35266
+Reference without parent accepted or common name	301	Boulenger, C.L.,	1912	NULL	W-Hyd-23644
+Reference without parent accepted or common name	302	Bouillon, J., Pagès F., Gili J.-M., Palanques A., Puig P., Heussner S.,	2000	NULL	W-Hyd-37659
+Reference without parent accepted or common name	307	Billard, A.	1925	NULL	W-Hyd-23381
+Reference without parent accepted or common name	309	Dioni, W.	1968	NULL	W-Hyd-28931
+Reference without parent accepted or common name	314	Sars, M.	1859	NULL	W-Hyd-146008
+Reference without parent accepted or common name	316	Kudelin, N.V.,	1914	NULL	W-Hyd-30136
+Reference without parent accepted or common name	320	Stepanjants, S. D.; Sheiko, O. V.; Napara, T. O.	1990	NULL	W-Hyd-26544
+Reference without parent accepted or common name	323	Moser, F.	1915	NULL	W-Hyd-164875
+Reference without parent accepted or common name	324	Mayer, A. G.	1901	NULL	W-Hyd-36671
+Reference without parent accepted or common name	326	Le Danois, E.	1913	NULL	W-Hyd-30265
+Reference without parent accepted or common name	331	Boero, F., J. Bouillon & R. Danovaro,	1987	NULL	W-Hyd-23487
+Reference without parent accepted or common name	333	Rappé, G.	1989	NULL	W-Hyd-619
+Reference without parent accepted or common name	341	Fan, X. M.	2000	NULL	W-Hyd-37945
+Reference without parent accepted or common name	352	Pugh, P. R., and Harbison, G. R.	1986	NULL	W-Hyd-164311
+Reference without parent accepted or common name	356	Uchida, T.	1948	NULL	W-Hyd-26713
+Reference without parent accepted or common name	360	Calder, D.R.,	1997	NULL	W-Hyd-33926
+Reference without parent accepted or common name	362	Stechow, E.,	1925	NULL	W-Hyd-26521
+Reference without parent accepted or common name	365	Mammen, T. A.	1967	NULL	W-Hyd-30531
+Reference without parent accepted or common name	371	Berrill, N. J.; Biol Bull mar biol Lab	1948	NULL	W-Hyd-23318
+Reference without parent accepted or common name	376	Schuchert, P.; Brinckmann‐voss, A.	2006	NULL	W-Hyd-153491
+Reference without parent accepted or common name	377	Alvariño, A.	1983	NULL	W-Hyd-164852
+Reference without parent accepted or common name	380	Casanova, J.-P.,	1980	NULL	W-Hyd-23902
+Reference without parent accepted or common name	388	Gravier-Bonnet, N.	1998	NULL	W-Hyd-34181
+Reference without parent accepted or common name	393	Leloup, E.	1932	NULL	W-Hyd-1209
+Reference without parent accepted or common name	394	Patriti, G.	1969	NULL	W-Hyd-172621
+Reference without parent accepted or common name	395	Rengarajan, K.	1975	NULL	W-Hyd-164964
+Reference without parent accepted or common name	397	Bigelow, H.B.,	1940	NULL	W-Hyd-28176
+Reference without parent accepted or common name	401	Pugh, P. R.	1974	NULL	W-Hyd-6897
+Reference without parent accepted or common name	403	Zamponi, M. O.; Genzano, G. N.	1989	NULL	W-Hyd-27040
+Reference without parent accepted or common name	404	Mackie, G. O.	1985	NULL	W-Hyd-59875
+Reference without parent accepted or common name	405	Peña Cantero, A.L. & W. Vervoort	1996	NULL	W-Hyd-27658
+Reference without parent accepted or common name	407	Carré, C.,	1966	NULL	W-Hyd-38186
+Reference without parent accepted or common name	408	Fewkes, J.W.,	1881	NULL	W-Hyd-34605
+Reference without parent accepted or common name	410	Antsulevich, A.E.,	1992	NULL	W-Hyd-27953
+Reference without parent accepted or common name	411	Pena Cantero & Vervoort.	2005	NULL	W-Hyd-129181
+Reference without parent accepted or common name	416	Millard, N.A.H.,	1980	NULL	W-Hyd-25643
+Reference without parent accepted or common name	417	Gibbons, M. J.; Ryland, J. S.	1989	NULL	W-Hyd-24315
+Reference without parent accepted or common name	424	Hadley, C.E. & H. Forrest,	1949	NULL	W-Hyd-24418
+Reference without parent accepted or common name	425	Westblad, E.	1937	NULL	W-Hyd-26925
+Reference without parent accepted or common name	426	Alvariño, A.	1988	NULL	W-Hyd-23144
+Reference without parent accepted or common name	430	Zamponi, M. O.	1983	NULL	W-Hyd-27028
+Reference without parent accepted or common name	436	Arai, M.N. & A. Brinckmann-Voss,	1980	NULL	W-Hyd-23190
+Reference without parent accepted or common name	438	Bouillon, J.	1965	NULL	W-Hyd-23585
+Reference without parent accepted or common name	445	Kramp, P.L. & D. Damas,	1925	NULL	W-Hyd-24867
+Reference without parent accepted or common name	446	Wagner, N.	1885	NULL	W-Hyd-52092
+Reference without parent accepted or common name	448	Peña, C.; A L P Svoboda A; Vervoort, W.	2004	NULL	W-Hyd-38504
+Reference without parent accepted or common name	457	Gili, J. M., Lopez Gonzalez, P. J., & Bouillon, J.	2006	NULL	W-Hyd-128502
+Reference without parent accepted or common name	458	Pérèz, C.,	1920	NULL	W-Hyd-25981
+Reference without parent accepted or common name	465	Antsulevich, A. E.	1980	NULL	W-Hyd-23164
+Reference without parent accepted or common name	472	Hissmann, K.; Schauer, J.; Pugh, P. R.	1995	NULL	W-Hyd-37963
+Reference without parent accepted or common name	477	Borstad, G.A. & A. Brinckmann-Voss,	1979	NULL	W-Hyd-23505
+Reference without parent accepted or common name	478	He, Z.	1980	NULL	W-Hyd-24495
+Reference without parent accepted or common name	484	Stepanjants, S. D.; Svoboda, A.	2001	NULL	W-Hyd-37771
+Reference without parent accepted or common name	489	Stechow, E.	1920	NULL	W-Hyd-26510
+Reference without parent accepted or common name	496	Cantero, A. L. P.; Carrascosa, A. M. G.; Vervoort, W.	1999	NULL	W-Hyd-34222
+Reference without parent accepted or common name	499	Lesson, R.P.,	1836	NULL	W-Hyd-36523
+Reference without parent accepted or common name	500	Koshelev, A.V.,	2003	NULL	W-Hyd-38444
+Reference without parent accepted or common name	501	Graeffe, E.,	1884	NULL	W-Hyd-35026
+Reference without parent accepted or common name	503	Anger, K. V.	1972	NULL	W-Hyd-168233
+Reference without parent accepted or common name	509	Boecker, E.	1920	NULL	W-Hyd-28248
+Reference without parent accepted or common name	512	Xu, Z.; Huang, J.	1990	NULL	W-Hyd-149647
+Reference without parent accepted or common name	513	Bouillon, J.; Gili, J. M.; Pagès, F.; Isla, E.	2000	NULL	W-Hyd-34368
+Reference without parent accepted or common name	515	Foslie, M.	1901	NULL	W-Hyd-170131
+Reference without parent accepted or common name	519	Hadzi, J.	1914	NULL	W-Hyd-24421
+Reference without parent accepted or common name	520	Bogle, M.A.,	1990	NULL	W-Hyd-23496
+Reference without parent accepted or common name	530	Fraser, C. M.	1913	NULL	W-Hyd-24229
+Reference without parent accepted or common name	533	Pagès, F.; J-Gili, M.	1989	NULL	W-Hyd-172601
+Reference without parent accepted or common name	535	Santhakumari, V.,	1970	NULL	W-Hyd-26287
+Reference without parent accepted or common name	537	Campos, C. J. A.; Marques, A. C.; Migotto, A. E.	2007	NULL	W-Hyd-132080
+Reference without parent accepted or common name	542	Hutton F. W. 	1873	NULL	W-Hyd-36320
+Reference without parent accepted or common name	544	Fraser, C. McLean,	1944	NULL	W-Hyd-24249
+Reference without parent accepted or common name	547	Brinckmann Voss, A.	2000	NULL	W-Hyd-39048
+Reference without parent accepted or common name	548	Calder, D. R.; Bay hydroids Biol Bull mar biol Lab	1975	NULL	W-Hyd-23845
+Reference without parent accepted or common name	550	Boschma, H.,	1961	NULL	W-Hyd-23539
+Reference without parent accepted or common name	551	Hirai, E.; Yamada, M.; gen; n sp Bull mar biol	1965	NULL	W-Hyd-24535
+Reference without parent accepted or common name	555	Alvariño A Bull Scripps Inst Oceanogr Univ Calif	1971	NULL	W-Hyd-164901
+Reference without parent accepted or common name	556	Miglietta, M. P., Piraino, S., Kubota, S., & Schuchert, P.	2007	NULL	W-Hyd-130277
+Reference without parent accepted or common name	557	Vannucci Mendes, M.,	1948	NULL	W-Hyd-26762
+Reference without parent accepted or common name	560	Bedot, M.	1921	NULL	W-Hyd-23273
+Reference without parent accepted or common name	561	Eno, N.C.; Clark, R.A.; Sanderson, W.G. (Ed.)	1997	NULL	W-Hyd-9281
+Reference without parent accepted or common name	563	Species	2000	NULL	W-Hyd-9779
+Reference without parent accepted or common name	564	Pennycuik, P. R.	1959	NULL	W-Hyd-25978
+Reference without parent accepted or common name	566	Kakinuma, Y.; n sp from Hachinohe Bull mar biol	1964	NULL	W-Hyd-24704
+Reference without parent accepted or common name	573	Picard, J.,	1960	NULL	W-Hyd-26021
+Reference without parent accepted or common name	576	Kawamura, T.	1954	NULL	W-Hyd-172189
+Reference without parent accepted or common name	585	Couch, R. Q.	1844	NULL	W-Hyd-496
+Reference without parent accepted or common name	605	Pfeffer, G.	1888	NULL	W-Hyd-42732
+Reference without parent accepted or common name	606	Naumov, D. V.; Stepan'yants, S. D.	1971	NULL	W-Hyd-25829
+Reference without parent accepted or common name	610	Migotto, A. E.; Marques, A. C.	1999	NULL	W-Hyd-34296
+Reference without parent accepted or common name	613	Hartlaub, C.	1889	NULL	W-Hyd-36188
+Reference without parent accepted or common name	621	Brinckmann-Voss, A.	1980	NULL	W-Hyd-23722
+Reference without parent accepted or common name	624	Von Kennel, L.,	1891	NULL	W-Hyd-34937
+Reference without parent accepted or common name	627	Leewis, R.J.; Willemse, D.; Sloof-Spijker, P.; Jacobusse, C.	2005	NULL	W-Hyd-150220
+Reference without parent accepted or common name	628	Schuchert P.	2014b	NULL	W-Hyd-195418
+Reference without parent accepted or common name	632	Cairns, S.D.	1985	NULL	W-Hyd-23825
+Reference without parent accepted or common name	633	Swarczewsky, B.	1923	NULL	W-Hyd-172750
+Reference without parent accepted or common name	644	Yamada, M., K. Konno & S. Kubota,	1977	NULL	W-Hyd-27000
+Reference without parent accepted or common name	647	Pugh, P. R., and Pagès, F.	1997	NULL	W-Hyd-38026
+Reference without parent accepted or common name	649	Mapstone, G. M.	2004	NULL	W-Hyd-6891
+Reference without parent accepted or common name	651	Hayward, P.J.; Ryland, J.S.	1985	NULL	W-Hyd-1077
+Reference without parent accepted or common name	652	El Beshbeeshy, M.,	1995	NULL	W-Hyd-38049
+Reference without parent accepted or common name	658	Thiel, M.E.,	1938	NULL	W-Hyd-26665
+Reference without parent accepted or common name	659	Broch, H.,	1948	NULL	W-Hyd-23748
+Reference without parent accepted or common name	662	Leloup, E.,	1930	NULL	W-Hyd-25265
+Reference without parent accepted or common name	666	Chapman, F.,	1931	NULL	W-Hyd-28611
+Reference without parent accepted or common name	670	Daniel, A.; Daniel, R.	1964	NULL	W-Hyd-172676
+Reference without parent accepted or common name	673	Schulz, E.	1950	NULL	W-Hyd-26367
+Reference without parent accepted or common name	682	Millard, N. A. H.	1958	NULL	W-Hyd-25626
+Reference without parent accepted or common name	686	Warren, E.	1919	NULL	W-Hyd-27641
+Reference without parent accepted or common name	690	Alcazar, J. L.	1982	NULL	W-Hyd-164844
+Reference without parent accepted or common name	695	Uchida, T.,	1976	NULL	W-Hyd-26728
+Reference without parent accepted or common name	697	Andersen, O. G. N.	1981	NULL	W-Hyd-6877
+Reference without parent accepted or common name	698	Stechow, E.	1921	NULL	W-Hyd-26513
+Reference without parent accepted or common name	701	Ehrenberg, C. G.	1838	NULL	W-Hyd-35882
+Reference without parent accepted or common name	703	He, Z.; Xu, R.	1982	NULL	W-Hyd-34362
+Reference without parent accepted or common name	706	McCrady, J.,	1857	NULL	W-Hyd-34840
+Reference without parent accepted or common name	715	Omer-Cooper, J.,	1964	NULL	W-Hyd-30950
+Reference without parent accepted or common name	717	Gosner, K.L.	1971	NULL	W-Hyd-2964
+Reference without parent accepted or common name	728	Forrest, H.,	1963	NULL	W-Hyd-24220
+Reference without parent accepted or common name	731	Salvini-Plawen, L. von	1966	NULL	W-Hyd-26281
+Reference without parent accepted or common name	733	Russell, F. S.	1938	NULL	W-Hyd-164495
+Reference without parent accepted or common name	735	Schmidt, H.E.,	1972	NULL	W-Hyd-26344
+Reference without parent accepted or common name	736	Daniel, A.; Daniel, R.	1963	NULL	W-Hyd-164483
+Reference without parent accepted or common name	740	Agassiz, A.	1865	NULL	W-Hyd-172607
+Reference without parent accepted or common name	741	Millard, N.A.H.; Bouillon, J.	1975	NULL	W-Hyd-25646
+Reference without parent accepted or common name	742	Gasca, R.; Calder, D. R.	1993	NULL	W-Hyd-32433
+Reference without parent accepted or common name	751	Picard, J.,	1958	NULL	W-Hyd-10020
+Reference without parent accepted or common name	760	Hosia, A.; Bamstedt, U.	2008	NULL	W-Hyd-153683
+Reference without parent accepted or common name	762	Paltschikowa-Ostroumowa, M.W.,	1925	NULL	W-Hyd-25929
+Reference without parent accepted or common name	764	Verrill, A.E.,	1885	NULL	W-Hyd-37270
+Reference without parent accepted or common name	765	Hyman, L.H.,	1947	NULL	W-Hyd-24627
+Reference without parent accepted or common name	767	Van Beneden, P. J. 	1844c	NULL	W-Hyd-37239
+Reference without parent accepted or common name	775	Veron, J. E. N.; Pichon, M.	1976	NULL	W-Hyd-5912
+Reference without parent accepted or common name	778	Dunn, C. W.; Pugh, P. R.; Haddock, S. H. D.	2005	NULL	W-Hyd-38956
+Reference without parent accepted or common name	779	Bedot, M.	1916	NULL	W-Hyd-23267
+Reference without parent accepted or common name	787	Perrier, E.	1886	NULL	W-Hyd-160728
+Reference without parent accepted or common name	790	Stepanjants, S.D., O.A. Timoshkin, B.A. Anokhin & T.O. Napara,	2000	NULL	W-Hyd-37674
+Reference without parent accepted or common name	794	Opinion 1465	1988	NULL	W-Hyd-190338
+Reference without parent accepted or common name	796	Mills, C.E.,	2000	NULL	W-Hyd-37660
+Reference without parent accepted or common name	797	Bouillon, J.,	1978	NULL	W-Hyd-23597
+Reference without parent accepted or common name	802	Khalil, M.T. & N.S.A. El Rahman	1997	NULL	W-Hyd-6379
+Reference without parent accepted or common name	805	Buss, L.W. & P.O. Yund,	1989	NULL	W-Hyd-23812
+Reference without parent accepted or common name	809	Naumov, D. V.	1971	NULL	W-Hyd-25827
+Reference without parent accepted or common name	819	Hand, C., Kan Lai Bing ,	1961	NULL	W-Hyd-24453
+Reference without parent accepted or common name	828	Alvariño, A., Wojtan, J. M., and Martinez, M. R.	1990	NULL	W-Hyd-164968
+Reference without parent accepted or common name	831	Anokhin, B.	2002	NULL	W-Hyd-38178
+Reference without parent accepted or common name	832	Pugh, P. R., and Youngbluth, M. J.	1988	NULL	W-Hyd-164281
+Reference without parent accepted or common name	836	Naumov, D.V.,	1956	NULL	W-Hyd-37560
+Reference without parent accepted or common name	837	Leloup, E.	1933	NULL	W-Hyd-164484
+Reference without parent accepted or common name	840	Alvariño, A.	1967	NULL	W-Hyd-164876
+Reference without parent accepted or common name	847	Pugh, P. R., and Pagès, F.	1993	NULL	W-Hyd-6909
+Reference without parent accepted or common name	849	Pugh, P. R.	1995	NULL	W-Hyd-164292
+Reference without parent accepted or common name	852	Mackie, G. O., Pugh, P.R., and Purcell, J. E.	1987	NULL	W-Hyd-6889
+Reference without parent accepted or common name	855	Harris, V.A.,	1990	NULL	W-Hyd-24464
+Reference without parent accepted or common name	856	Carré, C.	1969	NULL	W-Hyd-164312
+Reference without parent accepted or common name	858	Miranda, T. P., Ferreira-Cunha, A. & Marques, A. C.	2013	NULL	W-Hyd-172917
+Reference without parent accepted or common name	861	Xu, Z. Z., & Zhang, J.-B.	1978	NULL	W-Hyd-149654
+Reference without parent accepted or common name	862	Beardsley, A.	1904	NULL	W-Hyd-35442
+Reference without parent accepted or common name	864	Agassiz, L.	1851	NULL	W-Hyd-35084
+Reference without parent accepted or common name	866	Mark, E.L.,	1898	NULL	W-Hyd-34758
+Reference without parent accepted or common name	868	Edwards, C.,	1972	NULL	W-Hyd-24158
+Reference without parent accepted or common name	884	Yamadaay, M. B.; Facci, J. S.	1950	NULL	W-Hyd-32210
+Reference without parent accepted or common name	891	Jordaan, J.,	1934	NULL	W-Hyd-29854
+Reference without parent accepted or common name	895	Chun, C.	1886	NULL	W-Hyd-38181
+Reference without parent accepted or common name	903	Griffin, L.E. & D.C. Peters,	1939	NULL	W-Hyd-29405
+Reference without parent accepted or common name	911	Carré, D.	1968	NULL	W-Hyd-164873
+Reference without parent accepted or common name	915	Kawamura, T.	1954	NULL	W-Hyd-38198
+Reference without parent accepted or common name	928	Van Breemen, P.J.,	1905	NULL	W-Hyd-37245
+Reference without parent accepted or common name	930	Lindsay, D.	2008	NULL	W-Hyd-133386
+Reference without parent accepted or common name	931	Mills, C. E.	1985	NULL	W-Hyd-25672
+Reference without parent accepted or common name	933	Schuchert, P.	2005	NULL	W-Hyd-9262
+Reference without parent accepted or common name	934	Ralph, P. M.	1953	NULL	W-Hyd-26076
+Reference without parent accepted or common name	940	Claus, C.	1874	NULL	W-Hyd-164384
+Reference without parent accepted or common name	943	Dhora, DH.	2008	NULL	W-Hyd-151643
+Reference without parent accepted or common name	944	Rees, W.J.,	1956	NULL	W-Hyd-26150
+Reference without parent accepted or common name	950	Bigelow, H. B., and Sears, M.	1937	NULL	W-Hyd-164478
+Reference without parent accepted or common name	953	Kawamura, Z. M.	1911	NULL	W-Hyd-165042
+Reference without parent accepted or common name	959	NODC	1997	NULL	W-Hyd-5996
+Reference without parent accepted or common name	960	Peña, C.; A L P Vervoort W	2005	NULL	W-Hyd-38711
+Reference without parent accepted or common name	961	Pubbl, S.	1965	NULL	W-Hyd-26319
+Reference without parent accepted or common name	962	Jungersen, H.F.E.,	1913	NULL	W-Hyd-24696
+Reference without parent accepted or common name	963	Totton, A. K.	1932	NULL	W-Hyd-6929
+Reference without parent accepted or common name	967	Russell, F.S.,	1970	NULL	W-Hyd-26268
+Reference without parent accepted or common name	974	Biggs, D. C.; Pugh, P. R.; Carré, C.	1978	NULL	W-Hyd-164275
+Reference without parent accepted or common name	978	Vervoort, W.	1966	NULL	W-Hyd-26800
+Reference without parent accepted or common name	979	De Quatrefages, A.	1842	NULL	W-Hyd-35785
+Reference without parent accepted or common name	980	Mills, C. E.; Pugh, P. R.; Harbison, G. R.; Haddock S H D S Piraino; Boero, F.; Bouillon, J.; Cornelius, P. F. S.; Gili, J. M.	1996	NULL	W-Hyd-27464
+Reference without parent accepted or common name	981	Bedot, M.	1904	NULL	W-Hyd-164321
+Reference without parent accepted or common name	986	Broch, H.,	1916	NULL	W-Hyd-23737
+Reference without parent accepted or common name	989	Mapstone, G.M., Pugh P.R,	2004	NULL	W-Hyd-38771
+Reference without parent accepted or common name	997	Von Lendenfeld, R.,	1884	NULL	W-Hyd-37297
+Reference without parent accepted or common name	998	Campbell, R. D.	1999	NULL	W-Hyd-34300
+Reference without parent accepted or common name	1005	Vargas-Hernández, J. M.; Ochoa-Figueroa, E.	1991	NULL	W-Hyd-32926
+Reference without parent accepted or common name	1007	Daniel, R.	1971	NULL	W-Hyd-164344
+Reference without parent accepted or common name	1009	Chow, T. H.; Huang, M. C.; Zool, S.	1958	NULL	W-Hyd-28646
+Reference without parent accepted or common name	1010	Boero, F., J. Bouillon & C. Gravili,	1991	NULL	W-Hyd-23488
+Reference without parent accepted or common name	1012	Cornelius, P.F.S.,	1975	NULL	W-Hyd-23975
+Reference without parent accepted or common name	1015	Cornelius, P.F.S.	1995	NULL	W-Hyd-812
+Reference without parent accepted or common name	1016	Bromley and Bleakney,	1977	NULL	W-Hyd-2927
+Reference without parent accepted or common name	1018	Galea, H. R.	2006	NULL	W-Hyd-149276
+Reference without parent accepted or common name	1023	Gibbons, M.J., Thibault Botha, D.,	2002	NULL	W-Hyd-38430
+Reference without parent accepted or common name	1025	Rees	1941	NULL	W-Hyd-10023
+Reference without parent accepted or common name	1026	Widmer, C. L.	2007	NULL	W-Hyd-153635
+Reference without parent accepted or common name	1032	Pugh, P.R. & Baxter, E.J.	2014	NULL	W-Hyd-194969
+Reference without parent accepted or common name	1040	Dunn, C. W.	2005	NULL	W-Hyd-6883
+Reference without parent accepted or common name	1045	Collins, J. S. H.; Ross, A. J.; Genzano, G.; Mianzan, H. 2.	1980	NULL	W-Hyd-130484
+Reference without parent accepted or common name	1046	Bedot, M.	1916	NULL	W-Hyd-23268
+Reference without parent accepted or common name	1050	Zelickman, E.A.,	1972	NULL	W-Hyd-27049
+Reference without parent accepted or common name	1051	Iwasa, M.,	1934	NULL	W-Hyd-24642
+Reference without parent accepted or common name	1055	Boero, F.; Bouillon, J.	1993	NULL	W-Hyd-24985
+Reference without parent accepted or common name	1056	Picard, J.,	1957	NULL	W-Hyd-26016
+Reference without parent accepted or common name	1061	Massin, C.; Norro, A.; Mallefet, J.	2002	NULL	W-Hyd-1187
+Reference without parent accepted or common name	1062	Pallas, P.S.	1776	NULL	W-Hyd-22126
+Reference without parent accepted or common name	1065	Maxwell, T.R.A.,	1970	NULL	W-Hyd-25592
+Reference without parent accepted or common name	1069	Pugh, P. R.	1992	NULL	W-Hyd-6900
+Reference without parent accepted or common name	1072	Korotneff, A.	1884	NULL	W-Hyd-164896
+Reference without parent accepted or common name	1081	Müller, O.F.,	1861	NULL	W-Hyd-37557
+Reference without parent accepted or common name	1082	Jarvis, F.E.,	1922	NULL	W-Hyd-24659
+Reference without parent accepted or common name	1083	Cairns, S. D.	1987	NULL	W-Hyd-59283
+Reference without parent accepted or common name	1084	Matjasic, J.; Sket, B.	1971	NULL	W-Hyd-30610
+Reference without parent accepted or common name	1085	Hincks, Th.,	1855	NULL	W-Hyd-36266
+Reference without parent accepted or common name	1088	Cairns, S.D.,	1991	NULL	W-Hyd-23832
+Reference without parent accepted or common name	1095	Leloup, E.,	1971	NULL	W-Hyd-25306
+Reference without parent accepted or common name	1099	Boschma, H.	1949	NULL	W-Hyd-23514
+Reference without parent accepted or common name	1101	Puce, Cerrano, Di Camillo, Bavestrello & Marques.	2006	NULL	W-Hyd-129236
+Reference without parent accepted or common name	1105	Medel (Soteras), M D., J.C. García-Gómez & J. Bouillon,	1993	NULL	W-Hyd-27215
+Reference without parent accepted or common name	1113	Picard, J.	1952	NULL	W-Hyd-26007
+Reference without parent accepted or common name	1114	Greeff, R.	1870	NULL	W-Hyd-36086
+Reference without parent accepted or common name	1115	Pugh, P. R.	1989	NULL	W-Hyd-164284
+Reference without parent accepted or common name	1117	Bakker, C.	1980	NULL	W-Hyd-75897
+Reference without parent accepted or common name	1122	Chun, C.	1885	NULL	W-Hyd-6943
+Reference without parent accepted or common name	1123	Mills, C.E. & J.T. Rees,	1979	NULL	W-Hyd-25678
+Reference without parent accepted or common name	1125	Allman, G. J.	1876	NULL	W-Hyd-35353
+Reference without parent accepted or common name	1129	Totton, A. K.	1955	NULL	W-Hyd-164899
+Reference without parent accepted or common name	1131	Schneider, K. C.	1898	NULL	W-Hyd-35024
+Reference without parent accepted or common name	1132	Yamada, M.	1964	NULL	W-Hyd-26995
+Reference without parent accepted or common name	1136	Fraser, C. M.	1914	NULL	W-Hyd-29167
+Reference without parent accepted or common name	1138	Nogeira, M. jr.	2012	NULL	W-Hyd-166436
+Reference without parent accepted or common name	1146	Fautin, Daphne G.	2013	NULL	W-Hyd-494
+Reference without parent accepted or common name	1147	Mapstone, G. M.; Ljubenkov, J. C.	2013	NULL	W-Hyd-164315
+Reference without parent accepted or common name	1150	Fleming, J.	1828	NULL	W-Hyd-7476
+Reference without parent accepted or common name	1154	Grossmann, M.M., Lindsay, D.J. & Collins, A.G.	2013	NULL	W-Hyd-172694
+Reference without parent accepted or common name	1157	Pugh, P. R.	1992	NULL	W-Hyd-6901
+Reference without parent accepted or common name	1161	Pugh, P. R.	1975	NULL	W-Hyd-164273
+Reference without parent accepted or common name	1166	Leloup, E.	1932	NULL	W-Hyd-1213
+Reference without parent accepted or common name	1167	Watson, J.E.,	1980	NULL	W-Hyd-26844
+Reference without parent accepted or common name	1178	Pieper, F.W.,	1884	NULL	W-Hyd-34701
+Reference without parent accepted or common name	1179	Meinkoth, N.A.	1981	NULL	W-Hyd-3017
+Reference without parent accepted or common name	1180	Petersen, K. W.; Hydrozoa, I. G. L.; Rosen, B.	1979	NULL	W-Hyd-25988
+Reference without parent accepted or common name	1185	Milne Edwards H, Haime J	1849	NULL	W-Hyd-176544
+Reference without parent accepted or common name	1190	Cornelius, P.F.S.	2001	NULL	W-Hyd-1351
+Reference without parent accepted or common name	1191	Hincks, Th.,	1874	NULL	W-Hyd-34501
+Reference without parent accepted or common name	1198	Downing, E. R.	1905	NULL	W-Hyd-35829
+Reference without parent accepted or common name	1201	Verrill, A.E.,	1879	NULL	W-Hyd-37269
+Reference without parent accepted or common name	1206	Mayer A.G. 	1904	NULL	W-Hyd-35062
+Reference without parent accepted or common name	1216	Galea, H. R., Haussermann, V., & Forsterra, G.	2009	NULL	W-Hyd-149105
+Reference without parent accepted or common name	1217	Lindner, A., Cairns S.D., Guzman .M.,	2004	NULL	W-Hyd-38643
+Reference without parent accepted or common name	1218	Uchida, T.; Uchida, S.; Japan, P. I. A.	1929	NULL	W-Hyd-26741
+Reference without parent accepted or common name	1220	Boero, F. & J. Bouillon,	1993	NULL	W-Hyd-10021
+Reference without parent accepted or common name	1224	Zibrowius, H.	1981	NULL	W-Hyd-121428
+Reference without parent accepted or common name	1228	Macgillivray, J.	1842	NULL	W-Hyd-36636
+Reference without parent accepted or common name	1229	Cairns, S. D.; Barnard, J. L.	1984	NULL	W-Hyd-11258
+Reference without parent accepted or common name	1236	Briggs, E.A.,	1918	NULL	W-Hyd-23701
+Reference without parent accepted or common name	1237	Boulenger, C.L.,	1908	NULL	W-Hyd-34670
+Reference without parent accepted or common name	1242	Kawamura, T.	1915	NULL	W-Hyd-164857
+Reference without parent accepted or common name	1244	Millard, N.A.H.,	1955	NULL	W-Hyd-25624
+Reference without parent accepted or common name	1251	Billard, A.	1926	NULL	W-Hyd-23383
+Reference without parent accepted or common name	1254	Kalk, M.	1959	NULL	W-Hyd-6263
+Reference without parent accepted or common name	1258	Woltereck, R.,	1905	NULL	W-Hyd-34790
+Reference without parent accepted or common name	1261	Von Kennel, J. ,	1891	NULL	W-Hyd-34936
+Reference without parent accepted or common name	1263	Billard, A.	1922	NULL	W-Hyd-1657
+Reference without parent accepted or common name	1266	Zou, K.I.,	1978	NULL	W-Hyd-33061
+Reference without parent accepted or common name	1269	Watson, J.E.,	2003	NULL	W-Hyd-38448
+Reference without parent accepted or common name	1275	Eneman, E.	1984	NULL	W-Hyd-755
+Reference without parent accepted or common name	1279	Gamulin, T. & F. Krsinic´,	2000	NULL	W-Hyd-37644
+Reference without parent accepted or common name	1283	Calder, D.	2012	NULL	W-Hyd-162564
+Reference without parent accepted or common name	1285	Shidlovskii, A.,	1902	NULL	W-Hyd-34999
+Reference without parent accepted or common name	1288	Bouillon, J.,	1995	NULL	W-Hyd-25112
+Reference without parent accepted or common name	1289	Arai, M. N.; Brinckmann-voss, A.	1983	NULL	W-Hyd-23191
+Reference without parent accepted or common name	1290	Warren, E.	1916	NULL	W-Hyd-26832
+Reference without parent accepted or common name	1295	Linnaeusammalia, C. M.; Avesmphibia, A.; Piscesnsecta, I.; Vermes	1761	NULL	W-Hyd-174
+Reference without parent accepted or common name	1299	Sirenko B.I.	2001	NULL	W-Hyd-20289
+Reference without parent accepted or common name	1300	Carré, C.,	1968	NULL	W-Hyd-38193
+Reference without parent accepted or common name	1305	Uchida, T. & Y. Sugiura,	1976	NULL	W-Hyd-26738
+Reference without parent accepted or common name	1306	Boero, F. & C. Hewitt,	1992	NULL	W-Hyd-23492
+Reference without parent accepted or common name	1308	Stechow, E.,	1926	NULL	W-Hyd-26523
+Reference without parent accepted or common name	1311	Petersen	1990	NULL	W-Hyd-10018
+Reference without parent accepted or common name	1317	Keller, C.	1883	NULL	W-Hyd-34638
+Reference without parent accepted or common name	1321	Peña Cantero, A.L. & W. Vervoort	1998	NULL	W-Hyd-34120
+Reference without parent accepted or common name	1324	Kinne, O.,	1956	NULL	W-Hyd-24751
+Reference without parent accepted or common name	1330	Bouillon, J.; Medel, D.; Peña Cantero, A.L.	1997	NULL	W-Hyd-1680
+Reference without parent accepted or common name	1335	Silveira, F. L.; Esteves, A. M.	1992	NULL	W-Hyd-32368
+Reference without parent accepted or common name	1337	Marques, A.C. & A.E. Migotto,	1998	NULL	W-Hyd-34183
+Reference without parent accepted or common name	1339	Brinckmann-Voss, Arai & Nagasawa.	2005	NULL	W-Hyd-128172
+Reference without parent accepted or common name	1346	Lesson, R.P.,	1830	NULL	W-Hyd-36522
+Reference without parent accepted or common name	1348	Ritchie, J.,	1912	NULL	W-Hyd-31352
+Reference without parent accepted or common name	1357	Günther, R.T.,	1893	NULL	W-Hyd-34864
+Reference without parent accepted or common name	1359	Rees, J.T. & L.-A. Gershwin ,	2000	NULL	W-Hyd-37658
+Reference without parent accepted or common name	1361	Brinckmann-Voss, A.; Lickey, D. M.; Mills, C. E.	1993	NULL	W-Hyd-25000
+Reference without parent accepted or common name	1366	Woelkerling, W.J.	1988	NULL	W-Hyd-170132
+Reference without parent accepted or common name	1370	Pagès, F. &  J.M. Gili,	1992	NULL	W-Hyd-27184
+Reference without parent accepted or common name	1371	Zhang, J. and Lin, M.	1991	NULL	W-Hyd-164874
+Reference without parent accepted or common name	1381	Billard, A.,	1925	NULL	W-Hyd-23380
+Reference without parent accepted or common name	1384	Bedot, M.	1893	NULL	W-Hyd-164977
+Reference without parent accepted or common name	1390	Daniel, R.	1966	NULL	W-Hyd-6938
+Reference without parent accepted or common name	1391	Margulis, R.Ya.,	1989	NULL	W-Hyd-25553
+Reference without parent accepted or common name	1409	Savilov, A. I.; Ch; Eys	1961	NULL	W-Hyd-31524
+Reference without parent accepted or common name	1410	Rossi, S., Youngbluth, M. J., Jacoby, C. A., Pages, F., & Garrofe, X.	2008	NULL	W-Hyd-153739
+Reference without parent accepted or common name	1420	Mills, C. E.; Rees, J. T.; Hand, C.	1976	NULL	W-Hyd-25679
+Reference without parent accepted or common name	1421	Dana, J. W.	1859	NULL	W-Hyd-164900
+Reference without parent accepted or common name	1427	Kawamura, M., & Kubota, S.	2005	NULL	W-Hyd-128710
+Reference without parent accepted or common name	1438	Bleeker, J.; van der Spoel, S.	1988	NULL	W-Hyd-23452
+Reference without parent accepted or common name	1444	Dawydoff, C.N.,	1930	NULL	W-Hyd-28833
+Reference without parent accepted or common name	1446	Nutting, C.C.,	1898	NULL	W-Hyd-34690
+Reference without parent accepted or common name	1449	Bouillon, J.,	1974	NULL	W-Hyd-23592
+Reference without parent accepted or common name	1452	Peña Cantero, A.L. & W. Vervoort	1996	NULL	W-Hyd-27657
+Reference without parent accepted or common name	1456	Cantero, A.L.P., A. Svoboda & W. Vervoort,	1999	NULL	W-Hyd-34349
+Reference without parent accepted or common name	1457	Fewkes, J.W.,	1883	NULL	W-Hyd-34604
+Reference without parent accepted or common name	1461	Rees, W. J.	1936	NULL	W-Hyd-26137
+Reference without parent accepted or common name	1466	Pictet, C. & M. Bedot,	1900	NULL	W-Hyd-34698
+Reference without parent accepted or common name	1468	Itô, T.,	1947	NULL	W-Hyd-29775
+Reference without parent accepted or common name	1470	Pugh, P. R.	2002	NULL	W-Hyd-38242
+Reference without parent accepted or common name	1477	Rowan, W.	1930	NULL	W-Hyd-31409
+Reference without parent accepted or common name	1478	Fenyuk, V.,	1947	NULL	W-Hyd-29108
+Reference without parent accepted or common name	1480	Rees	1957	NULL	W-Hyd-10024
+Reference without parent accepted or common name	1497	Margulis, R. Ya.	1993	NULL	W-Hyd-164954
+Reference without parent accepted or common name	1503	Clarke, A.; Johnston, N.M	2003	NULL	W-Hyd-4179
+Reference without parent accepted or common name	1504	Kirkpatrick, P.A.; Pugh, P.R.	1984	NULL	W-Hyd-1623
+Reference without parent accepted or common name	1506	Bedot, M.	1912	NULL	W-Hyd-23263
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+CREATE TEMPORARY TABLE duplicates_to_delete AS SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
+(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
+(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+FROM scientific_names
+GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
+LEFT JOIN scientific_names sn
+ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_names USING scientific_names INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
+--------------
+
+--------------
+DELETE FROM common_names WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_names WHERE is_accepted_name != 1 AND accepted_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_names WHERE infraspecies_parent_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+--------------
+
+--------------
+DELETE QUICK FROM lifezone WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+OPTIMIZE TABLE lifezone
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Hydrozoa.lifezone	optimize	status	OK
+--------------
+DELETE QUICK FROM distribution WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+OPTIMIZE TABLE distribution
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Hydrozoa.distribution	optimize	status	OK
+--------------
+DELETE QUICK FROM scientific_names WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+--------------
+
+--------------
+OPTIMIZE TABLE scientific_names
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Hydrozoa.scientific_names	optimize	status	OK
+--------------
+DELETE QUICK FROM scientific_name_references WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_name_references WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+--------------
+
+--------------
+OPTIMIZE TABLE scientific_name_references
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Hydrozoa.scientific_name_references	optimize	status	OK
+--------------
+DELETE FROM specialists WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+--------------
+
+--------------
+DELETE QUICK FROM `references` WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
+UNION SELECT DISTINCT reference_code FROM common_names)
+--------------
+
+--------------
+OPTIMIZE TABLE `references`
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Hydrozoa.references	optimize	status	OK
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+CREATE TRIGGER delfamcascade AFTER DELETE ON `families`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `scientific_names` WHERE family_code = old.family_code;
+
+END;
+
+CREATE TRIGGER delspcascade AFTER DELETE ON `scientific_names`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+DELETE FROM `distribution` WHERE name_code = old.name_code;
+DELETE FROM `lifezone` WHERE name_code = old.name_code;
+DELETE FROM `scientific_name_references` WHERE name_code = old.name_code;
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+
+END;
+
+CREATE TRIGGER delrefscascade AFTER DELETE ON `scientific_name_references`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `references` WHERE reference_code = old.reference_code;
+
+END;
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+</pre>
+<pre>
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+\nEditorial and Integrity checks Completed.
+</pre>
+</pre><hr><b>Replacing sectors in Assembly Global database</b>\n<pre>
+<pre>
+Starting Sector Management
+--------------
+SET @dbid = 112
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+DELETE FROM ",
+@dbtouse,
+".`databases` WHERE `record_id` = @dbid")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`families` SELECT 
+NULL AS `record_id`,
+`hierarchy_code`,	
+`kingdom`,	
+`phylum`,	
+`class`,	
+`order`,	
+`family`,	
+`superfamily`, 	
+`database_id`, 	
+`family_code`,
+`is_accepted_name`
+FROM  `families`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`databases` SELECT 
+`database_name_displayed`, 
+`record_id`, 
+`database_name`, 
+`database_full_name`, 
+`web_site`, 
+`organization`, 
+`contact_person`, 
+`taxa`, 
+`taxonomic_coverage`, 
+`abstract`, 
+`version`, 
+`release_date`, 
+`SpeciesCount`, 
+`SpeciesEst`, 
+`authors_editors`, 
+`accepted_species_names`, 
+`accepted_infraspecies_names`, 
+`species_synonyms`, 
+`infraspecies_synonyms`, 
+`common_names`, 
+`total_names`, 
+`is_new`,
+`coverage`,
+`completeness`,
+`confidence`
+FROM `databases`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`scientific_names` 
+(`record_id`, `name_code`, `web_site`, `genus`, `subgenus`, `species`, `infraspecies_parent_name_code`, `infraspecies`, `infraspecies_marker`, `author`, `accepted_name_code`, `comment`, `scrutiny_date`, `sp2000_status_id`, `database_id`, `specialist_id`, `family_id`, `specialist_code`, `family_code`, `is_accepted_name`, `GSDTaxonGUID`, `GSDNameGUID`) SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`web_site`, 
+`genus`, 
+`subgenus`, 
+`species`, 
+`infraspecies_parent_name_code`, 
+`infraspecies`, 
+`infraspecies_marker`, 
+`author`, 
+`accepted_name_code`, 
+`comment`, 
+`scrutiny_date`, 
+`sp2000_status_id`, 
+`database_id`, 
+`specialist_id`, 
+`family_id`, 
+`specialist_code`, 
+`family_code`, 
+`is_accepted_name`, 
+`GSDTaxonGUID`, 
+`GSDNameGUID`
+FROM `scientific_names`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`common_names` SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`common_name`, 
+`transliteration`, 
+`language`, 
+`country`, 
+`area`, 
+NULL AS `reference_id`, 
+`database_id`, 
+`is_infraspecies`, 
+`reference_code`
+FROM  `common_names`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`distribution` SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`distribution`, 
+`StandardInUse`, 
+`DistributionStatus`,
+`database_id`
+FROM  `distribution`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`lifezone` SELECT 
+NULL AS `record_id`,
+`name_code`, 	
+`lifezone`,
+`database_id`
+FROM  `lifezone`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`scientific_name_references` SELECT 
+NULL AS `record_id`,
+`name_code`,	
+`reference_type`, 	
+NULL AS `reference_id`,	
+`reference_code`,
+`database_id`
+FROM  `scientific_name_references`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`references` SELECT 
+NULL AS `record_id`, 
+`author`, 
+`year`, 
+`title`, 
+`source`, 
+`database_id`, 
+`reference_code`
+FROM  `references`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`specialists` SELECT 
+NULL AS `record_id`,
+`specialist_name`,
+`specialist_code`,
+`database_id`
+FROM  `specialists`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+\nTransformations Completed.
+<pre>
+</pre><hr><b>Chain completed</b>
+</body></html>
