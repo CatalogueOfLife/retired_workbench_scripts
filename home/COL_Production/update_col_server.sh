@@ -2,18 +2,19 @@
 
 #######################################################
 # This script is for updating of CoL production servers
-# writen by Kwok Yin Cheung, edited by Viktoras Didziulis Jan 2013
+# writen by Kwok Yin Cheung, edited by Viktoras Didziulis
 #######################################################
 
 # Define all the constant variables
 # Change the variables' definitions here to configure this script
 # Note: Filename 'CoL_production.tar' is hard wired in this script
-WORKSPACE_DIR="/home/COL_Production/"
-DOWNLOAD_URL="http://salx9-vm9.rdg.ac.uk/download/CoL_production.tar"
+WORKSPACE_DIR="/home/COL_Test/"
+DOWNLOAD_URL="http://134.213.57.57/download/CoL_production.tar"
 DOWNLOAD_USERNAME="col"
 DOWNLOAD_PASSWORD="col"
 DB_USERNAME="root"
-DB_PASSWORD="fourdforl123"
+DB_PASSWORD="Fzn8EVPIGSUCOPJcgM5l"
+DCUPDATEPWD="^Guu&*^f___\\"  # DarwinCore Update password
 DEBUG=0
 
 # Give time at the beginning of this script
@@ -99,16 +100,22 @@ echo "Update start here"
 # Need to ask Viktor how to do this
 
 # code below to modify system variables in sysctl added by Viktor
-sysctl -p /etc/sysctl.conf.nopanic
+# may not be necessary for 
+#sysctl -p /etc/sysctl.conf.nopanic
 
 ##########################################################
 ##########################################################
 ##########################################################
+
+# Stop puppet
+# Note: Stopping puppet agent is needed otherwise the stop httpd part will conflict with the "ensure running" functionality of the puppet script.
+echo "Stopping Puppet"
+service puppet stop
 
 # Stop apache
-# Note: Here is apache2ctl, PLEASE CHECK is this the for the local server
+# Note: Here is apache2ctl, PLEASE CHECK is this the for the local server (may need to use service httpd stop instead)
 echo "Stopping Apache"
-/usr/sbin/apache2ctl -k stop
+# service httpd stop
 
 # Extract CoL_production.tar
 echo "Extracting CoL_production.tar"
@@ -117,20 +124,74 @@ tar -xvf CoL_production.tar
 # Change directory inside CoL_production
 cd CoL_production
 
+
+echo "Updating application.xml and databases directory"
+cp -f /var/www/new_col/application/configs/application.xml \
+	/var/www/new_col/application/configs/application.xml.bak
+rm -f /var/www/new_col/application/configs/application.xml
+mv application/configs/application.xml \
+	/var/www/new_col/application/configs/application.xml
+
+cp -rf /var/www/new_col/public/images \
+	/var/www/new_col/public/images_bak
+rm -rf /var/www/new_col/public/images
+mv public/images \
+	/var/www/new_col/public/images
+
+#cp -rf /var/www/new_col/public/images/databases \
+#	/var/www/new_col/public/images/databases_bak
+#rm -rf /var/www/new_col/public/images/databases
+#mv public/images/databases \
+#	/var/www/new_col/public/images/databases
+
+# Update info directory
+echo "Updating info directory"
+cp -rf /var/www/new_col/application/views/scripts/info \
+	/var/www/new_col/application/views/scripts/info_bak
+rm -rf /var/www/new_col/application/views/scripts/info
+mv application/views/scripts/info \
+	/var/www/new_col/application/views/scripts/info
+
+# Update application/data/languages directory
+echo "Updating languages directory"
+cp -rf /var/www/new_col/application/data/languages \
+	/var/www/new_col/application/data/languages_bak
+rm -rf /var/www/new_col/application/data/languages
+mv languages \
+	/var/www/new_col/application/data/languages
+
+# Update sitemaps
+echo "Updating sitemaps directory"
+rm -rf /var/www/new_col/public/sitemaps
+mv sitemaps \
+	/var/www/new_col/public/sitemaps
+
+# Update DCA emls
+echo "Updating DarwinCore Archive emls"
+rm /var/www/new_dca/templates/eml.tpl
+rm /var/www/new_dca/templates/meta_eml.tpl
+mv dca/eml.tpl \
+	/var/www/new_dca/templates/eml.tpl
+mv dca/meta_eml.tpl \
+	/var/www/new_dca/templates/meta_eml.tpl
+
+
+
 # Update mysql database
 echo "Updating mysql database"
 mysql -u$DB_USERNAME -p$DB_PASSWORD -e \
-'DROP DATABASE IF EXISTS COL_Production;
-CREATE DATABASE COL_Production CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE COL_Production;
+'DROP DATABASE IF EXISTS ac_latest_new;
+CREATE DATABASE ac_latest_new CHARACTER SET utf8 COLLATE utf8_general_ci;
+USE ac_latest_new;
 \. Assembly_Base_Schema.sql'
 
 # Change owner for all the files and directories
-chown -R www-data:www-data application public
+chown -R apache:apache application public
+chown -R root:root /var/www/new_col/public/sitemaps
 
 # Remove cache
 echo "Removing cache"
-rm -R /var/www/col/application/cache/*
+rm -rf /var/www/new_col/application/cache/
 
 # Update application.xml and databases directory
 # modified by Viktor: mv on Debian works only if target directory is not empty
@@ -138,30 +199,19 @@ rm -R /var/www/col/application/cache/*
 # and we are lucky if cp is not aliased to cp -i (like on Redhat), 
 # otherwise we would use \cp, \mv, \rm instead
 
-echo "Updating application.xml and databases directory"
-cp -f /var/www/col/application/configs/application.xml \
-	/var/www/col/application/configs/application.xml.bak
-rm -f /var/www/col/application/configs/application.xml
-mv application/configs/application.xml \
-	/var/www/col/application/configs/application.xml
 
-cp -rf /var/www/col/public/images/databases \
-	/var/www/col/public/images/databases_bak
-rm -rf /var/www/col/public/images/databases
-mv public/images/databases \
-	/var/www/col/public/images/databases
-
-# Update info directory
-echo "Updating info directory"
-cp -rf /var/www/col/application/views/scripts/info \
-	/var/www/col/application/views/scripts/info_bak
-rm -rf /var/www/col/application/views/scripts/info
-mv application/views/scripts/info \
-	/var/www/col/application/views/scripts/info
 
 # Start apache
 # Note: Here is apache2ctl, PLEASE CHECK is this the for the local server
-# echo "Starting Apache"
+echo "Starting Apache"
+# service httpd start
+
+# Start puppet
+echo "Starting Puppet"
+service puppet start
+
+
+
 # /usr/sbin/apache2ctl -k restart
 # commented out by Viktoras - we need to start apache not sooner then the update script is started
 # on the other server(s). This is to prevent 2 different versions of the COL appearing simultaneously
@@ -178,10 +228,13 @@ mv application/views/scripts/info \
 # Need to ask Viktor how to do this.
 
 # line below inserted by Viktor re-loads default system variables
-sysctl -p /etc/sysctl.conf
+#sysctl -p /etc/sysctl.conf
 ##########################################################
 ##########################################################
 ##########################################################
+
+# creating DarwinCore Archives after new release
+php /var/www/new_dca/monthly.php  -w $DCUPDATEPWD -d `date +%F`
 
 # Give time at the end of this script
 echo "update_col_server.sh ended: " `date`

@@ -9,7 +9,8 @@
 WORKSPACE="/home/COLWorkbench/tmp/CoL_production/"
 TESTCOL="/var/www/testcol/"
 TOPDIR="/home/COLWorkbench/tmp/"
-SITEMAPS="/var/www/ConversionTool/sitemaps"
+SITEMAPS="/var/www/ConversionTool/sitemaps/"
+DCA="/var/www/DCA_Export/"
 DOWNLOAD_DIR="/var/www/download/"
 DB_USERNAME="root"
 DB_PASSWORD="fourdforl123"
@@ -35,6 +36,10 @@ fi
 
 /bin/mkdir "$WORKSPACE"sitemaps
 
+/bin/mkdir "$WORKSPACE"dca
+
+/bin/mkdir "$WORKSPACE"languages
+
 /bin/mkdir "$WORKSPACE"application/configs
 
 # Copy files from testcol directory into WORKSPACE directory
@@ -47,8 +52,18 @@ fi
 /bin/cp -p "$TESTCOL"application/configs/application.xml \
 	"$WORKSPACE"application/configs
 
-/bin/cp -p "$SITEMAPS"/* \
+/bin/cp -p "$SITEMAPS"* \
 	"$WORKSPACE"sitemaps
+
+/bin/cp -p "$DCA"templates/eml.tpl \
+	"$WORKSPACE"dca
+
+/bin/cp -p "$DCA"templates/meta_eml.tpl \
+	"$WORKSPACE"dca
+
+/bin/cp -p -R "$TESTCOL"application/data/languages/* \
+	"$WORKSPACE"languages
+
 
 # Edit application.xml file
 /bin/sed -i "s/testcol/col/g" "$WORKSPACE"application/configs/application.xml
