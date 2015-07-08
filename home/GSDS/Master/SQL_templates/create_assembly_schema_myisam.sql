@@ -94,6 +94,7 @@ CREATE TABLE  `scientific_names` (
   KEY `family_id` (`family_id`),
   KEY `species` (`species`),
   KEY `infraspecies` (`infraspecies`),
+  KEY `specialist_code` (`specialist_code`),
   KEY `accepted_name_code` (`accepted_name_code`),
   KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
   KEY `name_code1` (`name_code`,`family_id`),
@@ -101,7 +102,10 @@ CREATE TABLE  `scientific_names` (
   KEY `genus` (`genus`,`species`,`infraspecies`),
   KEY `sp2000_status_id` (`sp2000_status_id`),
   KEY `sp2000_status_id_2` (`sp2000_status_id`,`database_id`,`infraspecies`)
-) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin;;
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin;
+
+
+
 
 DROP TABLE IF EXISTS `common_names`;
 CREATE TABLE  `common_names` (
@@ -118,6 +122,7 @@ CREATE TABLE  `common_names` (
   `reference_code` varchar(50) DEFAULT NULL,
   PRIMARY KEY (`record_id`),
   KEY `common_name` (`common_name`),
+  KEY `reference_code` (`reference_code`),
   KEY `name_code` (`name_code`)
 ) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin;;
 
@@ -136,7 +141,7 @@ CREATE TABLE  `distribution` (
   PRIMARY KEY (`record_id`),
   KEY `name_code` (`name_code`),
   KEY `database_id` (`database_id`)
-) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin;;
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin;
 
 DROP TABLE IF EXISTS `lifezone`;
 CREATE TABLE  `lifezone` (
@@ -159,8 +164,9 @@ CREATE TABLE  `scientific_name_references` (
   `database_id` int(10) NOT NULL,
   PRIMARY KEY (`record_id`),
   KEY `name_code` (`name_code`,`reference_id`,`reference_type`),
+  KEY `reference_code` (`reference_code`),
   KEY `name_code_2` (`name_code`,`reference_type`)
-) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin;;
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin;
 
 DROP TABLE IF EXISTS `references`;
 CREATE TABLE  `references` (
@@ -171,8 +177,9 @@ CREATE TABLE  `references` (
   `source` longtext,
   `database_id` int(10) NOT NULL,
   `reference_code` varchar(50) DEFAULT NULL,
-  PRIMARY KEY (`record_id`)
-) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin;;
+  PRIMARY KEY (`record_id`),
+  KEY `reference_code` (`reference_code`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin;
 
 
 DROP TABLE IF EXISTS `specialists`;
@@ -181,8 +188,9 @@ CREATE TABLE  `specialists` (
   `specialist_name` varchar(255) NOT NULL DEFAULT '',
   `specialist_code` varchar(50) DEFAULT NULL,
   `database_id` int(10) NOT NULL,
-  PRIMARY KEY (`record_id`)
-) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin;;
+  PRIMARY KEY (`record_id`),
+  KEY `specialist_code` (`specialist_code`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin;
 
 
 INSERT INTO `sp2000_statuses` 

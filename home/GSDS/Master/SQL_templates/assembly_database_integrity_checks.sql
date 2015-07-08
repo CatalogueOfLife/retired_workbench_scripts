@@ -19,8 +19,22 @@ ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.auth
 SELECT 'Common name without parent accepted name', record_id, common_name, name_code FROM common_names
 WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names);
 
-
-CREATE TEMPORARY TABLE scientific_names_tmp AS SELECT * FROM scientific_names;
+/* Ruud: problem with tmp table was the lack of indices; added these from original table description */
+CREATE TEMPORARY TABLE scientific_names_tmp 
+(PRIMARY KEY (`record_id`,`name_code`),
+  KEY `database_id` (`database_id`),
+  KEY `family_id` (`family_id`),
+  KEY `species` (`species`),
+  KEY `infraspecies` (`infraspecies`),
+  KEY `specialist_code` (`specialist_code`),
+  KEY `accepted_name_code` (`accepted_name_code`),
+  KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
+  KEY `name_code1` (`name_code`,`family_id`),
+  KEY `record_id` (`record_id`,`family_id`),
+  KEY `genus` (`genus`,`species`,`infraspecies`),
+  KEY `sp2000_status_id` (`sp2000_status_id`),
+  KEY `sp2000_status_id_2` (`sp2000_status_id`,`database_id`,`infraspecies`))
+SELECT * FROM scientific_names;
 
 /*check if there are synonyms without parent accepted_name SLOW!!! 40 min for lepindex*/
 /* SELECT 'Synonym without parent accepted name', record_id, name_code, genus, species, infraspecies, accepted_name_code FROM scientific_names
