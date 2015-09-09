@@ -1,6 +1,8 @@
 <html><body>
-<br><b>Harvesting...</b>\n<pre>
-</pre><hr><b>File format conversions...</b>\n<pre>
+<br><b>Harvesting...</b>
+<pre>
+</pre><hr><b>File format conversions...</b>
+<pre>
 Unzipping
 Archive:  WoRMS_Phoronida.zip
   inflating: AcceptedSpecies.txt     
@@ -12,9 +14,11 @@ Archive:  WoRMS_Phoronida.zip
   inflating: NameReferencesLinks.txt  
   inflating: SourceDatabase.txt      
 Skipping format conversion
-</pre><hr><b>Creating buffer database, performing structural transformations...</b>\n<pre>
+</pre><hr><b>Creating buffer database, performing structural transformations...</b>
 <pre>
-Initiating buffer creation - this may take a while depending on size of the dataset...\n
+<pre>
+Initiating buffer creation - this may take a while depending on size of the dataset...
+
 Creating buffer database Buffer_Phoronida in schema as provided by Phoronida
 --------------
 DROP DATABASE IF EXISTS Buffer_Phoronida
@@ -192,8 +196,15 @@ LOAD DATA LOCAL INFILE 'Synonyms.txt' INTO TABLE `Synonyms` CHARACTER SET utf8 F
 (`ID`, `AcceptedTaxonID`, `Genus`, `SubGenusName`, `Species`, `AuthorString`, `InfraSpecies`, `InfraSpecificMarker`, `InfraSpecificAuthorString`, `GSDNameStatus`, `Sp2000NameStatus`, `GSDNameGUI`)
 --------------
 
-\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
 Initial database created. Creating database Assembly_Phoronida in assembly schema
 --------------
 DROP DATABASE IF EXISTS Assembly_Phoronida
@@ -307,11 +318,15 @@ CREATE TABLE  `scientific_names` (
   `is_accepted_name` int(1) DEFAULT NULL,
   `GSDTaxonGUID` longtext,
   `GSDNameGUID` longtext,
+  `is_extinct` smallint(1) NOT NULL DEFAULT '0',
+  `has_preholocene` smallint(1) NOT NULL DEFAULT '0',
+  `has_modern` smallint(1) NOT NULL DEFAULT '1',
   PRIMARY KEY (`record_id`,`name_code`),
   KEY `database_id` (`database_id`),
   KEY `family_id` (`family_id`),
   KEY `species` (`species`),
   KEY `infraspecies` (`infraspecies`),
+  KEY `specialist_code` (`specialist_code`),
   KEY `accepted_name_code` (`accepted_name_code`),
   KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
   KEY `name_code1` (`name_code`,`family_id`),
@@ -341,6 +356,7 @@ CREATE TABLE  `common_names` (
   `reference_code` varchar(50) DEFAULT NULL,
   PRIMARY KEY (`record_id`),
   KEY `common_name` (`common_name`),
+  KEY `reference_code` (`reference_code`),
   KEY `name_code` (`name_code`)
 ) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
 --------------
@@ -394,6 +410,7 @@ CREATE TABLE  `scientific_name_references` (
   `database_id` int(10) NOT NULL,
   PRIMARY KEY (`record_id`),
   KEY `name_code` (`name_code`,`reference_id`,`reference_type`),
+  KEY `reference_code` (`reference_code`),
   KEY `name_code_2` (`name_code`,`reference_type`)
 ) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
 --------------
@@ -411,7 +428,8 @@ CREATE TABLE  `references` (
   `source` longtext,
   `database_id` int(10) NOT NULL,
   `reference_code` varchar(50) DEFAULT NULL,
-  PRIMARY KEY (`record_id`)
+  PRIMARY KEY (`record_id`),
+  KEY `reference_code` (`reference_code`)
 ) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
 --------------
 
@@ -425,7 +443,8 @@ CREATE TABLE  `specialists` (
   `specialist_name` varchar(255) NOT NULL DEFAULT '',
   `specialist_code` varchar(50) DEFAULT NULL,
   `database_id` int(10) NOT NULL,
-  PRIMARY KEY (`record_id`)
+  PRIMARY KEY (`record_id`),
+  KEY `specialist_code` (`specialist_code`)
 ) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
 --------------
 
@@ -480,9 +499,18 @@ DELETE FROM `references` WHERE reference_code = old.reference_code;
 END;
 --------------
 
-\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
-\nCreation of the assembly database completed.\n
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Creation of the assembly database completed.
+
 Starting structural transformations (ACEF3 to ACI)
 --------------
 SET @dbid = 104
@@ -510,7 +538,7 @@ TRUNCATE TABLE `databases`
 
 --------------
 SET @query = CONCAT("
-INSERT INTO `databases` 
+INSERT INTO `databases`
  SELECT
  CONCAT(`DatabaseShortName`, ': ', `DatabaseFullName`)  AS `database_name_displayed`,
  @dbid AS `record_id`,
@@ -560,12 +588,12 @@ TRUNCATE TABLE `distribution`
 
 --------------
 SET @query = CONCAT("
-INSERT INTO `distribution` 
+INSERT INTO `distribution`
  SELECT
  NULL AS `record_id`,
  CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
  `Distribution` AS `distribution`,
- `StandardInUse` AS `StandardInUse`, 
+ `StandardInUse` AS `StandardInUse`,
  `DistributionStatus` AS `DistributionStatus`,
 @dbid AS `database_id`
  FROM ",
@@ -632,15 +660,15 @@ TRUNCATE TABLE `specialists`
 --------------
 SET @query = CONCAT("
 INSERT INTO `specialists`
-SELECT DISTINCT 
+SELECT DISTINCT
 NULL  AS `record_id`,
 `LTSSpecialist` AS `specialist_name`,
 NULL AS `specialist_code`,
 @dbid AS `database_id`
 FROM ",
 @dbtouse,
-".`AcceptedSpecies` 
-WHERE `LTSSpecialist` IS NOT NULL OR 
+".`AcceptedSpecies`
+WHERE `LTSSpecialist` IS NOT NULL OR
 `LTSSpecialist` != ''")
 --------------
 
@@ -667,7 +695,7 @@ TRUNCATE TABLE `scientific_names`
 --------------
 SET @query = CONCAT("
 INSERT INTO `scientific_names`
-SELECT 
+SELECT
 NULL AS `record_id`,
 CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
 `SpeciesURL` AS `web_site`,
@@ -689,11 +717,14 @@ CONCAT(@dbabbr,`AcceptedTaxonID`) AS `accepted_name_code`,
 `families`.`family_code` AS `family_code`,
 1 AS `is_accepted_name`,
 `GSDTaxonGUI` AS `GSDTaxonGUI`,
-`GSDNameGUI` AS `GSDNameGUI`
+`GSDNameGUI` AS `GSDNameGUI`,
+`IsFossil` AS `is_extinct`,
+`IsFossil` AS `has_preholocene`,
+if (`IsFossil` = 0, 1, 0) AS `has_modern`
 FROM ",
 @dbtouse,
 ".`AcceptedSpecies` AcceptedSpecies
-LEFT OUTER JOIN `families` ON 
+LEFT OUTER JOIN `families` ON
 (`AcceptedSpecies`.`Kingdom` = `families`.`kingdom` AND
 `AcceptedSpecies`.`Phylum` = `families`.`phylum` AND
 `AcceptedSpecies`.`Class` = `families`.`class` AND
@@ -703,8 +734,7 @@ LEFT OUTER JOIN `families` ON
 LEFT OUTER JOIN `specialists` ON
 `AcceptedSpecies`.`LTSSpecialist` = `specialists`.`specialist_name`
 LEFT OUTER JOIN `sp2000_statuses` ON
-`AcceptedSpecies`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
-WHERE `AcceptedSpecies`.`IsFossil` = 0")
+`AcceptedSpecies`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`")
 --------------
 
 --------------
@@ -726,7 +756,7 @@ TRUNCATE TABLE `lifezone`
 --------------
 SET @query = CONCAT("
 INSERT INTO `lifezone`
-SELECT 
+SELECT
 NULL AS `record_id`,
 CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
 `LifeZone` AS `lifezone`,
@@ -752,7 +782,7 @@ DEALLOCATE PREPARE stmt
 --------------
 SET @query = CONCAT("
 INSERT INTO `scientific_names`
-SELECT 
+SELECT
 NULL AS `record_id`,
 CONCAT(@dbabbr,`AIT`.`AcceptedTaxonID`) AS `name_code`,
 NULL AS `web_site`,
@@ -774,7 +804,10 @@ NULL AS `family_id`,
 sn.family_code AS `family_code`,
 1 AS `is_accepted_name`,
 NULL AS `GSDTaxonGUI`,
-`AIT`.`GSDNameGUI` AS `GSDNameGUI` 
+`AIT`.`GSDNameGUI` AS `GSDNameGUI`,
+0 AS `is_extinct`,
+0 AS `has_preholocene`,
+1 AS `has_modern`
 FROM ",
 @dbtouse,
 ".`AcceptedInfraSpecificTaxa` AIT
@@ -801,7 +834,7 @@ DEALLOCATE PREPARE stmt
 --------------
 SET @query = CONCAT("
 INSERT INTO `scientific_names`
-SELECT 
+SELECT
 NULL AS `record_id`,
 CONCAT(@dbabbr,`Synonyms`.`ID`) AS `name_code`,
 NULL AS `web_site`,
@@ -823,7 +856,10 @@ sn.`specialist_code` AS `specialist_code`,
 sn.`family_code` AS `family_code`,
 0 AS `is_accepted_name`,
 NULL AS `GSDTaxonGUI`,
-`Synonyms`.`GSDNameGUI` AS `GSDNameGUI` 
+`Synonyms`.`GSDNameGUI` AS `GSDNameGUI` ,
+0 AS `is_extinct`,
+0 AS `has_preholocene`,
+1 AS `has_modern`
 FROM ",
 @dbtouse,
 ".`Synonyms` Synonyms
@@ -851,9 +887,9 @@ TRUNCATE TABLE `common_names`
 
 --------------
 SET @query = CONCAT("
-INSERT INTO `common_names` 
+INSERT INTO `common_names`
 SELECT
-NULL, 
+NULL,
 CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
 CONVERT(`CommonName` USING utf8) AS `common_name`,
 `Transliteration` AS `transliteration`,
@@ -887,9 +923,9 @@ TRUNCATE TABLE `references`
 
 --------------
 SET @query = CONCAT("
-INSERT INTO `references` 
+INSERT INTO `references`
 SELECT
-NULL AS `record_id`, 
+NULL AS `record_id`,
 `Authors` AS `author`,
 `Year` AS `year`,
 NULL AS `title`,
@@ -919,11 +955,11 @@ TRUNCATE TABLE `scientific_name_references`
 
 --------------
 SET @query = CONCAT("
-INSERT INTO `scientific_name_references` 
+INSERT INTO `scientific_name_references`
 SELECT
 NULL AS `record_id`,
-CONCAT(@dbabbr, `ID`) AS `name_code`,	
-`ReferenceType` AS `reference_type`,	
+CONCAT(@dbabbr, `ID`) AS `name_code`,
+`ReferenceType` AS `reference_type`,
 NULL AS `reference_id`,
 CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`,
 @dbid AS `database_id`
@@ -948,16 +984,27 @@ DEALLOCATE PREPARE stmt
 SET foreign_key_checks = 1
 --------------
 
-\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
-\nData Loaded.
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Data Loaded.
 </pre>
-</pre><hr><b>Backing up...</b>\n<pre>
-Creating directory  23_48_03_05Apr2015
-Backing up files
-</pre><hr><b>Executing local editorial checks</b>\n<pre>
+</pre><hr><b>Backing up...</b>
 <pre>
-Integrity and editorial checks - this may take a while depending on size of the dataset...\n
+Creating directory  23_48_03_05Aug2015
+Backing up files
+</pre><hr><b>Executing local editorial checks</b>
+<pre>
+<pre>
+Integrity and editorial checks - this may take a while depending on size of the dataset...
+
 Starting local editorial transformations
 --------------
 DELETE FROM `common_names` WHERE `common_name` IS NULL OR `common_name` = ""
@@ -1096,6 +1143,150 @@ UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ';', ',')
 --------------
 
 --------------
+SELECT "Misspelt infraspecies (no subgenus): ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names` 
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND 
+(`subgenus` IS NULL OR `subgenus` = '') AND 
+`infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%')
+--------------
+
+--------------
+SELECT "Misspelt infraspecies (with subgenus): ", `name_code`, `genus`, `subgenus`, `species`, `infraspecies` FROM `scientific_names` 
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND 
+`subgenus` != '' AND 
+(`infraspecies` NOT LIKE CONCAT(`genus`, ' (', `subgenus`, ') ', `species`, '%') OR `infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%'))
+--------------
+
+--------------
+DELETE FROM `scientific_names` 
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND 
+(`subgenus` IS NULL OR `subgenus` = '') AND 
+`infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%')
+--------------
+
+--------------
+DELETE FROM `scientific_names` 
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND 
+`subgenus` != '' AND 
+(`infraspecies` NOT LIKE CONCAT(`genus`, ' (', `subgenus`, ') ', `species`, '%') OR `infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%'))
+--------------
+
+--------------
+SELECT "Incorrect infraspecies: ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names` 
+WHERE `infraspecies` LIKE '% %'  AND 
+`infraspecies` NOT LIKE 'f.%' AND 
+`infraspecies` NOT LIKE 'var.%' AND
+`infraspecies` NOT LIKE 'subsp.%'
+--------------
+
+--------------
+DELETE FROM `scientific_names` 
+WHERE `infraspecies` LIKE '% %'  AND 
+`infraspecies` NOT LIKE 'f.%' AND 
+`infraspecies` NOT LIKE 'var.%' AND
+`infraspecies` NOT LIKE 'subsp.%'
+--------------
+
+--------------
+SELECT "Infraspecies starting with marker: ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names` 
+WHERE `infraspecies` LIKE '% %' AND 
+(`infraspecies` LIKE 'f.%' OR 
+`infraspecies` LIKE 'var.%' OR
+`infraspecies` LIKE 'subsp.%')
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies` = SUBSTRING_INDEX(`infraspecies`, ' ', -1)
+WHERE `infraspecies` LIKE '% %' AND 
+(`infraspecies` LIKE 'f.%' OR 
+`infraspecies` LIKE 'var.%' OR
+`infraspecies` LIKE 'subsp.%')
+--------------
+
+--------------
+SELECT "Infraspecies mismatch (infraspecies_parent_name_code set but infraspecies empty): ", `name_code`, `infraspecies_parent_name_code` FROM `scientific_names` 
+WHERE CHAR_LENGTH(`infraspecies_parent_name_code`) > 1 AND 
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+SELECT "Infraspecies mismatch (infraspecies_marker set but infraspecies empty): ", `name_code`, `infraspecies_marker` FROM `scientific_names` 
+WHERE CHAR_LENGTH(`infraspecies_marker`) > 1 AND
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+DELETE FROM `scientific_names` 
+WHERE CHAR_LENGTH(`infraspecies_parent_name_code`) > 1 AND 
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+DELETE FROM `scientific_names` 
+WHERE CHAR_LENGTH(`infraspecies_marker`) > 1 AND
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+UPDATE `scientific_names` SET `species` = LOWER(`species`)
+--------------
+
+--------------
+SELECT "Empty species name: ", `name_code`, `genus`, `infraspecies` FROM `scientific_names` 
+WHERE `species` = '' OR `species` IS NULL
+--------------
+
+--------------
+DELETE FROM `scientific_names` 
+WHERE `species` = '' OR `species` IS NULL
+--------------
+
+--------------
+SELECT "Empty reference: ", `author`, `year`, `reference_code` FROM `references` 
+WHERE (`title` = '' OR `title` IS NULL) AND
+(`source` = '' OR `source` IS NULL)
+--------------
+
+--------------
+DELETE FROM `references` 
+WHERE (`title` = '' OR `title` IS NULL) AND
+(`source` = '' OR `source` IS NULL)
+--------------
+
+--------------
+UPDATE `scientific_names` SET `scrutiny_date` = DATE_FORMAT(`scrutiny_date`, '%d-%b-%Y')
+WHERE `scrutiny_date` LIKE '%:%' AND
+(`scrutiny_date` != '' OR `scrutiny_date` IS NOT NULL)
+--------------
+
+--------------
+SELECT "Set is_infraspecies flag: ", t1.`name_code`, t1.`common_name`, t2.`genus`, t2.`species`, t2.`infraspecies` 
+FROM `common_names` AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.`name_code` = t2.`name_code` 
+WHERE (t2.`infraspecies` != '' OR t2.`infraspecies` IS NOT NULL) AND
+t1.`is_infraspecies` = 0
+--------------
+
+--------------
+UPDATE `common_names` AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.`name_code` = t2.`name_code` 
+SET t1.`is_infraspecies` = 1
+WHERE (t2.`infraspecies` != '' OR t2.`infraspecies` IS NOT NULL) AND
+t1.`is_infraspecies` = 0
+--------------
+
+--------------
+UPDATE `scientific_names` SET `author` = TRIM(`author`)
+--------------
+
+--------------
+UPDATE `references`  SET `author` = TRIM(`author`)
+--------------
+
+--------------
 SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
 --------------
 
@@ -1122,7 +1313,21 @@ WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
 --------------
 
 --------------
-CREATE TEMPORARY TABLE scientific_names_tmp AS SELECT * FROM scientific_names
+CREATE TEMPORARY TABLE scientific_names_tmp 
+(PRIMARY KEY (`record_id`,`name_code`),
+  KEY `database_id` (`database_id`),
+  KEY `family_id` (`family_id`),
+  KEY `species` (`species`),
+  KEY `infraspecies` (`infraspecies`),
+  KEY `specialist_code` (`specialist_code`),
+  KEY `accepted_name_code` (`accepted_name_code`),
+  KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
+  KEY `name_code1` (`name_code`,`family_id`),
+  KEY `record_id` (`record_id`,`family_id`),
+  KEY `genus` (`genus`,`species`,`infraspecies`),
+  KEY `sp2000_status_id` (`sp2000_status_id`),
+  KEY `sp2000_status_id_2` (`sp2000_status_id`,`database_id`,`infraspecies`))
+SELECT * FROM scientific_names
 --------------
 
 --------------
@@ -1182,7 +1387,7 @@ Reference without parent accepted or common name	6	Wright, T.S.	1856	NULL	W-Pho-
 Reference without parent accepted or common name	7	Selys-Longchamps, M. de	1903	NULL	W-Pho-1581
 Reference without parent accepted or common name	8	Silén, L.	1952	NULL	W-Pho-1582
 Reference without parent accepted or common name	9	Cori, C. J.	1889	NULL	W-Pho-1584
-Reference without parent accepted or common name	10	Brunel, P., Bosse, L. & Lamarche, G.	1998	NULL	W-Pho-2930
+Reference without parent accepted or common name	10	Brunel, P.; Bosse, L.; Lamarche, G.	1998	NULL	W-Pho-2930
 Reference without parent accepted or common name	11	Muller, Y.	2004	NULL	W-Pho-9269
 Reference without parent accepted or common name	12	Gordon, D. P.	2009	NULL	W-Pho-132575
 Reference without parent accepted or common name	13	Santagata, S.	2009	NULL	W-Pho-141261
@@ -1336,13 +1541,22 @@ DELETE FROM `references` WHERE reference_code = old.reference_code;
 END;
 --------------
 
-\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 </pre>
 <pre>
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
-\nEditorial and Integrity checks Completed.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Editorial and Integrity checks Completed.
 </pre>
-</pre><hr><b>Replacing sectors in Assembly Global database</b>\n<pre>
+</pre><hr><b>Replacing sectors in Assembly Global database</b>
+<pre>
 <pre>
 Starting Sector Management
 --------------
@@ -1451,7 +1665,7 @@ DEALLOCATE PREPARE stmt
 --------------
 SET @query = CONCAT("
 INSERT INTO ", @dbtouse, ".`scientific_names` 
-(`record_id`, `name_code`, `web_site`, `genus`, `subgenus`, `species`, `infraspecies_parent_name_code`, `infraspecies`, `infraspecies_marker`, `author`, `accepted_name_code`, `comment`, `scrutiny_date`, `sp2000_status_id`, `database_id`, `specialist_id`, `family_id`, `specialist_code`, `family_code`, `is_accepted_name`, `GSDTaxonGUID`, `GSDNameGUID`) SELECT 
+(`record_id`, `name_code`, `web_site`, `genus`, `subgenus`, `species`, `infraspecies_parent_name_code`, `infraspecies`, `infraspecies_marker`, `author`, `accepted_name_code`, `comment`, `scrutiny_date`, `sp2000_status_id`, `database_id`, `specialist_id`, `family_id`, `specialist_code`, `family_code`, `is_accepted_name`, `GSDTaxonGUID`, `GSDNameGUID`, `is_extinct`, `has_preholocene`, `has_modern`) SELECT 
 NULL AS `record_id`, 
 `name_code`, 
 `web_site`, 
@@ -1473,7 +1687,10 @@ NULL AS `record_id`,
 `family_code`, 
 `is_accepted_name`, 
 `GSDTaxonGUID`, 
-`GSDNameGUID`
+`GSDNameGUID`, 
+`is_extinct`,
+`has_preholocene`, 
+`has_modern`
 FROM `scientific_names`")
 --------------
 
@@ -1635,9 +1852,17 @@ EXECUTE stmt
 DEALLOCATE PREPARE stmt
 --------------
 
-\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n
-\nTransformations Completed.
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Transformations Completed.
 <pre>
 </pre><hr><b>Chain completed</b>
 </body></html>

@@ -1,3 +1,5 @@
+UPDATE `databases` SET `is_new` = 2, `version` = DATE_FORMAT(NOW(),'%b %Y'), `release_date` = CURRENT_DATE(), `web_site` = 'http://worldplants.webarchiv.kit.edu/ferns/';
+
 DELETE FROM scientific_names WHERE species = 'yyy';
 
 
@@ -23,7 +25,10 @@ UPDATE families SET hierarchy_code = CONCAT(`kingdom`,'-',`phylum`,'-',`class`,'
 /*The standard editorial checks and cleanup for all data-sets in assembly schema*/
 source /home/GSDS/Master/SQL_templates/standard_editorial_checks.sql
 
+/* World Plants specific editorial checks and cleanup for all data-sets in assembly schema*/
+source /home/GSDS/Master/SQL_templates/world_plants_editorial_checks.sql
 
 /*The standard integrity checks and cleanup for all data-sets in assembly schema*/
 source /home/GSDS/Master/SQL_templates/assembly_database_integrity_checks.sql
-
+/* World Plants specific correction script that omits deletion of duplicate taxa */
+source /home/GSDS/Master/SQL_templates/world_plants_integrity_corrections.sql

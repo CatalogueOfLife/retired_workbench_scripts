@@ -1,3 +1,5 @@
+UPDATE `databases` SET `taxonomic_coverage`="Animalia - Cnidaria - Anthozoa - (subclass Octocorallia) - Alcyonacea, Helioporacea, Pennatulacea", `is_new` = 2, `taxa`="Soft corals, blue coral, sea pens and gorgonians", `coverage`="Global", `completeness` = 100, `confidence` = 4;
+
 /*The standard editorial checks and cleanup for all data-sets in assembly schema*/
 source /home/GSDS/Master/SQL_templates/standard_editorial_checks.sql
 

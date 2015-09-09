@@ -1,3 +1,5 @@
+UPDATE `databases` SET `is_new` = 2, `version` = DATE_FORMAT(NOW(),'%b %Y'), `release_date` = CURRENT_DATE(), `web_site` = 'http://worldplants.webarchiv.kit.edu/';
+
 DELETE FROM scientific_names WHERE species = 'yyy';
 
 #delete Lacistemataceae from WP (keeping the IOPI version in the CoL). Deletion will be cascaded by triggers
@@ -260,10 +262,15 @@ UPDATE families SET `order`="Zygophyllales" WHERE family = "Zygophyllaceae";
 UPDATE families SET hierarchy_code = CONCAT(`kingdom`,'-',`phylum`,'-',`class`,'-',`order`,'-',`family`);
 
 
-/*The standard editorial checks and cleanup for all data-sets in assembly schema */
-source /home/GSDS/Master/SQL_templates/standard_editorial_checks.sql 
+/*The standard editorial checks and cleanup for all data-sets in assembly schema*/
+source /home/GSDS/Master/SQL_templates/standard_editorial_checks.sql
 
+/* World Plants specific editorial checks and cleanup for all data-sets in assembly schema*/
+source /home/GSDS/Master/SQL_templates/world_plants_editorial_checks.sql
 
-/*The standard integrity checks and cleanup for all data-sets in assembly schema */
-source /home/GSDS/Master/SQL_templates/assembly_database_integrity_checks.sql 
+/*The standard integrity checks and cleanup for all data-sets in assembly schema*/
+source /home/GSDS/Master/SQL_templates/assembly_database_integrity_checks.sql
 
+/* World Plants specific correction script that omits deletion of duplicate taxa 
+Duplicates queries in assembly_database_integrity_checks.sql; disabled 
+source /home/GSDS/Master/SQL_templates/world_plants_integrity_corrections.sql*/

@@ -15,9 +15,15 @@ LEFT JOIN scientific_names sn
 ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3);
 
 
-/*check if there are common_names without parent accepted_name*/
+/* Ruud 09-09-15: WHERE NOT IN queries are notoriously slow. Rewritten with LEFT JOINs */
+
+/*check if there are common_names without parent accepted_name
 SELECT 'Common name without parent accepted name', record_id, common_name, name_code FROM common_names
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names);
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names);*/
+SELECT 'Common name without parent accepted name', t1.record_id, t1.common_name, t1.name_code FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL;
+
 
 /* Ruud: problem with tmp table was the lack of indices; added these from original table description */
 CREATE TEMPORARY TABLE scientific_names_tmp 
@@ -51,36 +57,61 @@ WHERE is_accepted_name != 1 AND family_code IS NULL;
 SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, species, infraspecies, infraspecies_parent_name_code FROM scientific_names WHERE LENGTH(infraspecies)>1  AND family_code IS NULL;
 
 
-/*check if there are any lifezone records without parent accepted_name*/
+/* Ruud 09-09-15: WHERE NOT IN queries are notoriously slow. Rewritten with LEFT JOINs */
+
+/*check if there are any lifezone records without parent accepted_name
 SELECT 'Lifezone without parent accepted name', record_id, name_code, lifezone FROM lifezone
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names);
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names);*/
+SELECT 'Lifezone without parent accepted name', t1.record_id, t1.name_code, t1.lifezone FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL;
 
 
-/*check if there are any distribution records without parent accepted_name*/
+/*check if there are any distribution records without parent accepted_name
 SELECT 'Distribution without parent accepted name', record_id, name_code, distribution FROM distribution
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names);
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names);*/
+SELECT 'Distribution without parent accepted name', t1.record_id, t1.name_code, t1.distribution FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL;
 
 
-/*check if there are accepted names without parent family*/
+/*check if there are accepted names without parent family
 SELECT 'Accepted name without parent family', record_id, name_code, genus, species, infraspecies, family_code FROM scientific_names
-WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families);
+WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families);*/
+SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.family_code FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL;
 
 
-/*check if there are orphan reference links in scientific_name_references*/
+/*check if there are orphan reference links in scientific_name_references
 SELECT 'Reference link to non-existing accepted name', record_id, reference_code, name_code FROM scientific_name_references
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names);
+WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names);*/
+SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL;
 
 
-/*check if there are orphan reference links in scientific_name_references*/
+/*check if there are orphan reference links in scientific_name_references
 SELECT 'Reference link to non-existing reference', record_id, reference_code, name_code FROM scientific_name_references
-WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`);
+WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`);*/
+SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL;
 
 
-/*check if there are orphan specialists*/
+/*check if there are orphan specialists
 SELECT 'Specialist not present in scientific names table', record_id, specialist_name, specialist_code FROM specialists
-WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names);
+WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names);*/
+SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code FROM specialists AS t1
+LEFT JOIN scientific_names AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL;
 
-/*check if there are orphan references*/
+
+/*check if there are orphan references
 SELECT 'Reference without parent accepted or common name', record_id, author, year, title, reference_code FROM `references`
 WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
-UNION SELECT DISTINCT reference_code FROM common_names);
+UNION SELECT DISTINCT reference_code FROM common_names);*/
+SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
