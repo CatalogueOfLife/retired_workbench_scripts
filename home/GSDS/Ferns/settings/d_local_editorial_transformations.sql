@@ -30,5 +30,6 @@ source /home/GSDS/Master/SQL_templates/world_plants_editorial_checks.sql
 
 /*The standard integrity checks and cleanup for all data-sets in assembly schema*/
 source /home/GSDS/Master/SQL_templates/assembly_database_integrity_checks.sql
-/* World Plants specific correction script that omits deletion of duplicate taxa */
-source /home/GSDS/Master/SQL_templates/world_plants_integrity_corrections.sql
+
+/* World Plants specific correction script that omits deletion of duplicate taxa 
+source /home/GSDS/Master/SQL_templates/world_plants_integrity_corrections.sql*/

@@ -998,7 +998,7 @@ Data Loaded.
 </pre>
 </pre><hr><b>Backing up...</b>
 <pre>
-Creating directory  22_50_03_05Aug2015
+Creating directory  09_09_29_10Sep2015
 Backing up files
 </pre><hr><b>Executing local editorial checks</b>
 <pre>
@@ -1308,8 +1308,9 @@ ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.auth
 --------------
 
 --------------
-SELECT 'Common name without parent accepted name', record_id, common_name, name_code FROM common_names
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Common name without parent accepted name', t1.record_id, t1.common_name, t1.name_code FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
@@ -1340,318 +1341,328 @@ SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, ge
 --------------
 
 --------------
-SELECT 'Lifezone without parent accepted name', record_id, name_code, lifezone FROM lifezone
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Lifezone without parent accepted name', t1.record_id, t1.name_code, t1.lifezone FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Distribution without parent accepted name', record_id, name_code, distribution FROM distribution
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Distribution without parent accepted name', t1.record_id, t1.name_code, t1.distribution FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Accepted name without parent family', record_id, name_code, genus, species, infraspecies, family_code FROM scientific_names
-WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.family_code FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference link to non-existing accepted name', record_id, reference_code, name_code FROM scientific_name_references
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 Reference link to non-existing accepted name	record_id	reference_code	name_code
-Reference link to non-existing accepted name	22	W-Cha-1318	W-Cha-266824
-Reference link to non-existing accepted name	23	W-Cha-1318	W-Cha-266841
-Reference link to non-existing accepted name	27	W-Cha-127204	W-Cha-395429
-Reference link to non-existing accepted name	28	W-Cha-130890	W-Cha-395758
-Reference link to non-existing accepted name	29	W-Cha-173078	W-Cha-406023
-Reference link to non-existing accepted name	40	W-Cha-1318	W-Cha-266246
-Reference link to non-existing accepted name	41	W-Cha-1318	W-Cha-266251
-Reference link to non-existing accepted name	42	W-Cha-1318	W-Cha-266253
-Reference link to non-existing accepted name	43	W-Cha-1318	W-Cha-266687
-Reference link to non-existing accepted name	44	W-Cha-1318	W-Cha-266780
-Reference link to non-existing accepted name	46	W-Cha-1318	W-Cha-266823
-Reference link to non-existing accepted name	48	W-Cha-1318	W-Cha-268025
-Reference link to non-existing accepted name	50	W-Cha-130889	W-Cha-395428
-Reference link to non-existing accepted name	51	W-Cha-127204	W-Cha-395756
-Reference link to non-existing accepted name	62	W-Cha-1318	W-Cha-266252
-Reference link to non-existing accepted name	63	W-Cha-1318	W-Cha-266688
-Reference link to non-existing accepted name	64	W-Cha-1318	W-Cha-266781
-Reference link to non-existing accepted name	65	W-Cha-1318	W-Cha-266838
-Reference link to non-existing accepted name	69	W-Cha-130890	W-Cha-395755
-Reference link to non-existing accepted name	70	W-Cha-127204	W-Cha-395757
-Reference link to non-existing accepted name	71	W-Cha-42	W-Cha-584812
-Reference link to non-existing accepted name	78	W-Cha-1414	W-Cha-105433
-Reference link to non-existing accepted name	88	W-Cha-1318	W-Cha-266696
-Reference link to non-existing accepted name	90	W-Cha-1318	W-Cha-266803
-Reference link to non-existing accepted name	91	W-Cha-1318	W-Cha-266828
-Reference link to non-existing accepted name	92	W-Cha-1318	W-Cha-266837
-Reference link to non-existing accepted name	98	W-Cha-127204	W-Cha-395433
-Reference link to non-existing accepted name	99	W-Cha-130890	W-Cha-395754
-Reference link to non-existing accepted name	100	W-Cha-1318	W-Cha-430251
-Reference link to non-existing accepted name	108	W-Cha-1318	W-Cha-266715
-Reference link to non-existing accepted name	109	W-Cha-1318	W-Cha-266783
-Reference link to non-existing accepted name	110	W-Cha-1318	W-Cha-266800
-Reference link to non-existing accepted name	111	W-Cha-1318	W-Cha-266801
-Reference link to non-existing accepted name	112	W-Cha-1318	W-Cha-266818
-Reference link to non-existing accepted name	114	W-Cha-173077	W-Cha-406019
-Reference link to non-existing accepted name	115	W-Cha-173077	W-Cha-406020
-Reference link to non-existing accepted name	126	W-Cha-1318	W-Cha-266686
-Reference link to non-existing accepted name	127	W-Cha-1318	W-Cha-266711
-Reference link to non-existing accepted name	129	W-Cha-1318	W-Cha-266779
-Reference link to non-existing accepted name	132	W-Cha-1318	W-Cha-266822
-Reference link to non-existing accepted name	133	W-Cha-1318	W-Cha-268026
-Reference link to non-existing accepted name	135	W-Cha-130889	W-Cha-395427
-Reference link to non-existing accepted name	136	W-Cha-127204	W-Cha-395759
-Reference link to non-existing accepted name	146	W-Cha-1318	W-Cha-266827
-Reference link to non-existing accepted name	147	W-Cha-1318	W-Cha-266842
-Reference link to non-existing accepted name	148	W-Cha-1318	W-Cha-268027
-Reference link to non-existing accepted name	151	W-Cha-127204	W-Cha-395426
-Reference link to non-existing accepted name	152	W-Cha-130889	W-Cha-395432
-Reference link to non-existing accepted name	153	W-Cha-173078	W-Cha-406022
-Reference link to non-existing accepted name	155	W-Cha-125436	W-Cha-423693
-Reference link to non-existing accepted name	157	W-Cha-168668	W-Cha-736968
-Reference link to non-existing accepted name	167	W-Cha-1318	W-Cha-266821
-Reference link to non-existing accepted name	171	W-Cha-125436	W-Cha-423372
-Reference link to non-existing accepted name	176	W-Cha-1318	W-Cha-266227
-Reference link to non-existing accepted name	179	W-Cha-1318	W-Cha-266706
-Reference link to non-existing accepted name	182	W-Cha-1318	W-Cha-266820
-Reference link to non-existing accepted name	190	W-Cha-1318	W-Cha-266685
-Reference link to non-existing accepted name	192	W-Cha-1318	W-Cha-266699
-Reference link to non-existing accepted name	194	W-Cha-1318	W-Cha-266735
-Reference link to non-existing accepted name	195	W-Cha-1318	W-Cha-266784
-Reference link to non-existing accepted name	196	W-Cha-1318	W-Cha-266785
-Reference link to non-existing accepted name	197	W-Cha-1318	W-Cha-266834
-Reference link to non-existing accepted name	198	W-Cha-1318	W-Cha-266835
-Reference link to non-existing accepted name	202	W-Cha-127204	W-Cha-395753
-Reference link to non-existing accepted name	203	W-Cha-173077	W-Cha-406017
-Reference link to non-existing accepted name	204	W-Cha-173077	W-Cha-406018
-Reference link to non-existing accepted name	210	W-Cha-1318	W-Cha-266707
-Reference link to non-existing accepted name	212	W-Cha-1318	W-Cha-266826
-Reference link to non-existing accepted name	213	W-Cha-1318	W-Cha-266843
-Reference link to non-existing accepted name	216	W-Cha-130889	W-Cha-395431
-Reference link to non-existing accepted name	217	W-Cha-173078	W-Cha-406021
-Reference link to non-existing accepted name	226	W-Cha-1318	W-Cha-266805
-Reference link to non-existing accepted name	227	W-Cha-1318	W-Cha-266830
-Reference link to non-existing accepted name	228	W-Cha-1318	W-Cha-266839
-Reference link to non-existing accepted name	231	W-Cha-173078	W-Cha-406025
-Reference link to non-existing accepted name	240	W-Cha-1318	W-Cha-266829
-Reference link to non-existing accepted name	241	W-Cha-1318	W-Cha-266836
-Reference link to non-existing accepted name	242	W-Cha-1318	W-Cha-266840
-Reference link to non-existing accepted name	247	W-Cha-127204	W-Cha-395430
-Reference link to non-existing accepted name	257	W-Cha-1318	W-Cha-266825
-Reference link to non-existing accepted name	265	W-Cha-1318	W-Cha-266782
-Reference link to non-existing accepted name	267	W-Cha-1318	W-Cha-266819
-Reference link to non-existing accepted name	268	W-Cha-1318	W-Cha-266832
-Reference link to non-existing accepted name	269	W-Cha-1318	W-Cha-266833
-Reference link to non-existing accepted name	282	W-Cha-1318	W-Cha-266802
+Reference link to non-existing accepted name	22	W-Cha-1318	W-Cha-266825
+Reference link to non-existing accepted name	26	W-Cha-127204	W-Cha-395428
+Reference link to non-existing accepted name	27	W-Cha-130889	W-Cha-395430
+Reference link to non-existing accepted name	40	W-Cha-1318	W-Cha-266829
+Reference link to non-existing accepted name	41	W-Cha-1318	W-Cha-266836
+Reference link to non-existing accepted name	42	W-Cha-1318	W-Cha-266840
+Reference link to non-existing accepted name	48	W-Cha-130890	W-Cha-395757
+Reference link to non-existing accepted name	56	W-Cha-1414	W-Cha-105433
+Reference link to non-existing accepted name	67	W-Cha-1318	W-Cha-266696
+Reference link to non-existing accepted name	69	W-Cha-1318	W-Cha-266803
+Reference link to non-existing accepted name	70	W-Cha-1318	W-Cha-266828
+Reference link to non-existing accepted name	71	W-Cha-1318	W-Cha-266837
+Reference link to non-existing accepted name	77	W-Cha-127204	W-Cha-395433
+Reference link to non-existing accepted name	78	W-Cha-130890	W-Cha-395754
+Reference link to non-existing accepted name	79	W-Cha-1318	W-Cha-430251
+Reference link to non-existing accepted name	92	W-Cha-1318	W-Cha-266782
+Reference link to non-existing accepted name	94	W-Cha-1318	W-Cha-266819
+Reference link to non-existing accepted name	95	W-Cha-1318	W-Cha-266832
+Reference link to non-existing accepted name	96	W-Cha-1318	W-Cha-266833
+Reference link to non-existing accepted name	100	W-Cha-130890	W-Cha-395753
+Reference link to non-existing accepted name	112	W-Cha-1318	W-Cha-266686
+Reference link to non-existing accepted name	113	W-Cha-1318	W-Cha-266711
+Reference link to non-existing accepted name	115	W-Cha-1318	W-Cha-266779
+Reference link to non-existing accepted name	119	W-Cha-1318	W-Cha-266822
+Reference link to non-existing accepted name	120	W-Cha-1318	W-Cha-268026
+Reference link to non-existing accepted name	122	W-Cha-130889	W-Cha-395427
+Reference link to non-existing accepted name	123	W-Cha-127204	W-Cha-395759
+Reference link to non-existing accepted name	138	W-Cha-1318	W-Cha-266805
+Reference link to non-existing accepted name	139	W-Cha-1318	W-Cha-266830
+Reference link to non-existing accepted name	140	W-Cha-1318	W-Cha-266839
+Reference link to non-existing accepted name	143	W-Cha-127204	W-Cha-395431
+Reference link to non-existing accepted name	144	W-Cha-130890	W-Cha-395756
+Reference link to non-existing accepted name	145	W-Cha-173078	W-Cha-406025
+Reference link to non-existing accepted name	154	W-Cha-1318	W-Cha-266827
+Reference link to non-existing accepted name	155	W-Cha-1318	W-Cha-266842
+Reference link to non-existing accepted name	156	W-Cha-1318	W-Cha-268027
+Reference link to non-existing accepted name	159	W-Cha-127204	W-Cha-395426
+Reference link to non-existing accepted name	160	W-Cha-130889	W-Cha-395432
+Reference link to non-existing accepted name	161	W-Cha-173078	W-Cha-406022
+Reference link to non-existing accepted name	163	W-Cha-125436	W-Cha-423693
+Reference link to non-existing accepted name	165	W-Cha-168668	W-Cha-736968
+Reference link to non-existing accepted name	170	W-Cha-1318	W-Cha-266715
+Reference link to non-existing accepted name	171	W-Cha-1318	W-Cha-266783
+Reference link to non-existing accepted name	172	W-Cha-1318	W-Cha-266800
+Reference link to non-existing accepted name	173	W-Cha-1318	W-Cha-266801
+Reference link to non-existing accepted name	174	W-Cha-1318	W-Cha-266818
+Reference link to non-existing accepted name	176	W-Cha-127204	W-Cha-395755
+Reference link to non-existing accepted name	177	W-Cha-173077	W-Cha-406019
+Reference link to non-existing accepted name	178	W-Cha-173077	W-Cha-406020
+Reference link to non-existing accepted name	186	W-Cha-1318	W-Cha-266685
+Reference link to non-existing accepted name	188	W-Cha-1318	W-Cha-266699
+Reference link to non-existing accepted name	189	W-Cha-1318	W-Cha-266735
+Reference link to non-existing accepted name	190	W-Cha-1318	W-Cha-266784
+Reference link to non-existing accepted name	191	W-Cha-1318	W-Cha-266785
+Reference link to non-existing accepted name	192	W-Cha-1318	W-Cha-266834
+Reference link to non-existing accepted name	193	W-Cha-1318	W-Cha-266835
+Reference link to non-existing accepted name	197	W-Cha-173077	W-Cha-406017
+Reference link to non-existing accepted name	198	W-Cha-173077	W-Cha-406018
+Reference link to non-existing accepted name	203	W-Cha-1318	W-Cha-266227
+Reference link to non-existing accepted name	206	W-Cha-1318	W-Cha-266706
+Reference link to non-existing accepted name	210	W-Cha-1318	W-Cha-266820
+Reference link to non-existing accepted name	214	W-Cha-31636	W-Cha-584812
+Reference link to non-existing accepted name	222	W-Cha-1318	W-Cha-266802
+Reference link to non-existing accepted name	238	W-Cha-1318	W-Cha-266824
+Reference link to non-existing accepted name	239	W-Cha-1318	W-Cha-266841
+Reference link to non-existing accepted name	243	W-Cha-127204	W-Cha-395429
+Reference link to non-existing accepted name	244	W-Cha-130890	W-Cha-395758
+Reference link to non-existing accepted name	245	W-Cha-173078	W-Cha-406023
+Reference link to non-existing accepted name	254	W-Cha-1318	W-Cha-266821
+Reference link to non-existing accepted name	257	W-Cha-125436	W-Cha-423372
+Reference link to non-existing accepted name	260	W-Cha-1318	W-Cha-266246
+Reference link to non-existing accepted name	261	W-Cha-1318	W-Cha-266251
+Reference link to non-existing accepted name	262	W-Cha-1318	W-Cha-266253
+Reference link to non-existing accepted name	263	W-Cha-1318	W-Cha-266687
+Reference link to non-existing accepted name	264	W-Cha-1318	W-Cha-266780
+Reference link to non-existing accepted name	265	W-Cha-1318	W-Cha-266823
+Reference link to non-existing accepted name	267	W-Cha-1318	W-Cha-268025
+Reference link to non-existing accepted name	272	W-Cha-1318	W-Cha-266252
+Reference link to non-existing accepted name	273	W-Cha-1318	W-Cha-266688
+Reference link to non-existing accepted name	274	W-Cha-1318	W-Cha-266781
+Reference link to non-existing accepted name	275	W-Cha-1318	W-Cha-266838
+Reference link to non-existing accepted name	281	W-Cha-1318	W-Cha-266707
+Reference link to non-existing accepted name	283	W-Cha-1318	W-Cha-266826
+Reference link to non-existing accepted name	284	W-Cha-1318	W-Cha-266843
+Reference link to non-existing accepted name	287	W-Cha-173078	W-Cha-406021
 --------------
-SELECT 'Reference link to non-existing reference', record_id, reference_code, name_code FROM scientific_name_references
-WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL
 --------------
 
 Reference link to non-existing reference	record_id	reference_code	name_code
-Reference link to non-existing reference	1	W-Cha-138645	W-Cha-105440
-Reference link to non-existing reference	2	W-Cha-2901	W-Cha-105445
-Reference link to non-existing reference	3	W-Cha-2901	W-Cha-105464
-Reference link to non-existing reference	4	W-Cha-2901	W-Cha-105465
-Reference link to non-existing reference	5	W-Cha-2901	W-Cha-105416
-Reference link to non-existing reference	6	W-Cha-1318	W-Cha-105418
-Reference link to non-existing reference	9	W-Cha-1318	W-Cha-105435
-Reference link to non-existing reference	12	W-Cha-1318	W-Cha-105448
-Reference link to non-existing reference	16	W-Cha-1318	W-Cha-266224
-Reference link to non-existing reference	17	W-Cha-1318	W-Cha-266241
-Reference link to non-existing reference	18	W-Cha-1318	W-Cha-266258
-Reference link to non-existing reference	19	W-Cha-1318	W-Cha-266275
-Reference link to non-existing reference	20	W-Cha-1318	W-Cha-266709
-Reference link to non-existing reference	21	W-Cha-1318	W-Cha-266807
-Reference link to non-existing reference	22	W-Cha-1318	W-Cha-266824
-Reference link to non-existing reference	23	W-Cha-1318	W-Cha-266841
-Reference link to non-existing reference	24	W-Cha-1318	W-Cha-268028
-Reference link to non-existing reference	25	W-Cha-1318	W-Cha-268045
-Reference link to non-existing reference	36	W-Cha-1318	W-Cha-105470
-Reference link to non-existing reference	39	W-Cha-1318	W-Cha-266244
-Reference link to non-existing reference	40	W-Cha-1318	W-Cha-266246
-Reference link to non-existing reference	41	W-Cha-1318	W-Cha-266251
-Reference link to non-existing reference	42	W-Cha-1318	W-Cha-266253
-Reference link to non-existing reference	43	W-Cha-1318	W-Cha-266687
-Reference link to non-existing reference	44	W-Cha-1318	W-Cha-266780
-Reference link to non-existing reference	46	W-Cha-1318	W-Cha-266823
-Reference link to non-existing reference	47	W-Cha-1318	W-Cha-266887
-Reference link to non-existing reference	48	W-Cha-1318	W-Cha-268025
-Reference link to non-existing reference	54	W-Cha-42	W-Cha-105414
-Reference link to non-existing reference	59	W-Cha-1318	W-Cha-221253
-Reference link to non-existing reference	60	W-Cha-1318	W-Cha-266238
-Reference link to non-existing reference	61	W-Cha-1318	W-Cha-266245
-Reference link to non-existing reference	62	W-Cha-1318	W-Cha-266252
-Reference link to non-existing reference	63	W-Cha-1318	W-Cha-266688
-Reference link to non-existing reference	64	W-Cha-1318	W-Cha-266781
-Reference link to non-existing reference	65	W-Cha-1318	W-Cha-266838
-Reference link to non-existing reference	66	W-Cha-1318	W-Cha-266845
-Reference link to non-existing reference	67	W-Cha-1318	W-Cha-266888
-Reference link to non-existing reference	68	W-Cha-1318	W-Cha-268031
-Reference link to non-existing reference	71	W-Cha-42	W-Cha-584812
-Reference link to non-existing reference	73	W-Cha-1318	W-Cha-105422
-Reference link to non-existing reference	75	W-Cha-1318	W-Cha-105427
-Reference link to non-existing reference	77	W-Cha-1318	W-Cha-105431
-Reference link to non-existing reference	83	W-Cha-1318	W-Cha-266228
-Reference link to non-existing reference	85	W-Cha-1318	W-Cha-266237
-Reference link to non-existing reference	86	W-Cha-1318	W-Cha-266262
-Reference link to non-existing reference	87	W-Cha-1318	W-Cha-266271
-Reference link to non-existing reference	88	W-Cha-1318	W-Cha-266696
-Reference link to non-existing reference	89	W-Cha-1318	W-Cha-266705
-Reference link to non-existing reference	90	W-Cha-1318	W-Cha-266803
-Reference link to non-existing reference	91	W-Cha-1318	W-Cha-266828
-Reference link to non-existing reference	92	W-Cha-1318	W-Cha-266837
-Reference link to non-existing reference	93	W-Cha-1318	W-Cha-268032
-Reference link to non-existing reference	94	W-Cha-1318	W-Cha-268041
-Reference link to non-existing reference	100	W-Cha-1318	W-Cha-430251
-Reference link to non-existing reference	105	W-Cha-1318	W-Cha-266247
-Reference link to non-existing reference	106	W-Cha-1318	W-Cha-266264
-Reference link to non-existing reference	107	W-Cha-1318	W-Cha-266265
-Reference link to non-existing reference	108	W-Cha-1318	W-Cha-266715
-Reference link to non-existing reference	109	W-Cha-1318	W-Cha-266783
-Reference link to non-existing reference	110	W-Cha-1318	W-Cha-266800
-Reference link to non-existing reference	111	W-Cha-1318	W-Cha-266801
-Reference link to non-existing reference	112	W-Cha-1318	W-Cha-266818
-Reference link to non-existing reference	113	W-Cha-1318	W-Cha-266886
-Reference link to non-existing reference	117	W-Cha-1318	W-Cha-105421
-Reference link to non-existing reference	121	W-Cha-1318	W-Cha-105471
-Reference link to non-existing reference	123	W-Cha-1318	W-Cha-266243
-Reference link to non-existing reference	124	W-Cha-1318	W-Cha-266261
-Reference link to non-existing reference	125	W-Cha-1318	W-Cha-266268
-Reference link to non-existing reference	126	W-Cha-1318	W-Cha-266686
-Reference link to non-existing reference	127	W-Cha-1318	W-Cha-266711
-Reference link to non-existing reference	128	W-Cha-1318	W-Cha-266736
-Reference link to non-existing reference	129	W-Cha-1318	W-Cha-266779
-Reference link to non-existing reference	132	W-Cha-1318	W-Cha-266822
-Reference link to non-existing reference	133	W-Cha-1318	W-Cha-268026
-Reference link to non-existing reference	134	W-Cha-1318	W-Cha-268051
-Reference link to non-existing reference	140	W-Cha-42	W-Cha-105452
-Reference link to non-existing reference	142	W-Cha-1318	W-Cha-266240
-Reference link to non-existing reference	143	W-Cha-1318	W-Cha-266242
-Reference link to non-existing reference	144	W-Cha-1318	W-Cha-266257
-Reference link to non-existing reference	145	W-Cha-1318	W-Cha-266276
-Reference link to non-existing reference	146	W-Cha-1318	W-Cha-266827
-Reference link to non-existing reference	147	W-Cha-1318	W-Cha-266842
-Reference link to non-existing reference	148	W-Cha-1318	W-Cha-268027
-Reference link to non-existing reference	149	W-Cha-1318	W-Cha-268029
-Reference link to non-existing reference	162	W-Cha-1318	W-Cha-266255
-Reference link to non-existing reference	163	W-Cha-1318	W-Cha-266712
-Reference link to non-existing reference	164	W-Cha-1318	W-Cha-266714
-Reference link to non-existing reference	165	W-Cha-1318	W-Cha-266812
-Reference link to non-existing reference	166	W-Cha-1318	W-Cha-266814
-Reference link to non-existing reference	167	W-Cha-1318	W-Cha-266821
-Reference link to non-existing reference	169	W-Cha-1318	W-Cha-268048
-Reference link to non-existing reference	170	W-Cha-1318	W-Cha-268050
-Reference link to non-existing reference	172	W-Cha-1318	W-Cha-105444
-Reference link to non-existing reference	176	W-Cha-1318	W-Cha-266227
-Reference link to non-existing reference	177	W-Cha-1318	W-Cha-266270
-Reference link to non-existing reference	178	W-Cha-1318	W-Cha-266277
-Reference link to non-existing reference	179	W-Cha-1318	W-Cha-266706
-Reference link to non-existing reference	180	W-Cha-1318	W-Cha-266713
-Reference link to non-existing reference	181	W-Cha-1318	W-Cha-266813
-Reference link to non-existing reference	182	W-Cha-1318	W-Cha-266820
-Reference link to non-existing reference	183	W-Cha-1318	W-Cha-268042
-Reference link to non-existing reference	184	W-Cha-1318	W-Cha-268049
-Reference link to non-existing reference	188	W-Cha-1318	W-Cha-266248
-Reference link to non-existing reference	189	W-Cha-1318	W-Cha-266249
-Reference link to non-existing reference	190	W-Cha-1318	W-Cha-266685
-Reference link to non-existing reference	191	W-Cha-1318	W-Cha-266698
-Reference link to non-existing reference	192	W-Cha-1318	W-Cha-266699
-Reference link to non-existing reference	193	W-Cha-1318	W-Cha-266734
-Reference link to non-existing reference	194	W-Cha-1318	W-Cha-266735
-Reference link to non-existing reference	195	W-Cha-1318	W-Cha-266784
-Reference link to non-existing reference	196	W-Cha-1318	W-Cha-266785
-Reference link to non-existing reference	197	W-Cha-1318	W-Cha-266834
-Reference link to non-existing reference	198	W-Cha-1318	W-Cha-266835
-Reference link to non-existing reference	199	W-Cha-1318	W-Cha-266884
-Reference link to non-existing reference	200	W-Cha-1318	W-Cha-266885
-Reference link to non-existing reference	201	W-Cha-1318	W-Cha-268035
-Reference link to non-existing reference	207	W-Cha-1318	W-Cha-266239
-Reference link to non-existing reference	208	W-Cha-1318	W-Cha-266256
-Reference link to non-existing reference	209	W-Cha-1318	W-Cha-266273
-Reference link to non-existing reference	210	W-Cha-1318	W-Cha-266707
-Reference link to non-existing reference	212	W-Cha-1318	W-Cha-266826
-Reference link to non-existing reference	213	W-Cha-1318	W-Cha-266843
-Reference link to non-existing reference	214	W-Cha-1318	W-Cha-268030
-Reference link to non-existing reference	215	W-Cha-1318	W-Cha-268047
-Reference link to non-existing reference	221	W-Cha-1318	W-Cha-266226
-Reference link to non-existing reference	222	W-Cha-1318	W-Cha-266230
-Reference link to non-existing reference	223	W-Cha-1318	W-Cha-266260
-Reference link to non-existing reference	224	W-Cha-1318	W-Cha-266269
-Reference link to non-existing reference	225	W-Cha-1318	W-Cha-266703
-Reference link to non-existing reference	226	W-Cha-1318	W-Cha-266805
-Reference link to non-existing reference	227	W-Cha-1318	W-Cha-266830
-Reference link to non-existing reference	228	W-Cha-1318	W-Cha-266839
-Reference link to non-existing reference	229	W-Cha-1318	W-Cha-268034
-Reference link to non-existing reference	230	W-Cha-1318	W-Cha-268043
-Reference link to non-existing reference	235	W-Cha-1318	W-Cha-266236
-Reference link to non-existing reference	236	W-Cha-1318	W-Cha-266254
-Reference link to non-existing reference	237	W-Cha-1318	W-Cha-266697
-Reference link to non-existing reference	238	W-Cha-1318	W-Cha-266704
-Reference link to non-existing reference	239	W-Cha-1318	W-Cha-266811
-Reference link to non-existing reference	240	W-Cha-1318	W-Cha-266829
-Reference link to non-existing reference	241	W-Cha-1318	W-Cha-266836
-Reference link to non-existing reference	242	W-Cha-1318	W-Cha-266840
-Reference link to non-existing reference	243	W-Cha-1318	W-Cha-266854
-Reference link to non-existing reference	244	W-Cha-1318	W-Cha-268033
-Reference link to non-existing reference	251	W-Cha-1318	W-Cha-266259
-Reference link to non-existing reference	252	W-Cha-1318	W-Cha-266272
-Reference link to non-existing reference	253	W-Cha-1318	W-Cha-266274
-Reference link to non-existing reference	254	W-Cha-1318	W-Cha-266708
-Reference link to non-existing reference	255	W-Cha-1318	W-Cha-266710
-Reference link to non-existing reference	256	W-Cha-1318	W-Cha-266810
-Reference link to non-existing reference	257	W-Cha-1318	W-Cha-266825
-Reference link to non-existing reference	258	W-Cha-1318	W-Cha-268044
-Reference link to non-existing reference	261	W-Cha-1318	W-Cha-266232
-Reference link to non-existing reference	262	W-Cha-1318	W-Cha-266250
-Reference link to non-existing reference	263	W-Cha-1318	W-Cha-266700
-Reference link to non-existing reference	264	W-Cha-1318	W-Cha-266701
-Reference link to non-existing reference	265	W-Cha-1318	W-Cha-266782
-Reference link to non-existing reference	266	W-Cha-1318	W-Cha-266815
-Reference link to non-existing reference	267	W-Cha-1318	W-Cha-266819
-Reference link to non-existing reference	268	W-Cha-1318	W-Cha-266832
-Reference link to non-existing reference	269	W-Cha-1318	W-Cha-266833
-Reference link to non-existing reference	270	W-Cha-1318	W-Cha-268036
-Reference link to non-existing reference	271	W-Cha-1318	W-Cha-268037
-Reference link to non-existing reference	278	W-Cha-1318	W-Cha-266266
-Reference link to non-existing reference	279	W-Cha-1318	W-Cha-266267
-Reference link to non-existing reference	280	W-Cha-1318	W-Cha-266702
-Reference link to non-existing reference	281	W-Cha-1318	W-Cha-266767
-Reference link to non-existing reference	282	W-Cha-1318	W-Cha-266802
-Reference link to non-existing reference	283	W-Cha-1318	W-Cha-266816
-Reference link to non-existing reference	284	W-Cha-1318	W-Cha-268038
-Reference link to non-existing reference	285	W-Cha-1318	W-Cha-268039
-Reference link to non-existing reference	286	W-Cha-1318	W-Cha-268052
+Reference link to non-existing reference	1	W-Cha-2901	W-Cha-105416
+Reference link to non-existing reference	2	W-Cha-138645	W-Cha-105440
+Reference link to non-existing reference	3	W-Cha-2901	W-Cha-105445
+Reference link to non-existing reference	4	W-Cha-2901	W-Cha-105464
+Reference link to non-existing reference	5	W-Cha-2901	W-Cha-105465
+Reference link to non-existing reference	7	W-Cha-1318	W-Cha-105432
+Reference link to non-existing reference	8	W-Cha-1318	W-Cha-105434
+Reference link to non-existing reference	12	W-Cha-1318	W-Cha-105468
+Reference link to non-existing reference	14	W-Cha-1318	W-Cha-266225
+Reference link to non-existing reference	16	W-Cha-1318	W-Cha-266259
+Reference link to non-existing reference	17	W-Cha-1318	W-Cha-266272
+Reference link to non-existing reference	18	W-Cha-1318	W-Cha-266274
+Reference link to non-existing reference	19	W-Cha-1318	W-Cha-266708
+Reference link to non-existing reference	20	W-Cha-1318	W-Cha-266710
+Reference link to non-existing reference	21	W-Cha-1318	W-Cha-266810
+Reference link to non-existing reference	22	W-Cha-1318	W-Cha-266825
+Reference link to non-existing reference	24	W-Cha-1318	W-Cha-268044
+Reference link to non-existing reference	28	W-Cha-1318	W-Cha-105414
+Reference link to non-existing reference	30	W-Cha-1318	W-Cha-105439
+Reference link to non-existing reference	34	W-Cha-1318	W-Cha-266236
+Reference link to non-existing reference	36	W-Cha-1318	W-Cha-266254
+Reference link to non-existing reference	37	W-Cha-1318	W-Cha-266697
+Reference link to non-existing reference	38	W-Cha-1318	W-Cha-266704
+Reference link to non-existing reference	39	W-Cha-1318	W-Cha-266811
+Reference link to non-existing reference	40	W-Cha-1318	W-Cha-266829
+Reference link to non-existing reference	41	W-Cha-1318	W-Cha-266836
+Reference link to non-existing reference	42	W-Cha-1318	W-Cha-266840
+Reference link to non-existing reference	43	W-Cha-1318	W-Cha-266854
+Reference link to non-existing reference	44	W-Cha-1318	W-Cha-268033
+Reference link to non-existing reference	45	W-Cha-1318	W-Cha-268040
+Reference link to non-existing reference	50	W-Cha-1318	W-Cha-105422
+Reference link to non-existing reference	52	W-Cha-1318	W-Cha-105427
+Reference link to non-existing reference	55	W-Cha-1318	W-Cha-105431
+Reference link to non-existing reference	61	W-Cha-1318	W-Cha-266228
+Reference link to non-existing reference	63	W-Cha-1318	W-Cha-266237
+Reference link to non-existing reference	65	W-Cha-1318	W-Cha-266262
+Reference link to non-existing reference	66	W-Cha-1318	W-Cha-266271
+Reference link to non-existing reference	67	W-Cha-1318	W-Cha-266696
+Reference link to non-existing reference	68	W-Cha-1318	W-Cha-266705
+Reference link to non-existing reference	69	W-Cha-1318	W-Cha-266803
+Reference link to non-existing reference	70	W-Cha-1318	W-Cha-266828
+Reference link to non-existing reference	71	W-Cha-1318	W-Cha-266837
+Reference link to non-existing reference	72	W-Cha-1318	W-Cha-268032
+Reference link to non-existing reference	73	W-Cha-1318	W-Cha-268041
+Reference link to non-existing reference	79	W-Cha-1318	W-Cha-430251
+Reference link to non-existing reference	83	W-Cha-1318	W-Cha-105443
+Reference link to non-existing reference	84	W-Cha-1318	W-Cha-105457
+Reference link to non-existing reference	86	W-Cha-1318	W-Cha-266232
+Reference link to non-existing reference	87	W-Cha-1318	W-Cha-266233
+Reference link to non-existing reference	89	W-Cha-1318	W-Cha-266250
+Reference link to non-existing reference	90	W-Cha-1318	W-Cha-266700
+Reference link to non-existing reference	91	W-Cha-1318	W-Cha-266701
+Reference link to non-existing reference	92	W-Cha-1318	W-Cha-266782
+Reference link to non-existing reference	93	W-Cha-1318	W-Cha-266815
+Reference link to non-existing reference	94	W-Cha-1318	W-Cha-266819
+Reference link to non-existing reference	95	W-Cha-1318	W-Cha-266832
+Reference link to non-existing reference	96	W-Cha-1318	W-Cha-266833
+Reference link to non-existing reference	97	W-Cha-1318	W-Cha-268036
+Reference link to non-existing reference	98	W-Cha-1318	W-Cha-268037
+Reference link to non-existing reference	109	W-Cha-1318	W-Cha-266243
+Reference link to non-existing reference	110	W-Cha-1318	W-Cha-266261
+Reference link to non-existing reference	111	W-Cha-1318	W-Cha-266268
+Reference link to non-existing reference	112	W-Cha-1318	W-Cha-266686
+Reference link to non-existing reference	113	W-Cha-1318	W-Cha-266711
+Reference link to non-existing reference	114	W-Cha-1318	W-Cha-266736
+Reference link to non-existing reference	115	W-Cha-1318	W-Cha-266779
+Reference link to non-existing reference	119	W-Cha-1318	W-Cha-266822
+Reference link to non-existing reference	120	W-Cha-1318	W-Cha-268026
+Reference link to non-existing reference	121	W-Cha-1318	W-Cha-268051
+Reference link to non-existing reference	126	W-Cha-1318	W-Cha-105420
+Reference link to non-existing reference	130	W-Cha-1318	W-Cha-237827
+Reference link to non-existing reference	131	W-Cha-1318	W-Cha-266226
+Reference link to non-existing reference	132	W-Cha-1318	W-Cha-266230
+Reference link to non-existing reference	133	W-Cha-1318	W-Cha-266235
+Reference link to non-existing reference	134	W-Cha-1318	W-Cha-266260
+Reference link to non-existing reference	135	W-Cha-1318	W-Cha-266269
+Reference link to non-existing reference	136	W-Cha-1318	W-Cha-266703
+Reference link to non-existing reference	138	W-Cha-1318	W-Cha-266805
+Reference link to non-existing reference	139	W-Cha-1318	W-Cha-266830
+Reference link to non-existing reference	140	W-Cha-1318	W-Cha-266839
+Reference link to non-existing reference	141	W-Cha-1318	W-Cha-268034
+Reference link to non-existing reference	142	W-Cha-1318	W-Cha-268043
+Reference link to non-existing reference	147	W-Cha-42	W-Cha-105452
+Reference link to non-existing reference	150	W-Cha-1318	W-Cha-266240
+Reference link to non-existing reference	151	W-Cha-1318	W-Cha-266242
+Reference link to non-existing reference	152	W-Cha-1318	W-Cha-266257
+Reference link to non-existing reference	153	W-Cha-1318	W-Cha-266276
+Reference link to non-existing reference	154	W-Cha-1318	W-Cha-266827
+Reference link to non-existing reference	155	W-Cha-1318	W-Cha-266842
+Reference link to non-existing reference	156	W-Cha-1318	W-Cha-268027
+Reference link to non-existing reference	157	W-Cha-1318	W-Cha-268029
+Reference link to non-existing reference	167	W-Cha-1318	W-Cha-266247
+Reference link to non-existing reference	168	W-Cha-1318	W-Cha-266264
+Reference link to non-existing reference	169	W-Cha-1318	W-Cha-266265
+Reference link to non-existing reference	170	W-Cha-1318	W-Cha-266715
+Reference link to non-existing reference	171	W-Cha-1318	W-Cha-266783
+Reference link to non-existing reference	172	W-Cha-1318	W-Cha-266800
+Reference link to non-existing reference	173	W-Cha-1318	W-Cha-266801
+Reference link to non-existing reference	174	W-Cha-1318	W-Cha-266818
+Reference link to non-existing reference	175	W-Cha-1318	W-Cha-266886
+Reference link to non-existing reference	182	W-Cha-1318	W-Cha-105423
+Reference link to non-existing reference	185	W-Cha-1318	W-Cha-266249
+Reference link to non-existing reference	186	W-Cha-1318	W-Cha-266685
+Reference link to non-existing reference	187	W-Cha-1318	W-Cha-266698
+Reference link to non-existing reference	188	W-Cha-1318	W-Cha-266699
+Reference link to non-existing reference	189	W-Cha-1318	W-Cha-266735
+Reference link to non-existing reference	190	W-Cha-1318	W-Cha-266784
+Reference link to non-existing reference	191	W-Cha-1318	W-Cha-266785
+Reference link to non-existing reference	192	W-Cha-1318	W-Cha-266834
+Reference link to non-existing reference	193	W-Cha-1318	W-Cha-266835
+Reference link to non-existing reference	194	W-Cha-1318	W-Cha-266884
+Reference link to non-existing reference	195	W-Cha-1318	W-Cha-266885
+Reference link to non-existing reference	196	W-Cha-1318	W-Cha-268035
+Reference link to non-existing reference	200	W-Cha-1318	W-Cha-105444
+Reference link to non-existing reference	203	W-Cha-1318	W-Cha-266227
+Reference link to non-existing reference	204	W-Cha-1318	W-Cha-266270
+Reference link to non-existing reference	205	W-Cha-1318	W-Cha-266277
+Reference link to non-existing reference	206	W-Cha-1318	W-Cha-266706
+Reference link to non-existing reference	207	W-Cha-1318	W-Cha-266713
+Reference link to non-existing reference	208	W-Cha-1318	W-Cha-266806
+Reference link to non-existing reference	209	W-Cha-1318	W-Cha-266813
+Reference link to non-existing reference	210	W-Cha-1318	W-Cha-266820
+Reference link to non-existing reference	211	W-Cha-1318	W-Cha-268042
+Reference link to non-existing reference	212	W-Cha-1318	W-Cha-268049
+Reference link to non-existing reference	218	W-Cha-1318	W-Cha-266266
+Reference link to non-existing reference	219	W-Cha-1318	W-Cha-266267
+Reference link to non-existing reference	220	W-Cha-1318	W-Cha-266702
+Reference link to non-existing reference	221	W-Cha-1318	W-Cha-266767
+Reference link to non-existing reference	222	W-Cha-1318	W-Cha-266802
+Reference link to non-existing reference	223	W-Cha-1318	W-Cha-266816
+Reference link to non-existing reference	224	W-Cha-1318	W-Cha-268038
+Reference link to non-existing reference	225	W-Cha-1318	W-Cha-268039
+Reference link to non-existing reference	226	W-Cha-1318	W-Cha-268052
+Reference link to non-existing reference	233	W-Cha-1318	W-Cha-266224
+Reference link to non-existing reference	234	W-Cha-1318	W-Cha-266241
+Reference link to non-existing reference	235	W-Cha-1318	W-Cha-266258
+Reference link to non-existing reference	236	W-Cha-1318	W-Cha-266275
+Reference link to non-existing reference	237	W-Cha-1318	W-Cha-266709
+Reference link to non-existing reference	238	W-Cha-1318	W-Cha-266824
+Reference link to non-existing reference	239	W-Cha-1318	W-Cha-266841
+Reference link to non-existing reference	240	W-Cha-1318	W-Cha-268028
+Reference link to non-existing reference	241	W-Cha-1318	W-Cha-268045
+Reference link to non-existing reference	249	W-Cha-1318	W-Cha-266255
+Reference link to non-existing reference	250	W-Cha-1318	W-Cha-266712
+Reference link to non-existing reference	251	W-Cha-1318	W-Cha-266714
+Reference link to non-existing reference	252	W-Cha-1318	W-Cha-266812
+Reference link to non-existing reference	253	W-Cha-1318	W-Cha-266814
+Reference link to non-existing reference	254	W-Cha-1318	W-Cha-266821
+Reference link to non-existing reference	255	W-Cha-1318	W-Cha-268048
+Reference link to non-existing reference	256	W-Cha-1318	W-Cha-268050
+Reference link to non-existing reference	259	W-Cha-1318	W-Cha-266244
+Reference link to non-existing reference	260	W-Cha-1318	W-Cha-266246
+Reference link to non-existing reference	261	W-Cha-1318	W-Cha-266251
+Reference link to non-existing reference	262	W-Cha-1318	W-Cha-266253
+Reference link to non-existing reference	263	W-Cha-1318	W-Cha-266687
+Reference link to non-existing reference	264	W-Cha-1318	W-Cha-266780
+Reference link to non-existing reference	265	W-Cha-1318	W-Cha-266823
+Reference link to non-existing reference	266	W-Cha-1318	W-Cha-266887
+Reference link to non-existing reference	267	W-Cha-1318	W-Cha-268025
+Reference link to non-existing reference	270	W-Cha-1318	W-Cha-221253
+Reference link to non-existing reference	271	W-Cha-1318	W-Cha-266245
+Reference link to non-existing reference	272	W-Cha-1318	W-Cha-266252
+Reference link to non-existing reference	273	W-Cha-1318	W-Cha-266688
+Reference link to non-existing reference	274	W-Cha-1318	W-Cha-266781
+Reference link to non-existing reference	275	W-Cha-1318	W-Cha-266838
+Reference link to non-existing reference	276	W-Cha-1318	W-Cha-266888
+Reference link to non-existing reference	277	W-Cha-1318	W-Cha-268031
+Reference link to non-existing reference	279	W-Cha-1318	W-Cha-266256
+Reference link to non-existing reference	280	W-Cha-1318	W-Cha-266273
+Reference link to non-existing reference	281	W-Cha-1318	W-Cha-266707
+Reference link to non-existing reference	283	W-Cha-1318	W-Cha-266826
+Reference link to non-existing reference	284	W-Cha-1318	W-Cha-266843
+Reference link to non-existing reference	285	W-Cha-1318	W-Cha-268030
+Reference link to non-existing reference	286	W-Cha-1318	W-Cha-268047
 --------------
-SELECT 'Specialist not present in scientific names table', record_id, specialist_name, specialist_code FROM specialists
-WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code FROM specialists AS t1
+LEFT JOIN scientific_names AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference without parent accepted or common name', record_id, author, year, title, reference_code FROM `references`
-WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
-UNION SELECT DISTINCT reference_code FROM common_names)
+SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
 --------------
 
 Reference without parent accepted or common name	record_id	author	year	title	reference_code
-Reference without parent accepted or common name	1	Shih, C.T., A.J.G. Figueira & E.H. Grainger,	1971	NULL	W-Cha-31636
 Reference without parent accepted or common name	2	Casanova, J.; Chidgey, K. C.	1987	NULL	W-Cha-131879
 Reference without parent accepted or common name	5	Muller, Y.	2004	NULL	W-Cha-9269
 Reference without parent accepted or common name	10	Miner, R. W.	1950	NULL	W-Cha-3020
-Reference without parent accepted or common name	11	Srinivasan, M.	1986	NULL	W-Cha-131882
-Reference without parent accepted or common name	15	Pierrot-Bults, A.C.	1979	NULL	W-Cha-125431
 Reference without parent accepted or common name	16	Trott, T. J.	2004	NULL	W-Cha-192633
-Reference without parent accepted or common name	20	Michel, H. B.	1984	NULL	W-Cha-131897
 Reference without parent accepted or common name	21	Okemwa, E.N.	1988	NULL	W-Cha-6387
-Reference without parent accepted or common name	45	Brunel, P.; Bosse, L.; Lamarche, G.	1998	NULL	W-Cha-2930
-Reference without parent accepted or common name	48	Linkletter, L. E.	1977	NULL	W-Cha-2999
-Reference without parent accepted or common name	49	Moltschanoff, L.A.	1909	NULL	W-Cha-167261
-Reference without parent accepted or common name	51	Gosner, K. L.	1978	NULL	W-Cha-192182
-Reference without parent accepted or common name	55	Streftaris, N.; Zenetos, A.; Papathanassiou, E.	2005	NULL	W-Cha-9271
-Reference without parent accepted or common name	56	Thomas, M.L.H. (ed.).	1983	NULL	W-Cha-3071
-Reference without parent accepted or common name	66	Bieri, R.	1974	NULL	W-Cha-131853
+Reference without parent accepted or common name	23	Dawson, J. K.	1968	NULL	W-Cha-131880
+Reference without parent accepted or common name	24	Peijnenburg, K.T.C.A., & A.C. Pierrot-Bults.	2004	NULL	W-Cha-167260
+Reference without parent accepted or common name	29	Zenetos, A.; Gofas, S.; Verlaque, M.; Cinar, M.; Garcia Raso, J.; Bianchi, C.; Morri, C.; Azzurro, E.; Bilecenoglu, M.; Froglia, C.; Siokou, I.; Violanti, D.; Sfriso, A.; San Martin, G.; Giangrande, A	2010	NULL	W-Cha-155063
+Reference without parent accepted or common name	33	Khalil, M.T. & N.S.A. El Rahman	1997	NULL	W-Cha-6379
+Reference without parent accepted or common name	35	Casanova, J.-P.,	1986	NULL	W-Cha-125437
+Reference without parent accepted or common name	41	Pierrot-Bults, A.C.; Chidgey, K.C.	1988	NULL	W-Cha-1210
+Reference without parent accepted or common name	46	Howson, C.M.; Picton, B.E. (Ed.)	1997	NULL	W-Cha-663
+Reference without parent accepted or common name	47	Brunel, P.; Bosse, L.; Lamarche, G.	1998	NULL	W-Cha-2930
+Reference without parent accepted or common name	50	Linkletter, L. E.	1977	NULL	W-Cha-2999
+Reference without parent accepted or common name	53	Gosner, K. L.	1978	NULL	W-Cha-192182
+Reference without parent accepted or common name	57	Streftaris, N.; Zenetos, A.; Papathanassiou, E.	2005	NULL	W-Cha-9271
+Reference without parent accepted or common name	58	Thomas, M.L.H. (ed.).	1983	NULL	W-Cha-3071
+Reference without parent accepted or common name	64	Marumo, R. and M. Kitou.	1966	NULL	W-Cha-131876
 --------------
 DROP TRIGGER IF EXISTS delfamcascade
 --------------
@@ -1680,19 +1691,27 @@ DELETE QUICK FROM scientific_names USING scientific_names INNER JOIN duplicates_
 --------------
 
 --------------
-DELETE FROM common_names WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names WHERE is_accepted_name != 1 AND accepted_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.accepted_name_code = t2.name_code
+WHERE t2.name_code IS NULL AND t1.is_accepted_name != 1
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names WHERE infraspecies_parent_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM lifezone WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
@@ -1702,7 +1721,9 @@ OPTIMIZE TABLE lifezone
 Table	Op	Msg_type	Msg_text
 Assembly_Chaetognatha.lifezone	optimize	status	OK
 --------------
-DELETE QUICK FROM distribution WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
@@ -1712,7 +1733,9 @@ OPTIMIZE TABLE distribution
 Table	Op	Msg_type	Msg_text
 Assembly_Chaetognatha.distribution	optimize	status	OK
 --------------
-DELETE QUICK FROM scientific_names WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL
 --------------
 
 --------------
@@ -1722,11 +1745,15 @@ OPTIMIZE TABLE scientific_names
 Table	Op	Msg_type	Msg_text
 Assembly_Chaetognatha.scientific_names	optimize	status	OK
 --------------
-DELETE QUICK FROM scientific_name_references WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM scientific_name_references WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+DELETE QUICK t1 FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL
 --------------
 
 --------------
@@ -1736,12 +1763,16 @@ OPTIMIZE TABLE scientific_name_references
 Table	Op	Msg_type	Msg_text
 Assembly_Chaetognatha.scientific_name_references	optimize	status	OK
 --------------
-DELETE FROM specialists WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+DELETE QUICK t1 FROM specialists AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM `references` WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
-UNION SELECT DISTINCT reference_code FROM common_names)
+DELETE t1 FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
 --------------
 
 --------------

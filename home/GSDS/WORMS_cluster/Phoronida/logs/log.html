@@ -998,7 +998,7 @@ Data Loaded.
 </pre>
 </pre><hr><b>Backing up...</b>
 <pre>
-Creating directory  23_48_03_05Aug2015
+Creating directory  10_26_34_10Sep2015
 Backing up files
 </pre><hr><b>Executing local editorial checks</b>
 <pre>
@@ -1308,8 +1308,9 @@ ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.auth
 --------------
 
 --------------
-SELECT 'Common name without parent accepted name', record_id, common_name, name_code FROM common_names
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Common name without parent accepted name', t1.record_id, t1.common_name, t1.name_code FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
@@ -1340,30 +1341,35 @@ SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, ge
 --------------
 
 --------------
-SELECT 'Lifezone without parent accepted name', record_id, name_code, lifezone FROM lifezone
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Lifezone without parent accepted name', t1.record_id, t1.name_code, t1.lifezone FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Distribution without parent accepted name', record_id, name_code, distribution FROM distribution
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Distribution without parent accepted name', t1.record_id, t1.name_code, t1.distribution FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Accepted name without parent family', record_id, name_code, genus, species, infraspecies, family_code FROM scientific_names
-WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.family_code FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference link to non-existing accepted name', record_id, reference_code, name_code FROM scientific_name_references
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 Reference link to non-existing accepted name	record_id	reference_code	name_code
 Reference link to non-existing accepted name	11	W-Pho-1318	W-Pho-266316
 --------------
-SELECT 'Reference link to non-existing reference', record_id, reference_code, name_code FROM scientific_name_references
-WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL
 --------------
 
 Reference link to non-existing reference	record_id	reference_code	name_code
@@ -1372,20 +1378,22 @@ Reference link to non-existing reference	10	W-Pho-163217	W-Pho-237586
 Reference link to non-existing reference	11	W-Pho-1318	W-Pho-266316
 Reference link to non-existing reference	13	W-Pho-42	W-Pho-584806
 --------------
-SELECT 'Specialist not present in scientific names table', record_id, specialist_name, specialist_code FROM specialists
-WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code FROM specialists AS t1
+LEFT JOIN scientific_names AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference without parent accepted or common name', record_id, author, year, title, reference_code FROM `references`
-WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
-UNION SELECT DISTINCT reference_code FROM common_names)
+SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
 --------------
 
 Reference without parent accepted or common name	record_id	author	year	title	reference_code
 Reference without parent accepted or common name	6	Wright, T.S.	1856	NULL	W-Pho-1566
 Reference without parent accepted or common name	7	Selys-Longchamps, M. de	1903	NULL	W-Pho-1581
-Reference without parent accepted or common name	8	Sil√©n, L.	1952	NULL	W-Pho-1582
+Reference without parent accepted or common name	8	SilÈn, L.	1952	NULL	W-Pho-1582
 Reference without parent accepted or common name	9	Cori, C. J.	1889	NULL	W-Pho-1584
 Reference without parent accepted or common name	10	Brunel, P.; Bosse, L.; Lamarche, G.	1998	NULL	W-Pho-2930
 Reference without parent accepted or common name	11	Muller, Y.	2004	NULL	W-Pho-9269
@@ -1393,13 +1401,13 @@ Reference without parent accepted or common name	12	Gordon, D. P.	2009	NULL	W-Ph
 Reference without parent accepted or common name	13	Santagata, S.	2009	NULL	W-Pho-141261
 Reference without parent accepted or common name	25	Actinotrocha californica Temereva,	2009	NULL	W-Pho-163228
 Reference without parent accepted or common name	26	Actinotrocha albomaculata Temereva,	2009	NULL	W-Pho-163229
-Reference without parent accepted or common name	27	Actinotrocha hippocrepia Sil√©n,	1954	NULL	W-Pho-163230
+Reference without parent accepted or common name	27	Actinotrocha hippocrepia SilÈn,	1954	NULL	W-Pho-163230
 Reference without parent accepted or common name	28	Actinotrocha vancouverensis Zimmer,	1964	NULL	W-Pho-163231
-Reference without parent accepted or common name	30	Actinotrocha branchiata M√ºller,	1846	NULL	W-Pho-163233
-Reference without parent accepted or common name	31	Larva not an Actinotrocha described by Sil√©n	1954	NULL	W-Pho-163234
+Reference without parent accepted or common name	30	Actinotrocha branchiata M¸ller,	1846	NULL	W-Pho-163233
+Reference without parent accepted or common name	31	Larva not an Actinotrocha described by SilÈn	1954	NULL	W-Pho-163234
 Reference without parent accepted or common name	32	Actinotrocha pallida Schneider,	1862	NULL	W-Pho-163235
 Reference without parent accepted or common name	33	Actinotrocha sabatieri Roule,	1890	NULL	W-Pho-163236
-Reference without parent accepted or common name	34	√Ålvarez F., Emig C. C., Rold√°n C. & J. M. Vi√©itez,	2005	NULL	W-Pho-163253
+Reference without parent accepted or common name	34	¡lvarez F., Emig C. C., Rold·n C. & J. M. ViÈitez,	2005	NULL	W-Pho-163253
 Reference without parent accepted or common name	35	Dyntaxa	2013	NULL	W-Pho-165516
 --------------
 DROP TRIGGER IF EXISTS delfamcascade
@@ -1429,19 +1437,27 @@ DELETE QUICK FROM scientific_names USING scientific_names INNER JOIN duplicates_
 --------------
 
 --------------
-DELETE FROM common_names WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names WHERE is_accepted_name != 1 AND accepted_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.accepted_name_code = t2.name_code
+WHERE t2.name_code IS NULL AND t1.is_accepted_name != 1
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names WHERE infraspecies_parent_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM lifezone WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
@@ -1451,7 +1467,9 @@ OPTIMIZE TABLE lifezone
 Table	Op	Msg_type	Msg_text
 Assembly_Phoronida.lifezone	optimize	status	OK
 --------------
-DELETE QUICK FROM distribution WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
@@ -1461,7 +1479,9 @@ OPTIMIZE TABLE distribution
 Table	Op	Msg_type	Msg_text
 Assembly_Phoronida.distribution	optimize	status	OK
 --------------
-DELETE QUICK FROM scientific_names WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL
 --------------
 
 --------------
@@ -1471,11 +1491,15 @@ OPTIMIZE TABLE scientific_names
 Table	Op	Msg_type	Msg_text
 Assembly_Phoronida.scientific_names	optimize	status	OK
 --------------
-DELETE QUICK FROM scientific_name_references WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM scientific_name_references WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+DELETE QUICK t1 FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL
 --------------
 
 --------------
@@ -1485,12 +1509,16 @@ OPTIMIZE TABLE scientific_name_references
 Table	Op	Msg_type	Msg_text
 Assembly_Phoronida.scientific_name_references	optimize	status	OK
 --------------
-DELETE FROM specialists WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+DELETE QUICK t1 FROM specialists AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM `references` WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
-UNION SELECT DISTINCT reference_code FROM common_names)
+DELETE t1 FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
 --------------
 
 --------------

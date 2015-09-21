@@ -4,7 +4,7 @@
 </pre><hr><b>File format conversions...</b>
 <pre>
 Unzipping
-Archive:  WoRMS_Xenoturbellida.zip
+Archive:  WoRMS_Monogenea.zip
   inflating: AcceptedSpecies.txt     
   inflating: AcceptedInfraSpecificTaxa.txt  
   inflating: Synonyms.txt            
@@ -19,13 +19,13 @@ Skipping format conversion
 <pre>
 Initiating buffer creation - this may take a while depending on size of the dataset...
 
-Creating buffer database Buffer_Xenoturbellida in schema as provided by Xenoturbellida
+Creating buffer database Buffer_Monogenea in schema as provided by Monogenea
 --------------
-DROP DATABASE IF EXISTS Buffer_Xenoturbellida
+DROP DATABASE IF EXISTS Buffer_Monogenea
 --------------
 
 --------------
-CREATE DATABASE IF NOT EXISTS Buffer_Xenoturbellida
+CREATE DATABASE IF NOT EXISTS Buffer_Monogenea
 --------------
 
 --------------
@@ -205,13 +205,13 @@ LOAD DATA LOCAL INFILE 'Synonyms.txt' INTO TABLE `Synonyms` CHARACTER SET utf8 F
 
 
 
-Initial database created. Creating database Assembly_Xenoturbellida in assembly schema
+Initial database created. Creating database Assembly_Monogenea in assembly schema
 --------------
-DROP DATABASE IF EXISTS Assembly_Xenoturbellida
+DROP DATABASE IF EXISTS Assembly_Monogenea
 --------------
 
 --------------
-CREATE DATABASE IF NOT EXISTS Assembly_Xenoturbellida
+CREATE DATABASE IF NOT EXISTS Assembly_Monogenea
 --------------
 
 --------------
@@ -318,11 +318,15 @@ CREATE TABLE  `scientific_names` (
   `is_accepted_name` int(1) DEFAULT NULL,
   `GSDTaxonGUID` longtext,
   `GSDNameGUID` longtext,
+  `is_extinct` smallint(1) NOT NULL DEFAULT '0',
+  `has_preholocene` smallint(1) NOT NULL DEFAULT '0',
+  `has_modern` smallint(1) NOT NULL DEFAULT '1',
   PRIMARY KEY (`record_id`,`name_code`),
   KEY `database_id` (`database_id`),
   KEY `family_id` (`family_id`),
   KEY `species` (`species`),
   KEY `infraspecies` (`infraspecies`),
+  KEY `specialist_code` (`specialist_code`),
   KEY `accepted_name_code` (`accepted_name_code`),
   KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
   KEY `name_code1` (`name_code`,`family_id`),
@@ -352,6 +356,7 @@ CREATE TABLE  `common_names` (
   `reference_code` varchar(50) DEFAULT NULL,
   PRIMARY KEY (`record_id`),
   KEY `common_name` (`common_name`),
+  KEY `reference_code` (`reference_code`),
   KEY `name_code` (`name_code`)
 ) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
 --------------
@@ -405,6 +410,7 @@ CREATE TABLE  `scientific_name_references` (
   `database_id` int(10) NOT NULL,
   PRIMARY KEY (`record_id`),
   KEY `name_code` (`name_code`,`reference_id`,`reference_type`),
+  KEY `reference_code` (`reference_code`),
   KEY `name_code_2` (`name_code`,`reference_type`)
 ) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
 --------------
@@ -422,7 +428,8 @@ CREATE TABLE  `references` (
   `source` longtext,
   `database_id` int(10) NOT NULL,
   `reference_code` varchar(50) DEFAULT NULL,
-  PRIMARY KEY (`record_id`)
+  PRIMARY KEY (`record_id`),
+  KEY `reference_code` (`reference_code`)
 ) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
 --------------
 
@@ -436,7 +443,8 @@ CREATE TABLE  `specialists` (
   `specialist_name` varchar(255) NOT NULL DEFAULT '',
   `specialist_code` varchar(50) DEFAULT NULL,
   `database_id` int(10) NOT NULL,
-  PRIMARY KEY (`record_id`)
+  PRIMARY KEY (`record_id`),
+  KEY `specialist_code` (`specialist_code`)
 ) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
 --------------
 
@@ -505,15 +513,19 @@ Creation of the assembly database completed.
 
 Starting structural transformations (ACEF3 to ACI)
 --------------
-SET @dbid = 100
+SET @dbid = 126
 --------------
 
 --------------
-SET @dbabbr = 'Xen-'
+SET @dbabbr = 'W-Mon-'
 --------------
 
 --------------
-SET @dbtouse = 'Buffer_Xenoturbellida'
+SET @dbtouse = 'Buffer_Monogenea'
+--------------
+
+--------------
+UPDATE `databases` SET `taxonomic_coverage`="Animalia-Platyhelminthes-Monogenea", `is_new` = 2, `taxa`="Monogenean flatworms", `coverage`="Global", `completeness` = 100, `confidence` = 3
 --------------
 
 --------------
@@ -526,7 +538,7 @@ TRUNCATE TABLE `databases`
 
 --------------
 SET @query = CONCAT("
-INSERT INTO `databases` 
+INSERT INTO `databases`
  SELECT
  CONCAT(`DatabaseShortName`, ': ', `DatabaseFullName`)  AS `database_name_displayed`,
  @dbid AS `record_id`,
@@ -576,12 +588,12 @@ TRUNCATE TABLE `distribution`
 
 --------------
 SET @query = CONCAT("
-INSERT INTO `distribution` 
+INSERT INTO `distribution`
  SELECT
  NULL AS `record_id`,
  CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
  `Distribution` AS `distribution`,
- `StandardInUse` AS `StandardInUse`, 
+ `StandardInUse` AS `StandardInUse`,
  `DistributionStatus` AS `DistributionStatus`,
 @dbid AS `database_id`
  FROM ",
@@ -648,15 +660,15 @@ TRUNCATE TABLE `specialists`
 --------------
 SET @query = CONCAT("
 INSERT INTO `specialists`
-SELECT DISTINCT 
+SELECT DISTINCT
 NULL  AS `record_id`,
 `LTSSpecialist` AS `specialist_name`,
 NULL AS `specialist_code`,
 @dbid AS `database_id`
 FROM ",
 @dbtouse,
-".`AcceptedSpecies` 
-WHERE `LTSSpecialist` IS NOT NULL OR 
+".`AcceptedSpecies`
+WHERE `LTSSpecialist` IS NOT NULL OR
 `LTSSpecialist` != ''")
 --------------
 
@@ -683,7 +695,7 @@ TRUNCATE TABLE `scientific_names`
 --------------
 SET @query = CONCAT("
 INSERT INTO `scientific_names`
-SELECT 
+SELECT
 NULL AS `record_id`,
 CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
 `SpeciesURL` AS `web_site`,
@@ -705,11 +717,14 @@ CONCAT(@dbabbr,`AcceptedTaxonID`) AS `accepted_name_code`,
 `families`.`family_code` AS `family_code`,
 1 AS `is_accepted_name`,
 `GSDTaxonGUI` AS `GSDTaxonGUI`,
-`GSDNameGUI` AS `GSDNameGUI`
+`GSDNameGUI` AS `GSDNameGUI`,
+`IsFossil` AS `is_extinct`,
+`IsFossil` AS `has_preholocene`,
+if (`IsFossil` = 0, 1, 0) AS `has_modern`
 FROM ",
 @dbtouse,
 ".`AcceptedSpecies` AcceptedSpecies
-LEFT OUTER JOIN `families` ON 
+LEFT OUTER JOIN `families` ON
 (`AcceptedSpecies`.`Kingdom` = `families`.`kingdom` AND
 `AcceptedSpecies`.`Phylum` = `families`.`phylum` AND
 `AcceptedSpecies`.`Class` = `families`.`class` AND
@@ -719,8 +734,7 @@ LEFT OUTER JOIN `families` ON
 LEFT OUTER JOIN `specialists` ON
 `AcceptedSpecies`.`LTSSpecialist` = `specialists`.`specialist_name`
 LEFT OUTER JOIN `sp2000_statuses` ON
-`AcceptedSpecies`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
-WHERE `AcceptedSpecies`.`IsFossil` = 0")
+`AcceptedSpecies`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`")
 --------------
 
 --------------
@@ -742,7 +756,7 @@ TRUNCATE TABLE `lifezone`
 --------------
 SET @query = CONCAT("
 INSERT INTO `lifezone`
-SELECT 
+SELECT
 NULL AS `record_id`,
 CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
 `LifeZone` AS `lifezone`,
@@ -768,7 +782,7 @@ DEALLOCATE PREPARE stmt
 --------------
 SET @query = CONCAT("
 INSERT INTO `scientific_names`
-SELECT 
+SELECT
 NULL AS `record_id`,
 CONCAT(@dbabbr,`AIT`.`AcceptedTaxonID`) AS `name_code`,
 NULL AS `web_site`,
@@ -790,7 +804,10 @@ NULL AS `family_id`,
 sn.family_code AS `family_code`,
 1 AS `is_accepted_name`,
 NULL AS `GSDTaxonGUI`,
-`AIT`.`GSDNameGUI` AS `GSDNameGUI` 
+`AIT`.`GSDNameGUI` AS `GSDNameGUI`,
+0 AS `is_extinct`,
+0 AS `has_preholocene`,
+1 AS `has_modern`
 FROM ",
 @dbtouse,
 ".`AcceptedInfraSpecificTaxa` AIT
@@ -817,7 +834,7 @@ DEALLOCATE PREPARE stmt
 --------------
 SET @query = CONCAT("
 INSERT INTO `scientific_names`
-SELECT 
+SELECT
 NULL AS `record_id`,
 CONCAT(@dbabbr,`Synonyms`.`ID`) AS `name_code`,
 NULL AS `web_site`,
@@ -839,7 +856,10 @@ sn.`specialist_code` AS `specialist_code`,
 sn.`family_code` AS `family_code`,
 0 AS `is_accepted_name`,
 NULL AS `GSDTaxonGUI`,
-`Synonyms`.`GSDNameGUI` AS `GSDNameGUI` 
+`Synonyms`.`GSDNameGUI` AS `GSDNameGUI` ,
+0 AS `is_extinct`,
+0 AS `has_preholocene`,
+1 AS `has_modern`
 FROM ",
 @dbtouse,
 ".`Synonyms` Synonyms
@@ -867,9 +887,9 @@ TRUNCATE TABLE `common_names`
 
 --------------
 SET @query = CONCAT("
-INSERT INTO `common_names` 
+INSERT INTO `common_names`
 SELECT
-NULL, 
+NULL,
 CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
 CONVERT(`CommonName` USING utf8) AS `common_name`,
 `Transliteration` AS `transliteration`,
@@ -903,9 +923,9 @@ TRUNCATE TABLE `references`
 
 --------------
 SET @query = CONCAT("
-INSERT INTO `references` 
+INSERT INTO `references`
 SELECT
-NULL AS `record_id`, 
+NULL AS `record_id`,
 `Authors` AS `author`,
 `Year` AS `year`,
 NULL AS `title`,
@@ -935,11 +955,11 @@ TRUNCATE TABLE `scientific_name_references`
 
 --------------
 SET @query = CONCAT("
-INSERT INTO `scientific_name_references` 
+INSERT INTO `scientific_name_references`
 SELECT
 NULL AS `record_id`,
-CONCAT(@dbabbr, `ID`) AS `name_code`,	
-`ReferenceType` AS `reference_type`,	
+CONCAT(@dbabbr, `ID`) AS `name_code`,
+`ReferenceType` AS `reference_type`,
 NULL AS `reference_id`,
 CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`,
 @dbid AS `database_id`
@@ -978,7 +998,7 @@ Data Loaded.
 </pre>
 </pre><hr><b>Backing up...</b>
 <pre>
-Creating directory  23_34_03_05Jan2013
+Creating directory  10_13_17_10Sep2015
 Backing up files
 </pre><hr><b>Executing local editorial checks</b>
 <pre>
@@ -1007,7 +1027,7 @@ DELETE FROM `scientific_names` WHERE (`species` IS NULL OR `species` LIKE "%sp.%
 --------------
 
 --------------
-DELETE FROM `scientific_names` WHERE (`genus` IS NULL OR `genus` = "" OR genus like "% %" OR `genus` LIKE '%sp.%' OR `genus` LIKE "%spp.%")  AND `infraspecies` IS NULL
+DELETE FROM `scientific_names` WHERE `genus` IS NULL OR `genus` = "" OR genus like "% %" OR `genus` LIKE '%sp.%' OR `genus` LIKE "%spp.%"
 --------------
 
 --------------
@@ -1035,23 +1055,23 @@ UPDATE `scientific_names` SET `sp2000_status_id` = 5 WHERE `sp2000_status_id` IS
 --------------
 
 --------------
-UPDATE `families` SET `family` = SUBSTRING_INDEX(`family`, ' ', 1) WHERE `family` LIKE "% %"
+UPDATE `families` SET `family` = "Not assigned" WHERE `family` LIKE "% %"
 --------------
 
 --------------
-UPDATE `families` SET `order` = SUBSTRING_INDEX(`order`, ' ', 1) WHERE `order` LIKE "% %"
+UPDATE `families` SET `order` = "Not assigned" WHERE `order` LIKE "% %"
 --------------
 
 --------------
-UPDATE `families` SET `class` = SUBSTRING_INDEX(`class`, ' ', 1) WHERE `class` LIKE "% %"
+UPDATE `families` SET `class` = "Not assigned" WHERE `class` LIKE "% %"
 --------------
 
 --------------
-UPDATE `families` SET `phylum` = SUBSTRING_INDEX(`phylum`, ' ', 1) WHERE `phylum` LIKE "% %"
+UPDATE `families` SET `phylum` = "Not assigned" WHERE `phylum` LIKE "% %"
 --------------
 
 --------------
-UPDATE `families` SET `kingdom` = SUBSTRING_INDEX(`kingdom`, ' ', 1) WHERE `kingdom` LIKE "% %"
+UPDATE `families` SET `kingdom` = "Not assigned" WHERE `kingdom` LIKE "% %"
 --------------
 
 --------------
@@ -1107,6 +1127,168 @@ UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `re
 --------------
 
 --------------
+UPDATE `databases` SET database_name_displayed = REPLACE(database_name_displayed,'_',' ')
+--------------
+
+--------------
+UPDATE `databases` SET database_name = REPLACE(database_name,'_',' ')
+--------------
+
+--------------
+UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ',', '')
+--------------
+
+--------------
+UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ';', ',')
+--------------
+
+--------------
+SELECT "Misspelt infraspecies (no subgenus): ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names` 
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND 
+(`subgenus` IS NULL OR `subgenus` = '') AND 
+`infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%')
+--------------
+
+--------------
+SELECT "Misspelt infraspecies (with subgenus): ", `name_code`, `genus`, `subgenus`, `species`, `infraspecies` FROM `scientific_names` 
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND 
+`subgenus` != '' AND 
+(`infraspecies` NOT LIKE CONCAT(`genus`, ' (', `subgenus`, ') ', `species`, '%') OR `infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%'))
+--------------
+
+--------------
+DELETE FROM `scientific_names` 
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND 
+(`subgenus` IS NULL OR `subgenus` = '') AND 
+`infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%')
+--------------
+
+--------------
+DELETE FROM `scientific_names` 
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND 
+`subgenus` != '' AND 
+(`infraspecies` NOT LIKE CONCAT(`genus`, ' (', `subgenus`, ') ', `species`, '%') OR `infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%'))
+--------------
+
+--------------
+SELECT "Incorrect infraspecies: ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names` 
+WHERE `infraspecies` LIKE '% %'  AND 
+`infraspecies` NOT LIKE 'f.%' AND 
+`infraspecies` NOT LIKE 'var.%' AND
+`infraspecies` NOT LIKE 'subsp.%'
+--------------
+
+--------------
+DELETE FROM `scientific_names` 
+WHERE `infraspecies` LIKE '% %'  AND 
+`infraspecies` NOT LIKE 'f.%' AND 
+`infraspecies` NOT LIKE 'var.%' AND
+`infraspecies` NOT LIKE 'subsp.%'
+--------------
+
+--------------
+SELECT "Infraspecies starting with marker: ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names` 
+WHERE `infraspecies` LIKE '% %' AND 
+(`infraspecies` LIKE 'f.%' OR 
+`infraspecies` LIKE 'var.%' OR
+`infraspecies` LIKE 'subsp.%')
+--------------
+
+Infraspecies starting with marker: 	name_code	genus	species	infraspecies
+Infraspecies starting with marker: 	W-Mon-196407	Lamellodiscus	kechemirae	f. tomentosus
+--------------
+UPDATE `scientific_names` SET `infraspecies` = SUBSTRING_INDEX(`infraspecies`, ' ', -1)
+WHERE `infraspecies` LIKE '% %' AND 
+(`infraspecies` LIKE 'f.%' OR 
+`infraspecies` LIKE 'var.%' OR
+`infraspecies` LIKE 'subsp.%')
+--------------
+
+--------------
+SELECT "Infraspecies mismatch (infraspecies_parent_name_code set but infraspecies empty): ", `name_code`, `infraspecies_parent_name_code` FROM `scientific_names` 
+WHERE CHAR_LENGTH(`infraspecies_parent_name_code`) > 1 AND 
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+SELECT "Infraspecies mismatch (infraspecies_marker set but infraspecies empty): ", `name_code`, `infraspecies_marker` FROM `scientific_names` 
+WHERE CHAR_LENGTH(`infraspecies_marker`) > 1 AND
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+DELETE FROM `scientific_names` 
+WHERE CHAR_LENGTH(`infraspecies_parent_name_code`) > 1 AND 
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+DELETE FROM `scientific_names` 
+WHERE CHAR_LENGTH(`infraspecies_marker`) > 1 AND
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+UPDATE `scientific_names` SET `species` = LOWER(`species`)
+--------------
+
+--------------
+SELECT "Empty species name: ", `name_code`, `genus`, `infraspecies` FROM `scientific_names` 
+WHERE `species` = '' OR `species` IS NULL
+--------------
+
+--------------
+DELETE FROM `scientific_names` 
+WHERE `species` = '' OR `species` IS NULL
+--------------
+
+--------------
+SELECT "Empty reference: ", `author`, `year`, `reference_code` FROM `references` 
+WHERE (`title` = '' OR `title` IS NULL) AND
+(`source` = '' OR `source` IS NULL)
+--------------
+
+--------------
+DELETE FROM `references` 
+WHERE (`title` = '' OR `title` IS NULL) AND
+(`source` = '' OR `source` IS NULL)
+--------------
+
+--------------
+UPDATE `scientific_names` SET `scrutiny_date` = DATE_FORMAT(`scrutiny_date`, '%d-%b-%Y')
+WHERE `scrutiny_date` LIKE '%:%' AND
+(`scrutiny_date` != '' OR `scrutiny_date` IS NOT NULL)
+--------------
+
+--------------
+SELECT "Set is_infraspecies flag: ", t1.`name_code`, t1.`common_name`, t2.`genus`, t2.`species`, t2.`infraspecies` 
+FROM `common_names` AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.`name_code` = t2.`name_code` 
+WHERE (t2.`infraspecies` != '' OR t2.`infraspecies` IS NOT NULL) AND
+t1.`is_infraspecies` = 0
+--------------
+
+--------------
+UPDATE `common_names` AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.`name_code` = t2.`name_code` 
+SET t1.`is_infraspecies` = 1
+WHERE (t2.`infraspecies` != '' OR t2.`infraspecies` IS NOT NULL) AND
+t1.`is_infraspecies` = 0
+--------------
+
+--------------
+UPDATE `scientific_names` SET `author` = TRIM(`author`)
+--------------
+
+--------------
+UPDATE `references`  SET `author` = TRIM(`author`)
+--------------
+
+--------------
 SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
 --------------
 
@@ -1128,12 +1310,27 @@ ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.auth
 --------------
 
 --------------
-SELECT 'Common name without parent accepted name', record_id, common_name, name_code FROM common_names
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Common name without parent accepted name', t1.record_id, t1.common_name, t1.name_code FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-CREATE TEMPORARY TABLE scientific_names_tmp AS SELECT * FROM scientific_names
+CREATE TEMPORARY TABLE scientific_names_tmp 
+(PRIMARY KEY (`record_id`,`name_code`),
+  KEY `database_id` (`database_id`),
+  KEY `family_id` (`family_id`),
+  KEY `species` (`species`),
+  KEY `infraspecies` (`infraspecies`),
+  KEY `specialist_code` (`specialist_code`),
+  KEY `accepted_name_code` (`accepted_name_code`),
+  KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
+  KEY `name_code1` (`name_code`,`family_id`),
+  KEY `record_id` (`record_id`,`family_id`),
+  KEY `genus` (`genus`,`species`,`infraspecies`),
+  KEY `sp2000_status_id` (`sp2000_status_id`),
+  KEY `sp2000_status_id_2` (`sp2000_status_id`,`database_id`,`infraspecies`))
+SELECT * FROM scientific_names
 --------------
 
 --------------
@@ -1146,43 +1343,529 @@ SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, ge
 --------------
 
 --------------
-SELECT 'Lifezone without parent accepted name', record_id, name_code, lifezone FROM lifezone
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Lifezone without parent accepted name', t1.record_id, t1.name_code, t1.lifezone FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Distribution without parent accepted name', record_id, name_code, distribution FROM distribution
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Distribution without parent accepted name', t1.record_id, t1.name_code, t1.distribution FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Accepted name without parent family', record_id, name_code, genus, species, infraspecies, family_code FROM scientific_names
-WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.family_code FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference link to non-existing accepted name', record_id, reference_code, name_code FROM scientific_name_references
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+Reference link to non-existing accepted name	record_id	reference_code	name_code
+Reference link to non-existing accepted name	86	W-Mon-194896	W-Mon-827507
+Reference link to non-existing accepted name	169	W-Mon-197864	W-Mon-849731
+Reference link to non-existing accepted name	268	W-Mon-198376	W-Mon-827939
+Reference link to non-existing accepted name	300	W-Mon-1348	W-Mon-119727
+Reference link to non-existing accepted name	309	W-Mon-127204	W-Mon-388385
+Reference link to non-existing accepted name	360	W-Mon-196064	W-Mon-834005
+Reference link to non-existing accepted name	604	W-Mon-195120	W-Mon-827974
+Reference link to non-existing accepted name	606	W-Mon-196310	W-Mon-835245
+Reference link to non-existing accepted name	674	W-Mon-196303	W-Mon-827172
+Reference link to non-existing accepted name	821	W-Mon-196064	W-Mon-834007
+Reference link to non-existing accepted name	906	W-Mon-193036	W-Mon-815934
+Reference link to non-existing accepted name	965	W-Mon-193036	W-Mon-815935
+Reference link to non-existing accepted name	966	W-Mon-197864	W-Mon-849735
+Reference link to non-existing accepted name	1026	W-Mon-196064	W-Mon-834006
+Reference link to non-existing accepted name	1138	W-Mon-196733	W-Mon-836013
+Reference link to non-existing accepted name	1213	W-Mon-176841	W-Mon-718271
+--------------
+SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL
+--------------
+
+Reference link to non-existing reference	record_id	reference_code	name_code
+Reference link to non-existing reference	1	W-Mon-147411	W-Mon-119552
+Reference link to non-existing reference	2	W-Mon-1348	W-Mon-119395
+Reference link to non-existing reference	3	W-Mon-1348	W-Mon-119397
+Reference link to non-existing reference	4	W-Mon-1348	W-Mon-119418
+Reference link to non-existing reference	6	W-Mon-1348	W-Mon-119452
+Reference link to non-existing reference	7	W-Mon-1348	W-Mon-119454
+Reference link to non-existing reference	8	W-Mon-1348	W-Mon-119461
+Reference link to non-existing reference	11	W-Mon-1348	W-Mon-119488
+Reference link to non-existing reference	12	W-Mon-1348	W-Mon-119495
+Reference link to non-existing reference	13	W-Mon-1348	W-Mon-119497
+Reference link to non-existing reference	15	W-Mon-1348	W-Mon-119554
+Reference link to non-existing reference	18	W-Mon-1348	W-Mon-119561
+Reference link to non-existing reference	20	W-Mon-1348	W-Mon-119588
+Reference link to non-existing reference	21	W-Mon-1348	W-Mon-119595
+Reference link to non-existing reference	22	W-Mon-1348	W-Mon-119597
+Reference link to non-existing reference	23	W-Mon-132580	W-Mon-119608
+Reference link to non-existing reference	25	W-Mon-1348	W-Mon-119631
+Reference link to non-existing reference	26	W-Mon-1348	W-Mon-119652
+Reference link to non-existing reference	27	W-Mon-1348	W-Mon-119654
+Reference link to non-existing reference	29	W-Mon-1348	W-Mon-119661
+Reference link to non-existing reference	30	W-Mon-1348	W-Mon-119688
+Reference link to non-existing reference	31	W-Mon-1348	W-Mon-119695
+Reference link to non-existing reference	32	W-Mon-1348	W-Mon-119697
+Reference link to non-existing reference	34	W-Mon-1348	W-Mon-119731
+Reference link to non-existing reference	35	W-Mon-1348	W-Mon-119754
+Reference link to non-existing reference	36	W-Mon-1348	W-Mon-119761
+Reference link to non-existing reference	41	W-Mon-127204	W-Mon-387904
+Reference link to non-existing reference	43	W-Mon-127204	W-Mon-395656
+Reference link to non-existing reference	44	W-Mon-127204	W-Mon-396149
+Reference link to non-existing reference	45	W-Mon-127204	W-Mon-396458
+Reference link to non-existing reference	47	W-Mon-132580	W-Mon-414346
+Reference link to non-existing reference	48	W-Mon-132580	W-Mon-414380
+Reference link to non-existing reference	49	W-Mon-132580	W-Mon-414382
+Reference link to non-existing reference	55	W-Mon-92249	W-Mon-518475
+Reference link to non-existing reference	56	W-Mon-198581	W-Mon-518503
+Reference link to non-existing reference	87	W-Mon-1348	W-Mon-119402
+Reference link to non-existing reference	88	W-Mon-1348	W-Mon-119411
+Reference link to non-existing reference	89	W-Mon-1348	W-Mon-119436
+Reference link to non-existing reference	90	W-Mon-42	W-Mon-119444
+Reference link to non-existing reference	91	W-Mon-1348	W-Mon-119445
+Reference link to non-existing reference	92	W-Mon-1348	W-Mon-119470
+Reference link to non-existing reference	97	W-Mon-1348	W-Mon-119504
+Reference link to non-existing reference	99	W-Mon-1348	W-Mon-119538
+Reference link to non-existing reference	100	W-Mon-1348	W-Mon-119547
+Reference link to non-existing reference	102	W-Mon-1348	W-Mon-119572
+Reference link to non-existing reference	103	W-Mon-1348	W-Mon-119577
+Reference link to non-existing reference	105	W-Mon-1348	W-Mon-119602
+Reference link to non-existing reference	107	W-Mon-1348	W-Mon-119611
+Reference link to non-existing reference	108	W-Mon-1348	W-Mon-119636
+Reference link to non-existing reference	109	W-Mon-1348	W-Mon-119645
+Reference link to non-existing reference	110	W-Mon-1348	W-Mon-119670
+Reference link to non-existing reference	111	W-Mon-1348	W-Mon-119679
+Reference link to non-existing reference	114	W-Mon-1348	W-Mon-119704
+Reference link to non-existing reference	115	W-Mon-1348	W-Mon-119713
+Reference link to non-existing reference	117	W-Mon-1348	W-Mon-119738
+Reference link to non-existing reference	118	W-Mon-1348	W-Mon-119747
+Reference link to non-existing reference	119	W-Mon-1348	W-Mon-119772
+Reference link to non-existing reference	126	W-Mon-127204	W-Mon-388881
+Reference link to non-existing reference	128	W-Mon-127204	W-Mon-395642
+Reference link to non-existing reference	129	W-Mon-127204	W-Mon-395940
+Reference link to non-existing reference	130	W-Mon-127204	W-Mon-396476
+Reference link to non-existing reference	131	W-Mon-132580	W-Mon-414341
+Reference link to non-existing reference	140	W-Mon-92249	W-Mon-518493
+Reference link to non-existing reference	169	W-Mon-197864	W-Mon-849731
+Reference link to non-existing reference	172	W-Mon-1348	W-Mon-119394
+Reference link to non-existing reference	173	W-Mon-1348	W-Mon-119437
+Reference link to non-existing reference	174	W-Mon-1348	W-Mon-119462
+Reference link to non-existing reference	178	W-Mon-1348	W-Mon-119505
+Reference link to non-existing reference	182	W-Mon-1348	W-Mon-119530
+Reference link to non-existing reference	186	W-Mon-1348	W-Mon-119569
+Reference link to non-existing reference	187	W-Mon-1348	W-Mon-119580
+Reference link to non-existing reference	190	W-Mon-1348	W-Mon-119594
+Reference link to non-existing reference	192	W-Mon-1348	W-Mon-119619
+Reference link to non-existing reference	196	W-Mon-1348	W-Mon-119637
+Reference link to non-existing reference	197	W-Mon-1348	W-Mon-119644
+Reference link to non-existing reference	198	W-Mon-1348	W-Mon-119662
+Reference link to non-existing reference	199	W-Mon-1348	W-Mon-119687
+Reference link to non-existing reference	200	W-Mon-1348	W-Mon-119705
+Reference link to non-existing reference	201	W-Mon-1348	W-Mon-119712
+Reference link to non-existing reference	203	W-Mon-1348	W-Mon-119755
+Reference link to non-existing reference	204	W-Mon-1348	W-Mon-119769
+Reference link to non-existing reference	205	W-Mon-1348	W-Mon-119773
+Reference link to non-existing reference	206	W-Mon-42	W-Mon-158617
+Reference link to non-existing reference	208	W-Mon-127204	W-Mon-387903
+Reference link to non-existing reference	211	W-Mon-127204	W-Mon-395641
+Reference link to non-existing reference	212	W-Mon-127204	W-Mon-395952
+Reference link to non-existing reference	214	W-Mon-132580	W-Mon-414340
+Reference link to non-existing reference	215	W-Mon-132580	W-Mon-414358
+Reference link to non-existing reference	216	W-Mon-132580	W-Mon-414383
+Reference link to non-existing reference	230	W-Mon-198581	W-Mon-518504
+Reference link to non-existing reference	231	W-Mon-198595	W-Mon-518507
+Reference link to non-existing reference	269	W-Mon-197864	W-Mon-849730
+Reference link to non-existing reference	271	W-Mon-1348	W-Mon-119408
+Reference link to non-existing reference	272	W-Mon-1348	W-Mon-119409
+Reference link to non-existing reference	273	W-Mon-1348	W-Mon-119426
+Reference link to non-existing reference	274	W-Mon-1348	W-Mon-119459
+Reference link to non-existing reference	276	W-Mon-1348	W-Mon-119473
+Reference link to non-existing reference	277	W-Mon-1348	W-Mon-119476
+Reference link to non-existing reference	279	W-Mon-1348	W-Mon-119490
+Reference link to non-existing reference	280	W-Mon-1348	W-Mon-119523
+Reference link to non-existing reference	281	W-Mon-1348	W-Mon-119540
+Reference link to non-existing reference	282	W-Mon-1348	W-Mon-119541
+Reference link to non-existing reference	283	W-Mon-1348	W-Mon-119558
+Reference link to non-existing reference	288	W-Mon-1348	W-Mon-119609
+Reference link to non-existing reference	291	W-Mon-1348	W-Mon-119626
+Reference link to non-existing reference	293	W-Mon-1348	W-Mon-119659
+Reference link to non-existing reference	294	W-Mon-1348	W-Mon-119673
+Reference link to non-existing reference	295	W-Mon-1348	W-Mon-119676
+Reference link to non-existing reference	296	W-Mon-1348	W-Mon-119690
+Reference link to non-existing reference	299	W-Mon-1348	W-Mon-119723
+Reference link to non-existing reference	300	W-Mon-1348	W-Mon-119727
+Reference link to non-existing reference	301	W-Mon-1348	W-Mon-119741
+Reference link to non-existing reference	302	W-Mon-1348	W-Mon-119758
+Reference link to non-existing reference	308	W-Mon-127204	W-Mon-387914
+Reference link to non-existing reference	309	W-Mon-127204	W-Mon-388385
+Reference link to non-existing reference	313	W-Mon-132580	W-Mon-414351
+Reference link to non-existing reference	315	W-Mon-132580	W-Mon-414368
+Reference link to non-existing reference	316	W-Mon-132580	W-Mon-414369
+Reference link to non-existing reference	323	W-Mon-92249	W-Mon-518487
+Reference link to non-existing reference	324	W-Mon-92249	W-Mon-518490
+Reference link to non-existing reference	326	W-Mon-198581	W-Mon-518501
+Reference link to non-existing reference	362	W-Mon-1348	W-Mon-119405
+Reference link to non-existing reference	363	W-Mon-1348	W-Mon-119412
+Reference link to non-existing reference	364	W-Mon-1348	W-Mon-119430
+Reference link to non-existing reference	365	W-Mon-1348	W-Mon-119455
+Reference link to non-existing reference	366	W-Mon-1348	W-Mon-119469
+Reference link to non-existing reference	367	W-Mon-1348	W-Mon-119480
+Reference link to non-existing reference	369	W-Mon-1348	W-Mon-119537
+Reference link to non-existing reference	370	W-Mon-1348	W-Mon-119544
+Reference link to non-existing reference	372	W-Mon-1348	W-Mon-119587
+Reference link to non-existing reference	373	W-Mon-1348	W-Mon-119605
+Reference link to non-existing reference	374	W-Mon-1348	W-Mon-119612
+Reference link to non-existing reference	375	W-Mon-1348	W-Mon-119630
+Reference link to non-existing reference	376	W-Mon-1348	W-Mon-119669
+Reference link to non-existing reference	377	W-Mon-42	W-Mon-119677
+Reference link to non-existing reference	378	W-Mon-1348	W-Mon-119680
+Reference link to non-existing reference	379	W-Mon-1348	W-Mon-119694
+Reference link to non-existing reference	381	W-Mon-1348	W-Mon-119719
+Reference link to non-existing reference	382	W-Mon-1348	W-Mon-119737
+Reference link to non-existing reference	383	W-Mon-1348	W-Mon-119744
+Reference link to non-existing reference	384	W-Mon-1348	W-Mon-119748
+Reference link to non-existing reference	385	W-Mon-1348	W-Mon-119762
+Reference link to non-existing reference	391	W-Mon-127204	W-Mon-387910
+Reference link to non-existing reference	392	W-Mon-127204	W-Mon-388653
+Reference link to non-existing reference	395	W-Mon-127204	W-Mon-395648
+Reference link to non-existing reference	397	W-Mon-127204	W-Mon-396559
+Reference link to non-existing reference	398	W-Mon-132580	W-Mon-414347
+Reference link to non-existing reference	399	W-Mon-132580	W-Mon-414372
+Reference link to non-existing reference	411	W-Mon-92249	W-Mon-518483
+Reference link to non-existing reference	420	W-Mon-132580	W-Mon-519117
+Reference link to non-existing reference	443	W-Mon-1348	W-Mon-119406
+Reference link to non-existing reference	444	W-Mon-1348	W-Mon-119407
+Reference link to non-existing reference	447	W-Mon-1348	W-Mon-119442
+Reference link to non-existing reference	448	W-Mon-1348	W-Mon-119443
+Reference link to non-existing reference	449	W-Mon-1348	W-Mon-119456
+Reference link to non-existing reference	450	W-Mon-1348	W-Mon-119457
+Reference link to non-existing reference	451	W-Mon-1348	W-Mon-119507
+Reference link to non-existing reference	452	W-Mon-1348	W-Mon-119542
+Reference link to non-existing reference	453	W-Mon-1348	W-Mon-119543
+Reference link to non-existing reference	454	W-Mon-1348	W-Mon-119556
+Reference link to non-existing reference	456	W-Mon-1348	W-Mon-119592
+Reference link to non-existing reference	457	W-Mon-1348	W-Mon-119606
+Reference link to non-existing reference	459	W-Mon-1348	W-Mon-119642
+Reference link to non-existing reference	460	W-Mon-1348	W-Mon-119657
+Reference link to non-existing reference	461	W-Mon-1348	W-Mon-119692
+Reference link to non-existing reference	462	W-Mon-1348	W-Mon-119693
+Reference link to non-existing reference	463	W-Mon-1348	W-Mon-119707
+Reference link to non-existing reference	464	W-Mon-1348	W-Mon-119742
+Reference link to non-existing reference	465	W-Mon-1348	W-Mon-119743
+Reference link to non-existing reference	466	W-Mon-1348	W-Mon-119757
+Reference link to non-existing reference	475	W-Mon-127204	W-Mon-387915
+Reference link to non-existing reference	477	W-Mon-127204	W-Mon-395654
+Reference link to non-existing reference	478	W-Mon-132580	W-Mon-414370
+Reference link to non-existing reference	479	W-Mon-132580	W-Mon-414384
+Reference link to non-existing reference	480	W-Mon-132580	W-Mon-414385
+Reference link to non-existing reference	487	W-Mon-92249	W-Mon-518471
+Reference link to non-existing reference	489	W-Mon-198581	W-Mon-518499
+Reference link to non-existing reference	523	W-Mon-1348	W-Mon-119404
+Reference link to non-existing reference	524	W-Mon-1348	W-Mon-119413
+Reference link to non-existing reference	525	W-Mon-1348	W-Mon-119438
+Reference link to non-existing reference	527	W-Mon-1348	W-Mon-119447
+Reference link to non-existing reference	528	W-Mon-1348	W-Mon-119472
+Reference link to non-existing reference	529	W-Mon-1348	W-Mon-119477
+Reference link to non-existing reference	532	W-Mon-1348	W-Mon-119502
+Reference link to non-existing reference	533	W-Mon-1348	W-Mon-119511
+Reference link to non-existing reference	534	W-Mon-1348	W-Mon-119536
+Reference link to non-existing reference	535	W-Mon-1348	W-Mon-119579
+Reference link to non-existing reference	538	W-Mon-1348	W-Mon-119604
+Reference link to non-existing reference	540	W-Mon-1348	W-Mon-119638
+Reference link to non-existing reference	541	W-Mon-1348	W-Mon-119647
+Reference link to non-existing reference	543	W-Mon-1348	W-Mon-119672
+Reference link to non-existing reference	544	W-Mon-1348	W-Mon-119681
+Reference link to non-existing reference	545	W-Mon-1348	W-Mon-119706
+Reference link to non-existing reference	547	W-Mon-1348	W-Mon-119736
+Reference link to non-existing reference	548	W-Mon-1348	W-Mon-119745
+Reference link to non-existing reference	552	W-Mon-127204	W-Mon-388386
+Reference link to non-existing reference	553	W-Mon-127204	W-Mon-389181
+Reference link to non-existing reference	554	W-Mon-127204	W-Mon-389322
+Reference link to non-existing reference	555	W-Mon-127204	W-Mon-395640
+Reference link to non-existing reference	556	W-Mon-127204	W-Mon-396235
+Reference link to non-existing reference	558	W-Mon-127204	W-Mon-396576
+Reference link to non-existing reference	559	W-Mon-132580	W-Mon-414339
+Reference link to non-existing reference	560	W-Mon-132580	W-Mon-414364
+Reference link to non-existing reference	561	W-Mon-132580	W-Mon-414373
+Reference link to non-existing reference	607	W-Mon-197864	W-Mon-849729
+Reference link to non-existing reference	608	W-Mon-197864	W-Mon-849733
+Reference link to non-existing reference	610	W-Mon-1348	W-Mon-119416
+Reference link to non-existing reference	612	W-Mon-1348	W-Mon-119433
+Reference link to non-existing reference	613	W-Mon-1348	W-Mon-119516
+Reference link to non-existing reference	615	W-Mon-1348	W-Mon-119531
+Reference link to non-existing reference	616	W-Mon-1348	W-Mon-119533
+Reference link to non-existing reference	617	W-Mon-1348	W-Mon-119567
+Reference link to non-existing reference	618	W-Mon-1348	W-Mon-119582
+Reference link to non-existing reference	620	W-Mon-1348	W-Mon-119618
+Reference link to non-existing reference	621	W-Mon-1348	W-Mon-119633
+Reference link to non-existing reference	623	W-Mon-1348	W-Mon-119667
+Reference link to non-existing reference	624	W-Mon-1348	W-Mon-119682
+Reference link to non-existing reference	625	W-Mon-1348	W-Mon-119716
+Reference link to non-existing reference	626	W-Mon-1348	W-Mon-119718
+Reference link to non-existing reference	627	W-Mon-1348	W-Mon-119733
+Reference link to non-existing reference	628	W-Mon-1348	W-Mon-119752
+Reference link to non-existing reference	629	W-Mon-1348	W-Mon-119767
+Reference link to non-existing reference	630	W-Mon-42	W-Mon-158679
+Reference link to non-existing reference	636	W-Mon-127204	W-Mon-388978
+Reference link to non-existing reference	637	W-Mon-127204	W-Mon-389227
+Reference link to non-existing reference	639	W-Mon-127204	W-Mon-390163
+Reference link to non-existing reference	641	W-Mon-132580	W-Mon-414344
+Reference link to non-existing reference	642	W-Mon-132580	W-Mon-414359
+Reference link to non-existing reference	643	W-Mon-132580	W-Mon-414361
+Reference link to non-existing reference	676	W-Mon-197864	W-Mon-849734
+Reference link to non-existing reference	678	W-Mon-1348	W-Mon-119401
+Reference link to non-existing reference	679	W-Mon-1348	W-Mon-119414
+Reference link to non-existing reference	680	W-Mon-1348	W-Mon-119448
+Reference link to non-existing reference	681	W-Mon-1348	W-Mon-119450
+Reference link to non-existing reference	682	W-Mon-1348	W-Mon-119465
+Reference link to non-existing reference	684	W-Mon-1348	W-Mon-119501
+Reference link to non-existing reference	686	W-Mon-1348	W-Mon-119548
+Reference link to non-existing reference	687	W-Mon-1348	W-Mon-119550
+Reference link to non-existing reference	689	W-Mon-1348	W-Mon-119584
+Reference link to non-existing reference	690	W-Mon-1348	W-Mon-119650
+Reference link to non-existing reference	691	W-Mon-1348	W-Mon-119665
+Reference link to non-existing reference	692	W-Mon-1348	W-Mon-119699
+Reference link to non-existing reference	693	W-Mon-1348	W-Mon-119701
+Reference link to non-existing reference	694	W-Mon-1348	W-Mon-119735
+Reference link to non-existing reference	695	W-Mon-1348	W-Mon-119750
+Reference link to non-existing reference	696	W-Mon-1348	W-Mon-119765
+Reference link to non-existing reference	701	W-Mon-127204	W-Mon-396147
+Reference link to non-existing reference	703	W-Mon-132580	W-Mon-414342
+Reference link to non-existing reference	704	W-Mon-132580	W-Mon-414376
+Reference link to non-existing reference	705	W-Mon-132580	W-Mon-414378
+Reference link to non-existing reference	732	W-Mon-132580	W-Mon-717825
+Reference link to non-existing reference	751	W-Mon-1348	W-Mon-119421
+Reference link to non-existing reference	752	W-Mon-1348	W-Mon-119435
+Reference link to non-existing reference	754	W-Mon-1348	W-Mon-119478
+Reference link to non-existing reference	757	W-Mon-1348	W-Mon-119521
+Reference link to non-existing reference	758	W-Mon-1348	W-Mon-119528
+Reference link to non-existing reference	759	W-Mon-1348	W-Mon-119578
+Reference link to non-existing reference	761	W-Mon-1348	W-Mon-119614
+Reference link to non-existing reference	762	W-Mon-1348	W-Mon-119621
+Reference link to non-existing reference	763	W-Mon-1348	W-Mon-119664
+Reference link to non-existing reference	764	W-Mon-1348	W-Mon-119671
+Reference link to non-existing reference	765	W-Mon-1348	W-Mon-119714
+Reference link to non-existing reference	766	W-Mon-1348	W-Mon-119721
+Reference link to non-existing reference	767	W-Mon-1348	W-Mon-119728
+Reference link to non-existing reference	768	W-Mon-1348	W-Mon-119764
+Reference link to non-existing reference	769	W-Mon-1348	W-Mon-119771
+Reference link to non-existing reference	771	W-Mon-42	W-Mon-158619
+Reference link to non-existing reference	773	W-Mon-127204	W-Mon-388380
+Reference link to non-existing reference	777	W-Mon-127204	W-Mon-396218
+Reference link to non-existing reference	778	W-Mon-127204	W-Mon-396575
+Reference link to non-existing reference	779	W-Mon-132580	W-Mon-414349
+Reference link to non-existing reference	780	W-Mon-132580	W-Mon-414356
+Reference link to non-existing reference	781	W-Mon-132580	W-Mon-414363
+Reference link to non-existing reference	790	W-Mon-92249	W-Mon-518492
+Reference link to non-existing reference	822	W-Mon-197864	W-Mon-849732
+Reference link to non-existing reference	824	W-Mon-1348	W-Mon-119420
+Reference link to non-existing reference	825	W-Mon-1348	W-Mon-119422
+Reference link to non-existing reference	826	W-Mon-1348	W-Mon-119427
+Reference link to non-existing reference	827	W-Mon-1348	W-Mon-119429
+Reference link to non-existing reference	829	W-Mon-1348	W-Mon-119522
+Reference link to non-existing reference	831	W-Mon-1348	W-Mon-119527
+Reference link to non-existing reference	832	W-Mon-1348	W-Mon-119563
+Reference link to non-existing reference	833	W-Mon-1348	W-Mon-119586
+Reference link to non-existing reference	835	W-Mon-1348	W-Mon-119620
+Reference link to non-existing reference	836	W-Mon-1348	W-Mon-119622
+Reference link to non-existing reference	837	W-Mon-1348	W-Mon-119629
+Reference link to non-existing reference	839	W-Mon-1348	W-Mon-119656
+Reference link to non-existing reference	840	W-Mon-1348	W-Mon-119663
+Reference link to non-existing reference	841	W-Mon-1348	W-Mon-119686
+Reference link to non-existing reference	842	W-Mon-1348	W-Mon-119720
+Reference link to non-existing reference	843	W-Mon-1348	W-Mon-119722
+Reference link to non-existing reference	844	W-Mon-1348	W-Mon-119729
+Reference link to non-existing reference	845	W-Mon-1348	W-Mon-119756
+Reference link to non-existing reference	846	W-Mon-1348	W-Mon-119763
+Reference link to non-existing reference	853	W-Mon-127204	W-Mon-387902
+Reference link to non-existing reference	856	W-Mon-127204	W-Mon-396560
+Reference link to non-existing reference	857	W-Mon-132580	W-Mon-414348
+Reference link to non-existing reference	858	W-Mon-132580	W-Mon-414355
+Reference link to non-existing reference	859	W-Mon-132580	W-Mon-414357
+Reference link to non-existing reference	876	W-Mon-198581	W-Mon-518505
+Reference link to non-existing reference	909	W-Mon-1348	W-Mon-119398
+Reference link to non-existing reference	911	W-Mon-1348	W-Mon-119415
+Reference link to non-existing reference	912	W-Mon-1348	W-Mon-119432
+Reference link to non-existing reference	913	W-Mon-1348	W-Mon-119449
+Reference link to non-existing reference	914	W-Mon-1348	W-Mon-119466
+Reference link to non-existing reference	915	W-Mon-1348	W-Mon-119483
+Reference link to non-existing reference	916	W-Mon-1348	W-Mon-119500
+Reference link to non-existing reference	917	W-Mon-1348	W-Mon-119517
+Reference link to non-existing reference	918	W-Mon-1348	W-Mon-119534
+Reference link to non-existing reference	919	W-Mon-1348	W-Mon-119551
+Reference link to non-existing reference	920	W-Mon-1348	W-Mon-119568
+Reference link to non-existing reference	921	W-Mon-1348	W-Mon-119585
+Reference link to non-existing reference	922	W-Mon-1348	W-Mon-119649
+Reference link to non-existing reference	923	W-Mon-1348	W-Mon-119666
+Reference link to non-existing reference	924	W-Mon-1348	W-Mon-119683
+Reference link to non-existing reference	925	W-Mon-1348	W-Mon-119717
+Reference link to non-existing reference	926	W-Mon-1348	W-Mon-119734
+Reference link to non-existing reference	927	W-Mon-1348	W-Mon-119751
+Reference link to non-existing reference	928	W-Mon-1348	W-Mon-119768
+Reference link to non-existing reference	931	W-Mon-127204	W-Mon-396148
+Reference link to non-existing reference	933	W-Mon-127204	W-Mon-396480
+Reference link to non-existing reference	934	W-Mon-132580	W-Mon-414345
+Reference link to non-existing reference	935	W-Mon-132580	W-Mon-414362
+Reference link to non-existing reference	936	W-Mon-132580	W-Mon-414375
+Reference link to non-existing reference	937	W-Mon-132580	W-Mon-414379
+Reference link to non-existing reference	964	W-Mon-198375	W-Mon-815909
+Reference link to non-existing reference	966	W-Mon-197864	W-Mon-849735
+Reference link to non-existing reference	968	W-Mon-1348	W-Mon-119423
+Reference link to non-existing reference	969	W-Mon-1348	W-Mon-119440
+Reference link to non-existing reference	970	W-Mon-1348	W-Mon-119458
+Reference link to non-existing reference	973	W-Mon-1348	W-Mon-119509
+Reference link to non-existing reference	974	W-Mon-1348	W-Mon-119526
+Reference link to non-existing reference	976	W-Mon-1348	W-Mon-119573
+Reference link to non-existing reference	977	W-Mon-1348	W-Mon-119590
+Reference link to non-existing reference	979	W-Mon-1348	W-Mon-119640
+Reference link to non-existing reference	980	W-Mon-1348	W-Mon-119641
+Reference link to non-existing reference	981	W-Mon-1348	W-Mon-119658
+Reference link to non-existing reference	982	W-Mon-1348	W-Mon-119691
+Reference link to non-existing reference	983	W-Mon-1348	W-Mon-119726
+Reference link to non-existing reference	984	W-Mon-1348	W-Mon-119776
+Reference link to non-existing reference	989	W-Mon-127204	W-Mon-395637
+Reference link to non-existing reference	990	W-Mon-127204	W-Mon-395638
+Reference link to non-existing reference	991	W-Mon-132580	W-Mon-414350
+Reference link to non-existing reference	992	W-Mon-132580	W-Mon-414354
+Reference link to non-existing reference	1031	W-Mon-1348	W-Mon-119424
+Reference link to non-existing reference	1032	W-Mon-1348	W-Mon-119425
+Reference link to non-existing reference	1033	W-Mon-1348	W-Mon-119474
+Reference link to non-existing reference	1034	W-Mon-1348	W-Mon-119475
+Reference link to non-existing reference	1035	W-Mon-1348	W-Mon-119575
+Reference link to non-existing reference	1036	W-Mon-1348	W-Mon-119660
+Reference link to non-existing reference	1037	W-Mon-1348	W-Mon-119674
+Reference link to non-existing reference	1038	W-Mon-1348	W-Mon-119675
+Reference link to non-existing reference	1039	W-Mon-1348	W-Mon-119710
+Reference link to non-existing reference	1040	W-Mon-1348	W-Mon-119724
+Reference link to non-existing reference	1041	W-Mon-1348	W-Mon-119725
+Reference link to non-existing reference	1042	W-Mon-1348	W-Mon-119760
+Reference link to non-existing reference	1043	W-Mon-1348	W-Mon-119774
+Reference link to non-existing reference	1044	W-Mon-1348	W-Mon-119775
+Reference link to non-existing reference	1048	W-Mon-127204	W-Mon-388383
+Reference link to non-existing reference	1049	W-Mon-127204	W-Mon-388934
+Reference link to non-existing reference	1050	W-Mon-132580	W-Mon-414352
+Reference link to non-existing reference	1051	W-Mon-132580	W-Mon-414367
+Reference link to non-existing reference	1056	W-Mon-198581	W-Mon-518502
+Reference link to non-existing reference	1082	W-Mon-197864	W-Mon-849728
+Reference link to non-existing reference	1083	W-Mon-1348	W-Mon-119417
+Reference link to non-existing reference	1084	W-Mon-1348	W-Mon-119434
+Reference link to non-existing reference	1085	W-Mon-1348	W-Mon-119451
+Reference link to non-existing reference	1086	W-Mon-1348	W-Mon-119481
+Reference link to non-existing reference	1087	W-Mon-1348	W-Mon-119515
+Reference link to non-existing reference	1088	W-Mon-1348	W-Mon-119532
+Reference link to non-existing reference	1089	W-Mon-1348	W-Mon-119549
+Reference link to non-existing reference	1090	W-Mon-1348	W-Mon-119685
+Reference link to non-existing reference	1092	W-Mon-1348	W-Mon-119715
+Reference link to non-existing reference	1093	W-Mon-1348	W-Mon-119732
+Reference link to non-existing reference	1094	W-Mon-1348	W-Mon-119749
+Reference link to non-existing reference	1095	W-Mon-1348	W-Mon-119766
+Reference link to non-existing reference	1101	W-Mon-127204	W-Mon-390011
+Reference link to non-existing reference	1102	W-Mon-132580	W-Mon-414343
+Reference link to non-existing reference	1103	W-Mon-132580	W-Mon-414360
+Reference link to non-existing reference	1104	W-Mon-132580	W-Mon-414377
+Reference link to non-existing reference	1111	W-Mon-198595	W-Mon-518470
+Reference link to non-existing reference	1112	W-Mon-92249	W-Mon-518495
+Reference link to non-existing reference	1140	W-Mon-1348	W-Mon-119396
+Reference link to non-existing reference	1141	W-Mon-1348	W-Mon-119403
+Reference link to non-existing reference	1142	W-Mon-1348	W-Mon-119410
+Reference link to non-existing reference	1143	W-Mon-1348	W-Mon-119446
+Reference link to non-existing reference	1144	W-Mon-1348	W-Mon-119453
+Reference link to non-existing reference	1145	W-Mon-1348	W-Mon-119460
+Reference link to non-existing reference	1146	W-Mon-1348	W-Mon-119503
+Reference link to non-existing reference	1147	W-Mon-1348	W-Mon-119510
+Reference link to non-existing reference	1148	W-Mon-1348	W-Mon-119539
+Reference link to non-existing reference	1149	W-Mon-1348	W-Mon-119546
+Reference link to non-existing reference	1150	W-Mon-1348	W-Mon-119560
+Reference link to non-existing reference	1151	W-Mon-1348	W-Mon-119589
+Reference link to non-existing reference	1152	W-Mon-1348	W-Mon-119596
+Reference link to non-existing reference	1153	W-Mon-1348	W-Mon-119639
+Reference link to non-existing reference	1154	W-Mon-1348	W-Mon-119646
+Reference link to non-existing reference	1155	W-Mon-1348	W-Mon-119653
+Reference link to non-existing reference	1156	W-Mon-1348	W-Mon-119696
+Reference link to non-existing reference	1157	W-Mon-1348	W-Mon-119703
+Reference link to non-existing reference	1158	W-Mon-1348	W-Mon-119739
+Reference link to non-existing reference	1159	W-Mon-1348	W-Mon-119746
+Reference link to non-existing reference	1160	W-Mon-1348	W-Mon-119753
+Reference link to non-existing reference	1164	W-Mon-132580	W-Mon-414338
+Reference link to non-existing reference	1165	W-Mon-132580	W-Mon-414374
+Reference link to non-existing reference	1166	W-Mon-132580	W-Mon-414381
+--------------
+SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code FROM specialists AS t1
+LEFT JOIN scientific_names AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference link to non-existing reference', record_id, reference_code, name_code FROM scientific_name_references
-WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
---------------
-
---------------
-SELECT 'Specialist not present in scientific names table', record_id, specialist_name, specialist_code FROM specialists
-WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
---------------
-
---------------
-SELECT 'Reference without parent accepted or common name', record_id, author, year, title, reference_code FROM `references`
-WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
-UNION SELECT DISTINCT reference_code FROM common_names)
+SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
 --------------
 
 Reference without parent accepted or common name	record_id	author	year	title	reference_code
-Reference without parent accepted or common name	2	Costello, M.J.; Emblow, C.; White, R. (Ed.).	2001	NULL	Xen-6827
+Reference without parent accepted or common name	8	Margolis and Zabata,	1984	NULL	W-Mon-3009
+Reference without parent accepted or common name	13	Bychowsky, B.E	1947	NULL	W-Mon-6860
+Reference without parent accepted or common name	17	Srivastrava, L. P.; James, B. L.	1967	NULL	W-Mon-6864
+Reference without parent accepted or common name	21	Euzet, L. & Sanfilippo, D.	1983	NULL	W-Mon-6868
+Reference without parent accepted or common name	35	Desdevises, Y.; Jovelin, R.; Jousson, R.; Morand, S.	2000	NULL	W-Mon-6925
+Reference without parent accepted or common name	40	Dimitrov, G.	1991	NULL	W-Mon-6957
+Reference without parent accepted or common name	41	Gerasev, P.I., Dmitrieva, E.V. & gaevskaya, A.V.	2002	NULL	W-Mon-6959
+Reference without parent accepted or common name	43	Zaika, V. E.	1966	NULL	W-Mon-6962
+Reference without parent accepted or common name	45	Sasal, P., Pages, J.-R. & Euzet, L.	1998	NULL	W-Mon-6964
+Reference without parent accepted or common name	50	Levinsen, G.M.R.	1881	NULL	W-Mon-6972
+Reference without parent accepted or common name	53	nainum, G. H.; Threlfall	1983	NULL	W-Mon-6978
+Reference without parent accepted or common name	54	Hodneland, K.; Nilsen, F.	1994	NULL	W-Mon-6979
+Reference without parent accepted or common name	55	Kulachkova, V.G.	1977	NULL	W-Mon-6980
+Reference without parent accepted or common name	57	Euzet, L.; Williams, H. H.	1960	NULL	W-Mon-6985
+Reference without parent accepted or common name	59	Brinkmann, A.	1940	NULL	W-Mon-6989
+Reference without parent accepted or common name	60	Williams, H. H.; MacKenzie, K.	2003	NULL	W-Mon-6994
+Reference without parent accepted or common name	64	Llewellyn, J.; Green, J.E.; Kearn, G.C.	1984	NULL	W-Mon-8952
+Reference without parent accepted or common name	66	Williams, H.H.	1959	NULL	W-Mon-8958
+Reference without parent accepted or common name	68	Anderson, M.	1981	NULL	W-Mon-9135
+Reference without parent accepted or common name	70	Euzet, L.	1957	NULL	W-Mon-9137
+Reference without parent accepted or common name	73	Tagliani, G.	1912	NULL	W-Mon-9170
+Reference without parent accepted or common name	76	Balbuena, J. A.; Rubtsova, N. Y.; Sarabeev, V. L.	2005	NULL	W-Mon-9186
+Reference without parent accepted or common name	78	Akmirza, A.	2004	NULL	W-Mon-9188
+Reference without parent accepted or common name	82	Kristmundsson, A.; Bambir, S. H.; Helgason, S.	2006	NULL	W-Mon-9265
+Reference without parent accepted or common name	94	Paperna, I. & M. Lahav	1972	NULL	W-Mon-106931
+Reference without parent accepted or common name	99	Carvajal & Sepulveda	2002	NULL	W-Mon-128232
+Reference without parent accepted or common name	101	Chisholm & Whittington.	2004	NULL	W-Mon-128287
+Reference without parent accepted or common name	102	Chisholm & Whittington.	2005	NULL	W-Mon-128288
+Reference without parent accepted or common name	104	Chisholm, Glennon & Whittington.	2005	NULL	W-Mon-128290
+Reference without parent accepted or common name	105	Domingues, M. V.; Boeger, W. A.	2003	NULL	W-Mon-128374
+Reference without parent accepted or common name	106	Dyer, W. G.; Poly, W. J.	2002	NULL	W-Mon-128387
+Reference without parent accepted or common name	107	Kardousha.	2002	NULL	W-Mon-128706
+Reference without parent accepted or common name	108	Kitamura, Ogawa, Taniuchi & Hirose.	2006	NULL	W-Mon-128732
+Reference without parent accepted or common name	111	Li, Yan & Wang.	2004	NULL	W-Mon-128853
+Reference without parent accepted or common name	113	Mogrovejo, C. D.; Santos, C. P.	2002	NULL	W-Mon-128984
+Reference without parent accepted or common name	114	Paraquassu, Luque & Alves.	2002	NULL	W-Mon-129168
+Reference without parent accepted or common name	115	Plaisance, Bouamer & Morand	2004	NULL	W-Mon-129207
+Reference without parent accepted or common name	117	Rubtsova, Balbuena, Sarabeev, Blasco-Costa & Euzet	2006	NULL	W-Mon-129331
+Reference without parent accepted or common name	120	Wu & Li.	2003	NULL	W-Mon-129641
+Reference without parent accepted or common name	121	Wu, Lu & Woo.	2002	NULL	W-Mon-129642
+Reference without parent accepted or common name	125	Ding, Pan & Liu.	2003	NULL	W-Mon-130675
+Reference without parent accepted or common name	126	Domingues & Fehlauer.	2006	NULL	W-Mon-130678
+Reference without parent accepted or common name	128	Gonzalez, Oliva & Acuna.	2002	NULL	W-Mon-130741
+Reference without parent accepted or common name	131	Kritsky, D. C.; Mendoza-Franco, E.	2003	NULL	W-Mon-130932
+Reference without parent accepted or common name	137	Marie, A. D.; Justine, J.-L.	2005	NULL	W-Mon-131012
+Reference without parent accepted or common name	139	Pan & Zhang	2006	NULL	W-Mon-131105
+Reference without parent accepted or common name	282	Maillard C., Vala, JC	1980	NULL	W-Mon-198373
+Reference without parent accepted or common name	323	Huyse, T.; Volckaert, F. A.	2002	NULL	W-Mon-198605
+Reference without parent accepted or common name	334	Neifar. L.; Euset, L.; Ben Hassine, O.K.	2002	NULL	W-Mon-198663
+Reference without parent accepted or common name	343	Oliver, G.	1986	NULL	W-Mon-199086
+Reference without parent accepted or common name	402	Appleby, C.	1996	NULL	W-Mon-199839
+Reference without parent accepted or common name	440	Pascoe, P. L.	1987	NULL	W-Mon-199939
+Reference without parent accepted or common name	450	Rohde, K.	1987	NULL	W-Mon-199952
+Reference without parent accepted or common name	464	Wheeler, T. A. & Beverley-Burton, M.	1987	NULL	W-Mon-200043
+Reference without parent accepted or common name	472	Campbell, R. A., Correia, S. J., & Haedrich, R. L.	1982	NULL	W-Mon-200237
+Reference without parent accepted or common name	475	Cone, D. K.	1981	NULL	W-Mon-200241
 --------------
 DROP TRIGGER IF EXISTS delfamcascade
 --------------
@@ -1211,19 +1894,27 @@ DELETE QUICK FROM scientific_names USING scientific_names INNER JOIN duplicates_
 --------------
 
 --------------
-DELETE FROM common_names WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names WHERE is_accepted_name != 1 AND accepted_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.accepted_name_code = t2.name_code
+WHERE t2.name_code IS NULL AND t1.is_accepted_name != 1
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names WHERE infraspecies_parent_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM lifezone WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
@@ -1231,9 +1922,11 @@ OPTIMIZE TABLE lifezone
 --------------
 
 Table	Op	Msg_type	Msg_text
-Assembly_Xenoturbellida.lifezone	optimize	status	OK
+Assembly_Monogenea.lifezone	optimize	status	OK
 --------------
-DELETE QUICK FROM distribution WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
@@ -1241,9 +1934,11 @@ OPTIMIZE TABLE distribution
 --------------
 
 Table	Op	Msg_type	Msg_text
-Assembly_Xenoturbellida.distribution	optimize	status	OK
+Assembly_Monogenea.distribution	optimize	status	OK
 --------------
-DELETE QUICK FROM scientific_names WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL
 --------------
 
 --------------
@@ -1251,13 +1946,17 @@ OPTIMIZE TABLE scientific_names
 --------------
 
 Table	Op	Msg_type	Msg_text
-Assembly_Xenoturbellida.scientific_names	optimize	status	OK
+Assembly_Monogenea.scientific_names	optimize	status	OK
 --------------
-DELETE QUICK FROM scientific_name_references WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM scientific_name_references WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+DELETE QUICK t1 FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL
 --------------
 
 --------------
@@ -1265,14 +1964,18 @@ OPTIMIZE TABLE scientific_name_references
 --------------
 
 Table	Op	Msg_type	Msg_text
-Assembly_Xenoturbellida.scientific_name_references	optimize	status	OK
+Assembly_Monogenea.scientific_name_references	optimize	status	OK
 --------------
-DELETE FROM specialists WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+DELETE QUICK t1 FROM specialists AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM `references` WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
-UNION SELECT DISTINCT reference_code FROM common_names)
+DELETE t1 FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
 --------------
 
 --------------
@@ -1280,7 +1983,7 @@ OPTIMIZE TABLE `references`
 --------------
 
 Table	Op	Msg_type	Msg_text
-Assembly_Xenoturbellida.references	optimize	status	OK
+Assembly_Monogenea.references	optimize	status	OK
 --------------
 DROP TRIGGER IF EXISTS delfamcascade
 --------------
@@ -1342,293 +2045,7 @@ Editorial and Integrity checks Completed.
 <pre>
 Starting Sector Management
 --------------
-SET @dbid = 100
---------------
-
---------------
-SET @dbtouse = 'Assembly_Global'
---------------
-
---------------
-SET @query = CONCAT("
-DELETE FROM ",
-@dbtouse,
-".`databases` WHERE `record_id` = @dbid")
---------------
-
---------------
-PREPARE stmt FROM @query
---------------
-
---------------
-EXECUTE stmt
---------------
-
---------------
-DEALLOCATE PREPARE stmt
---------------
-
---------------
-SET @dbtouse = 'Assembly_Global'
---------------
-
---------------
-SET @query = CONCAT("
-INSERT INTO ", @dbtouse, ".`families` SELECT 
-NULL AS `record_id`,
-`hierarchy_code`,	
-`kingdom`,	
-`phylum`,	
-`class`,	
-`order`,	
-`family`,	
-`superfamily`, 	
-`database_id`, 	
-`family_code`,
-`is_accepted_name`
-FROM  `families`")
---------------
-
---------------
-PREPARE stmt FROM @query
---------------
-
---------------
-EXECUTE stmt
---------------
-
---------------
-DEALLOCATE PREPARE stmt
---------------
-
---------------
-SET @query = CONCAT("
-INSERT INTO ", @dbtouse, ".`databases` SELECT 
-`database_name_displayed`, 
-`record_id`, 
-`database_name`, 
-`database_full_name`, 
-`web_site`, 
-`organization`, 
-`contact_person`, 
-`taxa`, 
-`taxonomic_coverage`, 
-`abstract`, 
-`version`, 
-`release_date`, 
-`SpeciesCount`, 
-`SpeciesEst`, 
-`authors_editors`, 
-`accepted_species_names`, 
-`accepted_infraspecies_names`, 
-`species_synonyms`, 
-`infraspecies_synonyms`, 
-`common_names`, 
-`total_names`, 
-`is_new`,
-`coverage`,
-`completeness`,
-`confidence`
-FROM `databases`")
---------------
-
---------------
-PREPARE stmt FROM @query
---------------
-
---------------
-EXECUTE stmt
---------------
-
---------------
-DEALLOCATE PREPARE stmt
---------------
-
---------------
-SET @query = CONCAT("
-INSERT INTO ", @dbtouse, ".`scientific_names` 
-(`record_id`, `name_code`, `web_site`, `genus`, `subgenus`, `species`, `infraspecies_parent_name_code`, `infraspecies`, `infraspecies_marker`, `author`, `accepted_name_code`, `comment`, `scrutiny_date`, `sp2000_status_id`, `database_id`, `specialist_id`, `family_id`, `specialist_code`, `family_code`, `is_accepted_name`, `GSDTaxonGUID`, `GSDNameGUID`) SELECT 
-NULL AS `record_id`, 
-`name_code`, 
-`web_site`, 
-`genus`, 
-`subgenus`, 
-`species`, 
-`infraspecies_parent_name_code`, 
-`infraspecies`, 
-`infraspecies_marker`, 
-`author`, 
-`accepted_name_code`, 
-`comment`, 
-`scrutiny_date`, 
-`sp2000_status_id`, 
-`database_id`, 
-`specialist_id`, 
-`family_id`, 
-`specialist_code`, 
-`family_code`, 
-`is_accepted_name`, 
-`GSDTaxonGUID`, 
-`GSDNameGUID`
-FROM `scientific_names`")
---------------
-
---------------
-PREPARE stmt FROM @query
---------------
-
---------------
-EXECUTE stmt
---------------
-
---------------
-DEALLOCATE PREPARE stmt
---------------
-
---------------
-SET @query = CONCAT("
-INSERT INTO ", @dbtouse, ".`common_names` SELECT 
-NULL AS `record_id`, 
-`name_code`, 
-`common_name`, 
-`transliteration`, 
-`language`, 
-`country`, 
-`area`, 
-NULL AS `reference_id`, 
-`database_id`, 
-`is_infraspecies`, 
-`reference_code`
-FROM  `common_names`")
---------------
-
---------------
-PREPARE stmt FROM @query
---------------
-
---------------
-EXECUTE stmt
---------------
-
---------------
-DEALLOCATE PREPARE stmt
---------------
-
---------------
-SET @query = CONCAT("
-INSERT INTO ", @dbtouse, ".`distribution` SELECT 
-NULL AS `record_id`, 
-`name_code`, 
-`distribution`, 
-`StandardInUse`, 
-`DistributionStatus`,
-`database_id`
-FROM  `distribution`")
---------------
-
---------------
-PREPARE stmt FROM @query
---------------
-
---------------
-EXECUTE stmt
---------------
-
---------------
-DEALLOCATE PREPARE stmt
---------------
-
---------------
-SET @query = CONCAT("
-INSERT INTO ", @dbtouse, ".`lifezone` SELECT 
-NULL AS `record_id`,
-`name_code`, 	
-`lifezone`,
-`database_id`
-FROM  `lifezone`")
---------------
-
---------------
-PREPARE stmt FROM @query
---------------
-
---------------
-EXECUTE stmt
---------------
-
---------------
-DEALLOCATE PREPARE stmt
---------------
-
---------------
-SET @query = CONCAT("
-INSERT INTO ", @dbtouse, ".`scientific_name_references` SELECT 
-NULL AS `record_id`,
-`name_code`,	
-`reference_type`, 	
-NULL AS `reference_id`,	
-`reference_code`,
-`database_id`
-FROM  `scientific_name_references`")
---------------
-
---------------
-PREPARE stmt FROM @query
---------------
-
---------------
-EXECUTE stmt
---------------
-
---------------
-DEALLOCATE PREPARE stmt
---------------
-
---------------
-SET @query = CONCAT("
-INSERT INTO ", @dbtouse, ".`references` SELECT 
-NULL AS `record_id`, 
-`author`, 
-`year`, 
-`title`, 
-`source`, 
-`database_id`, 
-`reference_code`
-FROM  `references`")
---------------
-
---------------
-PREPARE stmt FROM @query
---------------
-
---------------
-EXECUTE stmt
---------------
-
---------------
-DEALLOCATE PREPARE stmt
---------------
-
---------------
-SET @query = CONCAT("
-INSERT INTO ", @dbtouse, ".`specialists` SELECT 
-NULL AS `record_id`,
-`specialist_name`,
-`specialist_code`,
-`database_id`
-FROM  `specialists`")
---------------
-
---------------
-PREPARE stmt FROM @query
---------------
-
---------------
-EXECUTE stmt
---------------
-
---------------
-DEALLOCATE PREPARE stmt
+SET @dbid = 126
 --------------
 
 

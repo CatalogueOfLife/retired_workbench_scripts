@@ -998,7 +998,7 @@ Data Loaded.
 </pre>
 </pre><hr><b>Backing up...</b>
 <pre>
-Creating directory  23_50_03_05Aug2015
+Creating directory  10_28_09_10Sep2015
 Backing up files
 </pre><hr><b>Executing local editorial checks</b>
 <pre>
@@ -1209,25 +1209,25 @@ Infraspecies starting with marker: 	W-Poy-413031	Theocorythium	trachelium	subsp.
 Infraspecies starting with marker: 	W-Poy-413030	Theocorythium	trachelium	subsp. trachelium
 Infraspecies starting with marker: 	W-Poy-413095	Tholospyris	baconiana	subsp. baconiana
 Infraspecies starting with marker: 	W-Poy-549580	Tholospyris	baconiana	subsp. variabilis
-Infraspecies starting with marker: 	W-Poy-549566	Acrosphaera	spinosa	subsp. lappacea
+Infraspecies starting with marker: 	W-Poy-549574	Nephrospyris	renilla	subsp. lana
+Infraspecies starting with marker: 	W-Poy-549454	Nephrospyris	renilla	subsp. renilla
 Infraspecies starting with marker: 	W-Poy-413000	Pterocanium	praetextum	subsp. eucolpum
 Infraspecies starting with marker: 	W-Poy-412999	Pterocanium	praetextum	subsp. praetextum
 Infraspecies starting with marker: 	W-Poy-493497	Trisolenia	megalactis	subsp. megalactis
-Infraspecies starting with marker: 	W-Poy-412981	Phormospyris	stabilis	subsp. antarctica
-Infraspecies starting with marker: 	W-Poy-413017	Lamprocyclas	maritalis	subsp. maritalis
-Infraspecies starting with marker: 	W-Poy-413018	Lamprocyclas	maritalis	subsp. polypora
-Infraspecies starting with marker: 	W-Poy-549451	Neosemantis	distephanus	subsp. distephanus
-Infraspecies starting with marker: 	W-Poy-549574	Nephrospyris	renilla	subsp. lana
-Infraspecies starting with marker: 	W-Poy-549454	Nephrospyris	renilla	subsp. renilla
 Infraspecies starting with marker: 	W-Poy-413086	Phormospyris	stabilis	subsp. capoi
 Infraspecies starting with marker: 	W-Poy-412982	Phormospyris	stabilis	subsp. scaphipes
 Infraspecies starting with marker: 	W-Poy-413087	Phormospyris	stabilis	subsp. stabilis
-Infraspecies starting with marker: 	W-Poy-549581	Zygocircus	productus	subsp. capulosus
-Infraspecies starting with marker: 	W-Poy-412920	Ommatartus	tetrathalamus	subsp. coronatus
-Infraspecies starting with marker: 	W-Poy-412919	Ommatartus	tetrathalamus	subsp. tetrathalamus
+Infraspecies starting with marker: 	W-Poy-412981	Phormospyris	stabilis	subsp. antarctica
 Infraspecies starting with marker: 	W-Poy-413084	Lophospyris	pentagona	subsp. hyperborea
 Infraspecies starting with marker: 	W-Poy-412978	Lophospyris	pentagona	subsp. pentagona
 Infraspecies starting with marker: 	W-Poy-413085	Lophospyris	pentagona	subsp. quadriforis
+Infraspecies starting with marker: 	W-Poy-549581	Zygocircus	productus	subsp. capulosus
+Infraspecies starting with marker: 	W-Poy-413017	Lamprocyclas	maritalis	subsp. maritalis
+Infraspecies starting with marker: 	W-Poy-413018	Lamprocyclas	maritalis	subsp. polypora
+Infraspecies starting with marker: 	W-Poy-549566	Acrosphaera	spinosa	subsp. lappacea
+Infraspecies starting with marker: 	W-Poy-412920	Ommatartus	tetrathalamus	subsp. coronatus
+Infraspecies starting with marker: 	W-Poy-412919	Ommatartus	tetrathalamus	subsp. tetrathalamus
+Infraspecies starting with marker: 	W-Poy-549451	Neosemantis	distephanus	subsp. distephanus
 --------------
 UPDATE `scientific_names` SET `infraspecies` = SUBSTRING_INDEX(`infraspecies`, ' ', -1)
 WHERE `infraspecies` LIKE '% %' AND 
@@ -1340,8 +1340,9 @@ ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.auth
 --------------
 
 --------------
-SELECT 'Common name without parent accepted name', record_id, common_name, name_code FROM common_names
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Common name without parent accepted name', t1.record_id, t1.common_name, t1.name_code FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
@@ -1372,196 +1373,201 @@ SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, ge
 --------------
 
 --------------
-SELECT 'Lifezone without parent accepted name', record_id, name_code, lifezone FROM lifezone
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Lifezone without parent accepted name', t1.record_id, t1.name_code, t1.lifezone FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Distribution without parent accepted name', record_id, name_code, distribution FROM distribution
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Distribution without parent accepted name', t1.record_id, t1.name_code, t1.distribution FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Accepted name without parent family', record_id, name_code, genus, species, infraspecies, family_code FROM scientific_names
-WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.family_code FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference link to non-existing accepted name', record_id, reference_code, name_code FROM scientific_name_references
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 Reference link to non-existing accepted name	record_id	reference_code	name_code
-Reference link to non-existing accepted name	2	W-Poy-154053	W-Poy-412898
-Reference link to non-existing accepted name	65	W-Poy-124410	W-Poy-412933
-Reference link to non-existing accepted name	118	W-Poy-154053	W-Poy-549572
-Reference link to non-existing accepted name	215	W-Poy-154053	W-Poy-549569
-Reference link to non-existing accepted name	233	W-Poy-154053	W-Poy-549577
-Reference link to non-existing accepted name	249	W-Poy-124410	W-Poy-412932
+Reference link to non-existing accepted name	20	W-Poy-154053	W-Poy-549572
+Reference link to non-existing accepted name	31	W-Poy-124410	W-Poy-412933
+Reference link to non-existing accepted name	127	W-Poy-154053	W-Poy-549577
+Reference link to non-existing accepted name	164	W-Poy-154053	W-Poy-549569
+Reference link to non-existing accepted name	273	W-Poy-154053	W-Poy-412898
+Reference link to non-existing accepted name	288	W-Poy-124410	W-Poy-412932
 --------------
-SELECT 'Reference link to non-existing reference', record_id, reference_code, name_code FROM scientific_name_references
-WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL
 --------------
 
 Reference link to non-existing reference	record_id	reference_code	name_code
-Reference link to non-existing reference	1	W-Poy-47834	W-Poy-391962
-Reference link to non-existing reference	3	W-Poy-124410	W-Poy-412928
-Reference link to non-existing reference	4	W-Poy-124410	W-Poy-412942
-Reference link to non-existing reference	5	W-Poy-124410	W-Poy-412945
-Reference link to non-existing reference	6	W-Poy-124410	W-Poy-412959
-Reference link to non-existing reference	9	W-Poy-124410	W-Poy-413027
-Reference link to non-existing reference	10	W-Poy-47834	W-Poy-413053
-Reference link to non-existing reference	12	W-Poy-47834	W-Poy-413086
-Reference link to non-existing reference	13	W-Poy-47834	W-Poy-413103
-Reference link to non-existing reference	14	W-Poy-47834	W-Poy-413104
-Reference link to non-existing reference	20	W-Poy-47834	W-Poy-760187
-Reference link to non-existing reference	21	W-Poy-124410	W-Poy-385312
-Reference link to non-existing reference	22	W-Poy-124410	W-Poy-412938
-Reference link to non-existing reference	23	W-Poy-124410	W-Poy-412949
-Reference link to non-existing reference	24	W-Poy-47834	W-Poy-413057
-Reference link to non-existing reference	25	W-Poy-47834	W-Poy-413082
-Reference link to non-existing reference	26	W-Poy-47834	W-Poy-413100
-Reference link to non-existing reference	39	W-Poy-132081	W-Poy-409622
-Reference link to non-existing reference	40	W-Poy-124410	W-Poy-412914
-Reference link to non-existing reference	41	W-Poy-124410	W-Poy-412973
-Reference link to non-existing reference	42	W-Poy-124410	W-Poy-412982
-Reference link to non-existing reference	43	W-Poy-124410	W-Poy-413007
-Reference link to non-existing reference	44	W-Poy-124410	W-Poy-413046
-Reference link to non-existing reference	45	W-Poy-47834	W-Poy-413067
-Reference link to non-existing reference	46	W-Poy-47834	W-Poy-413076
-Reference link to non-existing reference	47	W-Poy-47834	W-Poy-413101
-Reference link to non-existing reference	48	W-Poy-47834	W-Poy-413106
-Reference link to non-existing reference	56	W-Poy-64	W-Poy-345895
-Reference link to non-existing reference	58	W-Poy-124410	W-Poy-385291
-Reference link to non-existing reference	60	W-Poy-124410	W-Poy-412903
-Reference link to non-existing reference	62	W-Poy-124410	W-Poy-412916
-Reference link to non-existing reference	63	W-Poy-124410	W-Poy-412920
-Reference link to non-existing reference	65	W-Poy-124410	W-Poy-412933
-Reference link to non-existing reference	66	W-Poy-124410	W-Poy-412950
-Reference link to non-existing reference	67	W-Poy-124410	W-Poy-412984
-Reference link to non-existing reference	68	W-Poy-124410	W-Poy-413001
-Reference link to non-existing reference	70	W-Poy-124410	W-Poy-413018
-Reference link to non-existing reference	71	W-Poy-124410	W-Poy-413035
-Reference link to non-existing reference	72	W-Poy-47834	W-Poy-413061
-Reference link to non-existing reference	73	W-Poy-47834	W-Poy-413078
-Reference link to non-existing reference	74	W-Poy-47834	W-Poy-413095
-Reference link to non-existing reference	83	W-Poy-124410	W-Poy-345861
-Reference link to non-existing reference	84	W-Poy-47834	W-Poy-345901
-Reference link to non-existing reference	85	W-Poy-124410	W-Poy-367318
-Reference link to non-existing reference	86	W-Poy-124410	W-Poy-412909
-Reference link to non-existing reference	87	W-Poy-124410	W-Poy-412910
-Reference link to non-existing reference	89	W-Poy-124410	W-Poy-412978
-Reference link to non-existing reference	90	W-Poy-124410	W-Poy-412995
-Reference link to non-existing reference	91	W-Poy-47834	W-Poy-413071
-Reference link to non-existing reference	92	W-Poy-47834	W-Poy-413072
-Reference link to non-existing reference	100	W-Poy-47834	W-Poy-345904
-Reference link to non-existing reference	101	W-Poy-124410	W-Poy-367320
-Reference link to non-existing reference	103	W-Poy-124410	W-Poy-412925
-Reference link to non-existing reference	104	W-Poy-124410	W-Poy-412961
-Reference link to non-existing reference	105	W-Poy-124410	W-Poy-412975
-Reference link to non-existing reference	106	W-Poy-124410	W-Poy-413011
-Reference link to non-existing reference	107	W-Poy-124410	W-Poy-413025
-Reference link to non-existing reference	108	W-Poy-47834	W-Poy-413052
-Reference link to non-existing reference	109	W-Poy-47834	W-Poy-413088
-Reference link to non-existing reference	110	W-Poy-47834	W-Poy-413102
-Reference link to non-existing reference	119	W-Poy-47834	W-Poy-760189
-Reference link to non-existing reference	120	W-Poy-124410	W-Poy-367321
-Reference link to non-existing reference	121	W-Poy-47834	W-Poy-409638
-Reference link to non-existing reference	122	W-Poy-124410	W-Poy-412981
-Reference link to non-existing reference	123	W-Poy-124410	W-Poy-412999
-Reference link to non-existing reference	124	W-Poy-124410	W-Poy-413024
-Reference link to non-existing reference	125	W-Poy-47834	W-Poy-413050
-Reference link to non-existing reference	126	W-Poy-47834	W-Poy-413064
-Reference link to non-existing reference	127	W-Poy-47834	W-Poy-413068
-Reference link to non-existing reference	128	W-Poy-47834	W-Poy-413075
-Reference link to non-existing reference	129	W-Poy-47834	W-Poy-413093
-Reference link to non-existing reference	137	W-Poy-47834	W-Poy-345829
-Reference link to non-existing reference	138	W-Poy-47844	W-Poy-345892
-Reference link to non-existing reference	139	W-Poy-47834	W-Poy-409603
-Reference link to non-existing reference	140	W-Poy-124410	W-Poy-412900
-Reference link to non-existing reference	141	W-Poy-124410	W-Poy-412902
-Reference link to non-existing reference	142	W-Poy-124410	W-Poy-412936
-Reference link to non-existing reference	143	W-Poy-124410	W-Poy-413000
-Reference link to non-existing reference	144	W-Poy-124410	W-Poy-413002
-Reference link to non-existing reference	145	W-Poy-47834	W-Poy-413047
-Reference link to non-existing reference	146	W-Poy-47834	W-Poy-413062
-Reference link to non-existing reference	147	W-Poy-47834	W-Poy-413077
-Reference link to non-existing reference	156	W-Poy-124410	W-Poy-367324
-Reference link to non-existing reference	159	W-Poy-47834	W-Poy-409623
-Reference link to non-existing reference	161	W-Poy-124410	W-Poy-412907
-Reference link to non-existing reference	162	W-Poy-124410	W-Poy-412912
-Reference link to non-existing reference	164	W-Poy-124410	W-Poy-412971
-Reference link to non-existing reference	165	W-Poy-124410	W-Poy-412980
-Reference link to non-existing reference	166	W-Poy-124410	W-Poy-413005
-Reference link to non-existing reference	167	W-Poy-124410	W-Poy-413014
-Reference link to non-existing reference	169	W-Poy-47834	W-Poy-413065
-Reference link to non-existing reference	170	W-Poy-47834	W-Poy-413074
-Reference link to non-existing reference	180	W-Poy-47834	W-Poy-346135
-Reference link to non-existing reference	182	W-Poy-124410	W-Poy-412908
-Reference link to non-existing reference	185	W-Poy-124410	W-Poy-412993
-Reference link to non-existing reference	186	W-Poy-124410	W-Poy-412994
-Reference link to non-existing reference	187	W-Poy-47834	W-Poy-413069
-Reference link to non-existing reference	188	W-Poy-47834	W-Poy-413070
-Reference link to non-existing reference	189	W-Poy-47834	W-Poy-413105
-Reference link to non-existing reference	199	W-Poy-47834	W-Poy-345914
-Reference link to non-existing reference	200	W-Poy-47834	W-Poy-393178
-Reference link to non-existing reference	201	W-Poy-47834	W-Poy-409640
-Reference link to non-existing reference	202	W-Poy-124410	W-Poy-413022
-Reference link to non-existing reference	203	W-Poy-47834	W-Poy-413048
-Reference link to non-existing reference	204	W-Poy-47834	W-Poy-413084
-Reference link to non-existing reference	205	W-Poy-47834	W-Poy-413091
-Reference link to non-existing reference	206	W-Poy-47834	W-Poy-413098
-Reference link to non-existing reference	217	W-Poy-124410	W-Poy-412957
-Reference link to non-existing reference	218	W-Poy-124410	W-Poy-412987
-Reference link to non-existing reference	220	W-Poy-124410	W-Poy-413021
-Reference link to non-existing reference	221	W-Poy-124410	W-Poy-413023
-Reference link to non-existing reference	222	W-Poy-124410	W-Poy-413030
-Reference link to non-existing reference	224	W-Poy-47834	W-Poy-413056
-Reference link to non-existing reference	225	W-Poy-47834	W-Poy-413083
-Reference link to non-existing reference	226	W-Poy-47834	W-Poy-413090
-Reference link to non-existing reference	227	W-Poy-47834	W-Poy-413092
-Reference link to non-existing reference	234	W-Poy-124410	W-Poy-367325
-Reference link to non-existing reference	235	W-Poy-47834	W-Poy-410037
-Reference link to non-existing reference	236	W-Poy-124410	W-Poy-412919
-Reference link to non-existing reference	237	W-Poy-124410	W-Poy-412968
-Reference link to non-existing reference	239	W-Poy-124410	W-Poy-413034
-Reference link to non-existing reference	240	W-Poy-47834	W-Poy-413060
-Reference link to non-existing reference	241	W-Poy-47834	W-Poy-413079
-Reference link to non-existing reference	242	W-Poy-47834	W-Poy-413096
-Reference link to non-existing reference	247	W-Poy-47834	W-Poy-345840
-Reference link to non-existing reference	248	W-Poy-47834	W-Poy-345897
-Reference link to non-existing reference	249	W-Poy-124410	W-Poy-412932
-Reference link to non-existing reference	250	W-Poy-124410	W-Poy-412955
-Reference link to non-existing reference	251	W-Poy-124410	W-Poy-412962
-Reference link to non-existing reference	252	W-Poy-47834	W-Poy-413051
-Reference link to non-existing reference	253	W-Poy-47834	W-Poy-413058
-Reference link to non-existing reference	254	W-Poy-47834	W-Poy-413081
-Reference link to non-existing reference	261	W-Poy-47834	W-Poy-391960
-Reference link to non-existing reference	262	W-Poy-124410	W-Poy-412904
-Reference link to non-existing reference	263	W-Poy-124410	W-Poy-412940
-Reference link to non-existing reference	264	W-Poy-124410	W-Poy-412947
-Reference link to non-existing reference	265	W-Poy-124410	W-Poy-412997
-Reference link to non-existing reference	266	W-Poy-124410	W-Poy-413004
-Reference link to non-existing reference	267	W-Poy-47834	W-Poy-413059
-Reference link to non-existing reference	268	W-Poy-47834	W-Poy-413066
-Reference link to non-existing reference	269	W-Poy-47834	W-Poy-413073
-Reference link to non-existing reference	281	W-Poy-124410	W-Poy-412918
-Reference link to non-existing reference	282	W-Poy-124410	W-Poy-412935
-Reference link to non-existing reference	283	W-Poy-124410	W-Poy-412969
-Reference link to non-existing reference	284	W-Poy-124410	W-Poy-413033
-Reference link to non-existing reference	285	W-Poy-124410	W-Poy-413037
-Reference link to non-existing reference	286	W-Poy-47834	W-Poy-413080
-Reference link to non-existing reference	287	W-Poy-47834	W-Poy-413097
-Reference link to non-existing reference	288	W-Poy-47834	W-Poy-413110
+Reference link to non-existing reference	2	W-Poy-47834	W-Poy-345904
+Reference link to non-existing reference	3	W-Poy-124410	W-Poy-367320
+Reference link to non-existing reference	5	W-Poy-124410	W-Poy-412925
+Reference link to non-existing reference	6	W-Poy-124410	W-Poy-412961
+Reference link to non-existing reference	7	W-Poy-124410	W-Poy-412975
+Reference link to non-existing reference	8	W-Poy-124410	W-Poy-413011
+Reference link to non-existing reference	9	W-Poy-124410	W-Poy-413025
+Reference link to non-existing reference	10	W-Poy-47834	W-Poy-413052
+Reference link to non-existing reference	11	W-Poy-47834	W-Poy-413088
+Reference link to non-existing reference	12	W-Poy-47834	W-Poy-413102
+Reference link to non-existing reference	21	W-Poy-47834	W-Poy-760189
+Reference link to non-existing reference	22	W-Poy-64	W-Poy-345895
+Reference link to non-existing reference	24	W-Poy-124410	W-Poy-385291
+Reference link to non-existing reference	26	W-Poy-124410	W-Poy-412903
+Reference link to non-existing reference	28	W-Poy-124410	W-Poy-412916
+Reference link to non-existing reference	29	W-Poy-124410	W-Poy-412920
+Reference link to non-existing reference	31	W-Poy-124410	W-Poy-412933
+Reference link to non-existing reference	32	W-Poy-124410	W-Poy-412950
+Reference link to non-existing reference	33	W-Poy-124410	W-Poy-412984
+Reference link to non-existing reference	34	W-Poy-124410	W-Poy-413001
+Reference link to non-existing reference	36	W-Poy-124410	W-Poy-413018
+Reference link to non-existing reference	37	W-Poy-124410	W-Poy-413035
+Reference link to non-existing reference	38	W-Poy-47834	W-Poy-413061
+Reference link to non-existing reference	39	W-Poy-47834	W-Poy-413078
+Reference link to non-existing reference	40	W-Poy-47834	W-Poy-413095
+Reference link to non-existing reference	52	W-Poy-124410	W-Poy-412918
+Reference link to non-existing reference	53	W-Poy-124410	W-Poy-412935
+Reference link to non-existing reference	55	W-Poy-124410	W-Poy-412969
+Reference link to non-existing reference	56	W-Poy-124410	W-Poy-413033
+Reference link to non-existing reference	57	W-Poy-124410	W-Poy-413037
+Reference link to non-existing reference	58	W-Poy-47834	W-Poy-413063
+Reference link to non-existing reference	59	W-Poy-47834	W-Poy-413080
+Reference link to non-existing reference	60	W-Poy-47834	W-Poy-413097
+Reference link to non-existing reference	61	W-Poy-47834	W-Poy-413110
+Reference link to non-existing reference	72	W-Poy-124410	W-Poy-345861
+Reference link to non-existing reference	73	W-Poy-47834	W-Poy-345901
+Reference link to non-existing reference	74	W-Poy-124410	W-Poy-367318
+Reference link to non-existing reference	75	W-Poy-124410	W-Poy-412909
+Reference link to non-existing reference	76	W-Poy-124410	W-Poy-412910
+Reference link to non-existing reference	78	W-Poy-124410	W-Poy-412978
+Reference link to non-existing reference	79	W-Poy-124410	W-Poy-412995
+Reference link to non-existing reference	80	W-Poy-47834	W-Poy-413071
+Reference link to non-existing reference	81	W-Poy-47834	W-Poy-413072
+Reference link to non-existing reference	88	W-Poy-124410	W-Poy-367325
+Reference link to non-existing reference	89	W-Poy-124410	W-Poy-367327
+Reference link to non-existing reference	90	W-Poy-47834	W-Poy-410037
+Reference link to non-existing reference	91	W-Poy-124410	W-Poy-412919
+Reference link to non-existing reference	92	W-Poy-124410	W-Poy-412953
+Reference link to non-existing reference	93	W-Poy-124410	W-Poy-412968
+Reference link to non-existing reference	95	W-Poy-124410	W-Poy-413017
+Reference link to non-existing reference	96	W-Poy-124410	W-Poy-413034
+Reference link to non-existing reference	97	W-Poy-47834	W-Poy-413060
+Reference link to non-existing reference	99	W-Poy-47834	W-Poy-413079
+Reference link to non-existing reference	100	W-Poy-47834	W-Poy-413096
+Reference link to non-existing reference	106	W-Poy-124410	W-Poy-367329
+Reference link to non-existing reference	107	W-Poy-124410	W-Poy-409622
+Reference link to non-existing reference	109	W-Poy-124410	W-Poy-412957
+Reference link to non-existing reference	110	W-Poy-124410	W-Poy-412964
+Reference link to non-existing reference	111	W-Poy-124410	W-Poy-412966
+Reference link to non-existing reference	112	W-Poy-124410	W-Poy-412987
+Reference link to non-existing reference	114	W-Poy-124410	W-Poy-413021
+Reference link to non-existing reference	115	W-Poy-124410	W-Poy-413023
+Reference link to non-existing reference	116	W-Poy-124410	W-Poy-413030
+Reference link to non-existing reference	118	W-Poy-47834	W-Poy-413056
+Reference link to non-existing reference	119	W-Poy-47834	W-Poy-413083
+Reference link to non-existing reference	120	W-Poy-47834	W-Poy-413090
+Reference link to non-existing reference	121	W-Poy-47834	W-Poy-413092
+Reference link to non-existing reference	129	W-Poy-47834	W-Poy-391960
+Reference link to non-existing reference	130	W-Poy-124410	W-Poy-412904
+Reference link to non-existing reference	131	W-Poy-124410	W-Poy-412940
+Reference link to non-existing reference	132	W-Poy-124410	W-Poy-412947
+Reference link to non-existing reference	133	W-Poy-124410	W-Poy-412997
+Reference link to non-existing reference	134	W-Poy-124410	W-Poy-413004
+Reference link to non-existing reference	135	W-Poy-47834	W-Poy-413059
+Reference link to non-existing reference	136	W-Poy-47834	W-Poy-413066
+Reference link to non-existing reference	137	W-Poy-47834	W-Poy-413073
+Reference link to non-existing reference	147	W-Poy-47834	W-Poy-345914
+Reference link to non-existing reference	148	W-Poy-47834	W-Poy-393178
+Reference link to non-existing reference	149	W-Poy-47834	W-Poy-409640
+Reference link to non-existing reference	150	W-Poy-124410	W-Poy-412915
+Reference link to non-existing reference	151	W-Poy-124410	W-Poy-413022
+Reference link to non-existing reference	152	W-Poy-47834	W-Poy-413048
+Reference link to non-existing reference	153	W-Poy-47834	W-Poy-413084
+Reference link to non-existing reference	154	W-Poy-47834	W-Poy-413091
+Reference link to non-existing reference	155	W-Poy-47834	W-Poy-413098
+Reference link to non-existing reference	165	W-Poy-47834	W-Poy-760150
+Reference link to non-existing reference	168	W-Poy-124410	W-Poy-367324
+Reference link to non-existing reference	170	W-Poy-47834	W-Poy-409623
+Reference link to non-existing reference	172	W-Poy-124410	W-Poy-412907
+Reference link to non-existing reference	173	W-Poy-124410	W-Poy-412912
+Reference link to non-existing reference	174	W-Poy-124410	W-Poy-412971
+Reference link to non-existing reference	175	W-Poy-124410	W-Poy-412980
+Reference link to non-existing reference	176	W-Poy-124410	W-Poy-413005
+Reference link to non-existing reference	177	W-Poy-124410	W-Poy-413014
+Reference link to non-existing reference	178	W-Poy-47834	W-Poy-413065
+Reference link to non-existing reference	179	W-Poy-47834	W-Poy-413074
+Reference link to non-existing reference	190	W-Poy-47834	W-Poy-346135
+Reference link to non-existing reference	193	W-Poy-124410	W-Poy-412993
+Reference link to non-existing reference	194	W-Poy-124410	W-Poy-412994
+Reference link to non-existing reference	197	W-Poy-47834	W-Poy-413069
+Reference link to non-existing reference	198	W-Poy-47834	W-Poy-413070
+Reference link to non-existing reference	209	W-Poy-124410	W-Poy-412973
+Reference link to non-existing reference	210	W-Poy-124410	W-Poy-412982
+Reference link to non-existing reference	211	W-Poy-124410	W-Poy-413007
+Reference link to non-existing reference	212	W-Poy-124410	W-Poy-413016
+Reference link to non-existing reference	213	W-Poy-124410	W-Poy-413046
+Reference link to non-existing reference	214	W-Poy-47834	W-Poy-413067
+Reference link to non-existing reference	215	W-Poy-47834	W-Poy-413101
+Reference link to non-existing reference	216	W-Poy-47834	W-Poy-413106
+Reference link to non-existing reference	225	W-Poy-47834	W-Poy-345829
+Reference link to non-existing reference	226	W-Poy-47834	W-Poy-409603
+Reference link to non-existing reference	227	W-Poy-124410	W-Poy-412900
+Reference link to non-existing reference	228	W-Poy-124410	W-Poy-412902
+Reference link to non-existing reference	229	W-Poy-124410	W-Poy-412936
+Reference link to non-existing reference	230	W-Poy-124410	W-Poy-413002
+Reference link to non-existing reference	231	W-Poy-47834	W-Poy-413047
+Reference link to non-existing reference	232	W-Poy-47834	W-Poy-413062
+Reference link to non-existing reference	233	W-Poy-47834	W-Poy-413077
+Reference link to non-existing reference	241	W-Poy-124410	W-Poy-367321
+Reference link to non-existing reference	242	W-Poy-47834	W-Poy-409638
+Reference link to non-existing reference	243	W-Poy-124410	W-Poy-412981
+Reference link to non-existing reference	244	W-Poy-124410	W-Poy-412999
+Reference link to non-existing reference	245	W-Poy-124410	W-Poy-413024
+Reference link to non-existing reference	247	W-Poy-47834	W-Poy-413050
+Reference link to non-existing reference	248	W-Poy-47834	W-Poy-413068
+Reference link to non-existing reference	249	W-Poy-47834	W-Poy-413093
+Reference link to non-existing reference	256	W-Poy-124410	W-Poy-385312
+Reference link to non-existing reference	258	W-Poy-124410	W-Poy-412949
+Reference link to non-existing reference	259	W-Poy-47834	W-Poy-413057
+Reference link to non-existing reference	260	W-Poy-47834	W-Poy-413082
+Reference link to non-existing reference	261	W-Poy-47834	W-Poy-413100
+Reference link to non-existing reference	272	W-Poy-47834	W-Poy-391962
+Reference link to non-existing reference	274	W-Poy-124410	W-Poy-412942
+Reference link to non-existing reference	275	W-Poy-124410	W-Poy-412959
+Reference link to non-existing reference	276	W-Poy-47834	W-Poy-413053
+Reference link to non-existing reference	277	W-Poy-47834	W-Poy-413086
+Reference link to non-existing reference	278	W-Poy-47834	W-Poy-413103
+Reference link to non-existing reference	279	W-Poy-47834	W-Poy-413104
+Reference link to non-existing reference	285	W-Poy-47834	W-Poy-760187
+Reference link to non-existing reference	286	W-Poy-47834	W-Poy-345840
+Reference link to non-existing reference	287	W-Poy-47834	W-Poy-345897
+Reference link to non-existing reference	288	W-Poy-124410	W-Poy-412932
+Reference link to non-existing reference	289	W-Poy-124410	W-Poy-412955
+Reference link to non-existing reference	290	W-Poy-124410	W-Poy-412962
+Reference link to non-existing reference	291	W-Poy-47834	W-Poy-413051
+Reference link to non-existing reference	292	W-Poy-47834	W-Poy-413058
+Reference link to non-existing reference	293	W-Poy-47834	W-Poy-413081
 --------------
-SELECT 'Specialist not present in scientific names table', record_id, specialist_name, specialist_code FROM specialists
-WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code FROM specialists AS t1
+LEFT JOIN scientific_names AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference without parent accepted or common name', record_id, author, year, title, reference_code FROM `references`
-WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
-UNION SELECT DISTINCT reference_code FROM common_names)
+SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
 --------------
 
 Reference without parent accepted or common name	record_id	author	year	title	reference_code
@@ -1594,19 +1600,27 @@ DELETE QUICK FROM scientific_names USING scientific_names INNER JOIN duplicates_
 --------------
 
 --------------
-DELETE FROM common_names WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names WHERE is_accepted_name != 1 AND accepted_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.accepted_name_code = t2.name_code
+WHERE t2.name_code IS NULL AND t1.is_accepted_name != 1
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names WHERE infraspecies_parent_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM lifezone WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
@@ -1616,7 +1630,9 @@ OPTIMIZE TABLE lifezone
 Table	Op	Msg_type	Msg_text
 Assembly_Polycystina.lifezone	optimize	status	OK
 --------------
-DELETE QUICK FROM distribution WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
@@ -1626,7 +1642,9 @@ OPTIMIZE TABLE distribution
 Table	Op	Msg_type	Msg_text
 Assembly_Polycystina.distribution	optimize	status	OK
 --------------
-DELETE QUICK FROM scientific_names WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL
 --------------
 
 --------------
@@ -1636,11 +1654,15 @@ OPTIMIZE TABLE scientific_names
 Table	Op	Msg_type	Msg_text
 Assembly_Polycystina.scientific_names	optimize	status	OK
 --------------
-DELETE QUICK FROM scientific_name_references WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM scientific_name_references WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+DELETE QUICK t1 FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL
 --------------
 
 --------------
@@ -1650,12 +1672,16 @@ OPTIMIZE TABLE scientific_name_references
 Table	Op	Msg_type	Msg_text
 Assembly_Polycystina.scientific_name_references	optimize	status	OK
 --------------
-DELETE FROM specialists WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+DELETE QUICK t1 FROM specialists AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM `references` WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
-UNION SELECT DISTINCT reference_code FROM common_names)
+DELETE t1 FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
 --------------
 
 --------------

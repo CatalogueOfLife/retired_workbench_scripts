@@ -994,7 +994,7 @@ Data Loaded.
 </pre>
 </pre><hr><b>Backing up...</b>
 <pre>
-Creating directory  23_00_05_05Aug2015
+Creating directory  08_22_12_10Sep2015
 Backing up files
 </pre><hr><b>Executing local editorial checks</b>
 <pre>
@@ -1244,7 +1244,7 @@ Infraspecies starting with marker: 	W-Ase-828507	Astropecten	nitidus	var. forcip
 Infraspecies starting with marker: 	W-Ase-125249	Pseudarchaster	intermedius	var. insignis
 Infraspecies starting with marker: 	W-Ase-125261	Leptasterias	hyperborea	var. intermedia
 Infraspecies starting with marker: 	W-Ase-536043	Asterina	cepheus	var. iranica
-Infraspecies starting with marker: 	W-Ase-125240	Asterias	mÃ¼lleri	var. islandica
+Infraspecies starting with marker: 	W-Ase-125240	Asterias	mülleri	var. islandica
 Infraspecies starting with marker: 	W-Ase-379492	Asterias	arenicola	var. lacazei
 Infraspecies starting with marker: 	W-Ase-828509	Henricia	leviuscula	var. lunula
 Infraspecies starting with marker: 	W-Ase-379523	Asterias	rubens	var. migratum
@@ -1369,8 +1369,9 @@ ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.auth
 --------------
 
 --------------
-SELECT 'Common name without parent accepted name', record_id, common_name, name_code FROM common_names
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Common name without parent accepted name', t1.record_id, t1.common_name, t1.name_code FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
@@ -1397,412 +1398,441 @@ WHERE is_accepted_name != 1 AND family_code IS NULL
 --------------
 
 Missing parent accepted name for synonym	record_id	name_code	genus	species	infraspecies	accepted_name_code
-Missing parent accepted name for synonym	2063	W-Ase-379077	Asterias	borbonica		W-Ase-172534
-Missing parent accepted name for synonym	2836	W-Ase-382114	Pedicellaster	parvulus		W-Ase-123225
-Missing parent accepted name for synonym	3333	W-Ase-381975	Marginaster	littoralis		W-Ase-123133
-Missing parent accepted name for synonym	3686	W-Ase-380692	Albatrossia	nuda		W-Ase-123267
-Missing parent accepted name for synonym	3737	W-Ase-378639	Linckia	franciscus		W-Ase-123314
-Missing parent accepted name for synonym	4102	W-Ase-370908	Randasia	luzonica		W-Ase-204844
+Missing parent accepted name for synonym	2215	W-Ase-379077	Asterias	borbonica		W-Ase-172534
+Missing parent accepted name for synonym	3038	W-Ase-381975	Marginaster	littoralis		W-Ase-123133
+Missing parent accepted name for synonym	3048	W-Ase-380692	Albatrossia	nuda		W-Ase-123267
+Missing parent accepted name for synonym	3817	W-Ase-382114	Pedicellaster	parvulus		W-Ase-123225
+Missing parent accepted name for synonym	4213	W-Ase-370908	Randasia	luzonica		W-Ase-204844
+Missing parent accepted name for synonym	4536	W-Ase-378639	Linckia	franciscus		W-Ase-123314
 --------------
 SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, species, infraspecies, infraspecies_parent_name_code FROM scientific_names WHERE LENGTH(infraspecies)>1  AND family_code IS NULL
 --------------
 
 --------------
-SELECT 'Lifezone without parent accepted name', record_id, name_code, lifezone FROM lifezone
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Lifezone without parent accepted name', t1.record_id, t1.name_code, t1.lifezone FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Distribution without parent accepted name', record_id, name_code, distribution FROM distribution
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Distribution without parent accepted name', t1.record_id, t1.name_code, t1.distribution FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Accepted name without parent family', record_id, name_code, genus, species, infraspecies, family_code FROM scientific_names
-WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.family_code FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL
 --------------
 
+Accepted name without parent family	record_id	name_code	genus	species	infraspecies	family_code
+Accepted name without parent family	2215	W-Ase-379077	Asterias	borbonica		NULL
+Accepted name without parent family	3038	W-Ase-381975	Marginaster	littoralis		NULL
+Accepted name without parent family	3048	W-Ase-380692	Albatrossia	nuda		NULL
+Accepted name without parent family	3817	W-Ase-382114	Pedicellaster	parvulus		NULL
+Accepted name without parent family	4213	W-Ase-370908	Randasia	luzonica		NULL
+Accepted name without parent family	4536	W-Ase-378639	Linckia	franciscus		NULL
 --------------
-SELECT 'Reference link to non-existing accepted name', record_id, reference_code, name_code FROM scientific_name_references
-WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 Reference link to non-existing accepted name	record_id	reference_code	name_code
-Reference link to non-existing accepted name	77	W-Ase-1368	W-Ase-124037
-Reference link to non-existing accepted name	78	W-Ase-124623	W-Ase-124041
-Reference link to non-existing accepted name	96	W-Ase-5869	W-Ase-125234
-Reference link to non-existing accepted name	232	W-Ase-47471	W-Ase-380627
-Reference link to non-existing accepted name	265	W-Ase-1368	W-Ase-124016
-Reference link to non-existing accepted name	340	W-Ase-6338	W-Ase-213180
-Reference link to non-existing accepted name	396	W-Ase-125364	W-Ase-368441
-Reference link to non-existing accepted name	425	W-Ase-1368	W-Ase-123720
-Reference link to non-existing accepted name	444	W-Ase-124623	W-Ase-124044
-Reference link to non-existing accepted name	495	W-Ase-71	W-Ase-213244
-Reference link to non-existing accepted name	517	W-Ase-10011	W-Ase-235012
-Reference link to non-existing accepted name	566	W-Ase-125374	W-Ase-370972
-Reference link to non-existing accepted name	591	W-Ase-1368	W-Ase-123791
-Reference link to non-existing accepted name	607	W-Ase-1368	W-Ase-124025
-Reference link to non-existing accepted name	610	W-Ase-1368	W-Ase-124076
-Reference link to non-existing accepted name	628	W-Ase-6820	W-Ase-149885
-Reference link to non-existing accepted name	674	W-Ase-6325	W-Ase-216166
-Reference link to non-existing accepted name	675	W-Ase-6324	W-Ase-216169
-Reference link to non-existing accepted name	676	W-Ase-6324	W-Ase-221151
-Reference link to non-existing accepted name	729	W-Ase-1368	W-Ase-123716
-Reference link to non-existing accepted name	730	W-Ase-1368	W-Ase-123717
-Reference link to non-existing accepted name	748	W-Ase-1368	W-Ase-123917
-Reference link to non-existing accepted name	794	W-Ase-6820	W-Ase-179589
-Reference link to non-existing accepted name	799	W-Ase-70	W-Ase-213260
-Reference link to non-existing accepted name	814	W-Ase-10011	W-Ase-234873
-Reference link to non-existing accepted name	821	W-Ase-10010	W-Ase-234960
-Reference link to non-existing accepted name	903	W-Ase-1368	W-Ase-124114
-Reference link to non-existing accepted name	911	W-Ase-1368	W-Ase-125157
-Reference link to non-existing accepted name	960	W-Ase-71	W-Ase-213132
-Reference link to non-existing accepted name	1114	W-Ase-124945	W-Ase-254889
-Reference link to non-existing accepted name	1268	W-Ase-129946	W-Ase-379538
-Reference link to non-existing accepted name	1272	W-Ase-47480	W-Ase-380348
-Reference link to non-existing accepted name	1305	W-Ase-1368	W-Ase-124040
-Reference link to non-existing accepted name	1338	W-Ase-6324	W-Ase-216171
-Reference link to non-existing accepted name	1397	W-Ase-1368	W-Ase-123951
-Reference link to non-existing accepted name	1411	W-Ase-4179	W-Ase-172754
-Reference link to non-existing accepted name	1414	W-Ase-5869	W-Ase-178135
-Reference link to non-existing accepted name	1443	W-Ase-6324	W-Ase-213337
-Reference link to non-existing accepted name	1489	W-Ase-125374	W-Ase-370963
-Reference link to non-existing accepted name	1492	W-Ase-47453	W-Ase-377848
-Reference link to non-existing accepted name	1505	W-Ase-47480	W-Ase-123918
-Reference link to non-existing accepted name	1643	W-Ase-47408	W-Ase-224147
-Reference link to non-existing accepted name	1673	W-Ase-47408	W-Ase-368440
-Reference link to non-existing accepted name	1783	W-Ase-1368	W-Ase-125162
-Reference link to non-existing accepted name	1846	W-Ase-667	W-Ase-379142
-Reference link to non-existing accepted name	1853	W-Ase-47427	W-Ase-380700
-Reference link to non-existing accepted name	1903	W-Ase-671	W-Ase-379048
-Reference link to non-existing accepted name	1912	W-Ase-132589	W-Ase-382102
-Reference link to non-existing accepted name	1918	W-Ase-126089	W-Ase-377843
-Reference link to non-existing accepted name	1967	W-Ase-47453	W-Ase-377927
-Reference link to non-existing accepted name	1971	W-Ase-47480	W-Ase-378535
-Reference link to non-existing accepted name	2021	W-Ase-127081	W-Ase-380329
-Reference link to non-existing accepted name	2029	W-Ase-47480	W-Ase-381040
-Reference link to non-existing accepted name	2061	W-Ase-47471	W-Ase-377876
-Reference link to non-existing accepted name	2066	W-Ase-47454	W-Ase-378511
-Reference link to non-existing accepted name	2071	W-Ase-43179	W-Ase-378710
-Reference link to non-existing accepted name	2075	W-Ase-133557	W-Ase-379650
-Reference link to non-existing accepted name	2084	W-Ase-47480	W-Ase-381951
-Reference link to non-existing accepted name	2101	W-Ase-125337	W-Ase-762317
-Reference link to non-existing accepted name	2103	W-Ase-124647	W-Ase-765422
-Reference link to non-existing accepted name	2106	W-Ase-6273	W-Ase-370885
-Reference link to non-existing accepted name	2169	W-Ase-6313	W-Ase-378597
-Reference link to non-existing accepted name	2174	W-Ase-138507	W-Ase-379565
-Reference link to non-existing accepted name	2182	W-Ase-1368	W-Ase-382090
-Reference link to non-existing accepted name	2201	W-Ase-6392	W-Ase-377375
-Reference link to non-existing accepted name	2202	W-Ase-6392	W-Ase-377377
-Reference link to non-existing accepted name	2233	W-Ase-129889	W-Ase-573323
-Reference link to non-existing accepted name	2255	W-Ase-141249	W-Ase-380220
-Reference link to non-existing accepted name	2307	W-Ase-5869	W-Ase-178031
-Reference link to non-existing accepted name	2370	W-Ase-43179	W-Ase-378709
-Reference link to non-existing accepted name	2381	W-Ase-47470	W-Ase-381784
-Reference link to non-existing accepted name	2428	W-Ase-71	W-Ase-213135
-Reference link to non-existing accepted name	2456	W-Ase-47480	W-Ase-377806
-Reference link to non-existing accepted name	2486	W-Ase-125337	W-Ase-762315
+Reference link to non-existing accepted name	69	W-Ase-6324	W-Ase-123918
+Reference link to non-existing accepted name	331	W-Ase-5916	W-Ase-216166
+Reference link to non-existing accepted name	362	W-Ase-124945	W-Ase-254889
+Reference link to non-existing accepted name	406	W-Ase-1368	W-Ase-123716
+Reference link to non-existing accepted name	407	W-Ase-1368	W-Ase-123717
+Reference link to non-existing accepted name	422	W-Ase-1368	W-Ase-123917
+Reference link to non-existing accepted name	445	W-Ase-64	W-Ase-125234
+Reference link to non-existing accepted name	477	W-Ase-6820	W-Ase-179589
+Reference link to non-existing accepted name	485	W-Ase-70	W-Ase-213260
+Reference link to non-existing accepted name	500	W-Ase-10011	W-Ase-234873
+Reference link to non-existing accepted name	510	W-Ase-10010	W-Ase-234960
+Reference link to non-existing accepted name	584	W-Ase-1368	W-Ase-124016
+Reference link to non-existing accepted name	652	W-Ase-6338	W-Ase-213180
+Reference link to non-existing accepted name	695	W-Ase-125364	W-Ase-368441
+Reference link to non-existing accepted name	765	W-Ase-667	W-Ase-149885
+Reference link to non-existing accepted name	795	W-Ase-71	W-Ase-213135
+Reference link to non-existing accepted name	855	W-Ase-47480	W-Ase-377806
+Reference link to non-existing accepted name	869	W-Ase-64	W-Ase-123720
+Reference link to non-existing accepted name	887	W-Ase-1368	W-Ase-124041
+Reference link to non-existing accepted name	891	W-Ase-1368	W-Ase-125162
+Reference link to non-existing accepted name	991	W-Ase-667	W-Ase-379142
+Reference link to non-existing accepted name	998	W-Ase-47427	W-Ase-380700
+Reference link to non-existing accepted name	1018	W-Ase-124623	W-Ase-124044
+Reference link to non-existing accepted name	1059	W-Ase-71	W-Ase-213244
+Reference link to non-existing accepted name	1079	W-Ase-10011	W-Ase-235012
+Reference link to non-existing accepted name	1125	W-Ase-125374	W-Ase-370972
+Reference link to non-existing accepted name	1149	W-Ase-1368	W-Ase-123791
+Reference link to non-existing accepted name	1162	W-Ase-1368	W-Ase-124025
+Reference link to non-existing accepted name	1164	W-Ase-1368	W-Ase-124076
+Reference link to non-existing accepted name	1213	W-Ase-6324	W-Ase-216169
+Reference link to non-existing accepted name	1215	W-Ase-6324	W-Ase-221151
+Reference link to non-existing accepted name	1277	W-Ase-1368	W-Ase-124114
+Reference link to non-existing accepted name	1285	W-Ase-1368	W-Ase-125157
+Reference link to non-existing accepted name	1322	W-Ase-71	W-Ase-213132
+Reference link to non-existing accepted name	1429	W-Ase-47408	W-Ase-224147
+Reference link to non-existing accepted name	1465	W-Ase-47408	W-Ase-368440
+Reference link to non-existing accepted name	1494	W-Ase-1368	W-Ase-124037
+Reference link to non-existing accepted name	1576	W-Ase-47471	W-Ase-380627
+Reference link to non-existing accepted name	1693	W-Ase-125337	W-Ase-762315
+Reference link to non-existing accepted name	1695	W-Ase-129946	W-Ase-379538
+Reference link to non-existing accepted name	1699	W-Ase-47480	W-Ase-380348
+Reference link to non-existing accepted name	1795	W-Ase-126089	W-Ase-377843
+Reference link to non-existing accepted name	1840	W-Ase-125337	W-Ase-762317
+Reference link to non-existing accepted name	1842	W-Ase-124647	W-Ase-765422
+Reference link to non-existing accepted name	1857	W-Ase-6392	W-Ase-377375
+Reference link to non-existing accepted name	1858	W-Ase-6392	W-Ase-377377
+Reference link to non-existing accepted name	1859	W-Ase-126089	W-Ase-377848
+Reference link to non-existing accepted name	1893	W-Ase-129889	W-Ase-573323
+Reference link to non-existing accepted name	1927	W-Ase-671	W-Ase-379048
+Reference link to non-existing accepted name	1935	W-Ase-132589	W-Ase-382102
+Reference link to non-existing accepted name	1975	W-Ase-1368	W-Ase-124040
+Reference link to non-existing accepted name	1999	W-Ase-6324	W-Ase-216171
+Reference link to non-existing accepted name	2034	W-Ase-6273	W-Ase-370885
+Reference link to non-existing accepted name	2073	W-Ase-47453	W-Ase-377927
+Reference link to non-existing accepted name	2077	W-Ase-47480	W-Ase-378535
+Reference link to non-existing accepted name	2130	W-Ase-127081	W-Ase-380329
+Reference link to non-existing accepted name	2138	W-Ase-47480	W-Ase-381040
+Reference link to non-existing accepted name	2169	W-Ase-47471	W-Ase-377876
+Reference link to non-existing accepted name	2173	W-Ase-47454	W-Ase-378511
+Reference link to non-existing accepted name	2178	W-Ase-43179	W-Ase-378710
+Reference link to non-existing accepted name	2182	W-Ase-133557	W-Ase-379650
+Reference link to non-existing accepted name	2190	W-Ase-47480	W-Ase-381951
+Reference link to non-existing accepted name	2219	W-Ase-141249	W-Ase-380220
+Reference link to non-existing accepted name	2301	W-Ase-5869	W-Ase-178031
+Reference link to non-existing accepted name	2365	W-Ase-43179	W-Ase-378709
+Reference link to non-existing accepted name	2376	W-Ase-47470	W-Ase-381784
+Reference link to non-existing accepted name	2404	W-Ase-1368	W-Ase-123951
+Reference link to non-existing accepted name	2414	W-Ase-4179	W-Ase-172754
+Reference link to non-existing accepted name	2416	W-Ase-5869	W-Ase-178135
+Reference link to non-existing accepted name	2431	W-Ase-6324	W-Ase-213337
+Reference link to non-existing accepted name	2467	W-Ase-125374	W-Ase-370963
+Reference link to non-existing accepted name	2473	W-Ase-6313	W-Ase-378597
+Reference link to non-existing accepted name	2478	W-Ase-138507	W-Ase-379565
+Reference link to non-existing accepted name	2486	W-Ase-1368	W-Ase-382090
 --------------
-SELECT 'Reference link to non-existing reference', record_id, reference_code, name_code FROM scientific_name_references
-WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL
 --------------
 
 Reference link to non-existing reference	record_id	reference_code	name_code
 Reference link to non-existing reference	1	W-Ase-163039	W-Ase-123987
 Reference link to non-existing reference	2	W-Ase-163039	W-Ase-123803
-Reference link to non-existing reference	3	W-Ase-163043	W-Ase-123985
-Reference link to non-existing reference	4	W-Ase-147411	W-Ase-123813
-Reference link to non-existing reference	5	W-Ase-163039	W-Ase-125161
-Reference link to non-existing reference	8	W-Ase-147411	W-Ase-124160
-Reference link to non-existing reference	10	W-Ase-147411	W-Ase-123908
-Reference link to non-existing reference	11	W-Ase-163039	W-Ase-123878
-Reference link to non-existing reference	13	W-Ase-147412	W-Ase-125166
-Reference link to non-existing reference	14	W-Ase-147411	W-Ase-123920
-Reference link to non-existing reference	15	W-Ase-147411	W-Ase-123915
-Reference link to non-existing reference	16	W-Ase-147411	W-Ase-368636
-Reference link to non-existing reference	17	W-Ase-147411	W-Ase-124085
-Reference link to non-existing reference	18	W-Ase-147411	W-Ase-124147
-Reference link to non-existing reference	19	W-Ase-163039	W-Ase-123989
-Reference link to non-existing reference	20	W-Ase-147411	W-Ase-379749
-Reference link to non-existing reference	21	W-Ase-147411	W-Ase-379849
-Reference link to non-existing reference	22	W-Ase-147411	W-Ase-123825
-Reference link to non-existing reference	23	W-Ase-147411	W-Ase-123973
-Reference link to non-existing reference	26	W-Ase-147411	W-Ase-123851
-Reference link to non-existing reference	29	W-Ase-147411	W-Ase-379564
-Reference link to non-existing reference	31	W-Ase-147411	W-Ase-124154
-Reference link to non-existing reference	32	W-Ase-163039	W-Ase-123795
-Reference link to non-existing reference	33	W-Ase-147411	W-Ase-123971
-Reference link to non-existing reference	34	W-Ase-10085	W-Ase-123970
-Reference link to non-existing reference	36	W-Ase-147411	W-Ase-124020
-Reference link to non-existing reference	37	W-Ase-147411	W-Ase-124043
-Reference link to non-existing reference	38	W-Ase-163039	W-Ase-124101
-Reference link to non-existing reference	39	W-Ase-147411	W-Ase-123673
-Reference link to non-existing reference	40	W-Ase-147411	W-Ase-158500
-Reference link to non-existing reference	41	W-Ase-147411	W-Ase-124042
-Reference link to non-existing reference	42	W-Ase-147411	W-Ase-178639
+Reference link to non-existing reference	3	W-Ase-147411	W-Ase-123813
+Reference link to non-existing reference	4	W-Ase-163043	W-Ase-123985
+Reference link to non-existing reference	5	W-Ase-147411	W-Ase-123920
+Reference link to non-existing reference	6	W-Ase-163039	W-Ase-125161
+Reference link to non-existing reference	7	W-Ase-163039	W-Ase-124101
+Reference link to non-existing reference	8	W-Ase-2901	W-Ase-123974
+Reference link to non-existing reference	9	W-Ase-147411	W-Ase-124160
+Reference link to non-existing reference	10	W-Ase-147411	W-Ase-123673
+Reference link to non-existing reference	11	W-Ase-147411	W-Ase-158500
+Reference link to non-existing reference	13	W-Ase-163039	W-Ase-123989
+Reference link to non-existing reference	15	W-Ase-147411	W-Ase-379749
+Reference link to non-existing reference	16	W-Ase-147412	W-Ase-124043
+Reference link to non-existing reference	17	W-Ase-147411	W-Ase-124151
+Reference link to non-existing reference	18	W-Ase-147411	W-Ase-379849
+Reference link to non-existing reference	19	W-Ase-147411	W-Ase-123825
+Reference link to non-existing reference	20	W-Ase-147411	W-Ase-123908
+Reference link to non-existing reference	21	W-Ase-163039	W-Ase-123878
+Reference link to non-existing reference	22	W-Ase-147411	W-Ase-123915
+Reference link to non-existing reference	24	W-Ase-147412	W-Ase-125166
+Reference link to non-existing reference	25	W-Ase-147411	W-Ase-368636
+Reference link to non-existing reference	26	W-Ase-147411	W-Ase-124085
+Reference link to non-existing reference	27	W-Ase-147411	W-Ase-124147
+Reference link to non-existing reference	29	W-Ase-163039	W-Ase-123856
+Reference link to non-existing reference	30	W-Ase-147411	W-Ase-178639
+Reference link to non-existing reference	31	W-Ase-147411	W-Ase-124042
+Reference link to non-existing reference	32	W-Ase-147411	W-Ase-379564
+Reference link to non-existing reference	34	W-Ase-147411	W-Ase-124154
+Reference link to non-existing reference	35	W-Ase-163039	W-Ase-123795
+Reference link to non-existing reference	36	W-Ase-10085	W-Ase-123970
+Reference link to non-existing reference	37	W-Ase-147411	W-Ase-123971
+Reference link to non-existing reference	39	W-Ase-147411	W-Ase-124020
 Reference link to non-existing reference	43	W-Ase-42381	W-Ase-241001
 Reference link to non-existing reference	44	W-Ase-147411	W-Ase-124055
-Reference link to non-existing reference	47	W-Ase-147411	W-Ase-124151
-Reference link to non-existing reference	48	W-Ase-147411	W-Ase-369167
-Reference link to non-existing reference	71	W-Ase-64	W-Ase-123969
-Reference link to non-existing reference	82	W-Ase-64	W-Ase-124103
-Reference link to non-existing reference	88	W-Ase-64	W-Ase-124167
-Reference link to non-existing reference	91	W-Ase-64	W-Ase-125169
-Reference link to non-existing reference	93	W-Ase-64	W-Ase-125203
-Reference link to non-existing reference	94	W-Ase-64	W-Ase-125205
-Reference link to non-existing reference	100	W-Ase-64	W-Ase-149896
-Reference link to non-existing reference	101	W-Ase-64	W-Ase-152511
-Reference link to non-existing reference	102	W-Ase-64	W-Ase-152513
-Reference link to non-existing reference	104	W-Ase-4179	W-Ase-172698
-Reference link to non-existing reference	106	W-Ase-4179	W-Ase-172732
-Reference link to non-existing reference	108	W-Ase-4179	W-Ase-172739
-Reference link to non-existing reference	109	W-Ase-4179	W-Ase-172741
-Reference link to non-existing reference	110	W-Ase-4179	W-Ase-172775
-Reference link to non-existing reference	139	W-Ase-6831	W-Ase-183106
-Reference link to non-existing reference	170	W-Ase-10011	W-Ase-234961
-Reference link to non-existing reference	177	W-Ase-10011	W-Ase-235018
-Reference link to non-existing reference	181	W-Ase-43056	W-Ase-247756
-Reference link to non-existing reference	246	W-Ase-64	W-Ase-123763
-Reference link to non-existing reference	251	W-Ase-64	W-Ase-123845
-Reference link to non-existing reference	256	W-Ase-64	W-Ase-123912
-Reference link to non-existing reference	262	W-Ase-64	W-Ase-123980
-Reference link to non-existing reference	275	W-Ase-64	W-Ase-124112
-Reference link to non-existing reference	284	W-Ase-64	W-Ase-124163
-Reference link to non-existing reference	288	W-Ase-64	W-Ase-125202
-Reference link to non-existing reference	289	W-Ase-64	W-Ase-152507
-Reference link to non-existing reference	290	W-Ase-42	W-Ase-158489
-Reference link to non-existing reference	292	W-Ase-4179	W-Ase-172652
-Reference link to non-existing reference	293	W-Ase-4179	W-Ase-172653
-Reference link to non-existing reference	294	W-Ase-4179	W-Ase-172670
-Reference link to non-existing reference	297	W-Ase-4179	W-Ase-172720
-Reference link to non-existing reference	298	W-Ase-4179	W-Ase-172721
-Reference link to non-existing reference	300	W-Ase-4179	W-Ase-172771
-Reference link to non-existing reference	302	W-Ase-4179	W-Ase-172785
-Reference link to non-existing reference	303	W-Ase-4179	W-Ase-172788
-Reference link to non-existing reference	352	W-Ase-10011	W-Ase-234905
-Reference link to non-existing reference	353	W-Ase-10011	W-Ase-234908
-Reference link to non-existing reference	355	W-Ase-10011	W-Ase-234922
-Reference link to non-existing reference	365	W-Ase-42936	W-Ase-242157
-Reference link to non-existing reference	428	W-Ase-64	W-Ase-123741
-Reference link to non-existing reference	431	W-Ase-64	W-Ase-123809
-Reference link to non-existing reference	437	W-Ase-64	W-Ase-123877
-Reference link to non-existing reference	453	W-Ase-64	W-Ase-125156
-Reference link to non-existing reference	457	W-Ase-4179	W-Ase-172663
-Reference link to non-existing reference	458	W-Ase-4179	W-Ase-172667
-Reference link to non-existing reference	459	W-Ase-4179	W-Ase-172749
-Reference link to non-existing reference	460	W-Ase-4179	W-Ase-172756
-Reference link to non-existing reference	464	W-Ase-4179	W-Ase-172774
-Reference link to non-existing reference	482	W-Ase-6831	W-Ase-183364
-Reference link to non-existing reference	506	W-Ase-10011	W-Ase-234869
-Reference link to non-existing reference	509	W-Ase-10011	W-Ase-234894
-Reference link to non-existing reference	511	W-Ase-10011	W-Ase-234944
-Reference link to non-existing reference	517	W-Ase-10011	W-Ase-235012
-Reference link to non-existing reference	519	W-Ase-10011	W-Ase-235026
-Reference link to non-existing reference	520	W-Ase-42	W-Ase-242156
-Reference link to non-existing reference	600	W-Ase-64	W-Ase-123921
-Reference link to non-existing reference	614	W-Ase-64	W-Ase-124121
-Reference link to non-existing reference	619	W-Ase-64	W-Ase-124155
-Reference link to non-existing reference	621	W-Ase-64	W-Ase-125159
-Reference link to non-existing reference	622	W-Ase-64	W-Ase-125210
-Reference link to non-existing reference	629	W-Ase-42	W-Ase-158497
-Reference link to non-existing reference	630	W-Ase-4179	W-Ase-172661
-Reference link to non-existing reference	631	W-Ase-4179	W-Ase-172678
-Reference link to non-existing reference	633	W-Ase-4179	W-Ase-172695
-Reference link to non-existing reference	634	W-Ase-4179	W-Ase-172746
-Reference link to non-existing reference	635	W-Ase-4179	W-Ase-172763
-Reference link to non-existing reference	636	W-Ase-4179	W-Ase-172776
-Reference link to non-existing reference	637	W-Ase-4179	W-Ase-172793
-Reference link to non-existing reference	678	W-Ase-10011	W-Ase-234866
-Reference link to non-existing reference	681	W-Ase-10011	W-Ase-234896
-Reference link to non-existing reference	683	W-Ase-10011	W-Ase-234913
-Reference link to non-existing reference	689	W-Ase-10011	W-Ase-234998
-Reference link to non-existing reference	691	W-Ase-10011	W-Ase-235015
-Reference link to non-existing reference	693	W-Ase-42	W-Ase-240755
-Reference link to non-existing reference	731	W-Ase-64	W-Ase-123745
-Reference link to non-existing reference	736	W-Ase-64	W-Ase-123812
-Reference link to non-existing reference	743	W-Ase-64	W-Ase-123880
-Reference link to non-existing reference	763	W-Ase-64	W-Ase-125199
-Reference link to non-existing reference	764	W-Ase-64	W-Ase-149867
-Reference link to non-existing reference	767	W-Ase-64	W-Ase-152510
-Reference link to non-existing reference	769	W-Ase-4179	W-Ase-172671
-Reference link to non-existing reference	770	W-Ase-4179	W-Ase-172688
-Reference link to non-existing reference	771	W-Ase-4179	W-Ase-172752
-Reference link to non-existing reference	772	W-Ase-4179	W-Ase-172753
-Reference link to non-existing reference	773	W-Ase-4179	W-Ase-172770
-Reference link to non-existing reference	813	W-Ase-10011	W-Ase-234872
-Reference link to non-existing reference	814	W-Ase-10011	W-Ase-234873
-Reference link to non-existing reference	818	W-Ase-10011	W-Ase-234941
-Reference link to non-existing reference	820	W-Ase-10011	W-Ase-234958
-Reference link to non-existing reference	823	W-Ase-10011	W-Ase-235008
-Reference link to non-existing reference	882	W-Ase-64	W-Ase-123810
-Reference link to non-existing reference	902	W-Ase-64	W-Ase-124108
-Reference link to non-existing reference	910	W-Ase-64	W-Ase-125155
-Reference link to non-existing reference	915	W-Ase-42	W-Ase-158493
-Reference link to non-existing reference	917	W-Ase-4179	W-Ase-172691
-Reference link to non-existing reference	921	W-Ase-4179	W-Ase-172750
-Reference link to non-existing reference	922	W-Ase-4179	W-Ase-172755
-Reference link to non-existing reference	923	W-Ase-4179	W-Ase-172759
-Reference link to non-existing reference	924	W-Ase-4179	W-Ase-172780
-Reference link to non-existing reference	925	W-Ase-4179	W-Ase-172784
-Reference link to non-existing reference	926	W-Ase-4179	W-Ase-172789
-Reference link to non-existing reference	975	W-Ase-10011	W-Ase-234870
-Reference link to non-existing reference	978	W-Ase-10011	W-Ase-234904
-Reference link to non-existing reference	979	W-Ase-10011	W-Ase-234909
-Reference link to non-existing reference	985	W-Ase-10011	W-Ase-234968
-Reference link to non-existing reference	987	W-Ase-10011	W-Ase-235002
-Reference link to non-existing reference	988	W-Ase-10011	W-Ase-235806
-Reference link to non-existing reference	1030	W-Ase-64	W-Ase-123759
-Reference link to non-existing reference	1052	W-Ase-64	W-Ase-124159
-Reference link to non-existing reference	1055	W-Ase-4179	W-Ase-172674
-Reference link to non-existing reference	1056	W-Ase-4179	W-Ase-172742
-Reference link to non-existing reference	1057	W-Ase-4179	W-Ase-172781
-Reference link to non-existing reference	1059	W-Ase-4179	W-Ase-172792
-Reference link to non-existing reference	1095	W-Ase-10011	W-Ase-234862
-Reference link to non-existing reference	1100	W-Ase-10011	W-Ase-234951
-Reference link to non-existing reference	1105	W-Ase-10011	W-Ase-234994
-Reference link to non-existing reference	1175	W-Ase-64	W-Ase-124158
-Reference link to non-existing reference	1178	W-Ase-64	W-Ase-125230
-Reference link to non-existing reference	1183	W-Ase-4179	W-Ase-172664
-Reference link to non-existing reference	1184	W-Ase-4179	W-Ase-172666
-Reference link to non-existing reference	1186	W-Ase-4179	W-Ase-172766
-Reference link to non-existing reference	1187	W-Ase-4179	W-Ase-172773
-Reference link to non-existing reference	1200	W-Ase-6831	W-Ase-183045
-Reference link to non-existing reference	1221	W-Ase-10011	W-Ase-234984
-Reference link to non-existing reference	1222	W-Ase-10011	W-Ase-234986
-Reference link to non-existing reference	1224	W-Ase-10011	W-Ase-235020
-Reference link to non-existing reference	1225	W-Ase-42	W-Ase-240758
-Reference link to non-existing reference	1312	W-Ase-64	W-Ase-149876
-Reference link to non-existing reference	1313	W-Ase-64	W-Ase-149893
-Reference link to non-existing reference	1314	W-Ase-64	W-Ase-152501
-Reference link to non-existing reference	1315	W-Ase-4179	W-Ase-172659
-Reference link to non-existing reference	1316	W-Ase-4179	W-Ase-172676
-Reference link to non-existing reference	1317	W-Ase-4179	W-Ase-172744
-Reference link to non-existing reference	1328	W-Ase-6831	W-Ase-183352
-Reference link to non-existing reference	1341	W-Ase-10011	W-Ase-234898
-Reference link to non-existing reference	1344	W-Ase-10011	W-Ase-234966
-Reference link to non-existing reference	1346	W-Ase-10011	W-Ase-235013
-Reference link to non-existing reference	1348	W-Ase-42	W-Ase-242110
-Reference link to non-existing reference	1406	W-Ase-4179	W-Ase-172668
-Reference link to non-existing reference	1407	W-Ase-4179	W-Ase-172669
-Reference link to non-existing reference	1408	W-Ase-4179	W-Ase-172704
-Reference link to non-existing reference	1410	W-Ase-4179	W-Ase-172718
-Reference link to non-existing reference	1411	W-Ase-4179	W-Ase-172754
-Reference link to non-existing reference	1412	W-Ase-4179	W-Ase-172768
-Reference link to non-existing reference	1451	W-Ase-10011	W-Ase-235024
-Reference link to non-existing reference	1499	W-Ase-64	W-Ase-123783
-Reference link to non-existing reference	1515	W-Ase-64	W-Ase-149889
-Reference link to non-existing reference	1516	W-Ase-64	W-Ase-152497
-Reference link to non-existing reference	1518	W-Ase-4179	W-Ase-172650
-Reference link to non-existing reference	1519	W-Ase-4179	W-Ase-172655
-Reference link to non-existing reference	1520	W-Ase-4179	W-Ase-172680
-Reference link to non-existing reference	1521	W-Ase-4179	W-Ase-172748
-Reference link to non-existing reference	1548	W-Ase-10011	W-Ase-234868
-Reference link to non-existing reference	1551	W-Ase-10011	W-Ase-234902
-Reference link to non-existing reference	1553	W-Ase-10011	W-Ase-234936
-Reference link to non-existing reference	1556	W-Ase-10011	W-Ase-235004
-Reference link to non-existing reference	1557	W-Ase-10011	W-Ase-235009
-Reference link to non-existing reference	1602	W-Ase-64	W-Ase-124029
-Reference link to non-existing reference	1611	W-Ase-4179	W-Ase-172651
-Reference link to non-existing reference	1612	W-Ase-4179	W-Ase-172687
-Reference link to non-existing reference	1613	W-Ase-4179	W-Ase-172736
-Reference link to non-existing reference	1615	W-Ase-4179	W-Ase-172751
-Reference link to non-existing reference	1646	W-Ase-42	W-Ase-240764
-Reference link to non-existing reference	1700	W-Ase-64	W-Ase-124054
-Reference link to non-existing reference	1706	W-Ase-4179	W-Ase-172660
-Reference link to non-existing reference	1707	W-Ase-4179	W-Ase-172662
-Reference link to non-existing reference	1708	W-Ase-4179	W-Ase-172677
-Reference link to non-existing reference	1709	W-Ase-4179	W-Ase-172760
-Reference link to non-existing reference	1710	W-Ase-4179	W-Ase-172762
-Reference link to non-existing reference	1711	W-Ase-4179	W-Ase-172777
-Reference link to non-existing reference	1726	W-Ase-10011	W-Ase-234916
-Reference link to non-existing reference	1731	W-Ase-10011	W-Ase-235016
-Reference link to non-existing reference	1774	W-Ase-64	W-Ase-123922
-Reference link to non-existing reference	1785	W-Ase-64	W-Ase-149892
-Reference link to non-existing reference	1786	W-Ase-64	W-Ase-149894
-Reference link to non-existing reference	1789	W-Ase-4179	W-Ase-172745
-Reference link to non-existing reference	1790	W-Ase-4179	W-Ase-172779
-Reference link to non-existing reference	1799	W-Ase-6831	W-Ase-183351
-Reference link to non-existing reference	1808	W-Ase-42	W-Ase-240771
-Reference link to non-existing reference	2303	W-Ase-4179	W-Ase-172722
-Reference link to non-existing reference	2304	W-Ase-4179	W-Ase-172758
-Reference link to non-existing reference	2305	W-Ase-4179	W-Ase-172765
-Reference link to non-existing reference	2306	W-Ase-4179	W-Ase-172772
-Reference link to non-existing reference	2319	W-Ase-42940	W-Ase-242164
-Reference link to non-existing reference	2418	W-Ase-64	W-Ase-149890
-Reference link to non-existing reference	2419	W-Ase-4179	W-Ase-172683
-Reference link to non-existing reference	2420	W-Ase-4179	W-Ase-172783
-Reference link to non-existing reference	2421	W-Ase-4179	W-Ase-172790
+Reference link to non-existing reference	45	W-Ase-147411	W-Ase-369167
+Reference link to non-existing reference	47	W-Ase-147411	W-Ase-123973
+Reference link to non-existing reference	48	W-Ase-147411	W-Ase-123851
+Reference link to non-existing reference	80	W-Ase-64	W-Ase-123988
+Reference link to non-existing reference	81	W-Ase-64	W-Ase-123990
+Reference link to non-existing reference	86	W-Ase-64	W-Ase-124054
+Reference link to non-existing reference	90	W-Ase-64	W-Ase-124105
+Reference link to non-existing reference	101	W-Ase-64	W-Ase-149875
+Reference link to non-existing reference	102	W-Ase-64	W-Ase-149877
+Reference link to non-existing reference	104	W-Ase-4179	W-Ase-172660
+Reference link to non-existing reference	105	W-Ase-4179	W-Ase-172662
+Reference link to non-existing reference	107	W-Ase-4179	W-Ase-172677
+Reference link to non-existing reference	108	W-Ase-4179	W-Ase-172696
+Reference link to non-existing reference	109	W-Ase-4179	W-Ase-172760
+Reference link to non-existing reference	110	W-Ase-4179	W-Ase-172762
+Reference link to non-existing reference	111	W-Ase-4179	W-Ase-172777
+Reference link to non-existing reference	167	W-Ase-10011	W-Ase-234880
+Reference link to non-existing reference	170	W-Ase-10011	W-Ase-234897
+Reference link to non-existing reference	172	W-Ase-10011	W-Ase-234916
+Reference link to non-existing reference	177	W-Ase-10011	W-Ase-234931
+Reference link to non-existing reference	178	W-Ase-10011	W-Ase-234933
+Reference link to non-existing reference	180	W-Ase-10011	W-Ase-234946
+Reference link to non-existing reference	184	W-Ase-10011	W-Ase-234982
+Reference link to non-existing reference	186	W-Ase-10011	W-Ase-234997
+Reference link to non-existing reference	188	W-Ase-10011	W-Ase-235016
+Reference link to non-existing reference	193	W-Ase-42	W-Ase-242160
+Reference link to non-existing reference	237	W-Ase-64	W-Ase-123759
+Reference link to non-existing reference	240	W-Ase-64	W-Ase-123802
+Reference link to non-existing reference	258	W-Ase-64	W-Ase-124002
+Reference link to non-existing reference	270	W-Ase-64	W-Ase-124120
+Reference link to non-existing reference	276	W-Ase-64	W-Ase-124159
+Reference link to non-existing reference	283	W-Ase-64	W-Ase-125231
+Reference link to non-existing reference	287	W-Ase-4179	W-Ase-172674
+Reference link to non-existing reference	288	W-Ase-4179	W-Ase-172742
+Reference link to non-existing reference	289	W-Ase-4179	W-Ase-172767
+Reference link to non-existing reference	291	W-Ase-4179	W-Ase-172781
+Reference link to non-existing reference	293	W-Ase-4179	W-Ase-172792
+Reference link to non-existing reference	335	W-Ase-10011	W-Ase-234862
+Reference link to non-existing reference	342	W-Ase-10011	W-Ase-234951
+Reference link to non-existing reference	346	W-Ase-10011	W-Ase-234976
+Reference link to non-existing reference	349	W-Ase-10011	W-Ase-234994
+Reference link to non-existing reference	412	W-Ase-64	W-Ase-123812
+Reference link to non-existing reference	418	W-Ase-64	W-Ase-123880
+Reference link to non-existing reference	419	W-Ase-64	W-Ase-123881
+Reference link to non-existing reference	429	W-Ase-64	W-Ase-124030
+Reference link to non-existing reference	445	W-Ase-64	W-Ase-125234
+Reference link to non-existing reference	446	W-Ase-64	W-Ase-149867
+Reference link to non-existing reference	448	W-Ase-64	W-Ase-152510
+Reference link to non-existing reference	449	W-Ase-4179	W-Ase-172671
+Reference link to non-existing reference	450	W-Ase-4179	W-Ase-172688
+Reference link to non-existing reference	451	W-Ase-4179	W-Ase-172702
+Reference link to non-existing reference	452	W-Ase-4179	W-Ase-172752
+Reference link to non-existing reference	453	W-Ase-4179	W-Ase-172753
+Reference link to non-existing reference	454	W-Ase-4179	W-Ase-172770
+Reference link to non-existing reference	499	W-Ase-10011	W-Ase-234872
+Reference link to non-existing reference	500	W-Ase-10011	W-Ase-234873
+Reference link to non-existing reference	505	W-Ase-10011	W-Ase-234940
+Reference link to non-existing reference	506	W-Ase-10011	W-Ase-234941
+Reference link to non-existing reference	509	W-Ase-10011	W-Ase-234958
+Reference link to non-existing reference	513	W-Ase-10011	W-Ase-235005
+Reference link to non-existing reference	514	W-Ase-10011	W-Ase-235008
+Reference link to non-existing reference	516	W-Ase-10011	W-Ase-235022
+Reference link to non-existing reference	570	W-Ase-64	W-Ase-123763
+Reference link to non-existing reference	578	W-Ase-64	W-Ase-123912
+Reference link to non-existing reference	593	W-Ase-64	W-Ase-124112
+Reference link to non-existing reference	594	W-Ase-42	W-Ase-124128
+Reference link to non-existing reference	599	W-Ase-64	W-Ase-124163
+Reference link to non-existing reference	603	W-Ase-64	W-Ase-152507
+Reference link to non-existing reference	605	W-Ase-42	W-Ase-158489
+Reference link to non-existing reference	607	W-Ase-4179	W-Ase-172652
+Reference link to non-existing reference	608	W-Ase-4179	W-Ase-172653
+Reference link to non-existing reference	609	W-Ase-4179	W-Ase-172670
+Reference link to non-existing reference	612	W-Ase-4179	W-Ase-172720
+Reference link to non-existing reference	613	W-Ase-4179	W-Ase-172721
+Reference link to non-existing reference	614	W-Ase-4179	W-Ase-172738
+Reference link to non-existing reference	615	W-Ase-4179	W-Ase-172771
+Reference link to non-existing reference	617	W-Ase-4179	W-Ase-172785
+Reference link to non-existing reference	618	W-Ase-4179	W-Ase-172788
+Reference link to non-existing reference	659	W-Ase-10011	W-Ase-234905
+Reference link to non-existing reference	661	W-Ase-10011	W-Ase-234922
+Reference link to non-existing reference	668	W-Ase-42936	W-Ase-242157
+Reference link to non-existing reference	726	W-Ase-64	W-Ase-123775
+Reference link to non-existing reference	752	W-Ase-64	W-Ase-124111
+Reference link to non-existing reference	753	W-Ase-64	W-Ase-124118
+Reference link to non-existing reference	760	W-Ase-64	W-Ase-124161
+Reference link to non-existing reference	766	W-Ase-64	W-Ase-149890
+Reference link to non-existing reference	769	W-Ase-4179	W-Ase-172683
+Reference link to non-existing reference	772	W-Ase-4179	W-Ase-172740
+Reference link to non-existing reference	773	W-Ase-4179	W-Ase-172783
+Reference link to non-existing reference	774	W-Ase-4179	W-Ase-172790
+Reference link to non-existing reference	805	W-Ase-10011	W-Ase-234867
+Reference link to non-existing reference	808	W-Ase-10011	W-Ase-234903
+Reference link to non-existing reference	810	W-Ase-10011	W-Ase-234953
+Reference link to non-existing reference	811	W-Ase-10011	W-Ase-234967
+Reference link to non-existing reference	816	W-Ase-10011	W-Ase-235003
+Reference link to non-existing reference	818	W-Ase-10011	W-Ase-235017
+Reference link to non-existing reference	869	W-Ase-64	W-Ase-123720
+Reference link to non-existing reference	894	W-Ase-64	W-Ase-149892
+Reference link to non-existing reference	895	W-Ase-64	W-Ase-149894
+Reference link to non-existing reference	900	W-Ase-4179	W-Ase-172694
+Reference link to non-existing reference	901	W-Ase-4179	W-Ase-172709
+Reference link to non-existing reference	902	W-Ase-4179	W-Ase-172745
+Reference link to non-existing reference	904	W-Ase-4179	W-Ase-172779
+Reference link to non-existing reference	923	W-Ase-6831	W-Ase-183351
+Reference link to non-existing reference	937	W-Ase-10011	W-Ase-234914
+Reference link to non-existing reference	940	W-Ase-10011	W-Ase-234963
+Reference link to non-existing reference	941	W-Ase-10011	W-Ase-234965
+Reference link to non-existing reference	942	W-Ase-10011	W-Ase-234999
+Reference link to non-existing reference	945	W-Ase-42	W-Ase-240771
+Reference link to non-existing reference	1027	W-Ase-4179	W-Ase-172663
+Reference link to non-existing reference	1028	W-Ase-4179	W-Ase-172667
+Reference link to non-existing reference	1029	W-Ase-4179	W-Ase-172756
+Reference link to non-existing reference	1033	W-Ase-4179	W-Ase-172774
+Reference link to non-existing reference	1047	W-Ase-6831	W-Ase-183364
+Reference link to non-existing reference	1069	W-Ase-10011	W-Ase-234869
+Reference link to non-existing reference	1072	W-Ase-10011	W-Ase-234894
+Reference link to non-existing reference	1074	W-Ase-10011	W-Ase-234944
+Reference link to non-existing reference	1078	W-Ase-10011	W-Ase-235001
+Reference link to non-existing reference	1079	W-Ase-10011	W-Ase-235012
+Reference link to non-existing reference	1081	W-Ase-10011	W-Ase-235026
+Reference link to non-existing reference	1082	W-Ase-42	W-Ase-242156
+Reference link to non-existing reference	1157	W-Ase-64	W-Ase-123921
+Reference link to non-existing reference	1167	W-Ase-64	W-Ase-124121
+Reference link to non-existing reference	1171	W-Ase-64	W-Ase-124155
+Reference link to non-existing reference	1173	W-Ase-64	W-Ase-125159
+Reference link to non-existing reference	1177	W-Ase-42	W-Ase-158497
+Reference link to non-existing reference	1178	W-Ase-4179	W-Ase-172661
+Reference link to non-existing reference	1179	W-Ase-4179	W-Ase-172678
+Reference link to non-existing reference	1181	W-Ase-4179	W-Ase-172746
+Reference link to non-existing reference	1182	W-Ase-4179	W-Ase-172763
+Reference link to non-existing reference	1183	W-Ase-4179	W-Ase-172776
+Reference link to non-existing reference	1217	W-Ase-10011	W-Ase-234866
+Reference link to non-existing reference	1219	W-Ase-10011	W-Ase-234913
+Reference link to non-existing reference	1225	W-Ase-10011	W-Ase-235015
+Reference link to non-existing reference	1227	W-Ase-42	W-Ase-240755
+Reference link to non-existing reference	1263	W-Ase-64	W-Ase-123810
+Reference link to non-existing reference	1276	W-Ase-64	W-Ase-124108
+Reference link to non-existing reference	1284	W-Ase-64	W-Ase-125155
+Reference link to non-existing reference	1291	W-Ase-4179	W-Ase-172750
+Reference link to non-existing reference	1292	W-Ase-4179	W-Ase-172755
+Reference link to non-existing reference	1293	W-Ase-4179	W-Ase-172759
+Reference link to non-existing reference	1294	W-Ase-4179	W-Ase-172784
+Reference link to non-existing reference	1295	W-Ase-4179	W-Ase-172789
+Reference link to non-existing reference	1340	W-Ase-10011	W-Ase-234909
+Reference link to non-existing reference	1366	W-Ase-64	W-Ase-123764
+Reference link to non-existing reference	1388	W-Ase-4179	W-Ase-172651
+Reference link to non-existing reference	1389	W-Ase-4179	W-Ase-172687
+Reference link to non-existing reference	1390	W-Ase-4179	W-Ase-172736
+Reference link to non-existing reference	1392	W-Ase-4179	W-Ase-172751
+Reference link to non-existing reference	1393	W-Ase-4179	W-Ase-172786
+Reference link to non-existing reference	1430	W-Ase-10011	W-Ase-234871
+Reference link to non-existing reference	1431	W-Ase-10011	W-Ase-234906
+Reference link to non-existing reference	1433	W-Ase-10011	W-Ase-234956
+Reference link to non-existing reference	1434	W-Ase-10011	W-Ase-235006
+Reference link to non-existing reference	1435	W-Ase-10011	W-Ase-235807
+Reference link to non-existing reference	1436	W-Ase-42	W-Ase-240764
+Reference link to non-existing reference	1491	W-Ase-64	W-Ase-123969
+Reference link to non-existing reference	1497	W-Ase-64	W-Ase-124103
+Reference link to non-existing reference	1502	W-Ase-64	W-Ase-149896
+Reference link to non-existing reference	1503	W-Ase-64	W-Ase-152513
+Reference link to non-existing reference	1504	W-Ase-4179	W-Ase-172739
+Reference link to non-existing reference	1505	W-Ase-4179	W-Ase-172775
+Reference link to non-existing reference	1520	W-Ase-6831	W-Ase-183106
+Reference link to non-existing reference	1533	W-Ase-43056	W-Ase-247756
+Reference link to non-existing reference	1605	W-Ase-4179	W-Ase-172664
+Reference link to non-existing reference	1606	W-Ase-4179	W-Ase-172666
+Reference link to non-existing reference	1608	W-Ase-4179	W-Ase-172766
+Reference link to non-existing reference	1609	W-Ase-4179	W-Ase-172773
+Reference link to non-existing reference	1615	W-Ase-6831	W-Ase-183045
+Reference link to non-existing reference	1633	W-Ase-10011	W-Ase-234986
+Reference link to non-existing reference	1634	W-Ase-10011	W-Ase-235020
+Reference link to non-existing reference	1733	W-Ase-64	W-Ase-149889
+Reference link to non-existing reference	1734	W-Ase-64	W-Ase-152497
+Reference link to non-existing reference	1735	W-Ase-4179	W-Ase-172650
+Reference link to non-existing reference	1736	W-Ase-4179	W-Ase-172655
+Reference link to non-existing reference	1737	W-Ase-4179	W-Ase-172680
+Reference link to non-existing reference	1738	W-Ase-4179	W-Ase-172748
+Reference link to non-existing reference	1759	W-Ase-10011	W-Ase-234877
+Reference link to non-existing reference	1763	W-Ase-10011	W-Ase-235009
+Reference link to non-existing reference	1982	W-Ase-64	W-Ase-149876
+Reference link to non-existing reference	1983	W-Ase-64	W-Ase-149893
+Reference link to non-existing reference	1984	W-Ase-64	W-Ase-152501
+Reference link to non-existing reference	1985	W-Ase-4179	W-Ase-172659
+Reference link to non-existing reference	1986	W-Ase-4179	W-Ase-172676
+Reference link to non-existing reference	1987	W-Ase-4179	W-Ase-172744
+Reference link to non-existing reference	1994	W-Ase-6831	W-Ase-183352
+Reference link to non-existing reference	2001	W-Ase-10011	W-Ase-234966
+Reference link to non-existing reference	2002	W-Ase-10011	W-Ase-235013
+Reference link to non-existing reference	2297	W-Ase-4179	W-Ase-172722
+Reference link to non-existing reference	2298	W-Ase-4179	W-Ase-172758
+Reference link to non-existing reference	2299	W-Ase-4179	W-Ase-172765
+Reference link to non-existing reference	2300	W-Ase-4179	W-Ase-172772
+Reference link to non-existing reference	2315	W-Ase-42940	W-Ase-242164
+Reference link to non-existing reference	2411	W-Ase-4179	W-Ase-172669
+Reference link to non-existing reference	2412	W-Ase-4179	W-Ase-172704
+Reference link to non-existing reference	2413	W-Ase-4179	W-Ase-172718
+Reference link to non-existing reference	2414	W-Ase-4179	W-Ase-172754
+Reference link to non-existing reference	2415	W-Ase-4179	W-Ase-172768
 --------------
-SELECT 'Specialist not present in scientific names table', record_id, specialist_name, specialist_code FROM specialists
-WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code FROM specialists AS t1
+LEFT JOIN scientific_names AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference without parent accepted or common name', record_id, author, year, title, reference_code FROM `references`
-WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
-UNION SELECT DISTINCT reference_code FROM common_names)
+SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
 --------------
 
 Reference without parent accepted or common name	record_id	author	year	title	reference_code
 Reference without parent accepted or common name	3	Cattrijsse, A.; Vincx, M.	2001	NULL	W-Ase-61
+Reference without parent accepted or common name	7	Linnaeusammalia, C. M.; Avesmphibia, A.; Piscesnsecta, I.; Vermes	1761	NULL	W-Ase-174
 Reference without parent accepted or common name	8	Hayward, P.J.; Nelson-Smith, A.; Shields, C.	1996	NULL	W-Ase-614
 Reference without parent accepted or common name	9	Hansson, H.G. (Comp.)	1998	NULL	W-Ase-631
-Reference without parent accepted or common name	13	Hayward, P.; Nelson-Smith, A.; Shields, C.	1999	NULL	W-Ase-685
 Reference without parent accepted or common name	14	Linnaeus, C.	1771	NULL	W-Ase-754
 Reference without parent accepted or common name	15	Eneman, E.	1984	NULL	W-Ase-755
+Reference without parent accepted or common name	16	Leewis, R.	2002	NULL	W-Ase-1116
 Reference without parent accepted or common name	20	Gosner, K.L.	1971	NULL	W-Ase-2964
 Reference without parent accepted or common name	21	Gosner,	1977	NULL	W-Ase-2965
 Reference without parent accepted or common name	23	Meinkoth, N.A.	1981	NULL	W-Ase-3017
 Reference without parent accepted or common name	25	Studer, T.	1876	NULL	W-Ase-3167
 Reference without parent accepted or common name	35	Sloan, N.A., A.M. Clark & J.D. Taylor	1979	NULL	W-Ase-6113
-Reference without parent accepted or common name	36	Ludwig, H.	1899	NULL	W-Ase-6130
-Reference without parent accepted or common name	38	DÃ©cary, R.	1924	NULL	W-Ase-6268
-Reference without parent accepted or common name	49	DÃ¶derlein, L.	1926	NULL	W-Ase-6329
+Reference without parent accepted or common name	48	Clark AH	1911	NULL	W-Ase-6325
 Reference without parent accepted or common name	54	Clark, A.H.	1908	NULL	W-Ase-6342
+Reference without parent accepted or common name	58	Mah, C. & A.M. Clark	2001	NULL	W-Ase-6504
 Reference without parent accepted or common name	61	Thomson, C. W.	1873	NULL	W-Ase-8316
 Reference without parent accepted or common name	62	Southward, E.C.; Campbell, A.C.	2006	NULL	W-Ase-9214
 Reference without parent accepted or common name	69	Montagu, G.	1808	NULL	W-Ase-19343
+Reference without parent accepted or common name	70	Stimpson, W.,	1857	NULL	W-Ase-19718
 Reference without parent accepted or common name	71	Leach, W. E.	1815	NULL	W-Ase-21978
-Reference without parent accepted or common name	72	Delle Chiaje S.	1823-1831	NULL	W-Ase-42132
 Reference without parent accepted or common name	91	Clark,H.E.S.	1971	NULL	W-Ase-47405
 Reference without parent accepted or common name	98	Downey, M. E.	1980	NULL	W-Ase-47415
+Reference without parent accepted or common name	99	Downey, M. E.	1982	NULL	W-Ase-47416
+Reference without parent accepted or common name	101	Halpern, J. A.	1969	NULL	W-Ase-47418
 Reference without parent accepted or common name	113	Luidia, T.; Pentagonaster	1953	NULL	W-Ase-47436
-Reference without parent accepted or common name	120	Jangoux, M.	1981	NULL	W-Ase-47448
-Reference without parent accepted or common name	122	DÃ¶derlein, L.	1922	NULL	W-Ase-47451
-Reference without parent accepted or common name	127	Downey, M. E.	1972	NULL	W-Ase-47460
+Reference without parent accepted or common name	115	Clark, H. E. S.	1982	NULL	W-Ase-47438
+Reference without parent accepted or common name	122	Döderlein, L.	1922	NULL	W-Ase-47451
 Reference without parent accepted or common name	133	Clark, A. M.	1983	NULL	W-Ase-47476
 Reference without parent accepted or common name	136	Fujita, T. and F.W.E. Rowe.	2002	NULL	W-Ase-47481
 Reference without parent accepted or common name	137	Clark, A. M.; Wright, C. W.	1962	NULL	W-Ase-47482
-Reference without parent accepted or common name	144	Downey, M. E.	1971	NULL	W-Ase-47495
+Reference without parent accepted or common name	140	Clark, H. E. S.; McKnight, D. G.	2001	NULL	W-Ase-47486
 Reference without parent accepted or common name	145	Blake, D. B.	1978	NULL	W-Ase-47496
-Reference without parent accepted or common name	167	Rowe, F.W.E.	1989	NULL	W-Ase-124596
-Reference without parent accepted or common name	168	Baker, A.N., F.W.E. Rowe, H.E.S. Clark.	1986	NULL	W-Ase-124600
-Reference without parent accepted or common name	170	Rowe, F. W. E.	1985	NULL	W-Ase-124602
-Reference without parent accepted or common name	178	Rowe, F. W. E.	1976	NULL	W-Ase-124611
-Reference without parent accepted or common name	184	Gray J.E.	1847	NULL	W-Ase-124624
-Reference without parent accepted or common name	185	MÃ¶bius,K.	1859	NULL	W-Ase-124634
-Reference without parent accepted or common name	186	Fisher, W. K.	1911	NULL	W-Ase-124639
-Reference without parent accepted or common name	189	Fisher, W. K.	1917	NULL	W-Ase-124646
-Reference without parent accepted or common name	191	Fisher, W.K.	1926	NULL	W-Ase-124652
-Reference without parent accepted or common name	200	Leeling, B.	1984	NULL	W-Ase-124961
-Reference without parent accepted or common name	202	Harvey, R.	1989	NULL	W-Ase-124965
-Reference without parent accepted or common name	210	Dons, C.	1936	NULL	W-Ase-125307
-Reference without parent accepted or common name	212	Dons, C.	1938	NULL	W-Ase-125309
-Reference without parent accepted or common name	218	Miller, J. E.	1984	NULL	W-Ase-125340
-Reference without parent accepted or common name	220	Howell K L A D Rogers; Tyler, P. A.; Billett, D. S. M.	2004	NULL	W-Ase-125349
-Reference without parent accepted or common name	222	Williams, S. T.	2000	NULL	W-Ase-125360
-Reference without parent accepted or common name	226	LÃ¼tken, C.	1871	NULL	W-Ase-125719
-Reference without parent accepted or common name	239	Downey, M. E.	1981	NULL	W-Ase-125927
-Reference without parent accepted or common name	241	Marsh, L.M.	1991	NULL	W-Ase-125951
-Reference without parent accepted or common name	273	Clark, H. E. S.	1972	NULL	W-Ase-133578
-Reference without parent accepted or common name	278	Bruzelius,N.	1805	NULL	W-Ase-139319
-Reference without parent accepted or common name	279	Retzius, A. J.	1783	NULL	W-Ase-139547
-Reference without parent accepted or common name	282	Kogure, Y. A. K.; Nonaka, M.	2009	NULL	W-Ase-140262
-Reference without parent accepted or common name	283	McKnight, D. G.	1977	NULL	W-Ase-141189
-Reference without parent accepted or common name	289	Sibuet, M.	1977	NULL	W-Ase-142513
-Reference without parent accepted or common name	299	Dilman, A.B.	2005	NULL	W-Ase-149347
-Reference without parent accepted or common name	319	Galil, B.	2007	NULL	W-Ase-190896
-Reference without parent accepted or common name	325	Sibuet, M	1976	NULL	W-Ase-196889
+Reference without parent accepted or common name	155	Downey, M. E.	1971	NULL	W-Ase-47518
+Reference without parent accepted or common name	158	Mah, C. L.	2003	NULL	W-Ase-47524
+Reference without parent accepted or common name	163	Downey, M. E.	1971	NULL	W-Ase-47544
+Reference without parent accepted or common name	165	Howell, K.L., D.W. Pond, D.S.M. Billett & P.A. Tyler	2003	NULL	W-Ase-88470
+Reference without parent accepted or common name	167	Zenetos, A., M.E. Çinar, M.A. Pancucci-Papadopoulou, J.G. Harmelin, G. Furnari, F. Andaloro, N. Bellou, N. Streftaris & H. Zibrowius	2005	NULL	W-Ase-124391
+Reference without parent accepted or common name	168	Rowe, F.W.E.	1989	NULL	W-Ase-124596
+Reference without parent accepted or common name	179	Rowe, F. W. E.	1976	NULL	W-Ase-124611
+Reference without parent accepted or common name	182	Cherbonnier, G.	1970	NULL	W-Ase-124617
+Reference without parent accepted or common name	185	Gray J.E.	1847	NULL	W-Ase-124624
+Reference without parent accepted or common name	187	Fisher, W. K.	1911	NULL	W-Ase-124639
+Reference without parent accepted or common name	213	Dons, C.	1938	NULL	W-Ase-125309
+Reference without parent accepted or common name	219	Miller, J. E.	1984	NULL	W-Ase-125340
+Reference without parent accepted or common name	221	Howell K L A D Rogers; Tyler, P. A.; Billett, D. S. M.	2004	NULL	W-Ase-125349
+Reference without parent accepted or common name	223	Williams, S. T.	2000	NULL	W-Ase-125360
+Reference without parent accepted or common name	227	Lütken, C.	1871	NULL	W-Ase-125719
+Reference without parent accepted or common name	242	Marsh, L.M.	1991	NULL	W-Ase-125951
+Reference without parent accepted or common name	260	McKnight.	2006	NULL	W-Ase-128965
+Reference without parent accepted or common name	269	Clark, H. E. S.	2001	NULL	W-Ase-133489
+Reference without parent accepted or common name	271	Jangoux, M.	1982	NULL	W-Ase-133496
+Reference without parent accepted or common name	274	Clark, H. E. S.	1972	NULL	W-Ase-133578
+Reference without parent accepted or common name	276	Madsen, F. J.	1987	NULL	W-Ase-138505
+Reference without parent accepted or common name	279	Bruzelius,N.	1805	NULL	W-Ase-139319
+Reference without parent accepted or common name	280	Retzius, A. J.	1783	NULL	W-Ase-139547
+Reference without parent accepted or common name	284	McKnight, D. G.	1977	NULL	W-Ase-141189
+Reference without parent accepted or common name	287	Emson, R. G.; Crump, R. H.	1979	NULL	W-Ase-141275
+Reference without parent accepted or common name	290	Sibuet, M.	1977	NULL	W-Ase-142513
+Reference without parent accepted or common name	294	Bousfield, E.L.	1964	NULL	W-Ase-145894
+Reference without parent accepted or common name	300	Dilman, A.B.	2005	NULL	W-Ase-149347
+Reference without parent accepted or common name	301	Clark, A. H.	1917	NULL	W-Ase-151242
+Reference without parent accepted or common name	304	Clark, R.N. and Jewett, S.C.	2011	NULL	W-Ase-153328
+Reference without parent accepted or common name	319	Belyaev, G. M.	1974	NULL	W-Ase-181835
+Reference without parent accepted or common name	321	Galil, B.	2007	NULL	W-Ase-190896
+Reference without parent accepted or common name	326	Zenetos, A.; Meric, E.; Verlaque, M.; Galli, P.; Boudouresque, C.; Giangrande, A.; Cinar, M.; Bilecenoglu, M.	2008	NULL	W-Ase-195830
 --------------
 DROP TRIGGER IF EXISTS delfamcascade
 --------------
@@ -1831,19 +1861,27 @@ DELETE QUICK FROM scientific_names USING scientific_names INNER JOIN duplicates_
 --------------
 
 --------------
-DELETE FROM common_names WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names WHERE is_accepted_name != 1 AND accepted_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.accepted_name_code = t2.name_code
+WHERE t2.name_code IS NULL AND t1.is_accepted_name != 1
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names WHERE infraspecies_parent_name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names_tmp)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM lifezone WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
@@ -1853,7 +1891,9 @@ OPTIMIZE TABLE lifezone
 Table	Op	Msg_type	Msg_text
 Assembly_Asteroidea.lifezone	optimize	status	OK
 --------------
-DELETE QUICK FROM distribution WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
@@ -1863,7 +1903,9 @@ OPTIMIZE TABLE distribution
 Table	Op	Msg_type	Msg_text
 Assembly_Asteroidea.distribution	optimize	status	OK
 --------------
-DELETE QUICK FROM scientific_names WHERE family_code NOT IN(SELECT DISTINCT family_code FROM families)
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL
 --------------
 
 --------------
@@ -1873,11 +1915,15 @@ OPTIMIZE TABLE scientific_names
 Table	Op	Msg_type	Msg_text
 Assembly_Asteroidea.scientific_names	optimize	status	OK
 --------------
-DELETE QUICK FROM scientific_name_references WHERE name_code NOT IN(SELECT DISTINCT name_code FROM scientific_names)
+DELETE QUICK t1 FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM scientific_name_references WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM `references`)
+DELETE QUICK t1 FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL
 --------------
 
 --------------
@@ -1887,12 +1933,16 @@ OPTIMIZE TABLE scientific_name_references
 Table	Op	Msg_type	Msg_text
 Assembly_Asteroidea.scientific_name_references	optimize	status	OK
 --------------
-DELETE FROM specialists WHERE specialist_code NOT IN(SELECT DISTINCT specialist_code FROM scientific_names)
+DELETE QUICK t1 FROM specialists AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-DELETE QUICK FROM `references` WHERE reference_code NOT IN(SELECT DISTINCT reference_code FROM scientific_name_references 
-UNION SELECT DISTINCT reference_code FROM common_names)
+DELETE t1 FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
 --------------
 
 --------------
