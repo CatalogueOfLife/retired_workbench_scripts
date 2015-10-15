@@ -998,7 +998,7 @@ Data Loaded.
 </pre>
 </pre><hr><b>Backing up...</b>
 <pre>
-Creating directory  09_16_34_10Sep2015
+Creating directory  23_42_05_05Oct2015
 Backing up files
 </pre><hr><b>Executing local editorial checks</b>
 <pre>
@@ -1264,8 +1264,8 @@ Infraspecies starting with marker: 	W-Hol-530525	Thyone	buccalis	var. pallida
 Infraspecies starting with marker: 	W-Hol-530529	Stichopus	variegatus	var. pallidus
 Infraspecies starting with marker: 	W-Hol-530611	Psolus	boholensis	var. pandanensis
 Infraspecies starting with marker: 	W-Hol-530630	Thyone	fusus	var. papuensis
-Infraspecies starting with marker: 	W-Hol-530636	Trochostoma	arcticum	var. parva
 Infraspecies starting with marker: 	W-Hol-530549	Cucumaria	capensis	var. parva
+Infraspecies starting with marker: 	W-Hol-530636	Trochostoma	arcticum	var. parva
 Infraspecies starting with marker: 	W-Hol-529334	Haplodactyla	molpadioides	var. pellucida
 Infraspecies starting with marker: 	W-Hol-530608	Pseudostichopus	occultatus	var. plicatus
 Infraspecies starting with marker: 	W-Hol-530521	Holothuria	imitans	var. polymorpha
@@ -1283,7 +1283,7 @@ Infraspecies starting with marker: 	W-Hol-530556	Haplodactyla	molpadioides	var. 
 Infraspecies starting with marker: 	W-Hol-530638	Trochostoma	scabrum	var. spinosa
 Infraspecies starting with marker: 	W-Hol-530625	Synapta	maculata	var. sundaensis
 Infraspecies starting with marker: 	W-Hol-530602	Oneirophanta	alternata	var. talismani
-Infraspecies starting with marker: 	W-Hol-530559	Holothuria	marenzelleri	var. théeli
+Infraspecies starting with marker: 	W-Hol-530559	Holothuria	marenzelleri	var. thÃ©eli
 Infraspecies starting with marker: 	W-Hol-530620	Stichopus	japonicus	var. typicus
 Infraspecies starting with marker: 	W-Hol-530537	Ankyroderma	musculus	var. undulatum
 Infraspecies starting with marker: 	W-Hol-530623	Synapta	incerta	var. variabilis
@@ -1380,30 +1380,50 @@ UPDATE `references`  SET `author` = TRIM(`author`)
 --------------
 
 --------------
-SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.subgenus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author 
+FROM 
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+	FROM scientific_names 
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author 
+WHERE sn.sp2000_status_id = 1
 --------------
 
-Duplicate accepted names:	name_code	sp2000_status_id	genus	species	infraspecies_marker	infraspecies	author
-Duplicate accepted names:	W-Hol-241875	1	Holothuria	strigosa			Selenka, 1867
-Duplicate accepted names:	W-Hol-732620	1	Mesothuria	cathedralis			Heding, 1940
 --------------
-SELECT "Accepted name to be retained", MAX(name_code), genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author
+SELECT "Accepted name to be retained", MAX(name_code), genus, subgenus, species, infraspecies_marker, infraspecies, author 
+FROM
+	(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, dups.species AS species, 
+		dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+	FROM 
+		(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+		FROM scientific_names 
+		GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+	LEFT JOIN scientific_names sn
+	ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 
+GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author
 --------------
 
-Accepted name to be retained	MAX(name_code)	genus	species	infraspecies_marker	infraspecies	author
-Accepted name to be retained	W-Hol-241875	Holothuria	strigosa			Selenka, 1867
-Accepted name to be retained	W-Hol-732620	Mesothuria	cathedralis			Heding, 1940
 --------------
-SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
-AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
-(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
-FROM scientific_names
-GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
-LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, 
+	dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+FROM 
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+	FROM scientific_names 
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author 
+WHERE sn.sp2000_status_id = 1 AND sn.name_code NOT IN 
+	(SELECT dups3.namecodes_to_keep FROM
+		(SELECT MAX(name_code) AS namecodes_to_keep, genus, subgenus, species, infraspecies_marker, infraspecies, author 
+		FROM
+			(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, 
+				dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+			FROM 	
+				(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+				FROM scientific_names
+				GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+		LEFT JOIN scientific_names sn
+		ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 
+GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author) AS dups3)
 --------------
 
 --------------
@@ -1431,40 +1451,42 @@ SELECT * FROM scientific_names
 --------------
 
 --------------
-SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, species, infraspecies, accepted_name_code FROM scientific_names
+SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, subgenus, species, infraspecies, accepted_name_code FROM scientific_names
 WHERE is_accepted_name != 1 AND family_code IS NULL
 --------------
 
-Missing parent accepted name for synonym	record_id	name_code	genus	species	infraspecies	accepted_name_code
-Missing parent accepted name for synonym	2244	W-Hol-124716	Deima	atlanticum		W-Hol-125223
-Missing parent accepted name for synonym	2245	W-Hol-124717	Deima	blakei		W-Hol-125223
-Missing parent accepted name for synonym	2246	W-Hol-292993	Deima	fastosum		W-Hol-125223
-Missing parent accepted name for synonym	2247	W-Hol-292992	Deima	mosaicum		W-Hol-125223
-Missing parent accepted name for synonym	2248	W-Hol-292994	Deima	pacificum		W-Hol-292995
-Missing parent accepted name for synonym	2249	W-Hol-124718	Deima	validum		W-Hol-125223
-Missing parent accepted name for synonym	2425	W-Hol-210668	Cucumaria	deichmanni		W-Hol-224110
-Missing parent accepted name for synonym	2426	W-Hol-210660	Cucumaria	frauenfeldi		W-Hol-224110
-Missing parent accepted name for synonym	2429	W-Hol-530079	Cucumaria	posthuma		W-Hol-224110
-Missing parent accepted name for synonym	2433	W-Hol-210665	Cucumaria	webbi		W-Hol-224111
-Missing parent accepted name for synonym	2587	W-Hol-212476	Roweia	frauenfeldi		W-Hol-224110
-Missing parent accepted name for synonym	2883	W-Hol-529200	Elpidia	hanseni		W-Hol-529411
-Missing parent accepted name for synonym	2966	W-Hol-125256	Echinocucumis	hispida	abyssalis	W-Hol-125219
-Missing parent accepted name for synonym	2967	W-Hol-530553	Echinocucumis	typica	abyssalis	W-Hol-125219
-Missing parent accepted name for synonym	3305	W-Hol-124596	Ypsilothuria	talismani		W-Hol-125219
-Missing parent accepted name for synonym	3306	W-Hol-530644	Ypsilothuria	talismani	elegans	W-Hol-529419
-Missing parent accepted name for synonym	3462	W-Hol-530142	Oneirophanta	affinis		W-Hol-428875
-Missing parent accepted name for synonym	3463	W-Hol-124719	Oneirophanta	alternata		W-Hol-428876
-Missing parent accepted name for synonym	3464	W-Hol-530602	Oneirophanta	alternata	talismani	W-Hol-428876
-Missing parent accepted name for synonym	3465	W-Hol-124720	Oneirophanta	mutabilis		W-Hol-428876
+Missing parent accepted name for synonym	record_id	name_code	genus	subgenus	species	infraspecies	accepted_name_code
+Missing parent accepted name for synonym	2257	W-Hol-124720	Oneirophanta		mutabilis		W-Hol-428876
+Missing parent accepted name for synonym	2258	W-Hol-530142	Oneirophanta		affinis		W-Hol-428875
+Missing parent accepted name for synonym	2259	W-Hol-124719	Oneirophanta		alternata		W-Hol-428876
+Missing parent accepted name for synonym	2260	W-Hol-530602	Oneirophanta		alternata	talismani	W-Hol-428876
+Missing parent accepted name for synonym	2316	W-Hol-210668	Cucumaria		deichmanni		W-Hol-224110
+Missing parent accepted name for synonym	2318	W-Hol-210660	Cucumaria		frauenfeldi		W-Hol-224110
+Missing parent accepted name for synonym	2325	W-Hol-530079	Cucumaria		posthuma		W-Hol-224110
+Missing parent accepted name for synonym	2327	W-Hol-210665	Cucumaria		webbi		W-Hol-224111
+Missing parent accepted name for synonym	2390	W-Hol-125256	Echinocucumis		hispida	abyssalis	W-Hol-125219
+Missing parent accepted name for synonym	2391	W-Hol-530553	Echinocucumis		typica	abyssalis	W-Hol-125219
+Missing parent accepted name for synonym	2410	W-Hol-212476	Roweia		frauenfeldi		W-Hol-224110
+Missing parent accepted name for synonym	2422	W-Hol-124596	Ypsilothuria		talismani		W-Hol-125219
+Missing parent accepted name for synonym	2425	W-Hol-530644	Ypsilothuria		talismani	elegans	W-Hol-529419
+Missing parent accepted name for synonym	2558	W-Hol-529200	Elpidia		hanseni		W-Hol-529411
+Missing parent accepted name for synonym	2824	W-Hol-124716	Deima		atlanticum		W-Hol-125223
+Missing parent accepted name for synonym	2825	W-Hol-124717	Deima		blakei		W-Hol-125223
+Missing parent accepted name for synonym	2826	W-Hol-292993	Deima		fastosum		W-Hol-125223
+Missing parent accepted name for synonym	2827	W-Hol-292992	Deima		mosaicum		W-Hol-125223
+Missing parent accepted name for synonym	2828	W-Hol-292994	Deima		pacificum		W-Hol-292995
+Missing parent accepted name for synonym	2829	W-Hol-124718	Deima		validum		W-Hol-125223
 --------------
-SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, species, infraspecies, infraspecies_parent_name_code FROM scientific_names WHERE LENGTH(infraspecies)>1  AND family_code IS NULL
+SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, subgenus, species, infraspecies, infraspecies_parent_name_code 
+FROM scientific_names 
+WHERE LENGTH(infraspecies) > 1 AND family_code IS NULL
 --------------
 
-Missing parent accepted name for infraspecies	record_id	name_code	genus	species	infraspecies	infraspecies_parent_name_code
-Missing parent accepted name for infraspecies	2966	W-Hol-125256	Echinocucumis	hispida	abyssalis	NULL
-Missing parent accepted name for infraspecies	2967	W-Hol-530553	Echinocucumis	typica	abyssalis	NULL
-Missing parent accepted name for infraspecies	3306	W-Hol-530644	Ypsilothuria	talismani	elegans	NULL
-Missing parent accepted name for infraspecies	3464	W-Hol-530602	Oneirophanta	alternata	talismani	NULL
+Missing parent accepted name for infraspecies	record_id	name_code	genus	subgenus	species	infraspecies	infraspecies_parent_name_code
+Missing parent accepted name for infraspecies	2260	W-Hol-530602	Oneirophanta		alternata	talismani	NULL
+Missing parent accepted name for infraspecies	2390	W-Hol-125256	Echinocucumis		hispida	abyssalis	NULL
+Missing parent accepted name for infraspecies	2391	W-Hol-530553	Echinocucumis		typica	abyssalis	NULL
+Missing parent accepted name for infraspecies	2425	W-Hol-530644	Ypsilothuria		talismani	elegans	NULL
 --------------
 SELECT 'Lifezone without parent accepted name', t1.record_id, t1.name_code, t1.lifezone FROM lifezone AS t1
 LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
@@ -1478,678 +1500,838 @@ WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.family_code FROM scientific_names AS t1
+SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.subgenus, t1.species, t1.infraspecies, t1.family_code 
+FROM scientific_names AS t1
 LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
 WHERE t2.family_code IS NULL
 --------------
 
-Accepted name without parent family	record_id	name_code	genus	species	infraspecies	family_code
-Accepted name without parent family	2244	W-Hol-124716	Deima	atlanticum		NULL
-Accepted name without parent family	2245	W-Hol-124717	Deima	blakei		NULL
-Accepted name without parent family	2246	W-Hol-292993	Deima	fastosum		NULL
-Accepted name without parent family	2247	W-Hol-292992	Deima	mosaicum		NULL
-Accepted name without parent family	2248	W-Hol-292994	Deima	pacificum		NULL
-Accepted name without parent family	2249	W-Hol-124718	Deima	validum		NULL
-Accepted name without parent family	2425	W-Hol-210668	Cucumaria	deichmanni		NULL
-Accepted name without parent family	2426	W-Hol-210660	Cucumaria	frauenfeldi		NULL
-Accepted name without parent family	2429	W-Hol-530079	Cucumaria	posthuma		NULL
-Accepted name without parent family	2433	W-Hol-210665	Cucumaria	webbi		NULL
-Accepted name without parent family	2587	W-Hol-212476	Roweia	frauenfeldi		NULL
-Accepted name without parent family	2883	W-Hol-529200	Elpidia	hanseni		NULL
-Accepted name without parent family	2966	W-Hol-125256	Echinocucumis	hispida	abyssalis	NULL
-Accepted name without parent family	2967	W-Hol-530553	Echinocucumis	typica	abyssalis	NULL
-Accepted name without parent family	3305	W-Hol-124596	Ypsilothuria	talismani		NULL
-Accepted name without parent family	3306	W-Hol-530644	Ypsilothuria	talismani	elegans	NULL
-Accepted name without parent family	3462	W-Hol-530142	Oneirophanta	affinis		NULL
-Accepted name without parent family	3463	W-Hol-124719	Oneirophanta	alternata		NULL
-Accepted name without parent family	3464	W-Hol-530602	Oneirophanta	alternata	talismani	NULL
-Accepted name without parent family	3465	W-Hol-124720	Oneirophanta	mutabilis		NULL
+Accepted name without parent family	record_id	name_code	genus	subgenus	species	infraspecies	family_code
+Accepted name without parent family	2257	W-Hol-124720	Oneirophanta		mutabilis		NULL
+Accepted name without parent family	2258	W-Hol-530142	Oneirophanta		affinis		NULL
+Accepted name without parent family	2259	W-Hol-124719	Oneirophanta		alternata		NULL
+Accepted name without parent family	2260	W-Hol-530602	Oneirophanta		alternata	talismani	NULL
+Accepted name without parent family	2316	W-Hol-210668	Cucumaria		deichmanni		NULL
+Accepted name without parent family	2318	W-Hol-210660	Cucumaria		frauenfeldi		NULL
+Accepted name without parent family	2325	W-Hol-530079	Cucumaria		posthuma		NULL
+Accepted name without parent family	2327	W-Hol-210665	Cucumaria		webbi		NULL
+Accepted name without parent family	2390	W-Hol-125256	Echinocucumis		hispida	abyssalis	NULL
+Accepted name without parent family	2391	W-Hol-530553	Echinocucumis		typica	abyssalis	NULL
+Accepted name without parent family	2410	W-Hol-212476	Roweia		frauenfeldi		NULL
+Accepted name without parent family	2422	W-Hol-124596	Ypsilothuria		talismani		NULL
+Accepted name without parent family	2425	W-Hol-530644	Ypsilothuria		talismani	elegans	NULL
+Accepted name without parent family	2558	W-Hol-529200	Elpidia		hanseni		NULL
+Accepted name without parent family	2824	W-Hol-124716	Deima		atlanticum		NULL
+Accepted name without parent family	2825	W-Hol-124717	Deima		blakei		NULL
+Accepted name without parent family	2826	W-Hol-292993	Deima		fastosum		NULL
+Accepted name without parent family	2827	W-Hol-292992	Deima		mosaicum		NULL
+Accepted name without parent family	2828	W-Hol-292994	Deima		pacificum		NULL
+Accepted name without parent family	2829	W-Hol-124718	Deima		validum		NULL
 --------------
-SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code 
+FROM scientific_name_references AS t1
 LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
 WHERE t2.name_code IS NULL
 --------------
 
 Reference link to non-existing accepted name	record_id	reference_code	name_code
-Reference link to non-existing accepted name	60	W-Hol-64	W-Hol-124610
-Reference link to non-existing accepted name	119	W-Hol-5997	W-Hol-210658
-Reference link to non-existing accepted name	216	W-Hol-52062	W-Hol-529189
-Reference link to non-existing accepted name	219	W-Hol-145608	W-Hol-529213
-Reference link to non-existing accepted name	220	W-Hol-145735	W-Hol-529228
-Reference link to non-existing accepted name	231	W-Hol-1368	W-Hol-124482
-Reference link to non-existing accepted name	291	W-Hol-4179	W-Hol-174118
-Reference link to non-existing accepted name	300	W-Hol-5916	W-Hol-210862
-Reference link to non-existing accepted name	306	W-Hol-5997	W-Hol-210958
-Reference link to non-existing accepted name	347	W-Hol-146025	W-Hol-414285
-Reference link to non-existing accepted name	377	W-Hol-145606	W-Hol-529212
-Reference link to non-existing accepted name	378	W-Hol-39396	W-Hol-529217
-Reference link to non-existing accepted name	379	W-Hol-145735	W-Hol-529230
-Reference link to non-existing accepted name	380	W-Hol-164444	W-Hol-529254
-Reference link to non-existing accepted name	381	W-Hol-46934	W-Hol-529260
-Reference link to non-existing accepted name	382	W-Hol-22984	W-Hol-529275
-Reference link to non-existing accepted name	406	W-Hol-64	W-Hol-124616
-Reference link to non-existing accepted name	410	W-Hol-504	W-Hol-124668
-Reference link to non-existing accepted name	430	W-Hol-145776	W-Hol-125179
-Reference link to non-existing accepted name	525	W-Hol-145691	W-Hol-528828
-Reference link to non-existing accepted name	560	W-Hol-47564	W-Hol-124539
-Reference link to non-existing accepted name	577	W-Hol-1368	W-Hol-124659
-Reference link to non-existing accepted name	591	W-Hol-146052	W-Hol-124805
-Reference link to non-existing accepted name	594	W-Hol-1300	W-Hol-124811
-Reference link to non-existing accepted name	652	W-Hol-5916	W-Hol-217323
-Reference link to non-existing accepted name	666	W-Hol-6392	W-Hol-241974
-Reference link to non-existing accepted name	674	W-Hol-145741	W-Hol-254676
-Reference link to non-existing accepted name	699	W-Hol-64	W-Hol-124488
-Reference link to non-existing accepted name	720	W-Hol-1368	W-Hol-124658
-Reference link to non-existing accepted name	721	W-Hol-64	W-Hol-124690
-Reference link to non-existing accepted name	722	W-Hol-1368	W-Hol-124692
-Reference link to non-existing accepted name	731	W-Hol-1368	W-Hol-124743
-Reference link to non-existing accepted name	741	W-Hol-64	W-Hol-152549
-Reference link to non-existing accepted name	752	W-Hol-6129	W-Hol-210684
-Reference link to non-existing accepted name	803	W-Hol-6516	W-Hol-528981
-Reference link to non-existing accepted name	816	W-Hol-145704	W-Hol-529220
-Reference link to non-existing accepted name	817	W-Hol-168181	W-Hol-529242
-Reference link to non-existing accepted name	818	W-Hol-146025	W-Hol-529268
-Reference link to non-existing accepted name	819	W-Hol-145732	W-Hol-529306
-Reference link to non-existing accepted name	820	W-Hol-6516	W-Hol-529315
-Reference link to non-existing accepted name	827	W-Hol-145635	W-Hol-529826
-Reference link to non-existing accepted name	865	W-Hol-145702	W-Hol-124788
-Reference link to non-existing accepted name	943	W-Hol-6221	W-Hol-528880
-Reference link to non-existing accepted name	961	W-Hol-168026	W-Hol-529215
-Reference link to non-existing accepted name	962	W-Hol-145735	W-Hol-529225
-Reference link to non-existing accepted name	963	W-Hol-35161	W-Hol-529264
-Reference link to non-existing accepted name	965	W-Hol-145730	W-Hol-529284
-Reference link to non-existing accepted name	966	W-Hol-43023	W-Hol-529303
-Reference link to non-existing accepted name	967	W-Hol-145732	W-Hol-529308
-Reference link to non-existing accepted name	968	W-Hol-168134	W-Hol-529321
-Reference link to non-existing accepted name	974	W-Hol-168026	W-Hol-529817
-Reference link to non-existing accepted name	1000	W-Hol-662	W-Hol-149899
-Reference link to non-existing accepted name	1002	W-Hol-172624	W-Hol-151873
-Reference link to non-existing accepted name	1022	W-Hol-50818	W-Hol-210872
-Reference link to non-existing accepted name	1027	W-Hol-6114	W-Hol-210954
-Reference link to non-existing accepted name	1100	W-Hol-146018	W-Hol-529130
-Reference link to non-existing accepted name	1129	W-Hol-6130	W-Hol-210699
-Reference link to non-existing accepted name	1148	W-Hol-42380	W-Hol-241352
-Reference link to non-existing accepted name	1152	W-Hol-145828	W-Hol-241884
-Reference link to non-existing accepted name	1203	W-Hol-145692	W-Hol-529219
-Reference link to non-existing accepted name	1259	W-Hol-5997	W-Hol-210959
-Reference link to non-existing accepted name	1288	W-Hol-43056	W-Hol-247769
-Reference link to non-existing accepted name	1318	W-Hol-281	W-Hol-148808
-Reference link to non-existing accepted name	1321	W-Hol-4179	W-Hol-174028
-Reference link to non-existing accepted name	1381	W-Hol-146052	W-Hol-528933
-Reference link to non-existing accepted name	1409	W-Hol-4179	W-Hol-174044
-Reference link to non-existing accepted name	1416	W-Hol-5916	W-Hol-210716
-Reference link to non-existing accepted name	1464	W-Hol-145857	W-Hol-529002
-Reference link to non-existing accepted name	1476	W-Hol-168026	W-Hol-529216
-Reference link to non-existing accepted name	1477	W-Hol-21228	W-Hol-529236
-Reference link to non-existing accepted name	1478	W-Hol-168181	W-Hol-529239
-Reference link to non-existing accepted name	1479	W-Hol-145830	W-Hol-529244
-Reference link to non-existing accepted name	1481	W-Hol-145730	W-Hol-529278
-Reference link to non-existing accepted name	1482	W-Hol-145735	W-Hol-529288
-Reference link to non-existing accepted name	1483	W-Hol-145734	W-Hol-529290
-Reference link to non-existing accepted name	1484	W-Hol-145735	W-Hol-529295
-Reference link to non-existing accepted name	1486	W-Hol-145732	W-Hol-529302
-Reference link to non-existing accepted name	1493	W-Hol-1368	W-Hol-124496
-Reference link to non-existing accepted name	1497	W-Hol-1368	W-Hol-124632
-Reference link to non-existing accepted name	1500	W-Hol-1658	W-Hol-152568
-Reference link to non-existing accepted name	1574	W-Hol-145729	W-Hol-529926
-Reference link to non-existing accepted name	1634	W-Hol-4179	W-Hol-174034
-Reference link to non-existing accepted name	1640	W-Hol-6831	W-Hol-183306
-Reference link to non-existing accepted name	1651	W-Hol-6346	W-Hol-213629
-Reference link to non-existing accepted name	1675	W-Hol-6516	W-Hol-242059
-Reference link to non-existing accepted name	1698	W-Hol-168119	W-Hol-528960
-Reference link to non-existing accepted name	1721	W-Hol-146018	W-Hol-530328
-Reference link to non-existing accepted name	1723	W-Hol-146024	W-Hol-530394
-Reference link to non-existing accepted name	1733	W-Hol-145983	W-Hol-530541
-Reference link to non-existing accepted name	1737	W-Hol-145704	W-Hol-530656
-Reference link to non-existing accepted name	1740	W-Hol-1168	W-Hol-732196
-Reference link to non-existing accepted name	1743	W-Hol-145828	W-Hol-732232
-Reference link to non-existing accepted name	1784	W-Hol-168124	W-Hol-530093
-Reference link to non-existing accepted name	1787	W-Hol-145856	W-Hol-530152
-Reference link to non-existing accepted name	1816	W-Hol-146002	W-Hol-530666
-Reference link to non-existing accepted name	1817	W-Hol-145830	W-Hol-530724
-Reference link to non-existing accepted name	1821	W-Hol-43179	W-Hol-732344
-Reference link to non-existing accepted name	1826	W-Hol-168108	W-Hol-732372
-Reference link to non-existing accepted name	1830	W-Hol-145593	W-Hol-732554
-Reference link to non-existing accepted name	1832	W-Hol-145732	W-Hol-767380
-Reference link to non-existing accepted name	1856	W-Hol-146025	W-Hol-530372
-Reference link to non-existing accepted name	1872	W-Hol-146015	W-Hol-530675
-Reference link to non-existing accepted name	1885	W-Hol-145639	W-Hol-732528
-Reference link to non-existing accepted name	1892	W-Hol-145734	W-Hol-529221
-Reference link to non-existing accepted name	1893	W-Hol-6221	W-Hol-529237
-Reference link to non-existing accepted name	1894	W-Hol-168124	W-Hol-529246
-Reference link to non-existing accepted name	1895	W-Hol-46934	W-Hol-529255
-Reference link to non-existing accepted name	1896	W-Hol-46934	W-Hol-529256
-Reference link to non-existing accepted name	1897	W-Hol-37014	W-Hol-529261
-Reference link to non-existing accepted name	1898	W-Hol-146021	W-Hol-529267
-Reference link to non-existing accepted name	1899	W-Hol-145734	W-Hol-529289
-Reference link to non-existing accepted name	1917	W-Hol-34506	W-Hol-530005
-Reference link to non-existing accepted name	1939	W-Hol-164444	W-Hol-530270
-Reference link to non-existing accepted name	1966	W-Hol-6517	W-Hol-732392
-Reference link to non-existing accepted name	1971	W-Hol-146072	W-Hol-732525
-Reference link to non-existing accepted name	1978	W-Hol-145735	W-Hol-529229
-Reference link to non-existing accepted name	1979	W-Hol-1065	W-Hol-529234
-Reference link to non-existing accepted name	1980	W-Hol-146023	W-Hol-529294
-Reference link to non-existing accepted name	1981	W-Hol-145735	W-Hol-529297
-Reference link to non-existing accepted name	1982	W-Hol-145732	W-Hol-529304
-Reference link to non-existing accepted name	1983	W-Hol-145732	W-Hol-529318
-Reference link to non-existing accepted name	2008	W-Hol-6521	W-Hol-530181
-Reference link to non-existing accepted name	2016	W-Hol-146018	W-Hol-530338
-Reference link to non-existing accepted name	2036	W-Hol-6221	W-Hol-530669
-Reference link to non-existing accepted name	2043	W-Hol-145654	W-Hol-732557
-Reference link to non-existing accepted name	2048	W-Hol-168124	W-Hol-529245
-Reference link to non-existing accepted name	2050	W-Hol-164444	W-Hol-529252
-Reference link to non-existing accepted name	2051	W-Hol-146018	W-Hol-529266
-Reference link to non-existing accepted name	2052	W-Hol-22984	W-Hol-529273
-Reference link to non-existing accepted name	2053	W-Hol-145732	W-Hol-529300
-Reference link to non-existing accepted name	2054	W-Hol-145587	W-Hol-529319
-Reference link to non-existing accepted name	2070	W-Hol-145752	W-Hol-529946
-Reference link to non-existing accepted name	2074	W-Hol-6516	W-Hol-530075
-Reference link to non-existing accepted name	2076	W-Hol-6517	W-Hol-530123
-Reference link to non-existing accepted name	2092	W-Hol-146020	W-Hol-530358
-Reference link to non-existing accepted name	2104	W-Hol-145803	W-Hol-530566
-Reference link to non-existing accepted name	2114	W-Hol-164893	W-Hol-710718
-Reference link to non-existing accepted name	2116	W-Hol-145898	W-Hol-732225
-Reference link to non-existing accepted name	2135	W-Hol-145734	W-Hol-529222
-Reference link to non-existing accepted name	2136	W-Hol-145734	W-Hol-529223
-Reference link to non-existing accepted name	2137	W-Hol-168124	W-Hol-529247
-Reference link to non-existing accepted name	2138	W-Hol-168124	W-Hol-529248
-Reference link to non-existing accepted name	2139	W-Hol-164444	W-Hol-529250
-Reference link to non-existing accepted name	2140	W-Hol-46934	W-Hol-529257
-Reference link to non-existing accepted name	2141	W-Hol-46934	W-Hol-529258
-Reference link to non-existing accepted name	2143	W-Hol-145732	W-Hol-529299
-Reference link to non-existing accepted name	2144	W-Hol-145732	W-Hol-529313
-Reference link to non-existing accepted name	2191	W-Hol-146026	W-Hol-530411
-Reference link to non-existing accepted name	2195	W-Hol-145857	W-Hol-530670
-Reference link to non-existing accepted name	2211	W-Hol-145823	W-Hol-732466
-Reference link to non-existing accepted name	2224	W-Hol-21228	W-Hol-529235
-Reference link to non-existing accepted name	2225	W-Hol-168181	W-Hol-529240
-Reference link to non-existing accepted name	2226	W-Hol-145735	W-Hol-529280
-Reference link to non-existing accepted name	2227	W-Hol-146014	W-Hol-529314
-Reference link to non-existing accepted name	2234	W-Hol-139395	W-Hol-529875
-Reference link to non-existing accepted name	2242	W-Hol-145746	W-Hol-529940
-Reference link to non-existing accepted name	2244	W-Hol-145749	W-Hol-529942
-Reference link to non-existing accepted name	2257	W-Hol-6518	W-Hol-530128
-Reference link to non-existing accepted name	2279	W-Hol-146069	W-Hol-530550
-Reference link to non-existing accepted name	2347	W-Hol-34506	W-Hol-732213
-Reference link to non-existing accepted name	2381	W-Hol-168026	W-Hol-529214
-Reference link to non-existing accepted name	2383	W-Hol-145737	W-Hol-529231
-Reference link to non-existing accepted name	2384	W-Hol-35161	W-Hol-529265
-Reference link to non-existing accepted name	2385	W-Hol-145730	W-Hol-529285
-Reference link to non-existing accepted name	2386	W-Hol-145587	W-Hol-529324
-Reference link to non-existing accepted name	2397	W-Hol-168026	W-Hol-529814
-Reference link to non-existing accepted name	2398	W-Hol-145674	W-Hol-529841
-Reference link to non-existing accepted name	2424	W-Hol-146018	W-Hol-530325
-Reference link to non-existing accepted name	2439	W-Hol-6221	W-Hol-530668
-Reference link to non-existing accepted name	2440	W-Hol-42	W-Hol-584814
-Reference link to non-existing accepted name	2447	W-Hol-146015	W-Hol-732345
-Reference link to non-existing accepted name	2459	W-Hol-145734	W-Hol-529224
-Reference link to non-existing accepted name	2460	W-Hol-46934	W-Hol-529259
-Reference link to non-existing accepted name	2461	W-Hol-146051	W-Hol-529271
-Reference link to non-existing accepted name	2462	W-Hol-145733	W-Hol-529287
-Reference link to non-existing accepted name	2463	W-Hol-145734	W-Hol-529292
-Reference link to non-existing accepted name	2464	W-Hol-145732	W-Hol-529311
-Reference link to non-existing accepted name	2487	W-Hol-139624	W-Hol-530013
-Reference link to non-existing accepted name	2532	W-Hol-168102	W-Hol-530687
-Reference link to non-existing accepted name	2536	W-Hol-145732	W-Hol-732242
-Reference link to non-existing accepted name	2559	W-Hol-146051	W-Hol-529174
-Reference link to non-existing accepted name	2563	W-Hol-7476	W-Hol-529233
-Reference link to non-existing accepted name	2564	W-Hol-146051	W-Hol-529272
-Reference link to non-existing accepted name	2565	W-Hol-146051	W-Hol-529279
-Reference link to non-existing accepted name	2566	W-Hol-168134	W-Hol-529325
-Reference link to non-existing accepted name	2567	W-Hol-146052	W-Hol-529327
-Reference link to non-existing accepted name	2594	W-Hol-6516	W-Hol-530072
-Reference link to non-existing accepted name	2631	W-Hol-146024	W-Hol-530607
-Reference link to non-existing accepted name	2633	W-Hol-145717	W-Hol-530642
-Reference link to non-existing accepted name	2634	W-Hol-146015	W-Hol-530664
-Reference link to non-existing accepted name	2639	W-Hol-1168	W-Hol-732198
-Reference link to non-existing accepted name	2642	W-Hol-145732	W-Hol-732343
-Reference link to non-existing accepted name	2652	W-Hol-6513	W-Hol-732526
-Reference link to non-existing accepted name	2666	W-Hol-6129	W-Hol-210678
-Reference link to non-existing accepted name	2674	W-Hol-5916	W-Hol-210934
-Reference link to non-existing accepted name	2724	W-Hol-145735	W-Hol-529227
-Reference link to non-existing accepted name	2725	W-Hol-7476	W-Hol-529232
-Reference link to non-existing accepted name	2726	W-Hol-6517	W-Hol-529249
-Reference link to non-existing accepted name	2727	W-Hol-145732	W-Hol-529320
-Reference link to non-existing accepted name	2777	W-Hol-145774	W-Hol-530565
-Reference link to non-existing accepted name	2797	W-Hol-145642	W-Hol-732469
-Reference link to non-existing accepted name	2805	W-Hol-50818	W-Hol-147438
-Reference link to non-existing accepted name	2870	W-Hol-145735	W-Hol-529226
-Reference link to non-existing accepted name	2871	W-Hol-168181	W-Hol-529241
-Reference link to non-existing accepted name	2872	W-Hol-146014	W-Hol-529262
-Reference link to non-existing accepted name	2873	W-Hol-146025	W-Hol-529269
-Reference link to non-existing accepted name	2874	W-Hol-145732	W-Hol-529307
-Reference link to non-existing accepted name	2875	W-Hol-145587	W-Hol-529309
-Reference link to non-existing accepted name	2876	W-Hol-168105	W-Hol-529322
-Reference link to non-existing accepted name	2877	W-Hol-145594	W-Hol-529323
-Reference link to non-existing accepted name	2894	W-Hol-139483	W-Hol-530020
-Reference link to non-existing accepted name	2906	W-Hol-164444	W-Hol-530262
-Reference link to non-existing accepted name	2931	W-Hol-145730	W-Hol-732375
-Reference link to non-existing accepted name	2965	W-Hol-146015	W-Hol-210975
-Reference link to non-existing accepted name	3028	W-Hol-52062	W-Hol-529190
-Reference link to non-existing accepted name	3029	W-Hol-146018	W-Hol-529196
-Reference link to non-existing accepted name	3032	W-Hol-6221	W-Hol-529238
-Reference link to non-existing accepted name	3033	W-Hol-164444	W-Hol-529253
-Reference link to non-existing accepted name	3034	W-Hol-52062	W-Hol-529276
-Reference link to non-existing accepted name	3035	W-Hol-145735	W-Hol-529281
-Reference link to non-existing accepted name	3038	W-Hol-145730	W-Hol-529293
-Reference link to non-existing accepted name	3039	W-Hol-145732	W-Hol-529316
-Reference link to non-existing accepted name	3040	W-Hol-145732	W-Hol-529317
-Reference link to non-existing accepted name	3045	W-Hol-145924	W-Hol-529388
-Reference link to non-existing accepted name	3077	W-Hol-145858	W-Hol-530115
-Reference link to non-existing accepted name	3101	W-Hol-146052	W-Hol-530460
-Reference link to non-existing accepted name	3119	W-Hol-6392	W-Hol-732341
-Reference link to non-existing accepted name	3120	W-Hol-43179	W-Hol-732342
+Reference link to non-existing accepted name	63	W-Hol-662	W-Hol-124616
+Reference link to non-existing accepted name	98	W-Hol-1368	W-Hol-124788
+Reference link to non-existing accepted name	105	W-Hol-281	W-Hol-148808
+Reference link to non-existing accepted name	110	W-Hol-4179	W-Hol-174028
+Reference link to non-existing accepted name	127	W-Hol-6317	W-Hol-210872
+Reference link to non-existing accepted name	205	W-Hol-146052	W-Hol-528933
+Reference link to non-existing accepted name	245	W-Hol-1368	W-Hol-124610
+Reference link to non-existing accepted name	270	W-Hol-50818	W-Hol-147438
+Reference link to non-existing accepted name	305	W-Hol-6513	W-Hol-210959
+Reference link to non-existing accepted name	383	W-Hol-145735	W-Hol-529226
+Reference link to non-existing accepted name	384	W-Hol-168181	W-Hol-529241
+Reference link to non-existing accepted name	385	W-Hol-146014	W-Hol-529262
+Reference link to non-existing accepted name	386	W-Hol-146025	W-Hol-529269
+Reference link to non-existing accepted name	387	W-Hol-145732	W-Hol-529307
+Reference link to non-existing accepted name	388	W-Hol-145587	W-Hol-529309
+Reference link to non-existing accepted name	389	W-Hol-168105	W-Hol-529322
+Reference link to non-existing accepted name	390	W-Hol-145594	W-Hol-529323
+Reference link to non-existing accepted name	402	W-Hol-1368	W-Hol-124482
+Reference link to non-existing accepted name	465	W-Hol-4179	W-Hol-174118
+Reference link to non-existing accepted name	467	W-Hol-6337	W-Hol-210658
+Reference link to non-existing accepted name	476	W-Hol-5916	W-Hol-210862
+Reference link to non-existing accepted name	481	W-Hol-5997	W-Hol-210958
+Reference link to non-existing accepted name	523	W-Hol-146025	W-Hol-414285
+Reference link to non-existing accepted name	551	W-Hol-145606	W-Hol-529212
+Reference link to non-existing accepted name	552	W-Hol-39396	W-Hol-529217
+Reference link to non-existing accepted name	553	W-Hol-145735	W-Hol-529230
+Reference link to non-existing accepted name	554	W-Hol-164444	W-Hol-529254
+Reference link to non-existing accepted name	555	W-Hol-46934	W-Hol-529260
+Reference link to non-existing accepted name	556	W-Hol-22984	W-Hol-529275
+Reference link to non-existing accepted name	562	W-Hol-145611	W-Hol-124488
+Reference link to non-existing accepted name	585	W-Hol-1368	W-Hol-124690
+Reference link to non-existing accepted name	591	W-Hol-64	W-Hol-124743
+Reference link to non-existing accepted name	600	W-Hol-64	W-Hol-125179
+Reference link to non-existing accepted name	610	W-Hol-4179	W-Hol-174044
+Reference link to non-existing accepted name	620	W-Hol-5916	W-Hol-210716
+Reference link to non-existing accepted name	663	W-Hol-145839	W-Hol-247769
+Reference link to non-existing accepted name	686	W-Hol-145857	W-Hol-529002
+Reference link to non-existing accepted name	698	W-Hol-168026	W-Hol-529216
+Reference link to non-existing accepted name	699	W-Hol-172624	W-Hol-529236
+Reference link to non-existing accepted name	700	W-Hol-168181	W-Hol-529239
+Reference link to non-existing accepted name	701	W-Hol-145830	W-Hol-529244
+Reference link to non-existing accepted name	703	W-Hol-145730	W-Hol-529278
+Reference link to non-existing accepted name	704	W-Hol-145735	W-Hol-529288
+Reference link to non-existing accepted name	705	W-Hol-145734	W-Hol-529290
+Reference link to non-existing accepted name	706	W-Hol-145735	W-Hol-529295
+Reference link to non-existing accepted name	708	W-Hol-145732	W-Hol-529302
+Reference link to non-existing accepted name	736	W-Hol-1368	W-Hol-124668
+Reference link to non-existing accepted name	751	W-Hol-40540	W-Hol-149899
+Reference link to non-existing accepted name	794	W-Hol-146015	W-Hol-210975
+Reference link to non-existing accepted name	880	W-Hol-64	W-Hol-124811
+Reference link to non-existing accepted name	893	W-Hol-6129	W-Hol-210678
+Reference link to non-existing accepted name	903	W-Hol-5916	W-Hol-210934
+Reference link to non-existing accepted name	976	W-Hol-145735	W-Hol-529227
+Reference link to non-existing accepted name	977	W-Hol-7476	W-Hol-529232
+Reference link to non-existing accepted name	978	W-Hol-6517	W-Hol-529249
+Reference link to non-existing accepted name	979	W-Hol-145732	W-Hol-529320
+Reference link to non-existing accepted name	1007	W-Hol-1368	W-Hol-124658
+Reference link to non-existing accepted name	1008	W-Hol-1368	W-Hol-124692
+Reference link to non-existing accepted name	1022	W-Hol-64	W-Hol-152549
+Reference link to non-existing accepted name	1031	W-Hol-6129	W-Hol-210684
+Reference link to non-existing accepted name	1086	W-Hol-6516	W-Hol-528981
+Reference link to non-existing accepted name	1099	W-Hol-145704	W-Hol-529220
+Reference link to non-existing accepted name	1100	W-Hol-168181	W-Hol-529242
+Reference link to non-existing accepted name	1101	W-Hol-146025	W-Hol-529268
+Reference link to non-existing accepted name	1102	W-Hol-145732	W-Hol-529306
+Reference link to non-existing accepted name	1103	W-Hol-6516	W-Hol-529315
+Reference link to non-existing accepted name	1110	W-Hol-145635	W-Hol-529826
+Reference link to non-existing accepted name	1217	W-Hol-145691	W-Hol-528828
+Reference link to non-existing accepted name	1266	W-Hol-6130	W-Hol-210699
+Reference link to non-existing accepted name	1286	W-Hol-42380	W-Hol-241352
+Reference link to non-existing accepted name	1289	W-Hol-145828	W-Hol-241884
+Reference link to non-existing accepted name	1338	W-Hol-145692	W-Hol-529219
+Reference link to non-existing accepted name	1344	W-Hol-47564	W-Hol-124539
+Reference link to non-existing accepted name	1349	W-Hol-1368	W-Hol-124659
+Reference link to non-existing accepted name	1353	W-Hol-146052	W-Hol-124805
+Reference link to non-existing accepted name	1389	W-Hol-5916	W-Hol-217323
+Reference link to non-existing accepted name	1402	W-Hol-6392	W-Hol-241974
+Reference link to non-existing accepted name	1410	W-Hol-145741	W-Hol-254676
+Reference link to non-existing accepted name	1506	W-Hol-1368	W-Hol-124496
+Reference link to non-existing accepted name	1512	W-Hol-1368	W-Hol-124632
+Reference link to non-existing accepted name	1517	W-Hol-1658	W-Hol-152568
+Reference link to non-existing accepted name	1585	W-Hol-172624	W-Hol-151873
+Reference link to non-existing accepted name	1599	W-Hol-6114	W-Hol-210954
+Reference link to non-existing accepted name	1659	W-Hol-146018	W-Hol-529130
+Reference link to non-existing accepted name	1724	W-Hol-52062	W-Hol-529189
+Reference link to non-existing accepted name	1727	W-Hol-145608	W-Hol-529213
+Reference link to non-existing accepted name	1728	W-Hol-145735	W-Hol-529228
+Reference link to non-existing accepted name	1739	W-Hol-4179	W-Hol-174034
+Reference link to non-existing accepted name	1744	W-Hol-6831	W-Hol-183306
+Reference link to non-existing accepted name	1754	W-Hol-6346	W-Hol-213629
+Reference link to non-existing accepted name	1775	W-Hol-6516	W-Hol-242059
+Reference link to non-existing accepted name	1796	W-Hol-168119	W-Hol-528960
+Reference link to non-existing accepted name	1850	W-Hol-34506	W-Hol-732213
+Reference link to non-existing accepted name	1876	W-Hol-139483	W-Hol-530020
+Reference link to non-existing accepted name	1889	W-Hol-164444	W-Hol-530262
+Reference link to non-existing accepted name	1914	W-Hol-145730	W-Hol-732375
+Reference link to non-existing accepted name	1933	W-Hol-145734	W-Hol-529224
+Reference link to non-existing accepted name	1934	W-Hol-46934	W-Hol-529259
+Reference link to non-existing accepted name	1935	W-Hol-146051	W-Hol-529271
+Reference link to non-existing accepted name	1936	W-Hol-145733	W-Hol-529287
+Reference link to non-existing accepted name	1937	W-Hol-145734	W-Hol-529292
+Reference link to non-existing accepted name	1938	W-Hol-145732	W-Hol-529311
+Reference link to non-existing accepted name	1961	W-Hol-139624	W-Hol-530013
+Reference link to non-existing accepted name	2008	W-Hol-168102	W-Hol-530687
+Reference link to non-existing accepted name	2012	W-Hol-145732	W-Hol-732242
+Reference link to non-existing accepted name	2042	W-Hol-168124	W-Hol-530093
+Reference link to non-existing accepted name	2045	W-Hol-145856	W-Hol-530152
+Reference link to non-existing accepted name	2074	W-Hol-146002	W-Hol-530666
+Reference link to non-existing accepted name	2075	W-Hol-145830	W-Hol-530724
+Reference link to non-existing accepted name	2079	W-Hol-43179	W-Hol-732344
+Reference link to non-existing accepted name	2084	W-Hol-168108	W-Hol-732372
+Reference link to non-existing accepted name	2088	W-Hol-145593	W-Hol-732554
+Reference link to non-existing accepted name	2090	W-Hol-145732	W-Hol-767380
+Reference link to non-existing accepted name	2131	W-Hol-145774	W-Hol-530565
+Reference link to non-existing accepted name	2151	W-Hol-145642	W-Hol-732469
+Reference link to non-existing accepted name	2179	W-Hol-146018	W-Hol-530328
+Reference link to non-existing accepted name	2181	W-Hol-146024	W-Hol-530394
+Reference link to non-existing accepted name	2191	W-Hol-145983	W-Hol-530541
+Reference link to non-existing accepted name	2195	W-Hol-145704	W-Hol-530656
+Reference link to non-existing accepted name	2198	W-Hol-1168	W-Hol-732196
+Reference link to non-existing accepted name	2201	W-Hol-145828	W-Hol-732232
+Reference link to non-existing accepted name	2220	W-Hol-145735	W-Hol-529229
+Reference link to non-existing accepted name	2221	W-Hol-1065	W-Hol-529234
+Reference link to non-existing accepted name	2222	W-Hol-146023	W-Hol-529294
+Reference link to non-existing accepted name	2223	W-Hol-145735	W-Hol-529297
+Reference link to non-existing accepted name	2224	W-Hol-145732	W-Hol-529304
+Reference link to non-existing accepted name	2225	W-Hol-145732	W-Hol-529318
+Reference link to non-existing accepted name	2250	W-Hol-6521	W-Hol-530181
+Reference link to non-existing accepted name	2258	W-Hol-146018	W-Hol-530338
+Reference link to non-existing accepted name	2278	W-Hol-6221	W-Hol-530669
+Reference link to non-existing accepted name	2285	W-Hol-145654	W-Hol-732557
+Reference link to non-existing accepted name	2296	W-Hol-172624	W-Hol-529235
+Reference link to non-existing accepted name	2297	W-Hol-168181	W-Hol-529240
+Reference link to non-existing accepted name	2298	W-Hol-145735	W-Hol-529280
+Reference link to non-existing accepted name	2299	W-Hol-146014	W-Hol-529314
+Reference link to non-existing accepted name	2306	W-Hol-139395	W-Hol-529875
+Reference link to non-existing accepted name	2314	W-Hol-145746	W-Hol-529940
+Reference link to non-existing accepted name	2316	W-Hol-145749	W-Hol-529942
+Reference link to non-existing accepted name	2329	W-Hol-6518	W-Hol-530128
+Reference link to non-existing accepted name	2351	W-Hol-146069	W-Hol-530550
+Reference link to non-existing accepted name	2379	W-Hol-52062	W-Hol-529190
+Reference link to non-existing accepted name	2380	W-Hol-146018	W-Hol-529196
+Reference link to non-existing accepted name	2383	W-Hol-6221	W-Hol-529238
+Reference link to non-existing accepted name	2384	W-Hol-164444	W-Hol-529253
+Reference link to non-existing accepted name	2385	W-Hol-52062	W-Hol-529276
+Reference link to non-existing accepted name	2386	W-Hol-145735	W-Hol-529281
+Reference link to non-existing accepted name	2389	W-Hol-145730	W-Hol-529293
+Reference link to non-existing accepted name	2390	W-Hol-145732	W-Hol-529316
+Reference link to non-existing accepted name	2391	W-Hol-145732	W-Hol-529317
+Reference link to non-existing accepted name	2396	W-Hol-145924	W-Hol-529388
+Reference link to non-existing accepted name	2428	W-Hol-145858	W-Hol-530115
+Reference link to non-existing accepted name	2452	W-Hol-146052	W-Hol-530460
+Reference link to non-existing accepted name	2470	W-Hol-6392	W-Hol-732341
+Reference link to non-existing accepted name	2471	W-Hol-43179	W-Hol-732342
+Reference link to non-existing accepted name	2493	W-Hol-145734	W-Hol-529222
+Reference link to non-existing accepted name	2494	W-Hol-145734	W-Hol-529223
+Reference link to non-existing accepted name	2495	W-Hol-168124	W-Hol-529247
+Reference link to non-existing accepted name	2496	W-Hol-168124	W-Hol-529248
+Reference link to non-existing accepted name	2497	W-Hol-164444	W-Hol-529250
+Reference link to non-existing accepted name	2498	W-Hol-46934	W-Hol-529257
+Reference link to non-existing accepted name	2499	W-Hol-46934	W-Hol-529258
+Reference link to non-existing accepted name	2501	W-Hol-145732	W-Hol-529299
+Reference link to non-existing accepted name	2502	W-Hol-145732	W-Hol-529313
+Reference link to non-existing accepted name	2549	W-Hol-146026	W-Hol-530411
+Reference link to non-existing accepted name	2553	W-Hol-145857	W-Hol-530670
+Reference link to non-existing accepted name	2569	W-Hol-145823	W-Hol-732466
+Reference link to non-existing accepted name	2577	W-Hol-145734	W-Hol-529221
+Reference link to non-existing accepted name	2578	W-Hol-6221	W-Hol-529237
+Reference link to non-existing accepted name	2579	W-Hol-168124	W-Hol-529246
+Reference link to non-existing accepted name	2580	W-Hol-46934	W-Hol-529255
+Reference link to non-existing accepted name	2581	W-Hol-46934	W-Hol-529256
+Reference link to non-existing accepted name	2582	W-Hol-37014	W-Hol-529261
+Reference link to non-existing accepted name	2583	W-Hol-146021	W-Hol-529267
+Reference link to non-existing accepted name	2584	W-Hol-145734	W-Hol-529289
+Reference link to non-existing accepted name	2602	W-Hol-34506	W-Hol-530005
+Reference link to non-existing accepted name	2624	W-Hol-164444	W-Hol-530270
+Reference link to non-existing accepted name	2650	W-Hol-6517	W-Hol-732392
+Reference link to non-existing accepted name	2655	W-Hol-146072	W-Hol-732525
+Reference link to non-existing accepted name	2671	W-Hol-145729	W-Hol-529926
+Reference link to non-existing accepted name	2725	W-Hol-168124	W-Hol-529245
+Reference link to non-existing accepted name	2727	W-Hol-164444	W-Hol-529252
+Reference link to non-existing accepted name	2728	W-Hol-146018	W-Hol-529266
+Reference link to non-existing accepted name	2729	W-Hol-22984	W-Hol-529273
+Reference link to non-existing accepted name	2730	W-Hol-145732	W-Hol-529300
+Reference link to non-existing accepted name	2731	W-Hol-145587	W-Hol-529319
+Reference link to non-existing accepted name	2747	W-Hol-145752	W-Hol-529946
+Reference link to non-existing accepted name	2752	W-Hol-6516	W-Hol-530075
+Reference link to non-existing accepted name	2754	W-Hol-6517	W-Hol-530123
+Reference link to non-existing accepted name	2770	W-Hol-146020	W-Hol-530358
+Reference link to non-existing accepted name	2782	W-Hol-145803	W-Hol-530566
+Reference link to non-existing accepted name	2792	W-Hol-164893	W-Hol-710718
+Reference link to non-existing accepted name	2794	W-Hol-145898	W-Hol-732225
+Reference link to non-existing accepted name	2824	W-Hol-168026	W-Hol-529214
+Reference link to non-existing accepted name	2826	W-Hol-145737	W-Hol-529231
+Reference link to non-existing accepted name	2827	W-Hol-35161	W-Hol-529265
+Reference link to non-existing accepted name	2828	W-Hol-145730	W-Hol-529285
+Reference link to non-existing accepted name	2829	W-Hol-145587	W-Hol-529324
+Reference link to non-existing accepted name	2840	W-Hol-168026	W-Hol-529814
+Reference link to non-existing accepted name	2841	W-Hol-145674	W-Hol-529841
+Reference link to non-existing accepted name	2867	W-Hol-146018	W-Hol-530325
+Reference link to non-existing accepted name	2882	W-Hol-6221	W-Hol-530668
+Reference link to non-existing accepted name	2883	W-Hol-42	W-Hol-584814
+Reference link to non-existing accepted name	2890	W-Hol-146015	W-Hol-732345
+Reference link to non-existing accepted name	2914	W-Hol-146051	W-Hol-529174
+Reference link to non-existing accepted name	2918	W-Hol-7476	W-Hol-529233
+Reference link to non-existing accepted name	2919	W-Hol-146051	W-Hol-529272
+Reference link to non-existing accepted name	2920	W-Hol-146051	W-Hol-529279
+Reference link to non-existing accepted name	2921	W-Hol-168134	W-Hol-529325
+Reference link to non-existing accepted name	2922	W-Hol-146052	W-Hol-529327
+Reference link to non-existing accepted name	2949	W-Hol-6516	W-Hol-530072
+Reference link to non-existing accepted name	2987	W-Hol-146024	W-Hol-530607
+Reference link to non-existing accepted name	2989	W-Hol-145717	W-Hol-530642
+Reference link to non-existing accepted name	2990	W-Hol-146015	W-Hol-530664
+Reference link to non-existing accepted name	2995	W-Hol-1168	W-Hol-732198
+Reference link to non-existing accepted name	2998	W-Hol-145732	W-Hol-732343
+Reference link to non-existing accepted name	3008	W-Hol-6513	W-Hol-732526
+Reference link to non-existing accepted name	3050	W-Hol-6221	W-Hol-528880
+Reference link to non-existing accepted name	3067	W-Hol-168026	W-Hol-529215
+Reference link to non-existing accepted name	3068	W-Hol-145735	W-Hol-529225
+Reference link to non-existing accepted name	3069	W-Hol-35161	W-Hol-529264
+Reference link to non-existing accepted name	3071	W-Hol-145730	W-Hol-529284
+Reference link to non-existing accepted name	3072	W-Hol-43023	W-Hol-529303
+Reference link to non-existing accepted name	3073	W-Hol-145732	W-Hol-529308
+Reference link to non-existing accepted name	3074	W-Hol-168134	W-Hol-529321
+Reference link to non-existing accepted name	3080	W-Hol-168026	W-Hol-529817
+Reference link to non-existing accepted name	3105	W-Hol-146025	W-Hol-530372
+Reference link to non-existing accepted name	3120	W-Hol-146015	W-Hol-530675
+Reference link to non-existing accepted name	3133	W-Hol-145639	W-Hol-732528
 --------------
-SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code 
+FROM scientific_name_references AS t1
 LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
 WHERE t2.reference_code IS NULL
 --------------
 
 Reference link to non-existing reference	record_id	reference_code	name_code
-Reference link to non-existing reference	1	W-Hol-147411	W-Hol-149904
-Reference link to non-existing reference	3	W-Hol-163039	W-Hol-125182
-Reference link to non-existing reference	4	W-Hol-141968	W-Hol-125180
-Reference link to non-existing reference	6	W-Hol-147411	W-Hol-124661
-Reference link to non-existing reference	7	W-Hol-147411	W-Hol-124710
-Reference link to non-existing reference	8	W-Hol-147411	W-Hol-124671
-Reference link to non-existing reference	9	W-Hol-147411	W-Hol-124455
-Reference link to non-existing reference	10	W-Hol-163039	W-Hol-124501
+Reference link to non-existing reference	1	W-Hol-163039	W-Hol-125182
+Reference link to non-existing reference	3	W-Hol-147411	W-Hol-124671
+Reference link to non-existing reference	4	W-Hol-147411	W-Hol-124661
+Reference link to non-existing reference	5	W-Hol-147411	W-Hol-124710
+Reference link to non-existing reference	6	W-Hol-141968	W-Hol-125180
+Reference link to non-existing reference	7	W-Hol-147412	W-Hol-124535
+Reference link to non-existing reference	8	W-Hol-147411	W-Hol-124470
+Reference link to non-existing reference	9	W-Hol-147411	W-Hol-124685
+Reference link to non-existing reference	10	W-Hol-147411	W-Hol-124696
+Reference link to non-existing reference	11	W-Hol-147411	W-Hol-124713
 Reference link to non-existing reference	12	W-Hol-141968	W-Hol-124525
-Reference link to non-existing reference	13	W-Hol-147411	W-Hol-124713
-Reference link to non-existing reference	15	W-Hol-147411	W-Hol-124462
+Reference link to non-existing reference	13	W-Hol-141968	W-Hol-124501
+Reference link to non-existing reference	15	W-Hol-147411	W-Hol-149904
 Reference link to non-existing reference	16	W-Hol-147411	W-Hol-124549
-Reference link to non-existing reference	17	W-Hol-147411	W-Hol-124593
-Reference link to non-existing reference	18	W-Hol-147411	W-Hol-149898
-Reference link to non-existing reference	19	W-Hol-147411	W-Hol-124448
-Reference link to non-existing reference	21	W-Hol-147411	W-Hol-124535
-Reference link to non-existing reference	22	W-Hol-147411	W-Hol-124544
-Reference link to non-existing reference	23	W-Hol-141968	W-Hol-241876
-Reference link to non-existing reference	24	W-Hol-147411	W-Hol-124681
-Reference link to non-existing reference	25	W-Hol-147411	W-Hol-124670
-Reference link to non-existing reference	26	W-Hol-147411	W-Hol-124470
-Reference link to non-existing reference	27	W-Hol-147411	W-Hol-124696
-Reference link to non-existing reference	28	W-Hol-147411	W-Hol-124465
-Reference link to non-existing reference	29	W-Hol-141968	W-Hol-367868
-Reference link to non-existing reference	30	W-Hol-147411	W-Hol-124612
-Reference link to non-existing reference	32	W-Hol-141968	W-Hol-125181
-Reference link to non-existing reference	33	W-Hol-147411	W-Hol-124653
-Reference link to non-existing reference	34	W-Hol-147411	W-Hol-124463
-Reference link to non-existing reference	35	W-Hol-147411	W-Hol-124645
-Reference link to non-existing reference	37	W-Hol-64	W-Hol-124444
-Reference link to non-existing reference	43	W-Hol-64	W-Hol-124478
-Reference link to non-existing reference	50	W-Hol-64	W-Hol-124517
-Reference link to non-existing reference	51	W-Hol-64	W-Hol-124521
-Reference link to non-existing reference	56	W-Hol-64	W-Hol-124576
-Reference link to non-existing reference	58	W-Hol-64	W-Hol-124585
-Reference link to non-existing reference	60	W-Hol-64	W-Hol-124610
-Reference link to non-existing reference	62	W-Hol-64	W-Hol-124619
-Reference link to non-existing reference	64	W-Hol-145790	W-Hol-124627
-Reference link to non-existing reference	66	W-Hol-64	W-Hol-124644
-Reference link to non-existing reference	72	W-Hol-64	W-Hol-124687
-Reference link to non-existing reference	75	W-Hol-64	W-Hol-124712
-Reference link to non-existing reference	78	W-Hol-64	W-Hol-124721
-Reference link to non-existing reference	80	W-Hol-64	W-Hol-124746
-Reference link to non-existing reference	82	W-Hol-64	W-Hol-124751
-Reference link to non-existing reference	83	W-Hol-64	W-Hol-124755
-Reference link to non-existing reference	89	W-Hol-64	W-Hol-124776
-Reference link to non-existing reference	90	W-Hol-64	W-Hol-124780
-Reference link to non-existing reference	93	W-Hol-64	W-Hol-124785
-Reference link to non-existing reference	96	W-Hol-64	W-Hol-124810
-Reference link to non-existing reference	97	W-Hol-64	W-Hol-125189
-Reference link to non-existing reference	103	W-Hol-64	W-Hol-149789
-Reference link to non-existing reference	105	W-Hol-64	W-Hol-152563
-Reference link to non-existing reference	140	W-Hol-146018	W-Hol-210870
-Reference link to non-existing reference	152	W-Hol-146018	W-Hol-210972
-Reference link to non-existing reference	156	W-Hol-146018	W-Hol-211006
-Reference link to non-existing reference	175	W-Hol-146018	W-Hol-242031
-Reference link to non-existing reference	180	W-Hol-146013	W-Hol-254668
-Reference link to non-existing reference	181	W-Hol-145612	W-Hol-254671
-Reference link to non-existing reference	182	W-Hol-47563	W-Hol-292993
-Reference link to non-existing reference	211	W-Hol-146013	W-Hol-529127
-Reference link to non-existing reference	225	W-Hol-64	W-Hol-124442
-Reference link to non-existing reference	226	W-Hol-64	W-Hol-124451
-Reference link to non-existing reference	229	W-Hol-64	W-Hol-124476
-Reference link to non-existing reference	232	W-Hol-64	W-Hol-124485
-Reference link to non-existing reference	239	W-Hol-64	W-Hol-124510
-Reference link to non-existing reference	242	W-Hol-64	W-Hol-124519
-Reference link to non-existing reference	245	W-Hol-64	W-Hol-124578
-Reference link to non-existing reference	253	W-Hol-64	W-Hol-124676
-Reference link to non-existing reference	257	W-Hol-64	W-Hol-124744
-Reference link to non-existing reference	258	W-Hol-64	W-Hol-124753
-Reference link to non-existing reference	262	W-Hol-64	W-Hol-124778
-Reference link to non-existing reference	263	W-Hol-64	W-Hol-124787
-Reference link to non-existing reference	271	W-Hol-64	W-Hol-125187
-Reference link to non-existing reference	272	W-Hol-64	W-Hol-125255
-Reference link to non-existing reference	274	W-Hol-44	W-Hol-147444
-Reference link to non-existing reference	282	W-Hol-64	W-Hol-152556
-Reference link to non-existing reference	299	W-Hol-146018	W-Hol-210847
-Reference link to non-existing reference	310	W-Hol-146018	W-Hol-210970
-Reference link to non-existing reference	337	W-Hol-43056	W-Hol-247763
-Reference link to non-existing reference	338	W-Hol-43056	W-Hol-247772
-Reference link to non-existing reference	348	W-Hol-146018	W-Hol-422525
-Reference link to non-existing reference	351	W-Hol-133468	W-Hol-428605
-Reference link to non-existing reference	352	W-Hol-133468	W-Hol-428805
-Reference link to non-existing reference	353	W-Hol-141756	W-Hol-474834
-Reference link to non-existing reference	391	W-Hol-64	W-Hol-124481
-Reference link to non-existing reference	397	W-Hol-64	W-Hol-124531
-Reference link to non-existing reference	403	W-Hol-64	W-Hol-124599
-Reference link to non-existing reference	406	W-Hol-64	W-Hol-124616
-Reference link to non-existing reference	412	W-Hol-64	W-Hol-124684
-Reference link to non-existing reference	413	W-Hol-64	W-Hol-124698
-Reference link to non-existing reference	415	W-Hol-145790	W-Hol-124706
-Reference link to non-existing reference	417	W-Hol-47563	W-Hol-124718
-Reference link to non-existing reference	421	W-Hol-64	W-Hol-124749
-Reference link to non-existing reference	428	W-Hol-64	W-Hol-124799
-Reference link to non-existing reference	433	W-Hol-64	W-Hol-125217
-Reference link to non-existing reference	439	W-Hol-44	W-Hol-151528
-Reference link to non-existing reference	440	W-Hol-64	W-Hol-152560
-Reference link to non-existing reference	448	W-Hol-6831	W-Hol-183378
-Reference link to non-existing reference	493	W-Hol-145612	W-Hol-241815
-Reference link to non-existing reference	502	W-Hol-43056	W-Hol-247750
-Reference link to non-existing reference	504	W-Hol-43056	W-Hol-247767
-Reference link to non-existing reference	505	W-Hol-43056	W-Hol-247768
-Reference link to non-existing reference	520	W-Hol-133468	W-Hol-428804
-Reference link to non-existing reference	552	W-Hol-64	W-Hol-124474
-Reference link to non-existing reference	553	W-Hol-64	W-Hol-124491
-Reference link to non-existing reference	559	W-Hol-64	W-Hol-124538
-Reference link to non-existing reference	561	W-Hol-64	W-Hol-124542
-Reference link to non-existing reference	579	W-Hol-64	W-Hol-124674
-Reference link to non-existing reference	585	W-Hol-64	W-Hol-124742
-Reference link to non-existing reference	586	W-Hol-64	W-Hol-124759
-Reference link to non-existing reference	588	W-Hol-64	W-Hol-124772
-Reference link to non-existing reference	592	W-Hol-64	W-Hol-124806
-Reference link to non-existing reference	602	W-Hol-64	W-Hol-152550
-Reference link to non-existing reference	622	W-Hol-146018	W-Hol-210832
-Reference link to non-existing reference	672	W-Hol-43056	W-Hol-247774
-Reference link to non-existing reference	684	W-Hol-133468	W-Hol-428726
-Reference link to non-existing reference	685	W-Hol-133468	W-Hol-428760
-Reference link to non-existing reference	692	W-Hol-64	W-Hol-124439
-Reference link to non-existing reference	693	W-Hol-64	W-Hol-124441
-Reference link to non-existing reference	699	W-Hol-64	W-Hol-124488
-Reference link to non-existing reference	700	W-Hol-64	W-Hol-124490
-Reference link to non-existing reference	702	W-Hol-64	W-Hol-124505
-Reference link to non-existing reference	703	W-Hol-64	W-Hol-124524
-Reference link to non-existing reference	706	W-Hol-64	W-Hol-124541
-Reference link to non-existing reference	710	W-Hol-145790	W-Hol-124581
-Reference link to non-existing reference	711	W-Hol-64	W-Hol-124590
-Reference link to non-existing reference	714	W-Hol-64	W-Hol-124605
-Reference link to non-existing reference	721	W-Hol-64	W-Hol-124690
-Reference link to non-existing reference	724	W-Hol-64	W-Hol-124705
-Reference link to non-existing reference	726	W-Hol-64	W-Hol-124724
-Reference link to non-existing reference	727	W-Hol-1153	W-Hol-124726
-Reference link to non-existing reference	729	W-Hol-64	W-Hol-124739
-Reference link to non-existing reference	730	W-Hol-64	W-Hol-124741
-Reference link to non-existing reference	734	W-Hol-64	W-Hol-124775
-Reference link to non-existing reference	735	W-Hol-64	W-Hol-124790
-Reference link to non-existing reference	741	W-Hol-64	W-Hol-152549
-Reference link to non-existing reference	793	W-Hol-133468	W-Hol-428578
-Reference link to non-existing reference	836	W-Hol-146018	W-Hol-529958
-Reference link to non-existing reference	842	W-Hol-64	W-Hol-124471
-Reference link to non-existing reference	844	W-Hol-64	W-Hol-124507
-Reference link to non-existing reference	845	W-Hol-64	W-Hol-124522
-Reference link to non-existing reference	847	W-Hol-64	W-Hol-124556
-Reference link to non-existing reference	848	W-Hol-64	W-Hol-124573
-Reference link to non-existing reference	854	W-Hol-64	W-Hol-124622
-Reference link to non-existing reference	860	W-Hol-64	W-Hol-124707
-Reference link to non-existing reference	862	W-Hol-64	W-Hol-124722
-Reference link to non-existing reference	863	W-Hol-64	W-Hol-124773
-Reference link to non-existing reference	871	W-Hol-42	W-Hol-158532
-Reference link to non-existing reference	877	W-Hol-6831	W-Hol-183336
-Reference link to non-existing reference	931	W-Hol-133468	W-Hol-428644
-Reference link to non-existing reference	932	W-Hol-133468	W-Hol-428759
-Reference link to non-existing reference	933	W-Hol-133468	W-Hol-428761
-Reference link to non-existing reference	972	W-Hol-145612	W-Hol-529798
-Reference link to non-existing reference	979	W-Hol-64	W-Hol-124431
-Reference link to non-existing reference	982	W-Hol-64	W-Hol-124513
-Reference link to non-existing reference	998	W-Hol-64	W-Hol-124781
-Reference link to non-existing reference	1001	W-Hol-64	W-Hol-149903
-Reference link to non-existing reference	1003	W-Hol-42	W-Hol-158488
-Reference link to non-existing reference	1020	W-Hol-146018	W-Hol-210841
-Reference link to non-existing reference	1036	W-Hol-146018	W-Hol-213181
-Reference link to non-existing reference	1052	W-Hol-146018	W-Hol-241843
-Reference link to non-existing reference	1061	W-Hol-43056	W-Hol-247749
-Reference link to non-existing reference	1072	W-Hol-133468	W-Hol-428636
-Reference link to non-existing reference	1100	W-Hol-146018	W-Hol-529130
-Reference link to non-existing reference	1106	W-Hol-64	W-Hol-124520
-Reference link to non-existing reference	1111	W-Hol-64	W-Hol-124695
-Reference link to non-existing reference	1112	W-Hol-64	W-Hol-124738
-Reference link to non-existing reference	1113	W-Hol-64	W-Hol-124763
-Reference link to non-existing reference	1123	W-Hol-6831	W-Hol-183014
-Reference link to non-existing reference	1124	W-Hol-6831	W-Hol-183321
-Reference link to non-existing reference	1160	W-Hol-146018	W-Hol-242057
-Reference link to non-existing reference	1172	W-Hol-133468	W-Hol-428765
-Reference link to non-existing reference	1174	W-Hol-145612	W-Hol-528767
-Reference link to non-existing reference	1204	W-Hol-64	W-Hol-124433
-Reference link to non-existing reference	1205	W-Hol-64	W-Hol-124447
-Reference link to non-existing reference	1209	W-Hol-64	W-Hol-124533
-Reference link to non-existing reference	1211	W-Hol-64	W-Hol-124583
-Reference link to non-existing reference	1212	W-Hol-64	W-Hol-124597
-Reference link to non-existing reference	1223	W-Hol-64	W-Hol-124732
-Reference link to non-existing reference	1224	W-Hol-64	W-Hol-124733
-Reference link to non-existing reference	1227	W-Hol-64	W-Hol-124747
-Reference link to non-existing reference	1230	W-Hol-64	W-Hol-125218
-Reference link to non-existing reference	1239	W-Hol-64	W-Hol-178813
-Reference link to non-existing reference	1240	W-Hol-6831	W-Hol-183227
-Reference link to non-existing reference	1277	W-Hol-145612	W-Hol-241816
-Reference link to non-existing reference	1288	W-Hol-43056	W-Hol-247769
-Reference link to non-existing reference	1326	W-Hol-64	W-Hol-178811
-Reference link to non-existing reference	1329	W-Hol-146018	W-Hol-210812
-Reference link to non-existing reference	1366	W-Hol-133468	W-Hol-428597
-Reference link to non-existing reference	1398	W-Hol-64	W-Hol-124579
-Reference link to non-existing reference	1400	W-Hol-64	W-Hol-124729
-Reference link to non-existing reference	1402	W-Hol-64	W-Hol-124779
-Reference link to non-existing reference	1403	W-Hol-64	W-Hol-124793
-Reference link to non-existing reference	1404	W-Hol-64	W-Hol-125222
-Reference link to non-existing reference	1443	W-Hol-146018	W-Hol-242091
-Reference link to non-existing reference	1448	W-Hol-133468	W-Hol-428638
-Reference link to non-existing reference	1488	W-Hol-146018	W-Hol-529368
-Reference link to non-existing reference	1494	W-Hol-64	W-Hol-124571
-Reference link to non-existing reference	1533	W-Hol-145612	W-Hol-241814
-Reference link to non-existing reference	1595	W-Hol-146018	W-Hol-530312
-Reference link to non-existing reference	1596	W-Hol-146018	W-Hol-530321
-Reference link to non-existing reference	1597	W-Hol-146018	W-Hol-530346
-Reference link to non-existing reference	1626	W-Hol-64	W-Hol-124469
-Reference link to non-existing reference	1630	W-Hol-64	W-Hol-124769
-Reference link to non-existing reference	1632	W-Hol-64	W-Hol-149762
-Reference link to non-existing reference	1633	W-Hol-64	W-Hol-152547
-Reference link to non-existing reference	1640	W-Hol-6831	W-Hol-183306
-Reference link to non-existing reference	1641	W-Hol-6831	W-Hol-183340
-Reference link to non-existing reference	1658	W-Hol-146018	W-Hol-241808
-Reference link to non-existing reference	1684	W-Hol-133468	W-Hol-428648
-Reference link to non-existing reference	1720	W-Hol-146018	W-Hol-530309
-Reference link to non-existing reference	1721	W-Hol-146018	W-Hol-530328
-Reference link to non-existing reference	1722	W-Hol-146018	W-Hol-530343
-Reference link to non-existing reference	1742	W-Hol-146018	W-Hol-732231
-Reference link to non-existing reference	1744	W-Hol-146018	W-Hol-732346
-Reference link to non-existing reference	1748	W-Hol-146018	W-Hol-732361
-Reference link to non-existing reference	1799	W-Hol-146018	W-Hol-530314
-Reference link to non-existing reference	1800	W-Hol-146018	W-Hol-530323
-Reference link to non-existing reference	1815	W-Hol-146018	W-Hol-530621
-Reference link to non-existing reference	1829	W-Hol-146018	W-Hol-732543
-Reference link to non-existing reference	1852	W-Hol-146018	W-Hol-530311
-Reference link to non-existing reference	1853	W-Hol-146018	W-Hol-530324
-Reference link to non-existing reference	1854	W-Hol-146018	W-Hol-530326
-Reference link to non-existing reference	1855	W-Hol-146018	W-Hol-530341
-Reference link to non-existing reference	1866	W-Hol-146018	W-Hol-530611
-Reference link to non-existing reference	1870	W-Hol-145790	W-Hol-530644
-Reference link to non-existing reference	1871	W-Hol-146018	W-Hol-530660
-Reference link to non-existing reference	1874	W-Hol-42	W-Hol-584815
-Reference link to non-existing reference	1876	W-Hol-146018	W-Hol-732212
-Reference link to non-existing reference	1877	W-Hol-146018	W-Hol-732214
-Reference link to non-existing reference	1943	W-Hol-146018	W-Hol-530335
-Reference link to non-existing reference	1963	W-Hol-146018	W-Hol-732237
-Reference link to non-existing reference	1984	W-Hol-146018	W-Hol-529334
-Reference link to non-existing reference	2014	W-Hol-146018	W-Hol-530313
-Reference link to non-existing reference	2015	W-Hol-146018	W-Hol-530320
-Reference link to non-existing reference	2016	W-Hol-146018	W-Hol-530338
-Reference link to non-existing reference	2038	W-Hol-146018	W-Hol-732226
-Reference link to non-existing reference	2047	W-Hol-146013	W-Hol-529207
-Reference link to non-existing reference	2051	W-Hol-146018	W-Hol-529266
-Reference link to non-existing reference	2057	W-Hol-146018	W-Hol-529367
-Reference link to non-existing reference	2089	W-Hol-146018	W-Hol-530316
-Reference link to non-existing reference	2090	W-Hol-146018	W-Hol-530317
-Reference link to non-existing reference	2091	W-Hol-146018	W-Hol-530334
-Reference link to non-existing reference	2131	W-Hol-146018	W-Hol-529129
-Reference link to non-existing reference	2187	W-Hol-146018	W-Hol-530336
-Reference link to non-existing reference	2204	W-Hol-146018	W-Hol-732339
-Reference link to non-existing reference	2268	W-Hol-146018	W-Hol-530332
-Reference link to non-existing reference	2269	W-Hol-146018	W-Hol-530339
-Reference link to non-existing reference	2287	W-Hol-146018	W-Hol-732227
-Reference link to non-existing reference	2327	W-Hol-146018	W-Hol-530340
-Reference link to non-existing reference	2328	W-Hol-146018	W-Hol-530347
-Reference link to non-existing reference	2356	W-Hol-146018	W-Hol-732542
-Reference link to non-existing reference	2395	W-Hol-145612	W-Hol-529797
-Reference link to non-existing reference	2423	W-Hol-146018	W-Hol-530308
-Reference link to non-existing reference	2424	W-Hol-146018	W-Hol-530325
-Reference link to non-existing reference	2425	W-Hol-146018	W-Hol-530342
-Reference link to non-existing reference	2435	W-Hol-146018	W-Hol-530610
-Reference link to non-existing reference	2440	W-Hol-42	W-Hol-584814
-Reference link to non-existing reference	2445	W-Hol-146018	W-Hol-732230
-Reference link to non-existing reference	2512	W-Hol-146018	W-Hol-530331
-Reference link to non-existing reference	2513	W-Hol-146018	W-Hol-530345
-Reference link to non-existing reference	2528	W-Hol-146018	W-Hol-530556
-Reference link to non-existing reference	2553	W-Hol-146018	W-Hol-529128
-Reference link to non-existing reference	2561	W-Hol-145612	W-Hol-529200
-Reference link to non-existing reference	2562	W-Hol-146013	W-Hol-529211
-Reference link to non-existing reference	2568	W-Hol-146018	W-Hol-529328
-Reference link to non-existing reference	2609	W-Hol-146018	W-Hol-530330
-Reference link to non-existing reference	2610	W-Hol-146018	W-Hol-530337
-Reference link to non-existing reference	2658	W-Hol-64	W-Hol-124461
-Reference link to non-existing reference	2662	W-Hol-44	W-Hol-147443
-Reference link to non-existing reference	2690	W-Hol-146018	W-Hol-242030
-Reference link to non-existing reference	2755	W-Hol-146018	W-Hol-530315
-Reference link to non-existing reference	2756	W-Hol-146018	W-Hol-530322
-Reference link to non-existing reference	2757	W-Hol-146018	W-Hol-530329
-Reference link to non-existing reference	2781	W-Hol-146018	W-Hol-530665
-Reference link to non-existing reference	2783	W-Hol-146018	W-Hol-732217
-Reference link to non-existing reference	2808	W-Hol-64	W-Hol-149761
-Reference link to non-existing reference	2824	W-Hol-146018	W-Hol-241820
-Reference link to non-existing reference	2832	W-Hol-145783	W-Hol-241939
-Reference link to non-existing reference	2883	W-Hol-145612	W-Hol-529799
-Reference link to non-existing reference	2909	W-Hol-146018	W-Hol-530310
-Reference link to non-existing reference	2910	W-Hol-146018	W-Hol-530327
-Reference link to non-existing reference	2911	W-Hol-146018	W-Hol-530344
-Reference link to non-existing reference	2925	W-Hol-145790	W-Hol-530643
-Reference link to non-existing reference	2949	W-Hol-64	W-Hol-149900
-Reference link to non-existing reference	2990	W-Hol-145612	W-Hol-528768
-Reference link to non-existing reference	2991	W-Hol-145612	W-Hol-528769
-Reference link to non-existing reference	3029	W-Hol-146018	W-Hol-529196
-Reference link to non-existing reference	3036	W-Hol-146018	W-Hol-529282
-Reference link to non-existing reference	3037	W-Hol-146018	W-Hol-529283
-Reference link to non-existing reference	3067	W-Hol-140261	W-Hol-530027
-Reference link to non-existing reference	3087	W-Hol-146018	W-Hol-530318
-Reference link to non-existing reference	3088	W-Hol-146018	W-Hol-530319
-Reference link to non-existing reference	3089	W-Hol-146018	W-Hol-530333
-Reference link to non-existing reference	3111	W-Hol-146018	W-Hol-530619
-Reference link to non-existing reference	3115	W-Hol-146018	W-Hol-732221
+Reference link to non-existing reference	18	W-Hol-147411	W-Hol-124593
+Reference link to non-existing reference	19	W-Hol-147411	W-Hol-124462
+Reference link to non-existing reference	20	W-Hol-147411	W-Hol-149898
+Reference link to non-existing reference	21	W-Hol-147411	W-Hol-124455
+Reference link to non-existing reference	23	W-Hol-147411	W-Hol-124448
+Reference link to non-existing reference	24	W-Hol-147411	W-Hol-124670
+Reference link to non-existing reference	26	W-Hol-147411	W-Hol-124612
+Reference link to non-existing reference	27	W-Hol-147411	W-Hol-124653
+Reference link to non-existing reference	28	W-Hol-141968	W-Hol-125181
+Reference link to non-existing reference	29	W-Hol-147411	W-Hol-124681
+Reference link to non-existing reference	30	W-Hol-147411	W-Hol-124544
+Reference link to non-existing reference	31	W-Hol-141968	W-Hol-241876
+Reference link to non-existing reference	32	W-Hol-147411	W-Hol-124465
+Reference link to non-existing reference	33	W-Hol-141968	W-Hol-367868
+Reference link to non-existing reference	34	W-Hol-147411	W-Hol-124645
+Reference link to non-existing reference	35	W-Hol-147411	W-Hol-124463
+Reference link to non-existing reference	36	W-Hol-1368	W-Hol-124431
+Reference link to non-existing reference	39	W-Hol-1368	W-Hol-124445
+Reference link to non-existing reference	42	W-Hol-1368	W-Hol-124456
+Reference link to non-existing reference	43	W-Hol-64	W-Hol-124459
+Reference link to non-existing reference	44	W-Hol-64	W-Hol-124484
+Reference link to non-existing reference	45	W-Hol-1368	W-Hol-124495
+Reference link to non-existing reference	47	W-Hol-1368	W-Hol-124513
+Reference link to non-existing reference	48	W-Hol-1368	W-Hol-124520
+Reference link to non-existing reference	49	W-Hol-1368	W-Hol-124524
+Reference link to non-existing reference	50	W-Hol-64	W-Hol-124527
+Reference link to non-existing reference	53	W-Hol-1368	W-Hol-124538
+Reference link to non-existing reference	54	W-Hol-1368	W-Hol-124563
+Reference link to non-existing reference	56	W-Hol-64	W-Hol-124570
+Reference link to non-existing reference	57	W-Hol-1368	W-Hol-124581
+Reference link to non-existing reference	58	W-Hol-1368	W-Hol-124588
+Reference link to non-existing reference	60	W-Hol-64	W-Hol-124595
+Reference link to non-existing reference	61	W-Hol-1368	W-Hol-124606
+Reference link to non-existing reference	62	W-Hol-64	W-Hol-124609
+Reference link to non-existing reference	64	W-Hol-146018	W-Hol-124619
+Reference link to non-existing reference	65	W-Hol-64	W-Hol-124620
+Reference link to non-existing reference	66	W-Hol-1368	W-Hol-124631
+Reference link to non-existing reference	67	W-Hol-64	W-Hol-124634
+Reference link to non-existing reference	69	W-Hol-64	W-Hol-124638
+Reference link to non-existing reference	70	W-Hol-1368	W-Hol-124656
+Reference link to non-existing reference	72	W-Hol-1368	W-Hol-124674
+Reference link to non-existing reference	75	W-Hol-64	W-Hol-124688
+Reference link to non-existing reference	77	W-Hol-1368	W-Hol-124699
+Reference link to non-existing reference	79	W-Hol-64	W-Hol-124702
+Reference link to non-existing reference	82	W-Hol-1368	W-Hol-124724
+Reference link to non-existing reference	84	W-Hol-1153	W-Hol-124731
+Reference link to non-existing reference	88	W-Hol-1368	W-Hol-124738
+Reference link to non-existing reference	89	W-Hol-64	W-Hol-124745
+Reference link to non-existing reference	90	W-Hol-64	W-Hol-124752
+Reference link to non-existing reference	93	W-Hol-1368	W-Hol-124763
+Reference link to non-existing reference	94	W-Hol-64	W-Hol-124770
+Reference link to non-existing reference	96	W-Hol-42	W-Hol-124782
+Reference link to non-existing reference	98	W-Hol-1368	W-Hol-124788
+Reference link to non-existing reference	99	W-Hol-64	W-Hol-124795
+Reference link to non-existing reference	101	W-Hol-1368	W-Hol-124806
+Reference link to non-existing reference	102	W-Hol-1368	W-Hol-125256
+Reference link to non-existing reference	107	W-Hol-64	W-Hol-152553
+Reference link to non-existing reference	118	W-Hol-64	W-Hol-178811
+Reference link to non-existing reference	124	W-Hol-146018	W-Hol-210812
+Reference link to non-existing reference	175	W-Hol-47563	W-Hol-292992
+Reference link to non-existing reference	190	W-Hol-133468	W-Hol-428597
+Reference link to non-existing reference	221	W-Hol-64	W-Hol-124438
+Reference link to non-existing reference	222	W-Hol-1368	W-Hol-124444
+Reference link to non-existing reference	224	W-Hol-1368	W-Hol-124461
+Reference link to non-existing reference	226	W-Hol-64	W-Hol-124472
+Reference link to non-existing reference	227	W-Hol-1368	W-Hol-124474
+Reference link to non-existing reference	228	W-Hol-1368	W-Hol-124478
+Reference link to non-existing reference	229	W-Hol-64	W-Hol-124489
+Reference link to non-existing reference	230	W-Hol-1368	W-Hol-124491
+Reference link to non-existing reference	231	W-Hol-1368	W-Hol-124508
+Reference link to non-existing reference	233	W-Hol-64	W-Hol-124523
+Reference link to non-existing reference	235	W-Hol-1368	W-Hol-124542
+Reference link to non-existing reference	236	W-Hol-145790	W-Hol-124548
+Reference link to non-existing reference	237	W-Hol-1368	W-Hol-124559
+Reference link to non-existing reference	239	W-Hol-1368	W-Hol-124576
+Reference link to non-existing reference	244	W-Hol-64	W-Hol-124608
+Reference link to non-existing reference	245	W-Hol-1368	W-Hol-124610
+Reference link to non-existing reference	247	W-Hol-64	W-Hol-124625
+Reference link to non-existing reference	248	W-Hol-1368	W-Hol-124627
+Reference link to non-existing reference	249	W-Hol-1368	W-Hol-124644
+Reference link to non-existing reference	252	W-Hol-1368	W-Hol-124678
+Reference link to non-existing reference	253	W-Hol-1368	W-Hol-124695
+Reference link to non-existing reference	254	W-Hol-64	W-Hol-124706
+Reference link to non-existing reference	255	W-Hol-1368	W-Hol-124708
+Reference link to non-existing reference	256	W-Hol-64	W-Hol-124723
+Reference link to non-existing reference	257	W-Hol-1368	W-Hol-124725
+Reference link to non-existing reference	259	W-Hol-64	W-Hol-124740
+Reference link to non-existing reference	260	W-Hol-1368	W-Hol-124742
+Reference link to non-existing reference	261	W-Hol-64	W-Hol-124757
+Reference link to non-existing reference	262	W-Hol-64	W-Hol-124774
+Reference link to non-existing reference	263	W-Hol-1368	W-Hol-124776
+Reference link to non-existing reference	265	W-Hol-64	W-Hol-124791
+Reference link to non-existing reference	266	W-Hol-1368	W-Hol-124793
+Reference link to non-existing reference	268	W-Hol-64	W-Hol-124808
+Reference link to non-existing reference	269	W-Hol-1368	W-Hol-124810
+Reference link to non-existing reference	275	W-Hol-64	W-Hol-149761
+Reference link to non-existing reference	276	W-Hol-64	W-Hol-149774
+Reference link to non-existing reference	278	W-Hol-64	W-Hol-152552
+Reference link to non-existing reference	279	W-Hol-64	W-Hol-152565
+Reference link to non-existing reference	298	W-Hol-146018	W-Hol-210868
+Reference link to non-existing reference	317	W-Hol-146018	W-Hol-214676
+Reference link to non-existing reference	325	W-Hol-146018	W-Hol-241820
+Reference link to non-existing reference	334	W-Hol-145783	W-Hol-241939
+Reference link to non-existing reference	354	W-Hol-133468	W-Hol-428762
+Reference link to non-existing reference	397	W-Hol-64	W-Hol-124442
+Reference link to non-existing reference	398	W-Hol-64	W-Hol-124451
+Reference link to non-existing reference	399	W-Hol-1368	W-Hol-124457
+Reference link to non-existing reference	400	W-Hol-64	W-Hol-124476
+Reference link to non-existing reference	402	W-Hol-1368	W-Hol-124482
+Reference link to non-existing reference	403	W-Hol-64	W-Hol-124485
+Reference link to non-existing reference	404	W-Hol-1368	W-Hol-124487
+Reference link to non-existing reference	407	W-Hol-64	W-Hol-124510
+Reference link to non-existing reference	409	W-Hol-1368	W-Hol-124512
+Reference link to non-existing reference	410	W-Hol-64	W-Hol-124519
+Reference link to non-existing reference	411	W-Hol-1368	W-Hol-124521
+Reference link to non-existing reference	412	W-Hol-1368	W-Hol-124546
+Reference link to non-existing reference	413	W-Hol-1368	W-Hol-124555
+Reference link to non-existing reference	414	W-Hol-64	W-Hol-124578
+Reference link to non-existing reference	415	W-Hol-1368	W-Hol-124580
+Reference link to non-existing reference	416	W-Hol-64	W-Hol-124587
+Reference link to non-existing reference	417	W-Hol-1368	W-Hol-124614
+Reference link to non-existing reference	418	W-Hol-64	W-Hol-124621
+Reference link to non-existing reference	419	W-Hol-1368	W-Hol-124623
+Reference link to non-existing reference	421	W-Hol-64	W-Hol-124646
+Reference link to non-existing reference	422	W-Hol-1368	W-Hol-124648
+Reference link to non-existing reference	423	W-Hol-64	W-Hol-124651
+Reference link to non-existing reference	424	W-Hol-1368	W-Hol-124657
+Reference link to non-existing reference	425	W-Hol-1368	W-Hol-124682
+Reference link to non-existing reference	426	W-Hol-1368	W-Hol-124687
+Reference link to non-existing reference	427	W-Hol-1368	W-Hol-124691
+Reference link to non-existing reference	428	W-Hol-1368	W-Hol-124716
+Reference link to non-existing reference	429	W-Hol-64	W-Hol-124719
+Reference link to non-existing reference	430	W-Hol-1368	W-Hol-124721
+Reference link to non-existing reference	431	W-Hol-64	W-Hol-124744
+Reference link to non-existing reference	432	W-Hol-1368	W-Hol-124746
+Reference link to non-existing reference	433	W-Hol-64	W-Hol-124753
+Reference link to non-existing reference	434	W-Hol-1368	W-Hol-124755
+Reference link to non-existing reference	438	W-Hol-64	W-Hol-124778
+Reference link to non-existing reference	439	W-Hol-1368	W-Hol-124780
+Reference link to non-existing reference	440	W-Hol-64	W-Hol-124787
+Reference link to non-existing reference	445	W-Hol-1368	W-Hol-125184
+Reference link to non-existing reference	446	W-Hol-64	W-Hol-125187
+Reference link to non-existing reference	447	W-Hol-1368	W-Hol-125189
+Reference link to non-existing reference	449	W-Hol-64	W-Hol-125255
+Reference link to non-existing reference	450	W-Hol-1368	W-Hol-125257
+Reference link to non-existing reference	451	W-Hol-44	W-Hol-147444
+Reference link to non-existing reference	456	W-Hol-42	W-Hol-148799
+Reference link to non-existing reference	457	W-Hol-64	W-Hol-152556
+Reference link to non-existing reference	474	W-Hol-146018	W-Hol-210847
+Reference link to non-existing reference	485	W-Hol-146018	W-Hol-210970
+Reference link to non-existing reference	515	W-Hol-43056	W-Hol-247763
+Reference link to non-existing reference	516	W-Hol-43056	W-Hol-247772
+Reference link to non-existing reference	524	W-Hol-146018	W-Hol-422525
+Reference link to non-existing reference	526	W-Hol-133468	W-Hol-428805
+Reference link to non-existing reference	527	W-Hol-141756	W-Hol-474834
+Reference link to non-existing reference	557	W-Hol-1368	W-Hol-124440
+Reference link to non-existing reference	558	W-Hol-64	W-Hol-124443
+Reference link to non-existing reference	559	W-Hol-1368	W-Hol-124454
+Reference link to non-existing reference	561	W-Hol-64	W-Hol-124486
+Reference link to non-existing reference	563	W-Hol-1368	W-Hol-124490
+Reference link to non-existing reference	564	W-Hol-64	W-Hol-124493
+Reference link to non-existing reference	565	W-Hol-1368	W-Hol-124497
+Reference link to non-existing reference	568	W-Hol-64	W-Hol-124536
+Reference link to non-existing reference	569	W-Hol-64	W-Hol-124543
+Reference link to non-existing reference	570	W-Hol-1368	W-Hol-124547
+Reference link to non-existing reference	572	W-Hol-1368	W-Hol-124554
+Reference link to non-existing reference	575	W-Hol-64	W-Hol-124579
+Reference link to non-existing reference	576	W-Hol-64	W-Hol-124586
+Reference link to non-existing reference	577	W-Hol-1368	W-Hol-124590
+Reference link to non-existing reference	578	W-Hol-1368	W-Hol-124597
+Reference link to non-existing reference	579	W-Hol-1368	W-Hol-124604
+Reference link to non-existing reference	581	W-Hol-64	W-Hol-124629
+Reference link to non-existing reference	582	W-Hol-1368	W-Hol-124647
+Reference link to non-existing reference	583	W-Hol-1368	W-Hol-124654
+Reference link to non-existing reference	585	W-Hol-1368	W-Hol-124690
+Reference link to non-existing reference	586	W-Hol-1368	W-Hol-124697
+Reference link to non-existing reference	587	W-Hol-1368	W-Hol-124704
+Reference link to non-existing reference	589	W-Hol-64	W-Hol-124729
+Reference link to non-existing reference	590	W-Hol-64	W-Hol-124736
+Reference link to non-existing reference	591	W-Hol-64	W-Hol-124743
+Reference link to non-existing reference	592	W-Hol-1368	W-Hol-124747
+Reference link to non-existing reference	593	W-Hol-1368	W-Hol-124754
+Reference link to non-existing reference	596	W-Hol-64	W-Hol-124779
+Reference link to non-existing reference	597	W-Hol-1368	W-Hol-124783
+Reference link to non-existing reference	598	W-Hol-1368	W-Hol-124790
+Reference link to non-existing reference	599	W-Hol-1368	W-Hol-124804
+Reference link to non-existing reference	600	W-Hol-64	W-Hol-125179
+Reference link to non-existing reference	602	W-Hol-64	W-Hol-125222
+Reference link to non-existing reference	660	W-Hol-146018	W-Hol-242091
+Reference link to non-existing reference	669	W-Hol-133468	W-Hol-428638
+Reference link to non-existing reference	672	W-Hol-133468	W-Hol-428781
+Reference link to non-existing reference	710	W-Hol-146018	W-Hol-529368
+Reference link to non-existing reference	715	W-Hol-64	W-Hol-124464
+Reference link to non-existing reference	716	W-Hol-1368	W-Hol-124469
+Reference link to non-existing reference	717	W-Hol-1368	W-Hol-124483
+Reference link to non-existing reference	719	W-Hol-64	W-Hol-124514
+Reference link to non-existing reference	720	W-Hol-1368	W-Hol-124518
+Reference link to non-existing reference	721	W-Hol-64	W-Hol-124564
+Reference link to non-existing reference	723	W-Hol-1368	W-Hol-124569
+Reference link to non-existing reference	725	W-Hol-1368	W-Hol-124583
+Reference link to non-existing reference	727	W-Hol-64	W-Hol-124600
+Reference link to non-existing reference	729	W-Hol-64	W-Hol-124615
+Reference link to non-existing reference	730	W-Hol-1368	W-Hol-124618
+Reference link to non-existing reference	732	W-Hol-1368	W-Hol-124633
+Reference link to non-existing reference	733	W-Hol-64	W-Hol-124650
+Reference link to non-existing reference	734	W-Hol-64	W-Hol-124664
+Reference link to non-existing reference	735	W-Hol-64	W-Hol-124665
+Reference link to non-existing reference	736	W-Hol-1368	W-Hol-124668
+Reference link to non-existing reference	737	W-Hol-1368	W-Hol-124669
+Reference link to non-existing reference	739	W-Hol-1368	W-Hol-124683
+Reference link to non-existing reference	741	W-Hol-64	W-Hol-124714
+Reference link to non-existing reference	742	W-Hol-64	W-Hol-124715
+Reference link to non-existing reference	743	W-Hol-1368	W-Hol-124718
+Reference link to non-existing reference	744	W-Hol-1368	W-Hol-124768
+Reference link to non-existing reference	745	W-Hol-1368	W-Hol-124769
+Reference link to non-existing reference	747	W-Hol-64	W-Hol-124800
+Reference link to non-existing reference	748	W-Hol-1368	W-Hol-125218
+Reference link to non-existing reference	750	W-Hol-64	W-Hol-149786
+Reference link to non-existing reference	752	W-Hol-64	W-Hol-149900
+Reference link to non-existing reference	754	W-Hol-64	W-Hol-152559
+Reference link to non-existing reference	781	W-Hol-146018	W-Hol-210825
+Reference link to non-existing reference	799	W-Hol-146018	W-Hol-211010
+Reference link to non-existing reference	822	W-Hol-43056	W-Hol-247751
+Reference link to non-existing reference	823	W-Hol-43056	W-Hol-247766
+Reference link to non-existing reference	838	W-Hol-145612	W-Hol-528768
+Reference link to non-existing reference	839	W-Hol-145612	W-Hol-528769
+Reference link to non-existing reference	867	W-Hol-1368	W-Hol-124429
+Reference link to non-existing reference	869	W-Hol-1368	W-Hol-124529
+Reference link to non-existing reference	870	W-Hol-1368	W-Hol-124572
+Reference link to non-existing reference	873	W-Hol-1368	W-Hol-124622
+Reference link to non-existing reference	876	W-Hol-64	W-Hol-124711
+Reference link to non-existing reference	877	W-Hol-1368	W-Hol-124722
+Reference link to non-existing reference	878	W-Hol-64	W-Hol-124761
+Reference link to non-existing reference	879	W-Hol-1368	W-Hol-124772
+Reference link to non-existing reference	880	W-Hol-64	W-Hol-124811
+Reference link to non-existing reference	881	W-Hol-44	W-Hol-147443
+Reference link to non-existing reference	895	W-Hol-146018	W-Hol-210814
+Reference link to non-existing reference	896	W-Hol-146018	W-Hol-210821
+Reference link to non-existing reference	933	W-Hol-146018	W-Hol-242030
+Reference link to non-existing reference	939	W-Hol-43056	W-Hol-247762
+Reference link to non-existing reference	990	W-Hol-64	W-Hol-124439
+Reference link to non-existing reference	991	W-Hol-64	W-Hol-124441
+Reference link to non-existing reference	992	W-Hol-1368	W-Hol-124458
+Reference link to non-existing reference	995	W-Hol-64	W-Hol-124475
+Reference link to non-existing reference	997	W-Hol-1368	W-Hol-124494
+Reference link to non-existing reference	999	W-Hol-64	W-Hol-124505
+Reference link to non-existing reference	1000	W-Hol-1368	W-Hol-124509
+Reference link to non-existing reference	1002	W-Hol-64	W-Hol-124541
+Reference link to non-existing reference	1003	W-Hol-1368	W-Hol-124592
+Reference link to non-existing reference	1005	W-Hol-64	W-Hol-124639
+Reference link to non-existing reference	1006	W-Hol-1368	W-Hol-124643
+Reference link to non-existing reference	1007	W-Hol-1368	W-Hol-124658
+Reference link to non-existing reference	1008	W-Hol-1368	W-Hol-124692
+Reference link to non-existing reference	1009	W-Hol-64	W-Hol-124705
+Reference link to non-existing reference	1010	W-Hol-1153	W-Hol-124726
+Reference link to non-existing reference	1011	W-Hol-64	W-Hol-124739
+Reference link to non-existing reference	1012	W-Hol-64	W-Hol-124741
+Reference link to non-existing reference	1013	W-Hol-1368	W-Hol-124758
+Reference link to non-existing reference	1014	W-Hol-64	W-Hol-124775
+Reference link to non-existing reference	1015	W-Hol-1368	W-Hol-124794
+Reference link to non-existing reference	1016	W-Hol-1368	W-Hol-124809
+Reference link to non-existing reference	1020	W-Hol-64	W-Hol-149760
+Reference link to non-existing reference	1022	W-Hol-64	W-Hol-152549
+Reference link to non-existing reference	1076	W-Hol-133468	W-Hol-428578
+Reference link to non-existing reference	1119	W-Hol-146018	W-Hol-529958
+Reference link to non-existing reference	1123	W-Hol-1368	W-Hol-124435
+Reference link to non-existing reference	1124	W-Hol-42	W-Hol-124446
+Reference link to non-existing reference	1125	W-Hol-1368	W-Hol-124449
+Reference link to non-existing reference	1126	W-Hol-1368	W-Hol-124452
+Reference link to non-existing reference	1127	W-Hol-1368	W-Hol-124466
+Reference link to non-existing reference	1129	W-Hol-64	W-Hol-124481
+Reference link to non-existing reference	1130	W-Hol-64	W-Hol-124498
+Reference link to non-existing reference	1131	W-Hol-1368	W-Hol-124517
+Reference link to non-existing reference	1133	W-Hol-64	W-Hol-124599
+Reference link to non-existing reference	1134	W-Hol-1368	W-Hol-124602
+Reference link to non-existing reference	1136	W-Hol-64	W-Hol-124617
+Reference link to non-existing reference	1138	W-Hol-64	W-Hol-124684
+Reference link to non-existing reference	1139	W-Hol-1368	W-Hol-124703
+Reference link to non-existing reference	1140	W-Hol-1368	W-Hol-124720
+Reference link to non-existing reference	1141	W-Hol-64	W-Hol-124748
+Reference link to non-existing reference	1142	W-Hol-64	W-Hol-124749
+Reference link to non-existing reference	1145	W-Hol-1368	W-Hol-124767
+Reference link to non-existing reference	1146	W-Hol-1368	W-Hol-124784
+Reference link to non-existing reference	1147	W-Hol-1368	W-Hol-124785
+Reference link to non-existing reference	1148	W-Hol-64	W-Hol-124799
+Reference link to non-existing reference	1149	W-Hol-1368	W-Hol-125188
+Reference link to non-existing reference	1150	W-Hol-64	W-Hol-125217
+Reference link to non-existing reference	1151	W-Hol-1368	W-Hol-125235
+Reference link to non-existing reference	1155	W-Hol-44	W-Hol-151528
+Reference link to non-existing reference	1156	W-Hol-64	W-Hol-152560
+Reference link to non-existing reference	1192	W-Hol-145612	W-Hol-241815
+Reference link to non-existing reference	1200	W-Hol-43056	W-Hol-247767
+Reference link to non-existing reference	1212	W-Hol-133468	W-Hol-428804
+Reference link to non-existing reference	1243	W-Hol-1368	W-Hol-124556
+Reference link to non-existing reference	1244	W-Hol-1368	W-Hol-124574
+Reference link to non-existing reference	1249	W-Hol-64	W-Hol-152571
+Reference link to non-existing reference	1260	W-Hol-6831	W-Hol-183321
+Reference link to non-existing reference	1297	W-Hol-146018	W-Hol-242057
+Reference link to non-existing reference	1306	W-Hol-133468	W-Hol-428765
+Reference link to non-existing reference	1307	W-Hol-141756	W-Hol-474819
+Reference link to non-existing reference	1309	W-Hol-145612	W-Hol-528767
+Reference link to non-existing reference	1346	W-Hol-1368	W-Hol-124561
+Reference link to non-existing reference	1348	W-Hol-1368	W-Hol-124642
+Reference link to non-existing reference	1349	W-Hol-1368	W-Hol-124659
+Reference link to non-existing reference	1355	W-Hol-1368	W-Hol-124812
+Reference link to non-existing reference	1356	W-Hol-1368	W-Hol-125178
+Reference link to non-existing reference	1360	W-Hol-64	W-Hol-152550
+Reference link to non-existing reference	1408	W-Hol-43056	W-Hol-247774
+Reference link to non-existing reference	1416	W-Hol-133468	W-Hol-428760
+Reference link to non-existing reference	1425	W-Hol-64	W-Hol-124582
+Reference link to non-existing reference	1426	W-Hol-1368	W-Hol-124636
+Reference link to non-existing reference	1427	W-Hol-1368	W-Hol-124701
+Reference link to non-existing reference	1428	W-Hol-1368	W-Hol-124737
+Reference link to non-existing reference	1429	W-Hol-1368	W-Hol-124751
+Reference link to non-existing reference	1431	W-Hol-1368	W-Hol-125236
+Reference link to non-existing reference	1432	W-Hol-1368	W-Hol-125237
+Reference link to non-existing reference	1439	W-Hol-64	W-Hol-178813
+Reference link to non-existing reference	1440	W-Hol-6831	W-Hol-183227
+Reference link to non-existing reference	1443	W-Hol-6831	W-Hol-183341
+Reference link to non-existing reference	1470	W-Hol-145612	W-Hol-241816
+Reference link to non-existing reference	1506	W-Hol-1368	W-Hol-124496
+Reference link to non-existing reference	1509	W-Hol-64	W-Hol-124571
+Reference link to non-existing reference	1510	W-Hol-1368	W-Hol-124598
+Reference link to non-existing reference	1512	W-Hol-1368	W-Hol-124632
+Reference link to non-existing reference	1513	W-Hol-1368	W-Hol-124662
+Reference link to non-existing reference	1514	W-Hol-64	W-Hol-124735
+Reference link to non-existing reference	1515	W-Hol-1368	W-Hol-124796
+Reference link to non-existing reference	1549	W-Hol-145612	W-Hol-241814
+Reference link to non-existing reference	1582	W-Hol-1368	W-Hol-124566
+Reference link to non-existing reference	1583	W-Hol-1368	W-Hol-124667
+Reference link to non-existing reference	1584	W-Hol-1368	W-Hol-125238
+Reference link to non-existing reference	1614	W-Hol-146018	W-Hol-241843
+Reference link to non-existing reference	1631	W-Hol-133468	W-Hol-428636
+Reference link to non-existing reference	1632	W-Hol-133468	W-Hol-428637
+Reference link to non-existing reference	1659	W-Hol-146018	W-Hol-529130
+Reference link to non-existing reference	1663	W-Hol-1368	W-Hol-124689
+Reference link to non-existing reference	1674	W-Hol-146018	W-Hol-210870
+Reference link to non-existing reference	1692	W-Hol-146018	W-Hol-242031
+Reference link to non-existing reference	1719	W-Hol-146013	W-Hol-529127
+Reference link to non-existing reference	1732	W-Hol-64	W-Hol-124526
+Reference link to non-existing reference	1733	W-Hol-1368	W-Hol-124573
+Reference link to non-existing reference	1734	W-Hol-64	W-Hol-124660
+Reference link to non-existing reference	1735	W-Hol-1368	W-Hol-124666
+Reference link to non-existing reference	1737	W-Hol-64	W-Hol-149762
+Reference link to non-existing reference	1738	W-Hol-64	W-Hol-152547
+Reference link to non-existing reference	1744	W-Hol-6831	W-Hol-183306
+Reference link to non-existing reference	1745	W-Hol-6831	W-Hol-183340
+Reference link to non-existing reference	1760	W-Hol-146018	W-Hol-241808
+Reference link to non-existing reference	1782	W-Hol-133468	W-Hol-428648
+Reference link to non-existing reference	1830	W-Hol-146018	W-Hol-530340
+Reference link to non-existing reference	1831	W-Hol-146018	W-Hol-530347
+Reference link to non-existing reference	1859	W-Hol-146018	W-Hol-732542
+Reference link to non-existing reference	1865	W-Hol-145612	W-Hol-529799
+Reference link to non-existing reference	1892	W-Hol-146018	W-Hol-530310
+Reference link to non-existing reference	1893	W-Hol-146018	W-Hol-530327
+Reference link to non-existing reference	1894	W-Hol-146018	W-Hol-530344
+Reference link to non-existing reference	1908	W-Hol-145790	W-Hol-530643
+Reference link to non-existing reference	1986	W-Hol-146018	W-Hol-530331
+Reference link to non-existing reference	1987	W-Hol-146018	W-Hol-530345
+Reference link to non-existing reference	2004	W-Hol-146018	W-Hol-530556
+Reference link to non-existing reference	2057	W-Hol-146018	W-Hol-530314
+Reference link to non-existing reference	2058	W-Hol-146018	W-Hol-530323
+Reference link to non-existing reference	2073	W-Hol-146018	W-Hol-530621
+Reference link to non-existing reference	2087	W-Hol-146018	W-Hol-732543
+Reference link to non-existing reference	2109	W-Hol-146018	W-Hol-530315
+Reference link to non-existing reference	2110	W-Hol-146018	W-Hol-530322
+Reference link to non-existing reference	2111	W-Hol-146018	W-Hol-530329
+Reference link to non-existing reference	2135	W-Hol-146018	W-Hol-530665
+Reference link to non-existing reference	2137	W-Hol-146018	W-Hol-732217
+Reference link to non-existing reference	2178	W-Hol-146018	W-Hol-530309
+Reference link to non-existing reference	2179	W-Hol-146018	W-Hol-530328
+Reference link to non-existing reference	2180	W-Hol-146018	W-Hol-530343
+Reference link to non-existing reference	2200	W-Hol-146018	W-Hol-732231
+Reference link to non-existing reference	2202	W-Hol-146018	W-Hol-732346
+Reference link to non-existing reference	2206	W-Hol-146018	W-Hol-732361
+Reference link to non-existing reference	2226	W-Hol-146018	W-Hol-529334
+Reference link to non-existing reference	2256	W-Hol-146018	W-Hol-530313
+Reference link to non-existing reference	2257	W-Hol-146018	W-Hol-530320
+Reference link to non-existing reference	2258	W-Hol-146018	W-Hol-530338
+Reference link to non-existing reference	2280	W-Hol-146018	W-Hol-732226
+Reference link to non-existing reference	2340	W-Hol-146018	W-Hol-530332
+Reference link to non-existing reference	2341	W-Hol-146018	W-Hol-530339
+Reference link to non-existing reference	2359	W-Hol-146018	W-Hol-732227
+Reference link to non-existing reference	2380	W-Hol-146018	W-Hol-529196
+Reference link to non-existing reference	2387	W-Hol-146018	W-Hol-529282
+Reference link to non-existing reference	2388	W-Hol-146018	W-Hol-529283
+Reference link to non-existing reference	2418	W-Hol-140261	W-Hol-530027
+Reference link to non-existing reference	2438	W-Hol-146018	W-Hol-530318
+Reference link to non-existing reference	2439	W-Hol-146018	W-Hol-530319
+Reference link to non-existing reference	2440	W-Hol-146018	W-Hol-530333
+Reference link to non-existing reference	2462	W-Hol-146018	W-Hol-530619
+Reference link to non-existing reference	2466	W-Hol-146018	W-Hol-732221
+Reference link to non-existing reference	2489	W-Hol-146018	W-Hol-529129
+Reference link to non-existing reference	2545	W-Hol-146018	W-Hol-530336
+Reference link to non-existing reference	2562	W-Hol-146018	W-Hol-732339
+Reference link to non-existing reference	2628	W-Hol-146018	W-Hol-530335
+Reference link to non-existing reference	2647	W-Hol-146018	W-Hol-732237
+Reference link to non-existing reference	2692	W-Hol-146018	W-Hol-530312
+Reference link to non-existing reference	2693	W-Hol-146018	W-Hol-530321
+Reference link to non-existing reference	2694	W-Hol-146018	W-Hol-530346
+Reference link to non-existing reference	2724	W-Hol-146013	W-Hol-529207
+Reference link to non-existing reference	2728	W-Hol-146018	W-Hol-529266
+Reference link to non-existing reference	2734	W-Hol-146018	W-Hol-529367
+Reference link to non-existing reference	2767	W-Hol-146018	W-Hol-530316
+Reference link to non-existing reference	2768	W-Hol-146018	W-Hol-530317
+Reference link to non-existing reference	2769	W-Hol-146018	W-Hol-530334
+Reference link to non-existing reference	2838	W-Hol-145612	W-Hol-529797
+Reference link to non-existing reference	2866	W-Hol-146018	W-Hol-530308
+Reference link to non-existing reference	2867	W-Hol-146018	W-Hol-530325
+Reference link to non-existing reference	2868	W-Hol-146018	W-Hol-530342
+Reference link to non-existing reference	2878	W-Hol-146018	W-Hol-530610
+Reference link to non-existing reference	2883	W-Hol-42	W-Hol-584814
+Reference link to non-existing reference	2888	W-Hol-146018	W-Hol-732230
+Reference link to non-existing reference	2908	W-Hol-146018	W-Hol-529128
+Reference link to non-existing reference	2916	W-Hol-145612	W-Hol-529200
+Reference link to non-existing reference	2917	W-Hol-146013	W-Hol-529211
+Reference link to non-existing reference	2923	W-Hol-146018	W-Hol-529328
+Reference link to non-existing reference	2965	W-Hol-146018	W-Hol-530330
+Reference link to non-existing reference	2966	W-Hol-146018	W-Hol-530337
+Reference link to non-existing reference	3040	W-Hol-133468	W-Hol-428761
+Reference link to non-existing reference	3078	W-Hol-145612	W-Hol-529798
+Reference link to non-existing reference	3101	W-Hol-146018	W-Hol-530311
+Reference link to non-existing reference	3102	W-Hol-146018	W-Hol-530324
+Reference link to non-existing reference	3103	W-Hol-146018	W-Hol-530326
+Reference link to non-existing reference	3104	W-Hol-146018	W-Hol-530341
+Reference link to non-existing reference	3114	W-Hol-146018	W-Hol-530611
+Reference link to non-existing reference	3118	W-Hol-145790	W-Hol-530644
+Reference link to non-existing reference	3119	W-Hol-146018	W-Hol-530660
+Reference link to non-existing reference	3122	W-Hol-42	W-Hol-584815
+Reference link to non-existing reference	3124	W-Hol-146018	W-Hol-732212
+Reference link to non-existing reference	3125	W-Hol-146018	W-Hol-732214
 --------------
-SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code FROM specialists AS t1
+SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code 
+FROM specialists AS t1
 LEFT JOIN scientific_names AS t2 ON t1.specialist_code = t2.specialist_code
 WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code FROM `references` AS t1
+SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code 
+FROM `references` AS t1
 LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
 LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
 WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
 --------------
 
 Reference without parent accepted or common name	record_id	author	year	title	reference_code
+Reference without parent accepted or common name	6	Norman, A.M.	1869	NULL	W-Hol-504
 Reference without parent accepted or common name	7	Hayward, P.J.; Nelson-Smith, A.; Shields, C.	1996	NULL	W-Hol-614
+Reference without parent accepted or common name	11	Massin, Cl.; De Ridder, Ch.	1989	NULL	W-Hol-1038
 Reference without parent accepted or common name	13	Sibuet, M.	1974	NULL	W-Hol-1042
 Reference without parent accepted or common name	14	Rowe, F.W.E.	1970	NULL	W-Hol-1049
 Reference without parent accepted or common name	19	von Marenzeller, E.	1893	NULL	W-Hol-1059
-Reference without parent accepted or common name	32	Théel, H.	1877	NULL	W-Hol-1299
+Reference without parent accepted or common name	25	von DÃ¼ben, M. W.; Koren, J.	1846	NULL	W-Hol-1066
+Reference without parent accepted or common name	32	ThÃ©el, H.	1877	NULL	W-Hol-1299
+Reference without parent accepted or common name	33	Koren, J. & Danielsen, D.C.	1877	NULL	W-Hol-1300
 Reference without parent accepted or common name	34	Danielssen & Koren	1880	NULL	W-Hol-1301
 Reference without parent accepted or common name	39	Gosner,	1977	NULL	W-Hol-2965
-Reference without parent accepted or common name	40	Linkletter, L. E.	1977	NULL	W-Hol-2999
 Reference without parent accepted or common name	41	Meinkoth, N.A.	1981	NULL	W-Hol-3017
 Reference without parent accepted or common name	43	UNEP-WCMC. 16 February,	2004	NULL	W-Hol-3076
-Reference without parent accepted or common name	45	Bell, F. J.	1908	NULL	W-Hol-3139
-Reference without parent accepted or common name	52	Bell, F.J.	1884	NULL	W-Hol-5938
-Reference without parent accepted or common name	67	Clark, A.M.	1984	NULL	W-Hol-6112
+Reference without parent accepted or common name	46	Pawson, D. L.	1968	NULL	W-Hol-3151
+Reference without parent accepted or common name	55	Panning, A.	1941	NULL	W-Hol-5980
 Reference without parent accepted or common name	82	Lampert, K.	1896	NULL	W-Hol-6146
-Reference without parent accepted or common name	88	Thandar, A.S.	1985	NULL	W-Hol-6259
 Reference without parent accepted or common name	92	Cherbonnier, G.	1953	NULL	W-Hol-6265
 Reference without parent accepted or common name	124	Costello, M.J.; Emblow, C.; White, R. (Ed.).	2001	NULL	W-Hol-6827
 Reference without parent accepted or common name	126	Massin, C.; Appeltans, W.; Van Hoey, G.; Vincx, M.; Degraer, S.	2005	NULL	W-Hol-6870
-Reference without parent accepted or common name	130	Pawson, D.L.; Valentine, J.F.	1981	NULL	W-Hol-9165
+Reference without parent accepted or common name	128	MÃ¼ller O. F.	1789	NULL	W-Hol-7966
 Reference without parent accepted or common name	131	Hansen, B.; McKenzie, J.D.	1991	NULL	W-Hol-9177
+Reference without parent accepted or common name	134	Muller, Y.	2004	NULL	W-Hol-9269
 Reference without parent accepted or common name	135	Streftaris, N.; Zenetos, A.; Papathanassiou, E.	2005	NULL	W-Hol-9271
-Reference without parent accepted or common name	138	Gutt, J.	1988	NULL	W-Hol-12747
-Reference without parent accepted or common name	156	Marenzeller, E. von.	1874	NULL	W-Hol-23019
-Reference without parent accepted or common name	184	Pawson, D. L.; Vance, D. J.	2005	NULL	W-Hol-42930
-Reference without parent accepted or common name	190	Pawson, D. L.	1969	NULL	W-Hol-43032
-Reference without parent accepted or common name	210	Müller O. F.	1806	NULL	W-Hol-51125
-Reference without parent accepted or common name	211	Sars, M	1835	NULL	W-Hol-51738
-Reference without parent accepted or common name	215	Grieg, James A.	1889	NULL	W-Hol-61370
-Reference without parent accepted or common name	228	Levin & Stepanov.	2002	NULL	W-Hol-128845
-Reference without parent accepted or common name	232	Massin, C., Zulfigar, Y., Tan Shau Hwai, A., Rizal Boss, S. Z.	2002	NULL	W-Hol-128952
-Reference without parent accepted or common name	234	Pawson, D. L.	2002	NULL	W-Hol-129177
-Reference without parent accepted or common name	235	Rowe & Massin.	2006	NULL	W-Hol-129327
-Reference without parent accepted or common name	236	Solis-Marin, Billett, Preston & Rogers.	2004	NULL	W-Hol-129456
-Reference without parent accepted or common name	238	Stepanov & Pilganchuk.	2002	NULL	W-Hol-129470
-Reference without parent accepted or common name	239	Thandar.	2006	NULL	W-Hol-129518
-Reference without parent accepted or common name	242	Verrill, A. E.	1866	NULL	W-Hol-132644
-Reference without parent accepted or common name	255	Mortensen, T.	1926	NULL	W-Hol-139448
-Reference without parent accepted or common name	268	Agatep, CP.,	1967	NULL	W-Hol-145588
-Reference without parent accepted or common name	278	Barrois, T.	1882	NULL	W-Hol-145598
-Reference without parent accepted or common name	279	Bartolini, B.	1914	NULL	W-Hol-145599
-Reference without parent accepted or common name	290	Bell FJ	1889	NULL	W-Hol-145611
-Reference without parent accepted or common name	299	Belyaev, GM., & Vinigradov, ME.,	1969	NULL	W-Hol-145620
-Reference without parent accepted or common name	343	Cherbonnier, G.	1963	NULL	W-Hol-145673
-Reference without parent accepted or common name	349	Cherbonnier, G.	1970	NULL	W-Hol-145679
-Reference without parent accepted or common name	350	Cherbonnier, G.,	1970	NULL	W-Hol-145680
-Reference without parent accepted or common name	351	Cherbonnier, G.	1972	NULL	W-Hol-145681
-Reference without parent accepted or common name	366	Costa, A.,	1869	NULL	W-Hol-145699
-Reference without parent accepted or common name	370	Danielssen, DC., & Koren, J.	1878	NULL	W-Hol-145703
-Reference without parent accepted or common name	385	Delle chiaie, S.	1823	NULL	W-Hol-145723
-Reference without parent accepted or common name	423	Grieg, JA.,	1921	NULL	W-Hol-145766
-Reference without parent accepted or common name	426	Hansen, B.	1978	NULL	W-Hol-145770
-Reference without parent accepted or common name	427	Hansen, B.; Madsen, F. J.	1956	NULL	W-Hol-145771
-Reference without parent accepted or common name	440	Heding, SG.,	1935	NULL	W-Hol-145786
-Reference without parent accepted or common name	441	Heding, SG.	1938	NULL	W-Hol-145789
-Reference without parent accepted or common name	447	Hernandez, D. A.	1987	NULL	W-Hol-145797
-Reference without parent accepted or common name	448	Hérouard, E.	1896	NULL	W-Hol-145798
-Reference without parent accepted or common name	449	Herouard, E.	1898	NULL	W-Hol-145799
-Reference without parent accepted or common name	454	Hérouard, E.,	1889	NULL	W-Hol-145804
-Reference without parent accepted or common name	467	Keferstein, W.,	1862	NULL	W-Hol-145820
-Reference without parent accepted or common name	469	Koehler and C. Vaney	1905	NULL	W-Hol-145822
-Reference without parent accepted or common name	480	Levin, V. S.	2003	NULL	W-Hol-145837
-Reference without parent accepted or common name	482	Levin, V. S.; Stepanov, V. G.	1999	NULL	W-Hol-145839
-Reference without parent accepted or common name	484	Levin, V.S., Cucumaria anivaensis (Holothuroidea: Dendrochirotida), A New Species of Holothurians from the Area of Sakhalin, Biol. Morya,	2004	NULL	W-Hol-145841
-Reference without parent accepted or common name	490	Ljungsman, AW.,	1879	NULL	W-Hol-145848
-Reference without parent accepted or common name	493	Ludwig HL	1898	NULL	W-Hol-145851
-Reference without parent accepted or common name	496	Ludwig, H.	1892	NULL	W-Hol-145855
-Reference without parent accepted or common name	503	Lütken, CF.,	1857	NULL	W-Hol-145863
-Reference without parent accepted or common name	509	Marenzeller, E. von.	1893	NULL	W-Hol-145901
-Reference without parent accepted or common name	538	Panning, A.,	1940	NULL	W-Hol-145939
-Reference without parent accepted or common name	554	Pawson, D. L.	2002	NULL	W-Hol-145959
-Reference without parent accepted or common name	555	Pawson, D. L.; Gust, C. A.	1981	NULL	W-Hol-145962
-Reference without parent accepted or common name	557	Pawson, D. L.; Caycedo, I. E.	1980	NULL	W-Hol-145965
-Reference without parent accepted or common name	567	Perrier, R.,	1899	NULL	W-Hol-145977
-Reference without parent accepted or common name	574	Petit, L.,	1885	NULL	W-Hol-145984
-Reference without parent accepted or common name	580	Reys, JP.	1959	NULL	W-Hol-145993
-Reference without parent accepted or common name	582	Rogacheva, A., I. A. Cross, and D. S. M. Billett.	2009	NULL	W-Hol-145995
-Reference without parent accepted or common name	591	Salvini-Plawen, L.v.,	1972	NULL	W-Hol-146004
-Reference without parent accepted or common name	598	Sars, M.	1868	NULL	W-Hol-146011
-Reference without parent accepted or common name	599	Savel'eva, T.	1933	NULL	W-Hol-146012
-Reference without parent accepted or common name	621	Steenstrup, J.,	1851	NULL	W-Hol-146036
-Reference without parent accepted or common name	623	Stimpson, W.,	1851	NULL	W-Hol-146038
-Reference without parent accepted or common name	625	Strussenfelt A.M.	1765	NULL	W-Hol-146042
-Reference without parent accepted or common name	630	Théel, H,.	1877	NULL	W-Hol-146050
-Reference without parent accepted or common name	633	Théel, H.,	1876	NULL	W-Hol-146054
-Reference without parent accepted or common name	635	Tommasi, LR.	1972	NULL	W-Hol-146057
-Reference without parent accepted or common name	640	Verrill, AE.,	1874	NULL	W-Hol-146066
-Reference without parent accepted or common name	641	Verrill, A. E.	1882	NULL	W-Hol-146067
-Reference without parent accepted or common name	651	Zenetos, A.; Gofas, S.; Verlaque, M.; Cinar, M.; Garcia Raso, J.; Bianchi, C.; Morri, C.; Azzurro, E.; Bilecenoglu, M.; Froglia, C.; Siokou, I.; Violanti, D.; Sfriso, A.; San Martin, G.; Giangrande, A	2010	NULL	W-Hol-155063
-Reference without parent accepted or common name	659	Cross, I.A.; Gebruk, A.V.; Billett, D.; Rogacheva, A.V.	2012	NULL	W-Hol-165077
-Reference without parent accepted or common name	665	Koehler, R.,	1895	NULL	W-Hol-168054
-Reference without parent accepted or common name	717	Théel, H.,	1882	NULL	W-Hol-168160
-Reference without parent accepted or common name	729	Gebruk, A. V.	1989	NULL	W-Hol-190428
-Reference without parent accepted or common name	730	Galil, B.	2007	NULL	W-Hol-190896
-Reference without parent accepted or common name	731	Bohn, J. M.; Heß, M.	2014	NULL	W-Hol-191618
+Reference without parent accepted or common name	141	Massin, C.	1994	NULL	W-Hol-15858
+Reference without parent accepted or common name	155	Marenzeller, E. von.	1874	NULL	W-Hol-23019
+Reference without parent accepted or common name	170	Montagu, G.	1816	NULL	W-Hol-40015
+Reference without parent accepted or common name	187	Zoological Record. The record of Zoological Literature. Series of books from	1865	NULL	W-Hol-42945
+Reference without parent accepted or common name	195	Bent Hansen	1973	NULL	W-Hol-43938
+Reference without parent accepted or common name	209	MÃ¼ller O. F.	1806	NULL	W-Hol-51125
+Reference without parent accepted or common name	210	Sars, M	1835	NULL	W-Hol-51738
+Reference without parent accepted or common name	218	Zenetos, A., M.E. Ã‡inar, M.A. Pancucci-Papadopoulou, J.G. Harmelin, G. Furnari, F. Andaloro, N. Bellou, N. Streftaris & H. Zibrowius	2005	NULL	W-Hol-124391
+Reference without parent accepted or common name	227	Levin & Stepanov.	2002	NULL	W-Hol-128845
+Reference without parent accepted or common name	231	Massin, C., Zulfigar, Y., Tan Shau Hwai, A., Rizal Boss, S. Z.	2002	NULL	W-Hol-128952
+Reference without parent accepted or common name	232	O'Loughlin & Ahearn.	2005	NULL	W-Hol-129132
+Reference without parent accepted or common name	233	Pawson, D. L.	2002	NULL	W-Hol-129177
+Reference without parent accepted or common name	236	Solis-Marin, F. A.	2005	NULL	W-Hol-129457
+Reference without parent accepted or common name	243	Solis-marin, F.; Billett, D.; Preston, J.; Rogers, A.	2004	NULL	W-Hol-133253
+Reference without parent accepted or common name	256	Baranova, Z. I.	1955	NULL	W-Hol-139517
+Reference without parent accepted or common name	277	Barrois, T.	1882	NULL	W-Hol-145598
+Reference without parent accepted or common name	278	Bartolini, B.	1914	NULL	W-Hol-145599
+Reference without parent accepted or common name	298	Belyaev, GM., & Vinigradov, ME.,	1969	NULL	W-Hol-145620
+Reference without parent accepted or common name	337	Cherbonnier, G.	1959	NULL	W-Hol-145668
+Reference without parent accepted or common name	348	Cherbonnier, G.	1970	NULL	W-Hol-145679
+Reference without parent accepted or common name	349	Cherbonnier, G.,	1970	NULL	W-Hol-145680
+Reference without parent accepted or common name	350	Cherbonnier, G.	1972	NULL	W-Hol-145681
+Reference without parent accepted or common name	367	Cutress, B. M.; Miller, J. E.	1982	NULL	W-Hol-145701
+Reference without parent accepted or common name	368	Danielssen D.C. & Koren J.	1881	NULL	W-Hol-145702
+Reference without parent accepted or common name	406	Erwe, W.	1919	NULL	W-Hol-145748
+Reference without parent accepted or common name	422	Grieg, JA.,	1921	NULL	W-Hol-145766
+Reference without parent accepted or common name	426	Hansen, B.; Madsen, F. J.	1956	NULL	W-Hol-145771
+Reference without parent accepted or common name	433	Heding, S. G.	1937	NULL	W-Hol-145778
+Reference without parent accepted or common name	439	Heding, SG.,	1935	NULL	W-Hol-145786
+Reference without parent accepted or common name	447	HÃ©rouard, E.	1896	NULL	W-Hol-145798
+Reference without parent accepted or common name	448	Herouard, E.	1898	NULL	W-Hol-145799
+Reference without parent accepted or common name	455	HÃ©rouard, E.,	1929	NULL	W-Hol-145807
+Reference without parent accepted or common name	458	Hodge G.	1865	NULL	W-Hol-145810
+Reference without parent accepted or common name	466	Keferstein, W.,	1862	NULL	W-Hol-145820
+Reference without parent accepted or common name	468	Koehler and C. Vaney	1905	NULL	W-Hol-145822
+Reference without parent accepted or common name	479	Levin, V. S.	2003	NULL	W-Hol-145837
+Reference without parent accepted or common name	483	Levin, V.S., Cucumaria anivaensis (Holothuroidea: Dendrochirotida), A New Species of Holothurians from the Area of Sakhalin, Biol. Morya,	2004	NULL	W-Hol-145841
+Reference without parent accepted or common name	489	Ljungsman, AW.,	1879	NULL	W-Hol-145848
+Reference without parent accepted or common name	492	Ludwig HL	1898	NULL	W-Hol-145851
+Reference without parent accepted or common name	495	Ludwig, H.	1892	NULL	W-Hol-145855
+Reference without parent accepted or common name	502	LÃ¼tken, CF.,	1857	NULL	W-Hol-145863
+Reference without parent accepted or common name	529	Ã–stergren, H.	1896	NULL	W-Hol-145930
+Reference without parent accepted or common name	530	Ã–stergren, H.	1896	NULL	W-Hol-145931
+Reference without parent accepted or common name	531	Ã–stergren, H.,	1904	NULL	W-Hol-145933
+Reference without parent accepted or common name	537	Panning, A.,	1940	NULL	W-Hol-145939
+Reference without parent accepted or common name	554	Pawson, D. L.; Gust, C. A.	1981	NULL	W-Hol-145962
+Reference without parent accepted or common name	556	Pawson, D. L.; Caycedo, I. E.	1980	NULL	W-Hol-145965
+Reference without parent accepted or common name	565	Perrier, R.,	1899	NULL	W-Hol-145976
+Reference without parent accepted or common name	567	Perrier, R.	1900	NULL	W-Hol-145978
+Reference without parent accepted or common name	573	Petit, L.,	1885	NULL	W-Hol-145984
+Reference without parent accepted or common name	576	Quatrefages, A. DE,	1842	NULL	W-Hol-145989
+Reference without parent accepted or common name	579	Reys, JP.	1959	NULL	W-Hol-145993
+Reference without parent accepted or common name	581	Rogacheva, A., I. A. Cross, and D. S. M. Billett.	2009	NULL	W-Hol-145995
+Reference without parent accepted or common name	587	Rowe, FWE.; Pawson, DL.	1967	NULL	W-Hol-146001
+Reference without parent accepted or common name	590	Salvini-Plawen, L.v.,	1972	NULL	W-Hol-146004
+Reference without parent accepted or common name	593	Samyn, Y. & Thandar, A. S.	2003	NULL	W-Hol-146007
+Reference without parent accepted or common name	594	Sars, M.	1859	NULL	W-Hol-146008
+Reference without parent accepted or common name	596	Sars, M.	1866	NULL	W-Hol-146010
+Reference without parent accepted or common name	598	Savel'eva, T.	1933	NULL	W-Hol-146012
+Reference without parent accepted or common name	620	Steenstrup, J.,	1851	NULL	W-Hol-146036
+Reference without parent accepted or common name	621	Stepanov, V. G.; Pilganchuk, O. A.	2002	NULL	W-Hol-146037
+Reference without parent accepted or common name	622	Stimpson, W.,	1851	NULL	W-Hol-146038
+Reference without parent accepted or common name	624	Strussenfelt A.M.	1765	NULL	W-Hol-146042
+Reference without parent accepted or common name	627	Thandar, A. S. & M. N. Moodley	2003	NULL	W-Hol-146045
+Reference without parent accepted or common name	629	ThÃ©el, H,.	1877	NULL	W-Hol-146050
+Reference without parent accepted or common name	632	ThÃ©el, H.,	1876	NULL	W-Hol-146054
+Reference without parent accepted or common name	639	Verrill, AE.,	1874	NULL	W-Hol-146066
+Reference without parent accepted or common name	650	Zenetos, A.; Gofas, S.; Verlaque, M.; Cinar, M.; Garcia Raso, J.; Bianchi, C.; Morri, C.; Azzurro, E.; Bilecenoglu, M.; Froglia, C.; Siokou, I.; Violanti, D.; Sfriso, A.; San Martin, G.; Giangrande, A	2010	NULL	W-Hol-155063
+Reference without parent accepted or common name	658	Cross, I.A.; Gebruk, A.V.; Billett, D.; Rogacheva, A.V.	2012	NULL	W-Hol-165077
+Reference without parent accepted or common name	664	Koehler, R.,	1895	NULL	W-Hol-168054
+Reference without parent accepted or common name	681	Ascanius, P.	1805	NULL	W-Hol-168111
+Reference without parent accepted or common name	716	ThÃ©el, H.,	1882	NULL	W-Hol-168160
+Reference without parent accepted or common name	725	Danielssen, D.; Koren, J.	1879	NULL	W-Hol-177399
+Reference without parent accepted or common name	728	Gebruk, A. V.	1989	NULL	W-Hol-190428
+Reference without parent accepted or common name	729	Galil, B.	2007	NULL	W-Hol-190896
+Reference without parent accepted or common name	730	Bohn, J. M.; HeÃŸ, M.	2014	NULL	W-Hol-191618
+Reference without parent accepted or common name	745	Oâ€™loughlin, P. M.; Mackenzie, M.; Vandenspiegel, D.; Griffiths, H.	2015	NULL	W-Hol-200508
 --------------
 DROP TRIGGER IF EXISTS delfamcascade
 --------------
@@ -2163,18 +2345,33 @@ DROP TRIGGER IF EXISTS delspcascade
 --------------
 
 --------------
-CREATE TEMPORARY TABLE duplicates_to_delete AS SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
-AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
-(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
-FROM scientific_names
-GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
-LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+CREATE TEMPORARY TABLE duplicates_to_delete AS
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus,
+	dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+FROM
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+	FROM scientific_names
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id
+	HAVING cnt > 1) AS dups
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+WHERE sn.sp2000_status_id = 1 AND sn.name_code NOT IN
+	(SELECT dups3.namecodes_to_keep FROM
+		(SELECT MAX(name_code) AS namecodes_to_keep, genus, subgenus, species, infraspecies_marker, infraspecies, author FROM
+			(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, dups.species AS species,
+				dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+			FROM
+				(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+				FROM scientific_names
+				GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+			LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+			WHERE sn.sp2000_status_id = 1) AS dups2
+		GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author) AS dups3)
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names USING scientific_names INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
+DELETE QUICK FROM scientific_names
+USING scientific_names
+INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
 --------------
 
 --------------
@@ -2185,14 +2382,14 @@ WHERE t2.name_code IS NULL
 
 --------------
 DELETE QUICK t1 FROM scientific_names AS t1
-LEFT JOIN scientific_name_references AS t2 ON t1.accepted_name_code = t2.name_code
+LEFT JOIN scientific_names_tmp AS t2 ON t1.accepted_name_code = t2.name_code
 WHERE t2.name_code IS NULL AND t1.is_accepted_name != 1
 --------------
 
 --------------
 DELETE QUICK t1 FROM scientific_names AS t1
-LEFT JOIN scientific_name_references AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
-WHERE t2.name_code IS NULL
+LEFT JOIN scientific_names_tmp AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
+WHERE t1.infraspecies_parent_name_code IS NOT NULL AND t2.name_code IS NULL
 --------------
 
 --------------

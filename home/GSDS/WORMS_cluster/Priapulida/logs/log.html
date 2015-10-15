@@ -998,7 +998,7 @@ Data Loaded.
 </pre>
 </pre><hr><b>Backing up...</b>
 <pre>
-Creating directory  10_29_30_10Sep2015
+Creating directory  22_54_03_05Oct2015
 Backing up files
 </pre><hr><b>Executing local editorial checks</b>
 <pre>
@@ -1287,24 +1287,50 @@ UPDATE `references`  SET `author` = TRIM(`author`)
 --------------
 
 --------------
-SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.subgenus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author 
+FROM 
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+	FROM scientific_names 
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author 
+WHERE sn.sp2000_status_id = 1
 --------------
 
 --------------
-SELECT "Accepted name to be retained", MAX(name_code), genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author
+SELECT "Accepted name to be retained", MAX(name_code), genus, subgenus, species, infraspecies_marker, infraspecies, author 
+FROM
+	(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, dups.species AS species, 
+		dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+	FROM 
+		(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+		FROM scientific_names 
+		GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+	LEFT JOIN scientific_names sn
+	ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 
+GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author
 --------------
 
 --------------
-SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
-AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
-(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
-FROM scientific_names
-GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
-LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, 
+	dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+FROM 
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+	FROM scientific_names 
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author 
+WHERE sn.sp2000_status_id = 1 AND sn.name_code NOT IN 
+	(SELECT dups3.namecodes_to_keep FROM
+		(SELECT MAX(name_code) AS namecodes_to_keep, genus, subgenus, species, infraspecies_marker, infraspecies, author 
+		FROM
+			(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, 
+				dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+			FROM 	
+				(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+				FROM scientific_names
+				GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+		LEFT JOIN scientific_names sn
+		ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 
+GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author) AS dups3)
 --------------
 
 --------------
@@ -1332,12 +1358,14 @@ SELECT * FROM scientific_names
 --------------
 
 --------------
-SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, species, infraspecies, accepted_name_code FROM scientific_names
+SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, subgenus, species, infraspecies, accepted_name_code FROM scientific_names
 WHERE is_accepted_name != 1 AND family_code IS NULL
 --------------
 
 --------------
-SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, species, infraspecies, infraspecies_parent_name_code FROM scientific_names WHERE LENGTH(infraspecies)>1  AND family_code IS NULL
+SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, subgenus, species, infraspecies, infraspecies_parent_name_code 
+FROM scientific_names 
+WHERE LENGTH(infraspecies) > 1 AND family_code IS NULL
 --------------
 
 --------------
@@ -1353,26 +1381,29 @@ WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.family_code FROM scientific_names AS t1
+SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.subgenus, t1.species, t1.infraspecies, t1.family_code 
+FROM scientific_names AS t1
 LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
 WHERE t2.family_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code 
+FROM scientific_name_references AS t1
 LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
 WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code 
+FROM scientific_name_references AS t1
 LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
 WHERE t2.reference_code IS NULL
 --------------
 
 Reference link to non-existing reference	record_id	reference_code	name_code
-Reference link to non-existing reference	1	W-Prl-147411	W-Prl-101156
-Reference link to non-existing reference	2	W-Prl-2901	W-Prl-101160
+Reference link to non-existing reference	1	W-Prl-2901	W-Prl-101160
+Reference link to non-existing reference	2	W-Prl-147411	W-Prl-101156
 Reference link to non-existing reference	3	W-Prl-1318	W-Prl-101155
 Reference link to non-existing reference	4	W-Prl-1318	W-Prl-101157
 Reference link to non-existing reference	5	W-Prl-1318	W-Prl-101158
@@ -1391,13 +1422,15 @@ Reference link to non-existing reference	18	W-Prl-1318	W-Prl-265148
 Reference link to non-existing reference	19	W-Prl-1318	W-Prl-265149
 Reference link to non-existing reference	20	W-Prl-1318	W-Prl-265961
 --------------
-SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code FROM specialists AS t1
+SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code 
+FROM specialists AS t1
 LEFT JOIN scientific_names AS t2 ON t1.specialist_code = t2.specialist_code
 WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code FROM `references` AS t1
+SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code 
+FROM `references` AS t1
 LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
 LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
 WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
@@ -1427,18 +1460,33 @@ DROP TRIGGER IF EXISTS delspcascade
 --------------
 
 --------------
-CREATE TEMPORARY TABLE duplicates_to_delete AS SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
-AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
-(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
-FROM scientific_names
-GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
-LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+CREATE TEMPORARY TABLE duplicates_to_delete AS
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus,
+	dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+FROM
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+	FROM scientific_names
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id
+	HAVING cnt > 1) AS dups
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+WHERE sn.sp2000_status_id = 1 AND sn.name_code NOT IN
+	(SELECT dups3.namecodes_to_keep FROM
+		(SELECT MAX(name_code) AS namecodes_to_keep, genus, subgenus, species, infraspecies_marker, infraspecies, author FROM
+			(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, dups.species AS species,
+				dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+			FROM
+				(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+				FROM scientific_names
+				GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+			LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+			WHERE sn.sp2000_status_id = 1) AS dups2
+		GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author) AS dups3)
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names USING scientific_names INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
+DELETE QUICK FROM scientific_names
+USING scientific_names
+INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
 --------------
 
 --------------
@@ -1449,14 +1497,14 @@ WHERE t2.name_code IS NULL
 
 --------------
 DELETE QUICK t1 FROM scientific_names AS t1
-LEFT JOIN scientific_name_references AS t2 ON t1.accepted_name_code = t2.name_code
+LEFT JOIN scientific_names_tmp AS t2 ON t1.accepted_name_code = t2.name_code
 WHERE t2.name_code IS NULL AND t1.is_accepted_name != 1
 --------------
 
 --------------
 DELETE QUICK t1 FROM scientific_names AS t1
-LEFT JOIN scientific_name_references AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
-WHERE t2.name_code IS NULL
+LEFT JOIN scientific_names_tmp AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
+WHERE t1.infraspecies_parent_name_code IS NOT NULL AND t2.name_code IS NULL
 --------------
 
 --------------

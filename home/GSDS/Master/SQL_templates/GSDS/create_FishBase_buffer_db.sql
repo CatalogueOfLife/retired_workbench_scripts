@@ -138,6 +138,19 @@ CREATE TABLE `Synonyms` (
 `GSDNameGUI` varchar(255) default NULL 
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
+
+#----------------------------
+# Table structure for Lifezone
+#----------------------------
+CREATE TABLE `Lifezone` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`lifezone` text NOT NULL,
+PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+
+
+
 LOAD DATA LOCAL INFILE 'AcceptedInfraSpecificTaxa.csv' INTO TABLE `AcceptedInfraSpecificTaxa` FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 LINES 
 (`AcceptedTaxonID`, `ParentSpeciesID`, `InfraSpeciesEpithet`, `InfraSpecificAuthorString`,  `InfraSpecificMarker`, `GSDNameStatus`,  `Sp2000NameStatus`, `IsFossil`, `LifeZone`, `AdditionalData`, `LTSSpecialist`, `LTSDate`, `InfraSpeciesURL`, `GSDTaxonGUI`, `GSDNameGUI`); 
 
@@ -161,5 +174,8 @@ LOAD DATA LOCAL INFILE 'SourceDatabase.csv' INTO TABLE `SourceDatabase` FIELDS T
 
 LOAD DATA LOCAL INFILE 'Synonyms.csv' INTO TABLE `Synonyms` FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 LINES
 (`ID`, `AcceptedTaxonID`, `Genus`, `SubGenusName`, `Species`, `AuthorString`, `InfraSpecies`, `InfraSpecificMarker`, `InfraSpecificAuthorString`, `GSDNameStatus`, `Sp2000NameStatus`, `GSDNameGUI`);
+
+LOAD DATA LOCAL INFILE 'Lifezone.csv' INTO TABLE `Lifezone` FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `Lifezone`);
 
 show tables;

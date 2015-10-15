@@ -1,4 +1,4 @@
-USE `Assembly_ITIS`;
+USE `Assembly_FishBase`;
 
 DELETE FROM `common_names` WHERE `common_name` IS NULL OR `common_name` = "";
 

@@ -998,7 +998,7 @@ Data Loaded.
 </pre>
 </pre><hr><b>Backing up...</b>
 <pre>
-Creating directory  10_13_17_10Sep2015
+Creating directory  00_09_05_06Oct2015
 Backing up files
 </pre><hr><b>Executing local editorial checks</b>
 <pre>
@@ -1289,24 +1289,50 @@ UPDATE `references`  SET `author` = TRIM(`author`)
 --------------
 
 --------------
-SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.subgenus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author 
+FROM 
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+	FROM scientific_names 
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author 
+WHERE sn.sp2000_status_id = 1
 --------------
 
 --------------
-SELECT "Accepted name to be retained", MAX(name_code), genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author
+SELECT "Accepted name to be retained", MAX(name_code), genus, subgenus, species, infraspecies_marker, infraspecies, author 
+FROM
+	(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, dups.species AS species, 
+		dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+	FROM 
+		(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+		FROM scientific_names 
+		GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+	LEFT JOIN scientific_names sn
+	ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 
+GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author
 --------------
 
 --------------
-SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
-AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
-(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
-FROM scientific_names
-GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
-LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, 
+	dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+FROM 
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+	FROM scientific_names 
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author 
+WHERE sn.sp2000_status_id = 1 AND sn.name_code NOT IN 
+	(SELECT dups3.namecodes_to_keep FROM
+		(SELECT MAX(name_code) AS namecodes_to_keep, genus, subgenus, species, infraspecies_marker, infraspecies, author 
+		FROM
+			(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, 
+				dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+			FROM 	
+				(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+				FROM scientific_names
+				GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+		LEFT JOIN scientific_names sn
+		ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 
+GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author) AS dups3)
 --------------
 
 --------------
@@ -1334,12 +1360,14 @@ SELECT * FROM scientific_names
 --------------
 
 --------------
-SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, species, infraspecies, accepted_name_code FROM scientific_names
+SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, subgenus, species, infraspecies, accepted_name_code FROM scientific_names
 WHERE is_accepted_name != 1 AND family_code IS NULL
 --------------
 
 --------------
-SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, species, infraspecies, infraspecies_parent_name_code FROM scientific_names WHERE LENGTH(infraspecies)>1  AND family_code IS NULL
+SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, subgenus, species, infraspecies, infraspecies_parent_name_code 
+FROM scientific_names 
+WHERE LENGTH(infraspecies) > 1 AND family_code IS NULL
 --------------
 
 --------------
@@ -1355,455 +1383,462 @@ WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.family_code FROM scientific_names AS t1
+SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.subgenus, t1.species, t1.infraspecies, t1.family_code 
+FROM scientific_names AS t1
 LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
 WHERE t2.family_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code 
+FROM scientific_name_references AS t1
 LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
 WHERE t2.name_code IS NULL
 --------------
 
 Reference link to non-existing accepted name	record_id	reference_code	name_code
-Reference link to non-existing accepted name	86	W-Mon-194896	W-Mon-827507
-Reference link to non-existing accepted name	169	W-Mon-197864	W-Mon-849731
-Reference link to non-existing accepted name	268	W-Mon-198376	W-Mon-827939
-Reference link to non-existing accepted name	300	W-Mon-1348	W-Mon-119727
-Reference link to non-existing accepted name	309	W-Mon-127204	W-Mon-388385
-Reference link to non-existing accepted name	360	W-Mon-196064	W-Mon-834005
-Reference link to non-existing accepted name	604	W-Mon-195120	W-Mon-827974
-Reference link to non-existing accepted name	606	W-Mon-196310	W-Mon-835245
-Reference link to non-existing accepted name	674	W-Mon-196303	W-Mon-827172
-Reference link to non-existing accepted name	821	W-Mon-196064	W-Mon-834007
-Reference link to non-existing accepted name	906	W-Mon-193036	W-Mon-815934
-Reference link to non-existing accepted name	965	W-Mon-193036	W-Mon-815935
-Reference link to non-existing accepted name	966	W-Mon-197864	W-Mon-849735
-Reference link to non-existing accepted name	1026	W-Mon-196064	W-Mon-834006
-Reference link to non-existing accepted name	1138	W-Mon-196733	W-Mon-836013
-Reference link to non-existing accepted name	1213	W-Mon-176841	W-Mon-718271
+Reference link to non-existing accepted name	85	W-Mon-197864	W-Mon-849731
+Reference link to non-existing accepted name	163	W-Mon-196303	W-Mon-827172
+Reference link to non-existing accepted name	248	W-Mon-194896	W-Mon-827507
+Reference link to non-existing accepted name	342	W-Mon-198376	W-Mon-827939
+Reference link to non-existing accepted name	437	W-Mon-176841	W-Mon-718271
+Reference link to non-existing accepted name	512	W-Mon-196064	W-Mon-834006
+Reference link to non-existing accepted name	514	W-Mon-198373	W-Mon-849735
+Reference link to non-existing accepted name	592	W-Mon-196733	W-Mon-836013
+Reference link to non-existing accepted name	615	W-Mon-1348	W-Mon-119727
+Reference link to non-existing accepted name	623	W-Mon-127204	W-Mon-388385
+Reference link to non-existing accepted name	673	W-Mon-196064	W-Mon-834005
+Reference link to non-existing accepted name	964	W-Mon-195120	W-Mon-827974
+Reference link to non-existing accepted name	966	W-Mon-196310	W-Mon-835245
+Reference link to non-existing accepted name	1050	W-Mon-193036	W-Mon-815934
+Reference link to non-existing accepted name	1156	W-Mon-193036	W-Mon-815935
+Reference link to non-existing accepted name	1218	W-Mon-196064	W-Mon-834007
 --------------
-SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code 
+FROM scientific_name_references AS t1
 LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
 WHERE t2.reference_code IS NULL
 --------------
 
 Reference link to non-existing reference	record_id	reference_code	name_code
 Reference link to non-existing reference	1	W-Mon-147411	W-Mon-119552
-Reference link to non-existing reference	2	W-Mon-1348	W-Mon-119395
-Reference link to non-existing reference	3	W-Mon-1348	W-Mon-119397
-Reference link to non-existing reference	4	W-Mon-1348	W-Mon-119418
-Reference link to non-existing reference	6	W-Mon-1348	W-Mon-119452
-Reference link to non-existing reference	7	W-Mon-1348	W-Mon-119454
-Reference link to non-existing reference	8	W-Mon-1348	W-Mon-119461
-Reference link to non-existing reference	11	W-Mon-1348	W-Mon-119488
-Reference link to non-existing reference	12	W-Mon-1348	W-Mon-119495
-Reference link to non-existing reference	13	W-Mon-1348	W-Mon-119497
-Reference link to non-existing reference	15	W-Mon-1348	W-Mon-119554
-Reference link to non-existing reference	18	W-Mon-1348	W-Mon-119561
-Reference link to non-existing reference	20	W-Mon-1348	W-Mon-119588
-Reference link to non-existing reference	21	W-Mon-1348	W-Mon-119595
-Reference link to non-existing reference	22	W-Mon-1348	W-Mon-119597
-Reference link to non-existing reference	23	W-Mon-132580	W-Mon-119608
-Reference link to non-existing reference	25	W-Mon-1348	W-Mon-119631
-Reference link to non-existing reference	26	W-Mon-1348	W-Mon-119652
-Reference link to non-existing reference	27	W-Mon-1348	W-Mon-119654
-Reference link to non-existing reference	29	W-Mon-1348	W-Mon-119661
-Reference link to non-existing reference	30	W-Mon-1348	W-Mon-119688
-Reference link to non-existing reference	31	W-Mon-1348	W-Mon-119695
-Reference link to non-existing reference	32	W-Mon-1348	W-Mon-119697
-Reference link to non-existing reference	34	W-Mon-1348	W-Mon-119731
-Reference link to non-existing reference	35	W-Mon-1348	W-Mon-119754
-Reference link to non-existing reference	36	W-Mon-1348	W-Mon-119761
-Reference link to non-existing reference	41	W-Mon-127204	W-Mon-387904
-Reference link to non-existing reference	43	W-Mon-127204	W-Mon-395656
-Reference link to non-existing reference	44	W-Mon-127204	W-Mon-396149
-Reference link to non-existing reference	45	W-Mon-127204	W-Mon-396458
-Reference link to non-existing reference	47	W-Mon-132580	W-Mon-414346
-Reference link to non-existing reference	48	W-Mon-132580	W-Mon-414380
-Reference link to non-existing reference	49	W-Mon-132580	W-Mon-414382
-Reference link to non-existing reference	55	W-Mon-92249	W-Mon-518475
-Reference link to non-existing reference	56	W-Mon-198581	W-Mon-518503
-Reference link to non-existing reference	87	W-Mon-1348	W-Mon-119402
-Reference link to non-existing reference	88	W-Mon-1348	W-Mon-119411
-Reference link to non-existing reference	89	W-Mon-1348	W-Mon-119436
-Reference link to non-existing reference	90	W-Mon-42	W-Mon-119444
-Reference link to non-existing reference	91	W-Mon-1348	W-Mon-119445
-Reference link to non-existing reference	92	W-Mon-1348	W-Mon-119470
-Reference link to non-existing reference	97	W-Mon-1348	W-Mon-119504
-Reference link to non-existing reference	99	W-Mon-1348	W-Mon-119538
-Reference link to non-existing reference	100	W-Mon-1348	W-Mon-119547
-Reference link to non-existing reference	102	W-Mon-1348	W-Mon-119572
-Reference link to non-existing reference	103	W-Mon-1348	W-Mon-119577
-Reference link to non-existing reference	105	W-Mon-1348	W-Mon-119602
-Reference link to non-existing reference	107	W-Mon-1348	W-Mon-119611
-Reference link to non-existing reference	108	W-Mon-1348	W-Mon-119636
-Reference link to non-existing reference	109	W-Mon-1348	W-Mon-119645
-Reference link to non-existing reference	110	W-Mon-1348	W-Mon-119670
-Reference link to non-existing reference	111	W-Mon-1348	W-Mon-119679
-Reference link to non-existing reference	114	W-Mon-1348	W-Mon-119704
-Reference link to non-existing reference	115	W-Mon-1348	W-Mon-119713
-Reference link to non-existing reference	117	W-Mon-1348	W-Mon-119738
-Reference link to non-existing reference	118	W-Mon-1348	W-Mon-119747
-Reference link to non-existing reference	119	W-Mon-1348	W-Mon-119772
-Reference link to non-existing reference	126	W-Mon-127204	W-Mon-388881
-Reference link to non-existing reference	128	W-Mon-127204	W-Mon-395642
-Reference link to non-existing reference	129	W-Mon-127204	W-Mon-395940
-Reference link to non-existing reference	130	W-Mon-127204	W-Mon-396476
-Reference link to non-existing reference	131	W-Mon-132580	W-Mon-414341
-Reference link to non-existing reference	140	W-Mon-92249	W-Mon-518493
-Reference link to non-existing reference	169	W-Mon-197864	W-Mon-849731
-Reference link to non-existing reference	172	W-Mon-1348	W-Mon-119394
-Reference link to non-existing reference	173	W-Mon-1348	W-Mon-119437
-Reference link to non-existing reference	174	W-Mon-1348	W-Mon-119462
-Reference link to non-existing reference	178	W-Mon-1348	W-Mon-119505
-Reference link to non-existing reference	182	W-Mon-1348	W-Mon-119530
-Reference link to non-existing reference	186	W-Mon-1348	W-Mon-119569
-Reference link to non-existing reference	187	W-Mon-1348	W-Mon-119580
-Reference link to non-existing reference	190	W-Mon-1348	W-Mon-119594
-Reference link to non-existing reference	192	W-Mon-1348	W-Mon-119619
-Reference link to non-existing reference	196	W-Mon-1348	W-Mon-119637
-Reference link to non-existing reference	197	W-Mon-1348	W-Mon-119644
-Reference link to non-existing reference	198	W-Mon-1348	W-Mon-119662
-Reference link to non-existing reference	199	W-Mon-1348	W-Mon-119687
-Reference link to non-existing reference	200	W-Mon-1348	W-Mon-119705
-Reference link to non-existing reference	201	W-Mon-1348	W-Mon-119712
-Reference link to non-existing reference	203	W-Mon-1348	W-Mon-119755
-Reference link to non-existing reference	204	W-Mon-1348	W-Mon-119769
-Reference link to non-existing reference	205	W-Mon-1348	W-Mon-119773
-Reference link to non-existing reference	206	W-Mon-42	W-Mon-158617
-Reference link to non-existing reference	208	W-Mon-127204	W-Mon-387903
-Reference link to non-existing reference	211	W-Mon-127204	W-Mon-395641
-Reference link to non-existing reference	212	W-Mon-127204	W-Mon-395952
-Reference link to non-existing reference	214	W-Mon-132580	W-Mon-414340
-Reference link to non-existing reference	215	W-Mon-132580	W-Mon-414358
-Reference link to non-existing reference	216	W-Mon-132580	W-Mon-414383
-Reference link to non-existing reference	230	W-Mon-198581	W-Mon-518504
-Reference link to non-existing reference	231	W-Mon-198595	W-Mon-518507
-Reference link to non-existing reference	269	W-Mon-197864	W-Mon-849730
-Reference link to non-existing reference	271	W-Mon-1348	W-Mon-119408
-Reference link to non-existing reference	272	W-Mon-1348	W-Mon-119409
-Reference link to non-existing reference	273	W-Mon-1348	W-Mon-119426
-Reference link to non-existing reference	274	W-Mon-1348	W-Mon-119459
-Reference link to non-existing reference	276	W-Mon-1348	W-Mon-119473
-Reference link to non-existing reference	277	W-Mon-1348	W-Mon-119476
-Reference link to non-existing reference	279	W-Mon-1348	W-Mon-119490
-Reference link to non-existing reference	280	W-Mon-1348	W-Mon-119523
-Reference link to non-existing reference	281	W-Mon-1348	W-Mon-119540
-Reference link to non-existing reference	282	W-Mon-1348	W-Mon-119541
-Reference link to non-existing reference	283	W-Mon-1348	W-Mon-119558
-Reference link to non-existing reference	288	W-Mon-1348	W-Mon-119609
-Reference link to non-existing reference	291	W-Mon-1348	W-Mon-119626
-Reference link to non-existing reference	293	W-Mon-1348	W-Mon-119659
-Reference link to non-existing reference	294	W-Mon-1348	W-Mon-119673
-Reference link to non-existing reference	295	W-Mon-1348	W-Mon-119676
-Reference link to non-existing reference	296	W-Mon-1348	W-Mon-119690
-Reference link to non-existing reference	299	W-Mon-1348	W-Mon-119723
-Reference link to non-existing reference	300	W-Mon-1348	W-Mon-119727
-Reference link to non-existing reference	301	W-Mon-1348	W-Mon-119741
-Reference link to non-existing reference	302	W-Mon-1348	W-Mon-119758
-Reference link to non-existing reference	308	W-Mon-127204	W-Mon-387914
-Reference link to non-existing reference	309	W-Mon-127204	W-Mon-388385
-Reference link to non-existing reference	313	W-Mon-132580	W-Mon-414351
-Reference link to non-existing reference	315	W-Mon-132580	W-Mon-414368
-Reference link to non-existing reference	316	W-Mon-132580	W-Mon-414369
-Reference link to non-existing reference	323	W-Mon-92249	W-Mon-518487
-Reference link to non-existing reference	324	W-Mon-92249	W-Mon-518490
-Reference link to non-existing reference	326	W-Mon-198581	W-Mon-518501
-Reference link to non-existing reference	362	W-Mon-1348	W-Mon-119405
-Reference link to non-existing reference	363	W-Mon-1348	W-Mon-119412
-Reference link to non-existing reference	364	W-Mon-1348	W-Mon-119430
-Reference link to non-existing reference	365	W-Mon-1348	W-Mon-119455
-Reference link to non-existing reference	366	W-Mon-1348	W-Mon-119469
-Reference link to non-existing reference	367	W-Mon-1348	W-Mon-119480
-Reference link to non-existing reference	369	W-Mon-1348	W-Mon-119537
-Reference link to non-existing reference	370	W-Mon-1348	W-Mon-119544
-Reference link to non-existing reference	372	W-Mon-1348	W-Mon-119587
-Reference link to non-existing reference	373	W-Mon-1348	W-Mon-119605
-Reference link to non-existing reference	374	W-Mon-1348	W-Mon-119612
-Reference link to non-existing reference	375	W-Mon-1348	W-Mon-119630
-Reference link to non-existing reference	376	W-Mon-1348	W-Mon-119669
-Reference link to non-existing reference	377	W-Mon-42	W-Mon-119677
-Reference link to non-existing reference	378	W-Mon-1348	W-Mon-119680
-Reference link to non-existing reference	379	W-Mon-1348	W-Mon-119694
-Reference link to non-existing reference	381	W-Mon-1348	W-Mon-119719
-Reference link to non-existing reference	382	W-Mon-1348	W-Mon-119737
-Reference link to non-existing reference	383	W-Mon-1348	W-Mon-119744
-Reference link to non-existing reference	384	W-Mon-1348	W-Mon-119748
-Reference link to non-existing reference	385	W-Mon-1348	W-Mon-119762
-Reference link to non-existing reference	391	W-Mon-127204	W-Mon-387910
-Reference link to non-existing reference	392	W-Mon-127204	W-Mon-388653
-Reference link to non-existing reference	395	W-Mon-127204	W-Mon-395648
-Reference link to non-existing reference	397	W-Mon-127204	W-Mon-396559
-Reference link to non-existing reference	398	W-Mon-132580	W-Mon-414347
-Reference link to non-existing reference	399	W-Mon-132580	W-Mon-414372
-Reference link to non-existing reference	411	W-Mon-92249	W-Mon-518483
-Reference link to non-existing reference	420	W-Mon-132580	W-Mon-519117
-Reference link to non-existing reference	443	W-Mon-1348	W-Mon-119406
-Reference link to non-existing reference	444	W-Mon-1348	W-Mon-119407
-Reference link to non-existing reference	447	W-Mon-1348	W-Mon-119442
-Reference link to non-existing reference	448	W-Mon-1348	W-Mon-119443
-Reference link to non-existing reference	449	W-Mon-1348	W-Mon-119456
-Reference link to non-existing reference	450	W-Mon-1348	W-Mon-119457
-Reference link to non-existing reference	451	W-Mon-1348	W-Mon-119507
-Reference link to non-existing reference	452	W-Mon-1348	W-Mon-119542
-Reference link to non-existing reference	453	W-Mon-1348	W-Mon-119543
-Reference link to non-existing reference	454	W-Mon-1348	W-Mon-119556
-Reference link to non-existing reference	456	W-Mon-1348	W-Mon-119592
-Reference link to non-existing reference	457	W-Mon-1348	W-Mon-119606
-Reference link to non-existing reference	459	W-Mon-1348	W-Mon-119642
-Reference link to non-existing reference	460	W-Mon-1348	W-Mon-119657
-Reference link to non-existing reference	461	W-Mon-1348	W-Mon-119692
-Reference link to non-existing reference	462	W-Mon-1348	W-Mon-119693
-Reference link to non-existing reference	463	W-Mon-1348	W-Mon-119707
-Reference link to non-existing reference	464	W-Mon-1348	W-Mon-119742
-Reference link to non-existing reference	465	W-Mon-1348	W-Mon-119743
-Reference link to non-existing reference	466	W-Mon-1348	W-Mon-119757
-Reference link to non-existing reference	475	W-Mon-127204	W-Mon-387915
-Reference link to non-existing reference	477	W-Mon-127204	W-Mon-395654
-Reference link to non-existing reference	478	W-Mon-132580	W-Mon-414370
-Reference link to non-existing reference	479	W-Mon-132580	W-Mon-414384
-Reference link to non-existing reference	480	W-Mon-132580	W-Mon-414385
-Reference link to non-existing reference	487	W-Mon-92249	W-Mon-518471
-Reference link to non-existing reference	489	W-Mon-198581	W-Mon-518499
-Reference link to non-existing reference	523	W-Mon-1348	W-Mon-119404
-Reference link to non-existing reference	524	W-Mon-1348	W-Mon-119413
-Reference link to non-existing reference	525	W-Mon-1348	W-Mon-119438
-Reference link to non-existing reference	527	W-Mon-1348	W-Mon-119447
-Reference link to non-existing reference	528	W-Mon-1348	W-Mon-119472
-Reference link to non-existing reference	529	W-Mon-1348	W-Mon-119477
-Reference link to non-existing reference	532	W-Mon-1348	W-Mon-119502
-Reference link to non-existing reference	533	W-Mon-1348	W-Mon-119511
-Reference link to non-existing reference	534	W-Mon-1348	W-Mon-119536
-Reference link to non-existing reference	535	W-Mon-1348	W-Mon-119579
-Reference link to non-existing reference	538	W-Mon-1348	W-Mon-119604
-Reference link to non-existing reference	540	W-Mon-1348	W-Mon-119638
-Reference link to non-existing reference	541	W-Mon-1348	W-Mon-119647
-Reference link to non-existing reference	543	W-Mon-1348	W-Mon-119672
-Reference link to non-existing reference	544	W-Mon-1348	W-Mon-119681
-Reference link to non-existing reference	545	W-Mon-1348	W-Mon-119706
-Reference link to non-existing reference	547	W-Mon-1348	W-Mon-119736
-Reference link to non-existing reference	548	W-Mon-1348	W-Mon-119745
-Reference link to non-existing reference	552	W-Mon-127204	W-Mon-388386
-Reference link to non-existing reference	553	W-Mon-127204	W-Mon-389181
-Reference link to non-existing reference	554	W-Mon-127204	W-Mon-389322
-Reference link to non-existing reference	555	W-Mon-127204	W-Mon-395640
-Reference link to non-existing reference	556	W-Mon-127204	W-Mon-396235
-Reference link to non-existing reference	558	W-Mon-127204	W-Mon-396576
-Reference link to non-existing reference	559	W-Mon-132580	W-Mon-414339
-Reference link to non-existing reference	560	W-Mon-132580	W-Mon-414364
-Reference link to non-existing reference	561	W-Mon-132580	W-Mon-414373
-Reference link to non-existing reference	607	W-Mon-197864	W-Mon-849729
-Reference link to non-existing reference	608	W-Mon-197864	W-Mon-849733
-Reference link to non-existing reference	610	W-Mon-1348	W-Mon-119416
-Reference link to non-existing reference	612	W-Mon-1348	W-Mon-119433
-Reference link to non-existing reference	613	W-Mon-1348	W-Mon-119516
-Reference link to non-existing reference	615	W-Mon-1348	W-Mon-119531
-Reference link to non-existing reference	616	W-Mon-1348	W-Mon-119533
-Reference link to non-existing reference	617	W-Mon-1348	W-Mon-119567
-Reference link to non-existing reference	618	W-Mon-1348	W-Mon-119582
-Reference link to non-existing reference	620	W-Mon-1348	W-Mon-119618
-Reference link to non-existing reference	621	W-Mon-1348	W-Mon-119633
-Reference link to non-existing reference	623	W-Mon-1348	W-Mon-119667
-Reference link to non-existing reference	624	W-Mon-1348	W-Mon-119682
-Reference link to non-existing reference	625	W-Mon-1348	W-Mon-119716
-Reference link to non-existing reference	626	W-Mon-1348	W-Mon-119718
-Reference link to non-existing reference	627	W-Mon-1348	W-Mon-119733
-Reference link to non-existing reference	628	W-Mon-1348	W-Mon-119752
-Reference link to non-existing reference	629	W-Mon-1348	W-Mon-119767
-Reference link to non-existing reference	630	W-Mon-42	W-Mon-158679
-Reference link to non-existing reference	636	W-Mon-127204	W-Mon-388978
-Reference link to non-existing reference	637	W-Mon-127204	W-Mon-389227
-Reference link to non-existing reference	639	W-Mon-127204	W-Mon-390163
-Reference link to non-existing reference	641	W-Mon-132580	W-Mon-414344
-Reference link to non-existing reference	642	W-Mon-132580	W-Mon-414359
-Reference link to non-existing reference	643	W-Mon-132580	W-Mon-414361
-Reference link to non-existing reference	676	W-Mon-197864	W-Mon-849734
-Reference link to non-existing reference	678	W-Mon-1348	W-Mon-119401
-Reference link to non-existing reference	679	W-Mon-1348	W-Mon-119414
-Reference link to non-existing reference	680	W-Mon-1348	W-Mon-119448
-Reference link to non-existing reference	681	W-Mon-1348	W-Mon-119450
-Reference link to non-existing reference	682	W-Mon-1348	W-Mon-119465
-Reference link to non-existing reference	684	W-Mon-1348	W-Mon-119501
-Reference link to non-existing reference	686	W-Mon-1348	W-Mon-119548
-Reference link to non-existing reference	687	W-Mon-1348	W-Mon-119550
-Reference link to non-existing reference	689	W-Mon-1348	W-Mon-119584
-Reference link to non-existing reference	690	W-Mon-1348	W-Mon-119650
-Reference link to non-existing reference	691	W-Mon-1348	W-Mon-119665
-Reference link to non-existing reference	692	W-Mon-1348	W-Mon-119699
-Reference link to non-existing reference	693	W-Mon-1348	W-Mon-119701
-Reference link to non-existing reference	694	W-Mon-1348	W-Mon-119735
-Reference link to non-existing reference	695	W-Mon-1348	W-Mon-119750
-Reference link to non-existing reference	696	W-Mon-1348	W-Mon-119765
-Reference link to non-existing reference	701	W-Mon-127204	W-Mon-396147
-Reference link to non-existing reference	703	W-Mon-132580	W-Mon-414342
-Reference link to non-existing reference	704	W-Mon-132580	W-Mon-414376
-Reference link to non-existing reference	705	W-Mon-132580	W-Mon-414378
-Reference link to non-existing reference	732	W-Mon-132580	W-Mon-717825
-Reference link to non-existing reference	751	W-Mon-1348	W-Mon-119421
-Reference link to non-existing reference	752	W-Mon-1348	W-Mon-119435
-Reference link to non-existing reference	754	W-Mon-1348	W-Mon-119478
-Reference link to non-existing reference	757	W-Mon-1348	W-Mon-119521
-Reference link to non-existing reference	758	W-Mon-1348	W-Mon-119528
-Reference link to non-existing reference	759	W-Mon-1348	W-Mon-119578
-Reference link to non-existing reference	761	W-Mon-1348	W-Mon-119614
-Reference link to non-existing reference	762	W-Mon-1348	W-Mon-119621
-Reference link to non-existing reference	763	W-Mon-1348	W-Mon-119664
-Reference link to non-existing reference	764	W-Mon-1348	W-Mon-119671
-Reference link to non-existing reference	765	W-Mon-1348	W-Mon-119714
-Reference link to non-existing reference	766	W-Mon-1348	W-Mon-119721
-Reference link to non-existing reference	767	W-Mon-1348	W-Mon-119728
-Reference link to non-existing reference	768	W-Mon-1348	W-Mon-119764
-Reference link to non-existing reference	769	W-Mon-1348	W-Mon-119771
-Reference link to non-existing reference	771	W-Mon-42	W-Mon-158619
-Reference link to non-existing reference	773	W-Mon-127204	W-Mon-388380
-Reference link to non-existing reference	777	W-Mon-127204	W-Mon-396218
-Reference link to non-existing reference	778	W-Mon-127204	W-Mon-396575
-Reference link to non-existing reference	779	W-Mon-132580	W-Mon-414349
-Reference link to non-existing reference	780	W-Mon-132580	W-Mon-414356
-Reference link to non-existing reference	781	W-Mon-132580	W-Mon-414363
-Reference link to non-existing reference	790	W-Mon-92249	W-Mon-518492
-Reference link to non-existing reference	822	W-Mon-197864	W-Mon-849732
-Reference link to non-existing reference	824	W-Mon-1348	W-Mon-119420
-Reference link to non-existing reference	825	W-Mon-1348	W-Mon-119422
-Reference link to non-existing reference	826	W-Mon-1348	W-Mon-119427
-Reference link to non-existing reference	827	W-Mon-1348	W-Mon-119429
-Reference link to non-existing reference	829	W-Mon-1348	W-Mon-119522
-Reference link to non-existing reference	831	W-Mon-1348	W-Mon-119527
-Reference link to non-existing reference	832	W-Mon-1348	W-Mon-119563
-Reference link to non-existing reference	833	W-Mon-1348	W-Mon-119586
-Reference link to non-existing reference	835	W-Mon-1348	W-Mon-119620
-Reference link to non-existing reference	836	W-Mon-1348	W-Mon-119622
-Reference link to non-existing reference	837	W-Mon-1348	W-Mon-119629
-Reference link to non-existing reference	839	W-Mon-1348	W-Mon-119656
-Reference link to non-existing reference	840	W-Mon-1348	W-Mon-119663
-Reference link to non-existing reference	841	W-Mon-1348	W-Mon-119686
-Reference link to non-existing reference	842	W-Mon-1348	W-Mon-119720
-Reference link to non-existing reference	843	W-Mon-1348	W-Mon-119722
-Reference link to non-existing reference	844	W-Mon-1348	W-Mon-119729
-Reference link to non-existing reference	845	W-Mon-1348	W-Mon-119756
-Reference link to non-existing reference	846	W-Mon-1348	W-Mon-119763
-Reference link to non-existing reference	853	W-Mon-127204	W-Mon-387902
-Reference link to non-existing reference	856	W-Mon-127204	W-Mon-396560
-Reference link to non-existing reference	857	W-Mon-132580	W-Mon-414348
-Reference link to non-existing reference	858	W-Mon-132580	W-Mon-414355
-Reference link to non-existing reference	859	W-Mon-132580	W-Mon-414357
-Reference link to non-existing reference	876	W-Mon-198581	W-Mon-518505
-Reference link to non-existing reference	909	W-Mon-1348	W-Mon-119398
-Reference link to non-existing reference	911	W-Mon-1348	W-Mon-119415
-Reference link to non-existing reference	912	W-Mon-1348	W-Mon-119432
-Reference link to non-existing reference	913	W-Mon-1348	W-Mon-119449
-Reference link to non-existing reference	914	W-Mon-1348	W-Mon-119466
-Reference link to non-existing reference	915	W-Mon-1348	W-Mon-119483
-Reference link to non-existing reference	916	W-Mon-1348	W-Mon-119500
-Reference link to non-existing reference	917	W-Mon-1348	W-Mon-119517
-Reference link to non-existing reference	918	W-Mon-1348	W-Mon-119534
-Reference link to non-existing reference	919	W-Mon-1348	W-Mon-119551
-Reference link to non-existing reference	920	W-Mon-1348	W-Mon-119568
-Reference link to non-existing reference	921	W-Mon-1348	W-Mon-119585
-Reference link to non-existing reference	922	W-Mon-1348	W-Mon-119649
-Reference link to non-existing reference	923	W-Mon-1348	W-Mon-119666
-Reference link to non-existing reference	924	W-Mon-1348	W-Mon-119683
-Reference link to non-existing reference	925	W-Mon-1348	W-Mon-119717
-Reference link to non-existing reference	926	W-Mon-1348	W-Mon-119734
-Reference link to non-existing reference	927	W-Mon-1348	W-Mon-119751
-Reference link to non-existing reference	928	W-Mon-1348	W-Mon-119768
-Reference link to non-existing reference	931	W-Mon-127204	W-Mon-396148
-Reference link to non-existing reference	933	W-Mon-127204	W-Mon-396480
-Reference link to non-existing reference	934	W-Mon-132580	W-Mon-414345
-Reference link to non-existing reference	935	W-Mon-132580	W-Mon-414362
-Reference link to non-existing reference	936	W-Mon-132580	W-Mon-414375
-Reference link to non-existing reference	937	W-Mon-132580	W-Mon-414379
-Reference link to non-existing reference	964	W-Mon-198375	W-Mon-815909
-Reference link to non-existing reference	966	W-Mon-197864	W-Mon-849735
-Reference link to non-existing reference	968	W-Mon-1348	W-Mon-119423
-Reference link to non-existing reference	969	W-Mon-1348	W-Mon-119440
-Reference link to non-existing reference	970	W-Mon-1348	W-Mon-119458
-Reference link to non-existing reference	973	W-Mon-1348	W-Mon-119509
-Reference link to non-existing reference	974	W-Mon-1348	W-Mon-119526
-Reference link to non-existing reference	976	W-Mon-1348	W-Mon-119573
-Reference link to non-existing reference	977	W-Mon-1348	W-Mon-119590
-Reference link to non-existing reference	979	W-Mon-1348	W-Mon-119640
-Reference link to non-existing reference	980	W-Mon-1348	W-Mon-119641
-Reference link to non-existing reference	981	W-Mon-1348	W-Mon-119658
-Reference link to non-existing reference	982	W-Mon-1348	W-Mon-119691
-Reference link to non-existing reference	983	W-Mon-1348	W-Mon-119726
-Reference link to non-existing reference	984	W-Mon-1348	W-Mon-119776
-Reference link to non-existing reference	989	W-Mon-127204	W-Mon-395637
-Reference link to non-existing reference	990	W-Mon-127204	W-Mon-395638
-Reference link to non-existing reference	991	W-Mon-132580	W-Mon-414350
-Reference link to non-existing reference	992	W-Mon-132580	W-Mon-414354
-Reference link to non-existing reference	1031	W-Mon-1348	W-Mon-119424
-Reference link to non-existing reference	1032	W-Mon-1348	W-Mon-119425
-Reference link to non-existing reference	1033	W-Mon-1348	W-Mon-119474
-Reference link to non-existing reference	1034	W-Mon-1348	W-Mon-119475
-Reference link to non-existing reference	1035	W-Mon-1348	W-Mon-119575
-Reference link to non-existing reference	1036	W-Mon-1348	W-Mon-119660
-Reference link to non-existing reference	1037	W-Mon-1348	W-Mon-119674
-Reference link to non-existing reference	1038	W-Mon-1348	W-Mon-119675
-Reference link to non-existing reference	1039	W-Mon-1348	W-Mon-119710
-Reference link to non-existing reference	1040	W-Mon-1348	W-Mon-119724
-Reference link to non-existing reference	1041	W-Mon-1348	W-Mon-119725
-Reference link to non-existing reference	1042	W-Mon-1348	W-Mon-119760
-Reference link to non-existing reference	1043	W-Mon-1348	W-Mon-119774
-Reference link to non-existing reference	1044	W-Mon-1348	W-Mon-119775
-Reference link to non-existing reference	1048	W-Mon-127204	W-Mon-388383
-Reference link to non-existing reference	1049	W-Mon-127204	W-Mon-388934
-Reference link to non-existing reference	1050	W-Mon-132580	W-Mon-414352
-Reference link to non-existing reference	1051	W-Mon-132580	W-Mon-414367
-Reference link to non-existing reference	1056	W-Mon-198581	W-Mon-518502
-Reference link to non-existing reference	1082	W-Mon-197864	W-Mon-849728
-Reference link to non-existing reference	1083	W-Mon-1348	W-Mon-119417
-Reference link to non-existing reference	1084	W-Mon-1348	W-Mon-119434
-Reference link to non-existing reference	1085	W-Mon-1348	W-Mon-119451
-Reference link to non-existing reference	1086	W-Mon-1348	W-Mon-119481
-Reference link to non-existing reference	1087	W-Mon-1348	W-Mon-119515
-Reference link to non-existing reference	1088	W-Mon-1348	W-Mon-119532
-Reference link to non-existing reference	1089	W-Mon-1348	W-Mon-119549
-Reference link to non-existing reference	1090	W-Mon-1348	W-Mon-119685
-Reference link to non-existing reference	1092	W-Mon-1348	W-Mon-119715
-Reference link to non-existing reference	1093	W-Mon-1348	W-Mon-119732
-Reference link to non-existing reference	1094	W-Mon-1348	W-Mon-119749
-Reference link to non-existing reference	1095	W-Mon-1348	W-Mon-119766
-Reference link to non-existing reference	1101	W-Mon-127204	W-Mon-390011
-Reference link to non-existing reference	1102	W-Mon-132580	W-Mon-414343
-Reference link to non-existing reference	1103	W-Mon-132580	W-Mon-414360
-Reference link to non-existing reference	1104	W-Mon-132580	W-Mon-414377
-Reference link to non-existing reference	1111	W-Mon-198595	W-Mon-518470
-Reference link to non-existing reference	1112	W-Mon-92249	W-Mon-518495
-Reference link to non-existing reference	1140	W-Mon-1348	W-Mon-119396
-Reference link to non-existing reference	1141	W-Mon-1348	W-Mon-119403
-Reference link to non-existing reference	1142	W-Mon-1348	W-Mon-119410
-Reference link to non-existing reference	1143	W-Mon-1348	W-Mon-119446
-Reference link to non-existing reference	1144	W-Mon-1348	W-Mon-119453
-Reference link to non-existing reference	1145	W-Mon-1348	W-Mon-119460
-Reference link to non-existing reference	1146	W-Mon-1348	W-Mon-119503
-Reference link to non-existing reference	1147	W-Mon-1348	W-Mon-119510
-Reference link to non-existing reference	1148	W-Mon-1348	W-Mon-119539
-Reference link to non-existing reference	1149	W-Mon-1348	W-Mon-119546
-Reference link to non-existing reference	1150	W-Mon-1348	W-Mon-119560
-Reference link to non-existing reference	1151	W-Mon-1348	W-Mon-119589
-Reference link to non-existing reference	1152	W-Mon-1348	W-Mon-119596
-Reference link to non-existing reference	1153	W-Mon-1348	W-Mon-119639
-Reference link to non-existing reference	1154	W-Mon-1348	W-Mon-119646
-Reference link to non-existing reference	1155	W-Mon-1348	W-Mon-119653
-Reference link to non-existing reference	1156	W-Mon-1348	W-Mon-119696
-Reference link to non-existing reference	1157	W-Mon-1348	W-Mon-119703
-Reference link to non-existing reference	1158	W-Mon-1348	W-Mon-119739
-Reference link to non-existing reference	1159	W-Mon-1348	W-Mon-119746
-Reference link to non-existing reference	1160	W-Mon-1348	W-Mon-119753
-Reference link to non-existing reference	1164	W-Mon-132580	W-Mon-414338
-Reference link to non-existing reference	1165	W-Mon-132580	W-Mon-414374
-Reference link to non-existing reference	1166	W-Mon-132580	W-Mon-414381
+Reference link to non-existing reference	2	W-Mon-1348	W-Mon-119402
+Reference link to non-existing reference	3	W-Mon-1348	W-Mon-119411
+Reference link to non-existing reference	4	W-Mon-1348	W-Mon-119436
+Reference link to non-existing reference	5	W-Mon-42	W-Mon-119444
+Reference link to non-existing reference	6	W-Mon-1348	W-Mon-119445
+Reference link to non-existing reference	7	W-Mon-1348	W-Mon-119470
+Reference link to non-existing reference	12	W-Mon-1348	W-Mon-119504
+Reference link to non-existing reference	14	W-Mon-1348	W-Mon-119538
+Reference link to non-existing reference	15	W-Mon-1348	W-Mon-119547
+Reference link to non-existing reference	18	W-Mon-1348	W-Mon-119572
+Reference link to non-existing reference	19	W-Mon-1348	W-Mon-119577
+Reference link to non-existing reference	21	W-Mon-1348	W-Mon-119602
+Reference link to non-existing reference	23	W-Mon-1348	W-Mon-119611
+Reference link to non-existing reference	24	W-Mon-1348	W-Mon-119636
+Reference link to non-existing reference	25	W-Mon-1348	W-Mon-119645
+Reference link to non-existing reference	26	W-Mon-1348	W-Mon-119670
+Reference link to non-existing reference	27	W-Mon-1348	W-Mon-119679
+Reference link to non-existing reference	30	W-Mon-1348	W-Mon-119704
+Reference link to non-existing reference	31	W-Mon-1348	W-Mon-119713
+Reference link to non-existing reference	33	W-Mon-1348	W-Mon-119738
+Reference link to non-existing reference	34	W-Mon-1348	W-Mon-119747
+Reference link to non-existing reference	35	W-Mon-1348	W-Mon-119772
+Reference link to non-existing reference	42	W-Mon-127204	W-Mon-388881
+Reference link to non-existing reference	44	W-Mon-127204	W-Mon-395642
+Reference link to non-existing reference	45	W-Mon-127204	W-Mon-395940
+Reference link to non-existing reference	46	W-Mon-127204	W-Mon-396476
+Reference link to non-existing reference	47	W-Mon-132580	W-Mon-414341
+Reference link to non-existing reference	56	W-Mon-92249	W-Mon-518493
+Reference link to non-existing reference	85	W-Mon-197864	W-Mon-849731
+Reference link to non-existing reference	89	W-Mon-1348	W-Mon-119416
+Reference link to non-existing reference	91	W-Mon-1348	W-Mon-119431
+Reference link to non-existing reference	92	W-Mon-1348	W-Mon-119433
+Reference link to non-existing reference	94	W-Mon-1348	W-Mon-119467
+Reference link to non-existing reference	95	W-Mon-1348	W-Mon-119516
+Reference link to non-existing reference	97	W-Mon-1348	W-Mon-119531
+Reference link to non-existing reference	98	W-Mon-1348	W-Mon-119533
+Reference link to non-existing reference	100	W-Mon-1348	W-Mon-119567
+Reference link to non-existing reference	101	W-Mon-1348	W-Mon-119582
+Reference link to non-existing reference	104	W-Mon-1348	W-Mon-119616
+Reference link to non-existing reference	105	W-Mon-1348	W-Mon-119618
+Reference link to non-existing reference	106	W-Mon-1348	W-Mon-119633
+Reference link to non-existing reference	108	W-Mon-1348	W-Mon-119667
+Reference link to non-existing reference	109	W-Mon-1348	W-Mon-119682
+Reference link to non-existing reference	110	W-Mon-132580	W-Mon-119687
+Reference link to non-existing reference	111	W-Mon-1348	W-Mon-119716
+Reference link to non-existing reference	112	W-Mon-1348	W-Mon-119718
+Reference link to non-existing reference	113	W-Mon-1348	W-Mon-119733
+Reference link to non-existing reference	114	W-Mon-1348	W-Mon-119752
+Reference link to non-existing reference	115	W-Mon-1348	W-Mon-119767
+Reference link to non-existing reference	116	W-Mon-42	W-Mon-158679
+Reference link to non-existing reference	123	W-Mon-127204	W-Mon-388978
+Reference link to non-existing reference	124	W-Mon-127204	W-Mon-389227
+Reference link to non-existing reference	126	W-Mon-127204	W-Mon-390163
+Reference link to non-existing reference	127	W-Mon-127204	W-Mon-395643
+Reference link to non-existing reference	129	W-Mon-132580	W-Mon-414344
+Reference link to non-existing reference	130	W-Mon-132580	W-Mon-414359
+Reference link to non-existing reference	131	W-Mon-132580	W-Mon-414361
+Reference link to non-existing reference	165	W-Mon-197864	W-Mon-849734
+Reference link to non-existing reference	167	W-Mon-1348	W-Mon-119395
+Reference link to non-existing reference	168	W-Mon-1348	W-Mon-119397
+Reference link to non-existing reference	169	W-Mon-1348	W-Mon-119418
+Reference link to non-existing reference	171	W-Mon-1348	W-Mon-119452
+Reference link to non-existing reference	172	W-Mon-1348	W-Mon-119454
+Reference link to non-existing reference	173	W-Mon-1348	W-Mon-119461
+Reference link to non-existing reference	175	W-Mon-1348	W-Mon-119488
+Reference link to non-existing reference	176	W-Mon-1348	W-Mon-119495
+Reference link to non-existing reference	177	W-Mon-1348	W-Mon-119497
+Reference link to non-existing reference	179	W-Mon-1348	W-Mon-119554
+Reference link to non-existing reference	181	W-Mon-1348	W-Mon-119561
+Reference link to non-existing reference	182	W-Mon-1348	W-Mon-119588
+Reference link to non-existing reference	183	W-Mon-1348	W-Mon-119595
+Reference link to non-existing reference	184	W-Mon-1348	W-Mon-119597
+Reference link to non-existing reference	185	W-Mon-132580	W-Mon-119608
+Reference link to non-existing reference	187	W-Mon-1348	W-Mon-119631
+Reference link to non-existing reference	188	W-Mon-1348	W-Mon-119652
+Reference link to non-existing reference	189	W-Mon-1348	W-Mon-119654
+Reference link to non-existing reference	191	W-Mon-1348	W-Mon-119661
+Reference link to non-existing reference	192	W-Mon-1348	W-Mon-119688
+Reference link to non-existing reference	193	W-Mon-1348	W-Mon-119695
+Reference link to non-existing reference	194	W-Mon-1348	W-Mon-119697
+Reference link to non-existing reference	196	W-Mon-1348	W-Mon-119731
+Reference link to non-existing reference	197	W-Mon-1348	W-Mon-119754
+Reference link to non-existing reference	198	W-Mon-1348	W-Mon-119761
+Reference link to non-existing reference	203	W-Mon-127204	W-Mon-387904
+Reference link to non-existing reference	205	W-Mon-127204	W-Mon-395656
+Reference link to non-existing reference	206	W-Mon-127204	W-Mon-396149
+Reference link to non-existing reference	207	W-Mon-127204	W-Mon-396458
+Reference link to non-existing reference	209	W-Mon-132580	W-Mon-414346
+Reference link to non-existing reference	210	W-Mon-132580	W-Mon-414380
+Reference link to non-existing reference	211	W-Mon-132580	W-Mon-414382
+Reference link to non-existing reference	217	W-Mon-92249	W-Mon-518475
+Reference link to non-existing reference	218	W-Mon-198581	W-Mon-518503
+Reference link to non-existing reference	249	W-Mon-1348	W-Mon-119394
+Reference link to non-existing reference	250	W-Mon-1348	W-Mon-119437
+Reference link to non-existing reference	251	W-Mon-1348	W-Mon-119462
+Reference link to non-existing reference	255	W-Mon-1348	W-Mon-119505
+Reference link to non-existing reference	259	W-Mon-1348	W-Mon-119530
+Reference link to non-existing reference	263	W-Mon-1348	W-Mon-119569
+Reference link to non-existing reference	264	W-Mon-1348	W-Mon-119580
+Reference link to non-existing reference	266	W-Mon-1348	W-Mon-119594
+Reference link to non-existing reference	267	W-Mon-1348	W-Mon-119619
+Reference link to non-existing reference	271	W-Mon-1348	W-Mon-119637
+Reference link to non-existing reference	272	W-Mon-1348	W-Mon-119644
+Reference link to non-existing reference	273	W-Mon-1348	W-Mon-119662
+Reference link to non-existing reference	274	W-Mon-1348	W-Mon-119705
+Reference link to non-existing reference	275	W-Mon-1348	W-Mon-119712
+Reference link to non-existing reference	277	W-Mon-1348	W-Mon-119755
+Reference link to non-existing reference	278	W-Mon-1348	W-Mon-119769
+Reference link to non-existing reference	279	W-Mon-1348	W-Mon-119773
+Reference link to non-existing reference	280	W-Mon-42	W-Mon-158617
+Reference link to non-existing reference	282	W-Mon-127204	W-Mon-387903
+Reference link to non-existing reference	285	W-Mon-127204	W-Mon-395641
+Reference link to non-existing reference	286	W-Mon-127204	W-Mon-395952
+Reference link to non-existing reference	288	W-Mon-132580	W-Mon-414340
+Reference link to non-existing reference	289	W-Mon-132580	W-Mon-414358
+Reference link to non-existing reference	290	W-Mon-132580	W-Mon-414383
+Reference link to non-existing reference	304	W-Mon-198581	W-Mon-518504
+Reference link to non-existing reference	305	W-Mon-198595	W-Mon-518507
+Reference link to non-existing reference	343	W-Mon-197864	W-Mon-849730
+Reference link to non-existing reference	345	W-Mon-1348	W-Mon-119396
+Reference link to non-existing reference	346	W-Mon-1348	W-Mon-119403
+Reference link to non-existing reference	347	W-Mon-1348	W-Mon-119410
+Reference link to non-existing reference	348	W-Mon-1348	W-Mon-119446
+Reference link to non-existing reference	349	W-Mon-1348	W-Mon-119453
+Reference link to non-existing reference	350	W-Mon-1348	W-Mon-119460
+Reference link to non-existing reference	351	W-Mon-132580	W-Mon-119466
+Reference link to non-existing reference	355	W-Mon-1348	W-Mon-119496
+Reference link to non-existing reference	356	W-Mon-1348	W-Mon-119503
+Reference link to non-existing reference	357	W-Mon-1348	W-Mon-119510
+Reference link to non-existing reference	358	W-Mon-1348	W-Mon-119539
+Reference link to non-existing reference	359	W-Mon-1348	W-Mon-119546
+Reference link to non-existing reference	360	W-Mon-1348	W-Mon-119553
+Reference link to non-existing reference	362	W-Mon-1348	W-Mon-119560
+Reference link to non-existing reference	364	W-Mon-1348	W-Mon-119589
+Reference link to non-existing reference	365	W-Mon-1348	W-Mon-119596
+Reference link to non-existing reference	367	W-Mon-1348	W-Mon-119639
+Reference link to non-existing reference	368	W-Mon-1348	W-Mon-119646
+Reference link to non-existing reference	369	W-Mon-1348	W-Mon-119653
+Reference link to non-existing reference	371	W-Mon-132580	W-Mon-119680
+Reference link to non-existing reference	372	W-Mon-1348	W-Mon-119696
+Reference link to non-existing reference	373	W-Mon-1348	W-Mon-119703
+Reference link to non-existing reference	374	W-Mon-132580	W-Mon-119723
+Reference link to non-existing reference	375	W-Mon-1348	W-Mon-119739
+Reference link to non-existing reference	376	W-Mon-1348	W-Mon-119746
+Reference link to non-existing reference	377	W-Mon-1348	W-Mon-119753
+Reference link to non-existing reference	382	W-Mon-127204	W-Mon-388655
+Reference link to non-existing reference	384	W-Mon-127204	W-Mon-395943
+Reference link to non-existing reference	385	W-Mon-127204	W-Mon-396150
+Reference link to non-existing reference	386	W-Mon-127204	W-Mon-396236
+Reference link to non-existing reference	388	W-Mon-132580	W-Mon-414338
+Reference link to non-existing reference	389	W-Mon-132580	W-Mon-414374
+Reference link to non-existing reference	390	W-Mon-132580	W-Mon-414381
+Reference link to non-existing reference	441	W-Mon-1348	W-Mon-119423
+Reference link to non-existing reference	442	W-Mon-1348	W-Mon-119440
+Reference link to non-existing reference	443	W-Mon-1348	W-Mon-119441
+Reference link to non-existing reference	444	W-Mon-1348	W-Mon-119458
+Reference link to non-existing reference	446	W-Mon-1348	W-Mon-119509
+Reference link to non-existing reference	447	W-Mon-1348	W-Mon-119526
+Reference link to non-existing reference	449	W-Mon-1348	W-Mon-119573
+Reference link to non-existing reference	450	W-Mon-1348	W-Mon-119576
+Reference link to non-existing reference	451	W-Mon-1348	W-Mon-119590
+Reference link to non-existing reference	454	W-Mon-1348	W-Mon-119640
+Reference link to non-existing reference	455	W-Mon-1348	W-Mon-119641
+Reference link to non-existing reference	456	W-Mon-132580	W-Mon-119643
+Reference link to non-existing reference	457	W-Mon-1348	W-Mon-119658
+Reference link to non-existing reference	459	W-Mon-1348	W-Mon-119691
+Reference link to non-existing reference	460	W-Mon-1348	W-Mon-119708
+Reference link to non-existing reference	461	W-Mon-1348	W-Mon-119709
+Reference link to non-existing reference	462	W-Mon-1348	W-Mon-119726
+Reference link to non-existing reference	463	W-Mon-1348	W-Mon-119759
+Reference link to non-existing reference	465	W-Mon-1348	W-Mon-119776
+Reference link to non-existing reference	469	W-Mon-127204	W-Mon-389217
+Reference link to non-existing reference	470	W-Mon-127204	W-Mon-395637
+Reference link to non-existing reference	471	W-Mon-127204	W-Mon-395638
+Reference link to non-existing reference	473	W-Mon-127204	W-Mon-395655
+Reference link to non-existing reference	475	W-Mon-127204	W-Mon-396288
+Reference link to non-existing reference	476	W-Mon-132580	W-Mon-414350
+Reference link to non-existing reference	477	W-Mon-132580	W-Mon-414354
+Reference link to non-existing reference	518	W-Mon-1348	W-Mon-119400
+Reference link to non-existing reference	519	W-Mon-1348	W-Mon-119417
+Reference link to non-existing reference	522	W-Mon-1348	W-Mon-119434
+Reference link to non-existing reference	523	W-Mon-1348	W-Mon-119451
+Reference link to non-existing reference	524	W-Mon-1348	W-Mon-119464
+Reference link to non-existing reference	525	W-Mon-1348	W-Mon-119481
+Reference link to non-existing reference	526	W-Mon-1348	W-Mon-119498
+Reference link to non-existing reference	527	W-Mon-1348	W-Mon-119515
+Reference link to non-existing reference	529	W-Mon-1348	W-Mon-119532
+Reference link to non-existing reference	530	W-Mon-1348	W-Mon-119549
+Reference link to non-existing reference	532	W-Mon-1348	W-Mon-119583
+Reference link to non-existing reference	533	W-Mon-1348	W-Mon-119600
+Reference link to non-existing reference	534	W-Mon-1348	W-Mon-119617
+Reference link to non-existing reference	535	W-Mon-1348	W-Mon-119651
+Reference link to non-existing reference	536	W-Mon-1348	W-Mon-119668
+Reference link to non-existing reference	537	W-Mon-1348	W-Mon-119685
+Reference link to non-existing reference	539	W-Mon-1348	W-Mon-119715
+Reference link to non-existing reference	540	W-Mon-1348	W-Mon-119732
+Reference link to non-existing reference	542	W-Mon-1348	W-Mon-119749
+Reference link to non-existing reference	543	W-Mon-1348	W-Mon-119766
+Reference link to non-existing reference	551	W-Mon-127204	W-Mon-388828
+Reference link to non-existing reference	553	W-Mon-127204	W-Mon-395946
+Reference link to non-existing reference	556	W-Mon-132580	W-Mon-414343
+Reference link to non-existing reference	557	W-Mon-132580	W-Mon-414360
+Reference link to non-existing reference	558	W-Mon-132580	W-Mon-414377
+Reference link to non-existing reference	565	W-Mon-198595	W-Mon-518470
+Reference link to non-existing reference	566	W-Mon-92249	W-Mon-518495
+Reference link to non-existing reference	595	W-Mon-1348	W-Mon-119408
+Reference link to non-existing reference	596	W-Mon-1348	W-Mon-119409
+Reference link to non-existing reference	597	W-Mon-1348	W-Mon-119426
+Reference link to non-existing reference	598	W-Mon-1348	W-Mon-119459
+Reference link to non-existing reference	599	W-Mon-1348	W-Mon-119473
+Reference link to non-existing reference	600	W-Mon-1348	W-Mon-119476
+Reference link to non-existing reference	602	W-Mon-1348	W-Mon-119523
+Reference link to non-existing reference	603	W-Mon-1348	W-Mon-119540
+Reference link to non-existing reference	604	W-Mon-1348	W-Mon-119541
+Reference link to non-existing reference	608	W-Mon-1348	W-Mon-119609
+Reference link to non-existing reference	611	W-Mon-1348	W-Mon-119626
+Reference link to non-existing reference	612	W-Mon-1348	W-Mon-119659
+Reference link to non-existing reference	613	W-Mon-1348	W-Mon-119676
+Reference link to non-existing reference	614	W-Mon-1348	W-Mon-119690
+Reference link to non-existing reference	615	W-Mon-1348	W-Mon-119727
+Reference link to non-existing reference	616	W-Mon-1348	W-Mon-119741
+Reference link to non-existing reference	617	W-Mon-1348	W-Mon-119758
+Reference link to non-existing reference	622	W-Mon-127204	W-Mon-387914
+Reference link to non-existing reference	623	W-Mon-127204	W-Mon-388385
+Reference link to non-existing reference	626	W-Mon-132580	W-Mon-414351
+Reference link to non-existing reference	628	W-Mon-132580	W-Mon-414368
+Reference link to non-existing reference	629	W-Mon-132580	W-Mon-414369
+Reference link to non-existing reference	636	W-Mon-92249	W-Mon-518487
+Reference link to non-existing reference	637	W-Mon-92249	W-Mon-518490
+Reference link to non-existing reference	639	W-Mon-198581	W-Mon-518501
+Reference link to non-existing reference	675	W-Mon-1348	W-Mon-119406
+Reference link to non-existing reference	676	W-Mon-1348	W-Mon-119407
+Reference link to non-existing reference	678	W-Mon-1348	W-Mon-119442
+Reference link to non-existing reference	679	W-Mon-1348	W-Mon-119443
+Reference link to non-existing reference	680	W-Mon-1348	W-Mon-119456
+Reference link to non-existing reference	681	W-Mon-1348	W-Mon-119457
+Reference link to non-existing reference	682	W-Mon-1348	W-Mon-119507
+Reference link to non-existing reference	683	W-Mon-1348	W-Mon-119542
+Reference link to non-existing reference	684	W-Mon-1348	W-Mon-119543
+Reference link to non-existing reference	685	W-Mon-1348	W-Mon-119556
+Reference link to non-existing reference	686	W-Mon-1348	W-Mon-119592
+Reference link to non-existing reference	687	W-Mon-1348	W-Mon-119606
+Reference link to non-existing reference	689	W-Mon-1348	W-Mon-119642
+Reference link to non-existing reference	690	W-Mon-1348	W-Mon-119657
+Reference link to non-existing reference	691	W-Mon-1348	W-Mon-119692
+Reference link to non-existing reference	692	W-Mon-1348	W-Mon-119693
+Reference link to non-existing reference	693	W-Mon-1348	W-Mon-119707
+Reference link to non-existing reference	694	W-Mon-1348	W-Mon-119742
+Reference link to non-existing reference	695	W-Mon-1348	W-Mon-119743
+Reference link to non-existing reference	696	W-Mon-1348	W-Mon-119757
+Reference link to non-existing reference	704	W-Mon-127204	W-Mon-387915
+Reference link to non-existing reference	706	W-Mon-127204	W-Mon-395654
+Reference link to non-existing reference	707	W-Mon-132580	W-Mon-414370
+Reference link to non-existing reference	709	W-Mon-132580	W-Mon-414384
+Reference link to non-existing reference	710	W-Mon-132580	W-Mon-414385
+Reference link to non-existing reference	717	W-Mon-92249	W-Mon-518471
+Reference link to non-existing reference	719	W-Mon-198581	W-Mon-518499
+Reference link to non-existing reference	752	W-Mon-1348	W-Mon-119401
+Reference link to non-existing reference	753	W-Mon-1348	W-Mon-119414
+Reference link to non-existing reference	755	W-Mon-1348	W-Mon-119448
+Reference link to non-existing reference	756	W-Mon-1348	W-Mon-119450
+Reference link to non-existing reference	757	W-Mon-1348	W-Mon-119465
+Reference link to non-existing reference	759	W-Mon-1348	W-Mon-119499
+Reference link to non-existing reference	760	W-Mon-1348	W-Mon-119501
+Reference link to non-existing reference	761	W-Mon-1348	W-Mon-119548
+Reference link to non-existing reference	762	W-Mon-1348	W-Mon-119584
+Reference link to non-existing reference	763	W-Mon-1348	W-Mon-119650
+Reference link to non-existing reference	764	W-Mon-1348	W-Mon-119665
+Reference link to non-existing reference	765	W-Mon-1348	W-Mon-119699
+Reference link to non-existing reference	766	W-Mon-1348	W-Mon-119701
+Reference link to non-existing reference	767	W-Mon-1348	W-Mon-119735
+Reference link to non-existing reference	768	W-Mon-1348	W-Mon-119750
+Reference link to non-existing reference	769	W-Mon-1348	W-Mon-119765
+Reference link to non-existing reference	776	W-Mon-127204	W-Mon-395947
+Reference link to non-existing reference	777	W-Mon-127204	W-Mon-396147
+Reference link to non-existing reference	779	W-Mon-132580	W-Mon-414342
+Reference link to non-existing reference	780	W-Mon-132580	W-Mon-414376
+Reference link to non-existing reference	781	W-Mon-132580	W-Mon-414378
+Reference link to non-existing reference	808	W-Mon-132580	W-Mon-717825
+Reference link to non-existing reference	827	W-Mon-1348	W-Mon-119405
+Reference link to non-existing reference	828	W-Mon-1348	W-Mon-119412
+Reference link to non-existing reference	829	W-Mon-1348	W-Mon-119455
+Reference link to non-existing reference	830	W-Mon-1348	W-Mon-119469
+Reference link to non-existing reference	831	W-Mon-1348	W-Mon-119480
+Reference link to non-existing reference	833	W-Mon-1348	W-Mon-119537
+Reference link to non-existing reference	834	W-Mon-1348	W-Mon-119544
+Reference link to non-existing reference	836	W-Mon-1348	W-Mon-119587
+Reference link to non-existing reference	837	W-Mon-1348	W-Mon-119605
+Reference link to non-existing reference	838	W-Mon-1348	W-Mon-119630
+Reference link to non-existing reference	839	W-Mon-1348	W-Mon-119669
+Reference link to non-existing reference	840	W-Mon-1348	W-Mon-119694
+Reference link to non-existing reference	842	W-Mon-1348	W-Mon-119719
+Reference link to non-existing reference	843	W-Mon-1348	W-Mon-119737
+Reference link to non-existing reference	844	W-Mon-1348	W-Mon-119744
+Reference link to non-existing reference	845	W-Mon-1348	W-Mon-119748
+Reference link to non-existing reference	846	W-Mon-1348	W-Mon-119762
+Reference link to non-existing reference	851	W-Mon-127204	W-Mon-388653
+Reference link to non-existing reference	853	W-Mon-127204	W-Mon-395648
+Reference link to non-existing reference	854	W-Mon-132580	W-Mon-414347
+Reference link to non-existing reference	866	W-Mon-92249	W-Mon-518483
+Reference link to non-existing reference	875	W-Mon-132580	W-Mon-519117
+Reference link to non-existing reference	897	W-Mon-1348	W-Mon-119404
+Reference link to non-existing reference	898	W-Mon-1348	W-Mon-119413
+Reference link to non-existing reference	899	W-Mon-1348	W-Mon-119438
+Reference link to non-existing reference	900	W-Mon-1348	W-Mon-119447
+Reference link to non-existing reference	901	W-Mon-1348	W-Mon-119472
+Reference link to non-existing reference	902	W-Mon-1348	W-Mon-119477
+Reference link to non-existing reference	903	W-Mon-1348	W-Mon-119502
+Reference link to non-existing reference	904	W-Mon-1348	W-Mon-119511
+Reference link to non-existing reference	905	W-Mon-1348	W-Mon-119536
+Reference link to non-existing reference	907	W-Mon-1348	W-Mon-119604
+Reference link to non-existing reference	909	W-Mon-1348	W-Mon-119638
+Reference link to non-existing reference	910	W-Mon-1348	W-Mon-119647
+Reference link to non-existing reference	911	W-Mon-1348	W-Mon-119672
+Reference link to non-existing reference	912	W-Mon-1348	W-Mon-119681
+Reference link to non-existing reference	913	W-Mon-1348	W-Mon-119706
+Reference link to non-existing reference	915	W-Mon-1348	W-Mon-119745
+Reference link to non-existing reference	918	W-Mon-127204	W-Mon-396576
+Reference link to non-existing reference	919	W-Mon-132580	W-Mon-414339
+Reference link to non-existing reference	920	W-Mon-132580	W-Mon-414364
+Reference link to non-existing reference	921	W-Mon-132580	W-Mon-414373
+Reference link to non-existing reference	967	W-Mon-197864	W-Mon-849729
+Reference link to non-existing reference	968	W-Mon-197864	W-Mon-849733
+Reference link to non-existing reference	970	W-Mon-1348	W-Mon-119420
+Reference link to non-existing reference	971	W-Mon-1348	W-Mon-119422
+Reference link to non-existing reference	972	W-Mon-1348	W-Mon-119427
+Reference link to non-existing reference	974	W-Mon-1348	W-Mon-119522
+Reference link to non-existing reference	976	W-Mon-1348	W-Mon-119527
+Reference link to non-existing reference	977	W-Mon-1348	W-Mon-119563
+Reference link to non-existing reference	978	W-Mon-1348	W-Mon-119586
+Reference link to non-existing reference	979	W-Mon-1348	W-Mon-119620
+Reference link to non-existing reference	980	W-Mon-1348	W-Mon-119622
+Reference link to non-existing reference	981	W-Mon-1348	W-Mon-119629
+Reference link to non-existing reference	982	W-Mon-1348	W-Mon-119656
+Reference link to non-existing reference	983	W-Mon-1348	W-Mon-119663
+Reference link to non-existing reference	984	W-Mon-1348	W-Mon-119686
+Reference link to non-existing reference	985	W-Mon-1348	W-Mon-119720
+Reference link to non-existing reference	986	W-Mon-1348	W-Mon-119722
+Reference link to non-existing reference	987	W-Mon-1348	W-Mon-119729
+Reference link to non-existing reference	988	W-Mon-1348	W-Mon-119756
+Reference link to non-existing reference	989	W-Mon-1348	W-Mon-119763
+Reference link to non-existing reference	996	W-Mon-127204	W-Mon-387902
+Reference link to non-existing reference	1000	W-Mon-127204	W-Mon-396560
+Reference link to non-existing reference	1001	W-Mon-132580	W-Mon-414348
+Reference link to non-existing reference	1002	W-Mon-132580	W-Mon-414355
+Reference link to non-existing reference	1003	W-Mon-132580	W-Mon-414357
+Reference link to non-existing reference	1020	W-Mon-198581	W-Mon-518505
+Reference link to non-existing reference	1054	W-Mon-1348	W-Mon-119424
+Reference link to non-existing reference	1055	W-Mon-1348	W-Mon-119425
+Reference link to non-existing reference	1056	W-Mon-1348	W-Mon-119474
+Reference link to non-existing reference	1057	W-Mon-1348	W-Mon-119475
+Reference link to non-existing reference	1058	W-Mon-1348	W-Mon-119575
+Reference link to non-existing reference	1059	W-Mon-1348	W-Mon-119610
+Reference link to non-existing reference	1060	W-Mon-1348	W-Mon-119660
+Reference link to non-existing reference	1061	W-Mon-1348	W-Mon-119674
+Reference link to non-existing reference	1062	W-Mon-1348	W-Mon-119675
+Reference link to non-existing reference	1063	W-Mon-1348	W-Mon-119710
+Reference link to non-existing reference	1064	W-Mon-1348	W-Mon-119724
+Reference link to non-existing reference	1065	W-Mon-1348	W-Mon-119725
+Reference link to non-existing reference	1066	W-Mon-1348	W-Mon-119760
+Reference link to non-existing reference	1067	W-Mon-1348	W-Mon-119774
+Reference link to non-existing reference	1068	W-Mon-1348	W-Mon-119775
+Reference link to non-existing reference	1072	W-Mon-132580	W-Mon-414352
+Reference link to non-existing reference	1073	W-Mon-132580	W-Mon-414367
+Reference link to non-existing reference	1078	W-Mon-198581	W-Mon-518502
+Reference link to non-existing reference	1104	W-Mon-197864	W-Mon-849728
+Reference link to non-existing reference	1106	W-Mon-1348	W-Mon-119398
+Reference link to non-existing reference	1107	W-Mon-1348	W-Mon-119415
+Reference link to non-existing reference	1108	W-Mon-1348	W-Mon-119449
+Reference link to non-existing reference	1109	W-Mon-1348	W-Mon-119500
+Reference link to non-existing reference	1110	W-Mon-1348	W-Mon-119517
+Reference link to non-existing reference	1111	W-Mon-1348	W-Mon-119534
+Reference link to non-existing reference	1112	W-Mon-1348	W-Mon-119551
+Reference link to non-existing reference	1113	W-Mon-1348	W-Mon-119568
+Reference link to non-existing reference	1114	W-Mon-1348	W-Mon-119585
+Reference link to non-existing reference	1115	W-Mon-1348	W-Mon-119649
+Reference link to non-existing reference	1116	W-Mon-1348	W-Mon-119666
+Reference link to non-existing reference	1117	W-Mon-1348	W-Mon-119683
+Reference link to non-existing reference	1118	W-Mon-1348	W-Mon-119717
+Reference link to non-existing reference	1119	W-Mon-1348	W-Mon-119734
+Reference link to non-existing reference	1120	W-Mon-1348	W-Mon-119751
+Reference link to non-existing reference	1121	W-Mon-1348	W-Mon-119768
+Reference link to non-existing reference	1125	W-Mon-132580	W-Mon-414345
+Reference link to non-existing reference	1126	W-Mon-132580	W-Mon-414362
+Reference link to non-existing reference	1127	W-Mon-132580	W-Mon-414375
+Reference link to non-existing reference	1128	W-Mon-132580	W-Mon-414379
+Reference link to non-existing reference	1155	W-Mon-198375	W-Mon-815909
+Reference link to non-existing reference	1158	W-Mon-1348	W-Mon-119421
+Reference link to non-existing reference	1159	W-Mon-1348	W-Mon-119435
+Reference link to non-existing reference	1160	W-Mon-1348	W-Mon-119478
+Reference link to non-existing reference	1162	W-Mon-1348	W-Mon-119521
+Reference link to non-existing reference	1163	W-Mon-1348	W-Mon-119528
+Reference link to non-existing reference	1164	W-Mon-1348	W-Mon-119578
+Reference link to non-existing reference	1165	W-Mon-1348	W-Mon-119621
+Reference link to non-existing reference	1166	W-Mon-1348	W-Mon-119664
+Reference link to non-existing reference	1167	W-Mon-1348	W-Mon-119671
+Reference link to non-existing reference	1168	W-Mon-1348	W-Mon-119714
+Reference link to non-existing reference	1169	W-Mon-1348	W-Mon-119721
+Reference link to non-existing reference	1170	W-Mon-1348	W-Mon-119728
+Reference link to non-existing reference	1171	W-Mon-1348	W-Mon-119764
+Reference link to non-existing reference	1172	W-Mon-1348	W-Mon-119771
+Reference link to non-existing reference	1175	W-Mon-127204	W-Mon-396575
+Reference link to non-existing reference	1176	W-Mon-132580	W-Mon-414349
+Reference link to non-existing reference	1177	W-Mon-132580	W-Mon-414356
+Reference link to non-existing reference	1178	W-Mon-132580	W-Mon-414363
+Reference link to non-existing reference	1187	W-Mon-92249	W-Mon-518492
+Reference link to non-existing reference	1219	W-Mon-197864	W-Mon-849732
 --------------
-SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code FROM specialists AS t1
+SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code 
+FROM specialists AS t1
 LEFT JOIN scientific_names AS t2 ON t1.specialist_code = t2.specialist_code
 WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code FROM `references` AS t1
+SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code 
+FROM `references` AS t1
 LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
 LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
 WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
@@ -1814,58 +1849,65 @@ Reference without parent accepted or common name	8	Margolis and Zabata,	1984	NUL
 Reference without parent accepted or common name	13	Bychowsky, B.E	1947	NULL	W-Mon-6860
 Reference without parent accepted or common name	17	Srivastrava, L. P.; James, B. L.	1967	NULL	W-Mon-6864
 Reference without parent accepted or common name	21	Euzet, L. & Sanfilippo, D.	1983	NULL	W-Mon-6868
+Reference without parent accepted or common name	23	Ragias, V.; Athanassopoulou, F.; Sinis, A.	2005	NULL	W-Mon-6871
+Reference without parent accepted or common name	31	Grau, A.; Crespo, S.; Pastor, E.; Gonzalez, P.; Carbonell, E.	2003	NULL	W-Mon-6919
+Reference without parent accepted or common name	34	Neifar, L., Euzet, L. & Ben Hassine, O.K.	1999	NULL	W-Mon-6923
 Reference without parent accepted or common name	35	Desdevises, Y.; Jovelin, R.; Jousson, R.; Morand, S.	2000	NULL	W-Mon-6925
+Reference without parent accepted or common name	39	Gerasev, P. I.; Dmitrieva, E. V.	2004	NULL	W-Mon-6956
 Reference without parent accepted or common name	40	Dimitrov, G.	1991	NULL	W-Mon-6957
 Reference without parent accepted or common name	41	Gerasev, P.I., Dmitrieva, E.V. & gaevskaya, A.V.	2002	NULL	W-Mon-6959
-Reference without parent accepted or common name	43	Zaika, V. E.	1966	NULL	W-Mon-6962
 Reference without parent accepted or common name	45	Sasal, P., Pages, J.-R. & Euzet, L.	1998	NULL	W-Mon-6964
+Reference without parent accepted or common name	47	Gluchowa, V.M.	1955	NULL	W-Mon-6967
 Reference without parent accepted or common name	50	Levinsen, G.M.R.	1881	NULL	W-Mon-6972
 Reference without parent accepted or common name	53	nainum, G. H.; Threlfall	1983	NULL	W-Mon-6978
 Reference without parent accepted or common name	54	Hodneland, K.; Nilsen, F.	1994	NULL	W-Mon-6979
 Reference without parent accepted or common name	55	Kulachkova, V.G.	1977	NULL	W-Mon-6980
 Reference without parent accepted or common name	57	Euzet, L.; Williams, H. H.	1960	NULL	W-Mon-6985
+Reference without parent accepted or common name	58	Rees, G.	1953	NULL	W-Mon-6986
 Reference without parent accepted or common name	59	Brinkmann, A.	1940	NULL	W-Mon-6989
 Reference without parent accepted or common name	60	Williams, H. H.; MacKenzie, K.	2003	NULL	W-Mon-6994
-Reference without parent accepted or common name	64	Llewellyn, J.; Green, J.E.; Kearn, G.C.	1984	NULL	W-Mon-8952
 Reference without parent accepted or common name	66	Williams, H.H.	1959	NULL	W-Mon-8958
 Reference without parent accepted or common name	68	Anderson, M.	1981	NULL	W-Mon-9135
+Reference without parent accepted or common name	69	Llewellyn, J.	1960	NULL	W-Mon-9136
 Reference without parent accepted or common name	70	Euzet, L.	1957	NULL	W-Mon-9137
 Reference without parent accepted or common name	73	Tagliani, G.	1912	NULL	W-Mon-9170
 Reference without parent accepted or common name	76	Balbuena, J. A.; Rubtsova, N. Y.; Sarabeev, V. L.	2005	NULL	W-Mon-9186
-Reference without parent accepted or common name	78	Akmirza, A.	2004	NULL	W-Mon-9188
 Reference without parent accepted or common name	82	Kristmundsson, A.; Bambir, S. H.; Helgason, S.	2006	NULL	W-Mon-9265
+Reference without parent accepted or common name	84	Streftaris, N.; Zenetos, A.; Papathanassiou, E.	2005	NULL	W-Mon-9271
+Reference without parent accepted or common name	87	Mladineo, I.; Marsic-Lusic, J.	2006	NULL	W-Mon-23038
 Reference without parent accepted or common name	94	Paperna, I. & M. Lahav	1972	NULL	W-Mon-106931
+Reference without parent accepted or common name	97	Zenetos, A., M.E. Çinar, M.A. Pancucci-Papadopoulou, J.G. Harmelin, G. Furnari, F. Andaloro, N. Bellou, N. Streftaris & H. Zibrowius	2005	NULL	W-Mon-124391
 Reference without parent accepted or common name	99	Carvajal & Sepulveda	2002	NULL	W-Mon-128232
 Reference without parent accepted or common name	101	Chisholm & Whittington.	2004	NULL	W-Mon-128287
-Reference without parent accepted or common name	102	Chisholm & Whittington.	2005	NULL	W-Mon-128288
 Reference without parent accepted or common name	104	Chisholm, Glennon & Whittington.	2005	NULL	W-Mon-128290
 Reference without parent accepted or common name	105	Domingues, M. V.; Boeger, W. A.	2003	NULL	W-Mon-128374
 Reference without parent accepted or common name	106	Dyer, W. G.; Poly, W. J.	2002	NULL	W-Mon-128387
 Reference without parent accepted or common name	107	Kardousha.	2002	NULL	W-Mon-128706
 Reference without parent accepted or common name	108	Kitamura, Ogawa, Taniuchi & Hirose.	2006	NULL	W-Mon-128732
+Reference without parent accepted or common name	110	Kohn, Baptista-Farias, dos Santos & Gibson.	2004	NULL	W-Mon-128746
 Reference without parent accepted or common name	111	Li, Yan & Wang.	2004	NULL	W-Mon-128853
+Reference without parent accepted or common name	112	Lim.	2006	NULL	W-Mon-128860
 Reference without parent accepted or common name	113	Mogrovejo, C. D.; Santos, C. P.	2002	NULL	W-Mon-128984
 Reference without parent accepted or common name	114	Paraquassu, Luque & Alves.	2002	NULL	W-Mon-129168
 Reference without parent accepted or common name	115	Plaisance, Bouamer & Morand	2004	NULL	W-Mon-129207
-Reference without parent accepted or common name	117	Rubtsova, Balbuena, Sarabeev, Blasco-Costa & Euzet	2006	NULL	W-Mon-129331
-Reference without parent accepted or common name	120	Wu & Li.	2003	NULL	W-Mon-129641
-Reference without parent accepted or common name	121	Wu, Lu & Woo.	2002	NULL	W-Mon-129642
+Reference without parent accepted or common name	118	Santos, Timi & Gibson	2002	NULL	W-Mon-129364
+Reference without parent accepted or common name	123	Bullard & Dippenaar.	2003	NULL	W-Mon-130619
 Reference without parent accepted or common name	125	Ding, Pan & Liu.	2003	NULL	W-Mon-130675
-Reference without parent accepted or common name	126	Domingues & Fehlauer.	2006	NULL	W-Mon-130678
+Reference without parent accepted or common name	127	Glennon, V.; Chisholm, L. A.; Whittington, I. D.	2005	NULL	W-Mon-130734
 Reference without parent accepted or common name	128	Gonzalez, Oliva & Acuna.	2002	NULL	W-Mon-130741
 Reference without parent accepted or common name	131	Kritsky, D. C.; Mendoza-Franco, E.	2003	NULL	W-Mon-130932
-Reference without parent accepted or common name	137	Marie, A. D.; Justine, J.-L.	2005	NULL	W-Mon-131012
-Reference without parent accepted or common name	139	Pan & Zhang	2006	NULL	W-Mon-131105
-Reference without parent accepted or common name	282	Maillard C., Vala, JC	1980	NULL	W-Mon-198373
-Reference without parent accepted or common name	323	Huyse, T.; Volckaert, F. A.	2002	NULL	W-Mon-198605
+Reference without parent accepted or common name	132	Lim, L. H. S.	2002	NULL	W-Mon-130965
+Reference without parent accepted or common name	135	Lim.	2003	NULL	W-Mon-130968
+Reference without parent accepted or common name	136	Lim.	2003	NULL	W-Mon-130969
 Reference without parent accepted or common name	334	Neifar. L.; Euset, L.; Ben Hassine, O.K.	2002	NULL	W-Mon-198663
 Reference without parent accepted or common name	343	Oliver, G.	1986	NULL	W-Mon-199086
 Reference without parent accepted or common name	402	Appleby, C.	1996	NULL	W-Mon-199839
 Reference without parent accepted or common name	440	Pascoe, P. L.	1987	NULL	W-Mon-199939
-Reference without parent accepted or common name	450	Rohde, K.	1987	NULL	W-Mon-199952
+Reference without parent accepted or common name	451	Rubec, L. A. & Dronen, N. O.	1994	NULL	W-Mon-199953
 Reference without parent accepted or common name	464	Wheeler, T. A. & Beverley-Burton, M.	1987	NULL	W-Mon-200043
 Reference without parent accepted or common name	472	Campbell, R. A., Correia, S. J., & Haedrich, R. L.	1982	NULL	W-Mon-200237
 Reference without parent accepted or common name	475	Cone, D. K.	1981	NULL	W-Mon-200241
+Reference without parent accepted or common name	482	Chotnipat, S.; Miller, T.; Knuckey, R.; Hutson, K.	2015	NULL	W-Mon-200474
 --------------
 DROP TRIGGER IF EXISTS delfamcascade
 --------------
@@ -1879,18 +1921,33 @@ DROP TRIGGER IF EXISTS delspcascade
 --------------
 
 --------------
-CREATE TEMPORARY TABLE duplicates_to_delete AS SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
-AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
-(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
-FROM scientific_names
-GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
-LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+CREATE TEMPORARY TABLE duplicates_to_delete AS
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus,
+	dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+FROM
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+	FROM scientific_names
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id
+	HAVING cnt > 1) AS dups
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+WHERE sn.sp2000_status_id = 1 AND sn.name_code NOT IN
+	(SELECT dups3.namecodes_to_keep FROM
+		(SELECT MAX(name_code) AS namecodes_to_keep, genus, subgenus, species, infraspecies_marker, infraspecies, author FROM
+			(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, dups.species AS species,
+				dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+			FROM
+				(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+				FROM scientific_names
+				GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+			LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+			WHERE sn.sp2000_status_id = 1) AS dups2
+		GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author) AS dups3)
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names USING scientific_names INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
+DELETE QUICK FROM scientific_names
+USING scientific_names
+INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
 --------------
 
 --------------
@@ -1901,14 +1958,14 @@ WHERE t2.name_code IS NULL
 
 --------------
 DELETE QUICK t1 FROM scientific_names AS t1
-LEFT JOIN scientific_name_references AS t2 ON t1.accepted_name_code = t2.name_code
+LEFT JOIN scientific_names_tmp AS t2 ON t1.accepted_name_code = t2.name_code
 WHERE t2.name_code IS NULL AND t1.is_accepted_name != 1
 --------------
 
 --------------
 DELETE QUICK t1 FROM scientific_names AS t1
-LEFT JOIN scientific_name_references AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
-WHERE t2.name_code IS NULL
+LEFT JOIN scientific_names_tmp AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
+WHERE t1.infraspecies_parent_name_code IS NOT NULL AND t2.name_code IS NULL
 --------------
 
 --------------
@@ -2046,6 +2103,295 @@ Editorial and Integrity checks Completed.
 Starting Sector Management
 --------------
 SET @dbid = 126
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+DELETE FROM ",
+@dbtouse,
+".`databases` WHERE `record_id` = @dbid")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`families` SELECT 
+NULL AS `record_id`,
+`hierarchy_code`,	
+`kingdom`,	
+`phylum`,	
+`class`,	
+`order`,	
+`family`,	
+`superfamily`, 	
+`database_id`, 	
+`family_code`,
+`is_accepted_name`
+FROM  `families`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`databases` SELECT 
+`database_name_displayed`, 
+`record_id`, 
+`database_name`, 
+`database_full_name`, 
+`web_site`, 
+`organization`, 
+`contact_person`, 
+`taxa`, 
+`taxonomic_coverage`, 
+`abstract`, 
+`version`, 
+`release_date`, 
+`SpeciesCount`, 
+`SpeciesEst`, 
+`authors_editors`, 
+`accepted_species_names`, 
+`accepted_infraspecies_names`, 
+`species_synonyms`, 
+`infraspecies_synonyms`, 
+`common_names`, 
+`total_names`, 
+`is_new`,
+`coverage`,
+`completeness`,
+`confidence`
+FROM `databases`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`scientific_names` 
+(`record_id`, `name_code`, `web_site`, `genus`, `subgenus`, `species`, `infraspecies_parent_name_code`, `infraspecies`, `infraspecies_marker`, `author`, `accepted_name_code`, `comment`, `scrutiny_date`, `sp2000_status_id`, `database_id`, `specialist_id`, `family_id`, `specialist_code`, `family_code`, `is_accepted_name`, `GSDTaxonGUID`, `GSDNameGUID`, `is_extinct`, `has_preholocene`, `has_modern`) SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`web_site`, 
+`genus`, 
+`subgenus`, 
+`species`, 
+`infraspecies_parent_name_code`, 
+`infraspecies`, 
+`infraspecies_marker`, 
+`author`, 
+`accepted_name_code`, 
+`comment`, 
+`scrutiny_date`, 
+`sp2000_status_id`, 
+`database_id`, 
+`specialist_id`, 
+`family_id`, 
+`specialist_code`, 
+`family_code`, 
+`is_accepted_name`, 
+`GSDTaxonGUID`, 
+`GSDNameGUID`, 
+`is_extinct`,
+`has_preholocene`, 
+`has_modern`
+FROM `scientific_names`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`common_names` SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`common_name`, 
+`transliteration`, 
+`language`, 
+`country`, 
+`area`, 
+NULL AS `reference_id`, 
+`database_id`, 
+`is_infraspecies`, 
+`reference_code`
+FROM  `common_names`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`distribution` SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`distribution`, 
+`StandardInUse`, 
+`DistributionStatus`,
+`database_id`
+FROM  `distribution`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`lifezone` SELECT 
+NULL AS `record_id`,
+`name_code`, 	
+`lifezone`,
+`database_id`
+FROM  `lifezone`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`scientific_name_references` SELECT 
+NULL AS `record_id`,
+`name_code`,	
+`reference_type`, 	
+NULL AS `reference_id`,	
+`reference_code`,
+`database_id`
+FROM  `scientific_name_references`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`references` SELECT 
+NULL AS `record_id`, 
+`author`, 
+`year`, 
+`title`, 
+`source`, 
+`database_id`, 
+`reference_code`
+FROM  `references`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`specialists` SELECT 
+NULL AS `record_id`,
+`specialist_name`,
+`specialist_code`,
+`database_id`
+FROM  `specialists`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
 --------------
 
 

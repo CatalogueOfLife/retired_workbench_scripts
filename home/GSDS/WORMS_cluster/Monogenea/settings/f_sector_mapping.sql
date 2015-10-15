@@ -5,4 +5,4 @@ SET @dbid = 126;
 /* DELETE FROM `families` WHERE `family` NOT IN("...","...") ; */
 
 /*Do not use yet*/
-source /home/GSDS/Master/SQL_templates/sector_replacement_standard.sql;
+/* source /home/GSDS/Master/SQL_templates/sector_replacement_standard.sql; */

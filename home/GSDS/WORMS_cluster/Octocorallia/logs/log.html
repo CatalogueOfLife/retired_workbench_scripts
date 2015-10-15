@@ -994,7 +994,7 @@ Data Loaded.
 </pre>
 </pre><hr><b>Backing up...</b>
 <pre>
-Creating directory  09_06_24_14Sep2015
+Creating directory  00_29_06_06Oct2015
 Backing up files
 </pre><hr><b>Executing local editorial checks</b>
 <pre>
@@ -1303,24 +1303,50 @@ UPDATE `references`  SET `author` = TRIM(`author`)
 --------------
 
 --------------
-SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.subgenus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author 
+FROM 
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+	FROM scientific_names 
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author 
+WHERE sn.sp2000_status_id = 1
 --------------
 
 --------------
-SELECT "Accepted name to be retained", MAX(name_code), genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author
+SELECT "Accepted name to be retained", MAX(name_code), genus, subgenus, species, infraspecies_marker, infraspecies, author 
+FROM
+	(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, dups.species AS species, 
+		dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+	FROM 
+		(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+		FROM scientific_names 
+		GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+	LEFT JOIN scientific_names sn
+	ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 
+GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author
 --------------
 
 --------------
-SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
-AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
-(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
-FROM scientific_names
-GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
-LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, 
+	dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+FROM 
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+	FROM scientific_names 
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author 
+WHERE sn.sp2000_status_id = 1 AND sn.name_code NOT IN 
+	(SELECT dups3.namecodes_to_keep FROM
+		(SELECT MAX(name_code) AS namecodes_to_keep, genus, subgenus, species, infraspecies_marker, infraspecies, author 
+		FROM
+			(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, 
+				dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+			FROM 	
+				(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+				FROM scientific_names
+				GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+		LEFT JOIN scientific_names sn
+		ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 
+GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author) AS dups3)
 --------------
 
 --------------
@@ -1348,14 +1374,16 @@ SELECT * FROM scientific_names
 --------------
 
 --------------
-SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, species, infraspecies, accepted_name_code FROM scientific_names
+SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, subgenus, species, infraspecies, accepted_name_code FROM scientific_names
 WHERE is_accepted_name != 1 AND family_code IS NULL
 --------------
 
-Missing parent accepted name for synonym	record_id	name_code	genus	species	infraspecies	accepted_name_code
-Missing parent accepted name for synonym	4163	W-Oct-288416	Acabaria	dakini		W-Oct-517575
+Missing parent accepted name for synonym	record_id	name_code	genus	subgenus	species	infraspecies	accepted_name_code
+Missing parent accepted name for synonym	3772	W-Oct-288416	Acabaria		dakini		W-Oct-517575
 --------------
-SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, species, infraspecies, infraspecies_parent_name_code FROM scientific_names WHERE LENGTH(infraspecies)>1  AND family_code IS NULL
+SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, subgenus, species, infraspecies, infraspecies_parent_name_code 
+FROM scientific_names 
+WHERE LENGTH(infraspecies) > 1 AND family_code IS NULL
 --------------
 
 --------------
@@ -1371,290 +1399,253 @@ WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.family_code FROM scientific_names AS t1
+SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.subgenus, t1.species, t1.infraspecies, t1.family_code 
+FROM scientific_names AS t1
 LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
 WHERE t2.family_code IS NULL
 --------------
 
-Accepted name without parent family	record_id	name_code	genus	species	infraspecies	family_code
-Accepted name without parent family	4163	W-Oct-288416	Acabaria	dakini		NULL
+Accepted name without parent family	record_id	name_code	genus	subgenus	species	infraspecies	family_code
+Accepted name without parent family	3772	W-Oct-288416	Acabaria		dakini		NULL
 --------------
-SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code 
+FROM scientific_name_references AS t1
 LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
 WHERE t2.name_code IS NULL
 --------------
 
 Reference link to non-existing accepted name	record_id	reference_code	name_code
-Reference link to non-existing accepted name	18	W-Oct-1318	W-Oct-290793
-Reference link to non-existing accepted name	145	W-Oct-124428	W-Oct-286208
-Reference link to non-existing accepted name	225	W-Oct-124428	W-Oct-288144
-Reference link to non-existing accepted name	279	W-Oct-1659	W-Oct-151658
-Reference link to non-existing accepted name	303	W-Oct-5987	W-Oct-212761
-Reference link to non-existing accepted name	856	W-Oct-124428	W-Oct-286258
-Reference link to non-existing accepted name	1060	W-Oct-124428	W-Oct-288005
-Reference link to non-existing accepted name	1404	W-Oct-1309	W-Oct-151649
-Reference link to non-existing accepted name	1797	W-Oct-1309	W-Oct-151647
-Reference link to non-existing accepted name	1942	W-Oct-124428	W-Oct-290037
-Reference link to non-existing accepted name	2001	W-Oct-1318	W-Oct-292060
-Reference link to non-existing accepted name	2003	W-Oct-47591	W-Oct-340941
-Reference link to non-existing accepted name	2047	W-Oct-132089	W-Oct-289961
-Reference link to non-existing accepted name	2100	W-Oct-1318	W-Oct-291941
-Reference link to non-existing accepted name	2211	W-Oct-1318	W-Oct-291715
-Reference link to non-existing accepted name	2222	W-Oct-1318	W-Oct-291958
-Reference link to non-existing accepted name	2234	W-Oct-47591	W-Oct-338179
-Reference link to non-existing accepted name	2312	W-Oct-124418	W-Oct-290960
-Reference link to non-existing accepted name	2410	W-Oct-1318	W-Oct-292059
-Reference link to non-existing accepted name	2449	W-Oct-124422	W-Oct-289621
-Reference link to non-existing accepted name	2480	W-Oct-124428	W-Oct-290902
-Reference link to non-existing accepted name	2492	W-Oct-1318	W-Oct-291714
-Reference link to non-existing accepted name	2498	W-Oct-1318	W-Oct-291857
-Reference link to non-existing accepted name	2499	W-Oct-1318	W-Oct-291891
-Reference link to non-existing accepted name	2515	W-Oct-47806	W-Oct-345452
-Reference link to non-existing accepted name	2559	W-Oct-124428	W-Oct-290416
-Reference link to non-existing accepted name	2606	W-Oct-8	W-Oct-337823
-Reference link to non-existing accepted name	2716	W-Oct-671	W-Oct-724654
-Reference link to non-existing accepted name	2746	W-Oct-124422	W-Oct-289627
-Reference link to non-existing accepted name	2800	W-Oct-1318	W-Oct-291951
-Reference link to non-existing accepted name	2897	W-Oct-1318	W-Oct-291832
-Reference link to non-existing accepted name	2903	W-Oct-1318	W-Oct-291939
-Reference link to non-existing accepted name	3020	W-Oct-1318	W-Oct-292095
-Reference link to non-existing accepted name	3093	W-Oct-1318	W-Oct-291953
-Reference link to non-existing accepted name	3285	W-Oct-1318	W-Oct-291851
-Reference link to non-existing accepted name	3299	W-Oct-1318	W-Oct-292536
-Reference link to non-existing accepted name	3419	W-Oct-124428	W-Oct-288586
-Reference link to non-existing accepted name	3456	W-Oct-124428	W-Oct-289558
-Reference link to non-existing accepted name	3491	W-Oct-1318	W-Oct-291713
-Reference link to non-existing accepted name	3496	W-Oct-1318	W-Oct-291849
-Reference link to non-existing accepted name	3511	W-Oct-1318	W-Oct-292056
-Reference link to non-existing accepted name	3547	W-Oct-5987	W-Oct-212763
-Reference link to non-existing accepted name	3695	W-Oct-1318	W-Oct-291883
-Reference link to non-existing accepted name	3704	W-Oct-1318	W-Oct-292058
-Reference link to non-existing accepted name	3713	W-Oct-141724	W-Oct-467967
-Reference link to non-existing accepted name	3851	W-Oct-124422	W-Oct-289640
-Reference link to non-existing accepted name	3889	W-Oct-1318	W-Oct-291781
-Reference link to non-existing accepted name	3890	W-Oct-1318	W-Oct-291788
-Reference link to non-existing accepted name	3894	W-Oct-1318	W-Oct-291888
-Reference link to non-existing accepted name	3895	W-Oct-1318	W-Oct-291917
-Reference link to non-existing accepted name	3925	W-Oct-175546	W-Oct-754314
+Reference link to non-existing accepted name	66	W-Oct-1318	W-Oct-290793
+Reference link to non-existing accepted name	495	W-Oct-5987	W-Oct-212763
+Reference link to non-existing accepted name	702	W-Oct-124428	W-Oct-286258
+Reference link to non-existing accepted name	912	W-Oct-124428	W-Oct-288005
+Reference link to non-existing accepted name	1150	W-Oct-124428	W-Oct-286208
+Reference link to non-existing accepted name	1215	W-Oct-124428	W-Oct-288144
+Reference link to non-existing accepted name	1260	W-Oct-1659	W-Oct-151658
+Reference link to non-existing accepted name	1278	W-Oct-5987	W-Oct-212761
+Reference link to non-existing accepted name	1790	W-Oct-124428	W-Oct-288586
+Reference link to non-existing accepted name	1820	W-Oct-1309	W-Oct-151649
+Reference link to non-existing accepted name	2181	W-Oct-124428	W-Oct-290416
+Reference link to non-existing accepted name	2232	W-Oct-8	W-Oct-337823
+Reference link to non-existing accepted name	2309	W-Oct-124418	W-Oct-290960
+Reference link to non-existing accepted name	2344	W-Oct-51007	W-Oct-340941
+Reference link to non-existing accepted name	2412	W-Oct-1318	W-Oct-292059
+Reference link to non-existing accepted name	2454	W-Oct-124428	W-Oct-290037
+Reference link to non-existing accepted name	2512	W-Oct-1318	W-Oct-292060
+Reference link to non-existing accepted name	2582	W-Oct-1318	W-Oct-291883
+Reference link to non-existing accepted name	2592	W-Oct-1318	W-Oct-292058
+Reference link to non-existing accepted name	2593	W-Oct-8	W-Oct-292536
+Reference link to non-existing accepted name	2605	W-Oct-141724	W-Oct-467967
+Reference link to non-existing accepted name	2646	W-Oct-124422	W-Oct-289621
+Reference link to non-existing accepted name	2677	W-Oct-124428	W-Oct-290902
+Reference link to non-existing accepted name	2689	W-Oct-1318	W-Oct-291714
+Reference link to non-existing accepted name	2695	W-Oct-1318	W-Oct-291857
+Reference link to non-existing accepted name	2696	W-Oct-1318	W-Oct-291891
+Reference link to non-existing accepted name	2711	W-Oct-100017	W-Oct-338179
+Reference link to non-existing accepted name	2713	W-Oct-47806	W-Oct-345452
+Reference link to non-existing accepted name	2789	W-Oct-1318	W-Oct-291851
+Reference link to non-existing accepted name	2904	W-Oct-1318	W-Oct-291832
+Reference link to non-existing accepted name	2910	W-Oct-1318	W-Oct-291939
+Reference link to non-existing accepted name	2963	W-Oct-124428	W-Oct-289558
+Reference link to non-existing accepted name	3005	W-Oct-1318	W-Oct-291713
+Reference link to non-existing accepted name	3010	W-Oct-1318	W-Oct-291849
+Reference link to non-existing accepted name	3026	W-Oct-1318	W-Oct-292056
+Reference link to non-existing accepted name	3227	W-Oct-1318	W-Oct-291715
+Reference link to non-existing accepted name	3238	W-Oct-1318	W-Oct-291958
+Reference link to non-existing accepted name	3300	W-Oct-132089	W-Oct-289961
+Reference link to non-existing accepted name	3347	W-Oct-1318	W-Oct-291941
+Reference link to non-existing accepted name	3397	W-Oct-124422	W-Oct-289627
+Reference link to non-existing accepted name	3444	W-Oct-1318	W-Oct-291951
+Reference link to non-existing accepted name	3559	W-Oct-1318	W-Oct-292095
+Reference link to non-existing accepted name	3655	W-Oct-671	W-Oct-724654
+Reference link to non-existing accepted name	3674	W-Oct-124422	W-Oct-289640
+Reference link to non-existing accepted name	3712	W-Oct-1318	W-Oct-291781
+Reference link to non-existing accepted name	3713	W-Oct-1318	W-Oct-291788
+Reference link to non-existing accepted name	3717	W-Oct-1318	W-Oct-291888
+Reference link to non-existing accepted name	3718	W-Oct-1318	W-Oct-291917
+Reference link to non-existing accepted name	3750	W-Oct-175546	W-Oct-754314
+Reference link to non-existing accepted name	3757	W-Oct-1309	W-Oct-151647
+Reference link to non-existing accepted name	3910	W-Oct-1318	W-Oct-291953
 --------------
-SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code 
+FROM scientific_name_references AS t1
 LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
 WHERE t2.reference_code IS NULL
 --------------
 
 Reference link to non-existing reference	record_id	reference_code	name_code
-Reference link to non-existing reference	1	W-Oct-163039	W-Oct-125361
-Reference link to non-existing reference	5	W-Oct-1318	W-Oct-290178
-Reference link to non-existing reference	6	W-Oct-1318	W-Oct-290890
-Reference link to non-existing reference	7	W-Oct-1318	W-Oct-286695
-Reference link to non-existing reference	9	W-Oct-147411	W-Oct-125416
-Reference link to non-existing reference	10	W-Oct-147411	W-Oct-125366
-Reference link to non-existing reference	11	W-Oct-163039	W-Oct-125331
-Reference link to non-existing reference	12	W-Oct-163039	W-Oct-125387
-Reference link to non-existing reference	15	W-Oct-147411	W-Oct-178914
-Reference link to non-existing reference	16	W-Oct-1318	W-Oct-287600
-Reference link to non-existing reference	17	W-Oct-1318	W-Oct-290029
-Reference link to non-existing reference	18	W-Oct-1318	W-Oct-290793
-Reference link to non-existing reference	19	W-Oct-163039	W-Oct-125365
-Reference link to non-existing reference	23	W-Oct-1318	W-Oct-290925
-Reference link to non-existing reference	24	W-Oct-1318	W-Oct-207409
-Reference link to non-existing reference	28	W-Oct-1318	W-Oct-290922
-Reference link to non-existing reference	29	W-Oct-1318	W-Oct-290879
-Reference link to non-existing reference	30	W-Oct-1318	W-Oct-289951
-Reference link to non-existing reference	31	W-Oct-163039	W-Oct-125369
-Reference link to non-existing reference	34	W-Oct-1318	W-Oct-290045
-Reference link to non-existing reference	35	W-Oct-42	W-Oct-367817
-Reference link to non-existing reference	36	W-Oct-163039	W-Oct-125332
-Reference link to non-existing reference	38	W-Oct-1318	W-Oct-283263
-Reference link to non-existing reference	39	W-Oct-1318	W-Oct-290417
-Reference link to non-existing reference	43	W-Oct-1318	W-Oct-287338
-Reference link to non-existing reference	46	W-Oct-1318	W-Oct-418859
-Reference link to non-existing reference	47	W-Oct-147411	W-Oct-128517
-Reference link to non-existing reference	51	W-Oct-1318	W-Oct-283257
-Reference link to non-existing reference	53	W-Oct-1318	W-Oct-283234
-Reference link to non-existing reference	54	W-Oct-1318	W-Oct-210725
-Reference link to non-existing reference	58	W-Oct-1318	W-Oct-287519
-Reference link to non-existing reference	64	W-Oct-1318	W-Oct-290797
-Reference link to non-existing reference	67	W-Oct-1318	W-Oct-290893
-Reference link to non-existing reference	68	W-Oct-2901	W-Oct-158271
-Reference link to non-existing reference	69	W-Oct-147411	W-Oct-125401
-Reference link to non-existing reference	71	W-Oct-1318	W-Oct-283238
-Reference link to non-existing reference	72	W-Oct-1318	W-Oct-290802
-Reference link to non-existing reference	75	W-Oct-147411	W-Oct-128539
-Reference link to non-existing reference	76	W-Oct-1318	W-Oct-290815
-Reference link to non-existing reference	96	W-Oct-42	W-Oct-158286
-Reference link to non-existing reference	114	W-Oct-1318	W-Oct-212087
-Reference link to non-existing reference	167	W-Oct-132089	W-Oct-286485
-Reference link to non-existing reference	172	W-Oct-132089	W-Oct-286510
-Reference link to non-existing reference	173	W-Oct-132089	W-Oct-286519
-Reference link to non-existing reference	176	W-Oct-132089	W-Oct-286544
-Reference link to non-existing reference	178	W-Oct-132089	W-Oct-286553
-Reference link to non-existing reference	208	W-Oct-132089	W-Oct-287655
-Reference link to non-existing reference	281	W-Oct-1318	W-Oct-173336
-Reference link to non-existing reference	286	W-Oct-132089	W-Oct-173547
-Reference link to non-existing reference	291	W-Oct-6831	W-Oct-183484
-Reference link to non-existing reference	343	W-Oct-132089	W-Oct-286489
-Reference link to non-existing reference	345	W-Oct-132089	W-Oct-286523
-Reference link to non-existing reference	348	W-Oct-132089	W-Oct-286557
-Reference link to non-existing reference	382	W-Oct-132089	W-Oct-287659
-Reference link to non-existing reference	431	W-Oct-1318	W-Oct-289001
-Reference link to non-existing reference	449	W-Oct-132089	W-Oct-289399
-Reference link to non-existing reference	467	W-Oct-42	W-Oct-146535
-Reference link to non-existing reference	471	W-Oct-4181	W-Oct-158272
-Reference link to non-existing reference	472	W-Oct-42	W-Oct-158274
-Reference link to non-existing reference	497	W-Oct-1318	W-Oct-220387
-Reference link to non-existing reference	534	W-Oct-132089	W-Oct-286502
-Reference link to non-existing reference	537	W-Oct-132089	W-Oct-286545
-Reference link to non-existing reference	542	W-Oct-132089	W-Oct-286570
-Reference link to non-existing reference	573	W-Oct-1318	W-Oct-287635
-Reference link to non-existing reference	638	W-Oct-42	W-Oct-158262
-Reference link to non-existing reference	642	W-Oct-5868	W-Oct-158293
-Reference link to non-existing reference	654	W-Oct-1318	W-Oct-209969
-Reference link to non-existing reference	699	W-Oct-132089	W-Oct-286488
-Reference link to non-existing reference	701	W-Oct-132089	W-Oct-286505
-Reference link to non-existing reference	703	W-Oct-132089	W-Oct-286524
-Reference link to non-existing reference	705	W-Oct-132089	W-Oct-286539
-Reference link to non-existing reference	706	W-Oct-132089	W-Oct-286541
-Reference link to non-existing reference	709	W-Oct-132089	W-Oct-286575
-Reference link to non-existing reference	738	W-Oct-132089	W-Oct-287660
-Reference link to non-existing reference	741	W-Oct-132089	W-Oct-287675
-Reference link to non-existing reference	816	W-Oct-132089	W-Oct-173486
-Reference link to non-existing reference	870	W-Oct-132089	W-Oct-286496
-Reference link to non-existing reference	872	W-Oct-132089	W-Oct-286526
-Reference link to non-existing reference	876	W-Oct-132089	W-Oct-286562
-Reference link to non-existing reference	877	W-Oct-132089	W-Oct-286569
-Reference link to non-existing reference	901	W-Oct-1318	W-Oct-287604
-Reference link to non-existing reference	904	W-Oct-132089	W-Oct-287662
-Reference link to non-existing reference	966	W-Oct-132089	W-Oct-125413
-Reference link to non-existing reference	971	W-Oct-132089	W-Oct-173570
-Reference link to non-existing reference	1021	W-Oct-132089	W-Oct-286487
-Reference link to non-existing reference	1024	W-Oct-132089	W-Oct-286512
-Reference link to non-existing reference	1025	W-Oct-132089	W-Oct-286521
-Reference link to non-existing reference	1028	W-Oct-132089	W-Oct-286546
-Reference link to non-existing reference	1049	W-Oct-132089	W-Oct-287648
-Reference link to non-existing reference	1050	W-Oct-132089	W-Oct-287657
-Reference link to non-existing reference	1057	W-Oct-132089	W-Oct-287857
-Reference link to non-existing reference	1159	W-Oct-132089	W-Oct-286482
-Reference link to non-existing reference	1160	W-Oct-132089	W-Oct-286483
-Reference link to non-existing reference	1163	W-Oct-132089	W-Oct-286532
-Reference link to non-existing reference	1166	W-Oct-132089	W-Oct-286547
-Reference link to non-existing reference	1194	W-Oct-132089	W-Oct-287668
-Reference link to non-existing reference	1260	W-Oct-1318	W-Oct-173333
-Reference link to non-existing reference	1263	W-Oct-1318	W-Oct-177711
-Reference link to non-existing reference	1306	W-Oct-132089	W-Oct-286537
-Reference link to non-existing reference	1327	W-Oct-132089	W-Oct-287673
-Reference link to non-existing reference	1400	W-Oct-132089	W-Oct-125408
-Reference link to non-existing reference	1452	W-Oct-132089	W-Oct-286516
-Reference link to non-existing reference	1477	W-Oct-132089	W-Oct-287670
-Reference link to non-existing reference	1492	W-Oct-1318	W-Oct-288024
-Reference link to non-existing reference	1574	W-Oct-132089	W-Oct-286491
-Reference link to non-existing reference	1575	W-Oct-132089	W-Oct-286525
-Reference link to non-existing reference	1596	W-Oct-132089	W-Oct-287661
-Reference link to non-existing reference	1656	W-Oct-132089	W-Oct-289316
-Reference link to non-existing reference	1659	W-Oct-132089	W-Oct-289397
-Reference link to non-existing reference	1675	W-Oct-1318	W-Oct-212894
-Reference link to non-existing reference	1720	W-Oct-132089	W-Oct-286507
-Reference link to non-existing reference	1838	W-Oct-132089	W-Oct-286500
-Reference link to non-existing reference	1840	W-Oct-132089	W-Oct-286514
-Reference link to non-existing reference	1842	W-Oct-132089	W-Oct-286550
-Reference link to non-existing reference	1926	W-Oct-132089	W-Oct-289372
-Reference link to non-existing reference	1938	W-Oct-132089	W-Oct-289901
-Reference link to non-existing reference	1940	W-Oct-132089	W-Oct-289948
-Reference link to non-existing reference	1941	W-Oct-132089	W-Oct-289965
-Reference link to non-existing reference	1963	W-Oct-132089	W-Oct-290684
-Reference link to non-existing reference	1964	W-Oct-132089	W-Oct-290718
-Reference link to non-existing reference	1971	W-Oct-132089	W-Oct-290884
-Reference link to non-existing reference	1982	W-Oct-1318	W-Oct-291728
-Reference link to non-existing reference	1983	W-Oct-1318	W-Oct-291762
-Reference link to non-existing reference	1984	W-Oct-1318	W-Oct-291779
-Reference link to non-existing reference	1985	W-Oct-1318	W-Oct-291792
-Reference link to non-existing reference	1986	W-Oct-1318	W-Oct-291809
-Reference link to non-existing reference	1987	W-Oct-1318	W-Oct-291826
-Reference link to non-existing reference	1988	W-Oct-1318	W-Oct-291843
-Reference link to non-existing reference	1989	W-Oct-1318	W-Oct-291860
-Reference link to non-existing reference	1990	W-Oct-1318	W-Oct-291877
-Reference link to non-existing reference	1991	W-Oct-1318	W-Oct-291894
-Reference link to non-existing reference	1992	W-Oct-1318	W-Oct-291911
-Reference link to non-existing reference	1993	W-Oct-1318	W-Oct-291928
-Reference link to non-existing reference	1994	W-Oct-1318	W-Oct-291945
-Reference link to non-existing reference	1995	W-Oct-1318	W-Oct-291962
-Reference link to non-existing reference	1996	W-Oct-1318	W-Oct-291979
-Reference link to non-existing reference	1997	W-Oct-1318	W-Oct-291996
-Reference link to non-existing reference	1998	W-Oct-1318	W-Oct-292013
-Reference link to non-existing reference	1999	W-Oct-1318	W-Oct-292026
-Reference link to non-existing reference	2000	W-Oct-1318	W-Oct-292043
-Reference link to non-existing reference	2001	W-Oct-1318	W-Oct-292060
-Reference link to non-existing reference	2002	W-Oct-1318	W-Oct-292647
-Reference link to non-existing reference	2004	W-Oct-132089	W-Oct-409510
-Reference link to non-existing reference	2005	W-Oct-132089	W-Oct-409561
-Reference link to non-existing reference	2006	W-Oct-132089	W-Oct-409578
-Reference link to non-existing reference	2027	W-Oct-132089	W-Oct-289395
-Reference link to non-existing reference	2028	W-Oct-132089	W-Oct-289459
-Reference link to non-existing reference	2047	W-Oct-132089	W-Oct-289961
-Reference link to non-existing reference	2079	W-Oct-1318	W-Oct-291030
-Reference link to non-existing reference	2087	W-Oct-1318	W-Oct-291732
-Reference link to non-existing reference	2088	W-Oct-1318	W-Oct-291766
-Reference link to non-existing reference	2089	W-Oct-1318	W-Oct-291775
-Reference link to non-existing reference	2090	W-Oct-1318	W-Oct-291796
-Reference link to non-existing reference	2091	W-Oct-1318	W-Oct-291800
-Reference link to non-existing reference	2092	W-Oct-1318	W-Oct-291805
-Reference link to non-existing reference	2093	W-Oct-1318	W-Oct-291830
-Reference link to non-existing reference	2094	W-Oct-1318	W-Oct-291839
-Reference link to non-existing reference	2095	W-Oct-1318	W-Oct-291864
-Reference link to non-existing reference	2096	W-Oct-1318	W-Oct-291873
-Reference link to non-existing reference	2097	W-Oct-1318	W-Oct-291898
-Reference link to non-existing reference	2098	W-Oct-1318	W-Oct-291907
-Reference link to non-existing reference	2099	W-Oct-1318	W-Oct-291932
-Reference link to non-existing reference	2100	W-Oct-1318	W-Oct-291941
-Reference link to non-existing reference	2101	W-Oct-1318	W-Oct-291966
-Reference link to non-existing reference	2102	W-Oct-1318	W-Oct-291975
-Reference link to non-existing reference	2103	W-Oct-1318	W-Oct-292000
-Reference link to non-existing reference	2104	W-Oct-1318	W-Oct-292005
-Reference link to non-existing reference	2105	W-Oct-1318	W-Oct-292009
-Reference link to non-existing reference	2106	W-Oct-1318	W-Oct-292030
-Reference link to non-existing reference	2107	W-Oct-132089	W-Oct-292033
-Reference link to non-existing reference	2108	W-Oct-1318	W-Oct-292034
-Reference link to non-existing reference	2109	W-Oct-1318	W-Oct-292039
-Reference link to non-existing reference	2110	W-Oct-1318	W-Oct-292064
-Reference link to non-existing reference	2112	W-Oct-1318	W-Oct-292532
-Reference link to non-existing reference	2113	W-Oct-1318	W-Oct-292634
-Reference link to non-existing reference	2114	W-Oct-132089	W-Oct-409514
-Reference link to non-existing reference	2115	W-Oct-132089	W-Oct-409523
-Reference link to non-existing reference	2116	W-Oct-132089	W-Oct-409548
-Reference link to non-existing reference	2117	W-Oct-132089	W-Oct-409557
-Reference link to non-existing reference	2170	W-Oct-132089	W-Oct-289710
-Reference link to non-existing reference	2176	W-Oct-132089	W-Oct-289953
-Reference link to non-existing reference	2211	W-Oct-1318	W-Oct-291715
-Reference link to non-existing reference	2212	W-Oct-1318	W-Oct-291797
-Reference link to non-existing reference	2213	W-Oct-1318	W-Oct-291808
-Reference link to non-existing reference	2214	W-Oct-1318	W-Oct-291822
-Reference link to non-existing reference	2215	W-Oct-1318	W-Oct-291847
-Reference link to non-existing reference	2216	W-Oct-1318	W-Oct-291865
-Reference link to non-existing reference	2217	W-Oct-1318	W-Oct-291872
-Reference link to non-existing reference	2218	W-Oct-1318	W-Oct-291890
-Reference link to non-existing reference	2219	W-Oct-1318	W-Oct-291915
-Reference link to non-existing reference	2220	W-Oct-1318	W-Oct-291933
-Reference link to non-existing reference	2222	W-Oct-1318	W-Oct-291958
-Reference link to non-existing reference	2223	W-Oct-1318	W-Oct-291983
-Reference link to non-existing reference	2224	W-Oct-1318	W-Oct-291997
-Reference link to non-existing reference	2225	W-Oct-1318	W-Oct-292008
-Reference link to non-existing reference	2226	W-Oct-1318	W-Oct-292022
-Reference link to non-existing reference	2227	W-Oct-1318	W-Oct-292047
-Reference link to non-existing reference	2228	W-Oct-1318	W-Oct-292065
-Reference link to non-existing reference	2229	W-Oct-1318	W-Oct-292515
-Reference link to non-existing reference	2230	W-Oct-1318	W-Oct-292533
-Reference link to non-existing reference	2231	W-Oct-1318	W-Oct-292558
-Reference link to non-existing reference	2232	W-Oct-1318	W-Oct-292626
-Reference link to non-existing reference	2233	W-Oct-1318	W-Oct-292651
-Reference link to non-existing reference	2236	W-Oct-1318	W-Oct-367723
-Reference link to non-existing reference	2239	W-Oct-132089	W-Oct-409531
-Reference link to non-existing reference	2240	W-Oct-132089	W-Oct-409549
-Reference link to non-existing reference	2241	W-Oct-132089	W-Oct-409556
-Reference link to non-existing reference	2278	W-Oct-132089	W-Oct-289949
-Reference link to non-existing reference	2299	W-Oct-132089	W-Oct-290683
-Reference link to non-existing reference	2300	W-Oct-132089	W-Oct-290685
-Reference link to non-existing reference	2301	W-Oct-132089	W-Oct-290719
-Reference link to non-existing reference	2308	W-Oct-132089	W-Oct-290885
+Reference link to non-existing reference	4	W-Oct-147412	W-Oct-128517
+Reference link to non-existing reference	5	W-Oct-1318	W-Oct-287519
+Reference link to non-existing reference	6	W-Oct-147411	W-Oct-125366
+Reference link to non-existing reference	7	W-Oct-147411	W-Oct-125416
+Reference link to non-existing reference	8	W-Oct-163039	W-Oct-125331
+Reference link to non-existing reference	11	W-Oct-1318	W-Oct-283257
+Reference link to non-existing reference	14	W-Oct-10085	W-Oct-128506
+Reference link to non-existing reference	15	W-Oct-1318	W-Oct-283238
+Reference link to non-existing reference	16	W-Oct-1318	W-Oct-290802
+Reference link to non-existing reference	17	W-Oct-163039	W-Oct-125361
+Reference link to non-existing reference	21	W-Oct-1318	W-Oct-290893
+Reference link to non-existing reference	22	W-Oct-1318	W-Oct-286416
+Reference link to non-existing reference	23	W-Oct-2901	W-Oct-158271
+Reference link to non-existing reference	25	W-Oct-147411	W-Oct-125401
+Reference link to non-existing reference	26	W-Oct-163039	W-Oct-125332
+Reference link to non-existing reference	29	W-Oct-1318	W-Oct-283254
+Reference link to non-existing reference	30	W-Oct-1318	W-Oct-290797
+Reference link to non-existing reference	31	W-Oct-1318	W-Oct-290812
+Reference link to non-existing reference	32	W-Oct-163039	W-Oct-125387
+Reference link to non-existing reference	35	W-Oct-1318	W-Oct-289534
+Reference link to non-existing reference	36	W-Oct-1318	W-Oct-290888
+Reference link to non-existing reference	37	W-Oct-1318	W-Oct-290815
+Reference link to non-existing reference	38	W-Oct-147411	W-Oct-128539
+Reference link to non-existing reference	39	W-Oct-42	W-Oct-367817
+Reference link to non-existing reference	40	W-Oct-163039	W-Oct-125369
+Reference link to non-existing reference	41	W-Oct-1318	W-Oct-290045
+Reference link to non-existing reference	43	W-Oct-1318	W-Oct-283263
+Reference link to non-existing reference	47	W-Oct-1318	W-Oct-290178
+Reference link to non-existing reference	48	W-Oct-1318	W-Oct-290890
+Reference link to non-existing reference	49	W-Oct-1318	W-Oct-286695
+Reference link to non-existing reference	51	W-Oct-1318	W-Oct-418859
+Reference link to non-existing reference	52	W-Oct-163039	W-Oct-125365
+Reference link to non-existing reference	54	W-Oct-1318	W-Oct-283234
+Reference link to non-existing reference	55	W-Oct-1318	W-Oct-210725
+Reference link to non-existing reference	58	W-Oct-1318	W-Oct-287338
+Reference link to non-existing reference	64	W-Oct-1318	W-Oct-287600
+Reference link to non-existing reference	65	W-Oct-1318	W-Oct-290029
+Reference link to non-existing reference	66	W-Oct-1318	W-Oct-290793
+Reference link to non-existing reference	67	W-Oct-147411	W-Oct-178914
+Reference link to non-existing reference	70	W-Oct-1318	W-Oct-290925
+Reference link to non-existing reference	71	W-Oct-1318	W-Oct-207409
+Reference link to non-existing reference	74	W-Oct-1318	W-Oct-290922
+Reference link to non-existing reference	75	W-Oct-1318	W-Oct-290879
+Reference link to non-existing reference	76	W-Oct-1318	W-Oct-289951
+Reference link to non-existing reference	85	W-Oct-132089	W-Oct-125406
+Reference link to non-existing reference	86	W-Oct-132089	W-Oct-125407
+Reference link to non-existing reference	89	W-Oct-5868	W-Oct-128519
+Reference link to non-existing reference	96	W-Oct-42	W-Oct-158290
+Reference link to non-existing reference	99	W-Oct-132089	W-Oct-173407
+Reference link to non-existing reference	155	W-Oct-132089	W-Oct-286482
+Reference link to non-existing reference	156	W-Oct-132089	W-Oct-286483
+Reference link to non-existing reference	159	W-Oct-132089	W-Oct-286497
+Reference link to non-existing reference	162	W-Oct-132089	W-Oct-286532
+Reference link to non-existing reference	163	W-Oct-132089	W-Oct-286533
+Reference link to non-existing reference	166	W-Oct-132089	W-Oct-286547
+Reference link to non-existing reference	200	W-Oct-132089	W-Oct-287668
+Reference link to non-existing reference	201	W-Oct-132089	W-Oct-287669
+Reference link to non-existing reference	286	W-Oct-42	W-Oct-158262
+Reference link to non-existing reference	291	W-Oct-5868	W-Oct-158293
+Reference link to non-existing reference	306	W-Oct-1318	W-Oct-209969
+Reference link to non-existing reference	355	W-Oct-132089	W-Oct-286488
+Reference link to non-existing reference	357	W-Oct-132089	W-Oct-286505
+Reference link to non-existing reference	359	W-Oct-132089	W-Oct-286524
+Reference link to non-existing reference	362	W-Oct-132089	W-Oct-286539
+Reference link to non-existing reference	363	W-Oct-132089	W-Oct-286541
+Reference link to non-existing reference	365	W-Oct-132089	W-Oct-286575
+Reference link to non-existing reference	399	W-Oct-132089	W-Oct-287660
+Reference link to non-existing reference	402	W-Oct-132089	W-Oct-287675
+Reference link to non-existing reference	481	W-Oct-132089	W-Oct-173476
+Reference link to non-existing reference	483	W-Oct-132089	W-Oct-173558
+Reference link to non-existing reference	487	W-Oct-132089	W-Oct-177838
+Reference link to non-existing reference	535	W-Oct-132089	W-Oct-286495
+Reference link to non-existing reference	536	W-Oct-132089	W-Oct-286509
+Reference link to non-existing reference	538	W-Oct-132089	W-Oct-286520
+Reference link to non-existing reference	541	W-Oct-132089	W-Oct-286538
+Reference link to non-existing reference	543	W-Oct-132089	W-Oct-286563
+Reference link to non-existing reference	571	W-Oct-132089	W-Oct-287656
+Reference link to non-existing reference	573	W-Oct-132089	W-Oct-287674
+Reference link to non-existing reference	631	W-Oct-132089	W-Oct-289317
+Reference link to non-existing reference	662	W-Oct-132089	W-Oct-173450
+Reference link to non-existing reference	663	W-Oct-132089	W-Oct-173486
+Reference link to non-existing reference	679	W-Oct-1318	W-Oct-220386
+Reference link to non-existing reference	716	W-Oct-132089	W-Oct-286496
+Reference link to non-existing reference	717	W-Oct-132089	W-Oct-286503
+Reference link to non-existing reference	719	W-Oct-132089	W-Oct-286526
+Reference link to non-existing reference	724	W-Oct-132089	W-Oct-286560
+Reference link to non-existing reference	725	W-Oct-132089	W-Oct-286562
+Reference link to non-existing reference	726	W-Oct-132089	W-Oct-286569
+Reference link to non-existing reference	754	W-Oct-1318	W-Oct-287604
+Reference link to non-existing reference	757	W-Oct-132089	W-Oct-287662
+Reference link to non-existing reference	815	W-Oct-42	W-Oct-125337
+Reference link to non-existing reference	820	W-Oct-132089	W-Oct-125409
+Reference link to non-existing reference	827	W-Oct-132089	W-Oct-173570
+Reference link to non-existing reference	878	W-Oct-132089	W-Oct-286487
+Reference link to non-existing reference	881	W-Oct-132089	W-Oct-286512
+Reference link to non-existing reference	883	W-Oct-132089	W-Oct-286546
+Reference link to non-existing reference	905	W-Oct-132089	W-Oct-287648
+Reference link to non-existing reference	961	W-Oct-5868	W-Oct-128507
+Reference link to non-existing reference	964	W-Oct-1318	W-Oct-173333
+Reference link to non-existing reference	968	W-Oct-1318	W-Oct-177711
+Reference link to non-existing reference	1010	W-Oct-132089	W-Oct-286501
+Reference link to non-existing reference	1037	W-Oct-132089	W-Oct-287673
+Reference link to non-existing reference	1125	W-Oct-1318	W-Oct-212087
+Reference link to non-existing reference	1173	W-Oct-132089	W-Oct-286510
+Reference link to non-existing reference	1174	W-Oct-132089	W-Oct-286519
+Reference link to non-existing reference	1177	W-Oct-132089	W-Oct-286544
+Reference link to non-existing reference	1178	W-Oct-132089	W-Oct-286553
+Reference link to non-existing reference	1199	W-Oct-132089	W-Oct-287655
+Reference link to non-existing reference	1264	W-Oct-132089	W-Oct-173547
+Reference link to non-existing reference	1267	W-Oct-6831	W-Oct-183484
+Reference link to non-existing reference	1311	W-Oct-132089	W-Oct-286489
+Reference link to non-existing reference	1313	W-Oct-132089	W-Oct-286523
+Reference link to non-existing reference	1315	W-Oct-132089	W-Oct-286557
+Reference link to non-existing reference	1338	W-Oct-132089	W-Oct-287659
+Reference link to non-existing reference	1384	W-Oct-1318	W-Oct-289001
+Reference link to non-existing reference	1401	W-Oct-132089	W-Oct-289399
+Reference link to non-existing reference	1451	W-Oct-132089	W-Oct-286498
+Reference link to non-existing reference	1453	W-Oct-132089	W-Oct-286548
+Reference link to non-existing reference	1456	W-Oct-132089	W-Oct-286566
+Reference link to non-existing reference	1549	W-Oct-42	W-Oct-146535
+Reference link to non-existing reference	1550	W-Oct-4181	W-Oct-158272
+Reference link to non-existing reference	1595	W-Oct-132089	W-Oct-286545
+Reference link to non-existing reference	1624	W-Oct-1318	W-Oct-287635
+Reference link to non-existing reference	1684	W-Oct-132089	W-Oct-177836
+Reference link to non-existing reference	1722	W-Oct-132089	W-Oct-286504
+Reference link to non-existing reference	1724	W-Oct-132089	W-Oct-286511
+Reference link to non-existing reference	1726	W-Oct-132089	W-Oct-286518
+Reference link to non-existing reference	1728	W-Oct-132089	W-Oct-286554
+Reference link to non-existing reference	1729	W-Oct-132089	W-Oct-286568
+Reference link to non-existing reference	1757	W-Oct-132089	W-Oct-287654
+Reference link to non-existing reference	1809	W-Oct-1318	W-Oct-289048
+Reference link to non-existing reference	1816	W-Oct-132089	W-Oct-125408
+Reference link to non-existing reference	1890	W-Oct-1318	W-Oct-288024
+Reference link to non-existing reference	1938	W-Oct-1318	W-Oct-212894
+Reference link to non-existing reference	2079	W-Oct-132089	W-Oct-286525
+Reference link to non-existing reference	2098	W-Oct-132089	W-Oct-287661
+Reference link to non-existing reference	2157	W-Oct-132089	W-Oct-289316
+Reference link to non-existing reference	2160	W-Oct-132089	W-Oct-289397
+Reference link to non-existing reference	2165	W-Oct-132089	W-Oct-289455
+Reference link to non-existing reference	2207	W-Oct-1318	W-Oct-291770
+Reference link to non-existing reference	2208	W-Oct-1318	W-Oct-291784
+Reference link to non-existing reference	2209	W-Oct-1318	W-Oct-291785
+Reference link to non-existing reference	2210	W-Oct-1318	W-Oct-291820
+Reference link to non-existing reference	2211	W-Oct-1318	W-Oct-291821
+Reference link to non-existing reference	2212	W-Oct-1318	W-Oct-291834
+Reference link to non-existing reference	2213	W-Oct-1318	W-Oct-291835
+Reference link to non-existing reference	2214	W-Oct-1318	W-Oct-291870
+Reference link to non-existing reference	2215	W-Oct-1318	W-Oct-291871
+Reference link to non-existing reference	2216	W-Oct-1318	W-Oct-291884
+Reference link to non-existing reference	2217	W-Oct-1318	W-Oct-291885
+Reference link to non-existing reference	2218	W-Oct-1318	W-Oct-291920
+Reference link to non-existing reference	2219	W-Oct-1318	W-Oct-291921
+Reference link to non-existing reference	2220	W-Oct-1318	W-Oct-291934
+Reference link to non-existing reference	2221	W-Oct-1318	W-Oct-291935
+Reference link to non-existing reference	2222	W-Oct-1318	W-Oct-291970
+Reference link to non-existing reference	2223	W-Oct-1318	W-Oct-291971
+Reference link to non-existing reference	2224	W-Oct-1318	W-Oct-291984
+Reference link to non-existing reference	2225	W-Oct-1318	W-Oct-291985
+Reference link to non-existing reference	2226	W-Oct-1318	W-Oct-292020
+Reference link to non-existing reference	2227	W-Oct-1318	W-Oct-292021
+Reference link to non-existing reference	2229	W-Oct-1318	W-Oct-292035
+Reference link to non-existing reference	2230	W-Oct-1318	W-Oct-292070
+Reference link to non-existing reference	2231	W-Oct-1318	W-Oct-292556
+Reference link to non-existing reference	2233	W-Oct-132089	W-Oct-409504
+Reference link to non-existing reference	2234	W-Oct-132089	W-Oct-409519
+Reference link to non-existing reference	2237	W-Oct-132089	W-Oct-409568
+Reference link to non-existing reference	2238	W-Oct-132089	W-Oct-409569
+Reference link to non-existing reference	2276	W-Oct-132089	W-Oct-289949
+Reference link to non-existing reference	2296	W-Oct-132089	W-Oct-290683
+Reference link to non-existing reference	2297	W-Oct-132089	W-Oct-290685
+Reference link to non-existing reference	2298	W-Oct-132089	W-Oct-290719
+Reference link to non-existing reference	2305	W-Oct-132089	W-Oct-290885
 Reference link to non-existing reference	2319	W-Oct-1318	W-Oct-291727
 Reference link to non-existing reference	2320	W-Oct-1318	W-Oct-291729
 Reference link to non-existing reference	2321	W-Oct-1318	W-Oct-291776
@@ -1679,325 +1670,384 @@ Reference link to non-existing reference	2340	W-Oct-1318	W-Oct-292027
 Reference link to non-existing reference	2341	W-Oct-1318	W-Oct-292029
 Reference link to non-existing reference	2342	W-Oct-1318	W-Oct-292063
 Reference link to non-existing reference	2343	W-Oct-1318	W-Oct-292648
-Reference link to non-existing reference	2346	W-Oct-132089	W-Oct-409560
-Reference link to non-existing reference	2347	W-Oct-132089	W-Oct-409562
-Reference link to non-existing reference	2394	W-Oct-1318	W-Oct-291780
-Reference link to non-existing reference	2395	W-Oct-1318	W-Oct-291782
-Reference link to non-existing reference	2396	W-Oct-1318	W-Oct-291816
-Reference link to non-existing reference	2397	W-Oct-1318	W-Oct-291823
-Reference link to non-existing reference	2398	W-Oct-1318	W-Oct-291825
-Reference link to non-existing reference	2399	W-Oct-1318	W-Oct-291880
-Reference link to non-existing reference	2400	W-Oct-1318	W-Oct-291889
-Reference link to non-existing reference	2401	W-Oct-1318	W-Oct-291916
-Reference link to non-existing reference	2402	W-Oct-1318	W-Oct-291923
-Reference link to non-existing reference	2403	W-Oct-1318	W-Oct-291925
-Reference link to non-existing reference	2404	W-Oct-1318	W-Oct-291980
-Reference link to non-existing reference	2405	W-Oct-1318	W-Oct-291982
-Reference link to non-existing reference	2406	W-Oct-1318	W-Oct-291989
-Reference link to non-existing reference	2407	W-Oct-1318	W-Oct-292016
-Reference link to non-existing reference	2408	W-Oct-1318	W-Oct-292023
-Reference link to non-existing reference	2409	W-Oct-132089	W-Oct-292051
-Reference link to non-existing reference	2410	W-Oct-1318	W-Oct-292059
-Reference link to non-existing reference	2411	W-Oct-1318	W-Oct-292516
-Reference link to non-existing reference	2412	W-Oct-132089	W-Oct-292517
-Reference link to non-existing reference	2413	W-Oct-1318	W-Oct-292552
-Reference link to non-existing reference	2414	W-Oct-1318	W-Oct-292618
-Reference link to non-existing reference	2415	W-Oct-1318	W-Oct-292625
-Reference link to non-existing reference	2416	W-Oct-132089	W-Oct-409564
-Reference link to non-existing reference	2441	W-Oct-132089	W-Oct-289368
-Reference link to non-existing reference	2442	W-Oct-132089	W-Oct-289370
-Reference link to non-existing reference	2468	W-Oct-1318	W-Oct-290419
-Reference link to non-existing reference	2479	W-Oct-132089	W-Oct-290883
-Reference link to non-existing reference	2492	W-Oct-1318	W-Oct-291714
-Reference link to non-existing reference	2493	W-Oct-1318	W-Oct-291791
-Reference link to non-existing reference	2494	W-Oct-1318	W-Oct-291814
-Reference link to non-existing reference	2495	W-Oct-1318	W-Oct-291848
-Reference link to non-existing reference	2496	W-Oct-1318	W-Oct-291850
-Reference link to non-existing reference	2497	W-Oct-1318	W-Oct-291855
-Reference link to non-existing reference	2498	W-Oct-1318	W-Oct-291857
-Reference link to non-existing reference	2499	W-Oct-1318	W-Oct-291891
-Reference link to non-existing reference	2500	W-Oct-1318	W-Oct-291914
-Reference link to non-existing reference	2501	W-Oct-1318	W-Oct-291948
-Reference link to non-existing reference	2502	W-Oct-1318	W-Oct-291950
-Reference link to non-existing reference	2503	W-Oct-1318	W-Oct-291957
-Reference link to non-existing reference	2504	W-Oct-1318	W-Oct-291991
-Reference link to non-existing reference	2505	W-Oct-1318	W-Oct-292014
-Reference link to non-existing reference	2506	W-Oct-1318	W-Oct-292050
-Reference link to non-existing reference	2507	W-Oct-1318	W-Oct-292055
-Reference link to non-existing reference	2508	W-Oct-1318	W-Oct-292057
-Reference link to non-existing reference	2509	W-Oct-1318	W-Oct-292550
-Reference link to non-existing reference	2510	W-Oct-1318	W-Oct-292557
-Reference link to non-existing reference	2511	W-Oct-1318	W-Oct-292591
-Reference link to non-existing reference	2512	W-Oct-1318	W-Oct-292627
-Reference link to non-existing reference	2513	W-Oct-1318	W-Oct-292650
-Reference link to non-existing reference	2516	W-Oct-132089	W-Oct-409496
-Reference link to non-existing reference	2517	W-Oct-132089	W-Oct-409532
-Reference link to non-existing reference	2518	W-Oct-132089	W-Oct-409539
-Reference link to non-existing reference	2519	W-Oct-132089	W-Oct-409541
-Reference link to non-existing reference	2543	W-Oct-132089	W-Oct-289455
-Reference link to non-existing reference	2582	W-Oct-1318	W-Oct-291770
-Reference link to non-existing reference	2583	W-Oct-1318	W-Oct-291784
-Reference link to non-existing reference	2584	W-Oct-1318	W-Oct-291785
-Reference link to non-existing reference	2585	W-Oct-1318	W-Oct-291820
-Reference link to non-existing reference	2586	W-Oct-1318	W-Oct-291821
-Reference link to non-existing reference	2587	W-Oct-1318	W-Oct-291834
-Reference link to non-existing reference	2588	W-Oct-1318	W-Oct-291835
-Reference link to non-existing reference	2589	W-Oct-1318	W-Oct-291870
-Reference link to non-existing reference	2590	W-Oct-1318	W-Oct-291871
-Reference link to non-existing reference	2591	W-Oct-1318	W-Oct-291884
-Reference link to non-existing reference	2592	W-Oct-1318	W-Oct-291885
-Reference link to non-existing reference	2593	W-Oct-1318	W-Oct-291920
-Reference link to non-existing reference	2594	W-Oct-1318	W-Oct-291921
-Reference link to non-existing reference	2595	W-Oct-1318	W-Oct-291934
-Reference link to non-existing reference	2596	W-Oct-1318	W-Oct-291935
-Reference link to non-existing reference	2597	W-Oct-1318	W-Oct-291970
-Reference link to non-existing reference	2598	W-Oct-1318	W-Oct-291971
-Reference link to non-existing reference	2599	W-Oct-1318	W-Oct-291984
-Reference link to non-existing reference	2600	W-Oct-1318	W-Oct-291985
-Reference link to non-existing reference	2601	W-Oct-1318	W-Oct-292020
-Reference link to non-existing reference	2602	W-Oct-1318	W-Oct-292021
-Reference link to non-existing reference	2603	W-Oct-1318	W-Oct-292035
-Reference link to non-existing reference	2604	W-Oct-1318	W-Oct-292070
-Reference link to non-existing reference	2605	W-Oct-1318	W-Oct-292556
-Reference link to non-existing reference	2607	W-Oct-132089	W-Oct-409504
-Reference link to non-existing reference	2608	W-Oct-132089	W-Oct-409519
-Reference link to non-existing reference	2609	W-Oct-132089	W-Oct-409568
-Reference link to non-existing reference	2610	W-Oct-132089	W-Oct-409569
-Reference link to non-existing reference	2642	W-Oct-132089	W-Oct-289950
-Reference link to non-existing reference	2654	W-Oct-132089	W-Oct-290350
-Reference link to non-existing reference	2667	W-Oct-132089	W-Oct-290720
-Reference link to non-existing reference	2675	W-Oct-132089	W-Oct-290886
-Reference link to non-existing reference	2683	W-Oct-1318	W-Oct-291777
-Reference link to non-existing reference	2684	W-Oct-1318	W-Oct-291794
-Reference link to non-existing reference	2685	W-Oct-1318	W-Oct-291811
-Reference link to non-existing reference	2686	W-Oct-1318	W-Oct-291828
-Reference link to non-existing reference	2687	W-Oct-1318	W-Oct-291845
-Reference link to non-existing reference	2688	W-Oct-1318	W-Oct-291862
-Reference link to non-existing reference	2689	W-Oct-1318	W-Oct-291879
-Reference link to non-existing reference	2690	W-Oct-1318	W-Oct-291896
-Reference link to non-existing reference	2691	W-Oct-1318	W-Oct-291909
-Reference link to non-existing reference	2692	W-Oct-1318	W-Oct-291926
-Reference link to non-existing reference	2693	W-Oct-1318	W-Oct-291960
-Reference link to non-existing reference	2694	W-Oct-1318	W-Oct-291977
-Reference link to non-existing reference	2695	W-Oct-1318	W-Oct-291994
-Reference link to non-existing reference	2696	W-Oct-1318	W-Oct-292011
-Reference link to non-existing reference	2697	W-Oct-1318	W-Oct-292028
-Reference link to non-existing reference	2698	W-Oct-1318	W-Oct-292045
-Reference link to non-existing reference	2699	W-Oct-1318	W-Oct-292062
-Reference link to non-existing reference	2700	W-Oct-1318	W-Oct-292564
-Reference link to non-existing reference	2701	W-Oct-1318	W-Oct-292645
-Reference link to non-existing reference	2702	W-Oct-132089	W-Oct-409495
-Reference link to non-existing reference	2703	W-Oct-132089	W-Oct-409512
-Reference link to non-existing reference	2704	W-Oct-132089	W-Oct-409529
-Reference link to non-existing reference	2705	W-Oct-132089	W-Oct-409559
-Reference link to non-existing reference	2742	W-Oct-132089	W-Oct-289456
-Reference link to non-existing reference	2749	W-Oct-132089	W-Oct-289707
-Reference link to non-existing reference	2790	W-Oct-1318	W-Oct-291768
-Reference link to non-existing reference	2791	W-Oct-1318	W-Oct-291769
-Reference link to non-existing reference	2792	W-Oct-1318	W-Oct-291819
-Reference link to non-existing reference	2793	W-Oct-1318	W-Oct-291836
-Reference link to non-existing reference	2794	W-Oct-1318	W-Oct-291837
-Reference link to non-existing reference	2795	W-Oct-1318	W-Oct-291854
-Reference link to non-existing reference	2796	W-Oct-1318	W-Oct-291887
-Reference link to non-existing reference	2797	W-Oct-1318	W-Oct-291901
-Reference link to non-existing reference	2798	W-Oct-1318	W-Oct-291904
-Reference link to non-existing reference	2799	W-Oct-1318	W-Oct-291918
-Reference link to non-existing reference	2800	W-Oct-1318	W-Oct-291951
-Reference link to non-existing reference	2802	W-Oct-1318	W-Oct-291968
-Reference link to non-existing reference	2803	W-Oct-1318	W-Oct-291969
-Reference link to non-existing reference	2804	W-Oct-1318	W-Oct-291986
-Reference link to non-existing reference	2805	W-Oct-1318	W-Oct-292019
-Reference link to non-existing reference	2806	W-Oct-1318	W-Oct-292036
-Reference link to non-existing reference	2807	W-Oct-1318	W-Oct-292037
-Reference link to non-existing reference	2808	W-Oct-1318	W-Oct-292054
-Reference link to non-existing reference	2809	W-Oct-1318	W-Oct-292555
-Reference link to non-existing reference	2811	W-Oct-132089	W-Oct-409503
-Reference link to non-existing reference	2812	W-Oct-132089	W-Oct-409517
-Reference link to non-existing reference	2813	W-Oct-132089	W-Oct-409520
-Reference link to non-existing reference	2814	W-Oct-132089	W-Oct-409534
-Reference link to non-existing reference	2816	W-Oct-132089	W-Oct-409567
-Reference link to non-existing reference	2817	W-Oct-132089	W-Oct-409571
-Reference link to non-existing reference	2892	W-Oct-1318	W-Oct-291730
-Reference link to non-existing reference	2893	W-Oct-1318	W-Oct-291764
-Reference link to non-existing reference	2894	W-Oct-1318	W-Oct-291773
-Reference link to non-existing reference	2895	W-Oct-1318	W-Oct-291798
-Reference link to non-existing reference	2896	W-Oct-1318	W-Oct-291807
-Reference link to non-existing reference	2897	W-Oct-1318	W-Oct-291832
-Reference link to non-existing reference	2898	W-Oct-1318	W-Oct-291866
-Reference link to non-existing reference	2899	W-Oct-1318	W-Oct-291875
-Reference link to non-existing reference	2900	W-Oct-1318	W-Oct-291900
-Reference link to non-existing reference	2901	W-Oct-1318	W-Oct-291905
-Reference link to non-existing reference	2902	W-Oct-1318	W-Oct-291930
-Reference link to non-existing reference	2903	W-Oct-1318	W-Oct-291939
-Reference link to non-existing reference	2904	W-Oct-1318	W-Oct-291964
-Reference link to non-existing reference	2905	W-Oct-1318	W-Oct-291973
-Reference link to non-existing reference	2906	W-Oct-1318	W-Oct-291998
-Reference link to non-existing reference	2907	W-Oct-1318	W-Oct-292007
-Reference link to non-existing reference	2908	W-Oct-1318	W-Oct-292032
-Reference link to non-existing reference	2909	W-Oct-1318	W-Oct-292041
-Reference link to non-existing reference	2910	W-Oct-1318	W-Oct-292632
-Reference link to non-existing reference	2912	W-Oct-132089	W-Oct-409516
-Reference link to non-existing reference	2913	W-Oct-132089	W-Oct-409525
-Reference link to non-existing reference	2914	W-Oct-132089	W-Oct-409546
-Reference link to non-existing reference	2915	W-Oct-132089	W-Oct-409550
-Reference link to non-existing reference	2916	W-Oct-132089	W-Oct-409555
-Reference link to non-existing reference	2917	W-Oct-132089	W-Oct-409589
-Reference link to non-existing reference	2995	W-Oct-132089	W-Oct-290887
-Reference link to non-existing reference	3002	W-Oct-1318	W-Oct-291761
-Reference link to non-existing reference	3003	W-Oct-1318	W-Oct-291795
-Reference link to non-existing reference	3004	W-Oct-1318	W-Oct-291810
-Reference link to non-existing reference	3005	W-Oct-1318	W-Oct-291844
-Reference link to non-existing reference	3006	W-Oct-1318	W-Oct-291846
-Reference link to non-existing reference	3007	W-Oct-1318	W-Oct-291859
-Reference link to non-existing reference	3008	W-Oct-1318	W-Oct-291861
-Reference link to non-existing reference	3009	W-Oct-1318	W-Oct-291895
-Reference link to non-existing reference	3010	W-Oct-1318	W-Oct-291910
-Reference link to non-existing reference	3011	W-Oct-1318	W-Oct-291944
-Reference link to non-existing reference	3012	W-Oct-1318	W-Oct-291946
-Reference link to non-existing reference	3013	W-Oct-1318	W-Oct-291959
-Reference link to non-existing reference	3014	W-Oct-1318	W-Oct-291961
-Reference link to non-existing reference	3015	W-Oct-1318	W-Oct-291995
-Reference link to non-existing reference	3016	W-Oct-1318	W-Oct-292010
-Reference link to non-existing reference	3017	W-Oct-132089	W-Oct-292038
-Reference link to non-existing reference	3018	W-Oct-1318	W-Oct-292044
-Reference link to non-existing reference	3019	W-Oct-1318	W-Oct-292061
-Reference link to non-existing reference	3020	W-Oct-1318	W-Oct-292095
-Reference link to non-existing reference	3021	W-Oct-1318	W-Oct-292531
-Reference link to non-existing reference	3022	W-Oct-1318	W-Oct-292631
-Reference link to non-existing reference	3023	W-Oct-1318	W-Oct-292646
-Reference link to non-existing reference	3024	W-Oct-132089	W-Oct-409528
-Reference link to non-existing reference	3025	W-Oct-132089	W-Oct-409545
-Reference link to non-existing reference	3045	W-Oct-132089	W-Oct-289458
-Reference link to non-existing reference	3053	W-Oct-132089	W-Oct-289708
-Reference link to non-existing reference	3055	W-Oct-132089	W-Oct-289808
-Reference link to non-existing reference	3076	W-Oct-132089	W-Oct-290944
-Reference link to non-existing reference	3082	W-Oct-1318	W-Oct-291767
-Reference link to non-existing reference	3084	W-Oct-1318	W-Oct-291802
-Reference link to non-existing reference	3085	W-Oct-1318	W-Oct-291803
-Reference link to non-existing reference	3086	W-Oct-1318	W-Oct-291817
-Reference link to non-existing reference	3087	W-Oct-1318	W-Oct-291852
-Reference link to non-existing reference	3088	W-Oct-1318	W-Oct-291853
-Reference link to non-existing reference	3089	W-Oct-1318	W-Oct-291867
-Reference link to non-existing reference	3090	W-Oct-1318	W-Oct-291902
-Reference link to non-existing reference	3091	W-Oct-1318	W-Oct-291903
-Reference link to non-existing reference	3092	W-Oct-1318	W-Oct-291952
-Reference link to non-existing reference	3093	W-Oct-1318	W-Oct-291953
-Reference link to non-existing reference	3094	W-Oct-1318	W-Oct-291988
-Reference link to non-existing reference	3095	W-Oct-1318	W-Oct-292002
-Reference link to non-existing reference	3096	W-Oct-1318	W-Oct-292003
-Reference link to non-existing reference	3097	W-Oct-132089	W-Oct-292031
-Reference link to non-existing reference	3098	W-Oct-1318	W-Oct-292052
-Reference link to non-existing reference	3099	W-Oct-1318	W-Oct-292053
-Reference link to non-existing reference	3100	W-Oct-1318	W-Oct-292538
-Reference link to non-existing reference	3101	W-Oct-1318	W-Oct-292539
-Reference link to non-existing reference	3102	W-Oct-1318	W-Oct-292603
-Reference link to non-existing reference	3103	W-Oct-124588	W-Oct-367982
-Reference link to non-existing reference	3105	W-Oct-132089	W-Oct-409536
-Reference link to non-existing reference	3106	W-Oct-132089	W-Oct-409551
-Reference link to non-existing reference	3281	W-Oct-1318	W-Oct-291787
-Reference link to non-existing reference	3282	W-Oct-1318	W-Oct-291801
-Reference link to non-existing reference	3283	W-Oct-1318	W-Oct-291804
-Reference link to non-existing reference	3284	W-Oct-1318	W-Oct-291818
-Reference link to non-existing reference	3285	W-Oct-1318	W-Oct-291851
-Reference link to non-existing reference	3286	W-Oct-1318	W-Oct-291868
-Reference link to non-existing reference	3287	W-Oct-1318	W-Oct-291869
-Reference link to non-existing reference	3288	W-Oct-1318	W-Oct-291886
-Reference link to non-existing reference	3289	W-Oct-1318	W-Oct-291919
-Reference link to non-existing reference	3290	W-Oct-1318	W-Oct-291936
-Reference link to non-existing reference	3291	W-Oct-1318	W-Oct-291937
-Reference link to non-existing reference	3292	W-Oct-1318	W-Oct-291954
-Reference link to non-existing reference	3293	W-Oct-1318	W-Oct-291987
-Reference link to non-existing reference	3294	W-Oct-1318	W-Oct-292001
-Reference link to non-existing reference	3295	W-Oct-1318	W-Oct-292004
-Reference link to non-existing reference	3296	W-Oct-1318	W-Oct-292018
-Reference link to non-existing reference	3297	W-Oct-1318	W-Oct-292068
-Reference link to non-existing reference	3298	W-Oct-1318	W-Oct-292069
-Reference link to non-existing reference	3299	W-Oct-1318	W-Oct-292536
-Reference link to non-existing reference	3300	W-Oct-1318	W-Oct-292537
-Reference link to non-existing reference	3301	W-Oct-1318	W-Oct-292554
-Reference link to non-existing reference	3302	W-Oct-1318	W-Oct-292604
-Reference link to non-existing reference	3303	W-Oct-132089	W-Oct-409502
-Reference link to non-existing reference	3304	W-Oct-132089	W-Oct-409535
-Reference link to non-existing reference	3305	W-Oct-132089	W-Oct-409553
-Reference link to non-existing reference	3306	W-Oct-132089	W-Oct-409570
-Reference link to non-existing reference	3309	W-Oct-141756	W-Oct-472851
-Reference link to non-existing reference	3390	W-Oct-132089	W-Oct-287654
-Reference link to non-existing reference	3438	W-Oct-1318	W-Oct-289048
-Reference link to non-existing reference	3491	W-Oct-1318	W-Oct-291713
-Reference link to non-existing reference	3492	W-Oct-1318	W-Oct-291763
-Reference link to non-existing reference	3493	W-Oct-1318	W-Oct-291799
-Reference link to non-existing reference	3494	W-Oct-1318	W-Oct-291806
-Reference link to non-existing reference	3495	W-Oct-1318	W-Oct-291813
-Reference link to non-existing reference	3496	W-Oct-1318	W-Oct-291849
-Reference link to non-existing reference	3497	W-Oct-1318	W-Oct-291856
-Reference link to non-existing reference	3498	W-Oct-1318	W-Oct-291863
-Reference link to non-existing reference	3499	W-Oct-1318	W-Oct-291892
-Reference link to non-existing reference	3500	W-Oct-1318	W-Oct-291899
-Reference link to non-existing reference	3501	W-Oct-1318	W-Oct-291906
-Reference link to non-existing reference	3502	W-Oct-1318	W-Oct-291913
-Reference link to non-existing reference	3503	W-Oct-1318	W-Oct-291942
-Reference link to non-existing reference	3504	W-Oct-1318	W-Oct-291949
-Reference link to non-existing reference	3505	W-Oct-1318	W-Oct-291956
-Reference link to non-existing reference	3506	W-Oct-1318	W-Oct-291992
-Reference link to non-existing reference	3507	W-Oct-1318	W-Oct-291999
-Reference link to non-existing reference	3508	W-Oct-1318	W-Oct-292006
-Reference link to non-existing reference	3509	W-Oct-1318	W-Oct-292042
-Reference link to non-existing reference	3510	W-Oct-1318	W-Oct-292049
-Reference link to non-existing reference	3511	W-Oct-1318	W-Oct-292056
-Reference link to non-existing reference	3513	W-Oct-1318	W-Oct-292592
-Reference link to non-existing reference	3515	W-Oct-132089	W-Oct-409540
-Reference link to non-existing reference	3516	W-Oct-132089	W-Oct-409547
-Reference link to non-existing reference	3517	W-Oct-132089	W-Oct-409583
-Reference link to non-existing reference	3689	W-Oct-1318	W-Oct-291765
-Reference link to non-existing reference	3690	W-Oct-1318	W-Oct-291772
-Reference link to non-existing reference	3691	W-Oct-1318	W-Oct-291790
-Reference link to non-existing reference	3692	W-Oct-1318	W-Oct-291815
-Reference link to non-existing reference	3693	W-Oct-1318	W-Oct-291833
-Reference link to non-existing reference	3694	W-Oct-1318	W-Oct-291858
-Reference link to non-existing reference	3695	W-Oct-1318	W-Oct-291883
-Reference link to non-existing reference	3696	W-Oct-1318	W-Oct-291897
-Reference link to non-existing reference	3697	W-Oct-1318	W-Oct-291908
-Reference link to non-existing reference	3698	W-Oct-1318	W-Oct-291922
-Reference link to non-existing reference	3699	W-Oct-1318	W-Oct-291947
-Reference link to non-existing reference	3700	W-Oct-1318	W-Oct-291965
-Reference link to non-existing reference	3701	W-Oct-1318	W-Oct-291972
-Reference link to non-existing reference	3702	W-Oct-1318	W-Oct-291990
-Reference link to non-existing reference	3703	W-Oct-1318	W-Oct-292040
-Reference link to non-existing reference	3704	W-Oct-1318	W-Oct-292058
-Reference link to non-existing reference	3705	W-Oct-1318	W-Oct-292551
-Reference link to non-existing reference	3706	W-Oct-1318	W-Oct-292619
-Reference link to non-existing reference	3707	W-Oct-1318	W-Oct-292633
-Reference link to non-existing reference	3708	W-Oct-1318	W-Oct-292644
-Reference link to non-existing reference	3709	W-Oct-132089	W-Oct-409538
-Reference link to non-existing reference	3742	W-Oct-6831	W-Oct-183062
-Reference link to non-existing reference	3887	W-Oct-1318	W-Oct-291731
-Reference link to non-existing reference	3888	W-Oct-1318	W-Oct-291774
-Reference link to non-existing reference	3889	W-Oct-1318	W-Oct-291781
-Reference link to non-existing reference	3890	W-Oct-1318	W-Oct-291788
-Reference link to non-existing reference	3891	W-Oct-1318	W-Oct-291831
-Reference link to non-existing reference	3892	W-Oct-1318	W-Oct-291874
-Reference link to non-existing reference	3893	W-Oct-1318	W-Oct-291881
-Reference link to non-existing reference	3894	W-Oct-1318	W-Oct-291888
-Reference link to non-existing reference	3895	W-Oct-1318	W-Oct-291917
-Reference link to non-existing reference	3896	W-Oct-1318	W-Oct-291924
-Reference link to non-existing reference	3897	W-Oct-1318	W-Oct-291931
-Reference link to non-existing reference	3898	W-Oct-1318	W-Oct-291974
-Reference link to non-existing reference	3899	W-Oct-1318	W-Oct-291981
-Reference link to non-existing reference	3900	W-Oct-1318	W-Oct-292017
-Reference link to non-existing reference	3901	W-Oct-1318	W-Oct-292024
-Reference link to non-existing reference	3902	W-Oct-1318	W-Oct-292067
-Reference link to non-existing reference	3903	W-Oct-1318	W-Oct-292560
-Reference link to non-existing reference	3904	W-Oct-1318	W-Oct-292624
-Reference link to non-existing reference	3905	W-Oct-132089	W-Oct-409515
-Reference link to non-existing reference	3906	W-Oct-132089	W-Oct-409522
+Reference link to non-existing reference	2347	W-Oct-132089	W-Oct-409560
+Reference link to non-existing reference	2348	W-Oct-132089	W-Oct-409562
+Reference link to non-existing reference	2396	W-Oct-1318	W-Oct-291780
+Reference link to non-existing reference	2397	W-Oct-1318	W-Oct-291782
+Reference link to non-existing reference	2398	W-Oct-1318	W-Oct-291816
+Reference link to non-existing reference	2399	W-Oct-1318	W-Oct-291823
+Reference link to non-existing reference	2400	W-Oct-1318	W-Oct-291825
+Reference link to non-existing reference	2401	W-Oct-1318	W-Oct-291880
+Reference link to non-existing reference	2402	W-Oct-1318	W-Oct-291889
+Reference link to non-existing reference	2403	W-Oct-1318	W-Oct-291916
+Reference link to non-existing reference	2404	W-Oct-1318	W-Oct-291923
+Reference link to non-existing reference	2405	W-Oct-1318	W-Oct-291925
+Reference link to non-existing reference	2406	W-Oct-1318	W-Oct-291980
+Reference link to non-existing reference	2407	W-Oct-1318	W-Oct-291982
+Reference link to non-existing reference	2408	W-Oct-1318	W-Oct-291989
+Reference link to non-existing reference	2409	W-Oct-1318	W-Oct-292016
+Reference link to non-existing reference	2410	W-Oct-1318	W-Oct-292023
+Reference link to non-existing reference	2411	W-Oct-132089	W-Oct-292051
+Reference link to non-existing reference	2412	W-Oct-1318	W-Oct-292059
+Reference link to non-existing reference	2413	W-Oct-1318	W-Oct-292516
+Reference link to non-existing reference	2414	W-Oct-132089	W-Oct-292517
+Reference link to non-existing reference	2415	W-Oct-1318	W-Oct-292552
+Reference link to non-existing reference	2416	W-Oct-1318	W-Oct-292618
+Reference link to non-existing reference	2417	W-Oct-1318	W-Oct-292625
+Reference link to non-existing reference	2418	W-Oct-132089	W-Oct-409564
+Reference link to non-existing reference	2419	W-Oct-132089	W-Oct-409566
+Reference link to non-existing reference	2450	W-Oct-132089	W-Oct-289901
+Reference link to non-existing reference	2452	W-Oct-132089	W-Oct-289948
+Reference link to non-existing reference	2453	W-Oct-132089	W-Oct-289965
+Reference link to non-existing reference	2475	W-Oct-132089	W-Oct-290684
+Reference link to non-existing reference	2476	W-Oct-132089	W-Oct-290718
+Reference link to non-existing reference	2483	W-Oct-132089	W-Oct-290884
+Reference link to non-existing reference	2493	W-Oct-1318	W-Oct-291728
+Reference link to non-existing reference	2494	W-Oct-1318	W-Oct-291762
+Reference link to non-existing reference	2495	W-Oct-1318	W-Oct-291779
+Reference link to non-existing reference	2496	W-Oct-1318	W-Oct-291792
+Reference link to non-existing reference	2497	W-Oct-1318	W-Oct-291809
+Reference link to non-existing reference	2498	W-Oct-1318	W-Oct-291826
+Reference link to non-existing reference	2499	W-Oct-1318	W-Oct-291843
+Reference link to non-existing reference	2500	W-Oct-1318	W-Oct-291860
+Reference link to non-existing reference	2501	W-Oct-1318	W-Oct-291877
+Reference link to non-existing reference	2502	W-Oct-1318	W-Oct-291894
+Reference link to non-existing reference	2503	W-Oct-1318	W-Oct-291911
+Reference link to non-existing reference	2504	W-Oct-1318	W-Oct-291928
+Reference link to non-existing reference	2505	W-Oct-1318	W-Oct-291945
+Reference link to non-existing reference	2506	W-Oct-1318	W-Oct-291962
+Reference link to non-existing reference	2507	W-Oct-1318	W-Oct-291979
+Reference link to non-existing reference	2508	W-Oct-1318	W-Oct-291996
+Reference link to non-existing reference	2509	W-Oct-1318	W-Oct-292013
+Reference link to non-existing reference	2510	W-Oct-1318	W-Oct-292026
+Reference link to non-existing reference	2511	W-Oct-1318	W-Oct-292043
+Reference link to non-existing reference	2512	W-Oct-1318	W-Oct-292060
+Reference link to non-existing reference	2513	W-Oct-1318	W-Oct-292647
+Reference link to non-existing reference	2514	W-Oct-132089	W-Oct-409510
+Reference link to non-existing reference	2515	W-Oct-132089	W-Oct-409561
+Reference link to non-existing reference	2516	W-Oct-132089	W-Oct-409578
+Reference link to non-existing reference	2533	W-Oct-132089	W-Oct-289785
+Reference link to non-existing reference	2558	W-Oct-132089	W-Oct-290682
+Reference link to non-existing reference	2559	W-Oct-132089	W-Oct-290721
+Reference link to non-existing reference	2575	W-Oct-132089	W-Oct-291732
+Reference link to non-existing reference	2576	W-Oct-1318	W-Oct-291765
+Reference link to non-existing reference	2577	W-Oct-1318	W-Oct-291772
+Reference link to non-existing reference	2578	W-Oct-1318	W-Oct-291790
+Reference link to non-existing reference	2579	W-Oct-1318	W-Oct-291815
+Reference link to non-existing reference	2580	W-Oct-1318	W-Oct-291833
+Reference link to non-existing reference	2581	W-Oct-1318	W-Oct-291858
+Reference link to non-existing reference	2582	W-Oct-1318	W-Oct-291883
+Reference link to non-existing reference	2583	W-Oct-1318	W-Oct-291897
+Reference link to non-existing reference	2584	W-Oct-1318	W-Oct-291908
+Reference link to non-existing reference	2585	W-Oct-1318	W-Oct-291922
+Reference link to non-existing reference	2586	W-Oct-1318	W-Oct-291947
+Reference link to non-existing reference	2587	W-Oct-1318	W-Oct-291965
+Reference link to non-existing reference	2588	W-Oct-1318	W-Oct-291972
+Reference link to non-existing reference	2589	W-Oct-1318	W-Oct-291990
+Reference link to non-existing reference	2590	W-Oct-1318	W-Oct-292033
+Reference link to non-existing reference	2591	W-Oct-1318	W-Oct-292040
+Reference link to non-existing reference	2592	W-Oct-1318	W-Oct-292058
+Reference link to non-existing reference	2594	W-Oct-1318	W-Oct-292551
+Reference link to non-existing reference	2595	W-Oct-1318	W-Oct-292619
+Reference link to non-existing reference	2596	W-Oct-1318	W-Oct-292633
+Reference link to non-existing reference	2597	W-Oct-1318	W-Oct-292644
+Reference link to non-existing reference	2598	W-Oct-132089	W-Oct-409538
+Reference link to non-existing reference	2600	W-Oct-132089	W-Oct-409563
+Reference link to non-existing reference	2602	W-Oct-132089	W-Oct-409581
+Reference link to non-existing reference	2637	W-Oct-132089	W-Oct-289368
+Reference link to non-existing reference	2638	W-Oct-132089	W-Oct-289370
+Reference link to non-existing reference	2665	W-Oct-1318	W-Oct-290419
+Reference link to non-existing reference	2676	W-Oct-132089	W-Oct-290883
+Reference link to non-existing reference	2689	W-Oct-1318	W-Oct-291714
+Reference link to non-existing reference	2690	W-Oct-1318	W-Oct-291791
+Reference link to non-existing reference	2691	W-Oct-1318	W-Oct-291814
+Reference link to non-existing reference	2692	W-Oct-1318	W-Oct-291848
+Reference link to non-existing reference	2693	W-Oct-1318	W-Oct-291850
+Reference link to non-existing reference	2694	W-Oct-1318	W-Oct-291855
+Reference link to non-existing reference	2695	W-Oct-1318	W-Oct-291857
+Reference link to non-existing reference	2696	W-Oct-1318	W-Oct-291891
+Reference link to non-existing reference	2697	W-Oct-1318	W-Oct-291914
+Reference link to non-existing reference	2698	W-Oct-1318	W-Oct-291948
+Reference link to non-existing reference	2699	W-Oct-1318	W-Oct-291950
+Reference link to non-existing reference	2700	W-Oct-1318	W-Oct-291957
+Reference link to non-existing reference	2701	W-Oct-1318	W-Oct-291991
+Reference link to non-existing reference	2702	W-Oct-1318	W-Oct-292014
+Reference link to non-existing reference	2703	W-Oct-1318	W-Oct-292050
+Reference link to non-existing reference	2704	W-Oct-1318	W-Oct-292055
+Reference link to non-existing reference	2705	W-Oct-1318	W-Oct-292057
+Reference link to non-existing reference	2706	W-Oct-1318	W-Oct-292550
+Reference link to non-existing reference	2707	W-Oct-1318	W-Oct-292557
+Reference link to non-existing reference	2708	W-Oct-1318	W-Oct-292591
+Reference link to non-existing reference	2709	W-Oct-1318	W-Oct-292627
+Reference link to non-existing reference	2710	W-Oct-1318	W-Oct-292650
+Reference link to non-existing reference	2714	W-Oct-132089	W-Oct-390614
+Reference link to non-existing reference	2715	W-Oct-132089	W-Oct-409496
+Reference link to non-existing reference	2716	W-Oct-132089	W-Oct-409532
+Reference link to non-existing reference	2717	W-Oct-132089	W-Oct-409539
+Reference link to non-existing reference	2718	W-Oct-132089	W-Oct-409541
+Reference link to non-existing reference	2785	W-Oct-1318	W-Oct-291787
+Reference link to non-existing reference	2786	W-Oct-1318	W-Oct-291801
+Reference link to non-existing reference	2787	W-Oct-1318	W-Oct-291804
+Reference link to non-existing reference	2788	W-Oct-1318	W-Oct-291818
+Reference link to non-existing reference	2789	W-Oct-1318	W-Oct-291851
+Reference link to non-existing reference	2790	W-Oct-1318	W-Oct-291868
+Reference link to non-existing reference	2791	W-Oct-1318	W-Oct-291869
+Reference link to non-existing reference	2792	W-Oct-1318	W-Oct-291886
+Reference link to non-existing reference	2793	W-Oct-1318	W-Oct-291919
+Reference link to non-existing reference	2794	W-Oct-1318	W-Oct-291936
+Reference link to non-existing reference	2795	W-Oct-1318	W-Oct-291937
+Reference link to non-existing reference	2796	W-Oct-1318	W-Oct-291954
+Reference link to non-existing reference	2797	W-Oct-1318	W-Oct-291987
+Reference link to non-existing reference	2798	W-Oct-1318	W-Oct-292001
+Reference link to non-existing reference	2799	W-Oct-1318	W-Oct-292004
+Reference link to non-existing reference	2800	W-Oct-1318	W-Oct-292018
+Reference link to non-existing reference	2801	W-Oct-132089	W-Oct-292032
+Reference link to non-existing reference	2802	W-Oct-1318	W-Oct-292068
+Reference link to non-existing reference	2803	W-Oct-1318	W-Oct-292069
+Reference link to non-existing reference	2804	W-Oct-1318	W-Oct-292537
+Reference link to non-existing reference	2805	W-Oct-1318	W-Oct-292554
+Reference link to non-existing reference	2806	W-Oct-1318	W-Oct-292604
+Reference link to non-existing reference	2807	W-Oct-132089	W-Oct-292632
+Reference link to non-existing reference	2808	W-Oct-132089	W-Oct-409502
+Reference link to non-existing reference	2809	W-Oct-132089	W-Oct-409535
+Reference link to non-existing reference	2810	W-Oct-132089	W-Oct-409553
+Reference link to non-existing reference	2811	W-Oct-132089	W-Oct-409570
+Reference link to non-existing reference	2814	W-Oct-141756	W-Oct-472851
+Reference link to non-existing reference	2853	W-Oct-132089	W-Oct-289822
+Reference link to non-existing reference	2859	W-Oct-132089	W-Oct-289954
+Reference link to non-existing reference	2860	W-Oct-132089	W-Oct-289963
+Reference link to non-existing reference	2884	W-Oct-132089	W-Oct-290724
+Reference link to non-existing reference	2899	W-Oct-1318	W-Oct-291730
+Reference link to non-existing reference	2900	W-Oct-1318	W-Oct-291764
+Reference link to non-existing reference	2901	W-Oct-1318	W-Oct-291773
+Reference link to non-existing reference	2902	W-Oct-1318	W-Oct-291798
+Reference link to non-existing reference	2903	W-Oct-1318	W-Oct-291807
+Reference link to non-existing reference	2904	W-Oct-1318	W-Oct-291832
+Reference link to non-existing reference	2905	W-Oct-1318	W-Oct-291866
+Reference link to non-existing reference	2906	W-Oct-1318	W-Oct-291875
+Reference link to non-existing reference	2907	W-Oct-1318	W-Oct-291900
+Reference link to non-existing reference	2908	W-Oct-1318	W-Oct-291905
+Reference link to non-existing reference	2909	W-Oct-1318	W-Oct-291930
+Reference link to non-existing reference	2910	W-Oct-1318	W-Oct-291939
+Reference link to non-existing reference	2911	W-Oct-1318	W-Oct-291964
+Reference link to non-existing reference	2912	W-Oct-1318	W-Oct-291973
+Reference link to non-existing reference	2913	W-Oct-1318	W-Oct-291998
+Reference link to non-existing reference	2914	W-Oct-1318	W-Oct-292007
+Reference link to non-existing reference	2915	W-Oct-1318	W-Oct-292041
+Reference link to non-existing reference	2916	W-Oct-1318	W-Oct-292066
+Reference link to non-existing reference	2919	W-Oct-132089	W-Oct-409516
+Reference link to non-existing reference	2920	W-Oct-132089	W-Oct-409525
+Reference link to non-existing reference	2921	W-Oct-132089	W-Oct-409546
+Reference link to non-existing reference	2922	W-Oct-132089	W-Oct-409550
+Reference link to non-existing reference	2923	W-Oct-132089	W-Oct-409555
+Reference link to non-existing reference	2925	W-Oct-132089	W-Oct-409580
+Reference link to non-existing reference	2926	W-Oct-132089	W-Oct-409589
+Reference link to non-existing reference	2952	W-Oct-132089	W-Oct-289319
+Reference link to non-existing reference	2974	W-Oct-132089	W-Oct-289955
+Reference link to non-existing reference	3005	W-Oct-1318	W-Oct-291713
+Reference link to non-existing reference	3006	W-Oct-1318	W-Oct-291763
+Reference link to non-existing reference	3007	W-Oct-1318	W-Oct-291799
+Reference link to non-existing reference	3008	W-Oct-1318	W-Oct-291806
+Reference link to non-existing reference	3009	W-Oct-1318	W-Oct-291813
+Reference link to non-existing reference	3010	W-Oct-1318	W-Oct-291849
+Reference link to non-existing reference	3011	W-Oct-1318	W-Oct-291856
+Reference link to non-existing reference	3012	W-Oct-1318	W-Oct-291863
+Reference link to non-existing reference	3013	W-Oct-1318	W-Oct-291892
+Reference link to non-existing reference	3014	W-Oct-1318	W-Oct-291899
+Reference link to non-existing reference	3015	W-Oct-1318	W-Oct-291906
+Reference link to non-existing reference	3016	W-Oct-1318	W-Oct-291913
+Reference link to non-existing reference	3017	W-Oct-1318	W-Oct-291942
+Reference link to non-existing reference	3018	W-Oct-1318	W-Oct-291949
+Reference link to non-existing reference	3019	W-Oct-1318	W-Oct-291956
+Reference link to non-existing reference	3020	W-Oct-1318	W-Oct-291992
+Reference link to non-existing reference	3021	W-Oct-1318	W-Oct-291999
+Reference link to non-existing reference	3022	W-Oct-1318	W-Oct-292006
+Reference link to non-existing reference	3023	W-Oct-132089	W-Oct-292034
+Reference link to non-existing reference	3024	W-Oct-1318	W-Oct-292042
+Reference link to non-existing reference	3025	W-Oct-1318	W-Oct-292049
+Reference link to non-existing reference	3026	W-Oct-1318	W-Oct-292056
+Reference link to non-existing reference	3028	W-Oct-1318	W-Oct-292592
+Reference link to non-existing reference	3029	W-Oct-132089	W-Oct-292634
+Reference link to non-existing reference	3032	W-Oct-132089	W-Oct-409540
+Reference link to non-existing reference	3033	W-Oct-132089	W-Oct-409547
+Reference link to non-existing reference	3034	W-Oct-132089	W-Oct-409583
+Reference link to non-existing reference	3062	W-Oct-6831	W-Oct-183062
+Reference link to non-existing reference	3196	W-Oct-132089	W-Oct-289953
+Reference link to non-existing reference	3227	W-Oct-1318	W-Oct-291715
+Reference link to non-existing reference	3228	W-Oct-1318	W-Oct-291797
+Reference link to non-existing reference	3229	W-Oct-1318	W-Oct-291808
+Reference link to non-existing reference	3230	W-Oct-1318	W-Oct-291822
+Reference link to non-existing reference	3231	W-Oct-1318	W-Oct-291847
+Reference link to non-existing reference	3232	W-Oct-1318	W-Oct-291865
+Reference link to non-existing reference	3233	W-Oct-1318	W-Oct-291872
+Reference link to non-existing reference	3234	W-Oct-1318	W-Oct-291890
+Reference link to non-existing reference	3235	W-Oct-1318	W-Oct-291915
+Reference link to non-existing reference	3236	W-Oct-1318	W-Oct-291933
+Reference link to non-existing reference	3238	W-Oct-1318	W-Oct-291958
+Reference link to non-existing reference	3239	W-Oct-1318	W-Oct-291983
+Reference link to non-existing reference	3240	W-Oct-1318	W-Oct-291997
+Reference link to non-existing reference	3241	W-Oct-1318	W-Oct-292008
+Reference link to non-existing reference	3242	W-Oct-1318	W-Oct-292047
+Reference link to non-existing reference	3243	W-Oct-1318	W-Oct-292065
+Reference link to non-existing reference	3244	W-Oct-1318	W-Oct-292515
+Reference link to non-existing reference	3245	W-Oct-1318	W-Oct-292533
+Reference link to non-existing reference	3246	W-Oct-1318	W-Oct-292558
+Reference link to non-existing reference	3247	W-Oct-1318	W-Oct-292626
+Reference link to non-existing reference	3248	W-Oct-1318	W-Oct-292651
+Reference link to non-existing reference	3250	W-Oct-1318	W-Oct-367723
+Reference link to non-existing reference	3251	W-Oct-132089	W-Oct-409531
+Reference link to non-existing reference	3252	W-Oct-132089	W-Oct-409549
+Reference link to non-existing reference	3253	W-Oct-132089	W-Oct-409556
+Reference link to non-existing reference	3300	W-Oct-132089	W-Oct-289961
+Reference link to non-existing reference	3329	W-Oct-1318	W-Oct-291030
+Reference link to non-existing reference	3335	W-Oct-1318	W-Oct-291766
+Reference link to non-existing reference	3336	W-Oct-1318	W-Oct-291775
+Reference link to non-existing reference	3337	W-Oct-1318	W-Oct-291796
+Reference link to non-existing reference	3338	W-Oct-1318	W-Oct-291800
+Reference link to non-existing reference	3339	W-Oct-1318	W-Oct-291805
+Reference link to non-existing reference	3340	W-Oct-1318	W-Oct-291830
+Reference link to non-existing reference	3341	W-Oct-1318	W-Oct-291839
+Reference link to non-existing reference	3342	W-Oct-1318	W-Oct-291864
+Reference link to non-existing reference	3343	W-Oct-1318	W-Oct-291873
+Reference link to non-existing reference	3344	W-Oct-1318	W-Oct-291898
+Reference link to non-existing reference	3345	W-Oct-1318	W-Oct-291907
+Reference link to non-existing reference	3346	W-Oct-1318	W-Oct-291932
+Reference link to non-existing reference	3347	W-Oct-1318	W-Oct-291941
+Reference link to non-existing reference	3348	W-Oct-1318	W-Oct-291966
+Reference link to non-existing reference	3349	W-Oct-1318	W-Oct-291975
+Reference link to non-existing reference	3350	W-Oct-1318	W-Oct-292000
+Reference link to non-existing reference	3351	W-Oct-1318	W-Oct-292005
+Reference link to non-existing reference	3352	W-Oct-1318	W-Oct-292009
+Reference link to non-existing reference	3353	W-Oct-1318	W-Oct-292030
+Reference link to non-existing reference	3354	W-Oct-1318	W-Oct-292039
+Reference link to non-existing reference	3355	W-Oct-1318	W-Oct-292064
+Reference link to non-existing reference	3356	W-Oct-1318	W-Oct-292532
+Reference link to non-existing reference	3357	W-Oct-132089	W-Oct-409514
+Reference link to non-existing reference	3358	W-Oct-132089	W-Oct-409523
+Reference link to non-existing reference	3434	W-Oct-1318	W-Oct-291768
+Reference link to non-existing reference	3435	W-Oct-1318	W-Oct-291769
+Reference link to non-existing reference	3436	W-Oct-1318	W-Oct-291819
+Reference link to non-existing reference	3437	W-Oct-1318	W-Oct-291836
+Reference link to non-existing reference	3438	W-Oct-1318	W-Oct-291837
+Reference link to non-existing reference	3439	W-Oct-1318	W-Oct-291854
+Reference link to non-existing reference	3440	W-Oct-1318	W-Oct-291887
+Reference link to non-existing reference	3441	W-Oct-1318	W-Oct-291901
+Reference link to non-existing reference	3442	W-Oct-1318	W-Oct-291904
+Reference link to non-existing reference	3443	W-Oct-1318	W-Oct-291918
+Reference link to non-existing reference	3444	W-Oct-1318	W-Oct-291951
+Reference link to non-existing reference	3446	W-Oct-1318	W-Oct-291968
+Reference link to non-existing reference	3447	W-Oct-1318	W-Oct-291969
+Reference link to non-existing reference	3448	W-Oct-1318	W-Oct-291986
+Reference link to non-existing reference	3449	W-Oct-1318	W-Oct-292019
+Reference link to non-existing reference	3450	W-Oct-1318	W-Oct-292036
+Reference link to non-existing reference	3451	W-Oct-1318	W-Oct-292037
+Reference link to non-existing reference	3452	W-Oct-1318	W-Oct-292054
+Reference link to non-existing reference	3453	W-Oct-1318	W-Oct-292555
+Reference link to non-existing reference	3455	W-Oct-132089	W-Oct-409503
+Reference link to non-existing reference	3456	W-Oct-132089	W-Oct-409517
+Reference link to non-existing reference	3457	W-Oct-132089	W-Oct-409520
+Reference link to non-existing reference	3458	W-Oct-132089	W-Oct-409534
+Reference link to non-existing reference	3459	W-Oct-132089	W-Oct-409571
+Reference link to non-existing reference	3541	W-Oct-1318	W-Oct-291761
+Reference link to non-existing reference	3542	W-Oct-1318	W-Oct-291795
+Reference link to non-existing reference	3543	W-Oct-1318	W-Oct-291810
+Reference link to non-existing reference	3544	W-Oct-1318	W-Oct-291844
+Reference link to non-existing reference	3545	W-Oct-1318	W-Oct-291846
+Reference link to non-existing reference	3546	W-Oct-1318	W-Oct-291859
+Reference link to non-existing reference	3547	W-Oct-1318	W-Oct-291861
+Reference link to non-existing reference	3548	W-Oct-1318	W-Oct-291895
+Reference link to non-existing reference	3549	W-Oct-1318	W-Oct-291910
+Reference link to non-existing reference	3550	W-Oct-1318	W-Oct-291944
+Reference link to non-existing reference	3551	W-Oct-1318	W-Oct-291946
+Reference link to non-existing reference	3552	W-Oct-1318	W-Oct-291959
+Reference link to non-existing reference	3553	W-Oct-1318	W-Oct-291961
+Reference link to non-existing reference	3554	W-Oct-1318	W-Oct-291995
+Reference link to non-existing reference	3555	W-Oct-1318	W-Oct-292010
+Reference link to non-existing reference	3556	W-Oct-132089	W-Oct-292038
+Reference link to non-existing reference	3557	W-Oct-1318	W-Oct-292044
+Reference link to non-existing reference	3558	W-Oct-1318	W-Oct-292061
+Reference link to non-existing reference	3559	W-Oct-1318	W-Oct-292095
+Reference link to non-existing reference	3560	W-Oct-1318	W-Oct-292531
+Reference link to non-existing reference	3561	W-Oct-1318	W-Oct-292631
+Reference link to non-existing reference	3562	W-Oct-1318	W-Oct-292646
+Reference link to non-existing reference	3563	W-Oct-132089	W-Oct-409528
+Reference link to non-existing reference	3564	W-Oct-132089	W-Oct-409545
+Reference link to non-existing reference	3625	W-Oct-1318	W-Oct-291777
+Reference link to non-existing reference	3626	W-Oct-1318	W-Oct-291794
+Reference link to non-existing reference	3627	W-Oct-1318	W-Oct-291811
+Reference link to non-existing reference	3628	W-Oct-1318	W-Oct-291828
+Reference link to non-existing reference	3629	W-Oct-1318	W-Oct-291845
+Reference link to non-existing reference	3630	W-Oct-1318	W-Oct-291862
+Reference link to non-existing reference	3631	W-Oct-1318	W-Oct-291879
+Reference link to non-existing reference	3632	W-Oct-1318	W-Oct-291896
+Reference link to non-existing reference	3633	W-Oct-1318	W-Oct-291909
+Reference link to non-existing reference	3634	W-Oct-1318	W-Oct-291926
+Reference link to non-existing reference	3635	W-Oct-1318	W-Oct-291960
+Reference link to non-existing reference	3636	W-Oct-1318	W-Oct-291977
+Reference link to non-existing reference	3637	W-Oct-1318	W-Oct-291994
+Reference link to non-existing reference	3638	W-Oct-1318	W-Oct-292011
+Reference link to non-existing reference	3639	W-Oct-1318	W-Oct-292028
+Reference link to non-existing reference	3640	W-Oct-1318	W-Oct-292045
+Reference link to non-existing reference	3641	W-Oct-1318	W-Oct-292062
+Reference link to non-existing reference	3642	W-Oct-1318	W-Oct-292564
+Reference link to non-existing reference	3643	W-Oct-1318	W-Oct-292645
+Reference link to non-existing reference	3644	W-Oct-132089	W-Oct-409495
+Reference link to non-existing reference	3645	W-Oct-132089	W-Oct-409512
+Reference link to non-existing reference	3646	W-Oct-132089	W-Oct-409529
+Reference link to non-existing reference	3710	W-Oct-1318	W-Oct-291731
+Reference link to non-existing reference	3711	W-Oct-1318	W-Oct-291774
+Reference link to non-existing reference	3712	W-Oct-1318	W-Oct-291781
+Reference link to non-existing reference	3713	W-Oct-1318	W-Oct-291788
+Reference link to non-existing reference	3714	W-Oct-1318	W-Oct-291831
+Reference link to non-existing reference	3715	W-Oct-1318	W-Oct-291874
+Reference link to non-existing reference	3716	W-Oct-1318	W-Oct-291881
+Reference link to non-existing reference	3717	W-Oct-1318	W-Oct-291888
+Reference link to non-existing reference	3718	W-Oct-1318	W-Oct-291917
+Reference link to non-existing reference	3719	W-Oct-1318	W-Oct-291924
+Reference link to non-existing reference	3720	W-Oct-1318	W-Oct-291931
+Reference link to non-existing reference	3721	W-Oct-1318	W-Oct-291974
+Reference link to non-existing reference	3722	W-Oct-1318	W-Oct-291981
+Reference link to non-existing reference	3723	W-Oct-1318	W-Oct-292017
+Reference link to non-existing reference	3724	W-Oct-1318	W-Oct-292024
+Reference link to non-existing reference	3725	W-Oct-1318	W-Oct-292031
+Reference link to non-existing reference	3726	W-Oct-1318	W-Oct-292067
+Reference link to non-existing reference	3727	W-Oct-1318	W-Oct-292560
+Reference link to non-existing reference	3728	W-Oct-1318	W-Oct-292624
+Reference link to non-existing reference	3729	W-Oct-132089	W-Oct-409515
+Reference link to non-existing reference	3730	W-Oct-132089	W-Oct-409522
+Reference link to non-existing reference	3731	W-Oct-132089	W-Oct-409565
+Reference link to non-existing reference	3899	W-Oct-1318	W-Oct-291767
+Reference link to non-existing reference	3901	W-Oct-1318	W-Oct-291802
+Reference link to non-existing reference	3902	W-Oct-1318	W-Oct-291803
+Reference link to non-existing reference	3903	W-Oct-1318	W-Oct-291817
+Reference link to non-existing reference	3904	W-Oct-1318	W-Oct-291852
+Reference link to non-existing reference	3905	W-Oct-1318	W-Oct-291853
+Reference link to non-existing reference	3906	W-Oct-1318	W-Oct-291867
+Reference link to non-existing reference	3907	W-Oct-1318	W-Oct-291902
+Reference link to non-existing reference	3908	W-Oct-1318	W-Oct-291903
+Reference link to non-existing reference	3909	W-Oct-1318	W-Oct-291952
+Reference link to non-existing reference	3910	W-Oct-1318	W-Oct-291953
+Reference link to non-existing reference	3911	W-Oct-1318	W-Oct-291988
+Reference link to non-existing reference	3912	W-Oct-1318	W-Oct-292002
+Reference link to non-existing reference	3913	W-Oct-1318	W-Oct-292003
+Reference link to non-existing reference	3914	W-Oct-1318	W-Oct-292052
+Reference link to non-existing reference	3915	W-Oct-1318	W-Oct-292053
+Reference link to non-existing reference	3916	W-Oct-1318	W-Oct-292538
+Reference link to non-existing reference	3917	W-Oct-1318	W-Oct-292539
+Reference link to non-existing reference	3918	W-Oct-1318	W-Oct-292603
+Reference link to non-existing reference	3919	W-Oct-124588	W-Oct-367982
+Reference link to non-existing reference	3920	W-Oct-132089	W-Oct-409536
+Reference link to non-existing reference	3921	W-Oct-132089	W-Oct-409551
 --------------
-SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code FROM specialists AS t1
+SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code 
+FROM specialists AS t1
 LEFT JOIN scientific_names AS t2 ON t1.specialist_code = t2.specialist_code
 WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code FROM `references` AS t1
+SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code 
+FROM `references` AS t1
 LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
 LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
 WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
@@ -2006,34 +2056,40 @@ WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
 Reference without parent accepted or common name	record_id	author	year	title	reference_code
 Reference without parent accepted or common name	4	Hayward, P.J.; Nelson-Smith, A.; Shields, C.	1996	NULL	W-Oct-614
 Reference without parent accepted or common name	6	Hayward, P.; Nelson-Smith, A.; Shields, C.	1999	NULL	W-Oct-685
-Reference without parent accepted or common name	7	Leewis, R.	2002	NULL	W-Oct-1116
 Reference without parent accepted or common name	16	Brunel, P.; Bosse, L.; Lamarche, G.	1998	NULL	W-Oct-2930
 Reference without parent accepted or common name	17	Gosner, K.L.	1971	NULL	W-Oct-2964
 Reference without parent accepted or common name	19	Jurgensen, H.F.E.	1927	NULL	W-Oct-2988
 Reference without parent accepted or common name	21	Logan, A.	1998	NULL	W-Oct-3000
 Reference without parent accepted or common name	23	Meinkoth, N.A.	1981	NULL	W-Oct-3017
-Reference without parent accepted or common name	24	Opresko,	1980	NULL	W-Oct-3032
 Reference without parent accepted or common name	25	Pollock, L.W.	1998	NULL	W-Oct-3042
 Reference without parent accepted or common name	26	Thomas, M.L.H. (ed.).	1983	NULL	W-Oct-3071
 Reference without parent accepted or common name	32	Veron, J.E.N.	1986	NULL	W-Oct-5874
+Reference without parent accepted or common name	36	Benayahu, Y. & M.H. Shleyer	1995	NULL	W-Oct-5989
 Reference without parent accepted or common name	39	Schleyer, M.H.	1995	NULL	W-Oct-6220
 Reference without parent accepted or common name	44	McFadden, C. S.	1999	NULL	W-Oct-6808
+Reference without parent accepted or common name	46	Muller, Y.	2004	NULL	W-Oct-9269
+Reference without parent accepted or common name	50	Fishelson, L.	1971	NULL	W-Oct-29127
+Reference without parent accepted or common name	51	Ridley, S.O.,	1883	NULL	W-Oct-35214
+Reference without parent accepted or common name	52	Hassall A.H.	1843	NULL	W-Oct-36209
+Reference without parent accepted or common name	57	Fauchald, K.	2007	NULL	W-Oct-47591
 Reference without parent accepted or common name	59	Hartman, Olga	1959	NULL	W-Oct-50201
-Reference without parent accepted or common name	60	McIntosh, W. C.	1923	NULL	W-Oct-51007
 Reference without parent accepted or common name	61	Quatrefages, Armand de.	1866	NULL	W-Oct-51461
-Reference without parent accepted or common name	62	Linnaeus, C.	1788	NULL	W-Oct-100017
-Reference without parent accepted or common name	63	Zenetos, A., M.E. Çinar, M.A. Pancucci-Papadopoulou, J.G. Harmelin, G. Furnari, F. Andaloro, N. Bellou, N. Streftaris & H. Zibrowius	2005	NULL	W-Oct-124391
+Reference without parent accepted or common name	63	Zenetos, A., M.E. Ã‡inar, M.A. Pancucci-Papadopoulou, J.G. Harmelin, G. Furnari, F. Andaloro, N. Bellou, N. Streftaris & H. Zibrowius	2005	NULL	W-Oct-124391
 Reference without parent accepted or common name	71	Cairns, S. D.; Bayer, F. M.	2003	NULL	W-Oct-128217
-Reference without parent accepted or common name	72	Hermanlimianto, M.I.Y.T. & L.P. van Ofwegen,	2006	NULL	W-Oct-128609
 Reference without parent accepted or common name	74	Williams.	2003	NULL	W-Oct-129636
+Reference without parent accepted or common name	75	Cairns, S. D.; Bayer, F. M.	2003	NULL	W-Oct-129698
 Reference without parent accepted or common name	82	Roberts, J.M., A. Wheeler, A. Freiwald, and S.D. Cairns,	2009	NULL	W-Oct-142536
-Reference without parent accepted or common name	83	Chabot, R. & Rossignol, A.	2003	NULL	W-Oct-145895
 Reference without parent accepted or common name	97	Philippi, A.,	1842	NULL	W-Oct-152248
 Reference without parent accepted or common name	101	Zenetos, A.; Gofas, S.; Verlaque, M.; Cinar, M.; Garcia Raso, J.; Bianchi, C.; Morri, C.; Azzurro, E.; Bilecenoglu, M.; Froglia, C.; Siokou, I.; Violanti, D.; Sfriso, A.; San Martin, G.; Giangrande, A	2010	NULL	W-Oct-155063
-Reference without parent accepted or common name	136	Maldonado, M., M. López-Acosta, L. Sánchez-Tocino & C. Sitjà,	2013	NULL	W-Oct-171467
+Reference without parent accepted or common name	126	Alderslade, P.	1994	NULL	W-Oct-170818
+Reference without parent accepted or common name	136	Maldonado, M., M. LÃ³pez-Acosta, L. SÃ¡nchez-Tocino & C. SitjÃ ,	2013	NULL	W-Oct-171467
+Reference without parent accepted or common name	146	Deichmann, E	1936	NULL	W-Oct-172913
 Reference without parent accepted or common name	154	Stiasny, G.	1937	NULL	W-Oct-176232
+Reference without parent accepted or common name	159	Perez, C.D.; Silva, B.T.	2003	NULL	W-Oct-190437
 Reference without parent accepted or common name	161	Galil, B.	2007	NULL	W-Oct-190896
 Reference without parent accepted or common name	162	Trott, T. J.	2004	NULL	W-Oct-192633
+Reference without parent accepted or common name	172	Cairns, S. D.; Bayer, F. M.	2008	NULL	W-Oct-196753
+Reference without parent accepted or common name	175	Cairns, S. D.	2007	NULL	W-Oct-196756
 --------------
 DROP TRIGGER IF EXISTS delfamcascade
 --------------
@@ -2047,18 +2103,33 @@ DROP TRIGGER IF EXISTS delspcascade
 --------------
 
 --------------
-CREATE TEMPORARY TABLE duplicates_to_delete AS SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
-AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
-(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
-FROM scientific_names
-GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
-LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+CREATE TEMPORARY TABLE duplicates_to_delete AS
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus,
+	dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+FROM
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+	FROM scientific_names
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id
+	HAVING cnt > 1) AS dups
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+WHERE sn.sp2000_status_id = 1 AND sn.name_code NOT IN
+	(SELECT dups3.namecodes_to_keep FROM
+		(SELECT MAX(name_code) AS namecodes_to_keep, genus, subgenus, species, infraspecies_marker, infraspecies, author FROM
+			(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, dups.species AS species,
+				dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+			FROM
+				(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+				FROM scientific_names
+				GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+			LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+			WHERE sn.sp2000_status_id = 1) AS dups2
+		GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author) AS dups3)
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names USING scientific_names INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
+DELETE QUICK FROM scientific_names
+USING scientific_names
+INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
 --------------
 
 --------------
@@ -2069,14 +2140,14 @@ WHERE t2.name_code IS NULL
 
 --------------
 DELETE QUICK t1 FROM scientific_names AS t1
-LEFT JOIN scientific_name_references AS t2 ON t1.accepted_name_code = t2.name_code
+LEFT JOIN scientific_names_tmp AS t2 ON t1.accepted_name_code = t2.name_code
 WHERE t2.name_code IS NULL AND t1.is_accepted_name != 1
 --------------
 
 --------------
 DELETE QUICK t1 FROM scientific_names AS t1
-LEFT JOIN scientific_name_references AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
-WHERE t2.name_code IS NULL
+LEFT JOIN scientific_names_tmp AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
+WHERE t1.infraspecies_parent_name_code IS NOT NULL AND t2.name_code IS NULL
 --------------
 
 --------------
@@ -2213,7 +2284,7 @@ Editorial and Integrity checks Completed.
 <pre>
 Starting Sector Management
 --------------
-SET @dbid = 151
+SET @dbid = 131
 --------------
 
 --------------

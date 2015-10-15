@@ -102,10 +102,7 @@ CREATE TABLE  `scientific_names` (
   KEY `genus` (`genus`,`species`,`infraspecies`),
   KEY `sp2000_status_id` (`sp2000_status_id`),
   KEY `sp2000_status_id_2` (`sp2000_status_id`,`database_id`,`infraspecies`)
-) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin;
-
-
-
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin;;
 
 DROP TABLE IF EXISTS `common_names`;
 CREATE TABLE  `common_names` (

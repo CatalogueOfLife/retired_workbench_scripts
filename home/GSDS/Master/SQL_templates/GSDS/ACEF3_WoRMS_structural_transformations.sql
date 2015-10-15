@@ -284,8 +284,8 @@ SELECT
 NULL AS `record_id`,
 `Authors` AS `author`,
 `Year` AS `year`,
-NULL AS `title`,
-`Title` AS `source`,
+`Title` AS `title`,
+`Details` AS `source`,
 @dbid AS `database_id`,
 CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`
  FROM ",

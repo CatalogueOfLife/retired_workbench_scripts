@@ -104,7 +104,7 @@ NULL AS `infraspecies_parent_name_code`,
 NULL  AS `infraspecies`,
 NULL  AS `infraspecies_marker`,
 `AuthorString` AS `author`,
-NULL  AS `accepted_name_code`,
+CONCAT('FishBase',`AcceptedTaxonID`)  AS `accepted_name_code`,
 `AdditionalData` AS `comment`,
 `LTSDate` AS `scrutiny_date`,
 `sp2000_statuses`.`record_id` AS `sp2000_status_id`,
@@ -114,8 +114,8 @@ NULL  AS `accepted_name_code`,
 CONCAT('FishBase',`specialists`.`specialist_code`) AS `specialist_code`,
 CONCAT('FishBase',`families`.`family_code`) AS `family_code`,
 1 AS `is_accepted_name`,
-`GSDTaxonGUI` AS `GSDTaxonGUI`,
-`GSDNameGUI` AS `GSDNameGUI`
+`GSDTaxonGUI` AS `GSDTaxonGUID`,
+`GSDNameGUI` AS `GSDNameGUID`
 FROM `Buffer_FishBase`.`AcceptedSpecies` AcceptedSpecies
 LEFT OUTER JOIN `families` ON 
 (`AcceptedSpecies`.`Kingdom` = `families`.`kingdom` AND
@@ -130,6 +130,39 @@ LEFT OUTER JOIN `sp2000_statuses` ON
 `AcceptedSpecies`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
 WHERE `AcceptedSpecies`.`IsFossil` = 0;
 
+
+/* inserting acceptedinfraspecies names*/
+
+TRUNCATE TABLE `scientific_names`;
+
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT('FishBase',`AcceptedTaxonID`) AS `name_code`,
+`InfrSpeciesURL` AS `web_site`,
+`AcceptedSpecies`.`Genus` AS `genus`,
+`AcceptedSpecies`.`SubGenusName` AS `subgenus`,
+`AcceptedSpecies`.`Species` AS `species`,
+CONCAT('FishBase',`ParentSpeciesID`) AS `infraspecies_parent_name_code`,
+`InfraSpeciesEpithet`  AS `infraspecies`,
+NULL  AS `infraspecies_marker`,
+`InfraSpecificAuthorString` AS `author`,
+CONCAT('FishBase',`AcceptedTaxonID`)  AS `accepted_name_code`,
+`AdditionalData` AS `comment`,
+`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+10 AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+NULL AS `specialist_code`,
+NULL AS `family_code`,
+1 AS `is_accepted_name`,
+`GSDTaxonGUI` AS `GSDTaxonGUID`,
+`GSDNameGUI` AS `GSDNameGUID`
+FROM `Buffer_FishBase`.`AcceptedInfraSpecificTaxa` AcceptedInfraSpecificTaxa
+LEFT OUTER JOIN `AcceptedSpecies` ON 
+(`AcceptedSpecies`.`AcceptedTaxonID` = `AcceptedInfraSpecificTaxa`.`ParentSpeciesID` 
+WHERE `AcceptedInfraSpecificTaxa`.`IsFossil` = 0;
 
 
 /* Inserting synonyms in just 5 sec*/ 
@@ -156,11 +189,23 @@ NULL AS `family_id`,
 NULL AS `specialist_code`,
 NULL AS `family_code`,
 0 AS `is_accepted_name`,
-NULL AS `GSDTaxonGUI`,
-`Synonyms`.`GSDNameGUI` AS `GSDNameGUI` 
+NULL AS `GSDTaxonGUID`,
+`Synonyms`.`GSDNameGUI` AS `GSDNameGUID` 
 FROM `Buffer_FishBase`.`Synonyms` Synonyms
 LEFT OUTER JOIN `sp2000_statuses` ON
 `Synonyms`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`;
+
+
+
+TRUNCATE TABLE `lifezone`;
+
+INSERT INTO `lifezone` 
+SELECT
+NULL AS `record_id`, 
+CONCAT('FishBase',`AcceptedTaxonID`) AS `name_code`,
+`lifezone` AS `lifezone`
+FROM `Buffer_FishBase`.`lifezone`
+10 AS `database_id`;
 
 
 
@@ -168,16 +213,19 @@ TRUNCATE TABLE `common_names`;
 
 INSERT INTO `common_names` 
 SELECT
-NULL, 
-`AcceptedTaxonID`,
-`CommonName`,
-`Transliteration`,
-`Language`,
-`Country`,
-`Area`,
- NULL,
- 10,
- NULL,
- `ReferenceID`
- FROM `Buffer_FishBase`.`CommonNames`;
+NULL AS `record_id`, 
+CONCAT('FishBase',`AcceptedTaxonID`) AS `name_code`,
+`CommonName` AS `common_name`,
+`Transliteration` AS `transliteration`,
+`Language` AS `language`,
+`Country` AS `country`,
+`Area` AS `area`,
+NULL AS `ReferenceID`,
+10 AS `database_id`,
+`common_names` AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.`name_code` = t2.`name_code` 
+SET t1.`is_infraspecies` = 1
+WHERE (t2.`infraspecies` != '' OR t2.`infraspecies` IS NOT NULL) AND
+t1.`is_infraspecies` = 0;  
+FROM `Buffer_FishBase`.`CommonNames`;
 */

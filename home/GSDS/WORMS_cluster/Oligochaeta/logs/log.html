@@ -998,7 +998,7 @@ Data Loaded.
 </pre>
 </pre><hr><b>Backing up...</b>
 <pre>
-Creating directory  10_25_08_10Sep2015
+Creating directory  23_18_04_05Oct2015
 Backing up files
 </pre><hr><b>Executing local editorial checks</b>
 <pre>
@@ -1294,24 +1294,50 @@ UPDATE `references`  SET `author` = TRIM(`author`)
 --------------
 
 --------------
-SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
+SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.subgenus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author 
+FROM 
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+	FROM scientific_names 
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author 
+WHERE sn.sp2000_status_id = 1
 --------------
 
 --------------
-SELECT "Accepted name to be retained", MAX(name_code), genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author
+SELECT "Accepted name to be retained", MAX(name_code), genus, subgenus, species, infraspecies_marker, infraspecies, author 
+FROM
+	(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, dups.species AS species, 
+		dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+	FROM 
+		(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+		FROM scientific_names 
+		GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+	LEFT JOIN scientific_names sn
+	ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 
+GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author
 --------------
 
 --------------
-SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
-AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
-(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
-FROM scientific_names
-GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
-LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, 
+	dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+FROM 
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt 
+	FROM scientific_names 
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups 
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author 
+WHERE sn.sp2000_status_id = 1 AND sn.name_code NOT IN 
+	(SELECT dups3.namecodes_to_keep FROM
+		(SELECT MAX(name_code) AS namecodes_to_keep, genus, subgenus, species, infraspecies_marker, infraspecies, author 
+		FROM
+			(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, 
+				dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author 
+			FROM 	
+				(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+				FROM scientific_names
+				GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+		LEFT JOIN scientific_names sn
+		ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 
+GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author) AS dups3)
 --------------
 
 --------------
@@ -1339,12 +1365,14 @@ SELECT * FROM scientific_names
 --------------
 
 --------------
-SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, species, infraspecies, accepted_name_code FROM scientific_names
+SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, subgenus, species, infraspecies, accepted_name_code FROM scientific_names
 WHERE is_accepted_name != 1 AND family_code IS NULL
 --------------
 
 --------------
-SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, species, infraspecies, infraspecies_parent_name_code FROM scientific_names WHERE LENGTH(infraspecies)>1  AND family_code IS NULL
+SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus, subgenus, species, infraspecies, infraspecies_parent_name_code 
+FROM scientific_names 
+WHERE LENGTH(infraspecies) > 1 AND family_code IS NULL
 --------------
 
 --------------
@@ -1360,253 +1388,250 @@ WHERE t2.name_code IS NULL
 --------------
 
 --------------
-SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.family_code FROM scientific_names AS t1
+SELECT 'Accepted name without parent family', t1.record_id, t1.name_code, t1.genus, t1.subgenus, t1.species, t1.infraspecies, t1.family_code 
+FROM scientific_names AS t1
 LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
 WHERE t2.family_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code 
+FROM scientific_name_references AS t1
 LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
 WHERE t2.name_code IS NULL
 --------------
 
 Reference link to non-existing accepted name	record_id	reference_code	name_code
-Reference link to non-existing accepted name	69	W-Oli-1318	W-Oli-268081
-Reference link to non-existing accepted name	216	W-Oli-165516	W-Oli-476189
-Reference link to non-existing accepted name	276	W-Oli-4189	W-Oli-177481
-Reference link to non-existing accepted name	471	W-Oli-1318	W-Oli-268077
+Reference link to non-existing accepted name	31	W-Oli-1318	W-Oli-268081
+Reference link to non-existing accepted name	312	W-Oli-165516	W-Oli-476189
+Reference link to non-existing accepted name	332	W-Oli-4189	W-Oli-177481
+Reference link to non-existing accepted name	491	W-Oli-1318	W-Oli-268077
 --------------
-SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code FROM scientific_name_references AS t1
+SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code 
+FROM scientific_name_references AS t1
 LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
 WHERE t2.reference_code IS NULL
 --------------
 
 Reference link to non-existing reference	record_id	reference_code	name_code
-Reference link to non-existing reference	1	W-Oli-147411	W-Oli-137481
-Reference link to non-existing reference	2	W-Oli-147411	W-Oli-154887
-Reference link to non-existing reference	3	W-Oli-147411	W-Oli-137577
-Reference link to non-existing reference	4	W-Oli-147411	W-Oli-137553
+Reference link to non-existing reference	1	W-Oli-132969	W-Oli-137577
+Reference link to non-existing reference	2	W-Oli-147411	W-Oli-137481
+Reference link to non-existing reference	3	W-Oli-147411	W-Oli-137553
+Reference link to non-existing reference	4	W-Oli-147411	W-Oli-154887
 Reference link to non-existing reference	5	W-Oli-147411	W-Oli-137571
 Reference link to non-existing reference	6	W-Oli-147411	W-Oli-137485
-Reference link to non-existing reference	15	W-Oli-42	W-Oli-137471
-Reference link to non-existing reference	23	W-Oli-42	W-Oli-137556
-Reference link to non-existing reference	27	W-Oli-42	W-Oli-157595
-Reference link to non-existing reference	28	W-Oli-4189	W-Oli-175968
-Reference link to non-existing reference	29	W-Oli-4189	W-Oli-176083
-Reference link to non-existing reference	30	W-Oli-4189	W-Oli-176087
-Reference link to non-existing reference	31	W-Oli-4189	W-Oli-176117
-Reference link to non-existing reference	32	W-Oli-4189	W-Oli-176236
-Reference link to non-existing reference	33	W-Oli-4189	W-Oli-176321
-Reference link to non-existing reference	34	W-Oli-4189	W-Oli-176402
-Reference link to non-existing reference	35	W-Oli-4189	W-Oli-176436
-Reference link to non-existing reference	36	W-Oli-4189	W-Oli-176504
-Reference link to non-existing reference	37	W-Oli-4189	W-Oli-177304
-Reference link to non-existing reference	38	W-Oli-4189	W-Oli-177538
-Reference link to non-existing reference	39	W-Oli-42	W-Oli-238751
-Reference link to non-existing reference	41	W-Oli-125700	W-Oli-370527
-Reference link to non-existing reference	42	W-Oli-125700	W-Oli-370544
-Reference link to non-existing reference	64	W-Oli-42	W-Oli-156472
-Reference link to non-existing reference	66	W-Oli-4189	W-Oli-175939
-Reference link to non-existing reference	67	W-Oli-4189	W-Oli-176482
-Reference link to non-existing reference	68	W-Oli-4189	W-Oli-177318
-Reference link to non-existing reference	69	W-Oli-1318	W-Oli-268081
-Reference link to non-existing reference	97	W-Oli-4189	W-Oli-175980
-Reference link to non-existing reference	98	W-Oli-4189	W-Oli-176248
-Reference link to non-existing reference	99	W-Oli-4189	W-Oli-176291
-Reference link to non-existing reference	100	W-Oli-4189	W-Oli-176380
-Reference link to non-existing reference	101	W-Oli-4189	W-Oli-176398
-Reference link to non-existing reference	102	W-Oli-4189	W-Oli-176466
-Reference link to non-existing reference	103	W-Oli-4189	W-Oli-176505
-Reference link to non-existing reference	104	W-Oli-4189	W-Oli-177184
-Reference link to non-existing reference	105	W-Oli-4189	W-Oli-177227
-Reference link to non-existing reference	106	W-Oli-4189	W-Oli-177241
-Reference link to non-existing reference	107	W-Oli-4189	W-Oli-177334
-Reference link to non-existing reference	108	W-Oli-4189	W-Oli-177520
-Reference link to non-existing reference	109	W-Oli-125700	W-Oli-370523
-Reference link to non-existing reference	136	W-Oli-42	W-Oli-137569
-Reference link to non-existing reference	139	W-Oli-42	W-Oli-157591
-Reference link to non-existing reference	140	W-Oli-4189	W-Oli-175972
-Reference link to non-existing reference	141	W-Oli-4189	W-Oli-176074
-Reference link to non-existing reference	142	W-Oli-4189	W-Oli-176215
-Reference link to non-existing reference	143	W-Oli-4189	W-Oli-176240
-Reference link to non-existing reference	144	W-Oli-4189	W-Oli-176308
-Reference link to non-existing reference	145	W-Oli-4189	W-Oli-176406
-Reference link to non-existing reference	146	W-Oli-4189	W-Oli-176483
-Reference link to non-existing reference	147	W-Oli-4189	W-Oli-176517
-Reference link to non-existing reference	148	W-Oli-4189	W-Oli-177351
-Reference link to non-existing reference	150	W-Oli-125700	W-Oli-370540
-Reference link to non-existing reference	151	W-Oli-42	W-Oli-395107
-Reference link to non-existing reference	171	W-Oli-4189	W-Oli-175841
-Reference link to non-existing reference	172	W-Oli-4189	W-Oli-176027
-Reference link to non-existing reference	173	W-Oli-4189	W-Oli-176244
-Reference link to non-existing reference	174	W-Oli-4189	W-Oli-176309
-Reference link to non-existing reference	175	W-Oli-4189	W-Oli-176312
-Reference link to non-existing reference	176	W-Oli-4189	W-Oli-176377
-Reference link to non-existing reference	177	W-Oli-4189	W-Oli-176462
-Reference link to non-existing reference	178	W-Oli-4189	W-Oli-177262
-Reference link to non-existing reference	179	W-Oli-4189	W-Oli-177313
-Reference link to non-existing reference	180	W-Oli-4189	W-Oli-177330
-Reference link to non-existing reference	187	W-Oli-155157	W-Oli-593130
-Reference link to non-existing reference	201	W-Oli-4189	W-Oli-175918
-Reference link to non-existing reference	202	W-Oli-4189	W-Oli-175952
-Reference link to non-existing reference	203	W-Oli-4189	W-Oli-176469
-Reference link to non-existing reference	204	W-Oli-4189	W-Oli-176503
-Reference link to non-existing reference	205	W-Oli-4189	W-Oli-176518
-Reference link to non-existing reference	206	W-Oli-4189	W-Oli-177288
-Reference link to non-existing reference	207	W-Oli-4189	W-Oli-177290
-Reference link to non-existing reference	208	W-Oli-4189	W-Oli-177303
-Reference link to non-existing reference	209	W-Oli-4189	W-Oli-177305
-Reference link to non-existing reference	210	W-Oli-4189	W-Oli-177339
-Reference link to non-existing reference	211	W-Oli-4189	W-Oli-177354
-Reference link to non-existing reference	212	W-Oli-42	W-Oli-238733
-Reference link to non-existing reference	229	W-Oli-42	W-Oli-157589
-Reference link to non-existing reference	231	W-Oli-4189	W-Oli-175915
-Reference link to non-existing reference	232	W-Oli-4189	W-Oli-175940
-Reference link to non-existing reference	233	W-Oli-4189	W-Oli-176004
-Reference link to non-existing reference	234	W-Oli-4189	W-Oli-176081
-Reference link to non-existing reference	235	W-Oli-4189	W-Oli-176247
-Reference link to non-existing reference	236	W-Oli-4189	W-Oli-176306
-Reference link to non-existing reference	237	W-Oli-4189	W-Oli-176447
-Reference link to non-existing reference	238	W-Oli-4189	W-Oli-176506
-Reference link to non-existing reference	239	W-Oli-4189	W-Oli-177276
-Reference link to non-existing reference	240	W-Oli-4189	W-Oli-177310
-Reference link to non-existing reference	241	W-Oli-4189	W-Oli-177344
-Reference link to non-existing reference	242	W-Oli-125700	W-Oli-370533
-Reference link to non-existing reference	243	W-Oli-125700	W-Oli-370538
-Reference link to non-existing reference	246	W-Oli-42	W-Oli-395109
-Reference link to non-existing reference	265	W-Oli-4189	W-Oli-175927
-Reference link to non-existing reference	266	W-Oli-4189	W-Oli-175995
-Reference link to non-existing reference	267	W-Oli-4189	W-Oli-176009
-Reference link to non-existing reference	268	W-Oli-4189	W-Oli-176026
-Reference link to non-existing reference	269	W-Oli-4189	W-Oli-176226
-Reference link to non-existing reference	270	W-Oli-4189	W-Oli-176344
-Reference link to non-existing reference	271	W-Oli-4189	W-Oli-176476
-Reference link to non-existing reference	272	W-Oli-4189	W-Oli-176477
-Reference link to non-existing reference	273	W-Oli-4189	W-Oli-177195
-Reference link to non-existing reference	274	W-Oli-4189	W-Oli-177230
-Reference link to non-existing reference	275	W-Oli-4189	W-Oli-177348
-Reference link to non-existing reference	276	W-Oli-4189	W-Oli-177481
-Reference link to non-existing reference	277	W-Oli-125700	W-Oli-370537
-Reference link to non-existing reference	284	W-Oli-155157	W-Oli-593131
-Reference link to non-existing reference	288	W-Oli-42	W-Oli-137486
-Reference link to non-existing reference	296	W-Oli-4189	W-Oli-175991
-Reference link to non-existing reference	297	W-Oli-4189	W-Oli-176005
-Reference link to non-existing reference	298	W-Oli-4189	W-Oli-176012
-Reference link to non-existing reference	299	W-Oli-4189	W-Oli-176073
-Reference link to non-existing reference	300	W-Oli-4189	W-Oli-176216
-Reference link to non-existing reference	301	W-Oli-4189	W-Oli-176298
-Reference link to non-existing reference	302	W-Oli-4189	W-Oli-176480
-Reference link to non-existing reference	303	W-Oli-4189	W-Oli-177191
-Reference link to non-existing reference	304	W-Oli-4189	W-Oli-177284
-Reference link to non-existing reference	305	W-Oli-4189	W-Oli-177302
-Reference link to non-existing reference	306	W-Oli-4189	W-Oli-177341
-Reference link to non-existing reference	307	W-Oli-4189	W-Oli-177352
-Reference link to non-existing reference	308	W-Oli-125700	W-Oli-370530
-Reference link to non-existing reference	310	W-Oli-42	W-Oli-395108
-Reference link to non-existing reference	314	W-Oli-155157	W-Oli-593127
-Reference link to non-existing reference	322	W-Oli-4189	W-Oli-175942
-Reference link to non-existing reference	323	W-Oli-4189	W-Oli-176128
-Reference link to non-existing reference	324	W-Oli-4189	W-Oli-176378
-Reference link to non-existing reference	325	W-Oli-4189	W-Oli-176429
-Reference link to non-existing reference	326	W-Oli-4189	W-Oli-177279
-Reference link to non-existing reference	327	W-Oli-4189	W-Oli-177315
-Reference link to non-existing reference	329	W-Oli-42	W-Oli-254319
-Reference link to non-existing reference	330	W-Oli-125700	W-Oli-370518
-Reference link to non-existing reference	351	W-Oli-42	W-Oli-160058
-Reference link to non-existing reference	352	W-Oli-4189	W-Oli-175824
-Reference link to non-existing reference	353	W-Oli-4189	W-Oli-176296
-Reference link to non-existing reference	354	W-Oli-4189	W-Oli-176310
-Reference link to non-existing reference	355	W-Oli-4189	W-Oli-176460
-Reference link to non-existing reference	356	W-Oli-4189	W-Oli-177282
-Reference link to non-existing reference	357	W-Oli-4189	W-Oli-177296
-Reference link to non-existing reference	358	W-Oli-4189	W-Oli-177297
-Reference link to non-existing reference	359	W-Oli-4189	W-Oli-177332
-Reference link to non-existing reference	360	W-Oli-4189	W-Oli-177347
-Reference link to non-existing reference	361	W-Oli-125700	W-Oli-370521
-Reference link to non-existing reference	362	W-Oli-125700	W-Oli-370535
-Reference link to non-existing reference	380	W-Oli-42	W-Oli-157597
-Reference link to non-existing reference	381	W-Oli-4189	W-Oli-175914
-Reference link to non-existing reference	382	W-Oli-4189	W-Oli-175957
-Reference link to non-existing reference	383	W-Oli-4189	W-Oli-175971
-Reference link to non-existing reference	384	W-Oli-4189	W-Oli-176307
-Reference link to non-existing reference	385	W-Oli-4189	W-Oli-177257
-Reference link to non-existing reference	386	W-Oli-4189	W-Oli-177293
-Reference link to non-existing reference	387	W-Oli-4189	W-Oli-177350
-Reference link to non-existing reference	388	W-Oli-4189	W-Oli-177443
-Reference link to non-existing reference	389	W-Oli-125700	W-Oli-370532
-Reference link to non-existing reference	396	W-Oli-42	W-Oli-594797
-Reference link to non-existing reference	405	W-Oli-4189	W-Oli-175999
-Reference link to non-existing reference	406	W-Oli-4189	W-Oli-176022
-Reference link to non-existing reference	407	W-Oli-4189	W-Oli-176256
-Reference link to non-existing reference	408	W-Oli-4189	W-Oli-176322
-Reference link to non-existing reference	409	W-Oli-4189	W-Oli-176356
-Reference link to non-existing reference	421	W-Oli-155157	W-Oli-593103
-Reference link to non-existing reference	422	W-Oli-155157	W-Oli-593126
-Reference link to non-existing reference	430	W-Oli-4189	W-Oli-156215
-Reference link to non-existing reference	431	W-Oli-4189	W-Oli-175920
-Reference link to non-existing reference	432	W-Oli-4189	W-Oli-175935
-Reference link to non-existing reference	433	W-Oli-4189	W-Oli-176020
-Reference link to non-existing reference	434	W-Oli-4189	W-Oli-176084
-Reference link to non-existing reference	435	W-Oli-4189	W-Oli-176235
-Reference link to non-existing reference	436	W-Oli-4189	W-Oli-176301
-Reference link to non-existing reference	437	W-Oli-4189	W-Oli-176471
-Reference link to non-existing reference	438	W-Oli-4189	W-Oli-177307
-Reference link to non-existing reference	439	W-Oli-4189	W-Oli-177320
-Reference link to non-existing reference	440	W-Oli-4189	W-Oli-177337
-Reference link to non-existing reference	441	W-Oli-4189	W-Oli-177356
-Reference link to non-existing reference	459	W-Oli-4189	W-Oli-156216
-Reference link to non-existing reference	460	W-Oli-4189	W-Oli-175970
-Reference link to non-existing reference	461	W-Oli-4189	W-Oli-176119
-Reference link to non-existing reference	462	W-Oli-4189	W-Oli-176234
-Reference link to non-existing reference	463	W-Oli-4189	W-Oli-176251
-Reference link to non-existing reference	464	W-Oli-4189	W-Oli-176438
-Reference link to non-existing reference	465	W-Oli-4189	W-Oli-176485
-Reference link to non-existing reference	466	W-Oli-4189	W-Oli-177238
-Reference link to non-existing reference	467	W-Oli-4189	W-Oli-177255
-Reference link to non-existing reference	468	W-Oli-4189	W-Oli-177289
-Reference link to non-existing reference	469	W-Oli-4189	W-Oli-177404
-Reference link to non-existing reference	470	W-Oli-4189	W-Oli-177523
-Reference link to non-existing reference	471	W-Oli-1318	W-Oli-268077
-Reference link to non-existing reference	481	W-Oli-42	W-Oli-157600
-Reference link to non-existing reference	482	W-Oli-4189	W-Oli-176290
-Reference link to non-existing reference	483	W-Oli-4189	W-Oli-176324
-Reference link to non-existing reference	484	W-Oli-4189	W-Oli-176388
-Reference link to non-existing reference	485	W-Oli-4189	W-Oli-176424
-Reference link to non-existing reference	486	W-Oli-4189	W-Oli-177267
-Reference link to non-existing reference	487	W-Oli-4189	W-Oli-177269
-Reference link to non-existing reference	488	W-Oli-4189	W-Oli-177324
-Reference link to non-existing reference	489	W-Oli-4189	W-Oli-177326
-Reference link to non-existing reference	495	W-Oli-155157	W-Oli-593128
+Reference link to non-existing reference	8	W-Oli-42	W-Oli-137402
+Reference link to non-existing reference	26	W-Oli-42	W-Oli-156472
+Reference link to non-existing reference	28	W-Oli-4189	W-Oli-175939
+Reference link to non-existing reference	29	W-Oli-4189	W-Oli-176482
+Reference link to non-existing reference	30	W-Oli-4189	W-Oli-177318
+Reference link to non-existing reference	31	W-Oli-1318	W-Oli-268081
+Reference link to non-existing reference	62	W-Oli-42	W-Oli-157600
+Reference link to non-existing reference	63	W-Oli-4189	W-Oli-176290
+Reference link to non-existing reference	64	W-Oli-4189	W-Oli-176324
+Reference link to non-existing reference	65	W-Oli-4189	W-Oli-176388
+Reference link to non-existing reference	66	W-Oli-4189	W-Oli-176424
+Reference link to non-existing reference	67	W-Oli-4189	W-Oli-177267
+Reference link to non-existing reference	68	W-Oli-4189	W-Oli-177269
+Reference link to non-existing reference	69	W-Oli-4189	W-Oli-177324
+Reference link to non-existing reference	70	W-Oli-4189	W-Oli-177326
+Reference link to non-existing reference	72	W-Oli-125700	W-Oli-370522
+Reference link to non-existing reference	82	W-Oli-155157	W-Oli-593128
+Reference link to non-existing reference	99	W-Oli-4189	W-Oli-175841
+Reference link to non-existing reference	100	W-Oli-4189	W-Oli-176027
+Reference link to non-existing reference	101	W-Oli-4189	W-Oli-176244
+Reference link to non-existing reference	102	W-Oli-4189	W-Oli-176309
+Reference link to non-existing reference	103	W-Oli-4189	W-Oli-176312
+Reference link to non-existing reference	104	W-Oli-4189	W-Oli-176377
+Reference link to non-existing reference	105	W-Oli-4189	W-Oli-176462
+Reference link to non-existing reference	106	W-Oli-4189	W-Oli-177262
+Reference link to non-existing reference	107	W-Oli-4189	W-Oli-177313
+Reference link to non-existing reference	108	W-Oli-4189	W-Oli-177330
+Reference link to non-existing reference	115	W-Oli-155157	W-Oli-593130
+Reference link to non-existing reference	128	W-Oli-42	W-Oli-137569
+Reference link to non-existing reference	131	W-Oli-42	W-Oli-157591
+Reference link to non-existing reference	132	W-Oli-4189	W-Oli-175972
+Reference link to non-existing reference	133	W-Oli-4189	W-Oli-176074
+Reference link to non-existing reference	134	W-Oli-4189	W-Oli-176215
+Reference link to non-existing reference	135	W-Oli-4189	W-Oli-176240
+Reference link to non-existing reference	136	W-Oli-4189	W-Oli-176308
+Reference link to non-existing reference	137	W-Oli-4189	W-Oli-176406
+Reference link to non-existing reference	138	W-Oli-4189	W-Oli-176483
+Reference link to non-existing reference	139	W-Oli-4189	W-Oli-176517
+Reference link to non-existing reference	140	W-Oli-4189	W-Oli-177351
+Reference link to non-existing reference	144	W-Oli-42	W-Oli-395107
+Reference link to non-existing reference	166	W-Oli-4189	W-Oli-175980
+Reference link to non-existing reference	167	W-Oli-4189	W-Oli-176248
+Reference link to non-existing reference	168	W-Oli-4189	W-Oli-176291
+Reference link to non-existing reference	169	W-Oli-4189	W-Oli-176380
+Reference link to non-existing reference	170	W-Oli-4189	W-Oli-176398
+Reference link to non-existing reference	171	W-Oli-4189	W-Oli-176466
+Reference link to non-existing reference	172	W-Oli-4189	W-Oli-176505
+Reference link to non-existing reference	173	W-Oli-4189	W-Oli-177184
+Reference link to non-existing reference	174	W-Oli-4189	W-Oli-177227
+Reference link to non-existing reference	175	W-Oli-4189	W-Oli-177241
+Reference link to non-existing reference	176	W-Oli-4189	W-Oli-177334
+Reference link to non-existing reference	177	W-Oli-4189	W-Oli-177520
+Reference link to non-existing reference	178	W-Oli-125700	W-Oli-370523
+Reference link to non-existing reference	194	W-Oli-1153	W-Oli-137437
+Reference link to non-existing reference	209	W-Oli-42	W-Oli-160058
+Reference link to non-existing reference	210	W-Oli-4189	W-Oli-175824
+Reference link to non-existing reference	211	W-Oli-4189	W-Oli-176296
+Reference link to non-existing reference	212	W-Oli-4189	W-Oli-176310
+Reference link to non-existing reference	213	W-Oli-4189	W-Oli-176460
+Reference link to non-existing reference	214	W-Oli-4189	W-Oli-177282
+Reference link to non-existing reference	215	W-Oli-4189	W-Oli-177296
+Reference link to non-existing reference	216	W-Oli-4189	W-Oli-177297
+Reference link to non-existing reference	217	W-Oli-4189	W-Oli-177332
+Reference link to non-existing reference	218	W-Oli-4189	W-Oli-177347
+Reference link to non-existing reference	219	W-Oli-125700	W-Oli-370521
+Reference link to non-existing reference	221	W-Oli-125700	W-Oli-370535
+Reference link to non-existing reference	238	W-Oli-4189	W-Oli-175942
+Reference link to non-existing reference	239	W-Oli-4189	W-Oli-176128
+Reference link to non-existing reference	240	W-Oli-4189	W-Oli-176378
+Reference link to non-existing reference	241	W-Oli-4189	W-Oli-176429
+Reference link to non-existing reference	242	W-Oli-4189	W-Oli-177279
+Reference link to non-existing reference	243	W-Oli-4189	W-Oli-177315
+Reference link to non-existing reference	245	W-Oli-42	W-Oli-254319
+Reference link to non-existing reference	268	W-Oli-4189	W-Oli-175915
+Reference link to non-existing reference	269	W-Oli-4189	W-Oli-175940
+Reference link to non-existing reference	270	W-Oli-4189	W-Oli-176004
+Reference link to non-existing reference	271	W-Oli-4189	W-Oli-176081
+Reference link to non-existing reference	272	W-Oli-4189	W-Oli-176247
+Reference link to non-existing reference	273	W-Oli-4189	W-Oli-176306
+Reference link to non-existing reference	274	W-Oli-4189	W-Oli-176447
+Reference link to non-existing reference	275	W-Oli-4189	W-Oli-176506
+Reference link to non-existing reference	276	W-Oli-4189	W-Oli-177276
+Reference link to non-existing reference	277	W-Oli-4189	W-Oli-177310
+Reference link to non-existing reference	278	W-Oli-4189	W-Oli-177344
+Reference link to non-existing reference	279	W-Oli-125700	W-Oli-370538
+Reference link to non-existing reference	281	W-Oli-42	W-Oli-395109
+Reference link to non-existing reference	298	W-Oli-4189	W-Oli-175918
+Reference link to non-existing reference	299	W-Oli-4189	W-Oli-175952
+Reference link to non-existing reference	300	W-Oli-4189	W-Oli-176469
+Reference link to non-existing reference	301	W-Oli-4189	W-Oli-176503
+Reference link to non-existing reference	302	W-Oli-4189	W-Oli-176518
+Reference link to non-existing reference	303	W-Oli-4189	W-Oli-177288
+Reference link to non-existing reference	304	W-Oli-4189	W-Oli-177290
+Reference link to non-existing reference	305	W-Oli-4189	W-Oli-177303
+Reference link to non-existing reference	306	W-Oli-4189	W-Oli-177305
+Reference link to non-existing reference	307	W-Oli-4189	W-Oli-177339
+Reference link to non-existing reference	308	W-Oli-4189	W-Oli-177354
+Reference link to non-existing reference	309	W-Oli-42	W-Oli-238733
+Reference link to non-existing reference	321	W-Oli-4189	W-Oli-175927
+Reference link to non-existing reference	322	W-Oli-4189	W-Oli-175995
+Reference link to non-existing reference	323	W-Oli-4189	W-Oli-176009
+Reference link to non-existing reference	324	W-Oli-4189	W-Oli-176026
+Reference link to non-existing reference	325	W-Oli-4189	W-Oli-176226
+Reference link to non-existing reference	326	W-Oli-4189	W-Oli-176344
+Reference link to non-existing reference	327	W-Oli-4189	W-Oli-176476
+Reference link to non-existing reference	328	W-Oli-4189	W-Oli-176477
+Reference link to non-existing reference	329	W-Oli-4189	W-Oli-177195
+Reference link to non-existing reference	330	W-Oli-4189	W-Oli-177230
+Reference link to non-existing reference	331	W-Oli-4189	W-Oli-177348
+Reference link to non-existing reference	332	W-Oli-4189	W-Oli-177481
+Reference link to non-existing reference	333	W-Oli-125700	W-Oli-370537
+Reference link to non-existing reference	340	W-Oli-155157	W-Oli-593131
+Reference link to non-existing reference	350	W-Oli-42	W-Oli-157595
+Reference link to non-existing reference	351	W-Oli-4189	W-Oli-175968
+Reference link to non-existing reference	352	W-Oli-4189	W-Oli-176083
+Reference link to non-existing reference	353	W-Oli-4189	W-Oli-176087
+Reference link to non-existing reference	354	W-Oli-4189	W-Oli-176117
+Reference link to non-existing reference	355	W-Oli-4189	W-Oli-176236
+Reference link to non-existing reference	356	W-Oli-4189	W-Oli-176321
+Reference link to non-existing reference	357	W-Oli-4189	W-Oli-176402
+Reference link to non-existing reference	358	W-Oli-4189	W-Oli-176436
+Reference link to non-existing reference	359	W-Oli-4189	W-Oli-176504
+Reference link to non-existing reference	360	W-Oli-4189	W-Oli-177304
+Reference link to non-existing reference	361	W-Oli-4189	W-Oli-177538
+Reference link to non-existing reference	362	W-Oli-42	W-Oli-238751
+Reference link to non-existing reference	377	W-Oli-42	W-Oli-157597
+Reference link to non-existing reference	378	W-Oli-4189	W-Oli-175914
+Reference link to non-existing reference	379	W-Oli-4189	W-Oli-175957
+Reference link to non-existing reference	380	W-Oli-4189	W-Oli-175971
+Reference link to non-existing reference	381	W-Oli-4189	W-Oli-176307
+Reference link to non-existing reference	382	W-Oli-4189	W-Oli-177257
+Reference link to non-existing reference	383	W-Oli-4189	W-Oli-177293
+Reference link to non-existing reference	384	W-Oli-4189	W-Oli-177350
+Reference link to non-existing reference	385	W-Oli-4189	W-Oli-177443
+Reference link to non-existing reference	386	W-Oli-125700	W-Oli-370532
+Reference link to non-existing reference	393	W-Oli-42	W-Oli-594797
+Reference link to non-existing reference	401	W-Oli-4189	W-Oli-175999
+Reference link to non-existing reference	402	W-Oli-4189	W-Oli-176022
+Reference link to non-existing reference	403	W-Oli-4189	W-Oli-176256
+Reference link to non-existing reference	404	W-Oli-4189	W-Oli-176322
+Reference link to non-existing reference	405	W-Oli-4189	W-Oli-176356
+Reference link to non-existing reference	417	W-Oli-155157	W-Oli-593103
+Reference link to non-existing reference	418	W-Oli-155157	W-Oli-593126
+Reference link to non-existing reference	428	W-Oli-4189	W-Oli-175991
+Reference link to non-existing reference	429	W-Oli-4189	W-Oli-176005
+Reference link to non-existing reference	430	W-Oli-4189	W-Oli-176012
+Reference link to non-existing reference	431	W-Oli-4189	W-Oli-176073
+Reference link to non-existing reference	432	W-Oli-4189	W-Oli-176216
+Reference link to non-existing reference	433	W-Oli-4189	W-Oli-176298
+Reference link to non-existing reference	434	W-Oli-4189	W-Oli-176480
+Reference link to non-existing reference	435	W-Oli-4189	W-Oli-177191
+Reference link to non-existing reference	436	W-Oli-4189	W-Oli-177284
+Reference link to non-existing reference	437	W-Oli-4189	W-Oli-177302
+Reference link to non-existing reference	438	W-Oli-4189	W-Oli-177341
+Reference link to non-existing reference	439	W-Oli-4189	W-Oli-177352
+Reference link to non-existing reference	441	W-Oli-42	W-Oli-395108
+Reference link to non-existing reference	445	W-Oli-155157	W-Oli-593127
+Reference link to non-existing reference	451	W-Oli-4189	W-Oli-175920
+Reference link to non-existing reference	452	W-Oli-4189	W-Oli-175935
+Reference link to non-existing reference	453	W-Oli-4189	W-Oli-176020
+Reference link to non-existing reference	454	W-Oli-4189	W-Oli-176084
+Reference link to non-existing reference	455	W-Oli-4189	W-Oli-176235
+Reference link to non-existing reference	456	W-Oli-4189	W-Oli-176301
+Reference link to non-existing reference	457	W-Oli-4189	W-Oli-176471
+Reference link to non-existing reference	458	W-Oli-4189	W-Oli-177307
+Reference link to non-existing reference	459	W-Oli-4189	W-Oli-177320
+Reference link to non-existing reference	460	W-Oli-4189	W-Oli-177337
+Reference link to non-existing reference	461	W-Oli-4189	W-Oli-177356
+Reference link to non-existing reference	479	W-Oli-4189	W-Oli-156216
+Reference link to non-existing reference	480	W-Oli-4189	W-Oli-175970
+Reference link to non-existing reference	481	W-Oli-4189	W-Oli-176119
+Reference link to non-existing reference	482	W-Oli-4189	W-Oli-176234
+Reference link to non-existing reference	483	W-Oli-4189	W-Oli-176251
+Reference link to non-existing reference	484	W-Oli-4189	W-Oli-176438
+Reference link to non-existing reference	485	W-Oli-4189	W-Oli-176485
+Reference link to non-existing reference	486	W-Oli-4189	W-Oli-177238
+Reference link to non-existing reference	487	W-Oli-4189	W-Oli-177255
+Reference link to non-existing reference	488	W-Oli-4189	W-Oli-177289
+Reference link to non-existing reference	489	W-Oli-4189	W-Oli-177404
+Reference link to non-existing reference	490	W-Oli-4189	W-Oli-177523
+Reference link to non-existing reference	491	W-Oli-1318	W-Oli-268077
 --------------
-SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code FROM specialists AS t1
+SELECT 'Specialist not present in scientific names table', t1.record_id, t1.specialist_name, t1.specialist_code 
+FROM specialists AS t1
 LEFT JOIN scientific_names AS t2 ON t1.specialist_code = t2.specialist_code
 WHERE t2.specialist_code IS NULL
 --------------
 
 --------------
-SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code FROM `references` AS t1
+SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year, t1.title, t1.reference_code 
+FROM `references` AS t1
 LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
 LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
 WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
 --------------
 
 Reference without parent accepted or common name	record_id	author	year	title	reference_code
+Reference without parent accepted or common name	4	Howson, C.M.; Picton, B.E. (Ed.)	1997	NULL	W-Oli-663
 Reference without parent accepted or common name	12	Muller, Y.	2004	NULL	W-Oli-9269
-Reference without parent accepted or common name	14	Müller O.F.	1776	NULL	W-Oli-9419
+Reference without parent accepted or common name	14	MÃ¼ller O.F.	1776	NULL	W-Oli-9419
 Reference without parent accepted or common name	15	Oldevig, H.	1961	NULL	W-Oli-14486
-Reference without parent accepted or common name	21	Ers?us, C.	1993	NULL	W-Oli-66485
+Reference without parent accepted or common name	17	ErsÃ©us, Christer	1987	NULL	W-Oli-53892
 Reference without parent accepted or common name	29	Michaelsen, W.	1905	NULL	W-Oli-125706
-Reference without parent accepted or common name	30	Rota, E.; Matamoros, L.; Ers?us, C.	2008	NULL	W-Oli-125707
-Reference without parent accepted or common name	31	Erséus, C.; Rota, E.	1996	NULL	W-Oli-125708
-Reference without parent accepted or common name	33	Erséus, C.	1979	NULL	W-Oli-125710
+Reference without parent accepted or common name	31	ErsÃ©us, C.; Rota, E.	1996	NULL	W-Oli-125708
 Reference without parent accepted or common name	34	Baker, H. R.; Brinkhurst, R. O.	1981	NULL	W-Oli-125711
-Reference without parent accepted or common name	37	Erséus, Giere, Dreyer & Bailey-Brock.	2005	NULL	W-Oli-128395
+Reference without parent accepted or common name	37	ErsÃ©us, Giere, Dreyer & Bailey-Brock.	2005	NULL	W-Oli-128395
 Reference without parent accepted or common name	42	Martinez-Ansemil, Giani & Sambugar.	2002	NULL	W-Oli-131024
 Reference without parent accepted or common name	43	Pinder, A.M. and Halse, S.A.	2002	NULL	W-Oli-131116
 Reference without parent accepted or common name	50	Kallstenius, E.	1892	NULL	W-Oli-163256
-Reference without parent accepted or common name	51	Knöller, F. H.	1935	NULL	W-Oli-163685
+Reference without parent accepted or common name	51	KnÃ¶ller, F. H.	1935	NULL	W-Oli-163685
 Reference without parent accepted or common name	61	Pallas, P. S.	1766	NULL	W-Oli-190435
+Reference without parent accepted or common name	62	Trott, T. J.	2004	NULL	W-Oli-192633
 --------------
 DROP TRIGGER IF EXISTS delfamcascade
 --------------
@@ -1620,18 +1645,33 @@ DROP TRIGGER IF EXISTS delspcascade
 --------------
 
 --------------
-CREATE TEMPORARY TABLE duplicates_to_delete AS SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt FROM scientific_names GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1
-AND sn.name_code NOT IN (SELECT dups3.namecodes_to_keep FROM
-(SELECT MAX(name_code) AS namecodes_to_keep, genus, species, infraspecies_marker, infraspecies, author FROM
-(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author FROM (SELECT genus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
-FROM scientific_names
-GROUP BY genus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) dups
-LEFT JOIN scientific_names sn
-ON sn.genus = dups.genus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2 GROUP BY genus, species, infraspecies_marker, infraspecies, author) AS dups3)
+CREATE TEMPORARY TABLE duplicates_to_delete AS
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus,
+	dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+FROM
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+	FROM scientific_names
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id
+	HAVING cnt > 1) AS dups
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+WHERE sn.sp2000_status_id = 1 AND sn.name_code NOT IN
+	(SELECT dups3.namecodes_to_keep FROM
+		(SELECT MAX(name_code) AS namecodes_to_keep, genus, subgenus, species, infraspecies_marker, infraspecies, author FROM
+			(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, dups.species AS species,
+				dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+			FROM
+				(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+				FROM scientific_names
+				GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+			LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+			WHERE sn.sp2000_status_id = 1) AS dups2
+		GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author) AS dups3)
 --------------
 
 --------------
-DELETE QUICK FROM scientific_names USING scientific_names INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
+DELETE QUICK FROM scientific_names
+USING scientific_names
+INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
 --------------
 
 --------------
@@ -1642,14 +1682,14 @@ WHERE t2.name_code IS NULL
 
 --------------
 DELETE QUICK t1 FROM scientific_names AS t1
-LEFT JOIN scientific_name_references AS t2 ON t1.accepted_name_code = t2.name_code
+LEFT JOIN scientific_names_tmp AS t2 ON t1.accepted_name_code = t2.name_code
 WHERE t2.name_code IS NULL AND t1.is_accepted_name != 1
 --------------
 
 --------------
 DELETE QUICK t1 FROM scientific_names AS t1
-LEFT JOIN scientific_name_references AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
-WHERE t2.name_code IS NULL
+LEFT JOIN scientific_names_tmp AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
+WHERE t1.infraspecies_parent_name_code IS NOT NULL AND t2.name_code IS NULL
 --------------
 
 --------------
