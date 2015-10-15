@@ -10,32 +10,32 @@ Put change in log file.
 */
 /* Create the log */
 /* Without subgenus */
-SELECT "Misspelt infraspecies (no subgenus): ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names` 
+SELECT "Misspelt infraspecies (no subgenus): ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names`
 WHERE `infraspecies` LIKE '% %' AND
-`infraspecies` LIKE CONCAT(`genus`, '%') AND 
-(`subgenus` IS NULL OR `subgenus` = '') AND 
+`infraspecies` LIKE CONCAT(`genus`, '%') AND
+(`subgenus` IS NULL OR `subgenus` = '') AND
 `infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%');
 
 /* With subgenus */
-SELECT "Misspelt infraspecies (with subgenus): ", `name_code`, `genus`, `subgenus`, `species`, `infraspecies` FROM `scientific_names` 
+SELECT "Misspelt infraspecies (with subgenus): ", `name_code`, `genus`, `subgenus`, `species`, `infraspecies` FROM `scientific_names`
 WHERE `infraspecies` LIKE '% %' AND
-`infraspecies` LIKE CONCAT(`genus`, '%') AND 
-`subgenus` != '' AND 
+`infraspecies` LIKE CONCAT(`genus`, '%') AND
+`subgenus` != '' AND
 (`infraspecies` NOT LIKE CONCAT(`genus`, ' (', `subgenus`, ') ', `species`, '%') OR `infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%'));
 
 /* Delete the records */
 /* Without subgenus */
-DELETE FROM `scientific_names` 
+DELETE FROM `scientific_names`
 WHERE `infraspecies` LIKE '% %' AND
-`infraspecies` LIKE CONCAT(`genus`, '%') AND 
-(`subgenus` IS NULL OR `subgenus` = '') AND 
+`infraspecies` LIKE CONCAT(`genus`, '%') AND
+(`subgenus` IS NULL OR `subgenus` = '') AND
 `infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%');
 
 /* With subgenus */
-DELETE FROM `scientific_names` 
+DELETE FROM `scientific_names`
 WHERE `infraspecies` LIKE '% %' AND
-`infraspecies` LIKE CONCAT(`genus`, '%') AND 
-`subgenus` != '' AND 
+`infraspecies` LIKE CONCAT(`genus`, '%') AND
+`subgenus` != '' AND
 (`infraspecies` NOT LIKE CONCAT(`genus`, ' (', `subgenus`, ') ', `species`, '%') OR `infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%'));
 
 
@@ -43,19 +43,19 @@ WHERE `infraspecies` LIKE '% %' AND
 
 
 
-/* Infraspecies multinomial names are included, e.g. syrenicus anatolicus, 
+/* Infraspecies multinomial names are included, e.g. syrenicus anatolicus,
 but first check the original database. Delete the taxon. Put change in log file. */
 /* Create the log */
-SELECT "Incorrect infraspecies: ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names` 
-WHERE `infraspecies` LIKE '% %'  AND 
-`infraspecies` NOT LIKE 'f.%' AND 
+SELECT "Incorrect infraspecies: ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %'  AND
+`infraspecies` NOT LIKE 'f.%' AND
 `infraspecies` NOT LIKE 'var.%' AND
 `infraspecies` NOT LIKE 'subsp.%';
 
 /* Delete the records */
-DELETE FROM `scientific_names` 
-WHERE `infraspecies` LIKE '% %'  AND 
-`infraspecies` NOT LIKE 'f.%' AND 
+DELETE FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %'  AND
+`infraspecies` NOT LIKE 'f.%' AND
 `infraspecies` NOT LIKE 'var.%' AND
 `infraspecies` NOT LIKE 'subsp.%';
 
@@ -63,19 +63,19 @@ WHERE `infraspecies` LIKE '% %'  AND
 
 
 
-/* Infraspecies marker in infraspecies field should be removed, e.g. var or f. Put change in log file. 
+/* Infraspecies marker in infraspecies field should be removed, e.g. var or f. Put change in log file.
 Put change in log file. */
 /* Create the log */
-SELECT "Infraspecies starting with marker: ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names` 
-WHERE `infraspecies` LIKE '% %' AND 
-(`infraspecies` LIKE 'f.%' OR 
+SELECT "Infraspecies starting with marker: ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %' AND
+(`infraspecies` LIKE 'f.%' OR
 `infraspecies` LIKE 'var.%' OR
 `infraspecies` LIKE 'subsp.%');
 
 /* Update the records */
 UPDATE `scientific_names` SET `infraspecies` = SUBSTRING_INDEX(`infraspecies`, ' ', -1)
-WHERE `infraspecies` LIKE '% %' AND 
-(`infraspecies` LIKE 'f.%' OR 
+WHERE `infraspecies` LIKE '% %' AND
+(`infraspecies` LIKE 'f.%' OR
 `infraspecies` LIKE 'var.%' OR
 `infraspecies` LIKE 'subsp.%');
 
@@ -86,21 +86,21 @@ WHERE `infraspecies` LIKE '% %' AND
 /* Infraspecies place holders that don't exist in infraspecies field should be removed. */
 /* Create the log */
 /* Mismatch infraspecies_parent_name_code and infraspecies */
-SELECT "Infraspecies mismatch (infraspecies_parent_name_code set but infraspecies empty): ", `name_code`, `infraspecies_parent_name_code` FROM `scientific_names` 
-WHERE CHAR_LENGTH(`infraspecies_parent_name_code`) > 1 AND 
+SELECT "Infraspecies mismatch (infraspecies_parent_name_code set but infraspecies empty): ", `name_code`, `infraspecies_parent_name_code` FROM `scientific_names`
+WHERE CHAR_LENGTH(`infraspecies_parent_name_code`) > 1 AND
 (`infraspecies` IS NULL OR `infraspecies` = '');
 
 /* Mismatch infraspecies_marker and infraspecies */
-SELECT "Infraspecies mismatch (infraspecies_marker set but infraspecies empty): ", `name_code`, `infraspecies_marker` FROM `scientific_names` 
+SELECT "Infraspecies mismatch (infraspecies_marker set but infraspecies empty): ", `name_code`, `infraspecies_marker` FROM `scientific_names`
 WHERE CHAR_LENGTH(`infraspecies_marker`) > 1 AND
 (`infraspecies` IS NULL OR `infraspecies` = '');
 
 /* Delete the records */
-DELETE FROM `scientific_names` 
-WHERE CHAR_LENGTH(`infraspecies_parent_name_code`) > 1 AND 
+DELETE FROM `scientific_names`
+WHERE CHAR_LENGTH(`infraspecies_parent_name_code`) > 1 AND
 (`infraspecies` IS NULL OR `infraspecies` = '');
 
-DELETE FROM `scientific_names` 
+DELETE FROM `scientific_names`
 WHERE CHAR_LENGTH(`infraspecies_marker`) > 1 AND
 (`infraspecies` IS NULL OR `infraspecies` = '');
 
@@ -117,11 +117,11 @@ UPDATE `scientific_names` SET `species` = LOWER(`species`);
 
 /* Remove species records with  empty fields. Put change in log file. */
 /* Create the log */
-SELECT "Empty species name: ", `name_code`, `genus`, `infraspecies` FROM `scientific_names` 
+SELECT "Empty species name: ", `name_code`, `genus`, `infraspecies` FROM `scientific_names`
 WHERE `species` = '' OR `species` IS NULL;
 
 /* Delete the records */
-DELETE FROM `scientific_names` 
+DELETE FROM `scientific_names`
 WHERE `species` = '' OR `species` IS NULL;
 
 
@@ -129,12 +129,12 @@ WHERE `species` = '' OR `species` IS NULL;
 
 /* Remove reference records if most fields are empty. Discuss with Luisa. Put change in log file. */
 /* Create the log */
-SELECT "Empty reference: ", `author`, `year`, `reference_code` FROM `references` 
+SELECT "Empty reference: ", `author`, `year`, `reference_code` FROM `references`
 WHERE (`title` = '' OR `title` IS NULL) AND
 (`source` = '' OR `source` IS NULL);
 
 /* Delete the records */
-DELETE FROM `references` 
+DELETE FROM `references`
 WHERE (`title` = '' OR `title` IS NULL) AND
 (`source` = '' OR `source` IS NULL);
 
@@ -150,18 +150,18 @@ WHERE `scrutiny_date` LIKE '%:%' AND
 
 
 
-/* In common names table the field is_infraspecies is not always correctly filled. 
+/* In common names table the field is_infraspecies is not always correctly filled.
 Infraspecies field is filled then field value should be one. Put change in log file.  */
 /* Create the log */
-SELECT "Set is_infraspecies flag: ", t1.`name_code`, t1.`common_name`, t2.`genus`, t2.`species`, t2.`infraspecies` 
+SELECT "Set is_infraspecies flag: ", t1.`name_code`, t1.`common_name`, t2.`genus`, t2.`species`, t2.`infraspecies`
 FROM `common_names` AS t1
-LEFT JOIN `scientific_names` AS t2 ON t1.`name_code` = t2.`name_code` 
+LEFT JOIN `scientific_names` AS t2 ON t1.`name_code` = t2.`name_code`
 WHERE (t2.`infraspecies` != '' OR t2.`infraspecies` IS NOT NULL) AND
 t1.`is_infraspecies` = 0;
 
 /* Update the records */
 UPDATE `common_names` AS t1
-LEFT JOIN `scientific_names` AS t2 ON t1.`name_code` = t2.`name_code` 
+LEFT JOIN `scientific_names` AS t2 ON t1.`name_code` = t2.`name_code`
 SET t1.`is_infraspecies` = 1
 WHERE (t2.`infraspecies` != '' OR t2.`infraspecies` IS NOT NULL) AND
 t1.`is_infraspecies` = 0;
