@@ -17,14 +17,6 @@ DELETE FROM families WHERE family LIKE "Pteridophyllaceae%";
 UPDATE scientific_names SET family_code = (SELECT family_code FROM families WHERE family = "Celastraceae") WHERE family_code IN(SELECT family_code FROM families WHERE family LIKE "Parnassiaceae%");
 DELETE FROM families WHERE family LIKE "Parnassiaceae%";
 
-#Malesherbiaceae -> Passifloraceae
-UPDATE scientific_names SET family_code = (SELECT family_code FROM families WHERE family = "Passifloraceae") WHERE family_code IN(SELECT family_code FROM families WHERE family LIKE "Malesherbiaceae%");
-DELETE FROM families WHERE family LIKE "Malesherbiaceae%";
-
-#Turneraceae -> Passifloraceae
-UPDATE scientific_names SET family_code = (SELECT family_code FROM families WHERE family = "Passifloraceae") WHERE family_code IN(SELECT family_code FROM families WHERE family LIKE "Turneraceae%");
-DELETE FROM families WHERE family LIKE "Turneraceae%";
-
 #Hypseocharitaceae -> Geraniaceae
 UPDATE scientific_names SET family_code = (SELECT family_code FROM families WHERE family = "Geraniaceae") WHERE family_code IN(SELECT family_code FROM families WHERE family LIKE "Hypseocharitaceae%");
 DELETE FROM families WHERE family LIKE "Hypseocharitaceae%";
@@ -77,13 +69,18 @@ DELETE FROM families WHERE family LIKE "Valerianaceae%";
 UPDATE scientific_names SET family_code = (SELECT family_code FROM families WHERE family = "Santalaceae") WHERE family_code IN(SELECT family_code FROM families WHERE family LIKE "Amphorogynaceae%");
 DELETE FROM families WHERE family LIKE "Amphorogynaceae%";
 
-#01Dec14 Medusagynaceae -> Ochnaceae
-UPDATE scientific_names SET family_code = (SELECT family_code FROM families WHERE family = "Ochnaceae") WHERE family_code IN(SELECT family_code FROM families WHERE family LIKE "Medusagynaceae%");
-DELETE FROM families WHERE family LIKE "Medusagynaceae%";
+#08Dec15 Cochlospermaceae -> Bixaceae
+UPDATE scientific_names SET family_code = (SELECT family_code FROM families WHERE family = "Bixaceae") WHERE family_code IN(SELECT family_code FROM families WHERE family LIKE "Cochlospermaceae%");
+DELETE FROM families WHERE family LIKE "Cochlospermaceae%";
 
-#Quiinaceae -> Ochnaceae
-UPDATE scientific_names SET family_code = (SELECT family_code FROM families WHERE family = "Ochnaceae") WHERE family_code IN(SELECT family_code FROM families WHERE family LIKE "Quiinaceae%");
-DELETE FROM families WHERE family LIKE "Quiinaceae%";
+#Peltantheraceae -> Bignoniaceae
+UPDATE scientific_names SET family_code = (SELECT family_code FROM families WHERE family = "Bignoniaceae") WHERE family_code IN(SELECT family_code FROM families WHERE family LIKE "Peltantheraceae%");
+DELETE FROM families WHERE family LIKE "Peltantheraceae%";
+
+#Bataceae -> Batidaceae
+UPDATE scientific_names SET family_code = (SELECT family_code FROM families WHERE family = "Batidaceae") WHERE family_code IN(SELECT family_code FROM families WHERE family LIKE "Bataceae%");
+DELETE FROM families WHERE family LIKE "Bataceae%";
+
 
 
 #Adjust names of a higher ranks
@@ -102,11 +99,20 @@ UPDATE families SET `order`="Austrobaileyales" WHERE family = "Austrobaileyaceae
 UPDATE families SET `order`="Austrobaileyales" WHERE family = "Trimeniaceae";
 UPDATE families SET `order`="Berberidopsidales" WHERE family = "Aextoxicaceae";
 UPDATE families SET `order`="Berberidopsidales" WHERE family = "Berberidopsidaceae";
+UPDATE families SET `order`="Brassicales" WHERE family = "Akaniaceae";
+UPDATE families SET `order`="Brassicales" WHERE family = "Batidaceae";
 UPDATE families SET `order`="Brassicales" WHERE family = "Bretschneideraceae";
+UPDATE families SET `order`="Brassicales" WHERE family = "Capparaceae";
+UPDATE families SET `order`="Brassicales" WHERE family = "Caricaceae";
+UPDATE families SET `order`="Brassicales" WHERE family = "Cleomaceae";
 UPDATE families SET `order`="Brassicales" WHERE family = "Emblingiaceae";
 UPDATE families SET `order`="Brassicales" WHERE family = "Gyrostemonaceae";
+UPDATE families SET `order`="Brassicales" WHERE family = "Moringaceae";
 UPDATE families SET `order`="Brassicales" WHERE family = "Pentadiplandraceae";
+UPDATE families SET `order`="Brassicales" WHERE family = "Resedaceae";
+UPDATE families SET `order`="Brassicales" WHERE family = "Salvadoraceae";
 UPDATE families SET `order`="Brassicales" WHERE family = "Stixaceae";
+UPDATE families SET `order`="Brassicales" WHERE family = "Tropaeolaceae";
 UPDATE families SET `order`="Bruniales" WHERE family = "Bruniaceae";
 UPDATE families SET `order`="Buxales" WHERE family = "Buxaceae";
 UPDATE families SET `order`="Buxales" WHERE family = "Didymelaceae";
@@ -125,9 +131,11 @@ UPDATE families SET `order`="Caryophyllales" WHERE family = "Nyctaginaceae";
 UPDATE families SET `order`="Caryophyllales" WHERE family = "Physenaceae";
 UPDATE families SET `order`="Caryophyllales" WHERE family = "Phytolaccaceae";
 UPDATE families SET `order`="Caryophyllales" WHERE family = "Plumbaginaceae";
+UPDATE families SET `order`="Caryophyllales" WHERE family = "Polygonaceae";
 UPDATE families SET `order`="Caryophyllales" WHERE family = "Rhabdodendraceae";
 UPDATE families SET `order`="Caryophyllales" WHERE family = "Sarcobataceae";
 UPDATE families SET `order`="Caryophyllales" WHERE family = "Stegnospermataceae";
+UPDATE families SET `order`="Caryophyllales" WHERE family = "Tamaricaceae";
 UPDATE families SET `order`="Celastrales" WHERE family = "Celastraceae";
 UPDATE families SET `order`="Celastrales" WHERE family = "Lepidobotryaceae";
 UPDATE families SET `order`="Ceratophyllales" WHERE family = "Ceratophyllaceae";
@@ -152,7 +160,6 @@ UPDATE families SET `order`="Fabales" WHERE family = "Surianaceae";
 UPDATE families SET `order`="Fagales" WHERE family = "Juglandaceae";
 UPDATE families SET `order`="Fagales" WHERE family = "Myricaceae";
 UPDATE families SET `order`="Garryales" WHERE family = "Metteniusaceae";
-UPDATE families SET `order`="Garryales" WHERE family = "Oncothecaceae";
 UPDATE families SET `order`="Geraniales" WHERE family = "Geraniaceae";
 UPDATE families SET `order`="Geraniales" WHERE family = "Melianthaceae";
 UPDATE families SET `order`="Gunnerales" WHERE family = "Gunneraceae";
@@ -192,6 +199,7 @@ UPDATE families SET `order`="Malpighiales" WHERE family = "Rhizophoraceae";
 UPDATE families SET `order`="Malpighiales" WHERE family = "Salicaceae";
 UPDATE families SET `order`="Malpighiales" WHERE family = "Trigoniaceae";
 UPDATE families SET `order`="Malpighiales" WHERE family = "Violaceae";
+UPDATE families SET `order`="Metteniusales" WHERE family = "Metteniusaceae";
 UPDATE families SET `order`="Myrtales" WHERE family = "Combretaceae";
 UPDATE families SET `order`="Myrtales" WHERE family = "Crypteroniaceae";
 UPDATE families SET `order`="Myrtales" WHERE family = "Lythraceae";
@@ -226,7 +234,8 @@ UPDATE families SET `order`="Rosales" WHERE family = "Rhamnaceae";
 UPDATE families SET `order`="Rosales" WHERE family = "Rosaceae";
 UPDATE families SET `order`="Rosales" WHERE family = "Ulmaceae";
 UPDATE families SET `order`="Rosales" WHERE family = "Urticaceae";
-UPDATE families SET `order`="Sabiales" WHERE family = "Sabiaceae";
+UPDATE families SET `order`="Proteales" WHERE family = "Sabiaceae";
+UPDATE families SET `order`="Santalales" WHERE family = "Balanophoraceae";
 UPDATE families SET `order`="Sapindales" WHERE family = "Anacardiaceae";
 UPDATE families SET `order`="Sapindales" WHERE family = "Biebersteiniaceae";
 UPDATE families SET `order`="Sapindales" WHERE family = "Burseraceae";

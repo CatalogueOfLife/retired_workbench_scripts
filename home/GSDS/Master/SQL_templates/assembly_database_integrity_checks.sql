@@ -86,18 +86,16 @@ FROM scientific_names AS t1
 LEFT JOIN scientific_names_tmp AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
 WHERE t1.infraspecies_parent_name_code IS NOT NULL AND t2.name_code IS NULL;
 
-/*
 /* quick check (instead of the 2 slow ones above) for synonyms and infraspecies without parent names - assuming those without family_code are the troublemakers */
-SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, subgenus,
+/* SELECT 'Missing parent accepted name for synonym', record_id, name_code, genus, subgenus,
 	species, infraspecies, accepted_name_code
 FROM scientific_names
-WHERE is_accepted_name != 1 AND family_code IS NULL;
+WHERE is_accepted_name != 1 AND family_code IS NULL;*/
 
-SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus,
+/* SELECT 'Missing parent accepted name for infraspecies', record_id, name_code, genus,
 	subgenus, species, infraspecies, infraspecies_parent_name_code
 FROM scientific_names
-WHERE LENGTH(infraspecies) > 1 AND family_code IS NULL;
-*/
+WHERE LENGTH(infraspecies) > 1 AND family_code IS NULL; */
 
 /*check if there are any lifezone records without parent accepted_name
 SELECT 'Lifezone without parent accepted name', record_id, name_code, lifezone FROM lifezone
