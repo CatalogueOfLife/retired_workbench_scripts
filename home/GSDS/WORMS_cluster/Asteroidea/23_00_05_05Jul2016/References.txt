@@ -1,0 +1,386 @@
+ReferenceID	Authors	Year	Title	Details	
+8	Linnaeus, C.	1758	Systema Naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis	Editio decima, reformata. Laurentius Salvius: Holmiae. ii, 824 pp	
+42			ITIS database		
+61	Cattrijsse, A.; Vincx, M.	2001	Biodiversity of the benthos and the avifauna of the Belgian coastal waters: summary of data collected between 1970 and 1998. Sustainable Management of the North Sea. Federal Office for Scientific, Technical and Cultural Affairs: Brussel, Belgium. 48 pp.		
+64	Hansson, H.	2004	North East Atlantic Taxa (NEAT): Nematoda		
+70	Clark, A.M.	1989	An index of names of recent Asteroidea, part 1: Paxillosida and Notomyotida, <B><I>in</I></B>: Jangoux, M.; Lawrence, J.M. (Ed.) (1989). <i> Echinoderm Studies,</i> 3:		
+71	Clark, A.M.	1993	An index of names of recent Asteroidea, part 2: Valvatida, <B><I>in</I></B>: Jangoux, M.; Lawrence, J.M. (Ed.) (1993). <i>Echinoderm Studies,</i> 4:		
+174	Linnaeusammalia, C. M.; Avesmphibia, A.; Piscesnsecta, I.; Vermes	1761	Fauna Suecica sistens Animalia Sueciae Regni: Distributa per Classes, Ordines, Genera, Species, cum Differentiis Specierum, Synonymis Auctorum, Nominibus Incolarum, Locis Natalium, Descriptionibus insectorum	Editio altera, auctior. Stockholmiae: L. Salvii. 48: 578	
+614	Hayward, P.J.; Nelson-Smith, A.; Shields, C.	1996	Collins pocket guide: sea shore of Britain and Europe. <i>Collins pocket guides</i>. Harper-Collins Publishers: London, UK. ISBN 0-00-219955-6. 352 pp.		
+631	Hansson, H.G. (Comp.)	1998	NEAT (North East Atlantic Taxa): Scandinavian Echinodermata Check-List		
+666	Clark, A.M.	1996	An index of names of recent Asteroidea, part 3. Velatida and Spinulosida, <B><I>in</I></B>: Jangoux, M.; Lawrence, J.M. (Ed.) (1996). <i> Echinoderm Studies,</i> 5:		
+667	Clark, A.M.and Mah, C.	2001	An index of names of recent Asteroidea, part 4. Forcipulatida and Brisingida, <B><I>in</I></B>: Jangoux, M.; Lawrence, J.M. (Ed.) (2001). <i>Echinoderm Studies,</i> 6:		
+671	Linnaeus C.	1767	Caroli Linnaei...Systema naturae per regna tria naturae: secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis.  Editio duodecima. 1. Regnum Animale. 1 & 2  Holmiae, Laurentii Salvii  	Holmiae [Stockholm], Laurentii Salvii. pp. 1-532 [1766] pp. 533-1327 [1767] 	
+685	Hayward, P.; Nelson-Smith, A.; Shields, C.	1999	Gids van kust en strand: flora en fauna [Coast and beach guide: flora and fauna]. Tirion: Baarn, Netherlands. ISBN 90-5210-327-5. 352, ill. pp.		
+754	Linnaeus, C.	1771	Mantissa Plantarum. Holmiae, 1-588		
+755	Eneman, E.	1984	Uit het Natuurhistorisch Archief [From the Natural History Archive]. <i>De Strandvlo 4(1)</i>: 4-17		
+1116	Leewis, R.	2002	Flora en fauna van de zee [Marine flora and fauna]. <i>Veldgids</i>, 16. KNNV Uitgeverij: Utrecht, The Netherlands. ISBN 90-5011-153-X. 320 pp.		
+1368	Hansson, H.G.	2001	Echinodermata, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i>		
+2901			North-West Atlantic Ocean species (NWARMS)		
+2930	Brunel, P.; Bosse, L.; Lamarche, G.	1998	Catalogue of the marine invertebrates of the estuary and Gulf of St. Lawrence	Canadian Special Publication of Fisheries and Aquatic Sciences, 126. 405 p	
+2964	Gosner, K. L.	1971	Guide to identification of marine and estuarine invertebrates: Cape Hatteras to the Bay of Fundy	John Wiley & Sons, Inc.. 693 p.	
+2965	Gosner,	1977	Gosner, 1977		
+2999	Linkletter, L. E.	1977	A checklist of marine fauna and flora of the Bay of Fundy	Huntsman Marine Laboratory, St. Andrews, N.B. 68: p.	
+3017	Meinkoth, N.A.	1981	Field guide to North American seashore creatures. The Audubon Society. Alfred A. Knopf. New York. 799 p.		
+3042	Pollock, L.W.	1998	A Practical Guide to the Marine Animals of Northeastern North America.	Rutgers University Press, New Brunswick, New Jersey & London.. 367pp.	
+3167	Studer, T.	1876	Echinodermen aus dem antarktischen Meere und zwei neue Seeigel von den Papua-Inseln, gesammelt auf der Reise S.M.S. Gazelle um die Erde	Monatsbericht der königlich preussischen Akademie der Wissenschaften zu Berlin. 452-465	
+3190	Koehler R.	1906	Expédition Antarctique Française (1903-1905). Echinodermes (stellérides, ophiures et échinides).  L. Joubin (ed.): 1-41. Masson et Cie, Paris		
+4179	Clarke, A.; Johnston, N.M	2003	Antarctic marine benthic diversity	Oceanography and Marine Biology: an Annual Review. 41: 47-114	
+5869	Clark, A.M. and M.E. Downey.	1992	Starfishes of the Atlantic. <i>Chapman & Hall Identification Guides</i>, 3. Chapman & Hall: London, UK. ISBN 0-412-43280-3. xxvi, 794 pp.		
+5916	Clark, A. M.; Rowe, F. W. E.	1971	Monograph of shallow-water indo-west Pacific Echinoderms  	Trustees of the British Museum (Natural History). London. x + 238 p. + 30 pls	
+5938	Bell, F.J.	1884	Echinodermata. In: R.W. Coppinger (ed): Report on the Zoological Collections made in the indo-pacific Ocean during the voyage of HMS Alert, 1881-2. London.		
+6047	Baker, A. N.; Marsh, L. M.	1976	The rediscovery of Halityle regularis Fisher (Echinodermata: Asteroidea	Records of the Western Australian Museum. 4(2): 107-116	
+6049	Marsh, L. M.; Price, A. R. G.	1991	Indian Ocean echinoderms collected during the Sinbad Voyage (1980-1981): 2. Asteroidea	Bulletin of the British Museum of Natural History (Zoology. 57(1): 61-70	
+6050	Tortonese, E.	1977	Report on Echinoderms from the gulf of Aqaba (Red Sea	Italian Journal of Zoology N.S. S. 12: 273-290	
+6052	Simpson, J. J.; R N R Brown Africa Proc R phys Soc	1910	Asteroidea of Portugese East	Edinburgh. 18: 45-60	
+6112	Clark, A.M.	1984	Echinodermata of the Seychelles. In: (Ed) D. R. Stoddart. Biogeography and Ecology of the Seychelles Islands. Dr. W. Junk Publishers, The Hague. : 83 - 102.		
+6113	Sloan, N.A., A.M. Clark & J.D. Taylor	1979	The Echinoderms of Aldabra and their habitats.  Bull. Br. Mus. Nat. Hist. (Zool.) 37 (2): 81- 128.		
+6130	Ludwig, H.	1899	Echinodermen des Sansibargebietes.  Abhandl. d. Senckenb. naturf. Ges., Bonn, Vol. 21(1): 537 - 563.		
+6262	Clark, A.M.	1977	The South African Museum's Meiring Naude cruises, part 4: Echinoderms. Ann. S. Afr. Mus. 73(6):; 133-147.		
+6268	Décary, R.	1924	Liste d'echinodermes receuillis a Madagascar. Bulletin de l'academie Malgache nouvelle serie Tome IV38-41		
+6269	Bell, F. J.	1909	Report on the echinoderma (other than holothurians) collected by Mr. J. Stanley Gardiner in the western parts of the Indian Ocean. Transactions of the Linnean Society of London. 2nd Series: Zoology 13, 17-22.		
+6272	Jangoux, M.	1973	Les Astéries de lIle Inhaca (Mozambique)(Echinodermata, Asteroidea). I. les espèces récoltées et leur répartition géographique. KMMA Annalen Serie IN-8o - Zoologische wetenschappen Nr 208. 50 pp, 7 pl.		
+6273	Mortensen, T.	1933	Echinoderms of South Africa (Asteroidea and Ophiuroidea)	Papers from Dr. Th. Mortensen's Pacific Expedition 1914-16. (Videnskabelige Meddelelser fra Dansk naturhistorisk Forening 93). 65: 215-400	
+6275	Walenkamp, J.H.C.	1990	Systematics and zoogeography of Asteroidea (Echinodermata) from Inhaca Island, Mozambique. Zoologische Verhandelingen 261, Leiden. 86 pp.		
+6296	Pope, E. C.; Rowe, F. W. E.	1977	A new genus and two new species in the family Mithrodiidae (Echindoermata: Asteroidea) with comments on the status of species	of Mithrodia Gray, 1840. Australian Zoology. 19(2): 201-216	
+6297	Rowe, F.W.E.	1977	A new family of Asteroidea (Echinodermata) with the description of five new species and one new species of <i>Asterodiscides</i>. Records of the Australian Museum. 31(5): 187-233.		
+6308	Clark, A.M.	1974	Notes on some echinoderms from southern Africa. Bulluetin of the British Museum of Natural History (Zoology) 26(6): 423-487, 3 pls, 16 figs, 1 map, 3 tables		
+6313	Jangoux, M.	1973	Le genus <i>Neoferdina</i> Livingstone (Echinodermata, Asteroidea: Ophidiasteridae). Revue de Zoologie Africaine 87(4): 775-794.		
+6324	Clark, A.M. & Courtman-Stock, J.	1976	The echinoderms of southern Africa		
+6325	Clark AH	1911	The recent crinoids of the coasts of Africa. Proceedings of the U.S. National Museum 40:1–51.		
+6329	Döderlein, L.	1926	Ueber Asteriden aus dem Museum von Stockholm. Kungl. Svenska Vetenskapsakademiens Handlingar	Tredje Serien, Band. 2(6): 4	
+6330	Jangoux, M.; Aziz, A.	1984	Les asterides (Echinodermes) du centre-ouest de l'ocean Indien (Seychelles, Maldives et iles Mineures	Bulletin du Museum National d'Histoire Naturelle, Paris ser. 6(4): 857-884	
+6331	Dollfus R Ph R Koehler	1974	De l'Astropecten bonnieri (Echinodermes, Stellerides). Bulletin du Museum National d'Histoire Naturelle, 3ieme serie, no	254, Zoologie. 176: 1449-1454	
+6338	Rowe, F.W.E & Gates, J.	1995	Echinodermata. In ‘Zoological Catalogue of Australia’. 33 (Ed A. Wells.) pp xiii + 510 (CSIRO Australia, Melbourne.)		
+6340	Clark, H. L.	1907	The starfishes of the genus <i>Heliaster</i	Bulletin of the Museum of Comparative Zoology. 51(2): 25-76	
+6342	Clark, A.H.	1908	The Nomenclature of the Recent Crinoids, Proc. US National Museum, Vol. 34: 435-536		
+6392	Clark, H. L.	1938	Echinoderms from Australia, an account of collections made in 1929 and 1932	Memoirs of the Museum of Comparative Zoology at Harvard College. 55: 1-597 (28 plates)	
+6412	Halpern, J. A.	1970	Goniasteridae (Echinodermata:  Asteroidea) of the Straits of Florida	Bulletin of Marine Science. 20(1): 193-286	
+6504	Mah, C. & A.M. Clark	2001	Additions to Clark, A.M. and Mah, C.  2001. An index of names of recent Asteroidea - Part 4:  Forcipulatida and Brisingida in Echinoderm Studies. 6:  229-347.		
+6820	Agassiz, A.	1863	On the embryology of Asteracanthion berylinus Ag. and a species allied to A. rubens M.T. A. pallidus, Ag. Proc. Amer. Acad. April 14, 1-8, with a folding plate		
+6831			BIOCEAN		
+8316	Thomson, C. W.	1873	The Depths of the Sea	Macmillan and Co.: London. 1-527	
+9214	Southward, E.C.; Campbell, A.C.	2006	[Echinoderms: keys and notes for the identification of British species]. <i>Synopses of the British fauna (new series)</i>, 56. Field Studies Council: Shrewsbury, UK. ISBN 1-85153-269-2. 272 pp.		
+9269	Muller, Y.	2004	Faune et flore du littoral du Nord, du Pas-de-Calais et de la Belgique: inventaire. [Coastal fauna and flora of the Nord, Pas-de-Calais and Belgium: inventory]	Commission Régionale de Biologie Région Nord Pas-de-Calais: France. 307 pp	
+9271	Streftaris, N.; Zenetos, A.; Papathanassiou, E.	2005	Globalisation in marine ecosystems: the story of non-indigenous marine species across European seas	Oceanogr. Mar. Biol. Ann. Rev.. 43: 419-453	
+10010	Danis, B. & Jangoux, M.	2006	The SCAR-MarBIN Register of Antarctic Marine Species: Asteroidea		
+10011			Clark AM. An index of names of recent Asteroidea. In: Jangoux, M.; Lawrence, J.M. (Ed.) Echinoderm Studies, volumes 2-6 . Balkema: Rotterdam, The Netherlands.		
+10085			BIOTIC - Biological Traits Information Catalogue		
+15703	Stampanato, S.; Jangoux, M.	1993	Les astérides (Echinodermata) de la Baie Breid (Côte de la Princesse Ragnhild, quartier Enderby, Antarctique), avec la description d'une nouvelle espèce de Solaster. Bulletin de l'Institut Royal des Sciences Naturelles de Belgique	Biologie. 63: 175-184	
+18396	O'hara, T.	1998	Origin of Macquarie Island echinoderms	Polar Biology. 20(2): 143-151	
+19343	Montagu, G.	1808	Description of several marine animals found on the south coast of Devonshire  	Transactions of the Linnean Society of London. 9: 81-114, pl. 2-8	
+19718	Stimpson, W.	1857	On the Crustacea and Echinodermata of the Pacific shores of North America	Boston Journal of Natural History. 6: 444-532, Plates 18-23.	
+21978	Leach, W. E.	1815	The Zoological Miscellany; Being Descriptions of New, or Interesting Animals	R.P. Nodder, London. 2, 1-154	
+42132	Delle Chiaje S.	1823-1831	Memorie sulla storia e notomia degli animali senza vertebre del regno di Napoli	Napoli: Fratelli Fernandes (vol. 1), and Società Tipografica (vol. 2-4). Vol. 1, pp. i-xii, 1-84 [1823], pp. 1-184 [1824]; vol. 2, pp. [1-4] + 185-224 [1825], pp. 225-444 [1826]; vol. 3, pp. i-xx, pp. 1-232 [1828]; vol. 4, pp. i-vii [1831], 1-116 [1830], pp. 117-214 [1831]; pl. 1-4; pl. 1-69 [date?], pl. 70-109 [1830][dates according to Sherborn, 1922]	
+42380	Koehler, R.	1921	Echinodermes. Faune de France, 1. Librairie de la Faculte des Sciences, Paris. 216 pp.		
+42381			MarLIN		
+42912	McKnight, D. G.	1967	Some asterozoans from Norfolk Island. New Zealand	Journal of Marine and Freshwater Research. 1: 324-326	
+42915	Pawson, D.L.	2007	Narcissia ahearnae, a new species of sea star from the Western Atlantic (Echinodermata: Asteroidea: Valvatida). Zootaxa 1386: 53–58.		
+42917	Liu, W., Liao, Y., Li, X.	2006	<i>Luidia changi</i>, a new sea star species (Echinodermata: Asteroidea: Luidiidae) from the Yellow Sea, with a review of two related species. Zootaxa 1315: 57–68.		
+42934	Dartnall, A.J.; Byrne, M.; Collins, J. & Hart, M.W.	2003	A new viviparous species of asterinid (Echinodermata, Asteroidea, Asterinidae) and a new genus to accommodate the species of pantropical exiguoid sea stars.	Zootaxa. 359: 1-14	
+42936			Class Asteroidea, Hawaii checklist		
+42940			Australian Faunal Directory		
+43056			Arctic benthic invertebrate collection of the Zoological Institute of the Russian Academy of Sciences (RAS)		
+43179	Clark, H. L.	1921	The echinoderm fauna of Torres Strait: its composition and its origin	Department of Marine Biology of the Carnegie Institute. 10: vi + 223, 38 pls	
+43951	Huettmann, F.	2007	ArcOD species list by Falk Huettmann		
+43952	Mah, C.	2007	Phylogeny of the Zoroasteridae (Zorocallina;Forcipulatida): evolutionary events in deep-sea Asteroidea displaying Palaeozoic features	Zoological Journal of the Linnean Society. 150: 177-210	
+43953	Mah, C.	2007	Systematics, phylogeny and historical biogeography of the <i>Pentagonaster</i> clade (Asteroidea: Valvatida: Goniasteridae	Invertebrate Systematics. 21: 311-339	
+43954	Mah, C.	1999	Redescription and taxonomic notes on the South Pacific brisingidan <i>Brisingaster robillardi</i> (Asteroidea) with new ontogenetic and phylogenetic information	Zoosystema. 21(3): 535-546	
+43956	Mah, C. L.	2006	A new species of <i>Xyloplax</i> from the Northeast Pacific: comparative morphology and a reassessment of phylogeny	Invertebrate Biology. 125(2): 136-153	
+43957	Mah, C. L.	2006	Phylogenetic analysis and biogeography of the deep-sea goniasterid, <i>Circeaster</i> (Echinodermata: Asteroidea) including descriptions of six new species	Zoosystema. 28(4): 917-954	
+43958	Mah, C. L.	2005	A phylogeny of <i>Iconaster</i> and <i>Glyphodiscus</i> (Goniasteridae; Valvatida; Asteroidea) with descriptions of four new species	Zoosystema. 27(1): 131-167	
+47404	Clark AM	1962	Asteroidea.	B.A.N.Z. Antarctic Research Expedition 1929-1931. B9: 1-104.	
+47405	Clark,H.E.S.	1971	Pentopliidae, a new family of Asteroidea from the South Atlantic Ocean. Bulletin of Marine Science 21: 545-551.		
+47407	Fisher, W.K.	1940	Asteroidea. Discovery Reports 20: 69-306.		
+47408	Fisher, W. K.	1913	Four new genera and fifty-eight new species of starfishes from the Philippine Islands, Celebes, and the Moluccas	Proceedings of the US National Museum. 43: 599-648	
+47409	Fisher, W. K.	1917	New starfishes from the Philippines and Celebes	Proceedings of the Biological Society of Washington. 30: 89-93	
+47410	Fisher, W. K.	1919	Starfishes of the Philippine seas and adjacent waters	Bulletin of the United States National Museum. 3(100): 1-547	
+47413	Fisher, W. K.	1906	The starfishes of the Hawaiian islands	Bulletin of the United States Fish Commission. 23: 987-1130	
+47414	Fisher, W. K.	1911	Asteroidea of the North Pacific and adjacent waters. 1. Phanerozonia and Spinulosida	Bulletin of the US National Museum. 76(420): 122	
+47415	Downey, M. E.	1980	i>Floriaster maya</i>, new genus and species of the family Goniasteridae	Proceedings of the Biological Society of Washington. 93(2): 346-349	
+47416	Downey, M. E.	1982	i>Evoplosoma virgo</i>, a new goniasterid starfish (Echinodermata:  Asteroidea) from the Gulf of Mexico	Proceedings of the Biological Society of Washington. 95(4): 772-773	
+47417	Fell, H. B.	1958	Deep-sea echinoderms of New Zealand	Zoology Publications  from Victoria University of Wellington. 24: 1-40	
+47418	Halpern, J. A.	1969	Biological investigations of the deep-sea. 50. The validity and generic position of <i>Pentagonaster parvus</i> Perrier (Echinodermata, Asteroidea	Proceedings of the Biological Society of Washington. 82: 403-506	
+47419	Halpern, J. A.	1969	Biological Investigations of the deep sea.46. The genus <i>Litonotaster</i> (Echinodermata, Asteroidea	Proceedings of the Biological Society of Washington. 82: 129-142	
+47420	Clark H L Lt Cmdr L M Garrett; USN, USN. A.	1920	Reports on the scientific results of the expedition to the Eastern Tropical Pacific, in charge of Alexander Agassiz, by the US Fish commission Steamer Albatross, from October 1905 to	Memoirs of the Museum of Comparative Zoology. 39(3): 70-154	
+47422	Koehler, R.	1909	An account of the deep-sea Asteroidea collected by the Royal Indian Marine Survey Ship Investigator. Echinoderma of the Indian Museum Part 5:  115-131.		
+47423	Koehler, R.	1910	An account of the shallow-water Asteroidea	Echinoderma of the Indian Museum Part. 6: 1-192	
+47424	Perrier, E.	1875	Révision de la collection de stellérides du Museum d’Histoire naturelle de Paris. Paris, Reinwald. 384 p.		
+47425	Perrier, E.	1884	Mémoire sur les étoiles de mer recueillis dans la Mer des Antilles et la Golfe de Mexique. Nouvelle Archives Museum d’Histoire naturelle de Paris 6(2): 127-276.		
+47427	Macan, T.T.	1938	Asteroidea. Scientific Reports, John Murray Expedition 1933-1934, 4(9): 323-435, plates 1-6.		
+47428	Rowe, F. W. E.	1989	Nine new deep-water species of Echinodermata from Norfolk Island and Wanganella Bank, northeastern Tasman Sea, with a checklist of the echinoderm fauna	Proceedings of the Linnean Society of New South Wales. 111(4): 257-291	
+47429	Fell, H. B.	1953	Echinoderms from the subantarctic islands of New Zealand: Asteroidea, Ophiuroidea, and Echinoidea	Records of the Dominion Museum. 2(2): 73-111	
+47430	Goto, S.	1914	A descriptive monograph of Japanese Asteroidea. 1	Journal of the. 29College of Science, Imperial University of Tokyo : 1-808	
+47431	Verrill, A. E.	1914	Monograph of the shallow-water starfishes of the North Pacific coast from the Arctic Ocean to California	Harriman Alaska series: US National Museum. 14: 1-408	
+47432	Verrill, A. E.	1899	Revision of certain genera and species of starfishes, with descriptions of new forms	Transactions of the Connecticut Academy of Arts and Sciences. 10(1): 145-234	
+47433	Verrill, A. E. F.; Brazil	1915	Report on the starfishes of the West Indies, including those obtained by the Bahama expedition from the University of Iowa in 1893	Bulletins form the Laboratories of Natural History. 7(1): 232	
+47436	Luidia, T.; Pentagonaster	1953	Notes on asteroids in the British Museum (Natural	Bulletin of the British Museum (Natural History) Zoology. 1(12): 379-411	
+47437	Clark, A. M.	1976	Asterozoa from Amsterdam and St. Paul Islands, southern Indian Ocean	Bulletin of the British Museum of Natural History (Zoology. 30: 247-261	
+47438	Clark, H. E. S.	1982	A new genus and two new species of sea-stars from North of New Zealand, with notes on <i>Rosaster</i> species (Echinodermata:  Asteroidea	National Museum of New Zealand Records. 2(5): 35-42	
+47439	McKnight, D. G.	1973	Additions to the asteroid fauna of New Zealand:  family Goniasteridae	New Zealand Oceanographic Institute Records. 1(13): 171-195	
+47441	Mortensen, T.	1925	Papers from Dr. Th. Mortensen’s Pacific Expedition 1914-16. XXIX. Echinoderms of New Zealand and the Auckland-Campbell Islands. III-V. Asteroidea, Holothuroidea and Crinoidea. 	Videnskabelige Meddelelser fra Dansk naturhistorisk Forening i København. 79(15): 261-420	
+47446	Aziz, A.; Jangoux, M.	1985	Description de six asterides nouveaux (Echinodermata) de la region des Philippines	Indo-Malayan Zoology. 2: 281-291	
+47447	Jangoux, M.	1981	Echinodermes:  Asteroides. Resultats des campagnes MUSORSTOM I:  Philippines, 18-28 Mars 1976. 91:  457-476.		
+47448	Jangoux, M.	1981	Une nouvelle espèce d’astéride bathyale des eaux de Nouvelle-Calédonie (Echinodermata, Asteroidea). Bulletin du Museum National D’Histoire Naturelle (Zoologie), sect	A. 4(3): 709-712	
+47449	Jangoux, M.	1984	Les asterides littoraux de Nouvelle-Caledonie	Bulletin du Museum National D’Histoire Naturelle (Zoologie). 4th. 6A(2):  279-293	
+47450	Jangoux, M.; Aziz, A.	1988	Les asterides (Echinodermata) récoltes autour de l'île de la Réunion par le N.O. "Marion-Dufresne" en 1982	Bulletin du Museum National D’Histoire Naturelle (Zoologie). 4(10): 631-650	
+47451	Döderlein, L.	1922	Uber die Gattung <i>Calliaster</i> Gray.  Bijdragen tot de Dierkunde. 1922: 47-52		
+47452	Döderlein, L.	1924	Die Asteriden der Siboga-Exped. II. Pentagonasteridae. Siboga-Expedition,  46(2): 49-69, pls. 14-19.		
+47453	Döderlein, L.	1935	Die Asteriden der Siboga-Exped	III. Oreasteridae. Siboga-Expedition. 46(2): 71-110	
+47454	Döderlein, L.	1936	Die Asteriden der Siboga-Exped. III. Die unterfamile Oreasterinae	Siboga-Expedition. 46(2): 295-369	
+47455	Alcock, A.	1893	Natural History notes from the HM Indian Marine Survey Steamer Investigator.7. An account of the collection of deep-sea Asteroidea	Annals of the Magazine of Natural History. 11(6): 73-121	
+47460	Downey, M. E.	1972	i>Midgardia xandaros</i>, new genus, new species, A large brisingid starfish from the Gulf of Mexico	Proceedings of the Biological Society  of Washington. 84(48): 421-426	
+47461	Downey, M. E.	1986	Revision of the Atlantic Brisingida (Echinodermata:Asteroidea), with description of a new genus and family	Smithsonian Contributions to Zoology. (435): 1-57	
+47465	Döderlein, L.	1927	Die seesterne der Deutschen Sudpolar-Expedition, 1901-1903. Deutsche Sudpolar Expediiton XIX	Zoologie XI. 1901-1903.series. 19(11): 289-301	
+47467	Fisher, W. K.	1916	New east Indian starfishes	Proceedings of the Biological Society of Washington. 29: 27-36	
+47470	Hayashi, R.	1943	Contributions to the classification of the sea-stars of Japan. II. Forcipulata, with the note on the relationships between the skeletal structure and respiratory organs of the sea stars	Journal of the Faculty. 8of Science of Hokkaido University (Zoology : 133-277	
+47471	Ludwig, H.	1905	Asteroidea.  Memoirs of the Museum of Comparative Zoology at Harvard. 32:  292 pp.		
+47472	Ludwig, H.	1903	Seesterne. In Resultats du voyage du S.Y. Belgica, Zoologie, 72		
+47475	McKnight, D. G.	1973	Additions to the asteroid fauna of New Zealand:  families Benthopectinidae, Odontasteridae, Asteriidae and Brisingidae; with notes on Porcellanaster caeruleus Wyville Thomson (Family Porcellanasteridae	New Zealand Oceanographic Institute Records. 1(16): 220-240	
+47476	Clark, A. M.	1983	Notes on Atlantic and other Asteroidea. 3. The families Ganeriidae and Asterinidae, with a description of a new asterinid genus	Bulletin of the British Museum (Natural History). Zoology. 45: 359-380	
+47477	Sars, G.O.	1875	On Some Remarkable Forms of Animal Life From the Great Deeps off the Norwegian Coast.  II. Researches on the Structure and Affinity of the genus  Brisinga Based on the study of a New Species,  Brisinga coronata.  Christiania:  Christiana University. 112		
+47480	Sladen, W.P.	1889	Report on the Asteroidea	Report on the Scientific Results of the Voyage of  H.M.S. Challenger during the years 1873-1876, Zoology. 30(51): xlii + 893 pages 118 plates	
+47481	Fujita, T. and F.W.E. Rowe.	2002	Podospherasteridae fam. Nov. (Echinodermata: Asteroidea: Valvatida) with a new species, <i>Podospheraster toyoshiomaruae</i> from Southern Japan. Species Diversity 7: 317-332.		
+47482	Clark, A. M.; Wright, C. W.	1962	A new genus and species of recent starfishes belonging to the aberrant family Sphaerasteridae, with notes on the possible origin and  affinities  of the family	Annals of the Magzine of Natural History. 13(5): 243-251	
+47483	Rowe, F. W. E.; Nichols, D.; Wright	1980	A new species of Podosphaeraster Clark	Echinodermata:  Asteroidea) from the Pacific.  Micronesica. 16(2): 289-295	
+47484	Rowe, F. W. E.	1985	On the genus <i>Podosphaeraster</i> A.M. Clark and Wright (Echinodermata, Asteroidea) with description of a new species from the North Atlantic	Bulletin. Museum National d'Histoire Naturelle (Paris. 2: 309-329	
+47486	Clark, H. E. S.; McKnight, D. G.	2001	The Marine Fauna of New Zealand: Echinodermata: Asteroidea (sea-stars) Order Valvatida	NIWA Biodiversity Memoir. 117: 1-270	
+47487	Clark, H. E. S.; McKnight, D. G.	2000	The marine fauna of New Zealand: Echinodermata: Asteroidea (sea-stars	Order Paxillosida & Notomyotida. NIWA Biodiversity Memoir. 1-16	
+47488	McKnight, D. G.	2006	The marine fauna of New Zealand, Echinodermata: Asteroidea (Sea-stars). 3. Orders Velatida, Spinulosida, Forcipulatida, Brisingida with addenda to Paxillosida, Valvatida.	NIWA Biodiversity Memoir. 120: 1-187	
+47493	Moyano, H. I.; Larrain, A. P.	1976	Doraster qawashqari sp. nov. Nuevo asteroideo de Chile Australe	Echinodermata, Zorocallida, Zoroasteridae). Boletin, Sociedade de Biologia de Concepcion. 50: 103-111	
+47494	Downey, M.E.	1970	Zorocallida, new order, and <i>Doraster constellatus</i>, new genus and species, with notes on the Zoroasteridae. Smithsonian Contributions to Zoology 64: 1-18.		
+47495	Downey, M. E.	1971	i>Ampheraster alaminos</i>, a new species of the family Asteriidae (Echinodermata: Asteroidea) from the Gulf of Mexico	Proceedings of the Biological Society of Washington. 84(6): 51-54	
+47496	Blake, D. B.	1978	The taxonomic position of the modern sea-star <i>Cistina</i> Gray, 1840	Proceedings of the Biological Society of Washington. 91(1): 234-241	
+47501	Dartnall, A.	1970	A new species of <i>Marginaster</i> (Asteroidea: Poraniidae) from Tasmania	Proceedings of the Linnean Society of New South Wales. 94(3): 207-211	
+47502	Fisher, W.K.	1928	Asteroidea of the North Pacific and adjacent waters. Part 2. Forcipulata (part). Bulletin of the United States National Museum 76: 1Â–245 6 figs pls 1Â–81.		
+47503	Fisher, W. K.	1930	Asteroidea of the North Pacific and Adjacent Waters, Pt. 3:  Forcipulata (Concluded	Bulletin of the United States National Museum. 76: 1-356	
+47504	Keough, M. J.; Dartnall, A. J.	1978	A new species of viviparous asterinid asteroid for Eyre Peninsula, South Australia	Records of the  South Australian Museum. 17: 407-416	
+47506	Shepherd, S. A.	1967	A review of the starfish genus <i>Nectria</i> (Asteroidea: Goniasteridae	Records of the South Australian Museum. 15: 463-482	
+47507	Shepherd, S. A.	1967	A revision of the starfish genus <i>Uniophora</i> (Asteroidea: Asteriidae	Transactions of the Royal Society of South Australia. 91: 3-14	
+47508	Sukarno; Jangoux, M.	1977	Révision du genre Archaster Müller et Troschel (Echinodermata, Asteroidea	Archasteridae). Revue Zoologique Africaine (Bruxelles. 91: 817-844	
+47509	Verrill, A. E.	1913	Revision of the genera of starfishes of the sub-family Asterininae	American Journal of Science. 35: 477-485	
+47510	Zeidler, W.; Rowe, F. W. E.	1986	A revision of the southern Australian starfish genus Nectria (Asteroidea: Oreasteridae), with the description of a new species	Records of the South Australian Museum. 19: 117-138	
+47517	Downey, M. E.	1970	i>Marsipaster acicula</i>, new species (Echinodermata; Asteroidea) from the Caribbean and Gulf of Mexico	Proceedings of the Biological Society of Washington. 83: 309-312	
+47518	Downey, M. E.	1971	new species of the genus <i>Solaster</i> (Echinodermata: Asteroidea) from Martinique	Proceedings of the Biological Society of Washington. 84: 39-42	
+47519	Downey, M. E.	1979	i>Pythonaster pacificus</i> n. sp., a new starfish of the family Myxasteridae (Echinodermata: Asteroidea	Proceedings of the Biological Society of Washington. 92: 70-74	
+47520	Downey, M. E.	1979	i>Hymenaster kieri</i> a new species of starfish of the family Pterasteridae (Echinodermata: Asteroidea	Proceedings of the Biological Society of Washington. 92: 801-803	
+47524	Mah, C. L.	2003	i>Astrosarkus idipi</i>, a new Indo-Pacific genus and species of Oreasteridae (Valvatida; Asteroidea) displaying extreme skeletal reduction	Bulletin of Marine Science. 73(3): 685-698	
+47527	Alton, M.S.	1966	A new sea-star from the northeastern Pacific Ocean, <i>Asthenactis fisheri</i> n. sp., with a review of the family Myxasteridae.Deep-Sea Research 13:  687-697		
+47530	Blake, D. B.	1972	Sea star <i>Platasterias</i>:ossicle morphology and taxonomic position	Science. 176: 306-307	
+47540	Downey, M. E.; Wellington, G. M.	1978	Rediscovery of the giant sea-star Luidia superba A.H. Clark in the Galapagos Islands	Bulletin of Marine Science. 28(2): 375-376	
+47542	Downey, M.E.	1975	Asteroidea from Malpelo Island with a description of a new species of the genus <i>Tamaria</i>. Smithsonian Contributions to Zoology 176:  86-90		
+47544	Downey, M. E.	1971	Two new species of the genus <i>Tamaria</i> (Echinodermata:  Asteroidea) from the tropical western Atlantic	Proceedings of the Biological Society of Washington	
+47545	Downey, M.E.	1973	Starfishes from the Caribbean and the Gulf of Mexico Smithsonian Contributions to Zoology 126:  1-111		
+88470	Howell, K.L., D.W. Pond, D.S.M. Billett & P.A. Tyler	2003	Feeding ecology of deep-sea seastars (Echinodermata: Asteroidea): A fatty-acid biomarker approach.	Marine Ecology Progress Series. 255: 193-206.	
+123768			Strandvondsten van Gravelines tot Nieuwpoort. Ecogids Tjiftjaf		
+124391	Zenetos, A., M.E. Çinar, M.A. Pancucci-Papadopoulou, J.G. Harmelin, G. Furnari, F. Andaloro, N. Bellou, N. Streftaris & H. Zibrowius	2005	Annotated list of marine alien species in the Mediterranean with records of the worst invasive species.	Mediterranean Marine Science. 6(2):63-118.	
+124596	Rowe, F.W.E.	1989	A review of the family Caymanostellidae (Echinodermata:  Asteroidea) with the description of a new species of Caymanostella Belyaev and a new genus. Proceedings of the Linnaean Society of New South Wales 111(4):293-307		
+124600	Baker, A.N., F.W.E. Rowe, H.E.S. Clark.	1986	A new class of echinodermata from New Zealand. Nature 321: 862-864		
+124601	Rowe, F. W. E.; Baker, A. N.; Clark, H. E. S.	1988	The morphology, development and taxonomic status of <i>Xyloplax</i> Baker, Rowe and Clark (Echinodermata:  Concentricycloidea), with the description of a new species	Proceedings of the Royal Society of London B. 233: 431-459	
+124602	Rowe, F. W. E.	1985	Six  new species of <i>Asterodiscides</i> A.M. Clark (Echinodermata, Asteroidea) with a discussion of the origin and distribution of the Asterodiscididae and other 'amphi-Pacific echinoderms. Bulletin Muséum national d'Histoire naturelle, Paris Sect	A. 7(3): 531-577	
+124603	Rowe, F. W. E. and E. L. Albertson.	1986	he echinoderm genus <i>Henricia</i> Gray, 1840 (Asteroidea:  Echinasteridae) in southern and southeastern Australian waters, with the description of a new species Proceedings of the Linnean Society of New South Wales 109(3): 183-194		
+124604	Rowe, F. W. E. and E. L. Albertson.	1987	A new species in the echinasterid genus <i>Echinaster</i> Mueller and Troschel, 1840 (Echinodermata: Asteroidea)from southeastern Australia and Norfolk Island. Proceedings of the Linnean Society of New South Wales 109(3):195-202.		
+124605	Mortensen, T.	1935	A new giant sea-star, <i>Mithrodia gigas</i> n. sp. from South Africa	Annals of the South African Museum. 32: 1-4	
+124606	Rowe, F.W.E.	1981	A new genus and species in the family Ophidiasteridae (Echinodermata:Asteroidea)from the vicinity of Lord Howe Island, Tasman Sea. Proceedings of the Linnean Society of New South Wales 105(2):89-94		
+124607	Campbell, A. C.; Rowe, F. W. E.	1997	A new species in the asterinid genus Patiriella (Echinodermata, Asteroidea) from Dhofar, southern Oman:  a temperate taxon in a tropical locality	Bulletin of Natural History Museum of London (Zoology. 63(2), 129-136	
+124608	Rowe, F.W.E.	1977	The status of <i>Nardoa</i> (<i>Andora</i>) A.M. Clark, 1967 (Asteroidea:  Ophidiasteridae),with the description of two new subgenera and three new species. Records of the Australian Museum 31(6): 235-245.		
+124609	Rowe, F.W.E. & L.M. Marsh.	1982	6. A revision of the asterinid genus <i>Nepanthia</i> Gray, 1840 (Echinodermata:  Asteroidea), with the description of three new species.Australian Museum Memoir 16: 89-120.		
+124611	Rowe, F. W. E.	1976	occurrence of the genus <i>Heteronardoa</i> (Asteroidea:  Ophidiasteridae) in the Indian Ocean, with the description of a new species	Records of the Western Australian Museum. 4-1	
+124613	O'loughlin, P. M.; Rowe, F. W. E.	2006	A systematic revision of the asterinid Aquilonastra O'Loughlin 2004 (Echinodermata: Asteroidea	Memoirs of Museum Victoria. 63(2), 257-287	
+124614	O'loughlin, P. M.; Rowe, F. W. E.	2005	A new asterinid genus from the Indo-West Pacific region, including five new species (Echinodermata: Asteroidea	Asterinidae).Memoirs of Museum Victoria. 62(2): 181-189	
+124617	Cherbonnier, G.	1970	i>Podosphaeraster thalassae</i>, nov.sp., espece actuelle d’Asterie de la famille jurassique des Sphaerasteridae	Comptes Rendus Academie des Sciences, Paris. 271: 203-206	
+124622	Emson, R. H.; Young, C. M.	1994	Feeding mechanism of the brisingid starfish Novodinia antillensis	Marine Biology. 118, 433-442	
+124623	Gray, J. E.	1840	A synopsis of the genera and species of the class Hypostoma (<i>Asterias</i> Linnaeus	Annals of the Magazine of Natural History. 6: 175-184	
+124634	Möbius,K.	1859	Neue Seesterne des Hamburger und Ieler Museums. Abhandlungen und Verhandlungen. Naturwissenschaftlicher Verein in Hamburg 4(2). 14 p.		
+124639	Fisher, W. K.	1911	i>Hyalinothrix</i>, a new genus of starfishes from the Hawaiian Islands.Proceedings of the Untied	States National Museum. 39: 659-664	
+124640	Fisher, W. K.	1913	New starfishes from the Philippine Islands, Celebes, and the Moluccas	Proceedings of the Untied States National Museum. 46: 201-224	
+124641	Fisher, W.K.	1906	New starfishes from the Pacific Coast of North America Proceedings of the Washington Academy of Sciences 8:  111-139		
+124644	Fisher, W. K.	1911	New genera of starfishes from the Philippine Islands	Proceedings of the Biological Society of Washington. 40: 415-427	
+124646	Fisher, W. K.	1917	The asteroid genus <i>Coronaster</i	Proceedings of the Biological Society of Washington. 30: 23-26	
+124647	Fisher, W. K.	1925	Sea stars of Tropical Central Pacific	Bernice P. Bishop Museum Bulletin. 27: 63-87	
+124652	Fisher, W.K.	1926	A new sea star of the genus <i>Evasterias</i>. Proceedings of the U.S. National Museum 69(6):1-5.		
+124657	Fisher, W. K.	1905	New starfishes from deep water off California and Alaska	Bulletin of the Bureau of Fisheries. 24: 291-320	
+124658	Fisher, W. K.	1923	preliminary synopsis of the Asteriidae, a family of sea-stars	Annals and Magazine of Natural History. 12(9): 247-258	
+124662	Fisher, W.K.	1924	The genus <i>Sclerasterias</i> Perrier. Bulletin de Institut Oceanographique, Monaco 414(3): 1-8		
+124920	Oguro, C.; Misaki, H.	1986	A new sea-star, Neoferdina japonica, from Japan	Proceedings of the Japanese Society of Systematic Zoology. 34, 60-64	
+124922	Fell, H. B.; Clark, H. E.	1959	Anareaster, a new genus of Asteroidea from Antarctcia	Transactions of the Royal Society of New Zealand. 87(1), 185-187	
+124924	Marsh, L. M.; Campbell, A. C.	1991	A new species of Ferdina (Echinodermata:  Asteroidea) from the Sultanate of Oman with discussion of the relationships of the genus within the family Ophidiasteridae	Bulletin of the British Museum of Natural History (Zoology. 57(2), 213-219	
+124936	Bernasconi, I.	1969	Una nueva especie de asteroideo antartico <i>Leptychaster melchiorensis</i> sp nov.	Neotropica. 15(47): 95-97	
+124945	Bernasconi, I.	1961	Una nueva especie de asteroideo. Neotropica 7(22):  1-2.		
+124961	Leeling, B.	1984	Zur Morphologie und Systematik der Gattung <i>Tremaster</i> Verrill, 1879 (Echinodermata, Asteroidea) (translation: The morphology and systematics of the genus <i>Tremaster</i> Verrill, 1879). Mitt. hamb. zool. Mus. Inst. 81:  261-276		
+124964	Hayashi, R.	1940	Contributions to the Classification of the sea-stars of Japan	I. Spinulosa. Journal of the Faculty. 6of Imperial Science of Hokkaido University (7): 107-204	
+124965	Harvey, R.	1989	A new pterasterid (Echinodermata:  Asteroidea) from the deep north-east Atlantic	Journal of Natural History. 23: 1051-1057	
+124966	Fujita, T.; Stampanato, S.; Jangoux, M.	1994	Belyaevostella hyugaensis, a new species of deep-sea asteroid (Asteroidea, Caymanostellidae) found on a sunken wood from off Southern Japan	Bulletin of National Sciences of the Museum of Tokyo A. 20(4), 183-188	
+124967	Clark, H. L.	1916	Report on the sea-lilies, starfishes, brittle-stars and sea-urchins obtained by the F.I.S. "Endeavour" on the coasts of Queensland, New South Wales, Tasmania, Victoria, South Australia, and Western Australia	Biological Results of the Fishing experiments carried on by the F.I.S. Endeavour 1909-1914. 4(1), 1-123	
+124978	Doderlein, L.	1916	Uber die Gattung <i>Oreaster</i> und Verwandte.Zoologischen Jahrbuchern 40:  409-440		
+124979	Doderlein, L.	1915	Die Arten der Asteroiden-Gattung <i>Anthenea</i> Gray. Jahrbuchern des Nassauischen Vereins fur Naturkunde in Wiesbaden 68: 21-55.		
+125298	Ives, J.E.	1888	On two new species of starfishes. Proceedings of the Academy of Natural Sciences of Philadelphia.40: 421-424.		
+125299	Clark, A. H.	1939	A new genus of starfishes from the Aleutian Islands	Proceedings of the United States National Museum. 86(3061): 497-500	
+125300	Belyaev, G. M.; Litvinova, N. M.	1977	The second finding of deep-sea starfishes of the family Caymanostellidae	Zoologischeskii Zhurnal. 12(56), 1893-1896	
+125303	Halpern, J. A.	1972	Echinodermata, Asteroidea) of the Atlantic	Proceedings of the Biological Society of Washington. 85(30): 359-384	
+125307	Dons, C.	1936	Zoologische Notizen XXXIV. <i>Pseudoporania stormi</i> n. gen, n. sp. Det Kongelige Norske Videnskabers selskab Forhandlinger 8(4): 17-20.		
+125308	Dons, C.	1938	Zoologische Notizen XXXVI. <i>Sphaeraster bjorlykkei</i>  n. sp. Det Kongelige Norske Videnskabers selskab Forhandlinger 10(43): 16-19.		
+125309	Dons, C.	1938	Zoologische Notizen XXXVI. die Asteriden-Gattung <i>Sphaeriaster</i> nomen novum		
+125325	Aziz, A. and M. Jangoux.	1985	Four new species and one new subspecies of asteroidea (Echinodermata)  collected by the 'Siboga' expedition in the Indo-Malayan region. Bijdragen tot de Dierkunde 55(2): 263-274		
+125333	Stampanato, S.; Jangoux, M.	2004	The asteroid fauna  (Echinodermata) of Marion and Prince Edward Islands	Annals of the South African Museum. 112(1), 1-16	
+125337	Livingstone, A. A.	1932	Notes on some representatives of the asteroid genus <i>Culcita</i	Australian Zoologist. 7(3): 265-273	
+125338	Ziesenhenne, F. C.	1942	New eastern Pacific sea stars	Allan Hancock Pacific Expeditions. 8(4): 197-221	
+125339	Clark, A. M.	1967	Notes on asteroids in the British Museum (Natural History) V. <i>Nardoa</i> and some other ophidiasterids	Bulletin of the British Museum (Natural History), Zoology. 15(4): 167-198	
+125340	Miller, J. E.	1984	Systematics of the ophidiasterid sea stars Copidaster lymani A.H. Clark, and Hacelia superba H.L. Clark (Echinodermata:  Asteroidea) with a key to species of Ophidiasteridae from the Western Atlantic	Proceedings of the Biological Society of Washington. 97(1), 194-208	
+125343	Hayashi, R.	1939	Solasterids in Japanese waters. Journal of the Faculty of Science of Hokkaido University 6(3):  297-311		
+125349	Howell K L A D Rogers; Tyler, P. A.; Billett, D. S. M.	2004	Reproductive isolation among morphotypes of the Atlantic seastar species <i>Zoroaster fulgens</i	Marine Biology. 144: 977-984	
+125352	Imaoka, T.; Irimura, S.; Okutani, T.; Oguro, C.; ; Shigei, M.; Horikawa, H.	1990	Echinoderms from the Continental Shelf and Slope around Japan	Japan Fisheries Resource Conservation Association. vol, 1-159	
+125357	Farquhar, H.	1895	XX-Notes on New Zealand Echinoderms	Transactions of the New Zealand Institute. 20: 194-209	
+125360	Williams, S. T.	2000	Species boundaries in the starfish genus <i>Linckia</i	Marine Biology. 136: 137-148	
+125364	Doderlein, L.	1917	Die Asteriden der Siboga-Expedition. 1. Die Gattung <i>Astropecten</i> und ihre Stammesgeschichte. Siboga-Expedition 46a: 1-190.		
+125365	Doderlein, L.	1920	die Asteriden der Siboga-Expedition. 2. Die Gattung <i>Luidia</i> und ihre Stammesgeschichte	Siboga Expedition. 46: 193-291	
+125366	Doderlein, L.	1921	Die Asteriden der Siboga-Expedition. i	Porcellanasteridae, Astropectinidae, Benthopectinidae. Siboga Expedition. 46(1): 1-47	
+125371	Clark, H. L.	1923	The Echinoderm fauna of South Africa	Annals of the South African Museum. 13(7): 221-435, 23 plates	
+125374	Koehler, R.	1920	Echinodermata: Asteroidea	Scientific Reports, Aust. Antarct. Exped. C8. 1-308	
+125719	Lütken, C.	1871	Fortasatte kritiske og beskrivende Bidrag til Kundskab om Sostjernerne (Asteriderne) Videnskabelige Meddelelsefra Dansk Naturhistorisk Forening 1871: 227-304.		
+125723	Liao, Y.; Clark, A. M.	1996	On a new species of Ophidiaster (Echinodermata:  Asteroidea) from southern China	Bulletin of the Natural History Museum, London (Zoology. 62(1), 37-39	
+125724	Liao, Y.	1983	A new species of goniasterid sea-star from the Huanghai Sea	Chinese Journal of Oceanology and Limnology. 1China (3): 367-369	
+125725	Liao, Y.	1984	i>Rosaster attenuatus</i>, a new species of the family Goniasteridae (Asteroidea) from the East China Sea. Oceanologia et	Limnologia Sinica. 15(5): 478-481	
+125726	Liao, Y.	1989	 <i>Calliaster quadrispinus</i>, a new species of the family Goniasteridae (Asteroidea) from southern China. Oceanologia et limnologia Sinica 20(1):  23-27		
+125727	Liao, Y.	1982	A new genus of starfish from the continental shelf of the East China Sea	Studia Marina Sinica. 19: 93-100	
+125728	Liao, Y.; Clark, A. M.	1989	Two new species of the genus Anthenoides (Echinodermata:  Asteroidea) from southern China	Chinese Journal of Oceanology and Limnology. 7(1), 37-42	
+125729	Liao, Y.	1989	A new species of astropectinid sea-star from East China Sea	Chinese Journal of Oceanology and Limnology. 7(3): 226-231	
+125730	Liao, Y.	1985	new species of ophidiasterid sea-stars from the vicinity of Diaoyudao, East China Sea	Chinese Journal of Oceanology and Limnology. 3(1): 30-34	
+125732	Liu, W., Y. Liao and X. Li	2006	A new sea star species (Asteroidea: Luidiidae) from the South China Sea	Raffles Bulletin of Zoology. 54(2), 441-445	
+125739	Caso, M. E.	1975	Contribucion al estudio de los Asterozoa de Mexico. La  familia Mithrodiidae. Desccripcion de una nueva especie del genero <i>Mithrodia. Mithrodia enriquecasoi</i> sp. nov. Annales Centro Ciencias del Mar y Limnologia	Univ. Nationale Auton. Mexico. 2(1): 1-28	
+125921	O'loughlin, P. M.; O'hara, T. D.	1990	A review of the genus Smilasterias (Echinodermata, Asteroidea), with descriptions of two new species from south-eastern Australia, one a gastric brooder, and a new species from Macquarie Island	Memoirs of the Museum of Victoria. 50(2), 307-323	
+125926	Liao,Y. and Clark, A.M.	1995	The Echinoderms of Southern China. Science Press, Beijing.614 pp		
+125927	Downey, M. E.	1981	A new goniasterid seastar, <i>Evoplosoma scorpio</i> (Echinodermata, Asteroidea) from the Gulf of Mexico	Proceedings of the Biological Society of Washington. 94: 561-563	
+125938	Fisher, W.K.	1910	New starfishes from the North Pacific. I. Phanerozonia. II. Spinulosa. Zologischer Anzeiger 35(18): 545-553, 568-574.		
+125946	Mcknight, D. G. S.; Pterasteridae, A.; Ganeriidae; Echinasteridae	1973	Additions to the asteroid fauna of New Zealand: families Radiasteridae	New Zealand Oceanographic Institute Records. 2(1), 1-15	
+125951	Marsh, L.M.	1991	Shallow water echinoderms of the Albany region, south-western Australia,		
+125959	Hayashi, R.	1974	A new sea-star from Japan, <i>Asterina minor</i> sp. nov	Proceedings of the Japanese Society of Systematic Zoology. 10: 41-44	
+126088	Marsh, L. M.; Marshall, J. I.	1983	Some aspects of the zoogeography of northwestern Australian echinoderms (other than holothurians	Bulletin of Marine Sceince. 33(3), 671-687	
+126089	Martens, E. von	1865	Ueber östasiatiche Echinodermen.I. Asterien. 1. Japanische Seesterne. 2. Chinesische Seesterne. Archiv für Naturgeschichte. 31: 345-360.		
+126090	Martens von, E.	1866	Ueber östasiatiche Echinodermen. I. Asteroiden (Fortsetzung). 3. Seesterne des indischen Archipels	II. Ophiuren. Archiv für Naturgeschichte. 32: 57-88	
+126098	Clark, A. H.	1917	Three new starfishes and one new brittlestar from Chile	Proceedings of the Biological Society of Washington. 30: 151-158	
+126101	Clark, A. H.	1945	A new starfish of the genus <i>Luidia</i> from the coast of Georgia	Journal of the Washington Academy of Science. 35: 19-21	
+126109	Clark, A. M.	1981	Notes on Atlantic and other Asteroidea. 1. Family Benthopectinidae	Bulletin of the British Museum of Natural History (Zoology. 41: 91-135	
+126110	Nardo, J.D.	1834	De Asteriis,		
+127000	Dilman, A. B.	2008	Asteroid fauna of the northern Mid-Atlantic Ridge with description of a new species Hymenasterides mironovi sp. nov	Marine Biology Research. 4(1-2), 131-151	
+127001	Benavides-serrato, M.; O'loughlin, P. M.; Rowley, C.	2007	A new fissiparous micro-asteriid from southern Australia (Echinodermata: Asteroidea: Asteriidae	Memoirs of Museum Victoria. 64, 71-78	
+127009	Golotsvan, E. V.	1998	New genus and species of starfishes from Pterasteridae (Echinodermata, Asteroidea) family in the Kurilo-Kamchatskii Trench	Zoologicheski Zhurnal. 77(10): 1152-1157	
+127016	OLoughlin, P. M.; Waters, J. M.	2004	A molecular and morphological revision of genera of Asterinidae (Echinodermata: Asteroidea	Memoirs of Museum Victoria. 61(1): 1-40	
+127017	O'loughlin, P. M.; Waters, J. M.	2002	Description of a new species of Patiriella from New Zealand, and review of Patiriella regularis (Echinodermata, Asteroidea) based on morphological and molecular data	Journal of the Royal Society of New Zealand. 32(4), 697-711	
+127018	Waters, J. M.; O'loughlin, P. M.	2004	Cladogenesis in a starfish species complex from southern Australia: evidence for vicariant speciation	Molecular Phylogenetics and Evolution. 32, 236-245	
+127019	O'loughlin, P. M.	2002	New genus and species of Southern Australian and Pacific Asterinidae (Echinodermata, Asteroidea	Memoirs of Museum Victoria. 59(2): 277-296	
+127022	O'loughlin, P. M.; Waters, J. M.	2003	A molecular and morphological review of the asterinid Patiriella gunnii (Gray) (Echinodermata:  Asteroidea	Memoirs of the Museum Victoria. 60(2), 181-195	
+127081	Clark, H. L.	1928	The sea-lilies, sea-stars, brittle-stars and sea-urchins of the South Australian Museum	Records of the South Australian Museum. 3(4): 361-482	
+127082	Shepherd, S. A.; Hodgkin, E. P.	1965	A new species of Nectria (Asteroidea, Goniasteridae) from Western Australia	Journal of the Royal Society of Western Australia. 48(4), 119-121	
+127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
+128965	McKnight.	2006	The marine fauna of New Zealand: Asteroidea (sea-stars). 3. Orders Velatida, Spinulosida, Forcipulatida, Brisingida with addenda to Paxillosida, Valvatida. NIWA Biodiversity Memoir Volume: 120 Pages: 5-184		
+129878	Koehler, R.	1908	Astéries, Ophiures et Échinides recueillis dans les mers australes par la “Scotia” (1902-1905)	Zoologischer Anzeiger. 32(6): 140-147	
+129889	Bell FJ	1894	On the echinoderms collected during the voyage of H.M.S. Penguin and by H.M.S. Egeria, when surveying Macclesfield Bank. Proc. Zool. Soc. London 1894:392-413, pl. 23-27		
+129946	Clark, A. H.	1931	A monograph of the existing crinoids, vol. 1 . The comatulids, pt. 3: Superfamily Comasterida	Bulletin of the United States National Museum. (82), i-vii, 1-816, 82 pls	
+132350	Marsh, L. M.	2009	A new species of <i>Thromidia</i> (Echinodermata:  Asteroidea) from Western Australia	Records of the Western Australian Museum. 25: 145-151	
+132351	Kogure, Y.	2002	First records of the brooding astropectinid starfish <i>Trophodiscus almus</i> (Echinodermata: Asteroidea) from Japan, with reference to its zoogeographical significance. Species Diversity 7(2): 187-203.		
+132589	Mah, C.L.; McKnight, D.G.; Eagle, M.K.; Pawson, D.L.; Améziane, N.; Vance, D.J.; Baker, A.N.; Clark, H.E.S.; Davey, N.	2009	Phylum Echinodermata: sea stars, brittle stars, sea urchins, sea cucumbres, sea lilies, in: Gordon, D.P. (Ed.) (2009). New Zealand inventory of biodiversity: 1. Kingdom Animalia: Radiata, Lophotrochozoa, Deuterostomia.		
+133462	Kogure, Y.; Tachikawa, H.	2009	A new species of the genus Astroceramus (Echinodermata	Asteroidea, Goniasteridae) from the Ogasawara Islands, Japan. Biogeography. 11, 77-82	
+133488	Odontasteroidea, G.; Ophidiasteroidea, O.	2001	Superfamilies Goniasteroidea (excluding	NIWA Biodiversity Memoir. 117, 141-230	
+133489	Clark, H. E. S.	2001	Superfamily Goniasteracea, Family Goniasteridae	NIWA Biodiversity Memoir. 117: 12-139	
+133495	Naughton, K. M.; O'hara, T. D.	2009	A new brooding species of the biscuit star Tosia (Echinodermata:Asteroidea:Goniasteridae), distinguished by molecular, morphological and larval characters	Invertebrate Systematics. 23, 348-366	
+133496	Jangoux, M.	1982	On Tremaster Verrill, 1879, an odd genus of Recent starfish (Echinodermata: Asteroidea). Pp. 155-163, 4pls. in Lawrence, J.M. (ed). Echinoderms.	Proceedings of the International Echinoderm Conference, Tampa Bay, 1981. A.A. Balkema, Rotterdam	
+133557	Clark, A.; Clark, A.	1967	A monograph of the existing crinoids 1(5	Bulletin of the United States National Museum. 82-1	
+133561	Lane, D. J.; Rowe, F. W. E.	2009	A new species of Asterodiscides (Echinodermata, Asteroidea, Asterodiscididae) from the tropical southwest Pacific, and the biogeography of the genus revisited	Zoosystema. 31(3), 419-429	
+133578	Clark, H. E. S.	1972	i>Knightaster</i>, a new genus of asteroid from Northern New Zealand	Journal of the Royal Society of New Zealand. 2(2): 147-150	
+138446	Wood-Mason, J.; Alcock, A.	1891	Natural history notes from H.M. Indian marine survey steamer 'Investigator', Commander R.F. Hoskyn, R.N., commanding. Series II, No. 1. On the results of deep-sea dredging during the season 1890-1891 Ann. Mag. Nat. Hist. VIII, Sixth series(XLVIII): 427-452, plate XVII		
+138505	Madsen, F. J.	1987	The <i>Henricia sanguinolenta</i> complex (Echinodermata, Asteroidea) of the Norwegian Sea and adjacent waters. A re-evaluation, with notes on related species	Steenstrupia. 13(5): 201-268	
+138506	Benham, W. B.	1911	Stellerids and echinids from the Kermadec Islands	Transactions of the New Zealand Institute. 43: 140-163	
+138507	Verrill, A. E.	1909	Description of new genera and species of starfishes from the North Pacific coast of America	American Journal of Science. 28: 59-70	
+139303	Müller, J. H.; Troschel, F. H.	1842	System der Asteriden	Vieweg: Braunschweig. 1-134	
+139319	Bruzelius,N.	1805	Dissertatio sistens species cognitas asteriarum, quamr. sub praesidio A.J. Retzii. exhibet N. Bruzelius. , 1-37. Lundae (formerly know as Retzius, R.J.)		
+139323	Müller, J.; Troschel, F. H.	1843	Neue Beiträge zur Kenntnis der Asteriden	Archiv für Naturgeschichte. 9(1), 113-131	
+139362	Müller, J.; Troschel, F. H.	1844	Beschreibung neuer Asteriden	Archiv für Naturgeschichte. 10(1), 178-185	
+139373	Philippi	1858	Beschreibungen einiger neuer Seesterne aus dem Meere von Chiloe	Archiv für Naturgeschichte. 24(1), 264-268	
+139374	Say, T.	1825	On the species of the Linnaean genus Asterias inhabiting the coast of the U.S.	Journal of the Academy of natural sciences of Philadelphia. 5, 141-154	
+139407	Benham, W. B.	1909	Echinoderma (Science reports N.Z. Government Trawling Expedition)	Records of the Canterbury Museum. 1(2): 83-116	
+139419	Koehler, R	1908	Astéries, Ophiures et Echinides de l'Expedition Antarctique National Ecossaise	Scottish National Antarctic Expedition. Report on the scientific results of the voyage of S.Y. Scotia during the years 1902, 1903, and 1904. 5(13): 193-313, 16 pl.	
+139425	Verrill, A. E.	1867	Notes on radiata in the museum of Yale College with descriptions of new genera and species - II. Notes on the echinoderms of Panama and the west coast of America, with descriptions of a new genus	Transactions of the Connecticut Academy of Arts and Sciences. 1(2): 251-322	
+139437	Koehler, R.	1912	Echinodermes (Asteries, Ophiures et Echinides)	Deuxième Expèdition Antarctique Francaise 1908-1910 J. Charcot. Masson et cie, Paris. 1-277	
+139449	Koehler, R.	1906	Expédition Antarctique Francaise (1903-1905) - Échinodermes (Stéllérides, Ophiures et Échinides). Expédition Charcot, 1-41.		
+139455	Smith, E. A.	1876	Descriptions of species of Asteridae and Ophiuridae from Kerguelen Islands	Ann. Mag. Nat. Hist.. 17(4), 105-113	
+139458	Studer, T.	1885	Die Seesterne Südgeorgiens nach der Ausbeute der Deutschen Polar Station 1882-83	Jahrbuch der Hamburgischen Wissenschaftlichen Anstalten. 2, 143-166, 2 pl.	
+139521	Verrill, A. E.	1894	Descriptions of new species of starfishes and ophiurans, with a revision of certain species formerly described; mostly from the collections made by the United States Commission of Fish and Fisheries	Proceedings of the United States National Museum. 17(1000), 245-297	
+139547	Retzius, A. J.	1783	Anmärkningar v. d. Asteriae genus	Kungliga Svenska Vetenskapsakademiens handlingar. 4, 230-248	
+139557	Mortensen, T.	1913	Some new echinoderms from Greenland. Videnskabelige Meddelelser fra Dansk Naturhistorisk	Forening. 66: 37-43	
+140261	Imaoka, T.; Irimura, S.; Okutani, T.; Oguro, C.; ; Kanazawa, K.	1991	Echinoderms from Continental Shelf and Slope around Japan	Japan Fisheries Resource Conservation Association. Vol, 1-204	
+140262	Kogure, Y. A. K.; Nonaka, M.	2009	A rarely encountered oreasterid sea star, Astrosarkus idipi (Echinodermata, Asteroidea), newly recorded from Japanese waters	Journal of the Biogeographical Society of Japan. 11, 73-76	
+141189	McKnight, D. G.	1977	Classification of Recent paxillosid sea-stars (Asterozoa: Echinodermata	Records of the New Zealand Oceanographic Institute. 3(12): 113-119	
+141249	Pawson, D. L., D. J. Vance, C. G. Messing, F. A. Solis-Marin & C. L. Mah.	2009	Echinodermata of the Gulf of Mexico	Pp. 1177–1204 in Felder, D.L. and D.K. Camp (eds.), Gulf of Mexico–Origins, Waters, and Biota.. Biodiversity. Texas A&M Press, College S	
+141274	O'loughlin, P. M.	2009	New asterinid species from Africa and Australia (Echinodermata: Asteroidea: Asterinidae	Memoirs of Museum Victoria. 66, 203-13	
+141275	Emson, R. G.; Crump, R. H.	1979	Description of a new species of Asterina (Asteroidea), with an account of its ecology	Journal of the Marine Biology Association of the United Kingdom. 59(1), 77-94	
+141723	Eernisse, D.J., M.F. Strathmann, and R.R. Strathmann.	2010	<i>Henricia pumila</i> sp. nov.: a brooding seastar (Asteroidea) from the coastal northeastern Pacific. Zootaxa 2329: 22-36.		
+141777	Hopkins, T.S. and K.E. Knott.	2010	The establishment of a neotype for <i>Luidia clathrata</i> (Say, 1825) and a new species within the genus <i>Luidia</i> (Asteroidea: Paxillosida: Luidiidae).		
+142513	Sibuet, M.	1977	<i>Ophidiaster reyssi</i> nouvelle espece d'Asteride bathyale de l'ocean Atlantique. Bulletin du Museum national d'Histoire naturelle. 3rd ser. 343 (494): 1085-1090.		
+145214	Clark, R. N.; Jewett, S. C.	2010	A new genus and thirteen new species of sea stars (Asteroidea: Echinasteridae) from the Aleutian Island Archipelago	Zootaxa. 2571, 1-36	
+145416	Janosik, A.M. and Halanych, K.M.	2010	Unrecognized Antarctic Biodiversity: A case study of the genus <i>Odontaster</i> (Odontasteridae; Asteroidea). Integrative and Comparative Biology.		
+145418	Mah, C. L.; Nizinski, M.; Lundsten, L.	2010	Phylogenetic Revision of the Hippasterinae (Goniasteridae; Asteroidea): Systematics of Deep Sea Corallivores, including one new genus and three new species	Zoological Journal of the Linnean Society. 160(11): 266-301	
+145894	Bousfield, E.L.	1964	Coquillages des cotes canadiennes de l'Atlantique	Musée national du Canada. Ottawa. 89 p.	
+145895	Chabot, R. & Rossignol, A.	2003	Algues et faune du littoral du Saint-Laurent maritime: Guide d'identification. Institut des sciences de la mer de Rimouski, Rimouski; Pêches et Océans Canada (Institut Maurice-Lamontagne), Mont-Joli. 113 pages.		
+147411			PESI (A Pan-European Species directories Infrastructure) focal points		
+147412			Unterwasser-Welt Ostsee		
+149192	Solis-Marin, F. A.; Laguarda-Figueras, A.	2010	A new species of starfish (Echinodermata: Asteroidea) from an anchialine cave in the Mexican Caribbean	Revista Mexicana de Biodiversidad. 81, 663-668	
+149215	Mah, C.L.	2011	Taxonomy of high-latitude Goniasteridae (Subantarctic & Antarctic): one new genus and three new species with an overview and a key to taxa. Zootaxa 2759:1–48.		
+149347	Dilman, A.B.	2005	Starfishes of the genus <i>Myxaster</i> (Echinodermata, asteroidea). Zoologieskij Zurnal 84(4):455-463  (in Russian)		
+151242	Clark, A. H.	1917	A new starfish from the Magellanic Region	Proceedings of the Biological Society of Washington. 30: 7-8	
+151643	Dhora, DH.	2008	Fjalor i emrave të kafshëve të Shqipërisë (Emri shkencor – Shqip – Anglisht) / Dictionary of animal names of Albania (Scientific names – Albanian – English). Camaj – Pipa. Shkodër, Albania.		
+151845	Mah, C.; Foltz, D.	2011	Molecular phylogeny of the Forcipulatacea (Asteroidea: Echinodermata): systematics and biogeography	Zoological Journal of the Linnean Society. 162(3): 646-660	
+152417	Liu J.Y. [Ruiyu] (ed.)	2008	Checklist of marine biota of China seas	China Science Press. 1267 pp	
+153328	Clark, R.N. and Jewett, S.C.	2011	A new sea star of the genus <i>Hippasteria</i> (Asteroidea; Goniasteridae) from the Aleutian Islands. <i>Zootaxa</i> 2963: 48-54.		
+153329	Clark, R.N. and Jewett, S.C.	2011	Three new sea stars (Asteroidea: Solasteridae & Pterasteridae) from the Aleutian Islands. <i>Zootaxa</i> 3051: 1-13.		
+155063	Zenetos, A.; Gofas, S.; Verlaque, M.; Cinar, M.; Garcia Raso, J.; Bianchi, C.; Morri, C.; Azzurro, E.; Bilecenoglu, M.; Froglia, C.; Siokou, I.; Violanti, D.; Sfriso, A.; San Martin, G.; Giangrande, A.; Katagan, T.; Ballesteros, E.; Ramos-Espla, A.; Mastrototaro, F.; Ocana, O.; Zingone, A.; Gambi, M.; Streftaris, N.	2010	Alien species in the Mediterranean Sea by 2010. A contribution to the application of European Union’s Marine Strategy Framework Directive (MSFD). Part I. Spatial distribution	Mediterranean Marine Science. 11(2): 381-493	
+156693	Mortensen, T	1941	Echinoderms of Tristan de Cunha. 	Results Norwegian Scientific Expedition Tristan da Cunha 1937-38 . 7: 1-10	
+163039			Club d'immersió Facultat de Biologia, Universitat de Barcelona		
+163043			TermCat, The Center for Terminology		
+164912	Bell FJ	1908	Echinoderma. In National Antarctic Expedition. Natural History 4:1–15, pl. 1–5.		
+164923	Perrier E.	1885	Premiére note Préliminaire des les Echinodermes, recueillis durant les campagnes de dragages sous-marines du Travailleur et du Talisman. Annls. Sci. Nat. Zool. 22(8): 1-72.		
+165516	Dyntaxa	2013	Swedish Taxonomic Database		
+166078	Saba, M, Iwao, K, and Fujita, T.	2012	A new asterinid sea star, <i>Disasterina akajimaensis</i> (Echinodermata; Asteroidea) from the Ryukyu Islands, Japan with notes on the genus <i>Disasterina</i>. Species Diversity 17: 21-28		
+166156	Janosik, A. M.; Halanych, K. M.	2012	Seeing stars: a molecular and morphological investigation into the evolutionary history of Odontasteridae (Asteroidea) with description of a new species from the Galapagos Islands	Marine Biology. 160(4): 821-841	
+166220	O’loughlin, P. M.; Mackenzie, M.	2013	Asterinid seastars from the Mozambique Channel (Echinodermata: Asteroidea: Asterinidae)	Zootaxa. 3613(2)	
+166247	Kogure, Y.; Fujita, T.	2012	A new species of <i>Neoferdina</i> and three new records of sea stars (Echinodermata: Asteroidea) collected from Kumejima Island, southwestern Japan	Zootaxa. 3367: 252-260	
+168094	Perrier E.	1894	Stellérides. Expéditions Scientifique <i>Travailleur</i> et du <i>Talisman</i> 3: 1-431. 26 pls.		
+168100	Perrier E.	1891	Echinoderma I. Stellérides. Mission Scientifique du Cap Horn, 1882-83. 6. Zoologie(3), Paris. 198pp.		
+176951	Mah, C. L.; Foltz, D. W.	2014	New Taxa and Taxonomic Revisions to the Poraniidae (Valvatacea; Asteroidea) with Comments on Feeding Biology	Zootaxa. 3795(3): 327-372	
+177363	Mah, C. L.; Neill, K.; Eleaume, M.; Foltz, D.	2014	New Species and global revision of <i>Hippasteria</i> (Hippasterinae: Goniasteridae; Asteroidea; Echinodermata	Zoological Journal of the Linnean Society. 171: 422-456	
+177370	Sladen, W. P.	1882	The Asteroidea of H.M.S. <i>Challenger</i> Expedition, pt. 1. Pterasteridae	Journal of the Linnean Society of London. 16: 189-246	
+177371	Sladen, W. P.	1883	The Asteroidea of H.M.S. <i>Challenger</i> Expedition, pt. 2. Astropectinidae	Journal of the Linnean Society of London, Zoology. 17: 214-269	
+181835	Belyaev, G. M.	1974	A new family of Abyssal starfishes	Zoologischeskii Zhurnal. 53(10): 1502-1508	
+181836	Belyaev, G. M.; Litvinova, N. M.	1991	A new species of Caymanostellidae	Zoologischeskii Zhurnal. 70: 148-151	
+190217	Bell, F. J.	1881	Account of the Echinodermata collected during the Survey of H.M.S. "Alert" in the Straits of Magellan and on the Coast of Patagonia	Proceedings of the Zoological Society of London. p. 87-101, p. VIII & IX	
+190896	Galil, B.	2007	Seeing Red: Alien species along the Mediterranean coast of Israel	Aquatic Invasions. 2(4): 281-312	
+191610	Dilman, A.	2013	Asteroid fauna of the northern Mid-Atlantic: additional records	Marine Biology Research. 9: 5-6, 563-586	
+192633	Trott, T. J.	2004	Cobscook Bay inventory: a historical checklist of marine invertebrates spanning 162 years	Northeastern Naturalist. 11, 261-324	
+193312	Kogure, K and Kohtsuka, H.	2014	A new species of ophidiasterid sea star, <i>Copidaster japonicus</i> (Echinodermata: Asteroidea), from Japan	Biogeography 16: 41-46	
+195673	Mah, C.L.	2015.	A new Atlantic species of <i>Evoplosoma</i> with taxonomic summary and in situ observations of Atlantic deep-sea corallivorous Goniasteridae (Valvatida; Asteroidea)  Marine Biodiversity Records	Marine Biodiversity Records. 8(E5): 1-8	
+195830	Zenetos, A.; Meric, E.; Verlaque, M.; Galli, P.; Boudouresque, C.; Giangrande, A.; Cinar, M.; Bilecenoglu, M.	2008	Additions to the annotated list of marine alien biota in the Mediterranean with special emphasis on Foraminifera and Parasites	Mediterranean Marine Science. 9(1): 119-165	
+196267	Mah, C.L.	2015	New species, corallivory, in situ video observations and overview of the Goniasteridae (Valvatida, Asteroidea) in the Hawaiian Region	Zootaxa. 3926(2): 211-228	
+196889	Sibuet, M	1976	Le genre <i>Hymenaster</i> (Asterides) dans l'ocean Atlantique	Bulletin du Museum national d'Histoire naturelle. 3(368): 305-324	
+197037	Clark, R.N. and Jewett S.C.	2015	A new sea star of the genus <i>Leptasterias</i> (Asteroidea: Asteriidae) from the Aleutian Islands	Zootaxa. 3941(4): 5790584	
+197326	Mah, C., Linse, K.,Copley, J., Marsh L., Rogers A., Clague D. and Foltz D.	2015	Description of a new family, new genus, and two new species of deep-sea Forcipulatacea (Asteroidea),  including the first known sea star from hydrothermal vent habitats	Zoological Journal of the Linnean Society. 174: 93-113	
+197942	Verrill, A. E.	1867-1871	Notes on Radiata	Trans. Connecticut Acad.. 1(2), 247-596, 7 pls	
+198550	Mah, C.L.	2015	A new species of <i>Brisingenes</i> from the Hawaii undersea military munitions assessment area with an overview of Hawaiian brisingid in situ video observations and functional morphology of subambulacral spines (Forcipulatacea; Asteroidea)	Deep Sea Research Part II: Topical Studies in Oceanography	
+199210	O'Loughlin, P.M.; Bribiesca-Contreras, G.	2015	New asterinid seastars from northwest Australia, with a revised key to <i>Aquilonastra</i> species (Echinodermata: Asteroidea)	Memoirs of Museum Victoria. 73: 27–40	
+223126	Lütken C	1857	De ved Danmarks kyster levende Pighude	Videns kabelige Meddelelser fra den naturhist. 1856: 88-110	
+223203	Koehler, R.	1923	Astéries et Ophiures recueillies par l'Expédition Antarctique Suédoise (1901-1903)	Further Zool. Results Swed. Antarct. Exped.. 1(1): 1-145	
+225431	Clark HES	1969	Two new species of Benthopecten (Asteroidea) from New Zealand	Transactions of the Royal Society of New Zealand zoology. 11(6): 83-88	
+225477	Bernasconi I	1966	Descripcion de una nueva especie de Calyptraster (Asteroidea, Pterasteridae)	Physis. 26, 95-99.	
+225479	Bernasconi I	1972	Nuevas especies de Asteroidea: Bathybiaster herwigi sp.nov. (Astropectinidae) y Calyptraster vitreus sp.nov. (Pterasteridae)	Physis. 31(82): 9-14	
+225480	Perrier E	1881	Description sommaire des espèces nouvelles d'Astéries	Bull. Mus. Comp. Zool.. 9: 1-31	
+229757	Koehler R	1917	Échinodermes (astéries, ophiures et échinides) Recueillis par M. Rallier du Baty, aux îles Kerguelen, en 1913-1914	Annales de l'Institut océanographique. 7(8): 87pp.	
+229914	Ludwig H	1907	Diagnosen neuer Tiefsee-Seesterne aus der Familie der Porcellanasteriden	Zoologischer Anzeiger. 31: 312-319.	
+229915	Korovchinsky N. M.	1976	New Species of Abyssal Starfishes of the Genus Freyella (Brisingidae) from the South Atlantic	Zoologicheskii Zhurnal. 55(8):1187–1194	
+229916	Perrier E	1869	Recherches sur les pédicellaires et les ambulacres des astéries et des oursins / par J.O. Edmond Perrier.	Paris: Victor Masson. 188pp.	
+229946	Gray J.E.	1847	Descriptions of some new genera and species of Asteriadae.	Proceedings of the Zoological Society of London. 20: 193-204	
+229983	Philippi A	1857	Vier neue Echinodermen des Chilenischen Meeres	Archiv für Naturgeschichte. 23: 130-148	
+230061	Philippi A	1870	Neue Seesterne aus Chile	Archiv für Naturgeschichte. 36: 268-275.	
+230062	Rowe FWE, Albertson EL		A new genus and four new species in the Family Echinasteridae (Echinodermata: Asteroidea)	Proc. Linn. Soc.. 110(1): 83-100	
+230063	Thomson, C. W.	1877	The voyage of the "Challenger" : the Atlantic	London: Macmillan. 1: 1-424. 2: 1-396.	
+230077	Fisher WK	1919	North Pacific Zoroasteridae	The Annals and magazine of natural history. 9(3): 387-393	
+237634	Fisher, W.K.	1922	A remarkable new sea star from Japan	Proceedings of the United States National Museum. 64(3): 1-6, 2 plates	
+237635	Clark, H. L.	1941	Reports on the scientific results of the Atlantis expeditions to the West Indies, under the joint auspices of the University of Havana and Harvard University. The Echinoderms (other than holothurians)	Memorias de la Sociedad Cubana de Historia Natural. 15(1): 1-154, 10 plates	

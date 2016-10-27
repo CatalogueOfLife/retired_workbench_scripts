@@ -1,0 +1,4064 @@
+AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
+212453	Red Sea	Text		
+212453	Red Sea	Text		
+124427	Gulf of Guinea	Text		
+124343	Gulf of Guinea	Text		
+422521	Caribbean Sea	Text		
+226068	Caribbean Sea	Text		
+124364	Caribbean Sea	Text		
+214456	Caribbean Sea	Text		
+124253	Caribbean Sea	Text		
+124330	Caribbean Sea	Text		
+422512	Caribbean Sea	Text		
+422511	Caribbean Sea	Text		
+124343	Caribbean Sea	Text		
+513059	Caribbean Sea	Text		
+124368	Caribbean Sea	Text		
+367850	Caribbean Sea	Text		
+422489	Caribbean Sea	Text		
+513376	Caribbean Sea	Text		
+422488	Caribbean Sea	Text		
+422502	Caribbean Sea	Text		
+422507	Caribbean Sea	Text		
+158067	Caribbean Sea	Text		
+158065	Caribbean Sea	Text		
+367846	Caribbean Sea	Text		
+422483	Caribbean Sea	Text		
+124268	Caribbean Sea	Text		
+422484	Caribbean Sea	Text		
+124426	Caribbean Sea	Text		
+422490	Caribbean Sea	Text		
+124380	Caribbean Sea	Text		
+124349	Caribbean Sea	Text		
+124372	Caribbean Sea	Text		
+422510	Caribbean Sea	Text		
+422486	Caribbean Sea	Text		
+124404	Caribbean Sea	Text		
+422478	Caribbean Sea	Text		
+422480	Caribbean Sea	Text		
+422494	Caribbean Sea	Text		
+513181	Caribbean Sea	Text		
+422495	Caribbean Sea	Text		
+124331	Caribbean Sea	Text		
+124338	Caribbean Sea	Text		
+513159	Caribbean Sea	Text		
+422477	Caribbean Sea	Text		
+513185	Caribbean Sea	Text		
+422496	Caribbean Sea	Text		
+422497	Caribbean Sea	Text		
+422498	Caribbean Sea	Text		
+367962	Caribbean Sea	Text		
+513197	Caribbean Sea	Text		
+422499	Caribbean Sea	Text		
+513202	Caribbean Sea	Text		
+422504	Caribbean Sea	Text		
+422516	Caribbean Sea	Text		
+149880	Caribbean Sea	Text		
+422485	Caribbean Sea	Text		
+158058	Caribbean Sea	Text		
+124329	Caribbean Sea	Text		
+124332	Caribbean Sea	Text		
+124270	Caribbean Sea	Text		
+212461	Caribbean Sea	Text		
+422505	Caribbean Sea	Text		
+213380	Caribbean Sea	Text		
+422493	Caribbean Sea	Text		
+422514	Caribbean Sea	Text		
+422518	Caribbean Sea	Text		
+513327	Caribbean Sea	Text		
+513255	Caribbean Sea	Text		
+422501	Caribbean Sea	Text		
+124423	Caribbean Sea	Text		
+396741	Caribbean Sea	Text		
+422478	Gulf of Mexico	Text		
+422797	Gulf of Mexico	Text		
+124331	Gulf of Mexico	Text		
+422477	Gulf of Mexico	Text		
+422480	Gulf of Mexico	Text		
+422494	Gulf of Mexico	Text		
+422479	Gulf of Mexico	Text		
+422495	Gulf of Mexico	Text		
+422498	Gulf of Mexico	Text		
+422497	Gulf of Mexico	Text		
+422496	Gulf of Mexico	Text		
+422499	Gulf of Mexico	Text		
+367962	Gulf of Mexico	Text		
+422504	Gulf of Mexico	Text		
+422486	Gulf of Mexico	Text		
+124372	Gulf of Mexico	Text		
+422509	Gulf of Mexico	Text		
+422510	Gulf of Mexico	Text		
+124380	Gulf of Mexico	Text		
+124349	Gulf of Mexico	Text		
+124329	Gulf of Mexico	Text		
+158058	Gulf of Mexico	Text		
+422515	Gulf of Mexico	Text		
+422485	Gulf of Mexico	Text		
+422516	Gulf of Mexico	Text		
+124365	Gulf of Mexico	Text		
+212461	Gulf of Mexico	Text		
+422802	Gulf of Mexico	Text		
+422493	Gulf of Mexico	Text		
+213383	Gulf of Mexico	Text		
+422505	Gulf of Mexico	Text		
+396741	Gulf of Mexico	Text		
+422492	Gulf of Mexico	Text		
+422501	Gulf of Mexico	Text		
+124423	Gulf of Mexico	Text		
+422795	Gulf of Mexico	Text		
+124339	Gulf of Mexico	Text		
+422517	Gulf of Mexico	Text		
+422518	Gulf of Mexico	Text		
+422514	Gulf of Mexico	Text		
+422481	Gulf of Mexico	Text		
+422482	Gulf of Mexico	Text		
+124400	Gulf of Mexico	Text		
+124271	Gulf of Mexico	Text		
+124270	Gulf of Mexico	Text		
+124332	Gulf of Mexico	Text		
+422490	Gulf of Mexico	Text		
+422484	Gulf of Mexico	Text		
+124426	Gulf of Mexico	Text		
+422483	Gulf of Mexico	Text		
+124268	Gulf of Mexico	Text		
+124267	Gulf of Mexico	Text		
+422796	Gulf of Mexico	Text		
+124343	Gulf of Mexico	Text		
+422511	Gulf of Mexico	Text		
+422512	Gulf of Mexico	Text		
+124330	Gulf of Mexico	Text		
+124370	Gulf of Mexico	Text		
+422488	Gulf of Mexico	Text		
+367850	Gulf of Mexico	Text		
+422502	Gulf of Mexico	Text		
+422507	Gulf of Mexico	Text		
+158065	Gulf of Mexico	Text		
+422489	Gulf of Mexico	Text		
+422800	Gulf of Mexico	Text		
+422799	Gulf of Mexico	Text		
+422804	Gulf of Mexico	Text		
+422503	Gulf of Mexico	Text		
+367846	Gulf of Mexico	Text		
+158067	Gulf of Mexico	Text		
+124254	Gulf of Mexico	Text		
+124364	Gulf of Mexico	Text		
+214456	Gulf of Mexico	Text		
+422521	Gulf of Mexico	Text		
+124253	Gulf of Mexico	Text		
+158062	Gulf of St. Lawrence	Text		
+124404	Gulf of St. Lawrence	Text		
+124321	Gulf of St. Lawrence	Text		
+456760	Philippine Sea	Text		
+456762	Japanese Sea	Text		
+124324	Sea of Japan	Text		
+456748	Celebes Sea	Text		
+456755	Tasman Sea	Text		
+124324	Orkney	Text		
+158062	Grand Banks	Text		
+124324	Grand Banks	Text		
+124270	Josephine Bank	Text		
+124332	Madeira	Text		
+731162	Madeira	Text		
+124423	Madeira	Text		
+124426	Madeira	Text		
+731162	Salvages Islands	Text		
+396741	Faial-Pico Channel	Text		
+124316	Arcachon Bay	Text		
+124319	Oosterschelde	Text		
+124319	Oosterschelde	Text		
+124392	Oosterschelde	Text		
+124321	Spitsbergen	Text		
+124287	Spitsbergen	Text		
+124257	Rockall	Text		
+124418	Rockall	Text		
+597545	Galapagos	Text		
+124392	Lombardsijde	Text		
+124273	North East Atlantic	Text		
+124394	North East Atlantic	Text		
+124402	North East Atlantic	Text		
+124287	North East Atlantic	Text		
+124373	North East Atlantic	Text		
+124257	North East Atlantic	Text		
+124319	North East Atlantic	Text		
+124418	North East Atlantic	Text		
+226070	North East Atlantic	Text		
+124427	North East Atlantic	Text		
+124419	North East Atlantic	Text		
+124373	Dutch Exclusive  Economic Zone	Text		
+124287	Dutch Exclusive  Economic Zone	Text		
+124392	Dutch Exclusive  Economic Zone	Text		
+124392	Dutch Exclusive  Economic Zone	Text		
+124392	Dutch Exclusive  Economic Zone	Text		
+124394	Dutch Exclusive  Economic Zone	Text		
+124273	Dutch Exclusive  Economic Zone	Text		
+124273	Dutch Exclusive  Economic Zone	Text		
+124319	Dutch Exclusive  Economic Zone	Text		
+124418	Dutch Exclusive  Economic Zone	Text		
+124418	Greek Exclusive Economic Zone	Text		
+124427	Greek Exclusive Economic Zone	Text		
+124318	Greek Exclusive Economic Zone	Text		
+124316	Greek Exclusive Economic Zone	Text		
+124268	Greek Exclusive Economic Zone	Text		
+124273	Greek Exclusive Economic Zone	Text		
+124394	Greek Exclusive Economic Zone	Text		
+124399	Greek Exclusive Economic Zone	Text		
+124393	Greek Exclusive Economic Zone	Text		
+124392	Greek Exclusive Economic Zone	Text		
+124294	Greek Exclusive Economic Zone	Text		
+124423	Greek Exclusive Economic Zone	Text		
+124373	Greek Exclusive Economic Zone	Text		
+124380	Greek Exclusive Economic Zone	Text		
+124257	Greek Exclusive Economic Zone	Text		
+124331	Greek Exclusive Economic Zone	Text		
+124250	Greek Exclusive Economic Zone	Text		
+124249	Greek Exclusive Economic Zone	Text		
+124373	Icelandic Exclusive Economic Zone	Text		
+124287	Icelandic Exclusive Economic Zone	Text		
+124394	Icelandic Exclusive Economic Zone	Text		
+124273	Icelandic Exclusive Economic Zone	Text		
+124319	Icelandic Exclusive Economic Zone	Text		
+124319	Irish Exclusive economic Zone	Text		
+124419	Irish Exclusive economic Zone	Text		
+124418	Irish Exclusive economic Zone	Text		
+124316	Irish Exclusive economic Zone	Text		
+124273	Irish Exclusive economic Zone	Text		
+124402	Irish Exclusive economic Zone	Text		
+124394	Irish Exclusive economic Zone	Text		
+124392	Irish Exclusive economic Zone	Text		
+124287	Irish Exclusive economic Zone	Text		
+124373	Irish Exclusive economic Zone	Text		
+124418	Norwegian Exclusive Economic Zone	Text		
+124419	Norwegian Exclusive Economic Zone	Text		
+124394	Norwegian Exclusive Economic Zone	Text		
+124402	Norwegian Exclusive Economic Zone	Text		
+124273	Norwegian Exclusive Economic Zone	Text		
+124287	Norwegian Exclusive Economic Zone	Text		
+124373	Norwegian Exclusive Economic Zone	Text		
+124249	Portuguese Exclusive Economic Zone	Text		
+124287	Portuguese Exclusive Economic Zone	Text		
+124318	Portuguese Exclusive Economic Zone	Text		
+124319	Swedish Exclusive Economic Zone	Text		
+124418	Swedish Exclusive Economic Zone	Text		
+124419	Swedish Exclusive Economic Zone	Text		
+124321	Swedish Exclusive Economic Zone	Text		
+124287	Swedish Exclusive Economic Zone	Text		
+124273	Swedish Exclusive Economic Zone	Text		
+124392	Swedish Exclusive Economic Zone	Text		
+124394	Swedish Exclusive Economic Zone	Text		
+124402	Swedish Exclusive Economic Zone	Text		
+124373	Swedish Exclusive Economic Zone	Text		
+124404	Swedish Exclusive Economic Zone	Text		
+124404	United Kingdom Exclusive Economic Zone	Text		
+124373	United Kingdom Exclusive Economic Zone	Text		
+124257	United Kingdom Exclusive Economic Zone	Text		
+149880	United Kingdom Exclusive Economic Zone	Text		
+124402	United Kingdom Exclusive Economic Zone	Text		
+124394	United Kingdom Exclusive Economic Zone	Text		
+124273	United Kingdom Exclusive Economic Zone	Text		
+124392	United Kingdom Exclusive Economic Zone	Text		
+124287	United Kingdom Exclusive Economic Zone	Text		
+124294	United Kingdom Exclusive Economic Zone	Text		
+124312	United Kingdom Exclusive Economic Zone	Text		
+124321	United Kingdom Exclusive Economic Zone	Text		
+124419	United Kingdom Exclusive Economic Zone	Text		
+124427	United Kingdom Exclusive Economic Zone	Text		
+124418	United Kingdom Exclusive Economic Zone	Text		
+124319	United Kingdom Exclusive Economic Zone	Text		
+124316	United Kingdom Exclusive Economic Zone	Text		
+513250	Chatham Rise	Text		
+513250	Campbell Plateau	Text		
+213386	Mascarene Basin	Text		
+213111	Mascarene Basin	Text		
+213369	Mascarene Basin	Text		
+513239	Mascarene Basin	Text		
+214647	Mascarene Basin	Text		
+212460	Mascarene Basin	Text		
+212459	Mascarene Basin	Text		
+212459	Mascarene Basin	Text		
+213383	Mascarene Basin	Text		
+212461	Mascarene Basin	Text		
+213377	Mascarene Basin	Text		
+213384	Mascarene Basin	Text		
+213378	Mascarene Basin	Text		
+214481	Mascarene Basin	Text		
+213372	Mascarene Basin	Text		
+213375	Mascarene Basin	Text		
+213372	Mascarene Basin	Text		
+213370	Mascarene Basin	Text		
+213575	Mascarene Basin	Text		
+213362	Mascarene Basin	Text		
+212453	Mascarene Basin	Text		
+212440	Mascarene Basin	Text		
+214669	Mascarene Basin	Text		
+212449	Mascarene Basin	Text		
+212445	Mascarene Basin	Text		
+214642	Mascarene Basin	Text		
+216208	Mascarene Basin	Text		
+179629	Mascarene Basin	Text		
+214457	Mascarene Basin	Text		
+179611	Mascarene Basin	Text		
+214465	Mascarene Basin	Text		
+212454	Mascarene Basin	Text		
+212465	Mascarene Basin	Text		
+212463	Mascarene Basin	Text		
+212464	Mascarene Basin	Text		
+214655	West Indian Ocean	Text		
+213370	West Indian Ocean	Text		
+213575	West Indian Ocean	Text		
+213575	West Indian Ocean	Text		
+213361	West Indian Ocean	Text		
+213361	West Indian Ocean	Text		
+213362	West Indian Ocean	Text		
+213362	West Indian Ocean	Text		
+213372	West Indian Ocean	Text		
+213375	West Indian Ocean	Text		
+213375	West Indian Ocean	Text		
+513239	West Indian Ocean	Text		
+214647	West Indian Ocean	Text		
+213383	West Indian Ocean	Text		
+212461	West Indian Ocean	Text		
+213378	West Indian Ocean	Text		
+213377	West Indian Ocean	Text		
+213378	West Indian Ocean	Text		
+212461	West Indian Ocean	Text		
+213384	West Indian Ocean	Text		
+213377	West Indian Ocean	Text		
+213369	West Indian Ocean	Text		
+213369	West Indian Ocean	Text		
+212445	West Indian Ocean	Text		
+214665	West Indian Ocean	Text		
+214642	West Indian Ocean	Text		
+179629	West Indian Ocean	Text		
+214456	West Indian Ocean	Text		
+179611	West Indian Ocean	Text		
+212438	West Indian Ocean	Text		
+213607	West Indian Ocean	Text		
+212463	West Indian Ocean	Text		
+212465	West Indian Ocean	Text		
+214476	West Indian Ocean	Text		
+212463	West Indian Ocean	Text		
+212466	West Indian Ocean	Text		
+214465	West Indian Ocean	Text		
+212440	West Indian Ocean	Text		
+214669	West Indian Ocean	Text		
+212449	West Indian Ocean	Text		
+212449	West Indian Ocean	Text		
+212453	West Indian Ocean	Text		
+212453	West Indian Ocean	Text		
+124324	European waters (ERMS scope)	Text		
+124321	European waters (ERMS scope)	Text		
+124268	European waters (ERMS scope)	Text		
+124267	European waters (ERMS scope)	Text		
+124426	European waters (ERMS scope)	Text		
+124348	European waters (ERMS scope)	Text		
+124360	European waters (ERMS scope)	Text		
+124254	European waters (ERMS scope)	Text		
+124316	European waters (ERMS scope)	Text		
+124370	European waters (ERMS scope)	Text		
+124343	European waters (ERMS scope)	Text		
+124371	European waters (ERMS scope)	Text		
+124351	European waters (ERMS scope)	Text		
+124330	European waters (ERMS scope)	Text		
+124253	European waters (ERMS scope)	Text		
+124355	European waters (ERMS scope)	Text		
+124318	European waters (ERMS scope)	Text		
+124319	European waters (ERMS scope)	Text		
+124427	European waters (ERMS scope)	Text		
+124419	European waters (ERMS scope)	Text		
+124347	European waters (ERMS scope)	Text		
+124364	European waters (ERMS scope)	Text		
+124418	European waters (ERMS scope)	Text		
+124257	European waters (ERMS scope)	Text		
+124350	European waters (ERMS scope)	Text		
+124331	European waters (ERMS scope)	Text		
+124338	European waters (ERMS scope)	Text		
+124380	European waters (ERMS scope)	Text		
+124349	European waters (ERMS scope)	Text		
+124373	European waters (ERMS scope)	Text		
+124404	European waters (ERMS scope)	Text		
+124329	European waters (ERMS scope)	Text		
+124250	European waters (ERMS scope)	Text		
+124249	European waters (ERMS scope)	Text		
+124365	European waters (ERMS scope)	Text		
+124367	European waters (ERMS scope)	Text		
+124270	European waters (ERMS scope)	Text		
+124271	European waters (ERMS scope)	Text		
+124273	European waters (ERMS scope)	Text		
+124399	European waters (ERMS scope)	Text		
+124402	European waters (ERMS scope)	Text		
+124400	European waters (ERMS scope)	Text		
+124393	European waters (ERMS scope)	Text		
+124394	European waters (ERMS scope)	Text		
+124332	European waters (ERMS scope)	Text		
+124424	European waters (ERMS scope)	Text		
+124339	European waters (ERMS scope)	Text		
+124252	European waters (ERMS scope)	Text		
+124423	European waters (ERMS scope)	Text		
+124312	European waters (ERMS scope)	Text		
+124353	European waters (ERMS scope)	Text		
+124294	European waters (ERMS scope)	Text		
+124287	European waters (ERMS scope)	Text		
+124257	North West Atlantic	Text		
+124373	North West Atlantic	Text		
+124404	North West Atlantic	Text		
+158058	North West Atlantic	Text		
+158062	North West Atlantic	Text		
+158067	North West Atlantic	Text		
+158065	North West Atlantic	Text		
+124321	North West Atlantic	Text		
+124321	North West Atlantic	Text		
+124324	North West Atlantic	Text		
+124324	North West Atlantic	Text		
+760830	Nazca Ridge	Text		
+760830	Sala y Gómes Ridge	Text		
+212448	Madagascar	Text		
+212448	Madagascar	Text		
+212445	Madagascar	Text		
+212445	Madagascar	Text		
+214457	Madagascar	Text		
+214457	Madagascar	Text		
+214642	Madagascar	Text		
+212442	Madagascar	Text		
+212465	Madagascar	Text		
+214465	Madagascar	Text		
+214465	Madagascar	Text		
+746364	Madagascar	Text		
+746362	Madagascar	Text		
+214656	Madagascar	Text		
+214656	Madagascar	Text		
+179611	Madagascar	Text		
+212438	Madagascar	Text		
+212449	Madagascar	Text		
+212453	Madagascar	Text		
+212453	Madagascar	Text		
+212440	Madagascar	Text		
+212440	Madagascar	Text		
+212440	Madagascar	Text		
+212459	Madagascar	Text		
+213380	Madagascar	Text		
+213383	Madagascar	Text		
+224193	Madagascar	Text		
+213378	Madagascar	Text		
+213377	Madagascar	Text		
+212461	Madagascar	Text		
+212461	Madagascar	Text		
+212461	Madagascar	Text		
+213369	Madagascar	Text		
+213386	Madagascar	Text		
+213386	Madagascar	Text		
+213386	Madagascar	Text		
+213375	Madagascar	Text		
+213372	Madagascar	Text		
+213372	Madagascar	Text		
+213575	Madagascar	Text		
+160820	Macquarie Island Exclusive Economic Zone	Text		
+160824	Macquarie Island Exclusive Economic Zone	Text		
+160824	Macquarie Island Exclusive Economic Zone	Text		
+160824	Macquarie Island Exclusive Economic Zone	Text		
+160816	Macquarie Island Exclusive Economic Zone	Text		
+160824	Australian Exclusive Economic Zone	Text		
+160824	Australian Exclusive Economic Zone	Text		
+160824	Australian Exclusive Economic Zone	Text		
+160824	Australian Exclusive Economic Zone	Text		
+160824	Australian Exclusive Economic Zone	Text		
+214656	Réunion Exclusive Economic Zone	Text		
+214656	Réunion Exclusive Economic Zone	Text		
+124316	Azores Exclusive Economic Zone	Text		
+124319	Azores Exclusive Economic Zone	Text		
+124318	Azores Exclusive Economic Zone	Text		
+124427	Azores Exclusive Economic Zone	Text		
+124294	Azores Exclusive Economic Zone	Text		
+124423	Azores Exclusive Economic Zone	Text		
+124392	Azores Exclusive Economic Zone	Text		
+124273	Azores Exclusive Economic Zone	Text		
+124394	Azores Exclusive Economic Zone	Text		
+124249	Azores Exclusive Economic Zone	Text		
+124250	Azores Exclusive Economic Zone	Text		
+124331	Azores Exclusive Economic Zone	Text		
+124373	Azores Exclusive Economic Zone	Text		
+124380	Azores Exclusive Economic Zone	Text		
+124427	Cape Verdean Exclusive Economic Zone	Text		
+124319	Moroccan Exclusive Economic Zone	Text		
+124316	Moroccan Exclusive Economic Zone	Text		
+213372	Lebanese Exclusive Economic Zone	Text		
+160799	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160799	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160799	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160799	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160799	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160799	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160799	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160806	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160806	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160807	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160805	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160788	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160784	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160784	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160784	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160784	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160784	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160781	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160784	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160784	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160776	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160773	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160773	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160773	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160773	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160762	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160762	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160759	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160759	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160762	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160762	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160762	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160762	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160762	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160762	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160762	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160762	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160762	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160768	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160820	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160820	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160820	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160828	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160828	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160825	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160831	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160831	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160831	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160831	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160835	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160832	South Georgian and the South Sandwich Islands Exclusive Economic Zone	Text		
+160832	Prince Edward Islands Exclusive Economic Zone	Text		
+160832	Prince Edward Islands Exclusive Economic Zone	Text		
+160830	Prince Edward Islands Exclusive Economic Zone	Text		
+160830	Prince Edward Islands Exclusive Economic Zone	Text		
+160823	Prince Edward Islands Exclusive Economic Zone	Text		
+160823	Prince Edward Islands Exclusive Economic Zone	Text		
+160823	Prince Edward Islands Exclusive Economic Zone	Text		
+160823	Prince Edward Islands Exclusive Economic Zone	Text		
+160823	Prince Edward Islands Exclusive Economic Zone	Text		
+160823	Prince Edward Islands Exclusive Economic Zone	Text		
+160823	Crozet Islands Exclusive Economic Zone	Text		
+160823	Crozet Islands Exclusive Economic Zone	Text		
+160823	Crozet Islands Exclusive Economic Zone	Text		
+160823	Crozet Islands Exclusive Economic Zone	Text		
+160821	Crozet Islands Exclusive Economic Zone	Text		
+160826	Crozet Islands Exclusive Economic Zone	Text		
+160830	Crozet Islands Exclusive Economic Zone	Text		
+160830	Crozet Islands Exclusive Economic Zone	Text		
+160830	Crozet Islands Exclusive Economic Zone	Text		
+160830	Crozet Islands Exclusive Economic Zone	Text		
+160830	Crozet Islands Exclusive Economic Zone	Text		
+124360	Crozet Islands Exclusive Economic Zone	Text		
+124360	Crozet Islands Exclusive Economic Zone	Text		
+160784	Crozet Islands Exclusive Economic Zone	Text		
+160790	Crozet Islands Exclusive Economic Zone	Text		
+160790	Crozet Islands Exclusive Economic Zone	Text		
+160790	Crozet Islands Exclusive Economic Zone	Text		
+160790	Crozet Islands Exclusive Economic Zone	Text		
+160790	Crozet Islands Exclusive Economic Zone	Text		
+160790	Crozet Islands Exclusive Economic Zone	Text		
+160790	Crozet Islands Exclusive Economic Zone	Text		
+160790	Crozet Islands Exclusive Economic Zone	Text		
+160807	Crozet Islands Exclusive Economic Zone	Text		
+160801	Crozet Islands Exclusive Economic Zone	Text		
+160801	Crozet Islands Exclusive Economic Zone	Text		
+160803	Crozet Islands Exclusive Economic Zone	Text		
+160803	Crozet Islands Exclusive Economic Zone	Text		
+160803	Crozet Islands Exclusive Economic Zone	Text		
+160803	Crozet Islands Exclusive Economic Zone	Text		
+160803	Crozet Islands Exclusive Economic Zone	Text		
+160804	Crozet Islands Exclusive Economic Zone	Text		
+160803	Kerguelen Exclusive Economic Zone	Text		
+160805	Kerguelen Exclusive Economic Zone	Text		
+160790	Kerguelen Exclusive Economic Zone	Text		
+160790	Kerguelen Exclusive Economic Zone	Text		
+160790	Kerguelen Exclusive Economic Zone	Text		
+160790	Kerguelen Exclusive Economic Zone	Text		
+160790	Kerguelen Exclusive Economic Zone	Text		
+160790	Kerguelen Exclusive Economic Zone	Text		
+160790	Kerguelen Exclusive Economic Zone	Text		
+160784	Kerguelen Exclusive Economic Zone	Text		
+160763	Kerguelen Exclusive Economic Zone	Text		
+160763	Kerguelen Exclusive Economic Zone	Text		
+160763	Kerguelen Exclusive Economic Zone	Text		
+160763	Kerguelen Exclusive Economic Zone	Text		
+160763	Kerguelen Exclusive Economic Zone	Text		
+160763	Kerguelen Exclusive Economic Zone	Text		
+160763	Kerguelen Exclusive Economic Zone	Text		
+160830	Kerguelen Exclusive Economic Zone	Text		
+160830	Kerguelen Exclusive Economic Zone	Text		
+160830	Kerguelen Exclusive Economic Zone	Text		
+160830	Kerguelen Exclusive Economic Zone	Text		
+160830	Kerguelen Exclusive Economic Zone	Text		
+160830	Kerguelen Exclusive Economic Zone	Text		
+160830	Kerguelen Exclusive Economic Zone	Text		
+160830	Kerguelen Exclusive Economic Zone	Text		
+160830	Kerguelen Exclusive Economic Zone	Text		
+160830	Kerguelen Exclusive Economic Zone	Text		
+160830	Kerguelen Exclusive Economic Zone	Text		
+160830	Kerguelen Exclusive Economic Zone	Text		
+160830	Kerguelen Exclusive Economic Zone	Text		
+160820	Kerguelen Exclusive Economic Zone	Text		
+160818	Kerguelen Exclusive Economic Zone	Text		
+160830	Heard and McDonald Islands Exclusive Economic Zone	Text		
+160830	Heard and McDonald Islands Exclusive Economic Zone	Text		
+160830	Heard and McDonald Islands Exclusive Economic Zone	Text		
+160763	Heard and McDonald Islands Exclusive Economic Zone	Text		
+160763	Heard and McDonald Islands Exclusive Economic Zone	Text		
+160763	Heard and McDonald Islands Exclusive Economic Zone	Text		
+160790	Heard and McDonald Islands Exclusive Economic Zone	Text		
+160790	Heard and McDonald Islands Exclusive Economic Zone	Text		
+160790	Heard and McDonald Islands Exclusive Economic Zone	Text		
+160808	Heard and McDonald Islands Exclusive Economic Zone	Text		
+160803	Heard and McDonald Islands Exclusive Economic Zone	Text		
+160802	Falklands Islands Exclusive Economic Zone	Text		
+160799	Falklands Islands Exclusive Economic Zone	Text		
+160788	Falklands Islands Exclusive Economic Zone	Text		
+160791	Falklands Islands Exclusive Economic Zone	Text		
+160791	Falklands Islands Exclusive Economic Zone	Text		
+160791	Falklands Islands Exclusive Economic Zone	Text		
+160791	Falklands Islands Exclusive Economic Zone	Text		
+160787	Falklands Islands Exclusive Economic Zone	Text		
+160787	Falklands Islands Exclusive Economic Zone	Text		
+160787	Falklands Islands Exclusive Economic Zone	Text		
+160787	Falklands Islands Exclusive Economic Zone	Text		
+160787	Falklands Islands Exclusive Economic Zone	Text		
+160788	Falklands Islands Exclusive Economic Zone	Text		
+160760	Falklands Islands Exclusive Economic Zone	Text		
+160786	Falklands Islands Exclusive Economic Zone	Text		
+124360	Falklands Islands Exclusive Economic Zone	Text		
+160832	Falklands Islands Exclusive Economic Zone	Text		
+160832	Falklands Islands Exclusive Economic Zone	Text		
+160832	Falklands Islands Exclusive Economic Zone	Text		
+160822	Falklands Islands Exclusive Economic Zone	Text		
+160822	Falklands Islands Exclusive Economic Zone	Text		
+160822	Falklands Islands Exclusive Economic Zone	Text		
+160822	Falklands Islands Exclusive Economic Zone	Text		
+160811	Falklands Islands Exclusive Economic Zone	Text		
+160762	Bouvet Exclusive Economic Zone	Text		
+160790	Bouvet Exclusive Economic Zone	Text		
+124332	Cuban Exclusive Economic Zone	Text		
+158058	Trinidad and Tobago	Text		
+124380	Honduras	Text		
+124372	Honduras	Text		
+422510	Honduras	Text		
+367962	Honduras	Text		
+422495	Honduras	Text		
+513185	Honduras	Text		
+422497	Honduras	Text		
+422504	Honduras	Text		
+422494	Honduras	Text		
+124332	Honduras	Text		
+396741	Honduras	Text		
+513327	Honduras	Text		
+422518	Honduras	Text		
+422493	Honduras	Text		
+213380	Honduras	Text		
+212461	Honduras	Text		
+367850	Honduras	Text		
+422502	Honduras	Text		
+422507	Honduras	Text		
+367846	Honduras	Text		
+158065	Honduras	Text		
+158067	Honduras	Text		
+124343	Honduras	Text		
+422484	Honduras	Text		
+422490	Honduras	Text		
+422483	Honduras	Text		
+367846	Guatemala	Text		
+367850	Guatemala	Text		
+213380	Guatemala	Text		
+422493	Guatemala	Text		
+513255	Guatemala	Text		
+396741	Guatemala	Text		
+124332	Guatemala	Text		
+124404	Guatemala	Text		
+124321	Greenlandic Exclusive Economic Zone	Text		
+414234	New Zealand Exclusive Economic Zone	Text		
+414205	New Zealand Exclusive Economic Zone	Text		
+414204	New Zealand Exclusive Economic Zone	Text		
+414235	New Zealand Exclusive Economic Zone	Text		
+124360	New Zealand Exclusive Economic Zone	Text		
+212453	New Zealand Exclusive Economic Zone	Text		
+414222	New Zealand Exclusive Economic Zone	Text		
+513031	New Zealand Exclusive Economic Zone	Text		
+414245	New Zealand Exclusive Economic Zone	Text		
+414200	New Zealand Exclusive Economic Zone	Text		
+414249	New Zealand Exclusive Economic Zone	Text		
+414250	New Zealand Exclusive Economic Zone	Text		
+124371	New Zealand Exclusive Economic Zone	Text		
+124371	New Zealand Exclusive Economic Zone	Text		
+414231	New Zealand Exclusive Economic Zone	Text		
+214650	New Zealand Exclusive Economic Zone	Text		
+414210	New Zealand Exclusive Economic Zone	Text		
+179611	New Zealand Exclusive Economic Zone	Text		
+414201	New Zealand Exclusive Economic Zone	Text		
+414217	New Zealand Exclusive Economic Zone	Text		
+414218	New Zealand Exclusive Economic Zone	Text		
+414219	New Zealand Exclusive Economic Zone	Text		
+414220	New Zealand Exclusive Economic Zone	Text		
+160824	New Zealand Exclusive Economic Zone	Text		
+414221	New Zealand Exclusive Economic Zone	Text		
+214457	New Zealand Exclusive Economic Zone	Text		
+414233	New Zealand Exclusive Economic Zone	Text		
+160820	New Zealand Exclusive Economic Zone	Text		
+160821	New Zealand Exclusive Economic Zone	Text		
+414238	New Zealand Exclusive Economic Zone	Text		
+414203	New Zealand Exclusive Economic Zone	Text		
+414202	New Zealand Exclusive Economic Zone	Text		
+214462	New Zealand Exclusive Economic Zone	Text		
+414252	New Zealand Exclusive Economic Zone	Text		
+414253	New Zealand Exclusive Economic Zone	Text		
+414215	New Zealand Exclusive Economic Zone	Text		
+414213	New Zealand Exclusive Economic Zone	Text		
+124392	New Zealand Exclusive Economic Zone	Text		
+414247	New Zealand Exclusive Economic Zone	Text		
+414243	New Zealand Exclusive Economic Zone	Text		
+160803	New Zealand Exclusive Economic Zone	Text		
+414246	New Zealand Exclusive Economic Zone	Text		
+160808	New Zealand Exclusive Economic Zone	Text		
+414239	New Zealand Exclusive Economic Zone	Text		
+513347	New Zealand Exclusive Economic Zone	Text		
+414198	New Zealand Exclusive Economic Zone	Text		
+414199	New Zealand Exclusive Economic Zone	Text		
+513338	New Zealand Exclusive Economic Zone	Text		
+513329	New Zealand Exclusive Economic Zone	Text		
+414197	New Zealand Exclusive Economic Zone	Text		
+414244	New Zealand Exclusive Economic Zone	Text		
+414224	New Zealand Exclusive Economic Zone	Text		
+216205	New Zealand Exclusive Economic Zone	Text		
+513033	New Zealand Exclusive Economic Zone	Text		
+414192	New Zealand Exclusive Economic Zone	Text		
+414225	New Zealand Exclusive Economic Zone	Text		
+414226	New Zealand Exclusive Economic Zone	Text		
+212461	New Zealand Exclusive Economic Zone	Text		
+124353	New Zealand Exclusive Economic Zone	Text		
+414237	New Zealand Exclusive Economic Zone	Text		
+213383	New Zealand Exclusive Economic Zone	Text		
+513116	New Zealand Exclusive Economic Zone	Text		
+414211	New Zealand Exclusive Economic Zone	Text		
+160784	New Zealand Exclusive Economic Zone	Text		
+414207	New Zealand Exclusive Economic Zone	Text		
+414232	New Zealand Exclusive Economic Zone	Text		
+414216	New Zealand Exclusive Economic Zone	Text		
+414191	New Zealand Exclusive Economic Zone	Text		
+414248	New Zealand Exclusive Economic Zone	Text		
+414214	New Zealand Exclusive Economic Zone	Text		
+414240	New Zealand Exclusive Economic Zone	Text		
+414212	New Zealand Exclusive Economic Zone	Text		
+512988	New Zealand Exclusive Economic Zone	Text		
+456755	New Zealand Exclusive Economic Zone	Text		
+414208	New Zealand Exclusive Economic Zone	Text		
+456763	New Zealand Exclusive Economic Zone	Text		
+513032	New Zealand Exclusive Economic Zone	Text		
+160788	Chilean Exclusive Economic Zone	Text		
+160759	Chilean Exclusive Economic Zone	Text		
+160762	Chilean Exclusive Economic Zone	Text		
+160786	Chilean Exclusive Economic Zone	Text		
+160798	Chilean Exclusive Economic Zone	Text		
+160798	Chilean Exclusive Economic Zone	Text		
+160798	Chilean Exclusive Economic Zone	Text		
+160798	Chilean Exclusive Economic Zone	Text		
+160798	Chilean Exclusive Economic Zone	Text		
+160796	Chilean Exclusive Economic Zone	Text		
+160822	Chilean Exclusive Economic Zone	Text		
+160822	Chilean Exclusive Economic Zone	Text		
+160822	Chilean Exclusive Economic Zone	Text		
+160816	Chilean Exclusive Economic Zone	Text		
+160809	Chilean Exclusive Economic Zone	Text		
+160832	Chilean Exclusive Economic Zone	Text		
+160835	Argentinean Exclusive Economic Zone	Text		
+160811	Argentinean Exclusive Economic Zone	Text		
+160802	Argentinean Exclusive Economic Zone	Text		
+160802	Argentinean Exclusive Economic Zone	Text		
+160760	Argentinean Exclusive Economic Zone	Text		
+160788	Argentinean Exclusive Economic Zone	Text		
+160788	Argentinean Exclusive Economic Zone	Text		
+160787	Argentinean Exclusive Economic Zone	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160789	Antarctic 200NM zone beyond the coastline 	Text		
+160791	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160793	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160759	Antarctic 200NM zone beyond the coastline 	Text		
+160759	Antarctic 200NM zone beyond the coastline 	Text		
+160759	Antarctic 200NM zone beyond the coastline 	Text		
+160759	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160762	Antarctic 200NM zone beyond the coastline 	Text		
+160764	Antarctic 200NM zone beyond the coastline 	Text		
+160764	Antarctic 200NM zone beyond the coastline 	Text		
+160764	Antarctic 200NM zone beyond the coastline 	Text		
+160764	Antarctic 200NM zone beyond the coastline 	Text		
+160764	Antarctic 200NM zone beyond the coastline 	Text		
+160764	Antarctic 200NM zone beyond the coastline 	Text		
+160764	Antarctic 200NM zone beyond the coastline 	Text		
+160765	Antarctic 200NM zone beyond the coastline 	Text		
+160765	Antarctic 200NM zone beyond the coastline 	Text		
+160765	Antarctic 200NM zone beyond the coastline 	Text		
+160765	Antarctic 200NM zone beyond the coastline 	Text		
+160765	Antarctic 200NM zone beyond the coastline 	Text		
+160765	Antarctic 200NM zone beyond the coastline 	Text		
+160768	Antarctic 200NM zone beyond the coastline 	Text		
+160768	Antarctic 200NM zone beyond the coastline 	Text		
+160768	Antarctic 200NM zone beyond the coastline 	Text		
+160768	Antarctic 200NM zone beyond the coastline 	Text		
+160766	Antarctic 200NM zone beyond the coastline 	Text		
+160766	Antarctic 200NM zone beyond the coastline 	Text		
+160766	Antarctic 200NM zone beyond the coastline 	Text		
+160766	Antarctic 200NM zone beyond the coastline 	Text		
+160766	Antarctic 200NM zone beyond the coastline 	Text		
+160766	Antarctic 200NM zone beyond the coastline 	Text		
+160766	Antarctic 200NM zone beyond the coastline 	Text		
+160766	Antarctic 200NM zone beyond the coastline 	Text		
+160766	Antarctic 200NM zone beyond the coastline 	Text		
+160766	Antarctic 200NM zone beyond the coastline 	Text		
+160768	Antarctic 200NM zone beyond the coastline 	Text		
+160768	Antarctic 200NM zone beyond the coastline 	Text		
+160768	Antarctic 200NM zone beyond the coastline 	Text		
+160768	Antarctic 200NM zone beyond the coastline 	Text		
+160768	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160770	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160769	Antarctic 200NM zone beyond the coastline 	Text		
+160771	Antarctic 200NM zone beyond the coastline 	Text		
+160771	Antarctic 200NM zone beyond the coastline 	Text		
+160771	Antarctic 200NM zone beyond the coastline 	Text		
+160771	Antarctic 200NM zone beyond the coastline 	Text		
+160771	Antarctic 200NM zone beyond the coastline 	Text		
+160771	Antarctic 200NM zone beyond the coastline 	Text		
+160771	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160774	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160784	Antarctic 200NM zone beyond the coastline 	Text		
+160783	Antarctic 200NM zone beyond the coastline 	Text		
+160783	Antarctic 200NM zone beyond the coastline 	Text		
+160782	Antarctic 200NM zone beyond the coastline 	Text		
+160782	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160781	Antarctic 200NM zone beyond the coastline 	Text		
+160779	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160780	Antarctic 200NM zone beyond the coastline 	Text		
+160776	Antarctic 200NM zone beyond the coastline 	Text		
+160776	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160778	Antarctic 200NM zone beyond the coastline 	Text		
+160772	Antarctic 200NM zone beyond the coastline 	Text		
+160772	Antarctic 200NM zone beyond the coastline 	Text		
+160775	Antarctic 200NM zone beyond the coastline 	Text		
+160775	Antarctic 200NM zone beyond the coastline 	Text		
+160775	Antarctic 200NM zone beyond the coastline 	Text		
+160775	Antarctic 200NM zone beyond the coastline 	Text		
+160775	Antarctic 200NM zone beyond the coastline 	Text		
+160775	Antarctic 200NM zone beyond the coastline 	Text		
+160775	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160777	Antarctic 200NM zone beyond the coastline 	Text		
+160801	Antarctic 200NM zone beyond the coastline 	Text		
+160801	Antarctic 200NM zone beyond the coastline 	Text		
+160801	Antarctic 200NM zone beyond the coastline 	Text		
+160801	Antarctic 200NM zone beyond the coastline 	Text		
+160802	Antarctic 200NM zone beyond the coastline 	Text		
+160802	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160800	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160796	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160798	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160797	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160799	Antarctic 200NM zone beyond the coastline 	Text		
+160804	Antarctic 200NM zone beyond the coastline 	Text		
+160805	Antarctic 200NM zone beyond the coastline 	Text		
+160805	Antarctic 200NM zone beyond the coastline 	Text		
+160805	Antarctic 200NM zone beyond the coastline 	Text		
+160805	Antarctic 200NM zone beyond the coastline 	Text		
+160806	Antarctic 200NM zone beyond the coastline 	Text		
+160806	Antarctic 200NM zone beyond the coastline 	Text		
+160807	Antarctic 200NM zone beyond the coastline 	Text		
+160811	Antarctic 200NM zone beyond the coastline 	Text		
+160811	Antarctic 200NM zone beyond the coastline 	Text		
+160811	Antarctic 200NM zone beyond the coastline 	Text		
+160811	Antarctic 200NM zone beyond the coastline 	Text		
+160811	Antarctic 200NM zone beyond the coastline 	Text		
+160811	Antarctic 200NM zone beyond the coastline 	Text		
+160811	Antarctic 200NM zone beyond the coastline 	Text		
+160811	Antarctic 200NM zone beyond the coastline 	Text		
+160810	Antarctic 200NM zone beyond the coastline 	Text		
+160810	Antarctic 200NM zone beyond the coastline 	Text		
+160810	Antarctic 200NM zone beyond the coastline 	Text		
+160810	Antarctic 200NM zone beyond the coastline 	Text		
+160810	Antarctic 200NM zone beyond the coastline 	Text		
+160810	Antarctic 200NM zone beyond the coastline 	Text		
+160810	Antarctic 200NM zone beyond the coastline 	Text		
+160810	Antarctic 200NM zone beyond the coastline 	Text		
+160810	Antarctic 200NM zone beyond the coastline 	Text		
+160810	Antarctic 200NM zone beyond the coastline 	Text		
+160810	Antarctic 200NM zone beyond the coastline 	Text		
+160810	Antarctic 200NM zone beyond the coastline 	Text		
+160810	Antarctic 200NM zone beyond the coastline 	Text		
+160811	Antarctic 200NM zone beyond the coastline 	Text		
+160811	Antarctic 200NM zone beyond the coastline 	Text		
+160811	Antarctic 200NM zone beyond the coastline 	Text		
+160811	Antarctic 200NM zone beyond the coastline 	Text		
+160816	Antarctic 200NM zone beyond the coastline 	Text		
+160816	Antarctic 200NM zone beyond the coastline 	Text		
+160817	Antarctic 200NM zone beyond the coastline 	Text		
+160817	Antarctic 200NM zone beyond the coastline 	Text		
+160817	Antarctic 200NM zone beyond the coastline 	Text		
+160817	Antarctic 200NM zone beyond the coastline 	Text		
+160815	Antarctic 200NM zone beyond the coastline 	Text		
+160815	Antarctic 200NM zone beyond the coastline 	Text		
+160815	Antarctic 200NM zone beyond the coastline 	Text		
+160815	Antarctic 200NM zone beyond the coastline 	Text		
+160815	Antarctic 200NM zone beyond the coastline 	Text		
+160815	Antarctic 200NM zone beyond the coastline 	Text		
+160815	Antarctic 200NM zone beyond the coastline 	Text		
+160815	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160814	Antarctic 200NM zone beyond the coastline 	Text		
+160812	Antarctic 200NM zone beyond the coastline 	Text		
+160812	Antarctic 200NM zone beyond the coastline 	Text		
+160812	Antarctic 200NM zone beyond the coastline 	Text		
+160812	Antarctic 200NM zone beyond the coastline 	Text		
+160812	Antarctic 200NM zone beyond the coastline 	Text		
+160812	Antarctic 200NM zone beyond the coastline 	Text		
+160812	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160813	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160821	Antarctic 200NM zone beyond the coastline 	Text		
+160821	Antarctic 200NM zone beyond the coastline 	Text		
+160821	Antarctic 200NM zone beyond the coastline 	Text		
+160821	Antarctic 200NM zone beyond the coastline 	Text		
+160820	Antarctic 200NM zone beyond the coastline 	Text		
+160820	Antarctic 200NM zone beyond the coastline 	Text		
+160820	Antarctic 200NM zone beyond the coastline 	Text		
+160820	Antarctic 200NM zone beyond the coastline 	Text		
+160819	Antarctic 200NM zone beyond the coastline 	Text		
+160819	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160825	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160829	Antarctic 200NM zone beyond the coastline 	Text		
+160829	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+160828	Antarctic 200NM zone beyond the coastline 	Text		
+124360	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+160831	Antarctic 200NM zone beyond the coastline 	Text		
+597545	Cocos Islands	Text		
+456724	Norfolk Island	Text		
+513111	Norfolk Island	Text		
+214457	Reunion	Text		
+212465	Reunion	Text		
+213575	Reunion	Text		
+213429	Reunion	Text		
+212453	Mauritius	Text		
+212449	Mauritius	Text		
+212440	Mauritius	Text		
+212440	Mauritius	Text		
+214465	Mauritius	Text		
+212465	Mauritius	Text		
+212444	Mauritius	Text		
+179629	Mauritius	Text		
+214642	Mauritius	Text		
+214457	Mauritius	Text		
+212445	Mauritius	Text		
+213369	Mauritius	Text		
+213386	Mauritius	Text		
+213383	Mauritius	Text		
+213383	Mauritius	Text		
+213383	Mauritius	Text		
+213383	Mauritius	Text		
+224193	Mauritius	Text		
+213372	Mauritius	Text		
+213375	Mauritius	Text		
+213372	Mauritius	Text		
+213575	Mauritius	Text		
+213578	Mauritius	Text		
+213575	Chagos	Text		
+124380	Chagos	Text		
+213380	Chagos	Text		
+213383	Chagos	Text		
+213377	Chagos	Text		
+213384	Chagos	Text		
+213384	Chagos	Text		
+212461	Chagos	Text		
+213377	Chagos	Text		
+213378	Chagos	Text		
+213369	Chagos	Text		
+212438	Chagos	Text		
+212438	Chagos	Text		
+212453	Chagos	Text		
+124380	Santa Helena	Text		
+124364	Ascensión	Text		
+226069	Tristan da Cunha	Text		
+124423	Congo	Text		
+422490	Cuba	Text		
+124268	Cuba	Text		
+158065	Cuba	Text		
+367846	Cuba	Text		
+158067	Cuba	Text		
+422502	Cuba	Text		
+367850	Cuba	Text		
+422489	Cuba	Text		
+422511	Cuba	Text		
+124253	Cuba	Text		
+422499	Cuba	Text		
+367962	Cuba	Text		
+124380	Cuba	Text		
+422486	Cuba	Text		
+158058	Cuba	Text		
+124332	Cuba	Text		
+213380	Cuba	Text		
+422493	Cuba	Text		
+212461	Cuba	Text		
+396741	Cuba	Text		
+422501	Cuba	Text		
+124252	Cuba	Text		
+422490	Haiti	Text		
+124330	Haiti	Text		
+124343	Haiti	Text		
+367846	Haiti	Text		
+367850	Haiti	Text		
+422488	Haiti	Text		
+422489	Haiti	Text		
+226068	Haiti	Text		
+124364	Haiti	Text		
+212461	Haiti	Text		
+213380	Haiti	Text		
+422493	Haiti	Text		
+396741	Haiti	Text		
+124332	Haiti	Text		
+422496	Haiti	Text		
+367962	Haiti	Text		
+124380	Haiti	Text		
+422486	Dominican Republic	Text		
+124380	Dominican Republic	Text		
+422510	Dominican Republic	Text		
+124331	Dominican Republic	Text		
+513159	Dominican Republic	Text		
+422494	Dominican Republic	Text		
+422495	Dominican Republic	Text		
+422499	Dominican Republic	Text		
+367962	Dominican Republic	Text		
+513185	Dominican Republic	Text		
+513202	Dominican Republic	Text		
+422504	Dominican Republic	Text		
+422516	Dominican Republic	Text		
+158058	Dominican Republic	Text		
+124329	Dominican Republic	Text		
+149880	Dominican Republic	Text		
+422485	Dominican Republic	Text		
+124332	Dominican Republic	Text		
+396741	Dominican Republic	Text		
+422493	Dominican Republic	Text		
+213380	Dominican Republic	Text		
+212461	Dominican Republic	Text		
+367850	Dominican Republic	Text		
+422489	Dominican Republic	Text		
+422502	Dominican Republic	Text		
+422507	Dominican Republic	Text		
+422488	Dominican Republic	Text		
+158065	Dominican Republic	Text		
+367846	Dominican Republic	Text		
+158067	Dominican Republic	Text		
+422511	Dominican Republic	Text		
+513059	Dominican Republic	Text		
+124368	Dominican Republic	Text		
+124426	Dominican Republic	Text		
+422484	Dominican Republic	Text		
+422490	Dominican Republic	Text		
+422483	Dominican Republic	Text		
+124332	Puerto Rico	Text		
+124332	Puerto Rico	Text		
+422795	Puerto Rico	Text		
+396741	Puerto Rico	Text		
+213380	Puerto Rico	Text		
+422493	Puerto Rico	Text		
+422493	Puerto Rico	Text		
+422802	Puerto Rico	Text		
+212461	Puerto Rico	Text		
+124380	Puerto Rico	Text		
+422510	Puerto Rico	Text		
+422486	Puerto Rico	Text		
+422486	Puerto Rico	Text		
+513159	Puerto Rico	Text		
+367962	Puerto Rico	Text		
+367962	Puerto Rico	Text		
+422499	Puerto Rico	Text		
+158067	Puerto Rico	Text		
+158067	Puerto Rico	Text		
+158065	Puerto Rico	Text		
+367846	Puerto Rico	Text		
+158065	Puerto Rico	Text		
+422804	Puerto Rico	Text		
+422799	Puerto Rico	Text		
+367850	Puerto Rico	Text		
+422502	Puerto Rico	Text		
+422502	Puerto Rico	Text		
+422511	Puerto Rico	Text		
+422511	Puerto Rico	Text		
+422490	Puerto Rico	Text		
+422490	Puerto Rico	Text		
+124316	West Coast of Ireland	Text		
+124316	South Coast of Ireland	Text		
+513202	Belize	Text		
+367962	Belize	Text		
+422499	Belize	Text		
+422480	Belize	Text		
+513159	Belize	Text		
+422510	Belize	Text		
+124380	Belize	Text		
+124349	Belize	Text		
+124329	Belize	Text		
+158058	Belize	Text		
+422516	Belize	Text		
+124332	Belize	Text		
+513255	Belize	Text		
+396741	Belize	Text		
+212461	Belize	Text		
+422493	Belize	Text		
+213380	Belize	Text		
+422511	Belize	Text		
+422489	Belize	Text		
+422488	Belize	Text		
+367850	Belize	Text		
+422502	Belize	Text		
+158067	Belize	Text		
+367846	Belize	Text		
+422490	Belize	Text		
+422511	Jamaica	Text		
+367846	Jamaica	Text		
+367850	Jamaica	Text		
+158065	Jamaica	Text		
+422502	Jamaica	Text		
+422486	Jamaica	Text		
+367962	Jamaica	Text		
+422499	Jamaica	Text		
+396741	Jamaica	Text		
+213380	Jamaica	Text		
+513215	FAO fishing area 67	Text		
+124427	French Exclusive Economic Zone [Mediterranean part]	Text		
+124318	French Exclusive Economic Zone [Mediterranean part]	Text		
+124316	French Exclusive Economic Zone [Mediterranean part]	Text		
+124400	French Exclusive Economic Zone [Mediterranean part]	Text		
+124394	French Exclusive Economic Zone [Mediterranean part]	Text		
+124273	French Exclusive Economic Zone [Mediterranean part]	Text		
+124392	French Exclusive Economic Zone [Mediterranean part]	Text		
+124373	French Exclusive Economic Zone [Mediterranean part]	Text		
+124380	French Exclusive Economic Zone [Mediterranean part]	Text		
+124373	French Exclusive Economic Zone [Atlantic part]	Text		
+124392	French Exclusive Economic Zone [Atlantic part]	Text		
+124273	French Exclusive Economic Zone [Atlantic part]	Text		
+124273	French Exclusive Economic Zone [Atlantic part]	Text		
+124394	French Exclusive Economic Zone [Atlantic part]	Text		
+124316	French Exclusive Economic Zone [Atlantic part]	Text		
+124319	French Exclusive Economic Zone [Atlantic part]	Text		
+124427	French Exclusive Economic Zone [Atlantic part]	Text		
+124418	French Exclusive Economic Zone [Atlantic part]	Text		
+124418	French Exclusive Economic Zone [Atlantic part]	Text		
+124321	Canadian Exclusive Economic Zone [Arctic part]	Text		
+124321	Canadian Exclusive Economic Zone [Arctic part]	Text		
+567100	Ryukyu Islands	Text		
+124268	Antilles Sea	Text		
+124380	Antilles Sea	Text		
+730898	Mississippi	Text		
+559335	North Carolina	Text		
+158062	Gulf of Maine	Text		
+124257	Gulf of Maine	Text		
+124321	Gulf of Maine	Text		
+124404	Florida	Text		
+124268	Florida	Text		
+124267	Florida	Text		
+456763	Sagami Bay	Text		
+212466	Aldabra	Text		
+212465	Aldabra	Text		
+212465	Aldabra	Text		
+212463	Aldabra	Text		
+212463	Aldabra	Text		
+212465	Aldabra	Text		
+214465	Aldabra	Text		
+214465	Aldabra	Text		
+179611	Aldabra	Text		
+179611	Aldabra	Text		
+212438	Aldabra	Text		
+212438	Aldabra	Text		
+214642	Aldabra	Text		
+214642	Aldabra	Text		
+214662	Aldabra	Text		
+212445	Aldabra	Text		
+214665	Aldabra	Text		
+212440	Aldabra	Text		
+212440	Aldabra	Text		
+212449	Aldabra	Text		
+212449	Aldabra	Text		
+214669	Aldabra	Text		
+212440	Aldabra	Text		
+212453	Aldabra	Text		
+212453	Aldabra	Text		
+212453	Aldabra	Text		
+213362	Aldabra	Text		
+213362	Aldabra	Text		
+213361	Aldabra	Text		
+213361	Aldabra	Text		
+213575	Aldabra	Text		
+213575	Aldabra	Text		
+213370	Aldabra	Text		
+213370	Aldabra	Text		
+213372	Aldabra	Text		
+213375	Aldabra	Text		
+214480	Aldabra	Text		
+214479	Aldabra	Text		
+214479	Aldabra	Text		
+213378	Aldabra	Text		
+213377	Aldabra	Text		
+213384	Aldabra	Text		
+213384	Aldabra	Text		
+213377	Aldabra	Text		
+212461	Aldabra	Text		
+212461	Aldabra	Text		
+212461	Aldabra	Text		
+213383	Aldabra	Text		
+213383	Aldabra	Text		
+214647	Aldabra	Text		
+513239	Aldabra	Text		
+214477	Aldabra	Text		
+214478	Aldabra	Text		
+214477	Aldabra	Text		
+213369	Aldabra	Text		
+213369	Aldabra	Text		
+213386	Aldabra	Text		
+213386	Aldabra	Text		
+213386	Aldabra	Text		
+212457	Cargados Carajos	Text		
+214465	Cargados Carajos	Text		
+212438	Cargados Carajos	Text		
+212445	Cargados Carajos	Text		
+213370	Cargados Carajos	Text		
+213380	Cargados Carajos	Text		
+731162	São Tomé	Text		
+124252	Santa Clara	Text		
+124249	Atlantic Europe	Text		
+124321	Atlantic Europe	Text		
+212440	East Africa	Text		
+214656	East Africa	Text		
+214479	East Africa	Text		
+212453	Eastern Africa & Madagascar	Text		
+212449	Eastern Africa & Madagascar	Text		
+214669	Eastern Africa & Madagascar	Text		
+214667	Eastern Africa & Madagascar	Text		
+214667	Eastern Africa & Madagascar	Text		
+212440	Eastern Africa & Madagascar	Text		
+212468	Eastern Africa & Madagascar	Text		
+212464	Eastern Africa & Madagascar	Text		
+212463	Eastern Africa & Madagascar	Text		
+212465	Eastern Africa & Madagascar	Text		
+212443	Eastern Africa & Madagascar	Text		
+214465	Eastern Africa & Madagascar	Text		
+212454	Eastern Africa & Madagascar	Text		
+214656	Eastern Africa & Madagascar	Text		
+214657	Eastern Africa & Madagascar	Text		
+214656	Eastern Africa & Madagascar	Text		
+212438	Eastern Africa & Madagascar	Text		
+179611	Eastern Africa & Madagascar	Text		
+212445	Eastern Africa & Madagascar	Text		
+214665	Eastern Africa & Madagascar	Text		
+214662	Eastern Africa & Madagascar	Text		
+214457	Eastern Africa & Madagascar	Text		
+179629	Eastern Africa & Madagascar	Text		
+214642	Eastern Africa & Madagascar	Text		
+213386	Eastern Africa & Madagascar	Text		
+213111	Eastern Africa & Madagascar	Text		
+213369	Eastern Africa & Madagascar	Text		
+214477	Eastern Africa & Madagascar	Text		
+213378	Eastern Africa & Madagascar	Text		
+213384	Eastern Africa & Madagascar	Text		
+213377	Eastern Africa & Madagascar	Text		
+213383	Eastern Africa & Madagascar	Text		
+212461	Eastern Africa & Madagascar	Text		
+212459	Eastern Africa & Madagascar	Text		
+212459	Eastern Africa & Madagascar	Text		
+212460	Eastern Africa & Madagascar	Text		
+212460	Eastern Africa & Madagascar	Text		
+213372	Eastern Africa & Madagascar	Text		
+214603	Eastern Africa & Madagascar	Text		
+214604	Eastern Africa & Madagascar	Text		
+213375	Eastern Africa & Madagascar	Text		
+213372	Eastern Africa & Madagascar	Text		
+214479	Eastern Africa & Madagascar	Text		
+213370	Eastern Africa & Madagascar	Text		
+213575	Eastern Africa & Madagascar	Text		
+213362	Eastern Africa & Madagascar	Text		
+213365	Eastern Africa & Madagascar	Text		
+213365	Eastern Africa & Madagascar	Text		
+213364	Eastern Africa & Madagascar	Text		
+213364	Eastern Africa & Madagascar	Text		
+213361	Eastern Africa & Madagascar	Text		
+124250	North West Africa	Text		
+422514	Tropical West Atlantic	Text		
+160831	Terra Nova Bay	Text		
+160769	Terra Nova Bay	Text		
+160765	Terra Nova Bay	Text		
+160784	Balleny Islands	Text		
+160800	Balleny Islands	Text		
+160796	Balleny Islands	Text		
+160831	Balleny Islands	Text		
+160814	Balleny Islands	Text		
+160828	Balleny Islands	Text		
+738300	England	Text		
+738299	England	Text		
+738299	France	Text		
+738300	France	Text		
+765982	France	Text		
+574643	France	Text		
+124392	Zeeland	Text		
+124319	Oostende	Text		
+124392	Oostende	Text		
+124319	De Haan	Text		
+124392	De Haan	Text		
+124392	De Haan	Text		
+124319	Nieuwpoort	Text		
+124392	Koksijde	Text		
+124273	Koksijde	Text		
+124392	De Panne	Text		
+124392	De Panne	Text		
+124273	De Panne	Text		
+124319	De Panne	Text		
+124319	De Panne	Text		
+124392	Calais	Text		
+124273	Calais	Text		
+124418	Calais	Text		
+124319	Calais	Text		
+124392	Wimereux	Text		
+124392	Wimereux	Text		
+124273	Wimereux	Text		
+124418	Wimereux	Text		
+124319	Wimereux	Text		
+456759	Indian Ocean	Text		
+160792	Indian Ocean	Text		
+723368	Indian Ocean	Text		
+160801	Indian Ocean	Text		
+160803	Indian Ocean	Text		
+160805	Indian Ocean	Text		
+160807	Indian Ocean	Text		
+160807	Indian Ocean	Text		
+160806	Indian Ocean	Text		
+124360	Indian Ocean	Text		
+160826	Indian Ocean	Text		
+160828	Indian Ocean	Text		
+124268	Mediterranean Sea	Text		
+124254	Mediterranean Sea	Text		
+124316	Mediterranean Sea	Text		
+124316	Mediterranean Sea	Text		
+124318	Mediterranean Sea	Text		
+124318	Mediterranean Sea	Text		
+124418	Mediterranean Sea	Text		
+124418	Mediterranean Sea	Text		
+124419	Mediterranean Sea	Text		
+124427	Mediterranean Sea	Text		
+124427	Mediterranean Sea	Text		
+124427	Mediterranean Sea	Text		
+124249	Mediterranean Sea	Text		
+124249	Mediterranean Sea	Text		
+124373	Mediterranean Sea	Text		
+124380	Mediterranean Sea	Text		
+124331	Mediterranean Sea	Text		
+124257	Mediterranean Sea	Text		
+124392	Mediterranean Sea	Text		
+124393	Mediterranean Sea	Text		
+124394	Mediterranean Sea	Text		
+124394	Mediterranean Sea	Text		
+124399	Mediterranean Sea	Text		
+124400	Mediterranean Sea	Text		
+124402	Mediterranean Sea	Text		
+124273	Mediterranean Sea	Text		
+124273	Mediterranean Sea	Text		
+124294	Mediterranean Sea	Text		
+124423	Mediterranean Sea	Text		
+124324	Arctic Ocean	Text		
+124321	Arctic Ocean	Text		
+160790	Antarctic Ocean	Text		
+160790	Antarctic Ocean	Text		
+160790	Antarctic Ocean	Text		
+160790	Antarctic Ocean	Text		
+160787	Antarctic Ocean	Text		
+160787	Antarctic Ocean	Text		
+160793	Antarctic Ocean	Text		
+160786	Antarctic Ocean	Text		
+160786	Antarctic Ocean	Text		
+160778	Antarctic Ocean	Text		
+160781	Antarctic Ocean	Text		
+160781	Antarctic Ocean	Text		
+160769	Antarctic Ocean	Text		
+160769	Antarctic Ocean	Text		
+160773	Antarctic Ocean	Text		
+160773	Antarctic Ocean	Text		
+160773	Antarctic Ocean	Text		
+160759	Antarctic Ocean	Text		
+160759	Antarctic Ocean	Text		
+160762	Antarctic Ocean	Text		
+160762	Antarctic Ocean	Text		
+160762	Antarctic Ocean	Text		
+160762	Antarctic Ocean	Text		
+160762	Antarctic Ocean	Text		
+160762	Antarctic Ocean	Text		
+160762	Antarctic Ocean	Text		
+160762	Antarctic Ocean	Text		
+160763	Antarctic Ocean	Text		
+160763	Antarctic Ocean	Text		
+160763	Antarctic Ocean	Text		
+160763	Antarctic Ocean	Text		
+160763	Antarctic Ocean	Text		
+160763	Antarctic Ocean	Text		
+160764	Antarctic Ocean	Text		
+160763	Antarctic Ocean	Text		
+160765	Antarctic Ocean	Text		
+160799	Antarctic Ocean	Text		
+160799	Antarctic Ocean	Text		
+160799	Antarctic Ocean	Text		
+160799	Antarctic Ocean	Text		
+160796	Antarctic Ocean	Text		
+160796	Antarctic Ocean	Text		
+160831	Antarctic Ocean	Text		
+160831	Antarctic Ocean	Text		
+160831	Antarctic Ocean	Text		
+160831	Antarctic Ocean	Text		
+160831	Antarctic Ocean	Text		
+160831	Antarctic Ocean	Text		
+160831	Antarctic Ocean	Text		
+160831	Antarctic Ocean	Text		
+160831	Antarctic Ocean	Text		
+160830	Antarctic Ocean	Text		
+160830	Antarctic Ocean	Text		
+160830	Antarctic Ocean	Text		
+160830	Antarctic Ocean	Text		
+160830	Antarctic Ocean	Text		
+160831	Antarctic Ocean	Text		
+160831	Antarctic Ocean	Text		
+160835	Antarctic Ocean	Text		
+160822	Antarctic Ocean	Text		
+160822	Antarctic Ocean	Text		
+160828	Antarctic Ocean	Text		
+160828	Antarctic Ocean	Text		
+160828	Antarctic Ocean	Text		
+160809	Antarctic Ocean	Text		
+160816	Southern Ocean	Text		
+160816	Southern Ocean	Text		
+160816	Southern Ocean	Text		
+160816	Southern Ocean	Text		
+160816	Southern Ocean	Text		
+160816	Southern Ocean	Text		
+160816	Southern Ocean	Text		
+160816	Southern Ocean	Text		
+160816	Southern Ocean	Text		
+160812	Southern Ocean	Text		
+160814	Southern Ocean	Text		
+160814	Southern Ocean	Text		
+160811	Southern Ocean	Text		
+160811	Southern Ocean	Text		
+160811	Southern Ocean	Text		
+160811	Southern Ocean	Text		
+160828	Southern Ocean	Text		
+160828	Southern Ocean	Text		
+160825	Southern Ocean	Text		
+160784	Southern Ocean	Text		
+160784	Southern Ocean	Text		
+160784	Southern Ocean	Text		
+160784	Southern Ocean	Text		
+160807	Southern Ocean	Text		
+160802	Southern Ocean	Text		
+160796	Southern Ocean	Text		
+160796	Southern Ocean	Text		
+160796	Southern Ocean	Text		
+513215	North Pacific	Text		
+124324	North Pacific	Text		
+124321	North Pacific	Text		
+160822	South Pacific	Text		
+160820	South Pacific	Text		
+160820	South Pacific	Text		
+160820	South Pacific	Text		
+160826	South Pacific	Text		
+160816	South Pacific	Text		
+160816	South Pacific	Text		
+160801	South Pacific	Text		
+160801	South Pacific	Text		
+160785	South Pacific	Text		
+160784	South Pacific	Text		
+160792	South Pacific	Text		
+160788	South Atlantic	Text		
+160784	South Atlantic	Text		
+160805	South Atlantic	Text		
+160805	South Atlantic	Text		
+160811	South Atlantic	Text		
+160820	South Atlantic	Text		
+160820	South Atlantic	Text		
+746381	Lebanon	Text		
+746332	Lebanon	Text		
+731162	Ghana	Text		
+213575	Kenya	Text		
+213370	Kenya	Text		
+213370	Kenya	Text		
+213370	Kenya	Text		
+213365	Kenya	Text		
+213361	Kenya	Text		
+213372	Kenya	Text		
+213372	Kenya	Text		
+213375	Kenya	Text		
+213375	Kenya	Text		
+213372	Kenya	Text		
+213386	Kenya	Text		
+213369	Kenya	Text		
+213369	Kenya	Text		
+213384	Kenya	Text		
+213377	Kenya	Text		
+213384	Kenya	Text		
+213384	Kenya	Text		
+213377	Kenya	Text		
+213377	Kenya	Text		
+213378	Kenya	Text		
+213378	Kenya	Text		
+213378	Kenya	Text		
+212461	Kenya	Text		
+213383	Kenya	Text		
+213383	Kenya	Text		
+213383	Kenya	Text		
+213383	Kenya	Text		
+212460	Kenya	Text		
+212460	Kenya	Text		
+212440	Kenya	Text		
+212440	Kenya	Text		
+212440	Kenya	Text		
+212449	Kenya	Text		
+212453	Kenya	Text		
+212453	Kenya	Text		
+212453	Kenya	Text		
+212449	Kenya	Text		
+212438	Kenya	Text		
+179611	Kenya	Text		
+214465	Kenya	Text		
+212443	Kenya	Text		
+212443	Kenya	Text		
+179629	Kenya	Text		
+214642	Kenya	Text		
+214456	Kenya	Text		
+212445	Kenya	Text		
+220659	Kenya	Text		
+746337	Iran	Text		
+746344	Iran	Text		
+746334	Iran	Text		
+746377	Iran	Text		
+456748	Indonesia	Text		
+723370	Indonesia	Text		
+226069	Iceland	Text		
+124319	Iceland	Text		
+124267	Iceland	Text		
+124321	Iceland	Text		
+124353	Iceland	Text		
+124287	Iceland	Text		
+124287	Iceland	Text		
+124273	Iceland	Text		
+124394	Iceland	Text		
+124394	Iceland	Text		
+124338	Iceland	Text		
+124373	Iceland	Text		
+754552	Hungary	Text		
+124249	Italy	Text		
+754551	Italy	Text		
+732973	Italy	Text		
+746347	Brazil	Text		
+754831	Brazil	Text		
+746347	Angola	Text		
+746351	Algeria	Text		
+746366	Algeria	Text		
+746344	Algeria	Text		
+746374	Algeria	Text		
+746375	Algeria	Text		
+746332	Algeria	Text		
+124250	Algeria	Text		
+124423	Algeria	Text		
+124399	Algeria	Text		
+124424	Denmark	Text		
+124353	Denmark	Text		
+396741	Costa Rica	Text		
+212461	Costa Rica	Text		
+422493	Costa Rica	Text		
+213380	Costa Rica	Text		
+124332	Costa Rica	Text		
+124380	Costa Rica	Text		
+124372	Costa Rica	Text		
+513197	Costa Rica	Text		
+367850	Costa Rica	Text		
+422502	Costa Rica	Text		
+367846	Costa Rica	Text		
+158065	Costa Rica	Text		
+422490	Costa Rica	Text		
+212444	Comores	Text		
+124257	Cape Verde	Text		
+124380	Cape Verde	Text		
+124380	Cape Verde	Text		
+124268	Cape Verde	Text		
+124268	Cape Verde	Text		
+124267	Cape Verde	Text		
+124318	Cape Verde	Text		
+124318	Cape Verde	Text		
+124347	Cape Verde	Text		
+124427	Cape Verde	Text		
+124427	Cape Verde	Text		
+746332	Bulgaria	Text		
+124380	Colombia	Text		
+422510	Colombia	Text		
+124372	Colombia	Text		
+422486	Colombia	Text		
+513185	Colombia	Text		
+422495	Colombia	Text		
+422494	Colombia	Text		
+513202	Colombia	Text		
+422497	Colombia	Text		
+422496	Colombia	Text		
+367962	Colombia	Text		
+422499	Colombia	Text		
+422516	Colombia	Text		
+124329	Colombia	Text		
+422485	Colombia	Text		
+149880	Colombia	Text		
+124332	Colombia	Text		
+124270	Colombia	Text		
+212461	Colombia	Text		
+213380	Colombia	Text		
+422493	Colombia	Text		
+513255	Colombia	Text		
+396741	Colombia	Text		
+422514	Colombia	Text		
+422518	Colombia	Text		
+513327	Colombia	Text		
+422507	Colombia	Text		
+422502	Colombia	Text		
+513376	Colombia	Text		
+422489	Colombia	Text		
+367850	Colombia	Text		
+158067	Colombia	Text		
+158065	Colombia	Text		
+367846	Colombia	Text		
+422511	Colombia	Text		
+124343	Colombia	Text		
+513059	Colombia	Text		
+124368	Colombia	Text		
+422521	Colombia	Text		
+124253	Colombia	Text		
+422490	Colombia	Text		
+124426	Colombia	Text		
+422484	Colombia	Text		
+124268	Colombia	Text		
+422483	Colombia	Text		
+212453	South Africa (country)	Text		
+221154	South Africa (country)	Text		
+212440	South Africa (country)	Text		
+213424	South Africa (country)	Text		
+213425	South Africa (country)	Text		
+213427	South Africa (country)	Text		
+224162	South Africa (country)	Text		
+224159	South Africa (country)	Text		
+214650	South Africa (country)	Text		
+214650	South Africa (country)	Text		
+220995	South Africa (country)	Text		
+179629	South Africa (country)	Text		
+124354	South Africa (country)	Text		
+212445	South Africa (country)	Text		
+214662	South Africa (country)	Text		
+214662	South Africa (country)	Text		
+213576	South Africa (country)	Text		
+213576	South Africa (country)	Text		
+214462	South Africa (country)	Text		
+220659	South Africa (country)	Text		
+214645	South Africa (country)	Text		
+212460	South Africa (country)	Text		
+224131	South Africa (country)	Text		
+213383	South Africa (country)	Text		
+224193	South Africa (country)	Text		
+213383	South Africa (country)	Text		
+213377	South Africa (country)	Text		
+213377	South Africa (country)	Text		
+220983	South Africa (country)	Text		
+213384	South Africa (country)	Text		
+213377	South Africa (country)	Text		
+216201	South Africa (country)	Text		
+216205	South Africa (country)	Text		
+221155	South Africa (country)	Text		
+213432	South Africa (country)	Text		
+213375	South Africa (country)	Text		
+124392	South Africa (country)	Text		
+214483	South Africa (country)	Text		
+160803	South Africa (country)	Text		
+160803	South Africa (country)	Text		
+213370	South Africa (country)	Text		
+216206	South Africa (country)	Text		
+214659	South Africa (country)	Text		
+224163	South Africa (country)	Text		
+213365	South Africa (country)	Text		
+213429	South Africa (country)	Text		
+213428	South Africa (country)	Text		
+213364	South Africa (country)	Text		
+213366	South Africa (country)	Text		
+214487	South Africa (country)	Text		
+213577	South Africa (country)	Text		
+213571	South Africa (country)	Text		
+214652	South Africa (country)	Text		
+214652	South Africa (country)	Text		
+754553	Switzerland	Text		
+124287	Sweden	Text		
+124319	Scandinavia	Text		
+746371	Spain	Text		
+746337	Spain	Text		
+212461	Somalia	Text		
+224193	Somalia	Text		
+213383	Somalia	Text		
+213383	Somalia	Text		
+213377	Somalia	Text		
+213378	Somalia	Text		
+213369	Somalia	Text		
+213386	Somalia	Text		
+213386	Somalia	Text		
+212445	Somalia	Text		
+212445	Somalia	Text		
+212443	Somalia	Text		
+212449	Somalia	Text		
+212449	Somalia	Text		
+212440	Somalia	Text		
+212440	Somalia	Text		
+212453	Somalia	Text		
+212453	Somalia	Text		
+212453	Somalia	Text		
+213364	Seychelles	Text		
+213361	Seychelles	Text		
+213362	Seychelles	Text		
+213362	Seychelles	Text		
+213575	Seychelles	Text		
+124380	Seychelles	Text		
+213370	Seychelles	Text		
+213370	Seychelles	Text		
+213370	Seychelles	Text		
+213370	Seychelles	Text		
+214480	Seychelles	Text		
+213375	Seychelles	Text		
+213372	Seychelles	Text		
+213372	Seychelles	Text		
+213369	Seychelles	Text		
+214477	Seychelles	Text		
+214478	Seychelles	Text		
+213386	Seychelles	Text		
+212461	Seychelles	Text		
+213377	Seychelles	Text		
+213384	Seychelles	Text		
+213378	Seychelles	Text		
+213383	Seychelles	Text		
+213383	Seychelles	Text		
+213380	Seychelles	Text		
+213380	Seychelles	Text		
+213380	Seychelles	Text		
+214647	Seychelles	Text		
+212445	Seychelles	Text		
+212445	Seychelles	Text		
+212445	Seychelles	Text		
+214665	Seychelles	Text		
+214642	Seychelles	Text		
+179611	Seychelles	Text		
+212457	Seychelles	Text		
+214657	Seychelles	Text		
+214465	Seychelles	Text		
+214465	Seychelles	Text		
+212465	Seychelles	Text		
+212465	Seychelles	Text		
+212465	Seychelles	Text		
+212463	Seychelles	Text		
+212449	Seychelles	Text		
+212449	Seychelles	Text		
+212449	Seychelles	Text		
+212449	Seychelles	Text		
+212449	Seychelles	Text		
+214669	Seychelles	Text		
+212440	Seychelles	Text		
+212440	Seychelles	Text		
+212453	Seychelles	Text		
+212453	Seychelles	Text		
+158058	Venezuela	Text		
+422510	Venezuela	Text		
+124380	Venezuela	Text		
+422486	Venezuela	Text		
+422497	Venezuela	Text		
+367962	Venezuela	Text		
+422499	Venezuela	Text		
+513181	Venezuela	Text		
+422495	Venezuela	Text		
+513185	Venezuela	Text		
+124332	Venezuela	Text		
+422501	Venezuela	Text		
+513255	Venezuela	Text		
+396741	Venezuela	Text		
+213380	Venezuela	Text		
+422493	Venezuela	Text		
+422502	Venezuela	Text		
+367850	Venezuela	Text		
+158065	Venezuela	Text		
+367846	Venezuela	Text		
+158067	Venezuela	Text		
+214456	Venezuela	Text		
+422521	Venezuela	Text		
+422490	Venezuela	Text		
+212445	Tanzania	Text		
+214642	Tanzania	Text		
+212438	Tanzania	Text		
+179611	Tanzania	Text		
+212454	Tanzania	Text		
+214656	Tanzania	Text		
+214656	Tanzania	Text		
+214465	Tanzania	Text		
+212465	Tanzania	Text		
+212465	Tanzania	Text		
+212465	Tanzania	Text		
+212444	Tanzania	Text		
+212468	Tanzania	Text		
+212443	Tanzania	Text		
+212440	Tanzania	Text		
+212440	Tanzania	Text		
+212440	Tanzania	Text		
+212453	Tanzania	Text		
+213386	Tanzania	Text		
+213369	Tanzania	Text		
+213377	Tanzania	Text		
+213384	Tanzania	Text		
+213384	Tanzania	Text		
+212461	Tanzania	Text		
+213377	Tanzania	Text		
+212461	Tanzania	Text		
+213383	Tanzania	Text		
+212459	Tanzania	Text		
+213380	Tanzania	Text		
+213372	Tanzania	Text		
+213372	Tanzania	Text		
+213365	Tanzania	Text		
+213362	Tanzania	Text		
+213370	Tanzania	Text		
+213370	Tanzania	Text		
+124392	United Kingdom	Text		
+124273	United Kingdom	Text		
+124402	United Kingdom	Text		
+124394	United Kingdom	Text		
+124287	United Kingdom	Text		
+124373	United Kingdom	Text		
+124418	United Kingdom	Text		
+124319	United Kingdom	Text		
+736962	Hawaiian Islands	Text		
+124424	South Iceland	Text		
+124404	South Iceland	Text		
+124347	South Iceland	Text		
+124343	South Iceland	Text		
+124404	West Iceland	Text		
+746371	Texas	Text		
+746353	Texas	Text		
+766173	Texas	Text		
+124350	Bermuda Islands	Text		
+124319	Birkenfels (shipwreck)	Text		
+124312	Cape Stadt Area	Text		
+212453	Watamu	Text		
+212453	Watamu	Text		
+124321	East Britain	Text		
+124316	West England	Text		
+124418	North France	Text		
+738298	West Europe	Text		
+226069	Gough Island	Text		
+124319	Grevelingen	Text		
+124316	South Ireland	Text		
+124316	West Ireland	Text		
+124316	West Ireland	Text		
+124343	West Ireland	Text		
+124419	West Ireland	Text		
+124312	West Ireland	Text		
+124312	West Ireland	Text		
+124257	West Ireland	Text		
+124338	West Ireland	Text		
+124294	Lossini	Text		
+124423	Messina	Text		
+124287	Murmansk Coast	Text		
+124316	Island of Skye	Text		
+124394	Vadso	Text		
+124268	Villefranche-Sur-Mer	Text		
+513250	Kermadec Islands	Text		
+124324	North East Norway	Text		
+513215	North East Pacific	Text		
+124294	North Rona	Text		
+124312	North Unst	Text		
+124316	West Scotland	Text		
+124321	Northern North Pacific	Text		
+124372	Eastern North America	Text		
+124373	Eastern North America	Text		
+124367	Eastern North America	Text		
+124339	Eastern North America	Text		
+124423	Eastern North America	Text		
+124312	Bergen	Text		
+124324	Bergen	Text		
+124372	Lesser Antilles	Text		
+422486	Lesser Antilles	Text		
+422477	Lesser Antilles	Text		
+214456	Lesser Antilles	Text		
+422502	Lesser Antilles	Text		
+124330	Lesser Antilles	Text		
+513046	Aqaba	Text		
+568045	Aqaba	Text		
+513175	Rarotonga	Text		
+513237	Zamboanga City	Text		
+214669	Kisite Marine National Park	Text		
+212453	Kisite Marine National Park	Text		
+124423	Naples	Text		
+124399	Naples	Text		
+124400	Naples	Text		
+124331	Naples	Text		
+124380	Naples	Text		
+124268	Naples	Text		
+179611	Nuweiba	Text		
+513224	Nuweiba	Text		
+124321	Chuki Sea	Text		
+124394	North Cape (Norway)	Text		
+124392	North Cape (Norway)	Text		
+124252	Santa Cruz del Sur	Text		
+456760	Kai Islands	Text		
+456748	Kai Islands	Text		
+513237	Kai Islands	Text		
+212448	Pondichery	Text		
+124321	Cobscook Bay	Text		
+158062	Cobscook Bay	Text		
+124249	Mediterranean Sea	Text		
+731162	Gulf of Guinea	Text		
+723369	Tropical East Pacific	Text		
+160803	Agulhas Bank	Text		
+214645	Agulhas Bank	Text		
+220983	Agulhas Bank	Text		
+124373	Agulhas Bank	Text		
+513202	Agulhas Bank	Text		
+214462	Agulhas Bank	Text		
+220996	Agulhas Bank	Text		
+160803	Amsterdam-St Paul	Text		
+160800	Amundsen/Bellingshausen Sea	Text		
+160799	Amundsen/Bellingshausen Sea	Text		
+160796	Amundsen/Bellingshausen Sea	Text		
+160765	Amundsen/Bellingshausen Sea	Text		
+160783	Amundsen/Bellingshausen Sea	Text		
+160778	Amundsen/Bellingshausen Sea	Text		
+160774	Amundsen/Bellingshausen Sea	Text		
+160775	Amundsen/Bellingshausen Sea	Text		
+160817	Amundsen/Bellingshausen Sea	Text		
+160820	Amundsen/Bellingshausen Sea	Text		
+160821	Amundsen/Bellingshausen Sea	Text		
+160828	Amundsen/Bellingshausen Sea	Text		
+160816	Amundsen/Bellingshausen Sea	Text		
+160812	Amundsen/Bellingshausen Sea	Text		
+160813	Amundsen/Bellingshausen Sea	Text		
+160810	Amundsen/Bellingshausen Sea	Text		
+160831	Amundsen/Bellingshausen Sea	Text		
+160829	Amundsen/Bellingshausen Sea	Text		
+160829	East Antarctic Wilkes Land	Text		
+160831	East Antarctic Wilkes Land	Text		
+124360	East Antarctic Wilkes Land	Text		
+160810	East Antarctic Wilkes Land	Text		
+160812	East Antarctic Wilkes Land	Text		
+160811	East Antarctic Wilkes Land	Text		
+160813	East Antarctic Wilkes Land	Text		
+160814	East Antarctic Wilkes Land	Text		
+160815	East Antarctic Wilkes Land	Text		
+160816	East Antarctic Wilkes Land	Text		
+160828	East Antarctic Wilkes Land	Text		
+160825	East Antarctic Wilkes Land	Text		
+160821	East Antarctic Wilkes Land	Text		
+160819	East Antarctic Wilkes Land	Text		
+160820	East Antarctic Wilkes Land	Text		
+160775	East Antarctic Wilkes Land	Text		
+160777	East Antarctic Wilkes Land	Text		
+160778	East Antarctic Wilkes Land	Text		
+160774	East Antarctic Wilkes Land	Text		
+160781	East Antarctic Wilkes Land	Text		
+160784	East Antarctic Wilkes Land	Text		
+160764	East Antarctic Wilkes Land	Text		
+160765	East Antarctic Wilkes Land	Text		
+160766	East Antarctic Wilkes Land	Text		
+160768	East Antarctic Wilkes Land	Text		
+160762	East Antarctic Wilkes Land	Text		
+160769	East Antarctic Wilkes Land	Text		
+160770	East Antarctic Wilkes Land	Text		
+160771	East Antarctic Wilkes Land	Text		
+513636	East Antarctic Wilkes Land	Text		
+160793	East Antarctic Wilkes Land	Text		
+160798	East Antarctic Wilkes Land	Text		
+160796	East Antarctic Wilkes Land	Text		
+160799	East Antarctic Wilkes Land	Text		
+160800	East Antarctic Wilkes Land	Text		
+160801	East Antarctic Wilkes Land	Text		
+160805	East Antarctic Wilkes Land	Text		
+160800	Ross Sea	Text		
+160799	Ross Sea	Text		
+160796	Ross Sea	Text		
+160798	Ross Sea	Text		
+160793	Ross Sea	Text		
+160771	Ross Sea	Text		
+160769	Ross Sea	Text		
+160768	Ross Sea	Text		
+160766	Ross Sea	Text		
+160765	Ross Sea	Text		
+160764	Ross Sea	Text		
+160762	Ross Sea	Text		
+160784	Ross Sea	Text		
+160774	Ross Sea	Text		
+160778	Ross Sea	Text		
+414220	Ross Sea	Text		
+160825	Ross Sea	Text		
+160828	Ross Sea	Text		
+160814	Ross Sea	Text		
+160831	Ross Sea	Text		
+160831	Weddell Sea	Text		
+160829	Weddell Sea	Text		
+160812	Weddell Sea	Text		
+160813	Weddell Sea	Text		
+160817	Weddell Sea	Text		
+160810	Weddell Sea	Text		
+160828	Weddell Sea	Text		
+160825	Weddell Sea	Text		
+160819	Weddell Sea	Text		
+160821	Weddell Sea	Text		
+160820	Weddell Sea	Text		
+160777	Weddell Sea	Text		
+160775	Weddell Sea	Text		
+160778	Weddell Sea	Text		
+160773	Weddell Sea	Text		
+160781	Weddell Sea	Text		
+160783	Weddell Sea	Text		
+160780	Weddell Sea	Text		
+160784	Weddell Sea	Text		
+160768	Weddell Sea	Text		
+160759	Weddell Sea	Text		
+160769	Weddell Sea	Text		
+160770	Weddell Sea	Text		
+160774	Weddell Sea	Text		
+513636	Weddell Sea	Text		
+160793	Weddell Sea	Text		
+160789	Weddell Sea	Text		
+160796	Weddell Sea	Text		
+160798	Weddell Sea	Text		
+160799	Weddell Sea	Text		
+160800	Weddell Sea	Text		
+160801	Weddell Sea	Text		
+513214	Weddell Sea	Text		
+160802	Weddell Sea	Text		
+160806	Weddell Sea	Text		
+160800	East Antarctic Dronning Maud Land	Text		
+160796	East Antarctic Dronning Maud Land	Text		
+160798	East Antarctic Dronning Maud Land	Text		
+160789	East Antarctic Dronning Maud Land	Text		
+513636	East Antarctic Dronning Maud Land	Text		
+160793	East Antarctic Dronning Maud Land	Text		
+160770	East Antarctic Dronning Maud Land	Text		
+160772	East Antarctic Dronning Maud Land	Text		
+160775	East Antarctic Dronning Maud Land	Text		
+160825	East Antarctic Dronning Maud Land	Text		
+160828	East Antarctic Dronning Maud Land	Text		
+160811	East Antarctic Dronning Maud Land	Text		
+160813	East Antarctic Dronning Maud Land	Text		
+160812	East Antarctic Dronning Maud Land	Text		
+160815	East Antarctic Dronning Maud Land	Text		
+160831	East Antarctic Dronning Maud Land	Text		
+160831	East Antarctic Enderby Land	Text		
+160815	East Antarctic Enderby Land	Text		
+160828	East Antarctic Enderby Land	Text		
+160825	East Antarctic Enderby Land	Text		
+160821	East Antarctic Enderby Land	Text		
+160777	East Antarctic Enderby Land	Text		
+160781	East Antarctic Enderby Land	Text		
+160771	East Antarctic Enderby Land	Text		
+160770	East Antarctic Enderby Land	Text		
+160793	East Antarctic Enderby Land	Text		
+160797	East Antarctic Enderby Land	Text		
+160796	East Antarctic Enderby Land	Text		
+160787	Patagonian Shelf	Text		
+160762	Patagonian Shelf	Text		
+160768	Patagonian Shelf	Text		
+160786	Patagonian Shelf	Text		
+160822	Patagonian Shelf	Text		
+160828	Patagonian Shelf	Text		
+160809	Patagonian Shelf	Text		
+160835	Patagonian Shelf	Text		
+160832	Patagonian Shelf	Text		
+160835	Channels and Fjords of Southern Chile	Text		
+160832	Channels and Fjords of Southern Chile	Text		
+513027	Channels and Fjords of Southern Chile	Text		
+513606	Channels and Fjords of Southern Chile	Text		
+160809	Channels and Fjords of Southern Chile	Text		
+160811	Channels and Fjords of Southern Chile	Text		
+160822	Channels and Fjords of Southern Chile	Text		
+160786	Channels and Fjords of Southern Chile	Text		
+160768	Channels and Fjords of Southern Chile	Text		
+160762	Channels and Fjords of Southern Chile	Text		
+160759	Channels and Fjords of Southern Chile	Text		
+160760	Channels and Fjords of Southern Chile	Text		
+160787	Channels and Fjords of Southern Chile	Text		
+160788	Channels and Fjords of Southern Chile	Text		
+160791	Channels and Fjords of Southern Chile	Text		
+513636	Channels and Fjords of Southern Chile	Text		
+160796	Channels and Fjords of Southern Chile	Text		
+160798	Channels and Fjords of Southern Chile	Text		
+160800	Channels and Fjords of Southern Chile	Text		
+160802	Channels and Fjords of Southern Chile	Text		
+160803	Channels and Fjords of Southern Chile	Text		
+513255	Channels and Fjords of Southern Chile	Text		
+513255	North Patagonian Gulfs	Text		
+160787	North Patagonian Gulfs	Text		
+160759	North Patagonian Gulfs	Text		
+160762	North Patagonian Gulfs	Text		
+160768	North Patagonian Gulfs	Text		
+160786	North Patagonian Gulfs	Text		
+160822	North Patagonian Gulfs	Text		
+160828	North Patagonian Gulfs	Text		
+160809	North Patagonian Gulfs	Text		
+160832	North Patagonian Gulfs	Text		
+160832	Malvinas/Falklands	Text		
+124360	Malvinas/Falklands	Text		
+160831	Malvinas/Falklands	Text		
+160811	Malvinas/Falklands	Text		
+160828	Malvinas/Falklands	Text		
+160822	Malvinas/Falklands	Text		
+160786	Malvinas/Falklands	Text		
+160760	Malvinas/Falklands	Text		
+160759	Malvinas/Falklands	Text		
+160787	Malvinas/Falklands	Text		
+160791	Malvinas/Falklands	Text		
+160788	Malvinas/Falklands	Text		
+160802	Malvinas/Falklands	Text		
+160799	Malvinas/Falklands	Text		
+160786	Chiloense	Text		
+160784	Chiloense	Text		
+160822	Chiloense	Text		
+513483	Chiloense	Text		
+160809	Chiloense	Text		
+124254	Western Mediterranean	Text		
+124316	Western Mediterranean	Text		
+124318	Western Mediterranean	Text		
+124427	Western Mediterranean	Text		
+124418	Western Mediterranean	Text		
+124268	Western Mediterranean	Text		
+124249	Western Mediterranean	Text		
+124250	Western Mediterranean	Text		
+124373	Western Mediterranean	Text		
+124380	Western Mediterranean	Text		
+124257	Western Mediterranean	Text		
+124331	Western Mediterranean	Text		
+124392	Western Mediterranean	Text		
+124393	Western Mediterranean	Text		
+124399	Western Mediterranean	Text		
+124400	Western Mediterranean	Text		
+124394	Western Mediterranean	Text		
+124294	Western Mediterranean	Text		
+124423	Western Mediterranean	Text		
+124273	Western Mediterranean	Text		
+414192	Northeastern New Zealand	Text		
+513299	Northeastern New Zealand	Text		
+513297	Northeastern New Zealand	Text		
+414224	Northeastern New Zealand	Text		
+513347	Northeastern New Zealand	Text		
+414197	Northeastern New Zealand	Text		
+414225	Northeastern New Zealand	Text		
+124392	Northeastern New Zealand	Text		
+414213	Northeastern New Zealand	Text		
+414243	Northeastern New Zealand	Text		
+160803	Northeastern New Zealand	Text		
+414212	Northeastern New Zealand	Text		
+414208	Northeastern New Zealand	Text		
+456763	Northeastern New Zealand	Text		
+456755	Northeastern New Zealand	Text		
+513180	Northeastern New Zealand	Text		
+414214	Northeastern New Zealand	Text		
+512988	Northeastern New Zealand	Text		
+414240	Northeastern New Zealand	Text		
+414211	Northeastern New Zealand	Text		
+414207	Northeastern New Zealand	Text		
+513116	Northeastern New Zealand	Text		
+414232	Northeastern New Zealand	Text		
+513578	Northeastern New Zealand	Text		
+414204	Northeastern New Zealand	Text		
+414205	Northeastern New Zealand	Text		
+212453	Northeastern New Zealand	Text		
+414253	Northeastern New Zealand	Text		
+414215	Northeastern New Zealand	Text		
+414202	Northeastern New Zealand	Text		
+160821	Northeastern New Zealand	Text		
+414218	Northeastern New Zealand	Text		
+160824	Northeastern New Zealand	Text		
+414249	Northeastern New Zealand	Text		
+214650	Northeastern New Zealand	Text		
+414231	Northeastern New Zealand	Text		
+414210	Northeastern New Zealand	Text		
+414200	Northeastern New Zealand	Text		
+160813	South Shetland Islands	Text		
+160811	South Shetland Islands	Text		
+160810	South Shetland Islands	Text		
+160825	South Shetland Islands	Text		
+160828	South Shetland Islands	Text		
+160831	South Shetland Islands	Text		
+160781	South Shetland Islands	Text		
+160782	South Shetland Islands	Text		
+160780	South Shetland Islands	Text		
+160778	South Shetland Islands	Text		
+160776	South Shetland Islands	Text		
+160774	South Shetland Islands	Text		
+160777	South Shetland Islands	Text		
+160784	South Shetland Islands	Text		
+160786	South Shetland Islands	Text		
+160759	South Shetland Islands	Text		
+160762	South Shetland Islands	Text		
+160768	South Shetland Islands	Text		
+160766	South Shetland Islands	Text		
+160765	South Shetland Islands	Text		
+160764	South Shetland Islands	Text		
+160769	South Shetland Islands	Text		
+160770	South Shetland Islands	Text		
+160771	South Shetland Islands	Text		
+160789	South Shetland Islands	Text		
+160802	South Shetland Islands	Text		
+160799	South Shetland Islands	Text		
+160800	South Shetland Islands	Text		
+160798	South Shetland Islands	Text		
+160793	South Shetland Islands	Text		
+160796	South Shetland Islands	Text		
+160796	Antarctic Peninsula	Text		
+160798	Antarctic Peninsula	Text		
+160799	Antarctic Peninsula	Text		
+160802	Antarctic Peninsula	Text		
+160806	Antarctic Peninsula	Text		
+160789	Antarctic Peninsula	Text		
+513636	Antarctic Peninsula	Text		
+160793	Antarctic Peninsula	Text		
+160774	Antarctic Peninsula	Text		
+160769	Antarctic Peninsula	Text		
+160765	Antarctic Peninsula	Text		
+160762	Antarctic Peninsula	Text		
+160764	Antarctic Peninsula	Text		
+160768	Antarctic Peninsula	Text		
+160784	Antarctic Peninsula	Text		
+160777	Antarctic Peninsula	Text		
+160778	Antarctic Peninsula	Text		
+160780	Antarctic Peninsula	Text		
+160782	Antarctic Peninsula	Text		
+160831	Antarctic Peninsula	Text		
+160828	Antarctic Peninsula	Text		
+160825	Antarctic Peninsula	Text		
+160822	Antarctic Peninsula	Text		
+160820	Antarctic Peninsula	Text		
+160810	Antarctic Peninsula	Text		
+160813	Antarctic Peninsula	Text		
+160811	Antarctic Peninsula	Text		
+160810	South Georgia	Text		
+160825	South Georgia	Text		
+160828	South Georgia	Text		
+160831	South Georgia	Text		
+160832	South Georgia	Text		
+160835	South Georgia	Text		
+160781	South Georgia	Text		
+160784	South Georgia	Text		
+160768	South Georgia	Text		
+160762	South Georgia	Text		
+160759	South Georgia	Text		
+160773	South Georgia	Text		
+513636	South Georgia	Text		
+160793	South Georgia	Text		
+160787	South Georgia	Text		
+160788	South Georgia	Text		
+160799	South Georgia	Text		
+160799	South Orkney Islands	Text		
+160798	South Orkney Islands	Text		
+160796	South Orkney Islands	Text		
+160805	South Orkney Islands	Text		
+160791	South Orkney Islands	Text		
+160789	South Orkney Islands	Text		
+160762	South Orkney Islands	Text		
+160768	South Orkney Islands	Text		
+160766	South Orkney Islands	Text		
+160765	South Orkney Islands	Text		
+160784	South Orkney Islands	Text		
+160781	South Orkney Islands	Text		
+160780	South Orkney Islands	Text		
+160778	South Orkney Islands	Text		
+160774	South Orkney Islands	Text		
+160773	South Orkney Islands	Text		
+160775	South Orkney Islands	Text		
+160831	South Orkney Islands	Text		
+160829	South Orkney Islands	Text		
+160828	South Orkney Islands	Text		
+160825	South Orkney Islands	Text		
+160820	South Orkney Islands	Text		
+160810	South Orkney Islands	Text		
+160813	South Orkney Islands	Text		
+160820	South Sandwich Islands	Text		
+160819	South Sandwich Islands	Text		
+160828	South Sandwich Islands	Text		
+160831	South Sandwich Islands	Text		
+160829	South Sandwich Islands	Text		
+160776	South Sandwich Islands	Text		
+160784	South Sandwich Islands	Text		
+160805	South Sandwich Islands	Text		
+160806	South Sandwich Islands	Text		
+160807	South Sandwich Islands	Text		
+160796	South Sandwich Islands	Text		
+160799	South Sandwich Islands	Text		
+160803	Bassian	Text		
+124392	Bassian	Text		
+513232	Bassian	Text		
+513313	Bassian	Text		
+513287	Bassian	Text		
+513290	Bassian	Text		
+513296	Bassian	Text		
+513340	Bassian	Text		
+569179	Bassian	Text		
+513339	Bassian	Text		
+414198	Bassian	Text		
+414197	Bassian	Text		
+513271	Bassian	Text		
+513119	Bassian	Text		
+160784	Bassian	Text		
+513107	Bassian	Text		
+513098	Bassian	Text		
+513100	Bassian	Text		
+513102	Bassian	Text		
+595763	Bassian	Text		
+512988	Bassian	Text		
+456762	Bassian	Text		
+456724	Bassian	Text		
+513200	Bassian	Text		
+513180	Bassian	Text		
+456755	Bassian	Text		
+414212	Bassian	Text		
+513581	Bassian	Text		
+513512	Bassian	Text		
+513530	Bassian	Text		
+513494	Bassian	Text		
+414210	Bassian	Text		
+414249	Bassian	Text		
+212442	Bassian	Text		
+513391	Bassian	Text		
+513393	Bassian	Text		
+513391	Western Bassian	Text		
+513098	Western Bassian	Text		
+513104	Western Bassian	Text		
+513092	Western Bassian	Text		
+513279	Western Bassian	Text		
+513339	Western Bassian	Text		
+513340	Western Bassian	Text		
+569179	Western Bassian	Text		
+513296	Western Bassian	Text		
+513313	Western Bassian	Text		
+414224	Cape Howe	Text		
+513313	Cape Howe	Text		
+512991	Cape Howe	Text		
+512990	Cape Howe	Text		
+513290	Cape Howe	Text		
+513296	Cape Howe	Text		
+513339	Cape Howe	Text		
+569179	Cape Howe	Text		
+414198	Cape Howe	Text		
+414197	Cape Howe	Text		
+513279	Cape Howe	Text		
+513278	Cape Howe	Text		
+513271	Cape Howe	Text		
+513232	Cape Howe	Text		
+124392	Cape Howe	Text		
+414213	Cape Howe	Text		
+160803	Cape Howe	Text		
+513097	Cape Howe	Text		
+513098	Cape Howe	Text		
+513100	Cape Howe	Text		
+513116	Cape Howe	Text		
+414207	Cape Howe	Text		
+414212	Cape Howe	Text		
+513180	Cape Howe	Text		
+513200	Cape Howe	Text		
+513201	Cape Howe	Text		
+456762	Cape Howe	Text		
+414240	Cape Howe	Text		
+513155	Cape Howe	Text		
+513391	Cape Howe	Text		
+513074	Cape Howe	Text		
+414249	Cape Howe	Text		
+513449	Cape Howe	Text		
+214650	Cape Howe	Text		
+414201	Cape Howe	Text		
+513494	Cape Howe	Text		
+414202	Cape Howe	Text		
+513499	Cape Howe	Text		
+414220	Cape Howe	Text		
+214457	Cape Howe	Text		
+513581	Cape Howe	Text		
+513586	Cape Howe	Text		
+513590	Cape Howe	Text		
+414204	Cape Howe	Text		
+212453	Cape Howe	Text		
+212449	Cape Howe	Text		
+160824	South New Zealand	Text		
+414218	South New Zealand	Text		
+414217	South New Zealand	Text		
+414220	South New Zealand	Text		
+414231	South New Zealand	Text		
+214650	South New Zealand	Text		
+414249	South New Zealand	Text		
+414200	South New Zealand	Text		
+414240	South New Zealand	Text		
+512988	South New Zealand	Text		
+414191	South New Zealand	Text		
+414248	South New Zealand	Text		
+513032	South New Zealand	Text		
+414232	South New Zealand	Text		
+414243	South New Zealand	Text		
+124392	South New Zealand	Text		
+414225	South New Zealand	Text		
+513347	South New Zealand	Text		
+568354	South New Zealand	Text		
+513297	South New Zealand	Text		
+568354	Snares Island	Text		
+513297	Snares Island	Text		
+414225	Snares Island	Text		
+160803	Snares Island	Text		
+414232	Snares Island	Text		
+414207	Snares Island	Text		
+456755	Snares Island	Text		
+512988	Snares Island	Text		
+414249	Snares Island	Text		
+414250	Snares Island	Text		
+414231	Snares Island	Text		
+214650	Snares Island	Text		
+414220	Snares Island	Text		
+414217	Snares Island	Text		
+160824	Snares Island	Text		
+414218	Chatham Island	Text		
+414252	Chatham Island	Text		
+414253	Chatham Island	Text		
+214650	Chatham Island	Text		
+414249	Chatham Island	Text		
+513075	Chatham Island	Text		
+414200	Chatham Island	Text		
+512988	Chatham Island	Text		
+414240	Chatham Island	Text		
+414191	Chatham Island	Text		
+456755	Chatham Island	Text		
+160784	Chatham Island	Text		
+414232	Chatham Island	Text		
+160803	Chatham Island	Text		
+124392	Chatham Island	Text		
+414225	Chatham Island	Text		
+568354	Chatham Island	Text		
+513297	Chatham Island	Text		
+513347	Chatham Island	Text		
+513347	Central New Zealand	Text		
+513297	Central New Zealand	Text		
+414192	Central New Zealand	Text		
+216205	Central New Zealand	Text		
+568354	Central New Zealand	Text		
+414225	Central New Zealand	Text		
+124392	Central New Zealand	Text		
+160803	Central New Zealand	Text		
+414232	Central New Zealand	Text		
+513116	Central New Zealand	Text		
+160784	Central New Zealand	Text		
+414207	Central New Zealand	Text		
+414211	Central New Zealand	Text		
+456755	Central New Zealand	Text		
+513032	Central New Zealand	Text		
+414191	Central New Zealand	Text		
+414248	Central New Zealand	Text		
+414240	Central New Zealand	Text		
+512988	Central New Zealand	Text		
+414214	Central New Zealand	Text		
+414200	Central New Zealand	Text		
+414249	Central New Zealand	Text		
+414231	Central New Zealand	Text		
+214650	Central New Zealand	Text		
+414210	Central New Zealand	Text		
+414252	Central New Zealand	Text		
+414253	Central New Zealand	Text		
+513077	Central New Zealand	Text		
+414220	Central New Zealand	Text		
+414217	Central New Zealand	Text		
+414218	Central New Zealand	Text		
+160824	Central New Zealand	Text		
+160819	Central New Zealand	Text		
+160821	Central New Zealand	Text		
+414238	Central New Zealand	Text		
+414235	Central New Zealand	Text		
+414205	Central New Zealand	Text		
+513594	Leeuwin	Text		
+414210	Leeuwin	Text		
+513460	Leeuwin	Text		
+513391	Leeuwin	Text		
+456762	Leeuwin	Text		
+513200	Leeuwin	Text		
+513102	Leeuwin	Text		
+160803	Leeuwin	Text		
+513232	Leeuwin	Text		
+513296	Leeuwin	Text		
+513313	Leeuwin	Text		
+513340	Leeuwin	Text		
+513340	South Australian Gulfs	Text		
+513313	South Australian Gulfs	Text		
+513296	South Australian Gulfs	Text		
+513100	South Australian Gulfs	Text		
+595763	South Australian Gulfs	Text		
+513403	South Australian Gulfs	Text		
+513460	South Australian Gulfs	Text		
+513449	South Australian Gulfs	Text		
+414217	South Australian Gulfs	Text		
+160762	Bouvet Island	Text		
+160790	Bouvet Island	Text		
+160790	Crozet Islands	Text		
+160784	Crozet Islands	Text		
+160807	Crozet Islands	Text		
+160804	Crozet Islands	Text		
+160803	Crozet Islands	Text		
+160801	Crozet Islands	Text		
+160823	Crozet Islands	Text		
+160821	Crozet Islands	Text		
+160826	Crozet Islands	Text		
+160830	Crozet Islands	Text		
+124360	Crozet Islands	Text		
+160830	Heard and Macdonald Islands	Text		
+160831	Heard and Macdonald Islands	Text		
+160825	Heard and Macdonald Islands	Text		
+160828	Heard and Macdonald Islands	Text		
+160803	Heard and Macdonald Islands	Text		
+160763	Heard and Macdonald Islands	Text		
+160790	Heard and Macdonald Islands	Text		
+513636	Heard and Macdonald Islands	Text		
+513636	Kerguelen Islands	Text		
+160790	Kerguelen Islands	Text		
+160763	Kerguelen Islands	Text		
+160784	Kerguelen Islands	Text		
+160803	Kerguelen Islands	Text		
+160818	Kerguelen Islands	Text		
+160820	Kerguelen Islands	Text		
+160830	Kerguelen Islands	Text		
+160820	Macquarie Island	Text		
+160824	Macquarie Island	Text		
+414249	Macquarie Island	Text		
+160816	Macquarie Island	Text		
+513297	Macquarie Island	Text		
+160805	Macquarie Island	Text		
+160808	Peter the First Island	Text		
+160823	Prince Edward Islands	Text		
+160830	Prince Edward Islands	Text		
+160832	Prince Edward Islands	Text		
+414220	Campbell Island	Text		
+160824	Campbell Island	Text		
+214650	Campbell Island	Text		
+414200	Campbell Island	Text		
+513297	Campbell Island	Text		
+568354	Campbell Island	Text		
+160784	Campbell Island	Text		
+160784	Bounty and Antipodes Islands	Text		
+414232	Bounty and Antipodes Islands	Text		
+512988	Bounty and Antipodes Islands	Text		
+513032	Bounty and Antipodes Islands	Text		
+568354	Bounty and Antipodes Islands	Text		
+414224	Bounty and Antipodes Islands	Text		
+513347	Bounty and Antipodes Islands	Text		
+160803	Bounty and Antipodes Islands	Text		
+214650	Bounty and Antipodes Islands	Text		
+414249	Bounty and Antipodes Islands	Text		
+414210	Bounty and Antipodes Islands	Text		
+160824	Bounty and Antipodes Islands	Text		
+414220	Bounty and Antipodes Islands	Text		
+414238	Bounty and Antipodes Islands	Text		
+513077	Bounty and Antipodes Islands	Text		
+414220	Auckland Island	Text		
+160824	Auckland Island	Text		
+414200	Auckland Island	Text		
+160803	Auckland Island	Text		
+568354	Auckland Island	Text		
+513297	Auckland Island	Text		
+513299	Auckland Island	Text		
+414208	Auckland Island	Text		
+414232	Auckland Island	Text		
+414207	Auckland Island	Text		
+597545	Clipperton	Text		
+513026	New Caledonia	Text		
+160809	Araucanian	Text		
+513606	Araucanian	Text		
+513124	Araucanian	Text		
+160786	Uruguay-Buenos Aires Shelf	Text		
+160768	Uruguay-Buenos Aires Shelf	Text		
+160762	Uruguay-Buenos Aires Shelf	Text		
+160759	Uruguay-Buenos Aires Shelf	Text		
+160773	Uruguay-Buenos Aires Shelf	Text		
+513636	Uruguay-Buenos Aires Shelf	Text		
+160787	Uruguay-Buenos Aires Shelf	Text		
+513255	Uruguay-Buenos Aires Shelf	Text		
+160832	Uruguay-Buenos Aires Shelf	Text		
+160809	Uruguay-Buenos Aires Shelf	Text		
+160822	Uruguay-Buenos Aires Shelf	Text		
+160828	Uruguay-Buenos Aires Shelf	Text		
+160822	Rio de la Plata	Text		
+160832	Rio de la Plata	Text		
+513255	Rio de la Plata	Text		
+160786	Rio de la Plata	Text		
+731162	Cape Verde	Text		
+534609	West coast of Central America	Text		
+179611	Tongareva	Text		
+124316	Central Mediterranean	Text		
+124418	Central Mediterranean	Text		
+124427	Central Mediterranean	Text		
+124318	Central Mediterranean	Text		
+124268	Central Mediterranean	Text		
+124331	Central Mediterranean	Text		
+124257	Central Mediterranean	Text		
+124380	Central Mediterranean	Text		
+124373	Central Mediterranean	Text		
+124249	Central Mediterranean	Text		
+124250	Central Mediterranean	Text		
+124399	Central Mediterranean	Text		
+124394	Central Mediterranean	Text		
+124392	Central Mediterranean	Text		
+124393	Central Mediterranean	Text		
+124273	Central Mediterranean	Text		
+124294	Central Mediterranean	Text		
+124423	Central Mediterranean	Text		
+414225	Kaikoura District	Text		
+160803	Kaikoura District	Text		
+414220	Kaikoura District	Text		
+414218	Kaikoura District	Text		
+414217	Kaikoura District	Text		
+160824	Kaikoura District	Text		
+414253	Kaikoura District	Text		
+414200	Kaikoura District	Text		
+124324	Manicouagan	Text		
+124321	Manicouagan	Text		
+158062	Manicouagan	Text		
+124404	Manicouagan	Text		
+124321	St. Lawrence Estuary	Text		
+124324	St. Lawrence Estuary	Text		
+158062	St. Lawrence Estuary	Text		
+158062	St. Lawrence Estuary	Text		
+124404	St. Lawrence Estuary	Text		
+124404	St. Lawrence Estuary	Text		
+124321	Saguenay Fjord	Text		
+212443	Sharm el Naga	Text		
+212453	Marsa Shagra	Text		
+568045	Marsa Shagra	Text		
+213378	Marsa Shagra	Text		
+213377	Sewul	Text		
+213383	Abu Galum	Text		
+214656	Mozambique	Text		
+179611	Mozambique	Text		
+214642	Mozambique	Text		
+179629	Mozambique	Text		
+212445	Mozambique	Text		
+212445	Mozambique	Text		
+212445	Mozambique	Text		
+214667	Mozambique	Text		
+214667	Mozambique	Text		
+212449	Mozambique	Text		
+212449	Mozambique	Text		
+212449	Mozambique	Text		
+212440	Mozambique	Text		
+212440	Mozambique	Text		
+212440	Mozambique	Text		
+212440	Mozambique	Text		
+212449	Mozambique	Text		
+212449	Mozambique	Text		
+212453	Mozambique	Text		
+212453	Mozambique	Text		
+212453	Mozambique	Text		
+212453	Mozambique	Text		
+124392	Mozambique	Text		
+213375	Mozambique	Text		
+213372	Mozambique	Text		
+213372	Mozambique	Text		
+213372	Mozambique	Text		
+213369	Mozambique	Text		
+213369	Mozambique	Text		
+213369	Mozambique	Text		
+213369	Mozambique	Text		
+212459	Mozambique	Text		
+212459	Mozambique	Text		
+212459	Mozambique	Text		
+212460	Mozambique	Text		
+212460	Mozambique	Text		
+213380	Mozambique	Text		
+213380	Mozambique	Text		
+212461	Mozambique	Text		
+213383	Mozambique	Text		
+213383	Mozambique	Text		
+213383	Mozambique	Text		
+213377	Mozambique	Text		
+213377	Mozambique	Text		
+213377	Mozambique	Text		
+213384	Mozambique	Text		
+213370	Mozambique	Text		
+213370	Mozambique	Text		
+213370	Mozambique	Text		
+213370	Mozambique	Text		
+213370	Mozambique	Text		
+213429	Mozambique	Text		
+213362	Mozambique	Text		
+124339	Morocco	Text		
+124331	Morocco	Text		
+124249	Morocco	Text		
+124319	Morocco	Text		
+124316	Morocco	Text		
+124254	Morocco	Text		
+124380	Mexico	Text		
+422486	Mexico	Text		
+124329	Mexico	Text		
+422494	Mexico	Text		
+422480	Mexico	Text		
+513159	Mexico	Text		
+124338	Mexico	Text		
+422477	Mexico	Text		
+124331	Mexico	Text		
+422478	Mexico	Text		
+367962	Mexico	Text		
+422499	Mexico	Text		
+422498	Mexico	Text		
+513202	Mexico	Text		
+422485	Mexico	Text		
+158058	Mexico	Text		
+124332	Mexico	Text		
+124270	Mexico	Text		
+422501	Mexico	Text		
+124423	Mexico	Text		
+396741	Mexico	Text		
+212461	Mexico	Text		
+422493	Mexico	Text		
+422505	Mexico	Text		
+213380	Mexico	Text		
+124268	Mexico	Text		
+422490	Mexico	Text		
+422511	Mexico	Text		
+422488	Mexico	Text		
+422502	Mexico	Text		
+746353	Mexico	Text		
+422489	Mexico	Text		
+367850	Mexico	Text		
+367846	Mexico	Text		
+456755	New Zealand	Text		
+414214	New Zealand	Text		
+241333	Maldives	Text		
+124267	Portugal	Text		
+124318	Portugal	Text		
+124318	Portugal	Text		
+124254	Portugal	Text		
+124367	Portugal	Text		
+124287	Portugal	Text		
+124294	Portugal	Text		
+124287	Portugal	Text		
+124294	Portugal	Text		
+241332	Philippines	Text		
+124332	Panama	Text		
+213380	Panama	Text		
+422493	Panama	Text		
+212461	Panama	Text		
+396741	Panama	Text		
+513255	Panama	Text		
+158058	Panama	Text		
+422516	Panama	Text		
+513202	Panama	Text		
+422499	Panama	Text		
+367962	Panama	Text		
+513159	Panama	Text		
+422494	Panama	Text		
+422486	Panama	Text		
+124380	Panama	Text		
+124372	Panama	Text		
+422510	Panama	Text		
+367846	Panama	Text		
+158065	Panama	Text		
+158067	Panama	Text		
+367850	Panama	Text		
+422489	Panama	Text		
+422502	Panama	Text		
+422511	Panama	Text		
+124343	Panama	Text		
+422490	Panama	Text		
+124268	Panama	Text		
+124324	Norway	Text		
+124321	Norway	Text		
+124321	Norway	Text		
+124418	Norway	Text		
+124402	Norway	Text		
+124394	Norway	Text		
+124273	Norway	Text		
+124287	Norway	Text		
+124287	Norway	Text		
+124404	Norway	Text		
+124373	Norway	Text		
+124257	Norway	Text		
+124268	Nicaragua	Text		
+422483	Nicaragua	Text		
+124343	Nicaragua	Text		
+422512	Nicaragua	Text		
+158065	Nicaragua	Text		
+367846	Nicaragua	Text		
+422507	Nicaragua	Text		
+213380	Nicaragua	Text		
+513327	Nicaragua	Text		
+396741	Nicaragua	Text		
+124332	Nicaragua	Text		
+422504	Nicaragua	Text		
+513185	Nicaragua	Text		
+124372	Nicaragua	Text		
+422485	Nicaragua	Text		
+124329	Nicaragua	Text		
+422516	Nicaragua	Text		
+241345	New Caledonia	Text		
+124321	North Sea	Text		
+124418	North Sea	Text		
+124319	North Sea	Text		
+124319	North Sea	Text		
+124319	North Sea	Text		
+124394	North Sea	Text		
+124394	North Sea	Text		
+124392	North Sea	Text		
+124392	North Sea	Text		
+124373	North Sea	Text		
+124392	Wadden Sea	Text		
+124257	Bay of Biscay	Text		
+124338	Bay of Biscay	Text		
+124367	Bay of Biscay	Text		
+124339	Bay of Biscay	Text		
+124399	Bay of Biscay	Text		
+124426	Bay of Biscay	Text		
+124268	Bay of Biscay	Text		
+124419	Bay of Biscay	Text		
+226069	Bay of Biscay	Text		
+124370	Bay of Biscay	Text		
+124321	Kattegat	Text		
+124418	Kattegat	Text		
+124319	Kattegat	Text		
+124373	Kattegat	Text		
+124287	Kattegat	Text		
+124394	Kattegat	Text		
+124402	Kattegat	Text		
+124273	Kattegat	Text		
+124392	Kattegat	Text		
+124419	Skagerrak	Text		
+124402	Porcupine Bank	Text		
+124287	English Channel	Text		
+124402	English Channel	Text		
+124392	English Channel	Text		
+124319	English Channel	Text		
+124316	English Channel	Text		
+124254	English Channel	Text		
+124404	Faroe-Shetland Channel	Text		
+124338	Faroe-Shetland Channel	Text		
+124273	Baltic sea	Text		
+124319	Baltic sea	Text		
+124316	Azores	Text		
+124370	Azores	Text		
+124316	Azores	Text		
+124371	Azores	Text		
+124418	Azores	Text		
+124418	Azores	Text		
+124418	Azores	Text		
+226069	Azores	Text		
+124364	Azores	Text		
+124419	Azores	Text		
+124427	Azores	Text		
+124347	Azores	Text		
+124427	Azores	Text		
+124319	Azores	Text		
+124318	Azores	Text		
+124319	Azores	Text		
+124426	Azores	Text		
+124394	Azores	Text		
+124394	Azores	Text		
+124273	Azores	Text		
+124273	Azores	Text		
+124273	Azores	Text		
+124271	Azores	Text		
+124270	Azores	Text		
+124392	Azores	Text		
+124394	Azores	Text		
+124423	Azores	Text		
+124423	Azores	Text		
+124294	Azores	Text		
+124339	Azores	Text		
+124294	Azores	Text		
+124250	Azores	Text		
+124249	Azores	Text		
+124365	Azores	Text		
+124373	Azores	Text		
+124349	Azores	Text		
+124380	Azores	Text		
+124380	Azores	Text		
+124331	Azores	Text		
+124331	Azores	Text		
+124338	Azores	Text		
+124257	Azores	Text		
+124371	Sao Jorge	Text		
+124321	Channel Islands	Text		
+124316	Channel Islands	Text		
+124427	Channel Islands	Text		
+124427	Channel Islands	Text		
+124257	Faroe Islands	Text		
+124321	Faroe Islands	Text		
+124319	British Isles	Text		
+124319	British Isles	Text		
+124418	British Isles	Text		
+124418	British Isles	Text		
+124419	British Isles	Text		
+124419	British Isles	Text		
+124419	British Isles	Text		
+124321	British Isles	Text		
+124394	British Isles	Text		
+124402	British Isles	Text		
+124402	British Isles	Text		
+124273	British Isles	Text		
+124273	British Isles	Text		
+124394	British Isles	Text		
+124392	British Isles	Text		
+124287	British Isles	Text		
+124287	British Isles	Text		
+149880	British Isles	Text		
+124257	British Isles	Text		
+124257	British Isles	Text		
+124373	British Isles	Text		
+124373	British Isles	Text		
+124372	British Isles	Text		
+124316	Cornwall	Text		
+124294	Cornwall	Text		
+124316	Scilly Isles	Text		
+124316	Devon	Text		
+124321	Scotland	Text		
+124321	Shetlands	Text		
+124324	Shetlands	Text		
+124419	Shetlands	Text		
+124312	Shetlands	Text		
+124402	Shetlands	Text		
+124404	Shetlands	Text		
+124287	Belgian Exclusive Economic Zone	Text		
+124273	Belgian Exclusive Economic Zone	Text		
+124273	Belgian Exclusive Economic Zone	Text		
+124273	Belgian Exclusive Economic Zone	Text		
+124392	Belgian Exclusive Economic Zone	Text		
+124392	Belgian Exclusive Economic Zone	Text		
+124392	Belgian Exclusive Economic Zone	Text		
+124392	Belgian Exclusive Economic Zone	Text		
+124392	Belgian Exclusive Economic Zone	Text		
+124418	Belgian Exclusive Economic Zone	Text		
+124418	Belgian Exclusive Economic Zone	Text		
+124418	Belgian Exclusive Economic Zone	Text		
+124319	Belgian Exclusive Economic Zone	Text		
+124319	Belgian Exclusive Economic Zone	Text		
+124319	Belgian Exclusive Economic Zone	Text		
+124319	Belgian Exclusive Economic Zone	Text		
+124319	Belt Sea	Text		
+124321	Belt Sea	Text		
+124392	Belt Sea	Text		
+124273	Belt Sea	Text		
+124394	Belt Sea	Text		
+124392	Öresund	Text		
+124273	Öresund	Text		
+124394	Öresund	Text		
+124287	Öresund	Text		
+124373	Öresund	Text		
+124319	Öresund	Text		
+124418	Öresund	Text		
+124321	Öresund	Text		
+124343	Faeroes	Text		
+226069	Faeroes	Text		
+124347	Faeroes	Text		
+124267	Faeroes	Text		
+124399	Adriatic Sea	Text		
+124394	Adriatic Sea	Text		
+124392	Adriatic Sea	Text		
+124273	Adriatic Sea	Text		
+124294	Adriatic Sea	Text		
+124423	Adriatic Sea	Text		
+124257	Adriatic Sea	Text		
+124331	Adriatic Sea	Text		
+124373	Adriatic Sea	Text		
+124380	Adriatic Sea	Text		
+124249	Adriatic Sea	Text		
+124316	Adriatic Sea	Text		
+124318	Adriatic Sea	Text		
+124427	Adriatic Sea	Text		
+124418	Adriatic Sea	Text		
+124268	Adriatic Sea	Text		
+124331	Aegean Sea	Text		
+124257	Aegean Sea	Text		
+124380	Aegean Sea	Text		
+124373	Aegean Sea	Text		
+124250	Aegean Sea	Text		
+124249	Aegean Sea	Text		
+124273	Aegean Sea	Text		
+124423	Aegean Sea	Text		
+124294	Aegean Sea	Text		
+124394	Aegean Sea	Text		
+124399	Aegean Sea	Text		
+124392	Aegean Sea	Text		
+124393	Aegean Sea	Text		
+124418	Aegean Sea	Text		
+124427	Aegean Sea	Text		
+124318	Aegean Sea	Text		
+124316	Aegean Sea	Text		
+124268	Aegean Sea	Text		
+124380	Gibraltar	Text		
+124364	Gibraltar	Text		
+124330	Gibraltar	Text		
+124380	Sicily	Text		
+124250	Sicily	Text		
+124418	Levantine Basin	Text		
+124427	Levantine Basin	Text		
+124318	Levantine Basin	Text		
+124316	Levantine Basin	Text		
+124268	Levantine Basin	Text		
+124273	Levantine Basin	Text		
+124423	Levantine Basin	Text		
+124392	Levantine Basin	Text		
+124399	Levantine Basin	Text		
+124257	Levantine Basin	Text		
+124331	Levantine Basin	Text		
+124380	Levantine Basin	Text		
+124373	Levantine Basin	Text		
+124249	Levantine Basin	Text		
+124250	Balear Islands	Text		
+746365	Balear Islands	Text		
+124250	Latium	Text		
+124394	Capri	Text		
+731162	Canary Islands	Text		
+124316	Canaries	Text		
+124316	Canaries	Text		
+124330	Canaries	Text		
+124268	Canaries	Text		
+124332	Canaries	Text		
+124380	Canaries	Text		
+124349	Canaries	Text		
+124338	Canaries	Text		
+124331	Canaries	Text		
+124331	Canaries	Text		
+124365	Canaries	Text		
+124316	Tunis Gulf	Text		
+124367	Rockall Trough	Text		
+124319	Rockall Bank	Text		
+124419	Lousy Bank	Text		
+124321	Kara Sea	Text		
+124324	Barents Sea	Text		
+124321	White Sea	Text		
+124367	Davis Strait	Text		
+124404	Davis Strait	Text		
+124343	Davis Strait	Text		
+124348	Davis Strait	Text		
+213369	Red Sea	Text		
+213369	Red Sea	Text		
+213369	Red Sea	Text		
+213369	Red Sea	Text		
+214477	Red Sea	Text		
+214477	Red Sea	Text		
+214478	Red Sea	Text		
+214478	Red Sea	Text		
+214478	Red Sea	Text		
+213386	Red Sea	Text		
+213386	Red Sea	Text		
+213386	Red Sea	Text		
+213378	Red Sea	Text		
+213378	Red Sea	Text		
+213378	Red Sea	Text		
+213377	Red Sea	Text		
+213377	Red Sea	Text		
+212461	Red Sea	Text		
+213384	Red Sea	Text		
+213384	Red Sea	Text		
+213384	Red Sea	Text		
+213377	Red Sea	Text		
+213377	Red Sea	Text		
+213377	Red Sea	Text		
+213377	Red Sea	Text		
+213377	Red Sea	Text		
+213383	Red Sea	Text		
+213383	Red Sea	Text		
+213383	Red Sea	Text		
+213383	Red Sea	Text		
+213383	Red Sea	Text		
+213383	Red Sea	Text		
+513239	Red Sea	Text		
+513239	Red Sea	Text		
+212459	Red Sea	Text		
+212459	Red Sea	Text		
+212459	Red Sea	Text		
+212459	Red Sea	Text		
+212459	Red Sea	Text		
+212460	Red Sea	Text		
+212460	Red Sea	Text		
+212460	Red Sea	Text		
+214647	Red Sea	Text		
+214483	Red Sea	Text		
+214479	Red Sea	Text		
+214479	Red Sea	Text		
+214479	Red Sea	Text		
+213372	Red Sea	Text		
+214604	Red Sea	Text		
+214604	Red Sea	Text		
+213372	Red Sea	Text		
+213372	Red Sea	Text		
+213372	Red Sea	Text		
+213372	Red Sea	Text		
+213375	Red Sea	Text		
+213372	Red Sea	Text		
+213372	Red Sea	Text		
+213575	Red Sea	Text		
+213575	Red Sea	Text		
+213575	Red Sea	Text		
+213575	Red Sea	Text		
+214655	Red Sea	Text		
+214654	Red Sea	Text		
+214654	Red Sea	Text		
+214654	Red Sea	Text		
+213367	Red Sea	Text		
+213367	Red Sea	Text		
+213361	Red Sea	Text		
+213361	Red Sea	Text		
+213361	Red Sea	Text		
+213364	Red Sea	Text		
+213364	Red Sea	Text		
+213364	Red Sea	Text		
+213361	Red Sea	Text		
+213364	Red Sea	Text		
+213364	Red Sea	Text		
+214488	Red Sea	Text		
+214488	Red Sea	Text		
+213362	Red Sea	Text		
+213362	Red Sea	Text		
+213362	Red Sea	Text		
+213362	Red Sea	Text		
+213362	Red Sea	Text		
+213365	Red Sea	Text		
+213365	Red Sea	Text		
+213365	Red Sea	Text		
+213365	Red Sea	Text		
+213365	Red Sea	Text		
+213365	Red Sea	Text		
+212468	Red Sea	Text		
+212468	Red Sea	Text		
+212443	Red Sea	Text		
+212443	Red Sea	Text		
+212443	Red Sea	Text		
+212466	Red Sea	Text		
+214476	Red Sea	Text		
+212463	Red Sea	Text		
+212463	Red Sea	Text		
+212463	Red Sea	Text		
+212465	Red Sea	Text		
+212465	Red Sea	Text		
+214465	Red Sea	Text		
+214465	Red Sea	Text		
+214656	Red Sea	Text		
+214656	Red Sea	Text		
+214656	Red Sea	Text		
+212454	Red Sea	Text		
+212454	Red Sea	Text		
+214656	Red Sea	Text		
+214656	Red Sea	Text		
+214656	Red Sea	Text		
+216189	Red Sea	Text		
+216189	Red Sea	Text		
+216189	Red Sea	Text		
+216189	Red Sea	Text		
+214671	Red Sea	Text		
+214672	Red Sea	Text		
+214670	Red Sea	Text		
+214670	Red Sea	Text		
+214670	Red Sea	Text		
+214670	Red Sea	Text		
+214670	Red Sea	Text		
+213607	Red Sea	Text		
+214641	Red Sea	Text		
+214641	Red Sea	Text		
+212438	Red Sea	Text		
+212439	Red Sea	Text		
+212439	Red Sea	Text		
+179611	Red Sea	Text		
+179611	Red Sea	Text		
+179611	Red Sea	Text		
+214642	Red Sea	Text		
+214642	Red Sea	Text		
+214642	Red Sea	Text		
+214642	Red Sea	Text		
+214642	Red Sea	Text		
+214456	Red Sea	Text		
+214662	Red Sea	Text		
+214665	Red Sea	Text		
+214665	Red Sea	Text		
+212445	Red Sea	Text		
+212445	Red Sea	Text		
+212440	Red Sea	Text		
+214667	Red Sea	Text		
+214667	Red Sea	Text		
+212449	Red Sea	Text		
+212453	Red Sea	Text		
+212453	Red Sea	Text		
+212453	Red Sea	Text		
+212453	Red Sea	Text		
+160831	Victoria Land	Text		
+160814	Victoria Land	Text		
+160828	Victoria Land	Text		
+124287	Roscoff	Text		
+124294	Nice	Text		
+124399	Nice	Text		
+124331	Nice	Text		
+124419	Indo-Pacific	Text		
+226069	Indo-Pacific	Text		
+124426	Indo-Pacific	Text		
+124321	Indo-Pacific	Text		
+124373	North Coast of Norway	Text		
+124394	North Coast of Norway	Text		
+124392	North Coast of Norway	Text		
+124418	North Coast of Norway	Text		
+124419	North Coast of Norway	Text		
+124319	North Coast of Norway	Text		
+124319	West Coast of Norway 	Text		
+124287	West Coast of Norway 	Text		
+124316	South Coast of England	Text		
+124321	North East Coast of England 	Text		
+124287	Atlantic Coast of France	Text		
+124392	Atlantic Coast of France	Text		
+124402	Atlantic Coast of France	Text		
+124319	Atlantic Coast of France	Text		
+124364	West Indies	Text		
+124347	West Indies	Text		
+124253	West Indies	Text		
+124330	West Indies	Text		
+124343	West Indies	Text		
+124370	West Indies	Text		
+124254	West Indies	Text		
+124426	West Indies	Text		
+124267	West Indies	Text		
+124268	West Indies	Text		
+124372	West Indies	Text		
+124349	West Indies	Text		
+124380	West Indies	Text		
+124329	West Indies	Text		
+124423	West Indies	Text		
+124339	West Indies	Text		
+124270	West Indies	Text		
+124273	West Africa	Text		
+124273	West Africa	Text		
+124273	South Coast of Africa	Text		
+124373	South Coast of Africa	Text		
+124419	South Coast of Africa	Text		
+124423	North Africa	Text		
+124249	North Africa	Text		
+124418	North Africa	Text		
+731092	South Carolina	Text		
+212453	Dahab	Text		
+179611	Zanzibar	Text		
+124273	Bohuslän	Text		
+124394	Bohuslän	Text		
+124402	Bohuslän	Text		
+124392	Bohuslän	Text		
+124373	Bohuslän	Text		
+124404	Bohuslän	Text		
+124321	Bohuslän	Text		
+124418	Bohuslän	Text		
+124319	Bohuslän	Text		
+212453	Mombasa	Text		
+214669	Mombasa	Text		
+124339	South West Ireland	Text		
+124347	South West Ireland	Text		
+124392	Oostduinkerke	Text		
+124392	Oostduinkerke	Text		
+124392	Oostduinkerke	Text		
+124273	Oostduinkerke	Text		
+124319	Oostduinkerke	Text		
+124273	Cape Bojador	Text		
+124273	Cape Bojador	Text		
+513344	Malay Archipelago	Text		
+124418	Marseille	Text		
+124294	Marseille	Text		
+124250	Cape Blanc	Text		
+456763	Hawaiian Islands	Text		
+124423	United States part of the North Atlantic Ocean	Text		
+513527	Panamanian part of the North Pacific Ocean	Text		
+545126	Panamanian part of the North Pacific Ocean	Text		
+513483	Panamanian part of the North Pacific Ocean	Text		
+513469	Panamanian part of the North Pacific Ocean	Text		
+513804	Panamanian part of the North Pacific Ocean	Text		
+546881	Panamanian part of the North Pacific Ocean	Text		
+513389	Panamanian part of the North Pacific Ocean	Text		
+546882	Panamanian part of the North Pacific Ocean	Text		
+513386	Panamanian part of the North Pacific Ocean	Text		
+513080	Panamanian part of the North Pacific Ocean	Text		
+513377	Panamanian part of the North Pacific Ocean	Text		
+513378	Panamanian part of the North Pacific Ocean	Text		
+513372	Panamanian part of the North Pacific Ocean	Text		
+534609	Panamanian part of the North Pacific Ocean	Text		
+513383	Panamanian part of the North Pacific Ocean	Text		
+534608	Panamanian part of the North Pacific Ocean	Text		
+513384	Panamanian part of the North Pacific Ocean	Text		
+513384	Panamanian part of the North Pacific Ocean	Text		
+513622	Panamanian part of the North Pacific Ocean	Text		
+513621	Panamanian part of the North Pacific Ocean	Text		
+124360	Panamanian part of the North Pacific Ocean	Text		
+513619	Panamanian part of the North Pacific Ocean	Text		
+513609	Panamanian part of the North Pacific Ocean	Text		
+513223	Panamanian part of the North Pacific Ocean	Text		
+513225	Panamanian part of the North Pacific Ocean	Text		
+513214	Panamanian part of the North Pacific Ocean	Text		
+513321	Panamanian part of the North Pacific Ocean	Text		
+513322	Panamanian part of the North Pacific Ocean	Text		
+513324	Panamanian part of the North Pacific Ocean	Text		
+513325	Panamanian part of the North Pacific Ocean	Text		
+160808	Panamanian part of the North Pacific Ocean	Text		
+513266	Panamanian part of the North Pacific Ocean	Text		
+513258	Panamanian part of the North Pacific Ocean	Text		
+513259	Panamanian part of the North Pacific Ocean	Text		
+513260	Panamanian part of the North Pacific Ocean	Text		
+513244	Panamanian part of the North Pacific Ocean	Text		
+513150	Panamanian part of the North Pacific Ocean	Text		
+513146	Panamanian part of the North Pacific Ocean	Text		
+513157	Panamanian part of the North Pacific Ocean	Text		
+456750	Panamanian part of the North Pacific Ocean	Text		
+456750	Panamanian part of the North Pacific Ocean	Text		
+513158	Panamanian part of the North Pacific Ocean	Text		
+513143	Panamanian part of the North Pacific Ocean	Text		
+513138	Panamanian part of the North Pacific Ocean	Text		
+513191	Panamanian part of the North Pacific Ocean	Text		
+513197	Panamanian part of the North Pacific Ocean	Text		
+513196	Panamanian part of the North Pacific Ocean	Text		
+513163	Panamanian part of the North Pacific Ocean	Text		
+513165	Panamanian part of the North Pacific Ocean	Text		
+513183	Panamanian part of the North Pacific Ocean	Text		
+160784	Panamanian part of the North Pacific Ocean	Text		
+513118	Panamanian part of the North Pacific Ocean	Text		
+513125	Panamanian part of the North Pacific Ocean	Text		
+513095	Panamanian part of the North Pacific Ocean	Text		
+513094	Panamanian part of the North Pacific Ocean	Text		
+513215	Canadian Exclusive Economic Zone [Pacific part]	Text		
+731162	Ngor Island	Text		
+765857	Timor Island	Text		
+746349	Tunisia	Text		
+746374	Tunisia	Text		
+746332	Tunisia	Text		
+160784	Victoria Land	Text		
+160800	Victoria Land	Text		
+160796	Victoria Land	Text		
+214642	Malta	Text	Alien	
+214642	Malta	Text	Alien	
+396741	Malta	Text	Alien	
+396741	Malta	Text	Alien	
+396741	Maltese part of the Mediterranean Sea - Eastern Basin	Text	Alien	
+214642	Maltese part of the Mediterranean Sea - Eastern Basin	Text	Alien	
+213372	Lebanese part of the Mediterranean Sea - Eastern Basin	Text	Alien	
+213372	Turkey	Text	Alien	
+160787	Victoria Land	Text	Native - Endemic	
+160769	Victoria Land	Text	Native - Endemic	
+160765	Victoria Land	Text	Native - Endemic	
+160768	Victoria Land	Text	Native - Endemic	
+160762	Victoria Land	Text	Native - Endemic	
+160798	Victoria Land	Text	Native - Endemic	
+456751	Hawaiian Islands	Text	Native - Endemic	
+513682	Red Sea	Text	Native - Endemic	
+513046	Red Sea	Text	Native - Endemic	

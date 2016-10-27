@@ -1,0 +1,42 @@
+AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
+122641	leech nemertean				English	2901	
+122641	muslingeigle				Danish	147411	
+122701	crab nemertean				English	2901	
+122586	ver rubané à lignes blanches				French		
+159505	four-eyed nemertean				English	2901	
+122791	Schwarzkopf-Schnurwurm				German	147412	
+122549	östersjönemertin				Swedish	165516	
+122555	tværstribet slimbændel				Danish	147411	
+122555	rödvinsnemertin				Swedish	165516	
+122560	gulhuvudnemertin				Swedish	165516	
+122817	Ørsteds slimbændel				Danish	147411	
+122626	dannebrogsstribet slimbændel				Danish	147411	
+122626	Ringel-Nemertine				German	147412	
+122626	football Jersey worm				English	147411	
+122626	krimb deti si fanellë				Albanian	151643	
+122626	röd julklappsmask				Swedish	165516	
+155868	Leidy's micruran				English	2901	
+122704	smuk slimbændel				Danish	147411	
+155839	social lineus				English	2901	
+155881	sandy lineus				English	2901	
+122511	stripemakk				Norwegian Nynorsk	147411	
+122511	stripeorm				Norwegian Bokmål	147411	
+122511	tostribet slimbændel				Danish	147411	
+122528	kjempeslimmakk				Norwegian Nynorsk	147411	
+122528	kjempeslimorm				Norwegian Bokmål	147411	
+122528	lange Nemertine				German	147412	
+122528	bootlace worm				English	147411	
+122528	schoenveterworm				Dutch		
+122528	ver rubanné géant				French		
+122536	rode snoerworm				Dutch	685	
+122536	variabel slimbændel				Danish	147411	
+122536	rote Nemertine				German		
+122536	red ribbon worm				English		
+122536	némerte rouge				French		
+122543	grüner Schnurwurm				German	147412	
+122645	chevon amphiporus				English	2901	
+122666	orange slimbændel				Danish	147411	
+122739	brakvands-slimbændel				Danish	147411	
+122739	brackvattensnemertin				Swedish	165516	
+147322	milky nemertean				English	2901	
+122478	bred slimbændel				Danish	147411	

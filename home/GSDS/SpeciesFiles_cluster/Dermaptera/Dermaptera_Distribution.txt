@@ -1,0 +1,27 @@
+﻿AcceptedTaxonID	DistributionElement	StandardInUse
+1179330	MLY	TDWG Level 3 code
+1179330	THA	TDWG Level 3 code
+1179330	Thailand and Peninsular Malaysia	text
+1179886	41    	TDWG Level 2 code
+1179886	42    	TDWG Level 2 code
+1179886	50    	TDWG Level 2 code
+1179886	Oriental Region, New Guinea, North Australia. Peninsular Malaysia	text
+1179914	41    	TDWG Level 2 code
+1179914	42    	TDWG Level 2 code
+1180149	MLY	TDWG Level 3 code
+1180149	PHI	TDWG Level 3 code
+1180149	Philippines (Luzon), and Peninsular Malaysia	text
+1181268	2	TDWG Level 1 code
+1181268	4	TDWG Level 1 code
+1181268	Oriental Region, adventive in Africa (Sa~o Tome´ and west African coast)	text
+1181563	BOR	TDWG Level 3 code
+1181563	Indonesia (Sumatra, Borneo) and Peninsular Malaysia	text
+1181563	MLY	TDWG Level 3 code
+1181563	SUM	TDWG Level 3 code
+1224054	SOC	TDWG Level 3 code
+1224055	SOC	TDWG Level 3 code
+1224057	SOC	TDWG Level 3 code
+1224059	SOC	TDWG Level 3 code
+1224060	GER	TDWG Level 3 code
+1227263	MLY-PM	TDWG Level 4 code
+1227263	Penang Island, Malaysia	text

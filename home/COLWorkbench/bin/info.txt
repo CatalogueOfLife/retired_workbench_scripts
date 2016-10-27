@@ -1,0 +1,10 @@
+This directory holds shell scripts that make the basis of the Unified workflow:
+a) download - downloads data from GSD URL
+b) convert - 1) extracts from archive if neccessary, 2) transforms files from xls and mdb to csv if required
+c) create buffer database - creates buffer database for gsd or sector and populates it with data from files
+c1) cleanup - renames current directory by giving it name based on time and date and creates new empty current directory for new uploads
+d) local editorial checks and transformations - executes SQL for anything that is relevant in local context
+e) delete sectors - deletes sectors from assembly database that need to be replaced
+f) insert sectors - inserts new sectors into assembly database
+g) global editorial - executes SQL of global checks and transformations in the context of entire COL (makes sense only when all other sectors have been inserted))
+h) chain - chaining all the above steps into one executable chain per GSD or Sector

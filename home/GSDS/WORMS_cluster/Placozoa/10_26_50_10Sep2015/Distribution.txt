@@ -1,0 +1,7 @@
+AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
+142023	European waters (ERMS scope)	Text		
+142023	North West Atlantic	Text		
+142023	Mediterranean Sea	Text		
+142023	Almuñecar	Text		
+142023	Portuguese Exclusive Economic Zone	Text		
+142023	Spanish Exclusive Economic Zone	Text		

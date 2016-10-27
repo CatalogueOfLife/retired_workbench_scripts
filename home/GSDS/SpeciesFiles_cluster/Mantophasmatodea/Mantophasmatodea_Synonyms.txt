@@ -1,0 +1,4 @@
+﻿ID	AcceptedTaxonID	Genus	SubgenusName	SpeciesEpithet	AuthorString	InfraSpecies	InfraSpeciesMarker	InfraSpeciesAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUID
+469067	1220612	Lobophasma		redelinghuysensis	Klass, Picker, Damgaard, van Noort & Tojo, 2003				Original combination	Unambiguous synonym	urn:lsid:Mantophasmatodea.speciesfile.org:TaxonName:472518
+469081	1220606	Mantophasma		paresisense	(Klass, Picker, Damgaard, van Noort & Tojo, 2003)				Subsequent combination	Unambiguous synonym	urn:lsid:Mantophasmatodea.speciesfile.org:TaxonName:469081
+469090	1220589	Mantophasma		subsolana	Zompro, Klass, Kristensen & Adis, 2002				Original combination	Unambiguous synonym	urn:lsid:Mantophasmatodea.speciesfile.org:TaxonName:469089

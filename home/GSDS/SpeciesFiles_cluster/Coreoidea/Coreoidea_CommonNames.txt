@@ -1,0 +1,69 @@
+﻿AcceptedTaxonID	CommonName	Language
+1186242	Hvepsetæge	Danish
+1186391	Bean Bug	English
+1186527	Gandhi bug	English
+1186527	Rice earhead bug	English
+1186536	Rice Ear Bug	English
+1186772	Tur pod bug	English
+1186805	Bean Bug	English
+1186805	Cowpea pod-sucking bug	English
+1186805	Spiny Brown Bug	English
+1186805	Ysterbek	Afrikaans
+1186949	Langtornet randtæge	Danish
+1186972	Fintornet randtæge	Danish
+1187005	Lille randtæge	Danish
+1187011	Rynket randtæge	Danish
+1187035	Glat randtæge	Danish
+1187175	Giant Sweetpotato Bug	English
+1187392	Calistemon tip bug	English
+1187392	Tip wilting bug	English
+1187446	Winter Cherry Bug	English
+1187508	Heliconia Bug	English
+1187590	Leaf-footed cactus bug	English
+1187640	Chinche Patona	Spanish
+1187640	Large-Legged Bug	English
+1187661	Southern Pine Seed Bug	English
+1187665	Northern Leaf-Footed Bug	English
+1187714	Amerikanische Kiefernwanze	German
+1187714	La punaise américaine	French
+1187714	La punaise du pin	French
+1187714	Storževa Listonožka	Slovenian
+1187714	Western Conifer-Seed Bug	English
+1187725	Citron Bug	English
+1187725	Passionvine Bug	English
+1187793	Flat horned coreid	English
+1188175	Passionvine Bug	English
+1188293	Dock Bug	English
+1188293	Punaise Brune	French
+1188293	Rjava Usnjatka	Slovenian
+1188293	Skræppetæge	Danish
+1188379	Rødknærandtæge	Danish
+1188382	Veslorožka	Slovenian
+1188384	Veslorožka	Slovenian
+1188392	Rhombic Leatherbug	English
+1188392	Rudetæge	Danish
+1188601	Fruitspotting Bug	English
+1188603	Cotton Plant Bug	English
+1188603	False Stainer	English
+1188612	Coconut bug	English
+1188742	Box Bug	English
+1188757	Brinjeva Usnjatka	Slovenian
+1189385	Crusader bug	English
+1189463	Chilli bug	English
+1189587	Giant Twig Wilter	English
+1189696	Golden Egg Bug	English
+1190231	Punaise de la Courge	French
+1190231	Squash Bug	English
+1190524	Red Gum-bush Bug	English
+1190529	Common Gum-tree Bug	English
+1190681	Prickly Pear Bug	English
+1190705	Xamues	Spanish
+1190707	Giant Mesquite Bug	English
+1191246	Lang stråtæge	Danish
+1191291	Lille stråtæge	Danish
+1191390	Rød kanttæge	Danish
+1191465	Skovkanttæge	Danish
+1191474	Almindelig kanttæge	Danish
+1191487	Mosekanttæge	Danish
+1191504	Tørkekanttæge	Danish
+1191510	Bjergkanttæge	Danish

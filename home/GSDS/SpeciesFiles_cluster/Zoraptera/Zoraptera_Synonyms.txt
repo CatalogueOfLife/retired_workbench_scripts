@@ -1,0 +1,43 @@
+﻿ID	AcceptedTaxonID	Genus	SubgenusName	SpeciesEpithet	AuthorString	InfraSpecies	InfraSpeciesMarker	InfraSpeciesAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUID
+467436	1218745	Zorotypus		brasiliensis	Silvestri, 1947				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467698
+467438	1218744	Zorotypus		barberi	Gurney, 1938				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467515
+467439	1218743	Zorotypus		goeleti	Engel & Grimaldi, 2000				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467463
+467443	1218740	Zorotypus		ceylonicus	Silvestri, 1913				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467703
+467444	1218739	Zorotypus		guineensi	Silvestri, 1913				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467709
+467447	1220647	Paleospinosus		hudae	Kaddumi, 2005				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467448
+467450	1218738	Zorotypus		nascimbenei	Engel & Grimaldi, 2002				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467701
+467451	1218737	Zorotypus		acanthothorax	Engel & Grimaldi, 2002				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467630
+473034	1218738	Octozoros	Octozoros	nascimbenei	(Engel & Grimaldi, 2002)				Subsequent combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467701
+473035	1218737	Octozoros	Octozoros	acanthothorax	(Engel & Grimaldi, 2002)				Subsequent combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467630
+467386	1218785	Zorotypus		sechellensis	Zompro, 2005				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467706
+467398	1218774	Zorotypus		zimmermani	Gurney, 1939				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467497
+467399	1218773	Zorotypus		weidneri	New, 1978				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467400
+467401	1218772	Zorotypus		vinsoni	Paulian, 1951				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467492
+467402	1218771	Zorotypus		swezeyi	Caudell, 1922				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467707
+467403	1218770	Zorotypus		snyderi	Caudell, 1920				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467619
+467404	1218769	Zorotypus		sinensis	Huang, 1974				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467618
+467405	1218768	Zorotypus		silvestrii	Karny, 1927				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467525
+467406	1218767	Zorotypus		shannoni	Gurney, 1938				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467407
+467408	1218766	Zorotypus		philippinensis	Gurney, 1938				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467465
+467409	1218765	Zorotypus		palaeus	Poinar, 1988				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467616
+467410	1218764	Formosozoros		newi	Chao & Chen, 2000				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467697
+467411	1218764	Zorotypus		newi	(Chao & Chen, 2000)				Subsequent combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467697
+467412	1218763	Zorotypus		neotropicus	Silvestri, 1916				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467491
+467413	1218762	Zorotypus		mexicanus	Bolivar y Pieltain, 1940				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467464
+467414	1218761	Zorotypus		medoensis	Huang, 1976				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467705
+467415	1218760	Zoraptera		manni	Caudell, 1923				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467472
+467417	1218760	Zorotypus		manni	(Caudell, 1923)				Subsequent combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467472
+467418	1218759	Zorotypus		longicercatus	Caudell, 1927				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467617
+467419	1218758	Zorotypus		leleupi	Weidner, 1976				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467490
+467420	1218757	Zorotypus		lawrencei	New, 1995				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467702
+467421	1218756	Zorotypus		juninensis	Engel, 2000				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467513
+467422	1218755	Zorotypus		javanicus	Silvestri, 1913				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467496
+467423	1218754	Zorotypus		huxleyi	Bolivar y Pieltain & Coronado, 1963				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467424
+467425	1218753	Zorotypus		hubbardi	Caudell, 1918				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467425
+467427	1218752	Zorotypus		hamiltoni	New, 1978				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467458
+467429	1218751	Zorotypus		gurneyi	Choe, 1989				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467704
+467430	1218750	Zorotypus		delamarei	Paulian, 1949				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467494
+467431	1218749	Zorotypus		cramptoni	Gurney, 1938				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467514
+467433	1218748	Zorotypus		caudelli	Karny, 1923				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467433
+467434	1218747	Zorotypus		congensis	Van-Ryn-Tournel, 1971				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467699
+467435	1218746	Zorotypus		buxtoni	Karny, 1932				Original combination	Unambiguous synonym	urn:lsid:Zoraptera.speciesfile.org:TaxonName:467664

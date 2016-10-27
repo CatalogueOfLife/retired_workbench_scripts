@@ -1,0 +1,208 @@
+AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
+124331	ilgaspyglis jūros ežys				Lithuanian	147411	
+124287	valgomasis jūrų ežys				Lithuanian	147411	
+124249	deniz kestanesi				Turkish	47665	
+124331	deniz kestanesi				Turkish	147411	
+124287	deniz kestanesi				Turkish	147411	
+124331	морський їжак				Ukrainian	147411	
+124287	Морський їжак				Ukrainian	147411	
+124287	Морський їжак їстівний				Ukrainian	147411	
+124418	kanfoude				Arabic	47665	
+124287	jeżowiec jadalny				Polish	147411	
+124427	ježovka fialová				Polish		
+124249	riccio di mare				Italian	47665	
+124249	riccio maschio				Italian		
+124331	riccio corona				Italian	147411	
+124331	riccio diadema				Italian	147411	
+124316	riccio di mare comune				Italian	47665	
+124316	riccio di mare di roccia  				Italian	147411	
+124316	riccio femmina				Italian		
+124427	riccio granulare di mare				Italian	47665	
+124427	riccio di prateira				Italian		
+124268	riccio matita				Italian		
+124418	peto di dolfin				Italian	47665	
+124249	Mavros achinos				Modern Greek (1453-)	47665	
+124249	Αχινός Εβραίος				Modern Greek (1453-)	147411	
+124316	Κόκκινος αχινός				Modern Greek (1453-)	147411	
+124427	Βιολετής αχινός				Modern Greek (1453-)	147411	
+124318	Αχινός άμμου				Modern Greek (1453-)	147411	
+124318	ježi zeleni				Croatian	47665	
+124427	jež pjegavi				Croatian	47665	
+124316	ježinac kamenjar				Croatian	47665	
+124249	jezinac crni				Croatian	47665	
+568045	slate pencil urchin				English		
+179611	tiara-urchin				English	149198	
+179611	pencil urchin				English	149198	
+179611	imperial urchin				English	162734	
+124249	Black Sea urchin				English	47665	
+158058	purple-spined sea urchin				English	2901	
+513046	Red Sea fire urchin				English	162734	
+513046	toxic leather sea urchin				English	162740	
+212443	Bald-patch urchin				English	162734	
+213383	rock-boring urchin				English	162734	
+213377	banded sea urchin				English	162592	
+213377	banded urchin				English	162734	
+213378	blue-black urchin				English	162734	
+213378	Schwarzer Diademseeigel				English	145339	
+124287	edible sea urchin				English	10085	
+158062	common sand dollar				English	2901	
+124392	sea-potato				English	83	
+124392	heart-urchin				English	83	
+124273	green urchin				English	83	
+124273	green sea urchin				English	9234	
+124273	broad beau of sea				English	123768	
+124316	rock sea urchin				English	163039	
+124316	purple sea urchin				English	163039	
+124427	violet sea urchin				English	163039	
+212453	collector urchin				English	162734	
+212453	Bischofsmützenseeigel				English	162740	
+212453	Parson's hat sea urchin				English	145339	
+124321	green sea urchin				English	2901	
+124321	sea egg				English	2901	
+124321	northern sea urchin				English	147411	
+124268	red lance urchin				English	163039	
+513224	Nadel-Seeigel				English	162732	
+513224	common long-spined urchin				English	162734	
+513175	blade-tipped tiara-urchin				English	149198	
+367962	sea biscuit				English	42	
+124319	green sea urchin				English	10085	
+124418	violet heart-urchin				English	47665	
+124418	purple heart urchin				English	147411	
+124373	heart urchin				English	10085	
+513046	Rotmeer-Feuerseeigel				German	162732	
+513046	Lederseeigel				German	162740	
+212443	Rousseaus Seeigel				German	162732	
+124257	Lanzenseeigel				German	47665	
+124331	Diademseeigel				German	47665	
+124331	langstacheliger Diademseeigel				German	147411	
+213383	Matheus' Seeigel				German	162732	
+213377	Calamaris-Seeigel				German	162732	
+213378	Diadem-Seeigel				German	162732	
+124287	essbarer Seeigel				German		
+568045	Griffel-Seeigel				German	162732	
+179611	Sputnik-Seeigel				German	162732	
+124249	schwarzer Seeigel				German	47665	
+124392	kleiner Herzigel				German	83	
+124394	nordischer Herzigel				German	147412	
+124273	Zwergseeigel				German	83	
+124273	Schildigel				German	123768	
+212453	Pfaffenhut-Seeigel				German	162732	
+212453	Gift-Seeigel				German	162740	
+124321	Dröbachs Seeigel				German	147412	
+124268	Lanzenseeigel				German	47665	
+124318	Kletterseeigel				German	47665	
+124319	Kletterseeigel				German	1116	
+124319	Strandigel				German	123768	
+124319	Strand-Seeigel				German	147412	
+124418	violetter Herzigel				German	47665	
+124316	Steinseeigel				German	47665	
+124427	dunkelvioletter Seeigel				German	47665	
+124287	svabergsjøpiggsvin				Norwegian		
+124273	papo-seco				Portuguese		
+124249	ouriço preto				Portuguese		
+124427	ouriços de pontas redondas				Portuguese		
+124316	ouriço verde				Portuguese		
+124249	oursin noir				French	47665	
+124249	oursin mâle				French	163039	
+124331	oursin diadème de Méditerranée				French		
+124287	oursin comestible				French	163043	
+124287	oursin globuleux				French		
+124392	oursin-coeur				French	1116	
+124392	oursin de sable				French	9234	
+124316	oursin pierre				French	163039	
+124316	châtaigne de mer				French	163039	
+124427	oursin violet				French	163039	
+124268	oursin lance rouge				French	163039	
+124318	oursin grimpeur				French	47665	
+124319	oursin grimpeur				French	1116	
+124319	petit oursin vert				French	9269	
+124418	spatangue pourpre				French	9269	
+124418	oursin de vase violet				French	9269	
+124273	fève de mer				French	9234	
+124273	dvärgsjöborre				Swedish	147411	
+124418	purpursjömus				Swedish	147411	
+124419	toppig sjömus				Swedish	147411	
+124404	lervecksjöborre				Swedish	147411	
+124373	lyrsjöborre				Swedish	147411	
+124319	tångsjöborre				Swedish	147411	
+124321	tistelsjöborre				Swedish	147411	
+124392	hjärtsjöborre				Swedish	147411	
+124394	potatissjöborre				Swedish	147411	
+124402	fjädersjöborre				Swedish	147411	
+124287	ätlig sjöborre				Swedish		
+124257	piggsvinssjöborre				Swedish	147411	
+124287	ruokamerisiili				Finnish		
+124392	sandsjømus				Norwegian Nynorsk	147411	
+124319	grønsjøpiggsvin				Norwegian Nynorsk	147411	
+124418	purpursjømus				Norwegian Nynorsk	147411	
+124404	djupvassjømus				Norwegian Nynorsk	147411	
+124373	lyresjømus				Norwegian Nynorsk	147411	
+124257	sjøpiggsvinkonge				Norwegian Nynorsk	147411	
+124287	svabergsjøpiggsvin				Norwegian Nynorsk	147411	
+124394	grågrønsjømus				Norwegian Nynorsk	147411	
+124273	dvergsjømus				Norwegian Nynorsk	147411	
+124321	drøbaksjøpiggsvin				Norwegian Nynorsk	147411	
+124324	bleiksjøpiggsvin				Norwegian Nynorsk	147411	
+124268	tabaquera roja				Spanish	163039	
+124318	ericillo de mar				Spanish	47665	
+124316	boga marina				Spanish		
+124316	erizo de mar común				Spanish	163039	
+124316	castaña de mar				Spanish	163039	
+124427	erizo violáceo				Spanish	163039	
+124287	erizo comestible de mar				Spanish	163043	
+124249	erizo negro				Spanish	47665	
+124250	erizo pigmeo				Spanish	163039	
+124331	erizo diadema mediterráneo				Spanish	147411	
+124331	puercoespín marino mediterráneo				Spanish	147411	
+124331	puercoespín marino				Spanish	163039	
+124418	erizo de corazón purpúreo				Spanish	47665	
+124392	erizo corazón				Spanish	163039	
+212449	Dokugaze				Japanese	162586	
+124392	Okame-bunbuku				Japanese	162585	
+513570	Ezo-bahun-uni				Japanese	162585	
+513312	Murasaki-uni				Japanese	162585	
+124249	ferrçori i zi				Albanian	151643	
+124249	gështënja e detit				Albanian	151643	
+124249	iriqi i zi i detit				Albanian	151643	
+124257	iriqi i detit me purteka				Albanian	151643	
+124392	iriqi zemër i detit				Albanian	151643	
+124316	ferrçori i purpër				Albanian	151643	
+124316	iriqi i purpurt i detit				Albanian	151643	
+124418	iriqi zemër i detit i purpurt				Albanian	151643	
+124287	garota de fons atlàntica				Catalan	163043	
+124316	garota de roca				Catalan	163039	
+124316	eriçó de roca				Catalan	163039	
+124427	boga morada				Catalan		
+124427	garota violeta				Catalan	163039	
+124268	tabaquera vermella				Catalan	163039	
+124318	garotina				Catalan	47665	
+124318	eriçonet de mar				Catalan	163039	
+124418	garota cor				Catalan	47665	
+124249	garota negra				Catalan	47665	
+124249	eriçó jueu				Catalan		
+124331	eriçó de punxes llargues				Catalan		
+124287	užitni morski ježek				Slovenian	147411	
+124331	diadema				Slovenian	138974	
+124392	hartegel				Dutch	83	
+124392	zeeklit				Dutch	61	
+124287	eetbare zeeappel				Dutch	685	
+124273	zeeboontje				Dutch	61	
+124319	gewone zeeappel				Dutch	755	
+124319	gewone zee-egel				Dutch	685	
+124319	kleine zee-egel				Dutch	141415	
+124319	kleine zeeappel				Dutch		
+124418	paarse zeeklit				Dutch	61	
+124418	purperen zeeklit				Dutch	685	
+124316	rots zee egel				Dutch		
+124321	drøbaksjøpiggsvin				Norwegian Bokmål	147411	
+124324	bleiksjøpiggsvin				Norwegian Bokmål	147411	
+124257	sjøpiggsvinkonge				Norwegian Bokmål	147411	
+124418	purpursjømus				Norwegian Bokmål	147411	
+124404	dypvannssjømus				Norwegian Bokmål	147411	
+124373	lyresjømus				Norwegian Bokmål	147411	
+124319	grønnsjøpiggsvin				Norwegian Bokmål	147411	
+124273	dvergsjømus				Norwegian Bokmål	147411	
+124287	svabergsjøpiggsvin				Norwegian Bokmål	147411	
+124392	sandsjømus				Norwegian Bokmål	147411	
+124394	grågrønnsjømus				Norwegian Bokmål	147411	
+124287	морской еж эхинус				Russian	147411	

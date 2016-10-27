@@ -1,0 +1,7 @@
+AcceptedTaxonID	ParentSpeciesID	InfraSpeciesEpithet	InfraSpeciesAuthorString	InfraSpeciesMarker	GSDNameStatus	Sp2000NameStatus	IsFossil	LifeZone	AdditionalData	LTSSpecialist	LTSDate	InfraSpeciesURL	GSDTaxonGUI	GSDNameGUI	
+136589	136284	koehleri	Bacescu, 1981	Subspecies	accepted	Accepted name	0	marine		Anderson, Gary	2010-06-14 09:53:02	http://www.marinespecies.org/aphia.php?p=taxdetails&id=136589		urn:lsid:marinespecies.org:taxname:136589	
+247733	136527	crassa	Riggio, 1975	Subspecies	accepted	Accepted name	0	marine		Anderson, Gary	2007-10-22 16:54:35	http://www.marinespecies.org/aphia.php?p=taxdetails&id=247733		urn:lsid:marinespecies.org:taxname:247733	
+247776	247775	madagascariensis	Bacescu, 1987	Subspecies	accepted	Accepted name	0			Anderson, Gary	2007-10-23 14:59:27	http://www.marinespecies.org/aphia.php?p=taxdetails&id=247776		urn:lsid:marinespecies.org:taxname:247776	
+247777	247775	tuberculatus	(Lang, 1968)	Subspecies	accepted	Accepted name	0			Anderson, Gary	2007-10-23 14:59:27	http://www.marinespecies.org/aphia.php?p=taxdetails&id=247777		urn:lsid:marinespecies.org:taxname:247777	
+247778	136308	gasconicus	Bacescu, 1984c	Subspecies	accepted	Accepted name	0			Anderson, Gary	2007-10-23 14:59:27	http://www.marinespecies.org/aphia.php?p=taxdetails&id=247778		urn:lsid:marinespecies.org:taxname:247778	
+247779	136308	segonzaci	Bacescu, 1981	Subspecies	accepted	Accepted name	0			Anderson, Gary	2007-10-23 14:59:27	http://www.marinespecies.org/aphia.php?p=taxdetails&id=247779		urn:lsid:marinespecies.org:taxname:247779	

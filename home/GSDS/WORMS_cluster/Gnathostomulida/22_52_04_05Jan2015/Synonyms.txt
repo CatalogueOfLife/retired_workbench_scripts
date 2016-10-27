@@ -1,0 +1,13 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+267970	114744	Pterognathia		lunulifera	(Sterrer, 1969)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267970	
+114734	114735	Gnathostomula		axi	Kirsteuer, 1964				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114734	
+265658	114747	Pterognathia		rubromaculata	(Sterrer, 1969)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265658	
+267969	114743	Haplognathia		lyra	Sterrer, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267969	
+267994	114743	Pterognathia		gubbarnorum	(Sterrer, 1969)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267994	
+267968	114742	Pterognathia		filum	Sterrer, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267968	
+267971	114745	Haplognathia		rosacea	Sterrer, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267971	
+267995	114745	Pterognathia		rosea	(Sterrer, 1969)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267995	
+267973	114748	Pterognathia		simplex	(Sterrer, 1966)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267973	
+267967	265643	Gnathostomula		tuckeri	Farris, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267967	
+416499	114752	Pterognathia		swedmarkii	Sterrer, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:416499	
+267972	114746	Pterognathia		grandis	Kirsteuer, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267972	

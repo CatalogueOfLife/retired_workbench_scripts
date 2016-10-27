@@ -1,0 +1,1151 @@
+﻿ReferenceID	Authors	Year	Title	Source
+27895	Herrich-Schäffer	1842	Die wanzenartigen Insecten.	 7:1-16, Plates 217-222
+27896	Palisot de Beauvois	1805	Insectes recueillis en Afrique et en Amérique	
+27899	Thunberg	1822	Dissertatis entomologica de Hemipteris Rostratis capsensibus	 4:1-6
+27915	Valdés	1910	Classificación Gundlach de los hemípteros cubanos, conforme á los ejemplares que existe en el Mnseo (sic) del Instituto de 2ª Enseñanza de la Habana. La Collecion Titulada “Mis – Trabajos – Académicos” del Dr. Pedro Valdés Ragués se Imprimio en los talleres de - “Cuba Intelectual,”- propiedad del Doctor, José – A. Rodíguez – Garcia, en la ciudad de la Habana el año 1910. [Orden Hemípteros pages 194–217].	 194-217
+27965	Bergevin	1933	Description d'une nouvelle espèce d"Agraphopus   (Hémiptère Corizinae) du Sud Tunisien	 112-113
+27971	Brailovsky & Barrera	2012	Taxonomía y distribución del género Leptoscelis en Costa Rica (Hemiptera: Heteroptera: Coreidae: Leptoscelini)	Revista Mexicana de Biodiversidad 83:57-62
+27972	Brailovsky & Barrera	2012	Review of the Stenoscelidea complex and key to the known genera of Stenoscelideini (Hemiptera: Heteroptera: Coreidae)	Acta Entomologica Musei Nationalis Pragae (AEMNP) 2012b 52(2):355-370
+27978	Dallas	1852		List of the specimens of hemipterous insects in the collection of the British Museum, Taylor & Francis Incorporated, London II:369-592
+27979	Brailovsky	2007	A revision of the tribe Gonocerini from Australia (Hemiptera: Heteroptera: Coreidae: Coreinae)	Zootaxa 1530:1-18
+27981	Brailovsky	2008	Notes on the genus Petascelis Signoret and description of one new species  (Hemiptera: Heteroptera: Coreidae: Coreinae: Petascelini)	Zootaxa 1749:18–26
+27982	Brailovsky	2006	A new species of Hydara (Hemiptera: Coreidae: Coreinae:  Hydarini) from Madagascar	Zootaxa 1351:15-22
+27983	Zhu, W. & W. Bu	2005	Revision of the genus Pseudomictis Hsiao and transfer of Pseudomictis quadrispinus to the genus Pternistria Stål (Hemiptera: Heteroptera: Coreidae: Coreinae: Mictini)	Zootaxa 1103:51-64
+27984	Brailovsky	2008	Revision of the genus Diariptus Stål (Hemiptera: Heteroptera: Coreidae: Meropachydinae: Spathophorini)	Zootaxa 1936:59–65
+27985	Polaszek & Kolberg	2008	Rediscovery of Gryon chrysolaum (Walker) (Hymenoptera: Platygastridae)—an egg parasitoid of Holhymenia rubiginosa Breddin and Anisoscelis foliacea Fabricius (Heteroptera: Coreidae)	Zootaxa 1968:39-44
+27987	Brailovsky & Barrera	2006	Two new species of Plinachtus Stål (Hemiptera: Heteroptera: Coreidae: Coreinae: Gonocerini) from Aldabra Atoll and Madagascar	Zootaxa 1351:35–43
+27988	Yao, Cai & D. Ren	2006	The first discovery of fossil rhopalids (Heteroptera: Coreoidea) from Middle Jurassic of Inner Mongolia, China	Zootaxa 1269:57-68
+27989	Dolling	1977	A revision of the Neotropical genus Vilga Stål (Hemiptera: Coreidae).	Systematic Entomology 2(1):27-44
+27990	Dolling & Casini	1988	Revision of the neotropical genus <i>Nyttum</i> (Hemiptera: Coreidae)	Systematic Entomology 13:143-156
+27991	Stål	1868[1867]	Bidrag till Hemipterernas systematik	Öfversigt af Konglika Vetenskaps-Akademiens Förhandlingar (Öfvers.K.VetenskAkad.Förh.Stockh) 24(7):491-560
+27993	Stål	1860[1859]	Till känndeomen om Coreida.	Öfversigt af Konglika Vetenskaps-Akademiens Förhandlingar (Öfvers.K.VetenskAkad.Förh.Stockh) 16:449-477
+27994	Stål	1872	Genera Coreidarum Europae disposuit	Öfversigt af Konglika Vetenskaps-Akademiens Förhandlingar (Öfvers.K.VetenskAkad.Förh.Stockh) 29(6):49-56
+27995	Stål	1855	Hemiptera från Kafferlandet	Öfversigt af Konglika Vetenskaps-Akademiens Förhandlingar (Öfvers.K.VetenskAkad.Förh.Stockh) 12:27-46
+27996	Stål	1858	Orthoptera och Hemiptera från sodra Afrika	Öfversigt af Konglika Vetenskaps-Akademiens Förhandlingar (Öfvers.K.VetenskAkad.Förh.Stockh) 15:307-320
+27997	Stål	1854	Nya Hemiptera	Öfversigt af Konglika Vetenskaps-Akademiens Förhandlingar (Öfvers.K.VetenskAkad.Förh.Stockh) 11(8):231-255
+27998	Stål	1855	Nya Hemiptera	Öfversigt af Konglika Vetenskaps-Akademiens Förhandlingar (Öfvers.K.VetenskAkad.Förh.Stockh) 12:181–192
+28001	Stål	1873	Enumeratio Hemipterorum. Bidrag till en förteckning öfver alla hittills kända Hemiptera, jemte systematiska meddelanden. 3.	Konglika Svenska Vetenskaps-Akademiens Handlingar (K. Svens. Vet.-Akad. Hand.) 11(2):1-163
+28002	Stål	1870	Enumeratio Hemipterorum. Bidrag till en förteckning öfver alla hittills kända Hemiptera, jemte systematiska meddelanden. 1.	Konglika Svenska Vetenskaps-Akademiens Handlingar (K. Svens. Vet.-Akad. Hand.) 9(1):1-232
+28003	Stål	1868	Hemiptera Fabriciana. Fabricianska Hemipterarter efter de i Köpenhamn och Kiel förvarade typexemplaren granskade och beskrifne. I  	Konglika Svenska Vetenskaps-Akademiens Handlingar (K. Svens. Vet.-Akad. Hand.) 7(11):1-148
+28005	Stål	1869	Hemiptera Fabriciana. 2	Konglika Svenska Vetenskaps-Akademiens Handlingar (K. Svens. Vet.-Akad. Hand.) (N.F.) 8(1):1-130. [Addenda, 114; Index (Heteroptera), 115-124]
+28006	Hsiao	1964	A short essay on Chinese Coreidae (Hemiptera, Heteroptera) II. Coreinae	Acta Scientiarum Naturalium Universitatis Nankaiensis 5(1):19-35
+28007	Ren, S.Z.	1992	New species of Ochrochira Stal (Heteroptera: Coreidae: Mictinae)	Acta Scientiarum Naturalium Universitatis Nankaiensis 1992(1):55-58
+28008	Hsiao	1964	A short essay on Chinese Coreidae (Hemiptera, Heteroptera) I. Mictinae	Acta Scientiarum Naturalium Universitatis Nankaiensis 5:1-17
+28009	Hsiao	1965	A short essay on Chinese Coreidae (Hemiptera, Heteroptera) III Pseudophloeinae and Rhopalidae	Acta Scientiarum Naturalium Universitatis Nankaiensis 6(1):49-64
+28010	Breddin	1900	Hemiptera nonnulla regionis australicae	Entomologische Nachrichten 26:17-46
+28011	Karsch	1892	Kurze Characteristik neuer Wanzen aus Kamerun, gesammelt durch Herrn Dr. Paul Preuss	Entomologische Nachrichten 13(9):129-136
+28012	Karsch	1895	Einige neue westafrikanische Heteropteren aus den beiden Gruppen der Pentatomideen und Coreïdeen	Entomologische Nachrichten 21(17-18):265–274
+28014	Hsiao	1964	New Coreidae (Hemiptera, Heteroptera) from China II.	Acta Zoologica Sinica 16:89-100
+28015	Hsiao	1963	New Coreidae (Hemiptera, Heteroptera) from China I.	Acta Zoologica Sinica 15:611-623
+28016	Hsiao	1965	New Coreids from China (Hemiptera, Heteroptera) IV.	Acta Zoologica Sinica 17(4):421-434
+28017	Hsiao	1964	New Coreidae from China (Hemiptera, Heteroptera) III.	Acta Zoologica Sinica 16:251-262
+28018	Puton	1872	Bibliographie. Les Coréides de MM. Mulsant et Rey. Étude sur cette famille.	Annales de la Société Entomologique de France 1:303-314
+28019	Signoret	1861[1860]	Faune des Hémiptères de Madagascar (Suite et fin.) 2e partie. Hétéroptères.	Annales de la Société Entomologique de France 3 8(3-4):917-972
+28020	Stål	1865	Hemiptera nova vel minus cognita	Annales de la Société Entomologique de France 4 5:163-188
+28022	Puton	1873	Notes pour servir à l'étude des Hémiptères	Annales de la Société Entomologique de France 5 3:11-26
+28023	Montrouzier	1861	Essai sur la faune entomologique de la Nouvelle-Calédonie (Balade) et des îles des Pins, Art, Lifu, etc. Hémiptères  	Annales de la Société Entomologique de France 4 1:59-74
+28024	Signoret	1851	Description d'une nouvelle espèce d'Hémiptères-Hétéroptères du groupe des Mictides, genre Petascelis  	Annales de la Société Entomologique de France 2 9:121-124
+28025	Signoret	1847	Description d’ un Hémiptère-Hétéroptère, formant le type d’ un nouveau genre	Annales de la Société Entomologique de France 2 301-304
+28026	Noualhier	1893	Voyage de M. Ch. Alluaud aux îles Canaries (Novembre 1889 - Juin 1890). 2e Mémoire. Hémiptères Gymnocérates & Hydrocorises	Annales de la Société Entomologique de France 62:5-18
+28027	Signoret	1859	Monographie du genre <i>Corizus</i>	Annales de la Société Entomologique de France 3 7:75-105
+28028	Signoret	1862	Espèces nouvelles ou peu connues d'Hémiptères trouvés en Corse par M. Bellier de la Chavignerie	Annales de la Société Entomologique de France 4 2:375-378
+28029	Montandon	1895	Nouvelles espèces de Coréides de l'Amérique intertropicale	Annales de la Société Entomologique de France 64:5-14, plate 1
+28030	Signoret	1862	Description d'Hémiptères nouveaux de Jurimaguas et Moyabamba (Pérou)	Annales de la Société Entomologique de France 4 2(1862):579-588
+28031	Signoret	1863	Révision des Hémiptères du Chili	Annales de la Société Entomologique de France 4 3:541-588
+28032	Stål	1864	Hemiptera nonnulla nova vel minus cognita	Annales de la Société Entomologique de France 4 4:47-68
+28033	Signoret	1861	Description de quelques hémiptères nouveaux	Annales de la Société Entomologique de France 4(1):55-58
+28034	Signoret	1860	Faune des Hémiptères de Madagascar.2. Hétéroptères	Annales de la Société Entomologique de France 3 8:917-972, plates 13-14
+28036	Brailovsky	1986	Un nouveau Discogastrini d'Amérique du sud (Hemiptera, Coreidae)	Annales de la Société Entomologique de France 22(2):211-214
+28039	Signoret	1850	Description d'hémiptères nouveaux provenant de la Guinée portugaise	Annales de la Société Entomologique de France 2 8:67-71
+28044	Signoret	1864	Révision des Hémiptères du Chili	Annales de la Société Entomologique de France Sér. 4 3:541-588, plates 11-13
+28045	Coquerel	1848	Observations entomologiques sur divers insectes recueillis à Madagascar	Annales de la Société Entomologique de France (Sér. 2) 6:177-190, plate 7
+28046	Puton	1881	[No title; report of a meeting.]	Annales de la Société Entomologique de France 6 1:xxix-xxx
+28047	Puton	1876	[No title]	Annales de la Société Entomologique de France Sér. 5 6:xxxiv
+28049	Amyot & Serville	1843		Histoire naturelle des insectes. Hémiptères, Roret, Paris i-lxxvi, 1-675, 1-6
+28050	Blanchard	1840		Histoire naturelle des insectes. Hémiptères, Roret, Paris 1-671
+28051	Walker, F.	1871		Catalogue of the Specimens of Hemiptera Heteroptera in the Collection of the British Museum, Published for the Trustees of the British Museum, London IV:1-211
+28052	Walker, F.	1872		Catalogue of the Specimens of Hemiptera Heteroptera in the Collection of the British Museum, Published for the Trustees of the British Museum, London Part 5:202 pp.
+28054	Kiritshenko	1952	New and little-known bugs (Hemiptera-Heteroptera) of Tadzhikistan	Trudy Zoologicheskogo Instituta Akademiya Nauk SSSR (Trud.zool.Inst.Akad.Nauk SSSR) 10:140-198
+28056	Brailovsky & Cassis	1999	Revision of the tribe Agriopocorini (Hemiptera: Coreidae: Coreinae)	The Canadian Entomologist (Can. Entomol.) 131:293-321
+28057	Brailovsky	2001	New genera and species of the tribe Acanthocorini (Hemiptera: Coreidae, Coreinae)	The Canadian Entomologist (Can. Entomol.) 133:623-631
+28059	Torre-Bueno & Engelhardt	1910	Some Heteroptera from Virginia and North Carolina	The Canadian Entomologist (Can. Entomol.) 42:147-151
+28071	Gibson, W.W. & J.L. Carrillo	1959	Lista de insectos en la colección entomológica de la oficina de estudios especiales. SAG. México	Folleto Misceláneo 9:24
+28072	Gibson, W.W. & S.J. Carrillo	1959	Lista de insectos en la Colección Entomológica de la Oficina de Estudios Especiales S. A. G	Folleto Misceláneo 29:42
+28075	Mayr	1865	Diagnosen neuer Hemipteren	Verhandlungen des Zoologisch-Botanischen Gesellschaft in Wien (Verh. Zool.-Bot. Ges. Wien) 15:429-446
+28076	Hsiao	1963	The Chinese bamboo coreids of the tribe Cloresmini Stål with the description of a new species (Hem.-Heter.)  	Acta Entomologica Sinica 12:506-510
+28077	Hsiao	1963	Results of the Zoologico-Botanical Expedition to southwest China, 1955-1957 (Hemiptera, Coreidae)	Acta Entomologica Sinica 12:310-344
+28078	Hsiao	1962	A preliminary study on Chinese Homoeocerus Burmeister (Hemiptera: Coreidae)	Acta Entomologica Sinica 11:suppl.: 66-79
+28079	Ren, S.Z.	1987	New species of genus Hygia Uhler from China (Hemiptera: Coreidae)	Acta Entomologica Sinica 30:85-92
+28080	Liu, Q.A. & Zheng	1994	A new species of Coreus Fabricius (Hemiptera: Coreidae) from China	Acta Entomologica Sinica 37:468-469
+28081	Han	1991	A new species of <i>Pterygromia</i> [sic] from China (Heteroptera: Coreidae)	Acta Entomologica Sinica 34:204-205
+28082	Brailovsky & Barrera	2008	Two new species of Anasa (Hemiptera: Heteroptera: Coreidae: Coreini) from Mexico and Central America	Acta Entomologica Musei Nationalis Pragae (AEMNP) 48(2):649-654
+28083	Brailovsky & Barrera	2010	Five new species of <i>Catorhintha</i>  (Hemiptera: Heteroptera: Coreidae: Coreinae: Coreini)  from Mexico and South America	Acta Entomologica Musei Nationalis Pragae (AEMNP) 50(1):59–74
+28084	Brailovsky	2009	Revision of the <i>Phthia</i> generic complex with a description of four new genera (Hemiptera: Heteroptera: Coreidae: Coreinae: leptoscelini)	Acta Entomologica Musei Nationalis Pragae (AEMNP) 49(1):59-74
+28086	Hoberlandt	1952	Hemiptera-Heteroptera collected by Mr. J. Housska in Israel	Acta Entomologica Musei Nationalis Pragae (AEMNP) 27(1951):5-34,  no. 381,19 figs.
+28087	Ahmad	1967	An analysis of the Marcius-Babaranus complex. A new genus and four new species from Oriental region (Hemiptera: Micrelytrinae)  	University Studies University of Karachi 4(3):64- 87
+28088	Lindberg	1927	Zur Kenntnis der Heteropteren-Fauna von Kamtschatka sowie der Amur- und Ussuri-Gebiete	Acta Soc.Fauna Flora fenn., Helsingfors 56(no. 9):pp. 1-26
+28089	Fieber	1837	Beiträge zur Kenntniss der Schnabelkerfe    	Beiträge zur Gesammten Natur- und Heilwissenschaft 1:97-111, 337-355, plate 2
+28090	Kiritshenko	1916	Species nova aethiopica generis Gonocerus Latr. (Hemiptera-Heteroptera, Coreidae)	Annals of the Zoological Museum of the Academy of Sciences 20:72-73
+28092	Linnavuori	1978	Hemiptera of the Sudan, with remarks on some species of the adjacent countries 6. Aradidae, Meziridae, Aneuridae, Pyrrhocoridae, Stenocephalidae, Coreidae, Alydidae, Rhopalidae, Lygaeidae.	Acta Zoologica Fennica (Acta Zool.Fenn.) 153:1-108
+28093	Linnavuori	1982	Some hemipterous fauna from Somalia and Ethiopia	Monitore Zoologico Italiano N.S. Suppl. 16(1):1-33
+28094	Linnavuori	1968	On some new and interesting Hemiptera. Suomen hyont	Aikak. 34:197-200
+28095	Linnavuori	1971	On the family Coreidae (Het.)	Suomen Hyönteistieteellinen Aikakauskirja (Suom.Hyönt.Aikak) 37:163-178
+28096	Linnavuori	1970	On the genus Mevaniomorpha Rt. (Het., Coreidae)	Suomen Hyönteistieteellinen Aikakauskirja (Suom.Hyönt.Aikak) 36(1):43-45
+28098	Uhler	1871	Notices of some Heteroptera in the collection of Dr. T. W. Harris	Proceedings of the Boston Natural History Society 14:93-109
+28099	Schaefer, C. W. & Zettel	2007	A review of Helcomeria STÅL, 1873 (Insecta: Heteroptera:  Coreidae), with the description of a new species from Vietnam	Annalen des Naturhistorischen Museums in Wien (Ann. Naturhist. Mus. Wien) 108 B:67-75
+28100	Ahmad	1964	Systematic position of Dicrorymbus, Xenoceraea and Procamptus (Hemiptera, Coreidae), three of Bergroth's genera from the Philippine Islands, with descriptions of two new species	Ann.ent.fenn., Helsinki 30:17-34
+28107	Walker, F.	1872	Catalogue of the specimens of heteropterous Hemiptera in the collection of the British Museum	Heteroptera in the Collection of the British Museum(5):1-202
+28109	Mancini	1953	Missione biologica Sagan-Omo diretta dal Prof. Edoardo Zavattari (1939). Hemiptera-Heteroptera	Ann.Mus.Stor.nat.Genoa 66:166-204
+28110	Mancini	1951	Emitteri nuovi dell'Africa orientale	Ann.Mus.Stor.nat.Genoa 65:145-149, 1 fig.
+28111	Mancini	1961	Emitteri dell'Abissinia raccolti dal M. se Saverio Patrizi e da altri. Nota II	Ann.Mus.Stor.nat.Genoa 72:31-46
+28112	Hesse	1925	Contributions to a knowledge of the fauna of South-West Africa, iv. A list of the Heteropterous and Homopterous Hemiptera of South-West Africa	Annals of the South African Museum 23(1):1-190, pls 1-8.
+28113	Hesse	1935	Scientific results of the Vernay-Lang Kalahari expedition, March to September 1930. Mutillidae (Hymenoptera), Tenebrionidae (Coleoptera), Hemiptera-Heteroptera, Curculionidae	Ann.Transv.Mus., Pretoria 16(4):7 figs., 525-579, 19 figs., 581-603, 4 figs., 17 pp. 49-62, 2 figs
+28127	Schaefer, C. W. & P.L. Mitchell	1983	Food plants of the Coreoidea (Hemiptera: Heteroptera)	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 76(4):591–615
+28128	Brailovsky	2000	Nishihygia: a New Genus of Colpurini from New Guinea (Hemiptera: Coreidae: Coreinae)	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 93(1):28-30
+28129	Fracker	1923	A review of the North American Coreini (Heteroptera)	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 16(2):165-173, 1 fig, pl. 10
+28130	Brailovsky	1994	One new genus and two new species of Colpurini (Heteroptera: Coreidae: Coreinae) from the Philippine Republic	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 87(6):745-750
+28131	Brailovsky	1997	One new genus and two new species of Acanthocephalini (Hemiptera: Coreidae: Coreinae)	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 90(5):550-554
+28132	Schaefer, C. W.	1972	Degree of metathoracic scent-gland development in the trichophorous Heteroptera (Hemiptera)	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 65:810-821
+28133	Brailovsky & Barrera	2004	Salgohygia: a new genus of Colpurini from New Guinea (Hemiptera: Coreidae: Coreinae)	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 97(1):1-5
+28134	Brailovsky & Barrera	2001	Ichilocoris: a new genus of Acanthocephalini from South America (Hemiptera: Coreidae: Coreinae)	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 94(2):174-178
+28135	Brailovsky & Barrera	2005	Cervantistellus: a new genus of Acanthocephalini from Mexico (Hemiptera: Coreidae: Coreinae)	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 98(1):48-54
+28136	Fracker	1918	The Alydinae of the United States	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 11(3):255-280, pls 24-25
+28141	Ahmad & Perveen	1983	Revision of the genus Aschistocoris Bergroth, with description of two new species from the Oriental Region (Hemiptera: Coreidae: Coreinae)	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 76:860-865
+28143	Dolling & Yonke	1976	The genus <i>Coriomeris</i> in North America	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 69:1147–1152
+28145	Fracker	1919	<i>Chariesterus</i> and its neotropical relatives (Coreidae Heteroptera).	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 12(3):227-230, 1 fig.
+28146	Schaefer, C. W. & Schaffner	2003	A revision of Apidaurus (Hemiptera: Alydidae: Alydinae)	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 96(5):615-624
+28150	Schaefer, C. W. & O'Shea	1979	Host plants of three coreine tribes (Hemiptera: Heteroptera: Coreidae)	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 72:519–523
+28153	Chopra	1968	A revision of the genus Arhyssus Stål	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 61:629-655, 146 figs
+28154	Hambleton	1908	The genus <i>Corizus</i> with a review of the North and Middle American species	Annals of the Entomological Society of America (Ann.Ent.Soc.Amer.) 1(2):133-151, pls 8-11
+28155	Van Reenen	1976	The Gonocerini of the Ethiopian region, part l. Generic and subgeneric status within the tribe. (Heteroptera: Coreidae)	Annals Transv.Mus. 30(4):41-52
+28159	Villiers	1963	Les Leptocorixa africains et malgaches du Museum de Paris (Hem. Coreidae)	Buil.Inst, franc.Afr.noire, Dakar (A) 25:229-234
+28160	Fain	1971	Note sur la répartition géographique des Coreitarsoneminae parasites des Hémiptères coréides avec description de taxa nouveaux. (Acarina: Trombidiformes)	Bull.Annls Soc.r .ent.Belg. 107:81-88.
+28161	Dolling	1978	A revision of the Oriental pod bugs of the tribe Clavigrallini (Hemiptera: Coreidae)	Bulletin of the British Museum (Natural History), Entomology (Bull. Br. Mus. (Nat. Hist.) Entomol.) 36(6):281-321
+28162	Dolling	1986	The tribe Pseudophloeini (Hemiptera: Coreidae) in the Old World tropics with a discussion on the distribution of the Pseudophloeinae.	Bulletin of the British Museum (Natural History), Entomology (Bull. Br. Mus. (Nat. Hist.) Entomol.) 53:151-212
+28164	Dolling	1979	A revision of the African pod bugs of the tribe Clavigrallini (Hemiptera: Coreidae) with a checklist of the world species  	Bulletin of the British Museum (Natural History), Entomology (Bull. Br. Mus. (Nat. Hist.) Entomol.) 39(1):1-84
+28166	Villiers	1955	Notes d'entomologie ouest-africaine VI. Nouveaux Coreides et Pentatomides	Bulletin de l’Institut Français d’Afrique Noire 17(2):581-589
+28167	Villiers	1954	Hémiptères récoltés au Simandou (Guinée française) par M. Lamotte	Bulletin de l’Institut Français d’Afrique Noire A 16(3):913-916
+28168	Villiers	1952	Mission A. Villiers au Togo et Dahomey (1950) XXI. Hemipteres	Bulletin de l’Institut Français d’Afrique Noire A 14(4):1196-1213
+28172	Brailovsky	2002	Review of Parabrachytes (Hemiptera: Heteroptera: Coreidae: Coreinae: Daladerini)	Journal of the Kansas Entomological Society (J. Kansas Ent. Soc.) 75(2):91-100
+28177	Elkins	1953	Notes on some Texas Reduviidae (Hemiptera, Reduviidae)	Journal of the Kansas Entomological Society (J. Kansas Ent. Soc.) 26:137–140
+28179	Brown	1958	Revision of the genus Amblypelta Stål (Hemiptera, Coreidae)	Bull.ent.Res., London 49:509-541
+28180	Brown	1955	Pseudotheraptus wayi, a new genus and species of Coreid (Hemiptera) injurious to coconuts in East Africa	Bull.ent.Res., London 46:221-240
+28181	Miller, N. C. E.	1931	Two new species of Malayan Rhynchota	Bull.ent.Res., London 22:pp. 195-197
+28182	China	1924	A preliminary revision of the Oriental species of Leptocorisa, Latr. (Hemiptera, Coreidae)	Bull.Ent.Res.London 14:pp. 235-239
+28184	Villiers	1969	Contribution a la faune du Congo (Brazzaville). Mission A. Villiers et A. Descarpentries. 91. Hemipteres Rhopalidae et Alydidae	Bull.Inst.fond.Afr.noire (Ser.A) 31:1055-1058
+28185	Villiers	1954	Contribution à l'étude du peuplement de la zone d'inondation du Niger (Mission G.Remaudière). X. Hémiptères Hétéroptères  	Bulletin de l'Institut Français d'Afrique Noire 16:219-231
+28186	Villiers	1950	Note d'entomologie Ouest-africaine. I. Descriptions de nouveaux Hémiptères Hétéroptéres	Bulletin de l'Institut Français d'Afrique Noire (Sér. A) 12(3):634-659, 17 figs
+28187	O'Shea	1980	The genera of African Mictini	Bulletin de l'Institut Français d'Afrique Noire A 42:296-339
+28188	Villiers	1950	Hémiptères récoltés au Liberia par P.L. Dekeyser et B. Holas.	Bulletin de l'Institut Français d'Afrique Noire A 12:930-939
+28190	Wagner	1965	Géocorises (excl. Reduviidae et Anthocoridae) récoltées par J. Mateu dans l'Ennedi	Bulletin de l'Institut français d'Afrique noire, Dakar (A) (Bull.Inst.franç.Afr.noire, Dakar (A)) 27:294-306
+28194	Horváth	1891	Hemipterološki izlet a Primorje i na Plitvicka jezera	Glasnik hrvatskog naravoslovnog društva 6:29-49
+28195	Schmidt, K.	1939	Beitraege zur Heteropteren-Fauna Aegyptens, 1, II (Hemiptera)	Bull.Soc.Fouad ler Ent, Cairo 23:pp. 15-30
+28196	Schmidt, K.	1939	Bemerkungen zu einigen Arten der Gattung Coriomeris Westw. und Besehreibung einer neuer Unterart (Hemiptera - Heteroptera: Pseudophloeinae)	Bull.Soc.Fouad ler Ent., Cairo 22((1938)):pp. 351-356
+28197	Vidal	1936	Quelques Hemipteres. Heteropteres nouveaux du Maroc	Bull.Soc.Hist.nat.Afr.N., Algiers 27:pp. 197-199
+28198	Ribaut	1929	Sur quelques especes des genres Stictopleurus et Corizus (Heteroptera-Coreidae)	Bull.Soc.Hist.nat.Toulouse 58:227-234
+28199	Villiers	1950	Contribution à l'étude de l'Aïr (Mission L. Chopard et A. Villiers) Hémiptères Pyrrhocoridae, Coreidae, Pentatomidae et Coptosomatidae	Mémoires de l'Institut Français d'Afrique Noire 10:322-328
+28200	Dispons	1963	Les Mictini Asiatiques (Hem., Het. Coreidae). La lignée Helcomeria (2ème partie)	Bulletin de la Société Royale des Sciences Naturelles de Laos (Bull.Soc.Sci.nat.Laos) 6:15-24
+28201	Dispons	1962	Les Mictini Asiatiques (Hem., Het. Coreidae). La lignée Helcomeria.	Bulletin de la Société Royale des Sciences Naturelles de Laos (Bull.Soc.Sci.nat.Laos) 5:26-44
+28202	Dispons	1963	Les Mictini Asiatiques (Hem., Het. Coreidae). La lignée Pterygomia	Bulletin de la Société Royale des Sciences Naturelles de Laos (Bull.Soc.Sci.nat.Laos) 7:45-55
+28203	Ren, S.Z. & Jin	1985	A summarized report on Coreinae in Xizang Autonomous Region (Heteroptera: Coreidae)	Contributions from Shanghai Institute of Entomology 5:313-318
+28209	Mancini	1959	Miscellanea emitterologica	Annali del Museo Civico di Storia Natural "Giacomo Doria" 71:102-110
+28217	Ahmad	1965	The Leptocorisinae (Heteroptera: Alydidae) of the world	Bulletin of the British Museum (Natural History) Entomology Supplement 5:1-156
+28225	Lindberg	1948	On the insect fauna of Cyprus. Results of the expedition of1939 by Harald, Hakan and P. H. Lindberg. I-II	Comment, biol., Helsingfors 10:no. 7. 175 pp.
+28227	Breddin	1907	Über die Gattung Distantidea Kirk. (Rhynch. Het.)	D.ent.Zs., Berlin 1907:31-34
+28232	Jensen-Haarup	1924	Hemipterological notes and descriptions. III	Entomologiske Meddeleser (Ent.Medd.Copenhagen) 14(7-8):323-338, figs 10-11
+28237	Kiritshenko	1966	Hemiptera-Heteroptera collected by D.M. Steinberg in Iran in 1955	Entomologicheskoe Obozrenie (Entomol.Obozr.) 45:798-805
+28238	Tshernova	1978	Palaearctic species of the genus Coriomeris Westw.(Heteroptera, Coreidae)	Entomologicheskoe Obozrenie (Entomol.Obozr.) 57:551-567
+28239	Putshkov, V. G. & Kerzhner	1983	On the nomenclature of bugs of the family Rhopalidae  (Heteroptera) of the USSR	Entomologicheskoe Obozrenie (Entomol.Obozr.) 62:80-82
+28240	Tshernova	1979	New data on taxonomy of some Palaearctic Coreidae (Heteroptera)	Entomologicheskoe Obozrenie (Entomol.Obozr.) 58:578-581
+28257	Josifov & Kerzhner	1978	Heteroptera aus Korea. 2. Teil (Aradidae,Berytidae, Lygaeidae, Pyrrhocoridae, Rhopalidae, Alydidae, Coreidae, Urostylidae, Acanthosomatidae, Scutelleridae, Pentatomidae, Cydnidae, Plataspidae)	Fragmenta Faunistica (Warsaw) 23(9):137-196
+28259	Leach	1814		The Zoological Miscellany, being descriptions of new, or interesting Animals, Nodder, London 1:1-137
+28260	Bergroth	1913	Supplementum Catalogi Hemipterorum Bruxellensis. II. Coreidae, Pyrrhocoridae, Colobathristidae, Neididae.	Mémoires de la Société Entomologique de Belgique 22:125-183
+28263	Bergroth	1893	Notes sur quelques Hémipteres éthiopiens du Musée de Lisbonne.	Jornal de Sciencias Mathematicas, Physicas e Naturaes 2 10:122-127
+28265	Alayo, P.D. & Grillo	1977	Los hemípteros de Cuba XVI. El género Leptoglossus Guerin (Hemiptera: Coreidae) en Cuba	Centro Agrícola Mayo-Agosto 1977:91-111
+28272	Cerutti	1937	Captures intéressantes d'Hémiptéres du Valais (2me liste)	Mitteilungen der Schweizerischen Entomologischen Gesellschaft 17:168-172
+28274	Froeschner	1963	The genus <i>Ceraleptus</i> Costa in the Western Hemisphere (Hemiptera: Coreidae)	J.Kansas ent.Soa, Manhattan 36:109-113
+28275	Torre-Bueno & Thomas	1914	Nota sobre Hemípteros del Chaco de Santiago del Estero (R. A.)	Anales del Museo Nacional de Historia Natural de Buenos Aires 26:157-162
+28276	Bergroth	1921	Some Hemiptera Heteroptera from N. W. Borneo	Journal of the Straits Branch of the Royal Asiatic Society (J.Straits Branch R.A.Soc.) 83:76-87, 1 fig.
+28278	Dhotre	1976	A new species of Coreidae (Heteroptera) from Bombay, India	Journal Bombay nat.Hist.Soc. 72(3):778-780
+28279	Dolling	1974	Some Coreidae (Hemiptera) from New Guinea with the ovipositor partially reduced	Journal Ent.(B) 43(1):45-53
+28282	Bergroth	1925	Notes on some Coreidae (Hem. Het.)	Konowia, Vienna 4:82-88
+28287	Seidenstücker	1954	Ueber drei Pseudophloeinen der frankischen Fauna (Hemiptera-Heteroptera, Coreidae)	NachrBl.bayer.Ent., Munich 3:105-107
+28289	Linnavuori	1976	Taxonomical studies on African Coreoidea (Heteroptera)	Notulae ent. 56(3):89-96, 12 figs
+28291	Seidenstücker	1960	Ein neuer Arenocoris aus der Türkei (Hem. Het. Coreidae)	Opuscula Zoologica (Opusc. Zool.) 41:1-4
+28295	Ahmad & Shadab	1973	A new genus and a new species of Phyllomorphini (Hemiptera: Coreidae) from Pakistan, with phylogenetic considerations	Pakistan J.Zool. 5(2):181-187
+28296	Van Duzee	1940	New species of Hemiptera collected by the Templeton Crocker expedition to the Solomon Islands in 1933	Pan-Pacif.Ent., San Francisco 16:pp. 178-192
+28297	Van Duzee	1921	Characters of some new species of North American Hemipterous Insects, with one new genus	Proc.Cal.Acad.Sci., S.Francisco (4) 11:111-134
+28298	Miller, N. C. E.	1954	A new sub-family and new genera and species of Australian Hemiptera-Heteroptera	Proceedings of the Linnean Society of New South Wales (Proc.Linn.Soc.N.S.W.) 78:233-240
+28299	Kirkaldy	1908	A catalogue of the Hemiptera of Fiji	Proceedings of the Linnean Society of New South Wales (Proc.Linn.Soc.N.S.W.) 33(2):345-391
+28301	Miller, N. C. E.	1936	New and little known Malayan Rhynchota (Hem. Homopt.)	Proc.R.ent.Soc.London (B) 5:pp. 65-67
+28303	Stål	1866[1865]		Hemiptera Africana, Stockholm 2:1-181
+28304	Stål	1866		Hemiptera Africana, Stockholm 4:1-275, 1 plate
+28305	Panzer	1805		Faunae Insectorum Germanicae initia oder Deutschlands Insecten, Felsecker, Nürnberg 99:pls 1-24 and text
+28306	Kerzhner	1972	New and little-known Heteroptera from Mongolia and from adjacent regions of the USSR. I    	Nasekomye Mongolii 1:349-379
+28308	Bosq	1937	Lista preliminar de los hemípteros  (Heteropteros); especialmente relacionados con la  agricultura nacional	Revista de la Sociedad Entomológica Argentina 9:111-133
+28314	Newman	1838	Entomological notes	Entomological Magazine 5:168-181
+28315	Seidenstücker	1968	Camptopus eberti n. sp. eine neue Alydine aus Afghanistan (Heteroptera, Coreidae)	Reichenbachia 10:227-232
+28317	Josifov	1968	Eine neue Chorosoma-Art aus Bulgarien (Heteroptera, Rhopalidae)    	Reichenbachia 10:255 - 258
+28318	Brailovsky & Barrera	1997	The genus Lygaeopharus Stål and description of two new species (Insecta: Heteroptera: Coreidae: Colpurini)	Reichenbachia 32(6):25-31
+28319	Brailovsky	1997	Leptostellana parva gen. nov. et spec. nov. from Costa Rica (Insecta: Heteroptera: Coreidae: Leptoscelidini)	Reichenbachia 32(5):19-24
+28320	Brailovsky	1998	Systematics of the Southern African Hydarini (Insecta: Heteroptera: Coreidae: Coreinae)	Reichenbachia 32(26):165-174
+28321	Brailovsky & Barrera	2000	Four new species of Neotropical Coreidae (Insecta: Hemiptera: Heteroptera)	Reichenbachia 33(34):271-280
+28322	Brailovsky	2001	Five new species of Neotropical Coreidae (Insecta: Hemiptera)	Reichenbachia 34(8):67-79
+28323	Brailovsky	2002	Two new genera and five new species of Malaysian and Australasian Coreidae (Insecta: Hemiptera: Heteroptera)	Reichenbachia 34(28):241-255
+28324	Brailovsky & Mayorga	1995	A new species of genus Plectropodoides Schouteden from Africa (Insecta: Hemiptera: Heteroptera: Coreidae)	Reichenbachia 31(1):1-5
+28325	Ghauri	1984	Two new species of <i>Amblypelta</i> Stål attacking cacao in Papua New Guinea and Irian Jaya (West New Guinea) with a key to its species (Heteroptera, Coreidae)	Reichenbachia 22(6):51-64
+28326	Göllner-Scheiding	1998	Drei neue Arten der Rhopalidae: <i>Harmostes (Harmostes) paraprolixus</i> spec. nov. und <i>Harmostes (Neoharmostes) bergi</i>  spec. nov. aus Bolivien, und <i>Peliochrous thomasi</i>  spec. nov. aus Uganda (Insecta: Heteroptera: Coreoidea).	Reichenbachia 32(2):175-179
+28327	Scott	1882	Description of a new species of Hemiptera-Heteroptera from Central America	Entomologist’s Monthly Magazine 19:41-42
+28329	Bergroth	1893	Descriptions of some <i>Rhynchota</i> of geographical interest	Entomologist’s Monthly Magazine 29:61-63
+28332	Dolling	1979	Systematic changes in the Coreidae (Hemiptera)	Entomologist’s Monthly Magazine 114:97–98
+28339	Schouteden	1932	Phyllomorphides d'Afrique	Rev.Zool.Bot.afr., Brussels 23:pp. 43-45
+28340	Schouteden	1929	Voyage au Congo de S.A.R. le Prince Leopold de Belgique 1925	Rev.Zool.Bot.afric, Brussels 17:pp. 1-252
+28348	Miller, N. C. E.	1931	The bio-nomics of some Malayan Rhynchota (Hemiptera-Heteroptera)	Sci.Ser.Dept.Agric.S.S.& F.M.S., Kuala Lumpur(5):pp. 123
+28351	Ahmad & Shadab	1975	A new species of the genus Centrocoris Kolenati 1886 (Heteroptera, Coreidae, Coreinae) from Pakistan	Sind University Research Journal (Science Series) 9:47-51
+28352	Ahmad & Yusuf	1976	Two new species of the genus <i>Hypselopus</i> Burm. (Heteroptera, Alydidae, Alydinae) from Pakistan.	Sind University Research Journal (Science Series) 1976 9:35-41, 13 figs.
+28354	Linnavuori	1970	On the Anoplocnemis monacha group of the Ivory Coast (Het., Coreidae)	Suomen Hyönteistieteellinen Aikakauskirja (Suom.Hyönt.Aikak) 36(3):152-158, 7 figs.
+28355	Linnavuori	1970	On the tristator group of the genus Anoplocnemis St. (Het., Coreidae)	Suomen Hyönteistieteellinen Aikakauskirja (Suom.Hyönt.Aikak) 36:158-163
+28356	Linnavuori	1975	Studies on African Heteroptera	Tijdschrift Ent. 118(2):43-65
+28358	Uhler	1876	List of Hemiptera of the region west of the Mississippi River	Bulletin of the United States Geological Survey of the Territories (Bull. U.S. Geol. Surv.) 1:269-361
+28359	Uhler	1877	Report upon the insects collected by P.R. Uhler during the explorations of 1875, including monographs of the families Cydnidae and Saldidae and the Hemiptera collected by A. S. Packard, Jr. M. D.	Bulletin of the United States Geological Survey of the Territories (Bull. U.S. Geol. Surv.) 3:355-475
+28361	Gross	1963	Coreidae (Alydini by J. C. Schaffner),  Neididae, and Nabidae	Insects of Micronesia 7(7):357-390, figs 1-6
+28365	Germar	1838	Hemiptera Heteroptera promontorii bonae spei, nondum descripta, quae collegit C.F. Drège  	Revue Entomologique (Silbermann) 5:121-192
+28367	Spinola	1837		Essai sur les genres d'insectes appartenants à l'ordre des Hémiptères, Lin. ou Rhyngotes, Fab. et à la section des Hétéropères, Dufour 1-383
+28368	Stephens	1829		A systematic catalogue of British insects, Baldwin and Cradock, London 2:1-388
+28369	Burmeister	1835		Handbuch der Entomologie, Enslin, Berlin i-xii, 1-400
+28370	Burmeister	1839		Handbuch der Entomologie, Enslin, Berlin 2(2):757-1050
+28371	Herrich-Schäffer	1835		Nomenclator entomologicus. Verzeichniss der europäischen Insecten; zur Erleichterung des Tauschverkehrs mit Preisen versehen. Heft 1; Lepidoptera und Hemiptera, letztere synoptisch bearbeitet und mit vollständiger Synonymie, Friedrich Pustet, Regensburg i-iv, 1-116
+28372	Herrich-Schäffer	1836[1835]	Verzeichniss der europäischen Insecten; zur Erleichterung des Tauschverkehrs mit Preisen versehen	Nomenclator entomologicus. Verzeichniss der europäischen Insecten; zur Erleichterung des Tauschverkehrs mit Preisen versehen. Heft 1; Lepidoptera und Hemiptera, letztere synoptisch bearbeitet und mit vollständiger Synonymie, Friedrich Pustet, Regensburg 1:35-116
+28375	Uhler	1869	Notices of the Hemiptera Obtained by the Expedition of Prof. James Orton in Ecuador and Brazil	Proceedings of the Boston Society of Natural History 12:321-327
+28377	Uhler	1878	Notices of the Hemiptera Heteroptera in the collection of the late T.W. Harris, M.D.	Proceedings of the Boston Society of Natural History 19:365-446
+28379	Distant	1881	Additions to the Rhynchotal Fauna of the Ethiopian Region	Proceedings of the Zoological Society of London (P.Z.S.) 1881(2):270-276, pl. xxxi
+28380	Distant	1901	Revision of the Rhynchota belonging to the family Coreidae in the Hope collection at Oxford.	Proceedings of the Zoological Society of London (P.Z.S.) 1901(1):325-335, plates 29-30
+28381	Uhler	1893	A list of the Hemiptera-Heteroptera collected in the Island of St. Vincent by Mr. Herbert H. Smith; with descriptions of new genera and species	Proceedings of the Zoological Society of London (P.Z.S.) 705-719
+28382	Uhler	1894	On the Hemiptera-Heteroptera of the island of Grenada West Indies	Proceedings of the Zoological Society of London (P.Z.S.) 1894:167–224
+28386	Kirby, W. F.	1888	On the insects (exclusive of Coleoptera and Lepidoptera) of Christmas Island	Proceedings of the Zoological Society of London (P.Z.S.) 1888:546-555
+28387	Uhler	1893	A List of the Hemiptera-Heteroptera collected in the island of St. Vincent by Mr. Herbert H. Smith; with Descriptions of New Genera and Species	Proceedings of the Zoological Society of London (P.Z.S.) 1893:705–719
+28388	Brailovsky	1985	Revision del genero Anasa Amyot-Serville (Hemiptera - Heteroptera - Coreidae - Coreini)	Monografias del Instituo de Biologia Universidad Nacional Autónoma de México(2):1-266
+28389	Distant	1892		A Naturalist in the Transvaal, R.H. Porter., London i-xvi, 1-277
+28392	Distant	1892	Notes on Ethiopian Rhynchota.	Entomologist's Monthly Magazine (Ent. Mon. Mag.) 28:285-286
+28394	Dolling	1979	A second species of <i>Microtelocerus</i> Reuter (Hem., Coreidae) with a redescription of the genus	Entomologist's Monthly Magazine (Ent. Mon. Mag.) 114(1978):99-101
+28395	Distant	1889	Descriptions of new species of Coreidae	Entomologist's Monthly Magazine (Ent. Mon. Mag.) 25:230-231
+28396	Saunders	1877	Descriptions of a new genus and three new species of European Hemiptera    	Entomologist's Monthly Magazine (Ent. Mon. Mag.) 14:103-104
+28397	Lansbury	1965	A revision of the Stenocephalidae Dallas 1852 (Hemiptera-Heteroptera)    	Entomologist's Monthly Magazine (Ent. Mon. Mag.) 101:52-72
+28398	Lansbury	1966	A revision of the Stenocephalidae Dallas 1852 (Hemiptera-Heteroptera) (concluded)  	Entomologist's Monthly Magazine (Ent. Mon. Mag.) 101:145-160
+28399	O'Shea	1974	Two new combinations and a new synonymy in the Coreidae (Hemiptera-Heteroptera)	Entomologist's Monthly Magazine (Ent. Mon. Mag.) 109:125
+28402	Kormilev	1954	Notas sobre Coreidae neotropicales II; (Hemiptera) Merocorinae de la Argentina y paises limitrofes	Revista Ecuatoriana de Entomologia y Parasitologia 2:153-187
+28404	Van Reenen	1981	The Gonocerini (Heteroptera: Coreidae) of the Ethiopian region, part 2. Revision of the subgenus Gonocerus (Plinachtus) (Stål, 1859)  	Annals of the Transvaal Museum 33(4):61-106
+28409	Distant	1911	Rhynchota from the Aru islands.	Ann.Mag.Nat.Hist.London 8(8):389-390
+28411	Maldonado Capriles	1953	Re-description of the genus Burtinus Stål and description of a new species from Puerto Rico (Hemiptera, Coreidae)	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 55:40-44
+28412	Sailer	1961	The identity of <i>Lygaeus sidae</i> Fabricius, type species of the genus <i>Niesthrea</i> (Hemiptera: Coreidae)	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 631:293-299
+28415	Yonke	1972	A new genus and two new species of Neotropical Chariesterini (Hemiptera: Coreidae)	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 74(3):283-287.
+28416	Heidemann	1910	New species of <i>Leptoglossus</i> from North America (Hemiptera: Coreidae)	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 12(4):191-197, pls 7-8
+28417	Heidemann	1905	Description of a new <i>Anasa</i> from North America	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 7(1):11-12
+28418	Brailovsky	1993	New genera and new species of Colpurini (Heteroptera: Coreidae) from the Fiji Islands and New Guinea	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 95(3):435-448
+28419	Brailovsky	1996	A revision of the tribe Colpurini (Heteroptera: Coreidae) from the Fiji Islands	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 98(3):473-490
+28420	Packauskas & C. W. Schaefer	2001	Clarification of some taxonomic problems in Anisoscelini and Leptoscelini (Hemiptera: Coreidae: Coreinae)	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 103(1):249-256
+28421	Brailovsky & Cassis	1999	New genus and new species of Amorbini (Heteroptera: Coreidae) from Australia	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 1 101:69-74
+28422	Herring	1980	A review of the cactus bug of the genus <i>Chelinidea</i> with the description of a new species (Hemiptera: Coreidae).	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 82(2):237-251
+28423	Brailovsky & Barrera	2009	Description of Three New Species of Anasa Amyot and Serville (Hemiptera: Heteroptera: Coreidae: Coreini) from South America	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 111(1):159-165
+28424	Brailovsky	2009	A second species of the genus Meluchopetalops Breddin 1903, from South America (Heteroptera: Coreidae: Coreinae: Acanthocephalini)	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 111(2):361-364
+28425	Brailovsky	2009	Two new species of Malvanaioides Brailovsky and key to the known taxa (Hemiptera: Heteroptera: Coreidae: Coreinae: Leptoscelini)	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 111(2):365-369
+28426	Yonke	1981	Description of Two New Species of Neotropical Leptoglossus Guérin (Hemiptera: Coreidae	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 83:213-221
+28428	Brailovsky & Ortega Leon	1994	Three new genera and six new species of Colpurini (Heteroptera: Coreidae) from New Guinea	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 96(3):500-515
+28429	Brailovsky	1995	New genus and new species of Colpurini (Heteroptera: Coreidae) from the Philippine Republic	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 97(2):250-257
+28430	Brailovsky & Barrera	1997	Redescription of the subgenus Hygia (Eucolpura) Breddin (Hemiptera: Coreidae: Colpurini), with the description of two new species, and a key to the known species	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 99(2):257-266
+28431	Brailovsky & Barrera	1998	A new genus, two new species, and synonymical notes on the tribe Spathophorini (Heteroptera: Coreidae: Meropachydinae), with a key to genera of the tribe	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 100(4):746-754
+28432	Brailovsky	1999	The tribe Meropachydini with descriptions of five new genera, synonymical notes, and a key to the genera (Heteroptera: Coreidae: Meropachydinae)	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 101(3):573-594
+28433	Brailovsky	2001	A new genus and a new species of Leptoscelidini (Heteroptera: Coreidae: Coreinae) from Brazil	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 103(4):917-921
+28434	Brailovsky	2001	Review of the genus Cimolus Stål, with the description of a new species (Heteroptera: Coreidae: Coreinae)	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 103(4):1004-1010
+28435	Brailovsky	2002	A new species of Maevius Stål from Australia and some notes on the family Hyocephalidae (Hemiptera: Heteroptera)	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 104(1):41-50
+28436	Brailovsky & Barrera	2003	A new genus and new species of Colpurini (Heteroptera: Coreidae) from New Guinea	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 105(2):362-372
+28437	Brailovsky & Barrera	2003	A new genus, one new species, and synonymical notes on the tribe Acanthocerini (Heteroptera: Coreidae: Coreinae)	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 105(4):883-888
+28438	Brailovsky & Barrera	2004	Two new genera and four new species of Colpurini (Heteroptera: Coreidae: Coreinae) from New Guinea	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 106(2):424-433
+28439	Brailovsky	2004	The tribe Colpurini (Hemiptera: Heteroptera: Coreidae) of the Philippine Republic, with descriptions of four new species, and a synonymical note	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 106(3):606-618
+28440	Brailovsky	2005	A revision of the genus Acanthotyla Stål with the description of five new species and synonymical note (Heteroptera: Coreidae: Colpurini)	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 107(2):279-302
+28441	Brailovsky	2006	Three new species of Hygia (Pterocolpura Blöte) (Hemiptera: Heteroptera: Coreidae: Coreinae: Colpurini) from Sumatra	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 108(3):646-650
+28442	Brailovsky & Barrera	2007	A new species of Placoscelis Stål (Hemiptera: Heteroptera: Coreidae: Acanthocephalini) from Brazil and Suriname, and a key to the known species	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 109(1):29-33
+28443	Brailovsky	2009	New genera and new species of Meropachyini (Hemiptera: Heteroptera: Coreidae: Meropachyinae) from South America	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 111(3):555-563
+28447	Brailovsky	1996	A new genus and a new species of Leptoscelidini (Heteroptera: Coreidae) from Costa Rica	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 98(2):215-220
+28448	Brailovsky & Barrera	2007	A revision of the genus <i>Priocnemicoris</i> Costa with the description of eight new species (Hemiptera: Heteroptera: Coreidae: Cloresmini)	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 109(3):547-571
+28449	Brailovsky	2007	A new genus and two new species of Dasynini (Hemiptera: Heteroptera: Coreidae) from Madagascar	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 109(4):847-855
+28450	Brailovsky	2005	A new species of Dalader Amyot and Serville, with a key to the Malaysian species (Hemiptera: Heteroptera: Coreidae: Coreinae: Daladerini).	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 107(4):883-886
+28451	Brailovsky	2002	A new genus and a new species of Daladerini (Hemiptera: Heteroptera: Coreidae) from Madagascar	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 104(1):111-118
+28452	Brailovsky & Barrera	2008	Five new species of African Dasynini (Hemiptera: Heteroptera: Coreidae) belonging to the genera Anadasynus, Galaesus, and Pseudopendulinus, and keys to the known species	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 110(1):103-115
+28456	Brailovsky	2007	<i>Wasbauerellus</i>, a new Replacement Name for Priocnemioides Brailovsky, 2006 (Hemiptera: Heteroptera: Coreidae: Cloresmini)	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 109(4):957
+28457	Brailovsky	2010	Review of the Neotropical genus <i>Euagona</i> Dallas (Hemiptera: Heteroptera: Coreidae: Spartocerini) with description of one new species	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 112(1):1-9
+28460	Scudder, G. G. E.	2008	Three new species of Heteroptera (Hemiptera: Rhopalidae, Rhyparochromidae) from western North America.	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 110(4):1202-1211
+28462	Gerstaecker	1892	Bestimmung der von Herrn Dr. F. Stuhlmann in Ost-Afrika gesammelten Hemiptera.	Jahresberichte Hamb. Wiss. Anst. (JB.Hamb.Anst.) 9(2):45-58
+28468	Heidemann	1909	New species of Tingitidae and description of a new <i>Leptoglossus</i> (Hemiptera-Heteroptera)	Bulletin of the Buffalo Society of Natural Sciences 9:231-238, 6 figures
+28469	Van Duzee	1907	Notes on Jamaican Hemiptera	Bulletin of the Buffalo Society of Natural Sciences 8(5):3-79
+28470	Van Duzee	1909	Observations on some Hemiptera taken in Florida in the spring of 1908	Bulletin of the Buffalo Society of Natural Sciences 9:143-230
+28471	Lindberg	1923	Über die Gattung Coriomeris Westw. (Hem. Het.)	Annales Historico-Naturales Musei Nationalis Hungarici (Ann. Mus. Hungar.) 20:73-80
+28472	Horváth	1917	Heteroptera palaearctica nova vel minus cognita. I.	Annales Historico-Naturales Musei Nationalis Hungarici (Ann. Mus. Hungar.) 15:365-381
+28474	Horváth	1917	Species generis <i>Corizus</i> Fall. (Therapha Am. Serv.)    	Annales Historico-Naturales Musei Nationalis Hungarici (Ann. Mus. Hungar.) 15:166-174
+28476	Horváth	1907	Hemiptera nova vel minus cognita e regione palaearctica I  	Annales Historico-Naturales Musei Nationalis Hungarici (Ann. Mus. Hungar.) 5:289-323
+28477	Horváth	1903	Adnotationes synonymicae de Hemipteris palaearcticis	Annales Historico-Naturales Musei Nationalis Hungarici (Ann. Mus. Hungar.) 1:555-558
+28478	Horváth	1915	Monographia Coreidarum generis <i>Pternistria</i>	Annales Historico-Naturales Musei Nationalis Hungarici (Ann. Mus. Hungar.) 13:397-423, 19 figs
+28480	Karsch	1894	Verzeichniss der von Herrn Dr. Paul Preuss in Kamerun gesammelten Schnabelkerfe nebst Beschreibung der neuen arten.	Ent.Zeit.Stettin 55(4-6):99-116, plates 1-2
+28482	Stål	1862	Hemiptera Mexicana enumeravit speciesque novas descripsit	Stettiner Entomologische Zeitung (Stettin. Entomol. Zeit.) 23:81-118, 273-281, 289-325, 437-462
+28483	Stål	1861	Miscellanea hemipterologica.	Stettiner Entomologische Zeitung (Stettin. Entomol. Zeit.) 22:129-153
+28484	Dohrn	1860	Zur Heteroptern-Fauna Ceylon's.	Stettiner Entomologische Zeitung (Stettin. Entomol. Zeit.) 21:399-409
+28485	Dohrn	1860	Hemipterologische Miscellaneen	Stettiner Entomologische Zeitung (Stettin. Entomol. Zeit.) 21:99-109, 158-162, plate 1
+28486	Schmidt, E.	1909	Dalader sumatrensis, eine neue Coreide von Sumatra. (Hemiptera-Heteroptera)	Stettiner Entomologische Zeitung (Stettin. Entomol. Zeit.) 70:368-369
+28487	Stål	1858	Beitrag zur Hemipteren-Fauna Sibiriens und des Russischen Nord-Amerika   	Stettiner Entomologische Zeitung (Stettin. Entomol. Zeit.) 19:175-198
+28488	Schmidt, E.	1907	Drei neue Sephina=Arten in der Sammlung des Stettiner Museums	Stettiner Entomologische Zeitung (Stettin. Entomol. Zeit.) 1907:109-113
+28491	Hahn	1833		Die Wanzenartigen Insecten, getreu nach der Natur abgebildet und beshrieben, C.H. Zeh'schen, Nürnberg 1:119-236
+28493	Fieber	1861		Die europäischen Hemiptera. Halbflügler. (Rhynchota Heteroptera.), Gerold's Sohn, Wien 113-444
+28494	Laporte	1832	Essai d'une classification systématique de l'ordre des Hémiptères (Hémiptères Hétéroptères, Latr.).	Magasin de Zoologie (Mag. Zoo.) 1-88, plates 51-55
+28495	Laporte	1833	Essai d'une classification systématique de l'ordre des Hémiptères (Hémiptères Hétéroptères, Latr.).	Magasin de Zoologie (Mag. Zoo.) 2:1-88
+28496	Serville	1833		Magasin de Zoologie (Mag. Zoo.) Plate 27
+28497	Guérin-Méneville	1833	[Description of Anisoscelis alipes.]	Magasin de Zoologie (Mag. Zoo.) 3(2):plate 75 and legend
+28498	Serville	1831	[Description of Anisoscelis latifolia.]	Magasin de Zoologie (Mag. Zoo.) 1831 1(2):plate 18 and legend
+28500	Brullé	1835	Orthoptères et Hémiptères	Histoire naturelle des insectes, F.D. Pillot, Paris 9:415pp, plates 1, 2, 4, 6, 7, 9, 10, 12, 20, 22, 29
+28502	Lethierry & Severin	1894	Hétéroptères, Coreidae, Berytidae, Lygoeidae, Pyrrhocoridae.	Catalogue général des Hémiptères, Hayez, Bruxelles Tome II:1-277
+28503	Uhler	1872[1871]	Notices of the Hemiptera of the western territories of the United States, chiefly from the surveys of Dr F.V. Hayden.	Hayden, F.V., Preliminary Report of the United States Geological Survey of Montana and portions of adjacent territories 5:392-423
+28504	Breddin	1898	Studia hemipterologica. IV	Jahrbuch der Naturhistorisches Verein zu Magdeburg 1898:151-163
+28506	Dang	2004	Bo sung mot giong va ba loai bo xit moi thuoc phan ho Mictinae (Coreidae)	Tap Chi Sinh Hoc 26:11-14
+28508	Thunberg	1784		Dissertatio entomologica novas insectorum species, sistens, cujus partem tertiam, Edman, Upsaliæ 53-68
+28509	Horváth	1932	Les Prionotyliens, une sous-famille des Coréides (Hemiptera-Heteroptera).	Livre du Centenaire, Société Entomologique de France (Livre du Centenaire, Soc. Entomol. Fr.) 139-148
+28510	Distant	1893	Descriptions of New Genera and Species of Neotropical Rhynchota	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 1893:83-96
+28511	Distant	1912	An enumeration of the Rhynchota collected during the expedition of the British Ornithologists’ Union to central Dutch New Guinea	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 1911(3-4):591-604, plate 49
+28512	Distant	1888	An enumeration of the Rhynchota received from Baron von Müller, and collected by Mr. Sayer in New Guinea during Mr. Cuthbertson’s expedition	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 1888(4):475–489, pl. xiii
+28514	Stål	1863	Hemipterorum exoticorum generum et specierum nonnullarum novarum descriptiones	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 3 1:571-603
+28515	Distant	1881	Neotropical Pentatomidae and Coreidae	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 24 1881(3):391-396
+28516	Distant	1900	Contributions to a knowledge of the Rhynchota. III. Heteroptera from Borneo	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 1900:695-697
+28518	White	1842	Description of some hemipterous insects	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 3:92
+28519	Distant	1879	Contributions to a knowledge of the Hemipterous Fauna of Madagascar	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 1879(2):209-218, plate 5
+28520	Distant	1883	First report on the Rhynchota collected in Japan by Mr. George Lewis	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 1883:413-443, pls xix, xx
+28521	Distant	1900	Contributions to a knowledge of the Rhynchota. II. Rhynchota of central America	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 1900(4):687-695
+28522	Westwood	1858		Transactions of the Entomological Society of London (Trans.Ent.Soc.London) (n.s.) 4:71
+28523	Kirkaldy	1900	[No title; report of a meeting]	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 1900(Proc):iii
+28524	Dallas	1850	II. Notice of some-Hemiptera from Boutan, in the Collection of the Hon. East India Company	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) New series 1:4-11
+28525	Distant	1909	New Malayan Rhynchota	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 1909(3):385-396, plate 10
+28526	Kirkaldy	1905	Memoir on the Rhynchota collected by Dr. Arthur Willey, F.R.S., chiefly in Birara (New Britain) and Lifu	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 1905(3):327-363, plate 17
+28528	Burrell	1807	On the <i>Lygaeus micropterus</i>	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 1:73-74, 1 col. pl.
+28529	Cheesman	1927	A contribution towards the insect fauna of French Oceania	Transactions of the Entomological Society of London (Trans.Ent.Soc.London) 75(1):147-161, pls 14-16
+28536	Breddin	1904	Une nouvelle espèce du genre Lycambes Stål	Ann.Soc.ent.Belgique 48:306
+28537	Distant	1903	Contributions to a knowledge of the Rhynchota.	Ann.Soc.ent.Belgique 47(2):43-65
+28538	Bergroth	1918	Studies in Philippine Heteroptera i.	The Philippine Journal of Science (Philipp.J.Sci.Manila) D 13(2):43-73
+28540	Bergroth	1914	Descriptions of some ethiopian Heteroptera with synonymical notes.	Rev.Zool.Africaine Bruxelles 3:448-456
+28541	Bergroth	1910	Neue Hemiptera aus Madagaskar.	Entomol.Ztg Wien 29:229-234
+28543	Bergroth	1906	Neue Hemiptera aus Madagascar.	Entomol.Ztg., Wien 25:17-19
+28544	Breddin	1908	Rhynchotographische Beiträge. (Fünftes Stück.)	Entomol.Ztg., Wien 27:67-70
+28545	Bergroth	1905	Rhynchota aethiopica IV.	Ann.Soc.ent Belgique 368-378
+28546	Bergroth	1896	Ueber drei westafrikanische Coreiden.	Ent.Nachr. 22(3):37-38
+28548	Fabricius	1794		Entomologia systematica emendata et aucta secundum classes, ordines, genera, species adjectis synonymis, locis, observationibus, descriptionibus, Proft, Hafniae 4:i-v, 1-472
+28549	Costa, A.	1847		Cimicum regni Neapolitani centuria secunda decas sexta, septima, octava, nona et decima., Napoli 1-41
+28550	Reuter	1883[1882]	Ad cognitionem Heteropterorum Africae occidentalis.	Öfversigt af Finska Vetenskaps-Societetens Förhandlingar 25:1-43
+28551	Reuter	1900	Heteroptera palaearctica nova et minus cognita. II.	Öfversigt af Finska Vetenskaps-Societetens Förhandlingar 42:268-281
+28552	Reuter	1891	Hemiptera Heteroptera från trakterna kring Sajanska bärgskedjan, insamlade af K. Ehnberg och R. Hammarström  	Öfversigt af Finska Vetenskaps-Societetens Förhandlingar 33(1890-1891):166-208
+28553	Sahlberg, R.F.	1848		Monographia Geocorisarum Fenniae, Frenckel, Helsingforsiae i-x1, 1-155
+28554	Breddin	1909	Rhynchoten von Ceylon, gesammelt von Dr. Walter Horn.	Annales de la Société Entomologique de Belgique (Ann. Soc. Entomol. Belg.) 53:250-309
+28555	Bergroth	1909	Hemiptera nova orientalia.	Annales de la Société Entomologique de Belgique (Ann. Soc. Entomol. Belg.) 53:184-190
+28556	Bergroth	1913	On a small collection of Hemiptera from north-eastern French Congo	Annales de la Société Entomologique de Belgique (Ann. Soc. Entomol. Belg.) 57:237-239
+28557	Bergroth	1912	Notes on Coreidae and Neididae	Annales de la Société Entomologique de Belgique (Ann. Soc. Entomol. Belg.) 56:76-93
+28558	Bergroth	1903	Rhynchota aethiopica. III	Annales de la Société Entomologique de Belgique (Ann. Soc. Entomol. Belg.) 47:288-297
+28560	Breddin	1906	Neue Beiträge zur Kenntnis von Colpura Bergr. und verwandter Rhynchoten	Annales de la Société Entomologique de Belgique (Ann. Soc. Entomol. Belg.) 50:47-58
+28562	Bergroth	1894	Rhynchota aethiopica descripsit  II  	Annales de la Société Entomologique de Belgique (Ann. Soc. Entomol. Belg.) 38:535-547
+28563	Schouteden	1912	Coréides nouveaux de la région du Kilimandjaro et du Meru	Annales de la Société Entomologique de Belgique (Ann. Soc. Entomol. Belg.) 56:52-59
+28565	Schouteden	1910	Note sur quelques Hémiptères de Mayumbe (Bas-Congo)	Annales de la Société Entomologique de Belgique (Ann. Soc. Entomol. Belg.) 54:403-407
+28566	Lethierry	1891	Note sur les Hémiptères du Bengale	Annales de la Société Entomologique de Belgique (Ann. Soc. Entomol. Belg.) 35:cxli–cxlv
+28572	Distant	1906	Oriental Heteroptera	Annales de la Société Entomologique de Belgique (Ann. Soc. Entomol. Belg.) 50(12):405-417
+28573	Kirkaldy	1909	Hemiptera: new and old. No. 1.	Canadian Entomologist 41(1):30-32
+28575	Ashmead	1886	On two new Hemiptera-Heteroptera.   	Canadian Entomologist 18:18-20
+28576	Baker	1908	Preliminary remarks on American Corizini (Hemiptera)  	Canadian Entomologist 40:241-244
+28578	Kirkaldy	1909	Hemiptera, old and new, No. 2	Canadian Entomologist 41(11):388-392
+28579	Putshkov, P.V.	1979	A new genus and species of the subfamily Pseudophloeinae (Heteroptera, Coreidae) in Transcaucasia.	Trudy Vsesoyuznogo Entomologicheskogo Obshchestva 61:62-64
+28580	Kiritshenko	1916	Coreidae (Coreinae)	Fauna Rossii. Nasekomye poluzhestkokrylye (Insecta Hemiptera) 6(2):i-iv, 1-395
+28582	China	1928	A new species of Dasynus, Burm., injurious to pepper in Java (Heteroptera Coreidae)	Bulletin of Entomological Research 19(3):253-254
+28583	China	1934	A new species of Coreidae (Heteroptera) injurious to coconut in the Solomon Islands.	Bulletin of Entomological Research 25:187-189
+28587	Distant	1902	Rhynchota, - Vol. I. (Heteroptera)	The fauna of British India, including Ceylon and Burma. Rhynchota 1 (Heteroptera), Taylor & Francis, London i-xxviii + 1-438, 424 text-figs
+28588	Uhler	1861[1862]	Rectification of the paper upon the Hemiptera of the North Pacific Expedition.	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc Acad. Natur. Sci. Phila) 13:286-287
+28589	Uhler	1860	Hemiptera of the North Pacific Exploring Expedition under Commanders Rodgers and Ringold	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc Acad. Natur. Sci. Phila) 12:221-231
+28591	Jakovlev	1902	Un nouveau Coriomeris (Hemiptera-Heteroptera, Coreidae) des Alpes de la Suisse.	Revue Russe d'Entomologie 2:347-349
+28592	Kiritshenko	1911	Revision of the species of the genus Haploprocta Stål (Hemiptera, Coreidae)	Revue Russe d'Entomologie 11:374-379
+28593	Bergroth	1908[1907]	Neue Hemipteren aus Süd-Abyssinien.	Revue Russe d'Entomologie 7:106-110
+28594	Jakovlev	1903	Hémiptères-Hétéroptères nouveaux de la faune paléarctique.	Revue Russe d'Entomologie 3:191-195
+28595	Kiritshenko	1912	Hemiptera-Heteroptera turanica nova. I.	Revue Russe d'Entomologie 12:377-389
+28596	Jakovlev	1904	Hémiptères-Hétéroptères nouveaux de la faune paléarctique. XI	Revue Russe d'Entomologie 4:292-294
+28597	Bergroth	1907	Hemipteren von Madagaskar und angrenzenden Inseln, gesammelt von Herrn T. Tschitscherin	Revue Russe d'Entomologie 6(1906):145-149
+28598	Kiritshenko	1914	Hemiptera-Heteroptera turanica nova. II	Revue Russe d'Entomologie 13:397-415
+28600	Jakovlev	1906	Hémiptères-Hétéroptères nouveaux de la faune paléarctique. XIV	Revue Russe d'Entomologie 5(1905):198-202
+28601	Jakovlev	1908	Species of the genus Centrocoris Kolenati (Hemiptera-Heteroptera) of Eurasia	Revue Russe d'Entomologie 7(1907):235-237
+28602	Barber	1926	Notes on Coreidae in the Collection of the U. S. National Museum with description of a new Catorhintha (Hemiptera-Heteroptera)	Journal of the New York Entomological Society (J. New York Entom. Soc.) 34(2):209-216
+28603	Barber	1911	Descriptions of some new Hemiptera-Heteroptera.	Journal of the New York Entomological Society (J. New York Entom. Soc.) 19:23-31
+28604	Brailovsky & Barrera	2004	Six new species of Leptoglossus Guérin (Hemiptera: Heteroptera: Coreidae: Coreinae: Anisoscelini)	Journal of the New York Entomological Society (J. New York Entom. Soc.) 112(1):56-74
+28605	Brailovsky & Barrera	2006	Eight new species of Hygia (Pterocolpura) Blöte (Heteroptera: Coreidae: Colpurini) from Malaysia (Borneo)	Journal of the New York Entomological Society (J. New York Entom. Soc.) 114(1-2):54-71
+28606	Brailovsky	2006	A new Genus and Species of the Amorbini from Papua New Guinea (Heteroptera: Coreidae: Coreinae), with a key to the known genera	Journal of the New York Entomological Society (J. New York Entom. Soc.) 114(1-2):72-77
+28607	Brailovsky	2001	A new genus and species of Amorbini from Australia (Heteroptera: Coreidae: Coreinae), with a key to the known genera.	Journal of the New York Entomological Society (J. New York Entom. Soc.) 109(2):206-213
+28608	Brailovsky	2003	A further contribution to the systematics of the tribe Colpurini (Heteroptera: Coreidae: Coreinae)	Journal of the New York Entomological Society (J. New York Entom. Soc.) 111(4):211-226
+28609	Brailovsky	1995	Description of three new species of Heisshygia Brailovsky from New Guinea (Hemiptera: Heteroptera: Coreidae: Colpurini)	Journal of the New York Entomological Society (J. New York Entom. Soc.) 103(4):364-373
+28610	Brailovsky	1994	A new genus and four new species of Colpurini (Hemiptera: Heteroptera: Coreidae) from New Guinea	Journal of the New York Entomological Society (J. New York Entom. Soc.) 102(2):142-153
+28612	Brailovsky	1998	A new species of Paralycambes Kormilev from South America (Hemiptera: Heteroptera: Coreidae: Meropachydinae)	Journal of the New York Entomological Society (J. New York Entom. Soc.) 106(2-3):57-63
+28613	Brailovsky & Barrera	1998	The genus Empedocles Stål and description of one new species (Hemiptera: CoreidaeL Coreinae: Acanthocephalini) from South America	Journal of the New York Entomological Society (J. New York Entom. Soc.) 106(4):141-149
+28614	Brailovsky	1999	One new genus and three new species of Acanthocephalini (Hemiptera: Heteroptera: Coreidae: Coreinae)	Journal of the New York Entomological Society (J. New York Entom. Soc.) 107(2-3):247-255
+28615	Brailovsky & Luna	2000	A new Neotropical genus of Meropachyini (Heteroptera: Coreidae: Meropachydinae)	Journal of the New York Entomological Society (J. New York Entom. Soc.) 108(1-2):163-170
+28616	Brailovsky & Barrera	2000	A new species of Xyrophoreus Breddin (Heteroptera: Coreidae: Mictini) from South India	Journal of the New York Entomological Society (J. New York Entom. Soc.) 108(1-2):146-151
+28617	Brailovsky	1987	Three new genera and six new species of Neotropical Coreidae (Heteroptera)	Journal of the New York Entomological Society (J. New York Entom. Soc.) 95(4):518-530
+28618	Barber	1914	New Hemiptera-Heteroptera, with comments upon the distribution of certain known species	Journal of the New York Entomological Society (J. New York Entom. Soc.) 22(2):164-171
+28619	Brailovsky	1991	Hemiptera-Heteroptera from Mexico XLIII. A new genus and three new species of Neotropical Micrelytrinae (Alydidae) collected on Bamboos	Journal of the New York Entomological Society (J. New York Entom. Soc.) 99(3):487-495
+28620	Brailovsky & Barrera	2002	A review of the Madagascar species of Plinachtus Stål, with descriptions of two new species (Hemiptera: Heteroptera: Coreidae: Coreinae: Gonocerini)	Journal of the New York Entomological Society (J. New York Entom. Soc.) 110(2):192-198
+28621	Brailovsky	2002	Remarkable new genera and species of Coreidae from Peru (Heteroptera: Coreinae: Coreini, Nematopodini)	Journal of the New York Entomological Society (J. New York Entom. Soc.) 110(3-4):341-350
+28622	Brailovsky & Barrera	2003	Three new species and new distributional records of Discogastrini from Central and South America (Hemiptera: Heteroptera: Coreidae: Coreinae)	Journal of the New York Entomological Society (J. New York Entom. Soc.) 111(1):22-28
+28623	Brailovsky & Barrera	2005	Two new genera and five new species of Colpurini (Heteroptera: Coreidae) from New Guinea	Journal of the New York Entomological Society (J. New York Entom. Soc.) 113(1-2):11-23
+28624	Brailovsky	1995	A new species of Uranocoris Walker from New Guinea (Hemiptera: Heteroptera: Coreidae: Homoeocerini)	Journal of the New York Entomological Society (J. New York Entom. Soc.) 103(1):73-77
+28625	Barber	1928	A New Genus and Species of Coreidae from the Western States (Hemiptera-Heteroptera)	Journal of the New York Entomological Society (J. New York Entom. Soc.) 36(1):25-28
+28632	Hussey	1925	Some new or little-known Hemiptera from Florida and Georgia	Journal of the New York Entomological Society (J. New York Entom. Soc.) 33(2):61-69, 2 figs
+28633	Brailovsky & Ortega Leon	1998	Two new species of Corduba Stal from Africa (Hemiptera: Heteroptera: Coreidae: Coreinae: Hydarini), with a key to the known species.	African Entomology (Afr. Entom.) 6(1):25-32
+28636	Costa, A.	1843		Cimicum regni Neapolitani centuriae 1-76
+28639	Blöte	1936	Catalogue of the Coreidae in the Rijksmuseum van Natuurlijke Historie. Part III.Coreinae, Second Part	Zoölogische Mededeelingen 19:23-66
+28640	Blöte	1935	Catalogue of the Coreidae in the Rijksmuseum van Natuurlijke Historie. Part II. Coreinae, First Part	Zoölogische Mededeelingen 18:181-227
+28641	Brailovsky & Barrera	1994	The genus Homalocolpura Breddin and description of five new species (Hemiptera: Heteroptera: Coreidae: Colpurini)	Zoölogische Mededeelingen 68(7):55-72
+28643	Distant	1901	Descriptions of two new species of Phyllomorphinae (Heteroptera: Fam. Coreidae).	Entomologist 34(454):88-90, 2 figs
+28645	Kirkaldy	1900	Bibliographical and nomenclatorial notes on the Rhynchota. No. 1	Entomologist 33:238-243
+28647	Distant	1909	Oriental Capsidae	Entomologist 42:58-60
+28651	Mulsant & Rey	1870		Histoire naturelle des punaises de France. Coréides, Alydides, Berytides, Stenocephalides., Cornell University Press, Ithaca, New York 1-250, 1-3
+28652	Westwood	1842		A Catalogue of Hemiptera in the collection of the Rev. F. W. Hope., J.C. Bridgewater, London 2:1-26
+28653	Bergroth	1916	New and little-known Heteropterous Hemiptera in the United States National Museum	Proceedings of the United States National Museum 51(2150):215-239
+28655	Uhler	1896	Summary of the Hemiptera of Japan, presented to the United States National Museum by Professor Mitzukuri	Proceedings of the United States National Museum 19:255-297
+28656	Uhler	1904	List of Hemiptera-Heteroptera of Las Vegas Hot Springs, New Mexico, collected by Messrs E. A. Schwarz and Herbert S. Barber	Proceedings of the United States National Museum 27:349-364
+28657	Montandon	1893	Notes on American Hemiptera Heteroptera	Proceedings of the United States National Museum 16(924):45-52
+28658	Brailovsky	1997	First record of the Tribe Hydarini in Australia with the Description of a New Species of Hydarella Bergroth (Hemiptera: Coreidae)	Australian Journal of Entomology (Aus. J. Entom) 36(3):225-228
+28661	Breddin	1903	Beiträge zur Hemipteren-fauna der Anden	Sitzungberichte der Gesellschaft Naturforschender Freunde zu Berlin (Sitz. Ber. Ges. nat. Fr.) 8:366-383
+28667	De Geer	1773		Memoires pour servir a l'Histoire des insectes, L.L. Grefing, Stockholm 3:II, 1-696, 44 plates
+28668	Zange	2005	Eine neue Unterart von Phyllomorpha laciniata Villers 1789 (Heteroptera - Choreidae [sic])	Facetta 23/24:25-27
+28669	Kiritshenko	1916	Coreidae (Coreinae)	Fauna Rossii. Nasekomye poluzhestkokrylye (Insecta Hemiptera). 6(2):i-iv, 1-395
+28670	Breddin	1907	Nachtrag zur Kenntnis der Rhynchotengruppe Agathyrnaria.	Bruxelles Ann.Soc ent.Belgique 51:324-325
+28671	Breddin	1905	Versuch einer Rhynchotenfauna der Malayischen Insel Banguey.	Mitteilungen aus dem Zoologischen Museum Hamburg (Mitt. Hamb. Zool.) xxii:201-226
+28672	Breddin	1905	Rhynchota Heteroptera aus Java gesammelt von Prof. K. Kraepelin 1904.	Mitteilungen aus dem Zoologischen Museum Hamburg (Mitt. Hamb. Zool.) xxii:109-159
+28673	Breddin	1899	Hemiptera insulae Lombok in museo Hamburgensi asservata adiectis speciebus nonnullis, quas continet collectio auctoris.	Mitteilungen aus dem Zoologischen Museum Hamburg (Mitt. Hamb. Zool.) 16:155-194
+28674	Breddin	1900	Nova Studia Hemipterologica	Deutsche entomologische Zeitschrift (Dt.ent.Z.) 161-185
+28676	Courteaux	1908	Hemipteres d'Afrique (Togo et Abyssinie).	Bul.Museum, Paris 1908:190-192
+28677	Brown & Ghauri	1961	A new species of Amblypelta (A. madangana: Hemiptera-Coreidae) from New Guinea	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 4:213-216
+28678	Cheesman	1926	Two new species of Coreidae from the South-east Pacific	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 18:pp. 368-370
+28679	China	1925	The Hemiptera collected by Prof. J. W. Gregory's Expedition to Yunnan, with synonymic notes on allied species	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 16:pp. 449-485
+28680	Izzard	1949	A new genus of the subfamily Arenocorinae (Pseudophloeinae) from Senegal (Heteroptera, Coreidae)	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 12 2(18):478-480, pl. 7
+28681	Lever	1936	A new species of Amblypelta (Heteroptera, Coreidae) from the British Solomon Islands	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 17:324-325
+28683	Distant	1893	Notes on two genera of Coreidae found in Madagascar	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 6 11(61):53-54
+28684	Distant	1913	On some recently received Rhynchota.	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 8 12:556-563
+28685	Distant	1913	Contributions to a knowledge of Oriental Rhynchota.	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 8 12:283-287
+28686	Distant	1911	Rhynchotal notes. LV. Australasian Coreidae and Berytidae.	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 8 7(42):576-586
+28687	Distant	1908	Descriptions of some Rhynchota from Ruwenzori	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 8 2(11):436-444
+28688	Distant	1904	Rhynchotal notes. XXIV.	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 7 14(79):61-66
+28689	Distant	1904	Rhynchotal notes. XXIII. Heteroptera from the Transvaal.	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 7 13(77):349-356
+28690	Distant	1904	An undescribed genus of Coreidae from Borneo.	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 7 13(76):303-304
+28691	Distant	1901	Rhynchotal notes. IX. Heteroptera: Fam. Coreidae	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 7 7(41):416-432
+28692	Distant	1900	Rhynchotal notes. VII. Heteroptera: Fam. Coreidae	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 7 6:366-380
+28693	Distant	1893	On some Coreidae of the order Rhynchota	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 6 12:121-123
+28694	Distant	1879	XII. Hemiptera from the North-eastern frontier of India	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 5 3:127-133
+28695	Distant	1904	Rynchotal Notes. XXII. Heteroptera from North Queensland	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 7 13(76):263-276
+28696	Distant	1920	Rhynchota from New Caledonia. Part I. Heteroptera	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 9 6:143–164
+28697	Distant	1901	Rhynchotal notes. VIII. Heteroptera: Fam. Coreidae.	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 7 7(37):6-22
+28698	Scott	1874	On a collection of Hemiptera Heteroptera from Japan. Descriptions of various new genera and species  	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 4 14:289-304, 360-365, 426-452
+28699	Distant	1909	Rhynchotal notes.- XLVIII [= XLVII]. Heteroptera. Fam. Lygaeidae. Oriental genera and species  	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 8 3:317-345
+28700	Blöte	1933	New Pyrrhocoridae in the Collection of the British Museum (Natural History)	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 10 11:588-602
+28701	Kiritshenko	1931	Hemiptera-Heteroptera of the Third Mount Everest expedition, 1924 - I	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 10 7:362-385
+28702	Distant	1898	XXI. - Descriptions of new species of Hemiptera-Heteroptera	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 7 2:134-135
+28703	Distant	1906	On some Ethiopian Rhynchota, and synonymical notes	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 7 18(106):286-293
+28704	Distant	1889	Descriptions of new Species of Rhynchota collected on or near the Kina Balu Mountain, North Borneo	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 6 3:419-422
+28708	Distant	1914	Rhynchotal notes	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 8 13(73):176-186
+28714	Westwood	1874		Thesaurus entomologicus oxoniensis, Clarendon Press, Oxford xxiv + 205 pp, 40 plates
+28715	Bergroth	1906	Aphylinae und Hyocephalinae, zwei neue Hemipteran-Subfamilien	Zoologischer Anzeiger (Zool.Anz.) 29:644-649
+28717	Kolenati	1845		Meletemata Entomologica II. Hemiptera Caucasi Tesseratomidae monographice dispositae, Academia Scientiarum, Petropoli 1-132
+28718	Stein	1860	Ueber einige Coreiden	Berliner Entomologische Zeitschrift (Berl. Entomol. Zeit) 4:246-256
+28719	Stål	1866	Analecta hemipterologica	Berliner Entomologische Zeitschrift (Berl. Entomol. Zeit) 10:151-172
+28720	Stein	1858	Die Gattung Ceraleptus Costa	Berliner Entomologische Zeitschrift (Berl. Entomol. Zeit) 2:68-76
+28721	Reuter	1891	Griechische Heteroptera gesammelt von E. v. Oertzen und J. Emge	Berliner Entomologische Zeitschrift (Berl. Entomol. Zeit) 36:17-34
+28723	Stål	1867	Analecta hemipterologica (Continuatio)	Berliner Entomologische Zeitschrift (Berl. Entomol. Zeit) 10:381-394
+28726	Wolff	1802		Icones Cimicum descriptionibus illustratae, J.J. Palm, Erlangen 3:85-126
+28731	Kormilev	1952	Notas sobre Coreidae neotropicales con la descripcion de dos especies nuevas (Hemiptera)	Revista Espanola de Entomol 28:91-99
+28733	Klug	1842	[No title]	Doubletten-Verzeichniss von Senegallischen Insecten, Berlin 1-15
+28735	Wagner	1955[1954]	Eine Heteropteren-Ausbeute vom Monte Aetna	Memorie della Società Entomologica Italiana 33:69-119
+28736	Tamanini	1951	Gli Stictopleurus italiani (Heteroptera, Corizidae)	Memorie della Società Entomologica Italiana 30:77-91, 32 figs
+28738	Brancsik	1893	Beiträge zur Kenntniss Nossibés und dessen Fauna nach Sendungen und Mittheilungen des Herrn P. Frey. II.	Jahresheft des naturwissenschaftlichen Vereines der Trencsener Comitates 15–16:202–258
+28739	Pennington	1920		Lista de los Hemipteros Heteropteros de la Republica Argentina, Buenos Aires primera parte 1-16
+28740	Paiva	1919	Rhynchota from the Garo hills, Assam	Rec. Ind. Mus. Calcutta 16:349-377
+28741	Millet de Turtaudière	1872		Faune des Invertébrés de Maine-et-Loire comprenant les 2e, 3e et 4e embranchements du Règne Animal ou seconde partie de la Faune de Maine-et-Loire, E. Barassé, Angers 2:1-394
+28744	Kirby, W. F.	1891	Catalogue of the described Hemiptera, Heteroptera and Homoptera of Ceylon, based on the collection formed (chiefly at Pundaloya) by Mr. E. Ernest Green.	Journal of the Linnean Society, Zoology 24 149–150:72–176
+28748	Villiers	1953	La Réserve Naturelle Intégrale du Mont Nimba XIV. – Hémiptères Hétéroptères terrestres	Mémoires de l’Institut Français d’Afrique Noire 19:289-309
+28753	Glover	1876		Manuscript notes from my journal or illustration of insects, native and foreign. Orden Hemiptera. Subordern Heteroptera or plant bugs, J.C. Entwisle, Washington 2 + 2 + 10 + 133 pp, 10 plates
+28754	Van Duzee	1917	Catalogue of the Hemiptera of America North of Mexico, excepting the Aphididae, Coccidae and Aleurodidae	University of California Publications. Technical Bulletins. 2:i-xiv, 1-902
+28755	Van Duzee	1916	Notes on some Hemiptera taken near Lake Tahoe, California	University of California Publications. Technical Bulletins. 1(5):229-249
+28756	Ahmad	1979	A revision of the superfamilies Coreoidea and Pentatomoidea (Hemiptera: Pentatomomorpha) from Pakistan, Azad Kashmir and Bangladesh. Part I. Additions and corrections of coreid and pentatomid fauna with phylogenetic considerations	Supplement of the Entomological Society of Karachi 4(1):1-113, frontispiece and 4 plates
+28757	Ahmad, Shadab & Khan	1977	Generic and suprageneric keys with reference to a check List of Coreid fauna of Pakistan (Heteroptera: Coreoidea) with notes on their Distribution and Food plants	Supplement of the Entomological Society of Karachi 2:1- 49, 40 figs
+28758	Ahmad, Abbas, Shadab & Khan	1979	Generic and suprageneric keys with reference to a checklist of alydid and stenocephalid fauna of Pakistan, Azad Kashmir and Bangladesh (Heteroptera: Coreoidea) with notes on their distribution and food plants.	Supplement of the Entomological Society of Karachi 1979 4(2):1-19, frontispiece and 2 plates
+28759	Moulet	2005[2004]	Deux Coreoidea nouveaux (Heteroptera)	L'Entomologiste 60(6):253-255
+28761	Billberg	1820		Enumeratio Insectorum in Museo G.J. Billberg, Stockholm
+28762	Courteaux	1907	Collections de M. Maurice de Rothschild, recueillies dans l’Afrique orientale. Insectes: Hémiptères - (Hétéroptères)  nouveaux.	Bulletin du Museum National d’Histoire Naturelle (Bull. Mus. Nat. Hist. Nat.) 13:327- 331
+28766	Villiers	1952		Initiations Africaines IX. Hémiptères de l’Afrique Noire (Punaises et Cigales), Institut Français d’Afrique Noire, Dakar 256 pp, 358 text-figs
+28770	Packauskas	2010	Catalog of the Coreidae, or Leaf-Footed Bugs, of the New World	Fort Hays Studies 5:1-254
+28772	Arnett	2000		American Insects, A Handbook of the Insects of America North of Mexico, CRC Press, Washington 1-1003
+28773	Maw, Footit, Hamilton & G. G. E. Scudder	2000		Checklist of the Hemiptera of Canada and Alaska, Publication of the National Research council of Canada Monograph Publishing Program, NRC Research Press, Ottawa 1-220
+28780	Quintanilla & Núñez	1981	Catalago preliminary hallados en la provincial De Missiones (Argentina)	Revista Facultad de Agronomia 2:145–161
+28793	Mayr	1866	Diagnosen neuer Hemipteren 3	Verhandlungen der Kaiserlich-Königlichen Zoologisches-Botanischen Gesellschaft in Wien 16:361–366
+28816	Zhang, J.F., Sun & X.Y. Zhang	1994		Miocene Insects and Spiders from Shanwang, Shandong, Science Press, Beijing 1-298
+28854	Bergroth	1916	Heteropterous Hemiptera collected by Professor W. Baldwin Spencer during the Horn Expedition into Central Australia	Proceedings of the Royal Society of Victoria (Proc. R. Soc. Vict.) 29:19-39
+28859	Brailovsky & Barrera	2011	Two new species of <i>Leptoscelis</i> from South America (Hemiptera: Heteroptera: Coreidae: Leptoscelini)	Heteropterus Revista de Entomología (Heteropterus Rev. Entomol.) 11(2):195-199
+28861	Froeschner	1989	A small collection of Heteroptera from the Galapagos Islands, with the description of the new species <i>Niesthrea ashlocki</i> and a list of <i>Niesthrea</i> species (Rhopalidae).	Proceedings of the Biological Society of Washington 102(3):609-612
+28871	Horváth	1911[1910]	Hémiptères récoltés par M. le Dr. W. Innes Bey en Égypte	Bulletin de la Société Entomologique d'Egypte (Bull. Soc. ent. Egypte) 3(1910):99-117
+28872	White	1839	Description of two Hemipterous insects	Magazine of Natural History (Mag. Nat. Hist.) (n.s.) 3:537-543
+28876	Ahmad & Rizvi	1998	A new species of the wheat-feeding genus <i>Corizus</i> Fallén (Hemiptera: Rhopalidae) from Baluchistan with cladistic relationships.	Proceedings of Pakistan Congress of Zoology 18:41-44
+28877	Ahmad & Rizvi	1999	A new genus and species of Rhopalidae (Hemiptera: Coreoidea) from Punjab and N.W.F.P. with their cladistic relationships.	Proceedings of Pakistan Congress of Zoology 19:39-44
+28878	Ahmad	1968	A unique female specimen from upper Burma: a new genus and species of Micrelytrinae (Hemiptera: Alydidae).	Pakistan Journal of Scientific and Industrial Research 11(2):(2):204-207, 8 figs.
+28880	Signoret	1851	Hémiptères nouveaux, provenant du Gabon; décrits par M.V. Signoret	Revue et Magasin de Zoologie 2 3:438-448
+28881	Brullé	1832		Expédition scientifique de Morée. Section des sciences physiques. 3 (1) Zoologie (2). Des Animaux articulés (Expéd. scient. Morée) [1] + 400 + [2] pp
+28884	Blöte	1937	On African species of Leptocorixa Berthold	Temminckia 2:281-296, 10 figs
+28889	Drapiez	1820	Description de huit espèces d’insectes nouveaux	Annales Générales des Sciences Physiques 5:323-330, plate 83 (misnumbered lxxvi).
+28902	Drapiez	1841		Dictionnaire classique des sciences naturelles Vol. 7
+28913	Evans	1952		The injurious insects of the British Commonwealth, Commonwealth Institute of Entomology, London vii + 242 pp.
+28914	Fallén	1828-1829		Hemiptera sueciae. Sectio prima (Hemelytrata)., Berling, Lund vi + 188 pp.
+28915	Fallou	1889	Diagnoses d’hémiptères nouveaux	Le Naturaliste 2 11(54):130
+28916	García Varela	1912	Notas hemipterológicas sobre Coreidos africanos (Mictidae) del Museo de Madrid	Boletin de la Real Sociedad española de Historia natural 12:353-357
+28917	García Varela	1912	Notas hemipterológicas. Contribución al estudio de los Coréidos de la Región Etiópica Occidental	Boletin de la Real Sociedad española de Historia natural 12:298-300
+28925	Germar	1837		Fauna Insectorum Europae. Fasciculus XIX. Insectorum protogaeae specimen sistens insecta carbonum fossilium, C. A. Kümmel, Halae [=Halle]: 3 unnumbered pp, pls 1–25 with captions
+28928	Gorski	1852		Analecta ad entomographiam provinciarum occidentali-meridionalium Imperii Rossici, F. Nicolaus, Berlin Fasciculus 1:xix + 214 pp, 3 plates
+28932	Harris	1944	A new <i>Harmostes</i>, with a provisional key and a check list to the species (Hemiptera: Rhopalidae)	Iowa State College Journal of Science 18(2):191-197, 14 figs
+28934	Heer	1853	Die Insektenfauna der Tertiärgebilde von Oeningen und von Radoboj in Croatien. Dritte Abtheilung: Rhynchoten	Neue Denkschriften der allgemeinen Schweizerischen Gesellschaft für die gesammten Naturwissenschaften Zürich 13(4):i-iv + 1-139, 15 plates
+28935	Kiritshenko	1915	Revisio critica Hemipterorum Heteropterorum palaearcticorum a V. Motschulsky descriptorum	Ezhegodnik Zoologiskago Muzeya Imperatorskoi Akademii Nauk 20(2):296-300
+28938	Moulet	1995	Hémiptères Coreoidea, Pyrrhocoridae et Stenocephalidae Euro-Méditerranéens	Faune de France 81:336 pp, 3 plates, 1 portrait
+28942	Brailovsky & Monteith	1996	A new species of Poponatius Distant from Australia (Hemiptera:Heteroptera:Coreidae:Acanthocorini)	Memoirs of the Queensland Museum (Mem. Queens. Mus.) 39(2):205-210
+28943	Brailovsky & Monteith	1998	A new genus of Amorbini (Heteroptera: Coreidae) from Australia, with two new species	Memoirs of the Queensland Museum (Mem. Queens. Mus.) 2 42:379-385
+28944	Brailovsky	1993	A revision of the tribe Colpurini from Australia (Hemiptera-Heteroptera-Coreidae).	Memoirs of the Queensland Museum (Mem. Queens. Mus.) 34:35-60
+28945	Motschulsky	1866	Catalogue des insects reçus du Japon	Bulletin de la Société Impériale des Naturalistes de Moscou (Bull. Soc. Imp. Natur. Moscou) 39(1):163-200
+28946	Jakovlev	1883	Contributions to the fauna of Heteroptera of Russia and the neighbouring countries. X.	Bulletin de la Société Impériale des Naturalistes de Moscou (Bull. Soc. Imp. Natur. Moscou) 57(ii)(3):98-112
+28947	Kolenati	1857	Meletemata Entomologica. VI. Hemipterorum Heteropterorum Caucasi. Harpagocorisiae, monographice dispositae	Bulletin de la Société Impériale des Naturalistes de Moscou (Bull. Soc. Imp. Natur. Moscou) 29(4):419-502
+28948	Jakovlev	1881	Contributions to the fauna of bugs of Russia and neighbouring countries. V-VIII	Bulletin de la Société Impériale des Naturalistes de Moscou (Bull. Soc. Imp. Natur. Moscou) 56(i)(1):194-214
+28949	Oshanin	1871	Descriptions of new species of Heteroptera	Bulletin de la Société Impériale des Naturalistes de Moscou (Bull. Soc. Imp. Natur. Moscou) 43(1):128-135
+28950	Jakovlev	1875	Bugs Hemiptera Heteroptera of the Astrakhan' region	Bulletin de la Société Impériale des Naturalistes de Moscou (Bull. Soc. Imp. Natur. Moscou) 49(ii)(3):145-174
+28951	Jakovlev	1882	Contributions to the fauna of bugs of Russia and neighbouring countries. IX    	Bulletin de la Société Impériale des Naturalistes de Moscou (Bull. Soc. Imp. Natur. Moscou) 56(ii)(4):345-371
+28958	Brailovsky	1996	New genera and new species of Colpurini (Insecta: Heteroptera: Coreidae) from Philippines, Borneo, and Malaya	Annals of the Carnegie Museum (Ann. Carnegie Mus.) 65(4):383-391
+28959	Brailovsky	1996	On the Genus Acantholybas Breddin (Insecta:Heteroptera: Coreidae: Colpurini), with description of one new species from Java	Annals of the Carnegie Museum (Ann. Carnegie Mus.) 65(4):393-399
+28961	Bergroth	1927	Zoological results of the Swedish Expedition to Central Africa, 1921. Insecta. 21. Hemiptera Heteroptera	Arkiv för Zoologi 18 A(26):1-12
+28962	China	1938	Die Arthropodenfauna von Madeira nach den Ergebnissen der Reise von Prof. Dr. O. Lundbad Juli-August 1935. III. Terrestrial Hemiptera (Hemiptera and Homoptera Auchenorrhyncha)	Arkiv för Zoologi 30 (A)(2):1-68, 23 figs, 1 plate
+28963	Bergroth	1926	Zoological results of the Swedish Expedition to Central Africa 1921. Insecta. 21. Hemiptera Heteroptera	Arkiv för Zoologi 18 (A)(26):1-12
+28965	Lindberg	1934	Schwedisch-chinesische wissenschaftliche Expedition nach den nordwestlichen Provinzen Chinas, unter Leitung von Dr. Sven Hedin und Prof. Sü Ping-cheng. Insekten gesammelt vom schwedischen Arzt  der Expedition Dr. David Hummel 1927-1930. 47. Hemiptera. 2. Hemiptera Heteroptera	Arkiv för Zoologi 27A(28):43 pp, 4 plates
+28966	Van Duzee	1925	New Hemiptera from western north America	Proceedings of the California Academy of Sciences (Proc. Calif. Acad. Sci.) 4 14:391–425
+28968	Van Duzee	1923	Expedition of the California Academy of Sciences to the Gulf of California in 1921. The Hemiptera (True Bugs, etc.)	Proceedings of the California Academy of Sciences (Proc. Calif. Acad. Sci.) 4 12(11):123-200
+28969	Brailovsky & Barrera	1998	A review of the Costa Rican species of Leptoglossus Guérin, with descriptions of two new species (Hemiptera: Heteroptera: Coreidae: Coreinae: Anisoscelini)	Proceedings of the California Academy of Sciences (Proc. Calif. Acad. Sci.) 50(6):167-184
+28975	Breddin	1913	Neue indo-malayische Hemiptera	Archiv für Naturgeschichte 78 (A)(11):95-107
+28977	Breddin	1912	Hemiptera indo-malaya nova vel minus cognita	Archiv für Naturgeschichte 78 (A)(6):76-84
+28978	Erichson	1842	Beitrag zur Insecten-Fauna von Vandiemensland, mit besonderer Berücksichtigung der geographischen Vebreitung der Insecten	Archiv für Naturgeschichte 8(1):83-287
+28979	Breddin	1912	Eine neue Calamocoris-Art. (Hem.)	Archiv für Naturgeschichte 78 (A)(6):87-89
+28981	Froeschner	1999	True bugs (Heteroptera) of Panama: a synoptic catalog as a contribution to the study of Panamanian biodiversity	Memoirs of the American Entomological Institute 61:1-393
+28982	Medler	1980	Insects of Nigeria - check list and bibliography	Memoirs of the American Entomological Institute Supplement 30:i-vii, 1-919
+28983	O'Shea	1980	A Generic Revision of the Acanthocerini (Hemiptera: Coreidae: Coreinae)	Studies on Neotropical Fauna and Environment (Stud.Neotrop.Fauna Environ.) 15:57-80
+28984	O'Shea	1980	A Generic Revision of the Nematopodini (Heteroptera: Coreidae: Coreinae)	Studies on Neotropical Fauna and Environment (Stud.Neotrop.Fauna Environ.) 15:197-225
+28985	Vidal	1952	Hémiptères Hétéroptères nouveaux de Maroc	Bulletin de la Société des Sciences Naturelles du Maroc 31(1951):57-64
+28986	Linnavuori	1973	On the Elasmopoda-Hoplopterna complex (Het. Coreidae)	Arquivos do Museu Bocage 2 4:113-156
+28988	Horváth	1900	Hemiptera	Denkschriften der Naturforschenden Gesellschaft zu Jena 8:629-642
+28990	Linnaeus	1771		Mantissa plantarum altera generum editionis II, Laurentii Salvii, Holmiae 143-587
+28991	Tshernova	1982		Arealy nasekomykh everopeiskoi chasti SSSR, Nauka, Leningrad Maps 126-178
+28995	Ruckes	1955	The genus Chariesterus de Laporte (Heteroptera, Coreidae)	American Museum Novitates (Amer. Mus. Novit.)(1721):1-16
+28996	Ruckes	1955	Three new species and a subspecies of the genus Mozena (Heteroptera, Coreidae)	American Museum Novitates (Amer. Mus. Novit.)(1702):1-8
+28997	Shadab	1972	A new genus of pseudophloeine bugs from the Democratic Republic of Congo (Heteroptera, Coreoidea)	American Museum Novitates (Amer. Mus. Novit.)(2493):1-11
+28998	Barber	1923	A preliminary report on the Hemiptera-Heteroptera of Porto Rico collected by the American Museum of Natural History	American Museum Novitates (Amer. Mus. Novit.)(75):1-13
+28999	Uhler	1863	Hemipterological contributions. - No. 2.	Proceedings of the Entomological Society of Philadelphia (Proc. Entomol. Soc. Philad.) 2:361-366
+29001	Linnavuori	1980	Hemiptera of the Sudan, with remarks on some species of the adjacent countries. 8. Additions and corrections. Biogeography	Acta Entomologici Fennici (Act. Ent. Fenn.) 36:1-53
+29002	Linnavuori	1974	Studies on Palaearctic and African Heteroptera	Acta Entomologici Fennici (Act. Ent. Fenn.) 30:1-35, 13 figs.
+29003	Brailovsky	2011	Insecta: Hemiptera: Heteroptera: Coreidae	Faune de Madagascar 94:1-277
+29004	Wagner	1937	Zwei für Deutschland neue Hemipterenarten und eine neue Abart aus dem Mainzer Becken  	Mitteilungen der Deutschen Entomologischen Gesellschaft 8:62-63
+29005	Thunberg	1822		Dissertatio entomologica de Hemipteris rostratis Capensibus, Regiae Academiae Typographi, Upsaliae 3:1-6
+29006	Cannaviello	1900	Contributo alla fauna entomologica della colonia Eritrea	Boll. Soc. Ent. Ital. 32:289–306
+29008	Schilling	1829	Hemiptera Heteroptera Silesiae systematice disposuit	Beiträge zur Entomologie 1:34-92
+29010	Wagner	1953	Über einige osteuropäische und innerasiatische Heteropteren  	Beiträge zur Entomologie 3:388-394
+29011	Hsiao, Zheng & S.Z. Ren	1977		A handbook for the determination of the Chinese Hemiptera-Heteroptera, Science Press, Beijing 1:330 pp. 52 pls.
+29014	Boitard	1828		Manuel d’entomologie ou histoire naturelle des insectes, Roret, Paris 2:417 pp.
+29015	Pirán, A. A.	1962	Las especies de <i>Sethenira</i> (Hemíptera, Coreidae) con la descripcíon de una especie nueva	Acta Zoologica Lilloana 18:163-168
+29017	Brailovsky	2012	A new species and a new record of <i> Cebrenis</i>  Stål, 1862 from Ecuador (Heteroptera: Coreidae)	Entomologische Zeitschrift 122(3):114-116, 4 figs
+29019	Oshanin	1891	Zoogeographical character of the fauna of bugs of Turkestan	Zapiski Imperatorskago Russkago Geograficheskago Obshchestva po Obshchei Geografii 23:1-116
+29020	Gross	1960	A revison of the genus <i>Leptocoris</i> Hahn (Heteroptera: Coreidae: Rhopalinae) from the Indo-Pacific and Australian regions	Records of the South Australian Museum 13(4):403-451, 4 figs, pl. 48
+29023	Göllner-Scheiding	1980	Einige Bemerkungen zu den Gattungen <i>Corizus</i> Fallén, 1814, und <i>Xenogenus</i> Berg, 1883 (Heteroptera, Rhopalidae)  	Mitteilungen aus dem Zoologischen Museum in Berlin 56:111-121
+29024	Göllner-Scheiding	1984	Ergänzungen zu den Gattungen <i>Liorhyssus</i> Stål, 1870, <i>Niesthrea</i> Spinola, 1837, und <i>Rhopalus</i> Schilling, 1827 (Heteroptera, Rhopalidae)  	Mitteilungen aus dem Zoologischen Museum in Berlin 60:115-121
+29026	Göllner-Scheiding	1978	Revision der Gattung <i>Harmostes</i> Burm., 1835 (Heteroptera, Rhopalidae) und einige Bemerkungen zu den Rhopalinae	Mitteilungen aus dem Zoologischen Museum in Berlin 54(2):257-311
+29027	Göllner-Scheiding	1989	Erganzungen zu der Gattung <i>Niesthrea</i> Spinola, 1837 (Heteroptera: Rhopalidae).	Mitteilungen aus dem Zoologischen Museum in Berlin 65(2):297-298
+29028	Distant	1909	Zoological results of the Ruwenzori Expedition, 1905-1906. 9. Rhynchota	Transactions of the Zoological Society of London (Trans.zool.Soc.Lond.) 19(1(9-11)):67-84, plate 2
+29033	Fabricius	1775		Systema entomologiae: sistens insectorum classes, ordines, genera, species, adiectis synonymis, locis, descriptionibus, observationibus, Flensbvrgi et Lipsiae : In Officina Libraria Kortii xxvii 832 pp.
+29034	Hamlin	1923	New cactus bugs of the genus <i>Chelinidea</i> (Hemiptera)	Proceedings of Royal Society of Queensland (Proc. R. Soc. Qld) 35(4):43-45
+29036	Brailovsky	2000	Revision of the Genus Lobogonius (Hemiptera: Coreidae: Coreinae: Colpurini)	Annals Entomology Society of the Americas (Ann. Entomol. Soc. Am.) 93(2):177-184
+29037	Brailovsky, Barrera, Göllner-Scheiding & Cassis	2001	A new species of Dicranocephalus (Hemiptera: Stenocephalidae) from Australia	Annals Entomology Society of the Americas (Ann. Entomol. Soc. Am.) 94(3):363-366
+29039	Brailovsky	2002	New genus and new species of Mictini (Hemiptera: Coreidae) from Australia	Entomological News (Entomol. News) 113:29-33
+29040	Brailovsky	2008	A New Species of Anasa (Hemiptera: Heteroptera: Coreidae) from Jamaica	Entomological News (Entomol. News) 119(5):433-438
+29041	Brailovsky	2000	A new genus and three new species of the tribe Spathophorini (Heteroptera: Coreidae)	Entomological News (Entomol. News) 111(2):97-106
+29042	O'Shea	1979	Redescriptions of three neotropical coreid genera of uncertain tribal placement (Heteroptera)	Entomological News (Entomol. News) 90(1):45-50
+29043	Brailovsky	2001	A new species of Anasa (Hemiptera: Coreidae) from the Dominican Republic	Entomological News (Entomol. News) 112(1):42-49
+29044	Brailovsky & Barrera	2002	A new species of Carvalhygia (Heteroptera: Coreidae) from the Philippine Republic	Entomological News (Entomol. News) 113(4):233-235
+29045	Brailovsky & G. Couturier	2004	A new species of Leptoglossus (Heteroptera: Coreidae: Anisoscelini) associated with the Amazonian Palm Mauritia flexuosa (Arecaceae: Lepidocaryeae) in Peru	Entomological News (Entomol. News) 114(1):18-22
+29046	Brailovsky & Barrera	2004[2003]	Three new species and one new subspecies of Colpurini (Heteroptera: Coreidae) from the Pacific Islands	Entomological News (Entomol. News) 114(3):121-128
+29047	Brailovsky & G. Couturier	2000	A new species of Sephinioides (Heteroptera: Coreidae) from Ecuador	Entomological News (Entomol. News) 111(5):322-324
+29048	Brailovsky	2004	Review of the Neotropical genus Trachelium Herrich-Schaeffer, with the description of six new species (Heteroptera: Alydidae: Micrelytrinae: Micrelytini)	Entomological News (Entomol. News) 115(1):15-30
+29049	Brailovsky & Barrera	2005	Three new species of the subgenus Hygia (Microcolpura) Breddin from Southeastern Asia, and new taxonomic rearrangements (Hemiptera: Coreidae: Coreinae: Colpurini)	Entomological News (Entomol. News) 116(4):225-234
+29050	Brailovsky & Barrera	2006	Six new species of Laminiceps Costa from South America, closely related to L. megaera (Burmeister) (Heteroptera: Coreidae: Acanthocephalini)	Entomological News (Entomol. News) 117(4):369-383
+29051	Van Duzee	1906	New North American Heteroptera	Entomological News (Entomol. News) 17(10):384-391
+29052	Brailovsky & Barrera	2009	The Second Described Species of Ichilocoris (Heteroptera: Coreidae: Coreinae: Acanthocephalini) from South America	Entomological News (Entomol. News) 120(2):179-183
+29053	Torre-Bueno & Brimley	1907	On some heteropterous Hemiptera from N. Carolina	Entomological News (Entomol. News) 18:433-443
+29055	Van Duzee	1909	North American Heteroptera	Entomological News (Entomol. News) 20:231–234
+29057	Sherman	1948	Coreidae of South Carolina in comparison with North Carolina (Hemiptera)	Entomological News (Entomol. News) 59:15–17
+29059	Brailovsky	2007	New genus and species of Acanthocorini (Hemiptera: Heteroptera: Coreidae: Coreinae) from Australia	Entomological News (Entomol. News) 118(2):173-178
+29063	Gibson, E. H.	1917	The genus <i>Harmostes</i> Burm. (Coreidae, Heterop.)	Entomological News (Entomol. News) 28(10):439-450
+29064	Bergroth	1913	On some North American Hemiptera	Entomological News (Entomol. News) 24:263-267
+29066	Ghauri	1972	Notes on the Hemiptera from Pakistan and adjoining areas	Journal of Natural History (J. Nat. Hist.) 6:279-288
+29067	Dolling	1987	A mimetic coreid bug and its relatives (Hemiptera: Coreidae).	Journal of Natural History (J. Nat. Hist.) 21:1259-1271
+29069	Chopra	1973	A revision of the genus <i>Niesthrea</i> Spinola (Rhopalidae: Hemiptera)	Journal of Natural History (J. Nat. Hist.) 7(4):441-459, 21 figs.
+29070	Van Duzee	1937	A few new Hemiptera	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 13(1-2):25-31
+29071	Brailovsky	2001	A further contribution to the Australian systematics of the tribe Colpurini (Hemiptera: Heteroptera: Coreidae: Coreinae).	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 77:77-89
+29072	Brailovsky	1997	A new genus of Colpurini from the Philippine Republic, with descriptions of three new species (Heteroptera: Coreidae)	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 73(2):70-78
+29073	Brailovsky	1993	New genera and new species of micropterous Colpurini from Buru Islands and New Guinea (Heteroptera: Coreidae)	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 69(4):281-289
+29074	Brailovsky	1998	The genus Typhlocolpura Breddin with the description of three new species and a new genus (Hemiptera: Heteroptera: Coreidae: Colpurini)	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 74(2):61-84
+29075	Brailovsky & Barrera	1999	An analysis of the genus Salapia Stål with description of six new species, and some taxonomic rearrangements (Hemiptera: Hetetoptera: Coreidae: Acanthocephalini)	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 75(3):130-146
+29076	Brailovsky & Barrera	2001	The genus Notobitopsis Blöte with the description of two new species (Hemiptera: Heteroptera: Coreidae: Coreinae: Mictini)	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 77(1):2-8
+29077	Brailovsky	1990	Three new species of Indo-Pacific Colpurini (Hemiptera: Heteroptera: Coiredae)	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 66(4):292-300
+29078	Brailovsky, Barrera & López-Forment	1992	Revision of the genus Tachycolpura Breddin (Hemiptera: Heteroptera: Coreidae: Colpurini)	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 68(2):122-132
+29079	Brailovsky	2002	Two new species of Mictis Leach (Heteroptera: Coreidae: Mictini) from Sulawesi	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 78(2):110-115
+29080	Brailovsky & Barrera	2002	New genera and new species of Neotropical Nematopodini (Hemiptera: Heteroptera: Coreidae: Coreinae)	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 78(4):265-275
+29081	Brailovsky	2002	Three new species of Sundarus Amyot & Serville, and key to the known species (Hemiptera: Heteroptera: Coreidae: Coreinae: Coreini)	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 78(4):276-285
+29082	Brailovsky & Barrera	2003	Eight new species of Nematopus Berthold (Hemiptera: Heteroptera: Coreidae: Nematopodini) from Central and South America	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 79(3/4):159-175
+29083	Brailovsky	2006	New genus and new species of Cloresmini (Insecta: Heteroptera: Coreidae) from Papua New Guinea	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 82(3/4):375-380
+29084	Barber	1956	A new species of Leptocoris (Coreidae: Leptocorini)	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 31(1):9-11
+29085	Brailovsky	1995	New genera and new species of Neotropical Coreidae (Hemiptera: Heteroptera).	The Pan-Pacific Entomologist (Pan-Pac. Entomol.) 71:217–226
+29087	Brailovsky & Barrera	1996	Revisión del complejo Sciophyrus (Hemiptera: Coreidae: Colpurini)	Folia Entomológica Mexicana (Folia Entomol. Mex.) 96:15-106
+29088	Brailovsky	1995	Un nuevo genero, una nueva especie y algunos arreglos taxonomicos dentro de la tribu Colpurini (Hemiptera: Heteroptera: Coreidae)	Folia Entomológica Mexicana (Folia Entomol. Mex.) 93:31-38
+29089	Brailovsky	1986	Revision del genero Scamurius Stål (Hemiptera-Heteroptera-Coreidae-Discogastrini)	Folia Entomológica Mexicana (Folia Entomol. Mex.) 70:25-52
+29090	Brailovsky	1983	El genero Acidomeria Stål con descripcion de una nueva especie (Hemiptera-Heteroptera-Coreidae-Coreini)	Folia Entomológica Mexicana (Folia Entomol. Mex.) 56:3-20
+29091	Brailovsky	1984	Descripcion de un nuevo genero y una nueva especie de la tribu Discogastrini (Hemiptera; Heteroptera; Coreidae)	Folia Entomológica Mexicana (Folia Entomol. Mex.) 1984(62):17-26
+29092	Brailovsky	1982	Hemíptera-Heteróptera de México XXX. Descripción de cuatro nuevas especies de la tribu Coreini (Coreidae)	Folia Entomológica Mexicana (Folia Entomol. Mex.) 53:27-42
+29093	Hussey	1958	A new North American <i>Mozena</i> (Hemiptera: Coreidae)	Florida Entomologist 41:142-143
+29094	Brailovsky	2004	New genera and new species of Colpurini (Heteroptera: Coreidae) from Irian Jaya and Papua New Guinea.	Florida Entomologist 87(4):566-570
+29095	Brailovsky & Barrera	2009	New species of Merocoris (Merocoris) Perty from Brazil, with keys to Known subgenera and species of the tribe Merocorini (Hemiptera: Heteroptera: Coreidae: Meropachyinae)	Florida Entomologist 92(1):134-138
+29096	Brailovsky	2006	A new species of Molchina Amyot and Serville, 1843, from Ecuador (Heteroptera: Coreidae: Spartocerini)	Florida Entomologist 89(2):233-238
+29097	Brailovsky & Barrera	2001	A futher contribution to the systematics of the tribe Meropachyini (Heteroptera: Coreidae: Meropachyinae)	Florida Entomologist 84(4):613-627
+29099	Brailovsky	1998	A revision of the genus Amblyomia Stål (Heteroptera: Coreidae: Coreinae: Leptoscelini)	Florida Entomologist 81(4):475-482
+29100	Brailovsky & Barrera	2001	Six new species of Mozena from Mexico (Heteroptera: Coreidae: Coreinae: Nematopodini)	Florida Entomologist 84(1):99-111
+29144	Herrich-Schäffer	1850		Die wanzenartigen Insecten, Nürnberg 9:45-256
+29145	Hahn	1831		Die wanzenartigen Insecten, Nürnberg 1:1-36
+29146	Herrich-Schäffer	1836		Die wanzenartigen Insecten, Nürnberg 3:35-114
+29147	Herrich-Schäffer	1839		Die wanzenartigen Insecten, Nürnberg 4:93-108
+29148	Herrich-Schäffer	1840		Die wanzenartigen Insecten, Nürnberg 6:1-36
+29149	Herrich-Schäffer	1841		Die wanzenartigen Insecten, Nürnberg 6:37-72
+29150	Herrich-Schäffer	1846		Die wanzenartigen Insecten, Nürnberg 8:49-100
+29151	Herrich-Schäffer	1853	Index alphabetico synonymicus	Die wanzenartigen Insecten, Nürnberg 9(8-9):1-210
+29152	Herrich-Schäffer	1844		Die wanzenartigen Insecten, Nürnberg 7:41-134
+29154	Herrich-Schäffer	1842		Die wanzenartigen Insecten, Nürnberg 6:73-118
+29155	Herrich-Schäffer	1851		Die wanzenartigen Insecten, Nürnberg 9:257-348
+29158	Herrich-Schäffer	1840		Die wanzenartigen Insecten, Nürnberg 5:61-108
+29160	Herrich-Schäffer	1847		Die wanzenartigen Insecten, Nürnberg 8:101-130
+29163	Herrich-Schäffer	1853		Die wanzenartigen Insecten, Nürnberg Band 9:Heft 8. pp 1-104; Heft 9. pp 105-210
+29166	Fabricius	1781		Species Insectorum exhibentes eorum differentias specificas, synonyma auctorum, loca natalia, metamorphosin adiectis observationibus, descriptionibus., C.E. Bohnii, Hamburgi, Kilonii 2:1-494
+29167	Kormilev	1939	III. Beitrag zur Kenntnis der Verbreitung jugoslavischer Hemiptera-Heteroptera (Serbien und Südserbien).	Annales Musei Serbiae Meridionalis 1:21-29
+29168	Herrich-Schäffer	1835		Faunae Insectorum Germanicae initia oder Deutschlands Insekten 127:pls 1-24
+29169	Herrich-Schäffer	1835		Faunae Insectorum Germanicae initia oder Deutschlands Insekten 135:pls 1-24
+29170	Herrich-Schäffer	1833		Faunae Insectorum Germanicae initia oder Deutschlands Insekten 117:Plates 1-24
+29171	Fallén	1807		Monographia Cimicum Sveciae, Proft, Hafniae 1-123
+29172	Bergevin	1913	Description d'une nouvelle espèce de Coreidae (Hem.) d'Algerie.	Bulletin de la Societe Entomologique de France (Bull. Soc. Entom. France) 1913:121-122
+29173	Puton	1878	Centrocarenus volxemi	Bulletin de la Societe Entomologique de France (Bull. Soc. Entom. France) 1878:173- 174
+29174	Bergevin	1910	Des variations de Terapha nigridorsum Put. (Hem. Coreidae) en Algérie, et description d'une variété nouvelle  	Bulletin de la Societe Entomologique de France (Bull. Soc. Entom. France) 1910:307-310
+29175	Moulet	1993	Notes sur les Dicranocephalus (Heteroptera, Stenocephalidae)  	Bulletin de la Societe Entomologique de France (Bull. Soc. Entom. France) 98:205-208
+29176	Signoret	1879	Deux espèces nouvelles du genre Stenocephalus   	Bulletin de la Societe Entomologique de France (Bull. Soc. Entom. France) 1879:72-73
+29177	Puton	1881	Note du quatrième partie de mon Synopsis des Hémiptères de France  	Bulletin de la Societe Entomologique de France (Bull. Soc. Entom. France) 1881:76-77
+29180	Signoret	1881	Hémiptères recueillis en Chine par M. Collin de Plancy	Bulletin de la Societe Entomologique de France (Bull. Soc. Entom. France) 1881:46-47
+29185	Fabricius	1803		Systema Rhyngotorum secundum ordines, genera, speciesadjectis synonymis, locis, observationibus, descriptionibus. i-vi, 1-314 plus Emendanda and Index
+29186	Puton	1886		Catalogue des Hémiptères (Hétéroptères, Cicadines et Psyllides) de la faune paléarctique, 3me édn, Blanc-Hardel, Caen 1-100
+29187	Curtis	1834		Entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland: containing coloured figures from nature of the most rare and beautiful species, and in many instances of the plants upon which they are found, London 11:pls 482-529 and text
+29188	Putshkov, V. G.	1968	A new species of Coriomeris Westw. (Hemiptera, Coreidae) from Kazakhstan	Vestnik Zoologii 1968(4):82-83
+29189	Putshkov, V. G.	1978	Identification of species of the genus Stictopleurus Stål, 1872 (Heteroptera, Rhopalidae) in the fauna of the Soviet Union  	Vestnik Zoologii 1978(2):9-16
+29191	Kiritshenko	1964		Bugs (Hemiptera-Heteroptera) of Tadzhikistan, Institute of Zoology and Parasitology, Dushanbe 1-258
+29193	Bergroth	1905	Rhynchota neotropica	Revue d'Entomologie 25:105-106
+29194	Breddin	1900	Materiae ad cognitionem subfamiliae Pachycephalini (Lybantini olim) ex Hemipteris-Heteropteris, Fam. Coreidae  	Revue d'Entomologie 19:194-217, 10 text-figs.
+29195	Horváth	1899	Quatre espèces et quatre variétés nouvelles d'Hétéroptères paléarctiques	Revue d'Entomologie 17:67-72
+29196	Horváth	1896	Notes sur le genre <i>Trigonosoma</i>	Revue d'Entomologie 15:231
+29197	Horváth	1895	Hémiptères nouveaux d'Europe et des pays limitrophes	Revue d'Entomologie 14:152-165
+29198	Horváth	1897	Description d'Hémiptères nouveaux et notes diverses	Revue d'Entomologie 16:81-97
+29199	Horváth	1898	Quatre espèces et quatre variétés nouvelles d'Hétéroptères paléarctiques	Revue d'Entomologie 17:67-72
+29200	Bergroth	1894	Rhynchota orientalia	Revue d'Entomologie 13:152-167
+29201	Reuter	1888	Hemiptera Sinensia enumeravit ac novas species descripsit	Revue d'Entomologie 7:63-69
+29202	Horváth	1891	Hémiptères recueillis dans l'Arménie russe avec la description d'espèces et variétés nouvelles  	Revue d'Entomologie 10:68-81
+29203	Rey	1888	Notes sur quelques Hémipteres et descriptions d'espèces nouvelles ou peu connues	Revue d'Entomologie 7:91-103
+29204	Puton	1888	Un genre nouveau d'Hémiptères et notes diverses	Revue d'Entomologie 7:255-257
+29205	Puton	1892	Notes hémiptérologiques	Revue d'Entomologie 11:318-320
+29206	Fallou	1891	Diagnoses d’hémiptères nouveaux	Revue d'Entomologie 10:5-10
+29207	Reuter	1891	Hétéroptères de Suez	Revue d'Entomologie 10:137-142
+29208	Reuter	1888	Notes additionnelles sur les Hémiptères-Hétéroptères des environs de Gorice (Illyrie)	Revue d'Entomologie 7:57-61
+29210	Horváth	1898	Hétéroptères recueillis par M. le Dr A. Forel en Algérie	Revue d'Entomologie 17:148-156
+29211	Puton	1896	Hémiptères nouveaux	Revue d'Entomologie 15:232-234
+29212	Puton	1886[1885]	Captures d'Hémiptères et description d'une variété nouvelle	Revue d'Entomologie 4:356-357
+29213	Horváth	1887	Notes additionnelles sur les Hémiptères-Hétéroptères des environs de Gorice (Illyrie)	Revue d'Entomologie 6:68-74, 5 text-figs
+29214	Puton	1892	Hémiptères nouveaux ou peu connus et notes diverses	Revue d'Entomologie 11:24-36
+29215	Puton	1895	Hémiptères nouveaux	Revue d'Entomologie 14:83-91
+29217	Puton	1899	Catalogue des Hémiptères (Hétéroptères, Cicadines et Psyllides) de la faune Paléarctique.	Revue d'Entomologie 18:1–21
+29219	Bergroth	1892	Notes synonymiques	Revue d'Entomologie 11:262–264
+29220	Reuter	1888	Hemiptera sinensia enumeravit ac novas species descripsit	Revue d'Entomologie 7:63–69
+29225	Bergroth	1893	Mission scientifique de M. Ch. Alluaud aux Iles Séchelles	Revue d'Entomologie 12:197–209
+29226	Moulet	1990	Une espèce nouvelle de Pseudophloeinae (Coreidae) Ceraleptus lugens (Horváth), 1898, stat. nov  	Scopolia Supplement (Scopolia, suppl.) 1:23-25
+29227	Breddin	1906	Rhynchotographische Beiträge. Drittes Stück	Wiener Entomologische Zeitung (Wien. Ent. Ztg) 25:245-246
+29228	Poppius	1912	Neue Hemiptera Heteroptera aus Algier	Wiener Entomologische Zeitung (Wien. Ent. Ztg) 31:165-169
+29231	Bergroth	1893	Literatur. Rhynchota. [Notice of Gerstäcker, 1892]	Wiener Entomologische Zeitung (Wien. Ent. Ztg) 12(3):120
+29234	Bergroth	1906	Neue austro-malayische Hemiptera	Wiener Entomologische Zeitung (Wien. Ent. Ztg) 25:12-16
+29235	Bergroth	1906	Systematische und synonymische Bemerkungen über Hemipteren	Wiener Entomologische Zeitung (Wien. Ent. Ztg) 25:1-12
+29239	Linnavuori	1960	Hemiptera of Israel. I.	Annales Zoologici Societatis Zoologicae Botanicae Fennicae 'Vanamo' (Ann. Zool. Fenn.) 22(1):1-71
+29240	Jakovlev	1890	Insecta, a cl. G.N. Potanin in China et in Mongolia novissime lecta. XVII. Hemiptera-Heteroptera  	Horae Societatis Entomologicae Rossicae 24:540-560
+29241	Jakovlev	1889	Hemiptera Heteroptera Irkutenskia nova	Horae Societatis Entomologicae Rossicae 23:50-71
+29242	Jakovlev	1889	Insecta in itinere cl. N. Przewalskii in Asia centrali novissime lecta. XVI. Hemiptera Heteroptera  	Horae Societatis Entomologicae Rossicae 24:235-243
+29244	Kiritshenko	1938	Entomologische Sammelergebnisse der Deutschen Hindukusch-Expedition 1935 der Deutschen Forschungsgemeinschaft, Schluss. Hemiptera-Heteroptera	Arbeiten über Morphologische und Taxonomische Entomologie (Arb.morph. tax. Ent.) 5:1-8
+29245	Heiss & Moulet	1994	<i>Haploprocta incognita</i> n. sp. from Canary Islands (Heteroptera, Coreidae)	Zeitschrift der Arbeitsgemeinschaft Österreichischer Entomologen 46:121-125
+29246	Germar	1847		Fauna Insectorum Europae, Aug. Kümmel, Halae 24:pls 1-25 with legends + 5 unnumbered pages
+29247	Germar	1822		Fauna Insectorum Europae, Aug. Kümmel, Halae 4:Plates 1-25 with legends + 5 unhnumbered pp.
+29248	Horváth	1882	Hemiptera nova vel minus cognita. II	Természetrajzi Füzetek 5:217-225
+29249	Horváth	1879	Hemiptera-Heteroptera a Dom. Joanne Xantus in China et in Japonia collecta enumeravit  	Természetrajzi Füzetek 3:141-152, plate 7
+29250	Horváth	1899	Heteroptera nova Europae regionumque confinium in Musaeo Nationali Hungarico asservata  	Természetrajzi Füzetek 22:444-451
+29251	Horváth	1892	Hemiptera nova Africana	Természetrajzi Füzetek 15:254–267
+29252	Horváth	1889	Analecta ad cognitionem Heteropterorum Himalayensium	Természetrajzi Füzetek 12:29–40
+29254	Horváth	1902	Descriptions of Hemiptera from New South Wales	Természetrajzi Füzetek 25:601-612
+29255	Matsumura	1913	Additamenta	Thousand insects of Japan, Keiseisha, Tokyo 1:1-184
+29256	Matsumura	1905		Thousand insects of Japan, Keiseisha, Tokyo 2:1-213, 17 plates
+29258	Bergevin	1930	Description d'une nouvelle espèce d'Homoeocerus Burm. (Hémiptère Coreidae), provenant des chasses de M. de Peyerimhoff	Bulletin de la Société d'Histoire Naturelle de l'Afrique du Nord 21:126-128
+29259	Bergevin	1916	Liste de quelques Hémiptères recueillis au Maroc  	Bulletin de la Société d'Histoire Naturelle de l'Afrique du Nord 7:303-315
+29261	Scopoli	1763		Entomologia carniolica exhibens Insecta Carnioliae indigena et distributa in ordines, genera, species, varietatis. Methodo Linnaeana, Trattner, Vindobonae i-xxxvi, 1-420
+29262	Chen, Z.Y.	1986	A new species of Notobitus from Guangdong Province (Hemiptera: Coreidae)	Acta Zootaxonomica Sinica 11:326-327
+29263	Ren, S.Z.	1993	New species of Coreidae from Wuling Mountains, China (Hemiptera: Heteroptera)	Acta Zootaxonomica Sinica 18:344-352
+29264	Hsiao & Zheng	1964	On the Chinese species of Cletus Stål (Hemiptera:  Coreidae)  	Acta Zootaxonomica Sinica 1:65-69
+29265	Ren, S.Z.	1984	Notes on genus Gonocerus Latreille and a new species from China	Acta Zootaxonomica Sinica 9:197-200
+29266	Li, J.J.	1981	New species of Hemiptera-Heteroptera from Xizang, China	Acta Zootaxonomica Sinica 6:191-198
+29267	Cen & Xie	1996	A new species of Notopteryx from Guangxi, China (Hemiptera: Heteroptera: Coreidae)	Acta Zootaxonomica Sinica 21:89-91
+29268	Ren, S.Z.	1990	A new species of the Dicranocephalus from Hengduan Mountains in Southwest China (Heteroptera: Stenocephalidae)  	Acta Zootaxonomica Sinica 15:352-354
+29270	Ahmad	1969	Reconsideration of the systematic position of Hygia Uhlar [sic] 1861 (Hemiptera,Coreidae), with description of a new species from Japan  	Pakistan Journal of Zoology 1:65-76
+29271	Ahmad & Shadab	1969	A new species of a monotypic Ethiopian genus Risbecocoris Izzard 1949 (Heteroptera, Coreidae, Pseudophloeinae) from Pakistan	Pakistan Journal of Zoology 1:151-155
+29272	Ahmad & Perveen	1983	A new genus and a new species of Homoeocerini Stål (Hemiptera: Coreidae: Coreinae) from Bangladesh with a note on its systematic position	Pakistan Journal of Zoology 15:79-82
+29275	Puton	1874	Hémiptères nouveaux	Petites Nouvelles Entomologiques 1:435-436
+29276	Linnaeus	1758		Systema naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Editio decima, reformata, Salvii, Holmiae i-v, 1-824
+29278	Reuter	1888		Revisio synonymica Heteropterorum Palaearcticorum quae descripserunt auctores vetustiores (Linnaeus 1758 - Latreille 1806), Finnische Literatur-Gesellschaft, Helsingfors 1-458 [I: 1-73; II: 74-485]
+29279	Hoberlandt	1989	Results of the Czechoslovak-Iranian entomological expeditions to Iran 1970, 1973 and 1977. Heteroptera: Coreidae	Acta Musei Nationalis Pragae 45B:73-89
+29281	Linnaeus	1767		Systema Naturae. per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Editio duodecima, reformata, Salvii, Holmiae 1(2):533-1327
+29282	Schaum	1853	Hr Peters Berichte über die von ihm gesammelten und von Hrn. Dr. Schaum bearbeiteten Hemipteren aus Mossambique.- Bericht über die zur Bekanntmachung geeigneten Verhandlungen der Königl. Preuss	Akademie der Wissenschaften zu Berlin 1853:356-358
+29285	Ren, S.Z.	1983	Notes on the genus Manocoreus Hsiao from China (Heteroptera: Coreidae)	Entomotaxonomia 5:321-325
+29286	Liu, Q.A. & Zheng	1989	A review on the Chinese species of Rhopalus Schilling (Hemiptera: Rhopalidae)  	Entomotaxonomia 11:269-277
+29287	Liu, Q.A. & Zheng	1993	A revision of the species of Stictopleurus Stål (Hemiptera: Rhopalidae) from China  	Entomotaxonomia 15:157-166
+29288	Schouteden	1957	Contributions à l'étude de la faune entomologique du Ruanda-Urundi (Mission P. Basilewsky 1953). CXXVI. Heteroptera Plataspidae, Acanthosomidae, Pentatomidae et Coreidae	Annales du Musée Royal du Congo Belge. Zoologie Sciences zoologiques 58:269-310
+29289	Schouteden	1938	Catalogues raisonnés de la faune entomologique du Congo Belge. Hémiptères, Coreidae  	Annales du Musée Royal du Congo Belge. Zoologie 3 (2) 1:221-308
+29293	O'Shea & C. W. Schaefer	1980	A generic revision of the Asian and Australian Mictini  (Heteroptera: Coreidae)	Oriental Insects 14(2):221-251
+29294	Chopra	1971	A new species of Leptocoris Hahn from India (Hemiptera: Rhopalidae)    	Oriental Insects 5:507-509
+29295	Montandon	1913	Notes sur les Phyllomorphinae et description d'une forme nouvelle	Bulletin de la Section Scientifique de l'Académie Roumaine 1:271-277
+29296	Rambur	1839		Faune entomologique de l'Andalousie, Arthus Bertrand, Paris 2:97-176
+29297	Guérin-Méneville	1839	Note monographique sur le genre d'insectes hémiptères, nommé <i>Phyllomorpha</i>, et description d'une nouvelle espèce de ce genre	Revue Zoologique 2:230-233
+29298	Costa, A.	1864	Generi e specie d'Insetti della Fauna Italiana	Annuario del Museo Zoologico della R. Università di Napoli 2:128-138, plate 1 figs 1-7
+29299	Thunberg	1783		Dissertatio entomologica novas insectorum species, sistens, cujus partem secundum, Edman, Upsaliae 2:29-52
+29300	Esaki	1931	Undescribed Hemiptera from Japan and Formosa	Annotationes Zoologicae Japonenses 13:259-269
+29301	Kirby, W. F.	1892	Catalogue of the described Hemiptera Heteroptera and Homoptera of Ceylon, based on the collection formed (chiefly at Pundaluoya) by Mr. E. Ernest Green  	Journal of the Linnean Society of London 24:72-176
+29302	Buchanan White	1879	Descriptions of new Hemiptera	Journal of the Linnean Society of London 14:482-483
+29303	Villers	1789		Caroli Linnaei entomologia, faunae Sueciae descriptionibus aucta, DD. Scopoli, Geoffroy, de Geer, Fabricii, Schrank etc. speciebus vel in systemate non enumeratis, vel nuperrime detectis, vel speciebus Galliae Australis locupleta, generum specierumque rariorum iconibus ornata, Piestre & Delamolliere, Lugduni (Lyon) 1:i-xiv, 1-765
+29304	Mulsant & Rey	1852	Description de quelques Hémiptères Hétéroptères nouveaux ou peu connus	Annales de la Société Linnéenne de Lyon 1850-1852:76-141, 311 (errata)
+29305	Montrouzier	1858	Description de quelques Hémiptères de la Nouvelle-Calédonie	Annales de la Société Linnéenne de Lyon Sér. 2 5:243-260
+29307	Perty	1830		Delectus animalium articulatorum, quae in itinere per Brasilian annis MDCCCXVII-MDCCCXX, jussu et auspiciis Maximiliani Josephi I. Bavariae Regis augustissimi peracta, collegerunt Dr. J. B. de Spix et Dr. C. F. Ph. De Martius 1-61
+29308	Perty	1830		Delectus animalium articulatorum, quae in itinere per Brasilian annis MDCCCXVII-MDCCCXX, jussu et auspiciis Maximiliani Josephi I. Bavariae Regis augustissimi peracta, collegerunt Dr. J. B. de Spix et Dr. C. F. Ph. De Martius 125-224, plates 25-40
+29309	Costa, A.	1853		Cimicum regni Neapolitani centuria tertia et quartiae fragmentarum, Napoli 1-77
+29310	Brailovsky	1990	Géneros neuvos y especies nuevas de coreidos neotropicales (Hemiptera-Heteroptera-Coreidae: Acanthocerini, Leptoscelidini y Anisoscelidini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 61(1):107-123
+29311	Brailovsky & Barrera	1982	Revision del género <i>Zoreva</i> Amyot y Serville y descripcion de cinco nuevas especies (Hemiptera-Heteroptera-Coreidae-Mictini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 52(1):301-345
+29312	Brailovsky & Garcia	1987	Revisión de género Catorhintha Stål (Hemiptera-Heteroptera-Coreidae: Anisoscelidini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 4:1-149
+29313	Brailovsky	1984	Un neuvo género y tres neuvas species de la tribu Coreini (Hemiptera-Heteroptera-Coreidae) para el continente Americano	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 55 1:161-176
+29314	Brailovsky	1982	Hemiptera-Heteroptera de Mexico XXIV. Nuevos registros de la tribu Mictini y descripcion de un nuevo Genero y dos nuevas especies (Coreidae)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 52 1:277-288
+29315	Brailovsky & Camacho	2003	Especies nuevas de Nematopus (Hemiptera: Heteroptera: Coreidae: Nematopodini) centro y sudamericanas	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 74(2):135-152
+29316	Brailovsky	1992	El género Salapia con descripción de cuatro especies nuevas (Hemiptera-Heteroptera-Coreidae-Acanthocephalinae)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 63(1):47-59
+29317	Brailovsky	1992	El género Laminiceps con descripción de tres especies nuevas (Hemiptera-Heteroptera-Coreidae-Acanthocephalini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 63(1):61-74
+29318	Brailovsky	1992	Un género y tres especies nuevas de Coreidos neotropicales (Hemiptera-Heteroptera-Coreidae-Coreinae-Coreini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 63(2):185-199
+29319	Brailovsky	1992	El género Eubule con descripción de cuatro especies y algunos registros nuevos (Hemiptera-Heteroptera-Coreidae-Spartocerini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 63(2):201-213
+29320	Brailovsky	1993	Género nuevo y especies nuevas de Coreidos Neotropicales (Hemiptera-Heteroptera-Coreidae: Acanthocerini, Chariesterini, Coreini, Discogastrini, Leptoscelidini y Nematopodini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 64(2):109-127
+29321	Brailovsky & Barrera	1994	Descripción de cuatro especies y una subspecie nuevas de la tribu Anisoscelidini (Hemiptera-Heteroptera-Coreidae)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 65(1):45-62
+29323	Brailovsky	1984	Hemiptera-Heteroptera de México. XXXII. El género Cebrenis Stål y descripción de una especie nueva (Coreidae-Coreini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 54(1):123-132
+29324	Brailovsky & Barrera	1996	Cinco especies nuevas del género Stenoscelidea (Hemiptera: Heteroptera: Coreidae: Acanthocerphalini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 67(1):103-121
+29325	Brailovsky & Barrera	1997	Especies nuevas de género Stenoscelidea (Hemiptera: Heteroptera: Coreidae: Acanthocephalini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 68(2):261-273
+29327	Brailovsky	1986	Una especie nueva del género Coryzoplatus Spinola (Hemiptera-Heteroptera-Coreidae-Discogastrini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 57(1):113-118
+29328	Brailovsky & Barrera	1986	El género <i>Cnemomis</i> Stål y descripción de cuatro nuevas especies (Hemiptera-Heteroptera-Coreidae-Discogastrini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 57(1):119-136
+29329	Brailovsky	1986	Revision del genero Curtius Stål, con descripcion de tres nuevas especies y su ubicacion dentro de la tribu Nemtopodini (Hemiptera-Heteroptera-Coreidae)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 57(2):269-280
+29330	Brailovsky	1988	Hemiptera-Heteroptera de Mexico XXXIX. Descripcion de una tribu nueva, un genero nuevo y una especie nueva de Coreidos recolectados en bambu (Bambusa sp.) (Coreidae-Coreinae)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 58(1):155-164
+29331	Brailovsky	1988	Un nuevo genero y dos nuevas especies de Coreidos Neotropicales (Hemiptera-Heteroptera-Coreidae Acanthocerini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 58(1):171-178
+29332	Brailovsky	1988	Dos nuevas especies del genero Sethenira Spinola y nuevos arreglos nomenclatoriales dentro de Acidomeria Stål (Hemiptera-Heteroptera-Coreidae-Coreini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 58(1):179-198
+29333	Brailovsky	1988	Revision del genero Sundarus Amyot-Serville (Hemiptera-Coreidae-Coreini) para el continente Americano	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 58(2):561-622
+29334	Brailovsky	1988	La tribu Hydarini Stål, en el continente Americano con descripcion de dos nuevos generos, una nueva especie y una nueva subespecie (Hemiptera-Heteroptera-Coreidae)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 58(2):623-650
+29335	Brailovsky & Rivera	1979	Revisón del género Madura Stål, con descripción de una nueva especie (Hemíptera-Heteróptera-Coreidae-Coreini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 50(1):241-250
+29336	Brailovsky	1989	Revision del genero Scolopocerus Uhler con descripcion de una especie nueva (Hemiptera-Heteroptera-Coreidae-Coreini) de Norteamerica	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 59(1):65-76
+29337	Brailovsky	1989	Nuevos arreglos tribales dentro de la familia Coreidae y descripción de dos especies nuevas Sudamericanas (Hemiptera-Heterotpera)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 59(2):159-180
+29338	Brailovsky	1990	Un género nuevo y seis especies nuevas de Coreidos Neotropicales (Hemiptera-Heteroptera-Coreidae-Coreinae)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 61(2):257-278
+29339	Brailovsky	1990	Nuevos arreglos nomenclatoriales y descripción de dos especies nuevas del género Dalmatomammurius Brailovsky (Hemiptera-Heteroptera-Coreidae-Leptoscelidini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 61(3):343-355
+29340	Brailovsky	1991	Descripción de la segunda especie del género Leptopetalops (Hemiptera-Heteroptera-Coreidae: Acanthocephalini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 62(1):97-102
+29341	Brailovsky	1991	El género Petalops con descripción de cinco especies nuevas (Hemiptera-Heteroptera: Coreidae: Acanthocephalini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 62(3):453-468
+29342	Brailovsky	1976	Contribución al estudio de los Hemiptera-Heteroptera de México: VIII. Una nueva especie de Leptoglossus Guerin (Coreidae-Coreinae) y datos sobre distribución de las especies Mexicanas del género	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 47(2):35-42
+29343	Brailovsky & Zurbia Flores	1979	Contribución al estudio de los Hemiptera-Heteroptera de México: XVII. Revision de la familia Alydidae Amyot y Serville	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 1:255-339
+29344	Brailovsky & Soria	1981	Contribución al estudio de los Hemiptera-Heteroptera de México: XVIII revisión de la tribu Harmostini Stål (Rhopalidae) y descripción de una nueva especie	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 51(1):123-168
+29345	Brailovsky	1982	Una nueva especie de Collatia Stål (Hemiptera-Heteroptera-Coreidae-Coreini) de Bolivia	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 52:247-252
+29346	Brailovsky	1982	Hemiptera-Heteroptera de Mexico XXIII. Una nueva especie del genero Hypselonotus Hahn (Coreidae: Coreini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 52:253-257
+29347	Brailovsky & Sánchez	1983	Hemiptera-Heteroptera de México XXVI. Revisión de la familia Coreidae Leach. Parte 3. Tribu Spartocerini Amyot-Serville	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 53:181-203
+29348	Brailovsky	1983	Hemiptera-Heteroptera de México XXVII. Una especie nueva del género Catorhintha Stål (Coreidae-Coreini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 53:205-212
+29349	Brailovsky & Zurbia Flores	1983	Hemiptera-Heteroptera de México XXVIII. Una nueva especie del género Nematopus Berthold (Coreidae-Nematopodini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 53:213-218
+29352	Brailovsky	1983	El género Sephina Amyot y Serville en Venezuela con descripción de un nueva especie (Hemiptera-Heteroptera-Coreidae-Spartocerini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 53:277-283
+29353	Brailovsky	1983	Cuatro nuevas especies del género Stenoscelidea Westwood (Hemiptera-Heteroptera-Coreidae-Acanthocephalini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 83:321-339
+29354	Brailovsky	1984	Una nueva especie del género Stenometapodus Breddin y algunas notas acerca de Empedocles tenuicornis (Westwood) (Hemiptera-Heteroptera-Coreidae-Acanthocephalini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 54:63-68
+29355	Brailovsky & Barrera	1984	Descripción de dos nuevas especies Sudamericanas de la tribu Nematopodini (Hemiptera-Heteroptera-Coreidae)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 54:69-77
+29356	Brailovsky	1984	Hemiptera-Heteroptera de México: XXXI. Notas acerca del género Collatia Stål y descripción de una nueva especie (Coreidae-Coreini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 54:87-95
+29357	Brailovsky	1984	El género Nirovecus Stål con descripción de una nueva especie (Hemiptera-Heteroptera-Coreidae-Coreini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 54:97-104
+29358	Brailovsky & Barrera	1984	Hemíptera-Heteróptera de México XXXIII. El género <i>Piezogaster</i> Amyot y Serville con descripción de dos nuevas especies (Coreidae-Netamopodini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 55:133-154
+29359	Brailovsky	1984	Notas acerca del género Lybindus Stål y descripción de una especie nueva (Hemíptera-Heteróptera-Coreidae-Coreini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 55:155-160
+29360	Brailovsky	1986	Nuevos datos distribucionales y descripcion de tres nuevas especies del genero Paryphes Burmeister (Hemiptera-Heteroptera-Coreidae-Coreini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 56(1):101-128
+29361	Brailovsky	1986	Hemiptera-Heteroptera de Mexico XXXV. Revision de la familia Coreidae Leach. Part I. Tribu Discogastrini Stål	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 56(2):401-422
+29362	Brailovsky	1986	El genero Himella Dallas con descripción de dos especies nuevas (Hemiptera-Heteroptera-Coreidae-Nematopodini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 56(2):423-436
+29363	Brailovsky & Barrera	1986	El genero <i>Quintius</i> Stål con descripcion de un subgenero nuevo y tres especies nuevas (Hemiptera-Heteroptera-Coreidae-Nematopodini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 56(2):437-452
+29364	Brailovsky	1986	Revision del genero Stenoprasia Horvath  descripcion de dos especies nuevas (Hemiptera Heteroptera-Coreidae-Coreini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 56(2):453-464
+29365	Brailovsky & Meléndez	1989	Revision del genero Sphictyrtus Stål (Hemiptera-Heteroptera-Coreidae-Coreinae-Coreini).	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 60:1-76
+29366	Brailovsky & Mayorga	1995	Especie y subspecie nuevas del género Bitta (Hemiptera-Heteropter-Coreidae: Anisoscelidini)	Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoología (An. Inst. Biol. Univ. Nac. Auton. Mex. Ser. Zool.) 66:197-204
+29369	Linnaeus	1763		Centuria Insectorum rariorum, Upsaliae i-vi, 1-37
+29370	Blöte	1938	Catalogue of the Coreidae in the Rijksmuseum van natuurlijke Historie. Part IV. Coreinae, Third part	Zoölogische Mededeelingen, Leiden 20(25):275-308
+29371	Blöte	1934	Catalogue of the Coreidae in the Rijksmuseum van Natuurlijke Historie. Part I. Corizinae, Alydinae	Zoölogische Mededeelingen, Leiden 17:253-285
+29372	Blöte	1932	Two new species of Pyrrhocoridae in 'S Rijks Museum van Natuurlijke Historie	Zoölogische Mededeelingen, Leiden 14:263-264
+29373	Schmidt, E.	1926	Neue südamerikanische Coreiden (Hem. Heteropt.)	Deutsche Entomologische Zeitschrift (N.F.) 1926(2):137-144
+29374	Göllner-Scheiding	1980	Revision der afrikanischen Arten sowie Bemerkungen zu weiteren Arten der Gattungen <i>Leptocoris</i> Hahn, 1833, und <i>Boisea</i> Kirkaldy, 1910 (Het., Rhopalidae)	Deutsche Entomologische Zeitschrift (N.F.) 27:103-148
+29376	Göllner-Scheiding	1976	Revision der Gattung <i>Liorhyssus</i> Stål, 1870 (Heteroptera, Rhopalidae)  	Deutsche Entomologische Zeitschrift (N.F.) 23:181-206
+29377	Göllner-Scheiding	1975	Revision der Gattung <i>Stictopleurus</i> Stål, 1872 (Heteroptera, Rhopalidae)    	Deutsche Entomologische Zeitschrift (N.F.) 22:1-60
+29378	Göllner-Scheiding	1977	Revision der Gattungen Agraphopus Stål, 1872, und Leptoceraea Jakovlev,1873 (Heteroptera, Rhopalidae)    	Deutsche Entomologische Zeitschrift (N.F.) 24:223-249
+29379	Schmidt, E.	1911	Drei neue Coreiden-Gattungen (Hemipt.)	Deutsche Entomologische Zeitschrift (N.F.) 1911:565-571
+29380	Göllner-Scheiding	1979	Die gattung <i>Jadera</i> Stål, 1862 (Heteroptera, Rhopalidae)	Deutsche Entomologische Zeitschrift (N.F.) 26:47-75
+29381	Brailovsky	2010	New genus and new species of Hydarini (Hemiptera, Heteroptera, Coreidae) from South America	Deutsche Entomologische Zeitschrift (N.F.) 57(1):85-88
+29382	Göllner-Scheiding	1980	Agraphopus rodriguesi eine neue Art der Rhopalidae aus Mocambique (Heteroptera)	Deutsche Entomologische Zeitschrift (N.F.) 1980 27(4-5):219-220
+29383	Göllner-Scheiding	1982	Erganzungen zu Gattungen der Rhopalidae (Heteroptera).	Deutsche Entomologische Zeitschrift (N.F.) 29(4-5):459-467
+29384	Fabricius	1787		Mantissa insectorum sistens species nuper detectas adjectis synonymis, observationibus, descriptionibus, emendationibus 2:1-382
+29386	Xiong	1987	Three new Coreids from China (Heteroptera: Coreidae)	Zoological Research 8:87-93
+29393	Guérin-Méneville	1831		Crustaces, Arachnides et Insectes. In: L.I. Duperrey, Voyage autour du monde, exécuté par ordre du Roi, sur la corvette de Sa Majesté "La Coquille", pendant les années 1822-1825. Zoologie, Bertrand, Paris 2(2):i-xii, 1-319
+29394	Breddin	1901	Die Fauna von Celebes und ihre Entstehung	Allgemeine Zeitschrift für Entomologie 6:113-115
+29403	Lindberg	1932	Inventa entomologica itineris Hispanici et Maroccani, quod a. 1926 fecerunt Harald et Håkan Lindberg. XIII. Hemiptera Heteroptera (excl. Capsidae et Hydrobiotica)  	Commentationes Biologicae 3(19):1-53
+29404	Lindberg	1959	Hemiptera Insularum Caboverdensium. Systematik, Ökologie und Verbreitung der Heteropteren und Cicadinen der Kapverdischen Inseln  	Commentationes Biologicae 19(1):1-246
+29405	Lindberg	1953	Hemiptera Insularum Canariensium (Systematik, Ökologie und Verbreitung der Kanarischen Heteropteren und Cicadinen)	Commentationes Biologicae 14(1):1-304
+29406	Goeze	1778		Entomologische Beyträge zu des Ritter Linné zwölften Ausgabe des Natursystems, Weidmanns Erben & Reich, Leipzig 2:i-lxxii, 1-352
+29407	Breddin	1903	Missdeutete und neue Hemipteren-Arten der indo-australischen Fauna	Sitzungs- Berichte der Gesellschaft Naturforschender Freunde zu Berlin 1903:195-223
+29409	Henry, G.M.	1931	New Ceylonese Rhynchota	Spolia Zeylanica 16(2):115-121, pls 25-27
+29410	Hahn	1826		Icones ad monographium Cimicum, Lechner, Nürnberg 1 page, Plates 1-24
+29411	Gmelin	1790		Caroli a Linné Systema Naturae, Beer, Lipsiae [=Leipzig], 1(4):1517-2224
+29412	Puton	1881		Synopsis des Hémiptères-Hétéroptères de France. 4e Partie, Puton, Remiremont 1-129
+29414	Jakovlev	1873	Contributions to the entomological fauna of European Russia. I-III  	Trudy Russkago Entomologicheskago Obshchestva 7:7-43
+29415	Jakovlev	1879	Bugs (Hemiptera Heteroptera) of the Caucasian region	Trudy Russkago Entomologicheskago Obshchestva 12(1-2):3-176
+29417	Curtis	1830		British Entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland: containing coloured figures from nature of the most rare and beautiful species, and in many instances of the plants upon which they are found, London 7:plates 290-337 and text
+29420	Hahn	1833		Die Wanzenartigen Insecten, getreu nach der Natur abgebildet und beschrieben 2:15
+29421	Germar	1817		Reise nach Dalmatien und in das Gebiet von Ragusa, Brockhaus, Leipzig & Altenberg i-xii, 1-323, 11 plates
+29424	Linnavuori	1974	Hemipterological studies	Annales Entomologici Fennici 40:167-171
+29426	Linnavuori	1989	African species of the genus Haidara Distant (Heteroptera, Coreidae)	Annales Entomologici Fennici 55(1):11-15
+29427	Linnavuori	1973	A collection of Heteroptera from Katanga, with remarks on some species from other parts of the Ethiopian Region	Annales Entomologici Fennici 39(2):70-94, 23 fig
+29428	Linnavuori	1989	New taxa of Heteroptera and Auchenorrhyncha from the Middle East and the Ethiopian Region	Annales Entomologici Fennici 55:1-9
+29431	Ferrari	1874	Hemiptera Agri Ligustici hucusque lecta enumerat  	Annali del Museo Civico di Storia Naturale di Genova 6:116-208
+29433	Wagner	1962	2. Beitrag zur Heteropteren-Fauna Macedoniens (Hem. Het.)	Fragmenta Balcanica 4:115-122
+29434	Costa, A.	1863	Illustrazione di alcuni Emitteri stranieri all'Europa	Rendiconto della Adunaze e de' Lavori della Reale accademia delle Scienze di Napoli (Rendic. Acad. Napoli) 2:190-191, 250-261
+29436	Hoffmann, W.E.	1933	Life history notes on some Kwangtung, China, coreids (Hemiptera, Coreidae)	Lingnan Science Journal 12:97-127
+29437	Schaffner	1987	The genus Zulubius Bergroth (Hemiptera: Alydidae)  	Journal of the Entomological Society of South Africa 50(2):313-322
+29438	Shiraki	1913	Report on the injurious insects of Formosa  	Extra-Report of the Agricultural Experiment Station of Formosa 8:1-670
+29439	Palisot de Beauvois	1818		Insectes recueillis en Afrique et en Amérique, dans les Royaumes d'Oware et de Benin, à Saint-Domingue et dans les États-Unis, pendant les années 1786-1797, Faine et Compagnie, Paris 11-12:173-192, 193-208
+29440	Montandon	1897	Hémiptères-Hétéroptères de l'Équateur. Trois espèces nouvelles de la fam. Coreidae	Bulletin de la Société des Sciences de Bucarest-Roumanie 6(2):246-253
+29441	Montandon	1899	Hemiptera-Heteroptera. Fam. Coreidae. Notes et descriptions de trois nouvelles espèces Américaines	Bulletin de la Société des Sciences de Bucarest-Roumanie 8(1-2):190-195
+29442	Montandon	1897	Hemiptera-Heteroptera Coreidae. Notes sur le genre <i>Vilga</i> Stål et descriptions d’espèces nouvelles	Bulletin de la Société des Sciences de Bucarest-Roumanie 6:183-186
+29443	Fabricius	1798	Classis XII: Ryngota	Supplementum Entomologiae Systematicae, Proft and Storch, Copenhagen 511-546
+29445	Horváth	1913	Revisio critica generis <i>Paryphes</i> Burm. et Affinium	Annales Musei Nationalis Hungarici 11(1):344-373, 8 figs
+29447	Osuna	1985	Monografia de la tribu Anisoscelidini (Hemiptera, Heteroptera, Coreidae) I. Revisión genérica	Boletin de Entomologia Venezolana (new series) 3:77-148
+29448	Brailovsky & Cadena	1992	Revisión del género Zicca (Hemiptera-Heteroptera-Coreidae-Coreinae-Coreini)	Publicaciones Especiales del Instituto de Biologia de la Universidad Nacional Autónoma de México 9:1-101
+29449	Brailovsky & Martínez	1994	Revisión del género Brachylybas (Hemiptera-Heteroptera: Coreidae: Colpurini)	Publicaciones Especiales del Instituto de Biologia de la Universidad Nacional Autónoma de México 13:1-82
+29451	Kirkaldy	1899	The expedition to Sokotra. IX. Descriptions of ten new species of Hemiptera	Bulletin of the Liverpool Museums under the City Council 2:45-47
+29452	Dufour	1833	Recherches anatomiques et physiologiques sur les Hémiptères, accompagnées de considerations relatives à l'histoire naturelle et à la classification de ces insectes  	Mémoires présentés par divers savants à l'Académie Royale des Sciences de l’Institut de France 4:129-462
+29453	Göllner-Scheiding	2000	Die Alydinae Afrikas (Insecta: Heteroptera: Coreoidea: Alydidae)  	Entomologische Abhandlungen Staatliches Museum für Tierkunde Dresden 59:5-53
+29454	Distant	1911	On some South African Rhynchota in the South African Museum.	Annals of the South African Museum 10(2):39-49, 9 figs
+29455	Distant	1902	Rhynchotal miscellanea. Part I. African Tingididae (pp 237-243, pl. 15); Part II. Rhynchota from the Transvaal Mashonaland, and British Nyasaland (pp 244-251); Part III. Descriptions of some new species from various localities (pp 252-254)	Annals of the South African Museum 2(9):237-254, pl. 15
+29456	Breddin	1901	Neue neotropische Wanzen	Societas Entomologica 16(4):41-42
+29457	Breddin	1901	Neue neotropische Wanzen	Societas Entomologica 16(7):52-53
+29458	Breddin	1904	Neue Rhynchotenausbeute aus Süd-Amerika	Societas Entomologica 18(17):147-149
+29459	Breddin	1901	Neue Coreiden und Pyrrhocoriden	Societas Entomologica 16(4):25-26
+29460	Breddin	1902	Neue neotropische Wanzen und Zirpen	Societas Entomologica 17(2):2-3
+29462	Drury	1782		Illustrations of Natural History Wherein Are Published Upwards of Six Hundred and Sixty Figures of Exotic Insects According to Their Genera, White, London 3:i-xiii, 1-76, plates I-L, index
+29464	Drury	1773		Illustrations of Natural History Wherein Are Published Upwards of Six Hundred and Sixty Figures of Exotic Insects According to Their Genera, White, London 1773 2:vii + 90 pp, 50 col. Pls, index to vols 1, 2
+29465	Horváth	1919	Hemipteren von den Aru-und Kei Inseln	Abhandlungen der Senckenbergischen Naturforschenden Gesellschaft 35(3):305-314
+29466	Breddin	1900	Hemiptera, gesammelt von Professor Kukenthal im Malayischen Archipel	Abhandlungen der Senckenbergischen Naturforschenden Gesellschaft 25(1):139-202, pl. 9
+29467	Say	1832[1831]		New species of North American insects found by Joseph Barabino, chiefly in Louisiana, New Harmony, Indiana 1-16
+29468	Bergevin	1930	Risultati zoologici della Missione inviata dalla R. Società Geografica Italianaper l'esplorazione dell' Oasi di Giarabub (1926-1927). Liste des Hémiptères    	Annali del Museo Civico di Storia Naturale Giacomo Doria 55:29-39
+29469	Lethierry	1881	Spedizione italiana nell’Africa equatoriale. Risultati zoologici. Emitteri.	Annali del Museo Civico di Storia Naturale Giacomo Doria 16:277-298
+29472	Berg	1879		Hemiptera Argentina enumeravit speciesque novas descripsit, Paulo E. Coni, Bonariae 1-316 & 1-176
+29474	Berg	1892	Nova Hemiptera Faunarum Argentinae et Uruguayensis	Anales de la Sociedad Científica Argentina 33:65-72, 97-104, 151-165
+29475	Berg	1884	Addenda et emendanda ad Hemiptera Argentina (conclusio)	Anales de la Sociedad Científica Argentina 17:97-118
+29477	Berg	1883	Addenda et emendanda ad Hemiptera Argentina (continuatio)	Anales de la Sociedad Científica Argentina 15:241-269
+29478	Berg	1881	Sinonimia y Descripcion de algunos Hemípterros de Chile, del Brasil y de Bolivia	Anales de la Sociedad Científica Argentina 12:259-272
+29480	Van Duzee	1916	Check list of the Hemiptera of America North of Mexico excepting the Aphididae, Coccidae and Aleurodidae	University of California Publications in Entomology. Technical Bulletin 11:xiv 1–902
+29482	Valdés	1911[1910]	Clasificación Gundlach de Hemípteros cubanos, conforme a los ejemplares que existen en el Museo del Instituto de 2a. enseñanza de La Habana	Anales de la Academia de Ciencias Médicas, Físicas y Naturales de la Habana (Acad. Cinc. Habana) 46:425-446
+29483	Valdés	1910	Classificación Gundlach de los Hemípteros Cubanos, conforme a los ejemplares que existen en el Museo del Instituto	Anales de la Academia de Ciencias Médicas, Físicas y Naturales de la Habana (Acad. Cinc. Habana) 46(6):425-446
+29486	Wolcott	1924	Insectae Portoricensis (A preliminary annotated check-list of the insects of Porto Rico with descriptions of some new species.)	Journal of the Department of Agriculture of Porto Rico 7:1-312
+29490	Le Guillou	1841	La description des Hémipteres nouveaux qu'il a  recueillis pendant son voyage de circumnavigation sur la corvette la Zélée	Revue Zoologie 4:258-263
+29493	Brailovsky & Barrera	2000	Panstronhygia, a new genus of Colpurini from Sulawesi, with a description of two new species (Hemiptera: Coreidae)	Australian Journal of Zoology 39:118-122
+29494	Riggio	1885	Materiali per una Fauna Entomologica dell=isola d=Ustica. Prima Contribuzione (cont.)  	Naturalista Siciliano 5:52-56
+29497	Moulet	1991	Notes, typifications et remarques sur quelques Coreoidea (Hemiptera, Heteroptera)    	Revue Française d'Entomologie (N.S.) 13:49-64
+29500	Fieber	1864	Neuere Entdeckungen in europäischen Hemipteren (Fortsetzung)  	Wiener Entomologische Monatschrift 8:321-335
+29502	Liu, G.Q. & Q. Liu	1998	On the genus Megalotomus Fieber from China (Heteroptera: Alydidae)     	Entomologische Berichten, Amsterdam 58:41-44
+29503	Van Doesburg & Siwi	1983	Two new species of <i>Leptocorisa</i> from Indonesia (Heteroptera: Coreidae, Alydinae)	Entomologische Berichten, Amsterdam 43(10):153-155, 8figs.
+29504	Say	1832		Descriptions of New Species of Heteropterous Hemiptera of North America, New Harmony, Indiana 5-39
+29505	Say	1831		Descriptions of New Species of Heteropterous Hemiptera of North America, New Harmony, Indiana 39 pp.
+29506	Southwood & Leston	1959		Land and Water Bugs of the British Isles, Frederick Warne & Co. Ltd i-xi, 1-436
+29507	Boheman	1852	Nya svenska Hemiptera   	Öfversigt af Kongliga Vetenskaps-Akademiens Förhandlingar 9:49-60
+29508	Stål	1859	Hemipterologiska bidrag	Öfversigt af Kongliga Vetenskaps-Akademiens Förhandlingar 15(9-10):433-454
+29509	Haglund	1895	Verzeichniss der von Yngve Sjostedt im nordwestichen Kamerungebiete eingesammelten Hemipteren. Pt. II.	Öfversigt af Kongliga Vetenskaps-Akademiens Förhandlingar 52(7):445-479
+29511	Stål	1863[1862]	Synonymiska och systematiska anteckningar öfver Hemiptera	Öfversigt af Kongliga Vetenskaps-Akademiens Förhandlingar 19:479-504
+29512	Stål	1856	Hemiptera samlade af Victorin i Caplandet	Öfversigt af Kongliga Vetenskaps-Akademiens Förhandlingar 13:193-199
+29514	Stål	1871[1870]	Hemiptera insularum Philippinarum.-Bidrag till Philippinska oarnes Hemipter-fauna	Öfversigt af Kongliga Vetenskaps-Akademiens Förhandlingar 27:607-776
+29516	Osborn	1904	Notes on South American Hemiptera-Heteroptera	Ohio Naturalist 5(1):195–204
+29517	Berg	1894	Descripciones de algunos hemípteros heterópteros nuevos o poco conocidos	Anales del Museo Nacional de Montevideo 4:7-19
+29528	Stichel	1960	Illustrierte Bestimmungstabellen der Wanzen. II	Illustrierte Bestimmungstabellen der Wanzen. II. Europa. (Hemiptera  Heteroptera Europae), Stichel, Berlin-Hermsdorf 4:385-544
+29529	Schouteden	1917	Note sur quelques Coreides du Congo	Revue Zoologique Africaine (Revue Zool. afr.) 5(2):163-165
+29530	Schouteden	1912	Coréides nouveaux du Congo	Revue Zoologique Africaine (Revue Zool. afr.) 1(3):418-425
+29531	Schouteden	1911	Cimicidae et Coreidae recueillis dans les districts du Kasai et du Kwango par Mm. Carlier, Koller et Luja	Revue Zoologique Africaine (Revue Zool. afr.) 1(2):179-189
+29532	Schouteden	1913	Cimicidae et Coreidae recueillis au Congo par le Dr J. Bequaert	Revue Zoologique Africaine (Revue Zool. afr.) 2(2):189-202
+29533	Schouteden	1912	Cimicidae, Coreidae, Reduviidae de la région du Zoutpansberg (Transvaal)	Revue Zoologique Africaine (Revue Zool. afr.) 2(1):101-114
+29534	Schouteden	1913	Hémiptères nouveaux recueillis au Congo par le Dr Bequaert	Revue Zoologique Africaine (Revue Zool. afr.) 2(3):432-438
+29535	Bliven	1956	New Hemiptera from the Western States with illustrations of previously described species and synonymy in the Psyllidae	Privately published, P.B. Bliven, Eureka, California 1-27
+29537	Barber	1906	Hemiptera from South Western Texas	Science Bulletin of the Museum of the Brooklyn Institute of Arts and Sciences 1(9):255-289
+29539	Rossi	1790		Fauna Etrusca, sistens insecta quae in provinciis Florentina et Pisana praesertim collegit, Masi, Liburni 2:1-348
+29541	Mancini	1946	Emitteri nuovi dell'Africa orientale    	Bollettino della Società Entomologica Italiana 76:66-72
+29542	Mancini	1942	Contributo alla conoscenza degli Emitteri del Barca (Cirenaica)	Bollettino della Società Entomologica Italiana 74:86-96
+29543	Linnavuori	1976	A hemipterous material from Somalia	Bollettino della Società Entomologica Italiana 108(5-7):123-130, 4 figs.
+29545	Mancini	1935	Missioni scientifiche del Prof. E. Zavattari nel Sashara Italiano	Bollettino della Società Entomologica Italiana 67(5-6):77-82
+29548	Froeschner	1981	Coreidae	Heteroptera or True Bugs of Ecuador: A Partial Catalog, Smithsonian Institution Press, City of Washington 20-27
+29551	Barber & Bruner	1947	The Coreidae of Cuba and the Isle of Pines with description of a new species (Hemiptera-Heteroptera)	Memorias de la Societa Cubana de Historia Natural 19:77-88
+29552	Stål	1860[1858]	Bidrag till Rio Janeiro-traktens Hemipter-fauna	Kongliga Svenska Vetenskaps-Akademiens Handlingar 2(7):1–84
+29553	Stål	1874	Enumeratio Hemipterorum. Bidrag till en förteckning öfver alla hittills kända Hemiptera, jemte systematiska meddelanden. 4	Kongliga Svenska Vetenskaps-Akademiens Handlingar 12(1):1-186
+29554	Sparrman	1777	Beskrifning på Cimex paradoxus, en ny Insect ifrån Caput Bonæ Spei.	Kongliga Svenska Vetenskaps-Akademiens Handlingar 38(7-9):234-238, Tab. VI
+29555	Vollenhoven	1869	Die inlandsche hemipteren beschreven en meerendeels ook afgebeeld	Tijdschrift voor Entomologie 12:49-74
+29557	Brailovsky	1975	Distribucion de las especies de Narnia Stål (Coreidae-Coreinae-Anisoscelini) y descripcion de una nueva especie	Revista de la Sociedad Mexicana de Historia Natural 16:169-176
+29559	Bose	1946	A new coreid from Delhi	Indian Journal of Entomology 7:75-76
+29572	Reuter	1881	Heegeria nov. gen. Alydinorum europaeorum  	Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien 31:211-214
+29574	Fieber	1870	Dodecas neuer Gattungen un neuer Arten europäischer Hemiptera	Verhandlungen der Zoologisch-Botanischen Gesellschaft in Wien 20:243-264, plates 5, 6
+29575	Linnavuori	1987	Alydidae, Stenocephalidae and Rhopalidae of West and Central Africa  	Acta Entomologica Fennica 49:1-36
+29577	Say	1825	Descriptions of new hemipterous insects collected in the expedition to the Rocky Mountains, performed by order Mr. Calhoun, Secretary of War, under command of Major Long	Journal of the Academy of Natural Sciences of Philadelphia 4:307-345
+29578	Kormilev	1951	Notas sobre Hempteros bolivianos con la descripcion de un genero y tres especies nuevos	Publ. Univ. Cochabamba. Folia Univ. 5:35-45
+29580	Sulzer	1776		Abgerkürzte Geschichte der Insecten, nach dem Linnäischen System, Steiner, Winterhur 1:i-xxvii, 1-274
+29590	García Varela	1913	Contribución al estudio de los Hemípteros de Africa. Notas sobre coréidos del Museo de Madrid.	Trabajos del Museo Nacional de Ciencias Naturales. Serie Zoológica 12:1-33
+29592	Lindberg	1939	Neue Heteropteren aus Aegypten	Bulletin de la Société Fouad Ier d'Entomologie 22:10-21
+29593	Brailovsky	1994	Revision of the tribe Hydarini in the Oriental region (Hemiptera, Heteroptera: Coreidae)  	Entomologia Scandinavica 24:383-390
+29597	Pennington	1922	Notas sobre coreidos Argentinos (Conclusión)	Physis (Rev. Soc. Argent. Cienc. Nat.) 5(20):125-170
+29598	Pennington	1921	Notas sobre coreidos Argentinos	Physis (Rev. Soc. Argent. Cienc. Nat.) 5(19):28-39
+29599	Breddin	1901	Die Hemipteren von Celebes - Ein Beitrag zur Faunistik der Insel	Abhandlungen der Naturforschenden Gesellschaft zu Halle 24:1-213
+29600	Brailovsky	2002	Redescription of the subgenus Microcolpura Breddin, 1900 of the genus Hygia Uhler, 1861 (Hemiptera: Heteroptera: Coreidae: Colpurini), with description of five new species	Polish Journal of Entomology 71:211-223
+29601	Brailovsky & Barrera	2006	Mictis difficilis, a new species of Mictini (Heteroptera: Coreidae) from Australia	Polish Journal of Entomology 75:65-71
+29602	Brailovsky	2006	Two new species of Dasynus Burmeister (Heteroptera: Coreidae: Dasynini) from Australia	Polish Journal of Entomology 75:73-81
+29603	Casini	1989	Descripción de un nuevo género y especie de la tribu Acanthocerini (Hemiptera, Coreidae)	Revista Brasileira de Entomología 33(1):25-29
+29604	Rodrigues & Moreira	2005	Comparative description of the immature stages of two very similar leaf footed bugs, Holymenia clavigera (Herbst) and Anisoscelis foliacea marginella (Dallas) (Hemiptera, Coreidae, Anisoscelini)	Revista Brasileira de Entomología 49:7–14
+29610	Osborn	1892	Catalogue of the Hemiptera of Iowa	Proceedings of the Iowa Academy of Sciences (Proc. Iowa Acad. Sci.) 1(2):120-131
+29613	Oshanin	1906		Verzeichnis der palaearktischen Hemipteren mit besonderer Berücksichtigung ihrer Verteilung im Russischen Reiche 1(1):1-393
+29615	Seabra	1928	Quelques observations sur les espèces des genres Gonocerus, Syromastus et Haploprocta du Portugal	Memórias e Estudos do Museu Zoológico da Universidade de Coimbra 1 26:1-14
+29616	Seabra	1925	Observações sôbre a classificação de algumas espécies de Hemípteros Heterópteros de Portugal	Memórias e Estudos do Museu Zoológico da Universidade de Coimbra 1 5(1-42)
+29617	Walker, F.	1873		Catalogue of Hemiptera Heteroptera in the British Museum. Supplement, E.W. Janson, London i-vi 1-63
+29618	Walker, F.	1873		Catalogue of Hemiptera Heteroptera in the British Museum. Supplement, E.W. Janson, London vi + 63 pp.
+29619	Brailovsky	1995	Revisión del complejo Cebrenis (Hemiptera-Heteroptera-Coreinae-Coreini)	Universidad Nacional Autónoma de México, Instituto de Biologíam Publicaciones Especiales 15:1-124
+29620	Baranowski & Slater	1986	Coreidae of Florida (Hemiptera: Heteroptera)	Arthropods of Florida and Neighboring Land Areas 12:i-viii, 1-82
+29621	Blatchley	1926		Heteroptera or true bugs of eastern North America, with special references to the faunas of Indiana and Florida, The Nature publishing company, Indianapolis 1-1116
+29622	Allen	1969	A revision of the genus Leptoglossus Guérin (Hemiptera: Coreidae)	Entomologica Americana 45:35-140
+29623	Torre-Bueno	1941	A synopsis of the Hemiptera-Heteroptera of America north of Mexico. Part II. Families Coreidae, Alydidae, Corizidae, Neididae, Pyrrhocoridae and Thaumastotheriidae.	Entomologica Americana New Series 21(2):41-122
+29624	Brailovsky & Barrera	2012	Four New Species of Vazquezitocoris Brailovsky from South  America (Heteroptera: Coreidae: Coreinae: Coreini), with  Revised Key to the Species of the Genus	Entomologica Americana 118(1-4):71–80
+29625	Brailovsky	2012	A Second Species of the Genus Nisoscolopocerus barber 1928,  from North America (Heteroptera: Coreidae: Coreinae:  Coreini)	Entomologica Americana 118(1):66-70
+29626	Alayo, P.D.	1967	Catálogo de la fauna de Cuba XXV. Los hemípteros de Cuba VIII. Familia Coreidae. Museo "Felipe Poey"	Trabajo de divulgación 56:1-41
+29629	Uhler	1875	Report on the collections of Hemiptera made in portions of Nevada, Utah, California, Colorado, New Mexico and Arizona, during the years 1871m 1873 and 1874.	Report upon the United States Geological and Geographical Explorations and Surveys West of the One Hundred Meridian, in Charge of First Lieut. Geo. M. Wheeler, Corps of Engineers, U.S. Army (Rep. U.S. Geol. Geog. Expl. Surv.) 5:829-842
+29631	Barber	1918	A new Species of Leptoglossus: a new Blissus and Varieties	Bulletin of the Brooklyn Entomological Society (Bull. Brooklyn Ent. Soc.) 13:35-39
+29632	Hussey	1953	Concerning some North American Coreidae (Hemiptera)	Bulletin of the Brooklyn Entomological Society (Bull. Brooklyn Ent. Soc.) 48:29-34
+29633	Hussey	1935	A new <i>Anasa</i> from Paraguay (Hemiptera: Coreidae)	Bulletin of the Brooklyn Entomological Society (Bull. Brooklyn Ent. Soc.) 30:23-25
+29634	McAtee	1919	Notes on Nearctic Heteroptera. Coreidae	Bulletin of the Brooklyn Entomological Society (Bull. Brooklyn Ent. Soc.) 14:9-13
+29635	Uhler	1886	Check-list of described Hemiptera, Heteroptera of North America	Bulletin of the Brooklyn Entomological Society (Bull. Brooklyn Ent. Soc.) 1-29
+29636	Torre-Bueno	1940	Food-plant of a coreid bug	Bulletin of the Brooklyn Entomological Society (Bull. Brooklyn Ent. Soc.) 35:45
+29640	Torre-Bueno	1939	Remarks on the subgenus Tivarbus Stål of the Hyalymenus A & S. With Descriptions of five new species (Hemiptera-Alydidae)	Bulletin of the Brooklyn Entomological Society (Bull. Brooklyn Ent. Soc.) 34(4):177-197
+29649	Torre-Bueno	1940	<i>Tollius vanduzeei</i> n. sp., with notes on the genera <i>Tollius</i> Stål and <i>Stachyocnemus</i> Stål (Heteroptera, Alydidae).	Bulletin of the Brooklyn Entomological Society (Bull. Brooklyn Ent. Soc.) 35(5):159-161, 1 fig.
+29650	Štys	1964	On the morphology and taxonomy of Agriopocorinae (Heteroptera, Coreidae)	Casopis Ceskoslovenske Spolectnosti Entomologicke (Acta Societas Entomolgicae Cechosloveniae) 61:23-38
+29651	Brailovsky	1999	A review of the Costa Rican species of Mozena Amyot and Serville, with descriptions of three new species (Hemiptera: Heteroptera: Coreidae: Coreinae: Nematopodini)	Transactions of the American Entomological Society 125(4):419-432
+29652	Brailovsky	2000	A revision of the tribe Colpurini (Hemiptera: Heteroptera: Coreidae) from Sulawesi	Transactions of the American Entomological Society 126(2):175-220
+29655	Van Duzee	1903	Hemiptera of Beulah, New Mexico	Transactions of the American Entomological Society 29:107-116
+29656	Casini	1984	Descripción de un nuevo género de la Familia Coreidae y algunas consideraciones sobre el género <i>Mamurius</i> (Hemíptera)	Boletín de la Sociedad Zoológica del Uruguay 2:5-11
+29660	Brailovsky	2006	A review of the Mexican species of Acanthocephala Laporte, with description of one new species (Heteroptera, Coreidae, Coreinae, Acanthocephalini)	Denisia 19:249-268
+29663	Reuter	1887	Ad cognitionem Heteropterorum madagascariensium	Entomologisk Tidsskrift (Ent. Tidsskr.) 8:77-109
+29665	Nokkala	1986	The mechanisms behind the regular segregation of the m-chromosomes in Coreus marginatus L. (Coreidae, Hemiptera)	Hereditas 105:73-85
+29670	Reed, E.C.	1899	Sinopsis de los Hemípteros de Chile	Revista Chilena de Historia Natural (Rev. Chilena Hist. Nat.) 3(1-2):5-14
+29672	Reed, E.C.	1899	Sinopsis de los Hemípteros de Chile	Revista Chilena de Historia Natural (Rev. Chilena Hist. Nat.) 3(3-4):37-49
+29674	Rey	1887	Remarques en passant. Coréides	Échange 3(36):1-2
+29675	Bergroth	1924	Über einige neue oder wenig gekannte Heteroptera in Dr. W. Stichels Sammlung. Sonderabdruck aus de	Zeitschrift für Wissenschaftliche Insektenbiologie 3:33-38
+29676	Priesner	1926	Prodromus zur (Hemipterenfauna von Oberösterreich). I. Teil	Zeitschrift für Wissenschaftliche Insektenbiologie 21:159-173
+29679	Scudder, S.H.	1890	The Tertiary Insects of North America	Report of the United States Geological Survey of the Territories 13:1-734 (28 Plates)
+29687	Montrouzier	1855	Essai sur la faune de l'île de Woodlark ou Moiou	Annales des Sciences Physiques et Naturelles, d'Agriculture et de l'Industrie, publiées de la Société d'Agriculture, etc., de Lyon 2 7:1-114
+29690	Costa, A.	1842	Ragguaglio delle specie più interessanti di Emitteri-Eterotteri raccolte in Sicilia; e descrizione di alcune nuove specie de' contorni di Palermo	Esercitazioni Accademiche degli Aspiranti Naturalisti, Napoli 2(2):129-147
+29691	Brailovsky	1990	Revisión del complejo “Althos” (Hemiptera–Heteroptera–Coreidae)	Publicaciones Especiales. Instituto de Biología, UNAM 5 1-156
+29694	Parshad	1957	Cytological studies in the Heteroptera. III. A comparative study of the chromosomes in the male germ-cells of eleven species of the sub-family Pentatominae	Research Bulletin of the Panjab University, Zoology 122:401-420
+29704	Lichtenstein	1796	Catalogus musei zoologici ditissimi Hamburgi, d. III. Februar 1796 auctionis lege distrahendi. Sectio tertia. Continens Insecta.13	Cat. musei zoologici, Schniebes, Hamburg 224 pp.
+29707	Ahmad, Rab & Kamaluddin	2000	A new species of Cletomorpha Mayr (Hemiptera: Coreidae) on vegetables from Punjab, Pakistan with a key to the known species of Cletomorpha from Indo-Pakistan subcontinent	Proceedings of the Pakistan Congress of Zoology 20:71-76
+29708	Ahmad & Perveen	1994	A revision of squash bug subgroup lacertosus Distant of the genus Homoeocerus Burmeister (Hemiptera: Coreidae) with new record and description of a new species from Indo-Pakistan subcontinent      	Proceedings of the Pakistan Congress of Zoology 14:157-169
+29709	Perveen & Ahmad	1997	A revision of subgroup variabilis Dallas s. str. of the genus Homoeocerus Burmeister (Hemiptera: Coreidae) with new record and description of new species from Pakistan      	Proceedings of the Pakistan Congress of Zoology 17:25-37
+29710	Kikuhara	2006	A new species of the genus Molipteryx from Japan (Hemiptera, Coreidae)     	Japanese Journal of Systematic Entomology (Japan. Journ. Syst. Ent.) 12(2):231-238
+29712	Kikuhara	2005	The Japanese species of the genus Riptortus (Heteroptera, Alydidae) with description of a new species	Japanese Journal of Systematic Entomology (Japan. Journ. Syst. Ent.) 11(2):299-311
+29713	Villiers	1973	Contribution à la faune du Congo Brazzaville. Mission A. Descarpentries et A. Villiers. 107. Hémiptères Coreidae	Bulletin de l'Institut fondamental d'Afrique Noire. (Bull. Inst. Fond. Afr. Noire) 35(2):393-406, 7 figures.
+29714	Paiva	1918	Rhynchota from Barkuda Island	Record of the Indian Museum. (Rec. Ind. Mus.) 15(1):1-16
+29719	Harris	1942	Notes on <i>Harmostes</i>, with descriptions of some new species (Hemiptera: Corizidae)	Journal of the Washington Academy of Sciences (J. Wash. Acad. Sci.) 32(1):27-32
+29728	Ueshima	1979		Hemiptera II: Heteroptera. Animal Cytogenetics. Vol. 3, Insecta 6, Gebrüder Borntraeger, Berlin 1-117
+29735	Berg	1900	Rectificaciones y anotaciones a la “sinopsis de los Hemípteros de Chile” de Edwyn C. Reed	Anales del Museo Nacional de Buenos Aires 7:81-91
+29736	Thunberg	1825		Insectorum hemelytrorum tria genera illustrata, Palmblad, Uppsala 1-10
+29738	Schouteden	1948	Coreidae (Hemiptera Heteroptora)	Exploration du Parc National Albert. Mission G.F. de Witte (1933-1935), Bruxelles(56):1-42
+29739	Villiers	1949	Mission P.L. Dekeyser et A. Villiers en Guinée et Côte d'Ivoire (1946) Insectes (première partie).	Catalogues. Institut Français d'Afrique Noire 5:1-90
+29742	Van Duzee	1914	A preliminary list of the Hemiptera of San Diego County, California	Transactions of the San Diego Society of Natural History (Trans. San Diego Soc. Nat. Hist.) 2:1-57
+29743	Dohrn	1859		Catalogus Hemipterorum, Herrcke & Lebeling, Stettin i-ii, 1-112
+29750	Brailovsky	2009	Revisión del género <i>Neoquintius</i> stat. nov., con descripción de cuatro especies nuevas y un análisis del complejo <i>Quintius</i> (Hemiptera: Heteroptera: Coreidae: Nematopodini)	Revista Mexicana de Biodiversidad 80(2):411-418
+29761	Péneau	1921	Contribution à la faune de l'Île de Ré (principalement: Insectes Coléoptères et Hémiptères)	Bulletin de la Société des Sciences Naturelles de l'Ouest de la France 4 1:44-65
+29798	Fernando	1957	New species of Dulichius from Ceylon	Ceylon Journal of Science N.S. 1(1):19-22, pls 10-11
+29800	Harris	1942	Some new American Rhopalidae	J. Kansas Entomological Society 15(3):100-105
+29802	Provancher	1872	Descriptions de plusieurs Hémiptères nouveaux	Naturaliste Canadien 4(3):73-79
+29806	Matsumura	1905	Die Hemipteren Fauna von Riukiu (Okinawa)	Transactions of the Sapporo Natural History Society 1:15-38
+29807	Westwood	1841		Arcana Entomologica, W. Smith, London 1(1-4):1-64, plates 1-1
+29808	Westwood	1843		Arcana Entomologica, W. Smith, London Volume 1 (1841-1845)(parts 11, 12):161-192, plates 41-48
+29812	Gibson, E. H. & Carillo	1959		Lista de insectos de la collecion entomológica de la officina de estudios especiales, S. A. G. Folleto. Misceláneo 1-254
+29814	Banks	1910		Catalog of Nearctic Hemiptera-Heteroptera, American Entomological Society, Philadelphia viii + 1-103
+29815	Thunberg	1822		Dissertatio entomologica de Hemipteris Rostratis capensibus. Part 2, Regiae Academiae Typographi, Upsala 1-8
+29821	Distant	1902	Rhynchota collected by Col. Yerbury in south-west Ireland (1901)	Irish Naturalist 11(5):108-109
+29823	Gravenhorst	1807		Vergleichende Uebersicht des Linneischen und einiger neuern zoologischen Systeme nebst dem eingeschalteten Verzeichnisse der zoologischen Sammlung der Verfassers und den Beschreibungen neuer Thierarten, die in derselben vorhanden sind, H. Dieterich, Göttingen xviii + 476 pp.
+29827	Kirkaldy	1910	Further notes on Hemiptera, chiefly Hawaiian	Proceedings of the Hawaiian Entomological Society 2(3):118-123
+29828	Usinger	1952	New species and additional records of Heteroptera from the Marshall Islands	Proceedings of the Hawaiian Entomological Society 14(3):519-524
+29829	Korlevic	1887	Popis raznokrilih rilcara (Rhynchota Heteroptera) okolice riecke	Glasnik Hrvatskoga Narodoslovnoga Društva 2:35–44
+29832	Rieger	1971	Ein neuer Stictopleurus aus Spanien (Heteroptera, Corizidae)	Ent. Zeitschrift 81:97-100
+29843	China	1930	Insects of Samoa. Part II. Fasc. 3. Hemiptera-Heteroptera	Insects of Samoa 2(3):81-162, 26 figs, map 2, 3 tables
+29847	Costa, A.	1864	Acquisiti fatti durante l’anno 1862	Annuario R. Museo Zoologica della Università di Napoli 2:8-94
+29852	Houttuyn	1766		Natuurlyke Historie of Uitvoerige Beschryving der Dieren, Planten en Mineralen, volgens het Samenstel van der Heer Linnaeus, E. van F. Houttuyn, Amsterdam 1(10):1-528, plates 77-83
+29857	Chenu	1859		Table alphabétique de l’Encyclopédie d’Histoire Naturelle. Annelés, Firmin-Diderot & Cie., Paris [4] + 68 pp.
+29862	Miyamoto	1975	Notes on the genus Iwasakia Matsumura (Heteroptera)	Rostria 1975a 24:131-132, figs a-e
+29864	Roemer	1789		Genera Insectorum Linnaei et Fabricii iconibus illustrata, H. Steiner et Socios, Vitoduri Helvetorum (=Winterthur) vii + 86 +(3) pp, 36 plates
+29875	Roth von Schreckenstein	1802		Verzeichniss der Halbkaefer, Netzflugler, Wespen, ungeflugelten Insekten, Wanzen und Fliegen, welche um den Ursprung des Nekars dann um den unten Theil des Bodensees vorkommen, J.G. Cottaschen Buchhandlung, Tübingen 70 pp.
+29879	Lee	1971	A preliminary annotated list of Malawi forest insects	Malawi Forest Research Institute Research Record 40, Government Printer, Zomba, Malawi vii + 132 pp, 1 fold-out map
+29881	Royer	1923	Travaux scientifiques de l’Armée d’Orient (1916-1918). Hémiptères Hétéroptères, (deuxième note)	Bulletin du Muséum National d’Histoire Naturelle 1923(3):245-251
+29888	Latreille	1804		Histoire naturelle, générale et particulière des Crustacés et des Insectes: ouvrage faisant suite aux oeuvres de Leclerc et de Buffon, et partie du cours complet d’histoire naturelle rédigé par C.S. Sonnini, F. Dufart, Paris 12:424 pp, plates 94-97
+29890	Lichtenstein	1796		Catalogus musei zoologici ditissimi Hamburgi, d. III Februar 1796 auctionis lege distrahendi. Sectio Tertia continens Insecta, G.F. Schneibes, Hamburg (12) + 222 + (2) pp.
+29903	Reich	1795		Kurze Beschreibung verschiedener neuen, oder noch wenig bekannten Thiere, welche Herr Le Blond der naturforschenden Gesellschaft zu Paris aus Cayenne als Geschenk überschikt hat, Magazin des Thierreichs, Erlangen 1(26):128-134
+29905	Ribaut	1921	Notes sur les Hemiptères Heteroptères	Bulletin de la Société d’Histoire Naturelle de Toulouse 49(3):301-311, 30 figs
+29914	Mayné & Ghesquière	1934	Hémiptères nuisibles aux végétaux du Congo belge	Annales de Gembloux 40(1):3-41, 10 plates
+29918	Weber	1795		Nomenclator entomologicus secundum Entomologiam Systematicum illustr. Fabricii, adjectis speciebus recens detectis et varietatibus, Bohn, Chilonii (=Kiel) et Hamburgi 171 pp.
+29922	Wood	1874		Insects abroad, Longmans, Green & Co., London xii + 780 pp, 520 text-figs, 20 plates
+29924	Ahmad & Kamaluddin	1981	A new genus and a new species of Chorosomini from Pakistan with a note on their relationships (Hemiptera: Rhopalidae)	Transactions of the Shikoku Entomological Society 15(3-4):135-140
+29925	Barber	1925	Hemiptera-Heteroptera from the Williams Galapagos Expedition	Zoologica 5(21):241-254, 4 figs. 2 maps
+29928	Megerle	1802		Appendix ad catalogum insectorum, quae mense Novembris MDCCCII Viennae Austriae auctionis lege vendita fuere, Privately published, Wien/ Vienna 1802a 12-13
+29931	Risbec	1950		Travaux du Laboratoire d’Entomologie du Secteur Soudanais de Recherches Agronomiques 1:1-500, 1463 figs, 4 plates
+29934	Sahlberg, J.	1878	Bidrag till norvestra Sibiriens insektfauna, Hemiptera Heteroptera insamlade under expeditionerna till Obi och Jenisej 1876 och 1877	Kongl. Svenska Vetenskaps-Akademiens Handlingar N.F. 16(4):1-39
+29945	Stichel	1961		Illustrierte Bestimmungstabellen der Wanzen. II. Europa. (Hemiptera - Heteroptera Europae), Stichel, Berlin-Hermsdorf 545-768
+29951	Turton	1802		A general system of Nature, through the three grand kingdoms of animals, vegetables, and minerals, systematically divided into their several classes, orders, genera, species, and varieties, with their habitations, manners, economy, structure, and peculiarities, 1, Animal Kingdom; Vol. 2 Insects, Par, Voss & Morris, Swansea 1802 1-717, 1 col. plate
+29952	Usinger	1946	Insects of Guam – II. Hemiptera. Heteroptera of Guam	Bulletin of the Bernice Pauahi Bishop Museum 189:11-103, 27 figs, 1 table.
+29954	Froeschner	1985	Synopsis of the Heteroptera or true bugs of the Galapagos Islands	Smithsonian Contributions to Zoology Supplement: No. 407:1-84
+29956	Strand	1910	Neue und wenig bekannte ostafrikanische Heteroptera	Entomologische Rundschau. 27(21):151-152, 7 figs.
+29964	Boheman	1851	Bidrag till Gotlands Insekt-Fauna	Kongliga Vetenskaps-Akademiens Handlingar 1849:244-245
+29965	Bolivar	1879	Hemipteros nuevos del Museo de Madrid	Anales de la Sociedad Espanola de Historia Natural 8:133-146
+29968	Burmeister In Meyen	1834	Rhyngota seu Hemiptera. In Meyen	Nova Acta Academiae Caesareae Leopoldino-Carolinae Naturae Curiosorum 16:285-308
+29969	Mayr In Grunow, Krempelhuber, Reichardt, Mettenius & Fenzl	1866	Hemiptera In Grunow, Krempelhuber, Reichardt, Mettenius &amp; Fenzl	Reise der österreichischen Fregatte Novara um die Erde in den Jahren 1857, 1858, 1859 unter den Befehlen des Commodore B. von Wällerstorf-Urbair. Zoologischer Theil, Zweiter Band, 1. Abtheilung, B. Part 2., Kaiserlich-Königlichen Hof- und Staatsdruckerei, in Commission bei K. Gerold, Wien 1-204
+29970	Stål In Unknown Author	1860	Hemiptera. Species novas descripsit. In Unknown Author	Kongliga Svenska Fregattens Eugenies Resa Omkring Jorden, under befäl af C.A. Virgin. Åren 1851-53. III Zoologi, Insekter, Norstedt, Stockholm
+29971	Distant In Shipley & G.A.K.  Marshall [Ed.]	1918	Rhynchota In Shipley &amp; G.A.K.  Marshall [Ed.]	The fauna of British India, including Ceylon and Burma. Rhynchota. Vol. 7. (Homoptera: appendix; Heteroptera: addenda), Taylor & Francis, London i-viii + 1-210, 90 text-figs
+29972	Distant In Annandale & Robinson [Ed.]	1903	Report on the Rhynchota. Part I, Heteroptera In Annandale &amp; Robinson [Ed.]	Fasciculi Malayenses. Zoology, Longmans, Green & Co., for University Press of Liverpool, London Part 2:219-272
+29973	Horváth In Hornyánsky & Hiersemann	1901	Hemiptera In Hornyánsky &amp; Hiersemann	Zoologische Ergebnisse der dritten Asiatischen Forschungsreise des Grafen Eugen Zichy, Hornyánsky & Hiersemann, Budapest & Leipzig 2:245-274
+29974	Cassis & Gross In Houston & Wells [Ed.]	2002	Hemiptera: Heteroptera (Pentatomomorpha) In Houston &amp; Wells [Ed.]	Zoological Catalogue of Australia, CSIRO PUBLISHING / Australian Biological Resources Study (ABRS), Melbourne 27.3B
+29975	Guérin-Méneville In Duperrey [Ed.]	1838	Pt 2 Div. 1 ch. xii Insectes In Duperrey [Ed.]	Voyage Autour du Monde, Exécuté par Ordre du Roi, sur la Corvette de sa Majesté, La Coquille, Pendant les Années 1822, 1823, 1824 et 1825. Histoire Naturelle, Zoologie, Bertrand, Paris 2(2):57-302
+29977	Dolling In Aukema & Rieger [Ed.]	2006	Family COREIDAE Leach, 1815 In Aukema &amp; Rieger [Ed.]	Catalogue of Heteroptera of the Palaearctic Region, The Netherlands Entomological Society, Amsterdam, The Netherlands 5:43-101
+29978	Guérin-Méneville In Duperrey [Ed.]	1838	In Duperrey [Ed.]	Voyage Autour du Monde, Exécuté par Ordre du Roi, sur la Corvette de sa Majesté, La Coquille, Pendant les Années 1822, 1823, 1824 et 1825. Histoire Naturelle, Zoologie, Bertrand, Paris 2(2)
+29979	Lucas In Unknown Author	1849	Histoire naturelle des animaux articulés. Cinquième classe, Insectes. In Unknown Author	Zoologie 3:1-527
+29980	Herbst In Borowski	1784	Kurze Einleitung zur Kenntniss der Insekten, für Ungeübte und Anfänger. In Borowski	Gemeinnützige Naturgeschichte des Thierreichs 6:244-261, Plates 37-39B
+29981	Brullé In Webb, P.B. & Berthelot	1839	Insectes In Webb, P.B. &amp; Berthelot	Histoire naturelle des Îles Canaries, Mellier, Paris 2(2):55-119
+29982	Gerstaecker In von der Decken Baron	1873	Gliederthiere (Insekten, Arachniden, Myriapoden und Isopoden) In von der Decken Baron	Reisen in Ost-Afrika, Winter, Leipzig & Heidelberg 3(2)
+29983	Hsiao In Hsiao, Zheng & S.Z. Ren	1977	Coreidae, Stenocephalidae In Hsiao, Zheng &amp; S.Z. Ren	A handbook for the determination of the Chinese Hemiptera-Heteroptera, Science Press, Beijing 1:198-280, 304
+29984	Ren, S.Z. In Huang, F.S.	1988	Hemiptera: Nabidae, Berytidae, Coreidae In Huang, F.S.	Insects of Mt. Namjagbarwa region of Xizang, Science Press, Beijing 111-120
+29985	Signoret In Montrouzier	1861	In Montrouzier	Annales de la Société Entomologique de France 4 1:66
+29986	Distant In Bingham [Ed.]	1908	Rhynchota, - Vol. IV. Part 2. Homoptera and Appendix (pt.) In Bingham [Ed.]	The fauna of British India, including Ceylon and Burma. Rhynchota 4 (2), Taylor & Francis, London i-xv + 265-501, 424 text-figs 171-282
+29987	Liu, G.Q. & S.Z. Ren In Huang, C.M.	1993	Hemiptera: Coreidae In Huang, C.M.	Animals of Longqi Mountain, China Forestry Publishing House, Beijing 140-151
+29988	Ren, S.Z. In Chen, S.X. [Ed.]	1992	Hemiptera: Coreoidea In Chen, S.X. [Ed.]	Insects of the Hengduan Mountains region, Beijing 135-146
+29989	Signoret In Thomson	1858	V. Ordre Hémiptères In Thomson	Archives Entomologiques ou Recueil contenant des illustrations d'insectes nouveaux ou rares. Tome 2. Voyage au Gabon, Thomson and Société Entomologique de France, Paris 268–343
+29990	Ren, S.Z. In Zhang, S.M. [Ed.]	1988	Coreidae, Stenocephalidae, Berytidae, Reduviidae and Nabidae from Xizang In Zhang, S.M. [Ed.]	Agricultural insects, spiders, plant diseases and weeds of Xizang (Hemiptera: Heteroptera), Xizang Press, Lhasa 1:93-101
+29992	Dolling In Aukema & Rieger [Ed.]	2006	Family STENOCEPHALIDAE Dallas, 1852 In Aukema &amp; Rieger [Ed.]	Catalogue of Heteroptera of the Palaearctic Region, The Netherlands Entomological Society, Amsterdam, The Netherlands 5:2-7
+29994	Dolling In Aukema & Rieger [Ed.]	2006	Family RHOPALIDAE Amyot & Serville, 1843 In Aukema &amp; Rieger [Ed.]	Catalogue of Heteroptera of the Palaearctic Region, The Netherlands Entomological Society, Amsterdam, The Netherlands 5:8-27
+29995	Dolling In Aukema & Rieger [Ed.]	2006	Family ALYDIDAE Amyot & Serville, 1843 In Aukema &amp; Rieger [Ed.]	Catalogue of Heteroptera of the Palaearctic Region, The Netherlands Entomological Society, Amsterdam, The Netherlands 5:28-42
+29997	Germar In Ersch & Gruber [Ed.]	1829	Coreus In Ersch &amp; Gruber [Ed.]	Allgemeine Encyklopädie der Wissenschaften und Künste Sect. 1 (A-G), part 19 (Conami-Corythus) 296
+30000	Signoret In Maillard [Ed.]	1863	Hémiptères   In Maillard [Ed.]	Notes sur l'île de la Réunion (Bourbon) (2nd edn), Paris, Dentu 2
+30002	Zheng In Hsiao, Zheng & S.Z. Ren In Huang, F.S. [Ed.]	1981	In Hsiao, Zheng &amp; S.Z. Ren In Huang, F.S. [Ed.]	Insects of Xizang, Science Press, Beijing
+30004	Le Peletier & Serville In Olivier [Ed.]	1825	Articles on Hemiptera In Olivier [Ed.]	Encyclopédie Méthodique, Agasse, Paris 10
+30005	Latreille In Humboldt & Bonpland [Ed.]	1809	Insectes de l'Amérique Equinoxiale, recueillis pendant la voyage de MM. d'Humboldt et Bonpland In Humboldt &amp; Bonpland [Ed.]	Recueil d'Observations de Zoologie et d'anatomie comparée; Faites dans l'océan Atlantique, dans l'intérieur du nouveau continent et dans la mer du Sud, pendant le années 1799, 1800, 1801, 1802, et 1803, Levrault, Schoell and Company, Paris 1(2):127-250
+30006	Guérin-Méneville In de la Sagra	1857	Ordre des Hémiptères Latr. In de la Sagra	 359-435
+30007	Distant In Godman & Salvin [Ed.]	1881	Insecta. Rhynchota, Hemiptera-Heteroptera In Godman &amp; Salvin [Ed.]	Biologia Centrali-Americana, R.H. Porter and Dulan & Co., London 1:89-168
+30008	Lepeletier & Serville In Olivier [Ed.]	1825	In Olivier [Ed.]	Encyclopédie Méthodique, Agasse, Paris 10:61
+30009	Distant In Godman & Salvin	1893	Insecta. Rhynchota, Hemiptera-Heteroptera. In Godman &amp; Salvin	Biologia Centrali-Americana, R.H. Porter and Dulan & Co., London 1
+30010	Gmelin In Linnaeus	1788	In Linnaeus	Systema Naturae. Tome I 1517-2224
+30011	Mitchell, P.L. In Schaefer, C. W. & Panizzi [Ed.]	2000	Leaf-Footed Bugs (Coreidae) In Schaefer, C. W. &amp; Panizzi [Ed.]	Heteroptera of Economic Importance 337-403
+30014	Brailovsky & Barrera In Brailovsky, C. W. Schaefer, Barrera & Packauskas	1994	In Brailovsky, C. W. Schaefer, Barrera &amp; Packauskas	Journal of the New York Entomological Society (J. New York Entom. Soc.) 102(3):328-329,332-336,337,340
+30015	Schaefer, C. W. & Packauskas In Brailovsky, C. W. Schaefer, Barrera & Packauskas	1994	In Brailovsky, C. W. Schaefer, Barrera &amp; Packauskas	Journal of the New York Entomological Society (J. New York Entom. Soc.) 102(3):336-337
+30017	Gray In Griffith & Pidgeon [Ed.]	1832	Notices of new genera and species In Griffith &amp; Pidgeon [Ed.]	The class Insecta arranged by the Baron Cuvier, with supplementary additions to each order by Edward Griffith and Edward Pidgeon, and notices of new genera and species by George Gray, Whittaker, Treacher and Co., London 2
+30018	Bergroth In Poppius & Bergroth	1921	In Poppius &amp; Bergroth	Annales Musei Nationalis Hungarici 18:68-69
+30019	Distant In Godman & Salvin [Ed.]	1892	Rhynchota Heteroptera (Part 105) In Godman &amp; Salvin [Ed.]	Biologia Centrali-Americana, R.H. Porter and Dulan & Co., London 1:353–368
+30020	Blanchard In d'Orbigny [Ed.]	1844	Dalader In d'Orbigny [Ed.]	Dictionnaire universel d'histoire naturelle, C. Renard, Paris 4 (CLA-DIC):592 bis
+30021	Schouteden In Sjoestedt [Ed.]	1910	12. Hemiptera. 9. Reduviidae, Pyrrhocoridae, und Coreidae In Sjoestedt [Ed.]	Wissenschaftliche Ergebnisse der schwedischen zoologischen Expedition nach dem Kilimandjaro, dem Meru und den umgebenden Massaisteppen Deutsch-Ostafrikas 1905-1906 2(12):145-160
+30022	Erichson In Schomburgk	1848	Insecten In Schomburgk	Reisen in British Guinea in den Jahren 1840-1844 im auftrag Sr. Majestat des Konings von Preussen ausgefuhrt von Richard Schomburgsk: Hemiptera-Heteroptera, J.J. Weber, Leipzig Volume 3:553-617
+30025	Forster, J.R. In Lichenstein	1844	In Lichenstein	Descriptiones animalium in itinere ad maris australis terras per annos 1772-74 suscepto observatorum, Dümmler, Berlin
+30026	Schaefer, C. W. & Packauskas In Schaefer, C. W., Packauskas & K. Bu	2008	Leptoglossus katiae In Schaefer, C. W., Packauskas &amp; K. Bu	Proceedings of the Entomological Society of Washington (Proc. Entomol. Soc. Wash) 110(1)
+30027	Puton In Puton & Lethierry	1887	In Puton &amp; Lethierry	Revue d'Entomologie 6
+30028	Sienkiewicz In Stichel	1959	In Stichel	Illustrierte Bestimmungstabellen der Wanzen. II. Europa (Hemiptera-Heteroptera Europae) 4
+30030	Geoffroy In Fourcroy	1785	In Fourcroy	Entomologia Parisiensis; sive catalogus insectorum quae in agro Parisiensi reperiuntur, Via et Aedibus Serpentineis, Paris 1
+30031	Spinola In Gay	1852	In Gay	Historia fisica y politica de Chile segun documentos adquiridos en esta republica durante doce anÌƒos de residencia en ella y publicada bajo los auspicios del supremo gobierno 7:167
+30032	Latreille In Cailliaud	1827	Description des Insectes In Cailliaud	Voyage à Méroé et au Fleuve Blanc au- delà de Fazoql dans le Midi du Royaume de Sennâr, à Syouah et dans cinq autres oasis; fait dans les années 1819, 1820, 1821 et 1822 par M. Frédéric Cailliaud de Nantes., Imprimerie Royale, Paris 4
+30033	Latreille In Deterville [Ed.]	1817	Coré In Deterville [Ed.]	Nouveau Dictionnaire d'Histoire Naturelle, appliquée aux Arts, à l'Économie rurale et domestique, à la Medicine, etc. (2me édition.), Deterville, Paris 8:53-56, plate B21
+30034	Guérin-Méneville In Guérin-Méneville [Ed.]	1839	Syromaste (in part) In Guérin-Méneville [Ed.]	Dictionnaire pittoresque d'histoire naturelle et des phénomènes de la nature, Cosson, Paris 9:226-227, plate 673
+30036	Rathvon In Mombert	1869	Heteroptera In Mombert	An Authentic History of Lancaster County in the State of Pennsylvania, J. E. Barr and Co., Lancaster, Pennsylvania 548–552
+30037	Blanchard In d'Orbigny	1843	Insectes In d'Orbigny	 61-222
+30039	Westwood In Duncan	1840	In Duncan	 28
+30040	Klug In Burmeister	1835	In Burmeister	Handbuch der Entomologie, Enslin, Berlin
+30041	Mayr In Berg	1879	In Berg	Hemiptera Argentina enumeravit speciesque novas descripsit, Paulo E. Coni, Bonariae
+30042	Izzard In Hanström, Brinck & Rudebeck	1960	Chapter XXVII. Hemiptera (Heteroptera): Coreidae In Hanström, Brinck &amp; Rudebeck	
+30044	Breddin In Schumacher In Schultze	1913	[Descriptions of some new species] In Schumacher In Schultze	Denkschriften der Naturforschenden Gesellschaft zu Jena 17(2)
+30045	Distant In Mayné	1917	Order Rhynchota In Mayné	Bulletin of Entomological Research 8(1):118
+30046	Fairmaire & Signoret In Thomson	1858	Ordre Hémiptères In Thomson	Archives Entomologiques ou Recueil contenant des illustrations d'insectes nouveaux ou rares. Tome 2. Voyage au Gabon, Thomson and Société Entomologique de France, Paris 268-343, plates 9, 11
+30047	Signoret In Fairmaire & Signoret In Thomson	1858	In Fairmaire &amp; Signoret In Thomson	Archives Entomologiques ou Recueil contenant des illustrations d'insectes nouveaux ou rares. Tome 2. Voyage au Gabon, Thomson and Société Entomologique de France, Paris
+30048	Carlini In Carlini	1895	Rincoti; pt vii In Carlini	Annali del Museo Civico di Storia Naturale Giacomo Doria 2 15
+30050	Boisduval In Dumont d'Urville	1835	Faune Entomologique de l'Océan Pacifique, avec illustration des insectes nouveaux recueillis pendant le voyage. 2me partie. Coléoptères et autres Ordres In Dumont d'Urville	Voyage de découvertes de l'Astrolabe exécuté par ordre du Roi, pendant les années 1826-1827-1828-1829, sous le commandement de M.J Dumont d'Urville, J. Tastu, Paris 1-713
+30051	Statz In Statz & Wagner	1950	In Statz &amp; Wagner	Palaeontographica 98(A)
+30052	Fairmaire In Fairmaire & Signoret In Thomson	1858	In Fairmaire &amp; Signoret In Thomson	Archives Entomologiques ou Recueil contenant des illustrations d'insectes nouveaux ou rares. Tome 2. Voyage au Gabon, Thomson and Société Entomologique de France, Paris 299, 300
+30053	Signoret In Desmaret	1882	[No title.] In Desmaret	Annales de la Société Entomologique de France Sér. 6 2
+30054	Jaeger In Hummel	1827	Catalogus Insectorum quae itinere Petropoli in Chersoneso tauricum et Iberiam anno 1825 collegit In Hummel	Essais Entomologiques, Imprimerie de la Chancellerie privée du Ministère de l’Intérieur, St Pétersbourg I(6)
+30055	Torre-Bueno In Unknown Author	1915	Heteroptera from the West Coast of South America In Unknown Author	Report of First Expedition to South America 1913, Harvard University Press, Cambridge 218-219
+30056	Blanchard In d'Orbigny [Ed.]	1848	Sephina p. 553; Serinetha p 563; Sethenira p. 585; Spartocera p 713; Spartocérides pp 713-714; Spathophora p. 718 In d'Orbigny [Ed.]	Dictionnaire Universel d’Histoire Naturelle, C. Renard, Paris 11 (REP-STE)
+30057	Uhler In Kingsley	1884	Order VI.- Hemiptera In Kingsley	The Standard Natural History. Vol. II. Crustacea and Insects, S.E. Cassino & Co., Boston, Mass. 204-293, text-figs 286-340, pl [12]
+30059	Froeschner In Henry, T.J. & Froeschner	1988	The Coreid Bugs In Henry, T.J. &amp; Froeschner	Catalog of the Heteroptera or True bugs of Canada and the Continental United States 69-92
+30062	Blanchard In d'Orbigny [Ed.]	1846	Insectes de l’Amérique méridionale, recueillis par Alcide d’Orbigny In d'Orbigny [Ed.]	Voyage dans l’Amérique méridionale 6(2)
+30065	Stål In Anonymous	1859	Hemiptera In Anonymous	Kongliga svenska fregatten Eugenies resa omkring jorden. Vetenskapliga iacttagelser. II. Zoologi. 1. Insecta, Norstedt & Söner, Stockholm 219-298; pls 3, 4
+30079	Blanchard In d'Orbigny	1849	In d'Orbigny	
+30080	Westwood In Drury	1837	In Drury	Illustrations of exotic entomology. New Edition, H.G. Bohn, London Vol. 3
+30081	Latreille In Cuvier	1829	Tome 5. Suite et fin des Insectes In Cuvier	Le Règne Animal distribué d'après son organisation, pour servir de base à l'histoire naturelle des animaux et d'Introduction à l'anatomie comparée. Nouvelle édition, Deterville, Paris 5
+30084	Westwood In Duncan	1840	[Account of <i>Anisosceles hymeniphera</i>] In Duncan	 28
+30087	Westwood In Drury	1837	Westwood in Drury In Drury	Illustrations of exotic entomology. New Edition, H.G. Bohn, London Vol. 1
+30095	Reiche & Fairmaire In Ferret & Galinier	1849	Entomologie In Ferret &amp; Galinier	Voyage en Abyssinie dans les provinces du Tigré, du Samen et de l’Amhara, Paulian, Paris Volume 3:257-471, 18 plates
+30106	Miyamoto & Yasunaga In Hirashima [Ed.]	1989	Hemiptera, Heteroptera In Hirashima [Ed.]	A Check List of Japanese Insects, Entomological Laboratory, Faculty of Agriculture, Kyushu University, Fukuoka 151-188
+30110	Distant In Godman & Salvin [Ed.]	1881	Rhynchota Heteroptera (Part 12) In Godman &amp; Salvin [Ed.]	Biologia Centrali-Americana, R.H. Porter and Dulan & Co., London 1:145-168, pls 14, 15
+30113	Blöte & Hagenbach In Blöte	1934	In Blöte	Zoölogische Mededeelingen, Leiden 17
+30114	Schwartz, C. W. Schaefer & Lattin In Grozeva & Simov [Ed.]	2008	The first <i>Chorosoma</i> (Hemiptera: Rhopalidae: Rhopalinae: Chorosomatini) from the New World: <i>Chorosoma josifovi</i> nov. sp. In Grozeva &amp; Simov [Ed.]	
+30116	Blanchard In Spinola In Gay	1852	[Descriptions of some species] In Spinola In Gay	Historia fisica y politica de Chile segun documentos adquiridos en esta republica durante doce anÌƒos de residencia en ella y publicada bajo los auspicios del supremo gobierno 7
+30118	Horváth In Schneider	1878	Beitrag zur Hemipteren-Fauna Transkaukasiens In Schneider	Naturwissenschaftliche beiträge zur Kenntniss der Kaukasusländer, aug Grund seine Sammelbeute, Burdach’schen Hofbuchhandlung, Dresden 72-86
+30119	Kirby, W. F. In Ridley	1890	Insecta, excepting Coleoptera In Ridley	Journal of the Linnean Society, Zoology 20:530–548
+30120	Montrouzier In Perroud & Montrouzier	1865	[Descriptions.] In Perroud &amp; Montrouzier	Annales de la Société Linnéenne de Lyon Sér. 2 11
+30122	Schaffner In Gross	1963	Tribe Alydini Fabricius In Gross	Insects of Micronesia 7(7):373-377, fig. 5
+36771	Perreira, Carroll & Loye	2012	<i>Leptocoris ursulae</i>, a new species of soapberry bug from Uganda (Heteroptera: Rhopalidae, Serinethinae)	Entomologische Zeitschrift 122(3):123-124, figs 1-3
+36773	Brailovsky	2013	Two new species of Papeocoris (Hemiptera: Heteroptera: Coreidae: Coreinae: Nematopodini) from Peru	Zootaxa 3637(2):197-200
+37968	Gupta, R. & Singh	2013	Two new species of the genus Cletus STÅL from India (Hemiptera: Heteroptera: Coreidae)	Polish Journal of Entomology 82(2):63–81
+37990	Tsai, Hsieh & Rédei	2013	The soapberry bug, Jadera haematoloma (Insecta, Hemiptera, Rhopalidae): First Asian record, with a review of bionomics	ZooKeys 297:1-41
+43408	Foua-bi & Mehaud	1987		
+43444	Brailovsky & Barrera	2013	New species of <i>Narnia</i> (Hemiptera: Heteroptera: Coreidae: Coreinae: Anisoscelini) from Mexico and key to the known species of the genus	Zootaxa 3736(3):285-290
+43475	Brailovsky	2013	Descripiton of one new species of <i>Cebrenistella</i>,  and key to the known species (Hemiptera: Heteroptera: Coreidae)	Deutsche Entomologische Zeitschrift (N.F.) 60(2):209-212
+43941	Froeschner In Henry, T.J. & Froeschner	1988	The Broad-Headed Bugs In Henry, T.J. &amp; Froeschner	Catalog of the Heteroptera or True bugs of Canada and the Continental United States 4-11
+43995	Brailovsky	2012	A new species of Petersitocoroides Brailovsky (Hemiptera: Heteroptera: Coreidae: Coreini) from Bolivia	Studies on Neotropical Fauna and Environment (Stud.Neotrop.Fauna Environ.) 47(3):215-219
+44004	Montemayor & Dellapé	2011	The Leptocorisini (Hemiptera: Heteroptera: Alydidae: Micrelytrinae) of Argentina, with new records, description of a new species, and a key to the species.	 70(3-4):287-292
+44005	Melo & Montemayor	2011	Two new species of Harmostes (Harmostes) Burmeister (Hemiptera: Heteroptera: Rhopalidae) from Argentina	Studies on Neotropical Fauna and Environment (Stud.Neotrop.Fauna Environ.) 46(2):131-136
+44156	Brailovsky	2014	Illustrated key for identification of the species included in the genus <i>Leptoglossus</i> (Hemiptera: Heteroptera: Coreidae: Coreinae: Anisoscelini), and descriptions of five new species and new synonyms	Zootaxa 3794(1):143–178
+44252	Brailovsky & Guerrero	2014	Revisión del género Pachylis con descripción de dos especies nuevas, sinonimias y datos de distribución (Hemiptera: Heteroptera: Coreidae: Nematopodini)	Revista Mexicana de Biodiversidad 85:363-382
+44312	Philippi	1865	Nuevos Insectos Chilenos	Analis de la Universidad de Chile 26:651-660
+44347	Brailovsky & Barrera	2014	Revisional notes on the genus <i>Melucha</i> (Hemiptera, Heteroptera, Coreidae)	Deutsche Entomologische Zeitschrift (N.F.) 61(1):15-22
+44357	Cruces & Brailovsky	2014	A new species of <i>Petersitocoroides</i> Brailovsky (Hemiptera: Heteroptera: Coreidae: Coreini) from Peru	Zootaxa 3847(4):590–594
+44987	Baňař, Brailovsky, Hubáčková & Hemala	2014	A new species of the genus Mygdonia (Hemiptera: Heteroptera: Coreidae) from Madagascar with a key to species	Zootaxa 3893(3):445-450
+45325	Faúndez	2015	Synopsis of the genus Eldarca Signoret, 1864 (Hemiptera: Heteroptera: Coreidae)	Zootaxa 3915(2):287-294
+45369	Allred	1973	Records of Coreidae (Hemiptera) from the Nevada Test Site	The Great Basin Naturalist 33:123
+45487	Brailovsky	2015	Description of five new species of Cnemomis, with a key to the known species (Hemiptera: Heteroptera: Coreidae: Discogastrini)	Zootaxa 3931(3):413-422
+45842	Göllner-Scheiding	1992	Material of the rhopalid genera <i>Leptocoris</i> Hahn, 1833, and <i>Boisea</i> Kirkaldy, 1910 (Heteroptera) from the collection of the Nationaal Natuurhistorisch Museum at Leiden, The Netherlands	Zoölogische Mededeelingen, Leiden 66(14):277-282, figs 1-2
+45859	Brailovsky	2015	The genus <i>Nematopus</i> (Hemiptera: Heteroptera: Coreidae) of French Guiana with a description of one new species	Acta Entomologica Musei Nationalis Pragae (AEMNP) 55(1):39-45
+45913	Brailovsky	2015	New genera and new species of Acanthocerini (Hemiptera:  Heteroptera: Coreidae) from French Guyana	Acta Musei Moraviae, Scientiae biologicae 100(1):5-15
+46605	Chen, C., Yao & D. Ren	2015	A new genus and species of Rhopalidae (Hemiptera: Heteroptera) from the Early Cretaceous of Liaoning Province, China	Zootaxa 4058(1):135-140
+46635	Azar, Nel, Engel, Garrouste & Matocq	2011	A new family of Coreoidea from the Lower Cretaceous Lebanese Amber (Hemiptera: Pentatomomorpha)  	Polish Journal of Entomology 80:627-644
+46862	Horváth	1887	Note emitterologiche	Bullettino della Società Entomologica Italiana 19:278-285
+46863	Lansbury	1966	A revision of the Stenocephalidae Dallas 1852 (Hemiptera-Heteroptera) (continued)	Entomologist's Monthly Magazine (Ent. Mon. Mag.) 101(1965):73-92
+46864	Petagna	1787		Specimen insectorum ulterioris Calabriae, Varrentrap & Wenner, Frankfurt am Main [Francofurti et Moguntiae] i-vi. 1-46.
+47573	Lindberg In Corporaal In Visser & Visser-Hooft [Ed.]	1935	Hemiptera In Corporaal In Visser &amp; Visser-Hooft [Ed.]	Wissenschaftliche Ergebnisse der niederlandischen Expeditionen in den Karakorum und die angrenzenden Gebiete 1922, 1925 und 1929/30, Brockhaus, Leipzig 1:415-424, 1 figure
+47574	Göllner-Scheiding	1996	Eine neue Art der Gattung <i>Dicranocephalus</i> Hahn, 1826, aus dem südlichen Afrika (Stenocephalidae, Coreoidea, Heteroptera)	Mitteilungen aus dem Zoologischen Museum in Berlin 72(2):303-305

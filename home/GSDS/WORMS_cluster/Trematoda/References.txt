@@ -1,0 +1,581 @@
+ReferenceID	Authors	Year	Title	Details	
+1318			UNESCO-IOC Register of Marine Organisms		
+1361	Gibson, D.I.	2001	Aspidogastrea, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+168366	Bray, R.A.; Justine, J.L	2013	A digenean parasite in a mudskipper: Opegaster ouemoensis sp. n. (Digenea: Opecoelidae) in Periophthalmus argentilineatus Valenciennes (Perciformes: Gobiidae) in the mangroves of New Caledonia		
+168367	Bullard, S.A	2013	Cardicola langeli sp. n. (Digenea: Aporocotylidae) from heart of sheepshead, Archosargus probatocephalus (Actinopterygii: Sparidae) in the Gulf of Mexico, with an updated list of hosts, infection sites and localities for Cardicola spp		
+170734	Knoff, M.; Fernandes, B. M. M.	2010	A new species of Tormopsolus (Digenea: Acanthocolpidae) parasite of Genypterus brasiliensis (Teleostei: Ophidiidae) from the Brazilian coast		
+164991	Bray, R. A.; Justine, J.-L.	2012	Further reports of Acanthocolpidae Lühe, 1906 (Digenea) from fishes off New Caledonia, with descriptions of two new species		
+168364	Manel, C.; Hela, D.; Lass?d, N.	2013	Lecithostaphylus tylosuri sp. nov. (Digenea, Zoogonidae) from the digestive tract of the needlefish Tylosurus acus imperialis (Teleostei, Belonidae)		
+193025	Andres, M. J.; Ray, C. L.; Pulis, E. E.; Curran, S. S.; Overstreet, R. M.	2014	Molecular characterization of two opecoelid trematodes from fishes in the Gulf of Mexico, with a description of a new species of Helicometra		
+193042	Sun, D.; Bray, R. A.; Yong, R. Q.; Cutmore, S. C.; Cribb, T. H.	2014	Pseudobacciger cheneyae n. sp. (Digenea: Gymnophalloidea) from Weber’s chromis (Chromis weberi Fowler & Bean) (Perciformes: Pomacentridae) at Lizard Island, Great Barrier Reef, Australia		
+197689	Santoro, M.; Cipriani, P.; Pankov, P.; Lawton, S. P.	2015	Aporocotyle michaudi n. sp. (Digenea: Aporocotylidae) from the emerald rock cod, Trematomus bernacchii (Teleostei: Perciformes) in Antarctica		
+197676	Galaktionov, K. V.; Regel', K. V.; Atrashkevich, G. I.	2010	[Microphallus kurilensis sp. nov., a new species of microphallids from the pygmaeus species group (Trematoda, Microphallidae) from the coastal areas of Okhotsk and Bering Seas]		
+197706	Reimer, L. W.; Szuks, H.	1973	The occurrence of Microphallidae in sea fish. Zoologischer Anzeiger 190(1/2		
+193053	Rauque, C. A.; Flores, V. R.; Brugni, N. L.	2013	Maritrema patagonica n. sp. (Digenea: Microphallidae) cultured from Metacercariae from Freshwater Anomuran, Aegla spp. (Decapoda: Aeglidae), in Patagonia		
+193044	Al-Zanbagi, N.A.; Hassan, A.H. 	2013	A multivariate analysis of some Digenean species collected from several Red Sea fishes in Saudi Arabia		
+193048	Diaz, P. E.; Bray, R. A.; Cribb, T. H.	2013	Paradiscogaster flindersi and P. oxleyi n. sp. (Digenea: Faustulidae): overlapping host and geographical distributions in corallivore chaetodontid fishes in the tropical Indo-west Pacific		
+193047	Diaz, P.E.; Cribb, T.H.	2013	Paradiscogaster leichhardti sp. nov. (Digenea: Faustulidae) in Chaetodontoplus meredithi (Perciformes: Pomacanthidae) from Heron Island, Great Barrier Reef 		
+193060	Chaari, M.; Derbel, H.; Neifar, L.	2011	Oesophagotrema mediterranea n. gen., n. sp. (Platyhelminthes, Digenea, Zoogonidae), Parasite of the Needlefish Tylosurus acus imperialis (Beloniformes, Belonidae) from off Tunisia		
+193049	Fernandes, B. M. M.; Malta, J. C. O.; Morias, A. M.	2013	Porangatus ceteyus n. gen., n. sp. (Digenea: Zoogonidae): A Parasite of Hoplosternum littorale (Pisces: Callichthyidae) from Amazonas State, Brazil		
+193056	Diaz, J. I.; Gilardoni, C.; Cremonte, F.	2012	Description of Maritrema formicae sp. nov. (Digenea, Microphallidae) parasitic in the kelp gull, Larus dominicanus, from the Patagonian coast, Argentina		
+193052	Pulis, E. E.; Fayton, T. J.; Curran, S. S.; Overstreet, R. M.	2013	A New Species of Intromugil (Digenea: Haploporidae) and Redescription of Intromugil mugilicolus		
+168603	Ha, N. V.	2012	The description of two new species Helicometra pisodonophi sp. n. and Opecoelus haduyngoi sp. n. (Trematoda: Opecoelidae) from marine fishes in Ha Long bay, Vietnam		
+168608	Hunter, Janet A., Kathryn A. Hall & Thomas H. Cribb.	2012	A complex of Transversotrematidae (Platyhelminthes: Digenea) associated with mullid fishes of the Indo-West Pacific Region, including the descriptions of four new species of Transversotrema		
+168601	Bullard, Stephen A., Tiffany Baker & Isaure de Buron	2012	New species of Cardicola (Digenea: Aporocotylidae) from heart of Atlantic croaker, Micropogonias undulatus (Perciformes: Sciaenidae), of the South Atlantic Bight		
+168617	Bullard, S. A.; Williams, E. H.; Bunkley-Williams, L.	2012	New Genus and Species of Fish Blood Fluke (Digenea: Aporocotylidae Odhner, 1912) from Stoplight Parrotfish, Sparisoma viride (Bonnaterre, 1788), (Labridae: Scarinae) in the Caribbean Sea		
+163709			Dollfus, R. P, Chabaud, A. G.  & Golvan, Y. J. Helminthes de la région de Banyuls. V. Nouveau Distome Aphalloides coelomicola n. gen. n. sp. de la cavité générale d'un Gobius d'eau saumâtre. Ann. Parasit. hum. comp. 32: 38-40, 8 figs.		
+197426	Giese, E.; Silva, M.; Videira, M.; Furtado, A.; Matos, E.; Gonçalves, E.; Melo, F.; Santos, J.	2014	Rohdella amazonica n. sp. (Aspidogastrea: Aspidogastridae) from the Amazoninan banded puffer fish Colomesus psittacus (Bloch & Schneider, 1801)		
+171268	Shaukat, N.; Bilqees, F. M.	2011	Lecithocladium cybii n. sp. (Digenea: Hemiuridae Luhe, from the fish Cybium guttatum of Karachi Coast		
+171325	Justo, M. C. N.; Kohn, A.	2012	A new genus and species of the Didymozoidae (Digenea) from the skipjack tuna Katsuwonus pelamis (L.) (Scombridae)		
+171350	Schuster, R. K.	2013	A New Species of Cloacitrema (Digenea, Philophthalmidae) from Greater Flamingo (Phoenicopterus roseus) with Remarks on the Genera Cloacitrema and Pygorchis		
+171301	Yong, R. Q. Y.; Cribb, T. H.	2011	Rhaphidotrema kiatkiongi, a new genus and species of blood fluke (Digenea: Aporocotylidae) from Arothron hispidus (Osteichthyes: Tetraodontidae) from the Great Barrier Reef, Australia		
+171331	Cremonte, F.; Pina, S.; Gilardoni, C.; Rodrigues, P.; Chai, J.-Y.; Ituarte, C.	2013	A New Species of Gymnophallid (Digenea) and an Amended Diagnosis of the Genus Gymnophalloides Fujita, 1925		
+194869	Leigh, W. H.	1955	The Morphology of Gigantobilharzia huttoni (Leigh, 1953) an Avian Schistosome with Marine Dermatitis-Producing Larvae		
+198729	Pankov, P.; Webster, B. L.; Blasco-Costa, I.; Gibson, D. I.; Littlewood, D. T. J.; Balbuena, J. A.; Kostadinova, A.	2006	Robinia aurata n. g., n. sp. (Digenea: Hemiuridae) from the mugilid Liza aurata with a molecular confirmation of its position within the Hemiuroidea		
+176828	Bilqees, F. M.; Shabbir, I.; Khalil, B.; Khan, A.; Perveen, S.	2010	Pleorchis karachiensis n.sp. (Trematoda: Pleorchidae Poche, 1926)from the fish Sciaena dussumeiri of Karachi Coast		
+176812	Pina, S.; Russell-Pinto, F.; Rodrigues, P.	2011	Description of Maritrema portucalensis sp. nov. (Digenea, Microphallidae) parasite of Carcinus maenas (Crustacea, Decapoda) from Aveiro estuary, Northern Portugal		
+176898	Miller, T. L.; Adlard, R. D.; Bray, R. A.; Justine, J.-L.; Cribb, T. H.	2010	Cryptic species of Euryakaina n. g. (Digenea: Cryptogonimidae) from sympatric lutjanids in the Indo-West Pacific		
+176808	Kacem, H.; Derbel, H.; Neifar, L.	2011	Hypocreadium caputvadum sp. nov. (Digenea, Lepocreadiidae), an intestinal parasite of the grey triggerfish, Balistes capriscus (Teleostei, Balistidae) from the Gulf of Gabès, Mediterranean Sea		
+176838	Eduardo, S. L.	2010	A new species of parasitic fluke, Paronatrema boholana Eduardo (Trematoda: Syncoeliidae) from the whale shark, Rhincodon typus Smith 1828		
+176700	Ho, H. W.; Bray, R. A.; Cutmore, S. C.; Ward, S.; Cribb, T. H.	2014	Two new species of Phyllodistomum Braun, 1899 (Trematoda: Gorgoderidae Looss, 1899) from Great Barrier Reef fishes		
+176705	Marzoug, D.; Rima, M.; Boutiba, Z.; Georgieva, S.; Kostadinova, A.; Pérez-del-Olmo, A.	2014	A new species of Saturnius Manter, (Digenea: Hemiuridae) from Mediterranean mullet (Teleostei		
+176735	Ferguson, J. A.; Locke, S. A.; Font, W. F.; Steinauer, M. L.; Marcogliese, D. J.; Cojocaru, C. D.; Kent, M. L.	2012	Apophallus microsoma n. sp. from chicks infected with metacercariae from Coho Salmon (Oncorhynchus kisutch ) and review of the taxonomy and pathology of the genus Apophallus (Heterophyidae)		
+176741	Alama-Bermejo, G.; Montero, F. E.; Raga, J. A.; Holzer A S n gen; n sp	2011	Skoulekia meningialis a parasite surrounding the brain of the Mediterranean common two-banded seabream Diplodus vulgaris (Geoffroy Saint-Hilaire, 1817) (Teleostei: Sparidae): Description, molecular phylogeny, habitat and pathology		
+176714	Bray, R. A.; J-Justine, L.	2013	Bucephalidae (Digenea) from epinephelines (Serranidae: Perciformes) from the waters off New Caledonia, including Neidhartia lochepintade n. sp		
+176716	Cribb, T.; Bray, R.; Cutmore, S.	2013	Peracreadium akenovae sp. nov. (Trematoda: Opecoelidae) parasitising the highfin moray eel Gymnothorax pseudothyrsoideus (Anguilliformes: Muraenidae) from moreton bay, Australia		
+174969	Mouahid, G.; Faliex, E.; J-Allienne, F.; Cribb, T. H.	2008	Proctophantastes brayi, n. sp. (Digenea: Zoogonidae) parasite of the deep-sea fish Polymixia Lowe, 1838 from Vanuatu		
+174999	Pérez-Ponce de León; Razo-Mendivil, G.; Rosas-Valdez, U.; Mendoza-Garfias, R.; Mejía-Madrid, B.; H	2008	Description of a new species of Crassicutis Manter, 1936, parasite of Cichlasoma beani Jordan (Osteichthyes: Cichlidae) in Mexico, based on morphology and sequences of the ITS1 and 28S ribosomal RNA genes		
+175037	Repullés-Albelda, A.; Montero, F. E.; Holzer, A. S.; Ogawa, K.; Hutson, K. S.; Raga, J. A.	2008	Speciation of the Paradeontacylix spp. (Sanguinicolidae) of Seriola dumerili. Two new species of the genus Paradeontacylix from the Mediterranean		
+173052	Holzer, A. S.; Montero, F. E.; Repullés, A.; Nolan, M. J.; Sitj-Bobadilla, A. à.; Alvarez-Pellitero, P.; Zarza, C.; Raga, J. A.	2008	Cardicola aurata sp. n. (Digenea: Sanguinicolidae) from Mediterranean Sparus aurata L. (Teleostei: Sparidae) and its unexpected phylogenetic relationship with Paradeontacylix McIntosh		
+173015	Mishra, S.; Chandra, S.; Saxena, A. M.	2013	Two new trematodes of family Acanthocolpidae Luhe, 1906 from marine fish Leiognathus daura (Cuvier) from the Coast of Puri, Orissa, India		
+172752	Al-Jahdali, M. O.	2013	New intestinal trematodes from siganid fishes off the Saudi coast of the Red Sea		
+172506	Bullard, S. A.; Jensen, K.	2008	Blood flukes (Digenea: Aporocotylidae) of stingrays (Myliobatiformes: Dasyatidae): Orchispirium heterovitellatum from Himantura imbricata in the Bay of Bengal and a new genus and species of Aporocotylidae from Dasyatis sabina in the Northern Gulf of Mexico		
+172599	Miller, T. L.; Cribb, T. H.	2013	Dramatic phenotypic plasticity within species of Siphomutabilus n. g. (Digenea: Cryptogonimidae) from Indo-Pacific caesionines (Perciformes: Lutjanidae)		
+172500	Bray, R.A.; Justine, J.-L.	2008	Sympatric species of Deretrema Linton, 1910: D. combesae n. sp. and D. combesorum n. sp. (Digenea: Zoogonidae) from the manybar goatfish Parupeneus multifasciatus (Quoy & Gaimard, 1824) (Perciformes: Mullidae) from New Caledonia		
+172200	McNamara, M. K. A.; Adlard, R. D.; Bray, R. A.; Sasal, P.; Cribb, T. H.	2012	Monorchiids (Platyhelminthes: Digenea) of chaetodontid fishes (Perciformes): Biogeographical patterns in the tropical		
+172209	Carballo, M. C.; Laurenti, S.; Cremonte, F.	2011	A new species of monorchiid digenean from marine fishes in the Southwestern Atlantic Ocean off Patagonia		
+172404	Lakshmi, T. T.; Madhavi, R.	2009	A new monorchiid trematode, Paramonorcheides selaris n. sp., from the carangid fish Selar crumenophthalmus in the Bay of Bengal off the Visakhapatnam coast of India		
+171900	Pulis, E. E.; Curran, S. S.; Andres, M. J.; Overstreet, R. M.	2013	Change in rank of Megaperidae (Trematoda) to Megaperinae within the Apocreadiidae and description of Haintestinum amplum n. g., n. sp		
+172162	Singh, K.	2009	Allopodocotyle coniusi sp. nov. (Digenea: Opecoelidae, Plagioporinae) from marine fish Plotosus conius (Cuv. Vol) from Kanyakumari		
+171835	Miller, T. L.; Bray, R. A.; Goiran, C.; Justine, J.-L.; Cribb, T. H.	2009	Adlardia novaecaledoniae n. g., n. sp. (Digenea: Cryptogonimidae) from the fork-tailed threadfin bream Nemipterus furcosus (Val.) (Perciformes: Nemipteridae) off New Caledonia		
+171627	Jeżewski, W.; Zdzitowiecki, K.; Laskowski, Z.	2009	Description of a New Digenean (Zoogonidae) Genus and Species from Sub-Antarctic Fish Patagonotothen tessellata		
+171699	Kostadinova, A.; Gibson, D. I.	2009	New records of rare derogenids (Digenea: Hemiuroidea) from Mediterranean sparids, including the description of a new species of Magnibursatus Naidenova, 1969 and redescription of Derogenes adriaticus Nikolaeva, 1966		
+171520	Derbel, H.; Neifar, L.	2009	Allopodocotyle tunisiensis sp. nov. (Digenea, Opecoelidae), a parasite of Solea aegyptiaca (Teleostei, Soleidae) off Tunisia		
+171341	Leon-Regagnon, V.; Romero-Mayén, A. R.	2013	New species of Halipegus Looss, 1899 (Trematoda: Derogenidae) parasite of Rana psilonota Webb, 2001 of Atenquique		
+171345	Orélis-Ribeiro, R.; Ruiz, C. F.; Curran, S. S.; Bullard, S. A.	2013	Blood Flukes (Digenea: Aporocotylidae) of Epipelagic Lamniforms: Redescription of Hyperandrotrema cetorhini from Basking Shark ( Cetorhinus maximus ) and Description of a New Congener from Shortfin Mako Shark ( Isurus oxyrinchus ) off Alabama		
+171401	Bray, R. A.; Palm, H. W.	2009	Bucephalids (Digenea: Bucephalidae) from marine fishes off the south-western coast of Java, Indonesia, including the description of two new species of Rhipidocotyle and comments on the marine fish digenean fauna of Indonesia		
+171398	Bott, N. J.; Cribb, T. H.	2008	Prosorhynchine trematodes (Digenea: Bucephalidae) from epinephelines (Perciformes: Serranidae) on the Great Barrier Reef, Australia		
+171400	Bray, R. A.; J-Justine, L.	2009	Neolebouria blatta n. sp. (Digenea: Opecoelidae) from Pristipomoides argyrogrammicus (Valenciennes) and Etelis carbunculus Cuvier (Perciformes		
+171386	Bilqees, F. M.; Hadi, R.; Khatoon, N.; Muti-ur-Rahmanerveen, P.; S	2009	Qadriana otolithi n.sp., (Hemuridae: Dinurinae Looss, from the fish Otolithus argenteus (Sciaenidae) of Karachi coast, Pakistan		
+171393	Blasco-Costa, I.; Montero, F. E.; Balbuena, J. A.; Raga, J. A.; Kostadinova, A.	2009	A revision of the Haploporinae Nicoll, 1914 (Digenea: Haploporidae) from mullets (Mugilidae): Dicrogaster Looss, 1902 and Forticulcita Overstreet, 1982		
+171394	Blasco-Costa, I.; Montero, F. E.; Gibson, D. I.; Balbuena, J. A.; Kostadinova, A.	2009	A revision of the Haploporinae Nicoll, 1914 (Digenea: Haploporidae) from mullets (Mugilidae): two new haploporine genera and a key to the genera of the subfamily		
+171403	Bray, R. A.; Justine, J.-L.; Cribb, T. H.	2009	Cableia balistidicola n. sp. (Digenea, Monorchiidae) from Pacific Ocean balistids (Tetraodontiformes) and new reports of Cableia pudica Bray, Cribb and Barker, 1996 in temperate Australian monacanthids		
+171327	Tanzola, R. D.; Seguel, S.	2012	Stomachicola Lycengraulidis n. SP (Digenea, Hemiuridae) Parasite of the Atlantic Sabretooth Anchovy Lycengraulis Grossidens (Clupeiformes, Engraulidae)		
+171270	Shimazu, T.; Urabe, M.; Grygier, M. J.	2011	Digeneans (Trematoda) parasitic in freshwater fishes (Osteichthyes) of the Lake Biwa Basin in Shiga Prefecture		
+171269	Shaukat, N.; Bilqees, F. M.	2011	A new species of the genus Tubulovesicula  Yamaguti, (Digenea: Hemiuridae Loos, 1899) from the fish Pomadasys olivaceus (Day) off Karachi Coast		
+171151	Malhotra, A.; Jaiswal, N.; Singh, H. R.; Capoor, V. N.; Malhotra, S. K.	2011	Taxometric analysis of helminthes of marine fishes. 1. Pedunculacetabulum spinatum n.sp., from Chorinemus mandetta and Wenyonia rhincodonti n.sp., from Rhincodon typus		
+170989	Bray, R. A.; Justine, J.-L.	2011	Bucephaline digeneans (Bucephalidae) in Sphyraena putnamae Jordan & Seale (Sphyraenidae) from the lagoon off New Caledonia		
+171061	Downie, A. J.; Bray, R. A.; Jones, B. E. H.; Cribb, T. H.	2011	Taxonomy, host-specificity and biogeography of Symmetrovesicula Yamaguti, (Digenea: Fellodistomidae) from chaetodontids (Teleostei: Perciformes) in the tropical Indo-west Pacific region		
+170875	Ogawa, K.; Tanaka, S.; Sugihara, Y.; Takami, I.	2010	A new blood fluke of the genus Cardicola (Trematoda: Sanguinicolidae) from Pacific bluefin tuna Thunnus orientalis (Temminck & Schlegel, 1844) cultured in Japan		
+170560	Bray, R. A.; Cribb, T. H.; J-Justine, L.	2010	Diploproctodaeum spp. (Digenea, Lepocreadiidae) in Australian and New Caledonian waters including two new species from Tetraodontiformes and new records of related species		
+170570	Al-Jahdali, M. O.	2010	Helminth parasites from Red Sea fishes: Neowardula brayi gen. nov., sp. nov. (Trematoda: Mesometridae Poche, 1926) and Sclerocollum saudii sp. nov. (Acanthocephala: Cavisomidae Meyer, 1932)		
+170625	Bray, R. A.; Justine-nov, J. L.; P	2010	Pseudopecoelus sosoae sp. sewelli (Digenea, Opecoelidae) from the deep-sea fish Neoscombrops pacificus (Perciformes, Acropomatidae) off New Caledonia		
+170559	Bray, R. A.; Cribb, T. H.; Justine, J.-L.	2010	Multitestis manter 1931 (Digenea: Lepocreadiidae) in ephippid and chaetodontid fishes (Perciformes) in the south-western Pacific Ocean and the Indian Ocean off Western Australia		
+170623	Bray, R. A.; J-Justine, L.	2010	Alcicornis haroldi n. sp. (Digenea: Bucephalidae) from the yellowspotted trevally Carangoides fulvoguttatus (Forsskål) (Carangidae) from off New Caledonia		
+170236	Gibson, D. I.; Bray, R. A.	1977	The Azygiidae, Hirudinellidae, Ptychogonimidae, Sclerodistomidae and Syncoeliidae of fishes from the north-east Atlantic		
+168607	Hunter, J. A.; Cribb, T. H.	2012	A cryptic complex of species related to Transversotrema licinum Manter, 1970 from fishes of the Indo-West Pacific, including descriptions of ten new species of Transversotrema Witenberg, 1944 (Digenea: Transversotrematidae)		
+168602	Shaukateelofer, N.; Fatimailqees 2012, M. B.	1925	Decemtestis johnii new species (Trematoda: Opecoeliidae Ozaki, from the fish Lutjanus johnii of Karachi Coast		
+168616	Hernández-Orts, J.; Alama-Bermejo, G.; Carrillo, J.; García, N.; Crespo, E.; Raga, J.; Montero, F.	2012	Aporocotyle mariachristinae n. sp., and A. Ymakara Villalba & Fernández, 1986 (Digenea: Aporocotylidae) of the pink cusk-eel, Genypterus blacodes (Ophidiiformes: Ophidiidae) from Patagonia, Argentina		
+168373	Fernandes, B. M. M.; Cohen, S. C.; Mendonça, H. S.; Justo, M. C. N.	2013	Annakohniella travassosi n. gen., n. sp. (Digenea: Cryptogonimidae) Parasite of Rhaphiodon vulpinus (Pisces		
+168374	Pulis, E. E.; Overstreet, R. M.	2013	Review of haploporid (Trematoda) genera with ornate muscularisation in the region of the oral sucker, including four new species and a new genus		
+165100	Blasco-Costa	2009	A revision of the Haploporinae Nicoll, 1914 (Digenea Haploporidae) from mullets (Mugilidae): Haploporus Looss		
+193026	Besprozvannykh, V.; Atopkin, D.; Ermolenko, A.; Nikitenko, A.	2014	Restoration of the genus Parasaccocoelium Zhukov, 1971 (Digenea: Haploporidae) and a description of two new species from mugilid fish in the Far East of Russia		
+193038	Pérez-Del-Olmo, A.; Dallarés, S.; Carrassón, M.; Kostadinova, A.	2014	A new species of Bathycreadium Kabata, 1961 (Digenea: Opecoelidae) from Phycis blennoides (Brünnich) (Gadiformes: Phycidae) in the western Mediterranean		
+193028	Bray, R. A.; Justine, J.	2014	A review of the Zoogonidae (Digenea: Microphalloidea) from fishes of the waters around New Caledonia, with the description of Overstreetia cribbi n. sp.		
+193041	Searle, E. L.; Cutmore, S. C.; Cribb, T. H.	2014	Monorchiid trematodes of the painted sweetlips, Diagramma labiosum (Perciformes: Haemulidae), from the southern Great Barrier Reef, including a new genus and three new species		
+193031	Fraija-Fernández, N.; Aznar, F. J.; Raga, J. A.; Gibson, D.; Fernández, M.	2014	A new brachycladiid species (Digenea) from Gervais’ beaked whale Mesoplodon europaeus in north-western Atlantic waters		
+194846	King, S.; Scholz, T.	2001	Trematodes of the family Opisthorchiidae: a minireview		
+198709	Bray, R. A.	2004	Steringovermes notacanthi n. gen., n. sp. (Digenea: Fellodistomidae) from the deep-sea spiny eel Notacanthus bonaparte (Notacanthiformes: Notacanthidae) from the north eastern Atlantic and a new host record for Olssonium turneri		
+128156	Bray & Cribb.	2003	New species of Opechona Looss, 1907 and Cephalolepidapedon Yamaguti, 1970 (Digenea: Lepocreadiidae) from fishes off northern Tasmania.		
+131079	Nolan, M. J.; Cribb, T. H.	2004	<i>Ankistromeces mariae</i> n. g., n. sp. (Digenea: Sanguinicolidae) from <i>Meuschenia freycineti</i> (Monacanthidae) off Tasmania		
+130604	Bray; Cribb	1979	Monostephanostomum georgianum n. sp. (Digenea: Acanthocolpidae) from Arripis georgianus (Valenciennes) (Perciformes: Arripidae) off Kangaroo Island, South Australia, with comments on Monostephanostomum Kruse		
+130779	Gen, N.; Nov, S.	1925	Trematodes from Red Sea fishes: Proneohelicometra aegyptensis and Neohypocreadium gibsoni sp. nov		
+128576	Hassanine	2005	Trematodes from Red Sea fishes: Gibsonius aegyptensis gen. nov., sp. nov. (Lepocreadiidae Odhner, 1905) and Helicometra interrupta sp. nov. (Opecoelidae Ozaki, 1925)		
+127967	Aken'Ova	2003	Three species of Pycnadenoides Yamaguti, (Digenea: Opecoelidae), including two new species from temperate marine fishes of Australia		
+128162	Bray; Cribb	1901	Species of Lecithocladium Luhe, (Digenea, Hemiuridae) from Australian marine fishes, with a description of a new species from various hosts off eastern Australia		
+128169	Bray	2002	Three species of plagioporine opecoelids (Digenea), including a new genus and two new species, from marine fishes from off the coast of Chile		
+198730	Shaukat, N.; Bilqees, F.M.; Haseeb, M.F.	2009	A new species Tubulovesicula microcaudum (Trematoda: Hemiuridae looss, 1899) from the fish Otolithus argenteus of Karachi coast		
+170912	Saxena, A. M.; Johri, S.; Gupta, R.	2010	On First Record of a Trematode Parasite of Genus Pleorchis Railliet, 1896 (Digenea: Pleorchiidae Poche, 1926) From Intestine of a Fish, Psettodes erumei (Pleuronectiformes: Psettodidae) From Indian Ocean		
+170915	Shaukat, N.; Bilqees, F.M	2010	Lecithocladium karachiesis n.sp. (Digenea: Hemiuridae Lühe, 1901) from the fish Parastromateus niger of Karachi coast		
+130512	Aken'ova, T.	2003	Allopodocotyle skoliorchis  n. sp. (Opecoelidae: Plagioporinae) from Parequula melbournensis (Castelnau) (Gerreidae), a temperate marine fish in Australian waters		
+131080	Nolan, M. J.; Cribb, T. H.	2006	An exceptionally rich complex of Sanguinicolidae von Graff, (Platyhelminthes: Trematoda) from Siganidae, Labridae and Mullidae (Teleostei: Perciformes) from the Indo-west Pacific region		
+176827	Bagherpour, A.; Afsharnasab, M.; Mobedi, I.; Jalali, B.; Mesbah, M.	2011	Prevalence and intensity of internal parasitic helminthes infected Black sole fish, Brachirus orientalis (Bloch and Schneider, 1801) in the Persian Gulf.  10(4), 570-584.		
+168393	Penner, L. R.; Fried, B.	1963	Philophthalmus hegeneri sp. n., an Ocular Trematode from Birds.The		
+198991	Travassos, L.; Freitas, J.F.T.; Buhrnheim, P.F.	1966	Trematodeos de peixes do litoral Capixaba. Plagioporus multilobatus n.sp., parasito de Palmituma		
+199020	Shalaby & Hassanine	1997	Cryptacetabulum aegyptensis n. gen. n. sp. (Trematoda, Digenea: Opistholebetidae) from a Red Sea fish; as described by light and scanning electron microscopy		
+198994	Bilqees, F.M.; Ghazi, R.R.; Khan, A.; Khatoon, N.	2004	Parapolylekithum karachiensis n.gen. n.sp. (Digenea: Allocreadiidae) from the fish Cybium guttatum of Karachi coast		
+199007	Manter, H.W.	1963	Studies on digenetic trematodes of fishes of Fiji. II. Families Lepocreadiidae, Opistholebetidae, and Opecoelidae		
+199017	Manter, H.W.	1954	Some digenetic trematodes from fishes of New Zealand		
+199057	Abril, E.; Balbuena, J. A.; Raga, J. A.	1991	A new species of the genus Zalophotrema (Digenea: Campulidae), Zalophotrema atlanticum n. sp., from the liver of the striped dolphin Stenella coeruleoalba (Meyen, 1833) (Cetacea: Delphinidae) in Atlantic waters		
+199058	Manter, H.W.	1947	The digenetic trematodes of marine fishes of Tortugas		
+199062	Manter, H. W.	1940	Digenetic trematodes of fishes from the Galapagos Islands and the neighboring Pacific		
+199059	Jousson, O.; Bartoli, P.	2000	The life cycle of Opecoeloides columbellae (Pagenstecher, 1863) n. comb. (Digenea, Opecoelidae): evidence from molecules and morphology		
+199065	Bilqees, F.M.; Shaikh, G.S.; Nighat, Y.; Ali, R.	2000	Stephanostomoides diacanthi n.sp. (Trematoda: Acanthocolpidae) from the fish Pseudosciaena diacanthus (Lac.) of Karachi coast, Pakistan		
+199067	Shaukat N.; Bilqees, F.M.	2006	Pleorchis heterorchis n.sp. (Digenea: Acanthocolpidae Luhe, 1909) from fishes Lutjunus johinii and, Otolithus argenteus of Karachi coast, Pakistan		
+199111	Bray, R.A; Campbell, R.A.	1995	Fellodistomidae and Zoogonidae (Digenea) of deep-sea fishes of the NW Atlantic Ocean		
+194494	Chung, O.-S.; Lee, H.-J.; Sohn, W.-M.; Lee, S.-H.; Park, I.-Y.; Oh, S.-A.; Chai, J.-Y.; Seo, M.	2010	Discovery of Maritrema jebuensis n. sp. (Digenea: Microphallidae) from the Asian Shore Crab, Hemigrapsus sanguineus , in Korea		
+194488	Kritscher E.	1974	Lobatostoma jungwirthi nov. spec. (Aspidocotylea, Aspidogastridae) aus Geophagus brachyurus Cope, 1894 (Pisc., Cichlidae)		
+196785	Dailey, M. D.	2007	A New Species of Digenea (Trematoda: Brachycladiidae) from the Gervais' Beaked Whale, Mesoplodon europaeus, with Comments on Other Cetacean Liver Flukes		
+196796	Dronen, N. O.	2007	Wardianum catoptrophori n. sp. (Digenea: Cyclocoelidae: Haematotrephinae) from the Willet, Catoptrophorus semipalmatus (Scolopacidae), from the Galveston, Texas area of the Gulf of Mexico, U.S.A		
+196794	Dharejo, A. M.; Bilqees, F. M.; Khan, M. M.	2007	Echinochasmus mohiuddini, new species (Trematoda: Echinostomatidae) from paddy bird Ardeola grayii (Ardeidae) of Hyderabad, Sindh, Pakistan		
+196797	Dronen, N. O.; Blend, C. K.; Gardner, S. L.; Jiménez, F. A.	2007	Stictodora cablei n. sp. (Digenea: Heterophyidae) from the royal tern, Sterna maxima (Laridae: Sterninae) from Puerto Rico and the Brazos County area of the Texas Gulf coast, U.S.A., with a list of other endohelminths recovered in Texas		
+196802	Dwivedi, D.-K.; Gupta, V.	2007	Lecithochirium ernakulamensis sp. nov. (Trematoda: Hemiuridae) from a marine fish from Ernakulum coast, Kerala		
+196803	Dwivedi, D.-K.	2007	Bucephalus arabiansis sp. nov. (Trematoda: Bucephalidae) from a marine fish from Cochin coast, Kerala		
+199820	Villalba, C.; Fernández, J.	1986	Dos nuevas especies de trematodos parasitos de peces marinos en Chile / Two new species of parasitic trematoda of marine fishes from Chile		
+199821	Herbert, B. W.; Shaharom, F. M.	1995	A new blood fluke, Parasanguinicola vastispina gen. nov., sp. nov. (Trematoda: Sanguinicolidae), from sea bass Lates calcarifer (Centropomidae) cultured in Malaysia		
+199825	Dronen, N. O., Tehrany, M. R., & Wardle, W. J.	1999	Diplostomes from the brown pelican, Pelicanus occidentalis (Pelecanidae) from the Galveston, Texas area, including two new species of Bursacetabulus gen. n.		
+199824	Tehrany, M. R., Dronen, N. O. & Wardle, W. J.	1999	Revision of Bursacetabulus (Diplostomidae: Diplostominae) with the Proposal of Bursatintinnabulus n. gen., and Description of Bursatintinnabus bassanus n. sp. and Bursacetabulus morus n. sp. from Northern Gannet, Morus bassanus (AVES), from the Texas Gulf Coast.		
+197702	Andres, M. J.; Curran, S. S.; Fayton, T. J.; Pulis, E. E.; Overstreet, R. M.	2015	An additional genus and two additional species of Forticulcitinae (Digenea: Haploporidae)		
+198383	Liu S	1997	Two new species of trematodes of marine fishes from Fujian, China (Trematoda: Digenea)		
+171402	Bray, R. A.; Cribb, T. H.; J-Justine, L.	2009	New observations on the genus Hypocreadium ozaki, (Digenea: Lepocreadiidae) in the Indo-West Pacific region, including the description of one new species		
+171390	Bilqees, F.M.; Khalil, B.; Khan, A.; Perveen, S.; Muti-ur-Rehman.	2009	Description of a new species of genus Prosorhynchus Odhner, 1905 (Trematoda: Bucephalidae: Prosorhynchinae) from the fish Caranx affinis (Ru		
+171395	Blasco-Costa, I.; Montero, F. E.; Gibson, D. I.; Balbuena, J. A.; Raga, J. A.; Kostadinova, A.	2009	A revision of the Haploporinae Nicoll, (Digenea: Haploporidae) from mullets (Mugilidae): Saccocoelium Looss		
+171385	Bilqees, F.M.; Shaukat, N.	2009	Tubulovesicula magnacirrosa (Trematoda: Heiuridae Looss, 1899) from the fish Pseudosciaena diacanthus of Karachi Coast		
+171387	Bilqees, F.M.; Hadi, R.; Khatoon, N.; Muti-ur-Rehman; Perveen, S.; Haseeb, M.F.	2009	Opegaster alykhani n.sp. (Digenea: Opecoelidae) from the fish Lutjanus argentimaculatus (Day) of Karachi coast		
+171388	Bilqees, F.M.; Haseeb, M.F.; Muti-ur-Rahman; Perveen, S.	2009	Two new species of the genus Lecithochirium Lühe, 1909 (Trematoda: Hemiuridae: Lecithochiriinae) from fishes of Karachi Coast		
+171389	Bilqees, F. M.; Khalil, B.; Khan, A.; Haseeb, M. F.	2009	Microvesicula otolithi n. gen., n. sp. (Trematoda: Hemiuridae: Lecithastirinae) from the fish Otolithus argenteus (C.V.) of Karachi Coast, Pakistan		
+171657	Cable, R.M.; Martin, W.E.	1935	Parorchis avitus (Linton, 1914), a synonym of P. acanthis (Nicoll, 1906). J. Parasitol. 21: 436-437		
+171424	Bray, R. A.; Faliex, E.; Allienne, J. F.; Mouahid, G.	2013	Lepidapedon sereti n. sp. (Digenea: Lepidapedidae) in Coelorinchus sereti (Gadiformes: Macrouridae) from deep waters off Vanuatu		
+196870	Kudlai, O.; Kostadinova, A.; Pulis, E. E.; Tkach, V. V.	2015	A new species of Drepanocephalus Dietz, 1909 (Digenea: Echinostomatidae) from the double-crested cormorant Phalacrocorax auritus (Lesson) (Aves: Phalacrocoracidae) in North America		
+196871	Birmani, N. A.; Dharejo, A. M.; Naz, S.; Khan, M. M.; Shaikh, A. M.	2013	Paramonostomum bubaki n. sp. (Digenea: Notocotylidae) from the Black Coot, Fulica atra (Gruiformes: Rallidae), in South Central Pakistan		
+128105	Bott, N. J.; Cribb, T. H.	2005	First report of a bucephalid digenean from an apogonid teleost: Prosorhynchoides apogonis n. sp. from Cheilodipterus macrodon on the southern Great Barrier Reef, Australia		
+128051	Bartoli & Bray.	2004	Four species of Stephanostomum Looss, 1899 (Digenea: Acanthocolpidae) from Seriola dumerili (Risso) (Teleostei: Carangidae) in the western Mediterranean, including S. euzeti n. sp.. Systematic Parasitology 58(1) : 41-62		
+166419	Bray, R. A.; Justine, J.-L.	2013	A digenean parasite in a mudskipper: Opegaster ouemoensis sp. n. (Digenea: Opecoelidae) in Periophthalmus argentilineatus Valenciennes (Perciformes: Gobiidae) in the mangroves of New Caledonia		
+197299	GOMES, Delir Correa; FABIO, Sueli P. de  and  ROLAS, F. J. Tayt-Son.	1974	Contribuição para o conhecimento dos parasitos de peixes do litoral do Estado da Guanabara - parte II		
+191773	O'Dwyer, K.; Blasco-Costa, I.; Poulin, R.; Faltynkova, A.	2014	Four marine digenean parasites of Austrolittorina spp. (Gastropoda: Littorinidae) in New Zealand: morphological and molecular data		
+198722	Dailey, M.; Ellin, R.; Parás, A.	2005	FIRST REPORT OF PARASITES FROM PINNIPEDS IN THE GALAPAGOS ISLANDS, ECUADOR, WITH A DESCRIPTION OF A NEW SPECIES OF PHILOPHTHALMUS (DIGENEA: PHILOPHTHALMIDAE)		
+194849	Dronen N.O. & Blend C.K.	2005	A new genus and species of cyclocoelid from the black-necked stilt, Himantopus mexicanus (Recurvirostridae), from Galveston, Texas.		
+170787	Miller, T. L.; Bray, R. A.; Justine, J.; Cribb, T. H.	2010	Varialvus gen. nov. (Digenea, Cryptogonimidae), from species of Lutjanidae (Perciformes) off the Great Barrier Reef, New Caledonia and the Maldives		
+176696	Andres, M. J.; Pulis, E. E.; Overstreet, R. M.	2014	New genus of opecoelid trematode from Pristipomoides aquilonaris (Perciformes: Lutjanidae) and its phylogenetic affinity within the family Opecoelidae		
+200365	Yamaguti, S.	1952	Parasitic worms mainly from Celebes. Part 1. New digenetic trematodes of fishes		
+200376	Parukhin, A. M.	1970	New trematode species from Red Sea fish.		
+200382	Cable, R. M.; Nahhas, F. M.	1962	Bivesicula caribbensis sp. n. (Trematoda:Digenea) and Its Life History		
+200352	Platt, T. R., & Pichelin, S.	1994	Uterotrema australispinosa n. gen., n. sp.(Digenea: Spirorchidae), a parasite of a freshwater turtle Emydura macquarii from southern Queensland, Australia.		
+200356	Jimenez-Guzman, F. J., Caballero, E., & Caballero	1974	Trematodos digeneos de peces dulceacuicolas de Nuevo Leon, Mexico II. Crassicutis bravoae n. sp. de la mojarra Cichlasoma cyanoguttatus cyanoguttatus (Baird et Girad.		
+200363	Martorelli, S. R.	1986	Estudios parasitológicos en biotopos lénticos de la República Argentina II: El ciclo biológico de Homalometron pseudopallidum sp. nov.(Digenea) parásito de Gymnogeophagus australis Eigenman, 1907 (Pisces, Cichlidae).		
+200373	Nagaty, H. F.	1957	Trematodes of fishes from the Red Sea. Part 8. Five species in the families Schistorchidae, Acanthocolpidae, and Heterophyidae.		
+200367	Nagaty, H. F.	1956	Trematodes of fishes from the Red Sea. Part 6. On five distomes including one new genus and four new species.		
+200368	Simer, P. H.	1929	Fish Trematodes from the Lower Tallahatchie River		
+200369	Kohn, A., & Fernandes, B. M.	1981	Neoapocreadium chabaudi sp. n.(Apocreadiidae) and Schikhobalotrema acuta (Linton, 1910)(Haplosplanchnidae) trematodes parasites of marine fishes in Brazil.		
+200370	Masaaki, M., & Toshiaki, K.	1999	Digenean Trematodes from Tetraodontiform Fishes from Japanese and Adjacent Waters		
+200371	Siddiqi, A. H., & Cable, R. M.	1960	Digenetic trematodes of marine fishes of Puerto Rico.		
+200374	Toman, G.	1989	Digenetic trematodes of marine teleost fishes from the Seychelles, Indian Ocean. II.		
+200375	Hanson, M. L.	1953	A discussion of the trematode genus Schistorchis (Family Lepocreadiidae) with descriptions of two new species from Hawaii.		
+200378	Yamaguti, S.	1937	Trematodes from a marine fish, Branchiostegus japonicus (Houttuyn). PART 17. Studies on the helminth fauna of Japan.		
+200379	Manter, H. W.	1933	A New Family of Trematodes from Marine Fishes		
+200380	Dollfus, R. P.	1950	Trematodes collected in the Belgian Congo by Professor Paul Brien (May-August 1937)		
+200381	Crowcroft, P. W.	1946	Some digenetic trematodes from fishes of shallow Tasmanian waters.		
+200384	Shimazu, T., & Machida, M.	1995	Some Species of the Genus Bivesicula (Digenea : Bivesiculidae), Including Three New Species, from Marine Fishes of Japan and Palau		
+200411	Gupta, A. N., & Sharma, P. N.	1972	Studies  on  digenetic trematodes  from  marine  fishes  of  Indian  waters.  Part  3.		
+200392	Oliva, M. E.; Valdivia, I. M.; Chavez, R. A.; Molina, H.; Cardenas, L.	2015	MOLECULAR AND MORPHOLOGICAL EVIDENCE DEMONSTRATING TWO SPECIES OF HELICOMETRINA LINTON 1910 (DIGENEA: OPECOELIDAE) IN NORTHERN CHILE		
+200396	Coil, W. H.; Reid, W. A.; Kuntz, R. E.	1965	Paucivitellosus fragilis gen. et sp. nov. (Bivesiculidae: Digenea), a Parasite of Chelon troscheli from Formosa		
+200398	Mani, G. G.	1989	Morphology and Life Cycle of Paucivitellosus hanumanthai n. sp. (Trematoda: Bivesiculidae)		
+200404	Gupta, S. P., & Tandon, V. L.	1983	On some digenetic trematodes from marine fishes of Puri, Orissa.		
+200395	Hafeezullah, M.	1971	On Some New and Known Digenetic Trematodes from Marine Fishes of India		
+200405	Gupta, P. C., & Gupta, V. C.	1989	Alcicornis jairajpurii sp. nov.(Digenea-Bucephalidae)from a marine fish,  Trichiurus muticus(Gray)from Bay of Bengal, off Puri coast, Orissa, India.		
+200406	Zaidi, D. A., & Khan, D.	1977	Digenetic trematodes of fishes from  Pakistan.		
+200407	Madhavi, R.	1974	Digenetic trematodes from marine fishes of  Waltair  Coast,  Bay  of  Bengal.  Family  Bucephalidae.		
+200408	Gupta, V., & Jain, N.	1993	On  some  trematodes  of  the family  Bucephalidae  Poche,  1907  from  marine  fishes  of Puri, Orissa, India.		
+200410	Nahhas, F. M., & Cable, R. M.	1964	Digenetic  and  aspidogastrid  trematodes  from  marine  fishes  of  Curacao and Jamaica.		
+194885	Martorelli, S. R.	1991	El Ciclo Biologico Abreviado De Microphallus Simillimus (Travassos, 1920), Comb. N. (Digenea; Microphallidae). Parasito De Heleobia Conexa Recurvirostridae) En Argentina		
+198724	Zelmer, D. A.; Brooks, D. R.	2000	HALIPEGUS ESCHI N. SP. (DIGENEA: HEMIURIDAE) IN RANA VAILLANTI FROM GUANACASTE PROVINCE, COSTA RICA		
+196609	Aguirre-Macedo, M. L.; Violante-González, J.	2008	Saccocoelioides lamothei n. sp. from Dormitator latifrons (Pisces: Eleotridae) from coastal lagoons of Guerrero, Mexico		
+196614	Eduardo, S. L.; Diaz, J. L.	2008	Flukes of the Family Microscaphidiidae Looss, 1900 (Trematoda: Digenea) from the Green Sea Turtle, Chelonia mydas L. (Reptilia: Chelonia) in the Philippines with Description of Three New Species		
+196616	Guk, S.-M.; Chai, J.-Y.; Sohn, W.-M.; Kim, Y.-M.; Sim, S.; Seo, M.	2008	Microphallus koreana n. sp. (Trematoda: Microphallidae) Transmitted by a Marine Crab, Macrophthalmus dilatatus		
+196611	Bray, R. A.; Justine, J.-L.	2008	Sympatric species of Deretrema Linton, 1910: D. combesae n. sp. and D. combesorum n. sp. (Digenea: Zoogonidae) from the manybar goatfish Parupeneus multifasciatus (Quoy & Gaimard, 1824) (Perciformes: Mullidae) from New Caledonia		
+196636	Aken’Ova, T. O.	2006	The taxonomic status of Opegaster Ozaki, 1928 and the description of four new species of Opecoelus Ozaki, 1925 (Digenea: Opecoelidae) from marine teleosts in Australian waters		
+196661	Bartoli, P.; Kostadinova, A.; Gibson, D. I.	2006	A revision of Lomasoma Manter 1935 (Digenea: Fellodistomidae), with new data on the type-specimens of four species and the description of L. triglae n. sp. from Chelidonichthys lucernus (L.) (Pisces: Triglidae) in the Western Mediterranean		
+196670	Bray, R. A.; Cribb, T. H.	2006	Ningalooia psammopercae n. g., n. sp. (Digenea: Acanthocolpidae) from the Waigieu seaperch Psammoperca waigiensis (Cuvier) (Perciformes: Latidae) on the Ningaloo Reef, Western Australia		
+196666	Blend, C. K.; Dronen, N. O.; Armstrong, H. W.	2006	Macrourimegatrema gadoma n. sp. (Digenea: Opecoelidae) from the doublethread grenadier Gadomus arcuatus (Goode & Bean) (Macrouridae) in the Gulf of Mexico and Caribbean Sea		
+196672	Bray, R. A.; Cribb, T. H.	2007	Monostephanostomum nolani sp. n. and M. krusei Reimer, 1983 (Digenea: Acanthocolpidae) from carangid fishes from coral reef waters off Australia		
+196674	Bray, R.; Justine, J.-L.	2007	Pseudopycnadena tendu sp. nov. (Digenea, Opecoelidae) in the yellow-spotted triggerfish Pseudobalistes fuscus (Perciformes, Balistidae) and additional opecoelids parasitizing fishes from the waters off New Caledonia		
+196671	Bray, R. A.; Cribb, T. H.	2007	Holorchis gigas n. sp (Digenea : Lepocreadiidae) from the yellow-striped sweet-lips Plectorhinchus chrysotaenia (Perciformes : Haemulidae) from Lizard Island, Great Barrier Reef, with observations on Aephnidiogenes major		
+196673	Bray, R. A.; Justine, J.-L.	2007	Holorchis castex n. sp. (Digenea : Lepocreadiidae) from the painted sweet-lips Diagramma pictum (Thunberg, 1792) (Perciformes : Haemulidae) from New Caledonia		
+194842	Martin, W. E.	1956	The Life Cycle of Catatropis johnstoni n. sp. (Trematoda: Notocotylidae)		
+194845	Soota, T. D.; Srivastava, C. B.; Ghosh, R. K.	1970	Studies on the helminth fauna of the Great Nicobar Island. Part I. Trematoda.		
+194870	Shameem, U.; Madhavi, R.	1988	The morphology, life-history and systematic position of Haplorchoides mehrai Pande & Shukla, 1976 (Trematoda: Heterophyidae)		
+194890	Dronen, N. O.	1985	Digenetic Trematodes from the Roseate Spoonbill, Ajaia ajaja, from the Texas Gulfcoast		
+199689	Cribb, T. H.; Bray, R. A.; Hall, K. A.; Cutmore, S. C.	2015	A review of the genus Antorchis Linton, 1911 (Trematoda: Faustulidae) from Indo-Pacific fishes with the description of a new species		
+174958	Miller, T. L.; Cribb, T. H.	2008	Eight new species of Siphoderina Manter, 1934 (Digenea, Cryptogonimidae) infecting Lutjanidae and Haemulidae (Perciformes) off Australia.		
+199281	Hafeezullah, M.	1970	Lepocreadid trematodes of marine fishes of India		
+198030	Diaz, P. E.; Bray, R. A.; Cutmore, S. C.; Ward, S.; Cribb, T. H.	2015	A complex of species related to Paradiscogaster glebulae (Digenea: Faustulidae) in chaetodontid fishes (Teleostei: Perciformes) of the Great Barrier Reef		
+195401	Shvetsova, L. S.	2013	A new trematode species, Gonocerca pecitorali sp. n. (Hemiurata: Derogenidae) from Albatrossia pectoralis (Gilbert, 1891) (Gadiformes: Macrouridae)		
+155063	Zenetos, A.; Gofas, S.; Verlaque, M.; Cinar, M.; Garcia Raso, J.; Bianchi, C.; Morri, C.; Azzurro, E.; Bilecenoglu, M.; Froglia, C.; Siokou, I.; Violanti, D.; Sfriso, A.; San Martin, G.; Giangrande, A.; Katagan, T.; Ballesteros, E.; Ramos-Espla, A.; Mastrototaro, F.; Ocana, O.; Zingone, A.; Gambi, M.; Streftaris, N.	2010	Alien species in the Mediterranean Sea by 2010. A contribution to the application of European Union’s Marine Strategy Framework Directive (MSFD). Part I. Spatial distribution		
+198751	Bray, R. A.; Cribb, T. H.	2000	Species of Trifoliovarium Yamaguti, 1940 (Digenea: Lecithasteridae) from Australian waters, with a description of T. draconis n. sp. and a cladistic study of the subfamily Trifoliovariinae Yamaguti, 1958		
+198754	Curran, S.S.; Overstreet, R.M	2000	Syncoelium vermilionensis sp. n., (Hemiuroidea: Syncoeliidae) and New Records for Members of Azygiidae, Ptychogonimidae, and Syncoeliidae Parasitizing Elasmobranchs in the Gulf of California		
+198756	Bray, R. A.; Cribb, T. H.	2001	A review of the family Enenteridae Yamaguti, 1958 (Digenea), with descriptions of species from Australian waters, including Koseiria huxleyi n. sp		
+198764	Blend, C. K.; Dronen, N. O.; Armstrong, H. W.	2000	Six new species of Lepidapedon Stafford, 1904 (Digenea: Lepocreadiidae) from deep-sea macrourid fishes from the Gulf of Mexico and Caribbean Sea, with revised keys to the species of the genus		
+198776	Bray R. A.; Justine, J-L.	2006	Hypocreadium toombo n. sp (Digenea : Lepocreadiidae) in the yellow-spotted triggerfish Pseudobalistes fuscus (Perciformes : Balistidae) and additional lepocreadiids parasitizing fishes from the waters off New Caledonia		
+198780	Singh, K.; Singh, H.S.; Singh, J.	2004	Lutianotrema quinqueliai n. g. sp. nov. (Digenia: Lepocreadiidae: Guggenheimiinae) from marine fish Lutianus quinquelineatus (Gunther) from Bay of Bengal at Kanyakumari (Tamil Nadu), India		
+198791	Miller, T. L.; Cribb, T. H.	2005	A NEW GENUS AND SPECIES OF CRYPTOGONIMID FROM LUTJANUS SPP. (PISCES: LUTJANIDAE) ON THE GREAT BARRIER REEF AND NEW CALEDONIA		
+198793	Bartoli, P.; Gibson, D. I.	2001	Metadena phoceae n. sp. (Digenea: Cryptogonimidae), a rectal parasite of the shore rockling Gaidropsarus mediterraneus (Teleostei: Lotidae) in the western Mediterranean		
+198786	Jousson, O.; Bartoli, P	2002	Species diversity among the genus Monorchis (Digenea: Monorchiidae) parasitic in marine teleosts: molecular, morphological and morphometrical studies with a description of Monorchis blennii n. sp		
+198788	Miller, T.; Cribb, T.	2007	Two new cryptogonimid genera (Digenea, Cryptogonimidae) from Lutjanus bohar (Perciformes, Lutjanidae): analyses of ribosomal DNA reveals wide geographic distribution and presence of cryptic species		
+198775	Bray, R. A.; Cribb, T. H.	2001	Amphicreadium n. g. (Digenea: Lepocreadiidae) from monacanthid fishes (Tetraodontiformes) from the coast of northern Tasmania		
+198778	Chaubey, S.; Singh, H. S.; Jaisawal, D. K	2006	Lutianotrema kanyakumariae sp. nov. (Trematoda: Lepocreadiidae) from a marine water fish Lutianus quinquelineatus from Bay of Bengal Kanyakumari (Tamil Nadu), India.		
+198805	Platt, T. R.; Brooks, D. R.	2001	DESCRIPTION OF BUCKAROOTREMA GOODMANI N. G., N. SP. (DIGENEA: PRONOCEPHALIDAE), A PARASITE OF THE FRESHWATER TURTLE EMYDURA MACQUARII (GRAY, 1830) (PLEURODIRA: CHELIDAE) FROM QUEENSLAND, AUSTRALIA, AND A PHYLOGENETIC ANALYSIS OF THE GENERA OF THE PRONOCEPHALIDAE LOOSS, 1902		
+198803	Snyder, S. D.; Tkach, V. V.	2006	Paradeuterobaris victoriae n. sp. (Digenea: Microscaphidiidae) and Buckarootrema minuta n. sp. (Digenea: Pronocephalidae) from the Victoria River Red-Faced Turtle, Emydura victoriae (Pleurodira: Chelidae) in Australia		
+198795	Miller, T. L.; Cribb, T. H.	2007	Coevolution of Retrovarium n. gen. (Digenea: Cryptogonimidae) in Lutjanidae and Haemulidae (Perciformes) in the Indo-West Pacific		
+198799	Pearson, J. C.	2002	Protoheterophyes spuriocirrus gen. et sp. nov. (Trematoda, Heterophyidae) described and the nature of the gonotyl in heterophyids explicated.		
+198815	Santoro, M.; Greiner, E.C.; Morales, J.A.; Rodríguez-Ortíz, B.	2007	A new pronocephalid, Pleurogonius tortugueroi n. sp. (Digenea), from the intestine of green sea turtles (Chelonia mydas) in Costa Rica.		
+198819	Bray, R.; Cribb, T.; Waeschenbach, A.; Littlewood, D.	2007	A new species of Stephanostomum Looss, 1899 (Digenea, Acanthocolpidae) with a bizarre oral sucker: S. adlardi sp. nov. from the common coral trout Plectropomus leopardus (Lacepède, 1802) (Perciformes, Serranidae) from Lizard Island, Great Barrier Reef		
+170583	Bilqees, F. M.; Rana Hadi; Nelofer Shaukat; Nasira Khatoon; Haseeb, M. F.	2010	A new trematode of genus Neodichadena Yamaguti, 1971 (Digenea: Hemiuridae Luhe, 1901: Lecithasterinae Odhner, 1905) parasite of the fish Triacanthus brevirostris (T.S) from fish harbour, Karachi		
+198797	Dailey, M. D.; Kliks, M. M.; Demaree, R. S.	2004	Heterophyopsis hawaiiensis n. sp. (Trematoda: Heterophyidae) from the Hawaiian Monk Seal, Monachus schauinslandi Matschie, 1905 (Carnivora: Phocidae)		
+198836	Aken'Ova, T. O.; Cribb, T. H.	2000	Diplobulbus brayi n. sp. (Digenea: Opecoelidae) from Odax acroptilus (Perciformes: Odacidae) off Western Australia		
+198847	Aken'Ova, T. O.; Cribb, T. H.	2001	Two new species of Neolebouria Gibson, 1976 (Digenea: Opecoelidae) from temperate marine fishes of Australia		
+198853	Korniychuk, J.; Gaevskaya, A.V.	2001	Peracreadium gibsoni sp. nov. (Trematoda: Opecoelidae)— a new Digenea species from the Black Sea fishes		
+198817	Etchegoin, J. A.; Lanfranchi, A. L.; Cremonte, F.; Timi, J. T.	2006	A new species of Acaenodera (Digenea: Acanthocolpidae) parasitizing Conger orbignyanus (Pisces: Congridae) from the coasts of Argentina		
+198827	Choudhury, A.; Pérez-Ponce De León, G.; Brooks, D. R.; Daverdin, R.	2006	PARACREPTOTREMA BLANCOI N. GEN., N. SP. (DIGENEA: PLAGIORCHIFORMES: ALLOCREADIIDAE) IN THE OLOMINA, PRIAPICHTHYS ANNECTENS (OSTEICHTHYES: POECILIIDAE), FROM THE ÁREA DE CONSERVACIÓN GUANACASTE, COSTA RICA		
+198830	Jousson, O.; Bartoli, P.	2001	Molecules, morphology and morphometrics of Cainocreadium labracis and Cainocreadium dentecis n. sp. (Digenea: Opecoelidae) parasitic in marine fishes		
+198820	Bartoli, P.; Bray, R. A.	2001	Contribution to the knowledge of species of the genus Stephanostomum Looss, 1899 (Digenea: Acanthocolpidae) from teleosts of the Western Mediterranean, with the description of S. gaidropsari n. sp		
+198823	Bray, R. A.; Cribb, T. H.	2001	Tormopsolus attenuatus n. sp. (Digenea: Acanthocolpidae) from Seriola hippos (Perciformes: Carangidae), Western Australia, with some observations on the relationships in the genus		
+198825	Bray, R. A. and Cribb, T. H.	2000	Venusicola inusitatus gen. n., sp n. (Digenea, Acanthocolpidae) from the Venus tuskfish Choerodon venustus (De Vis) from the southern Great Barrier Reef		
+198843	Hassanine, R.	2007	Trematodes from Red Sea fishes: On the validity of Helicometra marmoratae Nagaty et Abdel-Aal, 1962 and the description of H. aegyptense sp. nov. (Opecoelidae Ozaki, 1925)		
+198858	Kuramochi T.	2001	Digenean Trematodes of Anguilliform and Gadiform Fishes from Deep-Sea Areas of Tosa Bay, Japan		
+198834	Korniychuk, J.; Gaevskaya, A.V	2000	Cainocreadium flesi sp. n. (Trematoda, Opecoelidae) — new trematode species from the Black Sea fishes		
+198845	Blend, C.K; Dronen, N.O.; Armstrong, H.W.	2004	Macrourimegatrema brayi n. gen., n. sp. (Digenea: Opecoelidae) from four species of deep-sea macrourid fishes from the Gulf of Mexico and Caribbean Sea, with a list of endohelminths reported from species of Bathygadus and Gadomus (Macrouridae)		
+198849	Urabe, M.; Higa, E.	2006	A new trematode species Neoplagioporus kajika sp. n. (Digenea: Opecoelidae), parasitic in the Japanese fluvial sculpin, Cottus pollux (Osteichthyes: Scorpaeniformes: Cottidae), from Japan		
+171266	Shaikh, G. S.; Khan, A.; Bilqees, F. M.	2011	A new trematode of the genus Genarchopsis Ozaki, from freshwater fish of Sindh, Pakistan		
+168609	Cantatore, D. M. P.; Lancia, J. P.; Lanfranchi, A. L.; Timi, J. T.	2012	A New Species of Caudotestis (Digenea: Opecoelidae) Parasitizing the Horsefish, Congiopodus peruvianus (Scorpaeniformes: Congiopodidae) from the Patagonian Shelf, Argentina		
+195830	Zenetos, A.; Meric, E.; Verlaque, M.; Galli, P.; Boudouresque, C.; Giangrande, A.; Cinar, M.; Bilecenoglu, M.	2008	Additions to the annotated list of marine alien biota in the Mediterranean with special emphasis on Foraminifera and Parasites		
+163688	Markowski, S	1935	Les vers parasites de Gobius minutus Pall. de la Baltique polonaise		
+198708	Machida, M.; Kamegai, S.; Kuramochi, I.	2007	Fellodistomidae (Trematoda, Digenea) from Deep-sea Fishes of Japan		
+168379	Curran, S. S.; Tkach, V. V.; Overstreet, R. M.	2013	A New Species of Homalometron (Digenea: Apocreadiidae) from Fishes in the Northern Gulf of Mexico		
+168380	Bott, N. J.; Miller, T. L.; Cribb, T. H.	2013	Bucephalidae (Platyhelminthes: Digenea) of Plectropomus (Serranidae: Epinephelinae) in the tropical Pacific		
+198422	Velasquez, C. C.	1961	Cryptogonimidae (Digenea: Trematoda) from Philippine Food Fishes		
+198421	Varma, P. K., Singh, J. P.	1979	Opisthomonorchis thapari n. sp. from a marine fish Caranx armatus (Cuv. and Val.) from the Arabian Sea at Quilon, India		
+198446	Bray, R.A., Justine, J-L	2009	Opecoelids (Platyhelminthes, Digenea) from the fork-tailed threadfin bream Nemipterus furcosus (Valenciennes, 1830) (Perciformes, Nemipteridae), with preliminary keys to the problematic genera Macvicaria Gibson et Bray, 1982 and Neolebouria Gibson, 1976		
+198450	Martin, W. E.	1974	Paralecithobotrys brisbanensis sp. n. from Australian mullet (Trematoda: Haploporidae)		
+198423	Hafeezullah, M., Siddiqi, A. H.	1970	Digenetic trematodes of marine fishes of India. Part I. Bucephalidae and Cryptogonimidae		
+198424	Machida, M.	1986	Trematodes from red scads of the Ryukyu Islands, southern Japan		
+198425	Saoud M.F.A., Ramadan M.M., Al Kawari K.S.R.	1988	Helminth parasites of fishes from the Arabian Gulf. 4. On Allacanthochasmus lutjani n. sp. and Metadena leilae Nagaty, 1957 (Digenea: Cryptogonimidae).		
+198448	Wang, P. Q.	1982	Some digenetic trematodes of marine fishes from Fujian Province, China		
+198449	Fernández Bargiela J.	1987	Los parasitos de la lisa Mugil cephalus L., en Chile: sistematica y aspectos poblacionales (Perciformes: Mugilidae)		
+172203	Wang, J.; Wu, W.; Gao, P.; Liu, S.	2013	A new species of monorchiid (Digenea) from the South China Sea		
+172946	Cribb, T. H.; Adlard, R. D.; Bray, R. A.; Sasal, P.; Cutmore, S. C.	2014	Biogeography of tropical Indo-West Pacific parasites: A cryptic species of Transversotrema and evidence for rarity of Transversotrematidae (Trematoda		
+173041	Hall, K.A.; Cribb, T.H.	2008	Revision of Flagellotrema Ozaki, 1936 (Digenea, Gyliauchenidae Fukui, 1929), including the description of two species from acanthuroid fishes from the Great Barrier Reef, Queensland, Australia		
+172402	Tkach, V. V.; Snyder, S. D.; Vaughan, J. A.	2009	A new species of blood fluke (Digenea: Spirorchiidae) from the Malayan box turtle, Cuora amboinensis (Cryptodira: Geomydidae) in Thailand		
+172498	Bray, R. A.; Cribb, T. H.	2008	Stephanostomum spp. (Digenea: Acanthocolpidae) from scombrids and carangids (Perciformes) from the Great Barrier Reef, with the description of two new species		
+200390	Sogandares-Bernal, F.; Hutton, R. F.	1959	Bivesicula tarponis, a New Trematode in the Tarpon, Megalops atlanticus (Cuv. & Val.), from the West Coast of Florida		
+200391	Cribb, T. H.; Bray, R. A.; Barker, S. C.	1994	Bivesiculidae and Haplosplanchnidae (Digenea) from fishes of the southern Great Barrier Reef, Australia		
+200403	Velasquez, C. C.	1959	Studies on the Family Bucephalidae Poche 1907 (Trematoda) from Philippine Food Fishes		
+200399	Manter, H. W.	1961	Studies on digenetic trematodes of fishes of Fiji. I. Families Haplosplanchnidae, Bivesiculidae, and Hemiuridae.		
+200426	Ku, C. T., & Shen, J. W.	1975	Studies on the genus Rhipidocotyle Diesing (Bucephalidae, Trematoda) from some marine fishes of China.		
+200432	Fischthal, J. H., & Thomas, J. D.	1968	Digenetic trematodes of marine fishes from Ghana: families Acanthocolpidae, Bucephalidae, Didymozoidae.		
+200434	Singh, S. P., & Sinha, D. P.	1976	On Rhipidocotyle vachius sp. N.(Bucephalidae, Gasterostomata, Trematoda) from an Indian fresh-water fish Eutropiichthys vacha.		
+200409	Gupta, V., & Ahmad, J.	1976	Digenetic  trematodes  of marine  fishes.  On  some  new  and  known digenetic  trematodes  of  the  family  Bucephalidae  Poche,  1907  from marine fishes of Puri, Orissa, India.		
+200431	Dimitrov, G.; Kostadinova, A.; Gibson, D. I.	1996	Rhipidocotyle genovi n. sp. (Digenea: Bucephalidae) from the intestine ofGaidropsarus mediterraneus (L.) (Gadiformes: Gadidae) from the Black Sea		
+200437	Moravec, F., & Sey, O.	1989	Some trematodes of freshwater fishes from North Vietnam with a list of recorded endohelminths by fish hosts.		
+200427	Wang, P. Q.	1980	Studies on some species of gasterostome trematodes from Fujian, China.		
+200428	Gibson, D. I., Taskinen, J., & Valtonen, E. T.	1992	Studies on bucephalid digeneans parasitising molluscs and fishes in Finland. II. The description of Rhipidocotyle fennica n. sp. and its discrimination by principal components analysis.		
+200458	Nicoll, W.	1914	The trematode parasites of fishes from the English Channel		
+200460	Bilqees, F. M.	1980	Three Trematodes Including Two New Species from Fishes of the Karachi Coast		
+200430	Kohn, A.; Fernandes, B. M. M.	1994	Rhipidocotyle gibsoni n. sp. from a Brazilian Freshwater Fish and Rhipidocotyle froesi n.sp. for r. baculum (linton, 1905) of Eckmann (1932) (Bucephalidae; Digenea)		
+200439	Montgomery, W. R.	1957	Studies on Digenetic Trematodes from Marine Fishes of La Jolla, California		
+200461	Sey, O.; Nahhas, F. M.; Uch, S.; Vang, C.	2003	Digenetic trematodes from marine fishes off the coast of Kuwait, Arabian Gulf: Fellodistomidae and some smaller families, new host and geographic records		
+200452	Gupta, P. C.; Gupta, V. C.	1990	Studies on some piscine digenetic trematodes of the families Bucephalidae and Hemiuridae from India		
+200453	Kruse, G. O.	1977	Some digenetic trematodes from fishes of the Bering Sea with the descriptions of Prosorhynchus mizellei sp. n.(Bucephalidae) and Pseudopecoelus nossamani sp. n.(Opecoelidae		
+200435	Manter, H. W.; Pritchard, M. H.	1960	Some Digenetic Trematodes of Eels of Hawaii		
+200436	Dickerman, E. E.	1954	Paurorhynchus hiodontis, a New Genus and Species of Trematoda (Bucephalidae: Paurorhynchinae n. subfam.) from the Mooneye Fish, Hiodon tergisus		
+200451	Travassos, L., Artigas, P., Pereira, C.	1928	Fauna helmintológica dos peixes de água doce do Brasil		
+200454	Thatcher, V. E.	1999	Two new Bucephalidae (Trematoda) from Fishes of the Brazilian Amazon		
+200457	Manter, H. W.	1953	Two new species of Prosorhynchinae (Trematoda: Gasterostomata) from the Fiji Islands		
+200459	Manter, H. W.; Crowcroft, P. W.	1950	A new genus of amphistome (Trematoda) from a Tasmanian marine fish		
+9935	Orecchia, Paola; Marina Ortis; Lia Paggi	2006	Digenei, in: Revisione della Checklist della fauna marina italiana.		
+170990	Bray, R. A.; Justine, J. L.	2011	Acanthocolpidae (Digenea) of marine fishes off New Caledonia, with the descriptions of two new species		
+172202	Machida, M.	2011	Additional monorchiid digeneans (Trematoda) from fishes of Japanese and adjacent waters.		
+130978	Liu, Wei; Qiu, Zhao-Zhi	2005	Discussion on the history of genera Elytrophallus and Elytrophalloides and description of a new species of Elytrophallus (Digenea, Hemiuridae)		
+130980	Liu, S.-F.; Yang, T.-B.	2002	Phanurus oligoovus gen. et sp. nov. (Digenea: Waretrematidae) from Liza carinatus from the South China Sea		
+47850	Manter, H. W.	1970	A new species of Transversotrema (Trematoda:  Digenea) from marine fishes of Australia		
+133577	Aken’Ova, T.; Cribb, T.; Bray, R.	2008	Eight new species of Macvicaria Gibson and Bray, 1982 (Digenea: Opecoelidae) from temperate marine fishes of Australia		
+133581	Aken’Ova, T.; Cribb, T.; Bray, R.	2009	Seven species of Pseudopecoeloides Yamaguti, 1940 (Digenea, Opecoelidae) from temperate marine fishes of Australia, including five new species		
+127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
+162725	Van Beneden, E.	1870	On the embryonic form of Nematobothrium filarina. Q. J. Microsc. Sci. 10		
+175068	Shaukat, N.; Bilqees F.M.	2008	Studies on digenetic trematodes of some fishes of Karachi Coast: Trematodes of marine fishes of Pakistan.		
+200504	Pojmańska, T. & Niewiadomska, K.	2015	Renicola lari – Nephromonorcha lari; which species name is correct?		
+166251	Rohner, C. A.; Cribb, T. H.	2013	Opecoelidae (Digenea) in northern Great Barrier Reef goatfishes (Perciformes: Mullidae)		
+6253	Nahhas, F.M. & O. Sey	1998	Chauhanotrema spiniacetabulum sp.n. (Digenea: Waretrematidae) from Hemiramphus marginatus (Forsskal) (Hemiramphidae) from the Kuwaiti Coast of the Arabian Gulf.		
+198706	Roberts-Thomson, A.; Bott, N.J	2007	Exploiting mimicry: Prosorhynchoides thomasi n. sp (Digenea : Bucephalidae) from the fang blenny genus Plagiotremus (Bleeker) (Blenniidae) from off Lizard Island on the Great Barrier Reef, Australia		
+2999	Linkletter, L. E.	1977	A checklist of marine fauna and flora of the Bay of Fundy		
+2930	Brunel, P.; Bosse, L.; Lamarche, G.	1998	Catalogue of the marine invertebrates of the estuary and Gulf of St. Lawrence		
+1428	Gibson, D.I.	2001	Digenea, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+1624	Markowski, S.	1938	Contribution à la connaissance des helminthes des poissons de la côte belge. <i>Bull. Mus. royal d'Hist. Nat. Belg./Med. Kon. Natuurhist. Mus. Belg. 14(43)</i>: 1-10		
+42			ITIS database		
+8	Linnaeus, C.	1758	Systema Naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis		
+128930	Mago Guevara & Chinchilla Martínez,	2003	Un nuevo registro  y una nueva especie del género Opecoelina  Manter,1934 (Digenea:Opecolidae) halladas en  peces marinos del nororiente de Venezuela. Boletin del Instituto Oceanografico de Venezuela Universidad de Oriente 42 (1-2): 87-93		
+128344	Dailey, Demaree & Critchfield.	2002	Galactosomum stelleri sp. n. (Trematoda: Heterophyidae) from the Northern Sea-Lion, Eumetopias jubatus (Schreber, 1776) (Carnivora: Otariidae). Comparative Parasitology 69 (1): 58-61		
+172751	Al-Zanbagi, N. A.; Hassan, A. H.	2013	A multivariate analysis of some Digenean species collected from several Red Sea fishes in Saudi Arabia		
+47766			Checklist of Antarctic and Subantarctic Digenea		
+130513	Aken'Ova	2003	Dactylomyza gibsoni n. g., n. sp. (Digenea: Opecoelidae) from Schuettea woodwardi (Waite) (Monodactylidae) from off Western Australia. Systematic Parasitology 55 (1): 61-65		
+130514	Aken'Ova	2003	Bartoliella pritchardae n. g., n. sp. (Digenea: Opecoelidae) in Epinephelides armatus (Serranidae) from temperate marine waters of Western Australia. Systematic Parasitology 55 (1): 67-72		
+130515	Aken'Ova	2003	A new species of Podocotyloides Yamaguti, (Digenea: Opecoelidae) from a Western Australian temperate marine fish		
+128805	Kuramochi	2005	Digenean Trematodes of Fishes from Deep-Sea Areas off Ryukyu Islands, Southern Japan		
+128094	Blasco-Costa, Pankov, Gibson, Balbuena, Raga, Sarabeev & Kostadinova.	2006	Saturnius minutus n. sp. and S. dimitrovi n. sp. (Digenea: Hemiuridae) from Mugil cephalus L. (Teleostei: Mugilidae), with a multivariate morphological analysis of the Mediterranean species of Saturnius Manter, 1969. Systematic Parasitology    Volume: 65    Issue: 1    Pages: 77-91		
+47849	Witenberg, G.	1944	Transversotrema haasi, a new fish trematode		
+124391	Zenetos, A., M.E. Çinar, M.A. Pancucci-Papadopoulou, J.G. Harmelin, G. Furnari, F. Andaloro, N. Bellou, N. Streftaris & H. Zibrowius	2005	Annotated list of marine alien species in the Mediterranean with records of the worst invasive species.		
+170238	Madhavi, R.	2011	Checklist of digenean trematodes reported from Indian marine fishes		
+194496	Cutmore, S. C.; Miller, T. L.; Bray, R. A.; Cribb, T. H.	2014	A new species of Plectognathotrema Layman, 1930 (Trematoda: Zoogonidae) from an Australian monacanthid, with a molecular assessment of the phylogenetic position of the genus		
+128157	Bray & Cribb.	2003	Species of Stephanostomum Looss, 1899 (Digenea: Acanthocolpidae) from fishes of Australian and South Pacific waters, including five new species. Systematic Parasitology 55 (3): 159-197		
+130606	Bray & Cribb.	2003	Lepocreadiidae (Digenea) from the batfish of the genus Platax Cuvier (Teleostei: Ephippidae) from the southern Great Barrier Reef, Queensland, Australia. Systematic Parasitology 55 (1): 1-9		
+130984	Liu, S.-F.	2002	TWO NEW SPECIES OF LEPOCREADIID TREMATODES OF MARINE FISHES FROM THE TAIWAN STRAITS, CHINA		
+132580	Johns, P.; Newman, L.J.; Holleman, J.J.; Dawson, E.W.; Sterrer, W.; Allison, F.R.; Diggles, B.K.; Andrews, J.R.H.; Hine, P.M.; McKenna, P.B.; Poulin, R.	2009	Phylum Platyhelminthes: flatworms, tapeworms, flukes, in: Gordon, D.P. (Ed.) (2009). New Zealand inventory of biodiversity: 1. Kingdom Animalia: Radiata, Lophotrochozoa, Deuterostomia.		
+198711	Dronen, N. O.; Gardner, S. L.; Jimenez, F. A.	2006	Haematotrephus limnodromi n. sp. (Digenea: Cyclocoelidae) from the long-billed dowitcher, Limnodromus scolopaceus (Scolopacidae) from the central flyway of North America		
+198712	Desclaux, C.; Russell-Pinto, F.; De Montaudouin, X.; Bachelet, G.	2006	FIRST RECORD AND DESCRIPTION OF METACERCARIAE OF CURTUTERIA ARGUINAE N. SP. (DIGENEA: ECHINOSTOMATIDAE), PARASITE OF COCKLES CERASTODERMA EDULE (MOLLUSCA: BIVALVIA) IN ARCACHON BAY, FRANCE		
+198713	Diaz, J. I.; Cremonte, F.	2004	HIMASTHLA ESCAMOSA N. SP. (DIGENEA: ECHINOSTOMATIDAE) FROM THE KELP GULL, LARUS DOMINICANUS (CHARADRIIFORMES: LARIDAE), ON THE PATAGONIAN COAST, ARGENTINA		
+197030	Abdou,N.L., Heckm,ann, R.A., Beltagy, S.M. &  Ashour, A.A.	2001	Pseudoplagioporus interruptus Durio and Manter, 1968 and Hamacreadium agyptia sp. n. (Trematoda: Opecoeliidae) from the Red Sea Fish in Egypt.		
+197056	Abdel Aal, T. M., Banaja, A.A. & Al-Zanbagi, N. A.	1984	Trematodes of fishes from the Red Sea. Two new Hemiurid species including a new genus.		
+198409	Gu, C. D., Shen, J. W.	1981	Digenetic trematodes of ribbonfish, Trichiurus haumela (Forska˚l) and their distribution in the fishing grounds of China Seas.		
+193226	Jaiswal, N.; Upadhyay, S. K.; Malhotra, A.; Blend, C. K.; Dronen, N. O.; Malhotra, S. K.	2014	A new species of<em> Neolebouria </em>Gibson, 1976 (Opecoelidae: Plagioporinae) from the whitecheek monocle bream, <em>Scolopsis vosmeri</em> (Perciformes: Nemipteridae), from the Panjim coast at Goa, with a checklist of parasites previously reported from this fish		
+200449	McFarlane, S. H.	1936	A Study of the Endoparasitic Trematodes from Marine Fishes of Departure Bay, B.C		
+198773	Bray, R.A.; Cribb, T.H .	2001	Postlepidapedon quintum n. sp. (Digenea: Lepocreadiidae) from the bastard trumpeter Latridopsis forsteri (Perciformes: Latridae) off the coast of northern Tasmania		
+198698	Ostrowskide Nunez, M.; Brugni, N.; Flores, V. R.	2003	Posterotestes unelen gen. et sp. n. (Digenea: Apocreadiidae) from Percichthys trucha (Osteichthyes: Percichthyidae) in Patagonia, Argentina		
+198420	Wang, P. Q.	1982	Some digenetic trematodes of marine fishes from Fujian Province, China		
+130511	Aken'ova, C.; Bray	2003	A new species of Dactylostomum Woolcock, (Digenea: Opecoelidae) from the goatfish Upeneichthys lineatus (Bloch		
+198696	Bray, R. A.; Justine, J. L.; Cribb, T. H.	2007	<em>Homalometron moraveci</em> n. sp (Digenea : Apocreadiidae) in the yellowfin goatfish, <em>Mulloidichthys vanicolensis</em> (Valenciennes, 1831) (Perciformes checklist of digeneans of <em>Mulloidichthys</em> species		
+198710	Cremonte, F.	2001	Bartolius pierrei n. g., n. sp. (Digenea: Gymnophallidae) from the Península Valdés, Argentina		
+201063	Bilqees, F.M.;  Khatoon, N.; Bibi, R. & Mutiur-Rehman	2007	Rastridostomum kanaguriae n.gen., n.sp. (Allocreadiidae:Crepidostominae)  from the fish Rastrelliger kanagurta of Karachi Coast		
+201064	Shaukat, N.; Bilqees, F.M.; Haseeb, F. & Matiur-Rehman	2008	Lecithocladium lateropharyngium n.sp. (Digenea: Hemiuridae Luhe, 1901) from the fish Stromateus sinensis of Karachi Coast.		
+170617	Bilqees, F. M.; Khalil, B.; Khan, A.; Haseeb, F.; Perveen, S.	2010	Two hemiurid trematodes from the fishes Plectorhynchus cinctus (T.S) of Karachi coast		
+198732	Chambers, C.; Carlisle, M.; Dove, A.; Cribb, T.	2001	A description of Lecithocladium invasor n.sp. (Digenea: Hemiuridae) and the pathology associated with two species of Hemiuridae in acanthurid fish		
+193248	Olson, R. E.; Hanson, A. W.; Pratt, I.	1970	Plectognathotrema hydrolagi sp. n. (Trematoda: Cephaloporidae) from the Ratfish (Hydrolagus colliei)		
+193239	Andres M. J.; Pulis E. E.; Cribb T.H.; Overstreet, R. M.	2014	Erection of the haploporid genus Litosaccus n. g. and its phylogenetic relationship within the Haploporidae Nicoll, 1914		
+198348	MacCallum G.A.	1917	Some new forms of parasitic worms.		
+130776	Hassanine R.M., Gibson D.I.	2005	Trematodes of Red Sea fishes: Hexangium brayi n. sp. (Angiodictyidae Looss, 1902) and Siphodera aegyptensis n. sp. (Cryptogonimidae Ward, 1917), with a review of their genera		
+130777	Hassanine, R. M.; Gibson, D. I.	2005	Trematodes from Red Sea fishes: Neohypocreadium aegyptense n. sp. (Lepocreadiidae), Fairfaxia cribbi n. sp. and Macvicaria chrysophrys (Nagaty & Abdel-Aal		
+131006	Machida, M.	2005	Monorchiidae (Trematoda, Digenea) from Fishes of Japanese and Adjacent Waters		
+130608	Bray & Cribb.	2005	Gorgocephalus yaaji n.sp. (Digenea: Gorgocephilidae) from the brassy chubb Kyphosus vaigiensis (Perciformes: Kyphosidae) off Lizard Island, northern Great Barrier Reef, and further records of G. kyphosi. Zootaxa 1068 : 39-46		
+130609	Bray, R. A.; Nahhas, F. M.	2002	Synaptobothrioides sardinellae n. g., n. sp. (Digenea: Hemiuridae) from the blacktip sardinella Sardinella melanura (Clupeidae) off Fiji, and records of two other hemiuroids in Fijian waters		
+129189	Perez-del Olmo, Gibson, Fernandez, Sanisidro, Raga & Kostadinova.	2006	Descriptions of Wardula bartolii n. sp. (Digenea: Mesometridae) and three newly recorded accidental parasites of Boops boops L. (Sparidae) in the NE Atlantic. Systematic Parasitology    Volume: 63    Issue: 2    Pages: 97-107		
+129334	Russel-Pinto & Bartoli.	2002	Cercaria sevillana n sp, a new cercaria (Digenea: Microphallidae) from Nassarius reticulatus (L) (Mollusca: Prosobranchia) in Portugal. Systematic Parasitology 53 (3): 175-182		
+128918	Machida & Araki.	2002	Three New Species of Digenean Trematodes Found in Deep-sea Fishes of Japan and Adjacent Waters. Bulletin of the National Science Museum Series A (Zoology) 28 (4): 195-200		
+128919	Machida, Kamegai & Kuramochi.	2006	Zoogonidae (Trematoda, Digenea) from Fishes of Japanese Waters. Bulletin of the National Science Museum Series A (Zoology) Volume: 32 Issue: 3 Pages: 95-104		
+128921	Machida.	2003	Additional Two Species of Digenean Trematodes from Mullet of Southern Japan. Bulletin of the National Science Museum Series A (Zoology) 29 (3): 125-129		
+128967	Mendoza-Garfias & Perez-Ponce De Leon.	2005	Phyllodistomum centropomi sp. n. (Digenea: Gorgoderidae), a parasite of the fat snook, Centropomus parallelus (Osteichthyes: Centropomidae), in the Papaloapan River at Tlacotalpan, Veracruz State, Mexico. Zootaxa 1056 : 43-51		
+129397	Shih, Liu & Qiu	2004	Digenean Fauna in Marine Fishes from Taiwanese Waters with the description of a New Species, Lecithochirium tetraorchis sp. nov.		
+128163	Bray & Cribb.	2004	Stephanostomum tantabiddii n. sp. (Digenea: Acanthocolpidae) from Carangoides fulvoguttatus (Forsskål, 1775) (Perciformes: Carangidae), from Ningaloo Reef, Western Australia. Zootaxa 457 : 1-8		
+128164	Bray, R. A.; Cribb, T. H.	2005	Two new hemiurine species (Digenea: Hemiuridae) from Spratelloides robustus Ogilby (Clupeiformes: Clupeidae) off south-western Australia and records of Parahemiurus merus (Linton, 1910) from Australian and New Caledonian waters		
+128165	Bray & Cribb.	2006	Stephanostomum talakitok n. sp. (Digenea: Acanthocolpidae) from Gnathanodon speciosus (Perciformes: Carangidae) from Ningaloo Reef, Western Australia. Zootaxa Volume: 1104 Pages: 59-68		
+128871	Liu & Yang.	2002	Folia Parasitologica (Ceske Budejovice) 49 (2): 93-95		
+128166	Bray & Justine	2006	Prosorhynchus maternus sp. n.(Digenea: Bucephalidae) from the Malabar grouper Epinephelus malabaricus (Perciformes: Serranidae) off New Caledonia		
+128922	Machida.	2004	Four New Species of Digenean Trematodes from Wrasses of Southern Japan and Neighboring Waters. Bulletin of the National Science Museum Series A (Zoology) 30(3) : 105-111		
+130494	Abdou, Dronen & Blend.	2006	Karyakartia egyptensis n. sp. (Digenea: Lepocreadiidae) from the Jarbua Terapon, Terapon jarbua (Forsskål)(Perciformes: Terapontidae), from the Red Sea and emendation of Karyakartia. Journal of Parasitology    Volume: 92    Issue: 1    Pages: 73-76		
+130567	Bilqees, F.M.; Khatoon, N.	2003	<i>Stromaturus karachiensis</i> n.gen. n.sp. from the fish <i>Stromateus niger</i> of Karachi coast. Pakistan Journal of Zoology 35 (1): 25-28.		
+113427	Skinner, R.H.	1975	Parasites of the striped mullet, Mugil cephalus, from Biscayne Bay, Florida, with descriptions of a new genus and three new species of Trematodes.		
+171150	Madhavi, R.	2011	Checklist of digenean trematodes reported from Indian marine fishes		
+175641	Laskowski, Z.; Jeżewski, W.; Zdzitowiecki, K.	2013	Description of a new opecoelid trematode species from nototheniid fish in the Beagle Channel (Sub-Antarctica		
+200066	Fernandez, J., & Duran, L.	1985	Aporocotyle australis n. sp.(Digenea: Sanguinicolidae), parásito de Merluccius australis (Hutton 1872) en Chile y su relación con la filogenia de Aporocotyle Odhner, 1900 en Merluccius spp.		
+200088	Villalba, C., & Fernández, J	1986	Tres nuevas especies de Aporocotyle Odhner, 1900 (Digenea: Sanguinicolidae) parasitas de Genypterus spp. en Chile (Pisces: Ophidiidae).		
+200067	Tantalean, M., & Martínez, R.	1990	Aporocotyle garciai n. sp.(Digenea: Sanguinicolidae), parásito de Genypterus sp. de la costa peruana		
+200103	Holmes, J. C.	1971	Habitat segregation in sanguinicolid blood flukes (Digenea) of scorpaenid rockfishes (Perciformes) on the Pacific Coast of North America.		
+200114	Smith, J. W.	1967	Aporocotyle margolisi n. sp.(Digenea: Aporocotylidae) from Merluccius productus.		
+200122	Parukhin, A. M	1984	New trematode species from commercial fish of the Indian Ocean		
+200134	Yamaguti, S	1970	Digenetic trematodes of Hawaiian fishes.		
+200139	Williams, H. H.	1958	The anatomy of Aporocotyle spinosicanalis sp. nov. (Trematoda: Digenea) from Merluccius merluccius (L.)		
+200145	Ichihara, A	1970	A new blood fluke Aporocotyle theragrae n. sp.(digenetic trematode: Aporocotylidae) from a marine fish, Theragra chalcogramma.		
+200137	Parukhin, A. M., & Tkachuk, L. P.		New species of trematodes from fish in the Indian Ocean		
+200175	Herbert, B. W.; Shaharom-Harrison, F. M.; Overstreet, R. M.	1994	Description of a new blood-fluke, Cruoricola lates n. g., n. sp. (Digenea: Sanguinicolidae), from sea-bass Lates calcarifer (Bloch, 1790) (Centropomidae)		
+131185	Shaikh, Shaik, Shaik & Abassi.	2002	Sterrhurus tetradontus sp. n. (Trematoda: Hemiuriidae: Sterrhurinae) from the fish Tetradon lunaris (Bl. Schin of Karachi). Sterstein glaciation, Upper Austria. Proceedings of Parasitology 33: 81-86		
+130981	Liu & Yang.	1952	Two New Species of Pseudohapladena Yamaguti, (Digenea: Waretrematidae) from Mugilid Fish from the Taiwan Straits, China		
+130983	Liu.	2002	Liu. 2002. Journal of Oceanography in Taiwan Strait 21 (1): 37-44		
+130767	Hall & Cribb.	2004	Ptychogyliauchen, a new genus of Gyliauchenidae (Platyhelminthes : Digenea) from siganid fishes of the Indo-West Pacific. Invertebrate Systematics 18(5) : 607-625		
+130602	Bray & Cribb.	2002	Lepocreadiinae lepocreadiids (Digenea) from tetraodontiform fishes in the waters off Tasmania, Queensland and Moorea, French Polynesia. Acta Parasitologica 47 (1): 6-13		
+130603	Bray & Cribb.	2002	Further observations on the Enenteridae Yamaguti, 1958 (Digenea, Lepocreadioidea) of the Indo-West Pacific region, including a new species from Western Australia. Acta Parasitologica 47 (3): 208-223		
+130521	Al-Bassel, D.A.M.L.	2002	Digeneans infecting the striped red mullet (Mullus surmuletus) from Egypt Egypt. J. Zoology 38: 317-325		
+130568	Bilqees FM, Khatoon N, Khan A.	2002	<i>Astioglossimetra karachiensis</i> n. gen., n. sp. (Trematoda: Plagiorchiidae: Astiotrematinae) from the Marine Turtle <i>Chelonia mydas</i> of Karachi Coast. Turkish Journal of Zoology 26(3): 279-282.		
+129274	Rekha, R. Y.; John, M. V.	2004	Dinurus ivanosi sp. nov. (Digenea: Hemiuridae) from the stomach of dolphin fish, Coryphaena hippurus , caught off the Kerala Coast, India		
+129365	Saoud, M.F.A.; Nahhas, F.M.; Al Kuwairi, K.S.R.; Ramadan, M.M.	2002	Helminth parasites of fishes from the Arabian Gulf: 10. Trematodes of the genus Stephanostomum Looss, 1899 (Digenea: Acanthocolpidae Luhe, 1901), with description of Stephanostomum qatarense n.sp. and redescription of Stephanostomum triacanthi Madhavi, 1976 Riv. Parassitol. 19(63): 87-103		
+128947	Martorelli, S. R.; Fredensborg, B. L.; Mouritsen, K. N.; Poulin, R.	2004	DESCRIPTION AND PROPOSED LIFE CYCLE OF MARITREMA NOVAEZEALANDENSIS N. SP. (MICROPHALLIDAE) PARASITIC IN RED-BILLED GULLS, LARUS NOVAEHOLLANDIAE SCOPULINUS, FROM OTAGO HARBOR, SOUTH ISLAND, NEW ZEALAND		
+128880	Liu	2002	Lasiotocus lizae sp. n. (Digenea: Monorchiidae), a new trematode from marine fish in the Taiwan Straits, China		
+129050	Nahhas, Nasser & Tam.	2004	Digenetic trematodes of marine fishes from Suva, Fiji: families: Acanthocolpidae, Lepocreadiidae, Bivesiculidae, Zoogonidae, Monorchiidae and description of a new species. Rivista di Parassitologia 21(1) : 33-48		
+129051	Nahhas, Tran & Nguyen.	2003	Digenetic trematodes of marine fishes from Suva, Fiji (Cryptogonimidae) including description of a new species. Acta Parasitologica 48 (3): 176-181		
+128879	Liu, S.-F.; Wang, Y.-H.; Peng, W.-F.; Yu, S.-Z.; Yang, W.-C.	2004	Saccocoelium megasacculum n. sp., a new haploporid trematode from Liza carinatus in the Taiwan Strait		
+128106	Bott & Cribb	2005	Prosorhynchoides lamprelli n. sp (Digenea : Bucephalidae) from the brassy trevally, Caranx papuensis (Teleostei : Carangidae), from off Lizard Island on the Great Barrier Reef, Australia		
+128167	Bray & Kuchta.	2006	Digeneans from deep-sea marine teleosts off the Outer Hebrides, Scotland, including the description of Brachyenteron helicoleni sp. nov. (Zoogonidae). Acta Parasitologica    Volume: 51    Issue: 3    Pages: 169-175		
+128168	Bray, R. A.; Reimer, L. W.	2004	Two Species of Stephanostomum Looss, 1899 (Digenea: Acanthocolpidae) from Marine Fishes off Namibia, Including S. Beukelaardori n. sp		
+127966	Aken’Ova, T. O. L.; Cribb, T. H.; Bray, R. A.	2005	Helicometra Odhner, 1902 (Digenea: Opecoelidae) in Australian waters: problems of species identification and a description of H. sprenti n. sp		
+168606	Bullard, S. A.	2012	A New Aporocotylid (Digenea) Species from Blood Vascular System of Gag Grouper, Mycteroperca microlepis (Perciformes: Serranidae), off Alabama, with an Emendation of Pearsonellum Overstreet & Køie, 1989		
+197866	Trieu, N.; Cutmore, S. C.; Miller, T. L.; Cribb, T. H.	2015	A species pair of Bivesicula Yamaguti, 1934 (Trematoda: Bivesiculidae) in unrelated Great Barrier Reef fishes: implications for the basis of speciation in coral reef fish trematodes		
+171321	Chakrabarti, S.	2012	On some hemiurid trematode parasites and description of Halipagus muradabadensis n.sp (Hemiuridae : Halipaginae) from Uttar Pradesh, India. 		
+130575	Bott & Cribb.	2005	Grammatorcynicola ng (Bucephalidae: Dolichoenterinae) from Grammatorcynus s		
+128698	Jones, Grutter & Cribb	2003	Rhipidocotyle labroidei n. sp.(Digenea: Bucephalidae) from Labroi-des dimidiatus (Valenciennes)(Labridae)		
+128881	Liu, S	2003	Two new species of Haplosplanchidae (Digenea) from Liza carinatus from the Taiwan Straits, China.		
+128052	Bartoli, Bray & Gibson	2006	Four closely related but forgotten species of Rhipidocotyle Diesing, 1858 (Digenea: Bucephalidae) in fishes from European seas		
+128053	Bartoli, Gibson & Bray	2006	Prosorhynchoides gracilescens (Rudolphi, 1819) (Digenea: Bucephalidae) from Lophius piscatorius L. is a species complex: a redescription of this species (sensu stricto) from the western Mediterranean and the description of P. borealis n. sp. from the northern North-East Atlantic		
+168605	Sailaja, B. & R. Madhavi.	2012	Thryssatrema hanumantharaoi n. gen., n. sp. (Digenea: Fellodistomidae) from the longjaw thryssa, Thryssa setirostris (Clupeiformes: Engraulidae), of the Visakhapatnam coast, Bay of Bengal		
+128577	Hassanine.	2006	Trematodes from Red Sea fishes: Pachycreadium lethrini sp. nov. (Opecoelidae Ozaki, 1925) and Pseudometadena aegyptensis sp. nov. (Cryptogonimidae Ward, 1917), with a review of their genera. Acta Parasitologica    Volume: 51    Issue: 3    Pages: 176-181		
+141248	Overstreet, R. M., J. O. Cook, and R. W. Heard.	2009	Trematoda (Platyhelminthes) of the Gulf of Mexico,		
+200193	Maillard, C., & Ktari, M. H.	1977	[Hyperandrotrema cetorhini ngn sp.(Trematoda, Sanguinicolidae) parasite of the circulatory system in Cetorhinus maximus (Selachii)(author's transl)].		
+200200	Madhavi, R.; Rao, K. H.	1970	Orchispirium heterovitellatum gen. et sp. n. (Trematoda: Sanguinicolidae) from the Ray Fish, Dasyatis imbricatus Day, from Bay of Bengal		
+200202	Ogawa, K., & Egusa, S.	1986	Two new species of Paradeontacylix MCINTOSH, 1934 (trematoda: Sanguinicolidae) from the vascular system of a cultured marine fish, Seriola purpurascens.		
+200234	Oguro, Y.	1938	A new blood flukes, Amphiorchis lateralis nov. sp.(Spirorchiidae) found in a marine turtle in Japan		
+200235	Manter, H. W.; Larson, M. I.	1950	Two New Blood Flukes from a Marine Turtle, Caretta caretta		
+200236	Dailey, M. D.; Fast, M. L.; Balazs, G. H.	1991	Carettacola hawaiiensis n. sp. (Trematoda: Spirorchidae) from the Green Turtle, Chelonia mydas, in Hawaii		
+200240	Goodman, J. D.	1987	A New Blood Fluke, Hapalorhynchus beadlei n. sp. (Spirorchiidae), and a Note on Allossostomoides (Paramphistomidae), in Pelusios williamsi lutescens from Uganda		
+200227	Overstreet, R.; Koie, M.	1989	Pearsonellum-Corventum, Gen-Nov Et Sp-Nov (Digenea, Sanguinicolidae), in Serranid Fishes From the Capricornia Section of the Great-Barrier-Reef		
+200229	Bray, R. A., Cribb, T. H., & Littlewood, D. T.	2012	Sasala nolani gen. n., sp n.(Digenea: Aporocotylidae) from the body-cavity of the guineafowl puffer fish Arothron meleagris (Lacepede)(Tetraodontiformes: Tetraodontidae) from off Moorea, French Polynesia.		
+200246	Dailey, M., Fast, M., & Balazs, G	1993	Hapalotrema dorsopora sp. n.(Trematoda: Spirorchidae) from the heart of the green turtle (Chelonia mydas) with a redescription of Hapalotrema postorchis.		
+176699	Cribb, T. H.; Miller, T. L.; Bray, R. A.; Cutmore, S. C.	2014	The sexual adult of Cercaria praecox Walker, 1971 (Digenea: Fellodistomidae), with the proposal of Oceroma n. g		
+176707	Presswell, B.; Blasco-Costa, I.; Kostadinova, A.	2014	Two new species of Maritrema Nicoll, (Digenea: Microphallidae) from New Zealand: morphological and molecular characterisation		
+176734	Bilqees, F.M.; Khalil, B.; Khan, A.; Haseeb, M.F. 	2012	Neodiploproctodaeum karachiensis n. gen., n. sp. (Digenea: Lepocreadiidae) from the fish Lagocephalus lunaris (Tetradontiformes: Tetradontidae) from Karachi Coast, Pakistan		
+176736	Hernández-Orts, J. S.; Montero, F. E.; Crespo, E. A.; García, N. A.; Raga, J. A.; Aznar, F. J.	2012	A New Species of Ascocotyle (Trematoda: Heterophyidae) from the South American Sea Lion, Otaria flavescens, Off Patagonia, Argentina		
+163852	Miller, T.L. & Cribb, T.H. 	2007	Two new cryptogonimid genera Beluesca n. gen. and Chelediadema n. gen. (Digenea: Cryptogonimidae) from tropical Indo-West Pacific Haemulidae (Perciformes)		
+163896	Hunter, W. S.	1961	A new monostome, Pleurogonius malaclemys, n sp. (Trematoda: Pronocephalidae) from Beaufort, North Carolina		
+150552	Gaevskaya, A.V.,	2002	New data on trematodes of the families Opecoelidae and Accacoelidae Accacoeliidae from fishes in Atlantic Ocean and its seas. Parazitologiya (St. Petersbg.) 36, 219-223.		
+150553	Marigo, J.; Vicente, A. C. P.; Valente, A. L. S.; Measures, L.; Tursionis, C. P. S.; Seymouri, S. N. C.	1905	Santos (2008) Redescription of Synthesium pontoporiae n. comb. with notes on		
+194858	Sogandares-Bernal, F.	1959	Four trematodes from the black skimmer, Rynchops nigra Linn., (Aves: Rynchopidae), in Gasparilla Sound, Florida, including the description of a new genus and two new species		
+168600	Bayoumy E.M. & Abu-Taweel G.M.	2012	Magnibursatus diplodii n. sp. (Derogenidae: Halipeginae) from white sea bream, Diplodus sargus, Off Sirt, Libya		
+175036	Raychard, K. A.; Blend, C. K.; Dronen, N. O.	2008	New Species of Prodistomum Linton, 1910 (Digenea: Lepocreadiidae) From the Longtail Bass, Hemanthias leptus (Ginsburg, 1952) In The Bay of Campeche, Gulf of Mexico		
+171509	Curran, S. S.; Blend, C. K.; Overstreet, R. M.	2009	Nagmia rodmani n. sp., Nagmia cisloi n. sp., and Probolitrema richiardii (López, 1888) (Gorgoderidae: Anaporrhutinae) from Elasmobranchs in the Gulf of California, Mexico		
+193037	Nolan, M. J.; Miller, T. L.; Cutmore, S. C.; Cantacessi, C.; Cribb, T. H.	2014	Cardicola beveridgei n. sp. (Digenea: Aporocotylidae) from the mangrove jack, Lutjanus argentimaculatus (Perciformes: Lutjanidae), and C. bullardi n. sp. from the Australian spotted mackerel, Scomberomorus munroi (Perciformes: Scombridae), from the northern Great Barrier Reef		
+198379	Holmes, J. C.	1971	Two New Sanguinicolid Blood Flukes (Digenea) from Scorpaenid Rockfishes (Perciformes) of the Pacific Coast of North America		
+198385	Gu C.D., Shen J.W.	1976	Report on some gasterostomatous trematodes (Family Bucephalidae Poche, 1907) from marine fishes in Dong Hai and Nan Hai, China.		
+198400	Gupta, V.; Jain, N.	1991	Four new trematodes of fishes from Bay of Bengal, Puri Orissa, India.		
+198401	Ahmad J.	1981	Digenetic trematodes from marine fishes from the bay of bengal india 16		
+198402	Wang, Y. Y.	1987	Digenetic trematodes (Hemiuridae) of marine fishes from Fujian Province		
+198404	Ahmad, J.	1980	On five new trematodes of the genus Uterovesiculurus Skrjabin et Guschanskaja, 1954 (Trematoda, Hemiuridae) from marine fishes of the Bay of Bengal.		
+198405	Shen, J. W.	1989	Studies on the digenetic trematodes of fishes from Jiaozhou Bay.		
+198406	Shen, J. W.	1987	Digenetic trematodes of fishes from the East China Sea II. Description of a new genus and seven new species of Hemiurida.		
+198399	Walker, J. C.	1971	A fellodistomid cercaria from Mytilus planulatus		
+198403	Wang, P. Q.	1982	Hermuroid trematodes of marine fishes from Fujian Province, China.		
+198414	Wang, P. Q.	1985	Note on some species of gasterostome trematodes of fishes mainly from Fujian Province		
+198417	Gu, C., & Shen, J.	1983	Digenetic trematodes of fishes from the Xisha Islands, Guangdong Province, China. I.		
+198426	Shen, J. W.	1990	Digenetic trematodes of marine fishes from Hainan Island		
+198447	Salman, A. S.; Srivastava, H. D.	1990	New and previously described digenetic trematodes (Plagioporinae Manter, 1947) from Indian marine fishes		
+198416	Bartoli P., Overstreet R.M., Gibson D.I.	2003	First report of a species of Folliculovarium Gu and Shen, 1983 (Bucephalidae: Prosorhynchinae) from European marine waters, with the description of F. mediterraneum n. sp.		
+198410	Shen, J. W., & Qiu, Z. Z.	1995	Studies on the trematodes of fishes from the Yellow Sea and the Bo Hai Sea.		
+198451	Shen, J. W.	1987	Digenetic trematodes of fishes from the East China Sea. III. Five new species of the families Bucephalidae, Fellodistomidae, Zoogonidae and Monorchiidae.		
+198452	Singh, R. B.; Gupta, P. C.	1985	Sterrhurus pritchardae sp.nov. (Digenea: Hemiuridae) from the stomach of a marine fish, Elops saurus (Linnaeus) from Puri Coast, Bay of Bengal		
+130510	Aken'Ova; Cribb	2003	Scorpidotrema longistipes ng, n. sp.(Digenea: Opecoelidae) from Scorpis georgiana (Teleostei: Scorpididae) from southern		
+172507	Bullard, S. A.; Snyder, S. D.; Jensen, K.; Overstreet, R. M.	2008	New genus and species of Aporocotylidae (Digenea) from a basal actinopterygian, the American paddlefish, Polyodon spathula, (Acipenseriformes: Polyodontidae) from the Mississippi Delta		
+172508	Bursey, C. R.; Goldberg, S. R.; Kraus, F.	2008	Saurokoilophilia kinsellai n. gen., n. sp. (Trematoda: Hemiuridae) in the lizard Papuascincus stanleyanus (Sauria: Scincidae) from		
+172495	Blasco-Costa, I.; Montero, F. E.; Gibson, D. I.; Balbuena, J. A.; Raga, J. A.; Shvetsova, L. S.; Kostadinova, A.	2008	A revision of the species of Saturnius Manter, 1969 (Digenea: Hemiuridae), parasites of mullets (Teleostei: Mugilidae)		
+172499	Bray, R. A.; J-Justine, L.	2008	Dupliciporia lanterna n. sp (Digenea : Zoogonidae) from Priacanthus hamrur (Perciformes : Priacanthidae) and additional zoogonids parasitizing fishes from the waters off New Caledonia		
+196052	Bilqees, F.M., Khatoon, N. & Muti-ur-Rehman	2007	Two species of a new trematode genus Thynotrema (Spirorchiidae: Coeuritrematinae) from the fish Thynnus thunnia of Karachi coast, Pakistan		
+170987	Bilqees, F. M.; Khatoon, N.; Nawa, Y.	2011	Conica trilobata n.gen., n.sp. (Trematoda: Hemiuridae: Dinurinae) from the fish, Otolithus argenteus, of Karachi Coast		
+170997	Carreras-Aubets, M.; Repullés-Albelda, A.; Kostadinova, A.; Carrassón, M.	2011	A new cryptic species of Aponurus Looss, 1907 (Digenea: Lecithasteridae) from Mediterranean goatfish (Teleostei: Mullidae)		
+171060	Downie, A. J.; Cribb, T. H.	2011	Phylogenetic studies explain the discrepant host distribution of Allopodocotyle heronensis sp. nov. (Digenea, Opecoelidae) in Great Barrier Reef serranids		
+170626	Bullard, S. A.	2010	Littorellicola billhawkinsi n. gen., n. sp. (Digenea: Aporocotylidae) from the myocardial lacunae of Florida pompano, Trachinotus carolinus (Carangidae) in the Gulf of Mexico; with a comment on the interrelationships and functional morphology of intertrabecular aporocotylids		
+170618	Bilqees, F. M.; Khalil, B.; Khatoon, N.; Rerman, M.; Perveen, S.	2010	Tubulovesicula dorabi, New Species (Trematoda: Hemiuridae Looss, 1899: Dinurinae Looss, 1907) From the Fish Chirocentous dorab (Forsk.) of Karachi Coast		
+170584	Bilqees, F. M.; Khalid, B.; Talat, R.	2010	Caudovitellaria lobata n.gen; n.sp. (Digenea; Hemiuridae Lu He, 1901: Halipeginae Ejsmont, 1931) from the fish Therapon jarbua (Forsk) of Karachi coast		
+170628	Bullard, S. A.	2010	A New Species of cardicola Short, 1953 (Digenea: Aporocotylidae) from the Heart and Branchial Vessels of Two Surfperches (Perciformes: Embiotocidae) in the Eastern Pacific Ocean Off California		
+170711	Hunter, J. A.; Ingram, E.; Adlard, R. D.; Bray, R. A.; Cribb, T. H.	2010	A cryptic complex of Transversotrema species (Digenea: Transversotrematidae) on labroid, haemulid and lethrinid fishes in the Indo-West Pacific Region, including the description of three new species		
+199279	Platt, T. R.; Blair, D.	1996	Two New Species of Uterotrema (Digenea: Spirorchidae) Parasitic in Emydura krefftii (Testudines: Chelidae) from Australia		
+199280	Cribb, T.; Bray, R.	1999	A review of the Apocreadiidae Skrjabin, 1942 (Trematoda: Digenea) and description of Australian species		
+194835	Short, R. B.; Holliman, R. B.	1961	Austrobilharzia penneri, a New Schistosome from Marine Snails		
+190871	Fischthal, J. H.	1980	Some Digenetic Trematodes of Marine Fishes from Israel's Mediterranean Coast and Their Zoogeography, Especially Those from Red Sea Immigrant Fishes		
+190896	Galil, B.	2007	Seeing Red: Alien species along the Mediterranean coast of Israel		
+171157	McNamara, M.K.A.; Cribb, T.H.	2011	Taxonomy, host specificity and dietary implications of Hurleytrematoides (Digenea: Monorchiidae) from chaetodontid fishes on the Great Barrier Reef. Parasitology International, 60(3), 255–269.		
+171106	Jeżewski, W.; Zdzitowiecki, K.; Laskowski, Z.	2011	Description of Neolepidapedoides subantarcticus sp. nov. (Digenea, Lepocreadiidae) from sub-Antarctic notothenioid fishes		
+171166	Muñoz, G.; Bott, N. J.	2011	A new species of Prosorhynchoides (Trematoda, Bucephalidae) from the intertidal rocky zone of central Chile		
+171179	Ogawa, K.; Ishimaru, K.; Shirakashi, S.; Takami, I.; Grabner, D.	2011	Cardicola opisthorchis n. sp. (Trematoda: Aporocotylidae) from the Pacific bluefin tuna, Thunnus orientalis (Temminck & Schlegel, 1844), cultured in Japan		
+170814	Raphael Orelis-Ribeiro, Carlos F. Ruiz, Stephen S. Curran & Stephen A. Bullard	2013	BLOOD FLUKES (DIGENEA: APOROCOTYLIDAE) OF EPIPELAGIC LAMNIFORMS:  REDESCRIPTION OF HYPERANDROTREMA CETORHINI FROM BASKING SHARK  (CETORHINUS MAXIMUS) AND DESCRIPTION OF A NEW CONGENER FROM SHORTFIN  MAKO SHARK (ISURUS OXYRINCHUS) OFF ALABAMA. Journal of Parasitology, 99(5),		
+170872	Nolan, M. J.; Cribb, T. H.	2010	Two new species of flukes (Digenea: Bucephalidae: Prosorhynchinae) from the Western Moray Gymnothorax woodwardi (Anguilliformes: Muraenidae) from off Western Australia, with replacement of the pre-occupied generic name Folliculovarium Gu & Shen, 1983		
+170883	Parker, J. H.; Curran, S. S.; Overstreet, R. M.; Tkach, V. V.	2010	Examination of Homalometron elongatum Manter, 1947 and Description of a New Congener from Eucinostomus currani Zahuranec, 1980 in the Pacific Ocean off Costa Rica		
+171834	Miller, T. L.; Cribb, T. H.	2009	Gynichthys diakidnus n. g., n. sp. (Digenea: Cryptogonimidae) from the grunt Plectorhinchus gibbosus (Lacépède, 1802) (Perciformes: Haemulidae) off the Great Barrier Reef, Australia		
+171772	McNamara, M.K.A.; Cribb, T.H.	2009	Hurleytrematoides justinei n. sp. (Digenea: Monorchiidae) from Valentinni’s sharpnose puffer, Canthigaster valentini (Bleeker) (Tetraodontiformes: Tetraodontidae) from Heron Island, Queensland, Australia.		
+171836	Miller, T.L.; Downie, A.J.; Cribb, T.H.	2009	 Morphological disparity despite genetic similarity; new species of Lobosorchis Miller & Cribb, 2005 (Digenea: Cryptogonimidae) from the Great Barrier Reef and the Maldives		
+176698	Bullard, S. A.	2014	Blood Flukes (Digenea: Aporocotylidae) of Elopomorphs: Emendation of Paracardicoloides , Supplemental Observations of Paracardicoloides yamagutii , and a New Genus and Species from Ladyfish, Elops saurus , (Elopiformes: Elopidae) in the Gulf of Mexico		
+176710	Andres, M. J.; Overstreet, R. M.	2013	A new species of Podocotyloides (Digenea: Opecoelidae) from the grey conger eel, Conger esculentus, in the Caribbean Sea		
+176803	Gupta, R.; Johri, S.; Chandra, S.; Saxena, A. M.	2011	A discussion of the trematode genus Pleorchis Railliet, 1896 (Digenea: Pleorchiidae Poche, 1926) with description of two new species from the intestine of marine fishes from the Indian Ocean		
+176713	Bray, R. A.; Justine, J.-L.	2013	Three species of opisthomonorchiine monorchiids (Digenea) in Carangoides spp. (Perciformes: Carangidae) from off New Caledonia, with a description of Opisthomonorchis dinema n. sp		
+173089	Kohn, A.; Justo, M.C.N.	2008	Didymocystis lamotheargumedoi n. sp. (Digenea:Didymozoidae) a parasite of three species of scombrid fishes. [Didymocystis lamotheargumedoi n. sp. (Digenea:Didymozoidae) parásito de tres especies de peces escómbridos]		
+196584	Blend, C.K. & Dronen, N.O.	2015	Description of a new species of Podocotyle Dujardin, 1845 (Digenea: Opecoelidae: Plagioporinae) from the cusk-eel, Luciobrotula corethromycter Cohen, 1964 (Ophidiiformes: Ophidiidae), from the Gulf of Mexico and Caribbean Sea.		
+197865	Antar, R., Georgieva, S., Gargouri, L. & Kostadinova, A.	2015	Molecular evidence for the existence of species complexes within Macvicaria Gibson & Bray, 1982 (Digenea: Opecoelidae) in the western Mediterranean, with descriptions of two new species		
+170237	Calhoun, D. M.; Curran, S. C.; Pulis, E. E.; Provaznik, J. M.; Franks, J. S.	2013	Hirudinella ventricosa (Pallas, 1774) Baird, 1853 represents a species complex based on ribosomal DNA		
+196764	Chai, J.-Y.; Han, E.-T.; Choi, D.; Seo, M.; Kim, J.-L.; Guk, S.-M.; Shin, E.-H.; Lee, S.-H.	2007	A new gymnophallid trematode from the intestine of mice infected with metacercariae from the razor clam Sinonovacula constricta		
+196970	Dronen, N. O.	2009	Austrodiplostomum ostrowskiae n. sp. (Digenea: Diplostomidae: Diplostominae) from the Double-crested Cormorant, Phalacrocorax auritus (Phalacrocoracidae) from the Galveston, Texas Area of the Gulf of Mexico, U.S.A		
+199523	Machida, M & Uchida, K.	2001	Digenean Trematodes from Pomacanthid Fishes of Japan and Palau		
+199525	Nolan, M. J.& Cribb, T. H.	2006	Cardicola Short, 1953 and Braya n. gen. (Digenea : Sanguinicolidae) from five families of tropical Indo-Pacific fishes		
+199526	Nolan, M. J.; Curran, S. S.; Miller, T. L.; Cutmore, S. C.; Cantacessi, C. & Cribb, T. H.	2015	Dollfustrema dura n. sp. and Heterobucephalopsis perarduum n. sp. (Digenea: Bucephalidae) from the giant moray eel, Gymnothorax javanicus (Bleeker) (Anguilliformes: Muraenidae), and proposal of the Heterobucephalopsinae n. subfam		
+199515	Aguirre-Macedo, M. L.& Scholz, T.	2005	CULUWIYA CICHLIDORUM N. SP. (DIGENEA: HAPLOPORIDAE) FROM THE BLACK-BELT CICHLID VIEJA MACULICAUDA (PISCES: CICHLIDAE) FROM NICARAGUA		
+199519	Bullard, S. A. & Overstreet, R. M.	2004	TWO NEW SPECIES OF CARDICOLA (DIGENEA: SANGUINICOLIDAE) IN DRUMS (SCIAENIDAE) FROM MISSISSIPPI AND LOUISIANA		
+199520	Bullard, S. A.; Overstreet, R. M. & Carlson, J. K.	2006	Selachohemecus benzi n. sp. (Digenea: Sanguinicolidae) from the blacktip shark Carcharhinus limbatus (Carcharhinidae) in the northern Gulf of Mexico		
+199522	El-Serafy, S.S. ;  Ramadan , M.M. ;  Morsy, G.H. & Lashein, G.H.A.	2002	HEMIURUS SHALABYI S¥. N (DIGENEA: HEMIURIDAE) FROM THE CARANGID FISH, TRACHURUSINDICUS, IN LAKE TIMSAH, EGYPT.		
+199516	BILQEES, F. M., & KHATOON, N.	2004	Neoeneuterum minutum N. Gen. N. Sp.(Trematoda: Opecaeliidae: Enenterinae) from the Fish Thynnus thunnia of Karachi Coast.		
+199517	Bilqees, F. M., Feroze, R., & Shaukat, N.	2004	Hysterolecitha flaticaudata n. sp.(Digenea: Hemiuridae: Hysterolecithinae) from the fish Engraulis purava of Karachi Coast.		
+199524	Nolan, M. J. & Cribb, T. H.	2005	CHAULIOLEPTOS HAYWARDI N. GEN., N. SP. (DIGENEA: SANGUINICOLIDAE) FROM FILIMANUS HEPTADACTYLA (PERCIFORMES: POLYNEMIDAE) OF MORETON BAY, AUSTRALIA		
+199528	Shaukat, N., & Bilqees, F. M.	2007	LECITHOCLADIUM MAGNASOMA N. SP.(DIGENEA: HEMIURIDAE LUHE, 1901) FROM THE FISH STROMATEUS SINENSIS OF KARACHI COAST.		
+199529	Snyder, S. D.; &Tkach, V. V.	2007	NEOSYCHNOCOTYLE MAGGIAE, N. GEN., N. SP. (PLATYHELMINTHES: ASPIDOGASTREA) FROM FRESHWATER TURTLES IN NORTHERN AUSTRALIA		
+199531	Sohn, W. M., Na, B. K., Ryang, Y. S., Ching, H. L., & Lee, S. H.	2007	Parvatrema chaii n. sp.(Digenea: Gymnophallidae) from mice experimentally infected with metacercariae collected from surf-clam, Mactra veneriformis.		
+199518	Bilqees, F. M.; Bushra Khalil; Haseeb, M. F. & Muti-Ur-Rehman	2009	Prosorchis macroacetabulum n.sp. (Trematoda: Hemiuridae) from the fish Stromateus niger (Bl.) of Karachi coast, Pakistan.		
+199521	Dronen, N. O.; Blend, C. K. & Davis, A. J.	2005	Caiguiria himantopae n. sp. (Digenea: Heterophyidae) and Other Endohelminths from the Black-Necked Stilt, Himantopus mexicanus (Recurvirostridae), from the Galveston Area of the Texas Gulf Coast, U.S.A		
+199527	Shaikh, G. S., Shaikh, A. A., & Bilqees, F. M.	2000	GLOSSIMETRA LOBATA: SP. N.(TREMATODA: PLAGIORCHIIDAE: ASTIOTREMATINAE) FROM CHELONIA MYDAS OF KARACHI COAST.		
+199530	Sohn, W.-M.; Han, E.-T. & Chai, J.-Y.	2003	ACANTHOTREMA FELIS N. SP. (DIGENEA: HETEROPHYIDAE) FROM THE SMALL INTESTINE OF STRAY CATS IN THE REPUBLIC OF KOREA		
+199532	Tkach, V. V. & Snyder, S. D.	2006	Doodytrema carettochelydis n. gen., n. sp., (Digenea: Microscaphidiidae) from the Pig-Nosed Turtle, Carettochelys insculpta, (Cryptodira: Carettochelydidae) in Australia		
+199533	Lin, W. G. H., & Da-Ling, D. A. I.	2001	A NEW SPECIES OF ASPICOGASTRIDS FROM FISHES OF CHONGQING, CHINA (TREMATODA: ASPIDOGASTRATA: ASPIDOGASTRIDAE)[J].		
+200250	Dyer, W. G., Williams, E. H., Bunkley-Williams, L., & Moore, D.	1995	Some digeneans (Trematoda) of the Atlantic hawksbill turtle Eretmochelys imbricata imbricata (Testudines: Cheloniidae) from Puerto Rico.		
+200251	Luhman, M.	1935	Two New Trematodes from the Loggerhead Turtle (Caretta caretta)		
+200354	Brooks, D. R.; Mayes, M. A.	1975	Platyhelminths of Nebraska Turtles with Descriptions of Two New Species of Spirorchiids (Trematoda: Spirorchiidae)		
+198862	Curran, S. S.; Blend, C. K.; Overstreet, R. M.	2003	Anaporrhutum euzeti sp. n. (Gorgoderidae: Anaporrhutinae) from rays in the Gulf of California, Mexico.		
+198865	Hassanine, R.	2007	Trematodes from Red Sea fishes: Prosteganoderma brayi gen. nov., sp. nov. (Zoogonidae Odhner, 1902) and Forticulcita mugilis sp. nov. (Haploporidae Nicoll, 1914)		
+198870	Blasco-Costa, I.; Balbuena, J. A.; Raga, J. A.; Kostadinova, A.; Olson, P. D.	2009	Molecules and morphology reveal cryptic variation among digeneans infecting sympatric mullets in the Mediterranean		
+198873	Sheena, P.; Janardanan, K.	2007	The life cycle of Hapladena gymnocephali sp. nov. (Digenea: Haploporidae) from the bald glassy perchlet Ambassis gymnocephalus in Kerala, India		
+198876	Fernandes, B.M.M.; Cohen, S.C	2006	A new species of Intromugil Overstreet Curran, 2005 Digenea, Haploporidae from the Brazilian marine fish Mugil liza Valenciennes Perciformes, Mugilidae		
+198879	Machida, M.; Kuramochi, T.	2003	Digenean Trematodes from Clupeid Fishes of the Genus Amblygaster of Japan and the Neighboring Waters		
+198883	Canaris, A. G.; Deblock, S.	2000	Paramaritremopsis solielangi n. sp. et Microphallus kinsellai n. sp. (Digenea: Microphallidae) parasites de Charadrii (Aves) du Bélize (Amérique centrale)		
+198887	Galaktionov, K.V.	2009	[Description of the maritae and determination of the species status of Microphallus pseudopygmaeus sp. nov. (Trematoda: Microphallidae)].[Article in Russian]		
+198892	Bray, R. A.; Cribb, T. H.	2005	Overstreetia olsoni n. sp. (Digenea: Zoogonidae) from the Capricorn silverside Atherinomorus capricornensis (Woodland) (Atherinidae) off Heron Island, southern Great Barrier Reef		
+198889	Díaz, M.T,; Bashirullah, A.K.; Hernández, L.E.	2004	A new species of Microphallus (Trematoda: Microphallidae) from Venezuela		
+198891	Ramadan, M.M.; Morsy, G.H.; Lashein, G.H.A.	2003	Description of Cypseluritrema buckleyi sp. n and Lecithostaphylus ismailensis sp. n. (Trematoda: Zoogonidae) from two bony fishes in Lake Timsah, Egypt		
+198895	Liu, W.; Li, Q-K.; Shih, H-H.; Qiu, Z-Z.	2002	Meristocotyle provitellaria sp. nov. (Digenea: Meristocotylidae) from Varanus salvator in China		
+198906	Korotaeva, V.D.	1994	[2 new species of trematodes (Trematoda: Zoogonidae) from fishes in the southern portion of the Indian and Pacific oceans].[Article in Russian]		
+198912	Alarcos, A.; Etchegoin, J.; Cremonte, F.	2008	Redescription of Bacciger microacetabularis (Martorelli et Suriano, 1983) nov. comb. parasitizing Paralichthys orbignyanus (Pisces, Paralichthyidae) from Argentina		
+198903	Machida, M.; Araki, J.	1990	A new zoogonid trematode from boarfish of southern Japan		
+198918	Liu, S. F.	2003	A new species of Carassotrema Park, 1938 (Digenea: Waretrematidae). (In Chinese).		
+198927	Martin, W. E.	1973	Life history of Saccocoelioides pearsoni n. sp. and the description of Lecithobotrys sprenti n. sp. (Trematoda: Haploporidae)		
+198929	Machida, M.	1996	Digenean trematodes from mullets in Japanese and adjacent waters		
+198922	Liu, S.-F.; Zhou, L.; Yu, S.-Z.; Liu, J.	2006	A NEW SPECIES OF HAPLOPORID (DIGENEA) FROM THE SOUTH CHINA SEA		
+198965	Fischthal, J.H; Thomas, J.D	1970	Digenetic trematodes of marine fishes from Ghana: family Opecoelidae.		
+198972	Zdzitowiecki, K.	1989	Morphologic and systematic data of 3 digenetic trematode species occurring in nototheniid fishes in the environs of the South Shetlands (Antarctic)		
+198979	Al-Bassel, D.A.M.	2001	On Propycnadenoides naffari n. sp. and Proctoeces sp. from Mullus surmuletus and Serranus scriba from the Mediterranean Sea in Libya		
+198989	Barger, M. A.; Esch, G. W.	1999	Allopodocotyle chiliticorum n. sp. (Digenea: Opecoelidae) from Redlip Shiners, Notropis chiliticus, in Basin Creek, North Carolina		
+198977	Bilqees, F.M; Khatoon, N.	2004	Thynstenopera lobata n.gen. n.sp. (Opecoeliidae: Plagioporinae) Another New Trematode from the Fish Thynnus thunnia of Karachi Coast, Pakistan		
+198986	Bilqees, F.M.; Khatoon, S	2004	Podocotyle (Pedunculotrema) pakistanicus n.sp. (Trematoda: Opecoelidae: Plagioporinae) from the fish Trichiurus savala of Karachi coast		
+200016	Niewiadomska, K.	1984	Present status ofDiplostomum spathaceum (Rudolphi, 1819) and differentiation ofDiplostomum pseudospathaceum nom. nov. (Trematoda: Diplostomatidae)		
+200054	Kozicka, J., & Niewiadomska, K	1960	Tylodelphys podicipina sp. n.(Trematoda, Strigeidae) and its lifecycle.		
+200064	Smith, J. W.	1969	On Aporocotyle argentinensis n.sp. (Digenea: Sanguinicolidae) from Merluccius hubbsi, and the Phylogeny of Aporocotyle Odhner, 1900 in Hake		
+198686	Cribb, T. H.; Daintith, M.; Munday, B.	2000	A new blood-fluke, Cardicola Forsteri, (Digenea : Sanguinicolidae) of southern blue-fin tuna (Thunnus Maccoyii) in aquaculture		
+198690	Hutson, K.; Whittington, I	2006	Paradeontacylix godfreyi n. sp (Digenea: Sanguinicolidae) from the heart of wild Seriola lalandi (Perciformes: Carangidae) in southern Australia		
+198692	Bullard, S. A.; Overstreet, R. M.	2006	Psettarium anthicum sp. n. (Digenea: Sanguinicolidae) from the heart of cobia Rachycentron canadum (Rachycentridae) in the northern Gulf of Mexico		
+198683	Braicovich, P. E.; Etchegoin, J. A.; Timi, J. T.; Sardella, N. H.	2006	A new species of Cardicola Short, 1953 (Digenea: Sanguinicolidae) parasitizing the Brazilian flathead, Percophis brasiliensis Quoy et Gaimard 1824, from the coasts of Mar del Plata, Argentina		
+198691	Lakshmi, T.T; Madhavi, R	2007	Paradeontacylix megalaspium n. sp. (Digenea: Sanguinicolidae) from the carangid fish, Megalaspis cordyla of Bay of Bengal		
+198693	Nolan, M. J.; Cribb, T. H.	2005	Sanguinicola maritimus n. sp. (Digenea: Sanguinicolidae) from Labridae (Teleostei: Perciformes) of southern Australian waters		
+198694	Guidelli, G. M.; Isaac, A.; Pavanelli, G. C.	2002	Sanguinicola platyrhynchi n. sp. (Digenea: Sanguinicolidae) parasite of visceral cavity of Hemisorubim platyrhynchos (Valenciennes, 1840) (Pisces: Pimelodidae) from the floodplain of the upper Paraná River, Brazil		
+198681	Nolan, M. J.; Cribb, T. H.	2004	Two new blood flukes (Digenea: Sanguinicolidae) from Epinephelinae (Perciformes: Serranidae) of the Pacific Ocean		
+198688	Bullard, S.A.; Overstreet, R.M	2003	Elaphrobates euzeti gen. and sp. n. (Digenea: Sanguinicolidae) from Snappers (Lutjanidae) in the Gulf of Mexico		
+198700	Machida, M. & Kuramochi, T.	2000	Digenean trematodes from halfbeaks and needlefishes of Japan and adjacent waters		
+198701	Spakulova, M.; Macko, J. K.; Berrilli, F.; Dezfuli, B. S.	2002	Description of Bucephalus anguillae n. sp. (Trematoda: Bucephalidae), a Parasite of the Eel Anguilla anguilla (Anguillidae) from a Brackish Water Lagoon of the Adriatic Sea		
+200473	Blend, C. K.; Dronen, N. O.	2015	A review of the genus Helicometra Odhner, 1902 (Digenea: Opecoelidae: Plagioporinae) with a key to species including Helicometra overstreeti n. sp. from the cusk-eel Luciobrotula corethromycter Cohen, 1964 (Ophidiiformes: Ophidiidae) from the Gulf of Mexico		
+200489	Sokolov S. G.; Gordeev I. I.	2015	Paralepidapedon variabile sp. n. (Trematoda, Lepocreadioidea, Lepidapedidae) and other representatives of the genus Paralepidapedon from Antarctic fish.		
+198702	Bilqees, F.M., Khatoon, N. and Haseeb, M.F	2006	Bucephalus hexalobatus n.sp. (Gasterostomata Odhner, 1905: Bucephalidae Poche, 1907: Bucephalinae Nicoll, 1914) from the fish Pomadasys olivaceum of Karachi coast		
+198703	Maurya & Singh	2005	Bucephalus ranjeetpurai sp. nov. (Trematoda: Bucephalidae) from the intestine of a freshwater fish, Mystus tengara at Jaunpur		
+198704	Lunaschi, L. I.	2004	Two new species of bucephalids (Digenea: Bucephalidae) parasitic in freshwater fishes of Argentina		
+198705	Purivirojkul, W.; Sirikanchana, P	2006	Two species of Prosorhynchoides Dollfus, 1929 (Bucephalidae: Bucephalinae) from Mekong giant catfish (Pangasianodon gigas Chevey) from Mekong River, Chiangrai Province		
+198707	Nahhas, F.; Sey, O.; Nakahara, G.	2006	Digenetic trematodes of marine fishes from the Arabian Gulf off the coast of Kuwait. Family Bucephalidae Poche, 1907, and the description of a new species		
+198714	Zamparo, D.; Overstreet, R. M.; Brooks, D. R.	2005	A NEW SPECIES OF PETASIGER (DIGENEA: ECHINOSTOMIFORMES: ECHINOSTOMATIDAE) IN THE BROWN PELICAN, PELECANUS OCCIDENTALIS, (AVES: PELECANIFORMES: PELECANIDAE), FROM THE AREA DE CONSERVACIÓN GUANACASTE, COSTA RICA		
+198747	Chambers, C. B.; Cribb, T. H.	2006	Phylogeny, evolution and biogeography of the Quadrifoliovariinae Yamaguti, 1965 (Digenea: Lecithasteridae)		
+198725	Kostadinova, A.; Power, A. M.; Fernandez, M.; Balbuena, J. A.; Raga, J. A.; Gibson, D. I.	2003	Three species of Magnibursatus Naidenova, 1969 (Digenea: Derogenidae) from Atlantic and Black Sea marine teleosts		
+198735	Surekha, P.; Vijaya Lakshmi, C.	2005	Lecithochirium testelobatus n.sp (Digenea : Hemiuridae) from the lizard Fish, Saurida undosquamis from Andhra Pradesh Coast		
+198727	Curran, S.S.; Overstreet, R.M.; Font, W.	2002	Thometrema lotzi sp nov (Digenea, Derogenidae) from freshwater and brackish water fishes of Louisiana and Mississippi (USA)		
+198734	Surekha, P.; Vijayalakshmi, C.	2007	Lecithochirium anisotestes n.sp. (Digenea: Hemiuridae) from the Marine Lizard Fish Saurida tumbil from the Visakhapatnam Coast		
+198741	Gibson, D.I.; Bray, R.A	2003	Lecithophyllum euzeti n. sp. (Digenea: Lecithasteridae) from notacanthid fishes in the deep-waters of the Porcupine Sea Bight, north-east  Atlantic		
+198733	Bray, R. A.; Zdzitowiecki, K.	2000	Boreascotia megavesicula n. g., n. sp. (Digenea: Hemiuridae: Lecithochiriinae) in the nototheniid fish Lepidonotothen macrophthalma (Norman) from the sub-Antarctic Atlantic		
+198758	Hall, K.; Cribb, T. H	2004	Revision of Affecauda Hall & Chambers, 1999 (Digenea: Gyliauchenidae Fukui, 1929), including the description of two new species from fishes of the Indo-West Pacific		
+198760	Hall, K. A.;  Cribb, T. H	2005	Revision of Telotrema Ozaki, 1933 (Digenea : Gyliauchenidae Fukui, 1929), including the description of a new species from an acanthurid fish from the Great Barrier Reef, Queensland, Australia		
+198762	Hall, K. A.; Cribb, T. H.	2000	The status of Petalocotyle Ozaki, 1934 (Digenea: Gyliauchenidae), including the description of two new species from acanthurid fishes in Queensland, Australia		
+198739	Bray, R. A.; Cribb, T. H.	2000	The status of the genera Hysterolecithoides Yamaguti, 1934, Neotheletrum Gibson & Bray, 1979 and Machidatrema León-Règagnon, 1998 (Digenea: Hemiuroidea), including a description of M. leonae n. sp. from Australian waters		
+198740	Bray, R. A.; Cribb, T. H.	2000	A new species of Aponurus Looss, 1907 (Digenea: Lecithasteridae) in butterflyfishes (Perciformes: Chaetodontidae) from New Caledonia		
+198743	Bray, R. A.; Cribb, T. H.	2001	Lecithophyllum kitrii n. sp. (Digenea: Lecithasteridae) from Australian coral reef fishes of the genus Siganus		
+198745	Bray, R. A.; Chambers, C. B.	2000	A new macradeninine, Zebrasomatrema pichelinae n. g., n. sp. (Digenea: Lecithasteridae), from tangs (Perciformes: Acanthuridae) off the southern Great Barrier Reef, Queensland, Australia		
+199902	Price, E. W.	1932	The trematode parasites of marine mammals		
+199903	Stunkard, H. W.	1929	The Excretory System of Cryptocotyle (Heterophyidae)		

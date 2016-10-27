@@ -1,0 +1,87 @@
+AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
+125027	stella fragile nera				Italian	163039	
+125027	stella serpentina nera				Italian		
+124821	stella serpentina liscia				Italian		
+125131	krrabori i brishtë				Albanian	151643	
+125131	yllgjarpëri i brishtë				Albanian	151643	
+181534	krrabori pesënjollash				Albanian	151643	
+125131	ofiura				Catalan	163039	
+125027	ofiura negra				Catalan	163039	
+124821	estrella amb potes brunes				Catalan	163039	
+125027	schwarzer Schlangenstern				German	147412	
+125064	Schuppiger Schlangenstern				German	147412	
+124929	Schlangenstern				German	1116	
+125131	zerbrechlicher Schlangenstern				German	1116	
+124913	gemeiner Schlangenstern				German		
+124913	Heller Schlangenstern				German	147412	
+125125	crevice brittlestar				English	147411	
+124821	smooth brittle-star				English	163039	
+125027	black brittle star				English		
+125027	black serpent star				English		
+125064	dwarf brittle star				English	2901	
+125064	brooding snake star				English	2901	
+124966	northern basket star				English	2901	
+124929	serpent star				English	1116	
+125131	common brittlestar				English	1116	
+125080	brittlestar				English	10085	
+125073	brittlestar				English	10085	
+124913	brittlestar				English	10085	
+124913	Serpent's table brittlestar				English	42381	
+124913	kleine slangster				Dutch	83	
+125080	draadarmige slangster				Dutch	83	
+124929	gewone slangster				Dutch	1116	
+125131	brokkelster				Dutch	685	
+236130	ingegraven slangster				Dutch		
+125064	levendbarende slangster				Dutch		
+125057	langarmet slangestjerne				Norwegian Bokmål	147411	
+125064	dvergslangestjerne				Norwegian Bokmål	147411	
+125027	svartslangestjerne				Norwegian Bokmål	147411	
+125125	kameleonslangestjerne				Norwegian Bokmål	147411	
+125073	grov mudderslangestjerne				Norwegian Bokmål	147411	
+125080	fin mudderslangestjerne				Norwegian Bokmål	147411	
+125131	skjørslangestjerne				Norwegian Bokmål	147411	
+124913	hvitflekket slangestjerne				Norwegian Bokmål	147411	
+124929	gråbrun slangestjerne				Norwegian Bokmål	147411	
+124933	nordlig slangestjerne				Norwegian Bokmål	147411	
+124929	ophiure				French	1116	
+125131	ophiure fragile				French	1116	
+124913	ophiure blanche				French	9234	
+124929	ophiure rose				French	9234	
+125131	ophiure á piquants				French	9269	
+125131	singe				French	9269	
+125125	ophiure pâquerette				French	145895	
+125027	ophiure noire				French	163039	
+124821	ophiuire brune				French	163039	
+125057	sköldormstjärna				Swedish	147411	
+125064	dvärgormstjärna				Swedish	147411	
+125109	grovfjällig korallormstjärna				Swedish	147411	
+125110	finfjällig korallormstjärna				Swedish	147411	
+125027	sotormstjärna				Swedish	147411	
+124850	snabb fransormstjärna				Swedish	147411	
+124853	gracil fransormstjärna				Swedish	147411	
+125125	mosaikormstjärna				Swedish	147411	
+236130	strävbukig trådormstjärna				Swedish	147411	
+124951	piprensarormstjärna				Swedish	147411	
+125073	fjällig trådormstjärna				Swedish	147411	
+125080	slätbukig trådormstjärna				Swedish	147411	
+124967	medusahuvud				Swedish	147411	
+125147	nordlig skinnormstjärna				Swedish	147411	
+125131	taggormstjärna				Swedish	147411	
+124913	vitfläckig fransormstjärna				Swedish	147411	
+124929	brungrå fransormstjärna				Swedish	147411	
+124933	mindre fransormstjärna				Swedish	147411	
+124934	storfjällig fransormstjärna				Swedish	147411	
+125195	grustrådormstjärna				Swedish	165516	
+125057	langarma slangestjerne				Norwegian Nynorsk	147411	
+125064	dvergslangestjerne				Norwegian Nynorsk	147411	
+125073	grov gjørmeslangestjerne				Norwegian Nynorsk	147411	
+125080	fin gjørmeslangestjerne				Norwegian Nynorsk	147411	
+125131	skjørslangestjerne				Norwegian Nynorsk	147411	
+124913	kvitflekket slangestjerne				Norwegian Nynorsk	147411	
+124929	gråbrun slangestjerne				Norwegian Nynorsk	147411	
+124933	nordleg slangestjerne				Norwegian Nynorsk	147411	
+125027	svartslangestjerne				Norwegian Nynorsk	147411	
+125125	kameleonslangestjerne				Norwegian Nynorsk	147411	
+125027	ofiura negra				Spanish	163039	
+124821	ofiura lisa				Spanish	163039	
+125131	ofiura de espinas finas				Spanish	163039	

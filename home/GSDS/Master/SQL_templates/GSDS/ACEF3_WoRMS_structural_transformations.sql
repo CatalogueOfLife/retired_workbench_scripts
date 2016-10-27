@@ -196,9 +196,9 @@ sn.family_code AS `family_code`,
 1 AS `is_accepted_name`,
 NULL AS `GSDTaxonGUI`,
 `AIT`.`GSDNameGUI` AS `GSDNameGUI`,
-0 AS `is_extinct`,
-0 AS `has_preholocene`,
-1 AS `has_modern`
+`IsFossil` AS `is_extinct`,
+`IsFossil` AS `has_preholocene`,
+if (`IsFossil` = 0, 1, 0) AS `has_modern`
 FROM ",
 @dbtouse,
 ".`AcceptedInfraSpecificTaxa` AIT

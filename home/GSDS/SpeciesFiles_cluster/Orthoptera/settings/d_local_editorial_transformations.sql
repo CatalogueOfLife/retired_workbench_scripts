@@ -1,10 +1,8 @@
-USE `Assembly_GSDdatabase`;
+/*The standard editorial checks and cleanup for all data-sets in assembly schema*/
+source /home/GSDS/Master/SQL_templates/standard_editorial_checks.sql
 
-DELETE FROM `distribution` WHERE `distribution` IS NULL OR `distribution` = "";
 
-DELETE FROM `families` WHERE `kingdom` != 'Animalia';
+source /home/GSDS/Master/SQL_templates/speciesfiles_editorial_checks.sql
 
-DELETE FROM `references` WHERE `title` IS NULL OR `title` = "";
 
-DELETE FROM `specialists` WHERE `specialist_name` IS NULL OR `specialist_name` = "";
 

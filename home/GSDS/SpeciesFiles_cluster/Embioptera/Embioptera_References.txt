@@ -1,0 +1,125 @@
+﻿ReferenceID	Authors	Year	Title	Source
+20781	Navás	1916	Neuropteros nuevos o poco conocidos (Septima serie).	Memorias de la Real Academia de Ciencias y Artes de Barcelona (Mem. Acad. Barcelona) 3 12:219-243
+20782	Navás	1918	Neuropteros nuevos o poco conocidos (Décima serie).	Memorias de la Real Academia de Ciencias y Artes de Barcelona (Mem. Acad. Barcelona) 3 14:339-366
+20783	Navás	1915	Neurópteros nuevos o poco conocidos (Sexta serie)	Memorias de la Real Academia de Ciencias y Artes de Barcelona (Mem. Acad. Barcelona) 3(12):119-136
+20784	Chamberlin	1923	A revision of the genus Anisembia, with description of a new species from the Gult of California	Proceedings of the California Academy of Sciences (Proc. Calif. Acad. Sci.) 4(12):341-351
+20785	Ross	2007	The Embiidina of eastern Asia, part I	Proceedings of the California Academy of Sciences (Proc. Calif. Acad. Sci.) 58(29):575-600
+20786	Ross	1987	Studies on the insect order Embiidina: a revision of the family Clothodidae	Proceedings of the California Academy of Sciences (Proc. Calif. Acad. Sci.) 4 45(2):9-34
+20787	Ross	2006	Paedembiidae, a remarkable new family and infraorder of Embiidina from Afghanistan	Proceedings of the California Academy of Sciences (Proc. Calif. Acad. Sci.) 57(27):785-794
+20788	Gorochov & Anisyutkin	2006	A new genus and species of paedembiidae from Turkmenistan	Proceedings of the California Academy of Sciences (Proc. Calif. Acad. Sci.) 57(28):795-797
+20789	Ross	1966	A new species of Embioptera from the Galapagos Islands	Proceedings of the California Academy of Sciences (Proc. Calif. Acad. Sci.) 34:499-504
+20790	Rambur	1842	Névroptères	Histoire naturelle des insectes, Librairie Encyclopédique de Roret, Paris 534 pp.
+20792	Ross	1940	A Revision of the Embioptera of North America	Annals of the Entomological Society of America (Ann. ent. Soc. Amer.) 33(4):629-676
+20794	Cockerell	1908	Descriptions of Tertiary Insects II	The American Journal of Science (Amer. Jour. Sci.) 4 25(147):227-232
+20795	Enderlein	1909	Die Klassifikation der Embiidinen, nebst morphologischen und physiologischen Bemerkungen, besonders über das Spinnen derselben	Zoologischer Anzeiger (Zool. Anz.) 35:166-191
+20796	Rimsky-Korsakow	1905	Beitrag zur Kennthis der Embiiden	Zoologischer Anzeiger (Zool. Anz.) 29(14):433-442
+20799	Krauss	1911	Monographie der Embien	Zoologica 60:1-78
+20800	Navás	1917	Néuroptères de l'Indo-Chine	Insecta Rennes 7:8-17
+20801	Engel & Grimaldi	2006	The earliest webspinners (Insecta, Embiodea)	American Museum Novitates 3514:1-15
+20803	Szumik	2004	Phylogenetic systematics of Archembiidae (Embiidina, Insecta)	Systematic Entomology 29(2):215-237
+20804	Edgerly, Szumik & McCreedy	2007	On new characters of the eggs of Embioptera with the description of a new species of Saussurembia (Anisembiidae)	Systematic Entomology 32(2):387-395
+20806	Ross	2003	Embia. Contributions to the biosystematics of the insect order Embiidina: Part 4. Andesembiidae, a new Andean family of Embiidina	Occasional papers of the California Academy of Sciences (Occ. Pap. Calif. Acad. Sci.) 153:i-iv, 1-13
+20807	Ross	2001	Embia. Contributions to the biosystematics of the insect order Embiidina: Part 3. The Embiidae of the Americas (Order Embiidina)	Occasional papers of the California Academy of Sciences (Occ. Pap. Calif. Acad. Sci.) 150:i-v, 1-86
+20808	Ross	2003	Embia. Contributions to the biosystematics of the insect order Embiidina: Part 5. A review of the family Anisembiidae with descriptions of new taxa	Occasional papers of the California Academy of Sciences (Occ. Pap. Calif. Acad. Sci.) 154:i-vi, 1-123
+20811	Ross	1984	A Classification of the Embiidina of Mexico with Descriptions of New Taxa	Occasional papers of the California Academy of Sciences (Occ. Pap. Calif. Acad. Sci.) 140:x, 1-54, 16 figs.
+20812	Ross	1944	A revision of the Embioptera, or webspinners, of the New World	Proceedings of the United States National Museum 94(3175):401-504
+20813	Enderlein	1912	Embiiden	Catalogue systématique et Descriptif des collections Zoologiques du Baron Edmond de Selys Longchamp (Collect. Selys Cat.) 3
+20815	Davis	1940	Taxonomic notes on the order Embioptera. XV. The genus Rhagadochir Enderlein, and genera convergent to it.	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 65:171-191
+20816	Davis	1936	Studies in Australian Embioptera. Part I. Systematics.	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 61:229-253, 7 figs.
+20817	Davis	1936	Studies in Australian Embioptera. Part II. Further notes on systematics	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 61:254-258
+20818	Davis	1938	Studies in Australian Embioptera. Part III: revision of the genus Metoligotoma, with descriptions of new species, and other notes on the family Oligotomidae	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 63:226-272
+20820	Davis	1939	Taxonomic notes on the order Embioptera. II. A new neotropical genus of Embioptera	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 64:217-222
+20822	Davis	1939	Taxonomic notes on the order Embioptera. IV. The genus Clothoda Enderlein	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 64:373-380
+20824	Davis	1939	Taxonomic notes on the order Embioptera. Part VI. Three new Asiatic genera related to Embia Latreille	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 64:474-482
+20825	Davis	1939	Taxonomic notes on the order Embioptera. XI-XIV. Part XI: a new genus from the Congo. Part XII: the genus Haploembia Verhoeff. Part XIII: a new west African genus. Part XIV: the identity of Embia ruficollis de Saussure and of Oligotoma venosa Banks	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 64:559-575
+20826	Davis	1940	Taxonomic notes on the order Embioptera. XVI: the genus Embia Latreille	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 65:323-344
+20827	Davis	1940	Taxonomic notes on the order Embioptera. XVII: a new neotropical genus previously confused with Embia Latreille	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 65:344-352
+20828	Davis	1940	Taxonomic notes on the order Embioptera. XVIII. The genus Oligotoma Westwood	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 65:362-387
+20830	Davis	1940	Studies in Australian Embioptera. Part IV: supplementary taxonomic notes	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 65:155-160
+20831	Davis	1942	Studies in Australian Embioptera. Part V: geographical variation in Metoligotoma reducta Davis	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 67:331-334
+20832	Davis	1943	Studies in Australian Embioptera. Part VI. Records of the genus Metoligotoma from Victoria	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 68:65-66
+20833	Davis	1944	Studies in Australian Embioptera. Part VII. New Embioptera from tropical Australia	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 69:16-20
+20834	Froggatt	1904	Notes on Neuroptera and descriptions of new species	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 29:671-676
+20836	Davis	1939	Taxonomic notes on the order Embioptera. Part VII. The genus Dictyoploca Krauss	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 64:482-485
+20837	Davis	1939	Taxonomic notes on the order Embioptera. Part VIII. The genus Dihybocercus Enderlein, and a new African genus related to it	Proceedings of the Linnean Society of New South Wales (Proc. Linn. Soc. N.S.W.) 64:485-490
+20840	Stefani	1953	Nuovi Embiotteri della Sardegna	Boll. Soc. ent. ital 83:84-98
+20841	Ross	1950	The Embiidae of India (Embioptera)	Wasmann Journal of Biology (Wasmann J. Biol.) 8:133-153, 6 figs.
+20842	Ross	1960	Parthenogenetic African Embioptera	Wasmann Journal of Biology (Wasmann J. Biol.) 18:297-304
+20843	Ross	1963	The families of Australian Embioptera, with descriptions of a new family, genus and species	Wasmann Journal of Biology (Wasmann J. Biol.) 21:121-136
+20844	Ross	1971	A new Neotropical genus and species of Embioptera	Wasmann Journal of Biology (Wasmann J. Biol.) 29:29-36
+20845	Ross	1952	The identity of Teratembia geniculata Krauss and a new status for the family Teratembiidae (Embioptera)	Wasmann Journal of Biology (Wasmann J. Biol.) 10:225-234
+20847	Ross	1952	The Embioptera of Angola	Publicacoes Culturais Companhia de Diamantes de Angola 14:41-54
+20848	Friederichs	1923	Ökologische Beobachtungen über Embiidinen	Capita Zoologica 2:1-29
+20850	Ross	1956	A new genus of Embioptera from Baltic amber	Mitteilungen aus dem Geologisch-Palaeontologischen Institut der Universitaet Hamburg 25:76-81
+20851	Ross	1984	A synopsis of the Embiidina of the United States	Proceedings of the Entomological Society of Washington (Proc. ent. Soc. Washington) 86:82-93
+20852	Ross	2006	The insect order Embiidina of northeastern Africa and the Red Sea region	Fauna of Arabia 22:287-343
+20853	Ross	1981	Insects of Saudi Arabia: Embiidina	Fauna of Arabia 3:201-208
+20854	Friederichs	1934	Das Gemeinschaftsleben der Embiiden und Näheres zur Kenntnis der Arten	Archiv für Naturgeschichte 3:405-444
+20855	Westwood	1837	Characters of Embia, a Genus of Insects allied to the White Ants (Termites); with Descriptions of the Species of which it is composed	Transactions of the Linnean Society of London (Trans. Linn. Soc. Lond.) 17:369-374
+20858	Ross	1948	The Embioptera of New Guinea	Pan-Pacific Entomologist (Pan-Pacific Ent.) 24:97-116
+20859	Saussure	1896	Two Embiidae from Trinidad	Journal of the Field Naturalists' Club (J. Field Nat. Club) 2:292-294
+20860	Gerstaecker	1888	Characteristik einer Reihe bemerkenswerter Orthoptera.	Mitteilungen des Naturwissenschaftlichen Vereins für Neuvorpommern und Rügen 20:1-58
+20861	Ross	1943	Two new Indian Embioptera and the lectotype of Oligotoma borneensis Hagen	Psyche: A Journal of Entomology 50(3-4):100-108
+20862	Navás	1922	Algunos insectos del Museo de París	Revista de la Academia de Ciencias Exactas Fisico-Quimicas y Naturales de Zaragoza (Rev. Acad. Cienc. Zaragoza) 7:15-51
+20863	Navás	1923		Revista de la Academia de Ciencias Exactas Fisico-Quimicas y Naturales de Zaragoza (Rev. Acad. Cienc. Zaragoza) 8
+20864	Navás	1931	Insectes du Congo Belge (Série VI)	Revue de Zoologie et de Botanique Africaines 21:123-144
+20865	Silvestri	1921	Description of a new species of Embiidae from southern Nigeria	Transactions of the Entomological Society of London 1921:449-450
+20866	Ross	1951	Three new African Embiidae (Embioptera)	Annals and Magazine of Natural History (Ann. Mag. Nat. Hist.) 12 4
+20867	Ross	1988	A new species of Embiidina (Embioptera) from Zaire	Bulletin & Annales de la Societe Royale Belge d'Entomologie 124(7-9):215-217
+20868	Pictet	1854	Seconde Edition	Traité élémentaire de paléontologie ou histoire naturelle des animaux fossiles considérés dans leurs rapports zoologiques et géologiques, Bailliere, Paris 2
+20870	Szumik	1998	Two new neotropical genera of Embiidae (Embioptera, Insecta)	Journal of the New York Entomological Society 105(3-4):140-153
+20871	Szumik	1994	Oligembia vetusta, a new fossil teratembiid (Embioptera) from Dominican amber	Journal of the New York Entomological Society 102(1):67-73
+20872	Szumik	1991	Two new species of Teratembiidae (Embiidina) from Argentina	Journal of the New York Entomological Society 99(4):611-621
+20873	Szumik	2001	New South American Embioptera	Revista de la Sociedad Entomologica Argentina 60(1-4):257-272
+20874	Hagen	1885	Monograph of the Embidina	The Canadian Entomologist 17(8):141-155
+20875	Hagen	1885	Monograph of the Embidina	The Canadian Entomologist 17(9):171-178
+20878	Ross	1972	New South American Embioptera	Studies on the Neotropical Fauna (Stud. Neotrop. Fauna) 7:133-146
+20879	Mariño & Márquez	1982	Embiópteros de México. I. Descripción de tres nuevos especies y algunos nuevos registros	Anales Inst. Biol. Univ. Nac. Autónoma México. Ser. Zool. 52(1981):99-113
+20880	Mariño & Márquez	1994	Embiópteros de México. V. Especie neuva de Mesembia (Embioptera: Anisembiidae)	Anales Inst. Biol. Univ. Nac. Autónoma México. Ser. Zool. 65:233-239
+20881	Davis	1942	Report of a collection of Embioptera from Trinidad and Guiana	Proceedings of the Royal Entomological Society (Proc. Roy. Entom. Soc. Lond.) 11:111-119
+20882	Saussure	1896	Note sur la tribu des Embiens	Mitteilungen der Schweizeruschen Entomologischen Gesellschaft (Mt. Schweiz. ent. Ges.) 9(8):339-355
+20883	McLachlan	1877	On the nymph-stage of the Embiidae, with notes on the habits of the family	Journal of the Linnean Society of London (Zoology) (J. Linn. Soc. London (Zool.).) 13:373-384
+20884	Tillyard	1923	The Embioptera or web-spinners of Western Australia	Journal and Proceedings of the Royal Society of Western Australia (Jour. Proc. Roy. Soc. West. Austral.) 9:61-68
+20885	Banks	1924	Descriptions of new neuropteroid insects	Bulletin of the Museum of Comparative Zoology (Bull. Mus. Comp. Zool.) 65(12):421-455
+20888	Cockerell	1919	Two interesting insects in burmese amber	The Entomologist 52:193-195
+20891	Navás	1925	Neuropteren aus Brasilien	Mitteilungen der Münchener Entomologischen Gesellschaft 15:64-68
+20892	Myers	1928		Bulletin of the Brooklyn Entomological Society (Bull. Brooklyn Ent. Soc.) 23
+20894	Melander	1902		Biological Bulletin of the Marine Biological Laboratory (Biol. Bull.) 3(1/2):16-26
+20895	Ross	1966	The Embioptera of Europe and the Mediterranean region	Bulletin of the British Museum (Natural History). Entomology Series (Bull. Br. Mus. nat. Hist. (Ent.)) 17(7):273-326
+20896	Lucas	1849	Neuropteres	Exploration scientifique de l'Algerie, Zoologie, Histoire Naturelle des Animaux Articules 3:110-140
+20897	Navás	1930	Insectos del Museo de París. 6.a série	Brotéria (Zoológica) 26(120-144)
+20898	Navás	1918	Embiópteros (Ins.) de la América meridional	Brotéria (Zoológica) 16:85-110
+20900	Navás	1919	Insecta nova. V, VI and VII Series	Memorie dell'Accademia Pontifica dei Nuovi Lincei, Rome 2 5:1-29
+20901	Navás	1926	Insecta nova. Series XI.	Memorie dell'Accademia Pontifica dei Nuovi Lincei, Rome 2 9:101-110
+20902	Navás	1930	Spedizione del barone Raimondo Franchetti in Dancalia. Insetti neurotteri ed affini	Annali del Museo Civico di Storia Naturale di Genova 55:147-153
+20903	Banks	1906	Descriptions of new Nearctic neuropteroid insects	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc.) 32(1):1-20, 2 pls.
+20904	Kapur & Kripalani	1957	Studies in Indian Embioptera. Part I-The Oligotomidae of India	Transactions of the Royal Enteomological Society of London (Trans. R. Ent. Soc. London) 109(3):111-134
+20905	Friederichs	1914	A new species of embiid from West Australia	Records of the Western Australian Museum (Rec. West. Austral. Mus.) 1:241-243
+20906	Miller & Edgerly	2008	Systematics and natural history of the Australian genus Metoligotoma Davis (Embioptera : Australembiidae)	Invertebrate Systematics 22(3):329-344
+20907	Blanchard	1845		Histoire des Insectes 2
+20908	Esben-Petersen	1915	Neuropteren und Embiiden aus Ober-Aegypten und dem Aegypt, Sudan	Entomologische Mitteilungen 4:79-88
+20921	Miller	2009	Genus- and family-group names in the order Embioptera (Insecta)	Zootaxa 2055:1-34
+20922	Poolprasert, Sitthicharoenchai, Lekprayoon & Butcher	2011	Two remarkable new species of webspinners in the genus Eosembia Ross, 2007 (Embioptera: Oligotomidae) from Thailand	Zootaxa 2967:1-11
+20927	Ross	1978	The Embiidina of China	Memoirs of the Hong Kong Natural History Society (Mem. Hong Kong Nat. Hist. Soc.) 13:1-8
+20928	Ross	1982	Embioptera from Sri Lanka (Ceylon)	Entomologica Scandinavica Supplement 11:30-32
+20930	Sundevall	1847	Condylopalma agilis larven till en okänd art af Forficulina	Forhandlinger ved de Skandinaviske naturforskeres fjerde møde i Christiana den 11-18 juli 1844, Chr. Gröndahl, Christiana 255 pp.
+20931	Szumik	1998	Una nueva especie de Anisembiidae (Insecta, Embioptera) en ámbar dominicano	Revista Brasileira de Entomologica 42(1-2):7-8
+20932	Fontana	2001	A new Italian species of the genus Embia Latreille, 1825	Atti Acc. Rov. Agiati a. 251, ser. VIII 1(B):41-51
+20933	Esben-Petersen	1920	New Species of Neuropterous Insects from South Africa (Ephemerida, Megaloptera and Embiidina)	Annals of the South African Museum 17:499-505
+20934	Ross	1951	A new species of Embioptera from Oceania	Proceedings of the Hawaiian Entomological Society 14:307-310
+20936	Ross	1955	Insects of Micronesia: Embioptera	Insects of Micronesia 8(1):1-8
+20937	Ross	1957	Contributions a l'etude de la faune entomologique du Ruanda-Urundi (Mission P. Basilewsky 1953)	Annales du Musée royal du Congo Belge 8 Sci. Zool. 58:9-11
+20938	Poolprasert & Edgerly	2011	A New Species of Eosembia Ross (Embiodea: Oligotomidae) from Northern Thailand	Journal of the Kansas Entomological Society 84(1):12-21
+20941	Bradoo	1971	Two new species of Embioptera with records of others from South India	Oriental Insects 5(2):263-267
+20942	Navás	1934	Insecta Orientalia XIII Series	Memoriae Pontifical Academiae Scientarium Novi Lyncaei Series III 1:217-228
+20947	Huang & Nel	2009	Oldest webspinners from the Middle Jurassic of Inner Mongolia, China (Insecta: Embiodea)	Zoological Journal of the Linnean Society 156:889-895
+20949	Mukerji	1927	On the morphology and bionomics of Embia minor, sp. nov. with special reference to its spinning organ. A contribution to our knowledge of the indian Embioptera	Records of the Indian Museum 29:253-282
+20953	Ross 	1992	Webspinners of Panama (Embiidina) 	Insects of Panama and Mesoamerica: selected studies, Oxford University Press, Oxford 122-141
+20956	Gray 	1832		The animal kingdom arranged in conformity with its organization, by the Baron Cuvier with additional descriptions of all the species hitherto named, and of many not before noticed, by Edward Griffith and others, G. B. Whittaker, London
+20957	Ross 	1955	Embioptera 	South African Animal Life, Almqvist Wiksel, Stockholm 302-305, fig. 1
+36840	Kluge	2012	General system of Neoptera with description of a new species of Embioptera	Russian Entomological Journal 21(4):371-384
+37995	Engel & Grimaldi 	2011		ZooKeys 148
+44044	Fontana	2002	Contribution to the knowledge of Mediterranean Embiidina with description of a new species of the genus Embia Latreille, 1825 from Sardinia (Italy)	Atti della Accademia roveretana degli Agiati VIII B(2):39-59
+44045	Stefani	1955	Revisione del genere Haploembia Verh. e descrizione di una nuova specie (Haploembia palaui n. sp.)(Embioptera, Oligotomidae)	Bollettino della Società Entomologica Italiana 85:110-120
+45475	Poolprasert	2014	Dachtylembia, a new genus in the family Teratembiidae (Embioptera) from Thailand	Zootaxa 3779(4):456-462
+45476	Poolprasert & Edgerly	2014	Description of four new species of the genus Ptilocerembia Friederichs, 1923 (Embioptera: Ptilocerembiidae) from Thailand	Zootaxa 3852(3):359-372

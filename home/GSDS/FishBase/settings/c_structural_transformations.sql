@@ -2,7 +2,7 @@ SET @dbid = 10;
 SET @dbabbr = 'Fis-';
 SET @dbtouse = 'Buffer_FishBase';
 
-source /home/GSDS/Master/SQL_templates/GSDS/ACEF3_WoRMS_structural_transformations.sql
+source /home/GSDS/Master/SQL_templates/GSDS/ACEF3_FishBase_structural_transformations.sql
 
 /*
 USE `Assembly_FishBase`;
@@ -52,7 +52,7 @@ INSERT INTO `distribution`
 
 
 
-/* FROM `Buffer_FishBase`.`Distribution`;
+-- FROM `Buffer_FishBase`.`Distribution`;
 
 TRUNCATE TABLE `families`;
 
@@ -88,7 +88,7 @@ UPDATE `specialists` SET `specialist_code` = CONCAT('FishBase',record_id);
 
 
 
-/* inserting accepted names, will take about 10 sec */
+-- inserting accepted names, will take about 10 sec 
 
 TRUNCATE TABLE `scientific_names`;
 
@@ -115,7 +115,10 @@ CONCAT('FishBase',`specialists`.`specialist_code`) AS `specialist_code`,
 CONCAT('FishBase',`families`.`family_code`) AS `family_code`,
 1 AS `is_accepted_name`,
 `GSDTaxonGUI` AS `GSDTaxonGUID`,
-`GSDNameGUI` AS `GSDNameGUID`
+`GSDNameGUI` AS `GSDNameGUID`,
+0 AS `is_extinct`,
+0 AS `has_preholocene`,
+1 AS `has_modern`
 FROM `Buffer_FishBase`.`AcceptedSpecies` AcceptedSpecies
 LEFT OUTER JOIN `families` ON 
 (`AcceptedSpecies`.`Kingdom` = `families`.`kingdom` AND
@@ -131,7 +134,7 @@ LEFT OUTER JOIN `sp2000_statuses` ON
 WHERE `AcceptedSpecies`.`IsFossil` = 0;
 
 
-/* inserting acceptedinfraspecies names*/
+-- inserting acceptedinfraspecies names
 
 TRUNCATE TABLE `scientific_names`;
 
@@ -158,14 +161,17 @@ NULL AS `specialist_code`,
 NULL AS `family_code`,
 1 AS `is_accepted_name`,
 `GSDTaxonGUI` AS `GSDTaxonGUID`,
-`GSDNameGUI` AS `GSDNameGUID`
+`GSDNameGUI` AS `GSDNameGUID`,
+0 AS `is_extinct`,
+0 AS `has_preholocene`,
+1 AS `has_modern`
 FROM `Buffer_FishBase`.`AcceptedInfraSpecificTaxa` AcceptedInfraSpecificTaxa
 LEFT OUTER JOIN `AcceptedSpecies` ON 
 (`AcceptedSpecies`.`AcceptedTaxonID` = `AcceptedInfraSpecificTaxa`.`ParentSpeciesID` 
 WHERE `AcceptedInfraSpecificTaxa`.`IsFossil` = 0;
 
 
-/* Inserting synonyms in just 5 sec*/ 
+-- Inserting synonyms in just 5 sec
 
 INSERT INTO `scientific_names`
 SELECT 
@@ -190,7 +196,10 @@ NULL AS `specialist_code`,
 NULL AS `family_code`,
 0 AS `is_accepted_name`,
 NULL AS `GSDTaxonGUID`,
-`Synonyms`.`GSDNameGUI` AS `GSDNameGUID` 
+`Synonyms`.`GSDNameGUI` AS `GSDNameGUID`,
+0 AS `is_extinct`,
+0 AS `has_preholocene`,
+1 AS `has_modern` 
 FROM `Buffer_FishBase`.`Synonyms` Synonyms
 LEFT OUTER JOIN `sp2000_statuses` ON
 `Synonyms`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`;

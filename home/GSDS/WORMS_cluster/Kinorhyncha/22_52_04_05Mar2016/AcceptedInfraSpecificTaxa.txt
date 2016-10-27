@@ -1,0 +1,2 @@
+AcceptedTaxonID	ParentSpeciesID	InfraSpeciesEpithet	InfraSpeciesAuthorString	InfraSpeciesMarker	GSDNameStatus	Sp2000NameStatus	IsFossil	LifeZone	AdditionalData	LTSSpecialist	LTSDate	InfraSpeciesURL	GSDTaxonGUI	GSDNameGUI	
+731354	265050	var. kerguelensis	Zelinka, 1913	Variety	accepted	Accepted name	0	marine		Neuhaus, Birger	2013-05-31 13:22:29	http://www.marinespecies.org/aphia.php?p=taxdetails&id=731354		urn:lsid:marinespecies.org:taxname:731354	

@@ -1,0 +1,115 @@
+AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
+128547	European waters (ERMS scope)	Text		
+128547	Mozambique	Text		
+128547	Madagascar	Text		
+128547	Mediterranean Sea	Text		
+128547	Mediterranean Sea	IHO/EEZ		
+128547	Portuguese Exclusive Economic Zone	Text		
+128547	Spanish Exclusive Economic Zone	Text		
+128548	European waters (ERMS scope)	Text		
+128548	Oostende	Text		
+128548	South Coast of Africa	Text		
+128548	British Isles	Text		
+128548	South Coast of England	Text		
+128548	North Coast of France	Text		
+128548	Grevelingen	Text		
+128548	Helgoland	Text		
+128548	Mediterranean Sea	IHO/EEZ		
+128548	Mediterranean Sea	IHO/EEZ		
+128548	Oosterschelde	Text		
+128548	Swedish Exclusive Economic Zone	Text		
+128548	Wimereux	Text		
+128548	South Africa (country)	Text		
+128548	Black Sea	Text		
+128548	Gulf of Mexico	Text		
+128548	Spanish Exclusive Economic Zone	Text		
+128548	Irish Exclusive economic Zone	Text		
+128548	Azores Exclusive Economic Zone	Text		
+128548	United Kingdom Exclusive Economic Zone	Text		
+128548	Swedish Exclusive Economic Zone	Text		
+237586	Pacific Ocean	Text		
+128549	European waters (ERMS scope)	Text		
+128549	North West Atlantic	Text		
+128549	British Isles	Text		
+128549	Dunkerque	Text		
+128549	French Exclusive Economic Zone [Atlantic part]	Text		
+128549	Helgoland	Text		
+128549	Isle of Man	Text		
+128549	Mediterranean Sea	IHO/EEZ		
+128549	Mediterranean Sea	Text		
+128549	Mediterranean Sea	Text		
+128549	Norwegian Exclusive Economic Zone	Text		
+128549	Spanish Exclusive Economic Zone [Atlantic part]	Text		
+128549	Swedish Exclusive Economic Zone	Text		
+128549	United Kingdom Exclusive Economic Zone	Text		
+128549	Madagascar	Text		
+128549	Manche	Text		
+128549	Mediterranean Sea	Text		
+128549	Mediterranean Sea	IHO/EEZ		
+128549	Mediterranean Sea	IHO/EEZ		
+128549	Mediterranean Sea	IHO/EEZ		
+128549	Gulf of Mexico	Text		
+128549	Portuguese Exclusive Economic Zone	Text		
+128549	Spanish Exclusive Economic Zone	Text		
+128549	Irish Exclusive economic Zone	Text		
+128549	United Kingdom Exclusive Economic Zone	Text		
+128549	Swedish Exclusive Economic Zone	Text		
+128550	European waters (ERMS scope)	Text		
+128550	North East Coast of England 	Text		
+128550	French Exclusive Economic Zone [Atlantic part]	Text		
+128550	Helgoland	Text		
+128550	Irish Sea	Text		
+128550	Norwegian Exclusive Economic Zone	Text		
+128550	Skagerrak	Text		
+128550	New Zealand Exclusive Economic Zone	Text		
+128550	Portuguese Exclusive Economic Zone	Text		
+128550	Spanish Exclusive Economic Zone	Text		
+128550	United Kingdom Exclusive Economic Zone	Text		
+128550	Swedish Exclusive Economic Zone	Text		
+128551	European waters (ERMS scope)	Text		
+128551	North Sea	Text		
+128551	German Bight	Text		
+128551	Spanish Exclusive Economic Zone [Atlantic part]	Text		
+128551	Swedish Exclusive Economic Zone	Text		
+128551	Swedish Exclusive Economic Zone	Text		
+128551	Madagascar	Text		
+128551	Belgian Exclusive Economic Zone	Text		
+128551	Portuguese Exclusive Economic Zone	Text		
+128551	Spanish Exclusive Economic Zone	Text		
+128551	United Kingdom Exclusive Economic Zone	Text		
+128551	Swedish Exclusive Economic Zone	Text		
+128552	European waters (ERMS scope)	Text		
+128552	Bretagne	Text		
+128552	German Exclusive Economic Zone	Text		
+128552	Mediterranean Sea	IHO/EEZ		
+128552	Madagascar	Text		
+128552	Azores	Text		
+128552	Mediterranean Sea	Text		
+128552	Mediterranean Sea	IHO/EEZ		
+128552	New Zealand Exclusive Economic Zone	Text		
+128552	Gulf of Mexico	Text		
+128552	Portuguese Exclusive Economic Zone	Text		
+128552	Spanish Exclusive Economic Zone	Text		
+128552	Azores Exclusive Economic Zone	Text		
+128552	United Kingdom Exclusive Economic Zone	Text		
+128552	Swedish Exclusive Economic Zone	Text		
+128553	European waters (ERMS scope)	Text		
+128553	Madagascar	Text		
+128553	South Africa (country)	Text		
+128553	New Zealand Exclusive Economic Zone	Text		
+128553	Portuguese Exclusive Economic Zone	Text		
+128553	Spanish Exclusive Economic Zone	Text		
+128554	European waters (ERMS scope)	Text		
+128554	California	Text		
+128554	Portuguese Exclusive Economic Zone	Text		
+128554	Spanish Exclusive Economic Zone	Text		
+128555	European waters (ERMS scope)	Text		
+128555	Azores	Text		
+128555	Azores	Text		
+128555	Portuguese Exclusive Economic Zone	Text		
+128555	Spanish Exclusive Economic Zone	Text		
+128555	Azores Exclusive Economic Zone	Text		
+128555	Canadian Exclusive Economic Zone [Pacific part]	Text		
+128555	North Pacific	Text		
+128555	North East Pacific	Text		
+128555	FAO fishing area 67	Text		

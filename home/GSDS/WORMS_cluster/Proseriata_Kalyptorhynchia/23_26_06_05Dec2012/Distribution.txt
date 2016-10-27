@@ -1,0 +1,1988 @@
+AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
+143488	Oostende	Text		
+143489	Oostende	Text		
+143490	Oostende	Text		
+143502	Oostende	Text		
+143556	Oostende	Text		
+143534	Oostende	Text		
+143132	Oostende	Text		
+143137	Oostende	Text		
+143082	Oostende	Text		
+143276	Oostende	Text		
+143291	Oostende	Text		
+143296	Oostende	Text		
+143299	Oostende	Text		
+143114	Oostende	Text		
+143128	Oostende	Text		
+143253	Oostende	Text		
+143254	Oostende	Text		
+163282	Oostende	Text		
+143266	Oostende	Text		
+143271	Oostende	Text		
+143275	Oostende	Text		
+143059	Oostende	Text		
+143190	Oostende	Text		
+143239	Oostende	Text		
+143244	Oostende	Text		
+143251	Oostende	Text		
+143252	Oostende	Text		
+154850	Oostende	Text		
+143599	Oostende	Text		
+143087	Oostende	Text		
+143104	Oostende	Text		
+233955	Oostende	Text		
+143053	Oostende	Text		
+143488	Blankenberge	Text		
+143490	Blankenberge	Text		
+143500	Blankenberge	Text		
+143571	Blankenberge	Text		
+143556	Blankenberge	Text		
+143561	Blankenberge	Text		
+143128	Blankenberge	Text		
+143132	Blankenberge	Text		
+143137	Blankenberge	Text		
+143082	Blankenberge	Text		
+143276	Blankenberge	Text		
+143291	Blankenberge	Text		
+143296	Blankenberge	Text		
+143299	Blankenberge	Text		
+143109	Blankenberge	Text		
+143114	Blankenberge	Text		
+143253	Blankenberge	Text		
+143254	Blankenberge	Text		
+163291	Blankenberge	Text		
+163282	Blankenberge	Text		
+143271	Blankenberge	Text		
+143275	Blankenberge	Text		
+143053	Blankenberge	Text		
+143059	Blankenberge	Text		
+143239	Blankenberge	Text		
+143244	Blankenberge	Text		
+143251	Blankenberge	Text		
+143252	Blankenberge	Text		
+143534	Blankenberge	Text		
+154850	Blankenberge	Text		
+143599	Blankenberge	Text		
+143087	Blankenberge	Text		
+233955	Blankenberge	Text		
+233956	Blankenberge	Text		
+143524	Knokke-Heist	Text		
+143556	Knokke-Heist	Text		
+143534	Knokke-Heist	Text		
+143102	Knokke-Heist	Text		
+233954	Knokke-Heist	Text		
+233955	Knokke-Heist	Text		
+233956	Knokke-Heist	Text		
+143053	Knokke-Heist	Text		
+143239	Knokke-Heist	Text		
+143119	Knokke-Heist	Text		
+143128	Knokke-Heist	Text		
+143132	Knokke-Heist	Text		
+143488	Bredene	Text		
+143489	Bredene	Text		
+143490	Bredene	Text		
+143500	Bredene	Text		
+143571	Bredene	Text		
+143556	Bredene	Text		
+143119	Bredene	Text		
+143125	Bredene	Text		
+143128	Bredene	Text		
+143132	Bredene	Text		
+143137	Bredene	Text		
+143082	Bredene	Text		
+143276	Bredene	Text		
+143291	Bredene	Text		
+143296	Bredene	Text		
+143299	Bredene	Text		
+143109	Bredene	Text		
+143114	Bredene	Text		
+143253	Bredene	Text		
+143254	Bredene	Text		
+163291	Bredene	Text		
+163282	Bredene	Text		
+143271	Bredene	Text		
+143275	Bredene	Text		
+143059	Bredene	Text		
+143239	Bredene	Text		
+143244	Bredene	Text		
+143245	Bredene	Text		
+143251	Bredene	Text		
+143252	Bredene	Text		
+143561	Bredene	Text		
+143534	Bredene	Text		
+154850	Bredene	Text		
+143599	Bredene	Text		
+143087	Bredene	Text		
+233955	Bredene	Text		
+143488	De Panne	Text		
+143489	De Panne	Text		
+143490	De Panne	Text		
+152529	De Panne	Text		
+143524	De Panne	Text		
+143556	De Panne	Text		
+143137	De Panne	Text		
+143082	De Panne	Text		
+143296	De Panne	Text		
+143299	De Panne	Text		
+143109	De Panne	Text		
+143125	De Panne	Text		
+143128	De Panne	Text		
+143132	De Panne	Text		
+143254	De Panne	Text		
+163291	De Panne	Text		
+163282	De Panne	Text		
+143271	De Panne	Text		
+143275	De Panne	Text		
+143276	De Panne	Text		
+143053	De Panne	Text		
+143059	De Panne	Text		
+143239	De Panne	Text		
+143244	De Panne	Text		
+143251	De Panne	Text		
+143253	De Panne	Text		
+143561	De Panne	Text		
+143534	De Panne	Text		
+143599	De Panne	Text		
+143087	De Panne	Text		
+233955	De Panne	Text		
+233956	De Panne	Text		
+155602	Calais	Text		
+233954	Wimereux	Text		
+233955	Wimereux	Text		
+233956	Wimereux	Text		
+143056	Wimereux	Text		
+143053	Wimereux	Text		
+143051	Wimereux	Text		
+152467	Wimereux	Text		
+143601	Wimereux	Text		
+143629	Wimereux	Text		
+143634	Wimereux	Text		
+143500	Wimereux	Text		
+143502	Wimereux	Text		
+143507	Wimereux	Text		
+143571	Wimereux	Text		
+143576	Wimereux	Text		
+143599	Wimereux	Text		
+143488	Wimereux	Text		
+143489	Wimereux	Text		
+143490	Wimereux	Text		
+143493	Wimereux	Text		
+152529	Wimereux	Text		
+143495	Wimereux	Text		
+143550	Wimereux	Text		
+143552	Wimereux	Text		
+143556	Wimereux	Text		
+143561	Wimereux	Text		
+143563	Wimereux	Text		
+143534	Wimereux	Text		
+143525	Wimereux	Text		
+143526	Wimereux	Text		
+143542	Wimereux	Text		
+143543	Wimereux	Text		
+143546	Wimereux	Text		
+143547	Wimereux	Text		
+143298	Wimereux	Text		
+143299	Wimereux	Text		
+143302	Wimereux	Text		
+143521	Wimereux	Text		
+143523	Wimereux	Text		
+143524	Wimereux	Text		
+143275	Wimereux	Text		
+143276	Wimereux	Text		
+143280	Wimereux	Text		
+143291	Wimereux	Text		
+143296	Wimereux	Text		
+143297	Wimereux	Text		
+143254	Wimereux	Text		
+143255	Wimereux	Text		
+163291	Wimereux	Text		
+163282	Wimereux	Text		
+143271	Wimereux	Text		
+143273	Wimereux	Text		
+143242	Wimereux	Text		
+143244	Wimereux	Text		
+143245	Wimereux	Text		
+143251	Wimereux	Text		
+143252	Wimereux	Text		
+143253	Wimereux	Text		
+143132	Wimereux	Text		
+143136	Wimereux	Text		
+143137	Wimereux	Text		
+143140	Wimereux	Text		
+143163	Wimereux	Text		
+143240	Wimereux	Text		
+143083	Wimereux	Text		
+143106	Wimereux	Text		
+143109	Wimereux	Text		
+143119	Wimereux	Text		
+143125	Wimereux	Text		
+143128	Wimereux	Text		
+143169	Wimereux	Text		
+143190	Wimereux	Text		
+143197	Wimereux	Text		
+143233	Wimereux	Text		
+143239	Wimereux	Text		
+143082	Wimereux	Text		
+143059	Wimereux	Text		
+143070	Wimereux	Text		
+143087	Wimereux	Text		
+143102	Wimereux	Text		
+143104	Wimereux	Text		
+155972	Wimereux	Text		
+152572	Pacific Ocean	Text		
+152573	Pacific Ocean	Text		
+152577	Pacific Ocean	Text		
+152579	Pacific Ocean	Text		
+152581	Pacific Ocean	Text		
+152618	Pacific Ocean	Text		
+155551	Pacific Ocean	Text		
+155582	Pacific Ocean	Text		
+155598	Pacific Ocean	Text		
+155679	Pacific Ocean	Text		
+143233	Pacific Ocean	Text		
+155706	Pacific Ocean	Text		
+155064	Pacific Ocean	Text		
+155201	Pacific Ocean	Text		
+155307	Pacific Ocean	Text		
+155311	Pacific Ocean	Text		
+155312	Pacific Ocean	Text		
+155330	Pacific Ocean	Text		
+153283	Pacific Ocean	Text		
+153569	Pacific Ocean	Text		
+154112	Pacific Ocean	Text		
+154963	Pacific Ocean	Text		
+154964	Pacific Ocean	Text		
+155003	Pacific Ocean	Text		
+152759	Pacific Ocean	Text		
+152778	Pacific Ocean	Text		
+152783	Pacific Ocean	Text		
+152818	Pacific Ocean	Text		
+152946	Pacific Ocean	Text		
+153016	Pacific Ocean	Text		
+152477	Indian Ocean	Text		
+152481	Indian Ocean	Text		
+152485	Indian Ocean	Text		
+152623	Indian Ocean	Text		
+152753	Indian Ocean	Text		
+152757	Indian Ocean	Text		
+155575	Indian Ocean	Text		
+155583	Indian Ocean	Text		
+155598	Indian Ocean	Text		
+155611	Indian Ocean	Text		
+154964	Indian Ocean	Text		
+154975	Indian Ocean	Text		
+154996	Indian Ocean	Text		
+155004	Indian Ocean	Text		
+155053	Indian Ocean	Text		
+155151	Indian Ocean	Text		
+154126	Indian Ocean	Text		
+154240	Indian Ocean	Text		
+154258	Indian Ocean	Text		
+154477	Indian Ocean	Text		
+154490	Indian Ocean	Text		
+154875	Indian Ocean	Text		
+152885	Indian Ocean	Text		
+152925	Indian Ocean	Text		
+152952	Indian Ocean	Text		
+152953	Indian Ocean	Text		
+152960	Indian Ocean	Text		
+152969	Indian Ocean	Text		
+152758	Indian Ocean	Text		
+152798	Indian Ocean	Text		
+152810	Indian Ocean	Text		
+152816	Indian Ocean	Text		
+152820	Indian Ocean	Text		
+152864	Indian Ocean	Text		
+143040	Mediterranean Sea	Text		
+447989	Mediterranean Sea	Text		
+143047	Mediterranean Sea	Text		
+143049	Mediterranean Sea	Text		
+143050	Mediterranean Sea	Text		
+143052	Mediterranean Sea	Text		
+143059	Mediterranean Sea	Text		
+143062	Mediterranean Sea	Text		
+155812	Mediterranean Sea	Text		
+155813	Mediterranean Sea	Text		
+155814	Mediterranean Sea	Text		
+155818	Mediterranean Sea	Text		
+155845	Mediterranean Sea	Text		
+155861	Mediterranean Sea	Text		
+143185	Mediterranean Sea	Text		
+155201	Mediterranean Sea	Text		
+155559	Mediterranean Sea	Text		
+155562	Mediterranean Sea	Text		
+155618	Mediterranean Sea	Text		
+155676	Mediterranean Sea	Text		
+154439	Mediterranean Sea	Text		
+154730	Mediterranean Sea	Text		
+155000	Mediterranean Sea	Text		
+155055	Mediterranean Sea	Text		
+155066	Mediterranean Sea	Text		
+155069	Mediterranean Sea	Text		
+152615	Mediterranean Sea	Text		
+152617	Mediterranean Sea	Text		
+143536	Mediterranean Sea	Text		
+153036	Mediterranean Sea	Text		
+154110	Mediterranean Sea	Text		
+154123	Mediterranean Sea	Text		
+143636	Mediterranean Sea	Text		
+143655	Mediterranean Sea	Text		
+152488	Mediterranean Sea	Text		
+152506	Mediterranean Sea	Text		
+152508	Mediterranean Sea	Text		
+152512	Mediterranean Sea	Text		
+143623	Mediterranean Sea	Text		
+143624	Mediterranean Sea	Text		
+143628	Mediterranean Sea	Text		
+143632	Mediterranean Sea	Text		
+143634	Mediterranean Sea	Text		
+143635	Mediterranean Sea	Text		
+143607	Mediterranean Sea	Text		
+143610	Mediterranean Sea	Text		
+143612	Mediterranean Sea	Text		
+143613	Mediterranean Sea	Text		
+143614	Mediterranean Sea	Text		
+143615	Mediterranean Sea	Text		
+143593	Mediterranean Sea	Text		
+143595	Mediterranean Sea	Text		
+143597	Mediterranean Sea	Text		
+143598	Mediterranean Sea	Text		
+143602	Mediterranean Sea	Text		
+143606	Mediterranean Sea	Text		
+143573	Mediterranean Sea	Text		
+143575	Mediterranean Sea	Text		
+143586	Mediterranean Sea	Text		
+143587	Mediterranean Sea	Text		
+143588	Mediterranean Sea	Text		
+143592	Mediterranean Sea	Text		
+143564	Mediterranean Sea	Text		
+143566	Mediterranean Sea	Text		
+143567	Mediterranean Sea	Text		
+143570	Mediterranean Sea	Text		
+143571	Mediterranean Sea	Text		
+143572	Mediterranean Sea	Text		
+143550	Mediterranean Sea	Text		
+143552	Mediterranean Sea	Text		
+143553	Mediterranean Sea	Text		
+143554	Mediterranean Sea	Text		
+143562	Mediterranean Sea	Text		
+143563	Mediterranean Sea	Text		
+143538	Mediterranean Sea	Text		
+143540	Mediterranean Sea	Text		
+143541	Mediterranean Sea	Text		
+143545	Mediterranean Sea	Text		
+143548	Mediterranean Sea	Text		
+143549	Mediterranean Sea	Text		
+143526	Mediterranean Sea	Text		
+143527	Mediterranean Sea	Text		
+143529	Mediterranean Sea	Text		
+143530	Mediterranean Sea	Text		
+143532	Mediterranean Sea	Text		
+143533	Mediterranean Sea	Text		
+143516	Mediterranean Sea	Text		
+143517	Mediterranean Sea	Text		
+143518	Mediterranean Sea	Text		
+143519	Mediterranean Sea	Text		
+143520	Mediterranean Sea	Text		
+143521	Mediterranean Sea	Text		
+143299	Mediterranean Sea	Text		
+143304	Mediterranean Sea	Text		
+143495	Mediterranean Sea	Text		
+143501	Mediterranean Sea	Text		
+143512	Mediterranean Sea	Text		
+143515	Mediterranean Sea	Text		
+143277	Mediterranean Sea	Text		
+143278	Mediterranean Sea	Text		
+143279	Mediterranean Sea	Text		
+143285	Mediterranean Sea	Text		
+143289	Mediterranean Sea	Text		
+143294	Mediterranean Sea	Text		
+143249	Mediterranean Sea	Text		
+143265	Mediterranean Sea	Text		
+143266	Mediterranean Sea	Text		
+143268	Mediterranean Sea	Text		
+143269	Mediterranean Sea	Text		
+143270	Mediterranean Sea	Text		
+143237	Mediterranean Sea	Text		
+143238	Mediterranean Sea	Text		
+143242	Mediterranean Sea	Text		
+143243	Mediterranean Sea	Text		
+143246	Mediterranean Sea	Text		
+143248	Mediterranean Sea	Text		
+143226	Mediterranean Sea	Text		
+143227	Mediterranean Sea	Text		
+143228	Mediterranean Sea	Text		
+143229	Mediterranean Sea	Text		
+143230	Mediterranean Sea	Text		
+143231	Mediterranean Sea	Text		
+143218	Mediterranean Sea	Text		
+143220	Mediterranean Sea	Text		
+143221	Mediterranean Sea	Text		
+143222	Mediterranean Sea	Text		
+143223	Mediterranean Sea	Text		
+143225	Mediterranean Sea	Text		
+143190	Mediterranean Sea	Text		
+143192	Mediterranean Sea	Text		
+143198	Mediterranean Sea	Text		
+143215	Mediterranean Sea	Text		
+143216	Mediterranean Sea	Text		
+143217	Mediterranean Sea	Text		
+143177	Mediterranean Sea	Text		
+143178	Mediterranean Sea	Text		
+143179	Mediterranean Sea	Text		
+143180	Mediterranean Sea	Text		
+143183	Mediterranean Sea	Text		
+143184	Mediterranean Sea	Text		
+143159	Mediterranean Sea	Text		
+143160	Mediterranean Sea	Text		
+143161	Mediterranean Sea	Text		
+143162	Mediterranean Sea	Text		
+143167	Mediterranean Sea	Text		
+143176	Mediterranean Sea	Text		
+143148	Mediterranean Sea	Text		
+143150	Mediterranean Sea	Text		
+143151	Mediterranean Sea	Text		
+143153	Mediterranean Sea	Text		
+143155	Mediterranean Sea	Text		
+143158	Mediterranean Sea	Text		
+143133	Mediterranean Sea	Text		
+143143	Mediterranean Sea	Text		
+143144	Mediterranean Sea	Text		
+143145	Mediterranean Sea	Text		
+143146	Mediterranean Sea	Text		
+143147	Mediterranean Sea	Text		
+143123	Mediterranean Sea	Text		
+143124	Mediterranean Sea	Text		
+143126	Mediterranean Sea	Text		
+143130	Mediterranean Sea	Text		
+143131	Mediterranean Sea	Text		
+143132	Mediterranean Sea	Text		
+143107	Mediterranean Sea	Text		
+143111	Mediterranean Sea	Text		
+143113	Mediterranean Sea	Text		
+143116	Mediterranean Sea	Text		
+143117	Mediterranean Sea	Text		
+143121	Mediterranean Sea	Text		
+143084	Mediterranean Sea	Text		
+143085	Mediterranean Sea	Text		
+143087	Mediterranean Sea	Text		
+143101	Mediterranean Sea	Text		
+143104	Mediterranean Sea	Text		
+143106	Mediterranean Sea	Text		
+143072	Mediterranean Sea	Text		
+143073	Mediterranean Sea	Text		
+143075	Mediterranean Sea	Text		
+143077	Mediterranean Sea	Text		
+143079	Mediterranean Sea	Text		
+143083	Mediterranean Sea	Text		
+143054	Mediterranean Sea	Text		
+143057	Mediterranean Sea	Text		
+143058	Mediterranean Sea	Text		
+143060	Mediterranean Sea	Text		
+143061	Mediterranean Sea	Text		
+143070	Mediterranean Sea	Text		
+152474	North Pacific	Text		
+152480	North Pacific	Text		
+152487	North Pacific	Text		
+152503	North Pacific	Text		
+152540	North Pacific	Text		
+152584	North Pacific	Text		
+155975	North Pacific	Text		
+155786	North Pacific	Text		
+155792	North Pacific	Text		
+155806	North Pacific	Text		
+155859	North Pacific	Text		
+155882	North Pacific	Text		
+447988	North Pacific	Text		
+155604	North Pacific	Text		
+155685	North Pacific	Text		
+155746	North Pacific	Text		
+155752	North Pacific	Text		
+155753	North Pacific	Text		
+155771	North Pacific	Text		
+154980	North Pacific	Text		
+155054	North Pacific	Text		
+155062	North Pacific	Text		
+155149	North Pacific	Text		
+143191	North Pacific	Text		
+155334	North Pacific	Text		
+154857	North Pacific	Text		
+154861	North Pacific	Text		
+154863	North Pacific	Text		
+154864	North Pacific	Text		
+154877	North Pacific	Text		
+154962	North Pacific	Text		
+154733	North Pacific	Text		
+154766	North Pacific	Text		
+154772	North Pacific	Text		
+154838	North Pacific	Text		
+154844	North Pacific	Text		
+154854	North Pacific	Text		
+154596	North Pacific	Text		
+154602	North Pacific	Text		
+154608	North Pacific	Text		
+154695	North Pacific	Text		
+154696	North Pacific	Text		
+154702	North Pacific	Text		
+154480	North Pacific	Text		
+154493	North Pacific	Text		
+154494	North Pacific	Text		
+154593	North Pacific	Text		
+154594	North Pacific	Text		
+154595	North Pacific	Text		
+153222	North Pacific	Text		
+153226	North Pacific	Text		
+154143	North Pacific	Text		
+154147	North Pacific	Text		
+154475	North Pacific	Text		
+154476	North Pacific	Text		
+152931	North Pacific	Text		
+152942	North Pacific	Text		
+152951	North Pacific	Text		
+152961	North Pacific	Text		
+152963	North Pacific	Text		
+152984	North Pacific	Text		
+152621	North Pacific	Text		
+152726	North Pacific	Text		
+152730	North Pacific	Text		
+152773	North Pacific	Text		
+152819	North Pacific	Text		
+152924	North Pacific	Text		
+152585	North Pacific	Text		
+152586	North Pacific	Text		
+152590	North Pacific	Text		
+152599	North Pacific	Text		
+152603	North Pacific	Text		
+152611	North Pacific	Text		
+152478	South Pacific	Text		
+152482	South Pacific	Text		
+152534	South Pacific	Text		
+152595	South Pacific	Text		
+152742	South Pacific	Text		
+152922	South Pacific	Text		
+154873	South Pacific	Text		
+154932	South Pacific	Text		
+155592	South Pacific	Text		
+155611	South Pacific	Text		
+155740	South Pacific	Text		
+154550	South Pacific	Text		
+154554	South Pacific	Text		
+154565	South Pacific	Text		
+154567	South Pacific	Text		
+154719	South Pacific	Text		
+154849	South Pacific	Text		
+154491	South Pacific	Text		
+154497	South Pacific	Text		
+154524	South Pacific	Text		
+154525	South Pacific	Text		
+154526	South Pacific	Text		
+154528	South Pacific	Text		
+154259	South Pacific	Text		
+154261	South Pacific	Text		
+154478	South Pacific	Text		
+154483	South Pacific	Text		
+154488	South Pacific	Text		
+154489	South Pacific	Text		
+153230	South Pacific	Text		
+154104	South Pacific	Text		
+154111	South Pacific	Text		
+154114	South Pacific	Text		
+154128	South Pacific	Text		
+154136	South Pacific	Text		
+152983	South Pacific	Text		
+153132	South Pacific	Text		
+153139	South Pacific	Text		
+153176	South Pacific	Text		
+153195	South Pacific	Text		
+153206	South Pacific	Text		
+143528	North Atlantic	Text		
+143531	North Atlantic	Text		
+143490	North Atlantic	Text		
+143507	North Atlantic	Text		
+152881	North Atlantic	Text		
+152923	North Atlantic	Text		
+155942	North Atlantic	Text		
+143071	North Atlantic	Text		
+156220	North Atlantic	Text		
+143092	North Atlantic	Text		
+155831	North Atlantic	Text		
+155837	North Atlantic	Text		
+155853	North Atlantic	Text		
+155857	North Atlantic	Text		
+155873	North Atlantic	Text		
+143145	North Atlantic	Text		
+155743	North Atlantic	Text		
+155758	North Atlantic	Text		
+155762	North Atlantic	Text		
+155770	North Atlantic	Text		
+155813	North Atlantic	Text		
+155580	North Atlantic	Text		
+155582	North Atlantic	Text		
+155590	North Atlantic	Text		
+155618	North Atlantic	Text		
+143216	North Atlantic	Text		
+155683	North Atlantic	Text		
+143623	North Atlantic	Text		
+154930	North Atlantic	Text		
+154991	North Atlantic	Text		
+155201	North Atlantic	Text		
+155313	North Atlantic	Text		
+143191	North Atlantic	Text		
+143610	North Atlantic	Text		
+143612	North Atlantic	Text		
+154858	North Atlantic	Text		
+154859	North Atlantic	Text		
+143635	North Atlantic	Text		
+143615	North Atlantic	Text		
+154765	North Atlantic	Text		
+154842	North Atlantic	Text		
+154850	North Atlantic	Text		
+154852	North Atlantic	Text		
+154855	North Atlantic	Text		
+143607	North Atlantic	Text		
+153248	North Atlantic	Text		
+154348	North Atlantic	Text		
+154386	North Atlantic	Text		
+154446	North Atlantic	Text		
+143574	North Atlantic	Text		
+154535	North Atlantic	Text		
+152949	North Atlantic	Text		
+152962	North Atlantic	Text		
+152967	North Atlantic	Text		
+152980	North Atlantic	Text		
+153004	North Atlantic	Text		
+153062	North Atlantic	Text		
+152489	South Atlantic	Text		
+152493	South Atlantic	Text		
+152598	South Atlantic	Text		
+152600	South Atlantic	Text		
+152678	South Atlantic	Text		
+152692	South Atlantic	Text		
+155754	South Atlantic	Text		
+155755	South Atlantic	Text		
+155793	South Atlantic	Text		
+155802	South Atlantic	Text		
+155968	South Atlantic	Text		
+155180	South Atlantic	Text		
+155332	South Atlantic	Text		
+155566	South Atlantic	Text		
+155568	South Atlantic	Text		
+155571	South Atlantic	Text		
+155602	South Atlantic	Text		
+154956	South Atlantic	Text		
+154957	South Atlantic	Text		
+154967	South Atlantic	Text		
+154984	South Atlantic	Text		
+154988	South Atlantic	Text		
+155095	South Atlantic	Text		
+154505	South Atlantic	Text		
+154718	South Atlantic	Text		
+154728	South Atlantic	Text		
+154856	South Atlantic	Text		
+154860	South Atlantic	Text		
+154933	South Atlantic	Text		
+154151	South Atlantic	Text		
+154367	South Atlantic	Text		
+154445	South Atlantic	Text		
+143569	South Atlantic	Text		
+154492	South Atlantic	Text		
+154500	South Atlantic	Text		
+152696	South Atlantic	Text		
+152802	South Atlantic	Text		
+152821	South Atlantic	Text		
+152865	South Atlantic	Text		
+152939	South Atlantic	Text		
+152945	South Atlantic	Text		
+155778	Europe	Text		
+155779	Europe	Text		
+155795	Europe	Text		
+155815	Europe	Text		
+220409	Kenya	Text		
+143062	Kenya	Text		
+220401	Kenya	Text		
+155598	Kenya	Text		
+143655	Kenya	Text		
+220403	Kenya	Text		
+220402	Kenya	Text		
+154911	Kenya	Text		
+154996	Kenya	Text		
+143184	Kenya	Text		
+155932	Italy	Text		
+143108	Somalia	Text		
+155939	Somalia	Text		
+154996	Somalia	Text		
+155004	Somalia	Text		
+143184	Somalia	Text		
+155151	Somalia	Text		
+155583	Somalia	Text		
+155598	Somalia	Text		
+154258	Somalia	Text		
+154240	Somalia	Text		
+143655	Somalia	Text		
+155598	Somalia	Text		
+154996	Somalia	Text		
+155949	Russia	Text		
+155956	Russia	Text		
+155959	Russia	Text		
+143488	North Sea	Text		
+143489	North Sea	Text		
+143491	North Sea	Text		
+143492	North Sea	Text		
+143534	North Sea	Text		
+143493	North Sea	Text		
+155972	North Sea	Text		
+143168	North Sea	Text		
+143193	North Sea	Text		
+143073	North Sea	Text		
+143074	North Sea	Text		
+155946	North Sea	Text		
+143164	North Sea	Text		
+155954	North Sea	Text		
+143166	North Sea	Text		
+143050	North Sea	Text		
+143051	North Sea	Text		
+143052	North Sea	Text		
+143057	North Sea	Text		
+143064	North Sea	Text		
+143070	North Sea	Text		
+143056	North Sea	Text		
+143065	North Sea	Text		
+143066	North Sea	Text		
+143067	North Sea	Text		
+143068	North Sea	Text		
+143049	North Sea	Text		
+143102	North Sea	Text		
+143041	North Sea	Text		
+233955	North Sea	Text		
+233956	North Sea	Text		
+155933	North Sea	Text		
+143055	North Sea	Text		
+143086	North Sea	Text		
+143088	North Sea	Text		
+143103	North Sea	Text		
+143094	North Sea	Text		
+143095	North Sea	Text		
+143101	North Sea	Text		
+143236	North Sea	Text		
+155682	North Sea	Text		
+155774	North Sea	Text		
+143156	North Sea	Text		
+155812	North Sea	Text		
+143084	North Sea	Text		
+143190	North Sea	Text		
+155559	North Sea	Text		
+143217	North Sea	Text		
+143219	North Sea	Text		
+143224	North Sea	Text		
+143235	North Sea	Text		
+143632	North Sea	Text		
+154850	North Sea	Text		
+143583	North Sea	Text		
+143601	North Sea	Text		
+143616	North Sea	Text		
+143618	North Sea	Text		
+143630	North Sea	Text		
+143576	North Sea	Text		
+143579	North Sea	Text		
+154729	North Sea	Text		
+143599	North Sea	Text		
+143602	North Sea	Text		
+143547	North Sea	Text		
+143564	North Sea	Text		
+143561	North Sea	Text		
+143567	North Sea	Text		
+143571	North Sea	Text		
+143638	North Sea	Text		
+143502	North Sea	Text		
+143503	North Sea	Text		
+152582	North Sea	Text		
+152597	North Sea	Text		
+143542	North Sea	Text		
+143543	North Sea	Text		
+152529	North Sea	Text		
+143494	North Sea	Text		
+143496	North Sea	Text		
+143498	North Sea	Text		
+143499	North Sea	Text		
+143500	North Sea	Text		
+154933	Irish Sea	Text		
+233954	Baltic sea	Text		
+233955	Baltic sea	Text		
+233956	Baltic sea	Text		
+143051	Baltic sea	Text		
+143055	Baltic sea	Text		
+143056	Baltic sea	Text		
+143660	Baltic sea	Text		
+155813	Baltic sea	Text		
+155933	Baltic sea	Text		
+143601	Baltic sea	Text		
+143605	Baltic sea	Text		
+143608	Baltic sea	Text		
+143616	Baltic sea	Text		
+143619	Baltic sea	Text		
+143634	Baltic sea	Text		
+143571	Baltic sea	Text		
+143574	Baltic sea	Text		
+143576	Baltic sea	Text		
+143578	Baltic sea	Text		
+143579	Baltic sea	Text		
+143599	Baltic sea	Text		
+143550	Baltic sea	Text		
+143552	Baltic sea	Text		
+143558	Baltic sea	Text		
+143563	Baltic sea	Text		
+143564	Baltic sea	Text		
+143567	Baltic sea	Text		
+143504	Baltic sea	Text		
+143506	Baltic sea	Text		
+143509	Baltic sea	Text		
+143523	Baltic sea	Text		
+143527	Baltic sea	Text		
+143546	Baltic sea	Text		
+143299	Baltic sea	Text		
+143300	Baltic sea	Text		
+143302	Baltic sea	Text		
+143495	Baltic sea	Text		
+143496	Baltic sea	Text		
+143502	Baltic sea	Text		
+143260	Baltic sea	Text		
+143266	Baltic sea	Text		
+143284	Baltic sea	Text		
+143289	Baltic sea	Text		
+143297	Baltic sea	Text		
+143298	Baltic sea	Text		
+143197	Baltic sea	Text		
+143211	Baltic sea	Text		
+143236	Baltic sea	Text		
+143239	Baltic sea	Text		
+143248	Baltic sea	Text		
+143254	Baltic sea	Text		
+143185	Baltic sea	Text		
+143189	Baltic sea	Text		
+143190	Baltic sea	Text		
+143191	Baltic sea	Text		
+143193	Baltic sea	Text		
+143196	Baltic sea	Text		
+143156	Baltic sea	Text		
+143164	Baltic sea	Text		
+143166	Baltic sea	Text		
+143167	Baltic sea	Text		
+143170	Baltic sea	Text		
+143184	Baltic sea	Text		
+143125	Baltic sea	Text		
+143128	Baltic sea	Text		
+143129	Baltic sea	Text		
+143132	Baltic sea	Text		
+143140	Baltic sea	Text		
+143149	Baltic sea	Text		
+143098	Baltic sea	Text		
+143099	Baltic sea	Text		
+143102	Baltic sea	Text		
+143104	Baltic sea	Text		
+143106	Baltic sea	Text		
+143119	Baltic sea	Text		
+143091	Baltic sea	Text		
+143092	Baltic sea	Text		
+143093	Baltic sea	Text		
+143095	Baltic sea	Text		
+143096	Baltic sea	Text		
+143097	Baltic sea	Text		
+143081	Baltic sea	Text		
+143083	Baltic sea	Text		
+143086	Baltic sea	Text		
+143087	Baltic sea	Text		
+143089	Baltic sea	Text		
+143090	Baltic sea	Text		
+143059	Baltic sea	Text		
+143064	Baltic sea	Text		
+143067	Baltic sea	Text		
+143068	Baltic sea	Text		
+143070	Baltic sea	Text		
+143077	Baltic sea	Text		
+143488	Zeebrugge	Text		
+143489	Zeebrugge	Text		
+143500	Zeebrugge	Text		
+143571	Zeebrugge	Text		
+143524	Zeebrugge	Text		
+143556	Zeebrugge	Text		
+143132	Zeebrugge	Text		
+143137	Zeebrugge	Text		
+143082	Zeebrugge	Text		
+143299	Zeebrugge	Text		
+143163	Zeebrugge	Text		
+143109	Zeebrugge	Text		
+143119	Zeebrugge	Text		
+143125	Zeebrugge	Text		
+143128	Zeebrugge	Text		
+163291	Zeebrugge	Text		
+163282	Zeebrugge	Text		
+143275	Zeebrugge	Text		
+143276	Zeebrugge	Text		
+143280	Zeebrugge	Text		
+143296	Zeebrugge	Text		
+143190	Zeebrugge	Text		
+143239	Zeebrugge	Text		
+143245	Zeebrugge	Text		
+143251	Zeebrugge	Text		
+143253	Zeebrugge	Text		
+143254	Zeebrugge	Text		
+143534	Zeebrugge	Text		
+143599	Zeebrugge	Text		
+143087	Zeebrugge	Text		
+233955	Zeebrugge	Text		
+233956	Zeebrugge	Text		
+143059	Zeebrugge	Text		
+152467	Belgian Exclusive Economic Zone	Text		
+143500	Belgian Exclusive Economic Zone	Text		
+143500	Belgian Exclusive Economic Zone	Text		
+163282	Belgian Exclusive Economic Zone	Text		
+163282	Belgian Exclusive Economic Zone	Text		
+163291	Belgian Exclusive Economic Zone	Text		
+143137	Belgian Exclusive Economic Zone	Text		
+143082	Belgian Exclusive Economic Zone	Text		
+143302	Belgian Exclusive Economic Zone	Text		
+143109	Belgian Exclusive Economic Zone	Text		
+143119	Belgian Exclusive Economic Zone	Text		
+143125	Belgian Exclusive Economic Zone	Text		
+143128	Belgian Exclusive Economic Zone	Text		
+143132	Belgian Exclusive Economic Zone	Text		
+143275	Belgian Exclusive Economic Zone	Text		
+143276	Belgian Exclusive Economic Zone	Text		
+143291	Belgian Exclusive Economic Zone	Text		
+143296	Belgian Exclusive Economic Zone	Text		
+143298	Belgian Exclusive Economic Zone	Text		
+143299	Belgian Exclusive Economic Zone	Text		
+143252	Belgian Exclusive Economic Zone	Text		
+143253	Belgian Exclusive Economic Zone	Text		
+143254	Belgian Exclusive Economic Zone	Text		
+143255	Belgian Exclusive Economic Zone	Text		
+143266	Belgian Exclusive Economic Zone	Text		
+143271	Belgian Exclusive Economic Zone	Text		
+143190	Belgian Exclusive Economic Zone	Text		
+143239	Belgian Exclusive Economic Zone	Text		
+143240	Belgian Exclusive Economic Zone	Text		
+143244	Belgian Exclusive Economic Zone	Text		
+143245	Belgian Exclusive Economic Zone	Text		
+143251	Belgian Exclusive Economic Zone	Text		
+143087	Belgian Exclusive Economic Zone	Text		
+143104	Belgian Exclusive Economic Zone	Text		
+233955	Belgian Exclusive Economic Zone	Text		
+233956	Belgian Exclusive Economic Zone	Text		
+143053	Belgian Exclusive Economic Zone	Text		
+143059	Belgian Exclusive Economic Zone	Text		
+143502	Belgian Exclusive Economic Zone	Text		
+143571	Belgian Exclusive Economic Zone	Text		
+154850	Belgian Exclusive Economic Zone	Text		
+143599	Belgian Exclusive Economic Zone	Text		
+143608	Belgian Exclusive Economic Zone	Text		
+143634	Belgian Exclusive Economic Zone	Text		
+143561	Belgian Exclusive Economic Zone	Text		
+143534	Belgian Exclusive Economic Zone	Text		
+143488	Belgian Exclusive Economic Zone	Text		
+143489	Belgian Exclusive Economic Zone	Text		
+143490	Belgian Exclusive Economic Zone	Text		
+143494	Belgian Exclusive Economic Zone	Text		
+143275	Belgian Exclusive Economic Zone	Text		
+143128	Belgian Exclusive Economic Zone	Text		
+143082	Belgian Exclusive Economic Zone	Text		
+143524	Belgian Exclusive Economic Zone	Text		
+143552	Belgian Exclusive Economic Zone	Text		
+143556	Belgian Exclusive Economic Zone	Text		
+143233	Belgian Exclusive Economic Zone	Text		
+143239	Belgian Exclusive Economic Zone	Text		
+143242	Belgian Exclusive Economic Zone	Text		
+143254	Belgian Exclusive Economic Zone	Text		
+143271	Belgian Exclusive Economic Zone	Text		
+143273	Belgian Exclusive Economic Zone	Text		
+143547	Belgian Exclusive Economic Zone	Text		
+143556	Belgian Exclusive Economic Zone	Text		
+143534	Belgian Exclusive Economic Zone	Text		
+143488	Belgian Exclusive Economic Zone	Text		
+143493	Belgian Exclusive Economic Zone	Text		
+143494	Belgian Exclusive Economic Zone	Text		
+143128	Belgian Exclusive Economic Zone	Text		
+143132	Belgian Exclusive Economic Zone	Text		
+143136	Belgian Exclusive Economic Zone	Text		
+143137	Belgian Exclusive Economic Zone	Text		
+143082	Belgian Exclusive Economic Zone	Text		
+143543	Belgian Exclusive Economic Zone	Text		
+143296	Belgian Exclusive Economic Zone	Text		
+143299	Belgian Exclusive Economic Zone	Text		
+143163	Belgian Exclusive Economic Zone	Text		
+143109	Belgian Exclusive Economic Zone	Text		
+143119	Belgian Exclusive Economic Zone	Text		
+143125	Belgian Exclusive Economic Zone	Text		
+143255	Belgian Exclusive Economic Zone	Text		
+143271	Belgian Exclusive Economic Zone	Text		
+143275	Belgian Exclusive Economic Zone	Text		
+143276	Belgian Exclusive Economic Zone	Text		
+143280	Belgian Exclusive Economic Zone	Text		
+143291	Belgian Exclusive Economic Zone	Text		
+143244	Belgian Exclusive Economic Zone	Text		
+143245	Belgian Exclusive Economic Zone	Text		
+143251	Belgian Exclusive Economic Zone	Text		
+143252	Belgian Exclusive Economic Zone	Text		
+143253	Belgian Exclusive Economic Zone	Text		
+143254	Belgian Exclusive Economic Zone	Text		
+233956	Belgian Exclusive Economic Zone	Text		
+143053	Belgian Exclusive Economic Zone	Text		
+143059	Belgian Exclusive Economic Zone	Text		
+143190	Belgian Exclusive Economic Zone	Text		
+143074	Belgian Exclusive Economic Zone	Text		
+143239	Belgian Exclusive Economic Zone	Text		
+143629	Belgian Exclusive Economic Zone	Text		
+143634	Belgian Exclusive Economic Zone	Text		
+143087	Belgian Exclusive Economic Zone	Text		
+143102	Belgian Exclusive Economic Zone	Text		
+233954	Belgian Exclusive Economic Zone	Text		
+233955	Belgian Exclusive Economic Zone	Text		
+143571	Belgian Exclusive Economic Zone	Text		
+154850	Belgian Exclusive Economic Zone	Text		
+143599	Belgian Exclusive Economic Zone	Text		
+143601	Belgian Exclusive Economic Zone	Text		
+143605	Belgian Exclusive Economic Zone	Text		
+143608	Belgian Exclusive Economic Zone	Text		
+143534	Belgian Exclusive Economic Zone	Text		
+143488	Belgian Exclusive Economic Zone	Text		
+143489	Belgian Exclusive Economic Zone	Text		
+143490	Belgian Exclusive Economic Zone	Text		
+143502	Belgian Exclusive Economic Zone	Text		
+143507	Belgian Exclusive Economic Zone	Text		
+163291	Belgian Exclusive Economic Zone	Text		
+143524	Belgian Exclusive Economic Zone	Text		
+143542	Belgian Exclusive Economic Zone	Text		
+143556	Belgian Exclusive Economic Zone	Text		
+143561	Belgian Exclusive Economic Zone	Text		
+143563	Belgian Exclusive Economic Zone	Text		
+152467	Belgian Exclusive Economic Zone	Text		
+143521	Belgian Exclusive Economic Zone	Text		
+143524	Belgian Exclusive Economic Zone	Text		
+143525	Belgian Exclusive Economic Zone	Text		
+143552	Belgian Exclusive Economic Zone	Text		
+143556	Belgian Exclusive Economic Zone	Text		
+143082	Belgian Exclusive Economic Zone	Text		
+425366	Belgian Exclusive Economic Zone	Text		
+143092	Belgian Exclusive Economic Zone	Text		
+143126	Belgian Exclusive Economic Zone	Text		
+143131	Belgian Exclusive Economic Zone	Text		
+143274	Belgian Exclusive Economic Zone	Text		
+143629	Belgian Exclusive Economic Zone	Text		
+143634	Belgian Exclusive Economic Zone	Text		
+154254	Belgian Exclusive Economic Zone	Text		
+233955	Belgian Exclusive Economic Zone	Text		
+143061	Belgian Exclusive Economic Zone	Text		
+143299	Belgian Exclusive Economic Zone	Text		
+143507	Belgian Exclusive Economic Zone	Text		
+143571	Belgian Exclusive Economic Zone	Text		
+143576	Belgian Exclusive Economic Zone	Text		
+143599	Belgian Exclusive Economic Zone	Text		
+152467	Belgian Exclusive Economic Zone	Text		
+143601	Belgian Exclusive Economic Zone	Text		
+143490	Belgian Exclusive Economic Zone	Text		
+143493	Belgian Exclusive Economic Zone	Text		
+152529	Belgian Exclusive Economic Zone	Text		
+143495	Belgian Exclusive Economic Zone	Text		
+143500	Belgian Exclusive Economic Zone	Text		
+143502	Belgian Exclusive Economic Zone	Text		
+143556	Belgian Exclusive Economic Zone	Text		
+143561	Belgian Exclusive Economic Zone	Text		
+143563	Belgian Exclusive Economic Zone	Text		
+143534	Belgian Exclusive Economic Zone	Text		
+143488	Belgian Exclusive Economic Zone	Text		
+143489	Belgian Exclusive Economic Zone	Text		
+143542	Belgian Exclusive Economic Zone	Text		
+143543	Belgian Exclusive Economic Zone	Text		
+143546	Belgian Exclusive Economic Zone	Text		
+143547	Belgian Exclusive Economic Zone	Text		
+143550	Belgian Exclusive Economic Zone	Text		
+143552	Belgian Exclusive Economic Zone	Text		
+143302	Belgian Exclusive Economic Zone	Text		
+143521	Belgian Exclusive Economic Zone	Text		
+143523	Belgian Exclusive Economic Zone	Text		
+143524	Belgian Exclusive Economic Zone	Text		
+143525	Belgian Exclusive Economic Zone	Text		
+143526	Belgian Exclusive Economic Zone	Text		
+143280	Belgian Exclusive Economic Zone	Text		
+143291	Belgian Exclusive Economic Zone	Text		
+143296	Belgian Exclusive Economic Zone	Text		
+143297	Belgian Exclusive Economic Zone	Text		
+143298	Belgian Exclusive Economic Zone	Text		
+143299	Belgian Exclusive Economic Zone	Text		
+163291	Belgian Exclusive Economic Zone	Text		
+163282	Belgian Exclusive Economic Zone	Text		
+143271	Belgian Exclusive Economic Zone	Text		
+143273	Belgian Exclusive Economic Zone	Text		
+143275	Belgian Exclusive Economic Zone	Text		
+143276	Belgian Exclusive Economic Zone	Text		
+143245	Belgian Exclusive Economic Zone	Text		
+143251	Belgian Exclusive Economic Zone	Text		
+143252	Belgian Exclusive Economic Zone	Text		
+143253	Belgian Exclusive Economic Zone	Text		
+143254	Belgian Exclusive Economic Zone	Text		
+143255	Belgian Exclusive Economic Zone	Text		
+143137	Belgian Exclusive Economic Zone	Text		
+143140	Belgian Exclusive Economic Zone	Text		
+143163	Belgian Exclusive Economic Zone	Text		
+143240	Belgian Exclusive Economic Zone	Text		
+143242	Belgian Exclusive Economic Zone	Text		
+143244	Belgian Exclusive Economic Zone	Text		
+143106	Belgian Exclusive Economic Zone	Text		
+143109	Belgian Exclusive Economic Zone	Text		
+143125	Belgian Exclusive Economic Zone	Text		
+143128	Belgian Exclusive Economic Zone	Text		
+143132	Belgian Exclusive Economic Zone	Text		
+143136	Belgian Exclusive Economic Zone	Text		
+143190	Belgian Exclusive Economic Zone	Text		
+143197	Belgian Exclusive Economic Zone	Text		
+143233	Belgian Exclusive Economic Zone	Text		
+143239	Belgian Exclusive Economic Zone	Text		
+143082	Belgian Exclusive Economic Zone	Text		
+143083	Belgian Exclusive Economic Zone	Text		
+143070	Belgian Exclusive Economic Zone	Text		
+143087	Belgian Exclusive Economic Zone	Text		
+143102	Belgian Exclusive Economic Zone	Text		
+143104	Belgian Exclusive Economic Zone	Text		
+155972	Belgian Exclusive Economic Zone	Text		
+143169	Belgian Exclusive Economic Zone	Text		
+233954	Belgian Exclusive Economic Zone	Text		
+233956	Belgian Exclusive Economic Zone	Text		
+143056	Belgian Exclusive Economic Zone	Text		
+143053	Belgian Exclusive Economic Zone	Text		
+143051	Belgian Exclusive Economic Zone	Text		
+143059	Belgian Exclusive Economic Zone	Text		
+143239	Belgian Exclusive Economic Zone	Text		
+143251	Belgian Exclusive Economic Zone	Text		
+143296	Belgian Exclusive Economic Zone	Text		
+143125	Belgian Exclusive Economic Zone	Text		
+143082	Belgian Exclusive Economic Zone	Text		
+143083	Belgian Exclusive Economic Zone	Text		
+143167	Belgian Exclusive Economic Zone	Text		
+233954	Belgian Exclusive Economic Zone	Text		
+233955	Belgian Exclusive Economic Zone	Text		
+233956	Belgian Exclusive Economic Zone	Text		
+143059	Belgian Exclusive Economic Zone	Text		
+143190	Belgian Exclusive Economic Zone	Text		
+143561	Belgian Exclusive Economic Zone	Text		
+143563	Belgian Exclusive Economic Zone	Text		
+143490	Belgian Exclusive Economic Zone	Text		
+143494	Belgian Exclusive Economic Zone	Text		
+143599	Belgian Exclusive Economic Zone	Text		
+143608	Belgian Exclusive Economic Zone	Text		
+143496	Belt Sea	Text		
+143502	Belt Sea	Text		
+143509	Belt Sea	Text		
+143549	Mediterranean Sea	IHO/EEZ		
+143573	Mediterranean Sea	IHO/EEZ		
+143177	Mediterranean Sea	IHO/EEZ		
+143220	Mediterranean Sea	IHO/EEZ		
+143225	Mediterranean Sea	IHO/EEZ		
+143229	Mediterranean Sea	IHO/EEZ		
+143231	Mediterranean Sea	IHO/EEZ		
+143148	Mediterranean Sea	IHO/EEZ		
+447989	Black Sea	Text		
+143079	Black Sea	Text		
+143107	Black Sea	Text		
+143111	Black Sea	Text		
+143145	Black Sea	Text		
+143148	Black Sea	Text		
+155000	Black Sea	Text		
+155562	Black Sea	Text		
+155581	Black Sea	Text		
+143198	Black Sea	Text		
+155618	Black Sea	Text		
+155787	Black Sea	Text		
+143527	Black Sea	Text		
+143550	Black Sea	Text		
+143552	Black Sea	Text		
+143562	Black Sea	Text		
+143566	Black Sea	Text		
+143626	Black Sea	Text		
+143225	Black Sea	Text		
+143230	Black Sea	Text		
+143248	Black Sea	Text		
+143294	Black Sea	Text		
+143495	Black Sea	Text		
+143518	Black Sea	Text		
+143151	Black Sea	Text		
+143159	Black Sea	Text		
+143160	Black Sea	Text		
+143161	Black Sea	Text		
+143167	Black Sea	Text		
+143184	Black Sea	Text		
+143198	Marmara Sea	Text		
+143227	Marmara Sea	Text		
+143230	Marmara Sea	Text		
+143144	Marmara Sea	Text		
+155055	Mediterranean Sea	IHO/EEZ		
+155055	Mediterranean Sea	IHO/EEZ		
+143512	Canaries	Text		
+152483	Red Sea	Text		
+152486	Red Sea	Text		
+152610	Red Sea	Text		
+152614	Red Sea	Text		
+152884	Red Sea	Text		
+152955	Red Sea	Text		
+152955	Red Sea	Text		
+152884	Red Sea	Text		
+152614	Red Sea	Text		
+211256	Red Sea	Text		
+152614	Red Sea	Text		
+211256	Red Sea	Text		
+152975	Red Sea	Text		
+154487	Red Sea	Text		
+154498	Red Sea	Text		
+154530	Red Sea	Text		
+154547	Red Sea	Text		
+152975	Red Sea	Text		
+154379	Aral Sea	Text		
+155581	Aral Sea	Text		
+155787	Aral Sea	Text		
+154371	Caspian Sea	Text		
+155787	Caspian Sea	Text		
+152476	Caribbean Sea	Text		
+152479	Caribbean Sea	Text		
+152484	Caribbean Sea	Text		
+152616	Caribbean Sea	Text		
+152620	Caribbean Sea	Text		
+154479	Caribbean Sea	Text		
+154720	Caribbean Sea	Text		
+154930	Caribbean Sea	Text		
+155313	Caribbean Sea	Text		
+155566	Caribbean Sea	Text		
+155582	Caribbean Sea	Text		
+418875	Gulf of Mexico	Text		
+417032	Gulf of Mexico	Text		
+154997	Sea of Japan	Text		
+155106	Sea of Japan	Text		
+155309	Sea of Japan	Text		
+155608	Sea of Japan	Text		
+143233	Sea of Japan	Text		
+155690	Sea of Japan	Text		
+155821	Sea of Japan	Text		
+155843	Sea of Japan	Text		
+154954	Weddell Sea	Text		
+154955	Weddell Sea	Text		
+155597	Weddell Sea	Text		
+155582	Celebes Sea	Text		
+152535	Coast of Japan	Text		
+152537	Coast of Japan	Text		
+152539	Coast of Japan	Text		
+152541	Coast of Japan	Text		
+152592	Coast of Japan	Text		
+152604	Coast of Japan	Text		
+155315	Baikal Lake	Text		
+155316	Baikal Lake	Text		
+155317	Baikal Lake	Text		
+155326	Baikal Lake	Text		
+155595	Baikal Lake	Text		
+155596	Baikal Lake	Text		
+156181	Baikal Lake	Text		
+156182	Baikal Lake	Text		
+156184	Baikal Lake	Text		
+156186	Baikal Lake	Text		
+156188	Baikal Lake	Text		
+156174	Baikal Lake	Text		
+156175	Baikal Lake	Text		
+156176	Baikal Lake	Text		
+156177	Baikal Lake	Text		
+156179	Baikal Lake	Text		
+156180	Baikal Lake	Text		
+156168	Baikal Lake	Text		
+156169	Baikal Lake	Text		
+156170	Baikal Lake	Text		
+156171	Baikal Lake	Text		
+156172	Baikal Lake	Text		
+156173	Baikal Lake	Text		
+156057	Baikal Lake	Text		
+156059	Baikal Lake	Text		
+156060	Baikal Lake	Text		
+156061	Baikal Lake	Text		
+156166	Baikal Lake	Text		
+156167	Baikal Lake	Text		
+156047	Baikal Lake	Text		
+156048	Baikal Lake	Text		
+156050	Baikal Lake	Text		
+156053	Baikal Lake	Text		
+156054	Baikal Lake	Text		
+156055	Baikal Lake	Text		
+156037	Baikal Lake	Text		
+156040	Baikal Lake	Text		
+156041	Baikal Lake	Text		
+156042	Baikal Lake	Text		
+156043	Baikal Lake	Text		
+156045	Baikal Lake	Text		
+156028	Baikal Lake	Text		
+156029	Baikal Lake	Text		
+156030	Baikal Lake	Text		
+156031	Baikal Lake	Text		
+156032	Baikal Lake	Text		
+156035	Baikal Lake	Text		
+156012	Baikal Lake	Text		
+156022	Baikal Lake	Text		
+156023	Baikal Lake	Text		
+156024	Baikal Lake	Text		
+156026	Baikal Lake	Text		
+156027	Baikal Lake	Text		
+146888	Galapagos	Text		
+152596	Galapagos	Text		
+155754	Galapagos	Text		
+155771	Galapagos	Text		
+155837	Galapagos	Text		
+143106	Portugese Exclusive Economic Zone	Text		
+143184	Portugese Exclusive Economic Zone	Text		
+143191	Portugese Exclusive Economic Zone	Text		
+143546	Portugese Exclusive Economic Zone	Text		
+143552	Portugese Exclusive Economic Zone	Text		
+143563	Portugese Exclusive Economic Zone	Text		
+143564	Portugese Exclusive Economic Zone	Text		
+480837	Portugese Exclusive Economic Zone	Text		
+143106	Mediterranean Sea	IHO/EEZ		
+143184	Mediterranean Sea	IHO/EEZ		
+143191	Mediterranean Sea	IHO/EEZ		
+143546	Mediterranean Sea	IHO/EEZ		
+143552	Mediterranean Sea	IHO/EEZ		
+143563	Mediterranean Sea	IHO/EEZ		
+143564	Mediterranean Sea	IHO/EEZ		
+480837	Mediterranean Sea	IHO/EEZ		
+143040	European waters (ERMS scope)	Text		
+143041	European waters (ERMS scope)	Text		
+143042	European waters (ERMS scope)	Text		
+233954	European waters (ERMS scope)	Text		
+233955	European waters (ERMS scope)	Text		
+233956	European waters (ERMS scope)	Text		
+143655	European waters (ERMS scope)	Text		
+143624	European waters (ERMS scope)	Text		
+143626	European waters (ERMS scope)	Text		
+143627	European waters (ERMS scope)	Text		
+143628	European waters (ERMS scope)	Text		
+143635	European waters (ERMS scope)	Text		
+143636	European waters (ERMS scope)	Text		
+143610	European waters (ERMS scope)	Text		
+143612	European waters (ERMS scope)	Text		
+143613	European waters (ERMS scope)	Text		
+143614	European waters (ERMS scope)	Text		
+143615	European waters (ERMS scope)	Text		
+143623	European waters (ERMS scope)	Text		
+143593	European waters (ERMS scope)	Text		
+143597	European waters (ERMS scope)	Text		
+143598	European waters (ERMS scope)	Text		
+143602	European waters (ERMS scope)	Text		
+143606	European waters (ERMS scope)	Text		
+143607	European waters (ERMS scope)	Text		
+143572	European waters (ERMS scope)	Text		
+143573	European waters (ERMS scope)	Text		
+143574	European waters (ERMS scope)	Text		
+143586	European waters (ERMS scope)	Text		
+143588	European waters (ERMS scope)	Text		
+143592	European waters (ERMS scope)	Text		
+143554	European waters (ERMS scope)	Text		
+143562	European waters (ERMS scope)	Text		
+143564	European waters (ERMS scope)	Text		
+143566	European waters (ERMS scope)	Text		
+143567	European waters (ERMS scope)	Text		
+143570	European waters (ERMS scope)	Text		
+143540	European waters (ERMS scope)	Text		
+143541	European waters (ERMS scope)	Text		
+143545	European waters (ERMS scope)	Text		
+143548	European waters (ERMS scope)	Text		
+143549	European waters (ERMS scope)	Text		
+143553	European waters (ERMS scope)	Text		
+143529	European waters (ERMS scope)	Text		
+143530	European waters (ERMS scope)	Text		
+143532	European waters (ERMS scope)	Text		
+143533	European waters (ERMS scope)	Text		
+143536	European waters (ERMS scope)	Text		
+143538	European waters (ERMS scope)	Text		
+143515	European waters (ERMS scope)	Text		
+143516	European waters (ERMS scope)	Text		
+143517	European waters (ERMS scope)	Text		
+143518	European waters (ERMS scope)	Text		
+143519	European waters (ERMS scope)	Text		
+143520	European waters (ERMS scope)	Text		
+143277	European waters (ERMS scope)	Text		
+143278	European waters (ERMS scope)	Text		
+143279	European waters (ERMS scope)	Text		
+143285	European waters (ERMS scope)	Text		
+143294	European waters (ERMS scope)	Text		
+143304	European waters (ERMS scope)	Text		
+143242	European waters (ERMS scope)	Text		
+143243	European waters (ERMS scope)	Text		
+143246	European waters (ERMS scope)	Text		
+143249	European waters (ERMS scope)	Text		
+143268	European waters (ERMS scope)	Text		
+143270	European waters (ERMS scope)	Text		
+143225	European waters (ERMS scope)	Text		
+143226	European waters (ERMS scope)	Text		
+143227	European waters (ERMS scope)	Text		
+143228	European waters (ERMS scope)	Text		
+143229	European waters (ERMS scope)	Text		
+143230	European waters (ERMS scope)	Text		
+143217	European waters (ERMS scope)	Text		
+143218	European waters (ERMS scope)	Text		
+143220	European waters (ERMS scope)	Text		
+143221	European waters (ERMS scope)	Text		
+143222	European waters (ERMS scope)	Text		
+143223	European waters (ERMS scope)	Text		
+143192	European waters (ERMS scope)	Text		
+143193	European waters (ERMS scope)	Text		
+143198	European waters (ERMS scope)	Text		
+143211	European waters (ERMS scope)	Text		
+143215	European waters (ERMS scope)	Text		
+143216	European waters (ERMS scope)	Text		
+143176	European waters (ERMS scope)	Text		
+143177	European waters (ERMS scope)	Text		
+143178	European waters (ERMS scope)	Text		
+143179	European waters (ERMS scope)	Text		
+143180	European waters (ERMS scope)	Text		
+143191	European waters (ERMS scope)	Text		
+143150	European waters (ERMS scope)	Text		
+143151	European waters (ERMS scope)	Text		
+143155	European waters (ERMS scope)	Text		
+143158	European waters (ERMS scope)	Text		
+143161	European waters (ERMS scope)	Text		
+143162	European waters (ERMS scope)	Text		
+143140	European waters (ERMS scope)	Text		
+143143	European waters (ERMS scope)	Text		
+143145	European waters (ERMS scope)	Text		
+143146	European waters (ERMS scope)	Text		
+143147	European waters (ERMS scope)	Text		
+143148	European waters (ERMS scope)	Text		
+143123	European waters (ERMS scope)	Text		
+143124	European waters (ERMS scope)	Text		
+143126	European waters (ERMS scope)	Text		
+143129	European waters (ERMS scope)	Text		
+143130	European waters (ERMS scope)	Text		
+143133	European waters (ERMS scope)	Text		
+143107	European waters (ERMS scope)	Text		
+143111	European waters (ERMS scope)	Text		
+143113	European waters (ERMS scope)	Text		
+143116	European waters (ERMS scope)	Text		
+143117	European waters (ERMS scope)	Text		
+143121	European waters (ERMS scope)	Text		
+143079	European waters (ERMS scope)	Text		
+143089	European waters (ERMS scope)	Text		
+143092	European waters (ERMS scope)	Text		
+143095	European waters (ERMS scope)	Text		
+143096	European waters (ERMS scope)	Text		
+143099	European waters (ERMS scope)	Text		
+143054	European waters (ERMS scope)	Text		
+143057	European waters (ERMS scope)	Text		
+143058	European waters (ERMS scope)	Text		
+143060	European waters (ERMS scope)	Text		
+143061	European waters (ERMS scope)	Text		
+143073	European waters (ERMS scope)	Text		
+143660	European waters (ERMS scope)	Text		
+447989	European waters (ERMS scope)	Text		
+143047	European waters (ERMS scope)	Text		
+143049	European waters (ERMS scope)	Text		
+143050	European waters (ERMS scope)	Text		
+143052	European waters (ERMS scope)	Text		
+143630	European waters (ERMS scope)	Text		
+143631	European waters (ERMS scope)	Text		
+143632	European waters (ERMS scope)	Text		
+143633	European waters (ERMS scope)	Text		
+143634	European waters (ERMS scope)	Text		
+143638	European waters (ERMS scope)	Text		
+143618	European waters (ERMS scope)	Text		
+143619	European waters (ERMS scope)	Text		
+143621	European waters (ERMS scope)	Text		
+143622	European waters (ERMS scope)	Text		
+143625	European waters (ERMS scope)	Text		
+143629	European waters (ERMS scope)	Text		
+143604	European waters (ERMS scope)	Text		
+143605	European waters (ERMS scope)	Text		
+143608	European waters (ERMS scope)	Text		
+143609	European waters (ERMS scope)	Text		
+143616	European waters (ERMS scope)	Text		
+143617	European waters (ERMS scope)	Text		
+143587	European waters (ERMS scope)	Text		
+143589	European waters (ERMS scope)	Text		
+143595	European waters (ERMS scope)	Text		
+143599	European waters (ERMS scope)	Text		
+143601	European waters (ERMS scope)	Text		
+143603	European waters (ERMS scope)	Text		
+143578	European waters (ERMS scope)	Text		
+143579	European waters (ERMS scope)	Text		
+143581	European waters (ERMS scope)	Text		
+143583	European waters (ERMS scope)	Text		
+143584	European waters (ERMS scope)	Text		
+143585	European waters (ERMS scope)	Text		
+143568	European waters (ERMS scope)	Text		
+143569	European waters (ERMS scope)	Text		
+143571	European waters (ERMS scope)	Text		
+143575	European waters (ERMS scope)	Text		
+143576	European waters (ERMS scope)	Text		
+143577	European waters (ERMS scope)	Text		
+143557	European waters (ERMS scope)	Text		
+143558	European waters (ERMS scope)	Text		
+143559	European waters (ERMS scope)	Text		
+143560	European waters (ERMS scope)	Text		
+143561	European waters (ERMS scope)	Text		
+143563	European waters (ERMS scope)	Text		
+143546	European waters (ERMS scope)	Text		
+143547	European waters (ERMS scope)	Text		
+143550	European waters (ERMS scope)	Text		
+143551	European waters (ERMS scope)	Text		
+143552	European waters (ERMS scope)	Text		
+143556	European waters (ERMS scope)	Text		
+143534	European waters (ERMS scope)	Text		
+143535	European waters (ERMS scope)	Text		
+143537	European waters (ERMS scope)	Text		
+143542	European waters (ERMS scope)	Text		
+143543	European waters (ERMS scope)	Text		
+143544	European waters (ERMS scope)	Text		
+143524	European waters (ERMS scope)	Text		
+143525	European waters (ERMS scope)	Text		
+143526	European waters (ERMS scope)	Text		
+143527	European waters (ERMS scope)	Text		
+143528	European waters (ERMS scope)	Text		
+143531	European waters (ERMS scope)	Text		
+143509	European waters (ERMS scope)	Text		
+143511	European waters (ERMS scope)	Text		
+143512	European waters (ERMS scope)	Text		
+143521	European waters (ERMS scope)	Text		
+143522	European waters (ERMS scope)	Text		
+143523	European waters (ERMS scope)	Text		
+143501	European waters (ERMS scope)	Text		
+143502	European waters (ERMS scope)	Text		
+143503	European waters (ERMS scope)	Text		
+143504	European waters (ERMS scope)	Text		
+143506	European waters (ERMS scope)	Text		
+143507	European waters (ERMS scope)	Text		
+143495	European waters (ERMS scope)	Text		
+143496	European waters (ERMS scope)	Text		
+143497	European waters (ERMS scope)	Text		
+143498	European waters (ERMS scope)	Text		
+143499	European waters (ERMS scope)	Text		
+143500	European waters (ERMS scope)	Text		
+143489	European waters (ERMS scope)	Text		
+143490	European waters (ERMS scope)	Text		
+143491	European waters (ERMS scope)	Text		
+143492	European waters (ERMS scope)	Text		
+143493	European waters (ERMS scope)	Text		
+143494	European waters (ERMS scope)	Text		
+143300	European waters (ERMS scope)	Text		
+143301	European waters (ERMS scope)	Text		
+143302	European waters (ERMS scope)	Text		
+143303	European waters (ERMS scope)	Text		
+143305	European waters (ERMS scope)	Text		
+143488	European waters (ERMS scope)	Text		
+143293	European waters (ERMS scope)	Text		
+143295	European waters (ERMS scope)	Text		
+143296	European waters (ERMS scope)	Text		
+143297	European waters (ERMS scope)	Text		
+143298	European waters (ERMS scope)	Text		
+143299	European waters (ERMS scope)	Text		
+143283	European waters (ERMS scope)	Text		
+143284	European waters (ERMS scope)	Text		
+143288	European waters (ERMS scope)	Text		
+143289	European waters (ERMS scope)	Text		
+143290	European waters (ERMS scope)	Text		
+143291	European waters (ERMS scope)	Text		
+143274	European waters (ERMS scope)	Text		
+143275	European waters (ERMS scope)	Text		
+143276	European waters (ERMS scope)	Text		
+143280	European waters (ERMS scope)	Text		
+143281	European waters (ERMS scope)	Text		
+143282	European waters (ERMS scope)	Text		
+143265	European waters (ERMS scope)	Text		
+143266	European waters (ERMS scope)	Text		
+143269	European waters (ERMS scope)	Text		
+143271	European waters (ERMS scope)	Text		
+143272	European waters (ERMS scope)	Text		
+143273	European waters (ERMS scope)	Text		
+143256	European waters (ERMS scope)	Text		
+143257	European waters (ERMS scope)	Text		
+143260	European waters (ERMS scope)	Text		
+143261	European waters (ERMS scope)	Text		
+143262	European waters (ERMS scope)	Text		
+143263	European waters (ERMS scope)	Text		
+143248	European waters (ERMS scope)	Text		
+143251	European waters (ERMS scope)	Text		
+143252	European waters (ERMS scope)	Text		
+143253	European waters (ERMS scope)	Text		
+143254	European waters (ERMS scope)	Text		
+143255	European waters (ERMS scope)	Text		
+143239	European waters (ERMS scope)	Text		
+143240	European waters (ERMS scope)	Text		
+143241	European waters (ERMS scope)	Text		
+143244	European waters (ERMS scope)	Text		
+143245	European waters (ERMS scope)	Text		
+143247	European waters (ERMS scope)	Text		
+143233	European waters (ERMS scope)	Text		
+143234	European waters (ERMS scope)	Text		
+143235	European waters (ERMS scope)	Text		
+143236	European waters (ERMS scope)	Text		
+143237	European waters (ERMS scope)	Text		
+143238	European waters (ERMS scope)	Text		
+143197	European waters (ERMS scope)	Text		
+143212	European waters (ERMS scope)	Text		
+143213	European waters (ERMS scope)	Text		
+143214	European waters (ERMS scope)	Text		
+143219	European waters (ERMS scope)	Text		
+143224	European waters (ERMS scope)	Text		
+143185	European waters (ERMS scope)	Text		
+143189	European waters (ERMS scope)	Text		
+143190	European waters (ERMS scope)	Text		
+143194	European waters (ERMS scope)	Text		
+143195	European waters (ERMS scope)	Text		
+143196	European waters (ERMS scope)	Text		
+143168	European waters (ERMS scope)	Text		
+143169	European waters (ERMS scope)	Text		
+143170	European waters (ERMS scope)	Text		
+143181	European waters (ERMS scope)	Text		
+143183	European waters (ERMS scope)	Text		
+143184	European waters (ERMS scope)	Text		
+143160	European waters (ERMS scope)	Text		
+143163	European waters (ERMS scope)	Text		
+143164	European waters (ERMS scope)	Text		
+143165	European waters (ERMS scope)	Text		
+143166	European waters (ERMS scope)	Text		
+143167	European waters (ERMS scope)	Text		
+143149	European waters (ERMS scope)	Text		
+143152	European waters (ERMS scope)	Text		
+143153	European waters (ERMS scope)	Text		
+143154	European waters (ERMS scope)	Text		
+143156	European waters (ERMS scope)	Text		
+143159	European waters (ERMS scope)	Text		
+143136	European waters (ERMS scope)	Text		
+143137	European waters (ERMS scope)	Text		
+143138	European waters (ERMS scope)	Text		
+143139	European waters (ERMS scope)	Text		
+143142	European waters (ERMS scope)	Text		
+143144	European waters (ERMS scope)	Text		
+143127	European waters (ERMS scope)	Text		
+143128	European waters (ERMS scope)	Text		
+143131	European waters (ERMS scope)	Text		
+143132	European waters (ERMS scope)	Text		
+143134	European waters (ERMS scope)	Text		
+143135	European waters (ERMS scope)	Text		
+143114	European waters (ERMS scope)	Text		
+143118	European waters (ERMS scope)	Text		
+143119	European waters (ERMS scope)	Text		
+143120	European waters (ERMS scope)	Text		
+143122	European waters (ERMS scope)	Text		
+143125	European waters (ERMS scope)	Text		
+143103	European waters (ERMS scope)	Text		
+143104	European waters (ERMS scope)	Text		
+143105	European waters (ERMS scope)	Text		
+143106	European waters (ERMS scope)	Text		
+143109	European waters (ERMS scope)	Text		
+143112	European waters (ERMS scope)	Text		
+143093	European waters (ERMS scope)	Text		
+143094	European waters (ERMS scope)	Text		
+143097	European waters (ERMS scope)	Text		
+143098	European waters (ERMS scope)	Text		
+143101	European waters (ERMS scope)	Text		
+143102	European waters (ERMS scope)	Text		
+143085	European waters (ERMS scope)	Text		
+143086	European waters (ERMS scope)	Text		
+143087	European waters (ERMS scope)	Text		
+143088	European waters (ERMS scope)	Text		
+143090	European waters (ERMS scope)	Text		
+143091	European waters (ERMS scope)	Text		
+143078	European waters (ERMS scope)	Text		
+143080	European waters (ERMS scope)	Text		
+143081	European waters (ERMS scope)	Text		
+143082	European waters (ERMS scope)	Text		
+143083	European waters (ERMS scope)	Text		
+143084	European waters (ERMS scope)	Text		
+143071	European waters (ERMS scope)	Text		
+143072	European waters (ERMS scope)	Text		
+143074	European waters (ERMS scope)	Text		
+143075	European waters (ERMS scope)	Text		
+143076	European waters (ERMS scope)	Text		
+143077	European waters (ERMS scope)	Text		
+143064	European waters (ERMS scope)	Text		
+143065	European waters (ERMS scope)	Text		
+143066	European waters (ERMS scope)	Text		
+143067	European waters (ERMS scope)	Text		
+143068	European waters (ERMS scope)	Text		
+143070	European waters (ERMS scope)	Text		
+143051	European waters (ERMS scope)	Text		
+143053	European waters (ERMS scope)	Text		
+143055	European waters (ERMS scope)	Text		
+143056	European waters (ERMS scope)	Text		
+143059	European waters (ERMS scope)	Text		
+143062	European waters (ERMS scope)	Text		
+143576	North West Atlantic	Text		
+143492	North West Atlantic	Text		
+152542	North West Atlantic	Text		
+157970	North West Atlantic	Text		
+143544	North West Atlantic	Text		
+152881	North West Atlantic	Text		
+153248	North West Atlantic	Text		
+153006	North West Atlantic	Text		
+143492	Gulf of Maine	Text		
+143576	Gulf of Maine	Text		
+152542	Gulf of Maine	Text		
+153248	Gulf of Maine	Text		
+152542	Atlantic Europe	Text		
+152575	Atlantic Europe	Text		
+152576	Atlantic Europe	Text		
+152578	Atlantic Europe	Text		
+152755	Atlantic Europe	Text		
+152756	Atlantic Europe	Text		
+153153	Atlantic Europe	Text		
+154911	Atlantic Europe	Text		
+155611	Atlantic Europe	Text		
+143488	Sint-Idesbald	Text		
+143489	Sint-Idesbald	Text		
+143490	Sint-Idesbald	Text		
+143571	Sint-Idesbald	Text		
+143524	Sint-Idesbald	Text		
+143556	Sint-Idesbald	Text		
+143132	Sint-Idesbald	Text		
+143137	Sint-Idesbald	Text		
+143082	Sint-Idesbald	Text		
+143299	Sint-Idesbald	Text		
+143109	Sint-Idesbald	Text		
+143114	Sint-Idesbald	Text		
+143119	Sint-Idesbald	Text		
+143125	Sint-Idesbald	Text		
+143128	Sint-Idesbald	Text		
+143271	Sint-Idesbald	Text		
+143275	Sint-Idesbald	Text		
+143276	Sint-Idesbald	Text		
+143291	Sint-Idesbald	Text		
+143296	Sint-Idesbald	Text		
+143298	Sint-Idesbald	Text		
+143251	Sint-Idesbald	Text		
+143253	Sint-Idesbald	Text		
+143254	Sint-Idesbald	Text		
+143255	Sint-Idesbald	Text		
+163291	Sint-Idesbald	Text		
+163282	Sint-Idesbald	Text		
+233955	Sint-Idesbald	Text		
+143053	Sint-Idesbald	Text		
+143059	Sint-Idesbald	Text		
+143239	Sint-Idesbald	Text		
+143244	Sint-Idesbald	Text		
+143245	Sint-Idesbald	Text		
+143561	Sint-Idesbald	Text		
+143534	Sint-Idesbald	Text		
+154850	Sint-Idesbald	Text		
+143599	Sint-Idesbald	Text		
+143629	Sint-Idesbald	Text		
+143087	Sint-Idesbald	Text		
+143488	Het Zwin	Text		
+143490	Het Zwin	Text		
+143494	Het Zwin	Text		
+143500	Het Zwin	Text		
+143502	Het Zwin	Text		
+143571	Het Zwin	Text		
+143125	Het Zwin	Text		
+143128	Het Zwin	Text		
+143132	Het Zwin	Text		
+143082	Het Zwin	Text		
+143275	Het Zwin	Text		
+143296	Het Zwin	Text		
+143299	Het Zwin	Text		
+143109	Het Zwin	Text		
+143114	Het Zwin	Text		
+143119	Het Zwin	Text		
+143059	Het Zwin	Text		
+143239	Het Zwin	Text		
+143253	Het Zwin	Text		
+143254	Het Zwin	Text		
+143255	Het Zwin	Text		
+163291	Het Zwin	Text		
+143601	Het Zwin	Text		
+143629	Het Zwin	Text		
+143634	Het Zwin	Text		
+233954	Het Zwin	Text		
+233955	Het Zwin	Text		
+233956	Het Zwin	Text		
+143524	Het Zwin	Text		
+143556	Het Zwin	Text		
+143561	Het Zwin	Text		
+154850	Het Zwin	Text		
+143599	Het Zwin	Text		
+152467	Het Zwin	Text		
+152467	North Coast of France	Text		
+163282	North Coast of France	Text		
+143523	North Coast of France	Text		
+143525	North Coast of France	Text		
+143550	North Coast of France	Text		
+143552	North Coast of France	Text		
+143291	North Coast of France	Text		
+143296	North Coast of France	Text		
+143299	North Coast of France	Text		
+143125	North Coast of France	Text		
+143140	North Coast of France	Text		
+143059	North Coast of France	Text		
+143233	North Coast of France	Text		
+143070	North Coast of France	Text		
+143251	North Coast of France	Text		
+143275	North Coast of France	Text		
+143276	North Coast of France	Text		
+143608	North Coast of France	Text		
+143167	North Coast of France	Text		
+233954	North Coast of France	Text		
+233955	North Coast of France	Text		
+233956	North Coast of France	Text		
+143053	North Coast of France	Text		
+143556	North Coast of France	Text		
+143561	North Coast of France	Text		
+143534	North Coast of France	Text		
+143489	North Coast of France	Text		
+143495	North Coast of France	Text		
+143576	North Coast of France	Text		
+709455	Mediterranean Sea	IHO/EEZ	exotic	
+143224	Spuikom	Text		
+234086	East Gulf of Finland	Text		
+143488	Knokke	Text		
+143489	Knokke	Text		
+143490	Knokke	Text		
+143494	Knokke	Text		
+143500	Knokke	Text		
+143502	Knokke	Text		
+143082	Knokke	Text		
+143299	Knokke	Text		
+143109	Knokke	Text		
+143125	Knokke	Text		
+143128	Knokke	Text		
+143132	Knokke	Text		
+143137	Knokke	Text		
+163282	Knokke	Text		
+143271	Knokke	Text		
+143275	Knokke	Text		
+143276	Knokke	Text		
+143291	Knokke	Text		
+143296	Knokke	Text		
+155946	Knokke	Text		
+143244	Knokke	Text		
+143251	Knokke	Text		
+143252	Knokke	Text		
+143254	Knokke	Text		
+163291	Knokke	Text		
+233955	Knokke	Text		
+233956	Knokke	Text		
+143059	Knokke	Text		
+143190	Knokke	Text		
+143074	Knokke	Text		
+143239	Knokke	Text		
+154850	Knokke	Text		
+143599	Knokke	Text		
+152467	Knokke	Text		
+143601	Knokke	Text		
+143087	Knokke	Text		
+233954	Knokke	Text		
+143507	Knokke	Text		
+143571	Knokke	Text		
+143524	Knokke	Text		
+143556	Knokke	Text		
+143561	Knokke	Text		
+143534	Knokke	Text		
+155053	Zanzibar	Text		
+143488	Mariakerke	Text		
+143489	Mariakerke	Text		
+143490	Mariakerke	Text		
+143500	Mariakerke	Text		
+143571	Mariakerke	Text		
+143524	Mariakerke	Text		
+143128	Mariakerke	Text		
+143132	Mariakerke	Text		
+143137	Mariakerke	Text		
+143082	Mariakerke	Text		
+143299	Mariakerke	Text		
+143302	Mariakerke	Text		
+143114	Mariakerke	Text		
+143119	Mariakerke	Text		
+143120	Mariakerke	Text		
+143125	Mariakerke	Text		
+163282	Mariakerke	Text		
+143271	Mariakerke	Text		
+143275	Mariakerke	Text		
+143276	Mariakerke	Text		
+143291	Mariakerke	Text		
+143296	Mariakerke	Text		
+143244	Mariakerke	Text		
+143251	Mariakerke	Text		
+143252	Mariakerke	Text		
+143253	Mariakerke	Text		
+143254	Mariakerke	Text		
+163291	Mariakerke	Text		
+143104	Mariakerke	Text		
+233955	Mariakerke	Text		
+143053	Mariakerke	Text		
+143059	Mariakerke	Text		
+143190	Mariakerke	Text		
+143240	Mariakerke	Text		
+143556	Mariakerke	Text		
+143561	Mariakerke	Text		
+143534	Mariakerke	Text		
+143599	Mariakerke	Text		
+143634	Mariakerke	Text		
+143087	Mariakerke	Text		
+153248	Minas Basin	Text		
+155754	Curaçao	Text		
+163283	Delta area	Text		
+143525	Delta area	Text		
+143546	Delta area	Text		
+143550	Delta area	Text		
+143552	Delta area	Text		
+143556	Delta area	Text		
+143109	Delta area	Text		
+143125	Delta area	Text		
+143128	Delta area	Text		
+143132	Delta area	Text		
+143135	Delta area	Text		
+143082	Delta area	Text		
+143288	Delta area	Text		
+143291	Delta area	Text		
+143297	Delta area	Text		
+143298	Delta area	Text		
+143299	Delta area	Text		
+143163	Delta area	Text		
+143269	Delta area	Text		
+143271	Delta area	Text		
+143275	Delta area	Text		
+143276	Delta area	Text		
+143280	Delta area	Text		
+143283	Delta area	Text		
+143156	Delta area	Text		
+143239	Delta area	Text		
+143248	Delta area	Text		
+143251	Delta area	Text		
+143253	Delta area	Text		
+143254	Delta area	Text		
+143067	Delta area	Text		
+143170	Delta area	Text		
+143184	Delta area	Text		
+143191	Delta area	Text		
+143224	Delta area	Text		
+143233	Delta area	Text		
+233955	Delta area	Text		
+233956	Delta area	Text		
+143053	Delta area	Text		
+143056	Delta area	Text		
+143062	Delta area	Text		
+143066	Delta area	Text		
+143087	Delta area	Text		
+143097	Delta area	Text		
+143102	Delta area	Text		
+143104	Delta area	Text		
+143167	Delta area	Text		
+233954	Delta area	Text		
+143493	Delta area	Text		
+143495	Delta area	Text		
+154850	Delta area	Text		
+143605	Delta area	Text		
+143608	Delta area	Text		
+143618	Delta area	Text		
+143558	Delta area	Text		
+143561	Delta area	Text		
+143563	Delta area	Text		
+143534	Delta area	Text		
+143488	Delta area	Text		
+143490	Delta area	Text		
+143576	Pea Point	Text		
+143492	Cobscook Bay	Text		
+152542	Cobscook Bay	Text		
+157970	Cobscook Bay	Text		
+709456	Western Mediterranean	Text		
+709457	Western Mediterranean	Text		
+709458	Western Mediterranean	Text		
+709459	Western Mediterranean	Text		
+152881	Saguenay Fjord	Text		

@@ -1,0 +1,326 @@
+ReferenceID	Authors	Year	Title	Details	
+42			ITIS database		
+57	Schockaert, E.R.; Jouk, P.E.H.; Martens, P.M.	1989	Free-living Plathelminthes from the Belgian coast and adjacent areas, <B><I>in</I></B>: Wouters, K.; Baert, L. (Ed.) (1989). <i>Proceedings of the Symposium "Invertebrates of Belgium".</i>		
+820			Taxonlan		
+1035	Martens, P.M.; Schockaert, E.R.	1981	Sand dwelling Turbellaria from the Netherlands Delta area.		
+1359	Faubel, A.; Noreña, C.	2001	Turbellaria, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+1689	An, D. H.	1967	Zur Turbellarien-Fauna des hypoheischen Interstitials Archive fur Hydrobiologie (Supplement 33		
+1706	Armonies, W.; Hellwig, M.	1987	Neue plathelminthes aus dem brackwasser der insel Sylt (Nordsee		
+1709	Artois, T. J.; Schockaert, E. R.	1998	A cladistic re-asessment of the Polycystis species complex		
+1711	Artois, T.; Schockaert, E. R.	1999	Two new species of the genus Duplacrorhynchus Schockaert & Karling, with remarks on relationships within the genus		
+1712	Artois, T.; Schockaert, E.R.	1999	Interstitial fauna of Galapagos: Porrocystidinae (Plathelminthes Polycystididae). <i>Trop. Zool. 112</i>: (in press)		
+1713	Artois, T.J.; Schockaert, E.	2000	Interstitial fauna of the Galapagos: Typhlopolycystidinae (Platyhelminthes Polycystididae). <i>Trop. Zool. 13</i>: 141-158		
+1714	Artois, T.; Schockaert, E. R.	2001	Interstitial fauna of the Galapagos		
+1716	Attems C.G.	1896	Beitrag zur kenntnis der rhabdocoelen turbellarien Helgolands Wissenschaftliche Meeresuntersuchungen der Kommission abteilung Kiel 2: 219-232		
+1717	Ax, P.	1951	Der Turbellarien des Eulitorals der Kieler Bucht Zoologisher Jahrbucherabteilung fur Systemantik, Geographie und Biologie de Tierre 80: 277-378		
+1720	Ax, P.	1951	Die turbellarien des eulitorals der Kieler Bucht Zoologisher Jahrbücher-Abteilung für Systematik, Geographie und Biologie der Tiere  80: 277-377		
+1727	Ax, P.	1952	Zur kenntnis der Gnathorhynchidae (Turbellaria neorahbdocoela) Zoologischer Anzeiger 148: 50-58		
+1730	Ax, P.	1954	Zwei neue Monocelididae (Turbellaria Proseriata) aus dem Eulitoral der Nord- und Ostsee Kieler Meeresforschungen 10: 229-242		
+1733	Ax, P.	1994	Japanoplana insolita n.sp. - eine neue organisation der Lithophora		
+1737	Ax, P.	1955	Studien uber psammobionte turbellaria macrostomida Vie Milieu 6: 67-73		
+1738	Ax, P.	1956	Monographie der otoplanidae (Turbellaria) Morphologie und systematik Abhandlungen der mathematisch-naturwissenschaftlichen klasse 13: 3-298		
+1740	Ax, P.	1956	Studien über psammobionte turbellaria Macrostomida 4. Myozona stylifera nov.spec. Zoologischer Anzeiger 157: 251-260		
+1741	Ax, P.	1956	Les turbellaries des étangs côtiers du littoral méditerranéen de la France meridionale Vie et Milieu, suppl. 5: 1-214		
+1742	Ax, P.	1958	Vervielfachung des mannlichen Kopulationsapparates bei Turbellarien Verhandlungen der Deutschen Zoologischen Gesselschaft : 227-249		
+1743	Ax, P.	1959	Zur systematik, okologie und tiergeographie der Turbellarienfauna in den ponto-kapischen brackwassermeeren Zoologisher Jahrbucher-Abteiling fur Systematik,Geographie und Biologie der Tierre 87: 43-184		
+1744	Ax, P.	1959	960) Zur Systematik Oekologie und Tiergeographie der Turbellarienfauna in den ponto-kaspischen Brackwassermeeren Zoologisher Jahrbucherabteilung fur Systemantik, Geographie und Biologie de Tierre 87: 43-184		
+1746	Ax, P.	1963	Die Ausbildung eines Schwanzfadens in der interstitiellen sandfauna und der Verwertbarkeit von lebensformcharakteren fur die Verwantschaftsforschung Zoologischer Anzeiger 171: 51-76		
+1748	Ax, P.	1966	Die Bedeutung der interstitiellen sandfauna fur allgemeine probleme der Systematik, Okologie und Biologie.		
+1752	Ax, P.	1971	Zur systematik und phylogenie der Trigonostominae Mikrofauna des Meeresbodens 4: 141-220		
+1765	Ax, P.; Armonies, W.	1987	Amphiatlantic identities in the composition of the boreal brackish water community of plathelminthes. A comparison between the Canadian		
+1766	Ax, P. & Armonies W.	1990	Brackish water plathelminthes from Alaska as evidence for the existence of a boreal brackish water community with circumpolar distribution Microfauna Marina 6: 7-109		
+1767	Ax, P. & Ax R.	1967	Turbellaria proseriata von der Pazifikküste der USA (Washington) 1. otoplanidae Zeitschrit fur der Morphologie der Tiere 61: 215-254		
+1769	Ax, P.; Ax, R.	1974	Interstitielle fauna von Galapagos 5		
+1770	Ax, P.; Ax, R.	1974	Interstitielle fauna von Galapagos 7		
+1771	Ax, P.; Ax, R.	1977	Interstitielle fauna von Galapagos 19		
+1775	Ax, P. & Heller R.	1970	Neue Neorhabdocoela (Turbellaria) vom sandstrand der Nordsee-inseln Sylt. Mikrofauna des Meeresbodens 2: 55-98, 20 figs.		
+1780	Ax, P.; Sopott-Ehlers, B.	1979	Turbellaria Proseriata von der Pazifikküste der USA (Washington) 2		
+1781	Ax, P.& Sopott-Ehlers B.	1985	Monocelididae (Plathelminthes, Proseriata) von Bermuda.		
+1782	Ax, P.; Sopott-Ehlers, B.	1987	Otoplanidea (Plathelminthes, Proseriata) von		
+1783	Ax, P., Weideman E. & Ehlers B.	1978	Zur morphologie sublitoraler Otoplanidae (Turbellaria, Proseriata) von Helgoland und Neapel Zoomorphologie 90: 113-133		
+1807	Beklemischev W.	1927	über die turbellarienfauna der Bucht von Odessa und der in dieselbe mündenden Quellen Bulletin de l’Institut des reserches biologiques et de la station biologiques a l’universite de Perm 5: 177-207		
+1808	Beklemischev W.	1928	Über turbellarienfauna des Aralsees Zugleich ein beitrag zur morphologie und zum system der Dalyelliida Zoologisher Jahrbucherabteilung fur Systemantik, Geographie und Biologie de Tierre 54: 88-138		
+1811	Beklemischev W.N.	1922	Nouvelles contributions a la faune de lac Aral Russischer Hydrobiologisch Zeitschrift 1: 276-289		
+1812	Beklemischev W.N.	1927	Uber der Turbellarienfauna des Aralsee - Zugleich ein beitrage zur morphologie und zum System der Dalyelliida Zoologische Jahrbucher fur systematik 54: 87-138		
+1821	Boaden, P. J. S.	1963	The interstitial turbellaria kalyptorhynchia from some north Wales beaches		
+1847	Brunet M.	1965	Turbellaries calyptorhynques de substrats meubles de la région de Marseille Recueil des travaux de la station marine d’Endoume 39: 128-218		
+1848	Brunet M.	1966	Sur quelques Turbellaries Calyptorhynques de sables fins de la region de Marseille Bulletin de la Societe Zoologique de France 91: 721-730		
+1849	Brunet M.	1967	Turbellaries Schizorhynques de la region de Marseille.  Sur Carcharodorhynchus subterraneus Meixner et Carcharodorhynchus flavidus nov. sp. Bulletin de la Societe Zoologique de France 92: 143-152		
+1851	Brunet M.	1969	Turbellaries Polycystididae de la région de Marseille 1. La genre Rogneda Bulletin de la Société Zoologique de France 94: 207-222		
+1854	Brunet, M.	1972	Koinocystididae de la région de Marseille (Turbellaria		
+1855	Brunet M.	1973	Turbellaries Calyptorhynques de la region marseillaise.  Les familles des Placorhynchidae et Gnathorhynchidae Bulletin de la Societe Zoologique de France 98: 121-135		
+1856	Brunet, M.	1973	La famille des Cicerinidae (Turbellaria		
+1857	Brunet M.	1979	Turbellaries calyptorhynques du golfe de Marseille Revue de Biologie et ecologie méditerranéenne 6: 101-120		
+1888	Claparède, É.	1861	Études anatomiques sur les annélides, turbellariés, opalines et grégarines observés dans les Hébrides		
+1894	Curini-Galletti	1997	Contribution to the knowledge of the Proseriata (Platyhelminthes, Seriata) from eastern Australia: genera Necia Marcus		
+1895	Curini-Galletti, M.	1998	The genus Polystyliphora Ax, 1958 (Platyhelminthes: Proseriata) in eastern Australia		
+1899	Curini-Galletti, M. C.; Cannon, L. R. G.	1995	Contribution to the knowledge of the proeriata (Platyhelminthes: seriata) from eastern Australia. 2		
+1901	Curini-Galletti, M. C.; Cannon, L. R. G.	1997	A polypharyngeal marine flatworm (Plathelminthes, Proseriata, Archimonocelididae) from eastern Australia Zoological		
+1902	Curini-Galletti M.C. & Cannon L/R.G.	1996	The genus Minona (Platyhelminthes, Seriata) in eastern Australia Zoologica Scripta 25: 193-202		
+1903	Curini-Galletti, M. C.; Martens, P. M.	1992	Systemaics of the unguiphora (Platyhelminthes Proseriata) 2. Family nematoplanidae Meixner		
+1904	Curini-Galletti, M. C.; Mura, F.	1998	Two new species of the genus Monocelis Ehrenberg, 1831 (Platyhelminthes: Proseriata) from the Mediterranean, with a redescription of Monocelis lineata		
+1908	Curini-Galletti M., Oggiano G. & Casu M.	2001	New Unguiphora (Platylminthes: Proseriata) from India Proceedings of the biological society of Washington 114: 737-745		
+1909	Curini-Galletti, M.; Oggiano, G.; Casu, M.	2002	The genus Nematoplana Meixner, (Platyhelminthes: Unguiphora) in eastern Australia		
+1910	Curni-Galletti, M. C.	1991	Monocelididae (Platyhelminthes: Proseriata) from Puerto Rico 1. Genera Minona and Monocelis		
+1913	Curni-Galletti, M. C.; Martens, P. M.	1991	Systematics of the Unguiphora (Platyhelminthes: Proseriata) 1. genus polystyliphora Ax		
+1914	Curni-Galletti, M. C.; Martens, P. M.	1992	Systematica of the Unguiphora (Platyhelminthes Proseriata) 2. Family Nematoplanidae meixner		
+1915	Curni-Galletti M.C. & Martens P.M.	1995	Archilina israelitica n. sp. (Platyhelminthes Proseriata) from the eastern Mediterranean Bollettino di Zoologia 62: 267-271		
+1922	de Beauchamp P.	1927	Rhabdocoeles des sables a diatomees d’Arcachon I. Bulletin de la societe zoologique de France 52: 351-359 3 figs.		
+1934	Dean, H. K.	1977	Two new kalyptorhynchia (Turbellaria) from the coast of northern New		
+1946	Den Hartog C.	1968	An analysis of the Gnathorhynchidae (Neorhabdocoela, Turbellaria) and the position of Psittacorhynchus verweyi nov.gen., nov.sp. in this family Koninklijke Nederlandse Akademie van Wetenschappen Proceedings, Series C 71: 335-345		
+1982	Ehlers B. & Ehlers U.	1977	Monociliary receptors ininterstitial Proseriata and Neorhabdocoela (Turbellaria Neoophora) Zoomorphologie 86: 197-222		
+2012	Ehlers U. & Ehlers B.	1980	Zur systematik und geographischen verbreitung interstitieller turbellarien der Kanarischen inseln Mikrofauna des Meresbodens 80: 573-593		
+2029	Evdonin, L. A.	1970	A new genus of Turbellarians from the family Polycystidae		
+2030	Evdonin L.A.	1970	De Proboscis bij de familie Polycystidae (Turbellaria, Neorhabdocoela, Kalyptorhynchia) Onderzoekingen over de evolutionaire morphology der ongewervelden : 22-30		
+2032	Evdonin, L. A.	1968	Polycystis orientalis sp.n. - new representative of turbellarian with a proboscis (Turbellaria Neorhabdocoela Kalyptorhynchia		
+2033	Evdonin, L. A.	1969	Een nieuwe vertegenwoordiger van de interstitiale Kalyptorhynchi (Turbellaria, Neorhabdocoela, Kalyptorhynchia) van het eiland Koenashir (Koerilen		
+2034	Evdonin, L. A.	1971	The interstitial Kalyptorhynchia (Turbellaria, Neorhabdocoela) from the bay of Peter the Great of the		
+2035	Evdonin, L. A.	1972	new species of the genus prognathorhynchus (Neorhabdocoela) and morphological analysis of Gnathorhynchidae		
+2036	Evdonin L.A.	1977	Turbellaria Kalyptorhynchia in the fauna of USSR and adjecent areas  : 1-400		
+2038	Fabricius O.	1826	Forsaettelse of nye zoologiske bidrag6. Nogle lidet bekjendte og tildeels nye fladorme (Planariae) Det Kongelige Danske Videnskabernes Seskabs naturvidenskabelige og mathematiske afhandlinger 2: 16-60		
+2059	Faubel A. & Rohde K.	1998	Sandy beach meiofauna of eastern Australia (southern Queensland and New Southe Wales). 4. proseriata, Plathelminthes Mitteilungen aus dem Hamburgischen Zoologischen Museum und Institut 95: 46935		
+2072	Ferguson F.F. & Jones E.R., Jr.	1949	A survey of the shore-line fauna of the Norfolk peninsula.		
+2073	Ferguson, F. F.; Ruffin, J. E. J.	1940	Studies on the Turbellarian fauna of the Norfolk		
+2077	Fleming, L. C.; Burt, M. D. B.	1978	On the genus Peraclistus (Turbellaria, Proseriata), with redescription of P		
+2079	Ferguson, F. F.; Stirewalt, M. A.; Kepner, W. A.	1940	A new turbellarian worm (Rhabdocoela) from Beaufort, North Carolina, Phonor hynchus pearsei n.sp		
+2080	Fleming, L. C.; Burt, M. D. B.	1978	Revision of the Turbellarian genus Ectocotyla (Seriata, Monocelididae) associated with the crabs Chionoecetes opilio and Hyas araneus		
+2084	Friedmann G.	1924	Monocelis oofaga nov.sp. eine neue parasitische Alloocole Bulletin de l’Institut des reserches biologiques et de la station biologiques a l’universite de Perm 3: 81-92		
+2103	Graff L von	1874	Zur kenntnis der Turbellarien Zeitschrift fur wissenschaftlige Zoologie 24: 123-160		
+2105	Graff L von	1882	Monographie der Turbellarien 1. Rhabdocoelida  : 1-442		
+2110	Graff  L. von	1904	908) Klassen und Ordnungen des Their-Reichs  : 2 blauwe fardes		
+2111	Graff L. von	1905	Marine Turbellarien Orottavas und der Küsten europas Zeitschrift fur wissenschaftlige Zoologie 83: 68-148		
+2113	Graff L. von	1911	Alocoela, Rhabdocoela und Alloeocoela des Ostens de Vereinigden Staaten. Mit Nachtüngen zu dem marinen Turbellarien Orotavas und der Küste Europas Zeitschrift für wissenschaftliche Zoologie 99: 68-65		
+2114	Graff L von	1913	Turbellaria 2. Rhabdocoelida Tierreich 35: 1-484		
+2119	Hellwig, M.	1987	Okologie freilebender Plathelminthen im grenzraum watt - salzweise lenitischer gezeitenkusten		
+2158	Hoxhold S.	1971	Eigebilde interstitieller Kalyptorhynchier (Turbellaria) von der deutschen Nordseekuste Mikrofauna des Meeresbodens 7: 253-293		
+2159	Hoxhold S.	1974	Zur populationsstruktur und abundanzdynamik interstitieller Kalyptorhynchia (Turbellaria, Neorhabdocoela) Mikrofauna des Meeresbodens 41: 3-133		
+2163	Hyman L.H.	1944	Marine turbellaria from the Atlantic coast of North America American museum Novitates 1266: 42036		
+2174	Jensen, O. S.	1878	Turbellaria ad litora Norvegiae occidentalia. Turbellarier ved Norges vestkyst, af Olaf S. Jensen		
+2195	Jouk P.E.H. & De Vocht A.J.-P.	1989	Kalyptorhynchia (Plathelminthes Rahbdocoela) from the Kenyan Coast, with description of four new species Tropical Zoology 2: 145-157		
+2199	Karling T.G.	1931	Untersuchungen über Kalyptorhynchia (Turbellaria Rhabdocoela) aus dem brackwasser des finnischen meerbusens Acta Zoologica Fennica 11: 24228		
+2203	Karling T.G.	1952	Studien uber Kalyptorhynchien (Turbellaria) Acta Zoologica fennica 69: 17899		
+2204	Karling T.G.	1952	Kalyptorhynchia (Turbellaria)  Further zoological results of the swedish antarctic expedition 1901-1903 : 18264		
+2205	Karling T.G.	1953	Zur kenntnis der gattung Rogneda Uljanin (Turbellaria, Kalyptorhynchia) Arkiv för Zoologi 5: 349-368		
+2207	Karling T.G.	1954	Einige marine vertreter der kalyptorhynchien-familie Koinocystididae Arkiv för Zoologi 7: 165-183		
+2209	Karling T.G.	1956	Zur kenntnis einiger Gnathorhynchiden nebst beschreibung einer neuen gattung Arkiv för Zoologi 9: 343-353		
+2210	Karling T.G.	1956	Morphologisch-histologische untersuchungen an den männlichen atrialorganen der Kalyptorhynchia (Turbellaria) Arkiv för Zoologi 9: 187-277		
+2216	Karling T.G.	1963	Die turbellarien ostfennoskandiens5. Neorhabdocoela 3. Kalyptorhynchia Societas pro fauna et flora Fennica 17: 21702		
+2218	Karling T.G.	1964	Marine turbellaria from the Pacific coast of North America3. Otoplanidae Arkiv for Zoologi 16: 527-541		
+2219	Karling T.G.	1964	Über einige neue und ungenügend bekannte turbellaria Eukalyptorhynchia Zoologischer Anzeiger 172: 159-183		
+2220	Karling T.G.	1965	Haploharynx rostratus Meixner (Turbellaria) mit den nemertinen verglichen Zeitschrift für Zoologische Systematik und Evolutionsforschung 3: 43101		
+2225	Karling T.G.	1966	Marine turbellaria from the Pacific coast of North America 4. Coelogynoporidae and Monocelididae Arkiv för Zoologi 18: 493-528		
+2229	Karling T.G.	1969	Ein uberzahliger genitalapparat bei einem rhabdocoeln Turbellar Zeitschrit fur der Morphologie der Tiere 65: 202-208		
+2232	Karling T.G.	1973	Anatomy and taxonomy of a new otoplanid (Turbellaria, Proseriata) from South Georgia Mikrofauna des Meeresbodens 16: 361-369		
+2233	Karling T.G.	1974	Turbellarian fauna of the Baltic proper Identification, ecology and biogeography Fauna Fennica 27: 4-101		
+2234	Karling T.G.	1978	Anatomy and systematics of marine turbellaria from Bermuda Zoologica Scripta 7: 225-248		
+2235	Karling T.G.	1980	Revision of Koinocystididae (Turbellaria) Zoologica Scripta 9: 241-269		
+2237	Karling, T. G.	1982	Anatomy and taxonomy of Phonorhynchus Graff (Turbellaria), with special reference to P		
+2239	Karling, T. G.	1983	Phylogeny of Paragnathorhynchus Meixner and Aculeorhynchus		
+2241	Karling T.G.	1986	Free-living marine Rhabdocoela (Platyhelminthes) from the N. American Pacific coast. With remraks on species from other areas Zoologica Scripta 15: 201-219		
+2242	Karling T.G.	1989	New taxa of Kalyptorhynchia (Platyhelminthes) from the N. American Pacific coast Zoologica Scripta 18: 19-32		
+2245	Karling, T. G.	1995	Two new species of Kalyptorhynchia (Plathelminthes) from the N. American Atlantic coast Belgian		
+2246	Karling T.G., Dörjes J. & Mack-Fira V.	1972	First report on marine microturbellarians from Hawaii Zoologica Scripta 1: 251-269		
+2248	Karling T.G. & Kinnander,H.	1953	Några virvelmaskar fran Ostersjon Svensk Faunistik Revy 3: 73-79		
+2250	Karling T.G. & Mack-Fira V. & Dorjes J.	1972	First report on marine microturbellarians from Hawaii Zoologica Scripta 1: 251-269		
+2252	Karling, T. G.; Schochaert, E. R.	1977	Anatomy and systematics of some Polycystididae (Turbellaria, Kalyptorhynchia) from the Pacific and		
+2265	Kolasa J.	1977	Remarks on the marine-originated turbellaria in the freshwater fauna Acta Zoologica Fennica 154: 82-87		
+2266	Kolasa J.	1977	Uncinorhynchus karlingi sp.nov. and Ethmorhynchus youngi sp.nov Microturbellaria Bulletin de l’Académie polonaise des sciencesSérie des sciences biologiques 25: 167-171		
+2287	l’Hardy J.-P.	1963	Note sur l’anatomie d’Ancistrorhynchus ischnurus n.g., n.sp. (Turbellarie Calyptorhynque Gnathorhynchidae) et sur ses rapports avec le genre Gnathorhynchus Cahiers de Biologie Marine 4: 219-231		
+2288	l’Hardy J.-P.	1963	Turbellaries Schizorhynchidae des sables de Roscoff1. Les genres Carcharodorhynchus, Schizochilus et Schizorhynchoides Cahiers de Biologie Marine 4: 459-472		
+2289	l’Hardy J.-P.	1964	Prognathorhynchus typhlus n.sp., nouveau turbellarie Calyptorhynque des sables de Roscoff Cahiers de Biologie Marine 5: 399-404		
+2292	l’Hardy J.-P.	1966	Drepanorhynchides diodontus n.sp., nouveau turbellarie calyptorhynque de la famille des Gnathorhynchidae Archives de Zoologie Experimentale & Generale 107: 419-425		
+2304	Lanfranchi, A.	1969	Nuovi Otoplanidi (Turbellaria Proseriata) Delle Coste Della Liguria e Della Toscana		
+2307	Levinsen,G.M.R.	1879	Bidrag til Kundskab om Gronlands Turbellariefauna  : 165-204		
+2340	Luther A.	1960	Die turbellarien ostfennoskandiens 1. Acoela, Catenulida, macrostomida, Lechithoepitheliata, Prolecithophora und Proseriata Fauna Fennica 7: 3-155		
+2345	Mack-Fira V.	1968	Turbellaries de la mer Noire Rapport de la commision internationale de la mer Mediterinee 19: 179-182		
+2347	Mack-Fira V.	1968	Pontarallia beklemichevi n.gen. n.sp., un kalyptorhynque relicque du bassin Ponto-aralo-caspien Travaux du Museum d’histoire naturelle “Grigore Antipa” 8: 333-341		
+2349	Mack-Fira V.	1971	Deux turbellariés nouveaux de la mer noire Revue Romaine de Biologie série de zoologie 16: 233-240		
+2362	Marcus E.	1948	Turbellaria do Brasil Boletins da Faculdade de Filosofia Cienciase Letras, Universidade de Sao Paulo Zoologia 13: 111-243		
+2363	Marcus E.	1949	Turbellaria Brasileiros (7) Boletins da Faculdade de Filosofia Cienciase Letras, Universidade de Sao Paulo Zoologia 14: 7-155		
+2364	Marcus E.	1950	Turbellaria Brasileiros Boletins da Faculdade de Filosofia Cienciase Letras, Universidade de Sao Paulo Zoologia 15: 5-190		
+2365	Marcus E.	1952	Turbellaria Brasileiros (10) Boletins da Faculdade de Filosofia Cienciase Letras, Universidade de Sao Paulo 17: 5-188		
+2367	Marcus, E.	1954	Reports of the lund university Chile expedition 1948-49. 11		
+2368	Marcus E.	1954	Turbellaria Brasileiros (11) Papéis avulsos 11: 419-489		
+2373	Marcus E. & Marcus E.	1951	Contribution to the natural history of Brazilian turbellaria Comunicaciones zoologicas del museo de histori natural de Montevideo 63: 45658		
+2377	Maristo L.	1938	Beitrage zur kenntnis der monocelidinen (Turbellaria, Alloeocoela) Annales Zoologici Societatis Zoologicae-Botanicae Fennicae Vanamo 6: 25204		
+2383	Martens E.E.	1986	Comparative ultrastructure of copulatory organs having a stylet in the Proseriata (Turbellaria) Hydrobiologia 132: 165-173		
+2384	Martens E.E. & Curini-Galletti M.C.	1994	Revision of the Archiloa genus complex with description of seven new Archilina species (Platyhelminthes, Proseriata) from the Mediterranean Bijdragen tot de dierkunde 64: 129-150		
+2386	Martens, E. E.; Schockaert, E. R.	1981	Observations on the ultrastructure of the copulatory organ of Archilopsis unipunctata		
+2387	Martens, E. E.; Schockaert, E. R.	1985	Studies on the ultrastructure of the genital organs in proseriata (Turbellaria). 1 Cirrifera aculeata (Ax		
+2388	Martens P.M.	1983	Three new species of Minoninae (Turbellaria, Proseriata, Monocelididdae) from the North Sea, with remarks on the taxonomy of the subfamily Zoologica Scripta 12: 153-160		
+2389	Martens P.M.	1984	Comparison of three different extraction methods for Turbellaria Marine ecology - progress series 14: 229-234		
+2390	Martens P.M.	1984	Three new Duplominona species (Turbellaria, Monocelididae, Minoninae) from the Mediterranean Cahiers de Biologie Marine 25: 319-331		
+2392	Martens P.M. & Curini-Galletti M.C.	1993	Taxonomy and phylogeny of the Archimonocelididae Meixner, 1938 (Platyhelminthes, Proseriata) Bijdragen tot de dierkunde 63: 65-102		
+2393	Martens, P. M.; Curini-Galletti, M. C.	1987	Karyological study of three Monocelis-species, and description of a new species from the Mediterranean, Monocelis longistyla sp.n		
+2394	Martens P.M. & Curini-Galletti M.C.	1989	Monocelididae and Archimonocelididae (Platyhelminthes Proseriata) from south Sulawesi (Indonesia) and northern Australia with biogeographical remarks Tropical Zoology 2: 175-205		
+2396	Martens, P. M.; Curini-Galletti, M. C.; Puccinelli, I.	1989	On the morphology and karyology of the genus		
+2407	Meixner J.	1923	Über den bau des geschlechtsapparates bei Calyptorhynchien und die bildung des eistieles bei diesen und einigen andern rhabdocölen turbellarien Zoologisher Anzeiger 57: 193-207		
+2408	Meixner J.	1924	Studien zu einer Monographie der Kalyptorhynchia und zum System der Turbellaria Rhabdocoela Zoologischer Anzeiger 60: 89-125		
+2409	Meixner J.	1924	Uber das Ovarium von Microstomum lineare (Müll.) und die abscheidungsfolge des Schalen- und Dottermaterials bei rhabdocoelen Turbellarien Zoologisher Anzeiger 58: 195-213		
+2410	Meixner J.	1925	Beitrag zur Morphologie und zum System der Turbellaria-Rhabdocoela: 1.		
+2412	Noldt, U.	1989	Kalyptorhynchia (Plathelminthes) from sublittoral coastal areas near the Island of Sylt (North Sea) 1		
+2413	Noldt, U.	1989	Kalyptorhynchia (Plathelminthes) from sublittoral coastal areas near the Island of Sylt (North Sea) 2		
+2414	Meixner J.	1926	Beitrag zur Morphologie und zum System der Turbellaria-Rhabdocoela: 2. Über Typhlorhynchus nanus laidlaw und die parasitischen Rhabdocölen nebst nachträgen zu den Calyptorhnchia Zeitschrift fur Morphologie und Okologie der Tiere 5: 577-624		
+2415	Meixner J.	1928	Abberrante Kalyptorhynchia (Turbellaria Rhabdocoela) aus dem sande der Kieler Bucht Zoologischer Anzeiger 77: 229-253		
+2417	Meixner, J.	1929	Morphologisch-�kologische studien an neuen Turbellarien aus dem meeressande der Kieler Bucht		
+2418	Meixner J.	1938	Turbellaria (Strudelwurmer) 2. System Tierewelt der Nord- und OstseeGrimpe & Wagler : 147-207		
+2419	Meixner J.	1938	4. Turbellaria (Strudelwürmer) Die tierewelt der Nord- und Ostsee 33: 1-146		
+2421	Meixner, J.	1943	Über die Umbildung einer Turbellarienart nach Einwanderung aus dem Meere ins Süßwasser		
+2426	Midelburg A.	1908	Zur Kenntnis der Monocelididae Zeitschrift fuer wissenschaftlichen Zoologie 89: 82-108		
+2438	Noldt U. & Jouk Ph.	1988	Cirrifera sopottehlersae, a new species of Coelogynoporidae (Plathelminthes, Proseriata) from marine sediments of the Belgian and German north sea coast Stygologia 4: 242-248		
+2439	Noldt U. & Reise K.	1987	Morphology and ecology of the kalyptorhynch Typhlopolycystis rubra (Plathelminthes), an inmate of lugworm burrows in the Wadden Sea Helgoländer Meeresuntersuchungen 41: 185-199		
+2460	Pereyaslawzewa,S.	1892	Monographie des Turbellariés de la Mer Noire Memoires de la Sociéte des Naturalistes de la Nouvelle-Russie 17: 1-303		
+2485	Reisinger E.	1926	Zur turbellarienfauna der antaktis Deutsche Südpolar-expidition Zoologie 18: 417-463		
+2511	Riedl R.	1956	Zur kenntnis der turbellarien adriatischer schlammboden sowie ihrer geographischen und faunistischen beziehungen Thallasia Jugoslavica 1: 69-177		
+2513	Riedl R.	1959	Turbellarien aus submarinen Hohlen1. Archoophora Pubblicazioni della Stazione Zoologica di Napoli 30: 178-208		
+2514	Riedl R.	1959	Turbellarien aus submarinen Höhlen3. Seriata und Neorhabdocoela Pubblicazioni della Stazione Zoologica di Napoli 30: 305-332		
+2534	Rieger R.M. &  Sterrer,W.	1975	New spicular skeletons in Turbellaria, and the occurrence of spicules in marine meiofauna Z.zool.Syst.Evolut.forsch. 13: 207-248		
+2539	Riser N.W.	1981	New England Coelogynoporidae Hydrobiologia 84: 139-145		
+2562	Rubtzoff A.	1929	Acrorhynchus baikalensis sp.n. Russischer Hydrobiologisch Zeitschrift 8: 132-138		
+2572	Schilke K.	1969	Zwei neuartige konstruktionstypen des rüsselapparates der kalyptorhynchia (Turbellaria) Zeitschrit fur der Morphologie der Tiere 65: 287-314		
+2573	Schilke, K.	1970	Kalyptorhynchia (Turbellaria) aus dem Eulitoral der deutschen Nordseeküste		
+2574	Schilke K.	1970	Zur Morphologie und Phylogenie der Schizorhynchia (Turbellaria, Kalyptorhynchia) Zeitschrit fur der Morphologie der Tiere 67: 118-171		
+2577	Schmidt O.	1861	Untersuchungen über turbellarien von Corfu und Cephalonia Zeitschrift für wissenschaftliche Zoologie 11: 10959		
+2580	Schockaert E.R.	1971	Turbellaria from Somalia 1. Kalyptorhynchia (part 1) Monitore Zoologico Italiano 4: 101-122		
+2582	Schockaert E.R.	1976	Turbellaria Polycystididae (Kalyptoyhynchia) of the Marseille area 3. Albertorhynchus amai n.g. n.sp. Biologisch Jaarboek Dodonaea 44: 280-286		
+2584	Schockaert E.R.	1982	Turbellaria from Somalia 2. Kalyptorhynchia (part 2) Monitore Zoologico Italiano 18: 81-96		
+2586	Schockaert E.R. & Brunet M.	1971	Turbellaries Polycystididae (Turbellaria, Kalyptorhynchia) from the Marseille-area2. Gallorhynchus simplex n.g.n.sp. and g. mediterraneus n.sp. Annales de la Societe Royale Zoologique de Belgique 101: 65-75		
+2588	Schockaert E.R. & Karling T.G.	1970	Three new anatomically remarkable Turbellaria Eukalyptorhynchia from the North American Pacific coast Arkiv for Zoologi 23: 237-253		
+2590	Schockaert, E. R.; Martens, P. M.	1987	Turbellaria from Somalia 4. The genus Pseudomonocelis Meixner		
+2592	Schockaert, E. R.; Karling, T. G.	1975	Anatomy and taxonomy of some species of Polycystididae (Turbellaria, Kalyptorhynchia) from N		
+2594	Schultze, M. J. S.	1851	Beiträge zur naturgeschichte der turbellarien / von Dr. Max Sigmund Schultze ... 1. abth. 		
+2595	Sekera E.	1901	Über eine marine art der gattung Gyrator ehrb Zoologisher Anzeiger 24: 79-81		
+2639	Sopott B.	1972	Systematik und Ökologie von Proseriaten (turbellaria) der Deutschen Nordseekuste Mikrofauna des Meeresbodens 13: 169-236		
+2641	Sopott-Ehlers B.	1976	Interstitielle Macrostomida und Proseriata (Turbellaria) von der Franzosischen Atlantikkuste und den Kanarischen Inseln Mikrofauna des Meeresbodens 60: 539-571		
+2643	Sopott-Ehlers B.	1980	Zwei neue Coelogynopora-arten (Turbellaria, Proseriata) aus dem marinen Sublitoral Zoologica Scripta 9: 161-163		
+2656	Sopott-Ehlers, B.	1989	Coelpgynopora visurgis nov. spec. (Proseriata) und andere freilebende Plathelminthes mariner Herkunft aus Ufersanden der		
+2662	Sopott-Ehlers B.	1992	Coelogynopora sequana nov.spec. (Proseriata, Plathelminthes) aus der Seine-Mundung Microfauna Marina 7: 177-184		
+2663	Sopott-Ehlers B.	1992	Coelogynopora faenofurca nov. spec. (Proseriata, Plathelminthes) aus Wohnrohren des Polychaeten Arenicola marina Microfauna Marina 7: 185-190		
+2681	Sopott-Ehlers, B.; Ax, P.	1985	Proseriata (Platheminthes) von der pazifikkuste der		
+2692	Southern R.	1936	Turbellaria of Ireland Proceedings of the royal Irish academy 43: 43-72		
+2693	Steinbock O.	1924	Untersuchungen über die Geslechtstrakt-Darmverbindung bei Turbellarien nebst einem Beitrag zur Morphologie des Trikladendarmes Zeitschrift fur Morphologie und Okologie der Tiere 2: 461-504		
+2696	Steinböck O.	1931	Marine Turbellaria Zoology of the Faroes : 46023		
+2697	Steinböck O.	1932	Die Turbellarien des arktischen Gebietes Fauna arctica : 297-342		
+2698	Steinböck O.	1933	Die Turbellarienfauna der Umgebung von Rovigno Thalassia 1: 11749		
+2699	Steinbock O.	1935	Turbellarien aus Ostgrönland Videnskabelige Meddelser fra den Dansknaturhistoriske Foreng 98: 235-241		
+2713	Stirewalt, M. A.; Kepner, W. A.; Ferguson, F. F.	1940	A new turbellarian worm (Alloecoele) from Beaufort, North Carolina, Archiloa wilsoni n.sp		
+2717	Tajika K.-I.	1977	Eine neue Art der Gattung Vannuccia Marcus, 1948 (Proseriata, Coelogynoporidae) aus Hokkaido, Japan The journal of the faculty of science, Hokkaido university, series 6, Zoology 21: 31-43		
+2718	Tajika K.-I.	1978	Zwei neue Arten der Gattung Coelogynopora Steinbock, 1924 (Turbellaria, Proseriata) aus Hokkaido, Japan The journal of the faculty of science, Hokkaido university, series 6, Zoology 21: 295-316		
+2720	Tajika K.-I.	1979	Marine Turbellarien aus Hokkaido Japan 3. Nematoplana Meixner, 1938 (Proseriata, Nematoplanidae) The journal of the faculty of science, Hokkaido university, series 6, Zoology 22: 69-87		
+2721	K-I, I.	1980	Eine neue gattung der familie Coelogynoporidae (Turbellaria, Proseriata) aus Hokkaido		
+2722	Tajika K.-I.	1981	Marine turbellarien aus Hokkaido Japan 5. Coelogynoporidae (Proseriata) The journal of the faculty of science, Hokkaido university, series 6, Zoology 22: 451-473		
+2725	Tajika K.-I.	1982	Marine Turbellarien aus Hokkaido, Japan 9. Monocelididae (Proseriata) Bulletin of the liberal arts & science course 10: 12663		
+2726	K-I, I.	1982	Eine neue Gattung der Familie Nematoplanidae (Turbellaria, Proseriata) aus Hokkaido		
+2727	K-I, I.	1983	Zur kenntnis der Gattung Notocaryoplana Steinbock		
+2728	Tajika K.-I.	1983	Zwei neue otoplaniden (Turbellaria, Proseriata) aus Hokkaido, Japan Annotationes Zoologicae Japonenses 56: 100-110		
+2729	Tajika K.-I.	1984	Eine neue Art der Gattung Itaspiella Ax, 1956 (Turbellaria, Proseriata, Otoplanidae) aus Hokkaido, Japan Bulletin of the liberal arts & science course 12: 25-33		
+2731	Tajika K.-I.	1983	Zwei neue interstitielle Turbellarien der Gattung Archotoplana (Proseriata, Otoplanidae aus Hokkaido, Japan The journal of the faculty of science, Hokkaido university, series 6, Zoology 23: 179-194		
+2743	Timoshkin O.A. & Zabrovskaya, T.N.	1985	The new genus Friedmaniella (Turbellaria, Prolecitophora)		
+2760	Uljanin W.	1870	Die Turbellarien der Bucht von Sebastopol. Berichte des Vereins der Freunde der Naturwissenschaften zu Moskou 4: 35065		
+2787	Westblad E.	1923	Zur physiologie der turbellarien1. Die verdauung 2. Die exkretion Lunds universitets arksskrift 18: 1-210		
+2788	Westblad E.	1952	Some new “Alloeocoels” (Turbellaria) from the Scandinavian west coast Naturvitenskaplig rekke 7: 46447		
+2790	Westblad E.	1952	Turbellaria (excl. Kalyptorhynchia) of the Swedish South Polar expedition 1901-1903 Further zoological results of the swedish antarctic expedition 190-1903 : 20149		
+2792	Westblad E.	1955	Marine “Alloeocoels” (turbellaria) from North Atlantic and Mediterranean coasts. 1. Arkiv for Zoologi 7: 491-526		
+2809			Platyhelminthes database (Ernest Schockaert & Tom Artois)		
+2811	Gibson, R.	2005	Nemertina DB. Liverpool John Moore University, UK		
+2817	Marcus, E.; Brasileiros Bol Fac Fil Cienc Letr; Univ	1946	Sobre Turbellaria		
+2819	Meixner J.,	1938	Turbellaria (Strudelwuermer). I. Allgemeines Teil. In: G. Grimpe, E. Wagler, A Remane (eds). Die Tierwelt der Nord- und Ostsee 33(IVb):1-146		
+2820	Hyman, L.H.,	1964	North American Rhabdocoela and Alloeocoela. 7. A new seriate Alloeocoel, with corrective remarks on Alloeocoels. Trans. Amer. Micr. Soc., 83: 248-251		
+2822	Ax, P.,	1956	Das škologische Verhalten der Turbellarien in Brackwassergebieten.Proc 14th Int Congr Zool Copenhagen 1953: 462-464		
+2823	Ax, P.	1956	Die Gnathostomulida eine raetselhafte Wurmgruppe aus dem Meeressand. Akad Wiss u Literatur		
+2824	Beauchamp P. de	1910	Archiloa riyularis n. g. n. sp. Turbellarie alloeocoele d'eau douce.Bull Soc zool Fr 35: 211-219		
+2825	Marcus E.,	1951	Turbellaria Brasileiros (9). [Mecynostomum, Microstomum, Vejdovskia, Kalyla, Daelja, Brinkmaniella, Lenopharynx, Rhinolasius, Harsa, Cylindrostoma, Thallagus, Urastoma, Minona, Pistrix, Tuilica, Plagiostomum] Bol Fac Fil Ci Letr U Sao Paulo Zool 16:1-217		
+2826	Ball; Hay, P. M. M.	1977	Taxonomy and ecology of a new monocelid flatworm from Macquarie Island (Platyhelminthes, Turbellaria`) Bijdr. Three New Species of Minoninae (Turbellaria		
+2828	Meixner, J.	1928	Uber die Umbildung einer Turbellarienart nach Einwanderung aus dem meere ins Susswasser. Int. Revue ges		
+2829	Martens PM, Curini-Galletti M	1999	Revision of Promonotus Beklemischev, 1927 (Platyhelminthes: Proseriata) with description of two new species from the Mediterranean.Hydrobiologia 412: 131-142		
+2830	Diesing K.M.	1862	Revision der Turbellarien. Abteilung: Rhabdocoelen.Sitzungsber Math-Naturwiss Kl Kais Wiss 45:191-318		
+2831	Marcus E.,	1954	Turbellaria. Reports of the Lund University Expedition 1948-49.Kungl Fysiograf Saellsk Handl NF 64(13): 115 pp.		
+2832	Bohmig L.,	1902	Handschriftliche Originalnotizen Ÿber Mesostomum mutabile Bohmig		
+2833	Bohmig L.,	1902	Turbellarien: Rhabdocoeliden und Tricladiden. Hamberger Magalhaensische Sammelreise Hamburg 30		
+2834	Graff, L. von	1913	Plathelminthes. Turbellaria II. Rhabdocoela. In Bronn's Klassen und Ordnungen des Tierreichs, H.G. Bronn (Ed.), Leipzig, Vol 4 Abt 1.c.		
+2835	Hartog, G. Den,	1964	Proseriate flatworms from the deltaic area of the rivers Rhine, Meuse and Scheldt. I and II. Proc. Kon. Ned. Akad. Wetensch., 67: 10-34		
+2836	Oersted A.S.,	1842	843. Forfog til en ny Classification of Planarierne (Planariea Duges) grundet paa mikroskopish-anatomiske Undersogelser.Naturhistorisk Tidsskrift IV(8):519-581		
+2837	Mack-Fira V.,	1974	The turbellarian fauna of the Romanian littoral waters of the Black Sea and its annexes.		
+2838	Curini-Galletti, M. C.; Cannon, L. R. G.	1996	Five new species of Monocelis Ehrenberg, 1831 (Platyhelminthes: Proseriata) from eastern Australia.		
+2839	Ehrenberg C.G.,	1831	Hemprich und Ehrenberg "Symbolae physicae." Animalia evertebrata exclusis insectis recensuit Dr. CG Ehrenberg. Series prima cum tabularum decade prima. Berolini, Fol. Phytozoa Turbellaria folia a-d,T4-5		
+2840	Sabussow H.,	1900	Beobachtungen ueber die Turbellarien der Inseln von Solowetzk.Trudi Kazan Univ 34(5)		
+2841	G-V, V.	1981	Notes on the biology of some psammophile Turbellaria of the Black Sea		
+2842	Gamble, F.W.,	1893	Contributions to a knowledge of British marine Turbellaria. Quart. Journ. Micr. Sc., 34: 433-528		
+2843	Ax, P.,	1959	Zur kenntnis der Gattung Promonotus Beklemischev (Turbellaria, Proseriata). Zool. Anz., 163: 371-385		
+2844	Beklemischev, W.A.,	1927	Uber die Turbellarienfauna des Aralsees. Zool. Jahrb. Syst.,54:87-138		
+2845	Marcus, E.,	1950	Turbellaria Brasileiros (8). Bol. Fac. Fil. Cienc. Univ. s Paulo, Zoologia, 14: 7-192.		
+2846	RIEGER, R. & OTT, J.	1971	Gezeitenbedingte Wanderungen von Turbellarien und Nematoden eines nordadriatischen Sandstrandes		
+2848	Ax, P.,	1955	Proxenetes falcatus, nov. spec., (Turbellaria: Neorhabdocoela) aus dem Mesopsamanal der Ostsee und der Mittelmeerkuste. ???		
+2849	An der Lan H.,	1964	Zwei neue tiergeographisch bedeutsame Turbellarien-funde in der Donau. Arch Hydrobiol (Suppl.) 27:477-480.An der Lan H., 1964. Zur Turbellarien-Fauna der Donau. Archiv f Hydrobiologia Suppl 27:3-27		
+2850	Steinbock, O.,	1931	Marine Turbellaria. In: Jensen S, Lundbeck W, Mortensen Th (eds): Zoology of the Faroes. Zool of the Faroes, Copenhagen, 8: 26 pp.		
+2851	Ax, P.	1984	Das phylogenetische System. Systematisierung der lebenden Natur auf grund ihrer Phylogenese		
+2852	Lanfranchi A.,	1978	Morphology and taxonomy of two new otoplanids (Turbellaria, Proseriata) from the Ligurian Sea. Zool Scr 7:249-254		
+2853	Gieysztor M.,	1938	Systematisch-anatomische Untersuchungen an Turbellarien Polens. Zoologica Poloniae 3:267-282		
+2854	Gieysztor M. ,	1939	Ubersicht der Rabdocoelen und Alloecoelen Polens. - Arch. Hyrobiol. Ichtyol. 12, S. 1-54		
+2855	RIEMANN, F.	1965	Turbellaria Proseriata mariner Herkunft aus Sanden der Flußsohle im limnischen Bereich der Elbe		
+2856	SOUTHERN,	1912	Clare Island Surbey. 56. Plathelmia. Proc. R. Ir. Acad. 31: 1-18, 1   fig., 1 tab.		
+2857	BRIINKMANN,	1905	Studien over Danmarks rhabocšle og acšle Turbellarien.   Meddel. Dansk. Naturhist. For. 58: 1-159		
+2858	Karling,	1955	Studien Ÿber Kalyptorhynchien (Turbellaria) V. Der Verwandtschaftskreis van Gyratrix Ehrenberg. Atcta Zoologica fennica 88: 1-39		
+2859	KARLING	1977	Taxonomy, phylogeny and biogeography of the genus Austrorhynchus Karling (Turbellaria		
+2860	SCHOCKAERT,	1973	Monographie der Polycystidae (Turbellaria, Kalyptorhynchia). PhD thesis (RUG): 229 (in Dutch)		
+2861	GAMBLE,	1896	Classification of Rhabdocoelida, Flatworms and Mesozoa: 49-50. In: Harmer S.F. & Shipley A.E. Cambridge Naturly History vol. II, Macmillan & C¡, Londen.		
+2862	BEAUCHAMPS,	1961	Triclades paludicoles dÕAfghanistan (deuxieme note). Kungliga fysiografiska sallskapets i lund forhanlingar  31 (8): 77-85		
+2864	SABUSSOW,	1897	Turbellarien-studien. I. †ber den Bau der mŠnnlichen Geslechtsorgane von Stenostoma leucops  O. Schmidt. Zool. Jb. (Anat.), 10: 47-54		
+2866	NASONOV,	1935	†berden heliotropismus der turbellaria rhabdocoelida des Baikalsees. Works of the laboratory of experimental Zoology and morphology of animals of the academy of sciences, Lenningrad 4:195-205		
+2867	Timoshkin, O. A.	1986	Rostellar ciliated worms (Turbellaria, Kalyptorhynchia) from the Lake Baikal 2. Members of the genera Opisthocystis and Gyratrix		
+2868	METSCHNIKOW,	1865	Zur Naturgeschichte der Rhabdocoelen. Arch. Naturg. 31 (1): 174-181		
+2869	KOLLIKER,	1845	Lineola, Cloriane, Polycystis, neue Wurmgattungen und neue Arten von Nemertes. Verhandlungen der Schweizerischen Naturforschenden Gesellschaft  29: 96-98		
+2871	WATSON,	2001	Insights from comparative spermatology in the ÔTurbellarianÕ Rhabdocoela. In: LITTLEWOOD T.D.J. & BRAY R.A. (eds), Interrelationships of the Platyhelminthes. Taylor & Francis, London: 217-230		
+2872	Beklemisschev, V. A.	1921	Matériaux concernant la systématique et la faunistique des Turbellaria de la Russie de l'Est. I.		
+2874	SIBIRIAKOWA	1929	La faune des Turbellaria Rhabdocoelida du fleuve Angara		
+2875	MARCUS,	1954	Einige marine Vertreter der Kalyptorhynchien-Familien Koinocystididae. Ark. Zool. (2)		
+2876	LAFRANCHI & PAPI,	1978	Turbellaria (excl. Tricladia). Limnofauna Europaea  (ed. J. Illies): 5-15. Gustav Fisher, Stuttgart		
+2877	FUHRMANN	1904	Ein neuer vertreter eines marinen turbellariengenus in sŸsswasser		
+2879	MEIXNER,	1915	Zur Turbellarienfauna der Ost-Alpen insoderheit des Lunzer Seengebietes. Zool. Jb. Syst.  38: 459-588		
+2880	KAISER	1974	Die Turbellarienfauna in salzhaltigen GewŠssern und Quellregionen Nordwest-ThŸringens		
+2881	REISINGER	1955	KŠrntens Hockgebirgsturbellarien		
+2882	KARLING,	1947	Die Familien Placorhynchidae und Gnathorhynchidae. Actua Zoologica Fennica  50: 1-65BRUNET,  1973. Turbellaries Calyptorhynques de la region marseillaise.  Les familles des Placorhynchidae et Gnathorhynchidae. Bulletin de la Societe Zoologique de France  98 (1): 121-135		
+2883	Kolasa J	1982	ol Arch Hydrob 29(2):405-413		
+2884	Meixner J	1938	Die Tierwelt der Nord und Ostsee 33(4b):1-146		
+2885	Karling TG	1901	903, Further Zoological results of the Swedish Antarctic Expedition; Kalyptorhynchia		
+2886	Karling TG	1930	Mem Soc Fauna Flora Fenn 6:128-130		
+2887	Timoshkin O.A.	2004	Rhynchokarlingiidae - A new enigmatic group of Turbellaria Kalyptorhynchia (Plathelminthes, Neorhabdocoela) from Lake Baikal (East Siberia) with emendation of 9 species, description of 12 new genera and 50 new species: example of "non-Darwinian evolution"?  In: Timoshkin, O.A. (ed.) Annotirovannyi spisok fauny ozera Baikal i ego vodosbornogo basseina. Tom I: Ozero Baikal. Kniga 2 [Index of animal species inhabiting Lake Baikal and its catchment area. Vol. I: Lake Baikal. Book 2]. Nauka, Novosibirsk,		
+2888	Timoshkin O.A.	1986	[Rostellar ciliated worms (Turbellaria, Kalyptorhynchia) from the Lake Baikal. 1. New species of the genus Diplosyphon and their taxonomic position.] Zoologicheskii Zhurnal 65(5): 700-712.		
+2889	Timoshkin, O. A.; Kawakatsu, M.	1996	Taxonomic revision of the genus Diplosiphon Evdonin, endemic to Lake Baikal, with the description of two new species, a new diagnosis of the genus Diplosiphon and establshment of D. baikalensis		
+2930	Brunel, P.; Bosse, L.; Lamarche, G.	1998	Catalogue of the marine invertebrates of the estuary and Gulf of St. Lawrence		
+3528	Muller, O.F.	1773	774. Vermium terrestrium et fluviatilium, seu animalium infusoriorum, helminthicorum, et testaecorum, non marinorum, succincta historia. Vol. 1, unpaginated preface, bibliography and table of contents, 32		
+5866	Tyler S, Schilling S, Hooge M, and Bush LF (comp.)	2006	012) Turbellarian taxonomic database. Version 1.7		
+6023	Curini-Galletti, M.; Martens, P. M.	1996	New species of Achilina Ax 1959 (Platyhelminthes Proseriata) from the Red Sea and the Carribean		
+6097	Curini-Galletti, M.	1997	Contributions to the knowledge of the proseriata (Platyhelminthes: Seriata) from the Gulf of Elat (Red Sea): Genus Minona Marcus		
+6366	Galletti & Martens	1994	New species of Alchilina Ax 1959 (Platyhelminthes Proseriata) from the Red Sea and the Caribbean.		
+6800	Timoshkin O.A. & Grygier M.J.	2005	Replacement name for Reuterella Timoshkin, 2004 (Plathelminthes: Neorhabdocoela). Zoosystematica Rossica 13(2), 241.		
+9269	Muller, Y.	2004	Faune et flore du littoral du Nord, du Pas-de-Calais et de la Belgique: inventaire. [Coastal fauna and flora of the Nord, Pas-de-Calais and Belgium: inventory]. Commission Régionale de Biologie Région Nord Pas-de-Calais: France. 307 pp.		
+9298	Jouk, P.; Schockaert, E.	2002	Species composition and diversity of free-living Plathelminthes (Turbellaria) from sandy beaches at the Belgian coast. Bull. Kon. Belg. Inst. Natuurwet. Biologie 72(Suppl.): 35-41.		
+9798	Orlova, M.I.; Telesh, I.V.; Berezina, N.A.; Antsulevich, A.E.; Maximov, A.A.; Litvinchuk, L.F.	2006	Effects of nonindigenous species on diversity and community functioning in the eastern Gulf of Finland (Baltic Sea). Helgol. Mar. Res. 60(2): 98-105.		
+17865	Artois, T.; Vermin, W.; Schockaert, E.	2000	Rhabdocoela (Platyhelminthes) from the Weddell Sea (Antarctica) with the description of eight new species		
+31783	Sterrer, W., ed.,	1986	Marine fauna and flora of Bermuda. A systematic guide to the identification of marine organisms.   : i-xxx, 1-742.		
+32131	Westblad, E.,	1954	Some Hydroidea and Turbellaria from western Norway, with description of three new species of Turbellaria. Univ. Bergen Arb., Naturvid. Raekke, 1954  10: 1-22.		
+32699	Remane, A.	1955	Die Brackwasser-Submergenz und die Umkomposition der Coenosen in Belt- und Ostsee.		
+127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
+128341	Curini-Galletti; Casu	1943	Contribution to the knowledge of the genus Pseudomonocelis Meixner, (Rhabditophora: Proseriata		
+129632	Willems, Schockaert & Artois.	2006	Report on the Polycystididae (Rhabdocoela, Kalyptorhynchia) from Australia,  with the description of twelve new species and six new genera. Hydrobiologia    Volume: 563    Pages: 329-355		
+130800	Hochberg.	2004	Smithsoniarhynches, a new genus of interstitial Gnathorhynchidae (Platyhelminthes: Kalyptorhynchia) from Mosquito Lagoon and Indian River Lagoon, Florida. Journal of the Marine Biological Association of the United Kingdom 84(6) : 1143-1149		
+132972	Jouk, P.E.H.; Martens, E.E.; Schockaert, E.R.	2007	Cirrifera genitoductus sp. n. (Platyhelminthes, Proseriata, Coelogynoporidae) from the Belgian coast, with observations on its ultrastructure and its significance for the taxonomy of the Coelogynoporidae. Belg. J. Zool. 137(2): 223-230		
+141227	Hooge, M. D. and L. J. Newman.	2009	Turbellarians (Acoelomorpha and Free-Living Platyhelminthes) of the Gulf of Mexico,		
+141781	Artois, T. J.	2008	Revision of Rogneda Uljanin, 1870 (Rhabditophora, Eukalyptorhynchia, Polycystididae) with the description of seven new species		
+163265	Giard, A.	1904	Sur une faunule caractéristique des sables à Diatomées d'Ambleteuse (Pas-de-Calais		
+164436	Artois, T. J.; Tessens, B. S.	2008	Polycystididae (Rhabditophora: Rhabdocoela: Kalyptorhynchia) from the Indian Ocean, with the description of twelve new species		
+164437	Artois T., Willems W., Revis N., Martens P. & Schockaert E.	2012	New species of Limipolycystis Schilke, 1970 (Rhabdocoela: Kalyptorhynchia: Polycystididae) from the Western Mediterranean. Zootaxa 3325:26–36.		
+164890	Reygel P., Willems W. & Artois T.	2011	Koinocystididae and Gnathorhynchidae (Platyhelminthes: Rhabdocoela: Kalyptorhynchia) from the Galapagos, with the description of three new species. Zootaxa 3096: 27-40.		
+165165	Van Steenkiste N., Volonterio O., Schockaert E. & Artois T.	2008	Marine Rhabdocoela (Platyhelminthes, Rhabditophora) from Uruguay, with the description of eight new species and two new genera. Zootaxa 1914: 1-33.		
+170645	Curini-Galletti, M.; Webster, B.L.; Huyse, T.; Casu, M.; Schockaert, E.R.; Artois, T.J.; Littlewood, T.J.	2010	New insights on the phylogenetic relationships of the Proseriata (Platyhelminthes), with proposal of a new genus of the family Coelogynoporidae. Zootaxa 2537: 1-18.		
+170748	Lanfranchi, A.; Melai, M.	2010	A new marine flatworm (Plathelminthes Rhabditophora Otoplanidae) from the Ligurian coast		
+170749	Lanfranchi, A.; Melai, M.; Meini, G.	2010	Postbursoplana parafibulata sp. nov.: A new flatworm from the Ligurian Sea (Plathelminthes		
+171519	Delogu, V.; Curini-Galletti, M.	2009	The Parotoplana jondelii species-group (Platyhelminthes: Proseriata): a microturbellarian radiation in the Mediterranean. Contributions to Zoology, 78(3).		
+172150	Schockaert, E.R.; Curini-Galletti, M.C.; De Ridder, W; Volonterio, O.; Artois, T.	2009	A new family of lithophoran Proseriata (Platyhelminthes), with the description of seven new species from the Indo-Pacific and South America, and the proposal of three new genera. Zool. J. Linn. Soc. 155(4): 759-773.		
+172479	Ax, P.	2008	Plathelminthes aus Brackgewässern der Nordhalbkugel. Akademie der Wissenschaft und der Literatur		
+172556	Delogu, V.; Casu, M.; Curini-Galletti, M.; Parotoplanellax, A.	2008	The genera Parotoplana Meixner, (Platyhelminthes: Proseriata) in southern Spain		
+173102	Lanfranchi, A.; Melai, M.	2008	Parotoplana rosignana sp. nov.: Morphology, taxonomy and post‐embryonal development of a new species of otoplanid (Plathelminthes		
+192633	Trott, T. J.	2004	Cobscook Bay inventory: a historical checklist of marine invertebrates spanning 162 years		
+196791	Delogu, V.; Curini-Galletti, M.	2007	New species of the genus Parotoplana Meixner, 1938 (Proseriata, Otoplanidae) from southern Apulia (Italy)		
+201156	Artois, T.J. & Schockaert, E.R.	1999	Interstitial fauna of the Galapagos: Porrocystidinae (Platyhelminthes Polycystididae)		

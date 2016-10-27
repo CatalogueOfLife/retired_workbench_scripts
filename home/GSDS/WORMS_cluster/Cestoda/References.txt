@@ -1,0 +1,281 @@
+ReferenceID	Authors	Year	Title	Details	
+1180	Hamerlynck, O. et al.	1989	The parasites of two sympatric gobies Pomatoschistus minutus and P. lozanoi in the Belgian coastal waters. Pp 27-30 in Wouters, K.; Baert, L. (Ed.): Invertebraten van België = Invertébrés de Belgique: Verhandelingen van het Symposium "Invertebraten van België" = Comptes rendus du Symposium "Invertébrés de Belgique" = Proceedings of the Symposium "Invertebrates of Belgium". Brussel, 25-26 november 1988. Koninklijk Belgisch Instituut voor Natuurwetenschappen: Brussel, Belgium.		
+1318			UNESCO-IOC Register of Marine Organisms		
+1347	Bray, R.A.	2001	Cestoda, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+2930	Brunel, P.; Bosse, L.; Lamarche, G.	1998	Catalogue of the marine invertebrates of the estuary and Gulf of St. Lawrence		
+2999	Linkletter, L. E.	1977	A checklist of marine fauna and flora of the Bay of Fundy		
+6827	Costello, M.J.; Emblow, C.; White, R. (Ed.).	2001	European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels, 50. Muséum national d'Histoire Naturelle: Paris, France. ISBN 2-85653-538-0. 463 pp.		
+9419	Müller O.F. 	1776	Zoologiae Danicae Prodromus seu Animalium Daniae et Norvegiae indigenarum characteres, nomina, et synonyma imprimis popularium. 		
+9941	Orecchia, Paola; Lia Paggi	2006	Nematoda Rhabditia, in: Revisione della Checklist della fauna marina italiana.		
+47785			Checklist of the antarctic and subantarctic Cestoda		
+77827	Blanchard, R.	1891	Résultats d'une excursion zoologique en Algérie.		
+127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
+128098	Blend, C. K.; Dronen, N. O.	2003	Bothriocephalus gadellus n. sp. (Cestoda: Bothriocephalidae) from the beardless codling Gadella imberbis (Vaillant) (Moridae) in the southwestern Gulf of Mexico, with a review of species of Bothriocephalus Rudolphi, 1808 reported from gadiform fishes		
+128223	Campbell & Beveridge.	2002	The genus <i> Acanthobothrium </i> (Cestoda: Tetraphyllidea: Onchobothriidae) parasitic in Australian elasmobranch fishes. Invertebrate Systematics 16: 237-344.		
+128380	Dronen, N. O.; Blend, C. K.	2005	Clestobothrium gibsoni n. sp. (Cestoda: Bothriocephalidae) from the bullseye grenadier Bathygadus macrops Goode & Bean (Macrouridae) in the Gulf of Mexico		
+128473	Gangadharam & Vijaya Lakshmi.	2004	A new species Phyllobothrium visakhapatnamensis (Cestoda: Tetraphyllidea) from spiral valve of Scoliodon palasorrah (Cuvier). Rivista di Parassitologia 21(3) : 163-168		
+128597	Healy, C. J.	2003	A revision of Platybothrium Linton, 1890 (Tetraphyllidea: Onchobothriidae), with a phylogenetic analysis and comments on host-parasite associations		
+128600	Healy.	2003	Systematic Parasitology 56 (2): 85-142		
+128675	Ivanov & Brooks	2002	Calliobothrium spp.(Eucestoda: Tetraphyllidea: Onchobothriidae) in Mustelus schmitti (Chondrichthyes: Carcharhiniformes) from Argentina and Uruguay		
+128676	Ivanov & Campbell	2002	Notomegarhynchus navonae n. gen. and n. sp.(Eucestoda: Tetraphyllidea), from skates (Rajidae: Arhynchobatinae) in the Southern Hemisphere		
+128677	Ivanov & Lipshitz.	2006	Description of a new diphyllidean  parasite of triakid sharks from the deep Red Sea. Journal of Parasitology    Volume: 92    Issue: 4    Pages: 841-846		
+128680	Ivanov, V. A.	2006	GUIDUS N. GEN. (CESTODA: TETRAPHYLLIDEA), WITH DESCRIPTION OF A NEW SPECIES AND EMENDATION OF THE GENERIC DIAGNOSIS OF MARSUPIOBOTHRIUM		
+129065	Neifar, Euzet & Ben Hassine.	2002	<i>Anthobothrium altavelae</i> sp. n. (Cestoda: Tetraphyllidea) from the spiny butterfly ray <i>Gymnura altavela</i> (Elasmobranchii: gymnuridae) in Tunisia. Folia Parasitologica (Ceske Budejovice) 49 (4): 295-298		
+129162	Palm & Beveridge	2002	Tentacularid cestodes of the order Trypanorhyncha (Platyhelminthes) from the Australian region		
+129277	Reyda & Caira.	2006	Five New Species of <i>Acanthobothrium</i> (Cestoda: Tetraphyllidea) from <i>Himantura uarnacoides</i> (Myliobatiformes: Dasyatidae) in Malaysian Borneo. Comparative Parasitology. Volume: 73 Issue: 1 Pages: 49-71.  		
+129401	Shinde, G. B. and H. K. Bhagwan.	2002	Acanthobothrium guptai n. sp. (Cestoda: Onchobothridae) [sic] from Tyrgon [sic] sephen. Uttar Pradesh Journal of Zoology 22: 207-209.		
+129484	Suriano	2002	<i>Anthobothrium galeorhini</i> n. sp. (Eucestoda: Tetraphyllidea) a parasite of <i>Galeorhinus galeus</i> (Triakidae) from the Argentine coast		
+129611	Yan-hai, W.; Sheng-fa, L.; Yu-rong, Y.	2004	PARABOTHRIOCEPHALUS PSENOPSIS N. SP. (EUCESTODA: PSEUDOPHYLLIDEA) IN PSENOPSIS ANOMALA FROM THE TAIWAN STRAIT, CHINA		
+129635	Williams, Burt & Caira.	2004	<i>Anthobothrium lesteri</i> n. sp. (Cestoda: Tetraphyllidea) in <i>Carcharhinus melanopterus</i> from Heron Island, Australia, with comments on its site, mode of attachment, reproductive strategy and membership of the genus. Systematic Parasitology 59(3) : 211-221		
+130559	Beveridge & Justine	2006	Gilquiniid cestodes (Trypanorhyncha) from elasmobranch fishes off New Caledonia with descriptions of two new genera and a new species		
+130560	Beveridge, I.; Neifar, L.; Euzet, L.	2004	Review of the genus Progrillotia Dollfus, 1946 (Cestoda: Trypanorhyncha), with a redescription of Progrillotia pastinacae Dollfus, 1946 and description of Progrillotia dasyatidis sp. n		
+130561	Bhagwan H.K. & Shinde G.B.	2002	Balanobothrium carchariasae n. sp (Cestoda: Lecanicephalidae) from Carcharias acutus		
+130562	Bhagwan & Shinde.	2002	Sephenicephalum dnyandevi sp. nov.(Cestoda: Lecani-Cephalidae) from Trygon sephen in India. Uttar Pradesh Journal of Zoology 22 (2): 199-200		
+130623	Caira & Tracy.	2002	Two new species of Yorkeria (Tetraphyllidea: Onchobothriidae) from Chiloscyllium punctatum (Elasmobranchii: Hemiscylliidae) in Thailand. Journal of Parsitology 88 (6): 1172-1180		
+130625	Campbell & Beveridge.	2006	Two new species of Pseudochristianella Campbell & Beveridge, 1990 (Cestoda: Trypanorhyncha) from elasmobranch fishes from the Gulf of California, Mexico. Parasite-Journal de la Société Française de Parasitologie    Volume: 13    Issue: 4    Pages: 275-281		
+130802	Hongtao & Yanhai.	2006	A new species of Onchobothriidae (Tetraphyllidea) from Chiloscyllium plagiosum (Elasmobranchii: Orectolobidae) in China. Journal of Parasitology Volume: 92 Issue: 5 Pages: 1050-1052		
+130862	Jensen & Caira.	2006	The status of Rhoptrobothrium Shipley et Hornell, 1906 (Cestoda: Tetraphyllidea), with redescription of the type species, R. myliobatidis, and description of three new species from two species of Aetomylaeus (Myliobatiformes: Myliobatidae) from Malaysian Borneo. Folia Parasitologica    Volume: 53    Issue: 3    Pages: 189-207		
+130863	Jensen, K.	2006	A new species of Aberrapex Jensen, 2001 (Cestoda: Lecanicephalidea) from Taeniura lymma (Forsskål) (Myliobatiformes: Dasyatidae) from off Sabah, Malaysia. Systematic Parasitology 64: 117-123.		
+130935	Kuchta R., Scholz T.	2006	<i>Australicola pectinatus</i> n. gen. and n. sp. (Cestoda: Pseudophyllidea) from deep-sea fish <i>Beryx splendens</i> from Tasmania. Journal of Parasitology 92: 126-129.		
+131103	Palm	1952	A revision of Microbothriorhynchus Yamaguti, (Cestoda: Trypanorhyncha), with the redescription of M. coelorhynchi Yamaguti, 1952 and the description of M. reimeri n. sp		
+131127	Pramanik & Manna.	2004	Balanobothrium Shindei new species (Cestoda: Lacanicephalidae) from Stegostoma fasciatum Hermann, 1763 from Bay of Bengal at Digha coast, West Bengal, India. Proceedings of the Zoological Society (Calcutta) 57(1) : 53-58		
+131160	Ruhnke & Thompson	2006	Two new species of Paraorygmatobothrium (Tetraphyllidea: Phyllobothriidae) from the lemon shark Negaprion brevirostris and Negaprion acutidens (Carcharhiniformes: Carcharhinidae)		
+131161	Ruhnke, Caira & Carpenter	2006	Orectolobicestus n. g. (Cestoda: Tetraphyllidea), with the description of five new species and the transfer of Phyllobothrium chiloscyllii to the new genus		
+131162	Ruhnke, Healy & Shapero	2006	Two new species of Paraorygmatobothrium (Cestoda: Tetraphyllidea) from weasel sharks (Carcharhiniformes: Hemigaleidae) of Australia and Borneo		
+132580	Johns, P.; Newman, L.J.; Holleman, J.J.; Dawson, E.W.; Sterrer, W.; Allison, F.R.; Diggles, B.K.; Andrews, J.R.H.; Hine, P.M.; McKenna, P.B.; Poulin, R.	2009	Phylum Platyhelminthes: flatworms, tapeworms, flukes, in: Gordon, D.P. (Ed.) (2009). New Zealand inventory of biodiversity: 1. Kingdom Animalia: Radiata, Lophotrochozoa, Deuterostomia.		
+133468	Galathea II, Danish Deep Sea Expedition	1950	2		
+141230	Jensen, K.	2009	Cestoda (Platyhelminthes) of the Gulf of Mexico,		
+147411			PESI (A Pan-European Species directories Infrastructure) focal points		
+149084	Kedra, M.	2010	A Checklist of marine species occurring in Polish marine waters, compiled in the framework of the PESI EU FP7 project.		
+154803	Owen	1946	A New Species of Cestode, Choanotaenia numenii, from the Long-Billed Curlew Ruth Leota Owen		
+165013	Khamkar, D. D.	2012	A new species Tetragonocephalum ratnagiriensis n Sp. (Eucestoda: Lecanicephalidea) from Trygon zugei at Ratnagiri		
+168514	Khamkar D.D. and Shinde G.B.	2012	A new species Tetragonocephalum govindi n. sp. (Eucestoda: Lecanicephalidea) from Trygon zugei at Panji, Goa, India		
+168515	Anarse, S.A.; Borde, S.N.; Gaware, A.B. and Solunke, R.V.	2012	A new record Tylocephalum govindi sp.nov. (Cestoda - Lecanicephalidae) in Trygon sephen, from Uran, Sinddhudurg District (M.S) India		
+170647	Cutmore, S. C.; Bennett, M. B.; Cribb, T. H.	2010	A new tetraphyllidean genus and species, Caulopatera pagei n. g., n. sp. (Tetraphyllidea: Phyllobothriidae), from the grey carpetshark Chiloscyllium punctatum Müller & Henle (Orectolobiformes: Hemiscylliidae)		
+170778	Malek, M.; Caira, J. N.; Haseli, M.	2010	Two new species of Paraorygmatobothrium Ruhnke, 1994 (Cestoda: Tetraphyllidea) from the carcharhinid shark Carcharhinus cf. dussumieri (Müller & Henle) in the Persian Gulf		
+170882	Palm, H. W.	2010	Nataliella marcelli n. g., n. sp. (Cestoda: Trypanorhyncha: Rhinoptericolidae) from Hawaiian fishes		
+171443	Caira, J. N.; Jensen, K.	2009	Erection of a New Onchobothriid Genus (Cestoda: Tetraphyllidea) and the Description of Five New Species from Whaler Sharks (Carcharhinidae)		
+171510	Cutmore, S. C.; Bennett, M. B.; Cribb, T. H.	2009	Paraorygmatobothrium taylori n. sp. (Tetraphyllidea: Phyllobothriidae) from the Australian weasel shark Hemigaleus australiensis White, Last & Compagno (Carcharhiniformes: Hemigaleidae)		
+171555	Fyler, C. A.; Caira, J. N.; Jensen, K.	2009	Five new species of Acanthobothrium (Cestoda: Tetraphyllidea) from an unusual species of Himantura (Rajiformes: Dasyatidae) from northern Australia.		
+171618	Ivanov, V. A.	2009	New Species of Crossobothrium (Cestoda: Tetraphyllidea) from the Broadnose Sevengill Shark, Notorynchus cepedianus, in Argentina		
+171711	Kuchta, R.; Scholz, T.; J-Justine, L.	2009	Two new species of Bothriocephalus Rudolphi, 1808 (Cestoda: Bothriocephalidea) from marine fish off Australia and New Caledonia		
+171831	Menoret, A. & Ivanov, V. A.	2009	New name for Progrillotia dollfusi Carvajal et Rego, 1983 (Cestoda: Trypanorhyncha): description of adults from Squatina guggenheim (Chondrichthyes: Squatiniformes) off the coast of Argentina		
+172094	Polyakova	2009	Fauna of cestodes in fishes from Kerch Channel (Naberejnoe		
+172096	Pramanik, P. B.; Manna, B.	2009	Two new species of the genus Phyllobothrium van Beneden, 1850 from the cartilaginous fish Carcharhinus bleekeri Muller & Henle, 1841 at Digha coastal waters		
+172136	Ruhnke, T. R.; Caira, J. N.	2009	Two new species of Anthobothrium van Beneden, 1850 (Tetraphyllidea: Phyllobothriidae) from carcharhinid sharks, with a redescription of Anthobothrium laciniatum		
+172137	Ruhnke, T. R.; Seaman, H. B.	2009	Three new species of Anthocephalum Linton, 1890 (Cestoda: Tetraphyllidea) from dasyatid stingrays of the Gulf of California.		
+172396	Tan, R.; Zhou, L.; Yang, W.	2009	A new cestode (Tetraphyllidea: Phyllobothriidae) in elasmobranchs from the Taiwan Strait		
+172398	Tazerouti, F.; Kechemir-Issad, N.; Euzet, L.	2009	Acanthobothrium minus n. sp. (Tetraphyllidea: Onchobotriidae) parasite of Raja asterias (Elasmobranchii: Rajidae) in Mediterranean sea		
+172492	Beveridge, I.	2008	Redescriptions of species of Tetrarhynchobothrium Diesing, 1850 and Didymorhynchus Beveridge & (Cestoda: Trypanorhyncha), with the description of Zygorhynchus borneensis n. sp		
+173061	Ivanov, V. A.	2008	Orygmatobothrium Spp. (Cestoda: Tetraphyllidea) from triakid sharks in Argentina: redescription of Orygmatobothrium schmittii and description of a new species		
+173068	Jensen, K.; Caira, J. N.	2008	A revision of Uncibilocularis Southwell, (Tetraphyllidea: Onchobothriidae) with the description of four new species		
+173096	Kuchta, R.; Scholz, T.	2008	A new triaenophorid tapeworm from blackfish Centrolophus niger		
+173097	Kuchta, R.; Scholz, T.; Brayuchta, R. A. K.; Scholzrabec, B.; Bray	2008	Revision of the order Bothriocephalidea (Eucestoda) with amended generic diagnoses and keys to families and genera		
+175003	Pickering, M.; Caira, J. N.	2008	Calliobothrium schneiderae n. sp. (Cestoda: Tetraphyllidea) from the Spotted Estuary Smooth-Hound Shark, Mustelus lenticulatus, from New Zealand		
+175035	Randhawa, H. S.; Saunders, G. W.; Scott, M. E.; Burt, M. D. B.	2008	Redescription of Pseudanthobothrium hanseni Baer, 1956 and description of P. purtoni n. sp. (Cestoda: Tetraphyllidea) from different pairs of rajid skate hosts, with comments on the host-specificity of the genus in the northwest Atlantic		
+175045	Ruhnke, T. R.; Carpenter, S. D.	2008	Two new species of Paraorygmatobothrium Ruhnke, 1994 (Tetraphyllidea: Phyllobothriidae) from the smooth-hound Mustelus mustelus (L.) and the gummy shark M. antarcticus Günther (Carcharhiniformes: Triakidae)		
+175093	Twohig, M. E.; Caira, J. N.; Fyler, C. A.	2008	Two new cestode species from the dwarf whipray, Himantura walga (Batoidea: Dasyatidae), from Borneo, with comments on site and mode of attachment		
+196468	Cielocha, J. J.; Jensen, K.; Caira, J. N.	2014	Floriparicapitus , a New Genus of Lecanicephalidean Tapeworm (Cestoda) from Sawfishes (Pristidae) and Guitarfishes (Rhinobatidae) in the Indo-West Pacific		
+196469	Mojica, K.R. & Jensen, K. & Caira, J.N.	2013	Revision of Anteropora (Cestoda: Lecanicephalidea) and Descriptions of five new Species from Stingrays (Myliobatiformes: Dasyatidae) in Borneo		
+196528	Koch, K. R.; Jensen, K.; Caira, J. N.	2012	Three New Genera and Six New Species of Lecanicephalideans (Cestoda) from Eagle Rays of the Genus Aetomylaeus (Myliobatiformes: Myliobatidae) from Northern Australia and Borneo		
+196546	Mojica, K. R.; Jensen, K.; Caira, J. N.	2014	The Ocellated Eagle Ray, Aetobatus ocellatus (Myliobatiformes: Myliobatidae), from Borneo and Northern Australia as Host of Four New Species of Hornellobothrium (Cestoda: Lecanicephalidea)		
+196547	Jensen, K.; Russell, S. L.	2014	Seussapex, a new genus of lecanicephalidean tapeworm (Platyhelminthes: Cestoda) from the stingray genus Himantura (Myliobatiformes: Dasyatidae) in the Indo-West Pacific with investigation of mode of attachment		
+196548	Cielocha, J. J.; Jensen, K.	2013	<i>Stoibocephalum</i> n. gen. (Cestoda: Lecanicephalidea) from the sharkray, <i>Rhina ancylostoma</i> Bloch & Schneider (Elasmobranchii: Rhinopristiformes), from northern Australia		
+196549	Jensen, K.; Mojica, K. R.	2014	A new genus and two new species of lecanicephalidean tapeworms from the striped panray, Zanobatus schoenleinii (Rhinopristiformes: Zanobatidae), off Senegal		
+196581	Ruhnke, T. R.; Caira, J.N. & Cox, A.	2015	The cestode order Rhinebothriidea no longer family-less: A molecular phylogenetic investigation with erection of two new families and description of eight new species of <em>Anthocephalum</em>		
+196587	Jensen, K.; Nikolov, P.; Caira, J. N.	2011	A new genus and two new species of Anteroporidae (Cestoda: Lecanicephalidea) from the darkspotted numbfish, Narcine maculata (Torpediniformes: Narcinidae), off Malaysian Borneo		
+196590	Menoret, A.; Ivanov, V. A.	2011	Descriptions of two new freshwater Neotropical species of Rhinebothrium (Cestoda: Rhinebothriidea) from Potamotrygon motoro (Chondrichthyes: Potamotrygonidae)		
+196591	Mote, A. N.; Khamkar, D. D.	2011	A New Species of the Cestode Echenibothrium benedeni N.SP Rhynchobatus djeddensis at Panji, Goa state, (M.S. India)		
+196593	Reyda, F. B.; Marques, F. P. L.	2011	Diversification and Species Boundaries of Rhinebothrium (Cestoda; Rhinebothriidea) in South American Freshwater Stingrays (Batoidea; Potamotrygonidae)		
+196606	Menoret, A.; Ivanov, V. A.	2009	A New Species of Tetraphyllidean (Cestoda) from the Largespot River Stingray, Potamotrygon falkneri (Potamotrygonidae: Chondrichthyes), from the Paraná Basin		
+196628	Reyda, F. B.	2008	Intestinal Helminths of Freshwater Stingrays in Southeastern Peru, and a New Genus and Two New Species of Cestode		
+196664	Beveridge, I.; Campbell, R. A.	2007	Revision of the Grillotia erinaceus (van Beneden, 1858) species complex (Cestoda: Trypanorhyncha), with the description of G. brayi n. sp		
+196686	Gil de Pertierra, A. A.; Incorvaia, I. S.; Arredondo, N. J.	2011	Two new species of Clestobothrium (Cestoda: Bothriocephalidea), parasites of  Merluccius australis and M. hubbsi (Gadiformes: Merlucciidae) from the Patagonian shelf of Argentina, with comments on Clestobothrium crassiceps  (Rudolphi, 1819)		
+196687	Noever, C.; Caira, J. N.; Kuchta, R.; Desjardins, L.	2010	Two New Species of Aporhynchus (Cestoda: Trypanorhyncha) from Deep Water Lanternsharks (Squaliformes: Etmopteridae) in the Azores, Portugal		
+196688	Caira, J. N.; Kuchta, R.; Desjardins, L.	2010	A New Genus and Two New Species of Aporhynchidae (Cestoda: Trypanorhyncha) from Catsharks (Carcharhiniformes: Scyliorhinidae) Off Taiwan		
+196689	Schaeffner, B. C.; Beveridge, I.	2013	Dollfusiella Campbell & Beveridge, 1994 (Trypanorhyncha: Eutetrarhynchidae) from elasmobranchs off Borneo, including descriptions of five new species		
+196690	Menoret, A.; Ivanov, V. A.	2014	Eutetrarhynchid trypanorhynchs (Cestoda) from elasmobranchs off Argentina, including the description of Dollfusiella taminii sp. n. and Parachristianella damiani sp. n., and amended description of Dollfusiella vooremi (Sao Clemente et Gomes, 1989)		
+196691	Schaeffner, B. C.	2014	Review of the genus Eutetrarhynchus Pintner, 1913 (Trypanorhyncha: Eutetrarhynchidae), with the description of Eutetrarhynchus beveridgei n. sp		
+196692	Schaeffner, B. C.; Beveridge, I.	2012	Description of a New Trypanorhynch Species (Cestoda) from Indonesian Borneo, with the Suppression of Oncomegoides and the Erection of a New Genus Hispidorhynchus		
+196693	Campbell, R. A.; Beveridge, I.	2009	Oncomegas aetobatidis sp. nov. (Cestoda: Trypanorhyncha), a re-description of O. australiensis Toth, Campbell & Schmidt, 1992 and new records of trypanorhynch cestodes from Australian elasmobranch fishes		
+196694	Beveridge, I.; Campbell, R. A.	2005	Three new genera of trypanorhynch cestodes from Australian elasmobranch fishes		
+196695	Schaeffner, B. C.; Beveridge, I.	2013	Prochristianella mattisi sp. n. (Trypanorhyncha: Eutetrarhynchidae) from the wedgenose skate, Dipturus whitleyi (Rajiformes: Rajidae), from Tasmania (Australia)		
+196696	Palm, H. W.	2004	The Trypanorhyncha Diesing, 1863		
+196697	Fyler, C. A.; Caira, J. N.	2006	Five new species of Acanthobothrium (Tetraphyllidea: Onchobothriidae) from the freshwater stingray Himantura chaophraya (Batoidea: Dasyatidae) in Malaysian Borneo		
+196698	Maleki, L.; Malek, M.; Palm, H. W.	2013	Two new species of Acanthobothrium (Tetraphyllidea: Onchobothriidae) from Pastinachus cf. sephen (Myliobatiformes: Dasyatidae) from the Persian Gulf and Gulf of Oman		
+196699	Caira, J. N.; Jensen, K.; Waeschenbach, A.; Littlewood, D. T. J.	2014	An enigmatic new tapeworm, Litobothrium aenigmaticum, sp. nov. (Platyhelminthes : Cestoda : Litobothriidea), from the pelagic thresher shark with comments on development of known Litobothrium species		
+196701	Ruhnke, T. R.; Workman, R. E.	2013	Two new species and a new phyllobothriid cestode genus from sharks of the genus Negaprion Whitley (Carcharhiniformes)		
+196702	Schaeffner, B. C.; Beveridge, I.	2013	Poecilorhynchus perplexus n. g., n. sp. (Trypanorhyncha: Eutetrarhynchidae) from the brownbanded bambooshark, Chiloscyllium punctatum Müller & Henle, from Australia		
+196703	Haseli, M.	2013	Trypanorhynch cestodes from elasmobranchs from the Gulf of Oman, with the description of Prochristianella garshaspi n. sp. (Eutetrarhynchidae)		
+196705	Lanka, L.; Hippargi, R.	2013	New Tylocephalum shindei (Cestoda:Lecanicephalidae) from Rhynchobatus djiddensis at Bhate in Maharashtra, India		
+196706	Kornyushin, V.; Polyakova, T.	2012	Cairaeanthus gen. n. (Cestoda, Rhinebothriidea), with the Description of Two New Species from Dasyatis pastinaca in the Black Sea and the Sea of Azov		
+196707	Eyring, K. L.; Healy, C. J.; Reyda, F. B.	2012	A New Genus and Species of Cestode (Rhinebothriidea) from Mobula kuhlii (Rajiformes: Mobulidae) from Malaysian Borneo		
+196708	Schaeffner, B. C.; Beveridge, I.	2012	<em>Prochristianella </em>Dollfus, 1946 (Trypanorhyncha: Eutetrarhynchidae) from elasmobranchs off Borneo and Australia, including new records and the description of four new species		
+196710	Vardo-Zalik, A. M.; Campbell, R. A.	2011	Five new species of Acanthobothrium van Beneden, 1849 (Cestoda: Tetraphyllidea)  in elasmobranchs from the northwest Atlantic and Gulf of Mexico with first records from smooth-hound sharks and guitarfish		
+196711	Fyler, C. A.	2011	An Extremely Hyperapolytic Acanthobothrium Species (Cestoda: Tetraphyllidea) from the Japanese Wobbegong, Orectolobus japonicus (Elasmobranchii: Orectolobiformes) in Taiwan		
+196712	Zschoche, M.; Caira, J. N.; Fyler, C. A.	2011	A new species of Acanthobothrium van Beneden, 1850 (Tetraphyllidea: Onchobothriidae) from Pastinachus atrus (Macleay) (Batoidea: Dasyatidae) in Australian waters, with a reassessment of the host associations of Acanthobothrium spp. parasitising Pastinachus spp		
+196713	Mote, A. N.; Khamkar, D. D.	2011	A new Cestode Carpobothrium bomayyensis n. sp. (Cestoda-Phyllobothridae) from Carcharias acutus at Bombay (M.S.)		
+196714	Cielocha, J. J.; Jensen, K.	2011	A revision of Hexacanalis Perrenoud, 1931 (Cestoda: Lecanicephalidea) and description of H. folifer n. sp. from the zonetail butterfly ray Gymnura zonura (Bleeker) (Rajiformes: Gymnuridae)		
+196715	Pathan, D. M.; Bhure, D. B.; Padwal, N. D.; Jadhav, B. V.; Singh, S. P.	2011	Report of Uncibilocularis osmanabadensis n. sp. from the marine fish Aetomylaeus nichoffii (Bloch and Schneidev)		
+196716	Pramanik, P. B.; Manna, B.	2010	On three new species and two known species of the genus Acanthobothrium van Beneden, 1849 (Cestoidea : Onchobothridae) from the cartilaginous fishes from Digha waters, Bay of Bengal, India		
+196717	Fyler, C. A.; Caira, J. N.	2010	Phylogenetic status of four new species of Acanthobothrium (Cestoda: Tetraphyllidea) parasitic on the wedgefish Rhynchobatus laevis (Elasmobranchii: Rhynchobatidae): implications for interpreting host associations		
+196718	Beveridge, I.; Justine, J.-L.	2010	Two new species of Prochristianella Dollfus, 1946 (Platyhelminthes, Cestoda) from the blue-spotted stingray, Neotrygon kuhlii (Müller & Henle, 1841) off New Caledonia		
+196719	Kankale, N. M.	2009	A new lecanicephalidean tapeworm from a marine fish, Trygon sephen		
+196720	Pramanik, P. B.; Manna, B.	2007	On Anthobothrium pulvinatum Linton, 1890 and Anthobothrium uarnaki n. sp (Cestoidea Phyllobothridae) from Dasyatis uarnak Forsskal, 1775 from the coastal waters of Digha, India		
+196721	Vankara, A. P.; Vijayalakshmi, C.; Gangadharam, T.	2007	On a new species, Cathetocephalus leucas (Tetraphyllidea: Cathetocephalidae) from the bullshark, Carcharhinus leucas (Valenciennes, 1839) from Bay of Bengal, Visakhaptnam coast, Andhra Pradesh, India		
+196722	Li, H.; Wang, Y.	2007	A new species of Macrobothriidae (Cestoda: Diphyllidea) from thornback ray Platyrhina sinensis in China		
+196723	Caira, J. N.; Reyda, F. B.; Mega, J. D.	2007	A revision of Megalonchos Baer & Euzet, 1962 (Tetraphyllidea: Onchobothriidae), with the description of two new species and transfer of two species to Biloculuncus Nasin, Caira & Euzet, 1997		
+196724	Campbell, R. A.; Beveridge, I.	2007	A New Species and New Records of Parachristianella Dollfus, 1946 (Cestoda: Trypanorhyncha) from the Gulf of California, Mexico		
+196725	Vankara, A. P.; Vijaya lakshmi, C.; Vijaya lakshmi, J.	2007	Polypocephalus visakhapatnamensis sp. nov. (Lecanicephalidea: Polypocephalidae) from Himantura uarnak (Forsskal) and Dasyatis (Amphotistius) zugei (Mueller & Henle) from Visakhapatnam coast		
+196726	Pramanik, P. B.; Manna, B.	2007	Six new and two known species of the Genus Tylocephalum Linton, 1890 (Cestoida: Lecanicephalidae) in cartilageous fishes from Bay of Bengal at Digha coastal waters, West Bengal, India		
+196727	Caira, J. N.; Jensen, K.; Rajan, C.	2007	Seven new Yorkeria species (Cestoda: Tetraphyllidea) from Borneo and Australia and their implications for identification of Chiloscyllium (Elasmobranchii: Orectolobiformes) species		
+196729	Lanka, L. P.; Pathan, D. M.; Jadhav, B. V.	2006	A new lecanicephalidean cestode Polypocephalus harnesis, n sp from Scomberomorus guttatus at Ratnagiri MS India		
+196730	Pawar, L. B.; Jadhav, B. V.	2006	Two new species of the genus Tylocephalum Linton, 1890 (Cestoda: Lecanicephalidae) from marine fishes at Ratnagiri, west coast of India		
+196823	Abbott, L. M.; Caira, J. N.	2014	Morphology Meets Molecules: A New Genus and Two New Species of Diphyllidean Cestodes From the Yellowspotted Skate, Leucoraja wallacei , from South Africa		
+196825	Marques, F. P. L.; Jensen, K.; Caira, J. N.	2012	Ahamulina n. gen. (Cestoda: Diphyllidea) from the polkadot catshark, Scyliorhinus besnardi (Carcharhiniformes: Scyliorhinidae), off Brazil		
+196847	Haseli, M.; Malek, M.; Palm, H. W.; Ivanov, V. A.	2012	Two new species of Echinobothrium van Beneden, 1849 (Cestoda: Diphyllidea) from the Persian Gulf		
+196848	Moghadam, M.M.; Haseli, M.	2014	Halysioncum kishiense sp. n. and Echinobothrium parsadrayaiense sp. n. (Cestoda: Diphyllidea) from the banded eagle ray, Aetomylaeus cf. nichofii off the Iranian coast of the Persian Gulf		
+196849	Caira, J. N.; Rodriguez, N.; Pickering, M.	2013	New African Species of Echinobothrium (Cestoda: Diphyllidea) and Implications for the Identities of their Skate Hosts		
+196850	Rodriguez, N.; Pickering, M.; Caira, J. N.	2011	Echinobothrium joshuai n. sp. (Cestoda: Diphyllidea) from the Roughnose Legskate, Cruriraja hulleyi (Rajiformes: Rajidae), off South Africa		
+196851	Schaeffner, B. C.; Gasser, R. B.; Beveridge, I.	2011	Ancipirhynchus afossalis n. g., n. sp. (Trypanorhyncha: Otobothriidae), from two species of sharks off Indonesian and Malaysian Borneo		
+196852	Beveridge, I.; Campbell, R. A.	2012	Bathygrillotia n. g. (Cestoda: Trypanorhyncha), with redescriptions of B. rowei (Campbell, 1977) n. comb. and B. kovalevae (Palm, 1995) n. comb		
+196853	Kurashima, A.; Shimizu, T.; Mano, N.; Ogawa, K.; Fujita, T.	2014	A new combination and a new species of onchobothriid tapeworm (Cestoda: Tetraphyllidea: Onchobothriidae) from triakid sharks		
+196854	Schaeffner, B. C.; Beveridge, I.	2012	Cavearhynchus, a new genus of tapeworm (Cestoda: Trypanorhyncha: Pterobothriidae) from Himantura lobistoma Manjaji-Matsumoto & Last, 2006 (Rajiformes) off Borneo, including redescriptions and new records of species of Pterobothrium Diesing, 1850		
+196855	Caira, J. N.; Marques, F. P.; Jensen, K.; Kuchta, R.; Ivanov, V.	2013	Phylogenetic analysis and reconfiguration of genera in the cestode order Diphyllidea		
+196856	Caira, J. N.; Pickering, M.; Schulman, A. D.; Hanessian, N. J.	2013	Two New Species of Echinobothrium (Cestoda: Diphyllidea) from Batoids off South Africa		
+196857	Kuchta, R.; Caira, J. N.	2010	Three new species of Echinobothrium (Cestoda: Diphyllidea) from Indo-Pacific stingrays of the genus Pastinachus (Rajiformes: Dasyatidae)		
+196858	Ivanov, V. A.; Caira, J. N.	2012	Description of Three New Species of Echinobothrium (Cestoda: Diphyllidea) from Indo-Pacific Elasmobranchs of the Genus Glaucostegus (Rajiformes: Rhinobatidae)		
+196859	Beveridge, I.; Campbell, R. A.	2013	A new species of Grillotia Guiart, 1927 (Cestoda: Trypanorhyncha) with redescriptions of congeners and new synonyms		
+196860	Menoret, A.; Ivanov, V. A.	2012	Description of Plerocerci and Adults of a New Species of Grillotia (Cestoda: Trypanorhyncha) in Teleosts and Elasmobranchs From the Patagonian Shelf Off Argentina		
+196861	Menoret, A.; Ivanov, V.	2012	A new species of Heteronybelinia (Cestoda: Trypanorhyncha) from Sympterygia bonapartii (Rajidae), Nemadactylus bergi (Cheilodactylidae) and Raneya brasiliensis (Ophidiidae) in the south-western Atlantic, with comments on host specificity of the genus		
+196862	Pramanik, P. B.; Manna, B.	2005	Macrobothridium deddensis new species (Cestoda: Macrobothridiidae) from Rhynchobatus djeddensis Forsskal, 1775 from Bay of Bengal, at Digha Coast, India		
+196863	Schaeffner, B. C.; Beveridge, I.	2013	Pristiorhynchus palmi n. g., n. sp. (Cestoda: Trypanorhyncha) from sawfishes (Pristidae) off Australia, with redescriptions and new records of six species of the Otobothrioidea Dollfus, 1942		
+196864	Desjardins, L.;  Caira, J. N.	2011	Three new species of Spiniloculus (Cestoda: Tetraphyllidea) from Chiloscyllium punctatum (Elasmobranchii: Orectolobiformes) off Borneo with clarification of the identity of the type of the genus		
+196865	Pickering, M.; Caira, J. N.	2012	A new hyperapolytic species, Trilocularia eberti sp. n. (Cestoda: Tetraphyllidea), from Squalus cf. mitsukurii (Squaliformes: Squalidae) off South Africa with comments on its development and fecundity		
+196866	Purivirojkul, W.; Boonsoong, B.	2012	A New Species of Tetraphyllidean (Onchobothriidae) Cestode from the Brown-Banded Bambooshark Chiloscyllium punctatum (Elasmobranchii: Hemiscylliidae)		
+196867	Jensen, K.	2001	Four New Genera and Five New Species of Lecanicephalideans (Cestoda: Lecanicephalidea) From Elasmobranchs in the Gulf of California, Mexico		
+196905	Vasileva, G. P.; Gibson, D. I.; Bray, R. A.	2003	Taxonomic revision of Tatria Kowalewski, 1904 (Cestoda: Amabiliidae): redescriptions of T. biremis Kowalewski, 1904 and T. minor Kowalewski, 1904, and the description of T. gulyaevi n. sp. from Palaearctic grebes		
+196941	Konyaev, S. V.; Gulyaev, B. D.	2006	Description of a new cestode species Mircia shigini gen. et sp. n. (Cyclophyliidea: Schistotaeniidae)		
+196942	Gulyaev, B. D.; Konyaev, S. V.	2004	Isezhia golovkovae gen. n., sp. n. (Cyclophyllidea, Schistotaeniidae) — a New Cestode from Little Grebes (Tachybaptus ruficollis) of Middle Asia		
+197693	Maleki, L.; Malek, M.; Palm, H. W.	2015	Four new species of Acanthobothrium van Benden, 1850(Cestoda: Onchoproteocephalidea) from the guitarfish, Rhynchobatus cf. djiddensis (Elasmobranchii: Rhynchobatidae), from the Persian Gulf and Gulf of Oman		
+198326	Gil de Pertierra, A. A.; Arredondo, N. J.; Kuchta, R.; Incorvaia, I. S.	2015	A new species of Bothriocephalus Rudolphi, 1808 (Eucestoda: Bothriocephalidea) from the channel bull blenny Cottoperca gobio (Günther) (Perciformes: Bovichtidae) on the Patagonian shelf off Argentina		
+198327	Kornyushin, V. V.; Greben, О. B.	2014	A new Genus and Species of Cestodes (Cyclophyllidea, Gryporhynchidae) from Ciconiiform Birds		
+198328	Haseli, M.; Azad, S.	2015	Diphyllidean cestodes from the bigeye houndshark Iago omanensis (Norman) (Carcharhiniformes: Triakidae) in the Gulf of Oman, with the description of Coronocestus ehsanentezarii sp. nov. (Echinobothriidae)		
+198329	Ivanov VA	1997	Echinobothrium notoguidoi n. sp. (Cestoda: Diphyllidea) from Mustelus schmitti (Chondrichthyes: Carcharhiniformes) in the Argentine Sea		
+198330	Sanaka, S., Vijaya Lakshmi, C., Hanumantha Rao, K.	1986	Studies on a new species Echinobothrium scoliodoni (order: Diphyllidea) from Chiloscyllium indicum from Waltair coast		
+198331	Ivanov V.A.; Caira J.N.	2013	Two new species of Halysioncum Caira, Marques, Jensen, Kuchta et Ivanov, 2013 (Cestoda, Diphyllidea) from Indo-Pacific rays of the genus Aetomylaeus Garman (Myliobatiformes, Myliobatidae)		
+198332	Bernot, J. P.; Caira, J. N.; Pickering, M.	2015	The Dismantling of Calliobothrium (Cestoda: Tetraphyllidea) With Erection of Symcallio n. gen. and Description of Two New Species		
+198333	Palm H.W.; Bray R.A.	2014	Tentaculariid cestodes (Trypanorhyncha Diesing, 1863) from Hawaii, with the description of Nybelinia kamegaii sp. nov.,Palm HW, Bray RA.		
+198335	Williams, A.D., Campbell, R.A.	1980	Echinobothrium bonasum sp. n., a new cestodefrom the cownose ray, Rhinoptera bonasus (Mitchill 1815), in the western north		
+198336	Ivanov, V.A., Campbell, R.A.	1998	Echinobothrium californiense n. sp. (Cestoda: Diphyllidea) from the thornback ray Platyrhinoidis triseriata (Chondrichthyes: Rajoidei) and a key to the species in the genus		
+198337	Campbell, R.A., Carvajal, G.J.	1980	Echinobothrium euzeti, a new cestode from the spiral valve of a Chilean elasmobranch.		
+198338	Tyler, G.A., Caira, J.N.	1999	Two new species of Echinobothrium (Cestoidea: Diphyllidea) from myliobatiform elasmobranchs in the Gulf of California, México		
+198339	Tyler, G. A.	2001	Diphyllidean cestodes of the Gulf of California, Mexico with descriptions of two new species of Echinobothrium (Cestoda: Diphyllidea)		
+198340	Ivanov, V.A., Campbell, R.A.	1998	Echinobothrium megacanthum sp. n. (Cestoda: Diphyllidea) from the eagle ray Myliobatis goodei (Chondrichthyes: Rajoidei) from the Patagonian shelf of Argentina		
+198341	Kuchta R.; Caira J.N.	2010	Three new species of Echinobothrium (Cestoda: Diphyllidea) from Indo-Pacific stingrays of the genus Pastinachus (Rajiformes: Dasyatidae)		
+198342	Campbell, R.A., Andrade, M.	1997	Echinobothrium raschii n. sp. (Cestoda: Diphyllidea) from Rhinoraja longi (Chondrichthyes, Rajoidei) in the Bering Sea		
+198343	Shipley, A.E., Hornell, J.	1906	Report on the cestode and nematode parasites from the marine fishes of Ceylon		
+198346	Southwell, T	1911	Description of nine new species of cestode parasites, including two new genera from marine fishes of Ceylon		
+198347	Zaidi, D. A., & Khan, D.	1976	Cestodes of fishes from Pakistan		
+198348	MacCallum G.A.	1917	Some new forms of parasitic worms.		
+198349	Van Beneden, P.-J.	1850	Recherches sur la faune littorale de Belgique: les Vers Cestoïdes		
+198350	Caira, J.N.	1985	Calliobothrium evani sp. n. (Tetraphyllidea: Onchobothriidae) from the Gulf of California, with a redescription of the hooks of C. lintoni and a proposal for onchobothriid hook terminology.		
+198364	Nasin C.S., Caira J.N., Euzet L.	1997	Analysis of Calliobothrium (Tetraphyllidea:Onchobothriidae) with descriptions of three new species and erection of a new genus		
+198365	Toth, L. M.; Campbell, R. A.; Schmidt, G. D.	1992	A revision of Oncomegas Dollfus, 1929 (Cestoda: Trypanorhyncha: Eutetrarhynchidae), the description of two new species and comments on its classification		
+198367	Campbell, R. A.	1977	New tetraphyllidean and trypanorhynch cestodes from deep sea skates in the western north atlantic		
+198453	Scholz, T.; Bray, R.A.	2001	Probothriocephalus alaini n. sp. (Cestoda: Triaenophoridae) from the deep-sea fish Xenodermichthys copei in the North Atlantic Ocean		
+198454	Kuchta, R.; Scholz, T.	2004	BATHYCESTUS BRAYI N. GEN. AND N. SP. (CESTODA: PSEUDOPHYLLIDEA) FROM THE DEEP-SEA FISH NOTACANTHUS BONAPARTE IN THE NORTHEASTERN ATLANTIC		
+198455	Pramanik, P.B.; Manna, B.	2006	Cathetocephalus limbatus (Tetraphyllidea: Cathetocephalidae) from Carcharhinus limbatus (Valenciennes, 1841) at Digha coast, Bay of Bengal, India		
+198456	Caira, J.; Mega, J.; Ruhnke, T.	2005	An unusual blood sequestering tapeworm (Sanguilevator yearsleyi n. gen., n. sp.) from Borneo with description of Cathetocephalus resendezi n. sp. from Mexico and molecular support for the recognition of the order Cathetocephalidea (Platyhelminthes: Eucestoda)		
+198457	Jadhav, B. V.; Dandawate, R. R.	2004	A new species of the genus Lapwingia (Singh 1952) from Acridotheres tristis at Aurangabad, India		
+198458	Pawar, S. B.; Shinde, G. B.	2001	A new species Lapwingia indicusae n. sp. (Cestoda , Dilepididae) from Vanellus indicus from Aurangabad, India		
+198459	Pawar, S. B.; Shinde, G. B.	2001	A new species Lapwingia shindei n.Sp. (Cestoda : Dilepididae) from Venellus indicus at Aurangabad, India		
+198460	Bondarenko, S.; Kontrimavichus, V.	2006	Cestodes of the genus Aploparaksis Clerc, 1903 (Cyclophyllidea, Aploparaksidae) reported from gulls, with a description of new species		
+198461	Deblock, S.; Canaris, A.G.	2001	From some Hymenolepididae (Cestoda)of Alaskan Charadrii birds, where Nadejdolepis bealli n.sp., is a parasite of Calidris alpina		
+198462	Deblock, S.; Canaris, A.G.	2001	Three new Nadejdolepis Spasskii & Sasskaya, 1954 (Cestoda: Hymenolepididae) parasites of Charadrii (Aves) from Tasmania		
+198463	Kinsella, M.; Deblock, S	2000	Wardium canarisi n. sp. (Cestoda: Hymenolepididae) parasite de Arenaria melanocephala (Aves: Charadrii) d'Alaska		
+198464	Faliex, E.; Tyler, G.; Euzet, L.	2000	A new species of Ditrachybothridium (Cestoda : Diphyllidea) from Galeus sp (Selachii, Scyliorhynidae) from the south Pacific Ocean, with a revision of the diagnosis of the order, family, and genus and notes on descriptive terminology of microtriches		
+198465	Jones, M.K.; Beveridge, I.	2001	Echinobothrium chisholmae n. sp. (Cestoda, Diphyllidea) from the giant shovel-nose ray Rhinobatos typus from Australia, with observations on the ultrastructure of its scolex musculature and peduncular spines.		
+198466	Tyler, G.A.	2006	Tapeworms of elasmobranchs (Part II). A monograph on the Diphyllidea (Platyhelminthes, Cestoda)		
+198467	Neifar, L.; Tyler, G. A.; Euzet, L.	2001	Two New Species of Macrobothridium (Cestoda: Diphyllidea) from Rhinobatid Elasmobranchs in the Gulf of Gabès, Tunisia, with Notes on the Status of the Genus		
+198468	Jensen, K.	2005	A monograph on the Lecanicephalidea (Platyhelminthes, Cestoda)		
+198469	Pramanik, P.B.; Manna, B.	2005	Cephalobothrium gogadevensis new species (Cestoidea: Lecanicephalidae) from Rhinobatus granulatus Cuv., 1829 from Bay of Bengal at Digha Coast, India		
+198470	Wankhede, H	2003	On a new species of the genus Hexacanalis Perrenoud (1931) from the spiral valve of Dicerobatis eregoodoo		
+198471	Vankara, A.P.; Vijayalakshmi, C.; Vijayalakshmi, J.	2006	Description of a new species, Polypocephalus kuhlii n. sp.(Lecanicephalidea: Polypocephalidae) from Dasyatis kuhlii (Müller & Henle) from Visakhapatnam Coast, Bay of Bengal, India		
+198473	Jadhav, B.V.; Dandawate, R.R.; Pawar, R.G.	2009	Tetragonocephalum aurangabadensis n. sp. (Cestoda : Lecanicephalidae) from Trygon sephens at Ratnagiri, India		
+198474	Ivanov, V. A.; Campbell, R. A.	2000	Emendation of the generic diagnosis of Tylocephalum (Cestoda: Lecanicephalidea: Tetragonocephalidae), and description of Tylocephalum brooksi n. sp.		
+198475	Caira, J.N.; Burge, A.N.	2001	Three new species of Acanthobothrium (Cestoda: Tetraphyllidea) from the ocellate electric ray, Diplobatis ommata, in the Gulf of California, Mexico		
+198481	Wang, Y.; Yang, W.	2001	Two new species of Acanthobothrium from marine fishes in Xiamen, Fujian, China (Cestoda: Tetraphyllidea: Onchobothridae [sic]) [In Chinese].		
+198482	Olson, P.; Caira, J.	2001	Two new species of Litobothrium Dailey, 1969 (Cestoda: Litobothriidea) from thresher sharks in the Gulf of California, Mexico, with redescriptions of two species in the genus		
+198483	Ghoshroy, S.; Caira, J. N.	2001	Four new species of Acanthobothrium (Cestoda: Tetraphyllidea) from the whiptail stingray Dasyatis brevis in the Gulf of California, Mexico		
+198484	Caira, J.N.; Zahner, S.D.	2001	Two new species of Acanthobothrium Beneden, 1849 (Tetraphyllidea: Onchobothriidae) from horn sharks in the Gulf of California, Mexico.		
+198485	Ivanov, V. A.	2005	A new species of Acanthobothrium (Cestoda: Tetraphyllidea: Onchobothriidae) from the ocellate river stingray, Potamotrygon motoro (Chondrichthyes: Potamotrygonidae), in Argentina		
+198486	Caira, J. N.; Tracy, R.; Euzet, L.	2004	FIVE NEW SPECIES OF PEDIBOTHRIUM (TETRAPHYLLIDEA: ONCHOBOTHRIIDAE) FROM THE TAWNY NURSE SHARK, NEBRIUS FERRUGINEUS, IN THE PACIFIC OCEAN		
+198489	Bhagwan, H.K.; Shinde, G.B.	2001	Pedibothrium zugei sp. nov. (Cestoda: Lecanicephalidea) from Trygon zugei.		
+198491	Caira, J. N.; Richmond, C.; Swanson, J.	2005	A REVISION OF PHOREIOBOTHRIUM (TETRAPHYLLIDEA: ONCHOBOTHRIIDAE) WITH DESCRIPTIONS OF FIVE NEW SPECIES		
+198493	Marques, F. P. L.; Brooks, D. R.; Araujo, M. L. G.	2003	Systematics and phylogeny of Potamotrygonocestus (Platyhelminthes, Tetraphyllidea, Onchobothriidae) with descriptions of three new species from freshwater potamotrygonids (Myliobatoidei, Potamotrygonidae)		
+198495	Luchetti, N. M.; Marques, F. P. L.; Charvet-Almeida, P.	2008	A new species of Potamotrygonocestus Brooks & Thorson, 1976 (Eucestoda: Tetraphyllidea) from Plesiotrygon iwamae Rosa, Castello & Thorson (Mylliobatoidea: Potamotrygonidae) and a redescription of Potamotrygonocestus chaoi Marques, Brooks & Araujo, 2003		
+198498	Marques, F. P. L.; Brooks, D. R.; Lasso, C. A.	2001	Anindobothrium n. gen. (Eucestoda: Tetraphyllidea) Inhabiting Marine and Freshwater Potamotrygonid Stingrays		
+198500	Suriano, D.; Labiola, J.B.	2001	A new Orygmatobothrium Diesing, 1863 (Eucestoda, Tetraphyllidea) parasite of Mustelus schmitti Springer, 1939 (Carcharhiniformes, Triakidae) from the southwestern Atlantic Ocean		
+198501	Caira, J. N.; Durkin, S. M.	2006	A New Genus and Species of Tetraphyllidean Cestode from the Spadenose Shark, Scoliodon laticaudus, in Malaysian Borneo		
+198505	Pramanik, P.B.; Manna, B.	2008	Echeneibothrium madhavii n. sp. (Cestoidea: Phyllobothriidae) from Rhinobatus granulatus Cuv., 1829 at Digha coastal waters, bay of Bengal, India		
+198507	Shinde G.B.; Bhagwan, H.K.	2001	A new species of genus Echeneibothrium Beneden 1850 (Cestoda: Tetraphyllidea) from Trygon sephen		
+198509	Friggens, M. M.; Duszynski, D. W.	2005	Four New Cestode Species from the Spiral Intestine of the Round Stingray, Urobatis halleri, in the Northern Gulf of California, Mexico		
+198511	Healy, C. J.	2006	THREE NEW SPECIES OF RHINEBOTHRIUM (CESTODA: TETRAPHYLLIDEA) FROM THE FRESHWATER WHIPRAY, HIMANTURA CHAOPHRAYA, IN MALAYSIAN BORNEO		
+198513	Wang, Y,: Yang, W.	2001	Rhinebothrium xiamenensis n. sp. (Eucestoda: Tetraphyllidea) in Dasyatis zugei from the Coast of Xiamen, China		
+198514	Ivanov, V. A.	2004	A new species of Rhinebothroides Mayes, Brooks & Thorson, 1981 (Cestoda: Tetraphyllidea) from the Ocellate River Stingray in Argentina, with Amended Descriptions of Two other Species of the Genus		
+198515	Beveridge, I.; Neifar, L.; Euzet, L.	2004	Eutetrarhynchid cestodes from Atlantic and Mediterranean elasmobranch fishes, with the description of two new species of Dollfusiella Campbell & Beveridge, 1994 and redescriptions of Prochristianella papillifer (Poyarkoff, 1909) Dollfus, 1957 and Parachristianella trygonis Dollfus, 1946		
+198522	Campbell, R.A.: Beveridge, I.	2006	Three new genera and seven new species of trypanorhynch cestodes (family Eutetrarhynchidae) from manta rays, Mobula spp. (Mobulidae) from the Gulf of California, Mexico		
+198528	Bhagwan, H.K.; Shinde, G.B.	2003	Gymnorhynchus thapari n.sp. (Cestoda: Gymnorhynchidae) from Trygon zugei at Ratnagiri		
+198529	Keeney, D.B.; Campbell, R.A.	2001	Grillotia borealis sp. n. (Cestoda: Trypanorhyncha) from five species of Bathyraja (Rajiformes: Arhynchobatidae) in the North Pacific Ocean with comments on parasite enteric distribution		
+198530	Beveridge, I.; Campbell, R.	2001	Grillotia australis n. sp. and G. pristiophori n. sp. (Cestoda: Trypanorhyncha) from Australian elasmobranch and teleost fishes		
+198534	Palm, H.W.	2000	Trypanorhynch cestodes from Indonesian coastal waters (East Indian Ocean).		
+198537	Beveridge, I.; Campbell, R.	2001	Proemotobothrium n. g. (Cestoda: Trypanorhyncha), with the redescription of P. linstowi (Southwell, 1912) n. comb. and description of P. southwelli n. sp		
+198990	Beveridge, I. & Jones, M.	2000	Prochristianella spinulifera n. sp. (Cestoda: Trypanorhyncha) from Australian dasyatid and rhinobatid rays		
+198992	Jadhav, B. V., & Dandawate, R. R.	2003	On a new tapeworm Lapwingia guptai n. sp. from Acridotherus tristis at Aurangabad (ms) India.		
+198997	Palm, H. W., & Schröder, P.	2001	Cestode parasites from the elasmobranchs Heptranchias perlo and Deania from the Great Meteor Bank, central East Atlantic.		
+199001	Pereira Jr, J., & Boeger, W. A.	2005	Larval tapeworms (Platyhelminthes, Cestoda) from sciaenid fishes of the southern coast of Brazil.		
+199003	Pramanik, P. B., & Manna, B.	2005	Disculiceps tandoni new species (Cestoda: Lecanicephalidea: Disculicepitidae) from Carcharias walbeehmii Bleeker and Day 1878 from Bay of Bengal at Digha coast, West Bengal, India.		
+199069	Khalil, L.F. ; Abdul-Salam, J.	1989	Macrobothridium rhynchobati n.g., n. sp. from the elasmobranch Rhynchobatus granulatus, representing a new family of diphyllidean cestodes, the Macrobothridiidae.		
+199071	Brooks, D.R.; Mayes, M.A.; Thorson, T.B.	1981	Cestode parasites in Myliobatis goodei Garman (Myliobatiformes: Myliobatidae) from Río de la Plata, Uruguay, with a summary of cestodes collected from South American elasmobranchs during 1975-1979		
+199072	Andhare, V.V.; Shinde, G.B.	1994	Three new species of the genus Tylocephalum (Cestoda: Lecanicephalidae) at Madras, M. S., India		
+199073	Deshmukh, R.A.	1980	On a new cestode Spinocephalum rhinobatii gen. et sp. nov. (Cestoda: Lecanicephalidae) from a marine fish from west coast of India		
+199074	Euzet, L.	1953	Dicranobothrium, un nouveau genre de cestode tétraphyllide, parasite de sélaciens		
+199075	Schmidt, G. D.	1978	Phyllobothrium kingae sp. n., a tetraphyllidean cestode from a yellow-spotted stingray in Jamaica		
+199079	Healy, C. J.; Scholz, T.; Caira, J. N.	2001	Erudituncus N. GEN. (Tetraphyllidea: Onchobothriidae) With a Redescription of E. Musteli (Yamaguti, 1952) N. Comb. and Comments on its Hook Homologies		
+199127	Suriano, D. M.; Labriola, J. B.	1998	Redescription of Anonchocephalus chilensis (Riggenbach, 1896) (Pseudophyllidea:Triaenophoridae) and description of A. patagonicus n. sp		
+199130	Schmidt, G.D.; Beveridge, I.	1990	Cathetocephalus australis n. sp. (Cestoidea: Cathetocephalidae) from Australia, with a proposal for Cathetocephalidea n. ord		
+199135	Hoberg, E. P.	1991	Alcataenia atlantiensis n. sp. (Dilepididae) from the razorbill (Alca torda Linnaeus) in the eastern North Atlantic basin		
+199139	Caira, J.N.	1992	Verification of multiple species of Pedibothrium in the Atlantic nurse shark with comments on the Australasian members of the genus		
+199143	Caira, J.N.; Rasolofonirina, R.	1998	A new species of Pedibothrium (Cestoidea: Tetraphyllidea) from the short-tail nurse shark, Pseudoginglymostoma brevicaudatum (Elasmobranchii: Orectilobiformes) from southwest Madagascar		
+199144	Shinde, G.B.; Motinge, R.K.; Pardeshi, K.S	1993	On a new species of the genus Phoreiobothrium (Cestoda: Onchobothridae) from a marine fish, Carcharias acutus at Ratnagiri (M.S.) India		
+199145	Caira, J.N.; Healy, C.J.; Swanson, J.	1996	A new species of Phoreiobothrium (Cestoidea:Tetraphyllidea) from the great hammerhead shark Sphyrna mokarran and its implications for the evolution of the onchobothriid scolex		
+199147	McKenzie, V.J.; Caira, J.N.	1998	Three new genera and species of tapeworms from the longnose sawshark, Pristiophorus cirratus, with comments on their modes of attachment to the spiral intestine		
+199149	Caira, J. N.; Runkle, L. S.	1993	Two new tapeworms from the goblin shark Mitsukurina owstoni off Australia		
+199154	Ruhnke, T. R.	1994	Paraorygmatobothrium barberi n. g., n. sp. (Cestoda: Tetraphyllidea), with amended descriptions of two species transferred to the genus		
+199155	Ruhnke, T. R.	1993	A New Species of Clistobothrium (Cestoda: Tetraphyllidea), with an Evaluation of the Systematic Status of the Genus		
+199158	Dailey, M.D.; Vogelbein, W.	1990	Clistobothrium carcharodoni gen. et sp. n. (Cestoda, Tetraphyllidea) from the spiral valve of the great white shark (Carcharodon carcharias).		
+199163	Jadhav, D. H.; Shinde, G. B.; Jadhav, B. V.	1992	Kowsalyabothrium sepheni sp. nov (Cestoda: Phyllobothrium) from marine fish Trygon sephen at Bombay, India		
+199165	Church, C.; Schmidt, G. D.	1990	Phyllobothrium hallericola n. sp. (Cestoidea: Phyllobothriidae) from a round Stingray, Urolophus halleri, in the Sea of Cortez		
+199168	Ruhnke, T. R.	1996	Taxonomic resolution of Phyllobothrium van Beneden (Cestoda: Tetraphyllidea) and a description of a new species from the leopard shark Triakis semifasciata		
+199171	Jadhav, D. H.; Shinde, G. B.; Jadhav, B. V.	1992	On a new species of the genus Pithophorus (Cestoda: Phyllobothriidae) at Ratnagiri, M.S., India		
+199175	Brooks, D. R.; Marques, F.; Perroni, C.; Sidagis, C.	1999	Scyphophyllidium uruguayense n. sp. (Eucestoda: Tetraphyllidea) in Mustelus mento (Cope, 1877) (Chondrichthyes: Carcharhiniformes: Triakidae) from La Paloma, Uruguay		
+199177	Ruhnke, T. R.	1994	Resurrection of Anthocephalum Linton, 1890 (Cestoda: Tetraphyllidea) and taxonomic information on five proposed members		
+199180	Zamparo, D.; Brooks, D.R.; Barriga, R.	1999	Pararhinebothroides hobergi n. gen. n. sp. (Eucestoda: Tetraphyllidea) in Urobatis tumbesensis (Chondrichthyes: Myliobatiformes) from coastal Ecuador		
+199184	Keeling, C. P.; Burt, M. D. B.	1996	Echeneibothrium canadensis n.sp. (Tetraphyllidea: Phyllobothriidae) in the spiral intestine of the thorny skate ( Raja radiata ) from the Canadian Atlantic Ocean		
+199186	Bhaware, R.N.	1993	On a new cestode of the genus Echeneibothrium from a marine fish at Bombay, M.S., India		
+199192	Berman, R.; Brooks, D. R.	1994	Escherbothrium molinae n. gen. et n. sp. (Eucestoda: Tetraphyllidea: Triloculariidae) in Urotrygon chilensis (Chondrichthyes: Myliobatiformes: Urolophidae) from the Gulf of Nicoya, Costa Rica		
+199195	Brooks, D.R.; Amato, J.F.	1992	Cestode parasites in Potamotrygon motoro (Natterer) (Chondrichthyes: Potamotrygonidae) from southwestern Brazil, including Rhinebothroides mclennanae n. sp. (Tetraphyllidea: Phyllobothriidae), and a revised host-parasite checklist for helminths inhabiting neotropical freshwater stingrays.		
+199198	Marques, F.; Brooks, D. R.; Ureña, H. M.	1996	Two New Species of Tetraphyllidean Cestodes in Himantura pacifica (Chondrichthyes: Myliobatiformes: Dasyatididae) from the Northwest Coast of Costa Rica		
+199199	Hoberg, E. P.; Measures, L. N.	1995	Anophryocephalus inuitorum sp.nov. and A . arcticensis sp.nov. (Eucestoda: Tetrabothriidae) in ringed seals ( Phoca hispida hispida ) and harp seals ( Phoca groenlandica ) from high-latitude seas of eastern Canada and the Arctic basin		
+199201	Hoberg, E. P.	1990	Trigonocotyle sexitesticulae sp.nov. (Eucestoda: Tetrabothriidae): a parasite of pygmy killer whales ( Feresa attenuata )		
+199202	Brooks, D. R.; Barriga, R.	1995	Serendip deborahae n. gen. and n. sp. (Eucestoda: Tetraphyllidea: Serendipidae n. fam.) in Rhinoptera steindachneri Evermann and Jenkins, 1891 (Chondrichthyes: Myliobatiformes: Myliobatidae) from Southeastern Ecuador		
+199203	Lakshmi, C. V.; Sarada, S.	1993	Studies on the new species Anthobothrium loculatum parasite from Dasyatis (Himantura) uarnak (Forskal)		
+199206	Shinde, S.P.; Mahajan, M.A	1993	Balanobothrium dattatrayae n.sp. from Trygon zugei from Ratnagiri, India		
+199211	Beveridge, I.	1990	Taxonomic revision of Australian Eutetrarhynchidae Guiart (Cestoda : Trypanorhyncha)		
+199218	Palm, H.W.	1999	Nybelinia Poche, 1926, Heteronybelinia gen. nov. and Myxonebelinia gen. nov. (Cestoda: Trypanorhyncha) in the collections of The Natural History Museum, London		
+199220	Beveridge, I.	1989	Revision of the Family Gilquiniidae Dollfus (Cestoda, Trypanorhyncha) From Elasmobranch Fishes		
+199225	Campbell, R. A.; Beveridge, I.	1997	Pterobothrioides, a new genus of tapeworms (Cestoda: Trypanorhyncha: Pterobothriidae) from dasyatid stingrays in the Eastern Atlantic and Pacific Oceans		
+199228	Campbell, R.; Beveridge, I.	1996	Revision of the family Pterobothriidae Pintner, 1931 (Cestoda : Trypanorhyncha)		
+199235	Palm, H.W.	1995	Untersuchungen zur Systematik von Rüsselbandwürmern (Cestoda: Trypanorhyncha) aus atlantischen Fischen		
+200528	Haseli, M.; Palm, H. W.	2015	Dollfusiella qeshmiensis n. sp. (Cestoda: Trypanorhyncha) from the cowtail stingray Pastinachus sephen (Forsskål) in the Persian Gulf, with a key to the species of Dollfusiella Campbell & Beveridge, 1994		

@@ -1,0 +1,69 @@
+ReferenceID	Authors	Year	Title	Details	
+31636	Shih, C.T., A.J.G. Figueira & E.H. Grainger,	1971	A synopsis of Canadian marine zooplankton. Bull. Fish. Res. Bd Can. 176 : 1-264.		
+131879	Casanova, J.; Chidgey, K. C.	1987	Une nouvelle espèce d'Heterokrohnia (Chaetognathe) des campagnes du Discovery dans l'Atlantique nord-oriental. Bulletin du Muséum national d'Histoire naturelle		
+130889	Kasatkina.	2002	New species of chaetognaths of the genus Pseudoeukrohnia from the western Bering Sea and the northwestern Pacific Ocean. Biologiya Morya (Vladivostok) 28 (2): 93-101		
+165121	Winkelmann, C.; Gasmi, S.; Gretschel, G.; Perez, Y.	2012	Description of Spadella valsalinae sp. nov., a neo-endemic benthic chaetognath from Northern Adriatic Sea (Croatia) with remarks on its morphology, phylogeny and biogeography		
+9269	Muller, Y.	2004	Faune et flore du littoral du Nord, du Pas-de-Calais et de la Belgique: inventaire. [Coastal fauna and flora of the Nord, Pas-de-Calais and Belgium: inventory]. Commission Régionale de Biologie Région Nord Pas-de-Calais: France. 307 pp.		
+141225	Hernández-Flores, R. M., J. A. McLelland, and E. Suárez-Morales.	2009	Planktonic Chaetognatha of the Gulf of Mexico,		
+9990	Ghirardelli, Elvezio	2006	Chaetognata, in: Revisione della Checklist della fauna marina italiana.		
+125436	Bieri, R.,	1991	Systematics of the Chaetognatha. In The Biology of Chaetognaths, (eds. Q. Bone, H. Kapp and A.C. Pierrot-Bults),		
+125399	Casanova, J.	1990	A new species of Paraspadella (Chaetognatha) from the coastal waters of Japan		
+3020	Miner, R. W.	1950	Field book of seashore life. G.P. Putnam & Sons. New York. 888 p.		
+131882	Srinivasan, M.	1986	Pterokrohnia arabica, a new genus and species of Chaetognatha from the Arabian Sea		
+125396	Casanova, J.	1993	Spadella japonica, a new coastal benthic chaetognath from Japan		
+141783	Hernandez F., De Vera A. & Casanova J.-P.	2009	Spadella duverti  (Chaetognatha: Spadellidae), nueva especie bentónica recolectada en las islas  Canarias. Vieraea, 37:119-125.		
+63	Fraser, J.H.	1957	Chaetognatha. <i>Fiches d'identification du zooplancton</i>, 1(Rev. 1). ICES: Copenhagen, Denmark. 6 pp.		
+125431	Pierrot-Bults, A.C.	1979	On the synonymy of Sagitta decipiens Fowler, 1905 and Sagitta neodecipiens Tokioka, 1959, and the validity of Sagitta sibogae Fowler, 1906. Bulletin Zoologisch Museum, Universiteit van Amsterdam, 6:137-143.		
+192633	Trott, T. J.	2004	Cobscook Bay inventory: a historical checklist of marine invertebrates spanning 162 years		
+168668	Michael, E. L. R.	1919	Report on the Chaetognatha collected by the United States fisheries steamer "Albatross" during the Philippine expedition, 1907-1910, by Ellis L. Michael		
+131877	Casanova, J.-P.,	1986	Quatre nouveaux Chaetognathes atlantiques abyssaux (Genre Heterokrohnia): description, remarques éthologiques et biogéographiques. Oceanol. Acta, 9:469-478.		
+1318			UNESCO-IOC Register of Marine Organisms		
+131897	Michel, H. B.	1984	Chaetognatha of the Caribbean Sea and adjacent areas		
+6387	Okemwa, E.N.	1988	The composition and structure of the plankton community in the Tudor Creek, Mombasa, Kenya		
+47901	Nair, VR.; Panampunnayil, SU.; Pillai, HUK.; Gireesh, R.	2008	Two new species of Chaetognatha from the Andaman		
+131880	Dawson, J. K.	1968	Chaetognaths from the Arctic Basin, including the description of a new species of Heterokrohnia. Bull. S. Calif. Acad. Sci. 67:112-124.		
+167260	Peijnenburg, K.T.C.A., & A.C. Pierrot-Bults.	2004	Quantitative morphological variation in Sagitta setosa Müller, 1847 (Chaetognatha) and two closely related taxa. Contributions to Zoology, 73(4)		
+125428	Bieri, R.	1991	Six new genera in the chaetognath family Sagittidae		
+131874	Casanova, J.-P.,	1994	Three new rare Heterokrohnia species (Chaetognatha) from deep benthic samples in the northeast Atlantic. Proc. Biol. Soc. Wash. 10:743-750.		
+125434	Casanova, J.-P.,	1993	A new genus and species of deep-sea chaetognath from the Bay of Biscay with a strange ventral secretory gland. J. Nat. Hist., 27:445-455.		
+125394	Kapp, H., and O. Giere.	2005	Spadella interstitialis sp. nov., a meiobenthic chaetognath from Mediterranean calcareous sands. Meiofauna Marina 14: 109-114.		
+155063	Zenetos, A.; Gofas, S.; Verlaque, M.; Cinar, M.; Garcia Raso, J.; Bianchi, C.; Morri, C.; Azzurro, E.; Bilecenoglu, M.; Froglia, C.; Siokou, I.; Violanti, D.; Sfriso, A.; San Martin, G.; Giangrande, A.; Katagan, T.; Ballesteros, E.; Ramos-Espla, A.; Mastrototaro, F.; Ocana, O.; Zingone, A.; Gambi, M.; Streftaris, N.	2010	Alien species in the Mediterranean Sea by 2010. A contribution to the application of European Union’s Marine Strategy Framework Directive (MSFD). Part I. Spatial distribution		
+195830	Zenetos, A.; Meric, E.; Verlaque, M.; Galli, P.; Boudouresque, C.; Giangrande, A.; Cinar, M.; Bilecenoglu, M.	2008	Additions to the annotated list of marine alien biota in the Mediterranean with special emphasis on Foraminifera and Parasites		
+131851	Alvariño, A.	1967	The Chaetognatha of the NAGA Expedition (1959-1961) in the South China Sea and the Gulf of Thailand		
+2901			North-West Atlantic Ocean species (NWARMS)		
+6379	Khalil, M.T. & N.S.A. El Rahman	1997	Abundance and diversity of surface zooplankton in the Gulf of Aqaba, Red Sea, Egypt.		
+132562	Bradford-Grieve, J.; Casanova, J.	2010	Phylum Chaetognatha: arrow worms, New Zealand inventory of biodiversity: 2		
+125437	Casanova, J.-P.,	1986	Découverte en Méditerranée d'un chaetognathe nouveau de genre archaique profond Archeterokrohnia: description et signification biogéographique. Ra		
+131881	Aida, T.	1897	Chaetognaths of Misaki Harbor. Annot. Zool. Jap. 1: 13-21.		
+125397	Owre, H. B.	1973	A new chaetognath genus and species, with remarks in the taxonomy and distribution of others. Bull. Mar. Sci. 23: 984–963.		
+131872	Chidgey, K. C.	1989	An abyssal species of Sagitta (Chaetognatha) from the North East Atlantic		
+42			ITIS database		
+126156	Pierrot-Bults, A.C.	1974	Taxonomy and zoogeography of certain members of the “Sagitta serratodentata-group” (Chaetognatha). Bjdragen tot de Dierkunde. 44(2): 215-234		
+1210	Pierrot-Bults, A.C.; Chidgey, K.C.	1988	Chaetognatha: keys and notes for the identification of the species. <i>Synopses of the British fauna (new series)</i>, 39. E.J. Brill; W. Backhuys: Leiden, The Netherlands. ISBN 90-04-08610-2. vii, 66 pp.		
+162875	Miyamoto, H.; Nishida, S.	2011	A new deep-sea benthopelagic chaetognath of the genus Bathyspadella (Chaetognatha) with ecological and molecular phylogenetic remarks		
+163731	Casanova, J.-P. &  X. Moreau.	2005	Calispadella alata n. gen., n. sp., the first chaetognath recorded from a hydrothermal vent site (Mid-Atlantic Ridge). J. Plankton Res. 27:221-225.  		
+130890	Kasatkina.	2003	New genera and species of chaetognaths of the order Phragmophora. Biologiya Morya  (Vladivostok) 29 (1): 13-22		
+131878	Kapp, H. & W. Hagen,	1985	Two new species of Heterokrohnia (Chaetognatha) from Antarctic waters. Polar Biology, 4:53-59.		
+663	Howson, C.M.; Picton, B.E. (Ed.)	1997	The species directory of the marine fauna and flora of the British Isles and surrounding seas. <i>Ulster Museum Publication</i>, 276. The Ulster Museum: Belfast, UK. ISBN 0-948150-06-8. vi, 508 (+ cd-rom) pp.		
+2930	Brunel, P.; Bosse, L.; Lamarche, G.	1998	Catalogue of the marine invertebrates of the estuary and Gulf of St. Lawrence		
+138645			VLIZ Belgian Marine Species Consortium		
+173077	Kasatkina, A. P.	2008	New species of arrowworms of the genus Aidanosagitta (Chaetognatha) from the northwestern part of the Sea of Japan		
+2999	Linkletter, L. E.	1977	A checklist of marine fauna and flora of the Bay of Fundy		
+167261	Moltschanoff, L.A.	1909	Die Chaetognathen des Schwarzen Meeres Bull. Acad. Imp. Sci. St-Pétersbg. VI Série, Tome III(No. 13, 1 Octobre): 887-902		
+132823	BODC	2009	Species list from the British Oceanographic Data Centre.		
+192182	Gosner, K. L.	1978	A field guide to the Atlantic seashore		
+125435	Casanova, J.-P.,	1986	Archeterokrohnia rubra, n. gen., n. sp., nouveau Chaetognathe abyssal de l'Atlantique nord-africain: description et position systématique, hypothèse phylogénétique. Bull. Mus. natn. Hist. nat., Paris, 4 sér., 8:185-194.		
+127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
+131873	Casanova, J.	1992	Chaetognaths from Alvin dives in the Santa Catalina Basin (California), with description of two new Heterokrohnia species		
+9271	Streftaris, N.; Zenetos, A.; Papathanassiou, E.	2005	Globalisation in marine ecosystems: the story of non-indigenous marine species across European seas		
+3071	Thomas, M.L.H. (ed.).	1983	Marine and coastal systems of the Quoddy Region, New Brunswick. Canadian Special Publication of Fisheries and Aquatic Sciences 64. 306 p.		
+1414	van der Land, J.; Kapp, H.	2001	Chaetognatha, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+173078	Kasatkina, A. P.	2008	Composition of the genus Leptosagitta of the family Sagittidae (Chaetognatha) with descriptions of four new species from coastal waters of the Northwestern Sea of Japan		
+131850	Villenas, F.  & S. Palma,	2006	Sagitta chilensis nueva especie de quetognato en fiordos australes  chilenos (Chaetognatha, Aphragmophora, Sagittidae). Invest. Mar., Valparaíso, 34(1): 101-108.		
+47903	Tovar E, Suárez-Morales E	2007	New records and a new species of <i>Spadella</i> (Chaetognatha: Spadellidae) from the Western Caribbean Sea. Proc Biol Soc Wash 120:175-183		
+125401	Casanova, J.-P.	1986	Deux nouvelles espèces d'Eukrohnia (Chaetognathes) de l'Atlantique sud-tropical africain Bulletin du Muséum national d'histoire naturelle. Section A, Zoologie, biologie et écologie animales. 8: 819-833		
+131876	Marumo, R. and M. Kitou.	1966	A new species of Heterokrohnia (Chaetognatha) from the western North Pacific. La Mer, 4:178-183.		
+170244	Thuesen, E. V.; Haddock, S. H. D.	2013	Archeterokrohnia docrickettsae (Chaetognatha: Phragmophora: Heterokrohniidae), a new species of deep-sea arrow worm from the Gulf of California		
+125398	Bowman, T.E. & R. Bieri	1989	Paraspadella anops, new species, from Sagittarius Cave, Grand Bahama Island, the second troglobitic chaetognath. Proc. Biol. Soc. Wash. 102: 586-589.		
+15162	Casanova, J. P.	1991	The first record of a benthic polar chaetognath: a new Spadella from the Antarctic		
+131853	Bieri, R.	1974	First record of the chaetognath genus Krohnitella in the Pacific and description of a new species		

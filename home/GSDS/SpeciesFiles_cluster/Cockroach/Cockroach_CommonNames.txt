@@ -1,0 +1,143 @@
+﻿AcceptedTaxonID	CommonName	Language
+1172733	firefly cockroach	English
+1172805	Cypress cockroach	English
+1172805	Pacific beetle cockroach	English
+1172829	giant burrowing cockroach	English
+1172829	litter bug	English
+1172829	rhinoceros cockroach	English
+1172858	Surinam cockroach	English
+1172871	Indian cockroach	English
+1172968	round-backed cockroach	English
+1173031	Maya cockroach	English
+1173096	Caribbean wafer cockroach	English
+1173480	Cape mountain cockroach	English
+1173573	green cockroach	English
+1173585	speckled-brown cockroach	English
+1173594	Cuban cockroach	English
+1173594	green banana cockroach	English
+1174140	marbled gargantuan cockroach	English
+1174141	peppered cockroach	English
+1174141	tessellated gargantuan cockroach	English
+1174146	Puerto Rican cave cockroach	English
+1174159	death's head cockroach	English
+1174169	drummer	English
+1174169	West Indian leaf cockroach	English
+1174190	giant cockroach	English
+1174223	Cuban burrowing cockroach	English
+1174248	broad Keys cockroach	English
+1174355	pale-bordered cockroach	English
+1174355	pallid cockroach	English
+1174360	sibyl cockroach	English
+1174386	flat horned hissing cockroach	English
+1174397	Chopard's Madagascan hissing cockroach	English
+1174404	v-horn hissing cockroach	English
+1174410	Grandidier's giant Madagascan hissing cockroach	English
+1174413	giant hissing cockroach	English
+1174413	giant Madagascan hissing cockroach	English
+1174413	hissing cockroach	English
+1174413	Madagascan hissing cockroach	English
+1174433	large cinereous cockroach	English
+1174444	short-winged cinereous cockroach	English
+1174466	cinereous cockroach	English
+1174466	lobster cockroach	English
+1174466	small cinereous cockroach	English
+1174476	drummer	English
+1174476	Madeira cockroach	English
+1174490	buprestid cockroach	English
+1174597	Asian cockroach	English
+1174627	crotonbug	English
+1174627	German cockroach	English
+1174652	false German cockroach	English
+1174684	field cockroach	English
+1175113	dark wood cockroach	English
+1175302	lobe-winged cockroach	English
+1175460	western wood cockroach	English
+1175461	Boll's wood cockroach	English
+1175463	Caudell's wood cockroach	English
+1175465	desert cockroach	English
+1175467	southern wood cockroach	English
+1175468	fulvous wood cockroach	English
+1175470	broad wood cockroach	English
+1175473	Arizona wood cockroach	English
+1175474	Pennsylvanian wood cockroach	English
+1175484	Uhler's wood cockroach	English
+1175488	Virginia wood cockroach	English
+1175490	banded wood cockroach	English
+1175560	pale-bordered field cockroach	English
+1175701	Smooth Cockroach	English
+1175701	Unadorned Cockroach	English
+1175877	silky cockroach	English
+1175877	smooth cockroach	English
+1175884	great brown cockroach	English
+1176111	dusky cockroach	English
+1176131	spotted Mediterranean cockroach	English
+1176131	tawny cockroach	English
+1176140	forest cockroach	English
+1176140	lesser cockroach	English
+1176154	lesser cockroach	English
+1176302	three-lined cockroach	English
+1176505	ant cockroach	English
+1176683	small-spotted cockroach	English
+1176818	small yellow cockroach	English
+1176820	least yellow cockroach	English
+1176971	small Texas cockroach	English
+1176971	small yellow Texas cockroach	English
+1177089	fragile cockroach	English
+1177096	shortwing gem cockroach	English
+1177159	pale-headed cockroach	English
+1177164	Rehn's cockroach	English
+1177417	pictured beetle cockroach	English
+1177418	Florida beetle cockroach	English
+1177523	orchid cockroach	English
+1177589	brown-banded cockroach	English
+1177787	Pacific cockroach	English
+1177857	hooded cockroach	English
+1177857	small hooded cockroach	English
+1177861	Schwarz's hooded cockroach	English
+1177939	aztec hairy cockroach	English
+1177946	small hairy cockroach	English
+1177961	Apache sand cockroach	English
+1177963	erratic sand cockroach	English
+1177964	Florida sand cockroach	English
+1177965	Arizona sand cockroach	English
+1177966	pleasant sand cockroach	English
+1177967	southern Californian sand cockroach	English
+1177968	Rehn's sand cockroach	English
+1177969	Tonkawa sand cockroach	English
+1177970	Boll's sand cockroach	English
+1177978	hairy desert cockroach	English
+1178026	Chinese medicinal cockroach	English
+1178026	turtle cockroach	English
+1178117	Egyptian cockroach	English
+1178117	Egyptian desert cockroach	English
+1178175	brown wingless cockroach	English
+1178175	woodeating cockroach	English
+1178175	woodroach	English
+1178221	Beautiful wingless cockroach	English
+1178257	Cuban stinking cockroach	English
+1178266	Florida cockroach	English
+1178266	Florida stinkroach	English
+1178266	Florida woods roach	English
+1178266	palmettobug	English
+1178266	skunk cockroach	English
+1178266	stinking cockroach	English
+1178266	stinkroach	English
+1178278	hustler cockroach	English
+1178287	opaque stinking cockroach	English
+1178298	Hispaniolan stinking cockroach	English
+1178353	black cockroach	English
+1178363	whitemargined cockroach	English
+1178393	Gisborne cockroach	English
+1178570	Oriental cockroach	English
+1178796	Black cockroach	English
+1178821	harlequin cockroach	English
+1178850	vagabond cockroach	English
+1178871	American cockroach	English
+1178871	Bombay canary	English
+1178871	ship cockroach	English
+1178885	Australian cockroach	English
+1178900	brown cockroach	English
+1178900	southern brown cockroach	English
+1178919	smoky-brown cockroach	English
+1178928	Japanese cockroach	English
+1179022	Turkestan cockroach	English

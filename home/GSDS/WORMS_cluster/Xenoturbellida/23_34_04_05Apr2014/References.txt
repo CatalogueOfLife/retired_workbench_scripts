@@ -1,0 +1,6 @@
+ReferenceID	Authors	Year	Title	Details	
+1364	Gofas, S.; Le Renard, J.; Bouchet, P.	2001	Mollusca, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+6827	Costello, M.J.; Emblow, C.; White, R. (Ed.).	2001	European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels, 50. Muséum national d'Histoire Naturelle: Paris, France. ISBN 2-85653-538-0. 463 pp.		
+41597	Westblad E.	1949	<i>Xenoturbella bocki</i> n.g., n.sp., a peculiar, primitive Turbellarian type. <i>Arkiv för Zoologi 1</i>:  3-29		
+41598	Israelsson O.	1999	New light on the enigmatic <i>Xenoturbella</i> (phylum uncertain): ontogeny and phylogeny. <i>Proceedings of the Royal Society (London) 266B</i>:  835-841		
+165516	Dyntaxa	2013	Swedish Taxonomic Database. Accessed at www.dyntaxa.se [15-01-2013].		

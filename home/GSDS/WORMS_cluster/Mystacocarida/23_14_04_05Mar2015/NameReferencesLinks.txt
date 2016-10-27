@@ -1,0 +1,6 @@
+ID	ReferenceType	ReferenceID	
+120236	TaxAccRef	1331	
+120236	TaxAccRef	6827	
+120237	TaxAccRef	1331	
+120237	TaxAccRef	6827	
+408692	TaxAccRef	141239	

@@ -1,0 +1,3 @@
+﻿AcceptedTaxonID	CommonName	Language
+1222365	Yamane-nanafushi-seibou	Japanese
+1222371	Kantoh-nanafushi-seibou	Japanese

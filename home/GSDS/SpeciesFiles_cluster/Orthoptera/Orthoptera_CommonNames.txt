@@ -1,0 +1,1776 @@
+﻿AcceptedTaxonID	CommonName	Language
+1100268	Minute Pygmy Locust	English
+1100286	Larger Pygmy Locust	English
+1100377	Le Tridactyle panaché	English
+1100379	Le Tridactyle genevois	French
+1100379	Pfändlers Grabschrecke	German
+1100516	Torreya Pygmy Grasshopper	English
+1100535	Sedge Grouse Locust	English
+1100545	Spined Grouse Locust	English
+1102021	Northern Crested Grouse Locust	English
+1102172	Le Tétrix déprimé	French
+1102377	Hooded Grouse Locust	English
+1102406	Le Tétrix des plages	French
+1102406	Mittelmeer-Dornschrecke	German
+1102497	Le Tétrix calcicole	French
+1102497	Two-spotted Groundhopper	English
+1102497	Zweipunkt-Dornschrecke	German
+1102512	Bolivars Dornschrecke	German
+1102512	Le Tétrix caucasien	French
+1102512	Le Tétrix de Bolivar	French
+1102517	Brunner's Grouse Locust	English
+1102535	Sierra Pygmy Grasshopper	English
+1102541	Le Tétrix riverain	French
+1102541	Säbel-Dornschrecke	German
+1102541	Slender Ground-hopper	English
+1102541	Slender Grouse Locust	English
+1102563	Langfühler-Dornschrecke	German
+1102563	Le Tétrix des carrières	French
+1102563	Le Tétrix des sablières	French
+1102563	Long-horned Groundhopper	English
+1102569	Common Groundhopper	English
+1102569	common ground-hopper	English
+1102569	Gemeine Dornschrecke	German
+1102569	Le Tétrix forestier	French
+1102584	Obscure Grouse Locust	English
+1102592	Ornate Grouse Locust	English
+1102604	Cepero's ground-hopper	English
+1102604	Le Tétrix des vasières	French
+1102604	Westliche Dornschrecke	German
+1102625	Le Tétrix grisâtre	French
+1102625	Türks Dornschrecke	German
+1103022	Le Criquet cylindrique	French
+1103022	Le Criquet des marais	French
+1103075	Europäische Wanderheuschrecke	German
+1103075	Le Criquet migrateur	French
+1103075	Migratory Locust	English
+1103084	African Migratory Locust	English
+1103125	Yellow-winged Locust	English
+1103186	Brown Locust	English
+1103192	Eastern Oedaleus	English
+1103222	Kreuzschrecke	German
+1103222	l'Oedipode soufrée	French
+1103244	Le Criquet stridulant	French
+1103244	L'Oedipode stridulante	French
+1103244	Rattle Grasshopper	English
+1103244	Rotflüglige Schnarrschrecke	German
+1103310	Braune Strandschrecke	German
+1103310	Le Criquet farouche	French
+1103310	l'Oedipode automnale	French
+1103316	Grüne Strandschrecke	German
+1103316	L'Oedipode émeraudine	French
+1103367	Vlei Grasshopper	English
+1103375	Dreifarbschrecke	German
+1103375	Le Criquet tricolore	French
+1103393	Long-legged Bandwing	English
+1103431	Fluss-Strandschrecke	German
+1103431	L'Oedipode des salines	French
+1103434	Eastern Long-winged Grasshopper	English
+1103434	Fluss-Strandschrecke	German
+1103434	Oedipode des salines	French
+1103471	L'Oedipode occitane	French
+1103490	Blauflüglige Ödlandschrecke	German
+1103490	Blue-winged Grasshopper	English
+1103490	l'Oedipode turquoise	French
+1103503	L'Oedipode catalan	French
+1103510	L'Oedipode rouge	French
+1103510	Red-winged Grasshopper	English
+1103510	Rotflüglige Ödlandschrecke	German
+1103554	L'Oedipode caussenard	French
+1103554	Veränderliche Schrecke	German
+1103716	Crivellari's Sand Grasshopper	English
+1103720	Australian Sphingonotus	English
+1103784	L'Oedipode insulaire	French
+1103799	Tenerife Sand Grasshopper	English
+1103815	Blauflüglige Sandschrecke	German
+1103815	l'Oedipode aigue-marine	French
+1103815	Slender Blue-winged Grasshopper	English
+1103950	L'Oedipode lazulite	French
+1103973	Yellow-spined Bamboo Locust	English
+1104001	Green Leek Grasshopper	English
+1104001	Lauchschrecke	German
+1104001	Le Criquet des roseaux	French
+1104010	Graceful Sedge Grasshopper	English
+1104010	Northern Sedge Locust	English
+1104012	Large Marsh Grasshopper	English
+1104012	Le Criquet ensanglanté	French
+1104012	Sumpfschrecke	German
+1104016	Striped Sedge Locust	English
+1104038	Usambara Burrowing Grasshopper	English
+1104059	L'Oedipode framboisine	French
+1104074	South-East African Burrowing Grasshopper	English
+1104080	L'Oedipode gracile	French
+1104080	Schlanke Ödlandschrecke	German
+1104080	Slender Burrowing Grasshopper	English
+1104103	L'Oedipode milanais	French
+1104128	Southern Yellow-Winged Grasshopper	English
+1104135	Red-winged Grasshopper	English
+1104135	Red-winged Locust	English
+1104144	Speckle-winged Rangeland Grasshopper	English
+1104158	Plains Yellow-Winged Grasshopper	English
+1104161	Spring Yellow-winged Locust	English
+1104163	Autumn Yellow-Winged Grasshopper	English
+1104163	Autumn Yellow-winged Locust	English
+1104271	Gefleckte Schnarrschrecke	German
+1104296	Painted Meadow Grasshopper	English
+1104303	Southern Green-Striped Grasshopper	English
+1104306	Green-striped Grasshopper	English
+1104306	Green-striped Locust	English
+1104317	Dusky Grasshopper	English
+1104324	Dusky Grasshopper	English
+1104324	Dusky Locust	English
+1104331	Southwestern Dusky Grasshopper	English
+1104335	Magnificent Grasshopper	English
+1104338	Threebanded Grasshopper	English
+1104348	Clear-winged Grasshopper	English
+1104348	Clear-winged Locust	English
+1104353	Nevada Red-Winged Grasshopper	English
+1104358	Pronotal Range Grasshopper	English
+1104366	Arroyo Grasshopper	English
+1104382	Wrinkled Grasshopper	English
+1104393	Saussure's Blue-Winged Grasshopper	English
+1104401	Coral-winged Locust	English
+1104405	Haldeman's Locust	English
+1104409	Orange-Winged Grasshopper	English
+1104420	Redshanked Grasshopper	English
+1104447	Hayden's Grasshopper	English
+1104455	Saussure's Desert Grasshopper	English
+1104458	Apache Grasshopper	English
+1104465	Platte Range Grasshopper	English
+1104471	Blue-legged Grasshopper	English
+1104474	Caudell's Longhorn Grasshopper	English
+1104475	Longhorn Band-Winged Grasshopper	English
+1104475	Long-horned Locust	English
+1104479	Finned Grasshopper	English
+1104485	Kiowa Grasshopper	English
+1104499	Scudder's Clear-Winged Grasshopper	English
+1104535	Australian Plague Locust	English
+1104564	Small Plague Locust	English
+1104567	Southern Austroicetes	English
+1104573	Inland Austroicetes	English
+1104575	Confusing Austroicetes	English
+1104580	Northern Austroicetes	English
+1104581	Southeastern Austroicetes	English
+1104674	Key's Bandwing	English
+1104700	Common Bandwing	English
+1104705	Spotted Bandwing	English
+1104745	Carlinian Snapper Grasshopper	English
+1104749	Wrangler Grasshopper	English
+1104765	California Central Valley Grasshopper	English
+1104770	Groove-Headed Grasshopper	English
+1104781	Carolina Grasshopper	English
+1104781	Carolina Locust	English
+1104782	High Plains Grasshopper	English
+1104784	California Rose-Winged Grasshopper	English
+1104791	Boll's Grasshopper	English
+1104791	Boll's Locust	English
+1104798	Mottled Sand Grasshopper	English
+1104798	Mottled Sand Locust	English
+1104806	Crepitating Grasshopper	English
+1104807	Ridgeback Sand Grasshopper	English
+1104809	Orange-legged Grasshopper	English
+1104809	Say's Grasshopper	English
+1104816	Northern Marbled Locust	English
+1104821	Lake Huron Locust	English
+1104835	California Band-Winged Grasshopper	English
+1104840	Blue-Winged Grasshopper	English
+1104856	Zayante Band-winged Grasshopper	English
+1104864	Seaside Locust	English
+1104877	Santa Monica Mountains Grasshopper	English
+1104878	Lompoc Grasshopper	English
+1104881	Pallid-winged Grasshopper	English
+1104915	Crackling Locust	English
+1105163	Green Fool Grasshopper	English
+1105168	Idaho Point-headed Grasshopper	English
+1105174	Creosote Bush Grasshopper	English
+1105191	Brown Winter Grasshopper	English
+1105215	Handsome Grasshopper	English
+1105215	Handsome Locust	English
+1105218	Montezuma's Grasshopper	English
+1105236	Graceful Range Grasshopper	English
+1105237	Ebony Grasshopper	English
+1105348	Wembere Grasshopper	English
+1105389	Große Höckerschrecke	German
+1105389	L'Arcyptère bariolée	French
+1105389	Le Criquet bariolé	French
+1105400	L'Arcyptère provençale	French
+1105409	Kleine Höckerschrecke	German
+1105427	L'Arcyptère languedocienne	French
+1105436	White-whiskered Grasshopper	English
+1105447	Bigheaded Grasshopper	English
+1105457	Big-headed Grasshopper	English
+1105469	Brown-Spotted Range Grasshopper	English
+1105498	Desert Clicker Grasshopper	English
+1105508	Rufous Grasshopper	English
+1105560	Le Criquet marocain	French
+1105560	Moroccan Locust	English
+1105590	Le Criquet des chaumes	French
+1105595	Jago's Grasshopper	English
+1105595	Le Criquet de Jago	French
+1105707	Striped Grasshopper	English
+1105707	Striped Slantfaced Grasshopper	English
+1105720	Slant-faced Grasshopper	English
+1105720	Texas Short-Wing	English
+1105722	Obscure Slant-Faced Grasshopper	English
+1105724	Velvet-striped Grasshopper	English
+1105724	Velvet-striped Locust	English
+1105740	Obscure Grasshopper	English
+1105759	Le Criquet des marais	French
+1105773	Epirus Grasshopper	English
+1105775	Le Criquet marginé	French
+1105775	Lesser Marsh Grasshopper	English
+1105775	Weißrandiger Grashüpfer	German
+1105796	Östlicher Wiesengrashüpfer	German
+1105803	Le Criquet verte-échine	French
+1105803	Steppe Grasshopper	English
+1105803	Wiesengrashüpfer	German
+1105823	Piedmont Grasshopper	English
+1105934	Le Criquet méridional	French
+1105934	Südlicher Grashüpfer	German
+1105936	Ilgaz Mountain Grasshopper	English
+1105939	Gravel Grasshopper	English
+1105939	Kiesbank-Grashüpfer	German
+1105939	Le Criquet des iscles	French
+1105950	Feldgrashüpfer	German
+1105950	Le Criquet des adrets	French
+1105966	Le Criquet nord-corse	French
+1105973	Criquet des pins	French
+1105973	Heath Grasshopper	English
+1105973	Steppengrashüpfer	German
+1105994	Höhengrashüpfer	German
+1106000	Le Criquet des ajoncs	French
+1106018	Bow-winged Grasshopper	English
+1106018	Le Criquet mélodieux	French
+1106018	Nachtigall-Grashüpfer	German
+1106037	Le Criquet des jachères	French
+1106037	Verkannter Grashüpfer	German
+1106057	Brauner Grashüpfer	German
+1106057	Common Field Grasshopper	English
+1106057	Le Criquet duettiste	French
+1106067	Adana Grasshopper	English
+1106068	Karaman Grasshopper	English
+1106129	Morea Grasshopper	English
+1106130	Parnon Grasshopper	English
+1106150	Le Criquet de Sibérie	French
+1106150	Le Criquet sibérien	French
+1106150	Siberian Grasshopper	English
+1106150	Sibirische Keulenschrecke	German
+1106197	Gefleckte Keulenschrecke	German
+1106197	Le Gomphocère tacheté	French
+1106197	Mottled Grasshopper	English
+1106216	Four-Spotted Grasshopper	English
+1106226	Clubhorned Grasshopper	English
+1106239	Alpen-Keulenschrecke	German
+1106239	Le Gomphocère des moraines	French
+1106254	Le Gomphocère roux	French
+1106254	Rote Keulenschrecke	German
+1106254	Rufous Grasshopper	English
+1106257	Bruner Slantfaced Grasshopper	English
+1106275	Gebirgsgrashüpfer	German
+1106275	Large Mountain Grasshopper	English
+1106275	Le Criquet jacasseur	French
+1106287	Le Gomphocère pyrénéen	French
+1106319	Marsh Meadow Grasshopper	English
+1106319	Meadow Grasshopper	English
+1106328	Gemeiner Grashüpfer	German
+1106328	Le Criquet des pâtures	French
+1106328	Meadow Grasshopper	English
+1106350	Le Criquet palustre	French
+1106350	Sumpfgrashüpfer	German
+1106360	Große Goldschrecke	German
+1106360	Large Gold Grasshopper	English
+1106360	Le Criquet des clairières	French
+1106382	Schweizer Goldschrecke	German
+1106410	Steirische Goldschrecke	German
+1106410	Styrian Golden Grasshopper	English
+1106425	Siskiyou Chloealtis Grasshopper	English
+1106426	Sprinkled Broad-Winged Grasshopper	English
+1106450	Kleine Goldschrecke	German
+1106450	Le Criquet des genévriers	French
+1106450	Small Gold Grasshopper	English
+1106484	Le Criquet du Bragalou	French
+1106487	Dickkopf-Grashüpfer	German
+1106487	Jersey Grasshopper	English
+1106487	Le Criquet des mouillères	French
+1106487	Sharp-tailed Grasshopper	English
+1106516	Jersey Grasshopper	English
+1106517	Le Criquet glauque	French
+1106533	Long-headed Toothpick Grasshopper	English
+1106539	Bunchgrass Grasshopper	English
+1106539	Short-Winged Toothpick Grasshopper	English
+1106543	Two-Striped Mermiria Grasshopper	English
+1106543	Two-Striped Slantface  Grasshopper	English
+1106546	Eastern Mermiria Grasshopper	English
+1106547	Lively Mermiria Grasshopper	English
+1106565	Elegant Grasshopper	English
+1106569	Short-winged Green Grasshopper	English
+1106603	Spotted-Wing Grasshopper	English
+1106638	Pasture Grasshopper	English
+1106638	Pasture Locust	English
+1106638	Slant-faced Pasture Grasshopper	English
+1106954	East African Sword Grasshopper	English
+1107221	Crenulated Grasshopper	English
+1107221	Crenulatewinged Grasshopper	English
+1107224	Spotted-Winged Grasshopper	English
+1107224	Western Spotted-Winged Grasshopper	English
+1107235	Wyoming Toothpick Grasshopper	English
+1107268	Felsgrashüpfer	German
+1107268	Fels-Grashüpfer	German
+1107268	Le Criquet des grouettes	French
+1107272	Le Criquet des garrigues	French
+1107273	Buntbäuchiger Grashüpfer	German
+1107273	Le Criquet noir-ébène	French
+1107273	Woodland Grasshopper	English
+1107288	Le Criquet rouge-queue	French
+1107288	Orange-tipped Grasshopper	English
+1107288	Rotleibiger Grashüpfer	German
+1107302	Bunter Grashüpfer	German
+1107302	Common Green Grasshopper	English
+1107302	Le Criquet verdelet	French
+1107348	Le Sténobothre cottien	French
+1107356	Bunter Alpengrashüpfer	German
+1107356	Le Sténobothre alpin	French
+1107356	Wing-buzzing Grasshopper	English
+1107368	Zwerggrashüpfer	German
+1107371	Le Sténobothre occitan	French
+1107372	Le Gomphocère fauve-queue	French
+1107393	Le Sténobothre cigalin	French
+1107393	Südlicher Grashüpfer	German
+1107405	Heidegrashüpfer	German
+1107405	Le Criquet de la Palène	French
+1107405	Stripe-winged Grasshopper	English
+1107415	Gefleckter Heidegrashüpfer	German
+1107415	Le Criquet bourdonneur	French
+1107415	Le Sténobothre bourdonneur	French
+1107415	Schwarzfleckiger Grashüpfer	German
+1107423	Kleiner Heidegrashüpfer	German
+1107423	Le Sténobothre nain	French
+1107423	Lesser Mottled Grasshopper	English
+1107447	Le Criquet des Ibères	French
+1107494	Kleine Knarrschrecke	German
+1107494	le Criquet pansu	French
+1107494	Rossis Knarrschrecke	German
+1107522	Zanzibar Giant Forest Grasshopper	English
+1107560	Common Adreppus	English
+1107568	Lumpy Beplessia	English
+1107577	Redlands Coryphistes	English
+1107579	Hairy Coryphistes	English
+1107582	Bark-mimicking Grasshopper	English
+1107594	Common Euophistes	English
+1107602	Gaudy Acacia Grasshopper	English
+1107605	Striped Acacia Grasshopper	English
+1107619	Eastern Striped Grasshopper	English
+1107623	Common Striped Grasshopper	English
+1107629	Purple-legged Grasshopper	English
+1107633	Coastal Hairy Grasshopper	English
+1107639	Plain Clepsydria	English
+1107641	Salt & Pepper Clepsydria	English
+1107645	Epallia Grasshopper	English
+1107651	Robust Fipurga	English
+1107662	False Gumleaf Grasshopper	English
+1107671	Mountain Grasshopper	English
+1107673	Common Red-leg	English
+1107673	The Perunga	English
+1107675	Schayer's Grasshopper	English
+1107705	Tabora Grasshopper	English
+1107717	Common Tropical Sharptail	English
+1107727	Light-brown Sharptail	English
+1107731	Key's Sharptail	English
+1107811	Thespian Grasshopper	English
+1107814	Eyre Cirphula	English
+1107816	Variable Cirphula	English
+1107829	Stripe-winged Meadow Grasshopper	English
+1107831	Red-legged Exarna	English
+1107838	Rainbow Grasshopper	English
+1107841	Pretty Terpillaria	English
+1107843	Zebra Grasshopper	English
+1107853	Common Toadhopper	English
+1107855	Rufous Toadhopper	English
+1107859	Purple-footed Hairy Rockhopper	English
+1107861	Armoured Stonehopper	English
+1107863	Living Stone	English
+1107865	Blue-legged Hairy Grasshopper	English
+1107874	Variable Eumecistes	English
+1107882	Pleasing Grasshopper	English
+1107889	Large Pardillana	English
+1107893	Common Pardillana	English
+1107903	Common Retuspia	English
+1107905	Pilliga Grasshopper	English
+1107910	Robust White-whiskers	English
+1107923	Wrinkle-headed Grasshopper	English
+1107942	crested tooth grinder	English
+1107945	Common Happarana	English
+1107956	Gumleaf Grasshopper	English
+1107971	Black-kneed Gumleaf Grasshopper	English
+1107976	Tropical Gumleaf Grasshopper	English
+1107979	Mimetic Gumleaf Grasshopper	English
+1107986	Slender Gumleaf Grasshopper	English
+1108004	Southern Maclystria	English
+1108007	Perloccia	English
+1108015	Common Pig-head	English
+1108018	Yellow-winged Pig-Head	English
+1108023	Black Grasshopper	English
+1108035	Common Macrotona	English
+1108040	Red-thighed Macrotona	English
+1108042	Blue-legged Macrotona	English
+1108046	Handsome Macrotona	English
+1108048	Deceptive Macrotona	English
+1108051	Inland Macrotona	English
+1108062	Tropical Theomolpus	English
+1108070	Queensland Xypechtia	English
+1108077	Micropterous Rainbow Grasshopper	English
+1108082	Purple-footed Caloptila	English
+1108083	Mottled Caloptila	English
+1108088	Red-legged Catespa	English
+1108091	Orange-legged Cedarina	English
+1108093	Kings Park Cedarinia	English
+1108095	Queensland Cedarinia	English
+1108106	Copper-winged Grasshopper	English
+1108109	Striped Ungee-gungee	English
+1108111	Northern Ungee-gungee	English
+1108114	Ungee-gungee	English
+1108121	Common Lagoonia	English
+1108124	Grey Peakesia	English
+1108127	Tropical Peakesia	English
+1108129	Common Peakesia	English
+1108131	Deceptive Peakesia	English
+1108136	Pink-winged Peakesia	English
+1108138	Central Peakesia	English
+1108141	Plain Peakesia	English
+1108146	Grassland Froghopper	English
+1108151	Mediocre Grasshopper	English
+1108154	Jumping Yrrhapta	English
+1108155	Speckled Yrrhapta	English
+1108161	Territory Lined Grasshopper	English
+1108218	Common Ablectia	English
+1108220	Cinnamon Capraxa	English
+1108222	Tiny Grasshopper	English
+1108227	Variable Perbeliia	English
+1108228	White-tipped Perbellia	English
+1108230	Robust Phaulacridium	English
+1108236	Wingless Grasshopper	English
+1108245	Perth Porraxia	English
+1108249	Queensland White-tips	English
+1108252	Territory White-tips	English
+1108273	Tassie Hopper	English
+1108292	Tasmanian Velvet Grasshopper	English
+1108294	Tasmanian Grasshopper	English
+1108301	Speckled Red-wing	English
+1108303	Speckled Grasshopper	English
+1108308	The Parazelum	English
+1108310	Green Stropis	English
+1108311	Leopard Grasshopper	English
+1108312	Variable Stropis	English
+1108320	Short-winged Heath Grasshopper	English
+1108323	Plain Urnisa	English
+1108327	Red-legged Urnisa	English
+1108335	Common Urnisa	English
+1108425	Blacktail	English
+1108472	Halgania Grasshopper	English
+1108475	Crepitating Spurthroat	English
+1108478	Kakadu Grasshopper	English
+1108599	Long-legged Sandhopper	English
+1108720	Usambara Splendid Grasshopper	English
+1108869	Uluguru Forest Grasshopper	English
+1108901	Tanzanian Miombo Grasshopper	English
+1109566	Uluguru Dusky Grasshopper	English
+1109567	Usambara Dusky Grasshopper	English
+1109780	fuzzy olive-green grasshopper	English
+1109788	Little Wingless Grasshopper	English
+1109792	Florida Purple-striped Locust	English
+1109804	Meadow Purple-striped Grasshopper	English
+1109804	Snakeweed Grasshopper	English
+1109821	Beutenmüller's Locust	English
+1109831	pictured grasshopper	English
+1110041	Wingless Florida Locust	English
+1110066	Russianthistle Grasshopper	English
+1110082	Texas Cholla Grasshopper	English
+1110085	Hebard's Short-winged Locust	English
+1110090	Cudweed Grasshopper	English
+1110090	Greenish-white Grasshopper	English
+1110090	Mugwort Grasshopper	English
+1110092	Migratory Grasshopper	English
+1110102	Lesser Migratory Locust	English
+1110105	Davis's Locust	English
+1110105	Davis's Oak Grasshopper	English
+1110109	Alpine Grasshopper	English
+1110111	Narrow-winged Locust	English
+1110111	Narrow-winged Sand Grasshopper	English
+1110121	Slender-bodied Locust	English
+1110124	Two-striped Grasshopper	English
+1110124	Yellow-striped Locust	English
+1110131	Bruner spurthroated Grasshopper	English
+1110131	Bruner's Locust	English
+1110138	Carnegie's Locust	English
+1110145	Shield-tailed Locust	English
+1110146	Little Pasture Locust	English
+1110146	Pasture Grasshopper	English
+1110151	Dawson Grasshopper	English
+1110151	Dawson's Locust	English
+1110160	Symmetrical Locust	English
+1110189	Huckleberry Locust	English
+1110195	Red-legged Grasshopper	English
+1110195	Red-legged Locust	English
+1110207	Blue-legged Locust	English
+1110214	Fork-tailed Locust	English
+1110217	Gladston Grasshopper	English
+1110233	Huron Short-winged Locust	English
+1110236	Immodest Locust	English
+1110239	Little Spurthroated Grasshopper	English
+1110245	Lakin Grasshopper	English
+1110264	Black-sided Locust	English
+1110268	Flabellate Grasshopper	English
+1110275	Swift Locust	English
+1110285	Least Short-winged Locust	English
+1110286	Pygmy Locust	English
+1110287	Oak-loving Locust	English
+1110293	Round-winged Locust	English
+1110295	Nevada Sage Grasshopper	English
+1110300	Rocky Mountain Locust	English
+1110307	Walsh's Locust	English
+1110341	Devastating Grasshopper	English
+1110350	Northern Grasshopper	English
+1110363	Sagebrush Grasshopper	English
+1110369	Differential Grasshopper	English
+1110370	Differential Locust	English
+1110375	La Miramelle des frimas	French
+1110375	Nordische Gebirgsschrecke	German
+1110383	Keeler Grasshopper	English
+1110384	Keeler's Locust	English
+1110387	Broad-necked Locust	English
+1110395	Grizzly Grasshopper	English
+1110395	Grizzly Locust	English
+1110396	Southern Grizzly Locust	English
+1110403	Scudder's Short-winged Locust	English
+1110430	Green-legged Locust	English
+1110473	Island Locust	English
+1110478	Graceful Narrow-winged Locust	English
+1110486	Morse's Locust	English
+1110516	Stone's Locust	English
+1110517	Packard's Grasshopper	English
+1110518	Packard's Locust	English
+1110524	Sand-bar Locust	English
+1110545	Valley Grasshopper	English
+1110556	Atlantic Grasshopper	English
+1110556	Atlantic Locust	English
+1110558	Olive-green Swamp Grasshopper	English
+1110561	Hoosier Locust	English
+1110613	Large-headed Grasshopper	English
+1110865	La Miramelle pyrénéenne	French
+1110874	La Miramelle piémontaise	French
+1110988	Miramelle tessinoise	French
+1110988	Tessiner Gebirgsschrecke	German
+1110991	Kärntner Gebirgsschrecke	German
+1110993	Südliche Gebirgsschrecke	German
+1111000	La Miramelle subalpine	French
+1111001	Alpine Gebirgsschrecke	German
+1111001	Green Mountain Grasshopper	English
+1111001	La Miramelle alpestre	French
+1111032	Brown Mountain Grasshopper	English
+1111032	Gewöhnliche Gebirgsschrecke	German
+1111032	la Miramelle des moraines	French
+1111058	Michigan Bog Grasshopper	English
+1111058	Secretive Locust	English
+1111063	Variegated Wingless Locust	English
+1111068	Northern Wingless Locust	English
+1111073	Post Oak Grasshopper	English
+1111073	Post-oak Locust	English
+1111078	Flügellose Knarrschrecke	German
+1111092	Grünschrecke	German
+1111093	Insubrische Gebirgsschrecke	German
+1111093	La Miramelle insubrienne	French
+1111093	La Miramelle tessinoise	French
+1111095	Östliche Grünschrecke	German
+1111108	Fiebers Gebirgsschrecke	German
+1111347	Usambara Slant-faced Grasshopper	English
+1111365	Giant Green Slantface	English
+1111417	La Truxale occitane	French
+1111417	Le Criquet des Magyars	French
+1111417	Mittelmeer-Turmschrecke	German
+1111417	Snouted Grasshopper	English
+1111425	Caledia	English
+1111428	Calephorops	English
+1111430	Golden Bandwing	English
+1111438	Froggatt's buzzer	English
+1111441	Spring Buzzer	English
+1111446	Disappearing Grasshopper	English
+1111450	Le Criquet des dunes	French
+1111469	Clipped-Wing Grasshopper	English
+1111469	Short-horned Locust	English
+1111664	Tanzanian Coast Grasshopper	English
+1111673	Uluguru Forest Edge Grasshopper	English
+1111674	Rubeho Forest Edge Grasshopper	English
+1111675	Nguru Forest Edge Grasshopper	English
+1111676	Usambara Forest Edge Grasshopper	English
+1111693	Grass-mimicking Grasshopper	English
+1111746	Ufipa Blue-winged Grasshopper	English
+1111773	Kasulu Grasshopper	English
+1112330	Small Painted Locust	English
+1112336	Large Painted Locust	English
+1112360	Desert Locust	English
+1112360	Le Criquet du désert	French
+1112360	Le Criquet pèlerin	French
+1112360	Wüstenheuschrecke	German
+1112382	American Bird Locust	English
+1112433	Leather-colored Bird Locust	English
+1112463	Ägyptische Knarrschrecke	German
+1112463	Ägyptische Wanderheuschrecke	German
+1112463	Egyptian Grasshopper	English
+1112463	Egyptian Locust	English
+1112463	Le Criquet égyptien	French
+1112477	Tree Locust	English
+1112484	Red Locust	English
+1112526	Coastal Valanga	English
+1112578	Giant Valanga	English
+1112599	Garden Locust	English
+1112697	Uvarov's Tree Locust	English
+1112705	Spotted Spur-throated Locust	English
+1112708	Confusing Spur-throated Locust	English
+1112711	Spur-throated Locust	English
+1112869	Le Caloptène languedocien	French
+1112898	le Caloptène provençal	French
+1112898	le Criquet sicilien	French
+1112898	Sizilianische Schönschrecke	German
+1112909	Le Caloptène occitan	French
+1112916	Costas Schönschrecke	German
+1112916	Le Caloptène ochracé	French
+1112916	Le Criquet de Barbarie	French
+1112939	Italian locust	English
+1112939	Italienische Schönschrecke	German
+1112939	le Caloptène italien	French
+1112939	le Criquet italien	French
+1113043	Uluguru Slender Grasshopper	English
+1113487	Cattail Toothpick Grasshopper	English
+1113504	Glassy-winged Toothpick Grasshopper	English
+1113620	Lewis's Laxabilla	English
+1113658	Hooded Grasshopper	English
+1113734	Le Criquet pleureur	French
+1113808	Sardinian Splendid Grasshopper	English
+1114081	Diving Grasshopper	English
+1114086	Pandanus Grasshopper	English
+1114091	Sorghum Bermius	English
+1114092	Eastern Toothed Bermius	English
+1114095	Garden Bermius	English
+1114227	Common Dapperia	English
+1114228	Darwin Daperria	English
+1114239	Common Gesonula	English
+1114412	Flying Tolgadia	English
+1114416	Fireman Grasshopper	English
+1114426	Common Montane Grasshopper	English
+1114427	Brown Kosciuscola	English
+1114429	Chameleon Grasshopper	English
+1114430	Common Kosciuscola	English
+1114437	Little Black-Knees	English
+1114440	Common Praxibulus	English
+1114442	Eurobodallae Praxibulus	English
+1114445	Odd Praxibulus	English
+1114452	Stål's Praxibulus	English
+1114784	Moruga Grasshopper	English
+1114836	Uluguru Mountain Grasshopper	English
+1114977	East Usambara Speckled Grasshopper	English
+1115934	Eastern Lubber Grasshopper	English
+1116101	plains lubber grasshopper	English
+1116228	Spanistic Desert Grasshopper	English
+1116689	Parnassos Stone Grasshopper	English
+1116816	Groovy Stone Grasshopper	English
+1116904	Gomera Stick Grasshopper	English
+1116906	Palma Stick Grasshopper	English
+1116907	Gran Canaria Stick Grasshopper	English
+1116908	Tenerife Stick Grasshopper	English
+1116935	Purpurarian Stick Grasshopper	English
+1117551	Crau Plain Grasshopper	English
+1117551	Le Criquet rhodanien	French
+1117554	Le Criquet hérisson	French
+1118462	Mlingano Monkey Grasshopper	English
+1118463	Burtt's Monkey Grasshopper	English
+1118466	Dirsh's Monkey Grasshopper	English
+1118467	Ufipa Monkey Grasshopper	English
+1118469	Phipps' Monkey Grasshopper	English
+1118470	Swahili Monkey Grasshopper	English
+1118473	Tanga Monkey Grasshopper	English
+1118474	Usambara Monkey Grasshopper	English
+1118475	Dar-es-Salaam Monkey Grasshopper	English
+1118646	Jago's Monkey Grasshopper	English
+1118647	Morogoro Monkey Grasshopper	English
+1119087	Highhead Forbhopper	English
+1119088	Conehead Forbhopper	English
+1119089	Thickfoot Forbhopper	English
+1119090	Splittail Forbhopper	English
+1119217	heath matchstick grasshopper	English
+1119518	Pinaleno Monkey Grasshopper	English
+1119535	Desert Monkey Grasshopper	English
+1120340	Western Flag-face	English
+1120342	Eastern Flag-face	English
+1120344	Variable Psedna	English
+1120347	Musgrave's Psednura	English
+1120349	Common Psednura	English
+1120357	Australian Grass Pyrgomorph	English
+1120368	Hypoestes Pyrgomorph	English
+1120388	Northern Grass Pyrgomorph	English
+1120577	Large Forest Pyrgomorph	English
+1120660	Koppie Foam Grasshopper	English
+1120741	Queensland Spotted Pyrgomorph	English
+1120744	Painted Pyromorph	English
+1120748	South-Central Pyrgomorph	English
+1120749	Western Coastal Pyrgomorph	English
+1120755	Blistered Pyrgomorph	English
+1120765	Southern Pyrgomorph	English
+1120776	Common Pyrgomorph	English
+1120789	Torpedo Grasshopper	English
+1120793	Argus Yeelana	English
+1120796	Colourful Yeelana	English
+1120816	Leichhardt's Grasshopper	English
+1120818	Giant Spotted Pyrgomorph	English
+1120834	Elegant Grasshopper	English
+1120861	Common Milkweed Locust	English
+1120869	Green Milkweed Locust	English
+1121061	Kegelkopfschrecke	German
+1121061	Le Criquet printannier	French
+1121596	Howarth's Cave Cricket	English
+1121600	Schauinsland's Bush Cricket	English
+1121602	Kaumana Cave Cricket	English
+1121626	Garden Dwarf Cricket	English
+1121626	Pygmy Field Cricket	English
+1121638	striped island dwarf cricket	English
+1121678	Le Grillon des bois	French
+1121678	Waldgrille	German
+1121678	Wood Cricket	English
+1121716	ambitious ground cricket	English
+1121717	sandhills ground cricket	English
+1121718	Hubbell’s ground cricket	English
+1121719	flatwoods ground cricket	English
+1121728	Gestreifte Sumpfgrille	German
+1121728	Le Grillon des rivières	French
+1121728	Le Grillon des torrents	French
+1121823	Le Grillon des marais	French
+1121823	Marsh Cricket	English
+1121823	Sumpfgrille	German
+1121866	Le Grillon gracile	French
+1121926	Allard’s ground cricket	English
+1121927	Fulton’s ground cricket	English
+1121928	Larger Spotted Ground Cricket	English
+1121929	southern ground cricket	English
+1121930	salt-marsh ground cricket	English
+1121932	tinkling ground cricket	English
+1121933	Walker’s ground cricket	English
+1121935	Striped Ground Cricket	English
+1121946	Gray Ground Cricket	English
+1121948	dusky ground cricket	English
+1121959	Carolina Ground Cricket	English
+1121977	confused ground cricket	English
+1121978	Melodious Ground Cricket	English
+1121982	Allen's Ground Cricket	English
+1121982	black-faced scaly cricket	English
+1121982	mangrove ground cricket	English
+1122010	Bay Area Ground Cricket	English
+1122010	California Ground Cricket	English
+1122011	collared ground cricket	English
+1122011	Mormon Ground Cricket	English
+1122014	Cuban Ground Cricket	English
+1122019	Smaller Spotted Ground Cricket	English
+1122019	variegated ground cricket	English
+1122022	marsh ground cricket	English
+1122022	sphagnum ground cricket	English
+1122366	damp-loving field cricket 	English
+1122377	Le Grillon provençal	French
+1122377	Mittelmeer-Feldgrille	German
+1122377	Two-spotted Cricket	English
+1122377	Zweifleckgrille	German
+1122386	short-tailed field cricket 	English
+1122396	southern wood cricket 	English
+1122400	western stutter-trilling cricket	English
+1122404	variable field cricket	English
+1122415	taciturn wood cricket	English
+1122417	Fall Field Cricket	English
+1122417	Pennsylvania Field Cricket	English
+1122423	badlands cricket	English
+1122427	southeastern field cricket	English
+1122428	Scudder's Field Cricket	English
+1122432	spring field cricket 	English
+1122433	northern wood cricket	English
+1122433	Spring Field Cricket	English
+1122436	vocal field cricket	English
+1122454	Jamaican field cricket 	English
+1122466	Feldgrille	German
+1122466	Field Cricket	English
+1122466	Le Grillon champêtre	French
+1122470	sand field cricket	English
+1122474	Texas field cricket 	English
+1122476	Keys wood cricket	English
+1122540	Heimchen	German
+1122540	House cricket	English
+1122540	Le Grillon domestique	French
+1122600	Desert Cricket	English
+1122600	Le Grillon noirâtre	French
+1122600	Steppengrille	German
+1122704	Black Field Cricket	English
+1122731	oceanic field cricket	English
+1122754	silver-bell cricket	English
+1122779	Platyblemme découvert	French
+1122918	common short-tailed cricket 	English
+1122920	Indies short-tailed cricket 	English
+1122929	Short-tailed Cricket	English
+1122976	Bordeaux Cricket	English
+1122976	Bordeaux-Grille	German
+1122976	Le Grillon bordelais	French
+1122976	Südliche Grille	German
+1123033	Eastern Cricket	English
+1123033	Le Grillon oriental	French
+1123033	Östliche Grille	German
+1123129	Diminutive Roadside Field Cricket	English
+1123133	Little Evening Cricket	English
+1123186	Japanese burrowing cricket	English
+1123306	Indian House Cricket	English
+1123306	Kurzflügelgrille	German
+1123306	Tropical House Cricket	English
+1123318	Südliche Hausgrille	German
+1123362	confusing field cricket	English
+1123424	western striped cricket	English
+1123533	Wingless Burrowing Cricket	English
+1123570	Narrow-headed Cricket	English
+1123730	Arizona cricket 	English
+1123874	Lanzarote Malpais Cricket	English
+1123889	Le Grillon ligure	French
+1123964	Le Grillon des jas	French
+1123983	Le Grillon des bastides	French
+1123983	Stumme Grille	German
+1123983	Wingless House-cricket	English
+1124009	Le Grillon testacé	French
+1124171	Short-winged Bush Cricket	English
+1124180	Restless Bush Cricket	English
+1124184	musical bush cricket	English
+1124214	Keys bush cricket	English
+1124222	false jumping bush cricket	English
+1124227	black-faced bush cricket	English
+1124231	Jumping Bush Cricket	English
+1124235	three-horned bush cricket	English
+1124317	Belfrage's cricket	English
+1124443	common grass cricket	English
+1124484	ellops island cricket	English
+1124486	nythos island cricket	English
+1124625	pimple-faced bush cricket	English
+1124792	Mottled Bush Cricket	English
+1125055	Norfolk Island Cricket	English
+1125257	graceful silent bush cricket	English
+1125257	narrow bush cricket	English
+1125265	slender silent bush cricket	English
+1125265	two-spotted bush cricket	English
+1125289	Weeronga Silent Bush Cricket	English
+1125402	clasping bush cricket	English
+1125407	Shielded bush cricket	English
+1125579	Raincloud Forest Cricket	English
+1126443	Mahé Boulder Cricket	English
+1126528	giant spider cricket	English
+1126533	Spider Cricket	English
+1126873	Handsome Trig	English
+1126919	Cuban trig	English
+1126950	chirping trig	English
+1126963	beach trig	English
+1126987	mangrove trig	English
+1126987	obscure trig	English
+1127017	Fulton's trig	English
+1127019	pink-spotted trig	English
+1127020	Thomas's trig	English
+1127021	tidewater trig	English
+1127022	slow-tinkling trig	English
+1127023	spring trig	English
+1127087	Columbian trig	English
+1127088	complex-trilling trig	English
+1127089	Gundlach’s trig	English
+1127090	mangrove trig	English
+1127131	Hebard's bush cricket	English
+1127131	Hebard's trig	English
+1127226	Reed Cricket	English
+1127226	Schilfgrille	German
+1127273	Gidya leaf runner	English
+1127295	Käfergrille	German
+1127295	Le Grillon des jonchères	French
+1127330	Leaf-running Cricket	English
+1127793	Litter Cricket	English
+1127865	Indies bush cricket 	English
+1128103	Italian Cricket	English
+1128103	Le Grillon d'Italie	French
+1128103	Weinhähnchen	German
+1128113	Striped Tree Cricket	English
+1128126	snowy tree cricket	English
+1128127	Riley's tree cricket	English
+1128128	Alexander's tree cricket	English
+1128130	Davis's Tree Cricket	English
+1128131	thin-lined tree cricket	English
+1128132	narrow-winged tree cricket	English
+1128136	western tree cricket 	English
+1128138	different-horned tree cricket	English
+1128140	Broad-winged Tree Cricket	English
+1128142	fast-calling tree cricket 	English
+1128143	prairie tree cricket	English
+1128145	Laricis Tree Cricket	English
+1128145	Tamarack Tree Cricket	English
+1128146	black-horned tree cricket	English
+1128147	Pine Tree Cricket	English
+1128148	four-spotted tree cricket	English
+1128150	Forbes’s tree cricket	English
+1128151	Walker's tree cricket	English
+1128166	Two-spotted Tree Cricket	English
+1128172	Brownsville tree cricket	English
+1128180	Lea's Tree Cricket	English
+1128244	Oahu Deceptor Bush Cricket	English
+1128267	Volcanoes Cave Cricket	English
+1128270	Kauai Thin-footed Bush Cricket	English
+1128354	Le Grillon maritime	French
+1128361	Le Grillon maritime de la Manche	French
+1128372	Saussure’s scaly cricket	English
+1128388	Antillean Bush Cricket	English
+1128391	obscure scaly cricket	English
+1128392	banded scaly cricket 	English
+1128393	two-toothed scaly cricke	English
+1128395	syncopated scaly cricket	English
+1128399	pale scaly cricket	English
+1128400	black-faced scaly cricket	English
+1128401	reluctant scaly cricket	English
+1128402	four-pair scaly cricket	English
+1128403	Slossom’s scaly cricket	English
+1128404	Spectacular Scaly Cricket	English
+1128405	Scudder's Scaly Bush Cricket	English
+1128407	slow scaly cricket	English
+1128408	forest scaly cricket	English
+1128409	swift scaly cricket	English
+1128410	zebra scaly cricket	English
+1128414	Keys scaly Cricket	English
+1128514	long-winged scaly cricket	English
+1128542	Le Grillon écailleux	French
+1128681	Scaled Cricket	English
+1128692	silent scaly cricket	English
+1128701	Buschgrille	German
+1128701	Le Grillon des Cistes	French
+1128753	Short-winged Mole Cricket	English
+1128754	southern mole cricket 	English
+1128756	Changa	Spanish
+1128756	Changa Mole Cricket	English
+1128756	West Indian Mole cricket	English
+1128765	tawny mole cricket	English
+1128791	European mole cricket	English
+1128791	La Courtilière commune	French
+1128791	Maulwurfsgrille	German
+1128798	Le Courtillière provençale	French
+1128800	African mole cricket	English
+1128834	Dark Night Mole Cricket	English
+1128835	Shiny Mole Cricket	English
+1128856	Le Courtillière de la vigne	French
+1128857	western mole cricket	English
+1128858	Giant Mole Cricket	English
+1128858	Prairie Mole Cricket	English
+1128885	northern mole cricket	English
+1128964	Ameisengrille	German
+1128964	Le Myrmécophile social	French
+1128980	Mann’s ant cricket	English
+1128986	Nebraska ant cricket	English
+1128988	Oregon ant cricket	English
+1128993	eastern ant cricket	English
+1129128	Buckell’s grig	English
+1129129	great grig	English
+1129132	sagebrush grig	English
+1129724	Japanese Camel Cricket	English
+1129781	Gewächshausschrecke	German
+1129781	Greenhouse Camel Cricket	English
+1129781	Greenhouse Stone Cricket	English
+1129781	La Sauterelle des serres	French
+1129834	Giglio Cave Cricket	English
+1129835	Baccetti's Cave Cricket	English
+1129837	Le Dolichopode d'Evisa	French
+1129839	Le Dolichopode de Venaco	French
+1129844	Mucedda's Cave Cricket	English
+1129845	Aghias Andreas Cave Cricket	English
+1129850	Le Dolichopode dauphinois	French
+1129854	Capri Cave Cricket	English
+1129855	Le Dolichopode de la Tinée	French
+1129856	Kefalari Cave Cricket	English
+1129860	Le Dolichopode languedocien	French
+1129864	Petalas Cave Cricket	English
+1129881	Kefalonia Cave Cricket	English
+1129884	Kiriaki Cave Cricket	English
+1129885	Lefkas Cave Cricket	English
+1129886	Ithaka Cave Cricket	English
+1129887	Megalo Spilio Cave Cricket	English
+1130035	Kelso Giant Sand Treader Cricket	English
+1130037	Coachelia Giant Sand Treader Cricket	English
+1130053	Robust Camel Cricket	English
+1130113	Uhler's Camel Cricket	English
+1130158	Short-legged Camel Cricket	English
+1130165	Cave Camel Cricket	English
+1130167	Slender-legged Camel Cricket	English
+1130175	Spotted Camel Cricket	English
+1130186	Black-sided Camel Cricket	English
+1130221	Yellow-bellied Camel Cricket	English
+1130249	Tanner's Black Camel Cricket	English
+1130317	Arizona Giant Sand Treader Cricket	English
+1130340	Wyanbene or forest camel cricket	English
+1130476	Kollars Höhlenschrecke	German
+1130476	Le Troglophile cavicole	French
+1130500	Bedornte Höhlenschrecke	German
+1130500	Le Troglophile négligé	French
+1130972	Illawarra raspy cricket	English
+1130974	Forest raspy cricket	English
+1131076	Carolina Leaf-roller	English
+1131076	Carolina Leaf-rolling Cricket	English
+1131078	Jamaican Leaf-roller	English
+1131147	Canberra Raspy Cricket	English
+1131291	striped raspy cricket	English
+1131776	Dingo Monster	English
+1131777	Cooloola Monster	English
+1131778	Sugarcane Monster	English
+1131779	Pearson's Monster	English
+1131826	Broad-winged forest cricket	English
+1131956	Mercury Islands tusked weta	English
+1131957	Raukumara tusked weta	English
+1132033	Herekopare weta	English
+1132034	scree weta	English
+1132035	Poor Knights Giant Weta	English
+1132035	Poor Knights Weta	English
+1132036	Little Barrier Giant Weta	English
+1132036	Wetapunga	English
+1132038	Cook Strait giant weta	English
+1132038	Stephens Island Weta	English
+1132040	Mount Arthur giant weta	English
+1132041	Kaikoura Giant Weta	English
+1132041	Kaikoura Weta	English
+1132042	bluff weta	English
+1132043	Mahoenui Giant Weta	English
+1132044	Mount Cook giant weta	English
+1132045	Giant mole weta	English
+1132049	Wellington tree weta	English
+1132063	Banks Peninsula Tree Weta	English
+1132148	Coachella Valley Jerusalem Cricket	English
+1132149	Jerusalem cricket	English
+1132166	Navajo Jerusalem Cricket	English
+1132169	Black-headed Jerusalem Cricket	English
+1132233	common sluggish katydid	English
+1132237	White-lined Sluggish katydid	English
+1132238	Victorian Sluggish Katydid	English
+1132239	Saussure's sluggish katydid	English
+1132240	silver-spotted sluggish katydid	English
+1132242	South Coast Sluggish Katydid	English
+1132243	Companion Sluggish Katydid	English
+1132243	spiny sluggish katydid	English
+1132244	pretty sluggish katydid	English
+1132247	Perth Pachysaga	English
+1132249	Yellow winged Pachysaga	English
+1132250	eneabba hump-back	English
+1132250	Eneabba Pachysaga	English
+1132256	North coast Fan-winged Katydid	English
+1132258	Grey Fan-winged Katydid	English
+1132259	Twittering Fan-winged katydid	English
+1132260	Robust Fan-winged Katydid	English
+1132264	Green Fan-winged Katydid	English
+1132266	quadrate fan-winged katydid	English
+1132353	L'Ephippigère des vignes	French
+1132353	Saddle-backed Bushcricket	English
+1132353	Steppen-Sattelschrecke	German
+1132359	Ephippigère des vignes	French
+1132360	L'Ephippigère du Vallespir	French
+1132363	Ephippigère des vignes	French
+1132363	Westliche-Sattelschrecke	German
+1132371	Ephippigère insubrique	French
+1132371	Strauch-Sattelschrecke	German
+1132373	L'Éphippigère provençale	French
+1132376	Alpine Saddle-backed Bush-cricket	English
+1132376	Ephippigère terrestre	French
+1132377	Südalpen-Sattelschrecke	German
+1132381	L' Éphippigère terrestre	French
+1132386	L'Ephippiger italique	French
+1132421	L'Ephippigère algérienne	French
+1132468	L'Éphippigère carénée	French
+1132543	L'Ephippigère corse	French
+1132549	L'Ephippigère ibérique	French
+1132574	Ephippigère catalane	French
+1132576	L'Ephippigère du Maghreb	French
+1132636	Black-footed Gondwanan Katydid	English
+1132640	Colourful Gondwanan Katydid	English
+1132648	clear-wing meadow katydid	English
+1132840	Cape York Head Squeaker	English
+1132885	Black-faced Coastal Kattydid	English
+1132886	zenta's coastal katidid	English
+1132887	Olive-green Coastal Katydid	English
+1132900	Sidney Woodland Katydid	English
+1132979	Striped Nicsara	English
+1132981	Spine-headed Nicsara	English
+1133003	False Nicsara	English
+1133007	Tropical Nicsara	English
+1133050	Cape York Secsiva	English
+1133051	Victoria River Secsiva	English
+1133349	Pink-faced Emerald	English
+1133350	Windsor Emerald	English
+1133352	Tiny Forest Green Katydid	English
+1133353	Marrdja Forest Katydid	English
+1133375	San Diego meadow katydid	English
+1133377	Slender Meadow Katydid	English
+1133381	Small Meadow Katydid	English
+1133394	Blackish Meadow Katydid	English
+1133405	Brownsville meadow katydid	English
+1133414	Straight-lanced Katydid	English
+1133433	Kurzflüglige Schwertschrecke	German
+1133433	Le Conocéphale des Roseaux	French
+1133433	Short-winged Conehead	English
+1133463	Doubtful Meadow Katydid	English
+1133464	Sorghum Meadow Katydid	English
+1133467	Upolu Meadow Katydid	English
+1133472	Whitish Meadow Katydid	English
+1133479	Black-sided Meadow Katydid	English
+1133483	Sea Shore Meadow Katydid	English
+1133488	Long-tailed Meadow Katydid	English
+1133492	Lesotho Meadow Katydid	English
+1133495	Short-winged Meadow Katydid	English
+1133502	Long-tailed Meadow Katydid	English
+1133510	Woodland Meadow Katydid	English
+1133512	tidewater meadow katydid	English
+1133514	Pacific meadow katydid	English
+1133517	Peringuey’s Meadow Katydid	English
+1133523	Prairie Meadow Katydid	English
+1133535	Graceful Meadow Katydid	English
+1133539	Gulf meadow katydid	English
+1133543	Salt Marsh Meadow Katydid	English
+1133552	Willemse's Meadow Katydid	English
+1133557	African Meadow Katydid	English
+1133569	Allard's Meadow Katydid	English
+1133589	Caribbean meadow katydid	English
+1133602	Spotted-legged Meadow Katydid	English
+1133619	Zlobin's Meadow Katydid	English
+1133649	Superb Meadow Katydid	English
+1133650	Arizona meadow katydid	English
+1133652	Bradley's Meadow Katydid	English
+1133653	Nimble Meadow Katydid	English
+1133657	long-spurred meadow katydid	English
+1133660	Agile Meadow Grasshopper	English
+1133660	Agile Meadow Katydid	English
+1133665	Texas meadow katydid	English
+1133667	carinate meadow katydid	English
+1133668	Dusky-faced Meadow Katydid	English
+1133668	stripe-faced meadow katydid	English
+1133672	Delicate Meadow Katydid	English
+1133675	seaside meadow katydid  	English
+1133679	Gladiator Meadow Katydid	English
+1133681	Military Meadow Katydid	English
+1133682	Lesser Pine Meadow Katydid	English
+1133683	Black-legged Meadow Katydid	English
+1133686	Common Meadow Katydid	English
+1133689	dusky-faced meadow katydid	English
+1133690	Red-headed Meadow Katydid	English
+1133691	Handsome Meadow Katydid	English
+1133694	Wingless Meadow Katydid	English
+1133808	Palmetto Cone-head	English
+1133810	Half-winged Cone-head	English
+1133812	Rehn's Cone-head	English
+1133814	Davis's Cone-head	English
+1133816	Hebard's Cone-head	English
+1133819	Pine Key conehead	English
+1133821	Pine Key Cone-head	English
+1133832	cattail conehead	English
+1133886	Brown-faced Spearbearer	English
+1133890	Otte's spear bearer	English
+1133913	Broughton's Snout-nose	English
+1133948	Remote Conehead Katydid	English
+1133995	Mark's Sluggish Snout-nose	English
+1133996	slender heath katydid	English
+1133996	South coast Sluggish snout-nose	English
+1133997	Sandow's Sluggish snout -nose	English
+1134002	Everglades conehead	English
+1134022	Caribbean Conehead	English
+1134028	Black-nosed Conehead	English
+1134041	Round-tipped Conehead	English
+1134045	Robust Conehead	English
+1134055	Broad-tipped Conehead	English
+1134075	Swift Conehead	English
+1134084	rattler conehead	English
+1134116	Caudell's Conehead	English
+1134122	Swordbearer	English
+1134126	Slightly Musical Conehead	English
+1134137	slender conehead	English
+1134140	Nebraska Conehead	English
+1134145	Marsh Conehead	English
+1134151	false robust conehead	English
+1134236	Lesson's Mimicking Snout nose	English
+1134241	Mimicking Snout-nosed Katydid	English
+1134266	Hook-faced Conehead	English
+1134320	Marshall's Snout-nose	English
+1134338	Große Schiefkopfschrecke	German
+1134338	Large Conehead	English
+1134338	Le Conocéphale gracieux	French
+1134431	Mataranka Armadillo Katydid	English
+1134435	Kakadu Katydid	English
+1134438	Queensland Lichen-mimicking Katydid	English
+1134502	Bachmann's Armoured Katydid	English
+1134558	Koringkriek	English
+1134843	Le Méconème à bouclier	French
+1134843	Le Méconème scutigère	French
+1134935	Le Méconème fragile	French
+1134935	Southern Oak Bush-cricket	English
+1134935	Südliche Eichenschrecke	German
+1134937	Drumming Katydid	English
+1134937	Gemeine Eichenschrecke	German
+1134937	Le Méconème tambourinaire	French
+1134937	Le Méconème varié	French
+1134937	Oak Bush-cricket	English
+1135323	Lord Howe Beierdid	English
+1135324	Norfolk Island Beierdid	English
+1135324	Norfolk island spiny katydid	English
+1135352	Large Long-legged Spider Katydid	English
+1135375	Dauan Estrinia	English
+1135379	Short-winged Spider Katydid	English
+1135394	Turnar Spider Katydid	English
+1135395	Wonnewarra Spider Katydid	English
+1135396	Kurnkuni Spider Katydid	English
+1135397	Nurragi Spider Katydid	English
+1135398	Lyn's Spider Katydid	English
+1135399	Two-way Spider Katydid	English
+1135400	Wirreecoo Spider Katydid	English
+1135419	Yungaburra Spider Katydid	English
+1135420	Leawillia Spider Katydid	English
+1135421	Chopard's Spider Katydid	English
+1135423	Tryon Island Spider Katydid	English
+1135459	Jin's Robust Spider Katydid	English
+1135588	Dahlemer Gewächshausschrecke	German
+1135593	Striped Swayer	English
+1135594	Speedy Swayer	English
+1135595	Britton's Swayer	English
+1135599	Debaar's Swayer	English
+1135600	Small Swayer	English
+1135601	Malidupa Swayer	English
+1135602	Whitsunday Swayer	English
+1135603	Kununurra Swayer	English
+1135604	Perth Swayer	English
+1135605	Orumbera Swayer	English
+1135608	Arboreal Swayer	English
+1135609	Quamara Swayer	English
+1135610	Malkin's Swayer	English
+1135734	Olszanowski's Black-kneed Katydid	English
+1135735	Sopatas' Black-kneed Katydid	English
+1135737	Cave Katydid	English
+1135737	Cederberg Rock Katydid	English
+1135740	Long-winged Agile Katydid	English
+1135742	Cape Agile Katydid	English
+1135745	Duplessis' Agile Katydid	English
+1135751	Marais' Lace-winged Katydid	English
+1135753	Knysna Forest Ground Katydid	English
+1135814	Frosty Grass Mecopode	English
+1135873	Queensland Palm Katydid	English
+1135944	Speedy Micro Katydid	English
+1135945	Illcha Micro Katydid	English
+1135946	Long-tailed Micro Katydid	English
+1135947	Allen's Micro Katydid	English
+1135948	Intermediate Micro Katydid	English
+1135949	Windy Harbour Micro Katydid	English
+1136061	Green Winter Katydid	English
+1136062	Wilson's Winter Katydid	English
+1136063	Mauerberger's Winter Katydid	English
+1136064	Karoo Winter Katydid	English
+1136065	Tree Winter Katydid	English
+1136066	Serrated Winter Katydid	English
+1136068	Mute Winter Katydid	English
+1136215	chaparral false katydid	English
+1136219	southeastern bush katydid	English
+1136222	Curve-tailed Bush-Katydid	English
+1136225	Broad-tailed Bush-katydid	English
+1136227	treetop bush katydid	English
+1136229	forktailed bush katydid	English
+1136235	Mexican Bush Katydid	English
+1136240	Broad-winged Bush-katydid	English
+1136242	Northern Bush-katydid	English
+1136247	Texas bush katydid	English
+1136275	western round-winged katydid	English
+1136277	rattler round-winged katydid	English
+1136277	round-winged katydid	English
+1136282	carinate katydid	English
+1136283	Florida false katydid	English
+1136284	Texas false katydid	English
+1136286	Big Bend false katydid	English
+1136287	Oblong-winged Katydid	English
+1136290	Uhler's katydid	English
+1136290	Uhler's virtuoso katydid	English
+1136291	sandhill virtuoso katydid	English
+1136292	Cajun virtuoso katydid	English
+1136293	common virtuoso katydid	English
+1136294	Rio Grande virtuoso katydid	English
+1136411	California Angle-wing	English
+1136420	southwestern angle-wing	English
+1136421	Louisiana angle-wing	English
+1136426	Texas angle-wing  	English
+1136431	angular-winged katydid	English
+1136431	lesser angle-wing katydid	English
+1136433	broad-winged katydid	English
+1136433	greater angle-wing katydid	English
+1136514	Australian Crested Katydid	English
+1136518	Curvy-tailed Caedicia	English
+1136520	Norfolk island Caedicia	English
+1136526	Araucaria Caedicia	English
+1136526	Sotted Caedicia	English
+1136537	colorful caedicia	English
+1136537	Queensland Caedicia	English
+1136540	Wary Caedicia	English
+1136542	Bandy-legged Caedicia	English
+1136547	Common garden Katydid	English
+1136553	Webber's Caedicia	English
+1136555	Kuranda Caedicia	English
+1136583	32-spotted katydid	English
+1136591	Kuranda Spotted Katydid	English
+1136597	Kuranda Speckled Katydid	English
+1136603	non-predaceous gum leaf katydid	English
+1136604	Giant Torbia	English
+1136608	Flying Fox katydid	English
+1136610	Purple-winged Katydid	English
+1136614	White margined Polichne	English
+1136615	Striped Polichne	English
+1136622	short tailed polichene	English
+1136623	Black-lined Polichne	English
+1136626	semi-crested katydid	English
+1136630	White-legged Katydid	English
+1136653	Kuranda Bush Katydid	English
+1136654	Neskrecki's Bush Katydid	English
+1136902	Yucatan Katydid	English
+1137020	Narrow-beaked Katydid	English
+1137121	noble hump-backed Kattydid	English
+1137127	Stout Tinzeda	English
+1137130	Montane Tinzeda	English
+1137131	Kosciuszko Tinzeda	English
+1137132	Southern Tinzeda	English
+1137146	Flap-eared Katydid	English
+1137167	Serrated bush Katydid	English
+1137167	spiny legged katydid	English
+1137181	Langbeinige Sichelschrecke	German
+1137181	Le Phanéroptère  macropode	French
+1137687	Mountain Katydid	English
+1137718	Barbitiste des pessières	French
+1137718	Eastern Saw-tailed Bush cricket	English
+1137718	Nadelholz-Säbelschrecke	German
+1137720	Le Barbitiste languedocien	French
+1137724	Le Barbitiste empourpré	French
+1137724	Southern Saw-tailed Bush-cricket	English
+1137724	Südalpen-Säbelschrecke	German
+1137729	Laubholz-Säbelschrecke	German
+1137729	Le Barbitiste des bois	French
+1137729	Saw-tailed Bush-cricket	English
+1137752	Breitstirnige Plumpschrecke	German
+1137758	Gemeine Plumpschrecke	German
+1137763	Large Speckled Bush-cricket	English
+1137763	Le Barbitiste des Pyrénées	French
+1137878	Fiebers Plumpschrecke	German
+1137891	Gestreifte Zartschrecke	German
+1137891	La Leptophye rayée	French
+1137891	Striped Bush-cricket	English
+1137896	Gelbstreifige Zartschrecke	German
+1137896	La Leptophye sarmate	French
+1137900	La Leptophye provençale	French
+1137900	Südliche Zartschrecke	German
+1137905	La Sauterelle ponctuée	French
+1137905	Punktierte Zartschrecke	German
+1137905	Speckled Bush-cricket	English
+1137987	Mittlere Buntschrecke	German
+1138054	Zierliche Buntschrecke	German
+1138065	Südliche Buntschrecke	German
+1138078	Kleine Buntschrecke	German
+1138193	Large Saw-tailed Bush-cricket	English
+1138193	Le Barbitiste ventru	French
+1138193	Wanstschrecke	German
+1138260	Pacific Ducetia	English
+1138327	Drachenschrecke	German
+1138327	Dragoncito de líquen	Spanish
+1138327	Little Lichen Dragon	English
+1138889	Japanese broadwinged katydid	English
+1139059	Walking Thread-legged Katydid	English
+1139060	spider-tail thread-legged katydid	English
+1139061	short-tail thread-legged katydid	English
+1139062	carita thread-legged katydid	English
+1139065	constricted thread-legged katydid	English
+1139066	coyotero thread-legged katydid	English
+1139068	thin-footed thread-legged katydid	English
+1139071	stilt-walker katydid	English
+1139074	Mescalero Thread-legged Katydid	English
+1139075	eastern thread-legged katydid	English
+1139077	Rio Grande thread-legged katydid	English
+1139078	Poling's thread-legged katydid	English
+1139079	sellate thread-legged katydid	English
+1139080	semi-alate thread-legged katydid	English
+1139083	Least Katydid	English
+1139096	Apache bush katydid	English
+1139098	creosote bush katydid	English
+1139101	elegant bush katydid	English
+1139104	gemmate bush katydid 	English
+1139107	juniper bush katydid	English
+1139113	tessellate bush katydid	English
+1139180	Black-faced Gnome Katydid	English
+1139180	Dünnbeinige Gnomschrecke	German
+1139181	Weißbart-Gnomschrecke	German
+1139181	White-faced Gnome Katydid	English
+1139208	common short-winged katydid 	English
+1139211	chestnut short-winged katydid 	English
+1139212	spoon-tailed short-winged katydid	English
+1139217	emarginate short-winged katydid	English
+1139219	gladiator short-winged katydid	English
+1139222	mountain-dwelling short-winged katydid	English
+1139224	thumb-bearing short-winged katydid	English
+1139230	Seever's short-winged katydid	English
+1139243	guinea-cypress katydid	English
+1139243	striped bush-katydid	English
+1139244	western cypress katydid	English
+1139245	eastern cypress katydid	English
+1139263	Modest Katydid	English
+1139337	Philippine katydid	English
+1139354	Gemeine Sichelschrecke	German
+1139354	Le Phanéroptère commun	French
+1139354	Sickle-bearing Bush-cricket	English
+1139373	Le Phanéroptère méridional	French
+1139373	Mediterranean Katydid	English
+1139373	Vierpunktige Sichelschrecke	German
+1139383	La Sauterelle feuille de citron	French
+1139459	Giant Katydid	English
+1139462	La Sauterelle feuille de laurier	French
+1139499	Le Phanéroptère liliacé	French
+1139499	Lilienblatt-Sichelschrecke	German
+1139499	Lily Bush-cricket	English
+1139539	Kalbari Stick Katydid	English
+1139540	King's Park Stick Katydid	English
+1139602	Queensland Small Hooded Katydid	English
+1139631	Giant katydid	English
+1139676	Emerald-legged Katydid	English
+1139676	Grillo de patas esmeraldas	Spanish
+1139676	Smaragdbeinschrecke	German
+1139775	Chirping Leaf Mimic	English
+1139776	Sue's Leaf Mimic	English
+1139777	Etched Leaf Mimic	English
+1139783	Iron Range Leaf Mimic	English
+1140037	Aprion ? semitransparent	French
+1140179	La Sauterelle coronnée	French
+1140222	Acanthode formidable	French
+1140617	La Sauterelle à Sabre aux feuilles d’oranger	French
+1140780	Bombuscaro-Spaziergehblättlein	German
+1140814	Florida True Katydid	English
+1140825	Central Texas leaf katydid	English
+1140825	truncated true katydid	English
+1140826	Chisos katydid	English
+1140842	common true katydid	English
+1140842	Northern True Katydid	English
+1140847	Southern True Katydid	English
+1140886	Haffner's Broad-winged Snub-nose	English
+1140886	Haffner's Snub-nose	English
+1140890	Sharp-winged Snub-nose	English
+1140906	delicate false-leaf katydid	English
+1140906	small snub-nose	English
+1140906	tiny snub-nosed katydid	English
+1141135	Southern Snub-nose	English
+1141138	Giant Spiny Forest katydid	English
+1141143	Silent Spiny katydid	English
+1141575	Peringuey's Ambush Katydid	English
+1141601	Große Sägeschrecke	German
+1141601	La Magicienne dentelée	French
+1141601	Matriarchal Katydid	English
+1141601	Predatory Katydid	English
+1141622	Brown's Shieldback	English
+1141654	Transkei Shieldback	English
+1141683	Santa Monica Shieldback Katydid	English
+1141702	Northern Grass Straddler	English
+1141704	Giant Australian Grass Straddler	English
+1141705	Queensland Grass Straddler	English
+1141710	Kimberley Grass Straddler	English
+1141712	Hairy Wary Shield-back	English
+1141716	Ugly Wary Shield-back	English
+1141717	Jumping Wary Shield-back	English
+1141722	Amaroo starry eyed katydid	English
+1141722	Beautiful Starry-eyed Shield-back	English
+1141723	Narranga Starry-eyed Shield-back	English
+1141724	Norris's starry-eyed Shield-back	English
+1141726	Beverley Shield-back	English
+1141727	Elusive Shield-back	English
+1141728	Black-faced Shield-back	English
+1141729	Upton's Elusive Shield-back	English
+1141730	White's Elusive Shield-back	English
+1141732	western ground katydid	English
+1141732	Western Short winged Ground Shield-back	English
+1141735	Western Long-winged Ground Shield-back	English
+1141736	Montane Ground Shield-back	English
+1141736	motane ground kaydid	English
+1141744	Antioch Dunes Shieldback Katydid	English
+1141749	Long tailed shield back	English
+1141754	Tindale's Shield-back	English
+1141759	Blackdown Grass Shield-back	English
+1141760	Long-winged Grass Shield-back	English
+1141762	Semon's Grass Shield-back	English
+1141764	Northern Throsco	English
+1141768	Barbara's Xederra	English
+1141771	Twisted Xederra	English
+1141828	American Shield-bearer	English
+1141829	American shieldback	English
+1141833	Long-spurred Shield-bearer	English
+1141834	Davis's Shield-bearer	English
+1141835	gray shieldback	English
+1141836	Robust Shield-bearer	English
+1141837	smooth shieldback	English
+1141837	Smooth Shield-bearer	English
+1141839	least shieldback	English
+1141839	Mountain Shield-bearer	English
+1141842	Protean Shieldback	English
+1141842	Short-legged Shield-bearer	English
+1141972	Ussur Brown Katydid	English
+1142046	Balderson's Green Shield-back	English
+1142047	Loud Green Shield-back	English
+1142049	Montane Green Shield-back	English
+1142051	chaparral shieldback	English
+1142053	Cooloola Biting Green Katydid	English
+1142054	Inland Biting Green Katydid	English
+1142074	eastern marauding katydid	English
+1142077	common marauding katydid	English
+1142078	Coastal Marauding Katydid	English
+1142079	Kangaroo Island Marauding Katydid	English
+1142080	wary marauding katydid	English
+1142081	Adelaide Marauding Katydid	English
+1142081	marauding shield backed katydid	English
+1142094	big-tooth anabrus	English
+1142095	long-legged anabrus 	English
+1142096	Mormon Cricket	English
+1142096	Mormonen-Heuschrecke	German
+1142102	Spokan anabrus	English
+1142107	La Decticelle piémontaise	French
+1142114	Alpenschrecke	German
+1142114	La Decticelle montagnarde	French
+1142116	La Decticelle sud-alpine	French
+1142120	Alpine Bergschrecke	German
+1142120	L'Antaxie disgracieuse	French
+1142129	L'Antaxie pyrénéenne	French
+1142133	L'Antaxie catalane	French
+1142136	Atlantische Bergschrecke	German
+1142136	L'Antaxie marbrée	French
+1142137	L'Antaxie cévenole	French
+1142139	L'Antaxie corse	French
+1142165	Alpine katydid	English
+1142165	australian shield-back	English
+1142255	Middlekauff's Shieldback Katydid	English
+1142278	La Decticelle gracile	French
+1142278	Zierliche Südschrecke	German
+1142279	Gestreifte Südschrecke	German
+1142279	La Decticelle striolée	French
+1142279	Striated Bush-cricket	English
+1142296	Tinkham's Shieldback	English
+1142298	coulee cricket	English
+1142322	Balkan-Bergschrecke	German
+1142384	La Decticelle orientale	French
+1142384	Mediterranean Bush-cricket	English
+1142384	Zierliche Strauchschrecke	German
+1142395	La Decticelle d'Evisa	French
+1142397	La Decticelle corse	French
+1142409	La Decticelle varoise	French
+1142434	Kleine Strauchschrecke	German
+1142434	La Decticelle frêle	French
+1142434	Raymond's Bush-cricket	English
+1142455	Bachufer-Beißschrecke	German
+1142455	Decticelle des ruisseaux	French
+1142456	La Decticelle bariolée	French
+1142456	Roesels Beißschrecke	German
+1142456	Roesel's Bush-cricket	English
+1142464	La Decticelle des ruisseaux	French
+1142467	Bachufer-Beißschrecke	German
+1142467	Decticelle des ruisseaux	French
+1142471	Bog Katydid	English
+1142479	Donau-Beißschrecke	German
+1142485	La Decticelle bicolore	French
+1142485	Two-coloured Bush-cricket	English
+1142485	Zweifarbige Beißschrecke	German
+1142493	Bog Bush-cricket	English
+1142493	Kurzflüglige Beißschrecke	German
+1142493	La Decticelle des bruyères	French
+1142498	La Decticelle albigeoise	French
+1142512	La Decticelle des alpages	French
+1142531	La Decticelle côtière	French
+1142531	Südliche Beißschrecke	German
+1142540	Grey Bush-cricket	English
+1142540	La Decticelle chagrinée	French
+1142540	Westliche Beißschrecke	German
+1142546	Graue Beißschrecke	German
+1142546	La Decticelle grisâtre	French
+1142561	La Decticelle à serpe	French
+1142579	La Decticelle des sables	French
+1142639	La Decticelle des steppes	French
+1142639	Steppe Bush-cricket	English
+1142639	Steppen-Beißschrecke	German
+1142680	La Decticelle des haies	French
+1142680	La Decticelle échassière	French
+1142680	Sepia Bush-cricket	English
+1142680	Zaunschrecke	German
+1142694	Braunfleckige Beißschrecke	German
+1142694	Brown-spotted Bush-cricket	English
+1142694	La Decticelle carroyée	French
+1142694	Tessellated Shieldback	English
+1142701	Kleine Beißschrecke	German
+1142708	Brown Shieldback	English
+1142712	Siskiyou Shieldback	English
+1142713	Tehachapi Shieldback	English
+1142714	Tuolumne Shieldback	English
+1142716	alpine shieldback	English
+1142732	Arizona longwing  	English
+1142733	slender longwing	English
+1142734	Bruner's longwing	English
+1142735	sooty longwing 	English
+1142736	Grant's longwing 	English
+1142737	Western Longwing	English
+1142740	spatulate longwing	English
+1142741	one-tooth longwing	English
+1142746	pine katydid	English
+1142754	Short-tailed Shield-back	English
+1142757	Dooloo Shield-back	English
+1142758	Southern Shield-back	English
+1142759	Small shield-back	English
+1142760	Kangaroo Island Shield-back	English
+1142761	Spinifex Shield-back	English
+1142762	Heath-dwelling Shield-back	English
+1142777	Eastern Green Bush-cricket	English
+1142777	La Sauterelle des Grisons	French
+1142777	La Sauterelle orientale	French
+1142777	Östliches Heupferd	German
+1142803	La Sauterelle cymbalière	French
+1142803	Upland Green Bush-cricket	English
+1142803	Zwitscherheupferd	German
+1142803	Zwitscherschrecke	German
+1142807	Great Green Bush-cricket	English
+1142807	Großes Grünes Heupferd	German
+1142807	La Grande Sauterelle verte	French
+1142828	La Decticelle marocaine	French
+1142831	black-winged shieldback	English
+1142859	Heath Bushcricket	English
+1142859	Heideschrecke	German
+1142859	Le Dectique des brandes	French
+1142922	Le Dectique à front blanc	French
+1142922	Südlicher Warzenbeißer	German
+1142925	La Sauterelle ronge-verrue	French
+1142925	Le Dectique verrucivore	French
+1142925	Wart-biter (Bush-cricket)	English
+1142925	Warzenbeißer	German
+1142962	Grüne Strauchschrecke	German
+1142962	La Decticelle splendide	French
+1142968	La Decticelle magnifique	French
+1143076	Alpen-Strauchschrecke	German
+1143076	Alpine Dark Bush-cricket	English
+1143076	La Decticelle aptère	French
+1143091	Fischer's Bush-cricket	English
+1143091	La Decticelle trompeuse	French
+1143091	Südliche Strauchschrecke	German
+1143093	Dark Bush-cricket	English
+1143093	Gewöhnliche Strauchschrecke	German
+1143093	La Decticelle cendrée	French
+1143104	Decticelle insubrique	French
+1143104	Insubrische Strauchschrecke	German
+1143106	Küsten-Strauchschrecke	German
+1143106	La Decticelle insubrique	French
+1143106	Littoral Bush-cricket	English
+1143120	La Decticelle des pelouses	French
+1143129	Andrea's Balloon-winged Katydid	English
+1143130	Houston's Balloon-winged Katydid	English
+1143131	Rottnest Balloon-winged Katydid	English
+1143132	Bunbury Balloon-winged Katydid	English
+1143133	Uvarov's Balloon-winged Katydid	English
+1143135	Pinnaroo Balloon-winged Katydid	English
+1143136	Kalbarri Balloon-winged Katydid	English
+1143137	Common Southern Balloon-winged Katydid	English
+1143138	Long-tailed Balloon-winged Katydid	English
+1143139	Gorgeous Balloon-winged Katydid	English
+1143141	Ourapilla Balloon-winged Katydid	English
+1143142	Southern Balloon-winged Katydid	English
+1143143	Variable Balloon-winged Katydid	English
+1143145	Eyre Balloon-winged Katydid	English
+1143153	Balsam Beast	English
+1143157	Iyouta	English
+1143160	Nartee	English
+1143171	australian pollen feeding katydid	English
+1143171	Australian Twig-mimicking Katydid	English
+1143174	Nina's Twig mimicking Katydid	English
+1143213	Beautiful Gumleaf Katydid	English
+1143214	Eucla Gumleaf Katydid	English
+1143215	Sydney Gumleaf Katydid	English
+1143219	Northern Tropical Gumleaf Katydid	English
+1143220	Black-banded Gumleaf Katydid	English
+1143221	Woodger's Gumleaf Katydid	English
+1143222	Confusing Gumleaf Katydid	English
+1143223	Small Gumleaf Katydid	English
+1143225	Great Green Gumleaf Katydid	English
+1143226	Calperum Gumleaf Katydid	English
+1143227	Spearhead Gumleaf Katydid	English
+1143228	Paruna Gumleaf Katydid	English
+1143229	Giant Gumleaf Katydid	English
+1143231	Odd Gumleaf Katydid	English
+1143233	Jumbunna Gumleaf Katydid	English
+1143234	Jimiramira Gumleaf Katydid	English
+1143235	Norabeetya Gumleaf Katydid	English
+1143236	Moonga Gumleaf Katydid	English
+1143237	King Gumleaf Katydid	English
+1143241	Spotted Predatory Katydid	English
+1143254	Greater Arid-land Katydid	English
+1143257	lesser arid-land katydid	English
+1143259	Glistening Yullandria	English
+1143260	Kakadu Yullandria	English
+1143262	Nyalma Grass Straddler	English
+1143263	Sally's Grass Straddler	English
+1143265	Mirru Cricket-Chirper	English
+1143268	Rottnest Requena	English
+1143269	Common Eastern Requena	English
+1143270	Huskisson Requena	English
+1143271	Queen Victoria's Requena	English
+1143272	Kangaroo Island Requena	English
+1143273	South Coast Requena	English
+1143274	Inland Requena	English
+1143275	Kim's Requena	English
+1143276	Karri Requena	English
+1143277	Dunsborough Requena	English
+1143278	Incessant Requena	English
+1143279	Brolga Requena	English
+1143280	Heller's Chirping Requena	English
+1143281	Bailey's Requena	English
+1143282	Common Western Requena	English
+1143284	The Waminda	English
+1143285	Win's Thumelinia	English
+1143287	Jin's Ginger Katydid	English
+1143288	The Irvines’ Ginger Katydid	English
+1143304	Territory imitator	English
+1143305	Jadon's Imitator	English
+1143328	Mundurra Balloon-winged Katydid	English
+1143328	Mundurra Fierce Predatory Katydid	English
+1143373	Genjam Alison	English
+1143377	Roach's Alison	English
+1143378	Gordon's Alison	English
+1143379	The Sedlaceks' Alison	English
+1143380	Garaina Alison	English
+1143388	Grillito Milagro	Spanish
+1143388	Milagro Dwarf Katydid	English
+1143388	Milagro-Zwergschrecke	German
+1203938	Gemeine Plumpschrecke	German
+1203959	Almeria Sand Grasshopper	English
+1203988	Lanzarote Stick Grasshopper	English
+1204055	African mole cricket	English
+1216697	Chameleon Grasshopper	English
+1217275	Lila Downs' Friar Grasshopper	English
+1217933	Cerro Jesus tree cricket	English
+1217934	Otte's tree cricket	English
+1217935	Baker's tree cricket	English
+1217936	Belt's tree cricket	English
+1217937	Golden tree cricket	English
+1218031	Minute Pygmy Locust	English
+1218260	fast-tinkling trig	English
+1218261	Calusa trig	English
+1218265	Weissman's conehead	English
+1218532	Le Dolichopode dauphinois	French
+1218726	Otago Ground Weta	English
+1220828	Round Island Grasshopper	English
+1221009	Miramelle tessinoise	French
+1221009	Tessiner Gebirgsschrecke	German
+1222229	Angular-winged Snub-nosed Katydid	English
+1222270	Garradunga Snub-nosed Katydid	English
+1222296	Hiller's Snub-nosed Katydid	English
+1222298	Tallebudgera Spiny Snub-nose	English
+1222299	Kungaree Snub-nose	English
+1222302	Mount Lewis Broad-winged Snub-nose	English
+1222419	Saltamontes patriota	Spanish
+1222964	Langfühler-Dornschrecke	German
+1222964	Le Tétrix des carrières	French
+1222964	Le Tétrix des sablières	French
+1222964	Long-horned Groundhopper	English
+1223026	La Miramelle ligure	French
+1223665	La Decticelle des ruisseaux	French
+1223947	Mia's Pygmy Devil	English
+1224031	Common Groundhopper	English
+1224031	common ground-hopper	English
+1224031	Gemeine Dornschrecke	German
+1224031	Le Tétrix forestier	French

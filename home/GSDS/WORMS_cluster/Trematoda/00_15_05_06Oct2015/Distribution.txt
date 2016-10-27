@@ -1,0 +1,1153 @@
+AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
+366394	Europe	Text		
+366394	Africa	Text		
+366382	Africa	Text		
+366399	East Africa	Text		
+366348	North Africa	Text		
+103985	Cosmopolitan (World Oceans)	Text		
+108838	Cosmopolitan (World Oceans)	Text		
+109254	Cosmopolitan (World Oceans)	Text		
+158687	Cosmopolitan (World Oceans)	Text		
+109050	Cosmopolitan (World Oceans)	Text		
+109264	Cosmopolitan (World Oceans)	Text		
+109332	Cosmopolitan (World Oceans)	Text		
+109267	Cosmopolitan (World Oceans)	Text		
+109224	Cosmopolitan (World Oceans)	Text		
+103984	Indian Ocean	Text		
+103986	North Atlantic	Text		
+109220	North West Atlantic	Text		
+159456	North West Atlantic	Text		
+109213	North West Atlantic	Text		
+108921	North West Atlantic	Text		
+108929	North West Atlantic	Text		
+159455	North West Atlantic	Text		
+109147	North West Atlantic	Text		
+159460	North West Atlantic	Text		
+109143	North West Atlantic	Text		
+109163	North West Atlantic	Text		
+109164	North West Atlantic	Text		
+108908	North West Atlantic	Text		
+108910	North West Atlantic	Text		
+109275	North West Atlantic	Text		
+158677	North West Atlantic	Text		
+158678	North West Atlantic	Text		
+108897	North West Atlantic	Text		
+108907	North West Atlantic	Text		
+158687	North West Atlantic	Text		
+109253	North West Atlantic	Text		
+109254	North West Atlantic	Text		
+158683	North West Atlantic	Text		
+109335	North West Atlantic	Text		
+158658	North West Atlantic	Text		
+109267	North West Atlantic	Text		
+109331	North West Atlantic	Text		
+109200	North West Atlantic	Text		
+159468	North West Atlantic	Text		
+109363	North West Atlantic	Text		
+109364	North West Atlantic	Text		
+109366	North West Atlantic	Text		
+108977	North West Atlantic	Text		
+108981	North West Atlantic	Text		
+109137	North West Atlantic	Text		
+109138	North West Atlantic	Text		
+109264	North West Atlantic	Text		
+109051	North West Atlantic	Text		
+158638	North West Atlantic	Text		
+158640	North West Atlantic	Text		
+109184	North West Atlantic	Text		
+109375	North West Atlantic	Text		
+158635	North West Atlantic	Text		
+108863	North West Atlantic	Text		
+109317	North West Atlantic	Text		
+160471	North West Atlantic	Text		
+366400	Pacific Ocean	Text		
+366340	Pacific Ocean	Text		
+366365	North Pacific	Text		
+344872	Antarctic Ocean	Text		
+344875	Antarctic Ocean	Text		
+344874	Antarctic Ocean	Text		
+344873	Antarctic Ocean	Text		
+344870	Antarctic Ocean	Text		
+344876	Antarctic Ocean	Text		
+344871	Antarctic Ocean	Text		
+344877	Antarctic Ocean	Text		
+344883	Antarctic Ocean	Text		
+108838	Antarctic Ocean	Text		
+344879	Antarctic Ocean	Text		
+344878	Antarctic Ocean	Text		
+344882	Antarctic Ocean	Text		
+344880	Antarctic Ocean	Text		
+344881	Antarctic Ocean	Text		
+109254	Antarctic Ocean	Text		
+158687	Antarctic Ocean	Text		
+344888	Antarctic Ocean	Text		
+344885	Antarctic Ocean	Text		
+344887	Antarctic Ocean	Text		
+344886	Antarctic Ocean	Text		
+344884	Antarctic Ocean	Text		
+344891	Antarctic Ocean	Text		
+344889	Antarctic Ocean	Text		
+344890	Antarctic Ocean	Text		
+344893	Antarctic Ocean	Text		
+344895	Antarctic Ocean	Text		
+344850	Antarctic Ocean	Text		
+344852	Antarctic Ocean	Text		
+344853	Antarctic Ocean	Text		
+344849	Antarctic Ocean	Text		
+344851	Antarctic Ocean	Text		
+109050	Antarctic Ocean	Text		
+109264	Antarctic Ocean	Text		
+344848	Antarctic Ocean	Text		
+344863	Antarctic Ocean	Text		
+344866	Antarctic Ocean	Text		
+344867	Antarctic Ocean	Text		
+344868	Antarctic Ocean	Text		
+344864	Antarctic Ocean	Text		
+344865	Antarctic Ocean	Text		
+344862	Antarctic Ocean	Text		
+344869	Antarctic Ocean	Text		
+344861	Antarctic Ocean	Text		
+344859	Antarctic Ocean	Text		
+344860	Antarctic Ocean	Text		
+344854	Antarctic Ocean	Text		
+344855	Antarctic Ocean	Text		
+109267	Antarctic Ocean	Text		
+109332	Antarctic Ocean	Text		
+344856	Antarctic Ocean	Text		
+344857	Antarctic Ocean	Text		
+344858	Antarctic Ocean	Text		
+109224	Antarctic Ocean	Text		
+366403	East Indian Ocean	Text		
+366345	Australia	Text		
+366397	Romania	Text		
+431735	Moreton Bay	Text		
+418910	Gulf of Mexico	Text		
+419204	Gulf of Mexico	Text		
+419111	Gulf of Mexico	Text		
+419112	Gulf of Mexico	Text		
+418996	Gulf of Mexico	Text		
+419203	Gulf of Mexico	Text		
+366357	Gulf of Mexico	Text		
+109204	Gulf of Mexico	Text		
+419031	Gulf of Mexico	Text		
+109205	Gulf of Mexico	Text		
+366361	Gulf of Mexico	Text		
+419134	Gulf of Mexico	Text		
+419084	Gulf of Mexico	Text		
+419017	Gulf of Mexico	Text		
+419133	Gulf of Mexico	Text		
+419030	Gulf of Mexico	Text		
+419085	Gulf of Mexico	Text		
+419137	Gulf of Mexico	Text		
+419138	Gulf of Mexico	Text		
+366400	Gulf of Mexico	Text		
+419139	Gulf of Mexico	Text		
+419140	Gulf of Mexico	Text		
+419044	Gulf of Mexico	Text		
+418998	Gulf of Mexico	Text		
+419000	Gulf of Mexico	Text		
+419003	Gulf of Mexico	Text		
+109206	Gulf of Mexico	Text		
+419177	Gulf of Mexico	Text		
+419151	Gulf of Mexico	Text		
+419152	Gulf of Mexico	Text		
+419153	Gulf of Mexico	Text		
+419154	Gulf of Mexico	Text		
+419058	Gulf of Mexico	Text		
+419057	Gulf of Mexico	Text		
+419033	Gulf of Mexico	Text		
+419034	Gulf of Mexico	Text		
+419032	Gulf of Mexico	Text		
+109349	Gulf of Mexico	Text		
+419035	Gulf of Mexico	Text		
+419002	Gulf of Mexico	Text		
+419087	Gulf of Mexico	Text		
+419088	Gulf of Mexico	Text		
+109352	Gulf of Mexico	Text		
+419047	Gulf of Mexico	Text		
+419224	Gulf of Mexico	Text		
+418911	Gulf of Mexico	Text		
+418912	Gulf of Mexico	Text		
+419046	Gulf of Mexico	Text		
+419211	Gulf of Mexico	Text		
+419221	Gulf of Mexico	Text		
+419006	Gulf of Mexico	Text		
+419207	Gulf of Mexico	Text		
+108892	Gulf of Mexico	Text		
+419208	Gulf of Mexico	Text		
+419209	Gulf of Mexico	Text		
+419210	Gulf of Mexico	Text		
+108894	Gulf of Mexico	Text		
+419212	Gulf of Mexico	Text		
+419213	Gulf of Mexico	Text		
+419086	Gulf of Mexico	Text		
+419205	Gulf of Mexico	Text		
+419142	Gulf of Mexico	Text		
+344879	Gulf of Mexico	Text		
+419141	Gulf of Mexico	Text		
+419005	Gulf of Mexico	Text		
+419206	Gulf of Mexico	Text		
+419099	Gulf of Mexico	Text		
+419100	Gulf of Mexico	Text		
+418931	Gulf of Mexico	Text		
+419039	Gulf of Mexico	Text		
+418929	Gulf of Mexico	Text		
+418930	Gulf of Mexico	Text		
+159456	Gulf of Mexico	Text		
+419226	Gulf of Mexico	Text		
+418953	Gulf of Mexico	Text		
+418954	Gulf of Mexico	Text		
+419010	Gulf of Mexico	Text		
+418915	Gulf of Mexico	Text		
+418916	Gulf of Mexico	Text		
+418917	Gulf of Mexico	Text		
+418918	Gulf of Mexico	Text		
+418919	Gulf of Mexico	Text		
+418920	Gulf of Mexico	Text		
+418921	Gulf of Mexico	Text		
+418922	Gulf of Mexico	Text		
+418914	Gulf of Mexico	Text		
+418923	Gulf of Mexico	Text		
+418924	Gulf of Mexico	Text		
+418925	Gulf of Mexico	Text		
+418926	Gulf of Mexico	Text		
+419048	Gulf of Mexico	Text		
+419060	Gulf of Mexico	Text		
+419155	Gulf of Mexico	Text		
+418932	Gulf of Mexico	Text		
+108922	Gulf of Mexico	Text		
+419011	Gulf of Mexico	Text		
+419040	Gulf of Mexico	Text		
+109222	Gulf of Mexico	Text		
+419041	Gulf of Mexico	Text		
+418933	Gulf of Mexico	Text		
+419101	Gulf of Mexico	Text		
+419018	Gulf of Mexico	Text		
+419179	Gulf of Mexico	Text		
+419214	Gulf of Mexico	Text		
+419145	Gulf of Mexico	Text		
+419036	Gulf of Mexico	Text		
+109208	Gulf of Mexico	Text		
+418994	Gulf of Mexico	Text		
+418979	Gulf of Mexico	Text		
+418980	Gulf of Mexico	Text		
+418981	Gulf of Mexico	Text		
+109160	Gulf of Mexico	Text		
+418975	Gulf of Mexico	Text		
+418976	Gulf of Mexico	Text		
+419225	Gulf of Mexico	Text		
+418977	Gulf of Mexico	Text		
+419008	Gulf of Mexico	Text		
+418952	Gulf of Mexico	Text		
+109113	Gulf of Mexico	Text		
+419150	Gulf of Mexico	Text		
+418982	Gulf of Mexico	Text		
+418983	Gulf of Mexico	Text		
+418984	Gulf of Mexico	Text		
+418985	Gulf of Mexico	Text		
+418986	Gulf of Mexico	Text		
+419037	Gulf of Mexico	Text		
+419038	Gulf of Mexico	Text		
+419182	Gulf of Mexico	Text		
+419220	Gulf of Mexico	Text		
+414452	Gulf of Mexico	Text		
+419216	Gulf of Mexico	Text		
+419217	Gulf of Mexico	Text		
+419218	Gulf of Mexico	Text		
+419219	Gulf of Mexico	Text		
+419059	Gulf of Mexico	Text		
+419089	Gulf of Mexico	Text		
+108824	Gulf of Mexico	Text		
+419065	Gulf of Mexico	Text		
+419066	Gulf of Mexico	Text		
+419067	Gulf of Mexico	Text		
+419068	Gulf of Mexico	Text		
+419069	Gulf of Mexico	Text		
+419070	Gulf of Mexico	Text		
+418987	Gulf of Mexico	Text		
+418988	Gulf of Mexico	Text		
+418989	Gulf of Mexico	Text		
+418990	Gulf of Mexico	Text		
+418992	Gulf of Mexico	Text		
+418993	Gulf of Mexico	Text		
+414457	Gulf of Mexico	Text		
+419184	Gulf of Mexico	Text		
+419023	Gulf of Mexico	Text		
+109315	Gulf of Mexico	Text		
+418959	Gulf of Mexico	Text		
+109359	Gulf of Mexico	Text		
+419104	Gulf of Mexico	Text		
+419020	Gulf of Mexico	Text		
+418947	Gulf of Mexico	Text		
+418948	Gulf of Mexico	Text		
+418949	Gulf of Mexico	Text		
+419025	Gulf of Mexico	Text		
+418995	Gulf of Mexico	Text		
+418971	Gulf of Mexico	Text		
+418972	Gulf of Mexico	Text		
+419186	Gulf of Mexico	Text		
+419116	Gulf of Mexico	Text		
+419117	Gulf of Mexico	Text		
+419187	Gulf of Mexico	Text		
+419188	Gulf of Mexico	Text		
+419189	Gulf of Mexico	Text		
+419190	Gulf of Mexico	Text		
+418997	Gulf of Mexico	Text		
+418946	Gulf of Mexico	Text		
+109356	Gulf of Mexico	Text		
+418967	Gulf of Mexico	Text		
+418968	Gulf of Mexico	Text		
+418969	Gulf of Mexico	Text		
+418970	Gulf of Mexico	Text		
+419024	Gulf of Mexico	Text		
+419114	Gulf of Mexico	Text		
+418956	Gulf of Mexico	Text		
+418957	Gulf of Mexico	Text		
+419185	Gulf of Mexico	Text		
+418958	Gulf of Mexico	Text		
+419227	Gulf of Mexico	Text		
+419228	Gulf of Mexico	Text		
+109259	Gulf of Mexico	Text		
+419118	Gulf of Mexico	Text		
+419049	Gulf of Mexico	Text		
+419050	Gulf of Mexico	Text		
+418950	Gulf of Mexico	Text		
+419229	Gulf of Mexico	Text		
+109264	Gulf of Mexico	Text		
+418936	Gulf of Mexico	Text		
+418937	Gulf of Mexico	Text		
+418938	Gulf of Mexico	Text		
+366407	Gulf of Mexico	Text		
+366406	Gulf of Mexico	Text		
+419233	Gulf of Mexico	Text		
+419234	Gulf of Mexico	Text		
+419160	Gulf of Mexico	Text		
+419161	Gulf of Mexico	Text		
+419162	Gulf of Mexico	Text		
+418974	Gulf of Mexico	Text		
+419076	Gulf of Mexico	Text		
+419105	Gulf of Mexico	Text		
+419019	Gulf of Mexico	Text		
+419021	Gulf of Mexico	Text		
+419073	Gulf of Mexico	Text		
+419074	Gulf of Mexico	Text		
+109324	Gulf of Mexico	Text		
+419075	Gulf of Mexico	Text		
+109326	Gulf of Mexico	Text		
+419230	Gulf of Mexico	Text		
+419231	Gulf of Mexico	Text		
+109325	Gulf of Mexico	Text		
+109132	Gulf of Mexico	Text		
+419195	Gulf of Mexico	Text		
+419052	Gulf of Mexico	Text		
+419053	Gulf of Mexico	Text		
+419054	Gulf of Mexico	Text		
+419055	Gulf of Mexico	Text		
+109267	Gulf of Mexico	Text		
+419014	Gulf of Mexico	Text		
+419015	Gulf of Mexico	Text		
+419043	Gulf of Mexico	Text		
+419197	Gulf of Mexico	Text		
+419198	Gulf of Mexico	Text		
+419199	Gulf of Mexico	Text		
+419200	Gulf of Mexico	Text		
+419201	Gulf of Mexico	Text		
+419016	Gulf of Mexico	Text		
+419196	Gulf of Mexico	Text		
+108875	Gulf of Mexico	Text		
+158658	Gulf of Mexico	Text		
+419167	Gulf of Mexico	Text		
+419164	Gulf of Mexico	Text		
+419064	Gulf of Mexico	Text		
+418939	Gulf of Mexico	Text		
+418940	Gulf of Mexico	Text		
+418935	Gulf of Mexico	Text		
+418941	Gulf of Mexico	Text		
+418942	Gulf of Mexico	Text		
+419158	Gulf of Mexico	Text		
+109357	Gulf of Mexico	Text		
+419163	Gulf of Mexico	Text		
+419235	Gulf of Mexico	Text		
+109332	Gulf of Mexico	Text		
+419013	Gulf of Mexico	Text		
+414406	Gulf of Mexico	Text		
+419022	Gulf of Mexico	Text		
+419012	Gulf of Mexico	Text		
+419192	Gulf of Mexico	Text		
+419193	Gulf of Mexico	Text		
+419119	Gulf of Mexico	Text		
+419026	Gulf of Mexico	Text		
+419077	Gulf of Mexico	Text		
+109330	Gulf of Mexico	Text		
+419078	Gulf of Mexico	Text		
+418951	Gulf of Mexico	Text		
+419079	Gulf of Mexico	Text		
+419108	Gulf of Mexico	Text		
+419109	Gulf of Mexico	Text		
+419080	Gulf of Mexico	Text		
+109341	Gulf of Mexico	Text		
+419063	Gulf of Mexico	Text		
+419082	Gulf of Mexico	Text		
+419083	Gulf of Mexico	Text		
+109363	Gulf of Mexico	Text		
+419107	Gulf of Mexico	Text		
+419176	Gulf of Mexico	Text		
+419168	Gulf of Mexico	Text		
+419169	Gulf of Mexico	Text		
+419170	Gulf of Mexico	Text		
+419171	Gulf of Mexico	Text		
+419172	Gulf of Mexico	Text		
+419173	Gulf of Mexico	Text		
+419174	Gulf of Mexico	Text		
+419175	Gulf of Mexico	Text		
+109202	Gulf of Mexico	Text		
+418943	Gulf of Mexico	Text		
+418944	Gulf of Mexico	Text		
+419106	Gulf of Mexico	Text		
+419029	Gulf of Mexico	Text		
+419056	Gulf of Mexico	Text		
+109347	Gulf of Mexico	Text		
+419120	Gulf of Mexico	Text		
+419123	Gulf of Mexico	Text		
+419125	Gulf of Mexico	Text		
+419126	Gulf of Mexico	Text		
+419127	Gulf of Mexico	Text		
+419121	Gulf of Mexico	Text		
+419122	Gulf of Mexico	Text		
+108977	Gulf of Mexico	Text		
+108981	Gulf of Mexico	Text		
+419128	Gulf of Mexico	Text		
+419129	Gulf of Mexico	Text		
+419131	Gulf of Mexico	Text		
+419130	Gulf of Mexico	Text		
+108985	Gulf of Mexico	Text		
+419132	Gulf of Mexico	Text		
+419156	Gulf of Mexico	Text		
+109001	European waters (ERMS scope)	Text		
+109203	European waters (ERMS scope)	Text		
+108986	European waters (ERMS scope)	Text		
+109138	European waters (ERMS scope)	Text		
+108984	European waters (ERMS scope)	Text		
+108985	European waters (ERMS scope)	Text		
+108983	European waters (ERMS scope)	Text		
+108923	European waters (ERMS scope)	Text		
+109137	European waters (ERMS scope)	Text		
+108982	European waters (ERMS scope)	Text		
+108981	European waters (ERMS scope)	Text		
+108978	European waters (ERMS scope)	Text		
+108976	European waters (ERMS scope)	Text		
+108977	European waters (ERMS scope)	Text		
+108980	European waters (ERMS scope)	Text		
+108975	European waters (ERMS scope)	Text		
+108979	European waters (ERMS scope)	Text		
+108971	European waters (ERMS scope)	Text		
+108972	European waters (ERMS scope)	Text		
+109367	European waters (ERMS scope)	Text		
+109368	European waters (ERMS scope)	Text		
+109136	European waters (ERMS scope)	Text		
+109348	European waters (ERMS scope)	Text		
+109366	European waters (ERMS scope)	Text		
+109345	European waters (ERMS scope)	Text		
+109346	European waters (ERMS scope)	Text		
+109347	European waters (ERMS scope)	Text		
+109371	European waters (ERMS scope)	Text		
+109298	European waters (ERMS scope)	Text		
+109299	European waters (ERMS scope)	Text		
+109300	European waters (ERMS scope)	Text		
+109301	European waters (ERMS scope)	Text		
+109186	European waters (ERMS scope)	Text		
+109194	European waters (ERMS scope)	Text		
+109195	European waters (ERMS scope)	Text		
+109196	European waters (ERMS scope)	Text		
+109197	European waters (ERMS scope)	Text		
+109361	European waters (ERMS scope)	Text		
+108801	European waters (ERMS scope)	Text		
+109119	European waters (ERMS scope)	Text		
+109385	European waters (ERMS scope)	Text		
+109362	European waters (ERMS scope)	Text		
+109363	European waters (ERMS scope)	Text		
+109364	European waters (ERMS scope)	Text		
+109343	European waters (ERMS scope)	Text		
+109344	European waters (ERMS scope)	Text		
+109342	European waters (ERMS scope)	Text		
+109341	European waters (ERMS scope)	Text		
+109337	European waters (ERMS scope)	Text		
+109338	European waters (ERMS scope)	Text		
+109365	European waters (ERMS scope)	Text		
+108815	European waters (ERMS scope)	Text		
+108852	European waters (ERMS scope)	Text		
+109327	European waters (ERMS scope)	Text		
+109328	European waters (ERMS scope)	Text		
+108790	European waters (ERMS scope)	Text		
+108791	European waters (ERMS scope)	Text		
+108792	European waters (ERMS scope)	Text		
+108793	European waters (ERMS scope)	Text		
+108794	European waters (ERMS scope)	Text		
+108795	European waters (ERMS scope)	Text		
+109089	European waters (ERMS scope)	Text		
+109090	European waters (ERMS scope)	Text		
+109091	European waters (ERMS scope)	Text		
+108812	European waters (ERMS scope)	Text		
+108871	European waters (ERMS scope)	Text		
+108872	European waters (ERMS scope)	Text		
+108873	European waters (ERMS scope)	Text		
+109053	European waters (ERMS scope)	Text		
+109054	European waters (ERMS scope)	Text		
+109055	European waters (ERMS scope)	Text		
+109056	European waters (ERMS scope)	Text		
+109057	European waters (ERMS scope)	Text		
+109059	European waters (ERMS scope)	Text		
+108874	European waters (ERMS scope)	Text		
+109168	European waters (ERMS scope)	Text		
+109201	European waters (ERMS scope)	Text		
+109200	European waters (ERMS scope)	Text		
+109330	European waters (ERMS scope)	Text		
+109331	European waters (ERMS scope)	Text		
+109267	European waters (ERMS scope)	Text		
+109379	European waters (ERMS scope)	Text		
+109332	European waters (ERMS scope)	Text		
+108799	European waters (ERMS scope)	Text		
+108800	European waters (ERMS scope)	Text		
+109357	European waters (ERMS scope)	Text		
+108796	European waters (ERMS scope)	Text		
+108797	European waters (ERMS scope)	Text		
+108798	European waters (ERMS scope)	Text		
+109336	European waters (ERMS scope)	Text		
+109060	European waters (ERMS scope)	Text		
+109061	European waters (ERMS scope)	Text		
+109062	European waters (ERMS scope)	Text		
+108946	European waters (ERMS scope)	Text		
+108968	European waters (ERMS scope)	Text		
+108969	European waters (ERMS scope)	Text		
+108970	European waters (ERMS scope)	Text		
+109171	European waters (ERMS scope)	Text		
+109378	European waters (ERMS scope)	Text		
+109202	European waters (ERMS scope)	Text		
+108875	European waters (ERMS scope)	Text		
+109383	European waters (ERMS scope)	Text		
+109384	European waters (ERMS scope)	Text		
+109269	European waters (ERMS scope)	Text		
+109270	European waters (ERMS scope)	Text		
+109333	European waters (ERMS scope)	Text		
+109334	European waters (ERMS scope)	Text		
+109335	European waters (ERMS scope)	Text		
+109223	European waters (ERMS scope)	Text		
+109224	European waters (ERMS scope)	Text		
+109226	European waters (ERMS scope)	Text		
+109227	European waters (ERMS scope)	Text		
+109295	European waters (ERMS scope)	Text		
+108813	European waters (ERMS scope)	Text		
+109135	European waters (ERMS scope)	Text		
+109326	European waters (ERMS scope)	Text		
+109131	European waters (ERMS scope)	Text		
+109132	European waters (ERMS scope)	Text		
+109325	European waters (ERMS scope)	Text		
+109324	European waters (ERMS scope)	Text		
+109322	European waters (ERMS scope)	Text		
+109323	European waters (ERMS scope)	Text		
+109281	European waters (ERMS scope)	Text		
+109282	European waters (ERMS scope)	Text		
+109283	European waters (ERMS scope)	Text		
+109284	European waters (ERMS scope)	Text		
+109286	European waters (ERMS scope)	Text		
+109288	European waters (ERMS scope)	Text		
+109289	European waters (ERMS scope)	Text		
+109290	European waters (ERMS scope)	Text		
+109291	European waters (ERMS scope)	Text		
+108965	European waters (ERMS scope)	Text		
+108810	European waters (ERMS scope)	Text		
+108811	European waters (ERMS scope)	Text		
+108849	European waters (ERMS scope)	Text		
+108845	European waters (ERMS scope)	Text		
+109156	European waters (ERMS scope)	Text		
+109157	European waters (ERMS scope)	Text		
+108967	European waters (ERMS scope)	Text		
+109182	European waters (ERMS scope)	Text		
+109183	European waters (ERMS scope)	Text		
+109184	European waters (ERMS scope)	Text		
+109185	European waters (ERMS scope)	Text		
+109172	European waters (ERMS scope)	Text		
+109173	European waters (ERMS scope)	Text		
+109174	European waters (ERMS scope)	Text		
+109175	European waters (ERMS scope)	Text		
+109176	European waters (ERMS scope)	Text		
+109177	European waters (ERMS scope)	Text		
+109178	European waters (ERMS scope)	Text		
+109179	European waters (ERMS scope)	Text		
+109180	European waters (ERMS scope)	Text		
+109181	European waters (ERMS scope)	Text		
+103983	European waters (ERMS scope)	Text		
+109374	European waters (ERMS scope)	Text		
+109051	European waters (ERMS scope)	Text		
+108858	European waters (ERMS scope)	Text		
+109049	European waters (ERMS scope)	Text		
+109050	European waters (ERMS scope)	Text		
+109265	European waters (ERMS scope)	Text		
+108960	European waters (ERMS scope)	Text		
+108961	European waters (ERMS scope)	Text		
+109261	European waters (ERMS scope)	Text		
+109262	European waters (ERMS scope)	Text		
+109263	European waters (ERMS scope)	Text		
+109264	European waters (ERMS scope)	Text		
+109129	European waters (ERMS scope)	Text		
+109130	European waters (ERMS scope)	Text		
+109257	European waters (ERMS scope)	Text		
+109258	European waters (ERMS scope)	Text		
+109259	European waters (ERMS scope)	Text		
+109260	European waters (ERMS scope)	Text		
+109128	European waters (ERMS scope)	Text		
+109126	European waters (ERMS scope)	Text		
+109198	European waters (ERMS scope)	Text		
+109277	European waters (ERMS scope)	Text		
+109317	European waters (ERMS scope)	Text		
+109356	European waters (ERMS scope)	Text		
+109117	European waters (ERMS scope)	Text		
+109116	European waters (ERMS scope)	Text		
+109152	European waters (ERMS scope)	Text		
+109153	European waters (ERMS scope)	Text		
+109154	European waters (ERMS scope)	Text		
+109155	European waters (ERMS scope)	Text		
+109151	European waters (ERMS scope)	Text		
+108947	European waters (ERMS scope)	Text		
+109127	European waters (ERMS scope)	Text		
+109149	European waters (ERMS scope)	Text		
+109150	European waters (ERMS scope)	Text		
+109170	European waters (ERMS scope)	Text		
+108948	European waters (ERMS scope)	Text		
+109081	European waters (ERMS scope)	Text		
+108869	European waters (ERMS scope)	Text		
+108867	European waters (ERMS scope)	Text		
+108868	European waters (ERMS scope)	Text		
+109318	European waters (ERMS scope)	Text		
+109319	European waters (ERMS scope)	Text		
+108857	European waters (ERMS scope)	Text		
+109279	European waters (ERMS scope)	Text		
+108851	European waters (ERMS scope)	Text		
+109087	European waters (ERMS scope)	Text		
+109048	European waters (ERMS scope)	Text		
+109046	European waters (ERMS scope)	Text		
+109377	European waters (ERMS scope)	Text		
+108860	European waters (ERMS scope)	Text		
+108861	European waters (ERMS scope)	Text		
+108862	European waters (ERMS scope)	Text		
+109278	European waters (ERMS scope)	Text		
+108998	European waters (ERMS scope)	Text		
+109115	European waters (ERMS scope)	Text		
+109029	European waters (ERMS scope)	Text		
+109030	European waters (ERMS scope)	Text		
+109031	European waters (ERMS scope)	Text		
+109032	European waters (ERMS scope)	Text		
+108863	European waters (ERMS scope)	Text		
+109025	European waters (ERMS scope)	Text		
+109026	European waters (ERMS scope)	Text		
+109028	European waters (ERMS scope)	Text		
+109244	European waters (ERMS scope)	Text		
+109241	European waters (ERMS scope)	Text		
+109242	European waters (ERMS scope)	Text		
+109243	European waters (ERMS scope)	Text		
+109245	European waters (ERMS scope)	Text		
+109315	European waters (ERMS scope)	Text		
+109360	European waters (ERMS scope)	Text		
+109043	European waters (ERMS scope)	Text		
+109044	European waters (ERMS scope)	Text		
+108788	European waters (ERMS scope)	Text		
+109190	European waters (ERMS scope)	Text		
+109034	European waters (ERMS scope)	Text		
+109316	European waters (ERMS scope)	Text		
+109191	European waters (ERMS scope)	Text		
+109359	European waters (ERMS scope)	Text		
+109033	European waters (ERMS scope)	Text		
+108789	European waters (ERMS scope)	Text		
+109375	European waters (ERMS scope)	Text		
+109376	European waters (ERMS scope)	Text		
+109256	European waters (ERMS scope)	Text		
+109045	European waters (ERMS scope)	Text		
+109108	European waters (ERMS scope)	Text		
+109109	European waters (ERMS scope)	Text		
+109110	European waters (ERMS scope)	Text		
+109111	European waters (ERMS scope)	Text		
+108864	European waters (ERMS scope)	Text		
+108865	European waters (ERMS scope)	Text		
+108866	European waters (ERMS scope)	Text		
+108916	European waters (ERMS scope)	Text		
+109143	European waters (ERMS scope)	Text		
+108832	European waters (ERMS scope)	Text		
+108833	European waters (ERMS scope)	Text		
+108834	European waters (ERMS scope)	Text		
+108963	European waters (ERMS scope)	Text		
+108964	European waters (ERMS scope)	Text		
+109250	European waters (ERMS scope)	Text		
+109372	European waters (ERMS scope)	Text		
+109354	European waters (ERMS scope)	Text		
+108817	European waters (ERMS scope)	Text		
+108818	European waters (ERMS scope)	Text		
+108830	European waters (ERMS scope)	Text		
+108831	European waters (ERMS scope)	Text		
+108917	European waters (ERMS scope)	Text		
+108918	European waters (ERMS scope)	Text		
+108919	European waters (ERMS scope)	Text		
+108848	European waters (ERMS scope)	Text		
+109068	European waters (ERMS scope)	Text		
+109069	European waters (ERMS scope)	Text		
+109105	European waters (ERMS scope)	Text		
+109106	European waters (ERMS scope)	Text		
+109107	European waters (ERMS scope)	Text		
+109165	European waters (ERMS scope)	Text		
+109166	European waters (ERMS scope)	Text		
+109160	European waters (ERMS scope)	Text		
+109113	European waters (ERMS scope)	Text		
+109114	European waters (ERMS scope)	Text		
+108997	European waters (ERMS scope)	Text		
+109079	European waters (ERMS scope)	Text		
+109163	European waters (ERMS scope)	Text		
+109161	European waters (ERMS scope)	Text		
+109162	European waters (ERMS scope)	Text		
+109164	European waters (ERMS scope)	Text		
+109097	European waters (ERMS scope)	Text		
+109210	European waters (ERMS scope)	Text		
+109209	European waters (ERMS scope)	Text		
+109141	European waters (ERMS scope)	Text		
+109124	European waters (ERMS scope)	Text		
+108993	European waters (ERMS scope)	Text		
+108994	European waters (ERMS scope)	Text		
+108995	European waters (ERMS scope)	Text		
+109208	European waters (ERMS scope)	Text		
+109086	European waters (ERMS scope)	Text		
+109112	European waters (ERMS scope)	Text		
+109142	European waters (ERMS scope)	Text		
+108996	European waters (ERMS scope)	Text		
+109275	European waters (ERMS scope)	Text		
+108910	European waters (ERMS scope)	Text		
+108913	European waters (ERMS scope)	Text		
+108908	European waters (ERMS scope)	Text		
+108911	European waters (ERMS scope)	Text		
+108914	European waters (ERMS scope)	Text		
+108915	European waters (ERMS scope)	Text		
+109188	European waters (ERMS scope)	Text		
+109369	European waters (ERMS scope)	Text		
+109251	European waters (ERMS scope)	Text		
+109252	European waters (ERMS scope)	Text		
+109074	European waters (ERMS scope)	Text		
+109169	European waters (ERMS scope)	Text		
+108922	European waters (ERMS scope)	Text		
+109099	European waters (ERMS scope)	Text		
+109100	European waters (ERMS scope)	Text		
+109101	European waters (ERMS scope)	Text		
+109102	European waters (ERMS scope)	Text		
+108943	European waters (ERMS scope)	Text		
+108944	European waters (ERMS scope)	Text		
+109381	European waters (ERMS scope)	Text		
+109125	European waters (ERMS scope)	Text		
+109040	European waters (ERMS scope)	Text		
+109041	European waters (ERMS scope)	Text		
+108855	European waters (ERMS scope)	Text		
+108856	European waters (ERMS scope)	Text		
+109189	European waters (ERMS scope)	Text		
+109314	European waters (ERMS scope)	Text		
+109147	European waters (ERMS scope)	Text		
+109148	European waters (ERMS scope)	Text		
+109222	European waters (ERMS scope)	Text		
+108936	European waters (ERMS scope)	Text		
+108937	European waters (ERMS scope)	Text		
+108935	European waters (ERMS scope)	Text		
+108932	European waters (ERMS scope)	Text		
+108940	European waters (ERMS scope)	Text		
+108933	European waters (ERMS scope)	Text		
+108819	European waters (ERMS scope)	Text		
+108927	European waters (ERMS scope)	Text		
+108928	European waters (ERMS scope)	Text		
+109145	European waters (ERMS scope)	Text		
+109146	European waters (ERMS scope)	Text		
+108921	European waters (ERMS scope)	Text		
+108930	European waters (ERMS scope)	Text		
+108931	European waters (ERMS scope)	Text		
+108929	European waters (ERMS scope)	Text		
+108942	European waters (ERMS scope)	Text		
+109214	European waters (ERMS scope)	Text		
+109215	European waters (ERMS scope)	Text		
+109216	European waters (ERMS scope)	Text		
+109217	European waters (ERMS scope)	Text		
+108938	European waters (ERMS scope)	Text		
+108941	European waters (ERMS scope)	Text		
+109211	European waters (ERMS scope)	Text		
+109212	European waters (ERMS scope)	Text		
+109213	European waters (ERMS scope)	Text		
+109218	European waters (ERMS scope)	Text		
+109219	European waters (ERMS scope)	Text		
+109220	European waters (ERMS scope)	Text		
+103986	European waters (ERMS scope)	Text		
+109355	European waters (ERMS scope)	Text		
+109071	European waters (ERMS scope)	Text		
+109072	European waters (ERMS scope)	Text		
+109073	European waters (ERMS scope)	Text		
+108835	European waters (ERMS scope)	Text		
+109310	European waters (ERMS scope)	Text		
+108838	European waters (ERMS scope)	Text		
+108839	European waters (ERMS scope)	Text		
+108836	European waters (ERMS scope)	Text		
+108837	European waters (ERMS scope)	Text		
+108954	European waters (ERMS scope)	Text		
+109246	European waters (ERMS scope)	Text		
+109103	European waters (ERMS scope)	Text		
+108891	European waters (ERMS scope)	Text		
+108924	European waters (ERMS scope)	Text		
+108990	European waters (ERMS scope)	Text		
+108989	European waters (ERMS scope)	Text		
+109350	European waters (ERMS scope)	Text		
+109351	European waters (ERMS scope)	Text		
+108893	European waters (ERMS scope)	Text		
+108892	European waters (ERMS scope)	Text		
+109207	European waters (ERMS scope)	Text		
+108991	European waters (ERMS scope)	Text		
+109076	European waters (ERMS scope)	Text		
+109098	European waters (ERMS scope)	Text		
+109380	European waters (ERMS scope)	Text		
+109247	European waters (ERMS scope)	Text		
+109248	European waters (ERMS scope)	Text		
+108955	European waters (ERMS scope)	Text		
+108956	European waters (ERMS scope)	Text		
+108958	European waters (ERMS scope)	Text		
+109254	European waters (ERMS scope)	Text		
+108894	European waters (ERMS scope)	Text		
+109253	European waters (ERMS scope)	Text		
+109084	European waters (ERMS scope)	Text		
+108902	European waters (ERMS scope)	Text		
+109092	European waters (ERMS scope)	Text		
+108898	European waters (ERMS scope)	Text		
+108899	European waters (ERMS scope)	Text		
+108900	European waters (ERMS scope)	Text		
+108806	European waters (ERMS scope)	Text		
+108807	European waters (ERMS scope)	Text		
+108808	European waters (ERMS scope)	Text		
+109067	European waters (ERMS scope)	Text		
+109082	European waters (ERMS scope)	Text		
+109083	European waters (ERMS scope)	Text		
+108926	European waters (ERMS scope)	Text		
+109353	European waters (ERMS scope)	Text		
+109085	European waters (ERMS scope)	Text		
+109093	European waters (ERMS scope)	Text		
+109094	European waters (ERMS scope)	Text		
+109095	European waters (ERMS scope)	Text		
+109096	European waters (ERMS scope)	Text		
+109311	European waters (ERMS scope)	Text		
+108846	European waters (ERMS scope)	Text		
+108847	European waters (ERMS scope)	Text		
+108907	European waters (ERMS scope)	Text		
+108841	European waters (ERMS scope)	Text		
+108842	European waters (ERMS scope)	Text		
+108844	European waters (ERMS scope)	Text		
+108843	European waters (ERMS scope)	Text		
+108816	European waters (ERMS scope)	Text		
+109123	European waters (ERMS scope)	Text		
+109234	European waters (ERMS scope)	Text		
+109235	European waters (ERMS scope)	Text		
+109237	European waters (ERMS scope)	Text		
+109238	European waters (ERMS scope)	Text		
+108805	European waters (ERMS scope)	Text		
+108896	European waters (ERMS scope)	Text		
+108897	European waters (ERMS scope)	Text		
+109352	European waters (ERMS scope)	Text		
+109140	European waters (ERMS scope)	Text		
+109249	European waters (ERMS scope)	Text		
+108992	European waters (ERMS scope)	Text		
+108840	European waters (ERMS scope)	Text		
+108890	European waters (ERMS scope)	Text		
+109255	European waters (ERMS scope)	Text		
+108895	European waters (ERMS scope)	Text		
+109088	European waters (ERMS scope)	Text		
+109077	European waters (ERMS scope)	Text		
+109078	European waters (ERMS scope)	Text		
+109302	European waters (ERMS scope)	Text		
+109075	European waters (ERMS scope)	Text		
+109011	European waters (ERMS scope)	Text		
+109012	European waters (ERMS scope)	Text		
+109013	European waters (ERMS scope)	Text		
+109014	European waters (ERMS scope)	Text		
+109015	European waters (ERMS scope)	Text		
+109016	European waters (ERMS scope)	Text		
+109020	European waters (ERMS scope)	Text		
+109017	European waters (ERMS scope)	Text		
+109018	European waters (ERMS scope)	Text		
+109019	European waters (ERMS scope)	Text		
+108853	European waters (ERMS scope)	Text		
+108854	European waters (ERMS scope)	Text		
+109010	European waters (ERMS scope)	Text		
+109005	European waters (ERMS scope)	Text		
+109349	European waters (ERMS scope)	Text		
+109121	European waters (ERMS scope)	Text		
+109122	European waters (ERMS scope)	Text		
+109240	European waters (ERMS scope)	Text		
+109120	European waters (ERMS scope)	Text		
+109009	European waters (ERMS scope)	Text		
+109206	European waters (ERMS scope)	Text		
+109037	European waters (ERMS scope)	Text		
+109038	European waters (ERMS scope)	Text		
+108850	European waters (ERMS scope)	Text		
+109036	European waters (ERMS scope)	Text		
+109035	European waters (ERMS scope)	Text		
+109304	European waters (ERMS scope)	Text		
+109305	European waters (ERMS scope)	Text		
+109306	European waters (ERMS scope)	Text		
+109307	European waters (ERMS scope)	Text		
+109308	European waters (ERMS scope)	Text		
+109309	European waters (ERMS scope)	Text		
+103985	European waters (ERMS scope)	Text		
+109158	European waters (ERMS scope)	Text		
+109000	European waters (ERMS scope)	Text		
+109239	European waters (ERMS scope)	Text		
+108987	European waters (ERMS scope)	Text		
+109002	European waters (ERMS scope)	Text		
+109205	European waters (ERMS scope)	Text		
+108883	European waters (ERMS scope)	Text		
+109204	European waters (ERMS scope)	Text		
+109004	European waters (ERMS scope)	Text		
+109006	European waters (ERMS scope)	Text		
+109007	European waters (ERMS scope)	Text		
+109008	European waters (ERMS scope)	Text		
+108888	European waters (ERMS scope)	Text		
+109271	European waters (ERMS scope)	Text		
+109272	European waters (ERMS scope)	Text		
+109273	European waters (ERMS scope)	Text		
+109274	European waters (ERMS scope)	Text		
+108887	European waters (ERMS scope)	Text		
+108886	European waters (ERMS scope)	Text		
+108884	European waters (ERMS scope)	Text		
+108885	European waters (ERMS scope)	Text		
+103984	European waters (ERMS scope)	Text		
+366357	West Atlantic	Text		
+366361	West Atlantic	Text		
+366362	South America	Text		
+366358	South America	Text		
+431735	South Australia (state)	Text		
+431735	Western Australia (state)	Text		
+431735	Western Australia (state)	Text		
+109342	Irish Exclusive economic Zone	Text		
+109344	Portuguese Exclusive Economic Zone	Text		
+109342	Portuguese Exclusive Economic Zone	Text		
+109364	Portuguese Exclusive Economic Zone	Text		
+108801	Portuguese Exclusive Economic Zone	Text		
+419195	Portuguese Exclusive Economic Zone	Text		
+108798	Portuguese Exclusive Economic Zone	Text		
+108792	Portuguese Exclusive Economic Zone	Text		
+108788	Portuguese Exclusive Economic Zone	Text		
+109048	Portuguese Exclusive Economic Zone	Text		
+109155	Portuguese Exclusive Economic Zone	Text		
+108961	Portuguese Exclusive Economic Zone	Text		
+109264	Portuguese Exclusive Economic Zone	Text		
+108858	Portuguese Exclusive Economic Zone	Text		
+158640	Portuguese Exclusive Economic Zone	Text		
+109051	Portuguese Exclusive Economic Zone	Text		
+109181	Portuguese Exclusive Economic Zone	Text		
+109184	Portuguese Exclusive Economic Zone	Text		
+109019	Portuguese Exclusive Economic Zone	Text		
+109013	Portuguese Exclusive Economic Zone	Text		
+108840	Portuguese Exclusive Economic Zone	Text		
+108907	Portuguese Exclusive Economic Zone	Text		
+109092	Portuguese Exclusive Economic Zone	Text		
+109079	Portuguese Exclusive Economic Zone	Text		
+108831	Portuguese Exclusive Economic Zone	Text		
+109250	New Zealand Exclusive Economic Zone	Text		
+108831	New Zealand Exclusive Economic Zone	Text		
+414457	New Zealand Exclusive Economic Zone	Text		
+414452	New Zealand Exclusive Economic Zone	Text		
+414456	New Zealand Exclusive Economic Zone	Text		
+414453	New Zealand Exclusive Economic Zone	Text		
+414454	New Zealand Exclusive Economic Zone	Text		
+414455	New Zealand Exclusive Economic Zone	Text		
+414450	New Zealand Exclusive Economic Zone	Text		
+414451	New Zealand Exclusive Economic Zone	Text		
+414417	New Zealand Exclusive Economic Zone	Text		
+158687	New Zealand Exclusive Economic Zone	Text		
+414447	New Zealand Exclusive Economic Zone	Text		
+414448	New Zealand Exclusive Economic Zone	Text		
+414449	New Zealand Exclusive Economic Zone	Text		
+414393	New Zealand Exclusive Economic Zone	Text		
+414465	New Zealand Exclusive Economic Zone	Text		
+108937	New Zealand Exclusive Economic Zone	Text		
+109381	New Zealand Exclusive Economic Zone	Text		
+414420	New Zealand Exclusive Economic Zone	Text		
+414394	New Zealand Exclusive Economic Zone	Text		
+414395	New Zealand Exclusive Economic Zone	Text		
+414424	New Zealand Exclusive Economic Zone	Text		
+574204	New Zealand Exclusive Economic Zone	Text		
+109255	New Zealand Exclusive Economic Zone	Text		
+109253	New Zealand Exclusive Economic Zone	Text		
+109380	New Zealand Exclusive Economic Zone	Text		
+414463	New Zealand Exclusive Economic Zone	Text		
+414439	New Zealand Exclusive Economic Zone	Text		
+414440	New Zealand Exclusive Economic Zone	Text		
+414437	New Zealand Exclusive Economic Zone	Text		
+414438	New Zealand Exclusive Economic Zone	Text		
+414458	New Zealand Exclusive Economic Zone	Text		
+414436	New Zealand Exclusive Economic Zone	Text		
+109246	New Zealand Exclusive Economic Zone	Text		
+414403	New Zealand Exclusive Economic Zone	Text		
+108835	New Zealand Exclusive Economic Zone	Text		
+388909	New Zealand Exclusive Economic Zone	Text		
+414435	New Zealand Exclusive Economic Zone	Text		
+414415	New Zealand Exclusive Economic Zone	Text		
+414426	New Zealand Exclusive Economic Zone	Text		
+414402	New Zealand Exclusive Economic Zone	Text		
+109157	New Zealand Exclusive Economic Zone	Text		
+414398	New Zealand Exclusive Economic Zone	Text		
+414399	New Zealand Exclusive Economic Zone	Text		
+414400	New Zealand Exclusive Economic Zone	Text		
+108965	New Zealand Exclusive Economic Zone	Text		
+109374	New Zealand Exclusive Economic Zone	Text		
+723442	New Zealand Exclusive Economic Zone	Text		
+109264	New Zealand Exclusive Economic Zone	Text		
+414405	New Zealand Exclusive Economic Zone	Text		
+414404	New Zealand Exclusive Economic Zone	Text		
+414423	New Zealand Exclusive Economic Zone	Text		
+414429	New Zealand Exclusive Economic Zone	Text		
+109170	New Zealand Exclusive Economic Zone	Text		
+414428	New Zealand Exclusive Economic Zone	Text		
+414396	New Zealand Exclusive Economic Zone	Text		
+414462	New Zealand Exclusive Economic Zone	Text		
+414464	New Zealand Exclusive Economic Zone	Text		
+414388	New Zealand Exclusive Economic Zone	Text		
+414387	New Zealand Exclusive Economic Zone	Text		
+109244	New Zealand Exclusive Economic Zone	Text		
+414422	New Zealand Exclusive Economic Zone	Text		
+108795	New Zealand Exclusive Economic Zone	Text		
+108792	New Zealand Exclusive Economic Zone	Text		
+109328	New Zealand Exclusive Economic Zone	Text		
+414408	New Zealand Exclusive Economic Zone	Text		
+414427	New Zealand Exclusive Economic Zone	Text		
+109332	New Zealand Exclusive Economic Zone	Text		
+109267	New Zealand Exclusive Economic Zone	Text		
+414407	New Zealand Exclusive Economic Zone	Text		
+109331	New Zealand Exclusive Economic Zone	Text		
+414406	New Zealand Exclusive Economic Zone	Text		
+109357	New Zealand Exclusive Economic Zone	Text		
+108798	New Zealand Exclusive Economic Zone	Text		
+109202	New Zealand Exclusive Economic Zone	Text		
+414431	New Zealand Exclusive Economic Zone	Text		
+414410	New Zealand Exclusive Economic Zone	Text		
+414412	New Zealand Exclusive Economic Zone	Text		
+414411	New Zealand Exclusive Economic Zone	Text		
+109347	New Zealand Exclusive Economic Zone	Text		
+414413	New Zealand Exclusive Economic Zone	Text		
+414414	New Zealand Exclusive Economic Zone	Text		
+414433	New Zealand Exclusive Economic Zone	Text		
+414432	New Zealand Exclusive Economic Zone	Text		
+414434	New Zealand Exclusive Economic Zone	Text		
+109008	Gulf of Gdansk	Text		
+109147	Belgian Exclusive Economic Zone	Text		
+109033	Belgian Exclusive Economic Zone	Text		
+109116	Belgian Exclusive Economic Zone	Text		
+109116	Belgian Exclusive Economic Zone	Text		
+109051	Belgian Exclusive Economic Zone	Text		
+109264	Belgian Exclusive Economic Zone	Text		
+109184	Polish Exclusive Economic Zone	Text		
+109116	Polish Exclusive Economic Zone	Text		
+109155	Spanish Exclusive Economic Zone	Text		
+109048	Spanish Exclusive Economic Zone	Text		
+108788	Spanish Exclusive Economic Zone	Text		
+109184	Spanish Exclusive Economic Zone	Text		
+109181	Spanish Exclusive Economic Zone	Text		
+109264	Spanish Exclusive Economic Zone	Text		
+108961	Spanish Exclusive Economic Zone	Text		
+109051	Spanish Exclusive Economic Zone	Text		
+158640	Spanish Exclusive Economic Zone	Text		
+108858	Spanish Exclusive Economic Zone	Text		
+108801	Spanish Exclusive Economic Zone	Text		
+109364	Spanish Exclusive Economic Zone	Text		
+109342	Spanish Exclusive Economic Zone	Text		
+109344	Spanish Exclusive Economic Zone	Text		
+419195	Spanish Exclusive Economic Zone	Text		
+108798	Spanish Exclusive Economic Zone	Text		
+108792	Spanish Exclusive Economic Zone	Text		
+109079	Spanish Exclusive Economic Zone	Text		
+108831	Spanish Exclusive Economic Zone	Text		
+109013	Spanish Exclusive Economic Zone	Text		
+109019	Spanish Exclusive Economic Zone	Text		
+108840	Spanish Exclusive Economic Zone	Text		
+108907	Spanish Exclusive Economic Zone	Text		
+109092	Spanish Exclusive Economic Zone	Text		
+366400	Atlantic	Text		
+103984	Atlantic	Text		
+366407	Atlantic	Text		
+109050	Subantarctic Waters	Text		
+109264	Subantarctic Waters	Text		
+344850	Subantarctic Waters	Text		
+344853	Subantarctic Waters	Text		
+344854	Subantarctic Waters	Text		
+344855	Subantarctic Waters	Text		
+109267	Subantarctic Waters	Text		
+109332	Subantarctic Waters	Text		
+109224	Subantarctic Waters	Text		
+344859	Subantarctic Waters	Text		
+344860	Subantarctic Waters	Text		
+344865	Subantarctic Waters	Text		
+344875	Subantarctic Waters	Text		
+344874	Subantarctic Waters	Text		
+344885	Subantarctic Waters	Text		
+108838	Subantarctic Waters	Text		
+344882	Subantarctic Waters	Text		
+344880	Subantarctic Waters	Text		
+109254	Subantarctic Waters	Text		
+344890	Subantarctic Waters	Text		
+366352	North Australia	Text		
+109253	Gulf of Maine	Text		
+158687	Gulf of Maine	Text		
+108908	Gulf of Maine	Text		
+109163	Gulf of Maine	Text		
+108929	Gulf of Maine	Text		
+108977	Gulf of Maine	Text		
+108981	Gulf of Maine	Text		
+109138	Gulf of Maine	Text		
+109137	Gulf of Maine	Text		
+109364	Gulf of Maine	Text		
+109335	Gulf of Maine	Text		
+109264	Gulf of Maine	Text		
+109051	Gulf of Maine	Text		
+366379	North America	Text		
+366381	North America	Text		
+366384	North America	Text		
+366383	North America	Text		
+366377	North America	Text		
+366376	North America	Text		
+366394	North America	Text		
+366404	North America	Text		
+366389	East Europe	Text		
+366391	East Asia	Text		
+366398	East Asia	Text		
+366380	East Asia	Text		
+366405	East Asia	Text		
+366401	East Asia	Text		
+366354	East Asia	Text		
+366402	South East Asia	Text		
+366350	South East Asia	Text		
+366347	South East Asia	Text		
+366390	South East Asia	Text		
+366387	South East Asia	Text		
+366386	South East Asia	Text		
+366372	South East Asia	Text		
+366371	South East Asia	Text		
+366370	South East Asia	Text		
+366369	South East Asia	Text		
+366368	South East Asia	Text		
+366367	South East Asia	Text		
+366393	South Asia	Text		
+366392	South Asia	Text		
+366356	Eastern South Pacific	Text		
+366359	Eastern South Pacific	Text		
+366364	Eastern South Pacific	Text		
+366363	North Indian Ocean	Text		
+366406	West Central Atlantic	Text		
+366341	Western South Atlantic	Text		
+366360	Western South Pacific	Text		
+366388	North East Africa	Text		
+366389	West Asia	Text		
+103983	Mediterranean Sea	Text		
+747393	Mediterranean Sea	Text		
+109113	North Sea	Text	Alien	
+109113	Black Sea	Text	Alien	
+109357	Italian part of the Ionian Sea	Text	Alien	
+727306	Italian part of the Tyrrhenian Sea	Text	Alien	
+109113	Swedish part of the Kattegat	Text	Alien	
+109113	Swedish part of the Skagerrak	Text	Alien	
+109113	Swedish part of the Skagerrak	Text	Alien	
+726872	Israeli part of the Mediterranean Sea - Eastern Basin	Text	Alien	
+727036	Israeli part of the Mediterranean Sea - Eastern Basin	Text	Origin uncertain	

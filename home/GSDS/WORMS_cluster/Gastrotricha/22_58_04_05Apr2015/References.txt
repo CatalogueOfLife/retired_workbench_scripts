@@ -1,0 +1,87 @@
+ReferenceID	Authors	Year	Title	Details	
+42			ITIS database		
+663	Howson, C.M.; Picton, B.E. (Ed.)	1997	The species directory of the marine fauna and flora of the British Isles and surrounding seas. <i>Ulster Museum Publication</i>, 276. The Ulster Museum: Belfast, UK. ISBN 0-948150-06-8. vi, 508 (+ cd-rom) pp.		
+1318			UNESCO-IOC Register of Marine Organisms		
+1354	d'Hondt, J.-L.; van der Land, J.	2001	Gastrotricha, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+9269	Muller, Y.	2004	Faune et flore du littoral du Nord, du Pas-de-Calais et de la Belgique: inventaire. [Coastal fauna and flora of the Nord, Pas-de-Calais and Belgium: inventory]. Commission Régionale de Biologie Région Nord Pas-de-Calais: France. 307 pp.		
+43068			Hummon, William		
+43069			d'Hondt, Jean-Loup		
+43070	Todaro, M. A.; Balsamo, M.; Tongiorgi, P.	1992	Marine Gastrotrichs from the Tuscan Archipelago (Tyrrhenian Sea): 1. Macrodayida, with description of three new species. Bollettino di zoologia		
+43071	Hummon, W. D.; Balsamo, M.; Todaro, M. A.	1992	Italian marine Gastrotricha: 1. Six new and one redescribed species of Chaetonotida. Bollettino di zoologia		
+43072	Ruppert, E. E.	1979	Morphology and systematics of the Xenotrichulidae (Gastrotricha, Chaetonotida		
+43073	Hummon,W.D.	2007	Gastrotricha. Light and Smith Manual: Intertidal Invertebrates from Central California to Oregon (ed. by J.T.Carlton),		
+43074	Clausen, C.	2004	Gastrotricha from the Faroe Bank. Sarsia 89(6): 423-458.		
+43075	Schrom, H.	1972	Nordadriatische Gastrotrichen		
+43079	Hummon, W. D.	1974	Some taxonomic revisions and nomenchatural notes concerning marine and  brackish-water Gastrotricha		
+43080	Jouk, P.E.H., W.D. Hummon, M.R. Hummon & E. Roidou.	1992	Marine  Gastrotricha from the Belgian  coast: Species list and distribution. Bulletin de l'Institut Royal des Sciences Naturelles de Belgique, Biologie, 62: 87-90. 		
+43081	Rao, G. C.; Clausen, C.	1970	Planodasys marginalis gen. et sp. nov. and Planodasyidae fam		
+43082	Schmidt, P.; Teuchert, G.	1968	Quantitative Untersuchung zur Ökologie der Gastrotrichen im Gezeiten- Sandstrand der Insel Sylt		
+125740			Checklist of Gastrotricha by Antonio Todaro		
+127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
+128250	Chang, Kubota & Shirayama.	2002	New marine gastrotrichs of the family Thaumastodermatidae (Gastrotricha: Macrodasyida) from Shirahama, Japan. Proceedings of the Biological Society of Washington 115 (4): 769-781		
+128621	Hochberg.	2003	Two new species of  Dactylopodola (Gastrotricha, Macrodasyida) from islands off Queensland coast, Australia. Meiofauna Marina 12 : 37-45		
+131244	Todaro.	2002	An interesting new gastrotrich from littoral meiobenthos (Long Beach Island, USA), with a key to species of Tetranchyroderma (Gastrotricha: Macrodasyida). Journal of the Marine Biological Association of the United Kingdom 82 (4): 555-563		
+141226	Hochberg, R.	2009	Gastrotricha of the Gulf of Mexico,		
+163037	Kisielewski, J.	1988	New records of marine Gastrotricha from the French coasts of Manche and Atlantic. 2. Chaetonotida, with descriptions of four new species Cah. Biol. Mar. 29(2): 187-213  In: Cahiers de Biologie Marine. Station Biologique de Roscoff: Roscoff. ISSN 0007-9723		
+163110	Remane A Süsswassergastrotrichen Zool Jahrb Abt Syst	1927	Beiträge zur Systematik der		
+163111	Remane, A.	1927	Xenotrichula velox no. gen., nov. spec., ein chaetonotoides Gastrotrich mit männlichen Geschlechtsorganen (6. Beitrag zur Fauna der		
+163112	Wilke, U.	1954	Mediterrane Gastrotrichen. Zool. Jb. Syst. 82: 497-550, 29 figs.		
+163113	Swedmark, B.	1954	Description de Paraturbanella teissieri, n. sp. (Gastrotriche Macrodasyoide). Bull. Soc. Zool. Fr. 79: 46-49, 2 figs.		
+163114	Gerlach, S. A.	1953	Gastrotrichen aus dem Küstengrundwasser des Mittelmeeres		
+163115	Remane, A.	1951	Mesodasys, ein neues Genus der Gastrotricha Macrodasyoidea aus der Kieler Bucht		
+163116	Remane, A.	1926	Morphologie und verwandtschaftsbeziehungen der aberranten gastrotrichen I		
+163122	Mock, H.	1979	Chaetonotoidea (Gastrotricha) der Nordseeinsel Sylt. Mikrofauna Meeresbodens No. 78: 1-107, illustr.		
+163123	Gagne, G. D.	1977	Dolichodasys elongatus n.g., n. sp., a new macrodasyid gastrotich from New England		
+163124			Clausen, C. Tetranchyroderma tribolosum sp. n., a marine gastrotrich with triancres. Sarsia 20: 9-13, 4 figs.		
+164930	Lee, J.; Chang, C. Y.	2011	Two new species of the genus Lepidodasys (Gastrotricha, Lepidodasyidae) from Tsushima Island, Japan		
+164931	Todaro M	2012	A new marine gastrotrich from the State of São Paulo (Brazil), with a key to species of Pseudostomella (Gastrotricha, Thaumastodermatidae). ZooKeys 223 : 39–51		
+164932	Hummon, W. D. 2.	2003	Gastrotricha of the Near East: 1. Fourteen new species of Macrodasyida and a redescription of Dactylopodola agadasys Hochberg		
+164935	Hummon, W. D.; Kelly, J. L.	2011	Turbanella amphiatlantica, a new species of Gastrotricha (Macrodasyida) from eastern North America and northwest		
+164936	Lee, J. & Chang, C. Y.	2012	Three new gastrotrich species of the genus Tetranchyroderma (Macrodasyida: Thaumastodermatidae) from Korea. Zootaxa 3368: 245–255		
+164937	Hochberg, R.; Atherton, S.	2012	Acanthodasys paurocactus sp. n., a new species of Thaumastodermatidae (Gastrotricha, Macrodasyida) with multiple scale types from Capron Shoal, Florida		
+164938	Hochberg, R.; Atherton, S.	2011	A new species of Lepidodasys (Gastrotricha, Macrodasyida) from Panama with a description of its peptidergic nervous system using CLSM, anti-FMRFamide and anti-SCPB		
+164939	Todaro, M. A.; Matteo, D. Z.; Sarah, J. B.; Renzo, P.	2011	First records of Gastrotricha from South Africa, with description of a new species		
+164940	Lee J. & Chang, C. Y.	2012	Crasiella clauseni, a New Gastrotrich Species (Macrodasyida, Planodasyidae) from Jeju Island, South Korea. Anim. Syst. Evol. Divers. Vol. 28, No. 1: 42-47		
+164941	Kieneke, A.	2010	A new species of Thaumastoderma (Gastrotricha: Macrodasyida) from the Antarctic deep sea with a phylogenetic analysis of the whole genus		
+164942	Chang, C.C.Y.; Lee, J.M.; Clausen, C.	1998	Two new species of Thaumastoderma (Gastrotricha, Macrodasyida) from Korea Sarsia 83: 329-336		
+164943	Hummon, W. D. & Todaro M. A.	2009	Italian marine Gastrotricha: VI. Seven new species of Macrodasyida. Zootaxa 2278: 47–68		
+164944	Hummon, W. D.	2010	Marine Gastrotricha of the Caribbean Sea: a review and new descriptions		
+164945	Hochberg R.	2010	Two new species of Oregodasys (Gastrotricha: Macrodasyida: Thaumastodermatidae) from Carrie Bow Cay, Belize with ultrastructural observations of the epidermal glandular system. Zootaxa 2660: 1–17		
+164946	Todaro, M. A.; Zotto, D.; Maiorova, M.; ; Adrianov, A. V.	2009	A new species of Aspidiophorus (Gastrotricha, Chaetonotida) from the Russian Far East with a key to marine species of the genus		
+164976	Hummon, W.D. & Todaro, M.A.	2010	Analytic taxonomy and notes on marine, brackish-water and estuarine Gastrotricha. Zootaxa 2392: 1–32		
+165074	Hummon, W. D.	2008	Brackish-Water Gastrotricha of the Polish Baltic Coast		
+168512	Atherton, S.; Hochberg, R.	2012	Tetranchyroderma bronchostylus sp. nov., the first known gastrotrich (Gastrotricha) with a sclerotic canal in the caudal organ. Mar. Biol. Res. 8(9): 885-892.		
+170650	Dalotto, Z.; Ghiviriga, M.; Todaro, S.; A, M.	2010	A new Tetranchyroderma (Gastrotricha, Thaumastodermatidae) with triancres from the Mediterranean Sea		
+170704	Hochberg, R.; Atherton, S.	2010	Acanthodasys caribbeanensis sp. n., a new species of Thaumastodermatidae (Gastrotricha		
+170709	Hummonsland, W. D. I.; Washington, USA.	2010	Marine Gastrotricha of San Juan with notes on some species from		
+170906	Rothe, B. H.; Schmidt-Rhaesa, A.	2010	Oregodasys cirratus, a new species of Gastrotricha (Macrodasyida) from Tenerife (Canary Islands), with a description of the muscular and nervous system		
+171116	Kånneby, T.	2011	New species and new records of freshwater Chaetonotida (Gastrotricha) from Sweden		
+171277	Suzuki, T. G.; Furuya, H.	2011	Two new species of Chaetonotus (Gastrotricha, Chaetonotida, Chaetonotidae) from Japan		
+171326	Kånneby, T.; Todaro, M. A.; Jondelius, U.	2012	A phylogenetic approach to species delimitation in freshwater Gastrotricha from Sweden		
+171332	Hochberg, R.	2013	Crasiella fonseci, a new species of Gastrotricha (Macrodasyida, Planodasyidae) from São Paulo, Brazil		
+171333	Hochberg, R.; Atherton, S.; Gross, V.	2013	A new species of sublittoral marine gastrotrich, Lepidodasys ligni sp. n		
+171335	Kånneby, T.	2013	New species and records of freshwater Chaetonotus (Gastrotricha: Chaetonotidae) from Sweden		
+171336	Kieneke, A.; Narkus, S.; Hochberg, R.; Schmidt-Rhaesa, A.	2013	Diplodasys rothei n. sp. (Gastrotricha, Macrodasyida), a new marine gastrotrich species from the Bahamas		
+171337	Kolicka, M.; Kisielewski, J.; Nesteruk, T.; Zawierucha, K.	2013	Gastrotricha from the Poznań Palm House — one new subgenus and three new species of freshwater Chaetonotida (Gastrotricha		
+171340	Lee, J.; Kim, D.; Chang, C. Y.	2013	Description of three new Tetranchyroderma gastrotrichs (Macrodasyida: Thaumastodermatidae) from South Korea		
+171352	Suzuki, T. G.; Maeda, M.; Furuya, H.	2013	Two new Japanese species of Gastrotricha (Chaetonotida, Chaetonotidae, Lepidodermella and Dichaeturidae, Dichaetura), with comments on the diversity of Gastrotrichs in rice paddies		
+171354	Todaro, M. A.; Leasi, F.	2013	A new eye-bearing Macrodasys (Gastrotricha: Macrodasyida) from Jamaica		
+171355	Todaro, M. A.	2013	A new non-naked species of Ptychostomella (Gastrotricha) from Brazil		
+171356	Todaro, M. A.; Perissinotto, R.; Bownes, S. J.	2013	Neogosseidae (Gastrotricha, Chaetonotida) from the iSimangaliso Wetland		
+171587	Grilli, P.; Kristensen, R. M.; Balsamo, M.	2009	Heterolepidoderma caudosquamatum (Gastrotricha: Chaetonotida), a new species from brackish waters of Denmark		
+171611	Hummon, W.D.; Guadiz, C.J.	2009	A new species of marine Gastrotricha from Maine, USA: Tetranchyroderma mainensis (Macrodasyida, Thaumastodermatidae). Mar. Biol. Res. 5(4): 385-390.		
+172685	Brunson, R. B.	1950	An introduction to the taxonomy of the Gastrotricha with a study of eighteen species from Michigan		
+172686	Kisielewski, J.	1981	Gastrotricha from raised and transitional peat bogs in Poland. Monografie Faunistyczne (formerly Monografie Fauny		
+172687	Hochberg, R.	2002	Two new species of Turbanellidae (Gastrotricha: Macrodasyida) from a high‐energy beach on North Stradbroke		
+172834	Weiss, M. J.	1988	Stabilization in the Name of the Freshwater Gastrotrich Lepidodermella squamata, with Nomenclatural Corrections for Congeneric Species		
+173049	Hochberg, R.	2008	Ultrastructure of feathered triancres in the Thaumastodermatidae and the description of a new species of Tetranchyroderma (Gastrotricha: Macrodasyida) from Australia		
+176697	Atherton, S.	2014	Urodasys poculostylis sp. nov., a new stylet-bearing gastrotrich (Macrodasyida) from Capron Shoal		
+176701	Hochberg, R.; Atherton, S.; Kieneke, A.	2014	Marine Gastrotricha of Little Cayman Island with the description of one new species and an initial assessment of meiofaunal diversity		
+177484	Hummon, W. D.	2008	Gastrotricha of the North Atlantic Ocean: 1. Twenty four new and two redescribed species of Macrodasyida		
+191660	Todaro, M. A.; Leasi, F.; Hochberg, R	2014	A new species, genus and family of marine Gastrotricha from Jamaica, with a phylogenetic analysis of Macrodasyida based on molecular data		
+191661	Aydin, G.; Kieneke, A.; Hochberg; R.; Schmidt-Rhaesa, A.	2014	Two new species of the genus <i>Dactylopodola</i> (Gastrotricha: Macrodasyida) from the Bahamas, with an updated key to the genus		
+193032	Kånneby, T.; Atherton, S.; Hochberg, R.	2014	Two new species of Musellifer (Gastrotricha: Chaetonotida) from Florida and Tobago and the systematic placement of the genus within Paucitubulatina		
+193033	Lee, J.; Chang, C. Y.	2014	A new gastrotrich species of the genus Tetranchyroderma (Macrodasyida: Thaumastodermatidae) from Korea		
+193034	Lee, J.; Chang, C. Y.; Kim, D.	2014	Dendrodasys duplus, a New Gastrotrich Species (Macrodasyida: Dactylopodolidae) from South Korea		
+193227	Araujo, T. Q.; Balsamo, M.; Garraffoni, A. R. S.	2013	A new species of Pseudostomodella (Gastrotricha, Thaumastodermatidae) from Brazil		
+195560	Todaro M. T.; Perissinotto, R. & Bownes, S. J.	2015	Two new marine Gastrotricha from the Indian Ocean coast of South Africa		

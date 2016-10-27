@@ -1,0 +1,370 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+176073	137478	Nais		diaphana	Gruithuisen, 1828				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176073	
+176074	157589	Nais		diastropha	Gruithuisen, 1828				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176074	
+177184	137410	Neoenchytraeus		callosus	Eisen, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177184	
+175914	154879	Enchytraeus		perrieri	Vejdovský, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175914	
+175915	154880	Enchytraeus		ratzeli	Eisen, 1872				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175915	
+175918	154892	Enchytraeus		striatus	Levinsen, 1884				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175918	
+476194	137476	Pontodrilus		albanyensis	Michaelsen, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476194	
+476195	137476	Pontodrilus		albanyensis		var. cygni	Variety	Jackson, 1931	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476195	
+476196	137476	Pontodrilus		ephippiger		var. laysanianus	Variety	Michaelsen, 1899	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476196	
+476198	137476	Lumbricus		litoralis	Grube, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476198	
+476364	137476	Pontodrilus		agnesae	Stephenson, 1915				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476364	
+476365	137476	Pontodrilus		arenae	Michaelsen, 1892				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476365	
+476366	137476	Pontodrilus		bermudensis	Beddard, 1891				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476366	
+476367	137476	Pontodrilus		crosslandi	Beddard, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476367	
+476368	137476	Pontodrilus		gracilis	Gates, 1943				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476368	
+476169	137476	Pontodrilus		matsushimensis	Iizuka, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476169	
+476170	137476	Pontodrilus		matsushimensis		indicus	Subspecies	Michaelsen, 1935	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476170	
+476191	137476	Pontodrilus		matsushimensis		var. chathamianus	Variety	Michaelsen, 1899	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476191	
+476192	137476	Pontodrilus		michaelseni	Eisen, 1895				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476192	
+476193	137476	Pontodrilus		michaelseni		var. hortensis	Variety	Eisen, 1900	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476193	
+476369	137476	Pontodrilus		hesperidium	Beddard, 1894				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476369	
+476370	137476	Pontodrilus		insularis	(Rosa, 1891)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476370	
+476371	137476	Pontodrilus		laccadivensis	Beddard, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476371	
+476372	137476	Pontodrilus		marionis	Perrier, 1874				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476372	
+476350	475594	Phallodrilus		rostratus	Erséus, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476350	
+476389	475595	Uniporodrilus		vestigium	Davis, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476389	
+177195	137420	Archienchytraeus		nasutus	Eisen, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177195	
+175935	137420	Enchytraeus		nasutus	(Eisen, 1878)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175935	
+175939	137422	Enchytraeus		ventriculosus	Udekem, 1854				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175939	
+176236	137516	Phallodrilus		vulnus	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176236	
+176296	137536	Phallodrilus		bakeri	Kossmagk-Stephan & Erséus, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176296	
+177227	137421	Henleanella		perpusilla	(Friend, 1911)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177227	
+177230	137422	Archienchytraeus		ventriculosus	(Udekem, 1854)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177230	
+476206	475626	Clitellio		abjornseni	Michaelsen, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476206	
+476215	475946	Discordiprostatus		longisetosus	Brinkhurst & Baker, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476215	
+476282	475942	Monopylephorus		frigidus	Brinkhurst, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476282	
+476316	475930	Phallodrilus		compactus	Erséus, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476316	
+476351	475931	Phallodrilus		sabulosus	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476351	
+176235	137515	Phallodrilus		styloatriatus	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176235	
+176234	137513	Phallodrilus		biparis	Erséus, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176234	
+476307	476008	Phallodrilus		aquilinus	Erséus & Davis, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476307	
+476318	476009	Phallodrilus		darwelli	Erséus, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476318	
+476360	476010	Phallodrilus		vanus	Erséus, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476360	
+254320	416513	Enchytraeoides		glandulosus	(Michaelsen, 1988)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:254320	
+476158	137548	Clitellio		arenicolus	(Pierantoni, 1902)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476158	
+176322	137549	Clitellio		subtilis	Pierantoni, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176322	
+476233	475737	Giereidrilus		ersei	(Giere, 1979)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476233	
+476234	475740	Giereidrilus		inermis	Erséus, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476234	
+137488	147000	Limnodriloideds		scandinavicus	Erséus, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:137488	
+156216	147000	Limnodrilus		scandinavicus	Erséus, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156216	
+177279	137492	Bohadschia		maslinicensis	Hrabĕ, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177279	
+177282	137494	Bohadschia		pierantonii	Hrabĕ, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177282	
+395105	137493	Limnodrilus		monothecus	(Cook, 1974)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:395105	
+476159	475755	Clitellio		arenicolus		queenslandicus	Subspecies	Jamieson, 1977	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476159	
+476204	137493	Bohadschia		monotheca	Hrabe, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476204	
+476236	475754	Heterodriloides		quadrithecatus	Erséus, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476236	
+476239	137494	Limnodriloides		fragosus	Finogenova, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476239	
+476324	475740	Phallodrilus		ersei	Giere, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476324	
+176215	137496	Limnodriloides		gurwitschi	Hrabĕ, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176215	
+176310	137545	Phallodrilus		firmus	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176310	
+176312	137546	Phallodrilus		klarae	Erséus, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176312	
+176321	137547	Rhyacodrilus		prostatus	Knöllner, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176321	
+476209	476110	Curacaodrilus		belli	(Cook, 1974)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476209	
+476210	137496	Curacaodrilus		gurwitschi	(Hrabe, 1971)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476210	
+476211	476115	Curacaodrilus		pectinatus	(Pierantoni, 1904)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476211	
+476212	476116	Curacaodrilus		roseus	(Pierantoni, 1904)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476212	
+476213	137496	Curacaodrilus		sinus	Righi & Kanner, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476213	
+476237	476113	Kaketio		ineri	Righi & Kanner, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476237	
+476240	476115	Limnodriloides		pectinatus	Pierantoni, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476240	
+476242	137547	Limnodriloides		prostatus	(Knöllner, 1935)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476242	
+476243	476116	Limnodriloides		roseus	Pierantoni, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476243	
+476246	475838	Limnodrilus		helveticus	Piguet, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476246	
+476347	137547	Phallodrilus		prostatus	(Knöllner, 1935)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476347	
+476381	476110	Thalassodrilus		belli	Cook, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476381	
+177297	137522	Macroseta		rarisetis	Erséus, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177297	
+176244	137527	Phallodrilus		cristolatus	Erséus, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176244	
+176247	137528	Phallodrilus		densepectinis	Erséus, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176247	
+176248	137529	Phallodrilus		monnioti	Erséus, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176248	
+137455	416521	Lumbricillus		westheidei	Kossmagk-Stephan, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:137455	
+176298	137537	Phallodrilus		duplex	Erséus, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176298	
+176324	137552	Tubifex		litoralis	Erséus, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176324	
+177443	468864	Pachydrilus		beumeri	Michaelsen, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177443	
+476205	475623	Christensenia		georgiana	Dózsa-Farkas & Convey, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476205	
+476306	476015	Phallodrilus		ampullarius	Erséus & Davis, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476306	
+476320	476016	Phallodrilus		deminutius	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476320	
+476330	476019	Phallodrilus		granifer	Erséus, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476330	
+476338	370540	Phallodrilus		marionensis	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476338	
+477038	476020	Phallodrilus		heronensis	Erséus, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:477038	
+176301	137538	Phallodrilus		rectisetosus	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176301	
+476251	476058	Lumbricillus		codensis	Lasserre, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476251	
+476339	476022	Phallodrilus		molestus	Erséus, 1988				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476339	
+476341	476023	Phallodrilus		multiplex	Erséus, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476341	
+476343	476024	Phallodrilus		nervosus	Erséus, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476343	
+476349	475616	Phallodrilus		rohdei	Jamieson, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476349	
+476357	476025	Phallodrilus		tempestatis	Baker, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476357	
+476359	476026	Phallodrilus		timmi	Finogenova, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476359	
+176240	137517	Phallodrilus		adriaticus	Hrabĕ, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176240	
+137554	743898	Heterochaeta		costata	Claparède, 1863				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:137554	
+177303	743898	Psammoryctes		costatus	(Claparède, 1863)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177303	
+154887	743898	Tubifex		costatus	(Claparède, 1863)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154887	
+476387	743898	Tubifex		thompsoni	Southern, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476387	
+176344	137553	Lumbricus		arenarius	Müller, 1776				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176344	
+176378	137557	Clitellio		dniprobugensis	(Jaroschenko, 1948)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176378	
+177305	137557	Ilyodrilus		caspicus	Lastočkin, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177305	
+177307	137557	Euilyodrilus		caspicus	(Lastočkin, 1937)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177307	
+177313	137559	Ilyodrilus		bavaricus	(Oschmann, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177313	
+177315	137559	Euilyodrilus		moldaviensis	(Oschmann, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177315	
+177318	137560	Ilyodrilus		danubialis	Hrabĕ, 1941				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177318	
+177320	137560	Euilyodrilus		danubialis	(Hrabĕ, 1941)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177320	
+177324	137561	Ilyodrilus		hammoniensis	Michaelsen, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177324	
+177326	137561	Euilyodrilus		hammoniensis	(Michaelsen, 1901)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177326	
+177332	137562	Euilyodrilus		heuscheri	(Bretscher, 1900)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177332	
+176377	137557	Limnodriloides		dniprobugensis	Jaroschenko, 1948				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176377	
+176380	137557	Potamothrix		dniprobugensis	(Jaroschenko, 1948)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176380	
+176388	137559	Tubifex		bavaricus	Oschmann, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176388	
+176398	137561	Tubifex		hammoniensis	(Michaelsen, 1901)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176398	
+176402	137562	Tubifex		heuscheri	Bretscher, 1900				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176402	
+177284	137498	Adelodriloides		borceai	Hrabĕ, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177284	
+177288	137500	Adelodriloides		kiselevi	Finogenova, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177288	
+176226	137500	Heterodrilus		kiselevi	Finogenova, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176226	
+476200	475557	Adelodriloides		voraginus	Cook, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476200	
+176406	137563	Tubifex		moldaviensis	(Vejdovský & Mrázek, 1903)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176406	
+177302	137553	Peloryctes		arenarius	(Müller, 1776)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177302	
+177310	137557	Isochaeta		dniprobugensis	(Jaroschenko, 1948)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177310	
+177330	137562	Ilyodrilus		heuscheri	(Bretscher, 1900)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177330	
+177334	137563	Ilyodrilus		moldaviensis	(Vejdovský & Mrázek, 1903)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177334	
+177337	137563	Euilyodrilus		bavaricus	(Vejdovský & Mrázek, 1903)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177337	
+177339	137564	Ilyodrilus		mrazeki	Hrabĕ, 1941				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177339	
+177341	137564	Euilyodrilus		mrazeki	(Hrabĕ, 1941)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177341	
+177344	137565	Ilyodrilus		vejdovskyi	Hrabĕ, 1941				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177344	
+177347	137565	Euilyodrilus		vejdovskyi	(Hrabĕ, 1941)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177347	
+476300	137553	Peloscolex		canadensis	Brinkhurst, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476300	
+476385	137553	Tubifex		hyalinus	Udekem, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476385	
+476201	137402	Archienchytraeus		albimaris	Obnorski, 1895				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476201	
+476218	475668	Enchytraeus		alaskae	Eisen, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476218	
+476222	475668	Enchytraeus		citrinus	Eisen, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476222	
+476225	475668	Enchytraeus		cryptosetosus	Tynen, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476225	
+137406	475668	Enchytraeus		liefdeensis	Stephenson, 1924				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:137406	
+137408	137405	Enchytraeus		minutus	(Nielsen & Christensen, 1961)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:137408	
+476228	475668	Enchytraeus		modestus	Eisen, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476228	
+476231	475668	Enchytraeus		saxicola	Eisen, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476231	
+476321	476057	Phallodrilus		distinctus	Erséus & Davis, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476321	
+476325	476043	Phallodrilus		exiguus	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476325	
+476335	476044	Phallodrilus		lobatus	Erséus, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476335	
+476337	476046	Phallodrilus		macmasterae	Erséus, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476337	
+476355	476047	Phallodrilus		singularis	Erséus, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476355	
+476304	475950	Phallodrilus		albidus	Jamieson, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476304	
+476311	475957	Phallodrilus		caudatus	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476311	
+476313	475958	Phallodrilus		clavatus	Erséus, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476313	
+476315	475959	Phallodrilus		comorensis	Erséus, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476315	
+476327	475964	Phallodrilus		filithecatus	Erséus, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476327	
+476174	476102	Peloscolex		gabriellae	Marcus, 1950				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476174	
+476238	476099	Limnodriloides		bori	Righi & Kanner, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476238	
+476241	476104	Limnodriloides		pictoni	Erséus, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476241	
+476245	476108	Limnodriloides		verrucosus	Cook, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476245	
+476329	475969	Phallodrilus		geniculatus	Erséus, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476329	
+476336	475978	Phallodrilus		longissimus	Giere, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476336	
+476346	475990	Phallodrilus		planus	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476346	
+476358	476002	Phallodrilus		tenuissimus	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476358	
+476382	476097	Tubifex		acapillatus	Finogenova, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476382	
+476388	476102	Tubificoides		gabriellae	(Marcus, 1950)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476388	
+476219	475888	Enchytraeus		antipodum	Benham, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476219	
+476220	475889	Enchytraeus		aporus	Stephenson, 1925				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476220	
+176020	137459	Enchytraeus		argenteus	Michaelsen, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176020	
+476394	475724	Macquaridriloides		heronae	Erséus & Jamieson, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476394	
+177257	137457	Michaelsena		achaeta	Hagen, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177257	
+176026	137470	Enchytraeus		lobatus	Southern, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176026	
+176027	137471	Enchytraeus		spiculus	Leuckart, 1847				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176027	
+176429	137567	Limnodrilus		lastoschkini	Jaroschenko, 1948				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176429	
+177262	137461	Michaelsena		glandulifera	Jansson, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177262	
+177350	137566	Ilyodrilus		raduli	Jaroschenko, 1948				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177350	
+476223	475893	Enchytraeus		cliarensis	Southern, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476223	
+476229	137470	Enchytraeus		nodosus	Stephenson, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476229	
+476273	370533	Marionia		georgiana	(Michaelsen, 1888)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476273	
+476276	137470	Marionina		lobata	(Southern, 1909)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476276	
+476333	370538	Phallodrilus		inconspicuus	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476333	
+176022	137470	Pachydrilus		southerni	Černosvitov, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176022	
+176424	137566	Tubifex		deserticola	Grimm, 1877				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176424	
+177267	137473	Michaelsena		subterranea	Knöllner, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177267	
+177276	157600	Bohemilla		comata	Vejdovský, 1884				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177276	
+177348	137566	Psammoryctes		deserticola	(Grimm, 1877)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177348	
+177351	137567	Psammoryctes		lastoschkini	(Jaroschenko, 1948)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177351	
+476172	137567	Psammoryctides		deserticola		lastockini	Subspecies	(Jarošenko, 1948)	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476172	
+476186	370533	Pachydrilus		georgianus	Michaelsen, 1888				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476186	
+476188	476028	Phallodrilus		acochlearis	Erséus & Loden, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476188	
+476277	137470	Marionina		nodosa	(Stephenson, 1911)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476277	
+476281	475915	Michaelsena		subtilis	Ude, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476281	
+476309	476031	Phallodrilus		boeschi	Erséus, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476309	
+476310	476032	Phallodrilus		caviatriatus	Erséus, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476310	
+476314	476033	Phallodrilus		coeloprostatus	Cook, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476314	
+476322	476035	Phallodrilus		dorsospermatheca	Davis, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476322	
+476328	476036	Phallodrilus		flabellifer	Erséus, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476328	
+476332	476037	Phallodrilus		hirsutus	Erséus, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476332	
+476344	476039	Phallodrilus		obscurus	Cook, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476344	
+476354	476041	Phallodrilus		simplidentatus	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476354	
+476362	476042	Phallodrilus		vicinus	Erséus, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476362	
+176518	176517	Tubifex		barbatus	(Grube, 1861)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176518	
+177289	137502	Bacescuella		arctica	Erséus, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177289	
+177290	137506	Bacescuella		mediterranea	Erséus, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177290	
+177293	137508	Bacescuella		parvithecata	Erséus, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177293	
+177296	137509	Bacescuella		pontica	Hrabĕ, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177296	
+176084	157595	Stylaria		parasita	Schmidt, 1847				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176084	
+176251	137531	Phallodrilus		georgei	Erséus, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176251	
+476203	475575	Bacescuella		labeosa	Baker & Erséus, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476203	
+476221	476093	Enchytraeus		barkudensis	Stephenson, 1915				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476221	
+476326	475771	Phallodrilus		extremus	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476326	
+476334	475776	Phallodrilus		leukodermatus	Giere, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476334	
+476340	137507	Phallodrilus		monospermathecus	Knöllner, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476340	
+476363	475591	Phallodrilus		wellsi	Erséus, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476363	
+476390	476155	Vadicola		aprostatus	Baker, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476390	
+716573	137508	Bathydrilus		parvitheca	(Erséus, 1978)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:716573	
+476227	476093	Enchytraeus		marinus	Moore, 1902				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476227	
+476260	476094	Lumbricillus		sterreri	Lasserre & Erséus, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476260	
+476379	475561	Rhyacodrilus		lutulentus	Erséus, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476379	
+175841	137399	Enchytraeoides		immotus	Knöllner, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175841	
+254317	137424	Enchytraeoides		arenarius	(Michaelsen, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:254317	
+175940	137424	Enchytraeus		arenarius	Michaelsen, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175940	
+175942	137430	Enchytraeus		dubius	Stephenson, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175942	
+476230	475842	Enchytraeus		pugetensis	Altman, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476230	
+175970	137438	Clitellio		lineatus	(Müller, 1774)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175970	
+176356	137555	Limnodrilus		michaelseni	Lastočkin, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176356	
+177304	137555	Isochaeta		michaelseni	(Lastočkin, 1937)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177304	
+476224	370529	Enchytraeus		colpites	Stephenson, 1932				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476224	
+476226	475850	Enchytraeus		eltoni	Stephenson, 1924				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476226	
+476247	475789	Limnodrilus		suspectus	Sokolskaya, 1964				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476247	
+476261	475842	Lumbricillus		vancouverensis	Tynen, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476261	
+476274	370528	Marionina		aestuum	Stephenson, 1932				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476274	
+476284	475840	Pachydrilus		americanus	Ude, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476284	
+476384	475788	Tubifex		hamatus	Moore, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476384	
+175952	137431	Pachydrilus		enteromorphae	Bülow, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175952	
+175957	137433	Pachydrilus		helgolandicus	Michaelsen, 1934				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175957	
+175968	137438	Lumbricus		lineatus	Müller, 1774				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175968	
+175971	137438	Pachydrilus		lineatus	(Müller, 1774)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175971	
+175972	137438	Tubifex		lineatus	(Müller, 1774)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175972	
+175980	137440	Lumbricus		minutus	Müller, 1776				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175980	
+175991	137441	Enchytraeus		muscicola	Stephenson, 1924				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175991	
+175995	137444	Enchytraeus		pagenstecheri	Ratzel, 1869				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175995	
+177238	137438	Saenuris		lineatus	(Müller, 1774)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177238	
+177241	137445	Archienchytraeus		profugus	Eisen, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177241	
+177269	137485	Blanonais		litoralis	(Müller, 1784)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177269	
+476202	475866	Archienchytraeus		nervosus	Eisen, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476202	
+476249	137444	Lumbricillus		aegialites	Stephenson, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476249	
+476250	137438	Lumbricillus		agilis	Moore, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476250	
+476256	414043	Lumbricillus		macquariensis	Benham, 1915				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476256	
+476285	137438	Pachydrilus		claparedeanus	Ditlevsen, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476285	
+476286	475846	Pachydrilus		crassus	Claparède, 1861				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476286	
+476287	475848	Pachydrilus		ebudensis	Claparède, 1861				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476287	
+476289	475852	Pachydrilus		fossarum	Tauber, 1879				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476289	
+476297	137438	Pachydrilus		verrucosus	Claparède, 1861				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476297	
+175999	137444	Pachydrilus		pagenstecheri	(Ratzel, 1869)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175999	
+176004	137445	Pachydrilus		profugus	(Eisen, 1878)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176004	
+176005	137449	Pachydrilus		rivalis	Levinsen, 1884				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176005	
+176009	137452	Pachydrilus		semifuscus	Claparède, 1861				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176009	
+176012	137452	Marionina		semifusca	(Claparède, 1861)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176012	
+176081	137485	Nais		littoralis	Müller, 1780				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176081	
+176083	137485	Uncinais		litoralis	(Müller, 1784)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176083	
+176309	137544	Thalassodrilus		modricensis	Hrabĕ, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176309	
+177255	137452	Marionia		semifusca	(Claparède, 1861)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177255	
+177520	177538	Saenuris		variegata	Hoffmeister, 1842				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177520	
+177523	177538	Lumbricus		variegatus	Müller, 1774				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177523	
+476168	476013	Paranais		litoralis		orientalis	Subspecies	Sokolskaja, 1964	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476168	
+476252	137449	Lumbricillus		evansi	Southern, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476252	
+476253	137444	Lumbricillus		georgiensis	Tynen, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476253	
+476254	137449	Lumbricillus		germanicus	(Michaelsen, 1886)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476254	
+476255	137444	Lumbricillus		henkingi	Ude, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476255	
+476258	137444	Lumbricillus		necrophagus	Stephenson, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476258	
+476259	137444	Lumbricillus		ritteri	Eisen, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476259	
+476290	137449	Pachydrilus		germanicus	Michaelsen, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476290	
+476293	475867	Pachydrilus		nipponicus	Yamaguchi, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476293	
+476294	475871	Pachydrilus		parvus	Ude, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476294	
+476295	475873	Pachydrilus		pygmaeus	Michaelsen, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476295	
+476296	475882	Pachydrilus		tenuis	Ude, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476296	
+476208	416510	Clitellio		irroratus	Verrill, 1873				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476208	
+476248	414048	Littodrilus		aucklandicus	Benham, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476248	
+254322	137551	Rhizodrilus		pilosus	(Goodrich, 1892)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:254322	
+476161	414048	Monopylephorus		irroratus		aucklandicus	Subspecies	Benham, 1909	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476161	
+476162	475934	Monopylephorus		irroratus		orientalis	Subspecies	Finogenova, 1982	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476162	
+476353	475546	Phallodrilus		segonzaci	Erséus, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476353	
+476356	475547	Phallodrilus		stilus	Erséus, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476356	
+476373	476163	Postiodrilus		sonderi	Boldt, 1926				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476373	
+476376	414048	Rhizodrilus		aucklandicus	Benham, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476376	
+476391	137551	Vermiculus		fluviatilis	Ferronière, 1899				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476391	
+476392	137551	Vermiculus		glotini	Ferronière, 1899				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476392	
+476393	137551	Vermiculus		pilosus	Goodrich, 1892				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476393	
+176087	157597	Nais		appendiculata	Udekem, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176087	
+176436	137569	Lumbricus		tubifex	Müller, 1774				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176436	
+176438	137569	Nais		tubifex	(Müller, 1774)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176438	
+176447	137570	Peloscolex		amplivasatus	Erséus, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176447	
+176462	137571	Clitellio		benedii	(Udekem, 1855)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176462	
+176505	137582	Isochaetides		pseudogaster	(Dahl, 1960)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176505	
+177352	137571	Hemitubifex		benedii	(Udekem, 1855)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177352	
+177356	137569	Saenuris		tubifex	(Müller, 1774)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177356	
+476207	137571	Clitellio		ater	Claparède, 1862				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476207	
+476375	475684	Randidrilus		darwinensis	Coates & Stacey, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476375	
+476235	137416	Hemigrania		postclitellochaeta	Knöllner, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476235	
+476257	475703	Lumbricillus		mangeri	(Michaelsen, 1914)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476257	
+175927	137416	Marionina		postclitellochaeta	(Knöllner, 1935)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175927	
+176117	137487	Nais		uncinata	Ørsted, 1842				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176117	
+176119	137487	Paranais		uncinata	(Ørsted, 1842)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176119	
+176128	137487	Ophidonais		uncinata	(Ørsted, 1842)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176128	
+176256	137532	Phallodrilus		minutissimus	Erséus, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176256	
+176306	137540	Phallodrilus		messanensis	Erséus, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176306	
+176307	137541	Phallodrilus		minutus	Hrabĕ, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176307	
+177191	137416	Michaelsena		postclitellochaeta	Knöllner, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177191	
+476278	475703	Michaelsena		mangeri	Michaelsen, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476278	
+476279	475710	Michaelsena		paucispina	Eisen, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476279	
+476280	475711	Michaelsena		principissae	Michaelsen, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476280	
+176290	137533	Phallodrilus		nidarosiensis	Erséus, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176290	
+176291	137534	Phallodrilus		postspermathecus	Erséus, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176291	
+176308	137542	Phallodrilus		pinguis	Erséus, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176308	
+476160	475718	Grania		macrochaeta		trichaeta	Subspecies	Jamieson, 1977	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476160	
+476303	476048	Phallodrilus		albanensis	Erséus, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476303	
+476308	476149	Phallodrilus		bipartitus	Erséus, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476308	
+476312	475923	Phallodrilus		christeri	Davis, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476312	
+476317	475924	Phallodrilus		constrictus	Erséus, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476317	
+476319	475925	Phallodrilus		davisi	Erséus, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476319	
+476331	475926	Phallodrilus		grasslei	Erséus, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476331	
+476342	476152	Phallodrilus		nasutus	Erséus, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476342	
+476345	476050	Phallodrilus		parviatriatus	Cook, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476345	
+476352	476154	Phallodrilus		scirpiculus	Erséus, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476352	
+476361	475929	Phallodrilus		vescus	Erséus, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476361	
+175920	137412	Enchytraeus		macrochaetus	Pierantoni, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175920	
+476216	137571	Edukemius		benedii	Udekem, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476216	
+476262	476069	Marcusaedrilus		assimilis	Erséus, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476262	
+476263	476070	Marcusaedrilus		capricornae	Erséus, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476263	
+476264	476074	Marcusaedrilus		grandiculus	Erséus, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476264	
+476265	476075	Marcusaedrilus		hummelincki	Righi & Kanner, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476265	
+476266	476077	Marcusaedrilus		irregularis	Erséus, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476266	
+476267	476079	Marcusaedrilus		luteolus	Erséus, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476267	
+476268	476081	Marcusaedrilus		minusculus	Erséus, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476268	
+476283	476065	Monopylephorus		pacificus	Brinkhurst & Baker, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476283	
+476377	476167	Rhizodrilus		ponticus	Hrabe, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476377	
+476378	476064	Rhyacodrilus		arthingtonae	Jamieson, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476378	
+476348	475545	Phallodrilus		remus	Erséus, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476348	
+176216	137497	Phallodrilus		profundus	Cook, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176216	
+476305	475541	Phallodrilus		altus	Erséus, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476305	
+152350	137571	Tubificoides		benedeni	(Udekem)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152350	
+157598	476132	Tubifex		longipenis	Brinkhurst, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:157598	
+160058	137571	Peloscolex		benedeni	Udekem, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:160058	
+176460	137571	Tubifex		benedii	Udekem, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176460	
+176466	137571	Limnodrilus		benedii	(Udekem, 1855)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176466	
+176469	137571	Peloscolex		benedii	(Udekem, 1855)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176469	
+176471	137575	Peloscolex		euxinicus	Hrabĕ, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176471	
+176476	137577	Limnodrilus		heterochaetus	Michaelsen, 1926				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176476	
+176477	137577	Peloscolex		heterochaetus	(Michaelsen, 1926)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176477	
+176480	137578	Tubifex		insularis	Stephenson, 1923				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176480	
+176482	137578	Peloscolex		insularis	(Stephenson, 1923)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176482	
+176483	137579	Peloscolex		intermedius	Cook, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176483	
+176485	137581	Tubifex		maritimus	Hrabĕ, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176485	
+176503	137582	Limnodrilus		pseudogaster	Dahl, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176503	
+176504	137582	Tubifex		pseudogaster	(Dahl, 1960)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176504	
+176506	137585	Peloscolex		swirencowi	(Jaroschenko, 1948)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176506	
+177354	137571	Psammoryctes		benedii	(Udekem, 1855)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177354	
+476175	476136	Peloscolex		gabriellae		var. nerthoides	Variety	Brinkhurst, 1965	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476175	
+476176	395108	Peloscolex		gabriellae		var. apectinata	Variety	Brinkhurst, 1965	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476176	
+476199	137585	Tubificoides		heterochaetus	Lastockin, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476199	
+476244	476087	Limnodriloides		tenuicolus	Erséus, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476244	
+476269	476085	Marcusaedrilus		peruanus	Finogenova, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476269	
+476270	476086	Marcusaedrilus		sacculatus	Erséus, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476270	
+476271	476088	Marcusaedrilus		tuber	Erséus, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476271	
+476272	476089	Marcusaedrilus		vesiculatus	Erséus, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476272	
+476299	416512	Peloscolex		aculeatus	Cook, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476299	
+476301	476128	Peloscolex		dukei	Cook, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476301	
+476302	137585	Peloscolex		svirenkoi	(Jarošenko, 1948)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476302	
+476323	476091	Phallodrilus		elongatus	Erséus, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476323	
+476374	137585	Pristina		papillosa	Cernosvitov, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476374	
+476380	476090	Smithsonidrilus		marinus		westoni	Subspecies	Erséus, 1982	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476380	
+476383	137571	Tubifex		benedeni	Udekem, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476383	
+476386	476144	Tubifex		postcapillatus	Cook, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:476386	

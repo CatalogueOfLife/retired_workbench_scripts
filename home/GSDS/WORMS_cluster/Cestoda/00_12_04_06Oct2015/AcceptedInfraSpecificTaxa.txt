@@ -1,0 +1,7 @@
+AcceptedTaxonID	ParentSpeciesID	InfraSpeciesEpithet	InfraSpeciesAuthorString	InfraSpeciesMarker	GSDNameStatus	Sp2000NameStatus	IsFossil	LifeZone	AdditionalData	LTSSpecialist	LTSDate	InfraSpeciesURL	GSDTaxonGUI	GSDNameGUI	
+414572	105260	benedeni	Beauchamp, 1905	Subspecies	accepted	Accepted name	0	marine		Bray, Rod	2010-09-10 14:48:28	http://www.marinespecies.org/aphia.php?p=taxdetails&id=414572		urn:lsid:marinespecies.org:taxname:414572	
+414573	105260	paulum	Linton, 1924	Subspecies	accepted	Accepted name	0	marine		Bray, Rod	2010-09-10 14:48:28	http://www.marinespecies.org/aphia.php?p=taxdetails&id=414573		urn:lsid:marinespecies.org:taxname:414573	
+517238	517117	larina	(Krabbe, 1869)	Subspecies	accepted	Accepted name	0			Bray, Rod	2010-09-10 14:48:28	http://www.marinespecies.org/aphia.php?p=taxdetails&id=517238		urn:lsid:marinespecies.org:taxname:517238	
+517239	517117	pacifica	Hoberg, 1984	Subspecies	accepted	Accepted name	0			Bray, Rod	2010-09-10 14:48:28	http://www.marinespecies.org/aphia.php?p=taxdetails&id=517239		urn:lsid:marinespecies.org:taxname:517239	
+414574	414474	brevicolle	Linton, 1891	Subspecies	accepted	Accepted name	0	marine		Bray, Rod	2010-09-10 14:48:28	http://www.marinespecies.org/aphia.php?p=taxdetails&id=414574		urn:lsid:marinespecies.org:taxname:414574	
+414575	414474	longicolle	Linton, 1891	Subspecies	accepted	Accepted name	0	marine		Bray, Rod	2010-09-10 14:48:28	http://www.marinespecies.org/aphia.php?p=taxdetails&id=414575		urn:lsid:marinespecies.org:taxname:414575	

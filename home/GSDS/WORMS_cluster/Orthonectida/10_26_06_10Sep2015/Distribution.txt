@@ -1,0 +1,92 @@
+AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
+265733	East North Pacific	Text		
+119166	European waters (ERMS scope)	Text		
+119166	North East Atlantic	Text		
+119166	East North Atlantic	Text		
+119166	Portuguese Exclusive Economic Zone	Text		
+119166	Spanish Exclusive Economic Zone	Text		
+119166	United Kingdom Exclusive Economic Zone	Text		
+265734	East North Pacific	Text		
+119167	European waters (ERMS scope)	Text		
+119167	North East Atlantic	Text		
+119167	East North Atlantic	Text		
+119167	Portuguese Exclusive Economic Zone	Text		
+119167	Spanish Exclusive Economic Zone	Text		
+119167	United Kingdom Exclusive Economic Zone	Text		
+119168	European waters (ERMS scope)	Text		
+119168	North East Atlantic	Text		
+119168	East North Atlantic	Text		
+119168	Portuguese Exclusive Economic Zone	Text		
+119168	Spanish Exclusive Economic Zone	Text		
+119168	United Kingdom Exclusive Economic Zone	Text		
+119169	Arctic Ocean	Text		
+119169	European waters (ERMS scope)	Text		
+119169	Arctic Ocean	Text		
+148610	United Kingdom Exclusive Economic Zone	Text		
+119170	European waters (ERMS scope)	Text		
+119170	North East Atlantic	Text		
+119170	East North Atlantic	Text		
+119170	Portuguese Exclusive Economic Zone	Text		
+119170	Spanish Exclusive Economic Zone	Text		
+119170	United Kingdom Exclusive Economic Zone	Text		
+225817	Arctic Ocean	Text		
+225817	Arctic Ocean	Text		
+119165	European waters (ERMS scope)	Text		
+119165	North East Atlantic	Text		
+119165	East North Atlantic	Text		
+119165	Portuguese Exclusive Economic Zone	Text		
+119165	Spanish Exclusive Economic Zone	Text		
+119165	United Kingdom Exclusive Economic Zone	Text		
+119171	Arctic Ocean	Text		
+119171	European waters (ERMS scope)	Text		
+119171	Arctic Ocean	Text		
+119172	European waters (ERMS scope)	Text		
+119173	European waters (ERMS scope)	Text		
+119173	North East Atlantic	Text		
+119173	East North Atlantic	Text		
+119173	Portuguese Exclusive Economic Zone	Text		
+119173	Spanish Exclusive Economic Zone	Text		
+119173	United Kingdom Exclusive Economic Zone	Text		
+119174	Mediterranean Sea	Text		
+119174	European waters (ERMS scope)	Text		
+119174	Mediterranean Sea	Text		
+119174	Portuguese Exclusive Economic Zone	Text		
+119174	Spanish Exclusive Economic Zone	Text		
+119175	Arctic Ocean	Text		
+119175	European waters (ERMS scope)	Text		
+119175	Arctic Ocean	Text		
+119177	Arctic Ocean	Text		
+119177	European waters (ERMS scope)	Text		
+119177	Arctic Ocean	Text		
+119177	Portuguese Exclusive Economic Zone	Text		
+119177	Spanish Exclusive Economic Zone	Text		
+119178	European waters (ERMS scope)	Text		
+119178	North East Atlantic	Text		
+119178	East North Atlantic	Text		
+119178	Portuguese Exclusive Economic Zone	Text		
+119178	Spanish Exclusive Economic Zone	Text		
+119178	United Kingdom Exclusive Economic Zone	Text		
+119180	European waters (ERMS scope)	Text		
+119180	North East Atlantic	Text		
+119180	East North Atlantic	Text		
+119180	Portuguese Exclusive Economic Zone	Text		
+119180	Spanish Exclusive Economic Zone	Text		
+119181	European waters (ERMS scope)	Text		
+119181	North East Atlantic	Text		
+119181	East North Atlantic	Text		
+119181	Portuguese Exclusive Economic Zone	Text		
+119181	Spanish Exclusive Economic Zone	Text		
+119181	United Kingdom Exclusive Economic Zone	Text		
+265735	East North Pacific	Text		
+265736	East North Pacific	Text		
+119185	European waters (ERMS scope)	Text		
+119185	North East Atlantic	Text		
+119185	East North Atlantic	Text		
+119185	Portuguese Exclusive Economic Zone	Text		
+119185	Spanish Exclusive Economic Zone	Text		
+119185	United Kingdom Exclusive Economic Zone	Text		
+119186	European waters (ERMS scope)	Text		
+119186	North East Atlantic	Text		
+119186	East North Atlantic	Text		
+119186	Portuguese Exclusive Economic Zone	Text		
+119186	Spanish Exclusive Economic Zone	Text		

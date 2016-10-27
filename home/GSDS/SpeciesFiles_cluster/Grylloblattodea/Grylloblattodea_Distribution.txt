@@ -1,0 +1,249 @@
+﻿AcceptedTaxonID	DistributionElement	StandardInUse
+1220001	FRA-FR	TDWG Level 4 code
+1220001	Permian, France	text
+1220004	RUC	TDWG Level 3 code
+1220005	RUC	TDWG Level 3 code
+1220007	RUC	TDWG Level 3 code
+1220008	RUC	TDWG Level 3 code
+1220009	RUC	TDWG Level 3 code
+1220013	KAN	TDWG Level 3 code
+1220014	OKL	TDWG Level 3 code
+1220070	CHI	TDWG Level 3 code
+1220070	Jurassic, NE China	text
+1220163	ILL	TDWG Level 3 code
+1220163	Upper Carboniferous, Illinois, Mazon Creek	text
+1220164	14    	TDWG Level 2 code
+1220164	European Russia	text
+1220167	36    	TDWG Level 2 code
+1220168	FRA-FR	TDWG Level 4 code
+1220172	RUC	TDWG Level 3 code
+1220179	14    	TDWG Level 2 code
+1220187	RUC	TDWG Level 3 code
+1220188	RUC	TDWG Level 3 code
+1220203	RUC	TDWG Level 3 code
+1220204	RUC	TDWG Level 3 code
+1220205	RUC	TDWG Level 3 code
+1220206	RUC	TDWG Level 3 code
+1220207	RUC	TDWG Level 3 code
+1220208	14    	TDWG Level 2 code
+1220208	European Russia	text
+1220209	14    	TDWG Level 2 code
+1220209	European Russia	text
+1220210	European Russia	text
+1220211	14    	TDWG Level 2 code
+1220211	European Russia	text
+1220216	RUC	TDWG Level 3 code
+1220217	Permian, Europe	text
+1220218	RUC	TDWG Level 3 code
+1220219	Permian, Europe	text
+1220222	JAP	TDWG Level 3 code
+1220222	Teletskoye Lake, Japan	text
+1220223	31    	TDWG Level 2 code
+1220223	Sambyl Pass, Russia	text
+1220225	KOR	TDWG Level 3 code
+1220225	Yenhaeju, South Korea	text
+1220226	36    	TDWG Level 2 code
+1220226	Mt. Jangpaik, Jilin, NE China	text
+1220228	JAP	TDWG Level 3 code
+1220228	Niko-Chuzenji, Tochigi	text
+1220229	JAP	TDWG Level 3 code
+1220229	Nagano, Gifu and Chichibu in Central Japan	text
+1220230	Hokkaido, Japan	text
+1220231	Gosu Cave, Chung-cheong-buk-do, S. Korea	text
+1220231	KOR	TDWG Level 3 code
+1220232	Primorje, Russia	text
+1220232	PRM	TDWG Level 3 code
+1220233	KOR	TDWG Level 3 code
+1220233	Mt. Myoyang, South Korea	text
+1220234	JAP	TDWG Level 3 code
+1220234	Nagano, Gumna, Niigata and Chichibu in Central Japan Tokugo-Toge, Japan	text
+1220235	JAP	TDWG Level 3 code
+1220235	Kyushu Island, Nagasaki Prefecture	text
+1220236	JAP	TDWG Level 3 code
+1220236	Megi-shima Island, Kagawa, Japan	text
+1220237	PRM	TDWG Level 3 code
+1220239	KOR	TDWG Level 3 code
+1220239	Mt. Odae, South Korea	text
+1220240	WAS	TDWG Level 3 code
+1220240	Washington, U.S.A.	text
+1220241	ORE	TDWG Level 3 code
+1220241	S. Oregon, U.S.A.	text
+1220242	CAL	TDWG Level 3 code
+1220242	Sonora Pass, Tuolumne County California, U.S.A.	text
+1220243	CAL	TDWG Level 3 code
+1220243	Eldorado County, California, U.S.A.	text
+1220244	Mt. Baker and Hanagen Peak, N. Washington, U.S.A.	text
+1220245	ABT	TDWG Level 3 code
+1220245	Sulphur Mountain	text
+1220246	Lassen County, California, U.S.A.	text
+1220247	CAL	TDWG Level 3 code
+1220247	Sunny Side Mine, U.S.A. Plumas County, California, U.S.A.	text
+1220248	ABT	TDWG Level 3 code
+1220248	Mt. Paul, Alberta, Canada	text
+1220249	ORE	TDWG Level 3 code
+1220249	Scott Camp, Oregon, U.S.A.	text
+1220250	CAL	TDWG Level 3 code
+1220250	Lava Beds National Monument, Modoc County, California, U.S.A.	text
+1220251	RUC	TDWG Level 3 code
+1220252	RUC	TDWG Level 3 code
+1220253	RUC	TDWG Level 3 code
+1220254	RUC	TDWG Level 3 code
+1220255	RUC	TDWG Level 3 code
+1220256	OKL	TDWG Level 3 code
+1220258	RUC	TDWG Level 3 code
+1220259	RUC	TDWG Level 3 code
+1220260	RUC	TDWG Level 3 code
+1220261	RUC	TDWG Level 3 code
+1220262	RUC	TDWG Level 3 code
+1220268	RUC	TDWG Level 3 code
+1220270	CZE-CZ	TDWG Level 4 code
+1220271	KAN	TDWG Level 3 code
+1220283	European Russia	text
+1220283	RUW	TDWG Level 3 code
+1220284	KAN	TDWG Level 3 code
+1220285	KAN	TDWG Level 3 code
+1220292	RUC	TDWG Level 3 code
+1220310	3	TDWG Level 1 code
+1220311	S. Primorje, Russia	text
+1220312	S. Primorje, Russia	text
+1220313	ABT	TDWG Level 3 code
+1220313	SE British Columbia, SW Alberta, Canada; N. Idaho, N. Washington, U.S.A.	text
+1220314	NE British Columbia, Canada	text
+1220315	NW British Columbia, Canada	text
+1220325	RUC	TDWG Level 3 code
+1220326	3	TDWG Level 1 code
+1220803	KAN	TDWG Level 3 code
+1220842	KGZ	TDWG Level 3 code
+1220844	KGZ	TDWG Level 3 code
+1220847	RUW	TDWG Level 3 code
+1220901	RUW	TDWG Level 3 code
+1220916	RUS	TDWG Level 3 code
+1220919	RUW	TDWG Level 3 code
+1220997	GER	TDWG Level 3 code
+1221031	Kangweon-do, S. Korea	text
+1221033	Balgudeok Cave, South Korea	text
+1221033	KOR	TDWG Level 3 code
+1221034	CAL	TDWG Level 3 code
+1221034	California.	text
+1221035	ORE	TDWG Level 3 code
+1221035	Oregon.	text
+1221036	ORE	TDWG Level 3 code
+1221058	RUS	TDWG Level 3 code
+1221102	KAN	TDWG Level 3 code
+1221154	RUW	TDWG Level 3 code
+1221157	RUC	TDWG Level 3 code
+1221159	RUW	TDWG Level 3 code
+1221160	RUC	TDWG Level 3 code
+1221161	RUC	TDWG Level 3 code
+1221162	RUC	TDWG Level 3 code
+1221163	RUC	TDWG Level 3 code
+1221172	RUS	TDWG Level 3 code
+1221173	RUC	TDWG Level 3 code
+1221174	RUC	TDWG Level 3 code
+1221175	RUC	TDWG Level 3 code
+1221209	KAN	TDWG Level 3 code
+1221225	KAN	TDWG Level 3 code
+1221227	KAN	TDWG Level 3 code
+1221230	KAN	TDWG Level 3 code
+1221257	RUC	TDWG Level 3 code
+1221258	RUC	TDWG Level 3 code
+1221259	RUC	TDWG Level 3 code
+1221261	RUC	TDWG Level 3 code
+1221262	KAZ	TDWG Level 3 code
+1221263	RUC	TDWG Level 3 code
+1221266	RUC	TDWG Level 3 code
+1221346	NAT	TDWG Level 3 code
+1221348	NAT	TDWG Level 3 code
+1221349	NAT	TDWG Level 3 code
+1221350	NAT	TDWG Level 3 code
+1221352	NAT	TDWG Level 3 code
+1221354	NAT	TDWG Level 3 code
+1221361	RUS	TDWG Level 3 code
+1221385	RUW	TDWG Level 3 code
+1221404	RUS	TDWG Level 3 code
+1221407	RUS	TDWG Level 3 code
+1221408	RUS	TDWG Level 3 code
+1221409	RUS	TDWG Level 3 code
+1221412	RUS	TDWG Level 3 code
+1221480	FRA-FR	TDWG Level 4 code
+1221487	FRA-FR	TDWG Level 4 code
+1221500	FRA-FR	TDWG Level 4 code
+1221503	FRA-FR	TDWG Level 4 code
+1221504	RUS	TDWG Level 3 code
+1221506	RUS	TDWG Level 3 code
+1221508	RUS	TDWG Level 3 code
+1221509	RUW	TDWG Level 3 code
+1221511	RUS	TDWG Level 3 code
+1221556	GER	TDWG Level 3 code
+1221557	GER	TDWG Level 3 code
+1221562	KAN	TDWG Level 3 code
+1221584	RUC	TDWG Level 3 code
+1221585	RUN	TDWG Level 3 code
+1221593	14    	TDWG Level 2 code
+1221594	14    	TDWG Level 2 code
+1221595	14    	TDWG Level 2 code
+1221609	RUC	TDWG Level 3 code
+1221613	RUC	TDWG Level 3 code
+1221614	RUC	TDWG Level 3 code
+1221618	RUC	TDWG Level 3 code
+1221619	RUC	TDWG Level 3 code
+1221620	RUN	TDWG Level 3 code
+1221622	RUN	TDWG Level 3 code
+1221623	RUC	TDWG Level 3 code
+1221624	RUN	TDWG Level 3 code
+1221628	RUW	TDWG Level 3 code
+1221630	RUS	TDWG Level 3 code
+1221631	RUS	TDWG Level 3 code
+1221632	RUW	TDWG Level 3 code
+1221633	30    	TDWG Level 2 code
+1221635	RUC	TDWG Level 3 code
+1221653	27    	TDWG Level 2 code
+1221662	RUC	TDWG Level 3 code
+1221663	RUW	TDWG Level 3 code
+1221664	RUC	TDWG Level 3 code
+1221695	RUN	TDWG Level 3 code
+1221696	RUN	TDWG Level 3 code
+1221701	RUN	TDWG Level 3 code
+1221703	RUN	TDWG Level 3 code
+1221704	RUN	TDWG Level 3 code
+1221705	RUN	TDWG Level 3 code
+1221706	RUN	TDWG Level 3 code
+1221724	RUN	TDWG Level 3 code
+1221742	NSW-NS	TDWG Level 4 code
+1221823	TEX	TDWG Level 3 code
+1222239	RUS	TDWG Level 3 code
+1222240	RUS	TDWG Level 3 code
+1222242	RUS	TDWG Level 3 code
+1222243	RUS	TDWG Level 3 code
+1222251	RUS	TDWG Level 3 code
+1222253	RUS	TDWG Level 3 code
+1222254	RUS	TDWG Level 3 code
+1222263	RUS	TDWG Level 3 code
+1222264	RUS	TDWG Level 3 code
+1222265	RUS	TDWG Level 3 code
+1222267	RUS	TDWG Level 3 code
+1222269	RUS	TDWG Level 3 code
+1222271	RUS	TDWG Level 3 code
+1222272	RUS	TDWG Level 3 code
+1222273	RUS	TDWG Level 3 code
+1222274	RUS	TDWG Level 3 code
+1222275	RUS	TDWG Level 3 code
+1222276	RUS	TDWG Level 3 code
+1222277	RUS	TDWG Level 3 code
+1222279	RUS	TDWG Level 3 code
+1222280	RUS	TDWG Level 3 code
+1222281	RUS	TDWG Level 3 code
+1222282	RUS	TDWG Level 3 code
+1222283	RUS	TDWG Level 3 code
+1222284	RUS	TDWG Level 3 code
+1222285	RUS	TDWG Level 3 code
+1222287	RUS	TDWG Level 3 code
+1222289	RUS	TDWG Level 3 code
+1222290	RUS	TDWG Level 3 code
+1222293	RUS	TDWG Level 3 code
+1222294	RUS	TDWG Level 3 code
+1223770	ORE	TDWG Level 3 code
+1223770	Oregon.	text
+1223771	ORE	TDWG Level 3 code
+1223771	Oregon.	text
+1224052	CHX	TDWG Level 3 code

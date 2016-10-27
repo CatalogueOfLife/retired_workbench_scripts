@@ -1,0 +1,581 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+829191	244605	Paratanais		antarctica	Hodgson, 1902				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:829191	
+820176	244606	Nototanais		australis	Richardson, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820176	
+247161	731610	Alokalliapseudes		macsweenyi	(Drumm, 2003)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247161	
+826564	247177	Kalliapseudes	Mesokalliapseudes	bahamensis	Sieg, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826564	
+819618	247179	Kalliapseudes	Mesokalliapseudes	crassus	Menzies, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819618	
+819889	247180	Kalliapseudes	Mesokalliapseudes	soniadawnae	Bamber, 1993				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819889	
+819620	247182	Kalliapseudes	Mesokalliapseudes	viridis	Menzies, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819620	
+819887	247178	Kalliapseudes	Mesokalliapseudes	viridis		brasiliensis	Subspecies	Bacescu, 1986	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819887	
+829192	244606	Nototanais		magellanicus	Monod, 1926				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:829192	
+820252	244606	Paratanais		dimorphus	Beddard, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820252	
+820081	247368	Ophthalmapseudes		giganteus	Malzahn, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820081	
+819816	136310	Kalliapseudes		omercooperi	Larwood, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819816	
+247517	740339	Spinitanaopsis		insolituchelia	(Larsen, 2003)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247517	
+821733	136293	Apseudes	Tuberapseudes	echinatus	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821733	
+247045	478736	Apseudes		cedroensis	Menzies, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247045	
+819634	247335	Apseudes		pernix	Menzies, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819634	
+819635	247224	Apseudomorpha		wagait	Edgar, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819635	
+156198	478744	Leptognathia		dentifera	Sars, 1899				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156198	
+136449	478776	Leptognathia		uncinata	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136449	
+606498	736922	Pseudoarthrura		setoserrata	(Larsen, 2012)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:606498	
+389588	449023	Typhlotanais		lutze	Bamber, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:389588	
+247621	740294	Paratanais		denticulatus	Gutu & Ramos, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247621	
+247627	740293	Paratanais		intermedius	Dojiri & Sieg, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247627	
+247631	732640	Paratanais		malignus	Larsen, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247631	
+247636	740292	Paratanais		spinanotandus	Sieg, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247636	
+736796	740290	Paratanais		vicentetis	Larsen, 2012				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:736796	
+247093	390478	Bunakenia	Extensibasella	anomala	Gutu, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247093	
+247094	388226	Bunakenia	Extensibasella	aspalieus	Bamber, Bird & Angsupanich, 2003				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247094	
+247047	478714	Apseudes		cooperi	Brown, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247047	
+746187	247308	Apseudes		killaiyensis	Balasubrahmanyan, 1962				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:746187	
+827654	247311	Apseudes		thaumastocheles	Monod, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827654	
+247090	819045	Bunakenia	Bunakenia	indonesiana	Gutu, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247090	
+247091	389585	Bunakenia	Bunakenia	salzella	Bamber, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247091	
+247092	819047	Bunakenia	Bunakenia	tanzaniana	Gutu, 1996				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247092	
+478709	247089	Bunakenia	Extensibasella	kadazan	Bamber & Sheader, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:478709	
+247095	819046	Bunakenia	Extensibasella	sudvestatlantica	Gutu, 1996				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247095	
+247307	478714	Halmyrapseudes		digitalis	(Brown, 1956)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247307	
+247310	247308	Halmyrapseudes		srilankaensis	(Bacescu, 1981)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247310	
+247775	247777	Langapseudes		tuberculatus	(Lang, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247775	
+828500	247705	Langia		willemoesi	(Studer, 1884)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:828500	
+247543	852002	Leptochelia		elongata	Larsen & Rayment, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247543	
+819612	247330	Pakistanapseudes		pectinis	Bamber, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819612	
+819220	247705	Pseudotanais		willemoesii	(Studer, 1884)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819220	
+242593	478708	Apseudes		babelmandebensis	Bacescu, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:242593	
+819812	247295	Saltipedis		muelleri	Gutu, 1998				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819812	
+244631	458650	Apseudes		unicus	Kudinova-Pasternak & Pasternak, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244631	
+819949	247216	Apseudes		deltoides	Barnard, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819949	
+821690	247332	Apseudes		espinosus	Moore, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821690	
+136276	247172	Apseudes		obtusifrons	Haswell, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136276	
+136312	826447	Calozodion		dollfusi	Gutu, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136312	
+739556	478715	Kalliapseudes	Kalliapseudes	macrothrixoides	Bacescu, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:739556	
+819486	247167	Kalliapseudes	Kalliapseudes	magnus	Lang, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819486	
+819801	247168	Kalliapseudes	Kalliapseudes	makrothrix	Stebbing, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819801	
+819487	247170	Kalliapseudes	Kalliapseudes	mauritanicus	Monod, 1923				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819487	
+819803	247173	Kalliapseudes	Kalliapseudes	primitivus	Nierstrasz, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819803	
+247169	478715	Kalliapseudes		makrothrixoides	Bacescu, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247169	
+819061	247175	Kalliapseudes	Kalliapseudes	struthi	Bamber, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819061	
+827701	247371	Ophthalmapseudes		acutirostris	Sachariewa-Kowatschewa & Bachmayer, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827701	
+820086	247372	Ophthalmapseudes		friedericianus	Malzahn, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820086	
+449021	739506	Annexos		abditospina	Blazewicz-Paszkowycz & Bamber, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449021	
+821676	136258	Apseudes	Apseudes	africanus	Tattersall, 1925				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821676	
+827030	136258	Apseudes		africanus		africanus	Subspecies	Tattersall, 1925	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827030	
+821677	242589	Apseudes	Apseudes	agulhensis	Barnard, 1920				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821677	
+136588	242590	Apseudes		spinosus		albidus	Subspecies	Bacescu, 1984	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136588	
+819865	242595	Apseudes	Apseudes	falsensis	Sieg, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819865	
+607851	449020	Androgynella		curtiramus	Gutu, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:607851	
+607853	242583	Androgynella		fecunda	Gutu, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:607853	
+607854	242584	Androgynella		nagae	(Shiino, 1963)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:607854	
+607855	242585	Androgynella		nhatrangensis	(Shiino, 1963)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:607855	
+607856	242586	Androgynella		nipponicus	(Shiino, 1937)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:607856	
+242587	244630	Androgynella		spectabilis	(Studer, 1884)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:242587	
+821604	136527	Anatanais		robustus	(Moore, 1894)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821604	
+247049	136264	Apseudes		graziellae	Bacescu, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247049	
+136267	136285	Apseudes		hibernicus	Walker, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136267	
+136270	136589	Apseudes		Koehleri	Bonnier, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136270	
+817492	242595	Apseudes		minutus	Brown, 1956 not Claus, 1888				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:817492	
+136275	247056	Apseudes		miserai	Bacescu, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136275	
+819252	136268	Apseudes		sarsi	Holthuis, 1949 not Claus, 1888				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819252	
+821692	247048	Apseudes	Apseudes	galapagensis	Richardson, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821692	
+821695	136265	Apseudes	Apseudes	grossimanus	Norman & Stebbing, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821695	
+821696	136268	Apseudes	Apseudes	holthuisi	Bacescu, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821696	
+821701	247052	Apseudes	Apseudes	latus	Chilton, 1884				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821701	
+819218	247053	Apseudes	Apseudes	levis	Kudinova-Pasternak, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819218	
+821703	247055	Apseudes	Apseudes	minutus	Claus, 1888				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821703	
+821706	242584	Apseudes	Apseudes	nagae	Shiino, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821706	
+821707	242585	Apseudes	Apseudes	nhatrangensis	Shiino, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821707	
+821717	247059	Apseudes	Apseudes	portnovensis	Balasubrahmanyan, 1962				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821717	
+821721	247061	Apseudes	Apseudes	seurati	Nobili, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821721	
+821722	244630	Apseudes	Apseudes	spectabilis	Studer, 1884				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821722	
+819289	136284	Apseudes	Apseudes	spinosus	(M. Sars, 1858)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819289	
+819848	136285	Apseudes	Apseudes	talpa	(Montagu, 1808)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819848	
+136585	247058	Apseudes		africanus		orientalis	Subspecies	Bacescu, 1961	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136585	
+740480	136285	Eupheus		talpa	Desmarest, 1823				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:740480	
+818859	136284	Rhoea		spinosa	M. Sars, 1858				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:818859	
+449111	242596	Xanthapseudes		bucospinosus	(Gutu, 2006)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449111	
+819066	478705	Androgynella		hermaphroditicus	(Lang, 1953)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819066	
+607857	478705	Androgynella		sculptus	(Pfeffer, 1888)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:607857	
+136257	247066	Apseudes		acutifrons	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136257	
+387626	247067	Apseudes		annabensis	Gutu, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:387626	
+387627	247068	Apseudes		apocryphus	Gutu, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:387627	
+387628	247069	Apseudes		arguinensis	Gutu, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:387628	
+819628	247192	Apseudes		avicularia	Barnard, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819628	
+387629	247070	Apseudes		bacescui	Gutu, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:387629	
+819321	247071	Apseudes		bruneinigma	Bamber, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819321	
+820080	247313	Apseudes		caeruleus	Boesch, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820080	
+136261	247073	Apseudes		elisae	Bacescu, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136261	
+819884	247314	Apseudes		estuarius	Boesch, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819884	
+136266	247075	Apseudes		hastifrons	Norman & Stebbing, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136266	
+136271	247077	Apseudes		latreillei	Milne Edwards, 1828				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136271	
+136272	247077	Apseudes		latreillii	(Milne Edwards, 1828)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136272	
+479033	247078	Apseudes		mediterraneus	Bacescu, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:479033	
+387630	247079	Apseudes		minimus	Gutu, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:387630	
+819388	247080	Apseudes		olimpiae	Gutu, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819388	
+136277	136290	Apseudes		ostroumovi	(Bacescu & Carausu, 1947)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136277	
+136279	247081	Apseudes		robustus	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136279	
+826888	819304	Apseudes		talpa	(Lilljeborg, 1864) not (Montagu, 1808)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826888	
+819967	247199	Apseudes		timaruvia	Chilton, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819967	
+387631	247082	Apseudes		tridens	Gutu, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:387631	
+449027	719982	Apseudes		tuski	Blazewicz-Paszkowycz & Bamber, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449027	
+136288	247083	Apseudes		uncidigitatus	Norman & Stebbing, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136288	
+389693	247316	Apseudes		nasutus	Nunomura, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:389693	
+819042	247074	Apseudes		robustus		erythraeicus	Subspecies	Bacescu, 1984	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819042	
+136587	247081	Apseudes		robustus		israeliticus	Subspecies	Bacescu, 1961	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136587	
+826889	247081	Apseudes		robustus		robustus	Subspecies	Sars, 1882	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826889	
+720607	709016	Apseudopsis		opisthoskolops	Bamber, Chatterjee & Marshall, 2012				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:720607	
+827653	247337	Halmyrapseudes		mussauensis	(Shiino, 1965)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827653	
+820175	247531	Heterotanais		capensis	Vanhöffen, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820175	
+136462	136466	Heterotanais		gurneyi	Norman, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136462	
+820358	247529	Heterotanais		melacephala	Fee, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820358	
+136465	136466	Heterotanais		oerstedi	(Krøyer, 1842)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136465	
+136461	136478	Heterotanais		anomalus	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136461	
+136464	136480	Heterotanais		magnus	Smith, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136464	
+720612	720611	Hexapleomera		robusta	Edgar, 2008 not (Moore, 1894)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:720612	
+819623	247191	Imitapseudes		albidus	(Shiino, 1951)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819623	
+819624	247194	Imitapseudes		glebosus	Menzies, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819624	
+819625	247196	Imitapseudes		magdalenensis	Menzies, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819625	
+819626	247200	Imitapseudes		veleronis	Menzies, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819626	
+827761	827760	Leptochelia		limicola	(Harger, 1878)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827761	
+247111	739515	Muramura		fagettii	(Baez & Magnere, 1980)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247111	
+739517	739515	Muramurina		fagettii	(Báez & Magnere, 1980)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:739517	
+242566	739522	Muramurina		splendida	Gutu, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:242566	
+819964	247195	Parapseudes		hirsutus	Stebbing, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819964	
+449112	449134	Xanthapseudes		poorei	(Blazewicz-Paszkowycz & Bamber, 2007)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449112	
+820183	247242	Pagurapseudes		heterocheles	Vanhöffen, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820183	
+449069	720613	Pancoloides		moverleyi	Edgar, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449069	
+136479	247562	Pseudoleptochelia		longydactyus	(Bacescu), 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136479	
+478737	247317	Saltipedis		fragilis	(Larsen & Shimomura, 2006)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:478737	
+820850	247244	Synapseudes		rudis	Makkaveeva, 1971 (non Menzies, 1953)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820850	
+819847	247740	Tanais		abyssorum	Nierstrasz, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819847	
+478707	746213	Biropalostoma		tenuicorporeum	(Shiino, 1963)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:478707	
+820535	136468	Paratanais		algicola	Harger, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820535	
+820561	136470	Leptochelia		incerta	Moore, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820561	
+826433	136470	Leptochelia		kroyeri	(Kossmann, 1880)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826433	
+820568	247545	Dolichochelia		forresti	Stebbing, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820568	
+247538	157837	Hargeria		rapax	(Harger, 1879)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247538	
+827010	247545	Leptochelia		brasiliensis	Brum, 1973 not (Dana, 1849)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827010	
+829015	136475	Leptochelia		dubia	Sars, 1886 not (Krøyer, 1842)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:829015	
+136471	136475	Leptochelia		Edwardsii	(Krøyer, 1842)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136471	
+820562	136470	Leptochelia		lifuensis	Stebbing, 1900				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820562	
+820365	247540	Paratanais		barnardi	(Brown, 1957)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820365	
+220680	247544	Paratanais		erythraea	Kossmann, 1880				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:220680	
+819809	247186	Cirratodactylus		floridensis	Gardiner, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819809	
+247321	449109	Pakistanapseudes		hodgsoni	Bamber, 2000				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247321	
+247326	449094	Pakistanapseudes		toloensis	(Bamber, 1997)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247326	
+820569	247546	Paratanais		ignotus	Chilton, 1885				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820569	
+247604	720029	Protanaissus		floridensis	Larsen & Heard, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247604	
+247557	740245	Pseudoleptochelia		anorexia	Bird & Bamber, 2000				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247557	
+247558	820517	Pseudoleptochelia		antarctica	(Lang, 1953)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247558	
+247559	738498	Pseudoleptochelia		bulbus	Bamber, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247559	
+156371	738512	Pseudoleptochelia		inermis	(Dollfus, 1898)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156371	
+136481	136472	Pseudoleptochelia		mercantilis	(Smith, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136481	
+247563	740223	Pseudoleptochelia		mergellinae	(Smith, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247563	
+136482	740223	Pseudoleptochelia		merginellae	(Smith, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136482	
+247564	738514	Pseudoleptochelia		mortenseni	Lang, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247564	
+720008	738513	Pseudoleptochelia		occiporta	Blazewicz-Paszkowycz & Bamber, 2012				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:720008	
+740267	820799	Pseudonototanais	Pseudonototanais	ebriosus	Bamber & Bird, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:740267	
+819856	740263	Tanaiomera		columbina	Brown, 1957				nomen dubium	Unaccepted name	urn:lsid:marinespecies.org:taxname:819856	
+818873	247541	Tanais		brasiliensis	Dana, 1849				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:818873	
+820185	136470	Tanais		dubius	Krøyer, 1842				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820185	
+820359	247548	Tanais		longichelipes	Lang, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820359	
+820186	136475	Tanais		Savignyi	Krøyer, 1842				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820186	
+577918	247463	Paranarthrura		abbreviata	Vanhöffen, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:577918	
+819862	247699	Archaeotanais		hirsutus	(Beddard, 1886)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819862	
+820256	247612	Paratanais		bathybrotis	Beddard, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820256	
+247211	739697	Cyclopoapseudes		diceneon	Gardiner, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247211	
+247212	739695	Cyclopoapseudes		estafricana	Bacescu, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247212	
+247213	739696	Cyclopoapseudes		indecorus	Menzies, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247213	
+244657	244655	Mortensenia		longidigitata	Kudinova-Pasternak, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244657	
+247419	478729	Paranarthrura		zevinae	Kudinova-Pasternak, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247419	
+827486	247232	Synapseudes		carinatoides	Bacescu, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827486	
+820849	247233	Synapseudes		carinatus	Makkaveeva, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820849	
+448316	798737	Akanthophoreus		antarcticus	(Vanhöffen, 1914)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:448316	
+448317	798737	Akanthophoreus		australis	(Beddard, 1886)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:448317	
+449015	798742	Akanthophoreus		crassicauda	Bird, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449015	
+449016	798745	Akanthophoreus		imputatus	Bird, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449016	
+136341	798746	Akanthophoreus		inermis	(Hansen, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136341	
+136342	798747	Akanthophoreus		longiremis	(Lilljeborg, 1864)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136342	
+136343	798748	Akanthophoreus		multiserratus	(Hansen, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136343	
+449017	798750	Akanthophoreus		nanopsenos	Bamber & Bird, 2009				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449017	
+729960	798752	Akanthophoreus		verutus	Blazewicz-Paszkowycz, Bamber, Józwiak, 2013				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:729960	
+606476	798753	Akanthophoreus		vikingra	Blazewicz-Paszkowycz & Bamber, 2011				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:606476	
+448318	798754	Akanthophoreus		weddellensis	Sieg, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:448318	
+247490	798736	Paraleptognathia		alba	(Hansen, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247490	
+247494	798739	Paraleptognathia		benguela	Guerrero-Kommritz, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247494	
+247495	798740	Paraleptognathia		bisetulosa	Dojiri & Sieg, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247495	
+247496	798741	Paraleptognathia		brachiata	(Hansen, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247496	
+247497	798743	Paraleptognathia		fastuosa	Guerrero-Kommritz, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247497	
+247502	798749	Paraleptognathia		multiserratoides	Guerrero-Kommritz, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247502	
+247503	798751	Paraleptognathia		tenuichela	Guerrero-Kommritz, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247503	
+247561	738509	Pseudoleptochelia		fairgo	Bamber, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247561	
+827578	738511	Pseudoleptochelia		fairgo	Bamber, 2008 non Bamber, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827578	
+731984	738510	Pseudoleptochelia		juliae	(Morales-Núñez, Heard & Alfaro, 2013)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:731984	
+738527	820575	Pseudonototanais	Makassaritanais	angustus	Gutu, 2012				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:738527	
+738528	820576	Pseudonototanais	Makassaritanais	bamberi	Gutu, 2012				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:738528	
+820975	247465	Nototanais		beebei	Van Name, 1925				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820975	
+247610	740305	Gammerus		heteroclitus	Viviani, 1805				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247610	
+819947	247107	Calozodion		propinquus	(Richardson, 1902)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819947	
+819599	247109	Apseudes		triangulata	Richardson, 1902				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819599	
+826462	247109	Calozodion		triangulatus	(Richardson, 1902)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826462	
+247327	449086	Pakistanapseudes		turkoroa	Blazewicz-Paszkowycz & Bamber, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247327	
+818865	247435	Leptognathia		glacialis	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:818865	
+136439	247436	Leptognathia		latiremis	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136439	
+136435	136340	Leptognathia		gracilis	(Krøyer, 1842)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136435	
+136446	136340	Leptognathia		sarsi	Hansen, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136446	
+247498	136340	Paraleptognathia		gracilis	(Krøyer, 1842)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247498	
+820104	247256	Apseudes		australis	Haswell, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820104	
+247270	739702	Pagurapseudes		abrucei	Bacescu, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247270	
+818866	136362	Paranarthrura		clavipes	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:818866	
+449078	449019	Proleptochelia		euskadiensis	Vonk & Schram, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449078	
+247515	478741	Scoloura		phillipsi	Sieg & Dojiri, 1991				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247515	
+819883	247876	Typhlotanais		angularis	Kudinova-Pasternak, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819883	
+820095	247877	Typhlotanais		elegans	Kudinova-Pasternak, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820095	
+820119	247878	Typhlotanais		grandis	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820119	
+244628	458646	Apseudes		heroae	Sieg, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244628	
+819125	478722	Apseudes		intermedius		garthi	Subspecies	Bacescu, 1961	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819125	
+449133	449070	Gollumudes		basibadens	Gutu, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449133	
+819067	478743	Gollumudes		bermudeus	(Bacescu, 1980)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819067	
+247100	478721	Gollumudes		botosaneanui	Gutu, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247100	
+819068	478722	Gollumudes		garthi	(Menzies, 1953)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819068	
+819069	478723	Gollumudes		intermedius	(Hansen, 1895)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819069	
+247101	478724	Gollumudes		larakia	(Edgar, 1997)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247101	
+247102	478725	Gollumudes		littoralis	(Shiino, 1952)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247102	
+247103	478726	Gollumudes		mortoni	(Bamber, 1997)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247103	
+247104	478727	Gollumudes		tropicalis	(Miller, 1940)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247104	
+247488	478728	Parafilitanais		mexicana	Larsen, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247488	
+827980	247879	Typhlotanais		longisetosus	Kudinova-Pasternak, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827980	
+449135	449104	Typhlotanais		magdalensis	Larsen & Shimomura, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449135	
+819196	247880	Typhlotanais		parangularis	Kudinova-Pasternak, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819196	
+826522	247881	Typhlotanais		rotundirostris	Lang, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826522	
+819482	247154	Apseudes		adenaicus	Bacescu, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819482	
+820257	136431	Tanais		breviremis	Lilljeborg, 1864				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820257	
+737433	247572	Biarticulata		distincta	(Kudinova-Pasternak, 1981)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:737433	
+737434	247573	Biarticulata		elegans	(Kudinova-Pasternak, 1965)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:737434	
+737435	247575	Biarticulata		greveae	(Kudinova-Pasternak, 1976)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:737435	
+136422	136355	Leptognathia		abyssi	(Hansen, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136422	
+819143	247115	Apseudes	Apseudes	sicilianus	Bacescu, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819143	
+136282	247115	Apseudes		sicilianus	Bacescu, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136282	
+737436	247585	Biarticulata		mironovi	(Kudinova-Pasternak, 1981)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:737436	
+737437	247586	Biarticulata		parabranchiata	(Kudinova-Pasternak, 1977)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:737437	
+737439	247587	Biarticulata		paraelegans	(Kudinova-Pasternak, 1970)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:737439	
+737428	247590	Biarticulata		tuberculata	(Hansen, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:737428	
+247202	734333	Calozodion		codreanui	Gutu, 1996				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247202	
+136492	247581	Cryptocope		longa	Kudinova-Pasternak, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136492	
+136493	247592	Cryptocope		vitjazi	Kudinova-Pasternak, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136493	
+737431	247582	Forcipatia		longimanus	(Larsen, 2005)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:737431	
+737430	247589	Forcipatia		rotundicauda	(Kudinova-Pasternak, 1970)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:737430	
+247552	738525	Leptochelia		nobbi	Bamber, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247552	
+247578	478716	Leptognathia		langi	Kudinova-Pasternak, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247578	
+826918	247456	Leptognathia		manca	Bruce et al., 1963 not Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826918	
+818864	247483	Leptognathia		vicina	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:818864	
+819015	447838	Leptognathia		australis	(Vanhöffen, 1914) not Beddard, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819015	
+737440	247587	Leptognathia		paraelegans					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:737440	
+136444	136359	Leptognathia		polita	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136444	
+136447	136358	Leptognathia		subaequalis	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136447	
+689483	247399	Neotanais		insolitus	Gardiner, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:689483	
+449066	853224	Neotanais		rotermundiae	Weigmann & Guerrero-Kommritz, 2009				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449066	
+819065	247312	Pakistanapseudes		thokozele	Bamber & Sheader, 2003				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819065	
+819644	247116	Pectinapseudes		carolinensis	Bacescu & Williams, 1988				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819644	
+387633	247117	Pectinapseudes		magnus	Gutu, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:387633	
+387634	247118	Pectinapseudes		mesteri	Gutu, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:387634	
+136368	247577	Strongylurella		indivisa	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136368	
+247360	739727	Tanzanapseudes		elegans	(Roman, 1976)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247360	
+136429	136344	Leptognathia		brevimana	(Lilljeborg, 1864)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136429	
+136430	136344	Leptognathia		brevimanu	Nierstrasz & Schuurmans Stekhoven, 1930				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136430	
+820860	244592	Leptognathia		elongata	Shiino, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820860	
+136434	136346	Leptognathia		filiformis	(Lilljeborg, 1864)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136434	
+136488	136457	Paratanais		batei	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136488	
+826924	136457	Paratanais		forcipatus	Bate & Westwood, 1868 not (Lilljeborg, 1864)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826924	
+479923	136319	Apseudes		anomalus	Sars, 1869				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:479923	
+819154	247106	Apseudes		nigrifrons	Shiino, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819154	
+826483	244594	Araphura		brevimanus	Sieg, 1986 not (Lilljeborg, 1864)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826483	
+244593	247665	Araphura		parabrevimana	(Lang, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244593	
+819062	247664	Arhaphuroides		io	(Bamber, 2005)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819062	
+820079	247366	Apseudes		multicarinatus	Whitelegge, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820079	
+247165	731755	Kalliapseudes		gobinae	Bamber, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247165	
+247171	731756	Kalliapseudes		multiarticulus	Gutu, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247171	
+247176	760840	Kalliapseudes		tomiokaensis	Shiino, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247176	
+820864	247665	Leptognathia		parabrevimanus	Lang, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820864	
+819850	247666	Leptognathia		rectifrons	Kudinova-Pasternak, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819850	
+577923	247567	Nototanais		werthi	Vanhöffen, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:577923	
+136498	136501	Pontotanais		Borceai	Bacescu, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136498	
+157838	740269	Pseudoleptochelia		filum	(Stimpson, 1853)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:157838	
+738529	819953	Pseudonototanais	Makassaritanais	modestus	(Kussakin & Tzareva, 1972)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:738529	
+738531	247565	Pseudonototanais	Pseudonototanais	bransfieldensis	Sieg, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:738531	
+740268	247567	Pseudonototanais	Pseudonototanais	werthi	(Vanhöffen, 1914)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:740268	
+820115	136499	Pseudotanais		abyssi	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820115	
+820374	136500	Pseudotanais		affinis	Hansen, 1887				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820374	
+826920	136505	Pseudotanais		forcipatus	(Lilljeborg, 1864)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826920	
+820177	244599	Pseudotanais		gaussi	Vanhöffen, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820177	
+820952	244600	Pseudotanais		guillei	Shiino, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820952	
+826921	136507	Pseudotanais		lilljeborgii	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826921	
+820114	136508	Pseudotanais		longipes	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820114	
+183377	136510	Pseudotanais		longispinosus	Bird & Holdich, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:183377	
+826922	136511	Pseudotanais		macrocheles	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826922	
+819867	247646	Pseudotanais		makrothrix	Dojiri & Sieg, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819867	
+136322	136319	Sphyrapus		anomalus	Sars, 1869				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136322	
+820982	247701	Tanais		alascensis	Richardson, 1899				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820982	
+136512	136513	Pseudotanais		mediterraneus	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136512	
+820097	247655	Pseudotanais		oculatus	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820097	
+389587	247649	Pseudotanais		scrappi	Bamber, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:389587	
+729941	740309	Pseudotanais		soja	Blazewicz-Paszkowycz, Bamber & Józwiak, 2013				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:729941	
+819878	247657	Pseudotanais		vitjazi	Kudinova-Pasternak, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819878	
+136324	136321	Sphyrapus		serratus	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136324	
+247359	819223	Sphyrapus		stebbingi	Richardson, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247359	
+247365	247367	Whiteleggia		incerta	Gutu, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247365	
+819804	247184	Kalliapseudes	Monokalliapseudes	schubarti	Mañé-Garzón, 1949				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819804	
+247183	247184	Monokalliapseudes		gianucai	(Bacescu, 1979)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247183	
+819881	136554	Tanais		brevicornis	Lilljeborg, 1864				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819881	
+819880	136554	Typhlotanais	Monosmerinx	brevicornis	(Lilljeborg, 1864)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819880	
+428585	247119	Apseudes		setosus	Lang, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:428585	
+826923	478749	Paratanais		cornutus	Sars, 1879				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826923	
+244611	478745	Peraeospinosus		adipatus	(Tzareva, 1982)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244611	
+247681	247902	Peraeospinosus		angusticheles	Kudinova-Pasternak, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247681	
+136551	136568	Peraeospinosus		mixtus	(Hansen, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136551	
+820263	478746	Tanais		aequiremis	Lilljeborg, 1864				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820263	
+136552	478746	Typhlotanais	Typhlotanais	aequiremis	(Lilljeborg, 1864)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136552	
+136553	478747	Typhlotanais	Typhlotanais	assimilis	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136553	
+820264	478772	Tanais		tenuimanus	Lilljeborg, 1864				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820264	
+247910	478739	Typhlotanais		eximus	Blazewicz-Paszkowycz, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247910	
+820120	247885	Typhlotanais		mucronatus	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820120	
+829183	247698	Typhlotanais		rostralis	Tzareva, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:829183	
+820858	247886	Typhlotanais		sandersi	Kudinova-Pasternak, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820858	
+244613	478761	Typhlotanais	Monosmerinx	parvus	Sieg, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244613	
+247687	478748	Typhlotanais	Typhlotanais	compactus	Kudinova-Pasternak, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247687	
+136555	478749	Typhlotanais	Typhlotanais	cornutus	Sars, 1879				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136555	
+244615	820949	Typhlotanais	Typhlotanais	dubius	Tzareva, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244615	
+136556	478739	Typhlotanais	Typhlotanais	eximius	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136556	
+136557	478752	Typhlotanais	Typhlotanais	finmarchicus	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136557	
+826513	606517	Typhlotanais	Typhlotanais	froufesae	Larsen, 2011				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826513	
+244617	478753	Typhlotanais	Typhlotanais	greenwichensis	Shiino, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244617	
+244619	478754	Typhlotanais	Typhlotanais	gruzovi	Tzareva, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244619	
+136560	478755	Typhlotanais	Typhlotanais	inaequipes	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136560	
+136561	478756	Typhlotanais	Typhlotanais	inermis	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136561	
+819807	247153	Hemikalliapseudes		cavooreni	Bacescu & Absalao, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819807	
+414648	868466	Bacescapseudes		patagoniensis	Sieg, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:414648	
+247560	478742	Pseudoleptochelia		crassicornis	(Stebbing, 1905)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247560	
+449081	738519	Pseudoleptochelia		straddi	Bamber, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449081	
+819018	247351	Pseudosphyrapus		dispar	(Lang, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819018	
+136433	136486	Leptognathia		crassimana	Dollfus, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136433	
+820939	136486	Leptognathia		Lilljeborgi	Stebbing, 1891				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820939	
+136442	136371	Leptognathia		ochracea	(Hansen, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136442	
+136450	136372	Leptognathia		unguicillata	Lang, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136450	
+819948	247352	Pseudosphyrapus		larisae	Gutu, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819948	
+827696	247353	Pseudosphyrapus		siegi	Viskup & Heard, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827696	
+136544	136546	Tanais		cavolinii	Milne Edwards, 1840				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136544	
+449025	739512	Apseudes		coriolis	Bamber, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449025	
+247084	449102	Atlantapseudes		diversus	(Lang, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247084	
+737441	473658	Biarticulata		voeringi	(Sars, 1877)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:737441	
+819943	247262	Brumia		carinata	(Brum, 1973)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819943	
+820936	247605	Leptochelia		danica	Hansen, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820936	
+136426	723366	Leptognathia		arctophylax	(Norman & Stebbing, 1886)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136426	
+820822	247420	Leptognathia		caudata	Kudinova-Pasternak, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820822	
+428703	247674	Leptognathia		forcifera	Lang, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:428703	
+820861	247523	Leptognathia		gallardoi	Shiino, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820861	
+820262	136458	Leptognathia		graciloides	(Lilljeborg, 1864)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820262	
+136438	136459	Leptognathia		laticaudata	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136438	
+428705	244589	Leptognathia		paraforcifera	Lang, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:428705	
+820940	157839	Leptognathia		psammophila	Wallace, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820940	
+136452	473658	Leptognathia		vöringi	(Sars, 1877)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136452	
+819941	247262	Parapagurapseudopsis		carinata	Brum, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819941	
+247512	478730	Robustognathia		dissimilis	(Lang, 1972)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247512	
+826459	136547	Tanais		cavolinii	Sars, 1882 not Milne Edwards, 1840				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826459	
+826461	247747	Tanais		cavolinii	Shiino, 1951 not Milne-Edwards, 1840				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826461	
+247690	478757	Typhlotanais	Typhlotanais	kussakini	Kudinova-Pasternak, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247690	
+247691	478758	Typhlotanais	Typhlotanais	longicephala	Kudinova-Pasternak, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247691	
+136564	478759	Typhlotanais	Typhlotanais	longimanus	Dollfus, 1897				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136564	
+136566	478760	Typhlotanais	Typhlotanais	messinensis	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136566	
+136570	478762	Typhlotanais	Typhlotanais	penicillatus	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136570	
+820950	606518	Typhlotanais	Typhlotanais	pereosetulosa	Larsen, 2011				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820950	
+136571	478763	Typhlotanais	Typhlotanais	plebejus	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136571	
+247697	247698	Typhlotanoides		insolitus	Sieg, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247697	
+136572	478765	Typhlotanais	Typhlotanais	proctagon	Tattersall, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136572	
+136573	478766	Typhlotanais	Typhlotanais	profundus	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136573	
+247695	478767	Typhlotanais	Typhlotanais	simplex	Kudinova-Pasternak, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247695	
+136576	478768	Typhlotanais	Typhlotanais	solidus	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136576	
+828943	606497	Typhlotanais	Typhlotanais	spatulasetosus	Larsen, 2012				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:828943	
+136577	478769	Typhlotanais	Typhlotanais	spinicauda	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136577	
+136578	478770	Typhlotanais	Typhlotanais	spinipes	Kudinova-Pasternak, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136578	
+136580	478771	Typhlotanais	Typhlotanais	tenuicornis	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136580	
+136582	478772	Typhlotanais	Typhlotanais	tenuimanus	(Lilljeborg, 1864)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136582	
+136583	478773	Typhlotanais	Typhlotanais	trispinosus	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136583	
+136584	478774	Typhlotanais	Typhlotanais	variabilis	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136584	
+826460	136547	Tanais		chevreuxi	Monod, 1925 not Dollfus, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826460	
+820986	136546	Tanais		Gallardoi	Giambiagi, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820986	
+136485	247605	Tanaissus		elongatus	Jones & Holdich, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136485	
+136328	247356	Sphyrapoides		tudes	(Norman & Stebbing, 1886)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136328	
+826482	136455	Cryptocope		antarctica	Kussakin, 1967 not Vanhöffen, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826482	
+244603	136455	Cryptocopoides		rotundata	Tzareva, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244603	
+819063	247133	Apseudes		galeroni	Bacescu, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819063	
+136263	247113	Apseudes		graciloides	Stephensen, 1915				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136263	
+244635	247134	Leviapseudes		sibogae	(Nierstrasz, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244635	
+820373	247641	Mortensenia		primitiva	(Sieg, 1973 M.S.) Sieg, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820373	
+247603	740311	Protanaissus		alvesi	Gutu, 1996				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247603	
+244609	720027	Protanaissus		makrotrichos	Sieg, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244609	
+820368	244608	Tanaissus		longidactylus	(Shiino, 1970)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820368	
+820253	247893	Typhlotanais		brachyurus	Beddard, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820253	
+244621	136563	Typhlotanais		kerguelenensis	Beddard, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244621	
+819222	247738	Anatanais		birsteini	Kudinova-Pasternak, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819222	
+820537	247514	Leptochelia		coeca	(Harger, 1878)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820537	
+820536	247514	Leptognathia		caeca	(Harger, 1878)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820536	
+478718	247341	Magniaculeus		forex	(Bamber, 2005)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:478718	
+478719	247342	Magniaculeus		incognitus	(Bamber, 2005)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:478719	
+449060	247344	Magniaculeus		nugoris	(Blazewicz-Paszkowycz & Bamber, 2007)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449060	
+247339	739722	Saltipedis		achondroplasia	Bamber, Bird & Angsupanich, 2003				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247339	
+247340	739723	Saltipedis		bacescui	Gutu, 1998				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247340	
+247343	739724	Saltipedis		navassensis	Hansknecht, Heard & Martin, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247343	
+247345	739725	Saltipedis		paulensis	(Brum, 1971)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247345	
+247346	739726	Saltipedis		robustispinosus	Gutu, 1996				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247346	
+244623	237599	Typhlotanais		magnificus	Kudinova-Pasternak, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244623	
+820092	237603	Typhlotanais		magnus	Kudinova-Pasternak, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820092	
+428829	237601	Typhlotanais		peculiaris	Lang, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:428829	
+244622	244652	Typhlotanais		pushkini	Tzareva, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244622	
+244653	244624	Typhlotanais		rectus	Kudinova-Pasternak, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244653	
+247426	478704	Anarthruropsis		longus	Kudinova-Pasternak, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247426	
+829243	247707	Tanais	Anatanais	lineatus	Nordenstam, 1930				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:829243	
+819858	819859	Tanais		nierstraszi	Stebbing, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819858	
+819144	247087	Apseudes		gallardoi	Shiino, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819144	
+819479	247086	Apseudes		gallardoi		djiboutiensis	Subspecies	Bacescu, 1978	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819479	
+819478	247087	Bilobatus		crenulatus	Sieg, 1993				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819478	
+819582	247086	Bilobatus		gallardoi		djiboutiensis	Subspecies	Bacescu, 1978	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819582	
+820142	577911	Cryptocope		antarctica	Vanhöffen, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820142	
+136490	136495	Cryptocope		arctica	Hansen, 1887				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136490	
+136299	136303	Leiopus		gracilis	(Norman & Stebbing, 1886)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136299	
+136300	136304	Leiopus		gracillimus	(Hansen, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136300	
+136425	247471	Leptognathia		amdrupii	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136425	
+577847	247135	Apseudes		aberrans	(Lang, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:577847	
+244638	244637	Apseudes		antarcticus	Beddard, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244638	
+136259	247137	Apseudes		caeca	Willemoes-Suhm, 1875				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136259	
+247046	478712	Apseudes		chilkensis	Chilton, 1924				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247046	
+577849	247138	Apseudes		conspicuus	(Lang, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:577849	
+819483	247287	Apseudes		gymnophobia	Barnard, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819483	
+136273	136306	Apseudes		leptodactylus	(Beddard, 1886)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136273	
+827652	478713	Apseudes		sapensis	Chilton, 1926				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827652	
+577839	247144	Apseudes		shiinoi	(Lang, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:577839	
+247062	832096	Apseudes		siegi	Kudinova-Pasternak, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247062	
+819852	247272	Kalliapseudes		dentatus	Brown, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819852	
+136301	136305	Leiopus		hanseni	Lang, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136301	
+819845	247145	Leiopus		weberi	(Nierstrasz, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819845	
+428699	247146	Leiopus		wolffi	Lang, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:428699	
+819877	247147	Leiopus		zenkevitchi	(Kudinova-Pasternak, 1966)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819877	
+136427	247473	Leptognathia		armata	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136427	
+136437	247476	Leptognathia		hastata	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136437	
+244632	247141	Leviapseudes		galathea	(Wolff, 1956)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244632	
+244584	606479	Magotanais		pruinosus	Guerrero-Kommritz & Blazewicz-Paszkowycz, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244584	
+136345	136347	Araphura		brevispina	Bird & Holdich, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136345	
+607931	740310	Arthrura		longicephalus	(Kudinova-Pasternak, 1978)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:607931	
+819645	247122	Apseudes		austroafricanus	Barnard, 1940				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819645	
+827395	247124	Apseudes		gracilis	Dojiri & Sieg, 1997 nec Norman & Stebbing, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827395	
+819071	136292	Apseudes		obtusifrons	Norman & Stebbing, 1886 not Haswell, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819071	
+136278	136292	Apseudes		retusifrons	Richardson, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136278	
+136283	136298	Apseudes		simplicirostris	Norman & Stebbing, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136283	
+244651	244649	Carololangia		mirabunda	Gardiner, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244651	
+247121	478710	Carpoapseudes		auritochelis	Kudinova-Pasternak, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247121	
+237597	237611	Leptognathia		arnaudi	Shiino, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:237597	
+244582	577716	Libanius		monacanthus	(Vanhöffen, 1914)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244582	
+247458	607930	Libanius		pulcher	Lang, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247458	
+136325	136334	Alaotanais		hastiger	Norman & Stebbing, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136325	
+136326	136335	Alaotanais		laevispinosus	Norman & Stebbing, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136326	
+136314	238739	Anuropoda		francispori	Bacescu, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136314	
+819396	247097	Apseudes		bicornis	Kudinova-Pasternak, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819396	
+819602	247098	Apseudes		bowmani	Gutu & Iliffe, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819602	
+247065	832097	Apseudes		vitjazi	Kudinova-Pasternak, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247065	
+478711	247097	Collossella		bicornis	(Kudinova-Pasternak, 1973)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:478711	
+247905	606219	Collossella		suprema	Józwiak & Blazewicz-Paszkowycz, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247905	
+826565	247301	Discapseudes		holthuisi	Escobar-Briones et al., 1999 not Bacescu & Gutu, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826565	
+828335	247445	Filitanais		vermiformis	Kudinova-Pasternak, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:828335	
+247568	136352	Leptognathia		abyssorum	(Dollfus, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247568	
+156197	136353	Leptognathia		angusta	(GO Sars, 1882)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156197	
+247579	136354	Leptognathia		linearis	(Hansen, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247579	
+577906	183393	Leptognathia		robusta	Kudinova-Pasternak, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:577906	
+689481	247131	Leviapseudes		desbruyeresi	Bacescu, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:689481	
+819610	247132	Leviapseudes		thomassini	Bacescu, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819610	
+244650	244649	Neotanais		plumatus	Kudinova-Pasternak, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244650	
+821738	247285	Pagurapseudopsis		gymnophobia		ceylonica	Subspecies	Bacescu, 1981	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821738	
+819631	247281	Pagurolangis		bouryi	(Bouvier, 1918)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819631	
+827526	247282	Pagurolangis		guitarti	(Gutu & Gomez, 1976)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827526	
+827589	247291	Pakistanapseudes		goofi	Bamber & Sheader, 2003				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827589	
+820375	136489	Tanais		abbreviatus	Sars, 1868				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820375	
+821601	247728	Anatanais		gracilis	(Heller, 1865)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821601	
+820181	247730	Anatanais		litoralis	(Vanhöffen, 1914)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820181	
+820182	247735	Anatanais		litoralis	(Vanhöffen, 1914)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820182	
+819910	247710	Anatanais		marmoratus	Nordenstam, 1930				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819910	
+821603	247729	Anatanais		ohlini	(Stebbing, 1914)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:821603	
+242588	832091	Apseudes		abyssalis	Blazewicz-Paszkowycz & Larsen, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:242588	
+247050	832092	Apseudes		lagenirostris	Lang, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247050	
+244629	832093	Apseudes		paragracilis	Kudinova-Pasternak, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:244629	
+136286	832094	Apseudes		tenuimanus	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136286	
+136287	832095	Apseudes		tenuis	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136287	
+136289	832090	Apseudes		vicinus	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136289	
+827385	247283	Pagurolangis		laevis	(Menzies, 1953)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827385	
+827386	247284	Pagurolangis		largoensis	(McSweeny, 1982)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827386	
+389188	247516	Singularia		cuncta	Blazewicz-Paszkowycz, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:389188	
+819950	247700	Tanais		annectens	Barnard, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819950	
+819918	819920	Tanais		neo-zelanica	Thomson, 1879				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819918	
+820985	247731	Tanais		spongicola	Barnard, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820985	
+819936	247737	Tanais		stanfordi	Richardson, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819936	
+247746	740348	Tanais		tenuicornis	(Haswell, 1882)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247746	
+819195	247873	Typhlotanais		filatovae	Kudinova-Pasternak, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819195	
+820118	247872	Typhlotanais		pulcher	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820118	
+820371	247874	Typhlotanais		spiniventris	Dollfus, 1897				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820371	
+449113	819896	Zeuxo	Parazeuxo	amiti	Bamber, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449113	
+571693	819897	Zeuxo	Parazeuxo	andaminimus	Bamber & Chatterjee, 2010				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:571693	
+449114	819893	Zeuxo	Parazeuxo	belli	Edgar, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449114	
+136339	136330	Neotanais		serratispinosus	(Norman & Stebbing, 1886)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136339	
+136331	136334	Neotanais		edwardsi partim I	Dollfus, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136331	
+136332	136335	Neotanais		edwardsi partim II	Nierstrasz, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136332	
+428873	136333	Neotanais		serratispinosus		hadalis	Subspecies	Wolff, 1956	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:428873	
+577873	237607	Strongylura		antarctica	Vanhöffen, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:577873	
+136366	136348	Strongylura		cylindrata	Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136366	
+136367	136349	Strongylura		minima	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136367	
+820091	247633	Acanthotanais		oculatus	(Vanhöffen, 1914)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820091	
+819637	739720	Apseudes		algicola	Shiino, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819637	
+819944	247328	Apseudes		inermis	Brum, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819944	
+136445	247635	Leptognathia		rigida	(Bate & Westwood, 1868)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136445	
+820088	247394	Neotanais		bulbodens	Gardiner, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820088	
+428730	247383	Neotanais		deflexirostris	Lang, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:428730	
+820087	247383	Neotanais		longimanus	Wolff, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820087	
+247388	388228	Neotanais		noelitaiti	Larsen & Hansknecht, 2003				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247388	
+762899	136316	Parapseudes		grubei	Bacescu, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:762899	
+478733	136316	Parapseudes		pedispinis	(Boone, 1923)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:478733	
+826890	136316	Rhoea		latifrons	Grube, 1864				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:826890	
+819849	247441	Strongylura		larviformis	Kudinova-Pasternak, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819849	
+820269	247445	Strongylura		vermiformis	Lang, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820269	
+818874	247622	Tanais		elongatus	Dana, 1849				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:818874	
+136545	136535	Tanais		chevreuxi	Dollfus, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136545	
+577903	183393	Tanaissus		robustus	(Kudinova-Pasternak, 1970)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:577903	
+136558	247597	Typhlotanais		gracilipes	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136558	
+820943	247682	Typhlotanais		mananensis	Wallace, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820943	
+136567	247599	Typhlotanais		microcheles	G.O. Sars, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136567	
+136575	247601	Typhlotanais		richardi	Dollfus, 1897				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136575	
+820178	147084	Typhlotanais		armata	Vanhöffen, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820178	
+820116	247892	Typhlotanais		irregularis	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:820116	
+819193	247866	Typhlotanais		longus	Kudinova-Pasternak, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819193	
+183474	136550	Typhlotanais		macrocephala	Hansen, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:183474	
+136565	136550	Typhlotanais		macrocephalus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136565	
+819879	247894	Typhlotanais		setosus	Kudinova-Pasternak, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819879	
+247711	389783	Zeuxo	Parazeuxo	cloacarattus	Bamber, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247711	
+247712	819898	Zeuxo	Parazeuxo	coralensis	Sieg, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247712	
+606485	819899	Zeuxo	Parazeuxo	coturnix	Bamber, 2012				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:606485	
+247713	819901	Zeuxo	Parazeuxo	exsargasso	Sieg, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247713	
+247714	819904	Zeuxo	Parazeuxo	kurilensis	(Kussakin & Tzareva, 1974)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247714	
+819905	819904	Zeuxo	Parazeuxo	maldivensis	Sieg, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819905	
+449115	819895	Zeuxo	Parazeuxo	mooneyi	Edgar, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449115	
+247715	819922	Zeuxo	Parazeuxo	phytalensis	Sieg, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247715	
+449116	819923	Zeuxo	Parazeuxo	russi	Edgar, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449116	
+247716	819253	Zeuxo	Parazeuxo	seurati	(Nobili, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247716	
+247717	819929	Zeuxo	Parazeuxo	zorro	Bamber & Bird, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247717	
+247718	389589	Zeuxo	Zeuxo	angua	Bamber, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247718	
+247720	819902	Zeuxo	Zeuxo	fresii	Sieg, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247720	
+136526	416601	Zeuxo	Zeuxo	holdichi	Bamber, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:136526	
+449117	819894	Zeuxo	Zeuxo	kirkmani	Edgar, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449117	
+247721	389590	Zeuxo	Zeuxo	nannioggae	Bamber, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247721	
+247722	819913	Zeuxo	Zeuxo	normani	(Richardson, 1905)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247722	
+478740	819920	Zeuxo	Zeuxo	novaezealandiae	(Thomson, 1879)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:478740	
+449118	819921	Zeuxo	Zeuxo	odohertyae	Edgar, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449118	
+449119	819924	Zeuxo	Zeuxo	shepherdi	Edgar, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:449119	
+247724	819925	Zeuxo	Zeuxo	simonsiensis	Sieg, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247724	
+247725	819927	Zeuxo	Zeuxo	vanhoeffeni	Sieg, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247725	
+247726	819928	Zeuxo	Zeuxo	westwoodiana	Templeton, 1840				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247726	
+819915	819913	Zeuxo		paranormani	Sieg, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:819915	

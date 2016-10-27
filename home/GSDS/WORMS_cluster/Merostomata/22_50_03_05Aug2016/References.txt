@@ -1,0 +1,7 @@
+ReferenceID	Authors	Year	Title	Details	
+42			ITIS database		
+64	Hansson, H.	2004	North East Atlantic Taxa (NEAT): Nematoda		
+1318	van der Land, J. (ed)	2008	UNESCO-IOC Register of Marine Organisms (URMO)		
+3017	Meinkoth, N.A.	1981	Field guide to North American seashore creatures. The Audubon Society. Alfred A. Knopf. New York. 799 p.		
+3042	Pollock, L.W.	1998	A Practical Guide to the Marine Animals of Northeastern North America.	Rutgers University Press, New Brunswick, New Jersey & London.. 367pp.	
+152417	Liu J.Y. [Ruiyu] (ed.)	2008	Checklist of marine biota of China seas	China Science Press. 1267 pp	

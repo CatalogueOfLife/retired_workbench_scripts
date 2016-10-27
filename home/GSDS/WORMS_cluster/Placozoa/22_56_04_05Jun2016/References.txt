@@ -1,0 +1,16 @@
+ReferenceID	Authors	Year	Title	Details	
+1264	Parker, S.P. (Ed.)	1982	Synopsis and classification of living organisms. McGraw Hill Book Company: New York, NY (USA). ISBN 0-07-079031-0. 1166, 1232 pp.		
+1318	van der Land, J. (ed)	2008	UNESCO-IOC Register of Marine Organisms (URMO)		
+1403	van der Land, J.	2001	Placozoa, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+10071	Ocana, A.; Ibanez, A	2006	A new record for Placozoa from the Mediterranean Sea. Belgian Journal of Zoology 136(2): 249-250.		
+38479	Syed, T.; Schierwater, B.	2002	Trichoplax adhaerens: discovered as a missing link, forgotten as a hydrozoan, re-discovered as a key to metazoan evolution	Vie Milieu. 52(4): 177-187	
+61679	Ivanov, A. V.	1973	Trichoplax adhaerens Schulze and the question of the orgin of the Metazoa	Doklady Akademii Nauk SSSR. 211(6): 1469-1471	
+131910	Monticelli, F.S.	1893	Treptoplax reptans n.g., n.sp. Atti dell´ Academia dei Lincei, Rendiconti (5)II, 39-40.		
+131912	Behrendt, G.; Ruthmann, A.	1986	The cytoskeleton of the fiber cells of Trichoplax adhaerens (Placozoa)	Zoomorphology. 106(2), 123-130	
+131913	Buchholz, K.; Ruthmann, A.	1995	The mesenchyme-like layer of the fibre cells of Trichoplax adhaerens: A syncytium	Z Naturforsch [C. 50, 282-285	
+131914	Ivanov, A. V.	1973	Trichoplax adhaerens, a phagocytella-like animal	Zoologiceskij Zurnal. 52: 1117-1131	
+131916	Ruthmann, A.; Behrendt, G.; Wahl, R.	1986	The ventral epithelium of Trichoplax adhaerens (Placozoa): Cytoskeletal structures, cell contacts and endocytosis	Zoomorphology. 106(2), 115-122	
+131918	Stiasny, G.	1903	Einige histologische Details über Trichoplax adhaerens. Zeitschr wiss Zool 75, 430-436.		
+131919	Grell, K. G.	1971	Trichoplax adhaerens F.E. Schulze und die Entstehung der Metazoan	Naturw. Rdsch. 24: 160-161	
+131920	Schulze, F.E.	1883	Trichoplax adhaerens, nov. gen., nov. spec. Zool Anz 6, 92-97.		
+131925	Schierwater, B.	2005	My favorite animal,Trichoplax adhaerens	BioEssays. 27(12), 1294-1302	

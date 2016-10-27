@@ -1,0 +1,572 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+562258	119648	Choricotyle		pagelli	(Gallien, 1937)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562258	
+718376	717851	Cyclocotyla		multaetesticulae	Chauhan, 1945				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718376	
+718372	519083	Choricotyle		clupeiphila	Mamaev, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718372	
+564030	519084	Choricotyle		polynemi	Sivasankar Pillai & Krishna Pillai, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:564030	
+718563	119408	Calceostoma		polyorchis	(Vala & Euzet, 1977) Abu Samak & Heckman, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718563	
+718401	119546	Calydiscoides		serranelli	(Euzet & Oliver, 1965)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718401	
+119503	518380	Cycloplectanum		echinophallus	(Euzet & Oliver, 1965)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119503	
+718412	518383	Cycloplectanum		plectropomi	(Young, 1969)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718412	
+518050	519006	Daitreosoma		bancrofti	Johnston & Tiegs, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518050	
+518052	519007	Daitreosoma		constrictum	Johnston & Tiegs, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518052	
+518719	518383	Diplectanum		plectropomi	Young, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518719	
+518641	414343	Encotyllabe		latridis	Lebedev, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518641	
+119694	119704	Erpocotyle		grisea	(Cerfontaine, 1899)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119694	
+518214	743851	Ligophorus		ellochelon	Zhang in Zhang, Yang & Liu, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518214	
+718465	119704	Squalonchocotyle		grisea	(Cerfontaine, 1891)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718465	
+718392	518287	Ancyrocephalus		brevirostris	Agrawal & Yadav, 1996				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718392	
+517995	718221	Ancyrocephalus		scapulasser	Mamaev, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517995	
+518051	718215	Daitreosoma		chaetodontis	Reichenbach-Klinke, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518051	
+518108	717733	Haliotrema		falcanalis	Young, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518108	
+562550	562362	Kuhnia		pricei	Gupta & Krishna, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562550	
+518391	717991	Lamellodiscus		convolutus	Yamaguti, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518391	
+519322	519206	Mazocraeoides		similis	Price, 1958				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519322	
+718481	562359	Mazocraes		macracanthum	Meserve, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718481	
+718550	119737	Polylabris		heterodus	(Lebedev & Parukhin, 1969) Mollaret, Jamieson & Justine, 2000				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718550	
+718504	119742	Microcotyle		salpae	Parona & Perugia, 1890				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718504	
+718505	119742	Microcotyle		sargi	Parona & Perugia, 1899				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718505	
+718515	119742	Vulvostella		sargi	(Parana & Perugia, 1899)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718515	
+562544	119684	Gastrocotyle		japonica	Ishii & Sawada, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562544	
+518709	518249	Ancyrocephalus		felis	Hargis, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518709	
+562526	519055	Axine		resplendens	Caballero, Bravo & Grocott, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562526	
+518056	119497	Diplectanotrema		trachuri	Kovaljova, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518056	
+518348	717977	Diplectanum		longipenis	(Yamaguti, 1934)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518348	
+518720	518436	Diplectanum		sillagonum	Tripathi, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518720	
+519123	519122	Gastrocotyle		kalla	Unnithan, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519123	
+718468	718086	Hexacotyle		acuta	Goto, 1894				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718468	
+718469	718086	Hexostoma		acutum	(Goto, 1894) Sproston, 1946				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718469	
+718356	414347	Pseudobenedenia		lauriei	Szidat, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718356	
+852876	852877	Dactylogyrus		bialatus	Wu, Wang & Jian, 1988				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:852876	
+518331	717990	Diplectanum		blairense	Gupta & Khanna, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518331	
+518332	518437	Diplectanum		bychowskyi	Nagibina, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518332	
+718367	717836	Gemmaecaputia		brinkmanni	Unnithan, 1962				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718367	
+718283	518278	Haliotrema		fusiforme	Yamaguti, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718283	
+718535	519298	Neomicrocotyle		carangis	Rahda, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718535	
+718537	519289	Neothoracocotyle		coryphaenae	(Yamaguti, 1939) Hargis, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718537	
+718536	519300	Protomicrocotyle		pacifica	Meserve, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718536	
+718299	518282	Pseudancyrocephalus		duplicatus	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718299	
+718300	717724	Pseudancyrocephalus		kala	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718300	
+718301	717726	Pseudancyrocephalus		longicirrus	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718301	
+718302	518279	Pseudancyrocephalus		longispicularis	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718302	
+718303	518281	Pseudancyrocephalus		nasonis	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718303	
+519129	519313	Pseudaxine		mexicana	Meserve, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519129	
+718359	717824	Pseudobenedenoides		branchicola	Szidat, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718359	
+849734	849733	Diplectanum		megacirrus	(Maillard & Vala, 1980) Oliver, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:849734	
+518362	849729	Diplectanum (incertae sedis)		polynemus	Tripathi, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518362	
+849732	849730	Diplectanum		spinosum	(Maillard & Vala, 1980) Oliver, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:849732	
+718516	518702	Alloheterocotyla		aetobatis	(Hargis, 1955) Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718516	
+718517	518959	Austrocalicotyle		splendens	Szidat, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718517	
+518728	518705	Gymnocalicotyle		inermis	(Woolcock, 1936)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518728	
+562182	518702	Heterocotyle		aetobatis	Hargis, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562182	
+518729	518702	Heterocotyle		floridana	(Pratt, 1910)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518729	
+718461	718077	Hexabothrium		dasyatis	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718461	
+518732	518702	Monocotyle		floridana	Pratt, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518732	
+519327	518702	Papillicotyle		floridana	(Pratt, 1910)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519327	
+718526	518966	Papillicotyle		octona	Young, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718526	
+518986	518968	Papillicotyle		youngi	Timofeeva, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518986	
+718325	717769	Benedenia		derzhavini	(Layman, 1930)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718325	
+518963	718204	Dasybatotrema		rajae	Timofeeva, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518963	
+468152	468151	Diplectanum		longiphallus	MacCallum, 1915				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:468152	
+518210	718994	Isohaliotrema		platacis	Young, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518210	
+718492	718166	Manterella		pentapodi	(Sandard, 1944) Unnithan, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718492	
+414344	717768	Megalocotyle		australis	(Robinson, 1961)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:414344	
+518659	717770	Megalocotyle		helicoleni	Woolcock, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518659	
+119436	518658	Megalocotyloides		grandiloba	(Paperna & Kohn, 1964)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119436	
+519238	718161	Microcotyle		atriobursata	(Caballero & Bravo-Hollis, 1972) Mamaev, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519238	
+718499	718163	Microcotyle		gimpo	Yamaguti, 1958				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718499	
+414383	718165	Microcotyle		neozealanicus	Dillon & Hargis, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:414383	
+519250	718166	Microcotyle		pentapodi	Sandars, 1944				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519250	
+718296	717712	Parahaliotrematoides		chaetodipteri	(Caballero & Bravo-Hollis, 1960) Yamaguti, 1963 in Kohn et al. (2006)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718296	
+518256	468151	Parancylodiscoides		caballerobravorum	Cezar, Luque & Amato, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518256	
+518268	468151	Pseudohaliotrema		longiphallus	(MacCallum, 1915) Young, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518268	
+718306	717712	Pseudohaliotrematoides		chaetodipteri	(Caballero & Bravo-Hollis, 1961)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718306	
+718315	468151	Tetrancistrum		longiphallus	(MacCallum, 1915) Price, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718315	
+718365	717768	Trochopus		australis	Robinson, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718365	
+718366	717772	Trochopus		trituba	(Pratt & Aldrich, 1953)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718366	
+718307	518278	Pseudohaliotrematoides		fusiformis	(Yamaguti, 1953)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718307	
+718308	518286	Pseudohaliotrematoides		granulosum	Yao, Wang, Xia & Chen, 1998				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718308	
+734373	395058	Pseudohaliotrematoides		polymorphus	Paperna, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:734373	
+718310	395058	Pseudohaliotrematoides		polymorphus		eilaticus	Subspecies	Paperna, 1972	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718310	
+718311	717723	Pseudohaliotrematoides		polymorphus		indicus	Subspecies	Paperna, 1972	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718311	
+718312	395060	Pseudohaliotrematoides		polymorphus		suezicus	Subspecies	Paperna, 1972	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718312	
+718314	717727	Tetrancistrum		indicum	Raju & Rao, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718314	
+518283	518286	Tetrancistrum		nebulosi	Young, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518283	
+562528	519057	Axine		sasikala	Unnithan, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562528	
+562552	562200	Monocotyle		trygoni	Venkatanarsaiah & Kulkarni, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562552	
+718556	519320	Paradawesia		bychowskyi	Bravo & Lamothe, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718556	
+718538	718242	Paradawesia		mexicana	Bravo-Holiis & Lamothe, 1988				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718538	
+718483	519221	Pseudomazocraeoides		ceratoscopeli	Reimer, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718483	
+718545	519320	Thoracocotyle		bychowskyi	(Bravo & Lamothe, 1976) Hayward & Rohde, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718545	
+519331	519320	Thoracocotyle		paradoxica	Meserve, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519331	
+718528	562200	Tympanocirrus		spirophallus	Tripathi, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718528	
+225689	119650	Cyclocotyla		bellones	Otto, 1823				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:225689	
+718377	119655	Diclidophora		gadi	(Van Beneden & Hesse, 1863) Sproston, 1946				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718377	
+119646	119656	Octobothrium		minus	Olsson, 1876				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119646	
+718397	119673	Diclybothrium		circularis	(Linstow, 1904)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718397	
+518696	119400	Acanthocotyle		verrillii	Goto, 1899				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518696	
+396147	717920	Aliatrema		cribbi	Plaisance & Kritsky, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:396147	
+718393	518061	Ancyrocephalus		johni	Tripathi, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718393	
+119740	119768	Atrispinum		labracis	(Van Beneden & Hesse, 1863)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119740	
+518068	717914	Euryhaliotrematoides		annulocirrus	(Yamaguti, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518068	
+396148	717915	Euryhaliotrematoides		aspistis	Plaisance & Kritsky, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:396148	
+396149	717916	Euryhaliotrematoides		berenguelae	Plaisance & Kritsky, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:396149	
+518069	717929	Euryhaliotrematoides		grandis	(Mizelle & Kritsky, 1969)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518069	
+718286	717934	Euryhaliotrematoides		mehen	Soler-Jiménez, García-Gasca & Fajer-Ávila, 2012				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718286	
+518070	717935	Euryhaliotrematoides		microphallus	(Yamaguti, 1968) Plaisance & Kritsky, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518070	
+718282	717914	Haliotrema		affinis	(Mizelle & Kritsky, 1969)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718282	
+518078	717913	Haliotrema		anguiformis	Zhang, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518078	
+518079	717914	Haliotrema		angulocirrus	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518079	
+518710	518058	Haliotrema		bychowskyi	Obodnikova, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518710	
+518711	518059	Haliotrema		chrysotaeniae	Young, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518711	
+518107	717925	Haliotrema		eukurodai	Zhang & Ding, 1994				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518107	
+718383	717886	Acanthocotyle		williamsi	Price, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718383	
+119410	119442	Benedenia		leucanthemum	Euzet & Maillard, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119410	
+718328	518662	Benedenia		malaboni	Velasquez, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718328	
+718329	518663	Benedenia		merinthe	(Yamaguti, 1968) Egorova, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718329	
+119411	119443	Benedenia		micracantha	Euzet & Maillard, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119411	
+718330	518664	Benedenia		noblei	Menzies, 1946				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718330	
+718332	518665	Benedenia		ovalis	(Yamaguti, 1968) Egorova, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718332	
+718371	562268	Choricotyle		chimbotensis	Tantalean, 11974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718371	
+562250	562269	Choricotyle		concepcionensis	Villalba, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562250	
+519082	519090	Choricotyle		louisianensis	Hargis, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519082	
+562530	519090	Cyclocotyla		louisianensis	(Hargis, 1955)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562530	
+396150	717940	Euryhaliotrematoides		pirulum	Plaisance & Kritsky, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:396150	
+518071	717946	Euryhaliotrematoides		triangulovagina	(Yamaguti, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518071	
+851790	851789	Haliotrema		fastigatum	Zhukov, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:851790	
+718284	717929	Haliotrema		grandis	(Mizelle & Kritsky, 1969) Paperna, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718284	
+518712	518061	Haliotrema		johnii	(Tripathi, 1959) Young, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518712	
+518122	717932	Haliotrema		kurodai	Ogawa & Egusa, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518122	
+518713	518063	Haliotrema		lutiani	Yamaguti, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518713	
+718287	717935	Haliotrema		microphallus	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718287	
+518117	717946	Haliotrema		hainanense	Pan & Zhang, 2000				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518117	
+518138	717936	Haliotrema		monoporosum	Pan & Zhang, 2000				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518138	
+718289	717937	Haliotrema		nanaoense	Li, Yan, Yul, Lan & Huang, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718289	
+518158	717944	Haliotrema		spirotubiforum	Zhang, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518158	
+718290	518066	Haliotrema		torquecirrus	Zhukov, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718290	
+718478	562377	Indomazocraes		jagannath	Tripathi, l959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718478	
+718480	119730	Mazocraes		heterocotyle	(Van Beneden, 1871)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718480	
+718291	518262	Metadiplectanotrema		caranxi	Gerasev, Gaevskaya & Kovaleva, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718291	
+718294	717914	Parahaliotrema		affinis	Mizelle & Kritsky, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718294	
+718445	519132	Pseudaxine		decapteri	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718445	
+519216	519214	Pseudoanthocotyloides		mamaevi	Williams, 1988				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519216	
+718357	518663	Pseudobenedenia		merinthe	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718357	
+718358	518665	Pseudobenedenia		ovalis	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718358	
+518267	717917	Pseudohaliotrema		carbunculus	Hargis, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518267	
+518270	518065	Pseudohaliotrema		paralonchuri	Luque & Iannacone, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518270	
+718313	717946	Pseudohaliotrematoides		triangulovagina	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718313	
+718395	519188	Tagia		bairdiella	Hargis, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718395	
+718387	519037	Vallisia		oligoplites	Hargis, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718387	
+396576	238157	Amphibaelloides		benhassinae	Tazerouti, Neifar & Euzet, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:396576	
+396575	238156	Amphibaelloides		kechemirae	Tazerouti, Neifar & Euzet, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:396575	
+119682	119683	Chauhanea		mediterranea	Euzet & Trilles, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119682	
+718368	119683	Pseudochauhanea		mediterranea	(Euzet & Trilles, 1960) Lebedev, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718368	
+562319	119685	Cathucotyle		acanthura	(Parona & Perugia, 1896)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562319	
+519124	119685	Gotocotyla		acanthophallus	(MacCallum & MacCallum, 1913) Yamaguti, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519124	
+519126	119685	Gotocotyla		jicacali	Bravo-Hollis, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519126	
+562326	119685	Gotocotyla		sawara	Ishii, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562326	
+519138	119685	Gotocotyla		secunda	(Tripathi, 1954)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519138	
+718435	717965	Lamellodiscoides		belengeri	Chauhan, 1945				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718435	
+718437	717966	Lamellodiscoides		puriensis	Gupta & Sachdeva, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718437	
+718439	518354	Lamellodiscus		minousi	Gupta & Khullar, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718439	
+827437	119685	Lithidiocotyle		secunda	Tripathi, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827437	
+119751	119746	Microcotyle		cephalus	Azim, 1939				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119751	
+718507	119685	Microcotyle		scomberomori	Koratha, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718507	
+718442	518358	Pseudolamellodiscoides		orissai	Gupta & Krishna, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718442	
+718452	119685	Swakopella		cephalica	Lebedev & Parukhin, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718452	
+718453	119685	Swakopella		travassosi	(Kohn, Gomez & Bürnheim, 1971) Lebedev, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718453	
+119741	718160	Atrispinum		mormyri	(Lorenz, 1878)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119741	
+718039	718040	Eyelavera		parukhini	Lebedev, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718039	
+562323	519136	Gotocotyla		laticauda	Lebedev, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562323	
+718447	519125	Gotocotyla		meservei	Yamaguti, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718447	
+718449	519136	Gotocotyla		skrajbini	Gupta & Khanna, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718449	
+718436	717967	Lamellodiscoides		opercularei	Gupta & Sachdeva, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718436	
+827436	519136	Lithidiocotyle		bivaginalis	Ramalingam, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:827436	
+562402	718145	Microcotyle		caballeroi	Bravo-Hollis, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562402	
+119758	718160	Microcotyle		mormyri	Lorenz, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119758	
+718506	519227	Microcotyle		sciaenae	Goto, 1894				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718506	
+564035	519125	Pseudomicrocotyle		bahiensis	Lebedev, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:564035	
+718451	519125	Pseudomicrocotyle		meservei	(Yamagut, 1953)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718451	
+518277	739952	Sinodiplectanotrema		argyrosomus	Zhang, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518277	
+718486	519223	Axinella		chainanica	Lebedev & Parukhin, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718486	
+743863	119489	Ancyrocephalus		kaohsianghsieni	Gusev, 1962				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:743863	
+718288	119492	Haliotrema		mugilinus	(Hargis, 1955)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718288	
+518269	119492	Pseudohaliotrema		mugilinus	Hargis, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518269	
+518172	119495	Haliotrema		vanbendeni	(Parona & Perugia, 1890) Young, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518172	
+718385	519040	Allodiscocotyla		mexicana	Caballero & Bravo, 1964				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718385	
+718399	518429	Allomurraytrema		robustum	(Murray, 1931)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718399	
+740625	740624	Ancyrocephalus		fluviatilis	Bychowsky, 1949				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:740625	
+225816	196541	Ligophorus		gussevi	Miroshnichenko & Maltsev, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:225816	
+518457	119622	Merizocotyle		icopae	Beverley-Burton & Williams, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518457	
+519036	562240	Gemmaecaputia		australis	Young, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519036	
+518745	119419	Capsala		cephala	(Risso, 1826)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518745	
+518747	119419	Capsala		cutaneum	Guiart, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518747	
+518748	119419	Capsala		grimaldi	Guiart, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518748	
+518751	119419	Capsala		molae	(Blanchard, 1847) Johnston, 1929				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518751	
+119440	119419	Tricotyla		cutanea	Guiart, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119440	
+119441	119419	Tricotyla		molae	(Blanchard, 1847) Guiart, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119441	
+119416	119420	Caballerocotyla		pelamydis	(Taschenberg, 1878)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119416	
+119415	518610	Caballerocotyla		abidjani	Bussieras & Baudin-Laurencin, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119415	
+718333	518609	Caballerocotyla		albsmithi	Dollfus, 1962				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718333	
+718334	518622	Caballerocotyla		andhraensis	(Raju & Rao, 1980)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718334	
+518736	518614	Caballerocotyla		australis	Oliva, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518736	
+718335	717793	Caballerocotyla		auxis	Yang, Hu & Ding, 2012				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718335	
+718336	518610	Caballerocotyla		biparasitica	(Goto, 1894)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718336	
+718337	518611	Caballerocotyla		caballeroi	(Winter, 1955) Price, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718337	
+518737	518622	Caballerocotyla		chilensis	Pillai & Pillai, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518737	
+718338	518612	Caballerocotyla		foliacea	(Goto, 1894)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718338	
+518738	518619	Caballerocotyla		gotoi	(Yamaguti, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518738	
+718339	518613	Caballerocotyla		gouri	(Chauhan, 1952) Price, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718339	
+718340	518614	Caballerocotyla		gregalis	Wagner & Carter, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718340	
+718345	717798	Caballerocotyla		marielenae	Lamothe-Argumedo, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718345	
+718346	717795	Caballerocotyla		megacotyle	(von Linstow, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718346	
+518739	518610	Caballerocotyla		neothunni	(Yamaguti, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518739	
+518742	518622	Caballerocotyla		notosinense	Mamaev, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518742	
+518740	518625	Caballerocotyla		paucispinosa	Mamaev, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518740	
+718348	717796	Caballerocotyla		philippina	Velasquez, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718348	
+119417	518619	Caballerocotyla		pseudomagronum	Busserias, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119417	
+518743	518621	Caballerocotyla		thazardi	Pillai & Pillai, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518743	
+119418	518625	Caballerocotyla		verrucosa	Busserias, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119418	
+562548	518704	Heterocotyle		papillata	Doran, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562548	
+518730	518704	Heterocotyle		papillatus	Doran, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518730	
+718485	717739	Pseudomicrobothrium		spari	Yamaguti, 1958				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718485	
+518581	119399	Acanthocotyle		merluccii	(Van Beneden & Hesse, 1863)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518581	
+518754	518608	Entobdella		pugetensis	Robinson, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518754	
+718360	518608	Pseudoentobdella		pugetensis	(Robinson, 1961) Yamaguti, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718360	
+718297	518003	Placodiscus		maculatus	Venkatanarasaiah, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718297	
+518636	119500	Dioncus		agassizi	Goto, 1899				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518636	
+518638	119501	Dioncus		remorae	(MacCallum, 1916)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518638	
+518694	717978	Allomurraytrema		argyrosomi	Bychowsky & Nagibina, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518694	
+518695	718264	Allomurraytrema		sciaenae	Bychowsky & Nagibina, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518695	
+718400	717982	Allomurraytrema		spari	Yamaguti, 1958				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718400	
+718373	519103	Choricotyle		prionoti	(MacCallum, 1917) Llewellyn, 1941				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718373	
+718398	717960	Dionchus		hopkinsi	Koratha, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718398	
+718351	518651	Entobdella		corona	Hargis, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718351	
+518753	518652	Entobdella		guberleti	Caballero & Bravo-Hollis, 1962				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518753	
+718455	414377	Gonoplasius		truttae	Dillon & Hargis, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718455	
+718456	718068	Heteraxine		karavoli	Unnithan, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718456	
+518566	518572	Loimos		parawilsoni	Bravo-Hollis, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518566	
+519324	225834	Microcotyle		pyragraphorus	MacCallum & MacCallum, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519324	
+718298	518005	Placodiscus		parvianchoratus	Venkatanarasaiah, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718298	
+718341	518616	Caballerocotyla		katsuwoni	(Ishii, 1936)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718341	
+387903	518619	Caballerocotyla		lenti	Mogrovejo & Santos, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:387903	
+389849	518616	Caballerocotyla		llewelyni	Kohn & Justo, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:389849	
+718343	518619	Caballerocotyla		magronum	(Ishii, 1936)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718343	
+718344	518620	Caballerocotyla		manteri	(Price, 1951)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718344	
+518741	518621	Caballerocotyla		manteri		affinis	Subspecies	Mamaev, 1968	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518741	
+518744	518622	Capsala		andhraensis	Raju & Rao, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518744	
+518746	518628	Capsala		cornutus	(Verrill, 1875)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518746	
+718349	518619	Capsala		gotoi	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718349	
+518749	518622	Capsala		katuo	Iwata, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518749	
+387904	518622	Capsala		naffari	Kardousha, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:387904	
+718350	518610	Capsala		neothunni	(Yamaguti, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718350	
+718402	718027	Cornutohaptor		nigrescensi	Mendoza-Franco, Violante-González & Vidal Martínez, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718402	
+718379	717870	Diclidophora		pugetensis	Robinson, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718379	
+816865	816862	Diplasiocotyle		chorinemi	Tripathi, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:816865	
+718518	718192	Diploheterocotyla		dasyatis	Yamaguti, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718518	
+119689	159457	Erpocotyle		abbreviata	(Olsson, 1876) Price, 1942				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119689	
+119690	519185	Erpocotyle		borealis	(Van Beneden, 1853)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119690	
+414370	119715	Erpocotyle		squali	(MacCallum, 1931)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:414370	
+562330	414357	Heteraxinoides		novaezelandicus	Dillon & Hargis, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562330	
+518731	518706	Merizocotyle		dasybatis	MacCallum, 1916				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518731	
+518760	518455	Monocotyle		dasybatis	(MacCallum, 1916)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518760	
+518974	718194	Monocotyle		robusta	Johnston & Tiegs, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518974	
+518761	518455	Monocotyle		dasybatis		minimus	Subspecies	(MacCallum, 1916)	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518761	
+718382	717870	Neodiclidophora		pugetensis	(Robinson, 1961)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718382	
+562290	717870	Neoheterobothrium		pugetensis	(Robinson, 1961) Yamaguti, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562290	
+718182	816862	Tripathia		chorinemi	(Tripathi, 1955) Yamaguti, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718182	
+718183	816863	Tripathia		elongata	Radha, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718183	
+718184	816864	Tripathia		guptai	Sharma & Gupta, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718184	
+119447	119422	Tristoma		perugiai	(Setti, 1898)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119447	
+718364	717795	Tristomella		megacotyle	(von Linstow, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718364	
+718482	718101	Paramazocraes		kazidodiensis	Gupta & Khullar, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718482	
+718369	717835	Pseudomazocraes		oaxacensis	Caballero & Bravo-Hollis, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718369	
+518734	518524	Rhamnocercus		stichospinus	(Seamster & Monaco, 1956) Domingues & Boeger, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518734	
+519328	119715	Squalonchocotyle		acanthi	Price, 1941				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519328	
+718466	519185	Squalonchocotyle		somniosi	(Causey, 1926)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718466	
+718514	119735	Prostatomicrocotyla		spari	(Yamaguti, 1937) Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718514	
+718459	414368	Erpocotyle		callorhynchi	(Manter, 1955)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718459	
+518725	518318	Lamellodiscus		difficilis	Yamaguti, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518725	
+518726	518319	Lamellodiscus		duplicostatus	Yamaguti, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518726	
+518323	518321	Calydiscoides		indianus	(Karyakarte & Das, 1978) Oliver, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518323	
+518397	518321	Lamellodiscus		flexuosus	Yamaguti, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518397	
+718440	518321	Lamellospina		indiana	Karyakarte & Das, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718440	
+718438	518324	Lamellodiscus		japonicus	Pillai & Pillai, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718438	
+718503	519262	Microcotyle		pogoniae	MacCallum, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718503	
+718539	519290	Pricea		armata	Ramalingam, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718539	
+718540	519290	Pricea		hargisi	Gupta & Channa, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718540	
+718541	519290	Pricea		melane	Ramalingam, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718541	
+718542	519290	Pricea		minuta	Ramalingam, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718542	
+562426	519290	Pricea		monacanthum	Gupta & Channa, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562426	
+119736	835459	Aspinatrium		trachini	(Parona & Perugia, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119736	
+718543	519290	Pricea		tetracanthum	Ramalingam, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718543	
+718544	519290	Pricea		triacanthum	Ramalingam, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718544	
+762522	717880	Acanthocotyle		pugetensis	Bonham & Guberlet, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:762522	
+518596	518586	Benedenia		convoluta	(Yamaguti, 1937) Price, 1939				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518596	
+718322	518587	Allosprostonia		tauvinae	Lawler & Hargis, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718322	
+718318	518588	Megalocotyloides		patagonicus	Evdokimova, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718318	
+718324	518590	Benedenia		convoluta	Bravo-Hollis, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718324	
+718319	518590	Megalocotyloides		pseudomarginatus	(Bravo-Hollis, 1958) Bychowsky & Nagibina, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718319	
+518693	518590	Trochopus		pseudomarginatus	Bravo-Hollis, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518693	
+718320	518591	Megalocotyloides		sebastodi	Egorova, 1994				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718320	
+718317	518592	Allobenedenia		epinepheli	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718317	
+518758	518592	Megalocotyloides		epinepheli	Bychowsky & Nagibina, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518758	
+387910	518592	Megalocotyloides		hongkongensis	Wu, Lu & Woo, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:387910	
+718321	518592	Megalocotyloides		yamagutii	Egorova, 1994				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718321	
+718370	564032	Choricotyle		charcoti	(Dollfus, 1922) Llewellyn, 1941.				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718370	
+119649	564032	Cyclocotyla		charcoti	(Dollfus, 1922)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119649	
+718374	119647	Choricotyle		smaris	(Goto, 1894) Llewellyn, 1941				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718374	
+718375	119647	Choricotyle		squillarum	(Parona & Perugia, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718375	
+718386	519033	Allodiscoides		chorinemi	(Yamaguti, 1953) ?Bilqees, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718386	
+718384	717887	Allodiscocotyla		elongatum	Bilqees & Shabbir, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718384	
+562224	718037	Allopseudaxine		vagans	(Ishii, 1936) Price, 1962				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562224	
+718331	717777	Benedenia		orbicularicola	Gupta & Khanna, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718331	
+718551	518988	Aspinatrium		gerres	(Sandars, 1946) Dillon & Hargis, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718551	
+718487	519270	Bivagina		sillaginae	(Woolcock, 1936)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718487	
+718488	519270	Bivaginuda		sillaginae	(Woolcock, 1936) Unnithan, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718488	
+761962	761961	Haliotrema		austrosinense	Li & Chen, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:761962	
+518095	717687	Haliotrema		chrysostomi	Young, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518095	
+518110	717689	Haliotrema		fleti	Young, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518110	
+761963	761960	Haliotrema		grossecurvitubus	Li & Chen, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:761963	
+518124	717691	Haliotrema		lethrini	(Yamaguti, 1937)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518124	
+718390	518018	Hamatopeduncularia		australis	Young, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718390	
+718388	562220	Helixaxine		nemipteri	Mamaev & Parukhin, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718388	
+718389	519045	Helixaxine		winteri	Caballero y Caballero & Bravo Hollis, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718389	
+119717	119718	Hexostoma		auxisi	Palombi, 1943				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119717	
+562361	717843	Kuhnia		otolithis	Yamaguti, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562361	
+414345	717776	Megalocotyle		johnstoni	Robinson, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:414345	
+718498	518988	Microcotyle		gerres	Sandars, 1946				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718498	
+519249	519270	Microcotyle		parsillaginae	Sandars, 1945				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519249	
+519255	519270	Microcotyle		sillaginae	Woolcock, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519255	
+718508	119765	Microcotyloides		tubicirrus	Paperna & Kohn, 1964				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718508	
+718380	562299	Myctophiphilus		arabicus	Mamaev, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718380	
+718381	562302	Myctophiphilus		sprostonae	(Martin, 1973) Payne, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718381	
+119764	119765	Polylabris		diplodi	Euzet & Cauwet, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119764	
+519268	519270	Polylabris		sandarsae	Williams, 1991				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519268	
+718510	562412	Prostatomicrocotyla		acanthogobii	(Yamaguti, 1940) Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718510	
+718511	518988	Prostatomicrocotyla		gerres	Machida, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718511	
+718512	518989	Prostatomicrocotyla		kuhliae	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718512	
+718513	518990	Prostatomicrocotyla		maomao	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718513	
+718446	519047	Uraxine		chura	Unnithan, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718446	
+718429	518305	Heteroplectanum		diplobulbus	(Yamaguti, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718429	
+396458	518306	Heteroplectanum		flabelliforme	Lim, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:396458	
+518714	518307	Acleotrema		gibsoni	Young, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518714	
+518715	518307	Acleotrema		heronensis	Young, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518715	
+518716	518307	Acleotrema		kyphosi	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518716	
+718419	518307	Diplectanum		girellae	(Johnston & Tiegs, 1922)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718419	
+518722	518307	Heteroplectanum		kyphosi	(Yamaguti, 1968) Oliver, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518722	
+518723	518308	Heteroplectanum		nenue	(Yamaguti, 1968) Rakorofiringa, Oliver & Lambert, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518723	
+718430	518309	Heteroplectanum		nenuoides	Rakotofiringa, Oliver & Lambert, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718430	
+518724	518310	Heteroplectanum		oliveri	Leon-Regagnon, Pérez-Ponce de León & Garcia-Prieto, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518724	
+718431	518311	Heteroplectanum		parastromatei	Rakotofiringa, Oliver & Lambert, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718431	
+718432	518312	Heteroplectanum		serrulopenis	Rakotofiringa, Oliver & Lambert, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718432	
+718427	518313	Diplectanum		spiculare	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718427	
+718433	518314	Heteroplectanum		tamatavense	Rakotofiringa, Oliver & Lambert, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718433	
+718428	518315	Diplectanum		yamagutii	Oliver, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718428	
+718434	518315	Heteroplectanum		yamagutii	(Oliver, 1983)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718434	
+718448	519134	Gotocotyla		sharmai	Gupta & Chanana, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718448	
+718450	519134	Parathoracocotyle		spinophallus	Deo & Karyakarte, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718450	
+718475	414373	Asymmetria		asymmetria	Suriano, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718475	
+718476	414373	Asymmetria		platensis	Rey & Meneses, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718476	
+518594	518668	Benedenia		anadenea	Meserve, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518594	
+718326	518670	Benedenia		isabellae	Meserve, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718326	
+119589	518577	Cadenatia		polytestis	Euzet & Maillard, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119589	
+562252	519100	Choricotyle		cynoscioni	(MacCallum, 1917)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562252	
+562259	519100	Choricotyle		reynoldsi	Frayne, 1943				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562259	
+718477	718116	Clupeocotyle		megaconfibula	Hargis, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718477	
+718418	717984	Diplectanum		gatunense	Mendoza Franco, Roche & Torchin, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718418	
+518352	717985	Diplectanum		magnodiscatum	Fuentes Zambrano, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518352	
+718423	717986	Diplectanum		mexicanum	Mendoza Franco, Roche & Torchin, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718423	
+718378	718099	Diclidophora		lintoni	Koratha, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718378	
+718501	718138	Microcotyle		leiognathi	Tripathi, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718501	
+562303	717860	Tagia		galapagensis	(Meserve, 1938)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562303	
+718347	119450	Caballerocotyla		nozawae	(Goto, 1894) Egorova, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718347	
+518615	119449	Capsala		interrupta	(Monticelli, 1891) Johnston, 1929				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518615	
+518623	119450	Capsala		nozawae	(Goto, 1894) Price, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518623	
+225688	119451	Capsala		onchidiocotyle	(Setti, 1899)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:225688	
+119523	196564	Furnestinia		echeneis	(Wagener, 1857)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119523	
+119541	119544	Lamellodiscus		obeliae	Oliver, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119541	
+388934	196543	Lamellodiscus		sigillatus	Neifar, Euzet & Oliver, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:388934	
+196545	196406	Ligophorus		kechemirae	Amine & Euzet, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:196545	
+119760	119767	Microcotyle		pancerii	Sonsino, 1891				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119760	
+718464	119708	Rajonchocotyloides		emarginata	(Olsson, 1876)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718464	
+119446	119444	Tristoma		papillosum	Diesing, 1836				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119446	
+518617	518687	Capsala		laevis	(Verrill, 1875) Johnston, 1929				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518617	
+518334	718261	Diplectanum		cazauxi	Oliver & Paperna, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518334	
+718422	518414	Diplectanum		latesi	Tripathi, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718422	
+518718	518416	Diplectanum		paralatesi	Nagibina, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518718	
+718457	519319	Heteraxine		scomberomori	Koratha, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718457	
+718484	718128	Laterocotyle		synaphobranchi	Mamaev & Avdeev, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718484	
+518415	717976	Laticola		lingaoensis	Yang, Kritsky, Sun, Zhang, Shi & Agrawal, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518415	
+718494	519285	Manterella		sciaenicola	(Murray, 1932) Unnithan, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718494	
+718443	518414	Pseudorhabdosynochus		latesi	(Tripathi, 1955)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718443	
+718444	717976	Pseudorhabdosynochus		seabassi	Wu, Li, Zhu & Xie, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718444	
+518378	717987	Diplectanum		wennigeri	(Mizelle & Blatz, 1941)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518378	
+119429	196411	Entobdella		apiocolpos	Euzet & Maillard, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119429	
+119430	196410	Entobdella		diadema	(Monticelli, 1902)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119430	
+518752	518676	Entobdella		australis	Kearn, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518752	
+518755	518673	Epibdella		melleni	MacCallum, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518755	
+718460	718268	Erpocotyle		platensis	(Mañe-Garzón & Holcman-Spector, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718460	
+518149	518271	Haliotrema		platycephali	Yin & Sproston, 1948				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518149	
+718470	519187	Hexostoma		euthynni	Meserve, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718470	
+519321	519187	Hexostoma		macracanthum	Fujii, 1944				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519321	
+718471	562350	Hexostoma		mochimae	(Fuentes Zambrano, 1997) 				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718471	
+718473	119720	Hexostoma		thunninae	(Parona & Perugia, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718473	
+718474	519187	Homostoma		euthynni	(Meserve, 1938)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718474	
+718519	518979	Horricauda		bychowskyi	Timofeeva, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718519	
+718520	562201	Horricauda		djiddensis	Pillai & Pillai, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718520	
+718521	518981	Horricauda		forficata	Timofeeva, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718521	
+718522	518981	Horricauda		nagibinae	Timofeeva, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718522	
+718523	518983	Horricauda		rhinobatidis	Young, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718523	
+718524	518984	Horricauda		trilobata	Timofeeva, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718524	
+718479	119732	Kuhnia		minor	(Goto, 1894)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718479	
+119752	119770	Microcotyle		chrysophrii	Van Beneden & Hesse, 1863				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119752	
+119759	119769	Microcotyle		mugilis	Vogt, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119759	
+519252	519287	Microcotyle		pseudomugilis	Hargis, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519252	
+718529	518999	Mizellebychowskia		elongata	Gupta & Sachdeva, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718529	
+718441	518441	Murraytrema		pricei	Caballero, Bravo-Hollis & Grocott, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718441	
+717337	414373	Neogrubea		stromateae	Gibson, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:717337	
+414363	562267	Tagia		gempylli	Dillon & Hargis, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:414363	
+562206	518456	Thaumatocotyle		australensis	Beverley-Burton & Williams, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562206	
+119626	562196	Thaumatocotyle		concinna	Scott, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119626	
+562555	562197	Thaumatocotyle		longicirrus	Hargis, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562555	
+562556	562198	Thaumatocotyle		retorta	Hargis, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562556	
+718527	718201	Thaumatocotyle		roumillati	de Buron & Euzet, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718527	
+815909	815908	Diplectanum		undulicirrosum	Zhang, Liu, Ding & Chen, 2000				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:815909	
+718472	718089	Hexostoma		pricei	Koratha, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718472	
+562368	718126	Mazocraes		longicauda	Mamaev, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562368	
+518727	518441	Murraytrematoides		pricei	(Caballero, Bravo-Hollis & Grocott, 1955) Yamaguti, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518727	
+518669	518673	Neobenedenia		girellae	(Hargis, 1955)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518669	
+518674	518673	Neobenedenia		pacifica	Bravo-Hollis, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518674	
+718530	519000	Neocalceostoma		arii	Unnithan, 1964				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718530	
+562289	519101	Neoheterobothrium		paralichthysi	Suriano & Labriola, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562289	
+718525	562203	Neoheterocotyle		ruggieri	Cheung & Nigrelli, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718525	
+519326	518984	Neoheterocotyle		trilobata	(Timofeeva, 1981) Chisholm, 1994				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519326	
+518272	518273	Pseudohaliotrema		sigani	Yamaguti, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518272	
+395656	518273	Pseudohaliotrema		virgata	Lim, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:395656	
+562307	562216	Vallisia		chorinemi	Yamaguti, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562307	
+562226	717751	Axine		aberrans	Goto, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562226	
+158608	119431	Entobdella		curvunca	Ronald, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:158608	
+718353	119431	Epibdella		hippoglossi	(Müller, 1776) Blainville, 1828				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718353	
+718352	119432	Entobdella		producta	(Linstow, 1903) Meserve, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718352	
+718454	562239	Carangoides		ovovivipara	Radha, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718454	
+518757	518648	Epibdella		squamula	Heath, 1902				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518757	
+519323	119761	Microcotyle		australiensis	MacCallum, 1921				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519323	
+718496	119761	Microcotyle		debueni	Mané-Garzón, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718496	
+519325	119761	Microcotyle		temnodontis	Sandars, 1945				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519325	
+718292	717840	Microncotrema		lateolabracis	Yamaguti, 1958				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718292	
+718293	518048	Microncotrematoides		inversus	(Goto & Kikiuchi, 1917)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718293	
+718304	718256	Pseudohaliotrema		plectocirra	Paperna, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718304	
+518285	718256	Tetrancistrum		plectocirra	(Paperna, 1972) Lim, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518285	
+562529	119643	Axine		seriolae	Meserve, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562529	
+718403	518442	Cycloplectanum		americanum	(Price, 1937) Oliver, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718403	
+718404	518443	Cycloplectanum		amplidiscatum	(Bravo-Hollis, 1954)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718404	
+119502	518472	Cycloplectanum		beverleyburtonae	Oliver, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119502	
+718405	518473	Cycloplectanum		bocquetae	Oliver & Paperna, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718405	
+718407	518489	Cycloplectanum		hongkongense	Beverley-Burton & Suriano, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718407	
+718408	518498	Cycloplectanum		lantauense	Beverley-Burton & Suriano, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718408	
+718409	518500	Cycloplectanum		magnisquamodiscum	Aleshkina, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718409	
+718410	518506	Cycloplectanum		melanesiense	(Laird, 1958)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718410	
+718414	518510	Cycloplectanum		querni	(Yamaguti, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718414	
+119504	518511	Cycloplectanum		riouxi	Oliver, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119504	
+718415	518514	Cycloplectanum		summanae	(Young, 1969)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718415	
+718555	519316	Dawesia		andamanensis	Gupta & Khanna, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718555	
+718554	519316	Dawesia		hargisi	Gupta & Khanna, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718554	
+562429	519316	Dawesia		incisa	Lebedev, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562429	
+562430	519316	Dawesia		indica	Unnithan, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562430	
+518708	518039	Ancyrocephaloides		indicus	Karyakarte & Das, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518708	
+518707	517988	Ancyrocephaloides		chilkai	Agrawal & Yadav, 1996				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518707	
+718531	519295	Bilaterocotyle		carangis	(Ramalingam, 1961) Yamaguti, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718531	
+718532	718223	Bilaterocotyle		chauhani	Agrawal & Sharma, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718532	
+718533	519296	Bilaterocotyle		madrasensis	(Radha, 1966) Pandey & Agrawal, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718533	
+719040	562437	Bilaterocotyle		mamaevi	Agrawal, 1988				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:719040	
+718534	562438	Bilaterocotyle		novaeguineae	Rohde, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718534	
+718342	119437	Caballerocotyla		klawei	Stunkard, 1962				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718342	
+562531	119666	Diclidophora		attenuata	Mamaev & Zubchenko, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562531	
+562533	119667	Diclidophora		caudata	Mamaev & Zubchenko, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562533	
+119654	119669	Diclidophora		macruri	(Brinkmann, 1942)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119654	
+562538	119670	Diclidophora		nezumiae	Munroe, Campbell & Zwerner, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562538	
+718495	119745	Microcotyle		alcedinis	Parona & Perugia, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718495	
+718462	519168	Neoerpocotyle		ginglymostomae	(Brooks, 1934),				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718462	
+718463	119696	Neoerpocotyle		maccallumi	Price, 1942				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718463	
+519184	414369	Squalonchocotyle		antarctica	Hughes, 1928				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519184	
+519329	119696	Squalonchocotyle		canis	MacCallum, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519329	
+119713	519174	Squalonchocotyle		pontica	(Pogorel'tseva, 1964)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119713	
+718406	518434	Cycloplectanum		curvivagina	(Yamaguti, 1968) Oliver, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718406	
+718411	717989	Cycloplectanum		opakapaka	(Yamaguti, 1968) Oliver, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718411	
+718413	518435	Cycloplectanum		priacanthi	(Yamaguti, 1968) Oliver, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718413	
+414360	718265	Diclidophora		coelorhynchi	Robinson, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:414360	
+562537	562282	Diclidophora		lotella	Machida, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562537	
+562540	562283	Diclidophora		papilio	Mamaev & Avdeev, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562540	
+562541	562284	Diclidophora		paracoelorhynchi	Mamaev & Parukhin, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562541	
+562542	562285	Diclidophora		physiculi	Mamaev & Avdeev, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562542	
+562543	562281	Diclidophora		whitsonii	Suriano & Martorelli, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562543	
+718416	518434	Diplectanum		curvivagina	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718416	
+718424	518435	Diplectanum		priacanthi	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718424	
+518336	518484	Diplectanum		cupatum	Young, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518336	
+718417	518489	Diplectanum		epinepheli	Yamaguti, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718417	
+119515	518494	Diplectanum		hargisi	Oliver & Paperna, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119515	
+718420	518489	Diplectanum		hongkongense	(Beverley-Burton & Suriano, 1981)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718420	
+718421	518498	Diplectanum		lantauense	(Beverley-Burton & Suriano, 1981)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718421	
+718425	518510	Diplectanum		querni	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718425	
+718426	518512	Diplectanum		serrani	Yamaguti, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718426	
+518370	518514	Diplectanum		summanae	Young, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518370	
+518721	518515	Diplectanum		vagampullum	Young, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518721	
+518343	718008	Diplectanum		grouperi	Bu, Leong, Wong, Woo & Foo, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518343	
+718553	519316	Methoracotyle		gigantica	(Rohde, 1976) Lebedev, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718553	
+718552	519316	Methoracotyle		scomberomori	(Young, 1968) Lebedev, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718552	
+518733	518484	Pseudorhabdosynochus		cupatum	(Young, 1969) Kritsky & Beverley-Burton, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518733	
+519314	519316	Pseudothoracocotyla		gigantica	Rohde, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519314	
+519315	519316	Pseudothoracocotyla		indica	(Unnithan, 1965)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519315	
+562446	519316	Pseudothoracocotyla		scomberomori	Young, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562446	
+718396	519190	Tagia		cupida	Hargis, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718396	
+562448	519316	Thoracocotyle		indica	(Unnithan, 1965)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562448	
+718546	519316	Thoracocotyle		ovalis	Tripathi, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718546	
+519041	519306	Vallisiopsis		australis	Young, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519041	
+718458	119643	Zeuxapta		zyxivaginata	Unnithan, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718458	
+718354	717812	Interniloculus		chilensis	Oliva & Luque, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718354	
+718497	562395	Microcotyle		eduardoi	Tendeiro, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718497	
+718502	718186	Microcotyle		pamae	Tripathi, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718502	
+562410	562396	Neobivagina		neghmei	Villalba, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562410	
+718467	718078	Squalonchocotyle		striata	(Miller, 1927)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718467	
+519330	519169	Squalonchocotyle		vulgaris	Price, 1942				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519330	
+718361	717779	Tareenia		acanthopagri	Hussey, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718361	
+718362	518595	Tareenia		anticavaginata	(Byrnes, 1986)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718362	
+718327	717783	Benedenia		kintoki	Iwata, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718327	
+518661	717783	Menziesia		elongata	(Yamaguti, 1968) Gibson, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518661	
+518605	717784	Benedeniella		congeri	(Yamaguti, 1958)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518605	
+518604	717785	Benedenia		sargocentron	Zhang, Yang & Liu, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518604	
+518699	717788	Allobenedenia		ishikawae	(Goto, 1894) Yamaguti, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518699	
+718363	518602	Tareenia		lutjani	(Whittington & Kearn, 1993)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718363	
+718323	717789	Benedenia		akaisaki	Iwata, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718323	
+518756	414340	Epibdella		sekii	Yamguti, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518756	
+518735	518607	Benedenia		posterocolpa	Hargis, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518735	
+562385	718143	Cynoscionicola		americana	Tantalean, Martinez & Escalante, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562385	
+718489	562386	Cynoscionicola		branquialis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718489	
+718490	519224	Manterella		heteracantha	(Manter, 1938) Unnitahn, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718490	
+718491	718144	Manterella		longicauda	(Goto, 1890) Unnithan, 11971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718491	
+718493	519225	Manterella		pseudoheteracantha	(Hargis, 1956) Unnithan, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718493	
+718500	519224	Microcotyle		heteracantha	Manter, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718500	
+519246	718144	Microcotyle		longicauda	Goto, 1899				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:519246	
+718305	518081	Pseudohaliotrematoides		aurigae	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718305	
+718391	717632	Ancylodiscoides		mugilis	Tripathi, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718391	
+517996	518155	Ancyrocephalus		spinicirrus	Yamaguti, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517996	
+718548	519032	Calinella		myliobati	Guberlet, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718548	
+718549	562214	Calinella		ophiodontis	Kay, 1945				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718549	
+388383	717657	Haliotrema		brachyflagellocirrus	Wang, Liu & Zhou, 2003				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:388383	
+518091	717658	Haliotrema		caesionis	Yamaguti, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518091	
+518097	717660	Haliotrema		cornigerum	Zhukov, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518097	
+518114	717661	Haliotrema		gracilihamus	Zhukov, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518114	
+718285	717662	Haliotrema		guttati	Garcia-Vargas, Fajer-Ávila & Lamothe-Argumedo, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718285	
+518118	717664	Haliotrema		heteracantha	Zhukov, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518118	
+518128	717667	Haliotrema		longihamus	Zhukov, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518128	
+518130	717668	Haliotrema		longitubocirrus	Bychowsky & Nagibina, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518130	
+518134	717669	Haliotrema		magnigastrohamus	Zhukov, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518134	
+518135	717672	Haliotrema		mediohamus	Zhukov, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518135	
+518141	717674	Haliotrema		noncalcaris	Bychowsky & Nagibina, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518141	
+518145	717678	Haliotrema		parvicirrus	Zhukov, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518145	
+518147	717679	Haliotrema		patellacirrus	Bychowsky & Nagibina, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518147	
+518153	717683	Haliotrema		shenzhenense	Wang, Liu & Zhou, 2003				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:518153	
+562545	519110	Heterobothrium		ecuadori	Meserve, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:562545	
+718295	717635	Parahaliotrema		pacificum	Mizelle & Kritsky, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718295	
+119731	562378	Pseudanthocotyle		markewitschii	Nikolaeva & Pogorel'tseva, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119731	
+718316	518142	Tetrancistrum		obesum	Caballero, Bravo-Hollis & Grocott, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:718316	

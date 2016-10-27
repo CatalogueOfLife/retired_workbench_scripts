@@ -1,30 +1,54 @@
+/*The standard editorial checks and cleanup for all data-sets in assembly schema*/
+source /home/GSDS/Master/SQL_templates/standard_editorial_checks.sql
+
+
+-- specific FishBase checks here
+
+UPDATE `databases` SET `is_new` = 2, `version` = DATE_FORMAT(NOW(),'%b %Y'), `release_date` = CURRENT_DATE();
+
 DELETE FROM `common_names` WHERE `common_name` IS NULL OR `common_name` = "";
 
 DELETE FROM `distribution` WHERE `distribution` IS NULL OR `distribution` = "";
 
 DELETE FROM `families` WHERE `kingdom` != 'Animalia';
 
-DELETE FROM `references` WHERE `title` IS NULL OR `title` = "";
+UPDATE `families` SET `is_accepted_name` = 1;
 
 DELETE FROM `specialists` WHERE `specialist_name` IS NULL OR `specialist_name` = "";
+
+
+
+/* Non-scientific epithets */
+/* Create the log */
+SELECT "non-scientific epithets: ", `name_code`, `genus`, `species`, `infraspecies`, `infraspecies_marker`  FROM `scientific_names` 
+WHERE (`species` LIKE "sp.") OR (`species` LIKE "%spp.%");
+/* Delete the records */
+DELETE FROM `scientific_names` 
+WHERE (`species` LIKE "sp.") OR (`species` LIKE "%spp.%");
+
+/* Create the log */
+SELECT "non-scientific epithets: ", `name_code`, `genus`, `species`, `infraspecies`, `infraspecies_marker`  FROM `scientific_names` 
+WHERE (`genus` LIKE '%gen.%') OR (`genus` LIKE  '%Genus%');
+
+/* Delete the records */
+DELETE FROM `scientific_names` 
+WHERE (`genus` LIKE '%gen.%') OR (`genus` LIKE  '%Genus%');
 
 
 
 /* Incorrect infraspecies names (author strings etc) */
 /* Create the log */
 SELECT "Incorrect (infra)species: ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names` 
-WHERE `species` NOT REGEXP '^[0-9a-z]' OR
-CHAR_LENGTH(`species`) = 1 OR
-CHAR_LENGTH(`infraspecies`) = 1 OR
-`infraspecies` NOT REGEXP '^[0-9a-z]';
+WHERE  `infraspecies` != "" AND `infraspecies` IS NOT NULL -- find infraspecies first
+AND (`species` NOT REGEXP '^[0-9a-z]'  -- filter incorrect characters in species name
+OR `infraspecies` NOT REGEXP '^[0-9a-z]');  -- incorrect characters in infraspecies name
 
 
 /* Delete the records */
 DELETE FROM `scientific_names` 
-WHERE `species` NOT REGEXP '^[0-9a-z]' OR
-CHAR_LENGTH(`species`) = 1 OR
-CHAR_LENGTH(`infraspecies`) = 1 OR
-`infraspecies` NOT REGEXP '^[0-9a-z]';
+WHERE `infraspecies` != "" AND `infraspecies` IS NOT NULL 
+AND (`species` NOT REGEXP '^[0-9a-z]'  
+OR `infraspecies` NOT REGEXP '^[0-9a-z]');
 
 
 

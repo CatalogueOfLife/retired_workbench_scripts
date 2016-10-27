@@ -1,0 +1,4018 @@
+AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
+111665	Belgium	Text		
+111602	Belgium	Text		
+240939	Netherlands	Text		
+111254	England	Text	exotic	
+111352	England	Text		
+111254	France	Text	exotic	
+111250	Zeeland	Text		
+111250	Zeeland	Text		
+111099	Zeeland	Text		
+111099	Zeeland	Text		
+111254	Zeeland	Text	exotic	
+396735	Zeeland	Text	exotic	
+111573	Zeeland	Text		
+111676	Zeeland	Text		
+111164	Zeeland	Text	exotic	
+111159	Zeeland	Text		
+111186	Zeeland	Text		
+111665	Zeeland	Text		
+111147	Zeeland	Text		
+111147	Zeeland	Text		
+111713	Zeeland	Text		
+111652	Zeeland	Text		
+111621	Zeeland	Text		
+111411	Zeeland	Text		
+111412	Zeeland	Text		
+111355	Zeeland	Text		
+111355	Zeeland	Text		
+111343	Oostende	Text		
+111343	Oostende	Text		
+111355	Oostende	Text		
+111411	Oostende	Text		
+111412	Oostende	Text		
+111318	Oostende	Text		
+111367	Oostende	Text		
+111659	Oostende	Text		
+111067	Oostende	Text		
+111597	Oostende	Text		
+111600	Oostende	Text		
+111601	Oostende	Text		
+111150	Oostende	Text		
+111350	Oostende	Text		
+111072	Oostende	Text		
+111631	Oostende	Text		
+111229	Oostende	Text		
+111158	Oostende	Text	exotic	
+111158	Oostende	Text		
+111159	Oostende	Text		
+111162	Oostende	Text		
+111162	Oostende	Text		
+111162	Oostende	Text		
+111365	Oostende	Text		
+111259	Oostende	Text		
+111268	Oostende	Text		
+111125	Oostende	Text		
+111061	Oostende	Text		
+111464	Oostende	Text		
+111254	Oostende	Text		
+111597	Blankenberge	Text		
+111062	Blankenberge	Text		
+111062	Blankenberge	Text		
+111418	Blankenberge	Text		
+111355	Blankenberge	Text		
+111254	Blankenberge	Text		
+111558	Blankenberge	Text		
+111091	Blankenberge	Text		
+111464	Blankenberge	Text		
+111538	Blankenberge	Text		
+111669	Bredene	Text		
+111597	De Haan	Text		
+111260	De Haan	Text		
+111367	De Haan	Text		
+111785	De Haan	Text		
+111464	De Haan	Text		
+111218	De Haan	Text		
+111669	De Haan	Text		
+111273	Middelkerke	Text		
+153730	Nieuwpoort	Text		
+111152	Nieuwpoort	Text		
+111538	Koksijde	Text		
+111293	Koksijde	Text		
+111669	Koksijde	Text		
+111604	Koksijde	Text		
+153730	Koksijde	Text		
+153730	Koksijde	Text		
+153730	Koksijde	Text		
+153730	Koksijde	Text		
+111631	Koksijde	Text		
+111351	Koksijde	Text		
+111164	Koksijde	Text	exotic	
+111520	Koksijde	Text		
+111355	De Panne	Text		
+111500	De Panne	Text		
+111418	De Panne	Text		
+111600	De Panne	Text		
+111273	De Panne	Text		
+111249	De Panne	Text		
+111097	De Panne	Text		
+111159	Calais	Text		
+111152	Calais	Text		
+111153	Calais	Text		
+111164	Calais	Text		
+111166	Calais	Text		
+111196	Calais	Text		
+111197	Calais	Text		
+111268	Calais	Text		
+111260	Calais	Text		
+111257	Calais	Text		
+111304	Calais	Text		
+111365	Calais	Text		
+111351	Calais	Text		
+111664	Calais	Text		
+111665	Calais	Text		
+111147	Calais	Text		
+111668	Calais	Text		
+111667	Calais	Text		
+111631	Calais	Text		
+111350	Calais	Text		
+111659	Calais	Text		
+111187	Calais	Text		
+111604	Calais	Text		
+111062	Calais	Text		
+111600	Calais	Text		
+111601	Calais	Text		
+111597	Calais	Text		
+111594	Calais	Text		
+111706	Calais	Text		
+111343	Calais	Text		
+111696	Calais	Text		
+111695	Calais	Text		
+111690	Calais	Text		
+111314	Calais	Text		
+111484	Calais	Text		
+111495	Calais	Text		
+111355	Calais	Text		
+111730	Calais	Text		
+111411	Calais	Text		
+111412	Calais	Text		
+111393	Calais	Text		
+111367	Calais	Text		
+111391	Calais	Text		
+111621	Calais	Text		
+111361	Calais	Text		
+111498	Calais	Text		
+111713	Calais	Text		
+111652	Calais	Text		
+111250	Calais	Text		
+111523	Calais	Text		
+111538	Calais	Text		
+111539	Calais	Text		
+111061	Calais	Text		
+111091	Calais	Text		
+111099	Calais	Text		
+111125	Calais	Text		
+111521	Calais	Text		
+111719	Calais	Text		
+111401	Calais	Text		
+111547	Calais	Text		
+111281	Calais	Text		
+111421	Calais	Text		
+111653	Calais	Text		
+111760	Calais	Text		
+111554	Calais	Text		
+111676	Calais	Text		
+111669	Calais	Text		
+111285	Calais	Text		
+111764	Calais	Text		
+111706	Walcheren	Text		
+111607	Wissenkerke	Text		
+111539	Wissenkerke	Text		
+111351	Terneuzen	Text		
+111254	Bruinisse	Text		
+111664	Zierikzee	Text		
+153717	Zierikzee	Text		
+111601	Zierikzee	Text		
+111350	Domburg	Text		
+111361	Domburg	Text		
+111412	Domburg	Text		
+111573	Westkapelle	Text		
+111669	Westkapelle	Text		
+111285	Westkapelle	Text		
+111464	Westkapelle	Text		
+111099	Westkapelle	Text		
+111125	Westkapelle	Text		
+111273	Westkapelle	Text		
+111304	Westkapelle	Text		
+111614	Westkapelle	Text		
+153730	Westkapelle	Text		
+111631	Westkapelle	Text		
+111350	Westkapelle	Text		
+111412	Westkapelle	Text		
+111498	Westkapelle	Text		
+111418	Westkapelle	Text		
+111695	Westkapelle	Text		
+111695	Westkapelle	Text		
+111484	Westkapelle	Text		
+111495	Westkapelle	Text		
+111099	Vlissingen	Text		
+111250	Vlissingen	Text		
+111484	Vlissingen	Text		
+111343	Meer van Goes	Text		
+111254	Meer van Goes	Text	exotic	
+111254	Meer van Goes	Text		
+111484	Wimereux	Text		
+111355	Wimereux	Text		
+111730	Wimereux	Text		
+111695	Wimereux	Text		
+111696	Wimereux	Text		
+111343	Wimereux	Text		
+111690	Wimereux	Text		
+111367	Wimereux	Text		
+111391	Wimereux	Text		
+111621	Wimereux	Text		
+111498	Wimereux	Text		
+111361	Wimereux	Text		
+111713	Wimereux	Text		
+111652	Wimereux	Text		
+111412	Wimereux	Text		
+111411	Wimereux	Text		
+111622	Wimereux	Text		
+111350	Wimereux	Text		
+111631	Wimereux	Text		
+111607	Wimereux	Text		
+111147	Wimereux	Text		
+111664	Wimereux	Text		
+111665	Wimereux	Text		
+111668	Wimereux	Text		
+111597	Wimereux	Text		
+111594	Wimereux	Text		
+153730	Wimereux	Text		
+111600	Wimereux	Text		
+111062	Wimereux	Text		
+111601	Wimereux	Text		
+111604	Wimereux	Text		
+111187	Wimereux	Text		
+111659	Wimereux	Text		
+111166	Wimereux	Text		
+111197	Wimereux	Text		
+111196	Wimereux	Text		
+111162	Wimereux	Text		
+111164	Wimereux	Text		
+111152	Wimereux	Text		
+111153	Wimereux	Text		
+111159	Wimereux	Text		
+111158	Wimereux	Text		
+111351	Wimereux	Text		
+111304	Wimereux	Text		
+111365	Wimereux	Text		
+111268	Wimereux	Text		
+111257	Wimereux	Text		
+111260	Wimereux	Text		
+111719	Wimereux	Text		
+111521	Wimereux	Text		
+111401	Wimereux	Text		
+111547	Wimereux	Text		
+111281	Wimereux	Text		
+111421	Wimereux	Text		
+111099	Wimereux	Text		
+111091	Wimereux	Text		
+111061	Wimereux	Text		
+111539	Wimereux	Text		
+111538	Wimereux	Text		
+111523	Wimereux	Text		
+111250	Wimereux	Text		
+111285	Wimereux	Text		
+111764	Wimereux	Text		
+111760	Wimereux	Text		
+111669	Wimereux	Text		
+111676	Wimereux	Text		
+111554	Wimereux	Text		
+111653	Wimereux	Text		
+111268	Ambleteuse	Text		
+111361	Wissant	Text		
+111174	Atlantic	Text		
+111173	Atlantic	Text		
+111312	Atlantic	Text		
+111314	Atlantic	Text		
+111665	Atlantic	Text		
+408282	Atlantic	Text		
+111201	Atlantic	Text		
+111230	Atlantic	Text		
+111153	Atlantic	Text		
+111152	Atlantic	Text		
+465718	Atlantic	Text		
+111254	Atlantic	Text	exotic	
+111254	Pacific Ocean	Text		
+111072	Pacific Ocean	Text		
+216000	Indian Ocean	Text		
+221562	Mediterranean Sea	Text		
+111254	Mediterranean Sea	Text	exotic	
+111456	Mediterranean Sea	Text		
+111465	Mediterranean Sea	Text		
+221572	Mediterranean Sea	Text	exotic	
+111162	Mediterranean Sea	Text		
+220616	Mediterranean Sea	Text	exotic	
+111352	Mediterranean Sea	Text		
+111706	Mediterranean Sea	Text		
+111317	Mediterranean Sea	Text		
+111498	Mediterranean Sea	Text		
+111389	Mediterranean Sea	Text		
+254640	Arctic Ocean	Text		
+111706	Arctic Ocean	Text		
+240927	Arctic Ocean	Text		
+111600	Arctic Ocean	Text		
+111602	Arctic Ocean	Text		
+254422	Arctic Ocean	Text		
+240935	Arctic Ocean	Text		
+465722	Arctic Ocean	Text		
+465716	Antarctic Ocean	Text		
+469954	North Pacific	Text		
+221571	North Atlantic	Text		
+182970	North Atlantic	Text		
+408260	Japan	Text		
+111072	Japan	Text		
+111201	Canada	Text		
+111230	Canada	Text		
+111174	Canada	Text		
+111173	Canada	Text		
+216001	South Africa (country)	Text		
+471565	South Africa (country)	Text		
+111254	United States	Text		
+111312	USA	Text		
+111314	USA	Text		
+254640	USA	Text		
+111174	USA	Text		
+111665	USA	Text		
+254422	USA	Text		
+111602	USA	Text		
+111600	USA	Text		
+111153	USA	Text		
+111152	USA	Text		
+240933	Tunisia	Text		
+220616	Malta	Text	exotic	
+220614	Malta	Text	exotic	
+111664	New Zealand	Text		
+111276	Norway	Text		
+111374	North Sea	Text		
+111473	North Sea	Text		
+111099	North Sea	Text		
+111254	North Sea	Text	exotic	
+111760	North Sea	Text		
+111673	North Sea	Text	exotic	
+111285	North Sea	Text		
+111604	North Sea	Text		
+111187	North Sea	Text		
+111597	North Sea	Text		
+111150	North Sea	Text		
+111273	North Sea	Text		
+111158	North Sea	Text	exotic	
+111196	North Sea	Text		
+111174	North Sea	Text		
+111317	North Sea	Text		
+111355	North Sea	Text		
+111622	North Sea	Text		
+111361	North Sea	Text		
+111367	North Sea	Text		
+111355	Wadden Sea	Text		
+111411	Wadden Sea	Text		
+111621	Wadden Sea	Text		
+111147	Wadden Sea	Text		
+111250	Wadden Sea	Text		
+111374	Irish Sea	Text		
+221518	Gulf of Cadiz	Text		
+153734	Dover Strait	Text		
+111695	Dover Strait	Text		
+111699	Skagerrak	Text		
+111703	Skagerrak	Text		
+111060	English Channel	Text		
+111374	English Channel	Text		
+111082	English Channel	Text		
+111521	English Channel	Text		
+111401	English Channel	Text		
+111321	English Channel	Text		
+111293	English Channel	Text		
+111566	English Channel	Text		
+111569	English Channel	Text		
+111365	English Channel	Text		
+111259	English Channel	Text		
+111260	English Channel	Text		
+111257	English Channel	Text		
+153730	English Channel	Text		
+111187	English Channel	Text		
+111604	English Channel	Text		
+408282	English Channel	Text		
+111520	English Channel	Text		
+111622	English Channel	Text		
+111691	English Channel	Text		
+221569	Faroe-Shetland Channel	Text		
+111597	Doggersbank	Text		
+111673	Baltic sea	Text	exotic	
+111748	Hinder Banks	Text		
+111748	Hinder Banks	Text		
+111669	Hinder Banks	Text		
+111285	Hinder Banks	Text		
+111421	Hinder Banks	Text		
+111421	Hinder Banks	Text		
+111637	Hinder Banks	Text		
+111125	Hinder Banks	Text		
+111323	Hinder Banks	Text		
+111332	Hinder Banks	Text		
+111330	Hinder Banks	Text		
+111719	Hinder Banks	Text		
+111543	Hinder Banks	Text		
+111543	Hinder Banks	Text		
+111250	Hinder Banks	Text		
+111337	Hinder Banks	Text		
+111354	Hinder Banks	Text		
+111730	Hinder Banks	Text		
+111495	Hinder Banks	Text		
+111496	Hinder Banks	Text		
+111789	Hinder Banks	Text		
+111789	Hinder Banks	Text		
+111484	Hinder Banks	Text		
+111683	Hinder Banks	Text		
+111210	Hinder Banks	Text		
+111412	Hinder Banks	Text		
+111622	Hinder Banks	Text		
+111400	Hinder Banks	Text		
+111399	Hinder Banks	Text		
+111399	Hinder Banks	Text		
+111785	Hinder Banks	Text		
+111367	Hinder Banks	Text		
+111520	Hinder Banks	Text		
+111152	Hinder Banks	Text		
+111196	Hinder Banks	Text		
+111195	Hinder Banks	Text		
+111195	Hinder Banks	Text		
+111268	Hinder Banks	Text		
+111304	Hinder Banks	Text		
+111607	Hinder Banks	Text		
+111679	Hinder Banks	Text		
+111185	Hinder Banks	Text		
+111185	Hinder Banks	Text		
+153730	Hinder Banks	Text		
+111597	Hinder Banks	Text		
+111509	Flemish Banks	Text		
+111509	Flemish Banks	Text		
+111644	Flemish Banks	Text		
+111579	Flemish Banks	Text		
+111125	Flemish Banks	Text		
+111330	Flemish Banks	Text		
+111247	Flemish Banks	Text		
+111540	Flemish Banks	Text		
+111539	Flemish Banks	Text		
+111061	Flemish Banks	Text		
+111337	Flemish Banks	Text		
+111108	Flemish Banks	Text		
+111582	Flemish Banks	Text		
+111361	Flemish Banks	Text		
+111367	Flemish Banks	Text		
+111391	Flemish Banks	Text		
+111412	Flemish Banks	Text		
+111624	Flemish Banks	Text		
+146821	Flemish Banks	Text		
+111079	Flemish Banks	Text		
+111495	Flemish Banks	Text		
+111310	Flemish Banks	Text		
+111257	Flemish Banks	Text		
+111268	Flemish Banks	Text		
+111159	Flemish Banks	Text		
+111350	Flemish Banks	Text		
+153730	Flemish Banks	Text		
+111185	Flemish Banks	Text		
+153734	Flemish Banks	Text		
+111412	Kwintebank	Text		
+146821	Kwintebank	Text		
+111400	Kwintebank	Text		
+247908	Kwintebank	Text		
+247908	Kwintebank	Text		
+111354	Kwintebank	Text		
+247907	Kwintebank	Text		
+247907	Kwintebank	Text		
+111518	Kwintebank	Text		
+111185	Kwintebank	Text		
+111268	Kwintebank	Text		
+111195	Kwintebank	Text		
+111323	Kwintebank	Text		
+111332	Kwintebank	Text		
+111579	Kwintebank	Text		
+111509	Kwintebank	Text		
+111543	Kwintebank	Text		
+111472	Kwintebank	Text		
+111473	Kwintebank	Text		
+111337	Kwintebank	Text		
+111285	Kwintebank	Text		
+111748	Kwintebank	Text		
+111518	Westhinder	Text		
+247907	Westhinder	Text		
+111317	Westhinder	Text		
+111706	Westhinder	Text		
+111314	Westhinder	Text		
+111418	Westhinder	Text		
+111391	Westhinder	Text		
+247908	Westhinder	Text		
+111412	Westhinder	Text		
+111280	Westhinder	Text		
+146821	Westhinder	Text		
+111079	Westhinder	Text		
+111400	Westhinder	Text		
+111276	Westhinder	Text		
+111579	Westhinder	Text		
+111321	Westhinder	Text		
+111325	Westhinder	Text		
+111327	Westhinder	Text		
+111509	Westhinder	Text		
+111547	Westhinder	Text		
+111473	Westhinder	Text		
+111472	Westhinder	Text		
+111108	Westhinder	Text		
+111099	Westhinder	Text		
+111094	Westhinder	Text		
+111091	Westhinder	Text		
+111092	Westhinder	Text		
+111061	Westhinder	Text		
+240921	Westhinder	Text		
+111582	Westhinder	Text		
+111484	Thorntonbank	Text		
+111412	Thorntonbank	Text		
+111412	Goote Bank	Text		
+234109	Azores	Text		
+111162	Azores	Text		
+111164	Azores	Text		
+221518	Azores	Text		
+111592	Guernsey	Text	exotic	
+111276	Faroe Islands	Text		
+111538	Zandvoorde	Text		
+111066	Belgian Coast	Text		
+111067	Belgian Coast	Text		
+111062	Belgian Coast	Text		
+111597	Belgian Coast	Text		
+111600	Belgian Coast	Text		
+111601	Belgian Coast	Text		
+111604	Belgian Coast	Text		
+153717	Belgian Coast	Text		
+111187	Belgian Coast	Text		
+111186	Belgian Coast	Text		
+111147	Belgian Coast	Text		
+111631	Belgian Coast	Text		
+111397	Belgian Coast	Text		
+111351	Belgian Coast	Text		
+111365	Belgian Coast	Text		
+111365	Belgian Coast	Text		
+111202	Belgian Coast	Text		
+111268	Belgian Coast	Text		
+111259	Belgian Coast	Text		
+111196	Belgian Coast	Text		
+111197	Belgian Coast	Text		
+111199	Belgian Coast	Text		
+111166	Belgian Coast	Text		
+111152	Belgian Coast	Text		
+111164	Belgian Coast	Text	exotic	
+111355	Belgian Coast	Text		
+111712	Belgian Coast	Text		
+111683	Belgian Coast	Text		
+111495	Belgian Coast	Text		
+111496	Belgian Coast	Text		
+111706	Belgian Coast	Text		
+111343	Belgian Coast	Text		
+111690	Belgian Coast	Text		
+111352	Belgian Coast	Text		
+111621	Belgian Coast	Text		
+111379	Belgian Coast	Text	exotic	
+111708	Belgian Coast	Text		
+111498	Belgian Coast	Text		
+111713	Belgian Coast	Text		
+111713	Belgian Coast	Text		
+111652	Belgian Coast	Text		
+111411	Belgian Coast	Text		
+111280	Belgian Coast	Text		
+111622	Belgian Coast	Text		
+111079	Belgian Coast	Text		
+111380	Belgian Coast	Text	exotic	
+111285	Belgian Coast	Text		
+111760	Belgian Coast	Text		
+111760	Belgian Coast	Text		
+111669	Belgian Coast	Text		
+111676	Belgian Coast	Text		
+111589	Belgian Coast	Text		
+111256	Belgian Coast	Text	exotic	
+111254	Belgian Coast	Text	exotic	
+111573	Belgian Coast	Text		
+111091	Belgian Coast	Text		
+111099	Belgian Coast	Text		
+111464	Belgian Coast	Text		
+111358	Belgian Coast	Text		
+111539	Belgian Coast	Text		
+111540	Belgian Coast	Text		
+111473	Belgian Coast	Text		
+111249	Belgian Coast	Text		
+111250	Belgian Coast	Text		
+111250	Belgian Coast	Text		
+111247	Belgian Coast	Text		
+111248	Belgian Coast	Text		
+111320	Belgian Coast	Text		
+111281	Belgian Coast	Text		
+111547	Belgian Coast	Text		
+111330	Belgian Coast	Text		
+111719	Belgian Coast	Text		
+111719	Belgian Coast	Text		
+111760	Zeebrugge	Text		
+111558	Zeebrugge	Text		
+111293	Zeebrugge	Text		
+111761	Zeebrugge	Text		
+111592	Zeebrugge	Text		
+111097	Zeebrugge	Text		
+111097	Zeebrugge	Text		
+111061	Zeebrugge	Text		
+111464	Zeebrugge	Text		
+111464	Zeebrugge	Text		
+111539	Zeebrugge	Text		
+111538	Zeebrugge	Text		
+111538	Zeebrugge	Text		
+111549	Zeebrugge	Text		
+111247	Zeebrugge	Text		
+111125	Zeebrugge	Text		
+111401	Zeebrugge	Text		
+111401	Zeebrugge	Text		
+111721	Zeebrugge	Text		
+111521	Zeebrugge	Text	exotic	
+111521	Zeebrugge	Text	exotic	
+111521	Zeebrugge	Text	exotic	
+111579	Zeebrugge	Text		
+111421	Zeebrugge	Text		
+111202	Zeebrugge	Text		
+111397	Zeebrugge	Text		
+111162	Zeebrugge	Text		
+111162	Zeebrugge	Text		
+111153	Zeebrugge	Text		
+111197	Zeebrugge	Text		
+111199	Zeebrugge	Text		
+111631	Zeebrugge	Text		
+111607	Zeebrugge	Text		
+111607	Zeebrugge	Text		
+111072	Zeebrugge	Text		
+111147	Zeebrugge	Text		
+153730	Zeebrugge	Text		
+111062	Zeebrugge	Text		
+111659	Zeebrugge	Text		
+111659	Zeebrugge	Text		
+111367	Zeebrugge	Text		
+111708	Zeebrugge	Text		
+111418	Zeebrugge	Text		
+111379	Zeebrugge	Text		
+111621	Zeebrugge	Text		
+111498	Zeebrugge	Text		
+111785	Zeebrugge	Text		
+111355	Zeebrugge	Text		
+111355	Zeebrugge	Text		
+111488	Zeebrugge	Text		
+111343	Zeebrugge	Text		
+111695	Zeebrugge	Text		
+111352	Zeebrugge	Text		
+111314	Zeebrugge	Text		
+111547	Stroombank	Text		
+111099	Stroombank	Text		
+111632	British Isles	Text		
+111421	British Isles	Text		
+111547	British Isles	Text		
+111124	British Isles	Text		
+111719	British Isles	Text		
+111521	British Isles	Text		
+111521	British Isles	Text		
+111644	British Isles	Text		
+111125	British Isles	Text		
+111539	British Isles	Text		
+111540	British Isles	Text		
+111538	British Isles	Text		
+111525	British Isles	Text		
+111249	British Isles	Text		
+111250	British Isles	Text		
+111247	British Isles	Text		
+111099	British Isles	Text		
+111091	British Isles	Text		
+111061	British Isles	Text		
+111342	British Isles	Text		
+111760	British Isles	Text		
+111255	British Isles	Text		
+111256	British Isles	Text		
+111653	British Isles	Text		
+111558	British Isles	Text		
+111573	British Isles	Text		
+111764	British Isles	Text		
+111285	British Isles	Text		
+111765	British Isles	Text		
+111669	British Isles	Text		
+111673	British Isles	Text		
+111672	British Isles	Text		
+111587	British Isles	Text		
+111676	British Isles	Text		
+111597	British Isles	Text		
+111597	British Isles	Text		
+111601	British Isles	Text		
+111600	British Isles	Text		
+111062	British Isles	Text		
+111067	British Isles	Text		
+111066	British Isles	Text		
+111604	British Isles	Text		
+111187	British Isles	Text		
+111659	British Isles	Text		
+111631	British Isles	Text		
+111679	British Isles	Text		
+111150	British Isles	Text		
+111667	British Isles	Text		
+111668	British Isles	Text		
+111147	British Isles	Text		
+111665	British Isles	Text		
+111664	British Isles	Text		
+111164	British Isles	Text		
+111162	British Isles	Text		
+111162	British Isles	Text		
+111153	British Isles	Text		
+111152	British Isles	Text		
+111159	British Isles	Text		
+111158	British Isles	Text		
+111199	British Isles	Text		
+111197	British Isles	Text		
+111196	British Isles	Text		
+111166	British Isles	Text		
+111351	British Isles	Text		
+111304	British Isles	Text		
+111397	British Isles	Text		
+111257	British Isles	Text		
+111260	British Isles	Text		
+111268	British Isles	Text		
+111202	British Isles	Text		
+111498	British Isles	Text		
+111498	British Isles	Text		
+111361	British Isles	Text		
+111621	British Isles	Text		
+111379	British Isles	Text		
+111418	British Isles	Text		
+111708	British Isles	Text		
+111367	British Isles	Text		
+111399	British Isles	Text		
+111400	British Isles	Text		
+111380	British Isles	Text		
+111320	British Isles	Text		
+111411	British Isles	Text		
+111730	British Isles	Text		
+111174	British Isles	Text		
+111712	British Isles	Text		
+111355	British Isles	Text		
+111488	British Isles	Text		
+111495	British Isles	Text		
+111496	British Isles	Text		
+111683	British Isles	Text		
+111484	British Isles	Text		
+111314	British Isles	Text		
+111690	British Isles	Text		
+111313	British Isles	Text		
+111695	British Isles	Text		
+111696	British Isles	Text		
+111703	British Isles	Text		
+111343	British Isles	Text		
+111706	British Isles	Text		
+111706	British Isles	Text		
+153730	Bristol Channel	Text		
+111635	Bristol Channel	Text		
+111293	Scilly Isles	Text		
+111293	Scilly Isles	Text		
+111589	Scilly Isles	Text		
+111187	Plymouth	Text		
+111713	Plymouth	Text		
+111498	Plymouth	Text		
+111592	Plymouth	Text	exotic	
+111521	Plymouth	Text		
+111147	Northumberland	Text		
+111186	Northumberland	Text		
+111187	Northumberland	Text		
+111197	Northumberland	Text		
+111196	Northumberland	Text		
+111152	Northumberland	Text		
+111268	Northumberland	Text		
+111202	Northumberland	Text		
+111320	Northumberland	Text		
+111411	Northumberland	Text		
+111498	Northumberland	Text		
+111367	Northumberland	Text		
+111418	Northumberland	Text		
+111730	Northumberland	Text		
+111355	Northumberland	Text		
+111496	Northumberland	Text		
+111495	Northumberland	Text		
+111484	Northumberland	Text		
+111314	Northumberland	Text		
+111690	Northumberland	Text		
+111313	Northumberland	Text		
+111312	Northumberland	Text		
+111706	Northumberland	Text		
+111696	Northumberland	Text		
+111719	Northumberland	Text		
+111521	Northumberland	Text		
+111125	Northumberland	Text		
+111421	Northumberland	Text		
+111281	Northumberland	Text		
+111547	Northumberland	Text		
+111099	Northumberland	Text		
+111540	Northumberland	Text		
+111538	Northumberland	Text		
+111374	Northumberland	Text		
+111247	Northumberland	Text		
+111250	Northumberland	Text		
+111760	Northumberland	Text		
+111285	Northumberland	Text		
+111228	Northumberland	Text		
+111228	Northumberland	Text		
+111558	Northumberland	Text		
+111597	Thames Estuary	Text		
+111597	Thames Estuary	Text		
+111374	Scotland	Text		
+111193	Scotland	Text		
+111161	Scotland	Text		
+111312	Scotland	Text		
+111635	Isle of Man	Text		
+111521	Isle of Man	Text		
+111193	Isle of Man	Text		
+111187	Isle of Man	Text		
+111713	Isle of Man	Text		
+111713	Shetlands	Text		
+111276	Shetland Islands	Text		
+111635	Firth of Clyde	Text		
+153734	Wales	Text		
+111635	Wales	Text		
+111498	Belgian Exclusive Economic Zone	Text		
+111500	Belgian Exclusive Economic Zone	Text		
+111652	Belgian Exclusive Economic Zone	Text		
+111713	Belgian Exclusive Economic Zone	Text		
+111361	Belgian Exclusive Economic Zone	Text		
+111621	Belgian Exclusive Economic Zone	Text		
+111318	Belgian Exclusive Economic Zone	Text		
+408266	Belgian Exclusive Economic Zone	Text		
+111708	Belgian Exclusive Economic Zone	Text		
+111367	Belgian Exclusive Economic Zone	Text		
+111367	Belgian Exclusive Economic Zone	Text		
+111367	Belgian Exclusive Economic Zone	Text		
+111320	Belgian Exclusive Economic Zone	Text		
+111412	Belgian Exclusive Economic Zone	Text		
+111411	Belgian Exclusive Economic Zone	Text		
+111411	Belgian Exclusive Economic Zone	Text		
+111411	Belgian Exclusive Economic Zone	Text		
+396730	Belgian Exclusive Economic Zone	Text		
+111622	Belgian Exclusive Economic Zone	Text		
+111622	Belgian Exclusive Economic Zone	Text		
+111393	Belgian Exclusive Economic Zone	Text		
+111399	Belgian Exclusive Economic Zone	Text		
+111400	Belgian Exclusive Economic Zone	Text		
+111380	Belgian Exclusive Economic Zone	Text		
+111379	Belgian Exclusive Economic Zone	Text		
+111352	Belgian Exclusive Economic Zone	Text		
+111690	Belgian Exclusive Economic Zone	Text		
+111343	Belgian Exclusive Economic Zone	Text		
+111706	Belgian Exclusive Economic Zone	Text		
+111696	Belgian Exclusive Economic Zone	Text		
+111695	Belgian Exclusive Economic Zone	Text		
+111696	Belgian Exclusive Economic Zone	Text		
+111488	Belgian Exclusive Economic Zone	Text		
+111357	Belgian Exclusive Economic Zone	Text		
+111355	Belgian Exclusive Economic Zone	Text		
+111355	Belgian Exclusive Economic Zone	Text		
+111355	Belgian Exclusive Economic Zone	Text		
+111354	Belgian Exclusive Economic Zone	Text		
+111730	Belgian Exclusive Economic Zone	Text		
+111712	Belgian Exclusive Economic Zone	Text		
+111596	Belgian Exclusive Economic Zone	Text		
+153730	Belgian Exclusive Economic Zone	Text		
+111597	Belgian Exclusive Economic Zone	Text		
+111067	Belgian Exclusive Economic Zone	Text		
+111066	Belgian Exclusive Economic Zone	Text		
+111062	Belgian Exclusive Economic Zone	Text		
+111604	Belgian Exclusive Economic Zone	Text		
+111659	Belgian Exclusive Economic Zone	Text		
+111187	Belgian Exclusive Economic Zone	Text		
+111147	Belgian Exclusive Economic Zone	Text		
+111147	Belgian Exclusive Economic Zone	Text		
+111147	Belgian Exclusive Economic Zone	Text		
+111665	Belgian Exclusive Economic Zone	Text		
+111665	Belgian Exclusive Economic Zone	Text		
+111665	Belgian Exclusive Economic Zone	Text		
+111667	Belgian Exclusive Economic Zone	Text		
+111150	Belgian Exclusive Economic Zone	Text		
+111150	Belgian Exclusive Economic Zone	Text		
+111631	Belgian Exclusive Economic Zone	Text		
+111607	Belgian Exclusive Economic Zone	Text		
+111072	Belgian Exclusive Economic Zone	Text		
+111273	Belgian Exclusive Economic Zone	Text		
+111276	Belgian Exclusive Economic Zone	Text		
+221538	Belgian Exclusive Economic Zone	Text		
+111397	Belgian Exclusive Economic Zone	Text		
+111365	Belgian Exclusive Economic Zone	Text		
+111304	Belgian Exclusive Economic Zone	Text		
+111351	Belgian Exclusive Economic Zone	Text		
+111351	Belgian Exclusive Economic Zone	Text		
+111351	Belgian Exclusive Economic Zone	Text		
+111202	Belgian Exclusive Economic Zone	Text		
+111199	Belgian Exclusive Economic Zone	Text		
+111257	Belgian Exclusive Economic Zone	Text		
+111257	Belgian Exclusive Economic Zone	Text		
+111259	Belgian Exclusive Economic Zone	Text		
+111260	Belgian Exclusive Economic Zone	Text		
+111268	Belgian Exclusive Economic Zone	Text		
+111269	Belgian Exclusive Economic Zone	Text		
+111268	Belgian Exclusive Economic Zone	Text		
+111229	Belgian Exclusive Economic Zone	Text		
+111166	Belgian Exclusive Economic Zone	Text		
+111166	Belgian Exclusive Economic Zone	Text		
+111197	Belgian Exclusive Economic Zone	Text		
+111166	Belgian Exclusive Economic Zone	Text		
+111164	Belgian Exclusive Economic Zone	Text	exotic	
+111164	Belgian Exclusive Economic Zone	Text		
+111164	Belgian Exclusive Economic Zone	Text		
+111162	Belgian Exclusive Economic Zone	Text	exotic	
+111162	Belgian Exclusive Economic Zone	Text		
+111162	Belgian Exclusive Economic Zone	Text		
+111158	Belgian Exclusive Economic Zone	Text		
+111158	Belgian Exclusive Economic Zone	Text		
+111159	Belgian Exclusive Economic Zone	Text		
+111159	Belgian Exclusive Economic Zone	Text		
+111152	Belgian Exclusive Economic Zone	Text		
+111153	Belgian Exclusive Economic Zone	Text		
+111558	Belgian Exclusive Economic Zone	Text		
+111573	Belgian Exclusive Economic Zone	Text		
+111254	Belgian Exclusive Economic Zone	Text	exotic	
+111254	Belgian Exclusive Economic Zone	Text		
+111676	Belgian Exclusive Economic Zone	Text		
+111589	Belgian Exclusive Economic Zone	Text		
+111765	Belgian Exclusive Economic Zone	Text		
+111760	Belgian Exclusive Economic Zone	Text		
+111285	Belgian Exclusive Economic Zone	Text		
+111669	Belgian Exclusive Economic Zone	Text		
+111673	Belgian Exclusive Economic Zone	Text		
+111293	Belgian Exclusive Economic Zone	Text		
+111669	Belgian Exclusive Economic Zone	Text		
+111374	Belgian Exclusive Economic Zone	Text		
+111250	Belgian Exclusive Economic Zone	Text		
+111249	Belgian Exclusive Economic Zone	Text		
+111250	Belgian Exclusive Economic Zone	Text		
+111247	Belgian Exclusive Economic Zone	Text		
+111247	Belgian Exclusive Economic Zone	Text		
+111539	Belgian Exclusive Economic Zone	Text		
+111538	Belgian Exclusive Economic Zone	Text		
+111358	Belgian Exclusive Economic Zone	Text		
+111464	Belgian Exclusive Economic Zone	Text		
+221521	Belgian Exclusive Economic Zone	Text		
+111522	Belgian Exclusive Economic Zone	Text		
+111097	Belgian Exclusive Economic Zone	Text		
+111129	Belgian Exclusive Economic Zone	Text		
+111129	Belgian Exclusive Economic Zone	Text		
+111125	Belgian Exclusive Economic Zone	Text		
+111521	Belgian Exclusive Economic Zone	Text		
+111082	Belgian Exclusive Economic Zone	Text		
+111401	Belgian Exclusive Economic Zone	Text		
+111719	Belgian Exclusive Economic Zone	Text		
+111721	Belgian Exclusive Economic Zone	Text		
+111635	Belgian Exclusive Economic Zone	Text		
+111635	Belgian Exclusive Economic Zone	Text		
+111421	Belgian Exclusive Economic Zone	Text		
+111320	Belgian Exclusive Economic Zone	Text		
+146830	Belgian Exclusive Economic Zone	Text		
+111281	Belgian Exclusive Economic Zone	Text		
+111218	Belgian Exclusive Economic Zone	Text		
+111673	Belt Sea	Text	exotic	
+111521	Faeroes	Text		
+111713	Mediterranean Sea	IHO/EEZ		
+221575	Mediterranean Sea	IHO/EEZ		
+221575	Mediterranean Sea	IHO/EEZ		
+111162	Mediterranean Sea	IHO/EEZ		
+408282	Mediterranean Sea	IHO/EEZ		
+221555	Mediterranean Sea	IHO/EEZ		
+221555	Mediterranean Sea	IHO/EEZ		
+221555	Mediterranean Sea	IHO/EEZ		
+221555	Mediterranean Sea	IHO/EEZ		
+221530	Mediterranean Sea	IHO/EEZ		
+221545	Mediterranean Sea	IHO/EEZ		
+221564	Mediterranean Sea	IHO/EEZ		
+221565	Mediterranean Sea	IHO/EEZ		
+111635	Helgoland	Text		
+221556	Mediterranean Sea	IHO/EEZ		
+221557	Mediterranean Sea	IHO/EEZ		
+221557	Mediterranean Sea	IHO/EEZ		
+221572	Mediterranean Sea	IHO/EEZ		
+111254	Venice lagoon	Text		
+111635	East Frisian Islands	Text		
+111354	Wadden Sea	IHO/EEZ		
+111343	Wadden Sea	IHO/EEZ		
+111352	Wadden Sea	IHO/EEZ		
+111166	Wadden Sea	IHO/EEZ		
+111164	Wadden Sea	IHO/EEZ	exotic	
+111268	Wadden Sea	IHO/EEZ		
+111719	Wadden Sea	IHO/EEZ		
+111354	Wadden Sea	IHO/EEZ		
+111374	Wadden Sea	IHO/EEZ		
+111197	Wadden Sea	IHO/EEZ		
+111706	Wadden Sea	IHO/EEZ		
+111354	Wadden Sea	IHO/EEZ		
+111268	Wadden Sea	IHO/EEZ		
+111320	Wadden Sea	IHO/EEZ		
+240926	Canary Islands	Text		
+240928	Canary Islands	Text		
+221568	Galicia	Text		
+221566	Galicia	Text		
+221566	Galicia	Text		
+221566	Galicia	Text		
+111254	Galicia	Text		
+221560	Galicia	Text		
+221518	Galicia	Text		
+221529	Galicia	Text		
+111597	Bretagne	Text		
+111560	Mediterranean Sea	IHO/EEZ		
+220637	Red Sea	Text		
+220639	Red Sea	Text		
+111546	Red Sea	Text		
+111548	Red Sea	Text		
+111423	Red Sea	Text		
+210797	Red Sea	Text		
+216023	Red Sea	Text		
+216025	Red Sea	Text		
+216022	Red Sea	Text		
+216024	Red Sea	Text		
+220625	Red Sea	Text		
+220648	Red Sea	Text		
+216026	Red Sea	Text		
+220647	Red Sea	Text		
+220646	Red Sea	Text		
+220645	Red Sea	Text		
+210811	Red Sea	Text		
+210800	Red Sea	Text		
+210802	Red Sea	Text		
+111591	Red Sea	Text		
+216075	Red Sea	Text		
+146857	Red Sea	Text		
+220629	Red Sea	Text		
+216034	Red Sea	Text		
+216073	Red Sea	Text		
+111582	Red Sea	Text		
+216074	Red Sea	Text		
+220630	Red Sea	Text		
+216032	Red Sea	Text		
+220640	Red Sea	Text		
+210805	Red Sea	Text		
+220628	Red Sea	Text		
+220607	Red Sea	Text		
+111502	Red Sea	Text		
+220609	Red Sea	Text		
+220608	Red Sea	Text		
+216021	Red Sea	Text		
+220632	Red Sea	Text		
+111389	Red Sea	Text		
+111402	Red Sea	Text		
+216012	Red Sea	Text		
+216011	Red Sea	Text		
+216013	Red Sea	Text		
+216015	Red Sea	Text		
+216014	Red Sea	Text		
+220623	Red Sea	Text		
+210794	Red Sea	Text		
+111072	Red Sea	Text		
+210806	Red Sea	Text		
+210807	Red Sea	Text		
+210795	Red Sea	Text		
+215999	Red Sea	Text		
+210808	Red Sea	Text		
+216028	Red Sea	Text		
+220612	Red Sea	Text		
+220614	Red Sea	Text		
+220617	Red Sea	Text		
+220618	Red Sea	Text		
+220613	Red Sea	Text		
+220615	Red Sea	Text		
+220616	Red Sea	Text		
+216005	Red Sea	Text		
+216005	Red Sea	Text		
+216003	Red Sea	Text		
+216003	Red Sea	Text		
+216006	Red Sea	Text		
+216004	Red Sea	Text		
+216004	Red Sea	Text		
+216007	Red Sea	Text		
+210798	Red Sea	Text		
+422422	Gulf of Mexico	Text		
+111636	Gulf of Mexico	Text		
+422346	Gulf of Mexico	Text		
+422347	Gulf of Mexico	Text		
+422348	Gulf of Mexico	Text		
+422341	Gulf of Mexico	Text		
+422342	Gulf of Mexico	Text		
+422343	Gulf of Mexico	Text		
+422345	Gulf of Mexico	Text		
+422349	Gulf of Mexico	Text		
+111547	Gulf of Mexico	Text		
+111218	Gulf of Mexico	Text		
+422260	Gulf of Mexico	Text		
+422261	Gulf of Mexico	Text		
+111429	Gulf of Mexico	Text		
+422287	Gulf of Mexico	Text		
+422269	Gulf of Mexico	Text		
+422382	Gulf of Mexico	Text		
+422380	Gulf of Mexico	Text		
+422381	Gulf of Mexico	Text		
+111421	Gulf of Mexico	Text		
+422340	Gulf of Mexico	Text		
+422310	Gulf of Mexico	Text		
+422286	Gulf of Mexico	Text		
+422379	Gulf of Mexico	Text		
+111426	Gulf of Mexico	Text		
+422350	Gulf of Mexico	Text		
+422427	Gulf of Mexico	Text		
+422384	Gulf of Mexico	Text		
+422351	Gulf of Mexico	Text		
+111330	Gulf of Mexico	Text		
+422397	Gulf of Mexico	Text		
+156362	Gulf of Mexico	Text		
+111543	Gulf of Mexico	Text		
+422370	Gulf of Mexico	Text		
+111246	Gulf of Mexico	Text		
+422284	Gulf of Mexico	Text		
+422285	Gulf of Mexico	Text		
+422363	Gulf of Mexico	Text		
+422362	Gulf of Mexico	Text		
+422283	Gulf of Mexico	Text		
+111512	Gulf of Mexico	Text		
+111522	Gulf of Mexico	Text		
+422411	Gulf of Mexico	Text		
+422412	Gulf of Mexico	Text		
+422413	Gulf of Mexico	Text		
+422414	Gulf of Mexico	Text		
+111061	Gulf of Mexico	Text		
+210811	Gulf of Mexico	Text		
+422323	Gulf of Mexico	Text		
+422324	Gulf of Mexico	Text		
+111339	Gulf of Mexico	Text		
+422312	Gulf of Mexico	Text		
+422313	Gulf of Mexico	Text		
+422311	Gulf of Mexico	Text		
+422262	Gulf of Mexico	Text		
+422263	Gulf of Mexico	Text		
+422338	Gulf of Mexico	Text		
+422295	Gulf of Mexico	Text		
+422366	Gulf of Mexico	Text		
+422367	Gulf of Mexico	Text		
+422368	Gulf of Mexico	Text		
+395050	Gulf of Mexico	Text		
+111360	Gulf of Mexico	Text		
+111573	Gulf of Mexico	Text		
+422376	Gulf of Mexico	Text		
+422297	Gulf of Mexico	Text		
+422298	Gulf of Mexico	Text		
+422417	Gulf of Mexico	Text		
+146857	Gulf of Mexico	Text		
+422398	Gulf of Mexico	Text		
+422399	Gulf of Mexico	Text		
+422375	Gulf of Mexico	Text		
+422299	Gulf of Mexico	Text		
+422300	Gulf of Mexico	Text		
+422301	Gulf of Mexico	Text		
+422369	Gulf of Mexico	Text		
+111578	Gulf of Mexico	Text		
+422321	Gulf of Mexico	Text		
+422317	Gulf of Mexico	Text		
+422272	Gulf of Mexico	Text		
+422400	Gulf of Mexico	Text		
+422339	Gulf of Mexico	Text		
+111592	Gulf of Mexico	Text		
+111670	Gulf of Mexico	Text		
+422277	Gulf of Mexico	Text		
+422256	Gulf of Mexico	Text		
+422257	Gulf of Mexico	Text		
+422281	Gulf of Mexico	Text		
+422282	Gulf of Mexico	Text		
+422314	Gulf of Mexico	Text		
+422302	Gulf of Mexico	Text		
+394867	Gulf of Mexico	Text		
+111304	Gulf of Mexico	Text		
+422395	Gulf of Mexico	Text		
+422327	Gulf of Mexico	Text		
+422328	Gulf of Mexico	Text		
+422329	Gulf of Mexico	Text		
+422331	Gulf of Mexico	Text		
+422253	Gulf of Mexico	Text		
+422254	Gulf of Mexico	Text		
+111229	Gulf of Mexico	Text		
+422392	Gulf of Mexico	Text		
+422393	Gulf of Mexico	Text		
+422274	Gulf of Mexico	Text		
+422275	Gulf of Mexico	Text		
+111158	Gulf of Mexico	Text		
+111153	Gulf of Mexico	Text		
+111164	Gulf of Mexico	Text		
+422276	Gulf of Mexico	Text		
+111062	Gulf of Mexico	Text		
+111066	Gulf of Mexico	Text		
+159762	Gulf of Mexico	Text		
+422401	Gulf of Mexico	Text		
+422402	Gulf of Mexico	Text		
+159761	Gulf of Mexico	Text		
+111067	Gulf of Mexico	Text		
+422418	Gulf of Mexico	Text		
+422419	Gulf of Mexico	Text		
+153717	Gulf of Mexico	Text		
+111656	Gulf of Mexico	Text		
+422267	Gulf of Mexico	Text		
+111072	Gulf of Mexico	Text		
+111070	Gulf of Mexico	Text		
+210806	Gulf of Mexico	Text		
+422280	Gulf of Mexico	Text		
+111513	Gulf of Mexico	Text		
+111192	Gulf of Mexico	Text		
+422251	Gulf of Mexico	Text		
+422252	Gulf of Mexico	Text		
+210795	Gulf of Mexico	Text		
+422265	Gulf of Mexico	Text		
+422266	Gulf of Mexico	Text		
+111631	Gulf of Mexico	Text		
+111665	Gulf of Mexico	Text		
+240920	Gulf of Mexico	Text		
+422246	Gulf of Mexico	Text		
+422332	Gulf of Mexico	Text		
+422322	Gulf of Mexico	Text		
+111263	Gulf of Mexico	Text		
+111150	Gulf of Mexico	Text		
+234109	Gulf of Mexico	Text		
+221525	Gulf of Mexico	Text		
+111354	Gulf of Mexico	Text		
+422408	Gulf of Mexico	Text		
+422431	Gulf of Mexico	Text		
+111712	Gulf of Mexico	Text		
+422271	Gulf of Mexico	Text		
+422278	Gulf of Mexico	Text		
+111683	Gulf of Mexico	Text		
+159808	Gulf of Mexico	Text		
+111207	Gulf of Mexico	Text		
+422305	Gulf of Mexico	Text		
+422258	Gulf of Mexico	Text		
+422387	Gulf of Mexico	Text		
+237815	Gulf of Mexico	Text		
+422388	Gulf of Mexico	Text		
+422306	Gulf of Mexico	Text		
+111402	Gulf of Mexico	Text		
+422385	Gulf of Mexico	Text		
+111345	Gulf of Mexico	Text		
+111347	Gulf of Mexico	Text		
+422333	Gulf of Mexico	Text		
+422270	Gulf of Mexico	Text		
+422421	Gulf of Mexico	Text		
+111695	Gulf of Mexico	Text		
+422420	Gulf of Mexico	Text		
+111703	Gulf of Mexico	Text		
+111697	Gulf of Mexico	Text		
+111412	Gulf of Mexico	Text		
+422259	Gulf of Mexico	Text		
+422293	Gulf of Mexico	Text		
+422377	Gulf of Mexico	Text		
+396730	Gulf of Mexico	Text		
+422386	Gulf of Mexico	Text		
+422371	Gulf of Mexico	Text		
+111400	Gulf of Mexico	Text		
+422407	Gulf of Mexico	Text		
+111389	Gulf of Mexico	Text		
+422403	Gulf of Mexico	Text		
+422404	Gulf of Mexico	Text		
+422405	Gulf of Mexico	Text		
+422355	Gulf of Mexico	Text		
+422361	Gulf of Mexico	Text		
+422372	Gulf of Mexico	Text		
+422373	Gulf of Mexico	Text		
+422336	Gulf of Mexico	Text		
+422357	Gulf of Mexico	Text		
+422358	Gulf of Mexico	Text		
+422359	Gulf of Mexico	Text		
+422360	Gulf of Mexico	Text		
+422389	Gulf of Mexico	Text		
+422309	Gulf of Mexico	Text		
+111440	Gulf of Mexico	Text		
+422279	Gulf of Mexico	Text		
+422288	Gulf of Mexico	Text		
+422289	Gulf of Mexico	Text		
+422290	Gulf of Mexico	Text		
+111418	Gulf of Mexico	Text		
+422307	Gulf of Mexico	Text		
+422308	Gulf of Mexico	Text		
+111502	Gulf of Mexico	Text		
+422425	Gulf of Mexico	Text		
+422335	Gulf of Mexico	Text		
+422391	Gulf of Mexico	Text		
+422303	Gulf of Mexico	Text		
+422334	Gulf of Mexico	Text		
+111520	Gulf of Mexico	Text		
+111519	Gulf of Mexico	Text		
+111397	Gulf of St. Lawrence	Text		
+111153	Gulf of St. Lawrence	Text		
+111230	Gulf of St. Lawrence	Text		
+111596	Gulf of St. Lawrence	Text		
+111600	Gulf of St. Lawrence	Text		
+408260	South China Sea	Text		
+448292	Torres Strait	Text		
+234090	Elbe	Text		
+111166	Droogte van Schooneveld	Text		
+111099	Spleet	Text		
+111719	Spleet	Text		
+111690	Westerschelde	Text		
+111354	Westerschelde	Text		
+111147	Westerschelde	Text		
+111350	Westerschelde	Text		
+111631	Westerschelde	Text		
+153734	Westerschelde	Text		
+111250	Westerschelde	Text		
+111099	Westerschelde	Text		
+111197	Kaloot	Text		
+111498	Kaloot	Text		
+111604	Schelde estuary	Text		
+153730	Schelde estuary	Text		
+111597	Schelde estuary	Text		
+408260	Arcachon Bay	Text	exotic	
+111690	Oosterschelde	Text		
+408266	Oosterschelde	Text	exotic	
+111418	Oosterschelde	Text		
+111621	Oosterschelde	Text		
+111411	Oosterschelde	Text		
+153734	Oosterschelde	Text		
+111350	Oosterschelde	Text		
+111631	Oosterschelde	Text		
+111667	Oosterschelde	Text		
+111665	Oosterschelde	Text		
+111147	Oosterschelde	Text		
+111159	Oosterschelde	Text		
+111250	Oosterschelde	Text		
+111099	Oosterschelde	Text		
+111421	Oosterschelde	Text		
+408260	Oosterschelde	Text	exotic	
+408260	Oosterschelde	Text	exotic	
+221551	Svalbard	Text		
+221551	Svalbard	Text		
+221519	Svalbard	Text		
+111187	Spitsbergen	Text		
+240937	Spitsbergen	Text		
+221570	Jan Mayen	Text		
+111187	Holy Island	Text		
+111202	Holy Island	Text		
+111713	Holy Island	Text		
+111621	Holy Island	Text		
+111484	Holy Island	Text		
+111355	Holy Island	Text		
+111730	Holy Island	Text		
+111712	Holy Island	Text		
+111099	Holy Island	Text		
+111719	Holy Island	Text		
+111421	Holy Island	Text		
+111760	Holy Island	Text		
+111317	Ria de Ferrol	Text		
+240921	Ria de Ferrol	Text		
+111597	English Coast	Text		
+111703	English Coast	Text		
+111378	English Coast	Text		
+111665	Ria de Aveiro	Text		
+111664	Ria de Aveiro	Text		
+111666	Ria de Aveiro	Text		
+111614	Ria de Aveiro	Text		
+111158	Ria de Aveiro	Text		
+111164	Ria de Aveiro	Text		
+111379	Ria de Aveiro	Text		
+111354	Ria de Aveiro	Text		
+111355	Ria de Aveiro	Text		
+111351	Ria de Aveiro	Text		
+111352	Ria de Aveiro	Text		
+111343	Ria de Aveiro	Text		
+111254	Ria de Aveiro	Text		
+111539	Ria de Aveiro	Text		
+111540	Ria de Aveiro	Text		
+111539	Cap Gris Nez	Text		
+111539	Cap Gris Nez	Text		
+111082	Cap Gris Nez	Text		
+111401	Cap Gris Nez	Text		
+111401	Cap Gris Nez	Text		
+111391	Cap Gris Nez	Text		
+111498	Cap Gris Nez	Text		
+111498	Cap Gris Nez	Text		
+111713	Cap Gris Nez	Text		
+111713	Cap Gris Nez	Text		
+111187	Cap Gris Nez	Text		
+111187	Cap Gris Nez	Text		
+111197	Cap Gris Nez	Text		
+111659	North East Atlantic	Text		
+111622	North East Atlantic	Text		
+111411	North East Atlantic	Text		
+111352	North East Atlantic	Text		
+111760	Dutch Exclusive  Economic Zone	Text		
+111673	Dutch Exclusive  Economic Zone	Text		
+111669	Dutch Exclusive  Economic Zone	Text		
+153728	Dutch Exclusive  Economic Zone	Text		
+111374	Dutch Exclusive  Economic Zone	Text		
+111249	Dutch Exclusive  Economic Zone	Text		
+111250	Dutch Exclusive  Economic Zone	Text		
+111248	Dutch Exclusive  Economic Zone	Text		
+111540	Dutch Exclusive  Economic Zone	Text		
+111099	Dutch Exclusive  Economic Zone	Text		
+111631	Dutch Exclusive  Economic Zone	Text		
+111667	Dutch Exclusive  Economic Zone	Text		
+111667	Dutch Exclusive  Economic Zone	Text		
+111150	Dutch Exclusive  Economic Zone	Text		
+111147	Dutch Exclusive  Economic Zone	Text		
+111147	Dutch Exclusive  Economic Zone	Text		
+111664	Dutch Exclusive  Economic Zone	Text		
+111601	Dutch Exclusive  Economic Zone	Text		
+111600	Dutch Exclusive  Economic Zone	Text		
+111600	Dutch Exclusive  Economic Zone	Text		
+153717	Dutch Exclusive  Economic Zone	Text		
+111602	Dutch Exclusive  Economic Zone	Text		
+111604	Dutch Exclusive  Economic Zone	Text		
+111268	Dutch Exclusive  Economic Zone	Text		
+111351	Dutch Exclusive  Economic Zone	Text		
+111351	Dutch Exclusive  Economic Zone	Text		
+111159	Dutch Exclusive  Economic Zone	Text		
+111159	Dutch Exclusive  Economic Zone	Text		
+111652	Dutch Exclusive  Economic Zone	Text		
+111621	Dutch Exclusive  Economic Zone	Text		
+111367	Dutch Exclusive  Economic Zone	Text		
+111412	Dutch Exclusive  Economic Zone	Text		
+111320	Dutch Exclusive  Economic Zone	Text		
+111411	Dutch Exclusive  Economic Zone	Text		
+111696	Dutch Exclusive  Economic Zone	Text		
+111706	Dutch Exclusive  Economic Zone	Text		
+111343	Dutch Exclusive  Economic Zone	Text		
+111343	Dutch Exclusive  Economic Zone	Text		
+111352	Dutch Exclusive  Economic Zone	Text		
+111355	Dutch Exclusive  Economic Zone	Text		
+111355	Dutch Exclusive  Economic Zone	Text		
+111174	Dutch Exclusive  Economic Zone	Text		
+111622	German Exclusive Economic Zone	Text		
+111713	Danish Exclusive Economic Zone	Text		
+111713	Danish Exclusive Economic Zone	Text		
+111312	Danish Exclusive Economic Zone	Text		
+111521	Danish Exclusive Economic Zone	Text		
+111521	Irish Exclusive economic Zone	Text		
+111579	Irish Exclusive economic Zone	Text		
+111124	Irish Exclusive economic Zone	Text		
+111719	Irish Exclusive economic Zone	Text		
+111125	Irish Exclusive economic Zone	Text		
+111547	Irish Exclusive economic Zone	Text		
+111281	Irish Exclusive economic Zone	Text		
+111632	Irish Exclusive economic Zone	Text		
+111421	Irish Exclusive economic Zone	Text		
+111320	Irish Exclusive economic Zone	Text		
+111094	Irish Exclusive economic Zone	Text		
+111099	Irish Exclusive economic Zone	Text		
+111091	Irish Exclusive economic Zone	Text		
+111061	Irish Exclusive economic Zone	Text		
+111358	Irish Exclusive economic Zone	Text		
+111585	Irish Exclusive economic Zone	Text		
+111539	Irish Exclusive economic Zone	Text		
+111540	Irish Exclusive economic Zone	Text		
+111538	Irish Exclusive economic Zone	Text		
+111525	Irish Exclusive economic Zone	Text		
+111249	Irish Exclusive economic Zone	Text		
+111247	Irish Exclusive economic Zone	Text		
+111250	Irish Exclusive economic Zone	Text		
+111374	Irish Exclusive economic Zone	Text		
+111669	Irish Exclusive economic Zone	Text		
+111285	Irish Exclusive economic Zone	Text		
+111765	Irish Exclusive economic Zone	Text		
+111761	Irish Exclusive economic Zone	Text		
+111760	Irish Exclusive economic Zone	Text		
+111676	Irish Exclusive economic Zone	Text		
+470745	Irish Exclusive economic Zone	Text		
+159892	Irish Exclusive economic Zone	Text		
+111550	Irish Exclusive economic Zone	Text		
+111549	Irish Exclusive economic Zone	Text		
+111554	Irish Exclusive economic Zone	Text		
+111558	Irish Exclusive economic Zone	Text		
+111573	Irish Exclusive economic Zone	Text		
+471844	Irish Exclusive economic Zone	Text		
+111312	Irish Exclusive economic Zone	Text		
+111690	Irish Exclusive economic Zone	Text		
+111314	Irish Exclusive economic Zone	Text		
+111351	Irish Exclusive economic Zone	Text		
+111706	Irish Exclusive economic Zone	Text		
+111695	Irish Exclusive economic Zone	Text		
+111703	Irish Exclusive economic Zone	Text		
+111696	Irish Exclusive economic Zone	Text		
+111730	Irish Exclusive economic Zone	Text		
+111355	Irish Exclusive economic Zone	Text		
+111495	Irish Exclusive economic Zone	Text		
+111496	Irish Exclusive economic Zone	Text		
+111488	Irish Exclusive economic Zone	Text		
+111484	Irish Exclusive economic Zone	Text		
+111361	Irish Exclusive economic Zone	Text		
+111500	Irish Exclusive economic Zone	Text		
+111498	Irish Exclusive economic Zone	Text		
+111367	Irish Exclusive economic Zone	Text		
+111418	Irish Exclusive economic Zone	Text		
+111621	Irish Exclusive economic Zone	Text		
+111411	Irish Exclusive economic Zone	Text		
+111399	Irish Exclusive economic Zone	Text		
+111079	Irish Exclusive economic Zone	Text		
+111380	Irish Exclusive economic Zone	Text		
+111159	Irish Exclusive economic Zone	Text		
+111161	Irish Exclusive economic Zone	Text		
+111230	Irish Exclusive economic Zone	Text		
+111197	Irish Exclusive economic Zone	Text		
+111196	Irish Exclusive economic Zone	Text		
+111265	Irish Exclusive economic Zone	Text		
+111166	Irish Exclusive economic Zone	Text		
+111304	Irish Exclusive economic Zone	Text		
+111365	Irish Exclusive economic Zone	Text		
+111397	Irish Exclusive economic Zone	Text		
+221538	Irish Exclusive economic Zone	Text		
+111260	Irish Exclusive economic Zone	Text		
+111268	Irish Exclusive economic Zone	Text		
+111257	Irish Exclusive economic Zone	Text		
+111202	Irish Exclusive economic Zone	Text		
+111601	Irish Exclusive economic Zone	Text		
+111604	Irish Exclusive economic Zone	Text		
+111659	Irish Exclusive economic Zone	Text		
+111186	Irish Exclusive economic Zone	Text		
+111187	Irish Exclusive economic Zone	Text		
+111600	Irish Exclusive economic Zone	Text		
+153730	Irish Exclusive economic Zone	Text		
+111062	Irish Exclusive economic Zone	Text		
+111066	Irish Exclusive economic Zone	Text		
+111665	Irish Exclusive economic Zone	Text		
+111147	Irish Exclusive economic Zone	Text		
+221525	Irish Exclusive economic Zone	Text		
+111150	Irish Exclusive economic Zone	Text		
+111667	Irish Exclusive economic Zone	Text		
+111668	Irish Exclusive economic Zone	Text		
+111190	Irish Exclusive economic Zone	Text		
+111072	Irish Exclusive economic Zone	Text		
+111498	Norwegian Exclusive Economic Zone	Text		
+111355	Polish Exclusive Economic Zone	Text		
+111072	Portuguese Exclusive Economic Zone	Text		
+111071	Portuguese Exclusive Economic Zone	Text		
+146776	Portuguese Exclusive Economic Zone	Text		
+111070	Portuguese Exclusive Economic Zone	Text		
+111626	Portuguese Exclusive Economic Zone	Text		
+111068	Portuguese Exclusive Economic Zone	Text		
+111513	Portuguese Exclusive Economic Zone	Text		
+111679	Portuguese Exclusive Economic Zone	Text		
+111677	Portuguese Exclusive Economic Zone	Text		
+111191	Portuguese Exclusive Economic Zone	Text		
+111668	Portuguese Exclusive Economic Zone	Text		
+111111	Portuguese Exclusive Economic Zone	Text		
+111263	Portuguese Exclusive Economic Zone	Text		
+111667	Portuguese Exclusive Economic Zone	Text		
+111151	Portuguese Exclusive Economic Zone	Text		
+111150	Portuguese Exclusive Economic Zone	Text		
+221525	Portuguese Exclusive Economic Zone	Text		
+111147	Portuguese Exclusive Economic Zone	Text		
+111148	Portuguese Exclusive Economic Zone	Text		
+111666	Portuguese Exclusive Economic Zone	Text		
+111665	Portuguese Exclusive Economic Zone	Text		
+111066	Portuguese Exclusive Economic Zone	Text		
+111067	Portuguese Exclusive Economic Zone	Text		
+111062	Portuguese Exclusive Economic Zone	Text		
+111065	Portuguese Exclusive Economic Zone	Text		
+111057	Portuguese Exclusive Economic Zone	Text		
+182953	Portuguese Exclusive Economic Zone	Text		
+111055	Portuguese Exclusive Economic Zone	Text		
+221499	Portuguese Exclusive Economic Zone	Text		
+111058	Portuguese Exclusive Economic Zone	Text		
+111187	Portuguese Exclusive Economic Zone	Text		
+111188	Portuguese Exclusive Economic Zone	Text		
+111190	Portuguese Exclusive Economic Zone	Text		
+111059	Portuguese Exclusive Economic Zone	Text		
+111660	Portuguese Exclusive Economic Zone	Text		
+111659	Portuguese Exclusive Economic Zone	Text		
+111661	Portuguese Exclusive Economic Zone	Text		
+111663	Portuguese Exclusive Economic Zone	Text		
+111184	Portuguese Exclusive Economic Zone	Text		
+111656	Portuguese Exclusive Economic Zone	Text		
+111257	Portuguese Exclusive Economic Zone	Text		
+111258	Portuguese Exclusive Economic Zone	Text		
+221536	Portuguese Exclusive Economic Zone	Text		
+111259	Portuguese Exclusive Economic Zone	Text		
+111260	Portuguese Exclusive Economic Zone	Text		
+111268	Portuguese Exclusive Economic Zone	Text		
+111425	Portuguese Exclusive Economic Zone	Text		
+111199	Portuguese Exclusive Economic Zone	Text		
+111403	Portuguese Exclusive Economic Zone	Text		
+111271	Portuguese Exclusive Economic Zone	Text		
+111397	Portuguese Exclusive Economic Zone	Text		
+111395	Portuguese Exclusive Economic Zone	Text		
+111278	Portuguese Exclusive Economic Zone	Text		
+111298	Portuguese Exclusive Economic Zone	Text		
+111275	Portuguese Exclusive Economic Zone	Text		
+111273	Portuguese Exclusive Economic Zone	Text		
+111366	Portuguese Exclusive Economic Zone	Text		
+111302	Portuguese Exclusive Economic Zone	Text		
+111301	Portuguese Exclusive Economic Zone	Text		
+111365	Portuguese Exclusive Economic Zone	Text		
+111304	Portuguese Exclusive Economic Zone	Text		
+111310	Portuguese Exclusive Economic Zone	Text		
+111166	Portuguese Exclusive Economic Zone	Text		
+111265	Portuguese Exclusive Economic Zone	Text		
+111266	Portuguese Exclusive Economic Zone	Text		
+111264	Portuguese Exclusive Economic Zone	Text		
+111167	Portuguese Exclusive Economic Zone	Text		
+111615	Portuguese Exclusive Economic Zone	Text		
+111614	Portuguese Exclusive Economic Zone	Text		
+111229	Portuguese Exclusive Economic Zone	Text		
+111196	Portuguese Exclusive Economic Zone	Text		
+221529	Portuguese Exclusive Economic Zone	Text		
+111197	Portuguese Exclusive Economic Zone	Text		
+111194	Portuguese Exclusive Economic Zone	Text		
+111195	Portuguese Exclusive Economic Zone	Text		
+237801	Portuguese Exclusive Economic Zone	Text		
+111159	Portuguese Exclusive Economic Zone	Text		
+111162	Portuguese Exclusive Economic Zone	Text		
+111163	Portuguese Exclusive Economic Zone	Text		
+111164	Portuguese Exclusive Economic Zone	Text		
+111158	Portuguese Exclusive Economic Zone	Text		
+111154	Portuguese Exclusive Economic Zone	Text		
+111153	Portuguese Exclusive Economic Zone	Text		
+111382	Portuguese Exclusive Economic Zone	Text		
+111380	Portuguese Exclusive Economic Zone	Text		
+111508	Portuguese Exclusive Economic Zone	Text		
+111503	Portuguese Exclusive Economic Zone	Text		
+111370	Portuguese Exclusive Economic Zone	Text		
+111369	Portuguese Exclusive Economic Zone	Text		
+111372	Portuguese Exclusive Economic Zone	Text		
+111371	Portuguese Exclusive Economic Zone	Text		
+111388	Portuguese Exclusive Economic Zone	Text		
+111441	Portuguese Exclusive Economic Zone	Text		
+111583	Portuguese Exclusive Economic Zone	Text		
+221518	Portuguese Exclusive Economic Zone	Text		
+111079	Portuguese Exclusive Economic Zone	Text		
+159859	Portuguese Exclusive Economic Zone	Text		
+111399	Portuguese Exclusive Economic Zone	Text		
+111722	Portuguese Exclusive Economic Zone	Text		
+111400	Portuguese Exclusive Economic Zone	Text		
+111113	Portuguese Exclusive Economic Zone	Text		
+221524	Portuguese Exclusive Economic Zone	Text		
+111742	Portuguese Exclusive Economic Zone	Text		
+111622	Portuguese Exclusive Economic Zone	Text		
+111723	Portuguese Exclusive Economic Zone	Text		
+472439	Portuguese Exclusive Economic Zone	Text		
+111443	Portuguese Exclusive Economic Zone	Text		
+111752	Portuguese Exclusive Economic Zone	Text		
+111444	Portuguese Exclusive Economic Zone	Text		
+221550	Portuguese Exclusive Economic Zone	Text		
+111280	Portuguese Exclusive Economic Zone	Text		
+472353	Portuguese Exclusive Economic Zone	Text		
+111409	Portuguese Exclusive Economic Zone	Text		
+221575	Portuguese Exclusive Economic Zone	Text		
+472256	Portuguese Exclusive Economic Zone	Text		
+111391	Portuguese Exclusive Economic Zone	Text		
+111368	Portuguese Exclusive Economic Zone	Text		
+111440	Portuguese Exclusive Economic Zone	Text		
+111390	Portuguese Exclusive Economic Zone	Text		
+111378	Portuguese Exclusive Economic Zone	Text		
+111379	Portuguese Exclusive Economic Zone	Text		
+111418	Portuguese Exclusive Economic Zone	Text		
+111318	Portuguese Exclusive Economic Zone	Text		
+111417	Portuguese Exclusive Economic Zone	Text		
+111708	Portuguese Exclusive Economic Zone	Text		
+111498	Portuguese Exclusive Economic Zone	Text		
+111500	Portuguese Exclusive Economic Zone	Text		
+111501	Portuguese Exclusive Economic Zone	Text		
+111520	Portuguese Exclusive Economic Zone	Text		
+111519	Portuguese Exclusive Economic Zone	Text		
+111262	Portuguese Exclusive Economic Zone	Text		
+111261	Portuguese Exclusive Economic Zone	Text		
+111652	Portuguese Exclusive Economic Zone	Text		
+111416	Portuguese Exclusive Economic Zone	Text		
+111069	Portuguese Exclusive Economic Zone	Text		
+111415	Portuguese Exclusive Economic Zone	Text		
+111484	Portuguese Exclusive Economic Zone	Text		
+111359	Portuguese Exclusive Economic Zone	Text		
+111481	Portuguese Exclusive Economic Zone	Text		
+111357	Portuguese Exclusive Economic Zone	Text		
+111216	Portuguese Exclusive Economic Zone	Text		
+111687	Portuguese Exclusive Economic Zone	Text		
+111685	Portuguese Exclusive Economic Zone	Text		
+111683	Portuguese Exclusive Economic Zone	Text		
+111491	Portuguese Exclusive Economic Zone	Text		
+111488	Portuguese Exclusive Economic Zone	Text		
+111492	Portuguese Exclusive Economic Zone	Text		
+221556	Portuguese Exclusive Economic Zone	Text		
+111493	Portuguese Exclusive Economic Zone	Text		
+111494	Portuguese Exclusive Economic Zone	Text		
+111495	Portuguese Exclusive Economic Zone	Text		
+111496	Portuguese Exclusive Economic Zone	Text		
+111516	Portuguese Exclusive Economic Zone	Text		
+111517	Portuguese Exclusive Economic Zone	Text		
+111518	Portuguese Exclusive Economic Zone	Text		
+111356	Portuguese Exclusive Economic Zone	Text		
+111355	Portuguese Exclusive Economic Zone	Text		
+111354	Portuguese Exclusive Economic Zone	Text		
+111735	Portuguese Exclusive Economic Zone	Text		
+111317	Portuguese Exclusive Economic Zone	Text		
+111732	Portuguese Exclusive Economic Zone	Text		
+111731	Portuguese Exclusive Economic Zone	Text		
+111414	Portuguese Exclusive Economic Zone	Text		
+111712	Portuguese Exclusive Economic Zone	Text		
+111727	Portuguese Exclusive Economic Zone	Text		
+111726	Portuguese Exclusive Economic Zone	Text		
+111177	Portuguese Exclusive Economic Zone	Text		
+146801	Portuguese Exclusive Economic Zone	Text		
+488719	Portuguese Exclusive Economic Zone	Text		
+488720	Portuguese Exclusive Economic Zone	Text		
+111698	Portuguese Exclusive Economic Zone	Text		
+111701	Portuguese Exclusive Economic Zone	Text		
+111704	Portuguese Exclusive Economic Zone	Text		
+111702	Portuguese Exclusive Economic Zone	Text		
+111703	Portuguese Exclusive Economic Zone	Text		
+111695	Portuguese Exclusive Economic Zone	Text		
+111694	Portuguese Exclusive Economic Zone	Text		
+111348	Portuguese Exclusive Economic Zone	Text		
+111343	Portuguese Exclusive Economic Zone	Text		
+111351	Portuguese Exclusive Economic Zone	Text		
+111204	Portuguese Exclusive Economic Zone	Text		
+221530	Portuguese Exclusive Economic Zone	Text		
+111206	Portuguese Exclusive Economic Zone	Text		
+111352	Portuguese Exclusive Economic Zone	Text		
+221527	Portuguese Exclusive Economic Zone	Text		
+111207	Portuguese Exclusive Economic Zone	Text		
+111183	Portuguese Exclusive Economic Zone	Text		
+111209	Portuguese Exclusive Economic Zone	Text		
+111208	Portuguese Exclusive Economic Zone	Text		
+111210	Portuguese Exclusive Economic Zone	Text		
+111303	Portuguese Exclusive Economic Zone	Text		
+111314	Portuguese Exclusive Economic Zone	Text		
+111690	Portuguese Exclusive Economic Zone	Text		
+111312	Portuguese Exclusive Economic Zone	Text		
+111311	Portuguese Exclusive Economic Zone	Text		
+111402	Portuguese Exclusive Economic Zone	Text		
+111646	Portuguese Exclusive Economic Zone	Text		
+111573	Portuguese Exclusive Economic Zone	Text		
+111647	Portuguese Exclusive Economic Zone	Text		
+111476	Portuguese Exclusive Economic Zone	Text		
+111432	Portuguese Exclusive Economic Zone	Text		
+111360	Portuguese Exclusive Economic Zone	Text		
+111558	Portuguese Exclusive Economic Zone	Text		
+470547	Portuguese Exclusive Economic Zone	Text		
+111551	Portuguese Exclusive Economic Zone	Text		
+111557	Portuguese Exclusive Economic Zone	Text		
+111554	Portuguese Exclusive Economic Zone	Text		
+111571	Portuguese Exclusive Economic Zone	Text		
+183439	Portuguese Exclusive Economic Zone	Text		
+111566	Portuguese Exclusive Economic Zone	Text		
+111569	Portuguese Exclusive Economic Zone	Text		
+111759	Portuguese Exclusive Economic Zone	Text		
+111582	Portuguese Exclusive Economic Zone	Text		
+111655	Portuguese Exclusive Economic Zone	Text		
+111254	Portuguese Exclusive Economic Zone	Text		
+470703	Portuguese Exclusive Economic Zone	Text		
+146857	Portuguese Exclusive Economic Zone	Text		
+111375	Portuguese Exclusive Economic Zone	Text		
+221560	Portuguese Exclusive Economic Zone	Text		
+221542	Portuguese Exclusive Economic Zone	Text		
+221559	Portuguese Exclusive Economic Zone	Text		
+111228	Portuguese Exclusive Economic Zone	Text		
+111580	Portuguese Exclusive Economic Zone	Text		
+111751	Portuguese Exclusive Economic Zone	Text		
+111578	Portuguese Exclusive Economic Zone	Text		
+111675	Portuguese Exclusive Economic Zone	Text		
+111676	Portuguese Exclusive Economic Zone	Text		
+111589	Portuguese Exclusive Economic Zone	Text		
+111591	Portuguese Exclusive Economic Zone	Text		
+111760	Portuguese Exclusive Economic Zone	Text		
+111766	Portuguese Exclusive Economic Zone	Text		
+111765	Portuguese Exclusive Economic Zone	Text		
+111287	Portuguese Exclusive Economic Zone	Text		
+111289	Portuguese Exclusive Economic Zone	Text		
+111673	Portuguese Exclusive Economic Zone	Text		
+111293	Portuguese Exclusive Economic Zone	Text		
+111291	Portuguese Exclusive Economic Zone	Text		
+111290	Portuguese Exclusive Economic Zone	Text		
+111297	Portuguese Exclusive Economic Zone	Text		
+221543	Portuguese Exclusive Economic Zone	Text		
+111587	Portuguese Exclusive Economic Zone	Text		
+111478	Portuguese Exclusive Economic Zone	Text		
+111541	Portuguese Exclusive Economic Zone	Text		
+468382	Portuguese Exclusive Economic Zone	Text		
+111542	Portuguese Exclusive Economic Zone	Text		
+111549	Portuguese Exclusive Economic Zone	Text		
+111385	Portuguese Exclusive Economic Zone	Text		
+111543	Portuguese Exclusive Economic Zone	Text		
+111374	Portuguese Exclusive Economic Zone	Text		
+111250	Portuguese Exclusive Economic Zone	Text		
+111249	Portuguese Exclusive Economic Zone	Text		
+111247	Portuguese Exclusive Economic Zone	Text		
+111246	Portuguese Exclusive Economic Zone	Text		
+156418	Portuguese Exclusive Economic Zone	Text		
+183415	Portuguese Exclusive Economic Zone	Text		
+111525	Portuguese Exclusive Economic Zone	Text		
+111523	Portuguese Exclusive Economic Zone	Text		
+111533	Portuguese Exclusive Economic Zone	Text		
+111531	Portuguese Exclusive Economic Zone	Text		
+111528	Portuguese Exclusive Economic Zone	Text		
+111527	Portuguese Exclusive Economic Zone	Text		
+111538	Portuguese Exclusive Economic Zone	Text		
+111471	Portuguese Exclusive Economic Zone	Text		
+111535	Portuguese Exclusive Economic Zone	Text		
+111240	Portuguese Exclusive Economic Zone	Text		
+111243	Portuguese Exclusive Economic Zone	Text		
+111242	Portuguese Exclusive Economic Zone	Text		
+111474	Portuguese Exclusive Economic Zone	Text		
+111473	Portuguese Exclusive Economic Zone	Text		
+111469	Portuguese Exclusive Economic Zone	Text		
+221554	Portuguese Exclusive Economic Zone	Text		
+111358	Portuguese Exclusive Economic Zone	Text		
+111585	Portuguese Exclusive Economic Zone	Text		
+111061	Portuguese Exclusive Economic Zone	Text		
+111060	Portuguese Exclusive Economic Zone	Text		
+111336	Portuguese Exclusive Economic Zone	Text		
+111333	Portuguese Exclusive Economic Zone	Text		
+111339	Portuguese Exclusive Economic Zone	Text		
+111338	Portuguese Exclusive Economic Zone	Text		
+111342	Portuguese Exclusive Economic Zone	Text		
+111341	Portuguese Exclusive Economic Zone	Text		
+221546	Portuguese Exclusive Economic Zone	Text		
+111453	Portuguese Exclusive Economic Zone	Text		
+111450	Portuguese Exclusive Economic Zone	Text		
+111449	Portuguese Exclusive Economic Zone	Text		
+111448	Portuguese Exclusive Economic Zone	Text		
+111447	Portuguese Exclusive Economic Zone	Text		
+367625	Portuguese Exclusive Economic Zone	Text		
+470209	Portuguese Exclusive Economic Zone	Text		
+470188	Portuguese Exclusive Economic Zone	Text		
+111459	Portuguese Exclusive Economic Zone	Text		
+221521	Portuguese Exclusive Economic Zone	Text		
+111091	Portuguese Exclusive Economic Zone	Text		
+111512	Portuguese Exclusive Economic Zone	Text		
+111522	Portuguese Exclusive Economic Zone	Text		
+111467	Portuguese Exclusive Economic Zone	Text		
+111466	Portuguese Exclusive Economic Zone	Text		
+111464	Portuguese Exclusive Economic Zone	Text		
+111468	Portuguese Exclusive Economic Zone	Text		
+470124	Portuguese Exclusive Economic Zone	Text		
+111431	Portuguese Exclusive Economic Zone	Text		
+111107	Portuguese Exclusive Economic Zone	Text		
+111108	Portuguese Exclusive Economic Zone	Text		
+111103	Portuguese Exclusive Economic Zone	Text		
+111100	Portuguese Exclusive Economic Zone	Text		
+111099	Portuguese Exclusive Economic Zone	Text		
+111094	Portuguese Exclusive Economic Zone	Text		
+221522	Portuguese Exclusive Economic Zone	Text		
+111095	Portuguese Exclusive Economic Zone	Text		
+111097	Portuguese Exclusive Economic Zone	Text		
+111098	Portuguese Exclusive Economic Zone	Text		
+111320	Portuguese Exclusive Economic Zone	Text		
+111081	Portuguese Exclusive Economic Zone	Text		
+111427	Portuguese Exclusive Economic Zone	Text		
+111426	Portuguese Exclusive Economic Zone	Text		
+111421	Portuguese Exclusive Economic Zone	Text		
+111422	Portuguese Exclusive Economic Zone	Text		
+111632	Portuguese Exclusive Economic Zone	Text		
+111510	Portuguese Exclusive Economic Zone	Text		
+111509	Portuguese Exclusive Economic Zone	Text		
+111633	Portuguese Exclusive Economic Zone	Text		
+111628	Portuguese Exclusive Economic Zone	Text		
+111428	Portuguese Exclusive Economic Zone	Text		
+111429	Portuguese Exclusive Economic Zone	Text		
+111435	Portuguese Exclusive Economic Zone	Text		
+111281	Portuguese Exclusive Economic Zone	Text		
+111234	Portuguese Exclusive Economic Zone	Text		
+469412	Portuguese Exclusive Economic Zone	Text		
+111180	Portuguese Exclusive Economic Zone	Text		
+111283	Portuguese Exclusive Economic Zone	Text		
+183320	Portuguese Exclusive Economic Zone	Text		
+146830	Portuguese Exclusive Economic Zone	Text		
+111437	Portuguese Exclusive Economic Zone	Text		
+111547	Portuguese Exclusive Economic Zone	Text		
+111643	Portuguese Exclusive Economic Zone	Text		
+111218	Portuguese Exclusive Economic Zone	Text		
+111548	Portuguese Exclusive Economic Zone	Text		
+111120	Portuguese Exclusive Economic Zone	Text		
+111637	Portuguese Exclusive Economic Zone	Text		
+111125	Portuguese Exclusive Economic Zone	Text		
+111129	Portuguese Exclusive Economic Zone	Text		
+111136	Portuguese Exclusive Economic Zone	Text		
+159886	Portuguese Exclusive Economic Zone	Text		
+221566	Portuguese Exclusive Economic Zone	Text		
+221567	Portuguese Exclusive Economic Zone	Text		
+111329	Portuguese Exclusive Economic Zone	Text		
+111328	Portuguese Exclusive Economic Zone	Text		
+111325	Portuguese Exclusive Economic Zone	Text		
+111327	Portuguese Exclusive Economic Zone	Text		
+111335	Portuguese Exclusive Economic Zone	Text		
+111330	Portuguese Exclusive Economic Zone	Text		
+111332	Portuguese Exclusive Economic Zone	Text		
+111323	Portuguese Exclusive Economic Zone	Text		
+111321	Portuguese Exclusive Economic Zone	Text		
+469134	Portuguese Exclusive Economic Zone	Text		
+221568	Portuguese Exclusive Economic Zone	Text		
+111720	Portuguese Exclusive Economic Zone	Text		
+111719	Portuguese Exclusive Economic Zone	Text		
+111721	Portuguese Exclusive Economic Zone	Text		
+111756	Portuguese Exclusive Economic Zone	Text		
+111124	Portuguese Exclusive Economic Zone	Text		
+410032	Portuguese Exclusive Economic Zone	Text		
+111123	Portuguese Exclusive Economic Zone	Text		
+111401	Portuguese Exclusive Economic Zone	Text		
+471295	Portuguese Exclusive Economic Zone	Text		
+471297	Portuguese Exclusive Economic Zone	Text		
+111579	Portuguese Exclusive Economic Zone	Text		
+472723	Portuguese Exclusive Economic Zone	Text		
+111477	Portuguese Exclusive Economic Zone	Text		
+111645	Portuguese Exclusive Economic Zone	Text		
+111083	Portuguese Exclusive Economic Zone	Text		
+111082	Portuguese Exclusive Economic Zone	Text		
+111356	Spanish Exclusive Economic Zone	Text		
+111355	Spanish Exclusive Economic Zone	Text		
+111354	Spanish Exclusive Economic Zone	Text		
+111317	Spanish Exclusive Economic Zone	Text		
+111735	Spanish Exclusive Economic Zone	Text		
+111712	Spanish Exclusive Economic Zone	Text		
+111414	Spanish Exclusive Economic Zone	Text		
+111726	Spanish Exclusive Economic Zone	Text		
+111727	Spanish Exclusive Economic Zone	Text		
+111732	Spanish Exclusive Economic Zone	Text		
+111731	Spanish Exclusive Economic Zone	Text		
+146801	Spanish Exclusive Economic Zone	Text		
+111177	Spanish Exclusive Economic Zone	Text		
+488720	Spanish Exclusive Economic Zone	Text		
+488719	Spanish Exclusive Economic Zone	Text		
+111357	Spanish Exclusive Economic Zone	Text		
+111216	Spanish Exclusive Economic Zone	Text		
+111683	Spanish Exclusive Economic Zone	Text		
+111685	Spanish Exclusive Economic Zone	Text		
+111687	Spanish Exclusive Economic Zone	Text		
+111359	Spanish Exclusive Economic Zone	Text		
+111481	Spanish Exclusive Economic Zone	Text		
+111484	Spanish Exclusive Economic Zone	Text		
+111488	Spanish Exclusive Economic Zone	Text		
+111491	Spanish Exclusive Economic Zone	Text		
+111494	Spanish Exclusive Economic Zone	Text		
+111493	Spanish Exclusive Economic Zone	Text		
+221556	Spanish Exclusive Economic Zone	Text		
+111492	Spanish Exclusive Economic Zone	Text		
+111495	Spanish Exclusive Economic Zone	Text		
+111496	Spanish Exclusive Economic Zone	Text		
+111516	Spanish Exclusive Economic Zone	Text		
+111518	Spanish Exclusive Economic Zone	Text		
+111517	Spanish Exclusive Economic Zone	Text		
+111698	Spanish Exclusive Economic Zone	Text		
+111701	Spanish Exclusive Economic Zone	Text		
+111704	Spanish Exclusive Economic Zone	Text		
+111703	Spanish Exclusive Economic Zone	Text		
+111702	Spanish Exclusive Economic Zone	Text		
+111694	Spanish Exclusive Economic Zone	Text		
+111695	Spanish Exclusive Economic Zone	Text		
+111348	Spanish Exclusive Economic Zone	Text		
+111343	Spanish Exclusive Economic Zone	Text		
+111690	Spanish Exclusive Economic Zone	Text		
+111314	Spanish Exclusive Economic Zone	Text		
+111312	Spanish Exclusive Economic Zone	Text		
+111311	Spanish Exclusive Economic Zone	Text		
+111402	Spanish Exclusive Economic Zone	Text		
+111352	Spanish Exclusive Economic Zone	Text		
+111206	Spanish Exclusive Economic Zone	Text		
+221530	Spanish Exclusive Economic Zone	Text		
+111204	Spanish Exclusive Economic Zone	Text		
+111351	Spanish Exclusive Economic Zone	Text		
+111183	Spanish Exclusive Economic Zone	Text		
+221527	Spanish Exclusive Economic Zone	Text		
+111207	Spanish Exclusive Economic Zone	Text		
+111210	Spanish Exclusive Economic Zone	Text		
+111303	Spanish Exclusive Economic Zone	Text		
+111208	Spanish Exclusive Economic Zone	Text		
+111209	Spanish Exclusive Economic Zone	Text		
+111380	Spanish Exclusive Economic Zone	Text		
+111382	Spanish Exclusive Economic Zone	Text		
+111503	Spanish Exclusive Economic Zone	Text		
+111508	Spanish Exclusive Economic Zone	Text		
+111369	Spanish Exclusive Economic Zone	Text		
+111370	Spanish Exclusive Economic Zone	Text		
+111371	Spanish Exclusive Economic Zone	Text		
+111372	Spanish Exclusive Economic Zone	Text		
+111583	Spanish Exclusive Economic Zone	Text		
+111441	Spanish Exclusive Economic Zone	Text		
+111388	Spanish Exclusive Economic Zone	Text		
+111400	Spanish Exclusive Economic Zone	Text		
+111722	Spanish Exclusive Economic Zone	Text		
+111399	Spanish Exclusive Economic Zone	Text		
+159859	Spanish Exclusive Economic Zone	Text		
+221518	Spanish Exclusive Economic Zone	Text		
+111079	Spanish Exclusive Economic Zone	Text		
+472439	Spanish Exclusive Economic Zone	Text		
+111723	Spanish Exclusive Economic Zone	Text		
+111622	Spanish Exclusive Economic Zone	Text		
+111752	Spanish Exclusive Economic Zone	Text		
+111443	Spanish Exclusive Economic Zone	Text		
+111444	Spanish Exclusive Economic Zone	Text		
+221550	Spanish Exclusive Economic Zone	Text		
+111280	Spanish Exclusive Economic Zone	Text		
+111409	Spanish Exclusive Economic Zone	Text		
+472353	Spanish Exclusive Economic Zone	Text		
+111113	Spanish Exclusive Economic Zone	Text		
+221524	Spanish Exclusive Economic Zone	Text		
+111742	Spanish Exclusive Economic Zone	Text		
+111708	Spanish Exclusive Economic Zone	Text		
+111417	Spanish Exclusive Economic Zone	Text		
+111318	Spanish Exclusive Economic Zone	Text		
+111418	Spanish Exclusive Economic Zone	Text		
+111378	Spanish Exclusive Economic Zone	Text		
+111379	Spanish Exclusive Economic Zone	Text		
+111390	Spanish Exclusive Economic Zone	Text		
+111440	Spanish Exclusive Economic Zone	Text		
+111368	Spanish Exclusive Economic Zone	Text		
+111391	Spanish Exclusive Economic Zone	Text		
+472256	Spanish Exclusive Economic Zone	Text		
+221575	Spanish Exclusive Economic Zone	Text		
+111261	Spanish Exclusive Economic Zone	Text		
+111262	Spanish Exclusive Economic Zone	Text		
+111652	Spanish Exclusive Economic Zone	Text		
+111416	Spanish Exclusive Economic Zone	Text		
+111415	Spanish Exclusive Economic Zone	Text		
+111069	Spanish Exclusive Economic Zone	Text		
+111500	Spanish Exclusive Economic Zone	Text		
+111498	Spanish Exclusive Economic Zone	Text		
+111501	Spanish Exclusive Economic Zone	Text		
+111520	Spanish Exclusive Economic Zone	Text		
+111519	Spanish Exclusive Economic Zone	Text		
+111154	Spanish Exclusive Economic Zone	Text		
+111153	Spanish Exclusive Economic Zone	Text		
+111158	Spanish Exclusive Economic Zone	Text		
+237801	Spanish Exclusive Economic Zone	Text		
+111159	Spanish Exclusive Economic Zone	Text		
+111162	Spanish Exclusive Economic Zone	Text		
+111163	Spanish Exclusive Economic Zone	Text		
+111164	Spanish Exclusive Economic Zone	Text		
+111197	Spanish Exclusive Economic Zone	Text		
+221529	Spanish Exclusive Economic Zone	Text		
+111196	Spanish Exclusive Economic Zone	Text		
+111194	Spanish Exclusive Economic Zone	Text		
+111195	Spanish Exclusive Economic Zone	Text		
+111166	Spanish Exclusive Economic Zone	Text		
+111167	Spanish Exclusive Economic Zone	Text		
+111264	Spanish Exclusive Economic Zone	Text		
+111265	Spanish Exclusive Economic Zone	Text		
+111266	Spanish Exclusive Economic Zone	Text		
+111229	Spanish Exclusive Economic Zone	Text		
+111615	Spanish Exclusive Economic Zone	Text		
+111614	Spanish Exclusive Economic Zone	Text		
+111268	Spanish Exclusive Economic Zone	Text		
+111260	Spanish Exclusive Economic Zone	Text		
+111259	Spanish Exclusive Economic Zone	Text		
+111257	Spanish Exclusive Economic Zone	Text		
+221536	Spanish Exclusive Economic Zone	Text		
+111258	Spanish Exclusive Economic Zone	Text		
+111199	Spanish Exclusive Economic Zone	Text		
+111425	Spanish Exclusive Economic Zone	Text		
+111403	Spanish Exclusive Economic Zone	Text		
+111304	Spanish Exclusive Economic Zone	Text		
+111310	Spanish Exclusive Economic Zone	Text		
+111301	Spanish Exclusive Economic Zone	Text		
+111302	Spanish Exclusive Economic Zone	Text		
+111366	Spanish Exclusive Economic Zone	Text		
+111365	Spanish Exclusive Economic Zone	Text		
+111397	Spanish Exclusive Economic Zone	Text		
+111271	Spanish Exclusive Economic Zone	Text		
+111395	Spanish Exclusive Economic Zone	Text		
+111275	Spanish Exclusive Economic Zone	Text		
+111273	Spanish Exclusive Economic Zone	Text		
+111298	Spanish Exclusive Economic Zone	Text		
+111278	Spanish Exclusive Economic Zone	Text		
+111072	Spanish Exclusive Economic Zone	Text		
+111070	Spanish Exclusive Economic Zone	Text		
+146776	Spanish Exclusive Economic Zone	Text		
+111071	Spanish Exclusive Economic Zone	Text		
+111513	Spanish Exclusive Economic Zone	Text		
+111068	Spanish Exclusive Economic Zone	Text		
+111626	Spanish Exclusive Economic Zone	Text		
+111191	Spanish Exclusive Economic Zone	Text		
+111677	Spanish Exclusive Economic Zone	Text		
+111679	Spanish Exclusive Economic Zone	Text		
+111151	Spanish Exclusive Economic Zone	Text		
+111150	Spanish Exclusive Economic Zone	Text		
+221525	Spanish Exclusive Economic Zone	Text		
+111667	Spanish Exclusive Economic Zone	Text		
+111668	Spanish Exclusive Economic Zone	Text		
+111263	Spanish Exclusive Economic Zone	Text		
+111111	Spanish Exclusive Economic Zone	Text		
+111666	Spanish Exclusive Economic Zone	Text		
+111665	Spanish Exclusive Economic Zone	Text		
+111147	Spanish Exclusive Economic Zone	Text		
+111148	Spanish Exclusive Economic Zone	Text		
+111187	Spanish Exclusive Economic Zone	Text		
+111188	Spanish Exclusive Economic Zone	Text		
+111059	Spanish Exclusive Economic Zone	Text		
+111190	Spanish Exclusive Economic Zone	Text		
+111659	Spanish Exclusive Economic Zone	Text		
+111660	Spanish Exclusive Economic Zone	Text		
+111661	Spanish Exclusive Economic Zone	Text		
+111663	Spanish Exclusive Economic Zone	Text		
+111184	Spanish Exclusive Economic Zone	Text		
+111656	Spanish Exclusive Economic Zone	Text		
+111065	Spanish Exclusive Economic Zone	Text		
+111062	Spanish Exclusive Economic Zone	Text		
+111058	Spanish Exclusive Economic Zone	Text		
+221499	Spanish Exclusive Economic Zone	Text		
+111055	Spanish Exclusive Economic Zone	Text		
+182953	Spanish Exclusive Economic Zone	Text		
+111057	Spanish Exclusive Economic Zone	Text		
+111066	Spanish Exclusive Economic Zone	Text		
+111067	Spanish Exclusive Economic Zone	Text		
+111218	Spanish Exclusive Economic Zone	Text		
+111548	Spanish Exclusive Economic Zone	Text		
+111643	Spanish Exclusive Economic Zone	Text		
+111547	Spanish Exclusive Economic Zone	Text		
+111120	Spanish Exclusive Economic Zone	Text		
+111637	Spanish Exclusive Economic Zone	Text		
+146830	Spanish Exclusive Economic Zone	Text		
+111437	Spanish Exclusive Economic Zone	Text		
+111283	Spanish Exclusive Economic Zone	Text		
+183320	Spanish Exclusive Economic Zone	Text		
+111180	Spanish Exclusive Economic Zone	Text		
+111234	Spanish Exclusive Economic Zone	Text		
+469412	Spanish Exclusive Economic Zone	Text		
+111281	Spanish Exclusive Economic Zone	Text		
+111426	Spanish Exclusive Economic Zone	Text		
+111427	Spanish Exclusive Economic Zone	Text		
+111320	Spanish Exclusive Economic Zone	Text		
+111081	Spanish Exclusive Economic Zone	Text		
+111421	Spanish Exclusive Economic Zone	Text		
+111422	Spanish Exclusive Economic Zone	Text		
+111633	Spanish Exclusive Economic Zone	Text		
+111632	Spanish Exclusive Economic Zone	Text		
+111509	Spanish Exclusive Economic Zone	Text		
+111510	Spanish Exclusive Economic Zone	Text		
+111628	Spanish Exclusive Economic Zone	Text		
+111428	Spanish Exclusive Economic Zone	Text		
+111429	Spanish Exclusive Economic Zone	Text		
+111435	Spanish Exclusive Economic Zone	Text		
+111721	Spanish Exclusive Economic Zone	Text		
+111756	Spanish Exclusive Economic Zone	Text		
+111720	Spanish Exclusive Economic Zone	Text		
+111719	Spanish Exclusive Economic Zone	Text		
+111401	Spanish Exclusive Economic Zone	Text		
+471297	Spanish Exclusive Economic Zone	Text		
+471295	Spanish Exclusive Economic Zone	Text		
+111124	Spanish Exclusive Economic Zone	Text		
+410032	Spanish Exclusive Economic Zone	Text		
+111123	Spanish Exclusive Economic Zone	Text		
+111082	Spanish Exclusive Economic Zone	Text		
+111083	Spanish Exclusive Economic Zone	Text		
+111645	Spanish Exclusive Economic Zone	Text		
+111477	Spanish Exclusive Economic Zone	Text		
+111579	Spanish Exclusive Economic Zone	Text		
+472723	Spanish Exclusive Economic Zone	Text		
+111125	Spanish Exclusive Economic Zone	Text		
+111129	Spanish Exclusive Economic Zone	Text		
+159886	Spanish Exclusive Economic Zone	Text		
+221567	Spanish Exclusive Economic Zone	Text		
+221566	Spanish Exclusive Economic Zone	Text		
+111136	Spanish Exclusive Economic Zone	Text		
+111328	Spanish Exclusive Economic Zone	Text		
+111329	Spanish Exclusive Economic Zone	Text		
+111327	Spanish Exclusive Economic Zone	Text		
+111325	Spanish Exclusive Economic Zone	Text		
+111335	Spanish Exclusive Economic Zone	Text		
+111332	Spanish Exclusive Economic Zone	Text		
+111330	Spanish Exclusive Economic Zone	Text		
+111323	Spanish Exclusive Economic Zone	Text		
+111321	Spanish Exclusive Economic Zone	Text		
+469134	Spanish Exclusive Economic Zone	Text		
+221568	Spanish Exclusive Economic Zone	Text		
+111097	Spanish Exclusive Economic Zone	Text		
+111094	Spanish Exclusive Economic Zone	Text		
+111095	Spanish Exclusive Economic Zone	Text		
+221522	Spanish Exclusive Economic Zone	Text		
+111098	Spanish Exclusive Economic Zone	Text		
+111107	Spanish Exclusive Economic Zone	Text		
+111108	Spanish Exclusive Economic Zone	Text		
+111099	Spanish Exclusive Economic Zone	Text		
+111100	Spanish Exclusive Economic Zone	Text		
+111103	Spanish Exclusive Economic Zone	Text		
+111512	Spanish Exclusive Economic Zone	Text		
+111522	Spanish Exclusive Economic Zone	Text		
+111091	Spanish Exclusive Economic Zone	Text		
+221521	Spanish Exclusive Economic Zone	Text		
+111464	Spanish Exclusive Economic Zone	Text		
+111466	Spanish Exclusive Economic Zone	Text		
+111467	Spanish Exclusive Economic Zone	Text		
+470124	Spanish Exclusive Economic Zone	Text		
+111468	Spanish Exclusive Economic Zone	Text		
+111431	Spanish Exclusive Economic Zone	Text		
+111585	Spanish Exclusive Economic Zone	Text		
+111358	Spanish Exclusive Economic Zone	Text		
+111061	Spanish Exclusive Economic Zone	Text		
+111060	Spanish Exclusive Economic Zone	Text		
+111333	Spanish Exclusive Economic Zone	Text		
+111336	Spanish Exclusive Economic Zone	Text		
+111338	Spanish Exclusive Economic Zone	Text		
+111339	Spanish Exclusive Economic Zone	Text		
+111342	Spanish Exclusive Economic Zone	Text		
+221546	Spanish Exclusive Economic Zone	Text		
+111341	Spanish Exclusive Economic Zone	Text		
+111448	Spanish Exclusive Economic Zone	Text		
+367625	Spanish Exclusive Economic Zone	Text		
+111447	Spanish Exclusive Economic Zone	Text		
+111449	Spanish Exclusive Economic Zone	Text		
+111450	Spanish Exclusive Economic Zone	Text		
+111453	Spanish Exclusive Economic Zone	Text		
+470209	Spanish Exclusive Economic Zone	Text		
+470188	Spanish Exclusive Economic Zone	Text		
+111459	Spanish Exclusive Economic Zone	Text		
+111538	Spanish Exclusive Economic Zone	Text		
+111471	Spanish Exclusive Economic Zone	Text		
+111535	Spanish Exclusive Economic Zone	Text		
+111525	Spanish Exclusive Economic Zone	Text		
+111523	Spanish Exclusive Economic Zone	Text		
+111527	Spanish Exclusive Economic Zone	Text		
+111528	Spanish Exclusive Economic Zone	Text		
+111531	Spanish Exclusive Economic Zone	Text		
+111533	Spanish Exclusive Economic Zone	Text		
+111243	Spanish Exclusive Economic Zone	Text		
+111242	Spanish Exclusive Economic Zone	Text		
+111240	Spanish Exclusive Economic Zone	Text		
+111474	Spanish Exclusive Economic Zone	Text		
+111473	Spanish Exclusive Economic Zone	Text		
+111469	Spanish Exclusive Economic Zone	Text		
+221554	Spanish Exclusive Economic Zone	Text		
+111247	Spanish Exclusive Economic Zone	Text		
+111246	Spanish Exclusive Economic Zone	Text		
+156418	Spanish Exclusive Economic Zone	Text		
+183415	Spanish Exclusive Economic Zone	Text		
+111249	Spanish Exclusive Economic Zone	Text		
+111250	Spanish Exclusive Economic Zone	Text		
+111374	Spanish Exclusive Economic Zone	Text		
+111478	Spanish Exclusive Economic Zone	Text		
+111542	Spanish Exclusive Economic Zone	Text		
+468382	Spanish Exclusive Economic Zone	Text		
+111541	Spanish Exclusive Economic Zone	Text		
+111549	Spanish Exclusive Economic Zone	Text		
+111543	Spanish Exclusive Economic Zone	Text		
+111385	Spanish Exclusive Economic Zone	Text		
+111587	Spanish Exclusive Economic Zone	Text		
+221543	Spanish Exclusive Economic Zone	Text		
+111297	Spanish Exclusive Economic Zone	Text		
+111293	Spanish Exclusive Economic Zone	Text		
+111290	Spanish Exclusive Economic Zone	Text		
+111291	Spanish Exclusive Economic Zone	Text		
+111673	Spanish Exclusive Economic Zone	Text		
+111289	Spanish Exclusive Economic Zone	Text		
+111287	Spanish Exclusive Economic Zone	Text		
+111766	Spanish Exclusive Economic Zone	Text		
+111765	Spanish Exclusive Economic Zone	Text		
+111760	Spanish Exclusive Economic Zone	Text		
+111591	Spanish Exclusive Economic Zone	Text		
+111589	Spanish Exclusive Economic Zone	Text		
+111676	Spanish Exclusive Economic Zone	Text		
+111675	Spanish Exclusive Economic Zone	Text		
+146857	Spanish Exclusive Economic Zone	Text		
+111751	Spanish Exclusive Economic Zone	Text		
+111578	Spanish Exclusive Economic Zone	Text		
+111580	Spanish Exclusive Economic Zone	Text		
+111228	Spanish Exclusive Economic Zone	Text		
+221559	Spanish Exclusive Economic Zone	Text		
+221542	Spanish Exclusive Economic Zone	Text		
+221560	Spanish Exclusive Economic Zone	Text		
+111375	Spanish Exclusive Economic Zone	Text		
+111254	Spanish Exclusive Economic Zone	Text		
+470703	Spanish Exclusive Economic Zone	Text		
+111655	Spanish Exclusive Economic Zone	Text		
+111582	Spanish Exclusive Economic Zone	Text		
+111759	Spanish Exclusive Economic Zone	Text		
+111573	Spanish Exclusive Economic Zone	Text		
+111646	Spanish Exclusive Economic Zone	Text		
+111647	Spanish Exclusive Economic Zone	Text		
+111476	Spanish Exclusive Economic Zone	Text		
+111432	Spanish Exclusive Economic Zone	Text		
+111360	Spanish Exclusive Economic Zone	Text		
+111558	Spanish Exclusive Economic Zone	Text		
+111551	Spanish Exclusive Economic Zone	Text		
+470547	Spanish Exclusive Economic Zone	Text		
+111554	Spanish Exclusive Economic Zone	Text		
+111557	Spanish Exclusive Economic Zone	Text		
+183439	Spanish Exclusive Economic Zone	Text		
+111571	Spanish Exclusive Economic Zone	Text		
+111569	Spanish Exclusive Economic Zone	Text		
+111566	Spanish Exclusive Economic Zone	Text		
+111124	Swedish Exclusive Economic Zone	Text		
+111250	Swedish Exclusive Economic Zone	Text		
+111355	Swedish Exclusive Economic Zone	Text		
+111601	Swedish Exclusive Economic Zone	Text		
+111597	Swedish Exclusive Economic Zone	Text		
+111597	United Kingdom Exclusive Economic Zone	Text		
+111600	United Kingdom Exclusive Economic Zone	Text		
+111596	United Kingdom Exclusive Economic Zone	Text		
+111594	United Kingdom Exclusive Economic Zone	Text		
+111062	United Kingdom Exclusive Economic Zone	Text		
+111067	United Kingdom Exclusive Economic Zone	Text		
+111066	United Kingdom Exclusive Economic Zone	Text		
+111658	United Kingdom Exclusive Economic Zone	Text		
+111657	United Kingdom Exclusive Economic Zone	Text		
+111604	United Kingdom Exclusive Economic Zone	Text		
+111601	United Kingdom Exclusive Economic Zone	Text		
+111604	United Kingdom Exclusive Economic Zone	Text		
+111602	United Kingdom Exclusive Economic Zone	Text		
+111659	United Kingdom Exclusive Economic Zone	Text		
+111660	United Kingdom Exclusive Economic Zone	Text		
+111185	United Kingdom Exclusive Economic Zone	Text		
+111184	United Kingdom Exclusive Economic Zone	Text		
+111187	United Kingdom Exclusive Economic Zone	Text		
+111186	United Kingdom Exclusive Economic Zone	Text		
+111665	United Kingdom Exclusive Economic Zone	Text		
+111148	United Kingdom Exclusive Economic Zone	Text		
+111664	United Kingdom Exclusive Economic Zone	Text		
+111688	United Kingdom Exclusive Economic Zone	Text		
+111147	United Kingdom Exclusive Economic Zone	Text		
+111147	United Kingdom Exclusive Economic Zone	Text		
+111263	United Kingdom Exclusive Economic Zone	Text		
+111150	United Kingdom Exclusive Economic Zone	Text		
+111150	United Kingdom Exclusive Economic Zone	Text		
+111151	United Kingdom Exclusive Economic Zone	Text		
+111667	United Kingdom Exclusive Economic Zone	Text		
+111666	United Kingdom Exclusive Economic Zone	Text		
+111668	United Kingdom Exclusive Economic Zone	Text		
+111679	United Kingdom Exclusive Economic Zone	Text		
+111606	United Kingdom Exclusive Economic Zone	Text		
+111608	United Kingdom Exclusive Economic Zone	Text		
+111607	United Kingdom Exclusive Economic Zone	Text		
+111631	United Kingdom Exclusive Economic Zone	Text		
+111190	United Kingdom Exclusive Economic Zone	Text		
+111059	United Kingdom Exclusive Economic Zone	Text		
+111513	United Kingdom Exclusive Economic Zone	Text		
+111479	United Kingdom Exclusive Economic Zone	Text		
+111350	United Kingdom Exclusive Economic Zone	Text		
+111071	United Kingdom Exclusive Economic Zone	Text		
+111072	United Kingdom Exclusive Economic Zone	Text		
+111153	United Kingdom Exclusive Economic Zone	Text		
+111152	United Kingdom Exclusive Economic Zone	Text		
+111152	United Kingdom Exclusive Economic Zone	Text		
+111158	United Kingdom Exclusive Economic Zone	Text		
+111159	United Kingdom Exclusive Economic Zone	Text		
+111162	United Kingdom Exclusive Economic Zone	Text		
+111164	United Kingdom Exclusive Economic Zone	Text		
+111159	United Kingdom Exclusive Economic Zone	Text		
+111161	United Kingdom Exclusive Economic Zone	Text		
+111195	United Kingdom Exclusive Economic Zone	Text		
+111193	United Kingdom Exclusive Economic Zone	Text		
+111230	United Kingdom Exclusive Economic Zone	Text		
+111197	United Kingdom Exclusive Economic Zone	Text		
+111196	United Kingdom Exclusive Economic Zone	Text		
+111229	United Kingdom Exclusive Economic Zone	Text		
+111614	United Kingdom Exclusive Economic Zone	Text		
+111671	United Kingdom Exclusive Economic Zone	Text		
+111265	United Kingdom Exclusive Economic Zone	Text		
+111166	United Kingdom Exclusive Economic Zone	Text		
+111166	United Kingdom Exclusive Economic Zone	Text		
+111075	United Kingdom Exclusive Economic Zone	Text		
+111304	United Kingdom Exclusive Economic Zone	Text		
+111310	United Kingdom Exclusive Economic Zone	Text		
+111363	United Kingdom Exclusive Economic Zone	Text		
+111304	United Kingdom Exclusive Economic Zone	Text		
+111365	United Kingdom Exclusive Economic Zone	Text		
+111273	United Kingdom Exclusive Economic Zone	Text		
+111278	United Kingdom Exclusive Economic Zone	Text		
+111276	United Kingdom Exclusive Economic Zone	Text		
+111397	United Kingdom Exclusive Economic Zone	Text		
+111199	United Kingdom Exclusive Economic Zone	Text		
+111362	United Kingdom Exclusive Economic Zone	Text		
+111425	United Kingdom Exclusive Economic Zone	Text		
+111268	United Kingdom Exclusive Economic Zone	Text		
+111260	United Kingdom Exclusive Economic Zone	Text		
+111268	United Kingdom Exclusive Economic Zone	Text		
+111259	United Kingdom Exclusive Economic Zone	Text		
+111257	United Kingdom Exclusive Economic Zone	Text		
+111202	United Kingdom Exclusive Economic Zone	Text		
+111257	United Kingdom Exclusive Economic Zone	Text		
+111216	United Kingdom Exclusive Economic Zone	Text		
+111683	United Kingdom Exclusive Economic Zone	Text		
+111359	United Kingdom Exclusive Economic Zone	Text		
+111480	United Kingdom Exclusive Economic Zone	Text		
+111484	United Kingdom Exclusive Economic Zone	Text		
+111486	United Kingdom Exclusive Economic Zone	Text		
+111516	United Kingdom Exclusive Economic Zone	Text		
+111514	United Kingdom Exclusive Economic Zone	Text		
+111495	United Kingdom Exclusive Economic Zone	Text		
+111492	United Kingdom Exclusive Economic Zone	Text		
+111496	United Kingdom Exclusive Economic Zone	Text		
+111488	United Kingdom Exclusive Economic Zone	Text		
+111489	United Kingdom Exclusive Economic Zone	Text		
+111174	United Kingdom Exclusive Economic Zone	Text		
+111173	United Kingdom Exclusive Economic Zone	Text		
+111712	United Kingdom Exclusive Economic Zone	Text		
+111414	United Kingdom Exclusive Economic Zone	Text		
+111730	United Kingdom Exclusive Economic Zone	Text		
+111354	United Kingdom Exclusive Economic Zone	Text		
+111355	United Kingdom Exclusive Economic Zone	Text		
+467108	United Kingdom Exclusive Economic Zone	Text		
+471844	United Kingdom Exclusive Economic Zone	Text		
+111312	United Kingdom Exclusive Economic Zone	Text		
+111313	United Kingdom Exclusive Economic Zone	Text		
+111690	United Kingdom Exclusive Economic Zone	Text		
+111691	United Kingdom Exclusive Economic Zone	Text		
+111314	United Kingdom Exclusive Economic Zone	Text		
+111210	United Kingdom Exclusive Economic Zone	Text		
+111724	United Kingdom Exclusive Economic Zone	Text		
+111204	United Kingdom Exclusive Economic Zone	Text		
+111206	United Kingdom Exclusive Economic Zone	Text		
+111207	United Kingdom Exclusive Economic Zone	Text		
+111352	United Kingdom Exclusive Economic Zone	Text		
+111351	United Kingdom Exclusive Economic Zone	Text		
+111343	United Kingdom Exclusive Economic Zone	Text		
+111172	United Kingdom Exclusive Economic Zone	Text		
+111377	United Kingdom Exclusive Economic Zone	Text		
+111706	United Kingdom Exclusive Economic Zone	Text		
+111707	United Kingdom Exclusive Economic Zone	Text		
+111703	United Kingdom Exclusive Economic Zone	Text		
+111699	United Kingdom Exclusive Economic Zone	Text		
+111696	United Kingdom Exclusive Economic Zone	Text		
+111695	United Kingdom Exclusive Economic Zone	Text		
+111652	United Kingdom Exclusive Economic Zone	Text		
+111361	United Kingdom Exclusive Economic Zone	Text		
+111518	United Kingdom Exclusive Economic Zone	Text		
+111517	United Kingdom Exclusive Economic Zone	Text		
+111520	United Kingdom Exclusive Economic Zone	Text		
+111500	United Kingdom Exclusive Economic Zone	Text		
+111498	United Kingdom Exclusive Economic Zone	Text		
+111499	United Kingdom Exclusive Economic Zone	Text		
+111708	United Kingdom Exclusive Economic Zone	Text		
+111318	United Kingdom Exclusive Economic Zone	Text		
+111367	United Kingdom Exclusive Economic Zone	Text		
+111367	United Kingdom Exclusive Economic Zone	Text		
+111713	United Kingdom Exclusive Economic Zone	Text		
+111418	United Kingdom Exclusive Economic Zone	Text		
+111379	United Kingdom Exclusive Economic Zone	Text		
+111378	United Kingdom Exclusive Economic Zone	Text		
+111391	United Kingdom Exclusive Economic Zone	Text		
+111319	United Kingdom Exclusive Economic Zone	Text		
+111621	United Kingdom Exclusive Economic Zone	Text		
+111280	United Kingdom Exclusive Economic Zone	Text		
+111299	United Kingdom Exclusive Economic Zone	Text		
+111752	United Kingdom Exclusive Economic Zone	Text		
+111624	United Kingdom Exclusive Economic Zone	Text		
+111723	United Kingdom Exclusive Economic Zone	Text		
+111622	United Kingdom Exclusive Economic Zone	Text		
+111408	United Kingdom Exclusive Economic Zone	Text		
+111217	United Kingdom Exclusive Economic Zone	Text		
+111411	United Kingdom Exclusive Economic Zone	Text		
+111411	United Kingdom Exclusive Economic Zone	Text		
+111411	United Kingdom Exclusive Economic Zone	Text		
+111320	United Kingdom Exclusive Economic Zone	Text		
+111412	United Kingdom Exclusive Economic Zone	Text		
+111400	United Kingdom Exclusive Economic Zone	Text		
+111400	United Kingdom Exclusive Economic Zone	Text		
+111399	United Kingdom Exclusive Economic Zone	Text		
+111399	United Kingdom Exclusive Economic Zone	Text		
+111393	United Kingdom Exclusive Economic Zone	Text		
+111079	United Kingdom Exclusive Economic Zone	Text		
+111369	United Kingdom Exclusive Economic Zone	Text		
+111508	United Kingdom Exclusive Economic Zone	Text		
+111507	United Kingdom Exclusive Economic Zone	Text		
+111398	United Kingdom Exclusive Economic Zone	Text		
+111382	United Kingdom Exclusive Economic Zone	Text		
+111380	United Kingdom Exclusive Economic Zone	Text		
+111381	United Kingdom Exclusive Economic Zone	Text		
+111250	United Kingdom Exclusive Economic Zone	Text		
+111543	United Kingdom Exclusive Economic Zone	Text		
+111374	United Kingdom Exclusive Economic Zone	Text		
+111243	United Kingdom Exclusive Economic Zone	Text		
+111247	United Kingdom Exclusive Economic Zone	Text		
+111247	United Kingdom Exclusive Economic Zone	Text		
+111248	United Kingdom Exclusive Economic Zone	Text		
+111249	United Kingdom Exclusive Economic Zone	Text		
+111250	United Kingdom Exclusive Economic Zone	Text		
+111474	United Kingdom Exclusive Economic Zone	Text		
+111472	United Kingdom Exclusive Economic Zone	Text		
+111473	United Kingdom Exclusive Economic Zone	Text		
+111540	United Kingdom Exclusive Economic Zone	Text		
+111539	United Kingdom Exclusive Economic Zone	Text		
+111535	United Kingdom Exclusive Economic Zone	Text		
+111531	United Kingdom Exclusive Economic Zone	Text		
+111538	United Kingdom Exclusive Economic Zone	Text		
+111527	United Kingdom Exclusive Economic Zone	Text		
+111528	United Kingdom Exclusive Economic Zone	Text		
+111108	United Kingdom Exclusive Economic Zone	Text		
+111523	United Kingdom Exclusive Economic Zone	Text		
+111525	United Kingdom Exclusive Economic Zone	Text		
+111098	United Kingdom Exclusive Economic Zone	Text		
+111097	United Kingdom Exclusive Economic Zone	Text		
+111094	United Kingdom Exclusive Economic Zone	Text		
+111099	United Kingdom Exclusive Economic Zone	Text		
+111107	United Kingdom Exclusive Economic Zone	Text		
+111431	United Kingdom Exclusive Economic Zone	Text		
+111373	United Kingdom Exclusive Economic Zone	Text		
+111464	United Kingdom Exclusive Economic Zone	Text		
+111522	United Kingdom Exclusive Economic Zone	Text		
+111522	United Kingdom Exclusive Economic Zone	Text		
+111091	United Kingdom Exclusive Economic Zone	Text		
+111092	United Kingdom Exclusive Economic Zone	Text		
+111461	United Kingdom Exclusive Economic Zone	Text		
+111450	United Kingdom Exclusive Economic Zone	Text		
+111455	United Kingdom Exclusive Economic Zone	Text		
+111061	United Kingdom Exclusive Economic Zone	Text		
+111448	United Kingdom Exclusive Economic Zone	Text		
+111341	United Kingdom Exclusive Economic Zone	Text		
+111342	United Kingdom Exclusive Economic Zone	Text		
+111337	United Kingdom Exclusive Economic Zone	Text		
+111330	United Kingdom Exclusive Economic Zone	Text		
+111060	United Kingdom Exclusive Economic Zone	Text		
+111358	United Kingdom Exclusive Economic Zone	Text		
+111585	United Kingdom Exclusive Economic Zone	Text		
+111220	United Kingdom Exclusive Economic Zone	Text		
+111125	United Kingdom Exclusive Economic Zone	Text		
+111125	United Kingdom Exclusive Economic Zone	Text		
+111129	United Kingdom Exclusive Economic Zone	Text		
+111130	United Kingdom Exclusive Economic Zone	Text		
+111128	United Kingdom Exclusive Economic Zone	Text		
+159886	United Kingdom Exclusive Economic Zone	Text		
+111135	United Kingdom Exclusive Economic Zone	Text		
+156362	United Kingdom Exclusive Economic Zone	Text		
+111616	United Kingdom Exclusive Economic Zone	Text		
+111321	United Kingdom Exclusive Economic Zone	Text		
+111323	United Kingdom Exclusive Economic Zone	Text		
+111332	United Kingdom Exclusive Economic Zone	Text		
+111325	United Kingdom Exclusive Economic Zone	Text		
+111327	United Kingdom Exclusive Economic Zone	Text		
+111328	United Kingdom Exclusive Economic Zone	Text		
+111644	United Kingdom Exclusive Economic Zone	Text		
+111082	United Kingdom Exclusive Economic Zone	Text		
+111521	United Kingdom Exclusive Economic Zone	Text		
+111579	United Kingdom Exclusive Economic Zone	Text		
+471297	United Kingdom Exclusive Economic Zone	Text		
+111401	United Kingdom Exclusive Economic Zone	Text		
+471295	United Kingdom Exclusive Economic Zone	Text		
+111122	United Kingdom Exclusive Economic Zone	Text		
+410032	United Kingdom Exclusive Economic Zone	Text		
+111124	United Kingdom Exclusive Economic Zone	Text		
+111721	United Kingdom Exclusive Economic Zone	Text		
+111719	United Kingdom Exclusive Economic Zone	Text		
+111120	United Kingdom Exclusive Economic Zone	Text		
+153728	United Kingdom Exclusive Economic Zone	Text		
+111119	United Kingdom Exclusive Economic Zone	Text		
+111218	United Kingdom Exclusive Economic Zone	Text		
+111547	United Kingdom Exclusive Economic Zone	Text		
+111745	United Kingdom Exclusive Economic Zone	Text		
+111744	United Kingdom Exclusive Economic Zone	Text		
+111283	United Kingdom Exclusive Economic Zone	Text		
+111636	United Kingdom Exclusive Economic Zone	Text		
+111231	United Kingdom Exclusive Economic Zone	Text		
+111233	United Kingdom Exclusive Economic Zone	Text		
+111281	United Kingdom Exclusive Economic Zone	Text		
+111234	United Kingdom Exclusive Economic Zone	Text		
+111630	United Kingdom Exclusive Economic Zone	Text		
+111628	United Kingdom Exclusive Economic Zone	Text		
+111636	United Kingdom Exclusive Economic Zone	Text		
+111510	United Kingdom Exclusive Economic Zone	Text		
+111635	United Kingdom Exclusive Economic Zone	Text		
+111509	United Kingdom Exclusive Economic Zone	Text		
+111632	United Kingdom Exclusive Economic Zone	Text		
+111632	United Kingdom Exclusive Economic Zone	Text		
+416669	United Kingdom Exclusive Economic Zone	Text		
+111421	United Kingdom Exclusive Economic Zone	Text		
+111426	United Kingdom Exclusive Economic Zone	Text		
+111427	United Kingdom Exclusive Economic Zone	Text		
+111421	United Kingdom Exclusive Economic Zone	Text		
+111320	United Kingdom Exclusive Economic Zone	Text		
+111293	United Kingdom Exclusive Economic Zone	Text		
+111672	United Kingdom Exclusive Economic Zone	Text		
+111669	United Kingdom Exclusive Economic Zone	Text		
+111669	United Kingdom Exclusive Economic Zone	Text		
+111587	United Kingdom Exclusive Economic Zone	Text		
+111285	United Kingdom Exclusive Economic Zone	Text		
+111286	United Kingdom Exclusive Economic Zone	Text		
+111765	United Kingdom Exclusive Economic Zone	Text		
+111765	United Kingdom Exclusive Economic Zone	Text		
+111760	United Kingdom Exclusive Economic Zone	Text		
+111761	United Kingdom Exclusive Economic Zone	Text		
+111763	United Kingdom Exclusive Economic Zone	Text		
+111764	United Kingdom Exclusive Economic Zone	Text		
+111589	United Kingdom Exclusive Economic Zone	Text		
+111676	United Kingdom Exclusive Economic Zone	Text		
+111673	United Kingdom Exclusive Economic Zone	Text		
+111751	United Kingdom Exclusive Economic Zone	Text		
+111228	United Kingdom Exclusive Economic Zone	Text		
+111578	United Kingdom Exclusive Economic Zone	Text		
+111256	United Kingdom Exclusive Economic Zone	Text		
+111653	United Kingdom Exclusive Economic Zone	Text		
+111255	United Kingdom Exclusive Economic Zone	Text		
+111654	United Kingdom Exclusive Economic Zone	Text		
+111582	United Kingdom Exclusive Economic Zone	Text		
+111758	United Kingdom Exclusive Economic Zone	Text		
+111757	United Kingdom Exclusive Economic Zone	Text		
+111566	United Kingdom Exclusive Economic Zone	Text		
+111569	United Kingdom Exclusive Economic Zone	Text		
+111549	United Kingdom Exclusive Economic Zone	Text		
+111550	United Kingdom Exclusive Economic Zone	Text		
+111558	United Kingdom Exclusive Economic Zone	Text		
+111554	United Kingdom Exclusive Economic Zone	Text		
+111576	United Kingdom Exclusive Economic Zone	Text		
+237792	United Kingdom Exclusive Economic Zone	Text		
+111432	United Kingdom Exclusive Economic Zone	Text		
+111748	United Kingdom Exclusive Economic Zone	Text		
+111476	United Kingdom Exclusive Economic Zone	Text		
+111647	United Kingdom Exclusive Economic Zone	Text		
+111573	United Kingdom Exclusive Economic Zone	Text		
+221573	Mediterranean Sea	IHO/EEZ		
+221573	Mediterranean Sea	IHO/EEZ		
+111174	European waters (ERMS scope)	Text		
+111173	European waters (ERMS scope)	Text		
+111711	European waters (ERMS scope)	Text		
+111712	European waters (ERMS scope)	Text		
+111175	European waters (ERMS scope)	Text		
+111176	European waters (ERMS scope)	Text		
+111177	European waters (ERMS scope)	Text		
+111726	European waters (ERMS scope)	Text		
+111727	European waters (ERMS scope)	Text		
+111728	European waters (ERMS scope)	Text		
+111729	European waters (ERMS scope)	Text		
+111730	European waters (ERMS scope)	Text		
+111414	European waters (ERMS scope)	Text		
+111731	European waters (ERMS scope)	Text		
+111732	European waters (ERMS scope)	Text		
+111354	European waters (ERMS scope)	Text		
+111213	European waters (ERMS scope)	Text		
+111317	European waters (ERMS scope)	Text		
+111733	European waters (ERMS scope)	Text		
+111734	European waters (ERMS scope)	Text		
+111735	European waters (ERMS scope)	Text		
+111355	European waters (ERMS scope)	Text		
+111356	European waters (ERMS scope)	Text		
+111684	European waters (ERMS scope)	Text		
+111685	European waters (ERMS scope)	Text		
+111686	European waters (ERMS scope)	Text		
+111687	European waters (ERMS scope)	Text		
+111681	European waters (ERMS scope)	Text		
+111682	European waters (ERMS scope)	Text		
+111683	European waters (ERMS scope)	Text		
+111216	European waters (ERMS scope)	Text		
+111357	European waters (ERMS scope)	Text		
+111214	European waters (ERMS scope)	Text		
+111485	European waters (ERMS scope)	Text		
+111486	European waters (ERMS scope)	Text		
+111484	European waters (ERMS scope)	Text		
+111482	European waters (ERMS scope)	Text		
+111481	European waters (ERMS scope)	Text		
+111480	European waters (ERMS scope)	Text		
+111359	European waters (ERMS scope)	Text		
+111495	European waters (ERMS scope)	Text		
+111494	European waters (ERMS scope)	Text		
+111493	European waters (ERMS scope)	Text		
+111492	European waters (ERMS scope)	Text		
+111487	European waters (ERMS scope)	Text		
+111488	European waters (ERMS scope)	Text		
+111489	European waters (ERMS scope)	Text		
+111490	European waters (ERMS scope)	Text		
+111491	European waters (ERMS scope)	Text		
+111496	European waters (ERMS scope)	Text		
+111790	European waters (ERMS scope)	Text		
+111517	European waters (ERMS scope)	Text		
+111515	European waters (ERMS scope)	Text		
+111514	European waters (ERMS scope)	Text		
+111314	European waters (ERMS scope)	Text		
+111315	European waters (ERMS scope)	Text		
+111316	European waters (ERMS scope)	Text		
+111690	European waters (ERMS scope)	Text		
+111691	European waters (ERMS scope)	Text		
+111312	European waters (ERMS scope)	Text		
+111313	European waters (ERMS scope)	Text		
+111402	European waters (ERMS scope)	Text		
+111211	European waters (ERMS scope)	Text		
+111311	European waters (ERMS scope)	Text		
+111303	European waters (ERMS scope)	Text		
+111210	European waters (ERMS scope)	Text		
+111208	European waters (ERMS scope)	Text		
+111376	European waters (ERMS scope)	Text		
+111209	European waters (ERMS scope)	Text		
+111183	European waters (ERMS scope)	Text		
+111724	European waters (ERMS scope)	Text		
+111169	European waters (ERMS scope)	Text		
+111207	European waters (ERMS scope)	Text		
+111206	European waters (ERMS scope)	Text		
+111204	European waters (ERMS scope)	Text		
+111352	European waters (ERMS scope)	Text		
+111698	European waters (ERMS scope)	Text		
+111697	European waters (ERMS scope)	Text		
+111700	European waters (ERMS scope)	Text		
+111701	European waters (ERMS scope)	Text		
+111702	European waters (ERMS scope)	Text		
+111699	European waters (ERMS scope)	Text		
+111703	European waters (ERMS scope)	Text		
+111704	European waters (ERMS scope)	Text		
+111692	European waters (ERMS scope)	Text		
+111693	European waters (ERMS scope)	Text		
+111694	European waters (ERMS scope)	Text		
+111791	European waters (ERMS scope)	Text		
+111696	European waters (ERMS scope)	Text		
+111343	European waters (ERMS scope)	Text		
+111707	European waters (ERMS scope)	Text		
+111705	European waters (ERMS scope)	Text		
+111706	European waters (ERMS scope)	Text		
+111377	European waters (ERMS scope)	Text		
+111725	European waters (ERMS scope)	Text		
+111112	European waters (ERMS scope)	Text		
+111171	European waters (ERMS scope)	Text		
+111172	European waters (ERMS scope)	Text		
+111170	European waters (ERMS scope)	Text		
+111348	European waters (ERMS scope)	Text		
+111346	European waters (ERMS scope)	Text		
+111347	European waters (ERMS scope)	Text		
+111345	European waters (ERMS scope)	Text		
+111519	European waters (ERMS scope)	Text		
+111520	European waters (ERMS scope)	Text		
+111789	European waters (ERMS scope)	Text		
+111518	European waters (ERMS scope)	Text		
+111497	European waters (ERMS scope)	Text		
+111498	European waters (ERMS scope)	Text		
+111499	European waters (ERMS scope)	Text		
+111500	European waters (ERMS scope)	Text		
+111501	European waters (ERMS scope)	Text		
+111361	European waters (ERMS scope)	Text		
+111261	European waters (ERMS scope)	Text		
+111262	European waters (ERMS scope)	Text		
+111713	European waters (ERMS scope)	Text		
+111714	European waters (ERMS scope)	Text		
+111502	European waters (ERMS scope)	Text		
+111415	European waters (ERMS scope)	Text		
+111069	European waters (ERMS scope)	Text		
+111416	European waters (ERMS scope)	Text		
+111652	European waters (ERMS scope)	Text		
+111318	European waters (ERMS scope)	Text		
+111418	European waters (ERMS scope)	Text		
+111417	European waters (ERMS scope)	Text		
+111367	European waters (ERMS scope)	Text		
+111708	European waters (ERMS scope)	Text		
+111709	European waters (ERMS scope)	Text		
+111786	European waters (ERMS scope)	Text		
+111368	European waters (ERMS scope)	Text		
+111788	European waters (ERMS scope)	Text		
+111391	European waters (ERMS scope)	Text		
+111319	European waters (ERMS scope)	Text		
+111440	European waters (ERMS scope)	Text		
+111620	European waters (ERMS scope)	Text		
+111621	European waters (ERMS scope)	Text		
+111583	European waters (ERMS scope)	Text		
+111076	European waters (ERMS scope)	Text		
+111389	European waters (ERMS scope)	Text		
+111441	European waters (ERMS scope)	Text		
+111387	European waters (ERMS scope)	Text		
+111388	European waters (ERMS scope)	Text		
+111785	European waters (ERMS scope)	Text		
+111386	European waters (ERMS scope)	Text		
+111371	European waters (ERMS scope)	Text		
+111372	European waters (ERMS scope)	Text		
+111370	European waters (ERMS scope)	Text		
+111398	European waters (ERMS scope)	Text		
+111503	European waters (ERMS scope)	Text		
+111508	European waters (ERMS scope)	Text		
+111344	European waters (ERMS scope)	Text		
+111504	European waters (ERMS scope)	Text		
+111505	European waters (ERMS scope)	Text		
+111507	European waters (ERMS scope)	Text		
+111787	European waters (ERMS scope)	Text		
+111380	European waters (ERMS scope)	Text		
+111381	European waters (ERMS scope)	Text		
+111382	European waters (ERMS scope)	Text		
+111077	European waters (ERMS scope)	Text		
+111078	European waters (ERMS scope)	Text		
+111079	European waters (ERMS scope)	Text		
+111392	European waters (ERMS scope)	Text		
+111394	European waters (ERMS scope)	Text		
+111393	European waters (ERMS scope)	Text		
+111722	European waters (ERMS scope)	Text		
+111723	European waters (ERMS scope)	Text		
+111400	European waters (ERMS scope)	Text		
+111399	European waters (ERMS scope)	Text		
+111080	European waters (ERMS scope)	Text		
+111409	European waters (ERMS scope)	Text		
+111625	European waters (ERMS scope)	Text		
+111178	European waters (ERMS scope)	Text		
+111299	European waters (ERMS scope)	Text		
+111407	European waters (ERMS scope)	Text		
+111444	European waters (ERMS scope)	Text		
+111280	European waters (ERMS scope)	Text		
+111179	European waters (ERMS scope)	Text		
+111752	European waters (ERMS scope)	Text		
+111622	European waters (ERMS scope)	Text		
+111648	European waters (ERMS scope)	Text		
+111624	European waters (ERMS scope)	Text		
+111753	European waters (ERMS scope)	Text		
+111755	European waters (ERMS scope)	Text		
+111442	European waters (ERMS scope)	Text		
+111443	European waters (ERMS scope)	Text		
+111742	European waters (ERMS scope)	Text		
+111408	European waters (ERMS scope)	Text		
+111113	European waters (ERMS scope)	Text		
+111217	European waters (ERMS scope)	Text		
+111349	European waters (ERMS scope)	Text		
+111411	European waters (ERMS scope)	Text		
+111320	European waters (ERMS scope)	Text		
+111412	European waters (ERMS scope)	Text		
+111230	European waters (ERMS scope)	Text		
+111614	European waters (ERMS scope)	Text		
+111229	European waters (ERMS scope)	Text		
+111615	European waters (ERMS scope)	Text		
+111266	European waters (ERMS scope)	Text		
+111265	European waters (ERMS scope)	Text		
+111167	European waters (ERMS scope)	Text		
+111168	European waters (ERMS scope)	Text		
+111671	European waters (ERMS scope)	Text		
+111264	European waters (ERMS scope)	Text		
+111193	European waters (ERMS scope)	Text		
+111195	European waters (ERMS scope)	Text		
+111194	European waters (ERMS scope)	Text		
+111777	European waters (ERMS scope)	Text		
+111197	European waters (ERMS scope)	Text		
+111198	European waters (ERMS scope)	Text		
+111199	European waters (ERMS scope)	Text		
+111152	European waters (ERMS scope)	Text		
+111154	European waters (ERMS scope)	Text		
+111153	European waters (ERMS scope)	Text		
+111158	European waters (ERMS scope)	Text		
+111156	European waters (ERMS scope)	Text		
+111157	European waters (ERMS scope)	Text		
+111159	European waters (ERMS scope)	Text		
+111160	European waters (ERMS scope)	Text		
+111161	European waters (ERMS scope)	Text		
+111165	European waters (ERMS scope)	Text		
+111166	European waters (ERMS scope)	Text		
+111164	European waters (ERMS scope)	Text		
+111163	European waters (ERMS scope)	Text		
+111162	European waters (ERMS scope)	Text		
+111201	European waters (ERMS scope)	Text		
+111202	European waters (ERMS scope)	Text		
+111404	European waters (ERMS scope)	Text		
+111362	European waters (ERMS scope)	Text		
+111710	European waters (ERMS scope)	Text		
+111403	European waters (ERMS scope)	Text		
+111413	European waters (ERMS scope)	Text		
+111425	European waters (ERMS scope)	Text		
+111269	European waters (ERMS scope)	Text		
+111260	European waters (ERMS scope)	Text		
+111268	European waters (ERMS scope)	Text		
+111257	European waters (ERMS scope)	Text		
+111258	European waters (ERMS scope)	Text		
+111259	European waters (ERMS scope)	Text		
+111273	European waters (ERMS scope)	Text		
+111275	European waters (ERMS scope)	Text		
+111279	European waters (ERMS scope)	Text		
+111298	European waters (ERMS scope)	Text		
+111278	European waters (ERMS scope)	Text		
+111276	European waters (ERMS scope)	Text		
+111277	European waters (ERMS scope)	Text		
+111395	European waters (ERMS scope)	Text		
+111397	European waters (ERMS scope)	Text		
+111271	European waters (ERMS scope)	Text		
+111272	European waters (ERMS scope)	Text		
+111310	European waters (ERMS scope)	Text		
+111618	European waters (ERMS scope)	Text		
+111306	European waters (ERMS scope)	Text		
+111308	European waters (ERMS scope)	Text		
+111309	European waters (ERMS scope)	Text		
+111075	European waters (ERMS scope)	Text		
+111351	European waters (ERMS scope)	Text		
+111365	European waters (ERMS scope)	Text		
+111305	European waters (ERMS scope)	Text		
+111363	European waters (ERMS scope)	Text		
+111364	European waters (ERMS scope)	Text		
+111300	European waters (ERMS scope)	Text		
+111366	European waters (ERMS scope)	Text		
+111304	European waters (ERMS scope)	Text		
+111301	European waters (ERMS scope)	Text		
+111302	European waters (ERMS scope)	Text		
+111598	European waters (ERMS scope)	Text		
+111599	European waters (ERMS scope)	Text		
+111600	European waters (ERMS scope)	Text		
+111595	European waters (ERMS scope)	Text		
+111596	European waters (ERMS scope)	Text		
+111597	European waters (ERMS scope)	Text		
+111593	European waters (ERMS scope)	Text		
+111594	European waters (ERMS scope)	Text		
+111066	European waters (ERMS scope)	Text		
+111067	European waters (ERMS scope)	Text		
+111063	European waters (ERMS scope)	Text		
+111064	European waters (ERMS scope)	Text		
+111065	European waters (ERMS scope)	Text		
+111062	European waters (ERMS scope)	Text		
+111058	European waters (ERMS scope)	Text		
+111055	European waters (ERMS scope)	Text		
+111056	European waters (ERMS scope)	Text		
+111057	European waters (ERMS scope)	Text		
+111604	European waters (ERMS scope)	Text		
+111601	European waters (ERMS scope)	Text		
+111602	European waters (ERMS scope)	Text		
+111605	European waters (ERMS scope)	Text		
+111657	European waters (ERMS scope)	Text		
+111658	European waters (ERMS scope)	Text		
+111656	European waters (ERMS scope)	Text		
+111184	European waters (ERMS scope)	Text		
+111059	European waters (ERMS scope)	Text		
+111190	European waters (ERMS scope)	Text		
+111189	European waters (ERMS scope)	Text		
+111188	European waters (ERMS scope)	Text		
+111187	European waters (ERMS scope)	Text		
+111185	European waters (ERMS scope)	Text		
+111186	European waters (ERMS scope)	Text		
+111662	European waters (ERMS scope)	Text		
+111663	European waters (ERMS scope)	Text		
+111661	European waters (ERMS scope)	Text		
+111659	European waters (ERMS scope)	Text		
+111660	European waters (ERMS scope)	Text		
+111666	European waters (ERMS scope)	Text		
+111665	European waters (ERMS scope)	Text		
+111664	European waters (ERMS scope)	Text		
+111689	European waters (ERMS scope)	Text		
+111148	European waters (ERMS scope)	Text		
+111688	European waters (ERMS scope)	Text		
+111263	European waters (ERMS scope)	Text		
+111149	European waters (ERMS scope)	Text		
+111150	European waters (ERMS scope)	Text		
+111775	European waters (ERMS scope)	Text		
+111776	European waters (ERMS scope)	Text		
+111110	European waters (ERMS scope)	Text		
+111111	European waters (ERMS scope)	Text		
+111668	European waters (ERMS scope)	Text		
+111667	European waters (ERMS scope)	Text		
+111677	European waters (ERMS scope)	Text		
+111678	European waters (ERMS scope)	Text		
+111679	European waters (ERMS scope)	Text		
+111680	European waters (ERMS scope)	Text		
+111631	European waters (ERMS scope)	Text		
+111191	European waters (ERMS scope)	Text		
+111606	European waters (ERMS scope)	Text		
+111192	European waters (ERMS scope)	Text		
+111607	European waters (ERMS scope)	Text		
+111609	European waters (ERMS scope)	Text		
+111608	European waters (ERMS scope)	Text		
+111350	European waters (ERMS scope)	Text		
+111617	European waters (ERMS scope)	Text		
+111068	European waters (ERMS scope)	Text		
+111610	European waters (ERMS scope)	Text		
+111479	European waters (ERMS scope)	Text		
+111513	European waters (ERMS scope)	Text		
+111626	European waters (ERMS scope)	Text		
+111071	European waters (ERMS scope)	Text		
+111767	European waters (ERMS scope)	Text		
+111072	European waters (ERMS scope)	Text		
+111073	European waters (ERMS scope)	Text		
+111074	European waters (ERMS scope)	Text		
+111612	European waters (ERMS scope)	Text		
+111613	European waters (ERMS scope)	Text		
+111147	European waters (ERMS scope)	Text		
+111591	European waters (ERMS scope)	Text		
+111670	European waters (ERMS scope)	Text		
+111592	European waters (ERMS scope)	Text		
+111676	European waters (ERMS scope)	Text		
+111673	European waters (ERMS scope)	Text		
+111674	European waters (ERMS scope)	Text		
+111675	European waters (ERMS scope)	Text		
+111589	European waters (ERMS scope)	Text		
+111588	European waters (ERMS scope)	Text		
+111182	European waters (ERMS scope)	Text		
+111669	European waters (ERMS scope)	Text		
+111587	European waters (ERMS scope)	Text		
+111295	European waters (ERMS scope)	Text		
+111296	European waters (ERMS scope)	Text		
+111297	European waters (ERMS scope)	Text		
+111292	European waters (ERMS scope)	Text		
+111293	European waters (ERMS scope)	Text		
+111290	European waters (ERMS scope)	Text		
+111291	European waters (ERMS scope)	Text		
+111294	European waters (ERMS scope)	Text		
+111672	European waters (ERMS scope)	Text		
+111758	European waters (ERMS scope)	Text		
+111760	European waters (ERMS scope)	Text		
+111761	European waters (ERMS scope)	Text		
+111764	European waters (ERMS scope)	Text		
+111765	European waters (ERMS scope)	Text		
+111762	European waters (ERMS scope)	Text		
+111763	European waters (ERMS scope)	Text		
+111285	European waters (ERMS scope)	Text		
+111766	European waters (ERMS scope)	Text		
+111286	European waters (ERMS scope)	Text		
+111289	European waters (ERMS scope)	Text		
+111288	European waters (ERMS scope)	Text		
+111287	European waters (ERMS scope)	Text		
+111582	European waters (ERMS scope)	Text		
+111655	European waters (ERMS scope)	Text		
+111581	European waters (ERMS scope)	Text		
+111759	European waters (ERMS scope)	Text		
+111757	European waters (ERMS scope)	Text		
+111653	European waters (ERMS scope)	Text		
+111654	European waters (ERMS scope)	Text		
+111255	European waters (ERMS scope)	Text		
+111256	European waters (ERMS scope)	Text		
+111578	European waters (ERMS scope)	Text		
+111751	European waters (ERMS scope)	Text		
+111580	European waters (ERMS scope)	Text		
+111375	European waters (ERMS scope)	Text		
+111254	European waters (ERMS scope)	Text		
+111253	European waters (ERMS scope)	Text		
+111432	European waters (ERMS scope)	Text		
+111476	European waters (ERMS scope)	Text		
+111647	European waters (ERMS scope)	Text		
+111646	European waters (ERMS scope)	Text		
+111572	European waters (ERMS scope)	Text		
+111573	European waters (ERMS scope)	Text		
+111611	European waters (ERMS scope)	Text		
+111223	European waters (ERMS scope)	Text		
+111360	European waters (ERMS scope)	Text		
+111227	European waters (ERMS scope)	Text		
+111228	European waters (ERMS scope)	Text		
+111225	European waters (ERMS scope)	Text		
+111226	European waters (ERMS scope)	Text		
+111224	European waters (ERMS scope)	Text		
+111747	European waters (ERMS scope)	Text		
+111748	European waters (ERMS scope)	Text		
+111576	European waters (ERMS scope)	Text		
+111439	European waters (ERMS scope)	Text		
+111566	European waters (ERMS scope)	Text		
+111562	European waters (ERMS scope)	Text		
+111563	European waters (ERMS scope)	Text		
+111560	European waters (ERMS scope)	Text		
+111564	European waters (ERMS scope)	Text		
+111569	European waters (ERMS scope)	Text		
+111567	European waters (ERMS scope)	Text		
+111568	European waters (ERMS scope)	Text		
+111570	European waters (ERMS scope)	Text		
+111571	European waters (ERMS scope)	Text		
+111561	European waters (ERMS scope)	Text		
+111554	European waters (ERMS scope)	Text		
+111558	European waters (ERMS scope)	Text		
+111556	European waters (ERMS scope)	Text		
+111557	European waters (ERMS scope)	Text		
+111550	European waters (ERMS scope)	Text		
+111551	European waters (ERMS scope)	Text		
+111553	European waters (ERMS scope)	Text		
+111142	European waters (ERMS scope)	Text		
+111143	European waters (ERMS scope)	Text		
+111145	European waters (ERMS scope)	Text		
+111146	European waters (ERMS scope)	Text		
+111464	European waters (ERMS scope)	Text		
+111138	European waters (ERMS scope)	Text		
+111139	European waters (ERMS scope)	Text		
+111141	European waters (ERMS scope)	Text		
+111140	European waters (ERMS scope)	Text		
+111463	European waters (ERMS scope)	Text		
+111222	European waters (ERMS scope)	Text		
+111462	European waters (ERMS scope)	Text		
+111459	European waters (ERMS scope)	Text		
+111460	European waters (ERMS scope)	Text		
+111461	European waters (ERMS scope)	Text		
+111456	European waters (ERMS scope)	Text		
+111454	European waters (ERMS scope)	Text		
+111455	European waters (ERMS scope)	Text		
+111457	European waters (ERMS scope)	Text		
+111446	European waters (ERMS scope)	Text		
+111447	European waters (ERMS scope)	Text		
+111448	European waters (ERMS scope)	Text		
+111449	European waters (ERMS scope)	Text		
+111450	European waters (ERMS scope)	Text		
+111451	European waters (ERMS scope)	Text		
+111452	European waters (ERMS scope)	Text		
+111453	European waters (ERMS scope)	Text		
+111783	European waters (ERMS scope)	Text		
+111784	European waters (ERMS scope)	Text		
+111341	European waters (ERMS scope)	Text		
+111342	European waters (ERMS scope)	Text		
+111358	European waters (ERMS scope)	Text		
+111781	European waters (ERMS scope)	Text		
+111782	European waters (ERMS scope)	Text		
+111339	European waters (ERMS scope)	Text		
+111336	European waters (ERMS scope)	Text		
+111337	European waters (ERMS scope)	Text		
+111060	European waters (ERMS scope)	Text		
+111219	European waters (ERMS scope)	Text		
+111220	European waters (ERMS scope)	Text		
+111585	European waters (ERMS scope)	Text		
+111061	European waters (ERMS scope)	Text		
+111221	European waters (ERMS scope)	Text		
+111431	European waters (ERMS scope)	Text		
+111373	European waters (ERMS scope)	Text		
+111512	European waters (ERMS scope)	Text		
+111468	European waters (ERMS scope)	Text		
+111144	European waters (ERMS scope)	Text		
+111465	European waters (ERMS scope)	Text		
+111466	European waters (ERMS scope)	Text		
+111467	European waters (ERMS scope)	Text		
+111522	European waters (ERMS scope)	Text		
+111092	European waters (ERMS scope)	Text		
+111094	European waters (ERMS scope)	Text		
+111768	European waters (ERMS scope)	Text		
+111769	European waters (ERMS scope)	Text		
+111770	European waters (ERMS scope)	Text		
+111771	European waters (ERMS scope)	Text		
+111772	European waters (ERMS scope)	Text		
+111773	European waters (ERMS scope)	Text		
+111100	European waters (ERMS scope)	Text		
+111101	European waters (ERMS scope)	Text		
+111103	European waters (ERMS scope)	Text		
+111108	European waters (ERMS scope)	Text		
+111109	European waters (ERMS scope)	Text		
+111523	European waters (ERMS scope)	Text		
+111107	European waters (ERMS scope)	Text		
+111105	European waters (ERMS scope)	Text		
+111098	European waters (ERMS scope)	Text		
+111095	European waters (ERMS scope)	Text		
+111096	European waters (ERMS scope)	Text		
+111097	European waters (ERMS scope)	Text		
+111242	European waters (ERMS scope)	Text		
+111237	European waters (ERMS scope)	Text		
+111243	European waters (ERMS scope)	Text		
+111238	European waters (ERMS scope)	Text		
+111240	European waters (ERMS scope)	Text		
+111540	European waters (ERMS scope)	Text		
+111539	European waters (ERMS scope)	Text		
+111469	European waters (ERMS scope)	Text		
+111472	European waters (ERMS scope)	Text		
+111473	European waters (ERMS scope)	Text		
+111474	European waters (ERMS scope)	Text		
+111528	European waters (ERMS scope)	Text		
+111530	European waters (ERMS scope)	Text		
+111531	European waters (ERMS scope)	Text		
+111532	European waters (ERMS scope)	Text		
+111533	European waters (ERMS scope)	Text		
+111524	European waters (ERMS scope)	Text		
+111525	European waters (ERMS scope)	Text		
+111526	European waters (ERMS scope)	Text		
+111527	European waters (ERMS scope)	Text		
+111536	European waters (ERMS scope)	Text		
+111537	European waters (ERMS scope)	Text		
+111538	European waters (ERMS scope)	Text		
+111535	European waters (ERMS scope)	Text		
+111529	European waters (ERMS scope)	Text		
+111534	European waters (ERMS scope)	Text		
+111470	European waters (ERMS scope)	Text		
+111471	European waters (ERMS scope)	Text		
+111247	European waters (ERMS scope)	Text		
+111241	European waters (ERMS scope)	Text		
+111244	European waters (ERMS scope)	Text		
+111246	European waters (ERMS scope)	Text		
+111250	European waters (ERMS scope)	Text		
+111248	European waters (ERMS scope)	Text		
+111249	European waters (ERMS scope)	Text		
+111543	European waters (ERMS scope)	Text		
+111542	European waters (ERMS scope)	Text		
+111541	European waters (ERMS scope)	Text		
+111478	European waters (ERMS scope)	Text		
+111383	European waters (ERMS scope)	Text		
+111384	European waters (ERMS scope)	Text		
+111385	European waters (ERMS scope)	Text		
+111549	European waters (ERMS scope)	Text		
+111374	European waters (ERMS scope)	Text		
+111616	European waters (ERMS scope)	Text		
+111084	European waters (ERMS scope)	Text		
+111089	European waters (ERMS scope)	Text		
+111321	European waters (ERMS scope)	Text		
+111085	European waters (ERMS scope)	Text		
+111086	European waters (ERMS scope)	Text		
+111087	European waters (ERMS scope)	Text		
+111088	European waters (ERMS scope)	Text		
+111322	European waters (ERMS scope)	Text		
+111323	European waters (ERMS scope)	Text		
+111324	European waters (ERMS scope)	Text		
+111325	European waters (ERMS scope)	Text		
+111331	European waters (ERMS scope)	Text		
+111332	European waters (ERMS scope)	Text		
+111778	European waters (ERMS scope)	Text		
+111779	European waters (ERMS scope)	Text		
+111780	European waters (ERMS scope)	Text		
+111335	European waters (ERMS scope)	Text		
+111326	European waters (ERMS scope)	Text		
+111327	European waters (ERMS scope)	Text		
+111330	European waters (ERMS scope)	Text		
+111328	European waters (ERMS scope)	Text		
+111329	European waters (ERMS scope)	Text		
+111137	European waters (ERMS scope)	Text		
+111130	European waters (ERMS scope)	Text		
+111136	European waters (ERMS scope)	Text		
+111134	European waters (ERMS scope)	Text		
+111135	European waters (ERMS scope)	Text		
+111131	European waters (ERMS scope)	Text		
+111132	European waters (ERMS scope)	Text		
+111133	European waters (ERMS scope)	Text		
+111129	European waters (ERMS scope)	Text		
+111774	European waters (ERMS scope)	Text		
+111126	European waters (ERMS scope)	Text		
+111127	European waters (ERMS scope)	Text		
+111128	European waters (ERMS scope)	Text		
+111401	European waters (ERMS scope)	Text		
+111123	European waters (ERMS scope)	Text		
+111124	European waters (ERMS scope)	Text		
+111122	European waters (ERMS scope)	Text		
+111121	European waters (ERMS scope)	Text		
+111756	European waters (ERMS scope)	Text		
+111721	European waters (ERMS scope)	Text		
+111720	European waters (ERMS scope)	Text		
+111521	European waters (ERMS scope)	Text		
+111645	European waters (ERMS scope)	Text		
+111445	European waters (ERMS scope)	Text		
+111082	European waters (ERMS scope)	Text		
+111644	European waters (ERMS scope)	Text		
+111083	European waters (ERMS scope)	Text		
+111717	European waters (ERMS scope)	Text		
+111718	European waters (ERMS scope)	Text		
+111719	European waters (ERMS scope)	Text		
+111477	European waters (ERMS scope)	Text		
+111579	European waters (ERMS scope)	Text		
+111426	European waters (ERMS scope)	Text		
+111427	European waters (ERMS scope)	Text		
+111419	European waters (ERMS scope)	Text		
+111420	European waters (ERMS scope)	Text		
+111421	European waters (ERMS scope)	Text		
+111619	European waters (ERMS scope)	Text		
+111081	European waters (ERMS scope)	Text		
+111422	European waters (ERMS scope)	Text		
+111423	European waters (ERMS scope)	Text		
+111424	European waters (ERMS scope)	Text		
+111510	European waters (ERMS scope)	Text		
+111511	European waters (ERMS scope)	Text		
+111632	European waters (ERMS scope)	Text		
+111633	European waters (ERMS scope)	Text		
+111634	European waters (ERMS scope)	Text		
+111635	European waters (ERMS scope)	Text		
+111430	European waters (ERMS scope)	Text		
+111509	European waters (ERMS scope)	Text		
+111433	European waters (ERMS scope)	Text		
+111435	European waters (ERMS scope)	Text		
+111630	European waters (ERMS scope)	Text		
+111428	European waters (ERMS scope)	Text		
+111429	European waters (ERMS scope)	Text		
+111628	European waters (ERMS scope)	Text		
+111627	European waters (ERMS scope)	Text		
+111218	European waters (ERMS scope)	Text		
+111643	European waters (ERMS scope)	Text		
+111548	European waters (ERMS scope)	Text		
+111547	European waters (ERMS scope)	Text		
+111545	European waters (ERMS scope)	Text		
+111546	European waters (ERMS scope)	Text		
+111544	European waters (ERMS scope)	Text		
+111637	European waters (ERMS scope)	Text		
+111116	European waters (ERMS scope)	Text		
+111117	European waters (ERMS scope)	Text		
+111119	European waters (ERMS scope)	Text		
+111120	European waters (ERMS scope)	Text		
+111636	European waters (ERMS scope)	Text		
+111180	European waters (ERMS scope)	Text		
+111181	European waters (ERMS scope)	Text		
+111231	European waters (ERMS scope)	Text		
+111233	European waters (ERMS scope)	Text		
+111234	European waters (ERMS scope)	Text		
+111743	European waters (ERMS scope)	Text		
+111744	European waters (ERMS scope)	Text		
+111281	European waters (ERMS scope)	Text		
+111114	European waters (ERMS scope)	Text		
+111283	European waters (ERMS scope)	Text		
+111436	European waters (ERMS scope)	Text		
+111437	European waters (ERMS scope)	Text		
+111438	European waters (ERMS scope)	Text		
+111745	European waters (ERMS scope)	Text		
+111746	European waters (ERMS scope)	Text		
+111561	North West Atlantic	Text		
+111563	North West Atlantic	Text		
+156440	North West Atlantic	Text		
+111223	North West Atlantic	Text		
+111224	North West Atlantic	Text		
+111228	North West Atlantic	Text		
+111253	North West Atlantic	Text		
+111255	North West Atlantic	Text		
+111256	North West Atlantic	Text		
+159892	North West Atlantic	Text		
+111758	North West Atlantic	Text		
+111654	North West Atlantic	Text		
+111288	North West Atlantic	Text		
+111760	North West Atlantic	Text		
+111763	North West Atlantic	Text		
+111673	North West Atlantic	Text		
+156492	North West Atlantic	Text		
+111250	North West Atlantic	Text		
+111248	North West Atlantic	Text		
+111374	North West Atlantic	Text		
+159889	North West Atlantic	Text		
+156392	North West Atlantic	Text		
+111538	North West Atlantic	Text		
+156391	North West Atlantic	Text		
+111540	North West Atlantic	Text		
+159890	North West Atlantic	Text		
+111539	North West Atlantic	Text		
+111099	North West Atlantic	Text		
+111105	North West Atlantic	Text		
+111091	North West Atlantic	Text		
+111373	North West Atlantic	Text		
+111585	North West Atlantic	Text		
+111145	North West Atlantic	Text		
+111142	North West Atlantic	Text		
+111143	North West Atlantic	Text		
+111144	North West Atlantic	Text		
+111139	North West Atlantic	Text		
+111140	North West Atlantic	Text		
+111141	North West Atlantic	Text		
+111547	North West Atlantic	Text		
+111544	North West Atlantic	Text		
+111743	North West Atlantic	Text		
+156306	North West Atlantic	Text		
+111744	North West Atlantic	Text		
+111746	North West Atlantic	Text		
+111421	North West Atlantic	Text		
+159876	North West Atlantic	Text		
+160496	North West Atlantic	Text		
+111636	North West Atlantic	Text		
+111124	North West Atlantic	Text		
+156356	North West Atlantic	Text		
+111129	North West Atlantic	Text		
+111130	North West Atlantic	Text		
+111133	North West Atlantic	Text		
+111134	North West Atlantic	Text		
+159886	North West Atlantic	Text		
+111088	North West Atlantic	Text		
+111445	North West Atlantic	Text		
+111719	North West Atlantic	Text		
+111121	North West Atlantic	Text		
+111123	North West Atlantic	Text		
+111696	North West Atlantic	Text		
+159822	North West Atlantic	Text		
+111695	North West Atlantic	Text		
+159824	North West Atlantic	Text		
+111343	North West Atlantic	Text		
+111377	North West Atlantic	Text		
+159829	North West Atlantic	Text		
+111112	North West Atlantic	Text		
+111725	North West Atlantic	Text		
+111170	North West Atlantic	Text		
+111312	North West Atlantic	Text		
+111313	North West Atlantic	Text		
+111314	North West Atlantic	Text		
+111169	North West Atlantic	Text		
+111724	North West Atlantic	Text		
+159808	North West Atlantic	Text		
+111484	North West Atlantic	Text		
+111480	North West Atlantic	Text		
+111683	North West Atlantic	Text		
+111496	North West Atlantic	Text		
+111355	North West Atlantic	Text		
+111354	North West Atlantic	Text		
+111213	North West Atlantic	Text		
+111712	North West Atlantic	Text		
+111174	North West Atlantic	Text		
+111173	North West Atlantic	Text		
+111367	North West Atlantic	Text		
+111620	North West Atlantic	Text		
+111621	North West Atlantic	Text		
+111361	North West Atlantic	Text		
+160492	North West Atlantic	Text		
+111407	North West Atlantic	Text		
+159868	North West Atlantic	Text		
+111412	North West Atlantic	Text		
+111723	North West Atlantic	Text		
+111752	North West Atlantic	Text		
+111178	North West Atlantic	Text		
+111349	North West Atlantic	Text		
+156132	North West Atlantic	Text		
+111399	North West Atlantic	Text		
+111080	North West Atlantic	Text		
+111079	North West Atlantic	Text		
+159859	North West Atlantic	Text		
+111398	North West Atlantic	Text		
+111369	North West Atlantic	Text		
+111386	North West Atlantic	Text		
+111202	North West Atlantic	Text		
+111201	North West Atlantic	Text		
+111268	North West Atlantic	Text		
+111277	North West Atlantic	Text		
+111279	North West Atlantic	Text		
+111397	North West Atlantic	Text		
+111351	North West Atlantic	Text		
+111364	North West Atlantic	Text		
+111300	North West Atlantic	Text		
+111152	North West Atlantic	Text		
+111153	North West Atlantic	Text		
+111159	North West Atlantic	Text		
+111162	North West Atlantic	Text		
+111162	North West Atlantic	Text		
+111196	North West Atlantic	Text		
+111193	North West Atlantic	Text		
+146749	North West Atlantic	Text		
+111197	North West Atlantic	Text		
+159783	North West Atlantic	Text		
+111230	North West Atlantic	Text		
+111187	North West Atlantic	Text		
+159768	North West Atlantic	Text		
+111189	North West Atlantic	Text		
+111190	North West Atlantic	Text		
+111663	North West Atlantic	Text		
+153717	North West Atlantic	Text		
+159765	North West Atlantic	Text		
+111601	North West Atlantic	Text		
+111604	North West Atlantic	Text		
+111597	North West Atlantic	Text		
+111600	North West Atlantic	Text		
+111596	North West Atlantic	Text		
+111062	North West Atlantic	Text		
+159761	North West Atlantic	Text		
+159762	North West Atlantic	Text		
+111147	North West Atlantic	Text		
+111665	North West Atlantic	Text		
+111667	North West Atlantic	Text		
+111631	North West Atlantic	Text		
+159780	North West Atlantic	Text		
+159782	North West Atlantic	Text		
+448300	Solomon Islands Exclusive Economic Zone	Text		
+448281	Australian Exclusive Economic Zone	Text		
+448289	Australian Exclusive Economic Zone	Text		
+448290	Australian Exclusive Economic Zone	Text		
+111164	Azores Exclusive Economic Zone	Text		
+111162	Azores Exclusive Economic Zone	Text		
+111158	Azores Exclusive Economic Zone	Text		
+234109	Azores Exclusive Economic Zone	Text		
+111659	Azores Exclusive Economic Zone	Text		
+111062	Azores Exclusive Economic Zone	Text		
+111695	Azores Exclusive Economic Zone	Text		
+111670	Azores Exclusive Economic Zone	Text		
+111061	Azores Exclusive Economic Zone	Text		
+111525	Azores Exclusive Economic Zone	Text		
+470372	Azores Exclusive Economic Zone	Text		
+111249	Azores Exclusive Economic Zone	Text		
+448297	Puerto Rico and Virgin Islands Exclusive Economic Zone	Text		
+448305	New Zealand Exclusive Economic Zone	Text		
+216028	New Zealand Exclusive Economic Zone	Text		
+183072	New Zealand Exclusive Economic Zone	Text		
+396020	New Zealand Exclusive Economic Zone	Text		
+111304	New Zealand Exclusive Economic Zone	Text		
+111158	New Zealand Exclusive Economic Zone	Text		
+111162	New Zealand Exclusive Economic Zone	Text		
+111164	New Zealand Exclusive Economic Zone	Text		
+183031	New Zealand Exclusive Economic Zone	Text		
+111614	New Zealand Exclusive Economic Zone	Text		
+111615	New Zealand Exclusive Economic Zone	Text		
+173077	New Zealand Exclusive Economic Zone	Text		
+111229	New Zealand Exclusive Economic Zone	Text		
+111064	New Zealand Exclusive Economic Zone	Text		
+111067	New Zealand Exclusive Economic Zone	Text		
+159761	New Zealand Exclusive Economic Zone	Text		
+111600	New Zealand Exclusive Economic Zone	Text		
+111656	New Zealand Exclusive Economic Zone	Text		
+234109	New Zealand Exclusive Economic Zone	Text		
+221525	New Zealand Exclusive Economic Zone	Text		
+111665	New Zealand Exclusive Economic Zone	Text		
+111667	New Zealand Exclusive Economic Zone	Text		
+111147	New Zealand Exclusive Economic Zone	Text		
+173958	New Zealand Exclusive Economic Zone	Text		
+396709	New Zealand Exclusive Economic Zone	Text		
+111070	New Zealand Exclusive Economic Zone	Text		
+111071	New Zealand Exclusive Economic Zone	Text		
+210807	New Zealand Exclusive Economic Zone	Text		
+111513	New Zealand Exclusive Economic Zone	Text		
+394838	New Zealand Exclusive Economic Zone	Text		
+111631	New Zealand Exclusive Economic Zone	Text		
+111343	New Zealand Exclusive Economic Zone	Text		
+111352	New Zealand Exclusive Economic Zone	Text		
+172989	New Zealand Exclusive Economic Zone	Text		
+111355	New Zealand Exclusive Economic Zone	Text		
+237795	New Zealand Exclusive Economic Zone	Text		
+111214	New Zealand Exclusive Economic Zone	Text		
+396723	New Zealand Exclusive Economic Zone	Text		
+111400	New Zealand Exclusive Economic Zone	Text		
+174017	New Zealand Exclusive Economic Zone	Text		
+111411	New Zealand Exclusive Economic Zone	Text		
+395420	New Zealand Exclusive Economic Zone	Text		
+395422	New Zealand Exclusive Economic Zone	Text		
+174027	New Zealand Exclusive Economic Zone	Text		
+174136	New Zealand Exclusive Economic Zone	Text		
+396730	New Zealand Exclusive Economic Zone	Text		
+396726	New Zealand Exclusive Economic Zone	Text		
+111440	New Zealand Exclusive Economic Zone	Text		
+395415	New Zealand Exclusive Economic Zone	Text		
+395416	New Zealand Exclusive Economic Zone	Text		
+173999	New Zealand Exclusive Economic Zone	Text		
+174001	New Zealand Exclusive Economic Zone	Text		
+111246	New Zealand Exclusive Economic Zone	Text		
+111527	New Zealand Exclusive Economic Zone	Text		
+111539	New Zealand Exclusive Economic Zone	Text		
+111540	New Zealand Exclusive Economic Zone	Text		
+220646	New Zealand Exclusive Economic Zone	Text		
+220648	New Zealand Exclusive Economic Zone	Text		
+111421	New Zealand Exclusive Economic Zone	Text		
+111633	New Zealand Exclusive Economic Zone	Text		
+237802	New Zealand Exclusive Economic Zone	Text		
+111430	New Zealand Exclusive Economic Zone	Text		
+173093	New Zealand Exclusive Economic Zone	Text		
+111636	New Zealand Exclusive Economic Zone	Text		
+111180	New Zealand Exclusive Economic Zone	Text		
+146780	New Zealand Exclusive Economic Zone	Text		
+111745	New Zealand Exclusive Economic Zone	Text		
+153755	New Zealand Exclusive Economic Zone	Text		
+111548	New Zealand Exclusive Economic Zone	Text		
+153728	New Zealand Exclusive Economic Zone	Text		
+111721	New Zealand Exclusive Economic Zone	Text		
+410032	New Zealand Exclusive Economic Zone	Text		
+111592	New Zealand Exclusive Economic Zone	Text		
+111670	New Zealand Exclusive Economic Zone	Text		
+111675	New Zealand Exclusive Economic Zone	Text		
+395087	New Zealand Exclusive Economic Zone	Text		
+395709	New Zealand Exclusive Economic Zone	Text		
+111360	New Zealand Exclusive Economic Zone	Text		
+395050	New Zealand Exclusive Economic Zone	Text		
+174181	New Zealand Exclusive Economic Zone	Text		
+174178	New Zealand Exclusive Economic Zone	Text		
+111582	New Zealand Exclusive Economic Zone	Text		
+396034	New Zealand Exclusive Economic Zone	Text		
+111254	New Zealand Exclusive Economic Zone	Text		
+173145	New Zealand Exclusive Economic Zone	Text		
+448294	Brazilian Exclusive Economic Zone	Text		
+448295	Indonesian Exclusive Economic Zone	Text		
+448303	Indonesian Exclusive Economic Zone	Text		
+448284	China	Text		
+448288	China	Text		
+448291	China	Text		
+448298	China	Text		
+448299	China	Text		
+448304	China	Text		
+448293	China	Text		
+448296	China	Text		
+408260	China	Text		
+111635	South Coast of Ireland	Text		
+408266	Alaska	Text		
+469954	FAO fishing area 67	Text		
+408260	Hong Kong	Text		
+111253	Gulf of Maine	Text		
+111228	Gulf of Maine	Text		
+111654	Gulf of Maine	Text		
+111256	Gulf of Maine	Text		
+111255	Gulf of Maine	Text		
+111288	Gulf of Maine	Text		
+111760	Gulf of Maine	Text		
+111421	Gulf of Maine	Text		
+111636	Gulf of Maine	Text		
+111744	Gulf of Maine	Text		
+111134	Gulf of Maine	Text		
+159886	Gulf of Maine	Text		
+111088	Gulf of Maine	Text		
+111538	Gulf of Maine	Text		
+111145	Gulf of Maine	Text		
+111140	Gulf of Maine	Text		
+111139	Gulf of Maine	Text		
+111091	Gulf of Maine	Text		
+408266	Gulf of Maine	Text		
+111361	Gulf of Maine	Text		
+111621	Gulf of Maine	Text		
+111412	Gulf of Maine	Text		
+111080	Gulf of Maine	Text		
+111683	Gulf of Maine	Text		
+111484	Gulf of Maine	Text		
+111173	Gulf of Maine	Text		
+111174	Gulf of Maine	Text		
+111354	Gulf of Maine	Text		
+111355	Gulf of Maine	Text		
+111312	Gulf of Maine	Text		
+111696	Gulf of Maine	Text		
+111695	Gulf of Maine	Text		
+159822	Gulf of Maine	Text		
+111343	Gulf of Maine	Text		
+111170	Gulf of Maine	Text		
+111665	Gulf of Maine	Text		
+159762	Gulf of Maine	Text		
+159761	Gulf of Maine	Text		
+111062	Gulf of Maine	Text		
+111601	Gulf of Maine	Text		
+153717	Gulf of Maine	Text		
+111201	Gulf of Maine	Text		
+111397	Gulf of Maine	Text		
+111351	Gulf of Maine	Text		
+111153	Gulf of Maine	Text		
+111162	Gulf of Maine	Text		
+111230	Gulf of Maine	Text		
+159783	Gulf of Maine	Text		
+111196	Gulf of Maine	Text		
+111193	Gulf of Maine	Text		
+408266	San Francisco	Text		
+111673	Atlantic Europe	Text	exotic	
+111588	Atlantic Europe	Text	exotic	
+215999	East Africa	Text		
+111713	Bretagne Nord	Text		
+111539	Bretagne Nord	Text		
+111484	Sloehaven	Text		
+221579	Rovinj	Text		
+221578	Rovinj	Text		
+221547	Rovinj	Text		
+221540	Rovinj	Text		
+221537	Rovinj	Text		
+221523	Rovinj	Text		
+221566	Rovinj	Text		
+221566	Rovinj	Text		
+221566	Rovinj	Text		
+221563	Rovinj	Text		
+221563	Rovinj	Text		
+221563	Rovinj	Text		
+173495	Ryder Bay	Text		
+172972	Ryder Bay	Text		
+174346	Ryder Bay	Text		
+172953	Ryder Bay	Text		
+172913	Ryder Bay	Text		
+172946	Ryder Bay	Text		
+111214	Ryder Bay	Text		
+173528	Ryder Bay	Text		
+174289	Ryder Bay	Text		
+174275	Ryder Bay	Text		
+173542	Ryder Bay	Text		
+173730	Ryder Bay	Text		
+173229	Ryder Bay	Text		
+173826	Ryder Bay	Text		
+174386	Ryder Bay	Text		
+231828	Ryder Bay	Text		
+174294	Ryder Bay	Text		
+174300	Ryder Bay	Text		
+111082	Wenduine	Text		
+111488	Westende	Text		
+111230	Roscoff	Text		
+111229	Roscoff	Text		
+111187	Roscoff	Text		
+111706	Roscoff	Text		
+111498	Roscoff	Text		
+111249	Roscoff	Text		
+111539	Roscoff	Text		
+111473	Roscoff	Text		
+111521	Roscoff	Text		
+111124	Roscoff	Text		
+111067	Sint-Idesbald	Text		
+448287	East Pacific	Text		
+448302	East Pacific	Text		
+448301	Indo-Pacific	Text		
+448285	West Pacific	Text		
+448282	West Atlantic	Text		
+111635	South Coast of England	Text		
+111760	South Coast of England	Text		
+111254	South Coast of England	Text		
+111365	South Coast of England	Text		
+111713	South Coast of England	Text		
+111713	West Coast of England	Text		
+111760	West Coast of England	Text		
+111161	North East Coast of England 	Text		
+111193	North East Coast of England 	Text		
+111374	North East Coast of England 	Text		
+111521	North Coast of France	Text		
+111597	North Coast of France	Text		
+111597	North Coast of France	Text		
+111706	North Coast of France	Text		
+221527	North Coast of Spain	Text		
+111713	Mediterranean Sea	IHO/EEZ		
+153734	South Wales	Text		
+111401	South Coast of Africa	Text		
+111355	Halve Maan	Text		
+111164	Spuikom	Text	exotic	
+111159	Spuikom	Text		
+111323	Knokke	Text		
+111350	Knokke	Text		
+111412	Knokke	Text		
+111147	Veerse Meer	Text		
+408260	Veerse Meer	Text	exotic	
+111343	Den Helder	Text		
+111361	Den Helder	Text		
+111159	Den Helder	Text	exotic	
+111631	Den Helder	Text		
+111147	Den Helder	Text		
+111676	Den Helder	Text		
+111573	Den Helder	Text		
+111320	Den Helder	Text		
+111719	Den Helder	Text		
+111521	Den Helder	Text		
+111247	Den Helder	Text		
+111250	Den Helder	Text		
+240939	Bath	Text		
+111254	Venice	Text	exotic	
+111652	Friesland	Text		
+111285	Ijmuiden	Text		
+111352	Ijmuiden	Text		
+111361	Ijmuiden	Text		
+111484	Zoutelande	Text		
+111627	Zanzibar	Text		
+111254	Burghsluis	Text		
+111247	Burghsluis	Text		
+111162	Burghsluis	Text		
+111158	Burghsluis	Text	exotic	
+111196	Goesse Sas	Text		
+153717	Goesse Sas	Text		
+111607	Goesse Sas	Text		
+111667	Goesse Sas	Text		
+408266	Goesse Sas	Text	exotic	
+111354	Goesse Sas	Text		
+111637	Goesse Sas	Text		
+408260	Goesse Sas	Text	exotic	
+111635	Sas van Goes	Text		
+111250	Sas van Goes	Text		
+111254	Sas van Goes	Text		
+111355	Sas van Goes	Text		
+111607	Sas van Goes	Text		
+111162	Sas van Goes	Text		
+111162	Sas van Goes	Text		
+408260	Kattendijke	Text	exotic	
+111354	Kattendijke	Text		
+111659	Scheveningen	Text		
+111062	Scheveningen	Text		
+111062	Scheveningen	Text		
+111066	Scheveningen	Text		
+111152	Scheveningen	Text		
+111197	Scheveningen	Text		
+111268	Scheveningen	Text		
+111304	Scheveningen	Text		
+111730	Scheveningen	Text		
+111706	Scheveningen	Text		
+111696	Scheveningen	Text		
+111498	Scheveningen	Text		
+111361	Scheveningen	Text		
+111621	Scheveningen	Text		
+111412	Scheveningen	Text		
+111558	Scheveningen	Text		
+111764	Scheveningen	Text		
+111285	Scheveningen	Text		
+111538	Scheveningen	Text		
+111421	Scheveningen	Text		
+111320	Scheveningen	Text		
+111719	Scheveningen	Text		
+111187	Dieppe	Text		
+111097	Oostduinkerke	Text		
+111249	Oostduinkerke	Text		
+111273	Oostduinkerke	Text		
+111597	Oostduinkerke	Text		
+111411	Oostduinkerke	Text		
+111367	Oostduinkerke	Text		
+111418	Oostduinkerke	Text		
+111355	Oostduinkerke	Text		
+111250	Kijkduin	Text		
+153717	Wemeldinge	Text		
+111162	Wemeldinge	Text		
+111614	Wemeldinge	Text		
+111418	Wemeldinge	Text		
+221573	Mediterranean Sea	IHO/EEZ		
+221573	Mediterranean Sea	IHO/EEZ		
+221566	Marseille	Text		
+221566	Marseille	Text		
+221566	Marseille	Text		
+221563	Marseille	Text		
+221563	Marseille	Text		
+221563	Marseille	Text		
+221577	North Portugal	Text		
+153734	Birkenfels (shipwreck)	Text		
+111355	Birkenfels (shipwreck)	Text		
+111730	Birkenfels (shipwreck)	Text		
+111637	Birkenfels (shipwreck)	Text		
+111540	Birkenfels (shipwreck)	Text		
+111549	Birkenfels (shipwreck)	Text		
+111637	Bommenede	Text		
+240936	Boreal Arctic	Text		
+111669	Bourrasque (shipwreck)	Text		
+111713	Bretagne Sud	Text		
+111164	Brouwersdam	Text	exotic	
+111254	Colijnsplaat	Text		
+111538	Colijnsplaat	Text		
+111601	Colijnsplaat	Text		
+111313	Den Osse	Text		
+111250	Dreischor	Text		
+111631	Duinbergen	Text		
+111313	Grevelingen	Text		
+111159	Grevelingen	Text		
+111250	Grevelingen	Text		
+111254	Hendaye	Text		
+111667	Kanaal door Zuid-Beveland	Text		
+111254	Kats	Text		
+111696	Katwijk	Text		
+111412	Katwijk	Text		
+111150	Katwijk	Text		
+111197	Katwijk	Text		
+111268	Katwijk	Text		
+111259	Katwijk	Text		
+111421	Katwijk	Text		
+111719	Katwijk	Text		
+111247	Katwijk	Text		
+111540	Katwijk	Text		
+111099	Katwijk	Text		
+111256	Katwijk	Text	exotic	
+111285	Katwijk	Text		
+111669	Katwijk	Text		
+111690	Kilmore	Text		
+153734	Kilmore	Text		
+111540	Kilmore	Text		
+111761	Neeltje Jans	Text		
+111600	Neeltje Jans	Text		
+111254	Neeltje Jans, Binnenhaven	Text		
+240939	Nieuwe Waterweg	Text		
+111268	Noordwijk	Text		
+111197	Noordwijk	Text		
+111706	Noordwijk	Text		
+111690	Noordwijk	Text		
+111730	Noordwijk	Text		
+111498	Noordwijk	Text		
+111412	Noordwijk	Text		
+111761	Noordwijk	Text		
+111764	Noordwijk	Text		
+111421	Noordwijk	Text		
+111719	Noordwijk	Text		
+221546	Sagres	Text		
+111162	Scharendijke	Text	exotic	
+111254	Scharendijke	Text		
+111600	Schelphoek	Text		
+111421	Schouwen	Text		
+111247	Schouwen	Text		
+111464	Schouwen	Text		
+111320	Schouwen	Text		
+111079	Schouwen	Text		
+111621	Schouwen	Text		
+111354	Schouwen	Text		
+111197	Schouwen	Text		
+111597	Seine, mouth	Text		
+111664	Strijenham	Text		
+408260	Yerseke	Text	exotic	
+111664	Yerseke	Text		
+153717	Yerseke	Text		
+111600	Yerseke	Text		
+111162	Yerseke	Text		
+111614	Yerseke	Text		
+111196	Zeelandbrug	Text		
+111351	Zijpe	Text		
+448286	North East Pacific	Text		
+469954	North East Pacific	Text		
+448283	North West Pacific	Text		
+221545	South Turkey	Text		
+221543	East Coast of Spain 	Text		
+111280	Heist	Text		
+111281	Heist	Text		
+111760	Breskens	Text		
+111254	Breskens	Text		
+111254	Breskens	Text	exotic	
+111665	Minas Basin	Text		
+111665	Saint Andrews	Text		
+111484	Saint Andrews	Text		
+111604	Baai van Heist	Text		
+111186	Baai van Heist	Text		
+111147	Baai van Heist	Text		
+111631	Baai van Heist	Text		
+111607	Baai van Heist	Text		
+111159	Baai van Heist	Text		
+408266	Granville	Text	exotic	
+111162	Ouddorp	Text		
+111313	Ouddorp	Text		
+111164	Voormalige Zuiderzee	Text	exotic	
+111159	Voormalige Zuiderzee	Text	exotic	
+111676	Voormalige Zuiderzee	Text		
+111602	Eemshaven	Text		
+111631	Wadden Sea	IHO/EEZ		
+111250	Egmond aan Zee	Text		
+111268	Egmond aan Zee	Text		
+111197	Egmond aan Zee	Text		
+111166	Egmond aan Zee	Text		
+111159	Egmond aan Zee	Text		
+111152	Egmond aan Zee	Text		
+111147	Egmond aan Zee	Text		
+111343	Egmond aan Zee	Text		
+111197	Ter Heijde	Text		
+111285	Ter Heijde	Text		
+111631	Waddengebied	Text		
+111352	Delta area	Text		
+111343	Delta area	Text		
+111313	Ouwerkerk	Text		
+111352	Oostvoornse Meer	Text		
+111579	Nieuwvliet	Text		
+111323	Nieuwvliet	Text		
+111412	Nieuwvliet	Text		
+111350	Nieuwvliet	Text		
+111696	Zandvoort	Text		
+111259	Zandvoort	Text		
+111285	Zandvoort	Text		
+111152	Callantsoog	Text		
+111719	Wassenaar	Text		
+111196	Klaverbank	Text		
+111604	Klaverbank	Text		
+111621	Klaverbank	Text		
+111484	Klaverbank	Text		
+111250	Klaverbank	Text		
+111099	Klaverbank	Text		
+111719	Klaverbank	Text		
+111421	Klaverbank	Text		
+111760	Katse Hoek	Text		
+111539	Katse Hoek	Text		
+111637	Westkapelse Kreek	Text		
+111197	Castricum	Text		
+111268	Castricum	Text		
+111250	Castricum	Text		
+111669	Oestergronden	Text		
+111250	Bergen aan Zee	Text		
+111665	Bar Road	Text		
+111361	Chamcook	Text		
+111621	Deadmans Harbour	Text		
+111361	Digby	Text		
+111080	Digby	Text		
+111696	Digby	Text		
+111355	Digby	Text		
+111174	Digby	Text		
+111201	Digby	Text		
+111196	Digby	Text		
+111230	Digby	Text		
+111140	Digby	Text		
+111139	Digby	Text		
+111134	Digby	Text		
+111760	Digby	Text		
+111253	Digby	Text		
+111696	Lepreau	Text		
+111421	L'Etete	Text		
+111134	Lorneville Harbour	Text		
+111230	Lorneville Harbour	Text		
+111421	Oak Bay	Text		
+111134	Tongue Shoal	Text		
+111253	The Wolves	Text		
+111361	The Wolves	Text		
+111230	The Wolves	Text		
+111421	Cobscook Bay	Text		
+111091	Cobscook Bay	Text		
+111228	Cobscook Bay	Text		
+111255	Cobscook Bay	Text		
+111256	Cobscook Bay	Text		
+111760	Cobscook Bay	Text		
+111288	Cobscook Bay	Text		
+111412	Cobscook Bay	Text		
+111361	Cobscook Bay	Text		
+111621	Cobscook Bay	Text		
+111312	Cobscook Bay	Text		
+111696	Cobscook Bay	Text		
+111170	Cobscook Bay	Text		
+111174	Cobscook Bay	Text		
+111355	Cobscook Bay	Text		
+111162	Cobscook Bay	Text		
+111153	Cobscook Bay	Text		
+111230	Cobscook Bay	Text		
+159783	Cobscook Bay	Text		
+111193	Cobscook Bay	Text		
+111201	Cobscook Bay	Text		
+111397	Cobscook Bay	Text		
+111665	Cobscook Bay	Text		
+159762	Cobscook Bay	Text		
+221555	Tunis	Text		
+221555	Tunis	Text		
+111125	Dutch Coast	Text		
+111248	Dutch Coast	Text		
+111249	Dutch Coast	Text		
+111539	Dutch Coast	Text		
+111540	Dutch Coast	Text		
+111539	Dutch Coast	Text		
+111573	Dutch Coast	Text		
+111254	Dutch Coast	Text	exotic	
+111760	Dutch Coast	Text		
+111380	Dutch Coast	Text	exotic	
+111411	Dutch Coast	Text		
+111320	Dutch Coast	Text		
+111652	Dutch Coast	Text		
+111708	Dutch Coast	Text		
+111367	Dutch Coast	Text		
+111379	Dutch Coast	Text	exotic	
+111314	Dutch Coast	Text		
+111696	Dutch Coast	Text		
+111495	Dutch Coast	Text		
+111164	Dutch Coast	Text	exotic	
+111229	Dutch Coast	Text		
+111365	Dutch Coast	Text		
+111365	Dutch Coast	Text		
+111351	Dutch Coast	Text		
+111397	Dutch Coast	Text		
+111072	Dutch Coast	Text		
+111350	Dutch Coast	Text		
+408282	Dutch Coast	Text		
+111150	Dutch Coast	Text		
+111187	Dutch Coast	Text		
+111604	Dutch Coast	Text		
+111600	Dutch Coast	Text		
+111597	Dutch Coast	Text		
+111062	Dutch Coast	Text		
+111695	WestHinder lichtschip	Text		
+111418	WestHinder lichtschip	Text		
+111393	WestHinder lichtschip	Text		
+111540	Westhinderpaal	Text		
+111247	Hoek van Holland	Text		
+111250	Wadden Sea	IHO/EEZ		
+247908	Pléneuf-Val-André	Text		
+408266	Pléneuf-Val-André	Text	exotic	
+111592	St-Jacut	Text	exotic	
+111621	St. Lawrence Estuary	Text		
+111397	St. Lawrence Estuary	Text		
+468026	St. Lawrence Estuary	Text		
+159876	Canadian part of the Arctic Ocean	Text		
+159876	Canadian part of the Arctic Ocean	Text		
+160496	Canadian part of the Arctic Ocean	Text		
+160496	Canadian part of the Arctic Ocean	Text		
+111445	Canadian part of the Arctic Ocean	Text		
+111445	Canadian part of the Arctic Ocean	Text		
+111135	Canadian part of the Arctic Ocean	Text		
+111135	Canadian part of the Arctic Ocean	Text		
+470620	Canadian part of the Arctic Ocean	Text		
+470620	Canadian part of the Arctic Ocean	Text		
+111141	Canadian part of the Arctic Ocean	Text		
+111141	Canadian part of the Arctic Ocean	Text		
+111139	Canadian part of the Arctic Ocean	Text		
+111139	Canadian part of the Arctic Ocean	Text		
+111143	Canadian part of the Arctic Ocean	Text		
+111143	Canadian part of the Arctic Ocean	Text		
+111248	Canadian part of the Arctic Ocean	Text		
+111248	Canadian part of the Arctic Ocean	Text		
+465722	Canadian part of the Arctic Ocean	Text		
+423789	Canadian part of the Arctic Ocean	Text		
+423789	Canadian part of the Arctic Ocean	Text		
+111255	Canadian part of the Arctic Ocean	Text		
+111255	Canadian part of the Arctic Ocean	Text		
+111224	Canadian part of the Arctic Ocean	Text		
+111224	Canadian part of the Arctic Ocean	Text		
+221569	Canadian part of the Arctic Ocean	Text		
+221569	Canadian part of the Arctic Ocean	Text		
+111563	Canadian part of the Arctic Ocean	Text		
+111563	Canadian part of the Arctic Ocean	Text		
+111300	Canadian part of the Arctic Ocean	Text		
+111300	Canadian part of the Arctic Ocean	Text		
+111277	Canadian part of the Arctic Ocean	Text		
+111277	Canadian part of the Arctic Ocean	Text		
+111279	Canadian part of the Arctic Ocean	Text		
+111279	Canadian part of the Arctic Ocean	Text		
+472050	Canadian part of the Arctic Ocean	Text		
+472050	Canadian part of the Arctic Ocean	Text		
+111600	Canadian part of the Arctic Ocean	Text		
+111080	Canadian part of the Arctic Ocean	Text		
+111080	Canadian part of the Arctic Ocean	Text		
+469117	Canadian part of the Arctic Ocean	Text		
+469117	Canadian part of the Arctic Ocean	Text		
+111683	Canadian part of the Arctic Ocean	Text		
+111683	Canadian part of the Arctic Ocean	Text		
+111496	Canadian part of the Arctic Ocean	Text		
+111496	Canadian part of the Arctic Ocean	Text		
+111351	Canadian part of the Arctic Ocean	Text		
+111351	Canadian part of the Arctic Ocean	Text		
+469954	Canadian Exclusive Economic Zone [Pacific part]	Text		
+111522	Mediterranean Sea	IHO/EEZ		
+111356	Mediterranean Sea	IHO/EEZ		

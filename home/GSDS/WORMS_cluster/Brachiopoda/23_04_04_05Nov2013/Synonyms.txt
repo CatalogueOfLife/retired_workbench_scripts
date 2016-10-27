@@ -1,0 +1,62 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+235441	595672	Thecidellina		minuta	Cooper, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235441	
+235562	235551	Eucalathis		costellata	Cooper, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235562	
+235563	235551	Eucalathis		rotundata	Cooper, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235563	
+235659	594991	Phaneropora		incerta	(Davidson, 1878)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235659	
+235427	570462	Sphenarina		ezogremena	Zezina, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235427	
+183176	235517	Gryphus		cooperi	d'Hondt, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:183176	
+235457	458893	Liothyrella		blochmanni	(Jackson, 1912)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235457	
+235461	458893	Liothyrella		multiporosa	Foster, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235461	
+458894	235450	Acrobrochus		hendleri	(Cooper, 1982)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:458894	
+235462	458893	Liothyrella		scotti	Foster, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235462	
+235645	557350	Argyrotheca		arguta	Grant, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235645	
+183497	380200	Argyrotheca		cordata	(Risso, 1826)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:183497	
+235406	235407	Basiliolella		ferox	d'Hondt, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235406	
+235663	235661	Terebratella		enzenspergeri	Blochmann, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235663	
+459079	235661	Terebratella		flexuosa	King, 1831				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:459079	
+237791	367373	Terebratella		haurakiensis	Allan, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:237791	
+235662	235661	Terebratella		rubiginosa	Dall, 1871				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235662	
+181482	104055	Terebratulina		caputserpentis	(Zbyszewski, 1957)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:181482	
+235531	235532	Terebratulina		crossei	Davidson, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235531	
+458902	235532	Terebratulina		magalhaenica	Helmcke, 1939				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:458902	
+183254	104057	Magellania		septigera					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:183254	
+235706	235703	Campages		basilanica	(Dall, 1920)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235706	
+235589	416188	Laurinia		neocaledonensis	(Laurin, 1997)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235589	
+235678	235676	Neothyris		compressa	Neall, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235678	
+235679	235676	Neothyris		dawsoni	Neall, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235679	
+235680	235676	Neothyris		parva	Cooper, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235680	
+235522	235518	Xenobrochus		anomalus	Cooper, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235522	
+183110	235502	Dallithyris		sphenoides					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:183110	
+235578	235577	Macandrevia		craniella	Dall, 1895				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235578	
+183249	104062	Macandrevia		novangliae	Dall, 1920				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:183249	
+235580	235577	Macandrevia		vanhoffeni	Blochmann, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235580	
+235583	235581	Macandrevia		waldae	d'Hondt, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235583	
+235499	416179	Dallithyris		crosnieri	(Cooper, 1983)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235499	
+423492	235489	Liothyrella		arctica	Friele, 1877				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:423492	
+235455	231830	Liothyrella		antarctica	(Blochmann, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235455	
+235464	231830	Liothyrella		expansa	Cooper, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235464	
+235465	231830	Liothyrella		fosteri	Cooper, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235465	
+235466	231830	Liothyrella		georgina	Foster, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235466	
+235468	231830	Liothyrella		notorcadensis	(Jackson, 1912)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235468	
+235460	231830	Liothyrella		oblonga	Cooper, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235460	
+235458	231830	Liothyrella		ovata	Thomson, 1918				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235458	
+231831	231830	Liothyrella		uva		antarctica	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:231831	
+147807	235385	Crania		anomala	(Müller, 1776)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147807	
+104051	235385	Neocrania		anomala	(O. F. Müller, 1776)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:104051	
+235649	104066	Platidia		concentrica	Zezina, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235649	
+104067	104066	Platidia		davidsoni	(Eudes-Deslongchamp, 1885)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:104067	
+235650	104066	Platidia		marionensis	Cooper, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235650	
+235401	594497	Craniscus		japonicus	(Adams, 1863)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235401	
+235399	594497	Novocrania		reevei	Lee & Brunton, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235399	
+235515	235514	Abyssothyris		atlantica	Cooper, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235515	
+458899	235514	Abyssothyris		elongata	Cooper, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:458899	
+235516	235514	Abyssothyris		parva	Cooper, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235516	
+235689	235514	Magellania		wyvillei	(Davidson, 1878)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235689	
+597480	104052	Atretia		gnomon	Jeffreys, 1876				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:597480	
+235690	235686	Magellania		iredalei	Allan, 1939				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235690	
+235685	235686	Terebratella		australis	Quoy & Gaimard, 1835				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235685	
+235664	235686	Terebratella		mayi	Blochmann, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235664	
+459081	235671	Aerothyris		eichleri	Allan, 1939				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:459081	
+183262	104061	Megerlia		echinata	(Fischer & Öhlert, 1890)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:183262	
+235719	104061	Megerlia		gigantea	(Deshayes, 1863)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:235719	
+183263	104061	Megerlia		monstruosa	(Scacchi, 1833)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:183263	

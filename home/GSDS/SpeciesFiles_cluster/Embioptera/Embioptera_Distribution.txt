@@ -1,0 +1,365 @@
+﻿AcceptedTaxonID	DistributionElement	StandardInUse
+1171739	AFG	TDWG Level 3 code
+1171741	TKM	TDWG Level 3 code
+1171754	PER	TDWG Level 3 code
+1171756	CUB	TDWG Level 3 code
+1171757	CUB	TDWG Level 3 code
+1171759	MXG-VC	TDWG Level 4 code
+1171760	HAI	TDWG Level 3 code
+1171761	MXT-CI	TDWG Level 4 code
+1171765	PER	TDWG Level 3 code
+1171766	84    	TDWG Level 2 code
+1171767	CLM	TDWG Level 3 code
+1171770	TEX	TDWG Level 3 code
+1171770	Texas and Mississippi	text
+1171772	MXN-BC	TDWG Level 4 code
+1171773	MXN-BC	TDWG Level 4 code
+1171774	Mexico	text
+1171775	Mexico	text
+1171780	Guatemala	text
+1171781	Mexico	text
+1171784	Guatemala	text
+1171785	Honduras	text
+1171788	84    	TDWG Level 2 code
+1171795	Trinidad and Tobago	text
+1171797	PAN	TDWG Level 3 code
+1171802	Bolivia	text
+1171803	Bolivia	text
+1171806	Colombia	text
+1171809	Trinidad and Tobago	text
+1171815	Brazil	text
+1171816	Colombia	text
+1171817	Venezuela	text
+1171818	Peru	text
+1171819	Colombia	text
+1171820	Brazil	text
+1171821	Peru	text
+1171822	Brazil	text
+1171823	Brazil	text
+1171828	MXS-GR	TDWG Level 4 code
+1171832	VEN	TDWG Level 3 code
+1171835	TRT	TDWG Level 3 code
+1171838	MXT-CI	TDWG Level 4 code
+1171839	MXS-OA	TDWG Level 4 code
+1171841	MXG-VC	TDWG Level 4 code
+1171842	MXS-JA	TDWG Level 4 code
+1171843	MXS-GR	TDWG Level 4 code
+1171844	MXT-CI	TDWG Level 4 code
+1171845	PAN	TDWG Level 3 code
+1171846	PAN	TDWG Level 3 code
+1171847	GAL	TDWG Level 3 code
+1171848	PAN	TDWG Level 3 code
+1171849	PAN	TDWG Level 3 code
+1171850	MXG-VC	TDWG Level 4 code
+1171851	Colombia	text
+1171852	Mexico	text
+1171853	El Salvador	text
+1171854	Mexico	text
+1171855	Peru	text
+1171856	Mexico	text
+1171857	Nicaragua	text
+1171858	Guatemala	text
+1171859	Mexico	text
+1171860	Costa Rica	text
+1171861	Peru	text
+1171862	Mexico	text
+1171863	Nicaragua	text
+1171864	Nicaragua	text
+1171865	CLM	TDWG Level 3 code
+1171866	Costa Rica	text
+1171867	Ecuador	text
+1171868	Ecuador	text
+1171869	Costa Rica	text
+1171870	Brazil	text
+1171871	Brazil	text
+1171872	Mexico	text
+1171873	Mexico	text
+1171874	Ecuador	text
+1171875	Peru	text
+1171876	Mexico	text
+1171877	Mexico	text
+1171878	Costa Rica	text
+1171879	79    	TDWG Level 2 code
+1171880	Honduras	text
+1171882	ARI	TDWG Level 3 code
+1171883	MXS-JA	TDWG Level 4 code
+1171884	MXE-ZA	TDWG Level 4 code
+1171885	MXN-BC	TDWG Level 4 code
+1171886	Mexico	text
+1171887	Mexico	text
+1171888	Mexico	text
+1171889	Mexico	text
+1171890	Mexico	text
+1171891	Mexico	text
+1171892	Mexico	text
+1171894	Brazil	text
+1171897	PER	TDWG Level 3 code
+1171901	QLD	TDWG Level 3 code
+1171904	NSW	TDWG Level 3 code
+1171905	NSW	TDWG Level 3 code
+1171906	50    	TDWG Level 2 code
+1171907	50    	TDWG Level 2 code
+1171908	50    	TDWG Level 2 code
+1171909	50    	TDWG Level 2 code
+1171910	50    	TDWG Level 2 code
+1171911	50    	TDWG Level 2 code
+1171912	50    	TDWG Level 2 code
+1171913	50    	TDWG Level 2 code
+1171914	50    	TDWG Level 2 code
+1171915	50    	TDWG Level 2 code
+1171916	50    	TDWG Level 2 code
+1171917	50    	TDWG Level 2 code
+1171918	50    	TDWG Level 2 code
+1171919	50    	TDWG Level 2 code
+1171920	50    	TDWG Level 2 code
+1171921	50    	TDWG Level 2 code
+1171922	50    	TDWG Level 2 code
+1171923	50    	TDWG Level 2 code
+1171924	50    	TDWG Level 2 code
+1171925	50    	TDWG Level 2 code
+1171926	50    	TDWG Level 2 code
+1171927	50    	TDWG Level 2 code
+1171928	50    	TDWG Level 2 code
+1171929	50    	TDWG Level 2 code
+1171930	50    	TDWG Level 2 code
+1171931	50    	TDWG Level 2 code
+1171938	CHI	TDWG Level 3 code
+1171940	CHI	TDWG Level 3 code
+1171943	CLM	TDWG Level 3 code
+1171944	PAN	TDWG Level 3 code
+1171945	TRT	TDWG Level 3 code
+1171946	VEN	TDWG Level 3 code
+1171947	VEN	TDWG Level 3 code
+1171948	VEN	TDWG Level 3 code
+1171949	CLM	TDWG Level 3 code
+1171951	BZN	TDWG Level 3 code
+1171952	PER	TDWG Level 3 code
+1171953	CLM	TDWG Level 3 code
+1171954	PER	TDWG Level 3 code
+1171955	PER	TDWG Level 3 code
+1171957	Brazil: Lower Amazon	text
+1171957	BZN-PA	TDWG Level 4 code
+1171959	BZN-AM	TDWG Level 4 code
+1171960	PER	TDWG Level 3 code
+1171966	25    	TDWG Level 2 code
+1171967	CPP	TDWG Level 3 code
+1171969	IND	TDWG Level 3 code
+1171970	IND	TDWG Level 3 code
+1171972	IND	TDWG Level 3 code
+1171973	IND	TDWG Level 3 code
+1171974	IND	TDWG Level 3 code
+1171975	IND	TDWG Level 3 code
+1171976	IND	TDWG Level 3 code
+1171977	IND	TDWG Level 3 code
+1171981	GNB	TDWG Level 3 code
+1171985	ZAI	TDWG Level 3 code
+1171994	23    	TDWG Level 2 code
+1171994	Congo	text
+1172001	EGY	TDWG Level 3 code
+1172002	24    	TDWG Level 2 code
+1172003	24    	TDWG Level 2 code
+1172004	24    	TDWG Level 2 code
+1172005	24    	TDWG Level 2 code
+1172006	24    	TDWG Level 2 code
+1172007	24    	TDWG Level 2 code
+1172008	Yemen	text
+1172009	24    	TDWG Level 2 code
+1172009	Yemen	text
+1172010	ALG	TDWG Level 3 code
+1172011	ALG	TDWG Level 3 code
+1172012	ALG	TDWG Level 3 code
+1172013	TUN	TDWG Level 3 code
+1172014	MOR	TDWG Level 3 code
+1172015	ALG	TDWG Level 3 code
+1172015	TUN	TDWG Level 3 code
+1172021	POR	TDWG Level 3 code
+1172022	SPA	TDWG Level 3 code
+1172023	MOR	TDWG Level 3 code
+1172025	MOR	TDWG Level 3 code
+1172027	ALG	TDWG Level 3 code
+1172030	ITA	TDWG Level 3 code
+1172032	IND-BI	TDWG Level 4 code
+1172033	IND-UP	TDWG Level 4 code
+1172034	32    	TDWG Level 2 code
+1172034	KAZ	TDWG Level 3 code
+1172034	Kazakhstan, Turkestan	text
+1172038	24    	TDWG Level 2 code
+1172038	Egypt	text
+1172045	COL	TDWG Level 3 code
+1172048	ETH	TDWG Level 3 code
+1172049	ETH	TDWG Level 3 code
+1172050	KEN	TDWG Level 3 code
+1172051	24    	TDWG Level 2 code
+1172052	YEM	TDWG Level 3 code
+1172053	24    	TDWG Level 2 code
+1172054	24    	TDWG Level 2 code
+1172055	KEN	TDWG Level 3 code
+1172056	KEN	TDWG Level 3 code
+1172057	ETH	TDWG Level 3 code
+1172060	24    	TDWG Level 2 code
+1172061	24    	TDWG Level 2 code
+1172064	SUD	TDWG Level 3 code
+1172067	40    	TDWG Level 2 code
+1172070	26    	TDWG Level 2 code
+1172071	UGA	TDWG Level 3 code
+1172072	BUR	TDWG Level 3 code
+1172073	NAM	TDWG Level 3 code
+1172079	MYA	TDWG Level 3 code
+1172080	ASS	TDWG Level 3 code
+1172082	24    	TDWG Level 2 code
+1172082	Ethiopia, Sudan	text
+1172087	22    	TDWG Level 2 code
+1172087	Congo	text
+1172094	Ecuador	text
+1172098	84    	TDWG Level 2 code
+1172102	GUA	TDWG Level 3 code
+1172102	Southern Mexico southward to Costa Rica	text
+1172104	MXS-MI	TDWG Level 4 code
+1172106	GUA	TDWG Level 3 code
+1172108	MXS-NA	TDWG Level 4 code
+1172110	MXS-MI	TDWG Level 4 code
+1172111	Mexico	text
+1172111	MXS-GR	TDWG Level 4 code
+1172112	MXS-JA	TDWG Level 4 code
+1172115	Brazil	text
+1172117	TRT	TDWG Level 3 code
+1172118	BZL-SP	TDWG Level 4 code
+1172119	84    	TDWG Level 2 code
+1172120	84    	TDWG Level 2 code
+1172120	BZN-PA	TDWG Level 4 code
+1172122	BOL	TDWG Level 3 code
+1172123	BOL	TDWG Level 3 code
+1172124	AGW-SE	TDWG Level 4 code
+1172125	PAR	TDWG Level 3 code
+1172126	PAR	TDWG Level 3 code
+1172127	AGE-CO	TDWG Level 4 code
+1172131	SUR	TDWG Level 3 code
+1172133	BOL	TDWG Level 3 code
+1172143	AGW-SE	TDWG Level 4 code
+1172147	Brazil, Mato Grosso, Serra do Urucum-Corumba	text
+1172148	Argentina, Santiago del Estero, Reserva Provincial de Copo	text
+1172151	Argentina, Santiago del Estero, Reserva Copo	text
+1172152	Bolivia, Beni, Rurrenabaque	text
+1172153	Brazil, Mato Grosso, Serra do Urucum-Corumba	text
+1172154	Bolivia	text
+1172155	Peru	text
+1172157	Peru, Loreto, Callicebus Research Station	text
+1172158	Peru	text
+1172159	Ecuador	text
+1172160	Ecuador	text
+1172168	Miocene, Dominican amber	text
+1172169	Argentina	text
+1172170	Colombia	text
+1172171	Venezuela	text
+1172172	AGE-MI	TDWG Level 4 code
+1172173	MXN-BC	TDWG Level 4 code
+1172174	FLA	TDWG Level 3 code
+1172175	PAN	TDWG Level 3 code
+1172175	Panama Canal Zone	text
+1172176	8	TDWG Level 1 code
+1172177	LEE-VI	TDWG Level 4 code
+1172179	84    	TDWG Level 2 code
+1172181	GUY	TDWG Level 3 code
+1172182	PAN	TDWG Level 3 code
+1172183	PER	TDWG Level 3 code
+1172184	DOM	TDWG Level 3 code
+1172185	BZS-SC	TDWG Level 4 code
+1172186	BZS-SC	TDWG Level 4 code
+1172187	TEX	TDWG Level 3 code
+1172188	TRT	TDWG Level 3 code
+1172189	VEN	TDWG Level 3 code
+1172190	VEN	TDWG Level 3 code
+1172191	BZS-SC	TDWG Level 4 code
+1172192	PAN	TDWG Level 3 code
+1172193	PAN	TDWG Level 3 code
+1172194	PAN	TDWG Level 3 code
+1172195	PAN	TDWG Level 3 code
+1172198	Argentina	text
+1172199	AGE-ER	TDWG Level 4 code
+1172200	BZS-SC	TDWG Level 4 code
+1172201	TEX	TDWG Level 3 code
+1172202	MXG-VC	TDWG Level 4 code
+1172203	MXT-CI	TDWG Level 4 code
+1172204	MXS-OA	TDWG Level 4 code
+1172205	CLM	TDWG Level 3 code
+1172205	MXN-BS	TDWG Level 4 code
+1172207	MXE-SL	TDWG Level 4 code
+1172208	MXE-TA	TDWG Level 4 code
+1172209	GUA	TDWG Level 3 code
+1172210	FLA	TDWG Level 3 code
+1172211	CUB	TDWG Level 3 code
+1172212	PAN	TDWG Level 3 code
+1172217	BZS-SC	TDWG Level 4 code
+1172218	AGE-SF	TDWG Level 4 code
+1172219	85    	TDWG Level 2 code
+1172225	SRL	TDWG Level 3 code
+1172226	CAL	TDWG Level 3 code
+1172226	EGY	TDWG Level 3 code
+1172231	IND	TDWG Level 3 code
+1172232	50    	TDWG Level 2 code
+1172233	50    	TDWG Level 2 code
+1172233	NSW	TDWG Level 3 code
+1172234	NSW	TDWG Level 3 code
+1172235	NSW	TDWG Level 3 code
+1172236	50    	TDWG Level 2 code
+1172237	50    	TDWG Level 2 code
+1172238	50    	TDWG Level 2 code
+1172239	50    	TDWG Level 2 code
+1172240	50    	TDWG Level 2 code
+1172241	50    	TDWG Level 2 code
+1172242	50    	TDWG Level 2 code
+1172243	81    	TDWG Level 2 code
+1172244	SRL	TDWG Level 3 code
+1172246	NWG	TDWG Level 3 code
+1172247	NWG	TDWG Level 3 code
+1172248	NWG	TDWG Level 3 code
+1172249	NWG	TDWG Level 3 code
+1172250	NWG	TDWG Level 3 code
+1172251	NWG	TDWG Level 3 code
+1172252	NWG	TDWG Level 3 code
+1172253	NWG	TDWG Level 3 code
+1172254	IND	TDWG Level 3 code
+1172255	IND	TDWG Level 3 code
+1172256	40    	TDWG Level 2 code
+1172259	MYA	TDWG Level 3 code
+1172260	MYA	TDWG Level 3 code
+1172262	THA	TDWG Level 3 code
+1172263	THA	TDWG Level 3 code
+1172264	THA	TDWG Level 3 code
+1172265	THA	TDWG Level 3 code
+1172266	THA	TDWG Level 3 code
+1172267	LAO	TDWG Level 3 code
+1172268	MLY	TDWG Level 3 code
+1172269	MYA	TDWG Level 3 code
+1172270	NEP	TDWG Level 3 code
+1172271	MYA	TDWG Level 3 code
+1172272	MYA	TDWG Level 3 code
+1172273	36    	TDWG Level 2 code
+1172275	THA	TDWG Level 3 code
+1172277	THA	TDWG Level 3 code
+1172281	BOR	TDWG Level 3 code
+1172281	SUM	TDWG Level 3 code
+1172283	MRQ	TDWG Level 3 code
+1172284	MRN	TDWG Level 3 code
+1172288	CAL	TDWG Level 3 code
+1172307	ECU	TDWG Level 3 code
+1172311	CLM	TDWG Level 3 code
+1172314	84    	TDWG Level 2 code
+1172316	8	TDWG Level 1 code
+1172318	Brazil	text
+1172319	Bolivia	text
+1172320	Brazil	text
+1172321	Brazil	text
+1172325	ECU	TDWG Level 3 code
+1172326	ECU	TDWG Level 3 code
+1172327	CLM	TDWG Level 3 code
+1172328	CLM	TDWG Level 3 code
+1172329	CLM	TDWG Level 3 code
+1172330	ECU	TDWG Level 3 code
+1172332	PER	TDWG Level 3 code
+1207768	IND-GU	TDWG Level 4 code
+1221870	THA	TDWG Level 3 code
+1221871	THA	TDWG Level 3 code
+1221872	THA	TDWG Level 3 code
+1221873	THA	TDWG Level 3 code
+1221875	THA	TDWG Level 3 code

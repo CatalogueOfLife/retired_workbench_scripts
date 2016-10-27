@@ -1,0 +1,7 @@
+ReferenceID	Authors	Year	Title	Details	
+663	Howson, C.M.; Picton, B.E. (Ed.)	1997	The species directory of the marine fauna and flora of the British Isles and surrounding seas. <i>Ulster Museum Publication</i>, 276. The Ulster Museum: Belfast, UK. ISBN 0-948150-06-8. vi, 508 (+ cd-rom) pp.		
+1318			UNESCO-IOC Register of Marine Organisms		
+1413	van der Land, J.; Hallan, J.	2001	Mesozoa, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+2719	Tajika K.-I.	1979	A new species of the genus Ciliocincta Kozloff, 1965 (Mesozoa, Orthonectida) parasitic in a marine turbellarian from Hokkaido, Japan The journal of the faculty of science, Hokkaido university, series 6, Zoology 21: 383-395		
+13085	Zoological Record	1985	. THE ZOOLOGICAL RECORD COMPLETE SERIE, 122, 10, 434-449.		
+22996	Caullery, M; Mesnil, F.	1901	Recherches sur les Orthonectides. Arch. Anat. Micr. Iv, pp 381-470, pls x-xii.		

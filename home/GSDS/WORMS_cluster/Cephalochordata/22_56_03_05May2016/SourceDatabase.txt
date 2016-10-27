@@ -1,0 +1,2 @@
+DatabaseFullName	DatabaseShortName	DatabaseVersion	ReleaseDate	AuthorsEditors	TaxonomicCoverage	GroupNameInEnglish	Abstract	Organisation	HomeURL	Coverage	Completeness	Confidence	LogoFileName	ContactPerson	
+World list of Cephalochordata	WoRMS Cephalochordata	2016-05-01	2016-05-01	Nishikawa, T. .			The list now includes 31 valid species and 21 junior synonyms.    However, future molecular studies will reveal many cryptic species, some   of which will recover the presently invalidated junior synonyms.		http://www.marinespecies.org	Global	100	4		Nishikawa, T. .	

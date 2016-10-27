@@ -1,0 +1,492 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+508816	105352	Dibothriorhynchus		stenocephala	Guiart, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508816	
+105350	105352	Hepatoxylon		squali	Bosc, 1811				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105350	
+517319	516480	Bothriocephalus		indicus	Ganapati & Rao, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517319	
+105351	105352	Hepatoxylon		stenocephala	(Guiart, 1935)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105351	
+345091	516815	Oncobothrium		antarcticum	Wojciechowska, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345091	
+517330	516480	Oncodiscus		fimbriatus	Subhapradha, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517330	
+517331	516480	Oncodiscus		maharashtrae	Shinde, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517331	
+517332	516480	Oncodiscus		waltairensis	Shinde, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517332	
+508603	835953	Oncomegoides		celatus	Beveridge & Campbell, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508603	
+835951	508595	Renibulbus		penaeus	Feigenbaum, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835951	
+508872	508591	Rhynchobothrium		agile	Linton, 1897				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508872	
+835952	508591	Rhynchobothrium		brevispine	Linton, 1890				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835952	
+517336	516480	Tetrapapillocephalus		magnus	Protasova & Mordvinova, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517336	
+850391	105352	Tetrarhynchus		attenuatus	Rudolphi, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:850391	
+105389	105352	Tetrarhynchus		discophorus	Rudolphi, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105389	
+517348	105217	Amphicotyle		typica	Diesing, 1863				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517348	
+370482	105088	Monostomum		foliaceum	Rudolphi, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:370482	
+370483	370474	Amphilina		bipunctata	Riser, 1948				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:370483	
+105282	105283	Dinobothrium		plicatum	Linton, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105282	
+508808	105369	Nybelinia		herdmani	Shipley & Hornell, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508808	
+508810	105369	Nybelinia		narinari	(MacCallum, 1917)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508810	
+516965	516967	Dinobothrium		humile	Euzet, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516965	
+105284	516967	Dinobothrium		spinosum	Baylis, 1950				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105284	
+516969	516967	Dinobothrium		spinulosum	Yamaguti, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516969	
+414487	517162	Hymenolepis		alaskensis	Deblock & Rausch, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:414487	
+508813	105369	Nybelinia		rhynchobatus	Yang, Lin, Liu & Peng, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508813	
+836426	105092	Ophryocotyle		lacazii	Villot, 1875				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836426	
+105320	159478	Pseudoanthobothrium		hanseni	Baer, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105320	
+517389	516967	Reesium		paciferum	(Sproston, 1948) Euzet, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517389	
+517382	516989	Anindobothrium		guariticus	Marques, Brooks & Lasso, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517382	
+516578	835765	Echeneibothrium		rankini	(Baer, 1948)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516578	
+516588	835767	Echeneibothrium		trygonis	Shipley & Hornell, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516588	
+517405	516594	Lecanicephalum		aegyptiacus	(Hassan, 1982)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517405	
+517373	516858	Onchobothrium		pinguicollum	Sleggs, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517373	
+517386	516990	Phyllobothrium		chiloscyllii	Subhapradha, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517386	
+516605	835754	Rhinebothrium		bilobatum	(Young, 1955) Appy & Dailey, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516605	
+516616	835759	Rhinebothrium		geminum	Marques, Brooks & Ureña, 1996				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516616	
+516626	835763	Rhinebothrium		magniphallum	Brooks, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516626	
+516631	835764	Rhinebothrium		palombii	Baer, 1948				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516631	
+516634	835765	Rhinebothrium		rankini	Baer, 1948				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516634	
+516639	835766	Rhinebothrium		shipleyi	Southwell, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516639	
+414482	836115	Echinobothrium		coronatum	Robinson, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:414482	
+390063	836116	Echinobothrium		diamanti	Ivanov & Lipshitz, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:390063	
+836122	836117	Echinobothrium		hormozganiense	Haseli, Malek, Palm & Ivanov, 2012				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836122	
+105158	836119	Echinobothrium		musteli	Pintner, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105158	
+517206	836120	Echinobothrium		notoguidoi	Ivanov, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517206	
+517484	836121	Echinobothrium		scoliodoni	Sanaka, Vijaya Lakshmi & Hanumantha Rao, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517484	
+105225	105224	Parabothrium		gadipollachii	(Rudolphi, 1810)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105225	
+517497	835559	Cephalobothrium		variabile	Southwell, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517497	
+516987	419273	Myzocephalus		narinari	Shipley & Hornell, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516987	
+835929	516502	Parabothriocephaloides		psenopsis	Wang, Liu & Yang, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835929	
+389094	516502	Parabothriocephalus		psenopsis	Wang, Liu & Yang, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:389094	
+517339	516502	Parabothriocephalus		sagitticeps	(Sleggs, 1927)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517339	
+517071	419273	Phyllobothrium		thysanocephalum	Linton, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517071	
+516413	835558	Polypocephalus		rhinobatidis	Subhapradha, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516413	
+508875	105356	Rhynchobothrium		ingens	Linton, 1921				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508875	
+517000	517080	Orygmatobothrium		tetraglobum	Southwell, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517000	
+508817	105368	Sphyriocephalus		alberti	Guiart, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508817	
+508818	105368	Sphyriocephalus		richardi	Guiart, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508818	
+516877	836171	Spinibiloculus		ratnagiriensis	Deshmukh & Shinde, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516877	
+517094	419273	Thysanocephalum		crispum	(Linton, 1889) Linton, 1890				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517094	
+836179	836178	Bothriocephalus		longispiculus	Stossich, 1895				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836179	
+836182	836181	Acoleus		armatus	Fuhrmann, 1899				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836182	
+836183	836181	Acoleus		hedleyi	Johnston, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836183	
+836184	836181	Acoleus		rugosus	Johnston, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836184	
+836185	836181	Taenia		rugosa	Krefft, 1871				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836185	
+836186	836181	Taenia		vaginata	Rudolphi, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836186	
+508876	105330	Rhynchobothrium		insigne	Linton, 1924				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508876	
+517426	516793	Calliobothrium		pritchardae	Caira & Ruhnke, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517426	
+508820	508689	Halysiorhynchus		variouncinatus	Pintner, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508820	
+836252	836250	Joyeuxilepis		pilatus	Borgarenko & Gulyaev, 1991				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836252	
+836164	516791	Megalonchos		dubius	Prudhoe 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836164	
+836165	516792	Megalonchos		musteli	Prudhoe 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836165	
+508868	419287	Paramecistobothrium		magnabulbosa	Bilqees & Khurshid, 1988				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508868	
+508869	419287	Poecilancistrium		gangeticum	(Shipley & Hornell, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508869	
+508870	419287	Poecilancistrium		ilishae	(Southwell & Prashad, 1918)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508870	
+105363	419287	Poecilancistrum		caryophyllum	(Diesing, 1850)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105363	
+836272	836270	Taenia		acanthorhyncha	Wedl, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836272	
+836408	836407	Tatria		erichovi	Mathevossian & Okorokov, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836408	
+836409	836407	Tatria		jubilaea	Okorokov & Tkatchev, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836409	
+105338	105336	Grillotia		angeli	Dollfus, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105338	
+508851	105336	Grillotia		bothridiopunctata	Dollfus, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508851	
+105391	105336	Tetrarhynchus		smaridum	Pintner, 1893				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105391	
+508801	105386	Abothros		carcharias	Welch, 1876				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508801	
+105354	105339	Anthocephalus		granulum	Rudolphi, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105354	
+508852	419281	Grillotia		branchi	Shaharom & Lester, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508852	
+836080	508699	Grillotia		carvajalregorum	Menoret & Ivanov, 2009				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:836080	
+508883	508699	Grillotia		dollfusi	(Carvajal & Rego, 1983)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508883	
+508853	105337	Grillotia		microthrix	Dollfus, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508853	
+508854	105339	Grillotia		pseuderinaceus	Dollfus, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508854	
+508855	105339	Grillotia		recurvispinis	Dollfus, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508855	
+508857	105337	Grillotia		spinosissima	Dollfus, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508857	
+105347	105346	Gymnorhynchus		reptans	Rudolphi, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105347	
+345210	345087	Marsupiobothrium		antarcticum	Wojciechowska, 1991				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345210	
+345211	345086	Marsupiobothrium		awii	Rocka & Zdzitowiecki, 1998				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345211	
+105287	414480	Echeneibothrium		affine	Olsson, 1867				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105287	
+508802	105386	Nybelinia		lamontae	Nigrelli, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508802	
+508841	508699	Progrillotia		dollfusi	Carvajal & Rego, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508841	
+508873	105357	Rhynchobothrium		heterospine	Linton, 1897				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508873	
+508874	105339	Rhynchobothrium		imparispine	Linton, 1897				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508874	
+508800	105386	Rhynchobothrius		rugosus	Leuckart, 1850				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508800	
+508819	508557	Shirleyrhynchus		butlerae	Beveridge & Campbell, 1988				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508819	
+835702	835701	Taenia		narinari	MacCallum, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835702	
+508805	105340	Tentacularia		megabothridia	Hart, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508805	
+105385	105386	Tentacularia		bicolor	(Bartels in Nordmann, 1832)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105385	
+508799	105386	Tentacularia		boscii	Cuvier (Guerin-Meneville, 1829-1844)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508799	
+508798	105386	Tentacularia		doradis	Bosc (de Blainville, 1828)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508798	
+508878	105336	Tetrarhynchus		smarismaenae	Wagener, 1854				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508878	
+508796	105386	Tetrarhynchus		appendiculatus	Rudolphi, 1809				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508796	
+836430	517112	Taenia		armillaris	Rudolphi, 1810				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836430	
+836433	517113	Taenia		campylacantha	Krabbe, 1869				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836433	
+345184	517115	Anomotaenia		antarctica	Fuhrmann, 1920				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345184	
+345097	517115	Anomotaenia		dominicana	Railliet & Henry, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345097	
+345156	517115	Anomotaenia		micracantha		dominicana	Subspecies	(Railliet & Henry, 1912)	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345156	
+517519	517117	Anomotaenia		larina	(Krabbe, 1869) Cohn, 1900				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517519	
+105108	517117	Pseudanomotaenia		larina	(Krabbe, 1869)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105108	
+836436	517117	Rissotaenia		larina	(Krabbe, 1869) Spasskaya & Kolotilova, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836436	
+836431	517117	Taenia		larina	Krabbe, 1869				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836431	
+836434	517119	Anomotaenia		meinertzhageni	Baer, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836434	
+105096	517120	Anomotaenia		micracantha	(Krabbe, 1869)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105096	
+836432	517120	Taenia		micracantha	Krabbe, 1869				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836432	
+105353	105355	Anthocephalus		gracilis	Rudolphi, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105353	
+517423	414477	Anthobothrium		elegantissimum	Lonnberg, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517423	
+836102	105355	Callitetrarhynchus		elongatus	Bilqees & Khurshid, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836102	
+516921	516650	Anthobothrium		peruanum	Rego, Vincente & Herrera, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516921	
+517383	516652	Anthobothrium		pulvinatum	Linton, 1890				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517383	
+836103	105355	Callitetrarhynchus		megacanthus	Bilqees & Khurshid, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836103	
+516560	419268	Echeneibothrium		flexile	(Linton, 1890)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516560	
+517369	516646	Inermiphyllidium		brachyascum	Riser, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517369	
+517370	516652	Inermiphyllidium		pulvinatum	(Linton, 1890) Riser, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517370	
+508807	508527	Nybelinia		beveridgei	(Palm, Walter, Schwerdtfeger & Reimer, 1997)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508807	
+105374	508529	Nybelinia		edwinlintoni	Dollfus, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105374	
+508815	508531	Nybelinia		southwelli	Palm & Walter, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508815	
+516866	836167	Platybothrium		xiamenensis	Wang & Yang, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516866	
+517085	516648	Proboscidosaccus		enigmaticus	Gallien, 1949				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517085	
+517086	516650	Proboscidosaccus		mesodesmatis	Bahamonde & Lopez, 1962				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517086	
+345224	345090	Pseudanthobothrium		shetlandicum	Wojciechowska, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345224	
+516637	516601	Rhinebothrium		scorzai	Lopez-Neyra & Diaz-Ungria, 1958				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516637	
+517342	105219	Abothrium		hermaphroductus	Harding, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517342	
+517344	105219	Abothrium		longissimum	Cholodkovsky, 1918				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517344	
+105188	105219	Bothriocephalus		proboscideus	(Batsch, 1786)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105188	
+517328	105219	Bothriocephalus		suecius	Lönnberg, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517328	
+517351	105219	Eubothrium		oncorhynchi	Wardle, 1932				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517351	
+517248	105219	Taenia		capite		truncato	Subspecies	Retzius, 1786	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517248	
+517398	105219	Taenia		salmonis	Müller, 1780				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517398	
+517399	105219	Taenia		truttae	Schrank, 1803				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517399	
+517343	516515	Abothrium		infundibuliformis	(Rudolphi, 1810)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517343	
+517315	516515	Bothriocephalus		cestus	Leidy, 1885				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517315	
+517427	105255	Cylindrophorus		posteroporus	Riser, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517427	
+517428	516860	Dicranobothrium		harpago	Euzet, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517428	
+370494	370493	Monostomum		liguloideum	Diesing, 1850				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:370494	
+517340	516495	Paraechinophallus		hyperogliphe	Tkachev, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517340	
+517341	516496	Paraechinophallus		major	(Takao, 1986)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517341	
+836404	836403	Schistotaenia		tenuicirrus	Chandler, 1948				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836404	
+836406	836405	Taenia		macrorhyncha	Rudolphi, 1810				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836406	
+836413	836412	Taenia		scolopendra	Diesing, 1856				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836413	
+836382	836381	Tatria		antipini	Mathevossian & Okorokov, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836382	
+508797	105386	Tetrarhynchus		macrobothrius	Rudolphi, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508797	
+105390	105386	Tetrarhynchus		megabothrius	Rudolphi, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105390	
+508795	105386	Tetrarhynchus		papillosus	Rudolphi, 1809				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508795	
+517379	516812	Uncibilocularis		mandleyi	Southwell, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517379	
+517371	516602	Rhinebothrium		venezuelensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517371	
+516644	419268	Rhinebothrium		walga	(Shipley & Hornell, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516644	
+508877	105355	Rhynchobothrium		spiracornutum	Linton, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508877	
+517091	414477	Scyphophyllidium		elegantissimum	(Lönnberg, 1889) Woodland, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517091	
+105322	516648	Sphaerobothrium		lubeti	Euzet, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105322	
+508803	105355	Tentacularia		lepida	Chandler, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508803	
+508804	105355	Tentacularia		macfiei	Southwell, 1929				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508804	
+508806	419280	Tentacularia		pseudodera	Shuler, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508806	
+836208	836207	Taenia		lamilligera	Owen, 1832				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836208	
+370486	370485	Amphilina		paragonopora	Woodland, 1923				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:370486	
+105371	419274	Nybelinia		alloiotica	Dollfus, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105371	
+419277	419274	Nybelinia		bisulcata	(Linton, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:419277	
+105372	419274	Nybelinia		cadenati	Dollfus, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105372	
+105379	419274	Nybelinia		oodes	Dollfus, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105379	
+105380	419274	Nybelinia		punctatissima	Dollfus, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105380	
+105382	419274	Nybelinia		senegalensis	Dollfus, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105382	
+105376	508520	Nybelinia		eureia	Dollfus, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105376	
+508811	508523	Nybelinia		nipponica	Yamaguti, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508811	
+105381	508523	Nybelinia		rougetcampanae	Dollfus, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105381	
+516981	105303	Monorygma		elegans	Monticelli, 1890				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516981	
+105373	508524	Nybelinia		dakari	Dollfus, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105373	
+508812	508524	Nybelinia		peridereaus	(Shipley & Hornell, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508812	
+508814	508540	Nybelinia		scoliodoni	(Vijayalakshmi, Vijayalakshmi & Gangadharam, 1996)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508814	
+517310	516482	Alloptychobothrium		spinolotopteri	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517310	
+517320	516483	Bothriocephalus		janickii	Markowski, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517320	
+105384	508526	Nybelinia		yamagutii	Dollfus, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105384	
+517385	516980	Phyllobothrium		chamissonii	(Linton, 1905) Southwell & Walker, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517385	
+517058	105303	Phyllobothrium		perfectum	(Van Beneden, 1853) Southwell, 1925				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517058	
+517334	516482	Plicatobothrium		cypseluri	Cable & Michaelis, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517334	
+517335	516482	Plicatobothrium		raoi	Khalil, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517335	
+835921	516449	Renyxa		amplifica	Kurochkin & Slankis, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835921	
+517391	516980	Taenia		chamissonii	Linton, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517391	
+396411	516510	Australicola		pectinatus	Kuchta & Scholz, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:396411	
+345186	345132	Bothriocephalus		quadratus	Linstow, 1892				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345186	
+517329	105223	Bothriocephalus		truncatus	Leuckart, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517329	
+345193	345130	Dibothriocephalus		archeri	Leiper & Atkinson, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345193	
+517353	516531	Dibothriocephalus		atlanticum	Delyamure & Parukhin, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517353	
+345194	345130	Dibothriocephalus		lashleyi	Leiper & Atkinson, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345194	
+345195	345131	Dibothriocephalus		mobilis	Rennie & Reid, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345195	
+345197	345133	Dibothriocephalus		pygoscelis	Rennie & Reid, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345197	
+345198	345132	Dibothriocephalus		quadratus	(Linstow, 1892)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345198	
+345199	345132	Dibothriocephalus		resimum	(Railliet & Henry, 1912)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345199	
+345200	345133	Dibothriocephalus		scoticus	Rennie & Reid, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345200	
+345201	345131	Dibothriocephalus		scotti	Shipley, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345201	
+345202	345131	Dibothriocephalus		wilsoni	Shipley, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345202	
+517354	516531	Diphyllobothrium		arctocephali	Drummond, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517354	
+517355	516529	Diphyllobothrium		klebanovskii	Kuratov & Posokhov, 1988				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517355	
+345084	345215	Anthocephalum		arctowskii	(Wojciechowska, 1991)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345084	
+345085	345216	Anthocephalum		georgiense	(Wojciechowska, 1991)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345085	
+345082	345217	Anthocephalum		rakusai	(Wojciechowska, 1991)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345082	
+345083	345218	Anthocephalum		siedleckii	(Wojciechowska, 1991)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345083	
+835915	517066	Anthocephalus		rudicornis	Drummond, 1839				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835915	
+105280	105253	Crossobothrium		angustum	(Linton, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105280	
+516962	517060	Crossobothrium		prionacis	(Yamaguti, 1934)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516962	
+516963	105316	Crossobothrium		squali	(Yamaguti, 1952)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516963	
+517356	516531	Diphyllobothrium		krotovi	Delyamure, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517356	
+105207	105208	Diphyllobothrium		ponticum	Delyamure, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105207	
+517357	345132	Diphyllobothrium		resimum	Railliet & Henry, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517357	
+517358	516531	Diphyllobothrium		septentrionalis	Nybelin, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517358	
+345134	345131	Diphyllobothrium		wilsoni	Shipley, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345134	
+517360	105208	Diphyllobothrium		yonagoense	Yamane, Kamo, Yazaki, Fukumoto & Maejima, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517360	
+517349	105218	Amphigonoporus		carvalhoi	Mendes, 1944				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517349	
+517350	105218	Amphigonoporus		dogieli	(Pozniakov, 1983)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517350	
+105185	105218	Bothriocephalus		microcephalus	Rudolphi, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105185	
+517323	105218	Bothriocephalus		monorchis	Linstow, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517323	
+517327	105218	Bothriocephalus		sagittatus	Leuckart, 1820				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517327	
+517311	516457	Bothriocephalus		abyssmus	Thomas, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517311	
+516943	516900	Caulobothrium		anacolum	Brooks, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516943	
+508880	508719	Dibothriorhynchus		sphyraenicus	Pintner, 1930				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508880	
+508871	508719	Patellobothrium		quinquecatinatum	Beveridge & Campbell, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508871	
+370487	370479	Amphilina		magna	Southwell, 1915				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:370487	
+517313	105190	Bothriocephalus		bipunctatus	(Zeder, 1800)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517313	
+105177	516491	Bothriocephalus		centrolophipompili	(Wagener, 1854)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105177	
+517318	419246	Bothriocephalus		histiophorus	Shipley, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517318	
+517321	419246	Bothriocephalus		laciniatus	(Linton, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517321	
+105189	105190	Bothriocephalus		punctatus	(Rudolphi, 1802)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105189	
+517326	105190	Bothriocephalus		rhombi	Mola, 1928				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517326	
+345192	345140	Dibothriocephalus		antarcticus	(Baird, 1853)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345192	
+345196	345139	Dibothriocephalus		perfoliatus	Railliet & Henry, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345196	
+345203	345140	Diphyllobothrium		antarcticum	(Baird, 1853)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345203	
+345204	345139	Diphyllobothrium		clavatum	Railliet & Henry, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345204	
+345205	345139	Diphyllobothrium		perfoliatum	(Railliet & Henry, 1912)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345205	
+345206	345139	Diphyllobothrium		rufum	Leiper & Atkinson, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345206	
+836066	105335	Gilquinia		anteroporus	(Hart, 1936)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836066	
+508650	105335	Gilquinia		tetrabothria	(Van Beneden, 1849)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508650	
+508856	419282	Grillotia		simmonsi	Dollfus, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508856	
+835713	516400	Parataenia		elongatus	Southwell, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835713	
+517422	516408	Parataenia		medusia	Linton, 1891				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517422	
+836065	105335	Tetrarhynchus		anteroporus	Hart, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836065	
+517361	105209	Diplogonoporus		brauni	Leon, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517361	
+517362	105209	Diplogonoporus		fukuokaensis	Kamo & Miyazaki, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517362	
+105222	105223	Fistulicola		dalmatinus	(Stossich, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105222	
+836175	414484	Himantocestus		blanksoni	Ukoli, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836175	
+105300	105306	Monorygma		delphini	(Gervais, 1870)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105300	
+345212	345081	Monorygma		dentatum	Linstow, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345212	
+516983	517045	Monorygma		macquariae	Johnston, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516983	
+516984	517045	Monorygma		magnum	Hart, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516984	
+516986	105314	Monorygma		rotundum	Klaptocz, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516986	
+516991	105253	Orygmatobothrium		angustum	Linton, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516991	
+516998	105253	Orygmatobothrium		plicatum	Yamaguti, 1934				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516998	
+517001	105253	Orygmatobothrium		velamentum	Yoshida, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517001	
+105254	105253	Orygmatobothrium		versatile	(Diesing, 1854) Diesing, 1863				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105254	
+517003	105253	Orygmatobothrium		zschokkei	Woodland, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517003	
+517352	105223	Pseudeubothrium		xiphiados	Yamaguti, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517352	
+517393	105223	Taenia		haerica	Pallas, 1781				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517393	
+508862	105360	Otobothrium		crenacolle	Linton, 1890				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508862	
+508863	105360	Otobothrium		curtum	(Linton, 1909)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508863	
+508864	419286	Otobothrium		kurisi	Shields, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508864	
+508867	419286	Otobothrium		pephrikos	Dollfus, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508867	
+105311	517077	Phyllobothrium		minutum	Williams, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105311	
+517016	105253	Phyllobothrium		angustum	(Linton, 1889) Euzet, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517016	
+517017	105317	Phyllobothrium		auricula	Van Beneden, 1858				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517017	
+517024	105310	Phyllobothrium		compactum	Southwell & Prashad, 1920				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517024	
+517039	105310	Phyllobothrium		inchoatum	Leidy, 1891				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517039	
+517050	105253	Phyllobothrium		musteli	(Van Beneden, 1849) Southwell, 1925				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517050	
+517057	516997	Phyllobothrium		paulum	(Linton, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517057	
+517075	105317	Phyllobothrium		vagans	Haswell, 1902				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517075	
+517089	105253	Scyphophyllidium		angustum	(Linton, 1889) Riser, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517089	
+517395	517044	Taenia		loliginis	Leidy, 1887				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517395	
+516957	105281	Crossobothrium		campanulatum	Klaptocz, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516957	
+516993	105281	Orygmatobothrium		dohrnii	Oerley, 1885				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516993	
+237821	105281	Phyllobothrium		dohrnii	(Oerley, 1885) Zschokke, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:237821	
+516968	105298	Dinobothrium		planum	Linton, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516968	
+835943	419288	Eutetrarhynchus		lineatus	(Linton, 1909)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835943	
+835942	419288	Rhynchobothrium		lineatum	Linton, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835942	
+508821	508563	Eutetrarhynchus		aetobati	Beveridge, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508821	
+508822	508564	Eutetrarhynchus		australis	Prudhoe, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508822	
+508824	508565	Eutetrarhynchus		bareldsi	Beveridge, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508824	
+508825	508566	Eutetrarhynchus		carayoni	Dollfus, 1942				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508825	
+508826	508568	Eutetrarhynchus		geraschmidti	Dollfus, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508826	
+508827	508569	Eutetrarhynchus		litocephalus	Heinz & Dailey, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508827	
+508828	508570	Eutetrarhynchus		macrotrachelus	Heinz & Dailey, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508828	
+508829	508571	Eutetrarhynchus		martini	(Beveridge, 1990)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508829	
+508830	508572	Eutetrarhynchus		michiae	(Southwell, 1929)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508830	
+517424	517006	Anthobothrium		exiguum	Yamaguti, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517424	
+517425	517006	Anthobothrium		parvum	Yamaguti, 1934				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517425	
+517490	835579	Cephalobothrium		pteroplateai	Zaidi & Khan, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517490	
+516964	517013	Crossobothrium		triacis	(Yamaguti, 1952)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516964	
+508831	508574	Eutetrarhynchus		musteli	(Carvajal, 1974)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508831	
+508832	508575	Eutetrarhynchus		ocallaghani	(Beveridge, 1990)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508832	
+508833	508576	Eutetrarhynchus		owensi	Beveridge, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508833	
+508834	508577	Eutetrarhynchus		schmidti	Heinz & Dailey, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508834	
+508835	508578	Eutetrarhynchus		spinifer	Dollfus, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508835	
+835941	508580	Eutetrarhynchus		vooremi	Sao Clemente & Gomes, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835941	
+508836	508626	Eutetrarhynchus		thalassius	Kovaks & Schmidt, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508836	
+517411	419242	Lecanicephalum		marsupium	(Linton, 1916)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517411	
+517414	516432	Lecanicephalum		pinguis	(Linton, 1890)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517414	
+517415	516433	Lecanicephalum		rhinobatii	(Deshmukh, 1980) Schmidt, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517415	
+517364	516944	Echeneibothrium		insignia	(Southwell, 1911)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517364	
+517365	516945	Echeneibothrium		longicolle	(Linton, 1890)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517365	
+517366	516946	Echeneibothrium		multiorchidum	Young, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517366	
+517367	516951	Echeneibothrium		tobijei	Yamaguti, 1934				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517367	
+842924	105098	Taenia		laevigata	Rudolphi, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:842924	
+843097	843098	Anomotaenia		ricci	Fuhrmann & Baer 1943				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:843097	
+843082	843081	Choanotaenia		dispar	Burt, 1940				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:843082	
+517122	843083	Choanotaenia		numenii	Owen, 1946				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517122	
+517124	517127	Dictymetra		numenii	Clark, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517124	
+517480	836145	Echinobothrium		boisii	Southwell, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517480	
+517190	836146	Echinobothrium		bonasum	Williams & Campbell, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517190	
+517191	836147	Echinobothrium		californiense	Ivanov & Campbell, 1998				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517191	
+517196	836148	Echinobothrium		euzeti	Campbell & Carvajal, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517196	
+517197	836149	Echinobothrium		fautleyae	Tyler & Caira, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517197	
+345208	345106	Hymenolepis		chionis	(Fuhrmann, 1921)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345208	
+105095	517128	Anomotaenia		hydrochelidonis	(Dubinina, 1953)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105095	
+836268	836266	Choanotaenia		bilateralis	Fuhrmann, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836268	
+517200	836151	Echinobothrium		hoffmanorum	Tyler, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517200	
+517203	836154	Echinobothrium		megacanthum	Ivanov & Campbell, 1998				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517203	
+517204	836155	Echinobothrium		mexicanum	Tyler & Caira, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517204	
+517207	836157	Echinobothrium		pigmentatum	Ostrowski de Nunez, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517207	
+517208	836158	Echinobothrium		raschii	Campbell & Andrade, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517208	
+517209	836159	Echinobothrium		rayallemangi	Tyler, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517209	
+836135	836160	Echinobothrium		reginae	Kuchta & Caira, 2010				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836135	
+517483	836161	Echinobothrium		rhinoptera	Shipley & Hornell, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517483	
+836163	836162	Echinobothrium		vojtai	Kuchta & Caira, 2010				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836163	
+345209	345107	Hymenolepis		querquedula	(Fuhrmann, 1921)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345209	
+842730	842731	Lapwingia		adelaidae	Schmidt, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:842730	
+842718	842719	Lapwingia		reticulosa	Singh, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:842718	
+836711	105094	Dichoanotaenia		dubininae	Spassky, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836711	
+836709	105097	Taenia		microrhyncha	Krabbe, 1869				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836709	
+835566	517215	Discobothrium		japonicum	Yamaguti, 1934				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835566	
+419254	105278	Anthocephalum		centrurum	Southwell, 1925				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:419254	
+508843	419278	Neogymnorhynchus		magna	Bilqees & Khurshid, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508843	
+508844	419278	Neogymnorhynchus		platycephali	Bilqees & Shah, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508844	
+508846	419279	Pterobothrium		chaetoturichthydis	Yamaguti, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508846	
+508847	419279	Pterobothrium		dasybati	Yamaguti, 1934				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508847	
+508845	419278	Syndesmobothrium		filicolle	Linton, 1890				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508845	
+517397	516925	Taenia		quadribothria	MacCallum, 1921				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517397	
+836256	836257	Echinorhynchotaenia		biuncinata	Joyeux & Gaud, 1945				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836256	
+508859	508670	Lacistorhynchus		platycephalum	(Shipley & Hornell, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508859	
+508734	508730	Otobothrium		arii	Bilqees & Shaukat, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508734	
+508866	508730	Otobothrium		megatentaculum	Bilqees & Shaukat, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508866	
+517387	516542	Phyllobothrium		kingae	Schmidt, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517387	
+105091	836258	Tatria		decacantha	Fuhrmann, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105091	
+508848	508674	Pseudogrillotia		zerbiae	Palm, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508848	
+843055	843054	Taenia		discoidea	van Beneden, 1868				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:843055	
+843085	517125	Taenia		nymphaea	Schrank, 1790				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:843085	
+843261	105101	Taenia		teres	Krabbe, 1869				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:843261	
+836307	836417	Tatria		dubininae	Ryzhikov & Tolkacheva, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836307	
+517417	516434	Lecanicephalum		singhii	(Jadhav & Shinde, 1981)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517417	
+517418	516435	Lecanicephalum		squatinae	(Yamaguti, 1934)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517418	
+517421	516436	Lecanicephalum		yorkei	(Southwell, 1925)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517421	
+517390	517098	Lintoniella		adherens	(Linton, 1924) Woodland, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517390	
+414469	508658	Molicola		thyrsitae	Robinson, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:414469	
+835949	835946	Oncomegas		aetobatidis	Campbell & Beveridge, 2009				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835949	
+508599	835947	Oncomegas		australiensis	Toth, Campbell & Schmidt, 1992				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508599	
+508601	835948	Oncomegas		paulinae	Toth, Campbell & Schmidt, 1992				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508601	
+508865	508742	Otobothrium		magnum	Southwell, 1924				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508865	
+105309	516959	Phyllobothrium		laciniatum	(Linton, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105309	
+517033	517007	Phyllobothrium		filiforme	Yamaguti, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517033	
+517072	517013	Phyllobothrium		triacis	Yamaguti, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517072	
+508837	508620	Prochristianella		minima	Friggens & Duszynski, 2005				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508837	
+508838	419291	Prochristianella		penaei	Kruse, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508838	
+508619	508573	Prochristianella		micracantha	Carvajal, Campbell & Cornford, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508619	
+508839	508579	Prochristianella		spinulifera	Beveridge & Jones, 2000				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508839	
+508840	508625	Prochristianella		trygonicola	Dollfus, 1946				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508840	
+835726	516433	Spinocephalum		rhinobatii	Deshmukh, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835726	
+516936	237823	Bilocularia		hyperapolytica	Obersteiner, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516936	
+516937	237823	Calyptrobothrium		minus	Linton, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516937	
+414476	237823	Calyptrobothrium		occidentale	Linton, 1900				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:414476	
+105302	237823	Monorygma		hyperapolytica	(Obersteiner, 1914)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105302	
+517038	237823	Phyllobothrium		hyperapolytica	(Obersteiner, 1914)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517038	
+105313	237823	Phyllobothrium		riggii	(Monticelli, 1893)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105313	
+517363	237823	Tetrabothrius		longicolle	Molin, 1858				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517363	
+517325	105196	Bothriocephalus		pilula	Leuckart, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517325	
+835925	516479	Bothriocephalus		neglectus	Loennberg, 1893				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835925	
+517347	516517	Amphicotyle		kurochkini	Tkachev, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517347	
+517518	836686	Anomotaenia		aurita	(Rudolphi, 1819) Fuhrmann, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517518	
+345185	345100	Anomotaenia		zederi	(Baird, 1853)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345185	
+508823	508611	Eutetrarhynchus		baeri	Lopez-Neyra & Diaz-Ungria, 1958				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508823	
+836685	836686	Glossocercus		cyprinodontis	Chandler, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836685	
+508809	508727	Nybelinia		karachii	Khurshid & Bilqees, 1988				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508809	
+345188	345111	Chaetophallus		umbrellus	(Fuhrmann, 1899)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345188	
+517416	516417	Lecanicephalum		simile	(Pintner, 1928) Schmidt, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517416	
+517420	508633	Lecanicephalum		unionifactor	(Shipley & Hornell, 1904)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517420	
+345213	345123	Neotetrabothrius		eudyptidis	(Lönnberg, 1896)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345213	
+345214	105234	Oriana		wilsoni	Leiper & Atkinson, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345214	
+508861	508727	Otobothrium		balli	Southwell, 1929				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508861	
+836090	508727	Otobothrium		karachii	Khurshid & Bilqees, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836090	
+508860	508727	Paranybelinia		balli	(Southwell, 1929)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508860	
+345219	345112	Porotaenia		brevis	Szpotanska, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345219	
+345220	345117	Porotaenia		fragilis	Szpotanska, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345220	
+345221	345110	Porotaenia		kowalewskii	Szpotanska, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345221	
+345222	345110	Porotaenia		macrocirrosa	Szpotanska, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345222	
+345223	345111	Porotaenia		siedleckii	Szpotanska, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345223	
+105162	836686	Taenia		aurita	Rudolphi, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105162	
+345225	345100	Taenia		zederi	Baird, 1853				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345225	
+345226	345114	Tetrabothrius		aichesoni	Leiper & Atkinson, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345226	
+345227	345122	Tetrabothrius		antarcticus	Fuhrmann, 1921				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345227	
+345228	345117	Tetrabothrius		auriculatus	Linstow, 1888				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345228	
+345113	345112	Tetrabothrius		brevis	(Szpotanska, 1917)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345113	
+345229	345114	Tetrabothrius		catherineae	Leiper & Atkinson, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345229	
+105235	345118	Tetrabothrius		cylindraceus	(Rudolphi, 1819)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105235	
+345230	345119	Tetrabothrius		graciloides	Nybelin, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345230	
+345231	345122	Tetrabothrius		polaris	Szpotanska, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345231	
+105387	508631	Tetrarhynchobothrium		setiense	Dollfus, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105387	
+517308	517300	Tylocephalum		aetiobatidis	(Shipley & Hornell, 1905)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517308	
+835719	516390	Tylocephalum		madhulatae	Andhare & Shinde, 1994				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835719	
+835720	516391	Tylocephalum		madrasensis	Andhare & Shinde, 1994				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835720	
+517309	516417	Tylocephalum		simile	Pintner, 1928				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517309	
+835721	516419	Tylocephalum		uarnak	Shipley & Hornell, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835721	
+835570	516437	Discobothrium		arrhynchum	Brooks, Mayes & Thorson, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835570	
+517345	105216	Abothrium		morrhuae	Cholodkovsky, 1918				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517345	
+517314	105216	Bothriocephalus		callariae	Linstow, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517314	
+517316	105216	Bothriocephalus		ellipticus	Linstow, 1880				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517316	
+517241	105216	Bothriocephalus		gadi		barbatulae	Subspecies	Rudolphi, 1810	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517241	
+517242	105216	Bothriocephalus		gadi		callariae	Subspecies	Rudolphi, 1810	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517242	
+517243	105216	Bothriocephalus		gadi		merluccii	Subspecies	Rudolphi, 1810	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517243	
+517244	105216	Bothriocephalus		gadi		morrhuae	Subspecies	Rudolphi, 1810	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517244	
+517245	105216	Bothriocephalus		gadi		redianus	Subspecies	Rudolphi, 1810	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517245	
+517322	105216	Bothriocephalus		lanceolatus	Linstow, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517322	
+517376	516660	Uncibilocularis		aurangabadensis	Deshmukh & Shinde, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517376	
+517372	105262	Acrobothrium		musculosum	Baer, 1948				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517372	
+517392	516685	Taenia		dysbiotos	MacCallum, 1921				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517392	
+517346	516518	Amphicotyle		ceratias	Tkachev, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517346	
+370507	105394	Amphiptyches		urna	Wagener, 1852				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:370507	
+851610	851606	Bothriocephalus		acheilognathi	Yamaguti, 1934				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:851610	
+508849	508694	Dasyrhynchus		thomasi	Palm, 2000				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508849	
+370501	370500	Gyrocotyle		meandrica	Mendivil-Herrera, 1946				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:370501	
+370505	370503	Gyrocotyle		urna		f. parvispinosa	Forma		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:370505	
+517036	159482	Phyllobothrium		giganteum	(Van Beneden, 1858) Southwell, 1930				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517036	
+508850	508690	Pseudogilquina		magna	Bilqees & Khurshid, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508850	
+851609	851608	Ptychobothrium		nayarensis	Malhotra, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:851609	
+851607	851606	Schyzocotyle		fluviatilis	Akhmerov, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:851607	
+517394	516702	Taenia		incognita	MacCallum, 1921				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517394	
+517396	517298	Taenia		patini	MacCallum, 1921				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517396	
+517377	516703	Uncibilocularis		indiana	Jadhav, Shinde, Muralidhar & Mohekar, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517377	
+517378	516704	Uncibilocularis		indica	Subhapradha, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517378	
+517380	516754	Uncibilocularis		shastri	Jadhav, Shinde, Muralidhar & Mohekar, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517380	
+517381	516756	Uncibilocularis		somnathii	Deshmukh, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517381	
+508702	836075	Grillotia		kovalevae	Palm, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:508702	
+105397	836076	Grillotia		rowei	Campbell, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105397	
+345187	345138	Bothriocephalus		tectus	Linstow, 1892				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345187	
+345191	345138	Cordicephalus		tectus	(Linstow, 1892)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345191	
+345207	345138	Diphyllobothrium		tectum	(Linstow, 1892)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:345207	
+517359	345138	Diphyllobothrium		ursi	Rausch, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517359	
+517429	105290	Discobothrium		fallax	Van Beneden, 1871				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517429	
+517337	105214	Atelemerus		acanthodes	Guiart, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517337	
+516469	105296	Bothriocephalus		echeneis	Leuckart, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516469	
+835771	835770	Discobothrium		myliobatidis	Dailey & Mudry, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835771	
+105213	105214	Echinophallus		settii	(Ariola, 1895)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105213	
+517317	516481	Bothriocephalus		ganapattii	Rao, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517317	
+517324	516481	Bothriocephalus		penetratus	Subhapradha, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517324	
+387896	849428	Calliobothrium		barbarae	Ivanov & Brooks, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:387896	
+105269	849429	Calliobothrium		eschrichtii	(Van Beneden, 1849)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105269	
+516798	849430	Calliobothrium		evani	Caira, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516798	
+516801	849431	Calliobothrium		hayhowi	Nasin, Caira & Euzet, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516801	
+105270	849432	Calliobothrium		leuckarti	Van Beneden, 1850				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105270	
+105271	849433	Calliobothrium		lintoni	Euzet, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105271	
+387897	849434	Calliobothrium		lunae	Ivanov & Brooks, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:387897	
+516803	849435	Calliobothrium		pellucidum	Riser, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516803	
+516804	849436	Calliobothrium		riseri	Nasin, Caira & Euzet, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516804	
+516805	849437	Calliobothrium		schneiderae	Pickering & Caira, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516805	
+516806	849439	Calliobothrium		violae	Nasin, Caira & Euzet, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516806	
+517338	516493	Echinophallus		loennbergi	(Ariola, 1895)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517338	
+836125	836124	Macrobothridium		djeddensis	Pramanik & Manna, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:836125	
+517400	517195	Macrobothridium		euterpes	Neifar, Tyler & Euzet, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517400	
+517401	517211	Macrobothridium		rhynchobati	Khalil & Abdul-Salam, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517401	
+517213	836123	Macrobothridium		sinensis	Li & Wang, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517213	
+517402	517212	Macrobothridium		syrtensis	Neifar, Tyler & Euzet, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517402	
+517333	516481	Penetrocephalus		penetratus	(Subhapradha, 1955)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517333	
+516855	516884	Phoreiobothrium		triloculatum	Linton, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:516855	
+517384	105323	Phyllobothrideum		acanthiaevulgaris	Olsson, 1866				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517384	
+517023	105327	Phyllobothrium		caudatum	(Zschokke & Heitz, 1914)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517023	
+517374	516827	Phyllobothroides		hutsoni	Southwell, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517374	
+517375	516828	Phyllobothroides		kerkhami	Southwell, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517375	
+517388	105327	Prionacestus		bipartitus	Mete & Euzet, 1996				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517388	
+414466	508636	Prochristianella		aetobatis	Robinson, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:414466	
+835968	419292	Rhynchobothrium		binuncum	Linton, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835968	
+159487	105323	Trilocularia		acanthiae	Olsson, 1869				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:159487	
+105324	105323	Trilocularia		gracilis	Olsson, 1869				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:105324	

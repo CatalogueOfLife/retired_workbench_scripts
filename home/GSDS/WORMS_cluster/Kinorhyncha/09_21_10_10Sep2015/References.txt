@@ -1,0 +1,125 @@
+ReferenceID	Authors	Year	Title	Details	
+663	Howson, C.M.; Picton, B.E. (Ed.)	1997	The species directory of the marine fauna and flora of the British Isles and surrounding seas. <i>Ulster Museum Publication</i>, 276. The Ulster Museum: Belfast, UK. ISBN 0-948150-06-8. vi, 508 (+ cd-rom) pp.		
+1318			UNESCO-IOC Register of Marine Organisms		
+1387	Neuhaus, B.; van der Land, J.	2001	Cephalorhyncha (=Loricifera, Priapulida, Kinorhyncha, Nematomorpha), <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+6684	SCHEPOTIEFF,  A.	1907	Zur Systematik der Nematoideen		
+6737	Greeff, R.	1869	Untersuchungen über einige merkwürdige Thiergruppen des Arthropoden- und Wurm-Typus		
+6744	REINHARD, W.	1881	Uber Echinoderes und Desmoscolex der Umgebung von Odessa		
+9269	Muller, Y.	2004	Faune et flore du littoral du Nord, du Pas-de-Calais et de la Belgique: inventaire. [Coastal fauna and flora of the Nord, Pas-de-Calais and Belgium: inventory]. Commission Régionale de Biologie Région Nord Pas-de-Calais: France. 307 pp.		
+57674	Higgins, R. P.	1983	The Atlantic barrier reef ecosystem at Carrie Bow Cay		
+75750	Bacescu, M., E. Dumitrescu, A. Marcus, G. Paladian & G. Mayer	1963	Données quantitatives sur la faune pétricole de la mer Noire à Agigea (secteur roumain), dans les conditions spéciales de l'année 1961.		
+98858	Lang, K.	1936	Undersökningar över Öresund. Untersuchungen aus dem Öresund. XXI. Einige Kleintiere aus dem Öresund.		
+132593	Neuhaus, B.; Higgins, R. P.	2010	Phylum Kinorhyncha: mud dragons, New Zealand inventory of biodiversity: 2		
+132823	BODC	2009	Species list from the British Oceanographic Data Centre.		
+141266	Shirley, T. C.	2009	Kinorhyncha of the Gulf of Mexico,		
+141756			CeDAMar (Census of the Diversity of Abyssal Marine Life)		
+165076	Ostmann, A.; Nordhaus, I.; Sørensen, M.V.	2012	First recording of kinorhynchs from Java, with the description of a new brackish water species from a mangrove-fringed lagoon Mar. Biodiv. 42(2): 79-91.		
+166046	Chitwood, B.	1951	Echinoderella steineri New Species (Scolecida, Echinodera). The Texas		
+167860	Abe, Y.	1930	Das Vorkommen von Echinoderes in den japanischen Gewässern		
+167861	Adrianov, A. V.; Higgins, R. P.	1996	Pycnophyes parasanjuanensis, a new kinorhynch (Kinorhyncha: Homalorhagida: Pycnophyidae) from San Juan Island		
+167862	Adrianov, A.V. & Malakhov, V.V.	1999	Cephalorhyncha of the world ocean. 328		
+167863	Adrianov, A.V.	1989	The first report on Kinorhyncha of the Sea of Japan. Zoologichesky Zhurnal 68(7): 17-27. [in Russian]		
+167864	Adrianov, A. V.	1995	The first description of kinorhynchs from the Spitsbergen Archipelago (Greenland Sea), with a key to the genus Pycnophyes		
+167865	Adrianov, A.V., Murakami, C. & Shirayama, Y.	2002	: Echinoderes aureus n. sp. (Kinorhyncha: Cyclorhagida) from Tanabe Bay (Honshu Island), Japan, with a key to the genus Echinoderes. Species Diversity 7: 47-66.  		
+167866	Adrianov, A. V.; Murakami, C.; Shirayama, Y.	2002	Taxonomic study of the Kinorhyncha in Japan. II. Condyloderes setoensis, a new species (Kinorhyncha: Cyclorhagida) from Tanabe Bay (Honshu) – first representative of the genus in the Pacific Ocean		
+167867	Adrianov, A. V.; Murakami, C.; Shirayama, Y.	2002	Taxonomic study of the Kinorhyncha in Japan. III. Echinoderes sensibilis n. sp		
+167876	Bacescu, M.	1968	Class Kinorhyncha. Determination of fauna of the Black and Azov Seas		
+167877	Bacescu, M.& Bacescu, E.	1956	Kinorhynchii – reprezentanti ai unei clase de animale, noua pentru fauna Romineasca.Communicarile Academiei R. P. R. 6(4): 543-549.		
+167878	Bauer-Nebelsick, M.	1995	Zelinkaderes klepali sp. n., from shallow water sands of the Red Sea (Kinorhyncha: Cyclorhagida: Zelinkaderidae). Annalen des Naturhistorischen Museums in		
+167879	Bauer-Nebelsick, M.	1996	Antygomonas oreas sp. n., a new deep sea kinorhynch from the Pacific Ocean (Kinorhyncha: Cyclorhagida). Annalen des Naturhistorischen Museums in		
+167880	Blake, C. H.	1930	Three new species of worms belonging to the order Echinodera		
+167881	Brown, R.; Higgins, R. P.	1983	A new species of Kinorhynchus (Homalorhagida, Pycnophyidae) from Australia with a redescription and range extension of other Kinorhyncha from		
+167882	Chang, C. Y.; Song, Y. H.	2002	Echinoderes lanceolatus, a new kinorhynch from Korea (Kinorhyncha		
+167883	Claparède, A.R.E.	1863	Zur Kenntnis der Gattung Echinoderes Duj. Beobachtungen über Anatomie und Entwicklungsgeschichte wirbelloser Thiere an der Küste von Normandie angestellt.		
+167884	Delamareeboutteville, D.; C	1957	Sur la présence des Echinodères de la famille des Cateriidae Gerlach dans les eaux souterraines littorales de l'Angola		
+167885	d'Hondt, J.-L.	1973	Contribution a l'étude de la microfaune interstitielle des plages de l'Ouest Algérien. Vie et Millieu 23(2) série A: 227-241.  		
+167886	Dujardin, F.	1851	Sur un petit animal marin, l'Echinodère, formant un type intermédiaire entre les Crustacés et les Vers. Annales des Scienes naturelles (3) Zoologie 15: 158-173, pl. 3.		
+167887	GaOrdóñez, D., Pardos, F. & Benito, J.	2008	Three new Echinoderes (Kinorhyncha, Cyclorhagida) from North Spain, with new evolutionary aspects in the genus. Zoologischer Anzeiger 247: 95-111.		
+167888	Gerlach, S. A.	1956	Über einen aberranten Vertreter der Kinorhynchen aus dem Küstengrundwasser		
+167889	Gerlach, S. A.	1969	Cateria submersa sp. n., ein cryptorhager Kinorhynch aus dem sublitoralen Mesopsammal der Nordsee		
+167890	Herranz, M.; Thormar, J.; Benito, J.; Sánchez, N.; Sørensen, M. V.	2012	Meristoderes gen. nov., a new kinorhynch genus, with the description of two new species and their implications for echinoderid phylogeny (Kinorhyncha		
+167891	Higgins, R. P.; Adrianov, A. V.	1991	Kinorhyncha from the Black Sea. 1. Redescription of Kinorhynchus paraneapolitanus		
+167892	Higgins, R. P.; Korczynski, R. E.	1989	Two new species of Pycnophyes (Homalorhagida, Kinorhyncha) from the Canadian coast of the Beaufort Sea		
+167893	Higgins, R.P. & Kristensen, R.M.	1988	Kinorhyncha from Disko Island, West Greenland. Smithsonian Contributions to Zoology 458: 1-56.		
+167894	Higgins, R. P.; Shirayama, Y.	1990	Dracoderidae, a new family of the cyclorhagid Kinorhyncha from the Inland		
+167895	Higgins, R. P.	1960	A new species of Echinoderes (Kinorhyncha) from Puget Sound		
+167896	Higgins, R. P.	1961	Three new homalorhage kinorhynchs from the San Juan Archipelago, Washington		
+167897	Higgins, R. P.	1964	Redescription of the kinorhynch Echinoderes remanei (Blake		
+167898	Higgins, R. P.	1964	Three new kinorhynchs from the North Carolina coast		
+167900	Higgins, R.P.	1966	: Faunistic studies in the Red Sea (in winter, 1961-1962), Part II: Kinorhynchs from the area of Al-Ghardaqa. Zoologische Jahrbücher Abteilung für Systematik, Ökologie und Geographie der Tiere 93: 118-126.		
+167901	Higgins, R. P.	1966	Echinoderes arlis, a new kinorhynch from the Arctic Ocean		
+167902	Higgins, R.P.	1967	The Kinorhyncha of New-Caledonia.		
+167903	Higgins, R. P.	1968	Taxonomy and postembryonic development of the Cryptorhagae, a new suborder for the mesopsammic kinorhynch genus Cateria		
+167904	Higgins, R. P.	1969	Indian Ocean Kinorhyncha: 1. Condyloderes and Sphenoderes, new cyclorhagid genera		
+167905	Higgins, R. P.	1969	Indian Ocean Kinorhyncha: 2. Neocentrophyidae, a new homalorhagid family		
+167906	Higgins, R.P.	1977	: Redescription of Echinoderes dujardinii (Kinorhyncha) with descriptions of closely related species. Smithsonian Contributions to Zoology 248: 1-26.		
+167907	Higgins, R. P.	1977	Two new species of Echinoderes (Kinorhyncha) from South Carolina		
+167908	Higgins R P n sp; E	1978	Echinoderes gerardi riedli (Kinorhyncha) from the Gulf of Tunis		
+167909	Higgins, R. P.	1982	Three new species of Kinorhyncha from Bermuda		
+167911	Higgins, R. P.	1985	The genus Echinoderes (Kinorhyncha: Cyclorhagida) from the English Channel		
+167912	Higgins, R. P.	1986	A new species of Echinoderes (Kinorhyncha: Cyclorhagida) from a coarse-sand California beach		
+167913	Higgins, R. P.	1986	Redescription of Echinoderes pilosus (Kinorhyncha: Cyclorhagida		
+167914	Higgins, R.P.	1990	Zelinkaderidae, a new family of cyclorhagid Kinorhyncha. Smithsonian Contributions to Zoology 500: 1-26.		
+167915	Higgins, R. P.	1991	Pycnophyes chukchiensis, a new homalorhagid kinorhynch from the Arctic Sea		
+167916	Higgins, R. P.; Rao, G. C.	1979	Kinorhynchs from the Andaman Islands		
+167917	Huys, R.; Coomans, A.	1989	Echinoderes higginsi sp.n. (Kinorhyncha, Cyclorhagida) from the southern North Sea with a key to the genus Echinoderes Claparede		
+167918	Johnston, T. H.	1938	Report on the Echinoderida. Australasian Antarctic Expedition 1911-14		
+167919	Karling, T.G.	1955	Echinoderes levanderi n. sp. (Kinorhyncha) aus der Ostsee. Arkiv för Zoologi 7(10): 189-192.		
+167920	Kirsteuer, E.	1964	Zur Kenntnis der Kinorhynchen Venezuelas. Zoologischer Anzeiger 173: 388-393.		
+167921	Lang, K.	1949	Echinoderida. Further Zoological Results of the Swedish Antarctic Expedition 1901-1903 4: 1-22.		
+167922	Lang, K.	1953	Reports of the Lund University Chile Expedition 1948-1949. 9. Echinoderida. Lunds Universitets Årsskrift N. F. Avd. 2 49(4): 3-8.		
+167923	Lemburg, C.	2002	A new kinorhynch Pycnophyes australensis sp. n. (Kinorhyncha: Homalorhagida: Pycnophyidae) from Magnetic		
+167924	Lou T.-H.	1934	Sur la présence d'un nouveau kinorhynque a Tchefou: Echinoderes tchefouensis sp. nov. Contribution du Laboratoire de Zoologie Academie Nationale de Peiping 1(4): 1-9, pl. 1.		
+167925	Lundbye, H.; Rho, H. S.; Sorensen, M. V.	2011	Echinoderes rex n. sp (Kinorhyncha: Cyclorhagida), the largest Echinoderes species found so far		
+167926	Martorelli, S.; Higgins, R. P.	2004	Kinorhyncha from the stomach of the shrimp Pleoticus muelleri (Bate, 1888) from		
+167927	McIntyre, A. D.	1962	The class Kinorhyncha (Echinoderida) in British waters		
+167928	Moore, P. G.	1973	Campyloderes macquariae Johnston, 1938 (Kinorhyncha: Cyclorhagida) from the northern hemisphere		
+167929	Murakami, C.; Adrianov, A.; Shirayama, Y.	2001	Taxonomic study of the Kinorhyncha in Japan: I. Pycnophyes tubuliferus Adrianov, (Kinorhyncha: Homalorhagida) from Japan		
+167930	Nebelsick, M.	1990	Antygomonas incomitata gen. et sp. n. (Cyclorhagida, Kinorhyncha) and its phylogenetic relationships		
+167931	Nebelsick, M.	1992	Sensory spots of Echinoderes capitatus (Zelinka		
+167932	Neuhaus, B. & Blasche, T.	2006	Fissuroderes, a new genus of Kinorhyncha (Cyclorhagida) from the deep sea and continental shelf of New Zealand and from the continental shelf of Costa Rica. Zoologischer Anzeiger 245: 19-52.		
+167933	Neuhaus, B. & Sørensen, M.V.	2013	Populations of Campyloderes sp. (Kinorhyncha, Cyclorhagida): one species with significant morphological variation? Zoologischer Anzeiger 252: 48-75.		
+167934	Neuhaus, B.	2004	Description of Campyloderes cf. vanhoeffeni (Kinorhyncha, Cyclorhagida) from the Central American East Pacific deep sea with a review of a genus		
+167935	Neuhaus, B.; Pardos, P.; Sørensen, M. V.; Higgins, R. P.	2013	Redescription, morphology, and biogeography of Centroderes spinosus		
+167936	Nyholm, K.-G.	1947	: Campyloderes – an "antarctic" genus of Echinoderida off the West coast of Sweden. Arkiv för Zoologi 39 A(13): 1-6.		
+167937	Nyholm, K.-G.	1947	: Studies in the Echinoderida. Arkiv för Zoologi 39 A(14): 1-36, pls. I-II.		
+167938	Omer-Cooper, J.	1957	: Deux nouvelles especes de Kinorhyncha en Provenance de l'Afrique du Sud. Bulletin mensuel de la Société Linnéenne de Lyon 26(8): 213-216.		
+167939	Pallares, R.E.	1966	Nota sobre Echinoderes pilosus Lang, 1949 (Aschelminthes, Kinorhyncha). Physis Revista de la Asociacion Argentina de Ciencias naturales 26(71): 101-106.		
+167940	Pardos, F., Higgins, R.P. & Benito, J.	1998	Two new Echinoderes (Kinorhyncha, Cyclorhagida) from Spain, including a reevaluation of kinorhynch taxonomic characters. Zoologischer Anzeiger 237: 195-208.		
+167941	Reimer, L.	1963	Zur Verbreitung der Kinorhyncha in der mittleren Ostsee. Zoologischer Anzeiger 171(11/12): 440-447.		
+167942	Reinhard, W.	1885	Kinorhyncha (Echinoderes), leur structure anatomique et leur place dans le système. Travaux de la Société des naturalistes à l’Université Impériale de Kharkow 19: 205-305, pls. VIII-XII. [in Russian]		
+167943	Reinhard, W.	1887	Kinorhyncha (Echinoderes), ihr anatomischer Bau und ihre Stellung im System. Zeitschrift für wissenschaftliche Zoologie 45: 401-467, pls. XX-XXII.		
+167944	Remane, A.	1936	Kinorhyncha (= Echinodera).		
+167945	Sánchez, N.; Pardos, F.; Herranz, M.; Benito nov, J.; aulacodes sp nov, P.	2011	Pycnophyes dolichurus sp. two new kinorhynchs from Spain with a reevaluation of homalorhagid taxonomic characters		
+167946	Sánchez-Tocino, L.; Tierno de Figueroa; J M López-Rodríguez; J, M.; Liébanas, G.	2011	First record of Echinoderes dujardinii Claparède, 1863 (Kinorhyncha, Cyclorhagida) in Iberian Peninsula coast waters		
+167947	Schmidt, P.	1974	Interstitielle Fauna von Galapagos X. Kinorhyncha. Mikrofauna des Meeresbodens 43: 1-15.		
+167948	Sheremetevskij, A. M.	1974	Kinorhyncha of the Black Sea		
+167949	Song, Y. H.; Chang, C. Y.	2001	First record of Campyloderes macquariae Johnston (Kinorhyncha, Cyclorhagida, Centroderidae) from the North Pacific		
+167950	Sørensen, M. V.	2007	A new species of Antygomonas (Kinorhyncha: Cyclorhagida) from the Atlantic coast of		
+167951	Sørensen, M. V.; Pardos, F.	2008	Kinorhynch systematics and biology – an introduction to the study of kinorhynchs, inclusive identification keys to the genera		
+167952	Sørensen, M. V.; Rho, H. S.	2009	Triodontoderes anulap gen. et sp. nov. – a new cyclorhagid kinorhynch genus and species from Micronesia		
+167953	Sørensen, M. V.; Thormar, J.	2010	Wollunquaderes majkenae gen. et sp nov. – a new cyclorhagid kinorhynch genus and species from		
+167954	Sørensen, M. V.	2006	New kinorhynchs from Panama, with a discussion of some phylogentically significant cuticular structures		
+167955	Sørensen, M. V.	2008	A new kinorhynch genus from the Antarctic deep sea and a new species of Cephalorhyncha from Hawaii (Kinorhyncha: Cyclorhagida		
+167956	Sørensen, M. V.; Heiner, I.; Ziemer, O.	2005	A new species of Echinoderes from Florida (Kinorhyncha: Cyclorhagida		
+167957	Sørensen, M. V.; Heiner, I.; Ziemer, O.; Neuhaus, B.	2007	Tubulideres seminoli gen. et sp. nov. and Zelinkaderes brightae sp. nov		
+167958	Sørensen, M. V.; Herranz, M.; Rho, H. S.; W-Min, G.; Yamasaki, H.; Sánchez, N.; Pardos, F.	2012	On the genus Dracoderes Higgins & Shirayama, (Kinorhyncha: Cyclorhagida) with a redescription of its type species, D. abei, and a description of a new species from Spain		
+167959	Sørensen, M. V.; Jørgensen, A.; Boesgard, T. M.	2000	A new Echinoderes (Kinorhyncha: Cyclorhagida) from a submarine cave in New		
+167960	Sørensen, M. V.; Pardos, F.; Herranz, M.; Rho, H. S.	2010	New data on the genus Paracentrophyes (Homalorhagida, Kinorhyncha), with the description of a new species from		
+167961	Sørensen, M. V.; Rho, H. S.; Kim, D.	2010	A New Species of Condyloderes (Cyclorhagida		
+167962	Sørensen, M. V.; Rho, H. S.; Kim D S indicus Higgins	2010	A new species of the rare genus Sphenoderes (Cyclorhagida, Kinorhyncha), with differential notes on		
+167963	Sørensen, M.V., Rho, H.S. & Min, W.-G., Kim, D. & Chang, C.Y.	2012	: An exploration of Echinoderes (Kinorhyncha: Cyclorhagida) in Korean and neighboring waters, with the description of four new species and a redescription of E. tchefouensis Lou, 1934. Zootaxa.		
+167964	Sørensen, M. V.; Rho, H. S.; W-Min, G.; Kim, D.; Chang, C. Y.	2012	Occurrence of the newly described kinorhynch genus Meristoderes (Cyclorhagida: Echinoderidae) in Korea, with the description of four new species		
+167965	Southern, R.	1914	Clare Island Survey. Nemathelmia, Kinorhyncha, and Chaetognatha. Proceedings of the Royal Irish Academy 31 Part 54 Sect. 3: 1-80, pls. I-XII.		
+167966	Thormar, J.; Sørensen, M. V.	2010	Two new species of Echinoderes (Kinorhyncha: Cyclorhagida) from the Solomon Islands		
+167967	Timm, R. W.	1958	Two new species of Echinoderella (phylum Kinorhyncha) from the Bay of Bengal		
+167968	hamasaki, Y.; Kajihara, H.	2012	A new brackish-water species of Echinoderes (Kinorhyncha: Cyclorhagida) from the Seto Inland		
+167969	Zelinka, C.	1908	Zur Anatomie der Echinoderen. Zoologischer Anzeiger 33(19/20): 629-647.		
+167970	Zelinka, C.	1912	Die Spermatozoen der Echinoderen und ihre Genese.		
+167971	Zelinka, C.	1913	Die Echinoderen der Deutschen Südpolar-Expedition 1901-1903. Deutsche Südpolar Expedition XIV Zoologie VI: 419-437, pl. XXXIX.		
+167972	Zelinka, K.	1928	Monographie der Echinodera. 396		
+167973	Neuhaus, B.	2013	Kinorhyncha (= Echinodera), in: Schmidt-Raesa, A. (2013). Handbook of Zoology. Gastrotricha, Cycloneuralia and Gnathifera: 1. Nematomorpha, Priapulida, Kinorhyncha, Loricifera. Handbook of Zoology (2010), :		
+167986	Panceri, P.	1878	Osservazioni intorno a nuove forme di vermi nematodi marini. Atti della R. Academia delle Scienze Fisiche e Matematiche 7(10): 1-10, pl. 1.		
+167987	Schepotieff, A.	1907	: Die Echinoderiden. Zeitschrift für wissenschaftliche Zoologie 88(2): 291-326, pls. XVII-XX.		
+167988	Steiner, G.	1919	Zur Kenntnis der Kinorhyncha, nebst Bemerkungen über ihr Verwandtschaftsverhältnis zu den Nematoden		
+196289	Sørensen, M. V.; Landers, S. C.	2014	Two new species of Echinoderes (Kinorhyncha: Cyclorhagida) from the Gulf of Mexico		

@@ -1,0 +1,16 @@
+ReferenceID	Authors	Year	Title	Details	
+42			ITIS database		
+1219	Wesenberg-Lund, E.	1933	The collections of gephyreans in the Royal Museum of Natural History of Belgium. <i>Bull. Mus. royal d'Hist. Nat. Belg./Med. Kon. Natuurhist. Mus. Belg. 9(6)</i>: 1-16		
+1318	Land J. van der (ed)	2008	UNESCO-IOC Register of Marine Organisms (URMO)		
+1387	Neuhaus, B.; van der Land, J.	2001	Cephalorhyncha (=Loricifera, Priapulida, Kinorhyncha, Nematomorpha), <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+2901			North-West Atlantic Ocean species (NWARMS)		
+2930	Brunel, P.; Bosse, L.; Lamarche, G.	1998	Catalogue of the marine invertebrates of the estuary and Gulf of St. Lawrence	Canadian Special Publication of Fisheries and Aquatic Sciences, 126. 405 p	
+4179	Clarke, A.; Johnston, N.M	2003	Antarctic marine benthic diversity	Oceanography and Marine Biology: an Annual Review. 41: 47-114	
+9269	Muller, Y.	2004	Faune et flore du littoral du Nord, du Pas-de-Calais et de la Belgique: inventaire. [Coastal fauna and flora of the Nord, Pas-de-Calais and Belgium: inventory]	Commission Régionale de Biologie Région Nord Pas-de-Calais: France. 307 pp	
+127067	Adrianov, A. V.; Malakhov, V. V.; Tchesunov, A. V.; Tzetlin, A. B.	1989	A dwarf priapulid Tubiluchus arcticus sp. n. from the White sea	Priapulomorpha, Tubiluchidae). Zoologicheskii Zhurnal. 68(3), 126-131	
+127068	Adrianov, A.V., V.V. Malakhov	1991	First findings of dwarf priapulids of the genus Tubiluchus (Priapulida, Tubiluchidae) in Oceania (New-Hebrides). Zool. Zhurn. 70 (12): 23-32.		
+132609	van der Land, J.	2010	Phylum Priapulida: penis worms, New Zealand inventory of biodiversity: 2	Kingdom Animalia: Chaetognatha, Ecdysozoa, Ichnofossils. in: Gordon, D.P. (Ed : 476-479	
+138886	Todaro, A. M.; Shirley, T. C.	2003	A new meiobenthic priapulid (Priapulida Tubiluchidae) from a Mediterranean submarine cave	Ital. J. Zool. 70: 79-87	
+147411			PESI (A Pan-European Species directories Infrastructure) focal points		
+165516	Dyntaxa	2013	Swedish Taxonomic Database		
+192633	Trott, T. J.	2004	Cobscook Bay inventory: a historical checklist of marine invertebrates spanning 162 years	Northeastern Naturalist. 11, 261-324	

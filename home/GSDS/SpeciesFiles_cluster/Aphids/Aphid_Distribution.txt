@@ -1,0 +1,389 @@
+﻿AcceptedTaxonID	DistributionElement	StandardInUse
+1159016	ABT	TDWG Level 3 code
+1159018	ABT	TDWG Level 3 code
+1159021	1	TDWG Level 1 code
+1159021	Baltic	text
+1159023	GER	TDWG Level 3 code
+1159027	CHI	TDWG Level 3 code
+1159031	KGZ	TDWG Level 3 code
+1159034	SAK	TDWG Level 3 code
+1159036	YAK	TDWG Level 3 code
+1159037	YAK	TDWG Level 3 code
+1159040	CHN	TDWG Level 3 code
+1159042	KAZ	TDWG Level 3 code
+1159044	KRA	TDWG Level 3 code
+1159047	CHS	TDWG Level 3 code
+1159048	CHN	TDWG Level 3 code
+1159049	GRB	TDWG Level 3 code
+1159051	CHN	TDWG Level 3 code
+1159052	CHN	TDWG Level 3 code
+1159054	CHM	TDWG Level 3 code
+1159066	FRA	TDWG Level 3 code
+1159071	UZB	TDWG Level 3 code
+1159074	QLD	TDWG Level 3 code
+1159079	MON	TDWG Level 3 code
+1159082	GRB	TDWG Level 3 code
+1159085	KAZ	TDWG Level 3 code
+1159087	MON	TDWG Level 3 code
+1159092	CTA	TDWG Level 3 code
+1159093	CTA	TDWG Level 3 code
+1159094	CTA	TDWG Level 3 code
+1159097	CTA	TDWG Level 3 code
+1159098	CTA	TDWG Level 3 code
+1159099	CTA	TDWG Level 3 code
+1159101	CHN	TDWG Level 3 code
+1159104	CHN	TDWG Level 3 code
+1159105	CHN	TDWG Level 3 code
+1159107	CTA	TDWG Level 3 code
+1159108	CTA	TDWG Level 3 code
+1159109	CTA	TDWG Level 3 code
+1159110	CTA	TDWG Level 3 code
+1159111	CTA	TDWG Level 3 code
+1159113	CTA	TDWG Level 3 code
+1159114	CTA	TDWG Level 3 code
+1159115	CTA	TDWG Level 3 code
+1159116	CTA	TDWG Level 3 code
+1159117	CTA	TDWG Level 3 code
+1159118	CTA	TDWG Level 3 code
+1159119	CTA	TDWG Level 3 code
+1159120	CTA	TDWG Level 3 code
+1159121	CTA	TDWG Level 3 code
+1159122	CTA	TDWG Level 3 code
+1159123	CTA	TDWG Level 3 code
+1159124	CTA	TDWG Level 3 code
+1159126	CTA	TDWG Level 3 code
+1159128	CTA	TDWG Level 3 code
+1159130	CTA	TDWG Level 3 code
+1159132	CTA	TDWG Level 3 code
+1159133	CTA	TDWG Level 3 code
+1159134	CTA	TDWG Level 3 code
+1159135	CTA	TDWG Level 3 code
+1159137	CTA	TDWG Level 3 code
+1159139	CTA	TDWG Level 3 code
+1159143	37    	TDWG Level 2 code
+1159144	CTA	TDWG Level 3 code
+1159145	CTA	TDWG Level 3 code
+1159147	MON	TDWG Level 3 code
+1159149	CTA	TDWG Level 3 code
+1159151	CTA	TDWG Level 3 code
+1159152	KRA	TDWG Level 3 code
+1159154	CTA	TDWG Level 3 code
+1159158	ABT	TDWG Level 3 code
+1159163	71    	TDWG Level 2 code
+1159163	72    	TDWG Level 2 code
+1159164	MAN	TDWG Level 3 code
+1159166	NWJ	TDWG Level 3 code
+1159168	ABT	TDWG Level 3 code
+1159170	MAG	TDWG Level 3 code
+1159171	KRA	TDWG Level 3 code
+1159172	MAN	TDWG Level 3 code
+1159175	KRA	TDWG Level 3 code
+1159180	SPA	TDWG Level 3 code
+1159183	MYA	TDWG Level 3 code
+1159185	MYA	TDWG Level 3 code
+1159190	ABT	TDWG Level 3 code
+1159194	KRA	TDWG Level 3 code
+1159195	KRA	TDWG Level 3 code
+1159198	LBS	TDWG Level 3 code
+1159200	LBS	TDWG Level 3 code
+1159205	KRA	TDWG Level 3 code
+1159206	KRA	TDWG Level 3 code
+1159210	KRA	TDWG Level 3 code
+1159212	KRA	TDWG Level 3 code
+1159213	KRA	TDWG Level 3 code
+1159300	POL	TDWG Level 3 code
+1159300	Poland	text
+1159409	ABT	TDWG Level 3 code
+1159410	ABT	TDWG Level 3 code
+1159411	ABT	TDWG Level 3 code
+1159412	ABT	TDWG Level 3 code
+1159414	ABT	TDWG Level 3 code
+1159416	ABT	TDWG Level 3 code
+1159418	ABT	TDWG Level 3 code
+1159421	1	TDWG Level 1 code
+1159421	Baltic	text
+1159423	1	TDWG Level 1 code
+1159423	Baltic	text
+1159424	1	TDWG Level 1 code
+1159424	Baltic	text
+1159425	1	TDWG Level 1 code
+1159425	Baltic	text
+1159426	1	TDWG Level 1 code
+1159426	Baltic	text
+1159427	GRB	TDWG Level 3 code
+1159429	1	TDWG Level 1 code
+1159429	Baltic	text
+1159431	PRM	TDWG Level 3 code
+1159432	1	TDWG Level 1 code
+1159432	Baltic	text
+1159434	KRA	TDWG Level 3 code
+1159439	KRA	TDWG Level 3 code
+1159441	1	TDWG Level 1 code
+1159441	Baltic	text
+1159443	CTA	TDWG Level 3 code
+1159445	GER	TDWG Level 3 code
+1159447	CTA	TDWG Level 3 code
+1159449	COL	TDWG Level 3 code
+1159450	COL	TDWG Level 3 code
+1159452	COL	TDWG Level 3 code
+1159454	COL	TDWG Level 3 code
+1159456	BRC	TDWG Level 3 code
+1159458	BRC	TDWG Level 3 code
+1159462	CHM	TDWG Level 3 code
+1159469	MYA	TDWG Level 3 code
+1159472	CHN	TDWG Level 3 code
+1159478	CHN	TDWG Level 3 code
+1159481	CHM	TDWG Level 3 code
+1159486	MON	TDWG Level 3 code
+1159489	MAG	TDWG Level 3 code
+1159490	71    	TDWG Level 2 code
+1159490	72    	TDWG Level 2 code
+1159493	MAN	TDWG Level 3 code
+1159495	MAG	TDWG Level 3 code
+1159496	KRA	TDWG Level 3 code
+1159497	MAN	TDWG Level 3 code
+1159499	MAN	TDWG Level 3 code
+1159503	ABT	TDWG Level 3 code
+1159506	CTA	TDWG Level 3 code
+1159508	CTA	TDWG Level 3 code
+1159510	CHN	TDWG Level 3 code
+1159511	CHN	TDWG Level 3 code
+1159513	GER	TDWG Level 3 code
+1159515	MON	TDWG Level 3 code
+1159517	CHN	TDWG Level 3 code
+1159519	CTA	TDWG Level 3 code
+1159523	CHN	TDWG Level 3 code
+1159526	CTA	TDWG Level 3 code
+1159527	MON	TDWG Level 3 code
+1159528	CHN	TDWG Level 3 code
+1159529	CHN	TDWG Level 3 code
+1159532	CHN	TDWG Level 3 code
+1159534	CHN	TDWG Level 3 code
+1159540	NEV	TDWG Level 3 code
+1159557	GER	TDWG Level 3 code
+1159560	1	TDWG Level 1 code
+1159560	Baltic	text
+1159562	MON	TDWG Level 3 code
+1159564	CHM	TDWG Level 3 code
+1159566	CHM	TDWG Level 3 code
+1159569	CHM	TDWG Level 3 code
+1159571	1	TDWG Level 1 code
+1159571	Baltic	text
+1159573	CHM	TDWG Level 3 code
+1159576	CHM	TDWG Level 3 code
+1159578	CHM	TDWG Level 3 code
+1159583	1	TDWG Level 1 code
+1159583	Baltic	text
+1159677	30    	TDWG Level 2 code
+1159677	31    	TDWG Level 2 code
+1159679	1	TDWG Level 1 code
+1159679	Baltic	text
+1160818	GNL	TDWG Level 3 code
+1160820	Fossils found in North Greenland	text
+1160820	GNL	TDWG Level 3 code
+1160940	NEV	TDWG Level 3 code
+1160951	1	TDWG Level 1 code
+1160951	Baltic	text
+1160952	1	TDWG Level 1 code
+1160952	Baltic	text
+1160954	1	TDWG Level 1 code
+1160954	Baltic	text
+1160957	CHM	TDWG Level 3 code
+1160960	1	TDWG Level 1 code
+1160960	Baltic	text
+1160961	1	TDWG Level 1 code
+1160961	Baltic	text
+1160993	1	TDWG Level 1 code
+1160993	Baltic	text
+1160996	COL	TDWG Level 3 code
+1160998	BOT	TDWG Level 3 code
+1160999	COL	TDWG Level 3 code
+1161002	DEN	TDWG Level 3 code
+1161003	DEN	TDWG Level 3 code
+1161004	COL	TDWG Level 3 code
+1161014	DEN	TDWG Level 3 code
+1161015	COL	TDWG Level 3 code
+1161016	DEN	TDWG Level 3 code
+1161018	COL	TDWG Level 3 code
+1161024	COL	TDWG Level 3 code
+1161086	NEV	TDWG Level 3 code
+1161088	NEV	TDWG Level 3 code
+1161089	NEV	TDWG Level 3 code
+1161092	30    	TDWG Level 2 code
+1161092	31    	TDWG Level 2 code
+1161095	1	TDWG Level 1 code
+1161095	Baltic	text
+1161098	1	TDWG Level 1 code
+1161098	Baltic	text
+1161099	1	TDWG Level 1 code
+1161099	Baltic	text
+1161100	1	TDWG Level 1 code
+1161100	Baltic	text
+1161101	1	TDWG Level 1 code
+1161101	Baltic	text
+1161102	1	TDWG Level 1 code
+1161102	Baltic	text
+1161103	1	TDWG Level 1 code
+1161103	Baltic	text
+1161104	1	TDWG Level 1 code
+1161104	Baltic	text
+1161106	1	TDWG Level 1 code
+1161106	Baltic	text
+1161108	1	TDWG Level 1 code
+1161108	Baltic	text
+1161109	1	TDWG Level 1 code
+1161109	Baltic	text
+1161110	1	TDWG Level 1 code
+1161110	Baltic	text
+1161112	1	TDWG Level 1 code
+1161112	Baltic	text
+1161114	1	TDWG Level 1 code
+1161114	Baltic	text
+1161304	GER	TDWG Level 3 code
+1161396	GER	TDWG Level 3 code
+1161397	Fossil locality	text
+1161397	GER	TDWG Level 3 code
+1161719	GER	TDWG Level 3 code
+1161877	1	TDWG Level 1 code
+1162137	NEV	TDWG Level 3 code
+1162149	SPA	TDWG Level 3 code
+1162245	SPA	TDWG Level 3 code
+1162333	YUG	TDWG Level 3 code
+1162334	YUG	TDWG Level 3 code
+1162335	YUG	TDWG Level 3 code
+1162338	SPA	TDWG Level 3 code
+1162339	1	TDWG Level 1 code
+1162339	Baltic	text
+1162381	SPA	TDWG Level 3 code
+1162393	DOM	TDWG Level 3 code
+1162460	1	TDWG Level 1 code
+1162460	Baltic	text
+1162462	CHN	TDWG Level 3 code
+1162464	CHN	TDWG Level 3 code
+1162466	DOM	TDWG Level 3 code
+1162509	1	TDWG Level 1 code
+1162509	Baltic	text
+1162885	NEV	TDWG Level 3 code
+1162904	Fossil locality	text
+1162904	ICE	TDWG Level 3 code
+1162969	RUS	TDWG Level 3 code
+1163026	YUG	TDWG Level 3 code
+1163116	CHN	TDWG Level 3 code
+1163231	CHN	TDWG Level 3 code
+1163232	CHN	TDWG Level 3 code
+1163233	CHN	TDWG Level 3 code
+1163234	CHN	TDWG Level 3 code
+1163753	1	TDWG Level 1 code
+1163753	Baltic	text
+1163755	1	TDWG Level 1 code
+1163755	Baltic	text
+1163795	KRA	TDWG Level 3 code
+1163796	ABT	TDWG Level 3 code
+1163799	DOM	TDWG Level 3 code
+1163822	1	TDWG Level 1 code
+1163822	Baltic	text
+1163823	1	TDWG Level 1 code
+1163823	Baltic	text
+1163824	1	TDWG Level 1 code
+1163824	Baltic	text
+1163847	KRA	TDWG Level 3 code
+1163849	PRM	TDWG Level 3 code
+1163851	1	TDWG Level 1 code
+1163851	Baltic	text
+1163852	1	TDWG Level 1 code
+1163852	Baltic	text
+1163854	1	TDWG Level 1 code
+1163854	Baltic	text
+1163855	1	TDWG Level 1 code
+1163855	Baltic	text
+1163859	1	TDWG Level 1 code
+1163859	Baltic	text
+1163866	1	TDWG Level 1 code
+1163866	Baltic	text
+1163867	COL	TDWG Level 3 code
+1163869	COL	TDWG Level 3 code
+1163877	1	TDWG Level 1 code
+1163877	Baltic	text
+1163879	1	TDWG Level 1 code
+1163879	Baltic	text
+1163905	CHM	TDWG Level 3 code
+1163907	CHM	TDWG Level 3 code
+1163909	CHM	TDWG Level 3 code
+1163912	CHM	TDWG Level 3 code
+1163914	CHM	TDWG Level 3 code
+1163916	CHM	TDWG Level 3 code
+1163918	CHM	TDWG Level 3 code
+1163919	CHM	TDWG Level 3 code
+1163935	NEV	TDWG Level 3 code
+1163944	1	TDWG Level 1 code
+1163944	Baltic	text
+1163945	1	TDWG Level 1 code
+1163945	Baltic	text
+1163947	1	TDWG Level 1 code
+1163947	Baltic	text
+1163948	1	TDWG Level 1 code
+1163948	Baltic	text
+1163951	1	TDWG Level 1 code
+1163951	Baltic	text
+1163965	FRA	TDWG Level 3 code
+1163967	1	TDWG Level 1 code
+1163967	Baltic	text
+1163969	1	TDWG Level 1 code
+1163969	Baltic	text
+1163982	FRA	TDWG Level 3 code
+1163997	1	TDWG Level 1 code
+1163997	Baltic	text
+1164002	1	TDWG Level 1 code
+1164002	Baltic	text
+1164003	1	TDWG Level 1 code
+1164003	Baltic	text
+1164005	1	TDWG Level 1 code
+1164005	Baltic	text
+1164179	1	TDWG Level 1 code
+1164179	Baltic	text
+1164267	1	TDWG Level 1 code
+1164267	Baltic	text
+1164303	LBS	TDWG Level 3 code
+1164310	1	TDWG Level 1 code
+1164567	FRA	TDWG Level 3 code
+1164575	GRB	TDWG Level 3 code
+1164620	FRA	TDWG Level 3 code
+1164623	GRB	TDWG Level 3 code
+1166276	KRA	TDWG Level 3 code
+1166278	DEN	TDWG Level 3 code
+1166280	CHM	TDWG Level 3 code
+1166283	CHM	TDWG Level 3 code
+1166285	CHM	TDWG Level 3 code
+1166287	FRA	TDWG Level 3 code
+1166334	1	TDWG Level 1 code
+1166334	Baltic	text
+1166336	1	TDWG Level 1 code
+1166336	Baltic	text
+1166410	1	TDWG Level 1 code
+1166410	Baltic	text
+1166853	UZB	TDWG Level 3 code
+1171085	POL	TDWG Level 3 code
+1171096	SPA	TDWG Level 3 code
+1207715	MON	TDWG Level 3 code
+1207716	MON	TDWG Level 3 code
+1207717	MON	TDWG Level 3 code
+1207718	MON	TDWG Level 3 code
+1207720	MON	TDWG Level 3 code
+1207722	MON	TDWG Level 3 code
+1207723	MON	TDWG Level 3 code
+1207776	37    	TDWG Level 2 code
+1217985	CHN	TDWG Level 3 code
+1218002	KAZ	TDWG Level 3 code
+1218003	MON	TDWG Level 3 code
+1221344	FRA	TDWG Level 3 code
+1221730	CHI	TDWG Level 3 code
+1221837	MON	TDWG Level 3 code
+1221839	MON	TDWG Level 3 code
+1221840	MON	TDWG Level 3 code
+1221842	CTA	TDWG Level 3 code
+1221843	CTA	TDWG Level 3 code
+1221844	CTA	TDWG Level 3 code
+1221845	CTA	TDWG Level 3 code
+1223662	CYP	TDWG Level 3 code
+1223662	PAL	TDWG Level 3 code
+1225183	Baltic	text

@@ -1,0 +1,14 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+267175	128548	Phoronis		caespitosa	Cori, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267175	
+267176	128548	Phoronis		capensis	Gilchrist, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267176	
+267173	128548	Phoronis		gracilis	Van Beneden, 1858				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267173	
+267174	128548	Phoronis		kowaleswkii	Benham, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267174	
+159730	128552	Phoronis		architecta	Andrews, 1890				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:159730	
+267172	128552	Phoronis		sabatieri	Roule, 1890				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267172	
+584806	128555	Phoronis		pacifica	Torrey, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:584806	
+267183	128555	Phoronopsis		striata	Hilton, 1930				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267183	
+267182	128555	Phoronopsis		viridis	Hilton, 1930				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267182	
+267180	128547	Phoronis		bhadurii	Ganguly & Majumbar, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267180	
+267179	128547	Phoronis		buskii	McIntosh, 1888				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267179	
+267178	237586	Phoronis		svetlanae	Temereva & Malakhov, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267178	
+267177	237586	Phoronis		vancouverensis	Pixell, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267177	

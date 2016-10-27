@@ -1,0 +1,235 @@
+AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
+265831	Caribbean Sea	Text		
+265831	Gulf of Mexico	Text		
+265832	Western South Pacific	Text		
+265614	Eastern South Pacific	Text		
+265615	New Zealand	Text		
+767396	Barbados	Text		
+114729	European waters (ERMS scope)	Text		
+114729	Strangford Lough	Text		
+114729	East North Atlantic	Text		
+265616	Western South Pacific	Text		
+265617	West North Atlantic	Text		
+265618	Caribbean Sea	Text		
+265618	Gulf of Mexico	Text		
+265619	South Pacific	Text		
+871373	Chinese Exclusive Economic Zone	Text		
+871373	Chinese Exclusive Economic Zone	Text		
+871373	Japanese Exclusive Economic Zone	Text		
+265620	Western South Pacific	Text		
+265621	Caribbean Sea	Text		
+265622	Caribbean Sea	Text		
+265622	Gulf of Mexico	Text		
+265623	Caribbean Sea	Text		
+265623	Gulf of Mexico	Text		
+265624	Western South Pacific	Text		
+265625	West North Atlantic	Text		
+265625	Gulf of Mexico	Text		
+114730	European waters (ERMS scope)	Text		
+114730	Las Palmas	Text		
+114730	Southeastern North Atlantic	Text		
+871372	Chinese Exclusive Economic Zone	Text		
+265626	Caribbean Sea	Text		
+265627	South Pacific	Text		
+265628	West North Atlantic	Text		
+265629	Western South Pacific	Text		
+265630	South West Pacific Ocean	Text		
+265630	Central North Pacific	Text		
+265630	New Zealand Exclusive Economic Zone	Text		
+114731	Mediterranean Sea	Text		
+114731	European waters (ERMS scope)	Text		
+114731	Rovinj	Text		
+114731	Capraia	Text		
+114731	Mediterranean Sea	Text		
+265631	Western South Pacific	Text		
+265849	East North Pacific	Text		
+265857	Caribbean Sea	Text		
+265882	Eastern South Pacific	Text		
+265883	Caribbean Sea	Text		
+265883	Gulf of Mexico	Text		
+265884	Western South Pacific	Text		
+265884	Central North Pacific	Text		
+265884	Gulf of Mexico	Text		
+265885	Western South Pacific	Text		
+265886	South Pacific	Text		
+265886	North Pacific	Text		
+114733	European waters (ERMS scope)	Text		
+114733	Mediterranean Sea	Text		
+114733	Danish Exclusive Economic Zone	Text		
+114733	Etang de Salses	Text		
+114733	Golfe d'Aigues-Mortes	Text		
+114733	West North Atlantic	Text		
+114733	Mediterranean Sea	Text		
+265632	South Pacific	Text		
+265633	Red Sea	Text		
+265634	West North Atlantic	Text		
+265635	West North Atlantic	Text		
+265636	Eastern South Pacific	Text		
+265637	West North Atlantic	Text		
+265638	East North Pacific	Text		
+265639	Indian Ocean	Text		
+265639	South Pacific	Text		
+265640	South West Pacific Ocean	Text		
+265640	New Zealand Exclusive Economic Zone	Text		
+265641	West North Atlantic	Text		
+114735	Mediterranean Sea	Text		
+114735	European waters (ERMS scope)	Text		
+114735	Rovinj	Text		
+114735	Mediterranean Sea	Text		
+114735	Gulf of Mexico	Text		
+154589	Danish Exclusive Economic Zone	Text		
+154589	West North Atlantic	Text		
+114736	Arctic Ocean	Text		
+114736	European waters (ERMS scope)	Text		
+114736	Barents Sea	Text		
+114736	Arctic Ocean	Text		
+265642	West North Atlantic	Text		
+114737	European waters (ERMS scope)	Text		
+114737	Mediterranean Sea	Text		
+114737	British Isles	Text		
+114737	Danish Exclusive Economic Zone	Text		
+114737	Kristineberg	Text		
+114737	Sylt	Text		
+114737	Baelt Sea	IHO/EEZ		
+114737	Helsingor	Text		
+114737	East North Atlantic	Text		
+265643	Caribbean Sea	Text		
+265643	Gulf of Mexico	Text		
+265644	Western South Pacific	Text		
+265645	Western South Pacific	Text		
+265646	West North Atlantic	Text		
+265939	Western South Pacific	Text		
+265649	Central North Pacific	Text		
+265649	Caribbean Sea	Text		
+265650	Caribbean Sea	Text		
+114742	European waters (ERMS scope)	Text		
+114742	Danish Exclusive Economic Zone	Text		
+114742	Swedish Exclusive Economic Zone	Text		
+114742	German Exclusive Economic Zone	Text		
+114742	Kristineberg	Text		
+114742	Sylt	Text		
+114742	East North Atlantic	Text		
+114743	European waters (ERMS scope)	Text		
+114743	Kristineberg	Text		
+114743	Sylt	Text		
+114743	Strangford Lough	Text		
+114743	Rovinj	Text		
+114743	North Atlantic	Text		
+114743	Western South Pacific	Text		
+114744	European waters (ERMS scope)	Text		
+114744	Kristineberg	Text		
+114744	Strangford Lough	Text		
+114744	North Atlantic	Text		
+114745	European waters (ERMS scope)	Text		
+114745	Danish Exclusive Economic Zone	Text		
+114745	Kristineberg	Text		
+114745	Sylt	Text		
+114745	Las Palmas	Text		
+114745	Strangford Lough	Text		
+114745	East North Atlantic	Text		
+114745	Western South Pacific	Text		
+114745	Gulf of Mexico	Text		
+114746	European waters (ERMS scope)	Text		
+114746	Mediterranean Sea	Text		
+114746	Danish Exclusive Economic Zone	Text		
+114746	Kristineberg	Text		
+114746	Las Palmas	Text		
+114746	Helsingor	Text		
+114746	Rovinj	Text		
+114746	East North Atlantic	Text		
+114746	Mediterranean Sea	Text		
+114746	Central North Pacific	Text		
+114746	Gulf of Mexico	Text		
+114747	European waters (ERMS scope)	Text		
+114747	Kristineberg	Text		
+114747	Sylt	Text		
+265651	Central North Pacific	Text		
+114748	European waters (ERMS scope)	Text		
+114748	Danish Exclusive Economic Zone	Text		
+114748	Kristineberg	Text		
+114748	Sylt	Text		
+114748	Helsingor	Text		
+114748	European waters (ERMS scope)	Text		
+114748	Strangford Lough	Text		
+114748	East North Atlantic	Text		
+114738	European waters (ERMS scope)	Text		
+114738	Danish Exclusive Economic Zone	Text		
+114738	Las Palmas	Text		
+114738	North Atlantic	Text		
+114738	Western South Pacific	Text		
+114738	Gulf of Mexico	Text		
+265647	Caribbean Sea	Text		
+265648	West North Atlantic	Text		
+114739	European waters (ERMS scope)	Text		
+114739	Mediterranean Sea	Text		
+114739	Danish Exclusive Economic Zone	Text		
+114739	Kristineberg	Text		
+114739	Helsingor	Text		
+114739	East North Atlantic	Text		
+114739	Mediterranean Sea	Text		
+265963	Caribbean Sea	Text		
+265963	Gulf of Mexico	Text		
+265975	Eastern South Pacific	Text		
+265976	Caribbean Sea	Text		
+265976	Gulf of Mexico	Text		
+265977	Caribbean Sea	Text		
+114728	European waters (ERMS scope)	Text		
+114728	Las Palmas	Text		
+114728	Southeastern North Atlantic	Text		
+265984	Caribbean Sea	Text		
+265998	West North Atlantic	Text		
+265652	Caribbean Sea	Text		
+114749	European waters (ERMS scope)	Text		
+114749	Kristineberg	Text		
+114749	Strangford Lough	Text		
+114749	East North Atlantic	Text		
+265653	Western South Pacific	Text		
+265653	Gulf of Mexico	Text		
+265654	Central North Pacific	Text		
+265654	Gulf of Mexico	Text		
+265655	Central North Pacific	Text		
+114750	European waters (ERMS scope)	Text		
+114750	Kristineberg	Text		
+114750	East North Atlantic	Text		
+265656	New Zealand	Text		
+265657	West North Atlantic	Text		
+265659	Western South Pacific	Text		
+114751	European waters (ERMS scope)	Text		
+114751	Kristineberg	Text		
+114751	Sylt	Text		
+114751	East North Atlantic	Text		
+114752	European waters (ERMS scope)	Text		
+114752	Danish Exclusive Economic Zone	Text		
+114752	Kristineberg	Text		
+114752	Sylt	Text		
+114752	Helsingor	Text		
+114752	Strangford Lough	Text		
+114752	East North Atlantic	Text		
+265660	New Zealand	Text		
+265661	South Pacific	Text		
+265662	Western South Pacific	Text		
+114741	European waters (ERMS scope)	Text		
+114741	Danish Exclusive Economic Zone	Text		
+114741	Helsingor	Text		
+114741	East North Atlantic	Text		
+266003	Western South Pacific	Text		
+266013	Caribbean Sea	Text		
+266013	Gulf of Mexico	Text		
+266026	West North Atlantic	Text		
+266026	Western South Pacific	Text		
+266026	Gulf of Mexico	Text		
+266027	Western South Pacific	Text		
+114732	Mediterranean Sea	Text		
+114732	European waters (ERMS scope)	Text		
+114732	Rovinj	Text		
+114732	Dubrovnik	Text		
+114732	Mediterranean Sea	Text		
+266032	West North Atlantic	Text		
+114740	European waters (ERMS scope)	Text		
+114740	Danish Exclusive Economic Zone	Text		
+114740	Helsingor	Text		
+114740	East North Atlantic	Text		
+266035	Caribbean Sea	Text		
+266035	Gulf of Mexico	Text		
+266036	West North Atlantic	Text		
+266037	Western South Pacific	Text		

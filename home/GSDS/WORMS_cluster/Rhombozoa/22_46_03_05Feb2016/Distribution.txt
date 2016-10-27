@@ -1,0 +1,260 @@
+AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
+119148	Mediterranean Sea	Text		
+119148	Mediterranean Sea	Text		
+119148	Portuguese Exclusive Economic Zone	Text		
+119148	Spanish Exclusive Economic Zone	Text		
+265666	East North Pacific	Text		
+265667	East North Pacific	Text		
+265668	West North Pacific	Text		
+265668	Sea of Japan	Text		
+265669	West North Atlantic	Text		
+265669	Gulf of Mexico	Text		
+265670	West North Pacific	Text		
+265670	Osaka Bay	Text		
+265671	West North Atlantic	Text		
+265671	Gulf of Mexico	Text		
+265672	East North Pacific	Text		
+265673	Western South Atlantic	Text		
+265674	West North Pacific	Text		
+265674	Osaka Bay	Text		
+265676	West North Pacific	Text		
+265676	Tosa Bay	Text		
+265676	Osaka Bay	Text		
+265677	Mediterranean Sea	Text		
+265678	Mediterranean Sea	Text		
+265679	West North Atlantic	Text		
+265679	Gulf of Mexico	Text		
+265680	West North Atlantic	Text		
+265680	Gulf of Mexico	Text		
+736882	Spencer Gulf	Text		
+736882	Gulf of St. Vincent	Text		
+265681	West North Pacific	Text		
+265681	Okhotsk Sea	Text		
+265682	West North Pacific	Text		
+265682	Honshu Island	Text		
+743996	Coffin Bay	Text		
+265683	West North Pacific	Text		
+265683	Harima-nada	Text		
+265683	Honshu Island	Text		
+265684	West North Pacific	Text		
+265684	Osaka Bay	Text		
+265684	Honshu Island	Text		
+265685	West North Pacific	Text		
+265685	Osaka Bay	Text		
+265685	Honshu Island	Text		
+740912	Shark Bay	Text		
+742583	Gulf of California	Text		
+265686	West North Pacific	Text		
+265686	Kii Strait	Text		
+265686	Honshu Island	Text		
+265687	West North Pacific	Text		
+265687	Osaka Bay	Text		
+265688	West North Atlantic	Text		
+265688	Gulf of Mexico	Text		
+265689	West North Pacific	Text		
+265689	Tosa Bay	Text		
+265691	West North Pacific	Text		
+265691	Honshu Island	Text		
+414137	New Zealand Exclusive Economic Zone	Text		
+743997	Great Australian Bight	Text		
+743997	Spencer Gulf	Text		
+265692	West North Pacific	Text		
+265692	Shimane	Text		
+265692	Toyama Bay	Text		
+265693	West North Pacific	Text		
+265693	Tosa Bay	Text		
+265693	Osaka Bay	Text		
+265694	West North Pacific	Text		
+265694	Honshu Island	Text		
+265694	Suo Sea	Text		
+119150	Mediterranean Sea	Text		
+119150	Mediterranean Sea	Text		
+119150	Portuguese Exclusive Economic Zone	Text		
+119150	Spanish Exclusive Economic Zone	Text		
+414138	New Zealand Exclusive Economic Zone	Text		
+119151	European waters (ERMS scope)	Text		
+119151	Eastern Central Atlantic	Text		
+119151	Portuguese Exclusive Economic Zone	Text		
+119151	Spanish Exclusive Economic Zone	Text		
+119152	Mediterranean Sea	Text		
+119152	Mediterranean Sea	Text		
+119152	Portuguese Exclusive Economic Zone	Text		
+119152	Spanish Exclusive Economic Zone	Text		
+265695	West North Pacific	Text		
+119153	European waters (ERMS scope)	Text		
+119153	Eastern Central Atlantic	Text		
+119153	Portuguese Exclusive Economic Zone	Text		
+119153	Spanish Exclusive Economic Zone	Text		
+119154	Mediterranean Sea	Text		
+119154	Mediterranean Sea	Text		
+119154	Portuguese Exclusive Economic Zone	Text		
+119154	Spanish Exclusive Economic Zone	Text		
+743998	Cronulla	Text		
+265696	West North Pacific	Text		
+265696	Sea of Japan	Text		
+265697	West North Pacific	Text		
+265697	Honshu Island	Text		
+265697	Kii Strait	Text		
+464279	Tosa Bay	Text		
+740911	Shark Bay	Text		
+119155	European waters (ERMS scope)	Text		
+119155	Mediterranean Sea	Text		
+119155	East North Atlantic	Text		
+119155	Mediterranean Sea	Text		
+119155	Portuguese Exclusive Economic Zone	Text		
+119155	Spanish Exclusive Economic Zone	Text		
+265698	Western South Atlantic	Text		
+736883	Spencer Gulf	Text		
+265699	West North Pacific	Text		
+265699	Osaka Bay	Text		
+265699	Honshu Island	Text		
+414139	New Zealand Exclusive Economic Zone	Text		
+119156	Mediterranean Sea	Text		
+119156	Mediterranean Sea	Text		
+119156	Portuguese Exclusive Economic Zone	Text		
+119156	Spanish Exclusive Economic Zone	Text		
+119157	Mediterranean Sea	Text		
+119157	Mediterranean Sea	Text		
+119157	Portuguese Exclusive Economic Zone	Text		
+119157	Spanish Exclusive Economic Zone	Text		
+464280	Osaka Bay	Text		
+464280	Kii Strait	Text		
+464280	Honshu Island	Text		
+265700	West North Atlantic	Text		
+265700	Gulf of Mexico	Text		
+265701	West North Pacific	Text		
+265701	Tosa Bay	Text		
+265702	West North Pacific	Text		
+265702	Osaka Bay	Text		
+265702	Honshu Island	Text		
+265703	East North Pacific	Text		
+265690	West North Pacific	Text		
+265690	Tosa Bay	Text		
+265704	West North Atlantic	Text		
+265704	Gulf of Mexico	Text		
+119158	European waters (ERMS scope)	Text		
+119158	Mediterranean Sea	Text		
+119158	North Atlantic	Text		
+119158	Mediterranean Sea	Text		
+119158	Portuguese Exclusive Economic Zone	Text		
+119158	Spanish Exclusive Economic Zone	Text		
+743999	Great Australian Bight	Text		
+238035	Mediterranean Sea	Text		
+265705	East North Pacific	Text		
+265706	East North Pacific	Text		
+265707	East North Pacific	Text		
+265708	East North Pacific	Text		
+265709	East North Pacific	Text		
+464282	Antarctic Peninsula	Text		
+464282	Weddell Sea	Text		
+265710	Southern Ocean	Text		
+265710	Western South Atlantic	Text		
+265710	Scotia Sea	Text		
+265710	Scotia Sea	Text		
+265712	East North Pacific	Text		
+265712	Okhotsk Sea	Text		
+265713	East North Pacific	Text		
+265713	Toyama Bay	Text		
+265713	Sea of Japan	Text		
+265713	Sea of Okhotsk	Text		
+265713	Puget Sound	Text		
+265713	Coos Bay	Text		
+265714	East North Pacific	Text		
+265715	West North Atlantic	Text		
+265715	Bay of Fundy	Text		
+740914	Chukchi Sea	Text		
+265716	West North Pacific	Text		
+265716	Okhotsk Sea	Text		
+464284	Scotia Sea	Text		
+265717	West North Pacific	Text		
+265718	Southern Ocean	Text		
+265718	Western South Atlantic	Text		
+265718	Scotia Sea	Text		
+119159	European waters (ERMS scope)	Text		
+119159	Mediterranean Sea	Text		
+119159	East North Atlantic	Text		
+119159	Mediterranean Sea	Text		
+119159	Portuguese Exclusive Economic Zone	Text		
+119159	Spanish Exclusive Economic Zone	Text		
+265720	Southern Ocean	Text		
+265720	Weddell Sea	Text		
+265721	West North Pacific	Text		
+265721	Okhotsk Sea	Text		
+740913	Spencer Gulf	Text		
+740913	Gulf of St. Vincent	Text		
+119160	Mediterranean Sea	Text		
+119160	Mediterranean Sea	Text		
+119160	Portuguese Exclusive Economic Zone	Text		
+119160	Spanish Exclusive Economic Zone	Text		
+265722	East North Pacific	Text		
+265723	West North Pacific	Text		
+265723	Honshu Island	Text		
+265723	Fukushima Prefecture	Text		
+414141	New Zealand Exclusive Economic Zone	Text		
+119161	European waters (ERMS scope)	Text		
+119161	Mediterranean Sea	Text		
+119161	East North Atlantic	Text		
+119161	Mediterranean Sea	Text		
+119161	Portuguese Exclusive Economic Zone	Text		
+119161	Spanish Exclusive Economic Zone	Text		
+265724	West North Pacific	Text		
+265725	West North Pacific	Text		
+265725	Osaka Bay	Text		
+265725	Honshu Island	Text		
+265726	West North Pacific	Text		
+265726	Kii Strait	Text		
+265726	Honshu Island	Text		
+265727	East North Pacific	Text		
+265727	Toyama Bay	Text		
+265727	Sea of Japan	Text		
+265727	Monterey Bay	Text		
+265728	West North Pacific	Text		
+265728	Fukushima Prefecture	Text		
+265728	Honshu Island	Text		
+464286	East North Pacific	Text		
+265729	West North Pacific	Text		
+265729	Toyama Bay	Text		
+265729	Sakhalin	Text		
+265729	Sea of Okhotsk	Text		
+265729	Coos Bay	Text		
+265729	Puget Sound	Text		
+265729	San Juan Archipelago	Text		
+414142	New Zealand Exclusive Economic Zone	Text		
+265730	West North Pacific	Text		
+265730	Ryukyu Islands	Text		
+744000	Spencer Gulf	Text		
+265731	West North Pacific	Text		
+265731	Fukushima Prefecture	Text		
+265731	Honshu Island	Text		
+464288	Suruga Bay	Text		
+265919	West North Pacific	Text		
+265919	Honshu Island	Text		
+265919	Shiriya-zaki	Text		
+493801	Sea of Japan	Text		
+464290	Visakhapatnam	Text		
+225815	Antarctic Ocean	Text		
+225815	Arctic Ocean	Text		
+225815	Weddell Sea	Text		
+119149	European waters (ERMS scope)	Text		
+119149	Mediterranean Sea	Text		
+119149	North East Atlantic	Text		
+119149	East North Atlantic	Text		
+119149	Mediterranean Sea	Text		
+119149	Portuguese Exclusive Economic Zone	Text		
+119149	Spanish Exclusive Economic Zone	Text		
+119162	Mediterranean Sea	Text		
+119162	European waters (ERMS scope)	Text		
+119162	Mediterranean Sea	Text		
+119162	Portuguese Exclusive Economic Zone	Text		
+119162	Spanish Exclusive Economic Zone	Text		
+464291	Tosa Bay	Text		
+265732	Kii Strait	Text		
+265732	Honshu Island	Text		
+119163	European waters (ERMS scope)	Text		
+119163	Atlantic	Text		
+119163	Mediterranean Sea	Text		
+119163	North West Pacific	Text		
+119163	Wimereux	Text		
+119163	Atlantic	Text		
+119163	Mediterranean Sea	Text		
+119163	West North Pacific	Text		

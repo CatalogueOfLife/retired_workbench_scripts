@@ -1,0 +1,2 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+408560	408559	Derocheilocaris		galvarini	Dahl, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:408560	

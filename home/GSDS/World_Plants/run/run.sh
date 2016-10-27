@@ -1,3 +1,8 @@
+rm ../*.txt
+rm -fR ../utf8
+
+
+
 echo "-8) merging datasets in /in folder into in.csv"
 sh merge.sh
 echo "-7) extracting parent-children relationships"
@@ -16,3 +21,10 @@ echo "-1) extracting references"
 sh references.sh > ../references.txt
 echo "0) transformation completed"
 
+echo "converting to utf8"
+mkdir ../utf8
+cd ../
+for a in $(find . -name "*.txt"); do iconv -f latin1 -t utf-8 <"$a" > utf8/"$a" ; done
+mv utf8/* ./
+rm -R utf8
+echo "ready!"

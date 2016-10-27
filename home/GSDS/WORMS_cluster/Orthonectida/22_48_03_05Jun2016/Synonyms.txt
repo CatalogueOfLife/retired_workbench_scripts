@@ -1,0 +1,10 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+493710	119166	Rhopalura		julini					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:493710	
+493708	119167	Prothelminthus		hessi	Jourdain, 1880				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:493708	
+119176	148610	Rhopalura		metschnikowi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119176	
+119183	119168	Rhopalura		linei	(Giard)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:119183	
+237845	148610	Rhopalura		metschnikovi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:237845	
+493706	119167	Rhopalura		leptoplanae	(Giard)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:493706	
+493269	119178	Intoshia		gigas	Giard, 1879				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:493269	
+493270	119178	Rhopalura		giardi	Metschnikoff, 1879				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:493270	
+493709	119170	Rhopalura		paraphanostomae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:493709	

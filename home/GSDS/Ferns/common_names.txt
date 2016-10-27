@@ -1,0 +1,1258 @@
+name_code	common_name	database_id
+fer-6	Sprossender B&auml;rlapp	140
+fer-6	Stiff Clubmoss	140
+fer-s.6	Sprossender B&auml;rlapp	140
+fer-s.6	Stiff Clubmoss	140
+fer-10	Keulenb&auml;rlapp	140
+fer-10	Common Clubmoss	140
+fer-10	Running Cedar	140
+fer-s.10	Keulenb&auml;rlapp	140
+fer-s.10	Common Clubmoss	140
+fer-s.10	Running Cedar	140
+fer-13	Round-branch Ground-Pine	140
+fer-13	Tree groundpine	140
+fer-17	Pennsylvania clubmoss	140
+fer-22	One-cone clubmoss	140
+fer-24	Ground Pine	140
+fer-24	Eastern Tree Clubmoss	140
+fer-24	Princess Pine	140
+fer-36	Alpenb&auml;rlapp	140
+fer-36	Alpine clubmoss	140
+fer-38	Gew&ouml;hnlicher Flachb&auml;rlapp	140
+fer-38	Northern Running-Pine	140
+fer-38	Groundcedar	140
+fer-s.38	Gew&ouml;hnlicher Flachb&auml;rlapp	140
+fer-s.38	Northern Running-Pine	140
+fer-s.38	Groundcedar	140
+fer-41	Fan Club-moss	140
+fer-45	Isslers Flachb&auml;rlapp	140
+fer-51	Savin-leaved Club-moss	140
+fer-52	Sitka Club-moss	140
+fer-54	Zypressenb&auml;rlapp	140
+fer-54	Ground Cedar	140
+fer-54	Northern Ground Pine	140
+fer-61	Zeillers Flachb&auml;rlapp	140
+fer-73	Appalachian clubmoss	140
+fer-93	Pacific clubmoss	140
+fer-102	Shining Clubmoss	140
+fer-107	Chinese clubmoss	140
+fer-111	Western clubmoss	140
+fer-113	Rock clubmoss	140
+fer-118	Tannenb&auml;rlapp	140
+fer-118	Northern Firmoss	140
+fer-118	Fir Clubmoss	140
+fer-225	Hanging Club-Moss	140
+fer-427	Kauai clubmoss	140
+fer-468	Foxtail Club-Moss	140
+fer-471	Southern Club-Moss	140
+fer-477	Sumpfb&auml;rlapp	140
+fer-477	Bog Clubmoss	140
+fer-477	Inundated clubmoss	140
+fer-480	Marguerite's clubmoss	140
+fer-481	Feather-stem Club-Moss	140
+fer-483	Northern bog clubmoss	140
+fer-492	Staghorn clubmoss	140
+fer-517	Slender Club-Moss	140
+fer-556	Stengelloser Moosfarn	140
+fer-556	Creeping Spikemoss	140
+fer-562	Sand Spike-moss	140
+fer-s.562	Sand Spike-moss	140
+fer-s.563	Riddell's spikemoss	140
+fer-566	Arizona Spike-moss	140
+fer-578	Bluish Spike-moss	140
+fer-601	Bushy Spike-moss	140
+fer-614	Treelet Spike-moss	140
+fer-665	Gray Spike-moss	140
+fer-706	Lesser spikemoss	140
+fer-s.707	Rocky Mountain spikemoss	140
+fer-s.708	Standley's spikemoss	140
+fer-710	Gez&auml;hnter Moosfarn	140
+fer-723	Douglas' Spike-moss	140
+fer-726	Eaton's Spike-moss	140
+fer-728	Hidden Spike-moss	140
+fer-728	Buck's Meadow Spike-moss	140
+fer-738	Desert Spike-moss	140
+fer-800	Hansen's Spike-moss	140
+fer-807	Schweizer Moosfarn	140
+fer-s.807	Schweizer Moosfarn	140
+fer-857	Krauss' spikemoss	140
+fer-879	Resurrection Plant	140
+fer-879	Flower of stone	140
+fer-881	Mojave Spike-moss	140
+fer-903	Gulf Spike-moss	140
+fer-903	Louisiana Spike-moss	140
+fer-959	Blunt-leaved Spike-moss	140
+fer-s.960	Bluntleaf spikemoss	140
+fer-987	Oregon Spike-moss	140
+fer-1017	Peruvian Spike-moss	140
+fer-1025	Resurrection Plant	140
+fer-1030	Plumed spikemoss	140
+fer-1098	Northern selaginella	140
+fer-1098	Rock Spike-moss	140
+fer-1099	Rock-loving Spike-moss	140
+fer-1126	Gez&auml;hnter Moosfarn	140
+fer-1126	Club spikemoss	140
+fer-1144	Siberian spikemoss	140
+fer-1207	Twistedhair spikemoss	140
+fer-1220	Hooked Spike-moss	140
+fer-1220	Blue spikemoss	140
+fer-1222	Underwood's Spike-moss	140
+fer-1226	Utah Spike-moss	140
+fer-1242	Slender Spike-moss	140
+fer-1250	Wallace's Spike-moss	140
+fer-1254	Alpine Spike-moss	140
+fer-1256	Weath.'s Spike-moss	140
+fer-1260	Vine Spike-moss	140
+fer-1262	Wright's Spike-moss	140
+fer-1276	Acadian Quillwort	140
+fer-1286	Appalachian quillwort	140
+fer-1290	Azoren-Brachsenkraut	140
+fer-1294	Bolander's Quillwort	140
+fer-1297	Boom's quillwort	140
+fer-1303	Limestone quillwort	140
+fer-1316	Durieus Brachsenkraut	140
+fer-1321	Appalachian quillwort	140
+fer-1324	Southern quillwort	140
+fer-s.1326	Chapman's quillwort	140
+fer-1331	Georgia quillwort	140
+fer-1338	Haussknechts Brachsenkraut	140
+fer-1340	Heldreichs Brachsenkraut	140
+fer-1345	Stacheliges Brachsenkraut	140
+fer-1347	Howell's Quillwort	140
+fer-1355	Rush quillwort	140
+fer-1360	See-Brachsenkraut	140
+fer-1360	Lake Quillwort	140
+fer-1364	Rock Quillwort	140
+fer-1373	Louisiana Quillwort	140
+fer-1375	Big-spore quillwort	140
+fer-1377	Spiny-spored Quillwort	140
+fer-1379	Mattaponi quillwort	140
+fer-1381	Black-footed Quillwort	140
+fer-s.1381	Black-footed Quillwort	140
+fer-1383	Blackspore Quillwort	140
+fer-1386	Thin-wall quillwort	140
+fer-1387	Midget quillwort	140
+fer-1397	Nuttall's Quillwort	140
+fer-1398	Western Quillwort	140
+fer-1400	Orcutt's Quillwort	140
+fer-1412	Piedmont quillwort	140
+fer-1416	Spike quillwort	140
+fer-1421	Shore Quillwort	140
+fer-s.1422	Ames' quillwort	140
+fer-1427	Sugar quillwort	140
+fer-1434	Stachelsporiges Brachsenkraut	140
+fer-1434	Quillwort	140
+fer-s.1434	Stachelsporiges Brachsenkraut	140
+fer-s.1434	Quillwort	140
+fer-1448	Mat-forming Merlin's-grass	140
+fer-1449	Spiny-spore quillwort	140
+fer-1450	Tennessee Quillwort	140
+fer-1458	Tuckerman's Quillwort	140
+fer-1461	Strong quillwort	140
+fer-1486	Vancouver Quillwort	140
+fer-1496	California adder's tongue	140
+fer-1500	Large adder's-tongue	140
+fer-1501	Bulbous Adder's-tongue	140
+fer-s.1501	Bulbous Adder's-tongue	140
+fer-s.1502	Bulbous adderstongue	140
+fer-1505	Limestone Adder's-tongue	140
+fer-1525	Slender Adder's-tongue	140
+fer-1525	Least adderstongue	140
+fer-1533	Old World adderstongue	140
+fer-1535	Large adderstongue	140
+fer-1537	Northern Adder's-tongue	140
+fer-1539	Stalked Adder's-tongue	140
+fer-1549	Gemeine Natternzunge	140
+fer-1549	Southern adderstongue	140
+fer-s.1549	Gemeine Natternzunge	140
+fer-s.1549	Southern adderstongue	140
+fer-1560	Hand Fern	140
+fer-1566	Tailed grapefern	140
+fer-1569	Trianglelobe moonwort	140
+fer-1571	Parsley fern	140
+fer-1571	Patotara	140
+fer-s.1571	Parsley fern	140
+fer-s.1571	Patotara	140
+fer-1573	Fine-leaved parsley fern	140
+fer-1574	Sparse-lobed Grape Fern	140
+fer-1575	Nordischer Rautenfarn	140
+fer-1575	Northern moonwort	140
+fer-1576	Iowa moonwort	140
+fer-1578	Scalloped moonwort	140
+fer-1581	Cut-Leaf Grape Fern	140
+fer-1581	lacy leaf grape fern.	140
+fer-1583	Reflected grapefern	140
+fer-1585	Frenchman's Bluff Moonwort	140
+fer-1586	Western Moonwort	140
+fer-1589	Dixie grapefern	140
+fer-1590	Triangle Moonwort	140
+fer-s.1590	Triangle Moonwort	140
+fer-s.1591	Narrow Triangle Moonwort	140
+fer-1593	Narrowleaf grapefern	140
+fer-1594	Gemeine Mondraute	140
+fer-1594	Moonwort	140
+fer-s.1594	Gemeine Mondraute	140
+fer-s.1594	Moonwort	140
+fer-1597	Winter Grape Fern	140
+fer-1598	&Auml;stige Mondraute	140
+fer-1598	&Auml;stiger Rautenfarn	140
+fer-1598	Daisy-leaf Grape Fern	140
+fer-1599	Michigan Moonwort	140
+fer-1601	Mingan Moonwort	140
+fer-1602	Mountain moonwort	140
+fer-1603	Little goblin moonwort	140
+fer-1604	Vielteilige Mondraute (Rautenfarn)	140
+fer-1604	Leathery Grape Fern	140
+fer-1607	Blunt-lobed Grape Fern	140
+fer-1608	Pale botrychium	140
+fer-1609	Peculiar moonwort	140
+fer-1610	Stalked Moonwort	140
+fer-1611	Northern Moonwort	140
+fer-1612	False daisyleaf moonwort	140
+fer-1613	Crater Lake grapefern	140
+fer-1614	Leathery grapefern	140
+fer-1615	Ternate Grape Fern	140
+fer-1615	St. Lawrence Grape Fern	140
+fer-1617	Einfache Mondraute	140
+fer-1617	Least Moonwort	140
+fer-s.1617	Einfache Mondraute	140
+fer-s.1617	Least Moonwort	140
+fer-1620	Spatulate Moonwort	140
+fer-1628	Virginische Mondraute (Rautenfarn)	140
+fer-1628	Rattlesnake Fern	140
+fer-s.1628	Virginische Mondraute (Rautenfarn)	140
+fer-s.1628	Rattlesnake Fern	140
+fer-1642	Whisk Fern	140
+fer-1664	Acker-Schachtelhalm	140
+fer-1664	Field Horsetail	140
+fer-s.1664	Acker-Schachtelhalm	140
+fer-s.1664	Field Horsetail	140
+fer-1667	Teich-Schachtelhalm	140
+fer-1667	Water Horsetail	140
+fer-1669	Winter-Schachtelhalm	140
+fer-1669	Common Scouring Rush	140
+fer-s.1669	Winter-Schachtelhalm	140
+fer-s.1669	Common Scouring Rush	140
+fer-s.1670	Scouringrush horsetail	140
+fer-1671	Smooth horsetail	140
+fer-1674	Sumpf-Schachtelhalm	140
+fer-1674	Marsh Horsetail	140
+fer-1675	Wiesen-Schachtelhalm	140
+fer-1675	Meadow Horsetail	140
+fer-1676	&Auml;stiger Schachtelhalm	140
+fer-1676	Branched scouringrush	140
+fer-s.1676	&Auml;stiger Schachtelhalm	140
+fer-s.1676	Branched scouringrush	140
+fer-1678	Dwarf Scouring Rush	140
+fer-1679	Wald-Schachtelhalm	140
+fer-1679	Wood Horsetail	140
+fer-1680	Riesen-Schachtelhalm	140
+fer-1680	Giant Horsetail	140
+fer-s.1680	Riesen-Schachtelhalm	140
+fer-s.1680	Giant Horsetail	140
+fer-s.1681	Giant Horsetail	140
+fer-1682	Rauhz&auml;hniger Schachtelhalm	140
+fer-1683	Bunter Schachtelhalm	140
+fer-1683	Variegated Horsetail	140
+fer-s.1683	Bunter Schachtelhalm	140
+fer-s.1683	Variegated Horsetail	140
+fer-s.1684	Alaskan scouringrush	140
+fer-1685	Els&auml;sser Schachtelhalm	140
+fer-1685	Alsace Horsetail	140
+fer-1686	Aufsteigender Schachtelhalm	140
+fer-1686	Climbing Horsetail	140
+fer-1688	Dyces Schachtelhalm	140
+fer-1688	Dyce's Horsetail	140
+fer-1689	Ferriss' Scouring-rush	140
+fer-1690	Font-Quers Schachtelhalm	140
+fer-1690	Font Quer's Horsetail	140
+fer-1691	Geisserts Schachtelhalm	140
+fer-1691	Geissert's Horsetail	140
+fer-1694	Ufer-Schachtelhalm	140
+fer-1694	Shore Horsetail	140
+fer-1697	S&uuml;dlicher Schachtelhalm	140
+fer-1697	Southern Horsetail	140
+fer-1700	Moores Schachtelhalm	140
+fer-1700	Moore's Horsetail	140
+fer-1775	King fern or Giant fern	140
+fer-1842	King fern	140
+fer-1842	Para	140
+fer-1842	Potato fern	140
+fer-1854	King fern	140
+fer-1854	Crape fern	140
+fer-1859	Heruheru	140
+fer-1859	Single Crepe Fern	140
+fer-1862	Crepe fern	140
+fer-1862	Heruheru	140
+fer-1862	Prince of Wales feathers	140
+fer-1862	Ngutungutu kiwi (Maori)	140
+fer-1866	Cinnamon Fern	140
+fer-s.1866	Cinnamon Fern	140
+fer-1870	Interrupted fern	140
+fer-s.1870	Interrupted fern	140
+fer-1883	K&ouml;nigsfarn	140
+fer-1883	Royal Fern	140
+fer-1884	Royal fern	140
+fer-1911	Bristle fern	140
+fer-1917	Bristle fern	140
+fer-1968	Entire-winged Bristle Fern	140
+fer-2042	Royal bristle fern	140
+fer-2066	Treemoss bristle fern	140
+fer-2070	Lined bristle fern	140
+fer-2073	Scale edge bristle fern	140
+fer-2080	Dwarf Bristle Fern	140
+fer-2082	Dotted bristle fern	140
+fer-s.2082	Dotted bristle fern	140
+fer-s.2083	Florida Dotted Bristle Fern	140
+fer-2101	Appalachian Bristle Fern	140
+fer-2118	Pr&auml;chtiger Haarfarn (DE); Helecho de cristal (ES)	140
+fer-2152	Weft fern	140
+fer-2209	Austral filmy ferm	140
+fer-2261	Common filmy fern	140
+fer-2265	Irirangi (Maori)	140
+fer-2295	Shiny filmy fern	140
+fer-2372	Bordered filmy fern	140
+fer-2395	Kidney fern	140
+fer-2395	Raurenga (Maori)	140
+fer-2415	Alpine filmy fern	140
+fer-2427	Smooth filmy fern	140
+fer-2461	Piripiri (Maori)	140
+fer-2486	Taylors Filmy Fern	140
+fer-2504	Englischer Hautfarn (DE); Tunbridge filmy fern (EN); Helechilla (ES)	140
+fer-2520	Wilsons Hautfarn (DE); Helechilla de Wilson (ES); Wilson's Filmy Fern (EN)	140
+fer-2521	Wright's Filmy Fern	140
+fer-2532	Drooping forkedfern	140
+fer-2582	Umbrella fern	140
+fer-2582	Waekura	140
+fer-2582	Tapuwae kotuku	140
+fer-2584	Shiny Fan fern	140
+fer-2584	Umbrella fern	140
+fer-s.2584	Shiny Fan fern	140
+fer-s.2584	Umbrella fern	140
+fer-2612	Spreading Fan fern	140
+fer-2647	Silky fan fern	140
+fer-2664	Dwarf coral fern	140
+fer-2665	Alpine coral fern	140
+fer-2669	Tangle fern	140
+fer-2669	Pouched coral fern	140
+fer-2669	Spider fern	140
+fer-2669	Swamp umbrella fern	140
+fer-2675	Carrier tangle	140
+fer-2675	Waewaekaka (Maori)	140
+fer-2675	Umbrella fern	140
+fer-2675	coral fern	140
+fer-2703	Giant Scrambling fern.	140
+fer-2733	Mangemange (Maori)	140
+fer-2743	Japanese Climbing Fern	140
+fer-2748	Climbing maidenhair	140
+fer-2748	Snake fern	140
+fer-2748	Small-leaved Climbing Fern	140
+fer-2750	American Climbing Fern	140
+fer-2750	Windsor Fern	140
+fer-2766	Pineland fern	140
+fer-2835	Mexican Flowering Fern	140
+fer-2898	Wright's Flowering Fern	140
+fer-2907	Forked Comb fern	140
+fer-2908	Fan fern	140
+fer-2912	Comb fern	140
+fer-2912	Narrow Comb fern	140
+fer-2912	Southern Comb fern	140
+fer-2922	Little curlygrass fern	140
+fer-2939	Ray Spiked Fern	140
+fer-2966	Common Nardoo	140
+fer-2975	Rough waterclover	140
+fer-2979	Bigfoot Water Clover	140
+fer-2981	Dwarf waterclover	140
+fer-2983	Chihuahuan waterclover	140
+fer-2988	Pacific waterclover	140
+fer-2993	Vierbl&auml;ttriger Kleefarn (DE); European Water Clover	140
+fer-2993	Water shamrock (EN); Trebol de agua (ES)	140
+fer-2996	Gestreifter Kleefarn	140
+fer-3000	Hairy Water Clover	140
+fer-3000	Hairy peppermint	140
+fer-3005	Latex fern	140
+fer-3007	American Pillwort	140
+fer-3010	Pillenfarn	140
+fer-3011	Kleiner Pillenfarn	140
+fer-3012	Australian pillwort; New Zealand Pillwort	140
+fer-3015	Rundbl&auml;ttriger Schwimmfarn	140
+fer-3020	Water spangles	140
+fer-3021	Schwimmfarn (DE); Floating watermoss (EN); Helechillo de agua (ES)	140
+fer-3026	Kariba weed	140
+fer-3028	Kleiner Algenfarn	140
+fer-3028	Eastern Mosquito Fern	140
+fer-3028	Carolina mosquitofern	140
+fer-3029	Gro&szlig;er Algenfarn (DE); Large Mosquito Fern	140
+fer-3029	Ferny Azolla	140
+fer-3029	Pacific Azolla (EN); Karearera	140
+fer-3029	Retoreto (Maori); Tembladerilla	140
+fer-3029	luchecillo (ES)	140
+fer-s.3029	Gro&szlig;er Algenfarn (DE); Large Mosquito Fern	140
+fer-s.3029	Ferny Azolla	140
+fer-s.3029	Pacific Azolla (EN); Karearera	140
+fer-s.3029	Retoreto (Maori); Tembladerilla	140
+fer-s.3029	luchecillo (ES)	140
+fer-3031	Mexican Mosquito Fern	140
+fer-3032	Nile Azolla	140
+fer-3033	Ferny Azolla	140
+fer-3033	Pacific Azolla	140
+fer-3033	Feathered mosquitofern	140
+fer-s.3033	Ferny Azolla	140
+fer-s.3033	Pacific Azolla	140
+fer-s.3033	Feathered mosquitofern	140
+fer-s.3034	African Azolla	140
+fer-3049	Kissenfarn (DE); Helecho colchonero (ES)	140
+fer-3073	Scythian Lamb	140
+fer-3073	Golden Chicken Fern	140
+fer-3074	Man fern	140
+fer-3076	Hawaiian tree fern (hapu)	140
+fer-3079	Royal cibotium	140
+fer-3080	Mexican tree fern	140
+fer-3133	West Indian tree fern	140
+fer-3155	Rough tree fern	140
+fer-s.3155	Rough tree fern	140
+fer-3162	Wig tree fern	140
+fer-3205	Norfolk Isl. tree fern	140
+fer-3221	Forest Tree Fern	140
+fer-3247	Mountain tree fern	140
+fer-3247	Golden tree fern	140
+fer-3259	Lacy tree fern	140
+fer-3277	Gully tree fern	140
+fer-3277	Slender tree fern	140
+fer-3286	Silver fern	140
+fer-3286	Ponga	140
+fer-3313	Common Tree Fern	140
+fer-3366	Korallen-Baumfarn	140
+fer-3397	Prickly-stemmed tree fern.	140
+fer-3449	Prickly tree fern	140
+fer-3451	Flying Spider-monkey tree fern	140
+fer-3493	Black tree fern	140
+fer-3493	Mamaku	140
+fer-3493	Korau (Maori)	140
+fer-3493	Sago tree fern	140
+fer-3682	Soft tree fern	140
+fer-3682	Katote (Maori)	140
+fer-3788	Skirted tree fern	140
+fer-3801	False bracken	140
+fer-3815	Woolly tree fern	140
+fer-3815	Wheki-ponga	140
+fer-3815	Kuripaka (Maori)	140
+fer-3819	Tuokuro (Maori)	140
+fer-s.3819	Tuokuro (Maori)	140
+fer-3827	Rough tree fern	140
+fer-3827	Wheki (Maori)	140
+fer-3827	Slender tree fern	140
+fer-3831	Bristly tree fern	140
+fer-3990	Screw fern	140
+fer-3999	Lacy wedge fern	140
+fer-4121	Thicket creepingfern	140
+fer-4130	Wedgelet Fern	140
+fer-4130	Clubbed creepingfern	140
+fer-4229	Bipinnate Cuplet Fern	140
+fer-4231	Tropical hayscented fern	140
+fer-4233	Lacy ground fern	140
+fer-4242	Beaded Cuplet Fern	140
+fer-4242	Southern hayscented fern	140
+fer-4262	Eastern hayscented fern	140
+fer-4294	Adlerfarn (DE); Southern Bracken (EN); Helecho comun (ES)	140
+fer-s.4294	Adlerfarn (DE); Southern Bracken (EN); Helecho comun (ES)	140
+fer-4300	Southern brackenfern	140
+fer-4304	Western brackenfern	140
+fer-s.4304	Western brackenfern	140
+fer-s.4305	Western brackenfern	140
+fer-s.4308	Hairy brackenfern	140
+fer-4309	Hairy bracken	140
+fer-4313	Northern bracken	140
+fer-4325	Hard fern	140
+fer-4325	Scented fern	140
+fer-4325	Ring fern	140
+fer-4325	Lace fern	140
+fer-4325	Matata (Maori)	140
+fer-4330	Austral Ground fern	140
+fer-4364	Dissected ground fern	140
+fer-4364	Thousand-leaved fern	140
+fer-4368	Harsh Ground fern	140
+fer-4379	Creeping Bramble Fern	140
+fer-4380	Downy Ground fern	140
+fer-4383	Ruddy Ground fern	140
+fer-s.4383	Ruddy Ground fern	140
+fer-4406	Soft Ground fern	140
+fer-4427	Tomato fern	140
+fer-4445	Water fern	140
+fer-4445	Mata (Maori)	140
+fer-4445	Bat's wing fern	140
+fer-4445	Oak fern	140
+fer-4466	Bamboo fern	140
+fer-4486	American rockbrake	140
+fer-4490	Cascade rockbrake	140
+fer-4491	Krauser Rollfarn	140
+fer-4494	Sitka rockbrake	140
+fer-4495	Fragile rockbrake	140
+fer-4500	Coast Leather Fern	140
+fer-4500	Golden leatherfern	140
+fer-4501	Inland Leather Fern	140
+fer-4502	Piai Lasa (Malay)	140
+fer-4502	Mangrove fern	140
+fer-4506	Floating antlerfern	140
+fer-4507	Triangle waterfern	140
+fer-4508	Water Sprite	140
+fer-4508	Oriental water fern	140
+fer-s.4508	Water Sprite	140
+fer-s.4508	Oriental water fern	140
+fer-4518	Forest brake	140
+fer-4526	Silver brake	140
+fer-4526	Striped brake	140
+fer-4533	Bahama Ladder Brake	140
+fer-4543	Thinleaf brake	140
+fer-s.4543	Thinleaf brake	140
+fer-4570	Netted brake	140
+fer-4578	Cretan Brake (EN); Kretischer Saumfarn (DE); Helecho temblon	140
+fer-4578	helecho orlado (ES)	140
+fer-s.4578	Cretan Brake (EN); Kretischer Saumfarn (DE); Helecho temblon	140
+fer-s.4578	helecho orlado (ES)	140
+fer-4596	Toothed brake	140
+fer-4614	Sword brake fern	140
+fer-4614	Slender brake	140
+fer-s.4616	Victorian brake	140
+fer-4634	Elephantleaf brake	140
+fer-4663	Unvollst&auml;ndiger Saumfarn (DE); Rajuno dentado (ES)	140
+fer-4698	Ladder brake	140
+fer-4698	Longleaf brake	140
+fer-4706	Sweet fern	140
+fer-4735	Spider Brake (EN); Vielteiliger Saumfarn (DE); Helecho arana (ES)	140
+fer-4751	Oriental brake	140
+fer-4760	White-lined Cretan Brake	140
+fer-4775	Braid fern	140
+fer-4793	Striped brake	140
+fer-4843	Tender brake	140
+fer-4843	Australian brake fern	140
+fer-4843	trembling fern	140
+fer-4843	shaking brake (EN); Turawera (Maori); Zitter-Saumfarn (DE)	140
+fer-4845	Painted brake	140
+fer-4846	Trisect brake	140
+fer-4846	Giant brake	140
+fer-4849	Jungle brake	140
+fer-4861	Chinese Ladder Brake (EN); Geb&auml;nderter Saumfarn (DE); Helecho de abichuela (ES)	140
+fer-s.4861	Chinese Ladder Brake (EN); Geb&auml;nderter Saumfarn (DE); Helecho de abichuela (ES)	140
+fer-4889	Japanese Claw fern	140
+fer-4889	Carrot fern	140
+fer-4900	Curly Gold fern	140
+fer-4900	Goldback fern	140
+fer-4908	D&uuml;nnbl&auml;ttriger Nacktfarn (DE); Annual fern	140
+fer-4908	Jersey fern (EN); Helecho de tiempo (ES)	140
+fer-5009	Dixie silverback fern	140
+fer-5013	Island goldback fern	140
+fer-5030	Mountain silverback fern	140
+fer-5034	Goldenrod Fern	140
+fer-5034	Threeleaf goldback fern	140
+fer-5096	Copper Fern	140
+fer-5108	Rival lipfern	140
+fer-5108	Texas lipfern	140
+fer-5109	Alabama Lipfern	140
+fer-5111	Golden Lipfern	140
+fer-5114	Cleveland's Lipfern	140
+fer-5115	Mrs. Cooper's Lipfern	140
+fer-5116	Coville's Lipfern	140
+fer-5116	Bead fern	140
+fer-5118	Fendler's Lipfern	140
+fer-5120	Slender Lipfern	140
+fer-5121	Lace lipfern	140
+fer-5122	Coastal Lipfern	140
+fer-5124	Hairy Lipfern	140
+fer-5125	Beaded Lipfern	140
+fer-5126	Fairy Swords	140
+fer-5134	Southern Lipfern	140
+fer-5137	Cotton Fern	140
+fer-5138	Royal lipfern	140
+fer-5139	Parry's Cloak Fern	140
+fer-5142	Pringle's Lipfern	140
+fer-s.5142	Pringle's Lipfern	140
+fer-5146	Eaton's Lipfern	140
+fer-5147	Rough lipfern	140
+fer-5149	Woolly Lipfern	140
+fer-5150	Viscid Lipfern	140
+fer-5151	Villous Lipfern	140
+fer-5152	Wooton's Lipfern	140
+fer-5153	Wright's Lipfern	140
+fer-5157	Graceful lipfern	140
+fer-5163	Powdery Cloak Fern	140
+fer-5165	Fendler's Cloak Fern	140
+fer-5167	Hairy false cloak fern	140
+fer-5168	Jones' Cloak Fern	140
+fer-5169	Border Cloak Fern	140
+fer-s.5169	Border Cloak Fern	140
+fer-5172	Small-leaved Cloak Fern	140
+fer-5185	Schuppenfarn	140
+fer-s.5185	Schuppenfarn	140
+fer-s.5186	Kurzstieliger Pelzfarn (DE); Doradilla canela (ES)	140
+fer-5188	Mouse-ear fern	140
+fer-s.5191	Wolliger Pelzfarn (DE); Doradilla velluda	140
+fer-s.5191	Helecho lanudo (ES)	140
+fer-5194	Coffee cliffbrake	140
+fer-5197	Purple cliffbrake	140
+fer-5199	Sierra cliffbrake	140
+fer-5201	Brewer's cliffbrake	140
+fer-5202	Bridges' cliffbrake	140
+fer-5206	Heart-leaved cliffbrake	140
+fer-5212	Sickle fern	140
+fer-5214	Gastony's cliffbrake	140
+fer-5215	Smooth cliffbrake	140
+fer-s.5215	Smooth cliffbrake	140
+fer-s.5216	Missouri cliffbrake	140
+fer-s.5217	Western dwarf cliffbrake	140
+fer-s.5218	Smooth cliffbrake	140
+fer-5220	Intermediate cliffbrake	140
+fer-5224	Lyngholm's cliffbrake	140
+fer-5225	Bird's Foot cliffbrake	140
+fer-s.5225	Bird's Foot cliffbrake	140
+fer-5231	Ovate-leaved cliffbrake	140
+fer-5240	New Zealand Cliff brake	140
+fer-5245	Ternate-leaved cliffbrake	140
+fer-5245	Trans-Pecos cliffbrake	140
+fer-s.5245	Ternate-leaved cliffbrake	140
+fer-s.5245	Trans-Pecos cliffbrake	140
+fer-5251	Spiny cliffbrake	140
+fer-5253	Wright's cliffbrake	140
+fer-5259	Cochise scaly cloakfern	140
+fer-s.5259	Cochise scaly cloakfern	140
+fer-s.5260	Chihuahua scaly cloakfern	140
+fer-s.5261	Arizona scaly cloakfern	140
+fer-5264	Hybrid cloakfern	140
+fer-5267	Wavy Scaly Cloak Fern	140
+fer-5268	Windham's scaly cloakfern	140
+fer-5271	Pale Silverback Fern	140
+fer-5272	Goldback Fern	140
+fer-s.5272	Goldback Fern	140
+fer-s.5275	Maxon's goldback fern	140
+fer-s.5276	Silverback fern	140
+fer-5282	Silver Cloak fern	140
+fer-5296	Floury Cloak fern	140
+fer-5340	California Lace Fern	140
+fer-5341	Tufted lacefern	140
+fer-5342	Indian's-dream	140
+fer-5348	Arizona Lipfern	140
+fer-5359	Glandular Lipfern	140
+fer-5367	Strawberry fern	140
+fer-5367	Star fern	140
+fer-5457	Hand fern	140
+fer-5457	Digit fern	140
+fer-5480	Foreign Cloak Fern	140
+fer-5483	Scaled cloak fern	140
+fer-5490	California Cloak Fern	140
+fer-s.5490	California Cloak Fern	140
+fer-5492	Copel.'s Cloak Fern	140
+fer-s.5493	Copelands cloak fern	140
+fer-5503	Gray's Cloak Fern	140
+fer-s.5503	Gray's Cloak Fern	140
+fer-s.5504	Sonoran cloak fern	140
+fer-5505	Gregg's Cloak Fern	140
+fer-5511	Lemmon's Cloak Fern	140
+fer-5520	Maxon's cloak fern	140
+fer-5522	Ala de sacre	140
+fer-5529	Nealley's cloak fern	140
+fer-5529	Schaffner's cloak fern	140
+fer-5532	Star cloak fern	140
+fer-5541	Rock fern	140
+fer-5542	Belangers spleenwort	140
+fer-5550	Silver Cloak fern	140
+fer-5552	Woolly Cloak fern	140
+fer-5568	Woolly Cloak fern	140
+fer-5568	Bristly Cloak fern	140
+fer-5576	Guanchen-Schuppenfarn (DE); Helecho de roca	140
+fer-5576	helecho chico (ES)	140
+fer-5598	Whitefoot Lipfern	140
+fer-5620	Madeira-Schuppenfarn (DE); Culantrillo de risco (ES)	140
+fer-5621	Zierlicher Schuppenfarn (DE); Doradilla fina (ES)	140
+fer-5629	Mulga fern	140
+fer-s.5629	Mulga fern	140
+fer-5637	Korsischer Schuppenfarn (DE); Helecho de risco (ES)	140
+fer-5638	Tirajana-Schuppenfarn (DE)	140
+fer-5641	Green cliffbrake	140
+fer-5659	Common maidenhair	140
+fer-5659	true maidenhair	140
+fer-5661	Aleutian Maidenhair Fern	140
+fer-5666	Double edge maidenhair	140
+fer-5681	Southern maidenhair	140
+fer-5681	Venus-hair fern	140
+fer-5681	Venushaar	140
+fer-5686	Trailing maidenhair	140
+fer-5686	Tailed maidenhair	140
+fer-5695	Common Maidenhair Fern	140
+fer-5695	Brittle maidenhair	140
+fer-5708	Filmy maidenhair	140
+fer-5708	Small maidenhair	140
+fer-5726	Giant maidenhair	140
+fer-5726	Black-stem maidenhair	140
+fer-5726	Australian maidenhair	140
+fer-5728	Fragile maidenhair	140
+fer-5746	Rosy maidenhair	140
+fer-5746	Rough maidenhair	140
+fer-s.5757	Ghatak's maidenhair fern	140
+fer-5761	California Maidenhair Fern	140
+fer-5768	Broadleaf maidenhair	140
+fer-5785	Fragrant Maiden-hair	140
+fer-5815	Northern Maidenhair Fern	140
+fer-s.5815	Northern Maidenhair Fern	140
+fer-5818	Silver-dollar fern	140
+fer-5829	Giant maidenhair	140
+fer-5834	Glossy maidenhair	140
+fer-5837	Pyramid maidenhair	140
+fer-5838	Delta maidenhair	140
+fer-5840	Talerfarn (D)	140
+fer-5840	Hierba tostonera (Esp)	140
+fer-s.5840	Talerfarn (D)	140
+fer-s.5840	Hierba tostonera (Esp)	140
+fer-5872	Brittle Maidenhair Fern	140
+fer-5872	Fan maidenhair	140
+fer-5884	Diamond maidenhair	140
+fer-5886	Hairy Maidenhair Fern	140
+fer-5886	Fuzzy maidenhair	140
+fer-5892	Hardy maidenhair	140
+fer-5892	Evergreen maidenhair	140
+fer-5894	Woolly maidenhair	140
+fer-5896	Green Mountain Maidenhair	140
+fer-5956	Stiff shoestring fern	140
+fer-5995	Ox-tongue fern	140
+fer-6025	Appalachian shoestring fern	140
+fer-6027	Grass Fern	140
+fer-6029	Shoestring Fern	140
+fer-6051	Bootlace Fern	140
+fer-6055	Bulblet bladderfern	140
+fer-6058	Zerbrechlicher Blasenfarn	140
+fer-6058	Brittle bladderfern	140
+fer-s.6058	Zerbrechlicher Blasenfarn	140
+fer-s.6058	Brittle bladderfern	140
+fer-6063	St. Lawrence bladderfern	140
+fer-6067	Berg-Blasenfarn	140
+fer-6067	Mountain bladderfern	140
+fer-6070	Lowland bladderfern	140
+fer-6071	Reeves' bladderfern	140
+fer-6073	Sudeten-Blasenfarn	140
+fer-6075	Tennessee bladderfern	140
+fer-6077	Upland brittle bladderfern	140
+fer-6078	Utah bladderfern	140
+fer-6091	Appalachian oakfern	140
+fer-6092	Pacific oakfern	140
+fer-6093	Eichenfarn	140
+fer-6093	Western oakfern	140
+fer-s.6096	Nahanni Oak Fern	140
+fer-6099	Ruprechtsfarn	140
+fer-6099	Scented oakfern	140
+fer-6103	Blackspore oakfern	140
+fer-6120	Narrow-leaved gladefern	140
+fer-6130	Cutleaf spleenwort	140
+fer-6140	Schwarzer Streifenfarn (DE)	140
+fer-6140	Black Spleenwort (EN)	140
+fer-6140	Culantrillo negro (ES)	140
+fer-s.6140	Schwarzer Streifenfarn (DE)	140
+fer-s.6140	Black Spleenwort (EN)	140
+fer-s.6140	Culantrillo negro (ES)	140
+fer-6146	Braungr&uuml;ner Streifenfarn	140
+fer-6146	Ladder spleenwort	140
+fer-6149	Shredded spleenwort	140
+fer-s.6149	Shredded spleenwort	140
+fer-s.6150	Braithwaites Streifenfarn (DE)	140
+fer-s.6150	Culantrillo de Braithwaite (ES)	140
+fer-6170	Zweischneidiger Streifenfarn (DE)	140
+fer-6170	Culantrillo calambur (ES)	140
+fer-6185	Ground spleenwort	140
+fer-s.6185	Ground spleenwort	140
+fer-6196	Slender spleenwort	140
+fer-6198	Gold-Milzfarn (DE); Doradilla medicinal (ES)	140
+fer-6200	Eared spleenwort	140
+fer-6200	Auricled Spleenwort	140
+fer-6201	Bird's nest fern	140
+fer-6237	Bradley's Spleenwort	140
+fer-6244	Mother spleenwort	140
+fer-6244	Hen and Chickens fern	140
+fer-6244	Manamana	140
+fer-6244	Moki (Maori)	140
+fer-s.6244	Mother spleenwort	140
+fer-s.6244	Hen and Chickens fern	140
+fer-s.6244	Manamana	140
+fer-s.6244	Moki (Maori)	140
+fer-s.6245	Hen and Chicken Fern	140
+fer-6250	Kanaren-Streifenfarn (DE)	140
+fer-6250	Doradilla de monteverde (ES)	140
+fer-6268	Milzfarn	140
+fer-6268	(Schuppen-)Schriftfarn	140
+fer-s.6268	Milzfarn	140
+fer-s.6268	(Schuppen-)Schriftfarn	140
+fer-6301	Hemlock Spleenwort	140
+fer-6306	Keilbl&auml;ttriger Streifenfarn	140
+fer-6306	Serpentin-Streifenfarn	140
+fer-s.6306	Keilbl&auml;ttriger Streifenfarn	140
+fer-s.6306	Serpentin-Streifenfarn	140
+fer-6315	Countess Dalhousies Spleenwort	140
+fer-6317	Mauritius spleenwort	140
+fer-6326	Toothed Spleenwort	140
+fer-s.6326	Toothed Spleenwort	140
+fer-6339	Three-in-one fern	140
+fer-6373	Little Spleenwort	140
+fer-s.6373	Little Spleenwort	140
+fer-6386	Zerschlitzter Streifenfarn	140
+fer-6387	Necklace fern	140
+fer-6387	Walking fern	140
+fer-6387	Butterfly fern	140
+fer-6389	Weeping spleenwort	140
+fer-6389	Hanging spleenwort	140
+fer-6389	Makawe o Raukatauri (Maori)	140
+fer-6391	Jura-Streifenfarn	140
+fer-s.6391	Jura-Streifenfarn	140
+fer-6441	Hierba candil (Esp)	140
+fer-6441	Efeufarn (D)	140
+fer-6449	Varicolored Spleenwort	140
+fer-6449	Bicolored Spleenwort	140
+fer-6468	Bastard-Hirschzunge	140
+fer-6510	Johnston River fern	140
+fer-6555	Meeres-Streifenfarn (D)	140
+fer-6555	Helecho marino (Esp)	140
+fer-6571	Shining spleenwort	140
+fer-6575	Single-sorus Spleenwort (EN)	140
+fer-6575	Einsoriger Streifenfarn (D)	140
+fer-6575	Culantrillo de pozo (Esp)	140
+fer-6579	Mountain Spleenwort	140
+fer-6599	Bird's-nest or Crow's-nest fern	140
+fer-6615	Shining spleenwort	140
+fer-6615	Glossy spleenwort	140
+fer-6615	Huruhuruwhenua (Maori)	140
+fer-s.6620	Billots Streifenfarn (DE); Culantrillo de Billot (ES)	140
+fer-6621	Shore spleenwort	140
+fer-6621	Parako	140
+fer-6621	Parenako (Maori)	140
+fer-s.6621	Shore spleenwort	140
+fer-s.6621	Parako	140
+fer-s.6621	Parenako (Maori)	140
+fer-6636	Spitzer Streifenfarn (DE)	140
+fer-6636	Culantrillo negro de monte (ES)	140
+fer-6643	Chaffy spleenwort	140
+fer-6644	Palmer's Spleenwort	140
+fer-6656	Poor Knights spleenwort	140
+fer-6676	Lobed Spleenwort	140
+fer-6679	Ebony Spleenwort	140
+fer-6681	Ruffled Spleenwort	140
+fer-6684	Sickle spleenwort	140
+fer-6684	Petako (Maori)	140
+fer-6719	Dwarf Spleenwort	140
+fer-6740	Blackstem Spleenwort	140
+fer-6742	Walking Fern	140
+fer-6753	Mauerraute	140
+fer-6753	Wall-rue	140
+fer-s.6753	Mauerraute	140
+fer-s.6753	Wall-rue	140
+fer-s.6754	Wall-rue	140
+fer-s.6756	Lance asplenium	140
+fer-6759	Blanket fern	140
+fer-6763	Pfeilbl&auml;ttrige Hirschzunge	140
+fer-6790	Hirschzunge (DE); Tonguefern (EN); Lengua cervina (ES)	140
+fer-s.6790	Hirschzunge (DE); Tonguefern (EN); Lengua cervina (ES)	140
+fer-s.6791	Hart's tonguefern	140
+fer-6796	Dolomit-Streifenfarn	140
+fer-s.6796	Dolomit-Streifenfarn	140
+fer-6803	Nordischer Streifenfarn (DE)	140
+fer-6803	Forked Spleenwort (EN)	140
+fer-6803	Helecho cinta (ES)	140
+fer-s.6803	Nordischer Streifenfarn (DE)	140
+fer-s.6803	Forked Spleenwort (EN)	140
+fer-s.6803	Helecho cinta (ES)	140
+fer-6808	New World Bird's Nest Fern	140
+fer-6825	Narrow-leaf bird's-nest fern	140
+fer-6877	Teror-Streifenfarn (DE)	140
+fer-6877	Culantrillo de Tenor (ES)	140
+fer-6886	Maidenhair spleenwort (EN)	140
+fer-6886	Braunstieliger Streifenfarn (DE)	140
+fer-6886	Culantrillo menor (ES)	140
+fer-s.6886	Maidenhair spleenwort (EN)	140
+fer-s.6886	Braunstieliger Streifenfarn (DE)	140
+fer-s.6886	Culantrillo menor (ES)	140
+fer-s.6902	Lovis' Strichfarn (D)	140
+fer-s.6902	Culantrillo menor (Esp)	140
+fer-6931	Limestone spleenwort	140
+fer-6932	Western Spleenwort	140
+fer-6936	Gr&uuml;ner Streifenfarn	140
+fer-6936	Green Spleenwort	140
+fer-6952	Gegenbl&auml;ttriger Streifenfarn	140
+fer-s.6952	Gegenbl&auml;ttriger Streifenfarn	140
+fer-s.6953	Heuflers Streifenfarn	140
+fer-6986	Hybrid Spleenwort	140
+fer-7065	Schw&auml;bischer Streifenfarn	140
+fer-7103	Scalloped spleenwort	140
+fer-7134	Buchenfarn	140
+fer-7134	Long beechfern	140
+fer-7137	Broad beechfern	140
+fer-7176	Swordfern	140
+fer-7176	Mariana Maiden Fern	140
+fer-7184	Sumpffarn	140
+fer-7184	Marsh Fern	140
+fer-s.7184	Sumpffarn	140
+fer-s.7184	Marsh Fern	140
+fer-s.7185	Eastern marsh fern	140
+fer-7208	Sierra marsh fern	140
+fer-7211	New York fern	140
+fer-7217	Bog fern	140
+fer-7217	Massachusetts Fern	140
+fer-7323	Balbis' maiden fern	140
+fer-7498	Glandular Maiden Fern	140
+fer-7559	Berglappenfarn	140
+fer-7559	Mountain Fern	140
+fer-7560	Queen's-veil maiden fern	140
+fer-7573	Deltoid maiden fern	140
+fer-7705	Alabama maiden fern	140
+fer-7721	Streak-sorus Fern	140
+fer-7822	Darkgreen maiden fern	140
+fer-7824	Creeping Star-hair Fern	140
+fer-7838	Stiff Star-hair Fern	140
+fer-s.7838	Stiff Star-hair Fern	140
+fer-7854	Freetip maiden fern	140
+fer-s.7854	Freetip maiden fern	140
+fer-7874	Makaleha maiden fern	140
+fer-7875	Hottentot Fern	140
+fer-7875	Willd.'s maiden fern	140
+fer-7913	Broadleaf maiden fern	140
+fer-7933	Lattice-vein Fern	140
+fer-7935	Toothed Lattice-vein Fern	140
+fer-8153	Jeweled maiden fern	140
+fer-8406	Abrupt-tip Maiden Fern	140
+fer-8427	Downy Maiden Fern	140
+fer-8427	Downy woodfern (EN); Gez&auml;hnter Sumpffarn (DE); Cristela dentada (ES)	140
+fer-8434	Stately Maiden Fern	140
+fer-8458	Widespread Maiden Fern	140
+fer-8458	Kunth's maiden fern	140
+fer-8461	Ovate Maiden Fern	140
+fer-s.8462	Lindheimers Maiden Fern	140
+fer-8467	Gridscale maiden fern	140
+fer-s.8474	Sonoran maiden fern	140
+fer-8475	Hairy Maiden Fern	140
+fer-s.8477	Roughhairy maiden fern	140
+fer-8514	Alpen-Wimperfarn	140
+fer-8514	Alpine Cliff Fern	140
+fer-8517	Appalachian cliff fern	140
+fer-8523	Cochise cliff fern	140
+fer-8528	Nordischer Wimperfarn	140
+fer-8528	Smooth Cliff Fern	140
+fer-s.8528	Nordischer Wimperfarn	140
+fer-s.8528	Smooth Cliff Fern	140
+fer-8535	S&uuml;dlicher Wimperfarn	140
+fer-8535	Rostroter Wimperfarn	140
+fer-8535	Rusty Cliff Fern	140
+fer-8544	Mexican Cliff Fern	140
+fer-8546	New Mexican Cliff Fern	140
+fer-8549	Blunt-lobed Cliff Fern	140
+fer-s.8549	Blunt-lobed Cliff Fern	140
+fer-s.8550	Western cliff fern	140
+fer-8552	Oregon cliff fern	140
+fer-s.8552	Oregon cliff fern	140
+fer-s.8553	Oregon cliff fern	140
+fer-8554	Philipps's Cliff Fern	140
+fer-8557	Plummer's Cliff Fern	140
+fer-8562	Zierlicher Wimperfarn	140
+fer-8565	Rocky Mountain woodsia	140
+fer-s.8565	Rocky Mountain woodsia	140
+fer-s.8566	Laurent's cliff fern	140
+fer-8577	Tryon's woodsia	140
+fer-8589	Alpen-Frauenfarn	140
+fer-8589	Berg-Frauenfarn	140
+fer-8590	Alpine ladyfern	140
+fer-8600	Asplenium ladyfern	140
+fer-s.8601	Subarctic ladyfern	140
+fer-s.8603	Subarctic ladyfern	140
+fer-8656	Wald-Frauenfarn (DE)	140
+fer-8656	Lady Fern (EN); Helecho hembra (ES)	140
+fer-s.8656	Wald-Frauenfarn (DE)	140
+fer-s.8656	Lady Fern (EN); Helecho hembra (ES)	140
+fer-8878	Silver false spleenwort	140
+fer-8937	Japanese false spleenwort	140
+fer-s.8937	Japanese false spleenwort	140
+fer-9019	Austral Lady fern	140
+fer-9055	Schatten-Frauenfarn (DE); Helecho de monte (ES)	140
+fer-9121	Vegetable Fern	140
+fer-9188	Governor Laffans Fern	140
+fer-9210	Lance-leaved Twin-sorus Fern	140
+fer-9502	Virginia Chain Fern	140
+fer-9504	Netted Chain Fern	140
+fer-9507	Giant Chain Fern	140
+fer-9513	Oriental Chain fern	140
+fer-9515	Rooting chainfern (EN); Wurzelnder Kettenfarn (DE); Pijara (ES)	140
+fer-9517	Mexican Chain fern	140
+fer-9528	Climbing Swamp fern	140
+fer-9531	Swamp Water fern	140
+fer-9532	Swamp Fern	140
+fer-9532	Saw Fern	140
+fer-9532	Toothed midsorus fern (EN)	140
+fer-9541	Peretao (Maori)	140
+fer-9551	Nini (Maori)	140
+fer-9564	Strap Water fern	140
+fer-s.9564	Strap Water fern	140
+fer-9566	Dwarf hard fern	140
+fer-s.9566	Dwarf hard fern	140
+fer-9579	Hammock Fern	140
+fer-9633	Thread fern	140
+fer-9636	Crown fern	140
+fer-9636	Piupiu (Maori)	140
+fer-9638	Fishbone Water fern	140
+fer-9644	Climbing blechnum	140
+fer-9666	Rippenfarn (DE)	140
+fer-9666	Deer Fern (EN); Doradilla de bosque (ES)	140
+fer-9697	Tristan da Cunha tree fern	140
+fer-9707	Rosy Water fern	140
+fer-9712	Palm leaf fern	140
+fer-9737	Mountain kiokio	140
+fer-9737	Dunedin-Cass blechnum	140
+fer-9740	Swamp kiokio	140
+fer-9760	Green Bay blechnum	140
+fer-9769	Brazilian Tree fern	140
+fer-9771	Gristle fern	140
+fer-9775	Dwarf tree fern	140
+fer-9780	Prickly Rasp fern	140
+fer-9780	hacksaw fern	140
+fer-9781	Rasp fern	140
+fer-9781	Pukupuku	140
+fer-9783	Small Rasp fern	140
+fer-9794	Hacksaw fern	140
+fer-9794	Rasp fern	140
+fer-9794	Pukupuku (Maori)	140
+fer-9803	Strau&szlig;farn	140
+fer-9803	Ostrich Fern	140
+fer-s.9803	Strau&szlig;farn	140
+fer-s.9803	Ostrich Fern	140
+fer-9809	Sensitive Fern	140
+fer-9830	Malaysia Tree maidenhair fern	140
+fer-9841	Heuduftender Wurmfarn (DE); Ninfa de los bosques (ES)	140
+fer-s.9841	Heuduftender Wurmfarn (DE); Ninfa de los bosques (ES)	140
+fer-9843	Schuppiger Wurmfarn (DE); Dentabron (ES)	140
+fer-s.9843	Schuppiger Wurmfarn (DE); Dentabron (ES)	140
+fer-9869	Coastal woodfern	140
+fer-9884	Borrers Wurmfarn	140
+fer-9890	Mountain woodfern	140
+fer-9894	Dornfarn	140
+fer-9894	Kart&auml;user-Wurmfarn	140
+fer-9894	Toothed woodfern	140
+fer-9898	Log fern	140
+fer-9905	Cinnamon woodfern	140
+fer-9907	Clinton's woodfern	140
+fer-9921	Kammfarn	140
+fer-9921	Crested woodfern	140
+fer-9936	Breiter Wurmfarn	140
+fer-9943	Autumn fern	140
+fer-9945	Feingliedriger Dornfarn	140
+fer-9945	Spreading woodfern	140
+fer-9953	Gemeiner Wurmfarn	140
+fer-9953	Male Fern	140
+fer-s.9953	Gemeiner Wurmfarn	140
+fer-s.9953	Male Fern	140
+fer-9959	Duftender Wurmfarn	140
+fer-9959	Fragrant woodfern	140
+fer-s.9973	Na Pali-Kona Woodfern	140
+fer-9977	Goldie's woodfern	140
+fer-9981	Guanchen-Wurmfarn (DE); Helecho penco dentado (ES)	140
+fer-10007	Fancy fern	140
+fer-10007	Intermediate woodfern	140
+fer-s.10007	Fancy fern	140
+fer-s.10007	Intermediate woodfern	140
+fer-10040	Southern woodfern	140
+fer-10049	Marginal woodfern	140
+fer-10075	Kanaren-Wurmfarn (DE); Helecho macho (ES)	140
+fer-10076	Kleiner Wurmfarn	140
+fer-10076	Ger&ouml;ll-Dornfarn	140
+fer-10121	Entferntfiedriger Dornfarn	140
+fer-10127	Ross' woodfern	140
+fer-10184	Wakamoi Woodfern	140
+fer-10201	Starrer Wurmfarn	140
+fer-10219	Algonquin woodfern	140
+fer-10319	False hollyfern	140
+fer-10334	Prickly Shield fern	140
+fer-10334	East Indian holly fern	140
+fer-10381	Simpler East Indian Hollyfern	140
+fer-10381	Variegated Shield fern	140
+fer-10389	Upside-down fern	140
+fer-10420	Christmas Fern	140
+fer-10422	Dorniger Schildfarn	140
+fer-10422	Gelappter Schildfarn (DE); Portia (ES)	140
+fer-10437	Anderson's hollyfern	140
+fer-10466	Weicher Schildfarn	140
+fer-10466	Zarter Schildfarn	140
+fer-10466	Brauns Schildfarn	140
+fer-10466	Braun's hollyfern	140
+fer-10469	California Sword Fern	140
+fer-10499	Alpine shield fern	140
+fer-10518	Dudley's swordfern	140
+fer-10579	Narrowleaf swordfern	140
+fer-s.10579	Narrowleaf swordfern	140
+fer-10597	Kruckeberg's Hollyfern	140
+fer-10600	Kwakiutl's hollyfern	140
+fer-10602	Aleutian Hollyfern	140
+fer-10609	Shasta Fern	140
+fer-10609	Lemmon's hollyfern	140
+fer-10619	Lanzen-Schildfarn	140
+fer-10619	Northern Hollyfern	140
+fer-10627	Korean rockfern	140
+fer-10648	Attu Hollyfern	140
+fer-10662	Common Sword Fern	140
+fer-10669	Common shield fern	140
+fer-10669	Pikopiko	140
+fer-10669	Tutoke (Maori)	140
+fer-s.10669	Common shield fern	140
+fer-s.10669	Pikopiko	140
+fer-s.10669	Tutoke (Maori)	140
+fer-10683	Common shield fern	140
+fer-10683	Pikopiko	140
+fer-10683	Tutoke (Maori)	140
+fer-10717	Mother shield fern	140
+fer-10752	Mountain hollyfern	140
+fer-10754	Borstiger Schildfarn (DE); Penco (ES)	140
+fer-10755	Alaska Sword Fern	140
+fer-10809	Prickly shield fern	140
+fer-10809	Punui (Maori)	140
+fer-10814	Black Shield Fern	140
+fer-10814	Shore Shield Fern	140
+fer-10895	Dwarf netvein hollyfern	140
+fer-10901	Asian Net-veined Hollyfern	140
+fer-10901	Japanese holly fern (EN); Sichelfarn (DE); Helecho de aureola (ES)	140
+fer-10902	Fortune's Net-veined Hollyfern	140
+fer-10932	Eared veinfern	140
+fer-10941	Bellybutton veinfern	140
+fer-11053	Florida lacefern	140
+fer-11053	Red-hair Comb Fern	140
+fer-11061	Brownhair lacefern	140
+fer-11207	Thinleaf creepingfern	140
+fer-11359	Tongue fern	140
+fer-11719	Ekaha	140
+fer-11967	Iron fern	140
+fer-12176	Bristly Shield fern	140
+fer-12176	Hairy fern	140
+fer-12184	Trim Shield fern	140
+fer-12213	Creeping Shield fern	140
+fer-12213	Glossy Shield fern	140
+fer-12224	Broad Shield fern	140
+fer-12226	Velvety Shield fern	140
+fer-12257	Giant Sword Fern	140
+fer-12257	Broad sword fern	140
+fer-12257	Coarse Sword fern	140
+fer-12259	Asian Sword Fern	140
+fer-12260	Fishbone fern	140
+fer-12260	Herringbone fern	140
+fer-12260	Sword fern	140
+fer-12260	Tuber sword fern	140
+fer-12260	Erect Sword fern	140
+fer-12260	Narrow sword fern	140
+fer-12266	Boston swordfern (EN); Hochgewachsener Schwertfarn (DE); Helecho rizado (ES)	140
+fer-s.12266	Boston swordfern (EN); Hochgewachsener Schwertfarn (DE); Helecho rizado (ES)	140
+fer-12268	Fishtail swordfern	140
+fer-12272	Rough Sword fern	140
+fer-12272	Scurfy Sword fern	140
+fer-12282	Streamside swordfern	140
+fer-12283	Annual Sword fern	140
+fer-12286	Avery's Sword Fern	140
+fer-12308	Hollyleaf fringedfern	140
+fer-12334	Giant vine fern	140
+fer-12403	Button fern	140
+fer-12409	Hattie Bauer's halberd fern	140
+fer-12435	Least Halberd Fern	140
+fer-12448	Brown Halberd Fern	140
+fer-12457	Incised Halberd Fern	140
+fer-12709	Jointed fern	140
+fer-12756	Kanarenfarn (DE)	140
+fer-12756	Canary Fern (EN)	140
+fer-12756	Helecho batatilla (ES)	140
+fer-12761	Toothed davallia	140
+fer-12770	Bear's-foot fern	140
+fer-12770	Silver Hare's-foot	140
+fer-12780	Black caterpillar fern	140
+fer-12782	Dwarf Hare's-foot	140
+fer-12789	Giant Hare's-foot	140
+fer-12789	Polynesian davallia	140
+fer-s.12791	Fiji davallia	140
+fer-s.12791	Lacy hare's-foot	140
+fer-s.12792	Hare's-foot fern	140
+fer-s.12792	Australian davallia	140
+fer-12796	Squirrel's-foot fern	140
+fer-12803	Strap fern	140
+fer-12820	Lance fern	140
+fer-12872	Oak Leaf fern	140
+fer-12873	Basket fern	140
+fer-13018	South American Staghorn	140
+fer-13019	Elkhorn fern (EN); Geweihfarn (DE); Helecho cuerno de alce (ES)	140
+fer-s.13019	Elkhorn fern (EN); Geweihfarn (DE); Helecho cuerno de alce (ES)	140
+fer-13022	Cabbage fern	140
+fer-13024	Staghorn fern	140
+fer-13025	Northern Elkhorn	140
+fer-13030	Triangular staghorn	140
+fer-13031	Superb Staghorn	140
+fer-13032	Silver staghorn	140
+fer-13052	Robber fern	140
+fer-s.13053	Silvery Felt fern	140
+fer-13059	Leather-leaf fern	140
+fer-13074	Japanese felt fern	140
+fer-13074	Tongue fern	140
+fer-13083	Creeping Button fern	140
+fer-13095	Felt fern	140
+fer-13113	Penny fern	140
+fer-13161	Needle fern	140
+fer-13161	Tailed fern	140
+fer-13243	Pimple fern	140
+fer-13248	Hound's tongue	140
+fer-13248	Kowaowao (Maori)	140
+fer-13248	Kangaroo fern	140
+fer-s.13248	Hound's tongue	140
+fer-s.13248	Kowaowao (Maori)	140
+fer-s.13248	Kangaroo fern	140
+fer-13251	Fragrant fern	140
+fer-13251	Mokimoki (Maori)	140
+fer-13252	Monarch Fern	140
+fer-13291	Climbing Bird's Nest	140
+fer-13332	Grub fern	140
+fer-13332	Caterpillar fern	140
+fer-13739	Common strap fern	140
+fer-s.13739	Common strap fern	140
+fer-13952	West Indian dwarf polypody	140
+fer-14240	Narrow Strap Fern	140
+fer-14240	Central American Strap Fern	140
+fer-14240	Kita chorillo	140
+fer-14245	Wide Strap Fern	140
+fer-14251	Tailed Strap Fern	140
+fer-14271	Long Strap Fern	140
+fer-14271	Central American Strap Fern	140
+fer-14310	Clinging snakefern	140
+fer-14313	Clubmoss snakefern	140
+fer-14321	Snake polypody	140
+fer-14321	Hairy snakefern	140
+fer-14330	Potato fern	140
+fer-14335	False golden polypody	140
+fer-14336	Rabbit's foot fern	140
+fer-14336	Hare's foot	140
+fer-14336	Serpent fern	140
+fer-14336	Golden polypody	140
+fer-14336	Gold-foot Fern (EN); Goldt&uuml;pfelfarn (DE); Calaguala (ES)	140
+fer-14382	Anglevein fern	140
+fer-14393	Irregular Polypody	140
+fer-14394	Appalachian polypody	140
+fer-14398	California Polypody	140
+fer-14399	Nested polypody	140
+fer-14400	S&uuml;dlicher T&uuml;pfelfarn	140
+fer-s.14400	S&uuml;dlicher T&uuml;pfelfarn	140
+fer-s.14402	Makaronesischer T&uuml;pfelfarn (DE); Polipodio del pais (ES)	140
+fer-14423	Licorice Fern	140
+fer-14426	Western polypody	140
+fer-14428	Ges&auml;gter T&uuml;pfelfarn	140
+fer-14428	Mittlerer T&uuml;pfelfarn	140
+fer-14458	Rocky Mountain polypody	140
+fer-14459	Leathery polypody	140
+fer-14460	Siberian Polypody	140
+fer-14465	Rock polypody	140
+fer-14466	T&uuml;pfelfarn	140
+fer-14466	Engels&uuml;ss	140
+fer-s.14466	T&uuml;pfelfarn	140
+fer-s.14466	Engels&uuml;ss	140
+fer-14484	Star-scaled Polypody	140
+fer-14524	Ribbon Fern	140
+fer-14528	Resurrection fern	140
+fer-s.14548	Red-scaled Polypody	140
+fer-14558	Rio Grande scaly polypody	140
+fer-14568	Scaly polypody	140
+fer-14598	Bermuda rockcap fern	140
+fer-14599	Palmleaf rockcap fern	140
+fer-14607	Widespread rockcap fern	140
+fer-14622	Comb polypody	140
+fer-14622	Comb fern	140
+fer-14626	Plumed rockcap fern	140
+fer-14627	Comb Polypody	140

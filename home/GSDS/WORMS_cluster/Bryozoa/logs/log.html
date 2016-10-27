@@ -1,0 +1,2547 @@
+<html><body>
+<br><b>Harvesting...</b>
+<pre>
+</pre><hr><b>File format conversions...</b>
+<pre>
+Unzipping
+Archive:  WoRMS_Bryozoa.zip
+  inflating: AcceptedSpecies.txt     
+  inflating: AcceptedInfraSpecificTaxa.txt  
+  inflating: Synonyms.txt            
+  inflating: CommonNames.txt         
+  inflating: Distribution.txt        
+  inflating: References.txt          
+  inflating: NameReferencesLinks.txt  
+  inflating: SourceDatabase.txt      
+Skipping format conversion
+</pre><hr><b>Creating buffer database, performing structural transformations...</b>
+<pre>
+<pre>
+Initiating buffer creation - this may take a while depending on size of the dataset...
+
+Creating buffer database Buffer_Bryozoa in schema as provided by Bryozoa
+--------------
+DROP DATABASE IF EXISTS Buffer_Bryozoa
+--------------
+
+--------------
+CREATE DATABASE IF NOT EXISTS Buffer_Bryozoa
+--------------
+
+--------------
+CREATE TABLE `AcceptedInfraSpecificTaxa` (
+`AcceptedTaxonID` varchar(50) PRIMARY KEY,
+`ParentSpeciesID` varchar(50) default NULL,
+`InfraSpeciesEpithet` varchar(50) default NULL,
+`InfraSpecificAuthorString` varchar(50) default NULL,
+`InfraSpecificMarker` varchar(10) default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`IsFossil` tinyint(1) default NULL,
+`LifeZone` varchar(50) default NULL,
+`AdditionalData` varchar(255) default NULL,
+`LTSSpecialist` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`LTSDate` varchar(50) default NULL,
+`InfraSpeciesURL` varchar(255) default NULL,
+`GSDTaxonGUI` varchar(255) default NULL,
+`GSDNameGUI`  varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `AcceptedSpecies` (
+`AcceptedTaxonID` varchar(50) PRIMARY KEY,
+`Kingdom` varchar(50) default NULL,
+`Phylum` varchar(50) default NULL,
+`Class` varchar(50) default NULL,
+`Order` varchar(50) default NULL,
+`Superfamily` varchar(50) default NULL,
+`Family` varchar(50) default NULL,
+`Genus` varchar(50) default NULL,
+`SubGenusName` varchar(50) default NULL,
+`Species` varchar(50) default NULL,
+`AuthorString` varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`IsFossil` tinyint(1) default NULL,
+`LifeZone` varchar(50) default NULL,
+`AdditionalData` varchar(255) default NULL,
+`LTSSpecialist` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`LTSDate` varchar(50) default NULL,
+`SpeciesURL` varchar(255) default NULL,
+`GSDTaxonGUI` varchar(255) default NULL,
+`GSDNameGUI` varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `CommonNames` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`CommonName` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Transliteration` varchar(255) default NULL,
+`Language` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`Country`  varchar(255) default NULL,
+`Area`  varchar(255) default NULL,
+`ReferenceID` varchar(50) default NULL,
+PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE = utf8_general_ci
+--------------
+
+--------------
+CREATE TABLE `Distribution` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`Distribution` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`StandardInUse` varchar(50) default NULL,
+`DistributionStatus` varchar(50) default NULL,
+PRIMARY KEY (`record_id`) 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE = utf8_general_ci
+--------------
+
+--------------
+CREATE TABLE `References` (
+`ReferenceID` varchar(50) PRIMARY KEY,
+`Authors` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`Year` varchar(255) default NULL,
+`Title` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Details` varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `NameReferencesLinks` (
+`ID` integer(10) PRIMARY KEY,
+`ReferenceType` varchar(50) default NULL,
+`ReferenceID` varchar(50) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `SourceDatabase` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`DatabaseFullName` varchar(255) NOT NULL,
+`DatabaseShortName` varchar(50) NOT NULL,
+`DatabaseVersion` varchar(50) NOT NULL,
+`ReleaseDate` varchar(50) NOT NULL,
+`AuthorsEditors` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`TaxonomicCoverage` varchar(255) NOT NULL,
+`GroupNameInEnglish` varchar(255) NOT NULL,
+`Abstract` text  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Organisation` varchar(255) NOT NULL,
+`HomeURL` varchar(255) default NULL,
+`Coverage` varchar(50) default NULL,
+`Completeness` integer(3) default NULL,
+`Confidence` integer(1) default NULL,
+`LogoFileName`  varchar(255) default NULL,
+`ContactPerson` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+PRIMARY KEY (`record_id`) 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `Synonyms` (
+`ID` integer(10) PRIMARY KEY,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`Genus` varchar(50) NOT NULL,
+`SubGenusName` varchar(50) default NULL,
+`Species` varchar(50) NOT NULL,
+`AuthorString` varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`InfraSpecies` varchar(50) default NULL,
+`InfraSpecificMarker` varchar(50) default NULL,
+`InfraSpecificAuthorString`  varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`GSDNameGUI` varchar(255) default NULL 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'AcceptedInfraSpecificTaxa.txt' INTO TABLE `AcceptedInfraSpecificTaxa` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES 
+(`AcceptedTaxonID`, `ParentSpeciesID`, `InfraSpeciesEpithet`, `InfraSpecificAuthorString`,  `InfraSpecificMarker`, `GSDNameStatus`,  `Sp2000NameStatus`, `IsFossil`, `LifeZone`, `AdditionalData`, `LTSSpecialist`, `LTSDate`, `InfraSpeciesURL`, `GSDTaxonGUI`, `GSDNameGUI`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'AcceptedSpecies.txt' INTO TABLE `AcceptedSpecies` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `Kingdom`, `Phylum`, `Class`, `Order`, `Superfamily`, `Family`, `Genus`, `SubGenusName`, `Species`, `AuthorString`, `GSDNameStatus`, `Sp2000NameStatus`, `IsFossil`, `LifeZone`, `AdditionalData`, `LTSSpecialist`, `LTSDate`, `SpeciesURL`, `GSDTaxonGUI`, `GSDNameGUI`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'CommonNames.txt' INTO TABLE `CommonNames` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `CommonName`, `Transliteration`, `Country`, `Area`, `Language`, `ReferenceID`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'Distribution.txt' INTO TABLE `Distribution` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `Distribution`, `StandardInUse`, `DistributionStatus`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'NameReferencesLinks.txt' INTO TABLE NameReferencesLinks CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ID`, `ReferenceType`, `ReferenceID`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'References.txt' INTO TABLE `References` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ReferenceID`, `Authors`, `Year`, `Title`, `Details`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'SourceDatabase.txt' INTO TABLE `SourceDatabase` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`DatabaseFullName`, `DatabaseShortName`, `DatabaseVersion`, `ReleaseDate`, `AuthorsEditors`, `TaxonomicCoverage`, `GroupNameInEnglish`, `Abstract`, `Organisation`, `HomeURL`, `Coverage`, `Completeness`, `Confidence`, `LogoFileName`, `ContactPerson`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'Synonyms.txt' INTO TABLE `Synonyms` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ID`, `AcceptedTaxonID`, `Genus`, `SubGenusName`, `Species`, `AuthorString`, `InfraSpecies`, `InfraSpecificMarker`, `InfraSpecificAuthorString`, `GSDNameStatus`, `Sp2000NameStatus`, `GSDNameGUI`)
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+Initial database created. Creating database Assembly_Bryozoa in assembly schema
+--------------
+DROP DATABASE IF EXISTS Assembly_Bryozoa
+--------------
+
+--------------
+CREATE DATABASE IF NOT EXISTS Assembly_Bryozoa
+--------------
+
+--------------
+DROP TABLE IF EXISTS `databases`
+--------------
+
+--------------
+CREATE TABLE  `databases` (
+  `database_name_displayed` varchar(125) DEFAULT NULL,
+  `record_id` int(10) NOT NULL AUTO_INCREMENT,
+  `database_name` varchar(150) DEFAULT NULL,
+  `database_full_name` varchar(100) NOT NULL DEFAULT '',
+  `web_site` longtext,
+  `organization` longtext,
+  `contact_person` varchar(255) DEFAULT NULL,
+  `taxa` varchar(255) DEFAULT NULL,
+  `taxonomic_coverage` longtext,
+  `abstract` longtext,
+  `version` varchar(255) DEFAULT NULL,
+  `release_date` date DEFAULT '0000-00-00',
+  `SpeciesCount` int(11) DEFAULT 0,
+  `SpeciesEst` int(11) DEFAULT 0,
+  `authors_editors` longtext,
+  `accepted_species_names` int(10) DEFAULT 0,
+  `accepted_infraspecies_names` int(10) DEFAULT 0,
+  `species_synonyms` int(10) DEFAULT 0,
+  `infraspecies_synonyms` int(10) DEFAULT 0,
+  `common_names` int(10) DEFAULT 0,
+  `total_names` int(10) DEFAULT 0,
+  `is_new` tinyint(1) NOT NULL DEFAULT 0,
+  `coverage` varchar(45) DEFAULT NULL,
+  `completeness` int(3) unsigned DEFAULT 0,
+  `confidence` 	tinyint(1) unsigned DEFAULT 0,
+  PRIMARY KEY (`record_id`),
+  KEY `database_name` (`database_name`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `families`
+--------------
+
+--------------
+CREATE TABLE  `families` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `hierarchy_code` varchar(250) NOT NULL,
+  `kingdom` varchar(50) NOT NULL DEFAULT 'Not Assigned',
+  `phylum` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `class` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `order` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `family` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `superfamily` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  `family_code` varchar(50) NOT NULL,
+  `is_accepted_name` int(1) unsigned,
+  PRIMARY KEY (`record_id`),
+  KEY (`family_code`),
+  KEY `kingdom` (`kingdom`),
+  KEY `phylum` (`phylum`),
+  KEY `class` (`class`),
+  KEY `order` (`order`),
+  KEY `family` (`family`),
+  KEY `superfamily` (`superfamily`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `sp2000_statuses`
+--------------
+
+--------------
+CREATE TABLE  `sp2000_statuses` (
+  `record_id` int(1) NOT NULL AUTO_INCREMENT,
+  `sp2000_status` varchar(50) NOT NULL DEFAULT '',
+  PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM
+--------------
+
+--------------
+DROP TABLE IF EXISTS `scientific_names`
+--------------
+
+--------------
+CREATE TABLE  `scientific_names` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `web_site` longtext,
+  `genus` varchar(50) DEFAULT NULL,
+  `subgenus` varchar(50) DEFAULT NULL,
+  `species` varchar(60) DEFAULT NULL,
+  `infraspecies_parent_name_code` varchar(42) DEFAULT NULL,
+  `infraspecies` varchar(50) DEFAULT NULL,
+  `infraspecies_marker` varchar(50) DEFAULT NULL,
+  `author` varchar(100) DEFAULT NULL,
+  `accepted_name_code` varchar(42) DEFAULT NULL,
+  `comment` longtext,
+  `scrutiny_date` text,
+  `sp2000_status_id` int(1) DEFAULT NULL,
+  `database_id` int(10) DEFAULT NULL,
+  `specialist_id` int(10) DEFAULT NULL,
+  `family_id` int(10) DEFAULT NULL,
+  `specialist_code` varchar(50) DEFAULT NULL,
+  `family_code` varchar(50) DEFAULT NULL,
+  `is_accepted_name` int(1) DEFAULT NULL,
+  `GSDTaxonGUID` longtext,
+  `GSDNameGUID` longtext,
+  `is_extinct` smallint(1) NOT NULL DEFAULT '0',
+  `has_preholocene` smallint(1) NOT NULL DEFAULT '0',
+  `has_modern` smallint(1) NOT NULL DEFAULT '1',
+  PRIMARY KEY (`record_id`,`name_code`),
+  KEY `database_id` (`database_id`),
+  KEY `family_id` (`family_id`),
+  KEY `species` (`species`),
+  KEY `infraspecies` (`infraspecies`),
+  KEY `specialist_code` (`specialist_code`),
+  KEY `accepted_name_code` (`accepted_name_code`),
+  KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
+  KEY `name_code1` (`name_code`,`family_id`),
+  KEY `record_id` (`record_id`,`family_id`),
+  KEY `genus` (`genus`,`species`,`infraspecies`),
+  KEY `sp2000_status_id` (`sp2000_status_id`),
+  KEY `sp2000_status_id_2` (`sp2000_status_id`,`database_id`,`infraspecies`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `common_names`
+--------------
+
+--------------
+CREATE TABLE  `common_names` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL DEFAULT '',
+  `common_name` varchar(700) NOT NULL,
+  `transliteration` varchar(700),
+  `language` varchar(25) NOT NULL,
+  `country` varchar(44) NOT NULL DEFAULT '',
+  `area` varchar(50) DEFAULT NULL,
+  `reference_id` int(10) DEFAULT '0',
+  `database_id` int(10) NOT NULL,
+  `is_infraspecies` int(1) NOT NULL DEFAULT '0',
+  `reference_code` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `common_name` (`common_name`),
+  KEY `reference_code` (`reference_code`),
+  KEY `name_code` (`name_code`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `distribution`
+--------------
+
+--------------
+CREATE TABLE  `distribution` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `distribution` longtext,
+  `StandardInUse` varchar(255) DEFAULT NULL,
+  
+   `DistributionStatus` varchar(255),
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`),
+  KEY `database_id` (`database_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `lifezone`
+--------------
+
+--------------
+CREATE TABLE  `lifezone` (
+  `record_id` int(11) NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42),
+  `lifezone` varchar(255),
+  `database_id` int(10),
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`),
+  KEY `database_id` (`database_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `scientific_name_references`
+--------------
+
+--------------
+CREATE TABLE  `scientific_name_references` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL DEFAULT '',
+  `reference_type` varchar(10) DEFAULT NULL,
+  `reference_id` int(10) DEFAULT '0',
+  `reference_code` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`,`reference_id`,`reference_type`),
+  KEY `reference_code` (`reference_code`),
+  KEY `name_code_2` (`name_code`,`reference_type`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `references`
+--------------
+
+--------------
+CREATE TABLE  `references` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `author` varchar(200) DEFAULT NULL,
+  `year` varchar(50) DEFAULT NULL,
+  `title` longtext,
+  `source` longtext,
+  `database_id` int(10) NOT NULL,
+  `reference_code` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `reference_code` (`reference_code`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `specialists`
+--------------
+
+--------------
+CREATE TABLE  `specialists` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `specialist_name` varchar(255) NOT NULL DEFAULT '',
+  `specialist_code` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `specialist_code` (`specialist_code`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+INSERT INTO `sp2000_statuses` 
+VALUES (1,'accepted name'),
+(2,'ambiguous synonym'),
+(3,'misapplied name'),
+(4,'provisionally accepted name'),
+(5,'synonym')
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+CREATE TRIGGER delfamcascade AFTER DELETE ON `families`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `scientific_names` WHERE family_code = old.family_code;
+
+END;
+
+CREATE TRIGGER delspcascade AFTER DELETE ON `scientific_names`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+DELETE FROM `distribution` WHERE name_code = old.name_code;
+DELETE FROM `lifezone` WHERE name_code = old.name_code;
+DELETE FROM `scientific_name_references` WHERE name_code = old.name_code;
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+
+END;
+
+CREATE TRIGGER delrefscascade AFTER DELETE ON `scientific_name_references`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `references` WHERE reference_code = old.reference_code;
+
+END;
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Creation of the assembly database completed.
+
+Starting structural transformations (ACEF3 to ACI)
+--------------
+SET @dbid = 81
+--------------
+
+--------------
+SET @dbabbr = 'W-Bry-'
+--------------
+
+--------------
+SET @dbtouse = 'Buffer_Bryozoa'
+--------------
+
+--------------
+UPDATE `databases` SET `taxonomic_coverage`="Animalia - Bryozoa", `is_new` = 2, `taxa`="Bryozoans, moss animals", `coverage`="Global", `completeness` = 100, `confidence` = 5
+--------------
+
+--------------
+SET foreign_key_checks = 0
+--------------
+
+--------------
+TRUNCATE TABLE `databases`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `databases`
+ SELECT
+ CONCAT(`DatabaseShortName`, ': ', `DatabaseFullName`)  AS `database_name_displayed`,
+ @dbid AS `record_id`,
+ `DatabaseShortName` AS `database_name`,
+ `DatabaseFullName` AS `database_full_name`,
+  `HomeURL` AS `web_site`,
+  `Organisation` AS `organization`,
+  `ContactPerson` AS `contact_person`,
+  `GroupNameInEnglish` AS `taxa`,
+  `TaxonomicCoverage` AS `taxonomic_coverage`,
+  `Abstract` AS `abstract`,
+  `DatabaseVersion` AS `version`,
+  `ReleaseDate` AS `release_date`,
+  `Coverage` AS `SpeciesCount`,
+  `Completeness` AS `SpeciesEst`,
+  `AuthorsEditors` AS `authors_editors`,
+  NULL AS `accepted_species_names`,
+  NULL AS `accepted_infraspecies_names`,
+  NULL AS `species_synonyms`,
+  NULL AS `infraspecies_synonyms`,
+  NULL AS `common_names`,
+  NULL AS `total_names`,
+  NULL AS `is_new`,
+  NULL AS `coverage`,
+  NULL AS `completeness`,
+  NULL AS `confidence`
+  FROM ",
+@dbtouse,
+".`SourceDatabase`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `distribution`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `distribution`
+ SELECT
+ NULL AS `record_id`,
+ CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
+ `Distribution` AS `distribution`,
+ `StandardInUse` AS `StandardInUse`,
+ `DistributionStatus` AS `DistributionStatus`,
+@dbid AS `database_id`
+ FROM ",
+@dbtouse,
+".`Distribution`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `families`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `families`
+SELECT DISTINCT
+NULL AS `record_id`,
+NULL AS `hierarchy_code`,
+`Kingdom` AS `kingdom`,
+`Phylum` AS `phylum`,
+`Class` AS `class`,
+`Order` AS `order`,
+`Family` AS `family`,
+`Superfamily` AS `superfamily`,
+@dbid AS `database_id`,
+NULL AS `family_code`,
+NULL AS `is_accepted_name`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+UPDATE `families` SET `family_code` = CONCAT(@dbabbr,record_id)
+--------------
+
+--------------
+TRUNCATE TABLE `specialists`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `specialists`
+SELECT DISTINCT
+NULL  AS `record_id`,
+`LTSSpecialist` AS `specialist_name`,
+NULL AS `specialist_code`,
+@dbid AS `database_id`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`
+WHERE `LTSSpecialist` IS NOT NULL OR
+`LTSSpecialist` != ''")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+UPDATE `specialists` SET `specialist_code` = CONCAT(@dbabbr,record_id)
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_names`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
+`SpeciesURL` AS `web_site`,
+`Genus` AS `genus`,
+`SubGenusName` AS `subgenus`,
+`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+NULL  AS `infraspecies`,
+NULL  AS `infraspecies_marker`,
+`AuthorString` AS `author`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `accepted_name_code`,
+`AdditionalData` AS `comment`,
+`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+`specialists`.`record_id` AS `specialist_id`,
+`families`.`record_id` AS `family_id`,
+`specialists`.`specialist_code` AS `specialist_code`,
+`families`.`family_code` AS `family_code`,
+1 AS `is_accepted_name`,
+`GSDTaxonGUI` AS `GSDTaxonGUI`,
+`GSDNameGUI` AS `GSDNameGUI`,
+`IsFossil` AS `is_extinct`,
+`IsFossil` AS `has_preholocene`,
+if (`IsFossil` = 0, 1, 0) AS `has_modern`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies` AcceptedSpecies
+LEFT OUTER JOIN `families` ON
+(`AcceptedSpecies`.`Kingdom` = `families`.`kingdom` AND
+`AcceptedSpecies`.`Phylum` = `families`.`phylum` AND
+`AcceptedSpecies`.`Class` = `families`.`class` AND
+`AcceptedSpecies`.`Order` = `families`.`order` AND
+`AcceptedSpecies`.`Superfamily` = `families`.`superfamily` AND
+`AcceptedSpecies`.`Family` = `families`.`family`)
+LEFT OUTER JOIN `specialists` ON
+`AcceptedSpecies`.`LTSSpecialist` = `specialists`.`specialist_name`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`AcceptedSpecies`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `lifezone`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `lifezone`
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
+`LifeZone` AS `lifezone`,
+@dbid AS `database_id`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`
+WHERE `LifeZone` IN('marine','freshwater','Marine','Freshwater')")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AIT`.`AcceptedTaxonID`) AS `name_code`,
+NULL AS `web_site`,
+`sn`.`genus` AS `genus`,
+NULL AS `subgenus`,
+`sn`.`species` AS `species`,
+CONCAT(@dbabbr,`AIT`.`ParentSpeciesID`) AS `infraspecies_parent_name_code`,
+`AIT`.`InfraSpeciesEpithet` AS `infraspecies`,
+`AIT`.`InfraSpecificMarker` AS `infraspecies_marker`,
+`AIT`.`InfraSpecificAuthorString` AS `author`,
+CONCAT(@dbabbr,`AIT`.`AcceptedTaxonID`) AS `accepted_name_code`,
+`AIT`.`AdditionalData` AS `comment`,
+`AIT`.`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+`specialists`.`specialist_code` AS `specialist_code`,
+sn.family_code AS `family_code`,
+1 AS `is_accepted_name`,
+NULL AS `GSDTaxonGUI`,
+`AIT`.`GSDNameGUI` AS `GSDNameGUI`,
+`IsFossil` AS `is_extinct`,
+`IsFossil` AS `has_preholocene`,
+if (`IsFossil` = 0, 1, 0) AS `has_modern`
+FROM ",
+@dbtouse,
+".`AcceptedInfraSpecificTaxa` AIT
+LEFT OUTER JOIN scientific_names sn ON
+CONCAT(@dbabbr,`AIT`.`ParentSpeciesID`) = `sn`.`name_code`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`AIT`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
+LEFT OUTER JOIN `specialists` ON
+`AIT`.`LTSSpecialist` = `specialists`.`specialist_name`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr,`Synonyms`.`ID`) AS `name_code`,
+NULL AS `web_site`,
+`Synonyms`.`Genus` AS `genus`,
+`Synonyms`.`SubGenusName` AS `subgenus`,
+`Synonyms`.`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+`Synonyms`.`InfraSpecies` AS `infraspecies`,
+`Synonyms`.`InfraSpecificMarker` AS `infraspecies_marker`,
+`Synonyms`.`AuthorString` AS `author`,
+CONCAT(@dbabbr,`Synonyms`.`AcceptedTaxonID`) AS `accepted_name_code`,
+NULL AS `comment`,
+NULL AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+sn.`specialist_code` AS `specialist_code`,
+sn.`family_code` AS `family_code`,
+0 AS `is_accepted_name`,
+NULL AS `GSDTaxonGUI`,
+`Synonyms`.`GSDNameGUI` AS `GSDNameGUI` ,
+0 AS `is_extinct`,
+0 AS `has_preholocene`,
+1 AS `has_modern`
+FROM ",
+@dbtouse,
+".`Synonyms` Synonyms
+LEFT OUTER JOIN scientific_names sn ON
+CONCAT(@dbabbr,`Synonyms`.`AcceptedTaxonID`) = `sn`.`name_code`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`Synonyms`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `common_names`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `common_names`
+SELECT
+NULL,
+CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
+CONVERT(`CommonName` USING utf8) AS `common_name`,
+`Transliteration` AS `transliteration`,
+`Language` AS `language`,
+`Country` AS `country`,
+`Area` AS `area`,
+ NULL AS `reference_ID`,
+@dbid AS `database_ID`,
+ NULL AS `is_infraspecies`,
+ `ReferenceID` AS `reference_code`
+ FROM ",
+@dbtouse,
+".`CommonNames`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `references`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `references`
+SELECT
+NULL AS `record_id`,
+`Authors` AS `author`,
+`Year` AS `year`,
+`Title` AS `title`,
+`Details` AS `source`,
+@dbid AS `database_id`,
+CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`
+ FROM ",
+@dbtouse,
+".`References`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_name_references`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_name_references`
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr, `ID`) AS `name_code`,
+`ReferenceType` AS `reference_type`,
+NULL AS `reference_id`,
+CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`,
+@dbid AS `database_id`
+ FROM ",
+@dbtouse,
+".`NameReferencesLinks`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET foreign_key_checks = 1
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Data Loaded.
+</pre>
+</pre><hr><b>Backing up...</b>
+<pre>
+Creating directory  23_08_06_05Oct2016
+Backing up files
+</pre><hr><b>Executing local editorial checks</b>
+<pre>
+<pre>
+Integrity and editorial checks - this may take a while depending on size of the dataset...
+
+Starting local editorial transformations
+--------------
+DELETE FROM `common_names` WHERE `common_name` IS NULL OR `common_name` = ""
+--------------
+
+--------------
+DELETE FROM `distribution` WHERE `distribution` IS NULL OR `distribution` = ""
+--------------
+
+--------------
+DELETE FROM `references` WHERE (`title` IS NULL OR `title` = "") AND (`author` IS NULL OR `author` = "")
+--------------
+
+--------------
+DELETE FROM `specialists` WHERE `specialist_name` IS NULL OR `specialist_name` = ""
+--------------
+
+--------------
+DELETE FROM `scientific_names` WHERE (`species` IS NULL OR `species` LIKE "%sp.%" OR `species` LIKE "%spp.%") AND `infraspecies` IS NULL
+--------------
+
+--------------
+DELETE FROM `scientific_names` WHERE `genus` IS NULL OR `genus` = "" OR genus like "% %" OR `genus` LIKE '%sp.%' OR `genus` LIKE "%spp.%"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `family_id` = NULL
+--------------
+
+--------------
+UPDATE `scientific_names` SET `specialist_id` = NULL
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "forma" WHERE `infraspecies_marker` LIKE "f.%"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "var." WHERE `infraspecies_marker` LIKE "Variety"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "subsp." WHERE `infraspecies_marker` LIKE "Subspecies"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "subsp." WHERE `infraspecies_marker` LIKE "ssp."
+--------------
+
+--------------
+UPDATE `scientific_names` SET `sp2000_status_id` = 5 WHERE `sp2000_status_id` IS NULL AND `is_accepted_name` = 0
+--------------
+
+--------------
+UPDATE `families` SET `family` = "Not assigned" WHERE `family` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `order` = "Not assigned" WHERE `order` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `class` = "Not assigned" WHERE `class` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `phylum` = "Not assigned" WHERE `phylum` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `kingdom` = "Not assigned" WHERE `kingdom` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `family` = "Not assigned" WHERE (`family` IS NULL OR `family` = '')
+--------------
+
+--------------
+UPDATE `families` SET `order` = "Not assigned" WHERE (`order` IS NULL OR `order` = '')
+--------------
+
+--------------
+UPDATE `families` SET `class` = "Not assigned" WHERE (`class` IS NULL OR `class` = '')
+--------------
+
+--------------
+UPDATE `families` SET `phylum` = "Not assigned" WHERE (`phylum` IS NULL OR `phylum` = '')
+--------------
+
+--------------
+UPDATE `families` SET `kingdom` = "Not assigned" WHERE (`kingdom` IS NULL OR `kingdom` = '')
+--------------
+
+--------------
+UPDATE `families` SET `hierarchy_code` = CONCAT(`kingdom`,'-',`phylum`,'-',`class`,'-',`order`,'-',`family`)
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "subsequent type designation%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "Nom%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "taxonomy source%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "additional source%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "original description%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "source of synonymy%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "basis of record%"
+--------------
+
+--------------
+UPDATE `databases` SET database_name_displayed = REPLACE(database_name_displayed,'_',' ')
+--------------
+
+--------------
+UPDATE `databases` SET database_name = REPLACE(database_name,'_',' ')
+--------------
+
+--------------
+UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ',', '')
+--------------
+
+--------------
+UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ';', ',')
+--------------
+
+--------------
+SELECT "Misspelt infraspecies (no subgenus): ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND
+(`subgenus` IS NULL OR `subgenus` = '') AND
+`infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%')
+--------------
+
+--------------
+SELECT "Misspelt infraspecies (with subgenus): ", `name_code`, `genus`, `subgenus`, `species`, `infraspecies` FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND
+`subgenus` != '' AND
+(`infraspecies` NOT LIKE CONCAT(`genus`, ' (', `subgenus`, ') ', `species`, '%') OR `infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%'))
+--------------
+
+--------------
+DELETE FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND
+(`subgenus` IS NULL OR `subgenus` = '') AND
+`infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%')
+--------------
+
+--------------
+DELETE FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND
+`subgenus` != '' AND
+(`infraspecies` NOT LIKE CONCAT(`genus`, ' (', `subgenus`, ') ', `species`, '%') OR `infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%'))
+--------------
+
+--------------
+SELECT "Incorrect infraspecies: ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %'  AND
+`infraspecies` NOT LIKE 'f.%' AND
+`infraspecies` NOT LIKE 'var.%' AND
+`infraspecies` NOT LIKE 'subsp.%'
+--------------
+
+Incorrect infraspecies: 	name_code	genus	species	infraspecies
+Incorrect infraspecies: 	W-Bry-467109	Puellina	innominata	Cribrilaria innominata vicariata
+--------------
+DELETE FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %'  AND
+`infraspecies` NOT LIKE 'f.%' AND
+`infraspecies` NOT LIKE 'var.%' AND
+`infraspecies` NOT LIKE 'subsp.%'
+--------------
+
+--------------
+SELECT "Infraspecies starting with marker: ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %' AND
+(`infraspecies` LIKE 'f.%' OR
+`infraspecies` LIKE 'var.%' OR
+`infraspecies` LIKE 'subsp.%')
+--------------
+
+Infraspecies starting with marker: 	name_code	genus	species	infraspecies
+Infraspecies starting with marker: 	W-Bry-181494	Dendrobeania	pseudomurrayana	f. tenuis
+Infraspecies starting with marker: 	W-Bry-111791	Crisia	denticulata	var. arctica
+Infraspecies starting with marker: 	W-Bry-174164	Nevianipora	milneana	var. canui
+Infraspecies starting with marker: 	W-Bry-396729	Membranipora	tehuelca	var. intertuberculata
+--------------
+UPDATE `scientific_names` SET `infraspecies` = SUBSTRING_INDEX(`infraspecies`, ' ', -1)
+WHERE `infraspecies` LIKE '% %' AND
+(`infraspecies` LIKE 'f.%' OR
+`infraspecies` LIKE 'var.%' OR
+`infraspecies` LIKE 'subsp.%')
+--------------
+
+--------------
+SELECT "Infraspecies mismatch (infraspecies_parent_name_code set but infraspecies empty): ", `name_code`, `infraspecies_parent_name_code` FROM `scientific_names`
+WHERE CHAR_LENGTH(`infraspecies_parent_name_code`) > 1 AND
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+SELECT "Infraspecies mismatch (infraspecies_marker set but infraspecies empty): ", `name_code`, `infraspecies_marker` FROM `scientific_names`
+WHERE CHAR_LENGTH(`infraspecies_marker`) > 1 AND
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+DELETE FROM `scientific_names`
+WHERE CHAR_LENGTH(`infraspecies_parent_name_code`) > 1 AND
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+DELETE FROM `scientific_names`
+WHERE CHAR_LENGTH(`infraspecies_marker`) > 1 AND
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+UPDATE `scientific_names` SET `species` = LOWER(`species`)
+--------------
+
+--------------
+SELECT "Empty species name: ", `name_code`, `genus`, `infraspecies` FROM `scientific_names`
+WHERE `species` = '' OR `species` IS NULL
+--------------
+
+--------------
+DELETE FROM `scientific_names`
+WHERE `species` = '' OR `species` IS NULL
+--------------
+
+--------------
+SELECT "Empty reference: ", `author`, `year`, `reference_code` FROM `references`
+WHERE (`title` = '' OR `title` IS NULL) AND
+(`source` = '' OR `source` IS NULL)
+--------------
+
+--------------
+DELETE FROM `references`
+WHERE (`title` = '' OR `title` IS NULL) AND
+(`source` = '' OR `source` IS NULL)
+--------------
+
+--------------
+UPDATE `scientific_names` SET `scrutiny_date` = DATE_FORMAT(`scrutiny_date`, '%d-%b-%Y')
+WHERE `scrutiny_date` LIKE '%:%' AND
+(`scrutiny_date` != '' OR `scrutiny_date` IS NOT NULL)
+--------------
+
+--------------
+SELECT "Set is_infraspecies flag: ", t1.`name_code`, t1.`common_name`, t2.`genus`, t2.`species`, t2.`infraspecies`
+FROM `common_names` AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.`name_code` = t2.`name_code`
+WHERE (t2.`infraspecies` != '' OR t2.`infraspecies` IS NOT NULL) AND
+t1.`is_infraspecies` = 0
+--------------
+
+--------------
+UPDATE `common_names` AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.`name_code` = t2.`name_code`
+SET t1.`is_infraspecies` = 1
+WHERE (t2.`infraspecies` != '' OR t2.`infraspecies` IS NOT NULL) AND
+t1.`is_infraspecies` = 0
+--------------
+
+--------------
+UPDATE `scientific_names` SET `author` = TRIM(`author`)
+--------------
+
+--------------
+UPDATE `references`  SET `author` = TRIM(`author`)
+--------------
+
+--------------
+SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.subgenus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author
+FROM
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+	FROM scientific_names
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+WHERE sn.sp2000_status_id = 1
+--------------
+
+--------------
+SELECT "Accepted name to be retained", MAX(name_code), genus, subgenus, species, infraspecies_marker, infraspecies, author
+FROM
+	(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, dups.species AS species,
+		dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+	FROM
+		(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+		FROM scientific_names
+		GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+	LEFT JOIN scientific_names sn
+	ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2
+GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author
+--------------
+
+--------------
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus,
+	dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+FROM
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+	FROM scientific_names
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+WHERE sn.sp2000_status_id = 1 AND sn.name_code NOT IN
+	(SELECT dups3.namecodes_to_keep FROM
+		(SELECT MAX(name_code) AS namecodes_to_keep, genus, subgenus, species, infraspecies_marker, infraspecies, author
+		FROM
+			(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus,
+				dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+			FROM
+				(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+				FROM scientific_names
+				GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+		LEFT JOIN scientific_names sn
+		ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2
+GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author) AS dups3)
+--------------
+
+--------------
+SELECT 'Common name without parent accepted name', t1.record_id, t1.common_name, t1.name_code FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+--------------
+CREATE TEMPORARY TABLE scientific_names_tmp
+(PRIMARY KEY (`record_id`,`name_code`),
+  KEY `database_id` (`database_id`),
+  KEY `family_id` (`family_id`),
+  KEY `species` (`species`),
+  KEY `infraspecies` (`infraspecies`),
+  KEY `specialist_code` (`specialist_code`),
+  KEY `accepted_name_code` (`accepted_name_code`),
+  KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
+  KEY `name_code1` (`name_code`,`family_id`),
+  KEY `record_id` (`record_id`,`family_id`),
+  KEY `genus` (`genus`,`species`,`infraspecies`),
+  KEY `sp2000_status_id` (`sp2000_status_id`),
+  KEY `sp2000_status_id_2` (`sp2000_status_id`,`database_id`,`infraspecies`))
+SELECT * FROM scientific_names
+--------------
+
+--------------
+SELECT 'Synonym without parent accepted name', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.accepted_name_code
+FROM scientific_names AS t1
+LEFT JOIN scientific_names_tmp AS t2 ON t1.accepted_name_code = t2.name_code
+WHERE t2.name_code IS NULL AND t1.is_accepted_name != 1
+--------------
+
+Synonym without parent accepted name	record_id	name_code	genus	species	infraspecies	accepted_name_code
+Synonym without parent accepted name	5952	W-Bry-852853	Adeonellopsis	subsulcata		W-Bry-110816
+--------------
+SELECT 'Infraspecies without parent accepted name', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.accepted_name_code
+FROM scientific_names AS t1
+LEFT JOIN scientific_names_tmp AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
+WHERE t1.infraspecies_parent_name_code IS NOT NULL AND t2.name_code IS NULL
+--------------
+
+--------------
+SELECT 'Lifezone without parent accepted name', t1.record_id, t1.name_code, t1.lifezone
+FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+--------------
+SELECT 'Distribution without parent accepted name', t1.record_id, t1.name_code, t1.distribution
+FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+--------------
+SELECT 'Accepted name without parent family', t1.record_id, t1.name_code,
+	t1.genus, t1.subgenus, t1.species, t1.infraspecies, t1.family_code
+FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL
+--------------
+
+Accepted name without parent family	record_id	name_code	genus	subgenus	species	infraspecies	family_code
+Accepted name without parent family	5952	W-Bry-852853	Adeonellopsis		subsulcata		NULL
+--------------
+SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code
+FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+Reference link to non-existing accepted name	record_id	reference_code	name_code
+Reference link to non-existing accepted name	55	W-Bry-1369	W-Bry-111239
+Reference link to non-existing accepted name	117	W-Bry-1369	W-Bry-111405
+Reference link to non-existing accepted name	412	W-Bry-1224	W-Bry-153821
+Reference link to non-existing accepted name	434	W-Bry-2930	W-Bry-159837
+Reference link to non-existing accepted name	648	W-Bry-64	W-Bry-153836
+Reference link to non-existing accepted name	780	W-Bry-2930	W-Bry-159891
+Reference link to non-existing accepted name	813	W-Bry-34529	W-Bry-864783
+Reference link to non-existing accepted name	1022	W-Bry-152417	W-Bry-156389
+Reference link to non-existing accepted name	1052	W-Bry-1075	W-Bry-153818
+Reference link to non-existing accepted name	1113	W-Bry-7008	W-Bry-111155
+Reference link to non-existing accepted name	1294	W-Bry-141272	W-Bry-210811
+Reference link to non-existing accepted name	1461	W-Bry-200497	W-Bry-472639
+Reference link to non-existing accepted name	1670	W-Bry-2930	W-Bry-160500
+Reference link to non-existing accepted name	1676	W-Bry-2930	W-Bry-111434
+Reference link to non-existing accepted name	1836	W-Bry-7005	W-Bry-111093
+Reference link to non-existing accepted name	1964	W-Bry-1309	W-Bry-153845
+Reference link to non-existing accepted name	1983	W-Bry-4179	W-Bry-174175
+Reference link to non-existing accepted name	2059	W-Bry-141272	W-Bry-422322
+Reference link to non-existing accepted name	2286	W-Bry-2930	W-Bry-156129
+Reference link to non-existing accepted name	2462	W-Bry-1369	W-Bry-111245
+Reference link to non-existing accepted name	2537	W-Bry-1077	W-Bry-423685
+Reference link to non-existing accepted name	2698	W-Bry-164387	W-Bry-469457
+Reference link to non-existing accepted name	2711	W-Bry-192311	W-Bry-251776
+--------------
+SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code
+FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL
+--------------
+
+Reference link to non-existing reference	record_id	reference_code	name_code
+Reference link to non-existing reference	52	W-Bry-1369	W-Bry-111718
+Reference link to non-existing reference	55	W-Bry-1369	W-Bry-111239
+Reference link to non-existing reference	56	W-Bry-1369	W-Bry-111654
+Reference link to non-existing reference	57	W-Bry-1369	W-Bry-111186
+Reference link to non-existing reference	71	W-Bry-1369	W-Bry-111301
+Reference link to non-existing reference	73	W-Bry-1369	W-Bry-111386
+Reference link to non-existing reference	81	W-Bry-1369	W-Bry-111101
+Reference link to non-existing reference	85	W-Bry-1369	W-Bry-111754
+Reference link to non-existing reference	91	W-Bry-1369	W-Bry-111135
+Reference link to non-existing reference	99	W-Bry-1369	W-Bry-111518
+Reference link to non-existing reference	104	W-Bry-1369	W-Bry-111684
+Reference link to non-existing reference	116	W-Bry-1369	W-Bry-111199
+Reference link to non-existing reference	117	W-Bry-1369	W-Bry-111405
+Reference link to non-existing reference	131	W-Bry-1369	W-Bry-111620
+Reference link to non-existing reference	144	W-Bry-1369	W-Bry-111318
+Reference link to non-existing reference	151	W-Bry-1369	W-Bry-111450
+Reference link to non-existing reference	156	W-Bry-1369	W-Bry-111501
+Reference link to non-existing reference	158	W-Bry-1369	W-Bry-111352
+Reference link to non-existing reference	161	W-Bry-1369	W-Bry-111403
+Reference link to non-existing reference	162	W-Bry-1369	W-Bry-111569
+Reference link to non-existing reference	177	W-Bry-1369	W-Bry-111420
+Reference link to non-existing reference	181	W-Bry-1369	W-Bry-111701
+Reference link to non-existing reference	184	W-Bry-1369	W-Bry-111671
+Reference link to non-existing reference	190	W-Bry-1369	W-Bry-111467
+Reference link to non-existing reference	202	W-Bry-1369	W-Bry-111786
+Reference link to non-existing reference	209	W-Bry-1369	W-Bry-111535
+Reference link to non-existing reference	219	W-Bry-1369	W-Bry-111067
+Reference link to non-existing reference	222	W-Bry-1369	W-Bry-111205
+Reference link to non-existing reference	223	W-Bry-1369	W-Bry-111335
+Reference link to non-existing reference	245	W-Bry-1369	W-Bry-111195
+Reference link to non-existing reference	252	W-Bry-1369	W-Bry-111297
+Reference link to non-existing reference	255	W-Bry-1369	W-Bry-111088
+Reference link to non-existing reference	268	W-Bry-1369	W-Bry-111663
+Reference link to non-existing reference	270	W-Bry-1369	W-Bry-111263
+Reference link to non-existing reference	271	W-Bry-1369	W-Bry-111463
+Reference link to non-existing reference	276	W-Bry-1369	W-Bry-111765
+Reference link to non-existing reference	287	W-Bry-1369	W-Bry-111497
+Reference link to non-existing reference	294	W-Bry-1369	W-Bry-111731
+Reference link to non-existing reference	303	W-Bry-1369	W-Bry-111609
+Reference link to non-existing reference	305	W-Bry-1369	W-Bry-111722
+Reference link to non-existing reference	307	W-Bry-1369	W-Bry-111633
+Reference link to non-existing reference	310	W-Bry-1369	W-Bry-111390
+Reference link to non-existing reference	324	W-Bry-1369	W-Bry-111750
+Reference link to non-existing reference	328	W-Bry-1369	W-Bry-111522
+Reference link to non-existing reference	333	W-Bry-1369	W-Bry-111658
+Reference link to non-existing reference	335	W-Bry-1369	W-Bry-111454
+Reference link to non-existing reference	343	W-Bry-1369	W-Bry-111399
+Reference link to non-existing reference	349	W-Bry-1369	W-Bry-111756
+Reference link to non-existing reference	351	W-Bry-1369	W-Bry-111356
+Reference link to non-existing reference	354	W-Bry-1369	W-Bry-111716
+Reference link to non-existing reference	358	W-Bry-1369	W-Bry-111063
+Reference link to non-existing reference	365	W-Bry-1369	W-Bry-111220
+Reference link to non-existing reference	367	W-Bry-1369	W-Bry-111531
+Reference link to non-existing reference	374	W-Bry-1369	W-Bry-111248
+Reference link to non-existing reference	375	W-Bry-1369	W-Bry-111697
+Reference link to non-existing reference	377	W-Bry-1369	W-Bry-111107
+Reference link to non-existing reference	387	W-Bry-1369	W-Bry-111331
+Reference link to non-existing reference	394	W-Bry-1369	W-Bry-111590
+Reference link to non-existing reference	396	W-Bry-1369	W-Bry-111790
+Reference link to non-existing reference	398	W-Bry-1369	W-Bry-111692
+Reference link to non-existing reference	399	W-Bry-1369	W-Bry-111224
+Reference link to non-existing reference	411	W-Bry-1369	W-Bry-111216
+Reference link to non-existing reference	413	W-Bry-1369	W-Bry-111737
+Reference link to non-existing reference	416	W-Bry-1369	W-Bry-111233
+Reference link to non-existing reference	418	W-Bry-1369	W-Bry-111084
+Reference link to non-existing reference	423	W-Bry-1369	W-Bry-111103
+Reference link to non-existing reference	463	W-Bry-1369	W-Bry-111437
+Reference link to non-existing reference	464	W-Bry-1369	W-Bry-111735
+Reference link to non-existing reference	467	W-Bry-1369	W-Bry-111407
+Reference link to non-existing reference	473	W-Bry-1369	W-Bry-111764
+Reference link to non-existing reference	487	W-Bry-1369	W-Bry-111139
+Reference link to non-existing reference	490	W-Bry-1369	W-Bry-111382
+Reference link to non-existing reference	504	W-Bry-1369	W-Bry-111182
+Reference link to non-existing reference	507	W-Bry-1369	W-Bry-111296
+Reference link to non-existing reference	509	W-Bry-1369	W-Bry-111339
+Reference link to non-existing reference	510	W-Bry-1369	W-Bry-111432
+Reference link to non-existing reference	511	W-Bry-1369	W-Bry-111089
+Reference link to non-existing reference	512	W-Bry-1369	W-Bry-111782
+Reference link to non-existing reference	513	W-Bry-1369	W-Bry-111496
+Reference link to non-existing reference	515	W-Bry-1369	W-Bry-111700
+Reference link to non-existing reference	518	W-Bry-1369	W-Bry-111421
+Reference link to non-existing reference	522	W-Bry-1369	W-Bry-111314
+Reference link to non-existing reference	536	W-Bry-1369	W-Bry-111221
+Reference link to non-existing reference	542	W-Bry-1369	W-Bry-111607
+Reference link to non-existing reference	547	W-Bry-1369	W-Bry-111514
+Reference link to non-existing reference	572	W-Bry-1369	W-Bry-111357
+Reference link to non-existing reference	581	W-Bry-1369	W-Bry-111489
+Reference link to non-existing reference	591	W-Bry-1369	W-Bry-111632
+Reference link to non-existing reference	600	W-Bry-1369	W-Bry-111625
+Reference link to non-existing reference	603	W-Bry-1369	W-Bry-111090
+Reference link to non-existing reference	607	W-Bry-1369	W-Bry-111271
+Reference link to non-existing reference	608	W-Bry-1369	W-Bry-111689
+Reference link to non-existing reference	618	W-Bry-1369	W-Bry-111251
+Reference link to non-existing reference	620	W-Bry-1369	W-Bry-111564
+Reference link to non-existing reference	628	W-Bry-1369	W-Bry-111114
+Reference link to non-existing reference	652	W-Bry-1369	W-Bry-111681
+Reference link to non-existing reference	653	W-Bry-1369	W-Bry-111232
+Reference link to non-existing reference	662	W-Bry-1369	W-Bry-111315
+Reference link to non-existing reference	663	W-Bry-1369	W-Bry-111372
+Reference link to non-existing reference	667	W-Bry-1369	W-Bry-111608
+Reference link to non-existing reference	669	W-Bry-1369	W-Bry-111379
+Reference link to non-existing reference	673	W-Bry-1369	W-Bry-111666
+Reference link to non-existing reference	675	W-Bry-1369	W-Bry-111515
+Reference link to non-existing reference	677	W-Bry-1369	W-Bry-111774
+Reference link to non-existing reference	678	W-Bry-1369	W-Bry-111559
+Reference link to non-existing reference	680	W-Bry-1369	W-Bry-111768
+Reference link to non-existing reference	691	W-Bry-1369	W-Bry-111717
+Reference link to non-existing reference	694	W-Bry-1369	W-Bry-111725
+Reference link to non-existing reference	704	W-Bry-1369	W-Bry-111672
+Reference link to non-existing reference	715	W-Bry-1369	W-Bry-111615
+Reference link to non-existing reference	720	W-Bry-1369	W-Bry-111138
+Reference link to non-existing reference	723	W-Bry-1369	W-Bry-111179
+Reference link to non-existing reference	731	W-Bry-1369	W-Bry-111472
+Reference link to non-existing reference	733	W-Bry-1369	W-Bry-111572
+Reference link to non-existing reference	734	W-Bry-1369	W-Bry-111181
+Reference link to non-existing reference	741	W-Bry-1369	W-Bry-111508
+Reference link to non-existing reference	743	W-Bry-1369	W-Bry-111279
+Reference link to non-existing reference	744	W-Bry-1369	W-Bry-111079
+Reference link to non-existing reference	745	W-Bry-1369	W-Bry-111338
+Reference link to non-existing reference	754	W-Bry-1369	W-Bry-111481
+Reference link to non-existing reference	755	W-Bry-1369	W-Bry-111781
+Reference link to non-existing reference	774	W-Bry-1369	W-Bry-111381
+Reference link to non-existing reference	777	W-Bry-1369	W-Bry-111281
+Reference link to non-existing reference	786	W-Bry-1369	W-Bry-111581
+Reference link to non-existing reference	792	W-Bry-1369	W-Bry-111479
+Reference link to non-existing reference	796	W-Bry-1369	W-Bry-111172
+Reference link to non-existing reference	803	W-Bry-1369	W-Bry-111217
+Reference link to non-existing reference	808	W-Bry-1369	W-Bry-111551
+Reference link to non-existing reference	815	W-Bry-1369	W-Bry-111787
+Reference link to non-existing reference	817	W-Bry-1369	W-Bry-111687
+Reference link to non-existing reference	819	W-Bry-1369	W-Bry-111451
+Reference link to non-existing reference	825	W-Bry-1369	W-Bry-111740
+Reference link to non-existing reference	827	W-Bry-1369	W-Bry-111102
+Reference link to non-existing reference	835	W-Bry-1369	W-Bry-111436
+Reference link to non-existing reference	837	W-Bry-1369	W-Bry-111117
+Reference link to non-existing reference	840	W-Bry-1369	W-Bry-111487
+Reference link to non-existing reference	850	W-Bry-1369	W-Bry-111751
+Reference link to non-existing reference	864	W-Bry-1369	W-Bry-111536
+Reference link to non-existing reference	865	W-Bry-1369	W-Bry-111300
+Reference link to non-existing reference	867	W-Bry-1369	W-Bry-111238
+Reference link to non-existing reference	887	W-Bry-1369	W-Bry-111500
+Reference link to non-existing reference	891	W-Bry-1369	W-Bry-111417
+Reference link to non-existing reference	893	W-Bry-1369	W-Bry-111587
+Reference link to non-existing reference	899	W-Bry-1369	W-Bry-111553
+Reference link to non-existing reference	909	W-Bry-1369	W-Bry-111738
+Reference link to non-existing reference	910	W-Bry-1369	W-Bry-111104
+Reference link to non-existing reference	922	W-Bry-1369	W-Bry-111266
+Reference link to non-existing reference	924	W-Bry-1369	W-Bry-111202
+Reference link to non-existing reference	929	W-Bry-1369	W-Bry-111502
+Reference link to non-existing reference	930	W-Bry-1369	W-Bry-111702
+Reference link to non-existing reference	939	W-Bry-1369	W-Bry-111136
+Reference link to non-existing reference	944	W-Bry-1369	W-Bry-111273
+Reference link to non-existing reference	945	W-Bry-1369	W-Bry-111616
+Reference link to non-existing reference	947	W-Bry-1369	W-Bry-111630
+Reference link to non-existing reference	949	W-Bry-1369	W-Bry-111410
+Reference link to non-existing reference	956	W-Bry-1369	W-Bry-111610
+Reference link to non-existing reference	958	W-Bry-1369	W-Bry-111073
+Reference link to non-existing reference	962	W-Bry-1369	W-Bry-111267
+Reference link to non-existing reference	972	W-Bry-1369	W-Bry-111287
+Reference link to non-existing reference	980	W-Bry-1369	W-Bry-111523
+Reference link to non-existing reference	987	W-Bry-1369	W-Bry-111473
+Reference link to non-existing reference	997	W-Bry-1369	W-Bry-111574
+Reference link to non-existing reference	999	W-Bry-1369	W-Bry-111130
+Reference link to non-existing reference	1002	W-Bry-1369	W-Bry-111337
+Reference link to non-existing reference	1004	W-Bry-1369	W-Bry-111680
+Reference link to non-existing reference	1009	W-Bry-1369	W-Bry-111723
+Reference link to non-existing reference	1026	W-Bry-1369	W-Bry-111416
+Reference link to non-existing reference	1037	W-Bry-1369	W-Bry-111566
+Reference link to non-existing reference	1041	W-Bry-1369	W-Bry-111580
+Reference link to non-existing reference	1045	W-Bry-1369	W-Bry-111573
+Reference link to non-existing reference	1057	W-Bry-1369	W-Bry-111430
+Reference link to non-existing reference	1065	W-Bry-1369	W-Bry-111280
+Reference link to non-existing reference	1073	W-Bry-1369	W-Bry-111123
+Reference link to non-existing reference	1084	W-Bry-1369	W-Bry-111087
+Reference link to non-existing reference	1108	W-Bry-1369	W-Bry-111624
+Reference link to non-existing reference	1109	W-Bry-1369	W-Bry-111122
+Reference link to non-existing reference	1119	W-Bry-1369	W-Bry-111307
+Reference link to non-existing reference	1125	W-Bry-1369	W-Bry-111688
+Reference link to non-existing reference	1126	W-Bry-1369	W-Bry-111599
+Reference link to non-existing reference	1138	W-Bry-1369	W-Bry-111150
+Reference link to non-existing reference	1140	W-Bry-1369	W-Bry-111322
+Reference link to non-existing reference	1148	W-Bry-1369	W-Bry-111131
+Reference link to non-existing reference	1152	W-Bry-1369	W-Bry-111488
+Reference link to non-existing reference	1167	W-Bry-1369	W-Bry-111106
+Reference link to non-existing reference	1168	W-Bry-1369	W-Bry-111605
+Reference link to non-existing reference	1172	W-Bry-1369	W-Bry-111491
+Reference link to non-existing reference	1185	W-Bry-1369	W-Bry-111099
+Reference link to non-existing reference	1191	W-Bry-1369	W-Bry-111705
+Reference link to non-existing reference	1195	W-Bry-1369	W-Bry-111648
+Reference link to non-existing reference	1198	W-Bry-1369	W-Bry-111655
+Reference link to non-existing reference	1200	W-Bry-1369	W-Bry-111691
+Reference link to non-existing reference	1215	W-Bry-1369	W-Bry-111505
+Reference link to non-existing reference	1216	W-Bry-1369	W-Bry-111148
+Reference link to non-existing reference	1217	W-Bry-1369	W-Bry-111156
+Reference link to non-existing reference	1225	W-Bry-1369	W-Bry-111598
+Reference link to non-existing reference	1227	W-Bry-1369	W-Bry-111541
+Reference link to non-existing reference	1228	W-Bry-1369	W-Bry-111255
+Reference link to non-existing reference	1241	W-Bry-1369	W-Bry-111698
+Reference link to non-existing reference	1248	W-Bry-1369	W-Bry-111305
+Reference link to non-existing reference	1256	W-Bry-1369	W-Bry-111791
+Reference link to non-existing reference	1257	W-Bry-1369	W-Bry-111749
+Reference link to non-existing reference	1263	W-Bry-1369	W-Bry-111235
+Reference link to non-existing reference	1303	W-Bry-1369	W-Bry-111191
+Reference link to non-existing reference	1309	W-Bry-1369	W-Bry-111163
+Reference link to non-existing reference	1311	W-Bry-1369	W-Bry-111562
+Reference link to non-existing reference	1314	W-Bry-1369	W-Bry-111626
+Reference link to non-existing reference	1336	W-Bry-1369	W-Bry-111176
+Reference link to non-existing reference	1338	W-Bry-1369	W-Bry-111227
+Reference link to non-existing reference	1339	W-Bry-1369	W-Bry-111526
+Reference link to non-existing reference	1340	W-Bry-1369	W-Bry-111576
+Reference link to non-existing reference	1341	W-Bry-1369	W-Bry-111727
+Reference link to non-existing reference	1348	W-Bry-1369	W-Bry-111462
+Reference link to non-existing reference	1349	W-Bry-1369	W-Bry-111612
+Reference link to non-existing reference	1358	W-Bry-1369	W-Bry-111777
+Reference link to non-existing reference	1359	W-Bry-1369	W-Bry-111763
+Reference link to non-existing reference	1364	W-Bry-1369	W-Bry-111077
+Reference link to non-existing reference	1371	W-Bry-1369	W-Bry-111662
+Reference link to non-existing reference	1373	W-Bry-1369	W-Bry-111677
+Reference link to non-existing reference	1376	W-Bry-1369	W-Bry-111226
+Reference link to non-existing reference	1378	W-Bry-1369	W-Bry-111726
+Reference link to non-existing reference	1380	W-Bry-1369	W-Bry-111477
+Reference link to non-existing reference	1386	W-Bry-1369	W-Bry-111291
+Reference link to non-existing reference	1395	W-Bry-1369	W-Bry-111326
+Reference link to non-existing reference	1402	W-Bry-1369	W-Bry-111076
+Reference link to non-existing reference	1413	W-Bry-1369	W-Bry-111277
+Reference link to non-existing reference	1418	W-Bry-1369	W-Bry-111177
+Reference link to non-existing reference	1434	W-Bry-1369	W-Bry-111171
+Reference link to non-existing reference	1441	W-Bry-1369	W-Bry-111458
+Reference link to non-existing reference	1445	W-Bry-1369	W-Bry-111078
+Reference link to non-existing reference	1454	W-Bry-1369	W-Bry-111439
+Reference link to non-existing reference	1474	W-Bry-1369	W-Bry-111064
+Reference link to non-existing reference	1486	W-Bry-1369	W-Bry-111482
+Reference link to non-existing reference	1487	W-Bry-1369	W-Bry-111532
+Reference link to non-existing reference	1489	W-Bry-1369	W-Bry-111264
+Reference link to non-existing reference	1491	W-Bry-1369	W-Bry-111371
+Reference link to non-existing reference	1495	W-Bry-1369	W-Bry-111457
+Reference link to non-existing reference	1500	W-Bry-1369	W-Bry-111464
+Reference link to non-existing reference	1503	W-Bry-1369	W-Bry-111332
+Reference link to non-existing reference	1504	W-Bry-1369	W-Bry-111732
+Reference link to non-existing reference	1509	W-Bry-1369	W-Bry-111346
+Reference link to non-existing reference	1510	W-Bry-1369	W-Bry-111165
+Reference link to non-existing reference	1516	W-Bry-1369	W-Bry-111146
+Reference link to non-existing reference	1519	W-Bry-1369	W-Bry-111546
+Reference link to non-existing reference	1528	W-Bry-1369	W-Bry-111151
+Reference link to non-existing reference	1530	W-Bry-1369	W-Bry-111571
+Reference link to non-existing reference	1535	W-Bry-1369	W-Bry-111483
+Reference link to non-existing reference	1536	W-Bry-1369	W-Bry-111132
+Reference link to non-existing reference	1537	W-Bry-1369	W-Bry-111507
+Reference link to non-existing reference	1540	W-Bry-1369	W-Bry-111657
+Reference link to non-existing reference	1542	W-Bry-1369	W-Bry-111414
+Reference link to non-existing reference	1548	W-Bry-1369	W-Bry-111682
+Reference link to non-existing reference	1557	W-Bry-1369	W-Bry-111286
+Reference link to non-existing reference	1561	W-Bry-1369	W-Bry-111550
+Reference link to non-existing reference	1562	W-Bry-1369	W-Bry-111537
+Reference link to non-existing reference	1563	W-Bry-1369	W-Bry-111486
+Reference link to non-existing reference	1564	W-Bry-1369	W-Bry-111784
+Reference link to non-existing reference	1566	W-Bry-1369	W-Bry-111167
+Reference link to non-existing reference	1570	W-Bry-1369	W-Bry-111686
+Reference link to non-existing reference	1575	W-Bry-1369	W-Bry-111720
+Reference link to non-existing reference	1576	W-Bry-1369	W-Bry-111116
+Reference link to non-existing reference	1579	W-Bry-1369	W-Bry-111333
+Reference link to non-existing reference	1591	W-Bry-1369	W-Bry-111069
+Reference link to non-existing reference	1594	W-Bry-1369	W-Bry-111788
+Reference link to non-existing reference	1603	W-Bry-1369	W-Bry-111469
+Reference link to non-existing reference	1612	W-Bry-1369	W-Bry-111203
+Reference link to non-existing reference	1616	W-Bry-1369	W-Bry-111739
+Reference link to non-existing reference	1630	W-Bry-1369	W-Bry-111503
+Reference link to non-existing reference	1636	W-Bry-1369	W-Bry-111618
+Reference link to non-existing reference	1672	W-Bry-1369	W-Bry-111674
+Reference link to non-existing reference	1683	W-Bry-1369	W-Bry-111668
+Reference link to non-existing reference	1693	W-Bry-1369	W-Bry-111272
+Reference link to non-existing reference	1694	W-Bry-1369	W-Bry-111415
+Reference link to non-existing reference	1707	W-Bry-1369	W-Bry-111081
+Reference link to non-existing reference	1709	W-Bry-1369	W-Bry-111438
+Reference link to non-existing reference	1714	W-Bry-1369	W-Bry-111471
+Reference link to non-existing reference	1726	W-Bry-1369	W-Bry-111108
+Reference link to non-existing reference	1732	W-Bry-1369	W-Bry-111757
+Reference link to non-existing reference	1733	W-Bry-1369	W-Bry-111557
+Reference link to non-existing reference	1742	W-Bry-1369	W-Bry-111446
+Reference link to non-existing reference	1755	W-Bry-1369	W-Bry-111376
+Reference link to non-existing reference	1756	W-Bry-1369	W-Bry-111289
+Reference link to non-existing reference	1776	W-Bry-1369	W-Bry-111302
+Reference link to non-existing reference	1784	W-Bry-1369	W-Bry-111387
+Reference link to non-existing reference	1785	W-Bry-1369	W-Bry-111617
+Reference link to non-existing reference	1790	W-Bry-1369	W-Bry-111336
+Reference link to non-existing reference	1796	W-Bry-1369	W-Bry-111753
+Reference link to non-existing reference	1810	W-Bry-1369	W-Bry-111474
+Reference link to non-existing reference	1815	W-Bry-1369	W-Bry-111780
+Reference link to non-existing reference	1817	W-Bry-1369	W-Bry-111323
+Reference link to non-existing reference	1819	W-Bry-1369	W-Bry-111366
+Reference link to non-existing reference	1822	W-Bry-1369	W-Bry-111180
+Reference link to non-existing reference	1838	W-Bry-1369	W-Bry-111530
+Reference link to non-existing reference	1842	W-Bry-1369	W-Bry-111237
+Reference link to non-existing reference	1845	W-Bry-1369	W-Bry-111466
+Reference link to non-existing reference	1867	W-Bry-1369	W-Bry-111137
+Reference link to non-existing reference	1868	W-Bry-1369	W-Bry-111766
+Reference link to non-existing reference	1874	W-Bry-1369	W-Bry-111516
+Reference link to non-existing reference	1883	W-Bry-1369	W-Bry-111321
+Reference link to non-existing reference	1884	W-Bry-1369	W-Bry-111707
+Reference link to non-existing reference	1890	W-Bry-1369	W-Bry-111789
+Reference link to non-existing reference	1897	W-Bry-1369	W-Bry-111769
+Reference link to non-existing reference	1905	W-Bry-1369	W-Bry-111433
+Reference link to non-existing reference	1911	W-Bry-1369	W-Bry-111678
+Reference link to non-existing reference	1914	W-Bry-1369	W-Bry-111127
+Reference link to non-existing reference	1921	W-Bry-1369	W-Bry-111327
+Reference link to non-existing reference	1926	W-Bry-1369	W-Bry-111627
+Reference link to non-existing reference	1927	W-Bry-1369	W-Bry-111714
+Reference link to non-existing reference	1937	W-Bry-1369	W-Bry-111126
+Reference link to non-existing reference	1946	W-Bry-1369	W-Bry-111455
+Reference link to non-existing reference	1961	W-Bry-1369	W-Bry-111448
+Reference link to non-existing reference	1965	W-Bry-1369	W-Bry-111441
+Reference link to non-existing reference	1970	W-Bry-1369	W-Bry-111298
+Reference link to non-existing reference	1975	W-Bry-1369	W-Bry-111262
+Reference link to non-existing reference	1982	W-Bry-1369	W-Bry-111149
+Reference link to non-existing reference	1989	W-Bry-1369	W-Bry-111086
+Reference link to non-existing reference	1993	W-Bry-1369	W-Bry-111316
+Reference link to non-existing reference	1994	W-Bry-1369	W-Bry-111556
+Reference link to non-existing reference	2004	W-Bry-1369	W-Bry-111520
+Reference link to non-existing reference	2009	W-Bry-1369	W-Bry-111452
+Reference link to non-existing reference	2010	W-Bry-1369	W-Bry-111184
+Reference link to non-existing reference	2018	W-Bry-1369	W-Bry-111567
+Reference link to non-existing reference	2033	W-Bry-1369	W-Bry-111212
+Reference link to non-existing reference	2036	W-Bry-1369	W-Bry-111461
+Reference link to non-existing reference	2038	W-Bry-1369	W-Bry-111511
+Reference link to non-existing reference	2046	W-Bry-1369	W-Bry-111328
+Reference link to non-existing reference	2048	W-Bry-1369	W-Bry-111375
+Reference link to non-existing reference	2049	W-Bry-1369	W-Bry-111325
+Reference link to non-existing reference	2050	W-Bry-1369	W-Bry-111261
+Reference link to non-existing reference	2068	W-Bry-1369	W-Bry-111074
+Reference link to non-existing reference	2069	W-Bry-1369	W-Bry-111111
+Reference link to non-existing reference	2075	W-Bry-1369	W-Bry-111529
+Reference link to non-existing reference	2084	W-Bry-1369	W-Bry-111579
+Reference link to non-existing reference	2087	W-Bry-1369	W-Bry-111593
+Reference link to non-existing reference	2091	W-Bry-1369	W-Bry-111443
+Reference link to non-existing reference	2093	W-Bry-1369	W-Bry-111779
+Reference link to non-existing reference	2095	W-Bry-1369	W-Bry-111278
+Reference link to non-existing reference	2101	W-Bry-1369	W-Bry-111660
+Reference link to non-existing reference	2107	W-Bry-1369	W-Bry-111542
+Reference link to non-existing reference	2111	W-Bry-1369	W-Bry-111460
+Reference link to non-existing reference	2114	W-Bry-1369	W-Bry-111528
+Reference link to non-existing reference	2118	W-Bry-1369	W-Bry-111057
+Reference link to non-existing reference	2121	W-Bry-1369	W-Bry-111643
+Reference link to non-existing reference	2122	W-Bry-1369	W-Bry-111392
+Reference link to non-existing reference	2124	W-Bry-1369	W-Bry-111711
+Reference link to non-existing reference	2125	W-Bry-1369	W-Bry-111175
+Reference link to non-existing reference	2127	W-Bry-1369	W-Bry-111729
+Reference link to non-existing reference	2140	W-Bry-1369	W-Bry-111778
+Reference link to non-existing reference	2154	W-Bry-1369	W-Bry-111275
+Reference link to non-existing reference	2159	W-Bry-1369	W-Bry-111092
+Reference link to non-existing reference	2163	W-Bry-1369	W-Bry-111292
+Reference link to non-existing reference	2165	W-Bry-1369	W-Bry-111425
+Reference link to non-existing reference	2167	W-Bry-1369	W-Bry-111611
+Reference link to non-existing reference	2172	W-Bry-1369	W-Bry-111543
+Reference link to non-existing reference	2178	W-Bry-1369	W-Bry-111310
+Reference link to non-existing reference	2191	W-Bry-1369	W-Bry-111110
+Reference link to non-existing reference	2196	W-Bry-1369	W-Bry-111211
+Reference link to non-existing reference	2201	W-Bry-1369	W-Bry-111442
+Reference link to non-existing reference	2208	W-Bry-1369	W-Bry-111762
+Reference link to non-existing reference	2210	W-Bry-1369	W-Bry-111378
+Reference link to non-existing reference	2217	W-Bry-1369	W-Bry-111510
+Reference link to non-existing reference	2233	W-Bry-1369	W-Bry-111222
+Reference link to non-existing reference	2242	W-Bry-1369	W-Bry-111231
+Reference link to non-existing reference	2251	W-Bry-1369	W-Bry-111309
+Reference link to non-existing reference	2253	W-Bry-1369	W-Bry-111056
+Reference link to non-existing reference	2261	W-Bry-1369	W-Bry-111329
+Reference link to non-existing reference	2265	W-Bry-1369	W-Bry-111490
+Reference link to non-existing reference	2266	W-Bry-1369	W-Bry-111422
+Reference link to non-existing reference	2269	W-Bry-1369	W-Bry-111533
+Reference link to non-existing reference	2270	W-Bry-1369	W-Bry-111065
+Reference link to non-existing reference	2283	W-Bry-1369	W-Bry-111324
+Reference link to non-existing reference	2289	W-Bry-1369	W-Bry-111109
+Reference link to non-existing reference	2290	W-Bry-1369	W-Bry-111188
+Reference link to non-existing reference	2297	W-Bry-1369	W-Bry-111299
+Reference link to non-existing reference	2301	W-Bry-1369	W-Bry-111241
+Reference link to non-existing reference	2309	W-Bry-1369	W-Bry-111388
+Reference link to non-existing reference	2314	W-Bry-1369	W-Bry-111284
+Reference link to non-existing reference	2315	W-Bry-1369	W-Bry-111733
+Reference link to non-existing reference	2319	W-Bry-1369	W-Bry-111499
+Reference link to non-existing reference	2325	W-Bry-1369	W-Bry-111290
+Reference link to non-existing reference	2333	W-Bry-1369	W-Bry-111646
+Reference link to non-existing reference	2335	W-Bry-1369	W-Bry-111428
+Reference link to non-existing reference	2342	W-Bry-1369	W-Bry-111492
+Reference link to non-existing reference	2343	W-Bry-1369	W-Bry-111311
+Reference link to non-existing reference	2344	W-Bry-1369	W-Bry-111493
+Reference link to non-existing reference	2351	W-Bry-1369	W-Bry-111628
+Reference link to non-existing reference	2354	W-Bry-1369	W-Bry-111693
+Reference link to non-existing reference	2356	W-Bry-1369	W-Bry-111242
+Reference link to non-existing reference	2362	W-Bry-1369	W-Bry-111710
+Reference link to non-existing reference	2363	W-Bry-1369	W-Bry-111225
+Reference link to non-existing reference	2381	W-Bry-1369	W-Bry-111767
+Reference link to non-existing reference	2385	W-Bry-1369	W-Bry-111348
+Reference link to non-existing reference	2393	W-Bry-1369	W-Bry-111265
+Reference link to non-existing reference	2395	W-Bry-1369	W-Bry-111154
+Reference link to non-existing reference	2404	W-Bry-1369	W-Bry-111524
+Reference link to non-existing reference	2407	W-Bry-1369	W-Bry-111118
+Reference link to non-existing reference	2412	W-Bry-1369	W-Bry-111210
+Reference link to non-existing reference	2414	W-Bry-1369	W-Bry-111661
+Reference link to non-existing reference	2421	W-Bry-1369	W-Bry-111243
+Reference link to non-existing reference	2425	W-Bry-1369	W-Bry-111097
+Reference link to non-existing reference	2431	W-Bry-1369	W-Bry-111478
+Reference link to non-existing reference	2442	W-Bry-1369	W-Bry-111728
+Reference link to non-existing reference	2447	W-Bry-1369	W-Bry-111565
+Reference link to non-existing reference	2455	W-Bry-1369	W-Bry-111096
+Reference link to non-existing reference	2457	W-Bry-1369	W-Bry-111160
+Reference link to non-existing reference	2460	W-Bry-1369	W-Bry-111394
+Reference link to non-existing reference	2462	W-Bry-1369	W-Bry-111245
+Reference link to non-existing reference	2466	W-Bry-1369	W-Bry-111444
+Reference link to non-existing reference	2467	W-Bry-1369	W-Bry-111494
+Reference link to non-existing reference	2470	W-Bry-1369	W-Bry-111594
+Reference link to non-existing reference	2474	W-Bry-1369	W-Bry-111408
+Reference link to non-existing reference	2481	W-Bry-1369	W-Bry-111645
+Reference link to non-existing reference	2483	W-Bry-1369	W-Bry-111258
+Reference link to non-existing reference	2486	W-Bry-1369	W-Bry-111759
+Reference link to non-existing reference	2487	W-Bry-1369	W-Bry-111709
+Reference link to non-existing reference	2490	W-Bry-1369	W-Bry-111059
+Reference link to non-existing reference	2494	W-Bry-1369	W-Bry-111209
+Reference link to non-existing reference	2495	W-Bry-1369	W-Bry-111396
+Reference link to non-existing reference	2500	W-Bry-1369	W-Bry-111095
+Reference link to non-existing reference	2510	W-Bry-1369	W-Bry-111194
+Reference link to non-existing reference	2516	W-Bry-1369	W-Bry-111344
+Reference link to non-existing reference	2522	W-Bry-1369	W-Bry-111244
+Reference link to non-existing reference	2534	W-Bry-1369	W-Bry-111345
+Reference link to non-existing reference	2553	W-Bry-1369	W-Bry-111294
+Reference link to non-existing reference	2565	W-Bry-1369	W-Bry-111459
+Reference link to non-existing reference	2568	W-Bry-1369	W-Bry-111308
+Reference link to non-existing reference	2571	W-Bry-1369	W-Bry-111058
+Reference link to non-existing reference	2573	W-Bry-1369	W-Bry-111395
+Reference link to non-existing reference	2583	W-Bry-1369	W-Bry-111295
+Reference link to non-existing reference	2585	W-Bry-1369	W-Bry-111595
+Reference link to non-existing reference	2588	W-Bry-1369	W-Bry-111409
+Reference link to non-existing reference	2596	W-Bry-1369	W-Bry-111685
+Reference link to non-existing reference	2599	W-Bry-1369	W-Bry-111555
+Reference link to non-existing reference	2602	W-Bry-1369	W-Bry-111185
+Reference link to non-existing reference	2607	W-Bry-1369	W-Bry-111634
+Reference link to non-existing reference	2611	W-Bry-1369	W-Bry-111570
+Reference link to non-existing reference	2612	W-Bry-1369	W-Bry-111319
+Reference link to non-existing reference	2621	W-Bry-1369	W-Bry-111385
+Reference link to non-existing reference	2623	W-Bry-1369	W-Bry-111468
+Reference link to non-existing reference	2631	W-Bry-1369	W-Bry-111704
+Reference link to non-existing reference	2633	W-Bry-1369	W-Bry-111068
+Reference link to non-existing reference	2644	W-Bry-1369	W-Bry-111534
+Reference link to non-existing reference	2648	W-Bry-1369	W-Bry-111470
+Reference link to non-existing reference	2655	W-Bry-1369	W-Bry-111085
+Reference link to non-existing reference	2657	W-Bry-1369	W-Bry-111234
+Reference link to non-existing reference	2659	W-Bry-1369	W-Bry-111734
+Reference link to non-existing reference	2661	W-Bry-1369	W-Bry-111370
+Reference link to non-existing reference	2663	W-Bry-1369	W-Bry-111168
+Reference link to non-existing reference	2665	W-Bry-1369	W-Bry-111406
+Reference link to non-existing reference	2669	W-Bry-1369	W-Bry-111270
+Reference link to non-existing reference	2673	W-Bry-1369	W-Bry-111568
+Reference link to non-existing reference	2678	W-Bry-1369	W-Bry-111119
+Reference link to non-existing reference	2686	W-Bry-1369	W-Bry-111383
+Reference link to non-existing reference	2692	W-Bry-1369	W-Bry-111485
+Reference link to non-existing reference	2693	W-Bry-1369	W-Bry-111236
+Reference link to non-existing reference	2695	W-Bry-1369	W-Bry-111219
+Reference link to non-existing reference	2699	W-Bry-1369	W-Bry-111755
+Reference link to non-existing reference	2702	W-Bry-1369	W-Bry-111183
+Reference link to non-existing reference	2709	W-Bry-1369	W-Bry-111368
+Reference link to non-existing reference	2719	W-Bry-1369	W-Bry-111736
+Reference link to non-existing reference	2728	W-Bry-1369	W-Bry-111404
+Reference link to non-existing reference	2733	W-Bry-1369	W-Bry-111606
+Reference link to non-existing reference	2737	W-Bry-1369	W-Bry-111157
+Reference link to non-existing reference	2744	W-Bry-1369	W-Bry-111204
+Reference link to non-existing reference	2749	W-Bry-1369	W-Bry-111240
+Reference link to non-existing reference	2761	W-Bry-1369	W-Bry-111100
+Reference link to non-existing reference	2762	W-Bry-1369	W-Bry-111306
+Reference link to non-existing reference	2766	W-Bry-1369	W-Bry-111504
+Reference link to non-existing reference	2782	W-Bry-1369	W-Bry-111583
+Reference link to non-existing reference	2783	W-Bry-1369	W-Bry-111783
+Reference link to non-existing reference	2788	W-Bry-1369	W-Bry-111198
+Reference link to non-existing reference	2797	W-Bry-1369	W-Bry-111647
+Reference link to non-existing reference	2802	W-Bry-1369	W-Bry-111113
+Reference link to non-existing reference	2809	W-Bry-1369	W-Bry-111449
+Reference link to non-existing reference	2820	W-Bry-1369	W-Bry-111613
+Reference link to non-existing reference	2821	W-Bry-1369	W-Bry-111206
+Reference link to non-existing reference	2828	W-Bry-1369	W-Bry-111742
+Reference link to non-existing reference	2832	W-Bry-1369	W-Bry-111413
+Reference link to non-existing reference	2839	W-Bry-1369	W-Bry-111447
+Reference link to non-existing reference	2851	W-Bry-1369	W-Bry-111340
+Reference link to non-existing reference	2852	W-Bry-1369	W-Bry-111747
+--------------
+SELECT 'Specialist not present in scientific names table', t1.record_id,
+	t1.specialist_name, t1.specialist_code
+FROM specialists AS t1
+LEFT JOIN scientific_names AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL
+--------------
+
+--------------
+SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year,
+	t1.title, t1.reference_code
+FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
+--------------
+
+Reference without parent accepted or common name	record_id	author	year	title	reference_code
+Reference without parent accepted or common name	3	Vieira, L. M.; Spencer Jones, M. E.	2012	The identity of <em>Sertularia </em><em>reptans</em> Linnaeus, 1758 (Bryozoa, Candidae)	W-Bry-164998
+Reference without parent accepted or common name	5	Davoult, D.; Dewarumez, J.-M.; Luczak, C.; Migné, A.	1999	Nouvelles signalisations d'espèces benthiques sur les côtes françaises de la Manche orientale et de la Mer du Nord [New reports of benthic species from the french coasts of the eastern English Channel and the North Sea]. <i>Cah. Biol. Mar. 40(2)</i>: 121-	W-Bry-1260
+Reference without parent accepted or common name	9	Bobin, G. & Prenant, M.	1965	Callopora rylandi n. sp. (Bryozoaires chilostomes, Alderinidae). Cah. Biol. mar. 6: 277-291, 7 figs. [English summary]	W-Bry-163777
+Reference without parent accepted or common name	18	Nikulina, E. A.	2008	Taxonomy and ribosomal DNA-based phylogeny of the Electra crustulenta species group (Bryozoa: Cheilostomata) with revision of Borg's varieties and description of Electra moskvikvendi sp	W-Bry-174984
+Reference without parent accepted or common name	19	Klicperandré, A.; Tayloraul, P. D.; Westphalildegard, H.	2013	Bryoliths constructed by bryozoans in symbiotic associations with hermit crabs in a tropical heterozoan carbonate system	W-Bry-172982
+Reference without parent accepted or common name	22			TermCat, The Center for Terminology	W-Bry-163043
+Reference without parent accepted or common name	32	Ryland, J. S.	1960	THE BRITISH SPECIES OF BUGULA (POLYZOA)	W-Bry-192533
+Reference without parent accepted or common name	34	Hayward, P. J.	1996	A new species in the Antarctic genus Toretocheilum (Bryozoa: Cheilostomatida	W-Bry-156702
+Reference without parent accepted or common name	36	Winston, J. E.; Woollacott, R. M.	2008	Redescription and revision of some red pigmented species of Bugula	W-Bry-145893
+Reference without parent accepted or common name	37	Vieira, L. M.; Migotto, A. E.; Winston, J. E.	2010	Shallow-water species of Beania Johnston, 1840 (Bryozoa, Cheilostomata) from the tropical and subtropical Western Atlantic	W-Bry-145352
+Reference without parent accepted or common name	38	de Blauwe, Hans; Faasse, Marco	2001	Extension of the range of the bryozoans Tricellaria inopinata and Bugula simplex in the north-east Atlantic Ocean (Bryozoa: Cheilostomatida)	W-Bry-192070
+Reference without parent accepted or common name	47	Cardigos, F.; Tempera, F.; Ávila, S.; Gonçalves, J.; Colaço, A.; Santos, R. S.	2006	Non-indigenous marine species of the Azores	W-Bry-191939
+Reference without parent accepted or common name	48	van Benthem Jutting	1922	Bryozoën. In: Redeke, H.C. (red.), Flora en fauna der Zuiderzee, monografie van een brakwatergebied.	W-Bry-131985
+Reference without parent accepted or common name	54	Dyntaxa	2013	Swedish Taxonomic Database	W-Bry-165516
+Reference without parent accepted or common name	67	Harmelin, J.-G.; Boury-Esnault, N.; Fichez, R.; Vacelet, J.; Zibrowius, H.	2003	Peuplement de la grotte sous-marine de l'ile de Bagaud (parc national de Port-Cros, France, Méditerranée)	W-Bry-193827
+Reference without parent accepted or common name	71	Canu, F.; Bassler, R. S.	1929	Bryozoa of the Philippine region	W-Bry-166712
+Reference without parent accepted or common name	84	Müller, O. F.	1806	Zoologia Danica seu animalium Daniae et Norvegiae rariorum ac minus notorum  descriptiones et historia	W-Bry-51125
+Reference without parent accepted or common name	98	Vanderperren, J.-P.	1991	Report Natural History Archive 1990 [Verslag Natuurhistorisch Archief 1990]. De Strandvlo 11(3): 65-75	W-Bry-139287
+Reference without parent accepted or common name	99	Nikulina, Elena A., de Blauwe, Hans & Reverter-Gil, Oscar,	2012	Molecular Phylogenetic Analysis Confirms the Species Status of Electra verticillata (Ellis and Solander, 1786). In: Bryozoan Studies 2010, (Eds, Ernst, Andrej, Schäfer, Priska & Scholz, Joachim): 217-236. (Springer, Heidelberg)	W-Bry-172984
+Reference without parent accepted or common name	101	Taylor, P. D.; Cook, P. L.	1981	i>Hippoporidra edax</i> (Busk, 1859) and a revision of some fossil and living <i>Hippoporidra /i> (Bryozoa	W-Bry-173057
+Reference without parent accepted or common name	102	Van der Sleen, W.G.N.,	1920	Lijst van Nederlandsche Evertebraten. Tijdschr. ned. dierk. Vereen. -318 : xxii-xxxix.	W-Bry-32921
+Reference without parent accepted or common name	106	Allman, G. J.	1844	XXXIX.—Synopsis of the Genera and Species of Zoophytes inhabiting the Fresh Waters of Ireland. Annals and Magazine of Natural History, including Zoology	W-Bry-35310
+Reference without parent accepted or common name	108	Farre, A.,	1837	Observations on the minute structure of some of the higher forms of Polypi, with views of a more natural arrangement of the class. Phil. Trans. R. Soc. Lond. 1837 1: 387-426.	W-Bry-35928
+Reference without parent accepted or common name	110	Macgillivray, J.	1842	L.—Catalogue of the Marine Zoophytes of the neighbourhood of Aberdeen	W-Bry-36636
+Reference without parent accepted or common name	113	Ryland, J. S.; Porter, J. S.	2003	The identity of Alcyonidium gelatinosum (Linnaeus, 1761) (Bryozoa: Ctenostomatida	W-Bry-42325
+Reference without parent accepted or common name	116	Ellis, J.; Solander, D.	1786	The Natural History of many curious and uncommon Zoophytes, collected from various parts of the Globe. Systematically arranged and described by the late Daniel Solander. 4.(Benjamin White & Son: London): 1-206, pls 1-63.	W-Bry-7454
+Reference without parent accepted or common name	117	Fleming, J.	1828	A History of British Animals, Exhibiting the Descriptive Characters and Systematical Arrangement of the Genera and Species of Quadrupeds, Birds, Reptiles, Fishes, Mollusca, and Radiata of the United Kingdom; Including the Indigenous, Extirpated, and Extin	W-Bry-7476
+Reference without parent accepted or common name	120	Lamouroux	1821	Exposition méthodique des genres de l'ordre des polypiers : avec leur description et celle des principales espèces, figurées dans 84 planches, les 63 premières appartenant a l'Histoire naturelle des zoophytes d'ellis et solander / par J. Lamouroux	W-Bry-7772
+Reference without parent accepted or common name	124	Winston J. E.	2005	Re-description and revision of Smitt's "Floridan Bryozoa" in the Collection of the Museum of Comparative Zoology, Harvard University	W-Bry-42314
+Reference without parent accepted or common name	132	Norman, A.M.,	1867	Report of the Committee appointed for the purpose of Exploring the Coasts of the Hebrides by means of the Dredge.— Part II. On the Crustacea, Echinodermata, Polyzoa, Actinozoa, and Hydrozoa. In: Report of the Thirty-sixth meeting of the British Associatio	W-Bry-18220
+Reference without parent accepted or common name	135	J P H M Adema	1991	De Krabben van Nederland en Belgi	W-Bry-21480
+Reference without parent accepted or common name	137	Loppens, K.	1906	Bryozoaires marins et fluviatiles de la Belgique. Annales de la Société Royale Zoologique et Malacologique de Belgique 41: 286-321.	W-Bry-131974
+Reference without parent accepted or common name	138	Lacourt, A.W.	1949	Bryozoa of the Netherlands	W-Bry-131975
+Reference without parent accepted or common name	139	Cadman, P. S.; Ryland, J. S.	1996	Redescription of Alcyonidium mytili Dalyell, 1848	W-Bry-131978
+Reference without parent accepted or common name	140	Koulman, A., de Bruin J. & J. Begeman	2003	Boeien in de Eemshaven: een eigen  biotoop. Het Zeepaard 63(2): 34-38.	W-Bry-131977
+Reference without parent accepted or common name	141	Hincks, T.	1880	A history of the British Marine Polyzoa. London. Van Voorst. 2 Vols.	W-Bry-132073
+Reference without parent accepted or common name	142	Redant, F.	1976	Epibenthos. In : Nihoul, J.C.J. & De Coninck, L (Ed.)(1976). Project Sea final report: 7. Inventory of fauna and flora. Project Sea final report, 7: 167-202.	W-Bry-131969
+Reference without parent accepted or common name	144	de Boois I.	1998	Verslag van excursie op Texel. Het Zeepaard 58(5): 141-143.	W-Bry-131979
+Reference without parent accepted or common name	145	De Blauwe, H.	2005	Bryozoa op wieren en plastic uit de herfstvloedlijn van het najaar 2004. De Strandvlo 25(1): 14-16.	W-Bry-131980
+Reference without parent accepted or common name	149	Nehring, S.	2006	Four arguments why so many alien species settle into estuaries, with special reference to the German river Elbe. Helgol. Mar. Res. 60(2): 127-134.	W-Bry-9803
+Reference without parent accepted or common name	150			Strandvondsten van Gravelines tot Nieuwpoort. Ecogids Tjiftjaf	W-Bry-123768
+Reference without parent accepted or common name	151	Novosel, M.; Poar-Domac, A.; Pasari, M.	2004	Diversity and distribution of the Bryozoa along underwater cliffs in the Adriatic Sea with special reference to thermal regime. <i>Mar. Ecol. 25(2)</i>: 155-170	W-Bry-8621
+Reference without parent accepted or common name	153	Hincks, T.	1886	XXVI.— The Polyzoa of the Adriatic: a Supplement to Prof. Heller's ‘Die Bryozoen des adriatischen Meeres,’ 1867	W-Bry-190919
+Reference without parent accepted or common name	155	De Blauwe, H.	2005	A new species of Caulibugula (Bryozoa: Cheilostomatida) from France	W-Bry-9197
+Reference without parent accepted or common name	160	Winston, J.E., P.J. Hayward, and S.F. Craig.	2000	Marine bryozoans of the northeast coast of the United States: new and problem species. Proceedings of the 11th International Bryozoology Association Conference 2000: 412-420.	W-Bry-3097
+Reference without parent accepted or common name	167	Guiry, M.D. and Nic Dhonncha, E.,	2004	AlgaeBase, version 2.1 National University of Ireland, Galway.	W-Bry-2968
+Reference without parent accepted or common name	169	Bromley and Bleakney,	1977	Bromley and Bleakney, 1977	W-Bry-2927
+Reference without parent accepted or common name	171	De Blauwe, H.	2004	De zeevingers Alcyonidium condylocinereum Porter, 2004 en Alcyonidium diaphanum (Hudson, 1778) (Bryozoa: Ctenostomatida) aan de Belgische kust	W-Bry-1685
+Reference without parent accepted or common name	172	Faasse, M.; De Blauwe, H.	2003	Het mosdiertje <i>Arachnidium fibrosum</i> (Hincks, 1880) nieuw voor België en Nederland [The bryozoan <i>Arachnidium fibrosum</I> Hincks, 1880 new to Belgium and the Netherlands]. <i>De Strandvlo 23(2)</i>: 47-49	W-Bry-1669
+Reference without parent accepted or common name	173	Porter, J.S.	2004	Morphological and genetic characteristics of erect subtidal species of <i>Alcyonidium</i> (Ctenostomata: Bryozoa). <i>J. Mar. Biol. Ass. U.K. 84(1)</i>: 243-252	W-Bry-1681
+Reference without parent accepted or common name	174	d'Hondt, J.-L.; Occhipinti Ambrogi, A.	1985	Tricellaria inopinata , n.sp., un nouveau bryozoaire Cheilostome de la faune Mediterraneene	W-Bry-644
+Reference without parent accepted or common name	175	De Blauwe, H.	2001	<i>Hypophorella expansa</i> Ehlers, 1876 een algemeen mosdiertje in aangespoelde kokers van de perkamentkokerworm <i>Chaetopserus variopedatus</i> [<i>Hypophorella expansa</i> Ehlers, 1876 a common bryozoan in beached <i>Chaetopserus variopedatus</i> tube	W-Bry-1158
+Reference without parent accepted or common name	176	De Blauwe, H.	2000	. Riemwiervoetjes en hun begroeiing [Seaweed haptera and their overgrowth]. <i>De Strandvlo 20(3)</i>: 130-137	W-Bry-1163
+Reference without parent accepted or common name	177			Faasse, Marko	W-Bry-1206
+Reference without parent accepted or common name	178	Fabricius, O.	1780	Fauna Groenlandica: systematice sistens animalia Groenlandiae occidentalis hactenus indagata, quod nomen specificium	W-Bry-281
+Reference without parent accepted or common name	183	Ryland, J.S.; Hayward, P.J.	1977	British anascan bryozoans: Cheilostomata: Anasca: keys and notes for the identification of the species. <i>Synopses of the British fauna (new series)</i>, 10. Academic Press: London, UK. ISBN 0-12-605250-6. 118 pp.	W-Bry-1076
+Reference without parent accepted or common name	190			Algaebase	W-Bry-37
+Reference without parent accepted or common name	193	Linnaeus, C.	1758	Systema Naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis	W-Bry-8
+Reference without parent accepted or common name	199	Linnaeus C.	1767	Caroli Linnaei...Systema naturae per regna tria naturae: secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis.  Editio duodecima. 1. Regnum Animale. 1 & 2  Holmiae, Laurentii Salvii  	W-Bry-671
+Reference without parent accepted or common name	204	Kukliński, P.; Barnes, D. K. A.	2005	Microhabitat diversity of Svalbard bryozoa	W-Bry-7012
+Reference without parent accepted or common name	221	Eneman, E.	1984	Uit het Natuurhistorisch Archief [From the Natural History Archive]. <i>De Strandvlo 4(1)</i>: 4-17	W-Bry-755
+Reference without parent accepted or common name	232	Heerebout, G.R.	1970	Verspreidingsecologie van de Bryozoa in het Deltagebied, speciaal in relatie tot het brakke water. Delta Instituut voor Hydrobiologisch Onderzoek, Yerseke. Doctoraal verslag D1-1970.	W-Bry-131992
+Reference without parent accepted or common name	236	Kuklinski & Taylor.	2006	Unique life history strategy  in a successful Arctic bryozoan, Harmeria scutulata. Journal of the Marine Biological Association of the United Kingdom    Volume: 86    Issue: 5    Pages: 1035-1046	W-Bry-128804
+Reference without parent accepted or common name	242	Nikulina, E.A.	2008	Electra scuticifera sp. nov.: Redescription of Electra pilosa from New Zealand as a new species (Bryozoa, Cheilostomata). Schr. Naturwiss. Ver. Schlesw.-Holst., 70, 91-98.	W-Bry-174983
+Reference without parent accepted or common name	247	Maitland, R.S.	1851	Fauna Belgii septentrionalis: systematische beschrijving der dieren, welke in Noord Nederland of aan deszelfs kusten voorkomen met bijvoeging derzelver synonymen, benevens der plaatsen waar dezelve gevonden zijn, gerangschikt naar Prof. J. van der Hoeven'	W-Bry-62229
+Reference without parent accepted or common name	248	Vanhaelen, M.; Jonckheere, I.; De Blauwe, H.	2006	Grote wierstranding aan de Belgische Westkust tijdens de zomer van 2005	W-Bry-131999
+Reference without parent accepted or common name	249	de Ruijter, R.	2005	. CS-verslag. Het Zeepaard 65(3): 74-79.	W-Bry-132008
+Reference without parent accepted or common name	250	d'Udekem d'Acoz, C.	1993	Existence d’hibernacles chez Anguinella palmata van  Beneden, 1845 (Bryozoa, Ctenostomata, Nolellidae). De Strandvlo 13(4): 146-148.	W-Bry-131984
+Reference without parent accepted or common name	252	d'Udekem d'Acoz, C.	1991	Quelques données sur Anguinella palmata van Beneden,  1845 et sa faune associée en Belgique (Bryozoa, Ctenostoma: Nolellidae). De Strandvlo 11(2): 57.	W-Bry-131986
+Reference without parent accepted or common name	253	Soule, Chaney & Morris	2003	New taxa of Microporellidae in the eastern Pacific Ocean.	W-Bry-131207
+Reference without parent accepted or common name	256	Liu, Liu & Sun.	2003	Studia Marina Sinica 45: 202-217	W-Bry-128872
+Reference without parent accepted or common name	258	Soule, Chaney & Morris	2003	New taxa of Microporellidae in the eastern Pacific Ocean.	W-Bry-131208
+Reference without parent accepted or common name	259	de Ruijter, R.	2005	. CS-verslag. Het Zeepaard 65(6): 177-181.	W-Bry-132009
+Reference without parent accepted or common name	260	Silén, L.	1946	On two groups of Bryozoa living in Shells of Molluscs	W-Bry-163695
+Reference without parent accepted or common name	263	Hayward, P. J.	1994	New species and records of Cheilostomatous Bryozoa from the Faroe Islands, collected by BIOFAR	W-Bry-201139
+Reference without parent accepted or common name	265	de Ruijter, R.	2007	CS-verslag. Het Zeepaard 67(2): 34-38.	W-Bry-132010
+Reference without parent accepted or common name	266	de Ruijter, R.	2006	CS-verslag. Het Zeepaard 66(4): 118-121.	W-Bry-132013
+Reference without parent accepted or common name	267	De Blauwe, H.	2000	i>Chlamys distorta</I> en andere allochtonen op aangespoelde gasfles te Wenduine	W-Bry-132015
+Reference without parent accepted or common name	268	Verkuil, J.	1998	CS-verslag. Het Zeepaard 58(6): 150-157.	W-Bry-132018
+Reference without parent accepted or common name	269	de Ruijter, R.	2006	. Naar het strand, of toch maar niet? Het Zeepaard 66(1): 29-30.	W-Bry-132019
+Reference without parent accepted or common name	270	De Grave, S.; d’Udekem d’Acoz; C	1988	Waarnemingen betreffende de mariene fauna in het noorden van Frankrijk gedurende	W-Bry-132020
+Reference without parent accepted or common name	273	Soule, Chaney & Morris	2003	New taxa of Microporellidae in the eastern Pacific Ocean.	W-Bry-131210
+Reference without parent accepted or common name	275	Soule, Chaney & Morris	2003	New taxa of Microporellidae in the eastern Pacific Ocean.	W-Bry-131212
+Reference without parent accepted or common name	276	Gordon & Rudman.	2006	Integripelta acanthus n. sp. (Bryozoa: Eurystomellidae) — a tropical prey species of Okenia hiroi (Nudibranchia). Zootaxa Volume: 1229 Pages: 41-48	W-Bry-130744
+Reference without parent accepted or common name	281	Seo & Gong.	2006	A new species and two new  records of Cheilostomata (Bryozoa) from Korea. Korean Journal of Systematic Zoology Volume: 22 Issue: 1 Pages: 13-16	W-Bry-129385
+Reference without parent accepted or common name	282	López gappa, J.	2002	Smiltina oblita sp. nov., a new cheilostomatous bryozoan from the southwest Atlantic	W-Bry-128888
+Reference without parent accepted or common name	284	Liu, Liu & Sun.	2003	Seven new species of Genus Microporella and Fenestrulina collected from the cultured shell and their floating cages in Chinese waters. Studia Marina Sinica 45: 202-220	W-Bry-128875
+Reference without parent accepted or common name	285	Liu, Liu & Sun.	2003	Studia Marina Sinica 45: 202-221	W-Bry-128876
+Reference without parent accepted or common name	286	Liu, Liu & Sun.	2003	Seven new species of genus Microporella and Fenestrulina collected from the cultured shell and their floating cages in Chinese waters.	W-Bry-128877
+Reference without parent accepted or common name	289	Gordon, D. P.	1988	The bryozoan families Sclerodomidae, Bifaxariidae, and Urceoliporidae and a novel type of frontal wall	W-Bry-141508
+Reference without parent accepted or common name	296	Quelch, J. J.	1884	On Schizoporella ridleyi and S. simplex. Ann. N. H. (5) xiii.	W-Bry-163248
+Reference without parent accepted or common name	297	Seo.	2002	Seo. 2002. A new parasmittinid bryozoan (Cheilostomata) from Korea. Journal of Biological sciences  6 (1): 41-43	W-Bry-129386
+Reference without parent accepted or common name	298	Tilbrook, K.J.; Grischenko, A.V.	2004	New sub-Arctic species of the tropical genus <i>Antropora</i> (Bryozoa: Cheilostomata): a gastropod-pagurid crab associate J. Mar. Biol. Ass. U.K. 84(3): 1001-1004.	W-Bry-129521
+Reference without parent accepted or common name	300	Hayward, P. J.	1976	The marine fauna and flora of the Isles of Scilly: Bryozoa II	W-Bry-132072
+Reference without parent accepted or common name	302	Jebram, D.	1968	Zur Bryozoen-Fauna der Niederlande	W-Bry-131995
+Reference without parent accepted or common name	303	Xixing, L.; Huilian, L.	1999	Systematic position of Mucronella perforata Okada et Mawatari 1937	W-Bry-131961
+Reference without parent accepted or common name	307	Heller, C.	1867	Die Bryozoën (Polyzoa) des Adriatischen Meeres. Verhandl. der k.-k. zool.-bot. Gesellschaft in Wien, Bd. xvii.	W-Bry-163198
+Reference without parent accepted or common name	309	Kent, W. S.	1870	On a new Polyzoon, Victoriella pavida, from the Victoria Docks. J. Micr. Soc. (2) No. xxxvii. January 1870,	W-Bry-163200
+Reference without parent accepted or common name	334	Corriero, G.; Pierri, C.; Accoroni, S.; Alabiso, G.; Bavestrello, G.; Barbone, E.; Bastianini, M.; Bazzoni, A. M.; Bernardi Aubry, F.; Boero, F.; Buia, M. C.; Cabrini, M.; Camatti, E.; Cardone, F.; Ca	2015	Ecosystem vulnerability to alien and invasive species: a case study on marine habitats along the Italian coast	W-Bry-197902
+Reference without parent accepted or common name	340	Marchini, A.; Ferrario, J.; Sfriso, A.; Occhipinti-Ambrogi, A.	2015	Current status and trends of biological invasions in the Lagoon of Venice, a hotspot of marine NIS introductions in the Mediterranean Sea	W-Bry-198222
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+CREATE TEMPORARY TABLE duplicates_to_delete AS
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus,
+	dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+FROM
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+	FROM scientific_names
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id
+	HAVING cnt > 1) AS dups
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+WHERE sn.sp2000_status_id = 1 AND sn.name_code NOT IN
+	(SELECT dups3.namecodes_to_keep FROM
+		(SELECT MAX(name_code) AS namecodes_to_keep, genus, subgenus, species, infraspecies_marker, infraspecies, author FROM
+			(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, dups.species AS species,
+				dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+			FROM
+				(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+				FROM scientific_names
+				GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+			LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+			WHERE sn.sp2000_status_id = 1) AS dups2
+		GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author) AS dups3)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_names
+USING scientific_names
+INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
+--------------
+
+--------------
+DELETE QUICK t1 FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+--------------
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN scientific_names_tmp AS t2 ON t1.accepted_name_code = t2.name_code
+WHERE t2.name_code IS NULL AND t1.is_accepted_name != 1
+--------------
+
+--------------
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN scientific_names_tmp AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
+WHERE t1.infraspecies_parent_name_code IS NOT NULL AND t2.name_code IS NULL
+--------------
+
+--------------
+DELETE QUICK t1 FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+--------------
+OPTIMIZE TABLE lifezone
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Bryozoa.lifezone	optimize	status	OK
+--------------
+DELETE QUICK t1 FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+--------------
+OPTIMIZE TABLE distribution
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Bryozoa.distribution	optimize	status	OK
+--------------
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL
+--------------
+
+--------------
+OPTIMIZE TABLE scientific_names
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Bryozoa.scientific_names	optimize	status	OK
+--------------
+DELETE QUICK t1 FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+--------------
+DELETE QUICK t1 FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL
+--------------
+
+--------------
+OPTIMIZE TABLE scientific_name_references
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Bryozoa.scientific_name_references	optimize	status	OK
+--------------
+DELETE QUICK t1 FROM specialists AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL
+--------------
+
+--------------
+DELETE t1 FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
+--------------
+
+--------------
+OPTIMIZE TABLE `references`
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Bryozoa.references	optimize	status	OK
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+CREATE TRIGGER delfamcascade AFTER DELETE ON `families`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `scientific_names` WHERE family_code = old.family_code;
+
+END;
+
+CREATE TRIGGER delspcascade AFTER DELETE ON `scientific_names`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+DELETE FROM `distribution` WHERE name_code = old.name_code;
+DELETE FROM `lifezone` WHERE name_code = old.name_code;
+DELETE FROM `scientific_name_references` WHERE name_code = old.name_code;
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+
+END;
+
+CREATE TRIGGER delrefscascade AFTER DELETE ON `scientific_name_references`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `references` WHERE reference_code = old.reference_code;
+
+END;
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+</pre>
+<pre>
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Editorial and Integrity checks Completed.
+</pre>
+</pre><hr><b>Replacing sectors in Assembly Global database</b>
+<pre>
+<pre>
+Starting Sector Management
+--------------
+SET @dbid = 81
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+DELETE FROM ",
+@dbtouse,
+".`databases` WHERE `record_id` = @dbid")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`families` SELECT 
+NULL AS `record_id`,
+`hierarchy_code`,	
+`kingdom`,	
+`phylum`,	
+`class`,	
+`order`,	
+`family`,	
+`superfamily`, 	
+`database_id`, 	
+`family_code`,
+`is_accepted_name`
+FROM  `families`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`databases` SELECT 
+`database_name_displayed`, 
+`record_id`, 
+`database_name`, 
+`database_full_name`, 
+`web_site`, 
+`organization`, 
+`contact_person`, 
+`taxa`, 
+`taxonomic_coverage`, 
+`abstract`, 
+`version`, 
+`release_date`, 
+`SpeciesCount`, 
+`SpeciesEst`, 
+`authors_editors`, 
+`accepted_species_names`, 
+`accepted_infraspecies_names`, 
+`species_synonyms`, 
+`infraspecies_synonyms`, 
+`common_names`, 
+`total_names`, 
+`is_new`,
+`coverage`,
+`completeness`,
+`confidence`
+FROM `databases`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`scientific_names` 
+(`record_id`, `name_code`, `web_site`, `genus`, `subgenus`, `species`, `infraspecies_parent_name_code`, `infraspecies`, `infraspecies_marker`, `author`, `accepted_name_code`, `comment`, `scrutiny_date`, `sp2000_status_id`, `database_id`, `specialist_id`, `family_id`, `specialist_code`, `family_code`, `is_accepted_name`, `GSDTaxonGUID`, `GSDNameGUID`, `is_extinct`, `has_preholocene`, `has_modern`) SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`web_site`, 
+`genus`, 
+`subgenus`, 
+`species`, 
+`infraspecies_parent_name_code`, 
+`infraspecies`, 
+`infraspecies_marker`, 
+`author`, 
+`accepted_name_code`, 
+`comment`, 
+`scrutiny_date`, 
+`sp2000_status_id`, 
+`database_id`, 
+`specialist_id`, 
+`family_id`, 
+`specialist_code`, 
+`family_code`, 
+`is_accepted_name`, 
+`GSDTaxonGUID`, 
+`GSDNameGUID`, 
+`is_extinct`,
+`has_preholocene`, 
+`has_modern`
+FROM `scientific_names`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`common_names` SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`common_name`, 
+`transliteration`, 
+`language`, 
+`country`, 
+`area`, 
+NULL AS `reference_id`, 
+`database_id`, 
+`is_infraspecies`, 
+`reference_code`
+FROM  `common_names`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`distribution` SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`distribution`, 
+`StandardInUse`, 
+`DistributionStatus`,
+`database_id`
+FROM  `distribution`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`lifezone` SELECT 
+NULL AS `record_id`,
+`name_code`, 	
+`lifezone`,
+`database_id`
+FROM  `lifezone`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`scientific_name_references` SELECT 
+NULL AS `record_id`,
+`name_code`,	
+`reference_type`, 	
+NULL AS `reference_id`,	
+`reference_code`,
+`database_id`
+FROM  `scientific_name_references`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`references` SELECT 
+NULL AS `record_id`, 
+`author`, 
+`year`, 
+`title`, 
+`source`, 
+`database_id`, 
+`reference_code`
+FROM  `references`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`specialists` SELECT 
+NULL AS `record_id`,
+`specialist_name`,
+`specialist_code`,
+`database_id`
+FROM  `specialists`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Transformations Completed.
+<pre>
+</pre><hr><b>Chain completed</b>
+</body></html>

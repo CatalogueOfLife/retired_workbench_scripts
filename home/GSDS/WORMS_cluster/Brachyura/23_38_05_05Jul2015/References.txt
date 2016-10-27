@@ -1,0 +1,402 @@
+ReferenceID	Authors	Year	Title	Details	
+1	Hayward, P.J.; Ryland, J.S. (Ed.)	1990	The marine fauna of the British Isles and North-West Europe: 1. Introduction and protozoans to arthropods. Clarendon Press: Oxford, UK. ISBN 0-19-857356-1. 627 pp.		
+8	Linnaeus, C.	1758	Systema Naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis		
+42			ITIS database		
+51	Adema, J.P.H.M.	1991	De krabben van Nederland en Belgie (Crustacea, Decapoda, Brachyura) [The crabs of the Netherlands and Belgium (Crustacea, Decapoda, Brachyura)]. Nationaal Natuurhistorisch Museum: Leiden, The Netherlands. ISBN 90-73239-02-8. 244 pp.		
+52	Adema, J.P.H.M.	1991	Een aanvulling op: 'de krabben van Nederland en Belgie': de grijze zwemkrab, <i>Liocarcinus vernalis</i> (Risso, 1816) in de Noordzee gevonden. <i>Het Zeepaard 51(5)</i>: 110-115		
+61	Cattrijsse, A.; Vincx, M.	2001	Biodiversity of the benthos and the avifauna of the Belgian coastal waters: summary of data collected between 1970 and 1998. Sustainable Management of the North Sea. Federal Office for Scientific, Technical and Cultural Affairs: Brussel, Belgium. 48 pp.		
+174	Linnaeusammalia, C. M.; Avesmphibia, A.; Piscesnsecta, I.; Vermes	1761	Fauna Suecica sistens Animalia Sueciae Regni: Distributa per Classes, Ordines, Genera, Species, cum Differentiis Specierum, Synonymis Auctorum, Nominibus Incolarum, Locis Natalium, Descriptionibus insectorum		
+614	Hayward, P.J.; Nelson-Smith, A.; Shields, C.	1996	Collins pocket guide: sea shore of Britain and Europe. <i>Collins pocket guides</i>. Harper-Collins Publishers: London, UK. ISBN 0-00-219955-6. 352 pp.		
+628	Schotte, M., B.F. Kensley, and S. Shilling.	1995	nwards). World list of Marine, Freshwater and Terrestrial Crustacea Isopoda. National Museum of Natural History Smithsonian Institution: Washington D.C., USA.		
+663	Howson, C.M.; Picton, B.E. (Ed.)	1997	The species directory of the marine fauna and flora of the British Isles and surrounding seas. <i>Ulster Museum Publication</i>, 276. The Ulster Museum: Belfast, UK. ISBN 0-948150-06-8. vi, 508 (+ cd-rom) pp.		
+671	Linnaeus, C.	1767	Systema naturae sive regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Laurentii Salvii, Holmiae. 12th ed. v. 1 (pt 2): 533-1327		
+685	Hayward, P.; Nelson-Smith, A.; Shields, C.	1999	Gids van kust en strand: flora en fauna [Coast and beach guide: flora and fauna]. Tirion: Baarn, Netherlands. ISBN 90-5210-327-5. 352, ill. pp.		
+754	Linnaeus, C.	1771	Mantissa Plantarum. Holmiae, 1-588		
+755	Eneman, E.	1984	Uit het Natuurhistorisch Archief [From the Natural History Archive]. <i>De Strandvlo 4(1)</i>: 4-17		
+1116	Leewis, R.	2002	Flora en fauna van de zee [Marine flora and fauna]. <i>Veldgids</i>, 16. KNNV Uitgeverij: Utrecht, The Netherlands. ISBN 90-5011-153-X. 320 pp.		
+1154	d'Udekem d'Acoz, C.	1999	Inventaire et distribution des crustacés décapodes de l'Atlantique nord-oriental, de la Méditerranée et des eaux continentales adjacentes au nord de 25°N [Inventory and distribution of the decapod crustaceans from the northeastern Atlantic, the Mediterranean and the adjacent continental waters north of 25°N]. <i>Collection Patrimoines Naturels</i>, 40. Muséum national d'Histoire Naturelle: Paris, France. ISBN 2-86515-114-10. X, 383 pp.		
+1169			Biosis; Index To Organism Names		
+1363	Gibson, R.	2001	Nemertini (Nemertae), <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+1392	Türkay, M.	2001	Decapoda, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+1613	Leloup, E.	1941	Contributions à l'étude de la faune belge: 11. Les crustacés Décapodes Brachyoures de la côte belge [Contributions to the study of Belgian fauna: 11. The Decapoda Brachyura of the Belgian coast]. <i>Bull. Mus. royal d'Hist. Nat. Belg./Med. Kon. Natuurhist. Mus. Belg. 17(11)</i>: 1-19		
+2811	Gibson, R.	2005	Nemertina DB. Liverpool John Moore University, UK		
+2901			North-West Atlantic Ocean species (NWARMS)		
+2930	Brunel, P.; Bosse, L.; Lamarche, G.	1998	Catalogue of the marine invertebrates of the estuary and Gulf of St. Lawrence		
+3005	Maine Department of Marine Resources.	2003	The Asian Shore Crab. Maine.		
+3017	Meinkoth, N.A.	1981	Field guide to North American seashore creatures. The Audubon Society. Alfred A. Knopf. New York. 799 p.		
+3038	Pohle, G.W.	1990	A guide to decapod Crustacea from the Canadian Atlantic: Anomura and Brachyura. Canadian Technical Report of Fisheries and Aquatic Science 1771. 29 p.		
+3042	Pollock, L.W.	1998	A Practical Guide to the Marine Animals of Northeastern North America.		
+3065	Squires, W.A.	1976	The birds of New Brunswick. Second Edition. The New Brunswick Museum. Saint John. 221 p.		
+3072	Trott, T.J.	2004	Cobscook Bay inventory: a historical checklist of marine invertebrates spanning 162 years. Northeastern Naturalist (Special Issue 2): 261 - 324.		
+3091	Wigley, R. L.; Messersmith, J. L.	1976	Benthochascon schmitti Rathbun (Decapoda, Brachyura) off southern New England		
+3093	Williams, A.B.	1984	Shrimps, lobsters, and crabs of the Atlantic coast of the eastern United States, Maine to Florida. Smithsonian Institution Press. Washington. 550 p.		
+4199	Muller, H.G.	1993	. World catalogue and bibliography of the recent Mysidacea. 238p		
+5645	Risso, A.	1816	Histoire Naturelle des Crustacés des Environs de Nice.		
+5882	Ruwa, R. K. G.; Kanamai; Malindi, B.; Kenya	1989	Macrofaunal composition and zonation on sandy beaches at		
+5890	Hartnoll, R. G.	1975	The Grapsidae and Ocypodidae (Decapoda: Brachyura) of Tanzania		
+5891	Barnard, K.H.,	1950	Descriptive catalogue of South African decapod Crustacea (crabs and shrimps).— Annals of the South African Museum 38: 1-837.		
+5892	Crosnier, A.	1965	Crustaces Decapodes. Grapsidae et Ocypodidae		
+5894	Vannini, M.	1982	Notes on Somalian species of the Genus Hypocolpus (Decapoda, Brachyura, Xanthidae) with the description of a new species		
+5895	Vannini, M.	1983	Description of Thalamita crosnieri, a new species from Somalia with notes on T. cooperi Borradaile from Somalia and T. demani Nobili from Aldabra		
+5896	Taylor, J.D.	1971	Intertidal Zonation at Aldabra Atoll. Phil. Trns. Roy. Soc. Lond. B. 260, 173-213		
+5919	Crosnier, A.	1962	Faune de Madagascar. XVI Crustaces Decapodes: Portunidae.		
+5937	Galil, B.; Vannini, M.	1990	Research on the coast of Somalia: Xanthidae		
+5948	Vannini, M.	1976	Researches on the coast of Somalia. The shore and the Dune of Sar Uanle. 10. Sandy Beach Decapods		
+5949	Vannini, M.; Valmori, P.	1981	Researches on the coast of Somalia. The shore and the dune of Sar Uanle. 30		
+5950	Vannini, M.; Valmori, P.	1981	Researches on the coast of Somalia. The shore and the dune of Sar Uanle. 31. Ocypodidae and Gecarcinidae (Decapoda Brachyura		
+5953	Serene, R.	1977	Crustaces Hippides et brachyoures des Iles Seychelles (2ieme Partie). Rev. Zool. Afr. 91 (3): 748-765.		
+5954	Stephenson, W.	1976	Notes on Indo-West Pacific Portunids (Decapoda, Portunidae) in the Smithsonian Institution		
+5958	Fourmanoir, P.	1954	Crabes de la cote ouest de Madagascar		
+5960	Guinot, D.	1967	La Faune carcinologique (Crustacea Brachyura) de l'Ocean Indien Occidental et de la Mer Rouge. Catalogue, Remarques bibliographiques et biobliographie		
+5968	Stephenson, W. & M. Rees	1967	Portunid crabs (Crustacea: Decapoda: Portunidae) collected by the 'Discovery' in the Indian Ocean. J. Nat. Hist. 1: 285-288.		
+5987	Vine, P.	1986	Red Sea Invertebrates. Immel Publishing, London. 224 pp.		
+5992	Bouvier, E.L.	1915	Decapodes marcheurs (Reptantia) et Stomatopodes recueillis a l'ile Maurice par M. Paul Carie. Bull. Scient. Fr. Belg. 3 (48): 178-318.		
+5999	Kensley, B.	1970	A small collection of decapod Crustacea from Mozambique. Ann. S. Mus. 57(5): 103-122.		
+6003	Serene, R.	1984	Crustaces Decapodes Brachyoures de l'Ocean Indien et de la Mer Rouge. Xanthoidea: Xanthidae et Trapeziidae		
+6005	Crosnier, A.	1984	Addendum: Familles des Carpiliidae et des Menippidae. In Serene: Crustaces Decapodes Brachyoures de l'Ocean Indien occidental et de la Mer Rouge. ORSTOM.		
+6007	Lewinsohn, C.	1977	Die Dromiidae des Roten Meeres (Crustacea Decapoda: Brachyura). Zoologische Verhandelingen (Rijksmuseum van Natuurlijke Historie		
+6008	Lewinsohn, C.	1977	Die Ocypodidae des Roten Meeres (Crustacea Decapoda: Brachyura). Zoologische Verhandelingen (Rijksmuseum van Natuurlijke Historie, Leiden) 152.		
+6009	Crosnier, A.	1975	Sur quelques Portunidae, Grapsidae et Ocypodidae (Crustacea Decapoda Brachyura) de Madagascar ou des Iles avoisinantes, noveuax, rares ou non encore signales. Bull. Mus natn. Hist. Nat, Paris, 3ieme serie 304: 711-741.		
+6010	Crosnier, A.	1977	Sur les Caphyra (Crustacea Decapoda Portunidae) de l'ocean Indien occidental et de la Mer Rouge. Bull. Mus natn. Hist. Nat, Paris, 3ieme serie 304: 742-764.		
+6015	Derijard, R.	1966	Note preliminaire sur les crustaces stomatopodes et decapodes recoltes a l'ile Europa du 6 au 24 Avril		
+6021	Al-Ghais, S. M.; Cooper, R. T.	1996	Brachyura (Grapsidae, Ocypodidae, Portunidae, Xantidae and Leucosiidae) of Umm Al Quwain mangal, United Arab Emirates		
+6030	Griffin, D. J. G.; Tranter, H. A.	1974	Spider crabs of the Family Majidae (Crustacea: Decapoda		
+6032	Dahdouh-Guebas, F.	1994	Kenyan Mangrove Crabs: Feeding ecology and behavioural ecology of some selected species		
+6059	McLay, C.L. & A. Crosnier	1991	Description of a new and unusual species of Sphaerodromia (Brachyura, Dromiidae) from the Seychelles Islands. Bull. Mus. Natl. Hist. Nat., Paris 4ieme ser. 13(1-2): 181-188.		
+6062	Lewinsohn, C.	1984	Dromiidae (Crustacea, Decapoda, Brachyura) from Madagascar and the Seychelles. Bull. Mus. Natn. Hist. Nat., Paris, 4ieme ser.  6(1):  89-129.		
+6063	Ribes, S.	1989	Les Raninidae du sud-ouest de l'océan Indien (Crustacea, Decapoda, Brachyura). Bull. Mus. Natn. Hist. nat., Paris 4ieme ser. 11(4):  905-919.		
+6200	Stephenson, W.	1972	An annotated checklist and key to the Indo-Pacific swimming crabs (Crustacea: Decapoda: Portunidae		
+6255	Serene, R.	1977	Crustaces Hippides et Brachyoures des iles Sechelles.  Rev. Zool. Af. 91(1):45-68.		
+6256	Ng, P. K. L.; Stevcic, Z.; Pretzmann, G.	1995	A revision of the family Deckeniidae Ortmann, 1897 (Crustacea: Decapoda: Brachyura: Potamoidea), with description of a new genus (Gecarcinucidae: Gecarcinucoidea) from the Seychelles, Indian Ocean		
+6266	MacNae, W. & M. Kalk (eds)	1958	A natural history of Inhaca Island, Mozambique. Witwatersrand Univ. Press, Johannesburg. I-iv, 163 pp.		
+8619	Wolff, W.J.; Duiven, P.; Esselink, P.; Gueve, A.	1993	Biomass of macrobenthic tidal flat fauna of the Banc d'Arguin, Mauritania. <i>Hydrobiologia 258(1-3)</i>: 151-163		
+8932	Galil, B.S.	2005	Contribution to the knowledge of Leucosiida III. <i>Urnalana</i> gen. nov. (Crustacea: Brachyura). <i>Zool. Meded. 79(2)</i>: 9-40		
+8934	Galil, B. S.	2005	<i>Dorippe quadridens</i> (Decapoda, Dorippidae) - first record of alien Dorippid in the Mediterranean Sea		
+8940			Galil, Bella		
+9234	Degraer S., J. Wittoeck, W. Appeltans, K. Cooreman, T. Deprez, H. Hillewaert, K. Hostens, J. Mees, E. Vanden Berghe & M. Vincx	2006	The macrobenthos atlas of the Belgian part of the North Sea. Belgian Science Policy. D/2005/1191/3. ISBN 90-810081-6-1. 164 pp.		
+9269	Muller, Y.	2004	Faune et flore du littoral du Nord, du Pas-de-Calais et de la Belgique: inventaire. [Coastal fauna and flora of the Nord, Pas-de-Calais and Belgium: inventory]. Commission Régionale de Biologie Région Nord Pas-de-Calais: France. 307 pp.		
+9271	Streftaris, N.; Zenetos, A.; Papathanassiou, E.	2005	Globalisation in marine ecosystems: the story of non-indigenous marine species across European seas		
+9779	Species	2000	Species 2000		
+9810			Ly B., Diop M., Girardin M.,Guide et nomenclature nationale commerciale des espèces marines (poissons, crustacès et mollusques) pechèes en Mauritanie		
+9982	Froglia, Carlo	2006	Decapoda, in: Revisione della Checklist della fauna marina italiana.		
+10085			BIOTIC		
+12714	Guinot, D.	1987	Nouvelles decouvertes dans des grottes de Nouvelle-Bretagne du Crabe aveugle Trogloplax joliveti Guinot,1986 et description d'un Crabe d'eau douce cavernicole, Sendleria genuitei sp. nov		
+19343	Montagu, G.	1808	Description of several marine animals found on the south coast of Devonshire		
+20181	Latreille, P. A.	1818	Tableau encyclopédique et méthodique des trois règnes de la nature, vingt-quatrième partie : crustacés, arachnides et insectes / par M. Latreille		
+21228	Forssk?l, P.; Niebuhr, C.	1775	Descriptiones animalium, avium, amphibiorum, piscium, insectorum, vermium / quae in itinere orientali observavit Petrus Forskål. Post mortem auctoris edidit Carsten Niebuhr. Adjuncta est materia medica kahirina atque tabula maris Rubri geographica		
+22039	Pennant, T.,	1777	British Zoology, vol. IV. Crustacea. Mollusca. Testacea: i-viii, 1-154, Plates 1-93. London.		
+22923	White A. & Doubleday E.	1842	List of the annulose animals hitherto recorded as found in New Zealand, with the descriptions of some new species.. Fauna of New Zealand. ,		
+23107	Galil, B. S.	2001	A revision of Myra Leach, 1817 (Crustacea: Decapoda: Leucosioidea		
+29127	Fishelson, L.	1971	Ecology and distribution of the benthic fauna in the shallow waters of the Red Sea		
+38989	Manning, R. B.	1982	Achaeus powelli, a new spider crab fron Nigeria (Crustacea, Decapoda, Majidae		
+40146	Dall, W. H.; Olivi, G.; Vio, G.	1792	Zoologia adriatica : ossia catalogo ragionato degli animali del Golfo e delle Lagune di Venezia : preceduto da una dissertazione sull storia fisica e naturale del Golfo : e accompagnato da memorie, ed osservazioni di fisi		
+42308			Charles H.J.M. Fransen		
+42343	Gillikin., D.P and Schubart., D.	2004	Ecology and systematics of mangrove crabs of the genus Perisesarma (Crustacea: Brachyura: Sesarmidae) from  East Africa. Zoological Journal of the Linnean Society, 141, 435–445.		
+42414	Manning, R. B. & Holthuis, L. B.	1981	West Africa Brachyuran Crabs (Crustacea: DECAPODA). Smithsonian Contributions to Zoology, Number 306, Smithsonian Institution Press. Washington, USA. 306-379pp.		
+45702	Fabricius, J. C.	1792	Entomologia systematica emendata et aucta : Secundun classes, ordines, genera, species, adjectis synonimis, locis, observationibus, descriptionibus / Joh. Christ. Fabricii		
+47187	White, A.	1843	Descriptions of apparently new species and varieties of Insects and other Annulosa, principally from the collection in the British Museum		
+47741	Pérez Farfante, I. & B. Kensley,	1997	Penaeoid and sergestoid shrimps and prawns of the world. Keys and diagnoses for the families and genera.— Mémoires du Muséum National d’Histoire naturelle 175: 1-233.		
+47833	Ng, P.K.L.; Guinot, D.; Davie, P.J.F.	2008	Systema Brachyurorum: Part I. An annotated checklist of the extant Brachyuran crabs of the world. The Raffles Bulletin of Zoology 17: 1-286.		
+47891	Chilton, C.	1910	The Crustacea of the Kermadec Islands		
+61264	GOULD, A.A.	1841	Report on the Invertebrata of Massachusetts, comprising the Mollusca, Crustacea, Annelida, and Radiata. Cambr.,		
+69576	Konishi, K.; Noda, H.	1999	A new species of the commensal crab genus Aphanodactylus (Crustacea: Brachyura: Pinnotheridae) from the Yaeyama Islands, southern Japan		
+76185	Barnard, K.H.	1955	Additions to the fauna-list of South African Crustacea and Pycnogonida.		
+82970	Crosnier, A.	1984	Sur quelques Portunidae (Crustacea Decapoda Brachyura) des Iles Seychelles.		
+99148	Leach, W.E.	1813, 1814	Crustaceology		
+99150	Leach, W.E.	1816	Sur une nouvelle distribution des classes des Crustacés.		
+102812	McLaughlin, P.A., D.K. Camp, M.V. Angel, E.L. Bousfield, P. Brunel,  R.C. Brusca, A.C. Cohen, K. Conlan, L.G. Eldredge, D.L. Felder, J.W. Goy, T. Haney, B. Hann, R.W. Heard, E.A. Hendrycks, H.H. Hobbs III, J.R. Holsinger, B. Kensley, D.R. Laubitz, S.E. Le	2005	Common and Scientific Names of Aquatic Invertebrates from the United States and Canada: Crustaceans. American Fisheries Society Special Publication 31.  545		
+123768			Strandvondsten van Gravelines tot Nieuwpoort. Ecogids Tjiftjaf		
+124438	Davidson, A.	2001	North Atlantic fish cookbook [Noord-Atlantisch viskookboek]. Scepter: Bussum, The Netherlands. ISBN 90-72653-14-9. 556 pp.		
+124982	Walker-Smith, G. K.; Poore, G. C. B.	2001	A phylogeny of the Leptostraca (Crustacea) with keys to families and genera		
+125841	De Haan, W.,	1833	850. Crustacea. In: von Siebold, P.F., Fauna Japonica sive Descriptio Animalium, quae in Itinere per Japoniam, Jussu et Auspiciis Superiorum, qui Summum in India Batava Imperium Tenent, Suspecto, Annis 1823-1830 Collegit, Notis, Observationibus et Adumbrationibus Illustravit: i-xxxi, ix-xvi, 1-243, Plates A-J, L-Q, 1-55. Lugduni-Batavorum.		
+126034			CRUST-L mailing list		
+127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
+127954	Ahyong & Brown.	2003	New species of Cymonomus from southeastern Australia (Brachyura, Cymonomidae) with a key to the Indo-West Pacific species. Crustaceana (Leiden) 75 (11): 1363-1374		
+127956	Ahyong & Lee.	2006	Two new species of Pleistacantha Miers, 1879 from the Indo-West Pacific region (Crustacea: Decapoda: Majidae). Zootaxa Volume: 1378 Pages: 1-17		
+127960	Ahyong, Chen & Ng.	2005	Pleistacantha stilipes, a new species of spider crab from the South China Sea (Decapoda: Brachyura: Majidae). Zootaxa 822 : 1-10		
+128021	Asakura & Watanabe.	2005	Hemigrapsus takanoi, new species, a sibling species of the common Japanese intertidal crab H. penicillatus (Decapoda: Brachyura: Grapsoidea). Journal of Crustacean Biology 25(2) : 279-292		
+128239	Castro.	2003	The trapeziid crabs (Brachyura) of Guam and Northern Mariana  Islands, with the description of a new species of  Trapezia Latreille, 1828. Micronesica 35-36		
+128240	Castro.	2005	Crabs of the subfamily Ethusinae Guinot, 1977  (Crustacea, Decapoda, Brachyura, Dorippidae)  of the Indo-West Pacific region. Zoosystema 27(3) : 499-600		
+128267	Chen & Nq.	2003	On new species of Leucosiidae  (Crustacea: Decapoda: Brachyura) from Singapore and  the South China Sea. Raffles Bulletin of Zoology 51 (1): 61-69		
+128268	Chen & Nq.	2003	. On new species of Leucosiidae (Crustacea: Decapoda: Brachyura) from Singapore and the South China Sea. Raffles Bulletin of Zoology 51 (1): 61-70		
+128269	Chen & Nq.	2003	On new species of Leucosiidae (Crustacea: Decapoda: Brachyura) from Singapore and the South China Sea. Raffles Bulletin of Zoology 51 (1): 61-69		
+128270	Chen & Ng.	2003	On new species of Leucosiidae (Crustacea: Decapoda: Brachyura) from Singapore and the South China Sea. Raffles Bulletin of Zoology 51 (1): 61-72		
+128271	Chen & Nq.	2004	On two species of spider crabs of the genus Doclea (Crustacea: Decapoda: Brachyura: Majidae: Pisinae) from China, one of which is new. Raffles Bulletin of Zoology 52(1) : 201-208		
+128293	Clark & Ng.	2006	A new species of Notonyx (Crustacea: Brachyura:  Goneplacidae) from the intertidal zone of Phuket, Thailand. Zoosystema    Volume: 28    Issue: 2    Pages: 539-551		
+128334	Crosnier & Moosa.	2002	Trois Portunidae  (Crustacea, Decapoda, Brachyura)  nouveaux de Polynésie française. Zoosystema 24 (2): 385-399		
+128335	Crosnier.	2002	Portunidae (Crustacea, Decapoda, Brachyura)  de Polynésie française,  principalement des îles Marquises. Zoosystema 24 (2): 401-449		
+128336	Crosnier.	2002	Révision du genre Parathranites Miers, 1886  (Crustacea, Brachyura, Portunidae). Zoosystema 24 (4): 799-825		
+128348	Davie.	2003	A new species of Perisesarma (Crustacea:  Brachyura: Grapsidae) from the Bay of Bengal. Raffles Bulletin of Zoology 51 (2): 387-391		
+128468	Galil & Takeda.	2004	On a Collection of Mursia (Crustacea, Decapoda, Brachyura, Calappidae) from Balicasag Island, Philippines. Bulletin of the National Science Museum Series A (Zoology) 30(1) : 23-35		
+128469	Galil.	2003	Contribution to the knowledge of Leucosiidae I. The identity of Leucosia craniolaris (Linnaeus, 1758), and redefinition of the genus Leucosia Weber, 1795 (Crustacea: Brachyura). Zoologische Mededeligen (Leiden) 77 (1-14): 181-191		
+128470	Galil.	2004	A new species of Myra Leach, 1817 (Crustacea: Decapoda: Leucosiidae) from Timor Sea and South China Sea. Raffles Bulletin of Zoology 52(1) : 215-217		
+128472	Galil.	2006	Contributions to the knowledge of Leucosiidae V.  Coleusia gen. nov. (Crustacea: Brachyura). Zoologische Mededelingen (Leiden) Volume: 80 Issue: 4 Pages: 55-69		
+128620	Ho & Ng.	2005	On a new species of coral-symbiont crab of the  genus Cymo de Haan, 1833 (Crustacea:  Decapoda: Brachyura: Xanthidae), from the South  China Sea. Zootaxa 1029 : 31-38		
+128764	Komatsu & Takeda.	2003	Two New Species of the Genus Goneplax (Decapoda, Brachyura, Goneplacidae) from East Asia. Crustaceana (Leiden) 76 (10): 1243-1256		
+128766	Komatsu & Takeda.	2005	Two new species of the genus Heteronucia (Crustacea: Decapoda: Brachyura: Leucosiidae) from Japan. Proceedings of the Biological Society of Washington 118(4) : 731-741		
+128806	La & Ng.	2006	A new species of Calappa Weber, 1795 (Crustacea:  Decapoda: Calappidae) from East and South Africa. Zootaxa Volume: 1358 Pages: 39-48		
+128807	Lai & Galil.	2006	A new species of Mursia Desmarest,  1823 (Crustacea: Decapoda: Calappidae) from the Andaman Sea. Zootaxa Volume: 1255 Pages: 57-61		
+128808	Lai, Chan & Ng.	2006	Preliminary molecular and morphological study of the Calappa lophos species group (Decapoda: Brachyura: Calappidae). Journal of Crustacean Biology    Volume: 26    Issue: 2    Pages: 193-205		
+129049	Nagai, Watanabe & Naruse.	2006	Macrophthalmus (Macrophthalmus) microfylacas, a new species of sentinel crab (Decapoda: Brachyura: Ocypodidae) from western Japan. Zootaxa Volume: 1171 Pages: 1-16		
+129076	Ng & Ho.	2003	The Indo-Pacific Pilumnidae XVIII. New Species and New Records from Taiwan (Decapoda, Brachyura). Crustaceana (Leiden) 76 (2): 167-176		
+129077	Ng & Ho.	2003	On the deep-water  dorippid crabs of the genus Ethusina Smith, 1884  (Crustacea: Decapoda: Brachyura) from Taiwan. Raffles Bulletin of Zoology 51 (1): 71-85		
+129078	Ng & Ho.	2003	On the deep-water dorippid crabs of the genus Ethusina Smith, 1884 (Crustacea: Decapoda: Brachyura) from Taiwan. Raffles Bulletin of Zoology 51 (1): 71-85		
+129079	Ng & Ho.	2003	On the deep-water  dorippid crabs of the genus Ethusina Smith, 1884  (Crustacea: Decapoda: Brachyura) from Taiwan. Raffles Bulletin of Zoology 51 (1): 71-85		
+129080	Ng & Ho.	2003	On the deep-water  dorippid crabs of the genus Ethusina Smith, 1884  (Crustacea: Decapoda: Brachyura) from Taiwan. Raffles Bulletin of Zoology 51 (1): 71-85		
+129082	Ng & Ho.	2003	On the deep-water  dorippid crabs of the genus Ethusina Smith, 1884  (Crustacea: Decapoda: Brachyura) from Taiwan. Raffles Bulletin of Zoology 51 (1): 71-95		
+129083	Ng & Liao.	2002	On a new species of Euryozius Miers, 1886 (Crustacea: Decapoda: Brachyura: Pseudoziidae) from the Philippines, with notes on the taxonomy of the genus. Proceedings of the Biological Society of Washington 115 (3): 585-593		
+129084	Ng & Mclay.	2005	Dicranodromia danielae, a new species of  homolodromiid crab from the Philippines  (Crustacea: Decapoda: Brachyura). Zootaxa 1029 : 39-46		
+129085	Ng, Lai & Aungtonya.	2002	The box and moon crabs of Thailand, with description of a new species of Calappa (Crustacea: Brachyura: Calappidae, Matutidae). Phuket Marine Biological Center Special Publication 23 (2): 341-360		
+129086	Ng.	2002	Ng. 2002. Description of a New Species of Paramedaeus Guinot, 1967, with Notes on Paramedaeus simplex (A. Milne-Edwards, 1873) and Metaxanthops acutus Serène, 1984 (Decapoda, Brachyura, Xanthoidea, Xanthidae). Crustaceana (Leiden) 75 (3-4): 527-538		
+129087	Ng.	2003	Ng. 2003. New species and new records of box crabs (Callapa) (Crustacea: Decapoda: Brachyura: Calippidae) from the Philippines. Journal of the National Taiwan Museum 55 (1): 41-60		
+129089	Ng.	2002	Ng. 2002. On a new species of cavernicolous Neoliomera (Crustacea: Decapoda: Brachyura: Xanthidae) from Christmas Island and Ryukyus, Japan. Raffles Bulletin of Zoology 50 (1): 95-99		
+129154	Osawa & Ng.	2006	A new species of Ptychognathus Stimpson, 1858 (Crustacea: Decapoda: Brachyura:  Varunidae) from the Ryukyu Islands, southwestern Japan. Zootaxa Volume: 1260 Pages: 57-66		
+129246	Rahayu, D. L.; Davie, P.	2002	Two new species and a new record of Perisesarma (Decapoda, Brachyura, Grapsidae, Sesarminae) from Indonesia		
+129247	Rahayu; Davie	1970	Two new species of mangrove crabs of the genus Neosarmatium Serène & Soh		
+129248	Rahayu	1915	On two species of mangrove Leucosiidae from Irian Jaya, Indonesia, with notes on Philyra malefactrix (Kemp		
+129249	Rahayu & Ng.	2003	The Camptandriidae of Irian Jaya, Indonesia, including the Descriptions of Two New Species (Decapoda: Brachyura). Journal of Crustacean Biology: 23 (4): 951-962		
+129250	Rahayu & Ng.	2005	On two new species of the genera Haberma and Parasesarma (Crustacea: Decapoda: Brachyura: Sesarmidae) from Papua, Indonesia. Zoologische Mededelingen (Leiden) 79(2) : 167-178		
+129368	Sawada, T.; Sakai, K.; Hosogi, M.	2005	A new species of the genus Ilyograpsus, I. vanninii sp. nov. (Brachyura, Grapsidae) from Somalia		
+129375	Schubart & Ng.	2002	The sesarmid genus Neosarmatium (Decapoda: Brachyura): new distribution records and a new species from Sulawesi. Crustacean Research 31: 28-38		
+129494	Takeda & Galil.	2005	A New Genus and Species of Euxanthine Crab (Crustacea: Decapoda: Xanthidae) from Submarine Banks off the Izu Islands, Central Japan. National Science Museum Monographs 29 : 289-295		
+129495	Takeda & Komatsu.	2005	Collections of crabs dredged off Amami-Oshima Island, the northern Ryukyu Islands. National Science Museum Monographs 29 : 271-288		
+129499	Tavares.	2006	A new species of the crab genus Cosmonotus  Adams & White in White, 1848 (Crustacea,  Podotremata, Raninidae) from the Indo-West  Pacifi c Ocean. Zoosystema    Volume: 28    Issue: 2    Pages: 533-537		
+129616	Webber, R.; Takeda, M.	2005	A new spider crab of the genus Achaeus (Crustacea, Decapoda, Brachyura) from the Kermadec Islands. Bulletin of the National Science Museum, series A (zoology), 31: 45-50.		
+129653	Yang & Tang.	2006	A New Species of Portunus Weber, 1795 (Decapoda, Brachyura, Portunidae) from China. Crustaceana    Volume: 79    Pages: 691-697    Part: Part 6		
+129654	Yang, Chen & Tang.	2006	On two new species of Catoptrus A. Milne-Edwards, 1870 (Decapoda, Brachyura, Portunidae) from China. Crustaceana    Volume: 79    Pages: 835-842    Part: Part 7		
+129657	Yeo, Rahayu & Ng.	2004	Brachyura (Crustacea) of the Anambas expedition 2002. Raffles Bulletin of Zoology Supplement 11 : 79-88		
+129700	Crosnier Alain / Moosa Mohammad Kasim.	2002	Portunidae (Crustacea, Decapoda, Brachyura) de Polynésie française, principalement des îles Marquises. Zoosystema 24 (2): 401-449		
+129876	Baba K., Macpherson E., Poore G., Ahyong S., Bermudez A., Cabezas P., Lin C., Nizinski M., Rodrigues C. & Schnabel K.	2008	Catalogue of squat lobsters of the world (Crustacea: Decapoda: Anomura—families Chirostylidae, Galatheidae and Kiwaidae)		
+130132	Fabricius, J. C. O.; Genera, S.; Adjectis, S.; Locis, D.; Observationibus	1775	Systema Entomologiae, sistens Insectorum Classes		
+130214	Nobili, G.,	1905	Diagnoses préliminaires de 34 espèces et variétés nouvelles, et de 2 genres nouveaux de Décapodes de la Mer Rouge.— Bulletin du Muséum d’Histoire Naturelle 6: 393-411.		
+130391			Database of Crustacea (Decapoda, Stomatopoda)		
+130659	Crosnier.	2003	A new genus and species of portunid crab (Crustacea: Decapoda: Brachyura) from New Caledonia. South-West Pacific. Raffles Bulletin of Zoology 51 (2): 315-321		
+130717	Ornata, R.	1939	Four new genera of leucosiid crabs (Crustacea: Brachyura: Leucosiidae) for three new species and nine species previously in the genus Randallia Stimpson, 1857, with a redescription of the type species		
+130762	Guinot & Hurtado.	2003	Two new species of hydrothermal vent crabs of the genus  Bythograea from the southern East Pacific Rise and from the  Galapagos Rift (Crustacea Decapoda Brachyura Bythograeidae). Comptes Rendus Biologies 326 (4): 423-439		
+130763	Guinot & Tavares.	2003	A new subfamilial arrangement for the  Dromiidae de Haan, 1833, with diagnoses  and descriptions of new genera and species  (Crustacea, Decapoda, Brachyura). Zoosystema 25 (1): 43-129		
+130764	Guinot,D; Hurtado,L.A. & Vrijenhoek,R.	2002	New genus and species of brachyuran crab from the southern East Pacific Rise (Crustacea Decapoda Brachyura Bythograeidae).Comptes Rendus Biologies 325 (11): 1143-1152.		
+130789	Hendrickx & Cervantes.	2003	A New Species of Loxorhynchus Stimpson (decapoda, Majoidea, Pisidae) from the Pacific Coast of Mexico. Crustaceana (Leiden) 76 (1): 103-113		
+130815	Huang, Hsueh & Nq.	2002	Crabs  of the family Hexapodidae (Decapoda: Brachyura) from  Taiwan, with description of a new genus and species. Journal of Crustacean Biology 22 (3):651-660		
+130896	Kazmi & Manning.	2003	A new genus and species of pinnotherid crab from Karachi, northern Arabian Sea (Crustacea, Decapoda, Brachyura). Journal of Natural History 37 (9): 1085-1089		
+130909	Kitaura & Wada.	2006	New species of Ilyoplax (Brachyura: Ocypodidae: Dotillinae) from the Philippines and Indonesia: behavioral, molecular, and morphological evidence. Raffles Bulletin of Zoology    Volume: 54    Issue: 2    Pages: 373-379		
+130923	Komatsu,  Manuel & Takeda.	2005	A Small Collection of Leucosiid Crabs (Crustacea: Decapoda:  Brachyura) from Balicasag Island, Bohol, Philippines. Species Diversity 10(2) : 105-123		
+131030	Mclay & Ng.	2005	On a collection of Dromiidae and Dynomenidae from the Philippines, with description of a new species of <em>Hirsutodynomene</em> McLay, 1999 (Crustacea: Decapoda: Brachyura). Zootaxa 1029 : 1-30		
+131031	McLay.	2002	Foredromia rostrata, a new genus and species of sponge crab (Decapoda, Brachyura, Dromiidae) from Southeast Asia. Crustaceana (Leiden) 75 (3-4): 505-515		
+131058	Naruse, Shokita & Kawahara.	2005	Neorhynchoplax yaeyamaensis, a new false spider crab (Decapoda: Brachyura: Hymenosomatidae) from the Yaeyama Group, the Ryukyu Islands, Japan. Zootaxa 877 : 1-7		
+131060	Ng & Chen.	2004	On a new genus and new species of xanthid crab (Crustacea, Decapoda, Brachyura, Xanthinae) from the South China Sea, with notes on the genus Liagore De Haan, 1833. Journal of Natural History 38(18) : 2345-2360		
+131062	Ng & Ho.	2003	Mathildella rubra, a new species of deep-water carcinoplacine crab (Decapoda, Brachyura) from the Philippines. Crustaceana (Leiden) 76 (3): 333-342		
+131063	Ng, P. K. L.; Liu, H.-C.	2003	On a new species of tree-climbing crab of the genus Labuanium  (Crustacea: Decapoda: Brachyura: Sesarmidae) from Taiwan		
+131064	Ng & Ng.	2002	Orcovita mcneiceae, a New Species of Anchialine Crab (Brachyura, Grapsidae, Varuninae) from the Loyalty Islands. Crustaceana 75 (5): 663-670		
+131065	Ng & Rahayu	2002	A new species of leaf porter crab of the genus Neodorippe Serène & Romimohtarto, 1969 (Crustacea, Decapoda, Brachyura, Dorippidae) from Irian Jaya, Indonesia		
+131066	Ng & Schubart.	2002	Haberma nanum, a new genus and new species of mangrove crab (Crustacea: Decapoda: Brachyura: Sesarmidae) from Singapore. Raffles Bulletin of Zoology 50 (2): 437-442		
+131067	Ng, P.K.L. and M. Takeda	2003	<i>Atoportunus</i>, a remarkable new genus of cryptic swimming crab (Crustacea; Decapoda; Brachyura: Portunidae), with descriptions of two new species from the Indo-West Pacific. Micronesica 35–36: 417–430.		
+131068	Ng.	2002	Ng. 2002. On the unusual swimming crab, Coelocarcinus foliates Edmonson, 1930, with description of a new species from the Indian Ocean (Decapoda, Brachyura, Portunidae). Crustaceana (Leiden) 75 (1): 51-60		
+131069	Ng.	2002	Ng. 2002. Olenothus, a new genus of euxanthine crab (Crustacea: Decapoda:  Brachyura: Xanthidae) from Guam. Micronesica 34 (2): 201-208		
+131071	Ng.	2002	Ng. 2002. Ng. 2002. New species of cavernicolous crabs of the genus Sesarmoides from the Western Pacific, with a key to the genus (Crustacea: Decapoda: Brachyura: Sesarmidae). Raffles Bulletin of Zoology 50 (2): 419-435. Raffles Bulletin of Zoology 50 (2): 419-436		
+131073	Ng.	2002	Ng. 2002. New species of cavernicolous crabs of the genus Sesarmoides from the Western Pacific, with a key to the genus (Crustacea: Decapoda: Brachyura: Sesarmidae). Raffles Bulletin of Zoology 50 (2): 419-435		
+131074	Ng.	2002	Ng. 2002. New species of cavernicolous crabs of the genus Sesarmoides from the Western Pacific, with a key to the genus (Crustacea: Decapoda: Brachyura: Sesarmidae). Raffles Bulletin of Zoology 50 (2): 419-435		
+131135	Rahayu D. L. & Ng P. K. L.	2004	— The Hymenosomatidae (Crustacea, Decapoda,  Brachyura) of Timika (Irian Jaya, Indonesia). Zoosystema 26 (1) : 87-94.		
+131190	Shokita & Naruse.	2002	Geothelphusa miyakoensis,  a new species of freshwater crab (Crustacea: Decapoda:  Brachyura: Potamidae) from Miyako Island, Southern Ryukyus,  Japan. Raffles Bulletin of Zoology 50 (2): 443-448		
+131223	Takeda & Manuel.	2003	A New Crab of the Family Pilumnidae (Crustacea, Decapoda), <i>Viaderiana kasei</i> from the Philippines. Bulletin of the National Science Museum Series A (Zoologie) 29 (4): 205-211		
+131225	Takeda & Watabe.	2004	Deepwater Carcinoplacine Crabs of the Genus <i>Mathildella</i> (Crustacea, Decapoda, Brachyura), with Description of a New Species from the Kyushu-Palau Submarine Ridge, Southwestern Japan. Bulletin of the National Science Museum Series A (Zoology) 30(4) : 181-189.		
+131226	Takeda, M.	2003	<i>Atoportunus dolichopus</i>, a New Cavernicolous Crab of the Family Portunidae (Crustacea: Decapoda) from the Ryukyu Islands. Bulletin of the National Science Museum Series A (Zoology) 29 (3): 141-146.		
+131228			Tan, S. H. & P. K. L. Ng. The Parthenopinae of Guam (Crustacea: Decapoda: Brachyura: Parthenopidae). Micronesica 35-36: 385-416.		
+132563	Webber, W.R.; Fenwick, G.D.; Bradford-Grieve, J.M.; Eagar S.G.; Buckeridge, J.S.; Poore, G.C.B.; Dawson, E.W.; Watling, L.; Jones, J.B.; Wells, J.B.J.; Bruce, N.L.; Ahyong, S.T.; Larsen, K.; Chapman, M.A.; Olesen, J.; Ho, J.; Green, J.D.; Shiel, R.J.; Roc	2010	Phylum Arthropoda Subphylum Crustacea: shrimps, crabs, lobsters, barnacles, slaters, and kin, in: Gordon, D.P. (Ed.) (2010). New Zealand inventory of biodiversity: 2. Kingdom Animalia: Chaetognatha, Ecdysozoa, Ichnofossils.		
+140199	Kerckhof, F.	1987	From the Natural History Archive [Uit het Natuurhistorisch Archief]. De Strandvlo 7(1): 4-15		
+141217	Felder, D. L., F. Álvarez, J. W. Goy, and R. Lemaitre.	2009	Decapoda (Crustacea) of the Gulf of Mexico, with Comments on the Amphionidacea,		
+141297	McLay, C. L.	2009	New records of crabs (Decapoda: Brachyura) from the New Zealand region, including a new species of Rochinia A. Milne-Edwards, 1875 (Majidae), and a revision of the genus Dromia Weber, 1795 (Dromiidae)		
+141412	Eneman, E.; Kerckhof, F.	1983	From the Natural History Archive (continued) [Uit het Natuurhistorisch Archief (vervolg)]. De Strandvlo 3(3): 66-80		
+141655	Boyko, C.B.	2004	The problematic Paralbunea Hu and Tao, 1996: homonymy, generic nom. nov., and correct taxonomic placement. Palaeontology 47(4): 929-932.		
+141675	Herbst, J.F.W.	1791	Versuch einer Naturgeschichte der Krabben und Krebse, nebst einer systematischen Beschereibung ihrer verschiedenen Arten. Vol. 2. Berlin and Stralsund. 1–48, pls. 22-25.		
+141680	CH, H.; Tao, H.-J.	1996	Crustacean Fossils of Taiwan		
+141684	Milne-Edwards, A. & E.-L. Bouvier	1898	Crustacés nouveux provenant des campagnes du Travailleur et du Talisman. Paguridés (fin). Bulletin du Muséum d’Histoire Naturelle (Paris) 4(5): 234-238.		
+141710	Stimpson, W.	1857	Notices of new species of Crustacea of western North America; being an abstract from a paper to be published in the journal of the Society		
+144473	Herbst, J. F. W.	1791	Versuch einer Naturgeschichte der Krabben und Krebse nebst einer systematischen Beschreibung ihrer verschiedenen Arten		
+144474	Herbst, J. F. W.	1804	Versuch einer Naturgeschichte der Krabben und Krebse nebst einer systematischen Beschreibung ihrer vershiedenen Arten		
+144567	Ngoc-Ho, N.	2009	The genus Thalassina Latreille, 1806 (Crustacea: Thalassinidea: Thalassinidae		
+147411			PESI (A Pan-European Species directories Infrastructure) focal points		
+147412			Unterwasser-Welt Ostsee		
+147710	Galil, B. S.	2009	An examination of the genus Philyra Leach, 1817 (Crustacea, Decapoda, Leucosiidae) with descriptions of seven new genera and six new species		
+148119	Poupin, J.; Bouchard, J.	2010	A new dwarf sentinel crab from Mayotte Island (Decapoda: Brachyura: Macrophthalmidae)		
+148120	Ng, P. K. L.; McLay, C. L.	2010	Metadynomene tuamotu, a new species of dynomenid crab from French Polynesia (Crustacea: Decapoda: Brachyura)		
+148122	Castro, P.	2010	A new species and new records of palicoid crabs (Crustacea, Decapoda, Brachyura, Palicoidea, Palicidae, Crossotonotidae) from the Indo-West Paci?c region		
+148123	Castro, P.	2000	Crustacea Decapoda : A revision of the Indo-west Pacific species of palicid crabs (Brachyura Palicidae). In: A. CROSNIER (ed.), Resultats des campagnes MUSORSTOM, Volume 21. Memoires du Museum national d'Histoire naturelle, 184: 437-610. Paris ISBN: 2-85653-526-7		
+148124	Tavares, M.; Cleva, R.	2010	Trichopeltariidae (Crustacea, Decapoda, Brachyura), a new family and superfamily of eubrachyuran crabs with description of one new genus and five new species		
+151643	Dhora, DH.	2008	Fjalor i emrave të kafshëve të Shqipërisë (Emri shkencor – Shqip – Anglisht) / Dictionary of animal names of Albania (Scientific names – Albanian – English). Camaj – Pipa. Shkodër, Albania.		
+153971	De Grave, S. & C.H.J.M. Fransen	2011	Carideorum catalogus: the recent species of the dendrobranchiate, stenopodidean, procarididean and caridean shrimps (Crustacea: Decapoda)		
+154097	Mclaughlin, P. A.; Komai, T.; Lemaitre, R.; Listyo, R.	2010	Annotated checklist of anomuran decapod crustaceans of the world (exclusive of the Kiwaoidea and families Chirostylidae and Galatheidae of the Galatheoidea. Part I – Lithodoidea, Lomisoidea and Paguroidea		
+154753	Curtiss, A.,	1938	A short zoology of Tahiti in the Society Islands: i-xvi, 1-193. Brooklyn.		
+162581	Wood-Mason, J.; Alcock, A.	1891	Natural history notes from H.M. Indian marine survey steamer 'Investigator', Commander R.F. Hoskyn, R.N., commanding. No. 21. Note on the results of the last season's deep-sea dredging Ann. Mag. Nat. Hist. VII, Sixth series(XXXIX): 258-272		
+163039			Club d'immersió Facultat de Biologia, Universitat de Barcelona		
+163040	Dewarumez, J.-M.; Gévaert, F.; Massé, C.; Foveau, A.; Desroy, N.; Grulois, D.	2011	Les espèces marines animales et végétales introduites dans le bassin Artois-Picardie . UMR CNRS 8187 LOG/Agence de l’Eau Artois-Picardie: Douai. 138 pp.		
+163168	Herbst, J.	1794	Naturgeschichte der Krabben und Krebse (1782–1804, 3 volumes)		
+163261	Rathbun, M. J.	1986	The genus Callinectes. P.U.S. Mus. xviii,		
+163276	Balss, H.	1922	Crustace Decapoda (in Michaelsen, W. Beiträge zur Kenntnis des Land- und Susswasser- fauna Deutsch-Südwestafrikas.) Ergebn. Hamburger deutschsüdw. afrik. Studienreise 1911 2 1922		
+163775	Bull, M. H. N.	1964	Le genre Macropodia Leach en Méditerranée. I. Description et étude comparative des espèces (Crustacea Brachyura		
+163789	Forest, J.	1978	Le genre Macropodia Leach dans les eaux atlantiques européennes (Crustacea Brachyura Majidae). Cahiers Biol. mar. 19 (3): 323-342, illustr. [English summary].		
+164063	Ahyong, S.T., Ng, P.K.	2007	Pleistacantha ori, a new species of deep-water spider crab (Crustacea: Decapoda: Brachyura: Majidae) from the Western Indian Ocean. The Raffles Bulletin of Zoology. Supplement, 16: 67-74.		
+165516	Dyntaxa	2013	Swedish Taxonomic Database		
+166087	Muñozsabel, I.; García-Isarchva, E.; Sobrinognacio, I.; Burgosandelaria, C.; Funnyita, R.; González-Portoarcos, M.	2012	Distribution, abundance and assemblages of decapod crustaceans in waters off Guinea-Bissau (north-west Africa		
+167163	Herbst, J. F. W.	1790	Versuch einer Naturgeschichte der Krabben und Krebse nebst einer systematischen Beschreibung ihrer verschiedenen Arten. Erster Band mit XXI Kupfer-Tafeln und Register. Krabben. -		
+168047	Kulabtong S., Kunlapapuk S. & Sottiyothin S.	2013	A new species of false spider crab of the genus Elamena H.Milne Edwards, 1837 from Upper Gulf of Thailand (Decapoda Hymenosomatidae). Biodiversity Journal, 4(1), 129-134.		
+170390	Takeda, M.; Webber, R.	2007	Two Species of the Family Parthenopidae (Crustacea, Decapoda, Brachyura) from the Kermadec Islands in the South Pacific		
+170557	Ahyong, S.T.	2010	Holotheres danielae, a new species of pinnotherid crab from the Indo-West Pacific (Decapoda, Brachyura), with a key to the genus. In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170564	Castro, P.; Ng, P. K. L.	2010	Revision of the family Euryplacidae Stimpson, 1871 (Crustacea: Decapoda: Brachyura: Goneplacoidea)		
+170565	Castro, P.; Ng, P.K.L.	2010	A new genus and species of goneplacid crab (Decapoda, Brachyura, Goneplacidae) from the Western Pacific. In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170636	Cheng, Y. Z.; Lin, G. H.; Li, Y. S.	2010	Two new species of freshwater crabs (Decapoda: Potamidae) serving as intermediate hosts of Paragonimus in Fujian, China]. [Article in Chinese		
+170643	Cumberlidge, N.; Clark, P. F.	2010	Two new species of freshwater crabs from Mount Elgon, East Africa (Brachyura: Potamoidea: Potamonautidae) and a re-diagnosis of Potamonautes niloticus (H. Milne Edwards, 1837) with notes on their natural history and onchocerciasis		
+170644	Cumberlidge, N.; Clark, P. F.	2010	The freshwater crabs of Ethiopia, northeastern Africa, with the description of a new Potamonautes cave species (Brachyura		
+170651	Davie, P.J.F.; Naruse, T.	2010	A new species of Ilyoplax (Decapoda, Brachyura, Dotillidae) from Panglao, the Philippines . In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170652	Davie, P. J. F.; Pabriks, L.	2010	A new species of Parasesarma (Crustacea: Brachyura: Sesarmidae) from the mangroves of Western Australia		
+170654	Davie, P.J.F.	2010	A new species of Perisesarma (Brachyura, Sesarmidae) from Western Australia. In: Fransen, C.H.J.M., S. De Grave & P.K.L. Ng (eds.), Studies on Malacostraca: Lipke Bijdeley Holthuis Memorial Volume.— Crustaceana Monographs, 14: 179-190. Brill, Leiden.		
+170655	Davie, P.J.F.; Shih, H.-T.; Chan, B.K.K.	2010	A new species of Mictyris (Decapoda, Brachyura, Mictyridae) from the Ryukyu Islands, Japan. In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170661	Campos, E.; Hernández-Ávilla, I.	2010	Phylogeny of Calyptraeotheres Campos, with the description of C. pepeluisi new species from the tropical Mexican Pacific		
+170666	Felder, D.L.; Thoma, B.P.	2010	Description of Etisus guinotae n. sp., and discussion of its recent discovery in the Gulf of Mexico (Brachyura, Decapoda, Xanthidae). In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170679			Galil, B.S.; NG, P.K.L. (210). On a collection of calappoid and leucosioid crabs (Decapoda, Brachyura) from Vanuatu, with description of a new species of  Leucosiidae, In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170708	Huang, J.F.	2010	On a new species, Oreophorus holthuisi sp. nov. (Decapoda, Brachyura, Leucosiidae), from the Indian Ocean. In: Fransen, C.H.J.M., S. De Grave & P.K.L. Ng (eds.), Studies on Malacostraca: Lipke Bijdeley Holthuis Memorial Volume.— Crustaceana Monographs, 14: 333-342. Brill, Leiden.		
+170712	Husana, D. E. M.; Naruse, T.; Kase, T.	2010	A new species of the genus Karstarma (Crustacea: Decapoda: Brachyura: Sesarmidae) from anchialine caves in the Philippines		
+170736	Koller, P.; Liu, H.-C.; Schubart, C.D.	2010	A new semiterrestrial species of Parasesarma De Man, 1895, from Taiwan (Decapoda, Brachyura, Sesarmidae). In: Fransen, C.H.J.M., S. De Grave & P.K.L. Ng (eds.), Studies on Malacostraca: Lipke Bijdeley Holthuis Memorial Volume.— Crustaceana Monographs, 14: 357-368. Brill, Leiden.		
+170738	Komai, T.; Higashiji, T.; Castro, P.	2010	A new genus and new species of deep-water trapeziid crab (Crustacea: Decapoda: Brachyura: Trapezioidea) from the Ryukyu Islands, Japan		
+170747	Landstorfer, R. B.; Schubart, C. D.	2010	A phylogeny of Pacific fiddler crabs of the subgenus Minuca (Crustacea, Brachyura, Ocypodidae: Uca) with the description of a new species from a tropical gulf in Pacific Costa Rica		
+170750	Lasley, R.M. Jr; Mendoza, J.C.E.; NG, P.K.L.	2010	Two new species of Guitonia Garth & Iliffe, 1992 (Crustacea: Decapoda: Brachyura: Xanthidae) from the central and western Pacific Ocean. Zootaxa, 2684: 1–13.		
+170757	Leelawathanagoon, P.; Lheknim, V.; Ng, P. K. L.	2010	On a new species of freshwater crab of the genus Terrapotamon (Brachyuara: Potamidae) from Peninsular Thailand		
+170771	Campos, M. R.	2010	A new species of freshwater crab of the genus Neostrengeria Pretzmann, 1965, from Colombia (Crustacea: Decapoda: Pseudothelphusidae)		
+170772	Campos, M. R.	2010	A new species of freshwater crab of the genus Phallangothelphusa Pretzmann, 1965, from Colombia (Crustacea: Decapoda: Pseudothelphusidae), with a key to the species of the genus		
+170775	Magalhães, C.	2010	A new species of freshwater crab of the genus Microthelphusa (Decapoda, Pseudothelphusidae) from a tepui in the Serra do Aracá, State of Amazonas, Brazil. In: Fransen, C.H.J.M., S. De Grave & P.K.L. Ng (eds.), Studies on Malacostraca: Lipke Bijdeley Holthuis Memorial Volume.— Crustaceana Monographs, 14: 453-460. Brill, Leiden.		
+170776	Magalhães, C.; Lara, L. R.; Wehrtmann, I. S.	2010	A new species of freshwater crab of the genus Allacanthos Smalley, 1964 (Crustacea, Decapoda, Pseudothelphusidae) from southern Costa Rica, Central America		
+170779	Manuel-Santos, M.	2010	A new species of Isolapotamon Bott, 1968 (Brachyura, Potamidae) from Mindanao, Philippines. In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170785	Mendoza, J. C. E.; Naruse, T.	2010	A new species of Riverine Crab of the Genus Sundathelphusa Bott, (Crustacea: Brachyura: Gecarcinucidae) from Northeastern Luzon, Philippines		
+170786	Mendoza, J.C.E.; Ng, P.K.L.	2010	Medaeus danielita, a new species of xanthid crab (Decapoda, Brachyura, Xanthidae) from the Bohol Sea, central Philippines. In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170795	Ng, N.K.; Martin, J.W.	2010	Two new species of grapsoid crabs of the genus Euchirograpsus (Decapoda, Brachyura, Grapsoidea, Plagusiidae) from the Philippines and the Hawaiian Islands. In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170797	Ng, N.K.	2010	A new species of Ptychognathus Stimpson, 1858, from Cebu Island, Philippines (Decapoda, Brachuyra, Varunidae). In: Fransen, C.H.J.M., S. De Grave & P.K.L. Ng (eds.), Studies on Malacostraca: Lipke Bijdeley Holthuis Memorial Volume.— Crustaceana Monographs, 14: 547-560. Brill, Leiden.		
+170800	Naderloo, R.; Schubart, C. D.	2010	Description of a new species of Parasesarma (Crustacea; Decapoda; Brachyura; Sesarmidae) from the Persian Gulf, based on morphological and genetic characteristics		
+170801	Naderloo, R.; Türkay, M.; Chen, H.-L.	2010	Taxonomic revision of the wide-front fiddler crabs of the Uca lactea group Crustacea Decapoda Brachyura Ocypodidae in the Indo-West Pacific		
+170802	Naiyanetr, P.; Yeo, D.C.J.	2010	A new species of Thaipotamon Ng & Naiyanetr, 1993 (Brachyura, Potamidae) from Thailand. In: Fransen, C.H.J.M., S. De Grave & P.K.L. Ng (eds.), Studies on Malacostraca: Lipke Bijdeley Holthuis Memorial Volume.— Crustaceana Monographs, 14: 529-534. Brill, Leiden.		
+170804	Naruse, T.; Castro, P.	2010	A new species of Microgoneplax Castro, 2007 (Decapoda, Brachyura, Goneplacidae) from Ambon, Indonesia. In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170805	Naruse, T.; Castro, P.	2010	Two new species of Singhaplax Serène & Soh, 1976 (Decapoda, Brachyura, Goneplacidae) from the Philippines and Solomon Islands. In: Fransen, C.H.J.M., S. De Grave & P.K.L. Ng (eds.), Studies on Malacostraca: Lipke Bijdeley Holthuis Memorial Volume.— Crustaceana Monographs, 14: 535-546. Brill, Leiden.		
+170807	Naruse, T.; Ng, P. K. L.	2010	A new species of Tritodynamia Ortmann, 1894		
+170808	Naruse, T.; Richer De Forges, B.	2010	A new species of Ihlopsis Guinot & Richer De Forges, 1995 (Decapoda, Brachyura, Homolidae) from Taiwan. In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170809	Naruse, T.; Takeda, M.	2010	Notonyx angulatus, a New Species of Goneplacid Crab (Crustacea, Decapoda, Brachyura) from Amami-Oshima, the Ryukyu Islands, Japan. Bull. Natl. Mus. Nat. Sci., Ser. A, 36(3), 71–74.		
+170811	Ng, P. K. L.; Clark, P. F.	2010	Two new species of Notonyx A. Milne-Edwards, 1873 (Crustacea: Decapoda: Brachyura: Goneplacidae) from the Philippines and Fiji		
+170812	Ng, P. K. L.; Ngo, v. T.	2010	Solenotheres prolixus, a new genus and new species of pinnotherid crab (Crustacea: Decapoda: Brachyura) associated with the razor clam, Solen corneus Lamarck, 1818 (Solenidae) in Vietnam		
+170840	Richer de Forges, B.	2010	Majoid crabs from the Mozambique Channel with the description of a new species of Oxypleurodon Miers, 1886 (Decapoda, Brachyura). In: Fransen, C.H.J.M., S. De Grave & P.K.L. Ng (eds.), Studies on Malacostraca: Lipke Bijdeley Holthuis Memorial Volume.— Crustaceana Monographs, 14: 645-653. Brill, Leiden.		
+170842	Shih, H.-T.; Shy, J.-Y.; Lee, J.-H.	2010	A new freshwater crab of the genus Geothelphusa (Brachyura, Potamidae) from southwestern Taiwan. In: Fransen, C.H.J.M., S. De Grave & P.K.L. Ng (eds.), Studies on Malacostraca: Lipke Bijdeley Holthuis Memorial Volume.— Crustaceana Monographs, 14: 661-675. Brill, Leiden.		
+170843	Takeda, M.; Komatsu, H.	2010	A new xanthid crab (Decapoda, Brachyura) from a submarine cave in the Philippines. In: Fransen, C.H.J.M., S. De Grave & P.K.L. Ng (eds.), Studies on Malacostraca: Lipke Bijdeley Holthuis Memorial Volume.— Crustaceana Monographs, 14: 677-683. Brill, Leiden.		
+170844	Tavares, M.; de Melo, G.A.S.	2010	A new species of Neopilumnoplax Serène in Guinot, 1969 (Decapoda, Brachyura, Mathildellidae) from the southwestern Atlantic. In: Fransen, C.H.J.M., S. De Grave & P.K.L. Ng (eds.), Studies on Malacostraca: Lipke Bijdeley Holthuis Memorial Volume.— Crustaceana Monographs, 14: 685-691. Brill, Leiden.		
+170847	Wowor, D.; Tan, S.H.	2010	Description of a new species of Malayopotamon Bott, 1968 (Decapoda, Brachyura, Potamidae) from Gunung Slamet, Central Java, Indonesia. In: Fransen, C.H.J.M., S. De Grave & P.K.L. Ng (eds.), Studies on Malacostraca: Lipke Bijdeley Holthuis Memorial Volume.— Crustaceana Monographs, 14: 727-734. Brill, Leiden.		
+170849	Yeo, D.C.J.	2010	A new species of Eosamon from southern Vietnam (Brachyura, Potamidae), with notes on E. brousmichei (Rathbun, 1904). In: Fransen, C.H.J.M., S. De Grave & P.K.L. Ng (eds.), Studies on Malacostraca: Lipke Bijdeley Holthuis Memorial Volume.— Crustaceana Monographs, 14: 747-754. Brill, Leiden.		
+170852	Cumberlidge, N.; Clark, P.F.	2010	A redescription of Potamonautes loveni (Colosi, 1924), a medically important freshwater crab from Western Kenya and Eastern Uganda, East Africa (Brachyura, Potamoidea, Potamonautidae). In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170860	Poore, G.C.B.	2010	Elamenopsis guinotae, a new spider crab from Bass Strait, Australia (Brachyura, Hymenosomatidae). In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170861	Rahayu, D.L.; Ng, P.K.L.	2010	Notonyx guinotae, a new species of goneplacid crab (Brachyura, Goneplacidae) from Lombok Island, Indonesia. In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170864	Takeda, M.; Komatsu, H.	2010	Two new species of the family Goneplacidae (Decapoda, Brachyura) from the West Pacific. In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170865	Tan, S.H.	2010	A new species of Pseudolambrus (Brachyura, Parthenopidae) from New Caledonia. In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170866	Tavares, M.; De Melo, G.A.S.	2010	First species of Paragalene Kossmann, 1878 (Decapoda, Brachyura, Progeryonidae) from the Western Atlantic. In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170867	Yeo, D.C.J.; Naiyanetr, P.	2010	A new species of Pilosamon Ng, 1996 (Brachyura, Potamidae) from Thailand. In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170868	Yeo, D.C.J.; Ng, P.K.L.	2010	Guinothusa, a new genus of Indochinese freshwater crab (Decapoda, Gecarcinucidae). In Castro, P.; Davie, P.J.F.; Ng, P.K.L. et al. Studies on Brachyura: a Homage to Danièle Guinot. Crustaceana Monographs 11. Leiden: Brill.		
+170880	Padate, V. P.; Rivonker, C. U.; Anil, A. C.; Sawant, S. S.; Venkat, K.	2010	A new species of portunid crab of the genus Charybdis (De Haan, 1833) (Crustacea: Decapoda		
+170891	Rahayu, D. L.; Ng, P. K. L.	2010	Two new species of Indopinnixa Manning & Morton, 1987 (Crustacea: Brachyura: Pinnotheridae) from Lombok, Indonesia		
+170892	Rahayu, D. L.; Ng, P. K. L.	2010	The species of Notonyx A. Milne-Edwards, 1873, from Lesser Sunda and Maluku Islands, Indonesia, with description of a new species (Crustacea: Decapoda: Brachyura: Goneplacidae)		
+170922	Shih, H. T.; Naruse, T.; Ng, P. K. L.	2010	Uca jocelynae  sp. nov., a new species of fiddler crab (Crustacea: Brachyura: Ocypodidae) from the Western Pacific		
+170939	Takeda, M.; Marumura, M.	2010	Spider crabs of the genus Huenia De Haan, 1837 (Crustacea, Decapoda, Brachyura) from Japan, with descriptions of two new species. Bull. Natl. Mus. Nat. Sci., Ser. A, 36(2), 39–48.		
+170958	Villalobos, J. L.; García, A. J.; Velázquez, E.	2010	A new species of freshwater crab of the genus Odontothelphusa Rodríguez, 1982, (Crustacea: Decapoda: Pseudothelphusidae) from Chiapas, Mexico		
+170961	Wong, K.J.H.; Chan, B.K.K.; Shih, H.-T.	2010	Taxonomy of the sand bubbler crabs Scopimera globosa De Haan, 1835, and S. tuberculata Stimpson, 1858 (Crustacea: Decapoda: Dotillidae) in East Asia, with description of a new species from the Ryukyus, Japan. Zootaxa, 2345: 43–59.		
+171363	Ahyong, S. T.; Ng, P. K. L.	2009	The Cymonomidae of the Philippines (Crustacea: Decapoda: Brachyura), with descriptions of four new species		
+171364	Ahyong, S. T.; Ng, P. K. L.	2009	Aphanodactylidae, a new family of thoracotreme crabs (Crustacea: Brachyura) symbiotic with polychaete worms		
+171496	Y-Cheng, Z.; L-Li, S.; Zhang, Y.	2009	A new species of the genus Nanhaipotamon （Decapoda: Potamidae） from Xiapu County, Fujian		
+171508	Cumberlidge, N.; Meyer, K. S.	2009	A new species of Foza Reed & Cumberlidge, 2006, from northern Madagascar (Decapoda, Brachyura, Potamoidea, Potamonautidae), with a redescription of F. goudoti (H		
+171523	Campos, E.; Wicksten, M. K.	1997	A new genus for the Central American crab Pinnixa costaricana Wicksten, (Crustacea: Brachyura: Pinnotheridae		
+171524	Wicksten, M. K.	1982	Pinnixa costaricana, a new species of crab from Central America (Brachyura: Pinnotheridae		
+171532	Campos, E.	2009	A new species and two new genera of pinnotherid crabs from the northeastern Pacific Ocean, with a reappraisal of the subfamily Pinnotherinae de Haan, 1833 (Crustacea: Brachyura: Pinnotheridae)		
+171567	Galil, B. S.; Ng, P. K. L.; Ng	2009	A new species of Alox Tan (Decapoda: Brachyura: Leucosiidae) from Balicasag Island, the Philippines		
+171568	Galil, B. S.; Ng, P. K. L.	2009	Calappoidea and Leucosioidea (Crustacea: Decapoda: Brachyura) from Luzon, Philippines, with descriptions of two new species of Mursia		
+171604	P-Hsueh, W.; J-Huang, F.; Ng, P. K. L.	2009	On a new genus and new species of pilumnid crab from Taiwan, and the generic placements of Heteropanope changensis (Rathbun, and Pilumnopeus pereiodontus Davie and Ghani, (Crustacea: Decapoda: Brachyura		
+171615	Husana, D. E. M.; Naruse, T.; Kase, T.	2009	Two new cavernicolous species of the genus Sundathelphusa from Western Samar, Philippines (Decapoda: Brachyura: Parathelphusidae		
+171694	Komatsu, H.; Ohtsuka, S.	2009	A new species of the genus Abyssotheres (Crustacea, Decapoda, Brachyura, Pinnotheridae) from the Ryukyu Islands, Southwestern Japan, with taxonomic notes on the genus. Bull. Natl. Mus. Nat. Sci., Ser. A, 35(1), 73–81.		
+171698	Komatsu, H.; Takeda, M.	2009	A new species of the genus Pinnixa (Decapoda: Brachyura: Pinnotheridae) from Otsuchi Bay, Northeastern Japan. Bull. Natl. Mus. Nat. Sci., Ser. A, Suppl. 3, 199–204.		
+171756	Magalhães, C.	2009	A new species of freshwater crab of the genus Fredius Pretzmann, from the middle Amazon River Basin, Brazil (Crustacea: Decapoda: Pseudothelphusidae		
+171770	McLay, C.; Tan, S. H.	2009	Revision of the crab genus Garthambrus Ng, 1996, with the description of two new genera and discussion of the status of Tutankhamen Rathbun, 1925 (Crustacea: Brachyura: Parthenopidae)		
+171827	Martin, J.W.; Godwin, S.: Moffitt, R.	2009	Additions to the decapod crustacean fauna of the Hawaiian Islands, I. A review of the genus Sakaila Manning and Holthuis, 1981 (Decapoda, Brachyura, Aethridae), with the description of a new species from the Northwestern Hawaiian Islands. Zootaxa, 2018: 25–44.		
+171828	Mendoza, J. C. E.; Naruse, T.	2009	A new species of Macrophthalmus Desmarest, 1823 (Crustacea: Decapoda: Brachyura: Macrophthalmidae) from		
+171829	Mendoza, J. C. E.; Chong, V. C.; Ng, P. K. L.	2009	A new xanthid crab of the genus Medaeops Guinot, 1967, from Peninsular Malaysia, with a note on Leptodius granulosus Haswell, 1882 (Crustacea: Decapoda: Brachyura: Xanthidae)		
+171851	Ng; Ng, P.	2009	Orcovita holthuisi, a new species of anchialine crab (Brachyura, Varunidae) from Coron Island, Palawan, Philippines		
+171852	Ng, N. K.; Komai, T.; Ng, P. K. L.	2009	Otognathon uru, a new species of crabs (Brachyura, Varunidae) from coral reefs in Okinawa Island, The Ryukyus, Japan		
+171853	Naderloo, R.; Türkay, M.	2009	A new species of the genus Nanosesarma (Crustacea: Decapoda: Brachyura: Sesarmidae), and redescription of Nanosesarma jousseaumei (Nobili, including new records from the Persian Gulf		
+171854	Naruse, T.; Jaafar, Z.	2009	Geosesarma aedituens, a new terrestrial crab (Crustacea: Decapoda: Brachyura: Sesarmidae) from		
+171855	Naruse, T.; Komai, T.	2009	A new species of the false spider crab genus Halicarcinus (Decapoda: Brachyura: Hymenosomatidae) from Okinawa Island, Japan		
+171856	Naruse, T.; Maenosono, T.	2009	Notonyx kumi, a new species of goneplacid crab (Decapoda: Brachyura) from the Ryukyu Islands, Japan, and Lesser Sunda Islands, Indonesia. Bull. Natl. Mus. Nat. Sci., Ser. A, Suppl. 3, 183–189.  		
+171857	Naruse, T.; Shokita, S.	2009	Geothelphusa amagui, a new species of the true freshwater crab (Crustacea, Decapoda, Potamidae) from Kerama Island Group and Kume Island, central Ryukyu Islands, Japan		
+171858	Naruse, T.; Castro, P.; Ng, P. K. L.	2009	A new genus and new species of Ethusidae (Decapoda		
+171859	Naruse, T.; Fujita, Y.; Ng, P.K.L.	2009	A new genus and new species of symbiotic crab (Crustacea: Brachyura: Pinnotheroidea) from Okinawa. Zootaxa, 2053: 59–68.		
+171863	Ng, P. K. L.; Naruse, T.	2009	On the identity of Pinnixa brevipes H. Milne Edwards, 1853, and a new species of Aphanodactylus Tesch, (Crustacea: Decapoda: Brachyura: Pinnotheroidea) from the Philippines		
+172099	Promdam, R.; Ng, P. K. L.	2009	Lithoselatium tantichodoki, a new species of intertidal crab (Crustacea: Brachyura: Sesarmidae) from southern Thailand		
+172125	Reverter-Gil, O.; Souto, J.; Fernández-Pulpeiro, E.	2009	Three new species of Iberian cheilostomate Bryozoa		
+172130	Richer de Forges, B.; Ng, P.K.L.	2009	New genera, new species and new records of Indo-West Pacific spider crabs (Crustacea: Brachyura: Epialtidae: Majoidea). Zootaxa, 2025: 1–20.		
+172151	Schubart, C. D.; H-Liu, C.; Ng, P. K. L.	2009	Revision of Selatium Serène & Soh, (Crustacea: Brachyura: Sesarmidae), with description of a new genus and two new species		
+172158	H-Shih, T.; J-Shy, Y.	2009	Geothelphusa makatao sp. nov. (Crustacea: Brachyura: Potamidae), a new freshwater crab from an uplifted Pleistocene reef in Taiwan		
+172175	Takeda, M.	2009	A New Spider Crab of the Genus Rochinia (Decapoda: Brachyura: Epialutidae) from the Izu Islands, Central Japan. Bull. Natl. Mus. Nat. Sci. Ser.A, Suppl. 3, 167-173.		
+172251	Baudouin M.,	1906	L'araignée de mer, dite "Abraham" en Vendée. Espèce nouvelle: Maïa Gigantea. Association française pour l'avancement des sciences, 55e session, Nancy: 256-258.		
+172419	Wowor, D.; Ng, P.K.L.	2009	Two new species of Holthuisana Bott, 1969 (Crustacea: Decapoda: Brachyura: Gecarcinucidae) from West Papua, Indonesia. Zootaxa, 2071: 50–60.		
+172420	Wowor, D.; Ng, P.K.L.	2009	Two new species of sesarmid crabs (Crustacea: Decapoda: Brachyura) associated with limestone formations in West Papua, Indonesia. Zootaxa, 2025: 21–31.		
+172445	Zhu, C.; Naruse, T.; Zhou, X.	2009	Two new species of freshwater crabs of the genus Sinolapotamon Tai & Sung, 1975 (Decapoda, Brachyura, Potamidae) from Guangxi Zhuang Autonomous Region, China		
+172452	Ahyong, S.T.; Ng, P.K.L.	2008	Alain raymondi, a new species of deepwater pinnotherid crab (Crustacea: Decapoda: Brachyura) from the Philippines, commensal with holothurians. Zootaxa, 1919: 61–68.		
+172453	Ahyong, S. T.	2008	Deepwater crabs from seamounts and chemosynthetic habitats off eastern New Zealand (Crustacea: Decapoda: Brachyura)		
+172486	Barnes, R. S. K.; Davie, P. J. F.	2008	A new species of the sentinel crab Macrophthalmus (Mareotis) Barnes, 1967 (Crustacea: Brachyura: Macrophthalmidae) from Western Australia		
+172534	Chen, H. L.; Yang, S. L.	2008	On two new species of Thalamita Latreille, 1892		
+172537	Cheng, Y.; Li, L.; Lin, C.; Li, Y.; Fang, Y.; Jiang, D.; Huang, C.; Zhou, A.; Zhang, X.	2008	Two new species of Huananpotamonas the second intermediate host of Paragonimus skriabini(Decapoda:Potamidae		
+172547	Cumberlidge, N.; Dobson, M.	2008	A new species of freshwater crab of the genus Potamonautes Macleay, 1838 (Brachyura: Potamoidea: Potamonautidae) from the forested highlands of western Kenya, East Africa		
+172552	Davie, P. J. F.	2008	A new genus and species of Macrophthalmidae (Brachyura, Ocypodoidea) from the Northern Territory, Australia		
+173088	Koh, S. K.; Ng, P. K. L.	2008	A revision of the shore crabs of the genus Eriphia (Crustacea: Brachyura: Eriphiidae		
+173090	Komai, T.; Wada, K.	2008	A revision of the estuarine crab genus Ilyograpsus Barnard, (Crustacea: Decapoda: Brachyura: Macrophthalmidae), with descriptions of a new genus and one new species		
+173162	Li, Y.; Cheng, Y.; Lin, C.; Zhang, Z.; Zhou, X.; Jiang, M.	2008	A new species of fresh water crab infected with metacercariae of Paragonimus:the genus Huananpotamon tangi sp. nov		
+173185	Campos, M. R.; Pedraza, M.	2008	Two new species of freshwater crab of the genus Neostrengeria Pretzmann, 1965, from Colombia (Crustacea: Decapoda: Pseudothelphusidae), with an updated key of the species of the genus		
+173191	Magalhães, C.; Türkay, M.	2008	A new species of Kingsleya from the Yanomami Indians area in the upper Rio Orinoco		
+173207	Mendoza, J. C. E.; Ng, P. K. L.	2008	New genera and species of euxanthine crabs (Crustacea: Decapoda: Brachyura: Xanthidae) from the		
+173209	Mendoza, J. C. E.; Ng, P. K. L.	2008	A new species of Alainodaeus Davie, (Crustacea: Decapoda: Brachyura: Xanthidae) from Balicasag Island, Philippines, with a key to the genus		
+174974	Naruse, T.; Ng, P. K. L.	2008	A new species of Chiromantes s. str. (Decapoda: Brachyura: Sesarmidae) from the Ryukyu Islands, Japan, with a note on the identity of Holometopus serenei Soh		
+174975	Naruse, T.; Mendoza, J. C. E.; Ng, P. K. L.	2008	Descriptions of five new species of false spider crabs (Decapoda: Brachyura: Hymenosomatidae) from the Philippines		
+174976	Naruse, T.; Ng, P. K. L.; Guinot, D.	2008	Two new genera and two new species of troglobitic false spider crabs (Crustacea: Decapoda: Brachyura: Hymenosomatidae) from Indonesia, with notes on Cancrocaeca Ng		
+174977	Naruse, T.; Yeo, D. C. J.; Zhou, X.	2008	Five new species of freshwater crabs (Crustacea: Decapoda: Brachyura: Potamidae) from China		
+174979	Ng, P. K. L.; Clark, P. F.; Schuhmacher 1985	2008	A revision of Latopilumnus Türkay (Crustacea: Decapoda: Brachyura: Pilumnidae) with larval comparisons		
+174980	Ng, P. K. L.; Clark, P. F.	2008	A new species of Notonyx A. Milne-Edwards, 1873 (Crustacea: Decapoda: Brachyura: Goneplacidae) from Indonesia		
+175014	Rahayu, D.L.; Ng, P.K.L.	2008	Two new species of Parasesarma De Man, 1895, from Southeast Asia (Crustacea: Decapoda: Brachyura: Sesarmidae). Zootaxa, 1980: 29–40.		
+175038	Richer de Forges, B.; Ng, P.K.L.	2008	New records of deep-sea spider crabs of the genus Cyrtomaia Miers, 1886, from the Pacific Ocean, with description of a new species (Crustacea : Decapoda : Brachyura : Majidae)		
+175039	Richer de Forges, B.; Ng, P.K.L.	2008	New western Pacific records of Homolidae De Haan, 1839, with descriptions of new species of Homolochunia Doflein, 1904, and Latreillopsis Henderson, 1888 (Crustacea: Decapoda: Brachyura). Zootaxa, 1967, 1-35.		
+175040	Richer de Forges; Poore, B.; G	2008	Deep-sea majoid crabs of the genera Oxypleurodon and Rochinia (Crustacea: Decapoda: Brachyura: Epialtidae) from the continental margin of Western Australia		
+175046	Tan, S. H.	2008	A new species of Pseudolambrus (Crustacea: Brachyura: Parthenopidae: Parthenopinae) from Panglao, Bohol, the Philippines		
+175051	Santana, W.; Tavares, M.	2008	A new species of Euprognatha Stimpson, 1871 (Crustacea, Brachyura, Inachoididae) from off coast of northeastern Brazil		
+175059	Schubart, C. D.; Ng, P. K. L.	2008	A new molluscivore crab from Lake Poso confirms multiple colonization of ancient lakes in Sulawesi by freshwater crabs (Decapoda: Brachyura		
+175070	Shih, H. T.; Naruse, T.; Yeo, D. C. J.	2008	A new species of Geothelphusa Stimpson, 1857, from Taiwan (Crustacea : Brachyura : Potamidae) based on morphological and molecular evidence, with notes on species from western Taiwan		
+175094	Unno, J.	2008	A new species of soldier crab, Mictyris occidentalis (Crustacea: Decapoda: Brachyura: Mictyridae) from Western Australia, with congener comparisons		
+175134	Yeo, D. C. J.; Naruse, T.	2008	A revision of the freshwater crab genus Hainanpotamon Dai, (Crustacea: Decapoda: Brachyura: Potamidae: Potamiscinae), with a redescription of Potamon (Potamon) orientale (Parisi, and descriptions of three new species		
+175138	Zhou, X.; Zhu, C.; Naruse, T.	2008	<I>Bottapotamon nanan</I>, a new species of freshwater crab (Decapoda, Brachyura, Potamidae) from Fujian Province, China		
+175139	Zou, J.; Naruse, T.; Zhou, X.	2008	On a new species of freshwater crab of the genus <I>Sinopotamon</I> (Decapoda, Brachyura, Potamidae) from Wuyi mountain, southeastern China		
+175547	Verrill, AE.	1908	Brachyura and Anomura: their distribution, variations, and habits: Decapod Crustacea of Bermuda		
+175556	Wong, K. J. H.; Shih, H.-T.; Chan, B. K. K.	2011	Two new species of sand-bubbler crabs, Scopimera, from North China and the Philippines (Crustacea: Decapoda: Dotillidae)		
+175738	Gothland, M.	2013	Additional records and distribution (2011-2012) of Hemigrapsus sanguineus (De Haan, 1835) along the French coast of the English Channel		
+176211	Shaw, JK.; Hopkins, TS.	1977	The distribution of the family Hapalocarcinidae (Decapoda, Brachyura) on the Florida Middle Ground with a description of Pseudocryptochirus hypostegus new species		
+176212	Badaro MFS, Neves EG, Castro P, Johnsson R.	2012	Description of a new genus of Cryptochiridae (Decapoda: Brachyura) associated with Siderastrea (Anthozoa: Scleractinia), with notes on feeding habits. Scientia Marina 76(3): 517–526.		
+176733	Zayasu, Y.; Nomura, K.; Seno, K.; Asakura, A.	2013	A new species of <i>Fizesereneia</i> Takeda & Tamura, 1980 (Crustacea: Decapoda: Brachyura: Cryptochiridae) from Japan		
+176926	Davie, P.J.F.	2012	A review of Macrophtalmus sensu lato (Crustacea: Decapoda: Macrophtalmidae) from Australia, including two new species and new records. Memoirs of the Queensland Museum – Nature 56(1): 149-219. Brisbane. ISSN 0079-8835.		
+176927	Rahayu, D. L.; Nugroho, D. A.	2012	The Indonesian species of Macrophthalmus Desmarest, 1823, with the description of a new species (Crustacea: Decapoda: Brachyura: Macrophthalmidae)		
+177745	Henderson, J. R.	1906	On a new species of coral-infesting crab taken by the R.I.M.S. Investigator at the Andaman Islands. Annals and Magazine of Natural History, Including Zoology, Botany and Geology, Being a Continuation of the 'Magazine of Botany and Zoology		
+191176	Pastore, M.	1972	Decapoda Crustacea in the Gulf of Taranto and the Gulf of Catania with a discussion of a new species of Dromiidae (Decapoda Brachyoura) in the Mediterranean Sea.		
+192998	Brösing, A.; Spiridonov, V. A.; Al-Aidaroos, A. M.; Türkay, M.	2014	Description of a new genus and new species of Sesarmidae (Decapoda: Brachyura) from the Farasan Islands, Saudi Arabia, Red Sea		
+193029	Canário, R.; Badaró, M. F.; Johnsson, R.; Neves, E. G.	2014	A new species of <em>Troglocarcinus</em> (Decapoda: Brachyura: Cryptochiridae) symbiotic with the Brazilian endemic coral <em>Mussismilia </em>(Anthozoa: Scleractinia: Mussidae)		
+193074	van der Meij, S. E. T.	2014	A new species of <em>Opecarcinus</em> Kropp & Manning, 1987 (Crustacea: Brachyura: Cryptochiridae) associated with the stony corals <em>Pavona</em> <em>clavus</em> (Dana, 1846) and <em>P. bipartita</em> Nemenzo, 1980 (Scleractinia: Agariciidae)		
+193652	Anker, A.; Ng, P. K. L.	2014	<em>Tritodynamia</em> <em>serratipes</em> sp. nov., a new marine crab from Singapore (Crustacea: Decapoda: Brachyura: Macrophthalmidae)		
+195624	Kropp R.K.; Manning, R. B.	1987	The Atlantic gall crabs, family Cryptochiridae (Crustacea: Decapoda: Brachyura)		
+195947	Meij SET van der 	2015	Host relations and DNA reveal a cryptic gall crab species (Crustacea: Decapoda: Cryptochiridae) associated with mushroom corals (Scleractinia: Fungiidae).		
+196138	Galil, B. S.; Clark, P. F.	1996	A revision of Cryptosoma Brullé, 1837 and Cycloes de Haan, 1837 (Crustacea: Brachyura. Calappidae)		
+196494	Meij, S. E. T. van der; Berumen, M. L.; Paulay, G.	2015	A new species of Fizesereneia Takeda & Tamura, 1980 (Crustacea: Brachyura:  Cryptochiridae) from the Red Sea and Oman		
+196633	Ahyong, S. T.; Ng, P. K. L.	2007	Visayeres acron, a new genus and species of pinnotherid crab (Crustacea: Decapoda:Brachyura) from the Philippines		
+196634	Ahyong, S. T.; Ng, P. K. L.	2007	The pinnotherid type material of Semper (1880), Nauck (1880) and Burger (1895) (Crustacea: Decapoda: Brachyura)		
+196657	Bahir, M. M.; Yeo, D. C. J.	2007	The gecarcinucid freshwater crabs of Southern India (Crustacea: Decapoda: Brachyura)		
+196761	Castro, P.	2009	Two new species of Carcinoplax H. Milne Edwards, 1852, and Pycnoplax Castro, 2007, from the western pacific, and a description of the female of Thyraplax truncata Castro, 2007 (Crustacea, Decapoda, Brachyura, Goneplacidae)		
+196762	Castro, P.	2007	A reappraisal of the family Goneplacidae MacLeay, 1838 (Crustacea, Decapoda, Brachyura) and revision of the subfamily Goneplacinae, with the description of 10 new genera and 18 new species		
+196774	Chen, W.-J.; Cheng, J.-H.; Hsu, M.	2007	A new species of alpine freshwater crab (Brachyura, Potamidae) from Siangyang national forest recreation area, Taiwan		
+196780	Cumberlidge, N.	2007	A new species of freshwater crab of the genus Microthelphusa (Brachyura: Pseudothelphusidae) from a remote isolated cloud forest on a tabletop mountain in western Guyana, South America		
+196781	Cumberlidge, N.; Marijnissen, S. A. E.; Thompson, J.	2007	Hydrothelphusa vencesi, a new species of freshwater crab (Brachyura: Potamoidea:  Potamonautidae) from southeastern Madagascar		
+196786	Dang, N. T.; Ho, T. H.	2007	One new genus and one new species of freshwater crabs (Decapoda, Brachyura, Potamidae) from the Southern part of Vietnam		
+196788	Davie, P. J. F.; Ng, P. K. L.; Dawson, E. W.	2007	A new species of deep-sea crab of the genus Chaceon Manning & Holthuis, 1989 (Crustacea: Decapoda: Brachyura: Geryonidae) from Western Australia		
+197374	Meij, S.E.T. van der	2015	A new gall crab species (Brachyura, Cryptochiridae) associated with the free-living coral Trachyphyllia geoffroyi (Scleractinia, Merulinidae).		
+197858	Campos, E.	1989	Comments on taxonomy of the genus Orthotheres Sakai, 1969 (Crustacea, Brachyura, Pinnotheridae).		

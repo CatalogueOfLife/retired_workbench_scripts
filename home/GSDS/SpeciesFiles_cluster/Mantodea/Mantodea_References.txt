@@ -1,0 +1,144 @@
+﻿ReferenceID	Authors	Year	Title	Source
+26430	Wang & Liang	1995		
+26443	Saussure & Zehntner	1895	Histoire naturelle des Blattides et Mantides	 23
+26444	Beier			
+26445	Mistshenko			
+26446	Zhang			
+26448	Rivera	2003		
+26449	Yang	1999		(1):75-76
+26450	Yang	2002		(59):64
+26453	Roy	2010	Statements on the genus Sphodromantis Stal, 1871 (Mantodea, Mantidae).	 115(3):345-366
+26454	Rivera & Yagui	2011	Taxonomy of the Andean genus  Pseudopogonogaster Beier, 1942, a cloud forest specialist,  with notes on its biogeography and ecology  (Mantodea: Th espidae: Miopteryginae)	 42:313-335
+26455	Roy	2007	Deroplays indica, new species from India (Dictyoptera, Mantodea)	Revue Suisse de Zoologie 114(3):507-512
+26457	Roy	2006	Afrothespis dudley n.gen, n. sp. from Eastern Africa (Dictyoptera, Mantodea)	Bulletin de la Société entomologique de France 111(4):475-478
+26458	Svenson	2007	Revision of the genus Ceratomantis Wood-Mason, 1876 (Dictyoptera, Mantodea)	Bulletin de la Société entomologique de France 112(4):433-444
+26459	Roy	2004	Lagrecacanthops et Miracanthops, deux nouveaux genres d`Acanthopinae (Dictyoptera, Mantodea, Acanthopidae).	Bulletin de la Société entomologique de France(109):491-498
+26460	Roy	2005	Mises au point sur le genre Stenophylla Westwood (Dictyoptera, Acanthopidae)	Bulletin de la Société entomologique de France 110(3):225-232
+26461	Roy	2005	Revision of the Madagascan endemic genus Tisma Giglio-Tos (Dictyoptera, Mantidae).	Bulletin de la Société entomologique de France 110(1):47-57
+26462	Mériguet	2005	Mantasoa, a new genus of mantid endemic from Madagascar close to Tarachomantis Brancsik (Dictyoptera, Mantidae).	Bulletin de la Société entomologique de France 110(1):43-46
+26464	Roy	2006	Two new synonymies for genera (Dictyoptera, Mantodea).	Bulletin de la Société entomologique de France 111(2):195-198
+26465	Roy	2003	Alfredistia reticulata n. gen. n. sp. from South Africa (Dictyoptera, Mantodea, Tarachodidae).	Bulletin de la Société entomologique de France 108(4):433-435
+26466	Roy	2007	Parymnopus Wood-Mason, 1890, et Cataspilota Giglio-Tos, 1927, genres valides (Dict. Mantodea)	Bulletin de la Société entomologique de France 112(1):91-92
+26467	Roy	2002	Contribution a la connaissance du genre Tarachodes Burmeister, 1838 (Dict., Mantodea, Tarachodinae)	Bulletin de la Société entomologique de France 107(5):534-536
+26468	Roy	2002		Bulletin de la Société entomologique de France 107(3):297-300
+26470	Roy	2008	Contribution to the knowledge of the genus Parablepharis, 1870 (Mantodea).	Bulletin de la Société entomologique de France 113(1):53-60
+26471	Roy	2008	Indomenella, nouveau genre d`Angelinae (Dict. Mantidae)	Bulletin de la Société entomologique de France 113(3):330
+26474	Roy	2009	New data for the genus Junodia Schulthess, 1899 (Mantodea, Hymenopodidae)	Bulletin de la Société entomologique de France 114(1):119-127
+26475	Roy	2009	Contribution to the knowledge of Eastern African Amorphoscelis STAL, 1871, with description of two new species (Dictyopter, Mantodea, Amorphoscelidae)	Bulletin de la Société entomologique de France 114(2):195-209
+26476	Stiewe	2009	Contribution to the knowledge of Eastern African Amorphoscelis STAL, 1871, with description of two new species (Dictyoptera, Mantodea, Amorphoscelidae)	Bulletin de la Société entomologique de France 114(2):195-209
+26479	Roy	2002	Revision of the neutropical genus Macromantis SAUSSURE, 1871 (Dictyopter, Mantidae)	Bulletin de la Société entomologique de France 107(4):403-418
+26480	Roy	2010	Contribution a la connaissance dugenere neotropical Mantoida Newman, 1838 (Dic.. Mantoididae)	Bulletin de la Société entomologique de France 115(1)
+26481	Roy	2010	Statements of the genus Sphodromantis Stal, 1871 (Mantodea, Mantidae).	Bulletin de la Société entomologique de France 115(3):345-366
+26482	Roy & Schütte	2010	The Madagascan endemic genus Tuberculepsus Roy, 2008 (Dictyoptera, Mantodea)	Bulletin de la Société entomologique de France 115(4):401-416
+26483	Roy & Stiewe	2011	Revision of the Neutropical genus Orthoderella Giglio-Tos, 1897 (Mantodea, Mantidae, Photinainae)	Bulletin de la Société entomologique de France 116(1)
+26484	Roy	2012	A new species of the genus Tismomorpha Roy, 1973 (Mantodea, Mantidae)	Bulletin de la Société entomologique de France 117(1):75-78
+26488	Stal	1871		Ofvers. K. VetensAkad. Forh. Stockh. 28
+26509	Giglio-Tos	1915		Bull. Soc. ent. Ital. 46
+26556	Beier	1930		Ann. Mag. nat. Hist. 10 6
+26559	Kevan	1954		Ann. Mag. nat. Hist. 12 7
+26568	Westwood	1841		Ann. Mag. nat. Hist. 1 8
+26607	Chopard	1955	Contribution a l`etude du peuplement de la Mauritania	Bull. Inst. fond. Afr. noire A XVII(4)
+26673	Kaltenbach	1996		Ann. Naturhist. Mus. Wien 98B
+26676	Beier	1941	Neue und seltene Mantodeen aus deutschen Museen	Ann. Naturhist. Mus. Wien 52:126-154
+26680	Burmeister	1838		Handb. Ent., Burm. 2
+26681	Serville	1839		Hist. Ins. Orth.
+26687	Saussure	1872		Mem. Soc. Phys. Hist. nat. Geneve 23
+26718	Saussure & Zehntner	1894		Biologia centr.-am. Orth. 1
+26719	Kirby	1904		Syn. Cat. Orth. 1
+26761	Beier	1942		Annln naturh. Mus. Wien 52
+26810	Goeze	1778		Ent. Beitrag. 2
+26811	Olivier	1792		Enc. Meth., Ins. 7
+26815	Lichtenstein	1802		Trans. Linn. Soc. Lond. 6
+26826	Charpentier	1841		Orth. descr.
+26847	Lefebvre	1835		Annls. Soc. ent. Fr. 4
+26855	Jantsch	1985		Rev. bras. Ent. 28(3)
+26870	Fabricius	1787		Mant. Ins. 1
+26918	Roy	2007	A new African species of Amorphoscelis Stål, 1871 (Dictyoptera. Mantodea)	Bull. Soc. Ent. France 112(3)
+26920	La Greca	1954		Annuar. Inst. Mus. Zool. Univ. Napoli 6(2)
+26928	Rivera	2005	A new species of Acanthopinae from Peru: Miracanthops eseejja n. sp. and notes on Acanthops occidentalis Lombardo & Ippollito, 2004 (Mantodea: Acanthopidae).	J. Orthoptera Research 14(2):255-260
+26929	Lombardo & Marletta	2004	Remarks on genus Raptrix Terra 1995 (Mantodea, Acontiothespinae).with a description of two new species.	J. Orthoptera Research 13(1):21-33
+26959	Roy & Stiewe	2013	BILAN DES CONNAISSANCES RELATIVES  AU GENRE OXYPILUS AUDINET SERVILLE  [MANTODEA, HYMENOPODIDAE]	Revue fr. Ent. (N.S.) 33(1-4):27-54
+26993	Lindt	1976		Doklady Akad. Nauk tadzhik. SSR 19(5)
+27002	Lindt	1977		Izvestiya Akad. Nauk tadzhik. SSR (Otd. Biol.) 1977(1)
+27054	Karny	1908		Denkschr. med.-naturw. Ges. Jena 13
+27058	Tindale	1924		Rec. S. Aust. Mus. 2
+27094	Bolivar	1890		An. Soc. esp. Hist. Nat. 19
+27103	Roy & Ehrmann	2009	Revision of the genus Zoolea Audinet-Serville (Mantodea, Mantidae, Vatinae)	Revue Francaise D’Entomologie. 31(1):1-22
+27104	Roy	2010	LES AMORPHOSCELINAE INDO-MALAIS   (MANTODEA, AMORPHOSCELIDAE )	Revue Francaise D’Entomologie. 32(1-2):65-92
+27115	Fabricius	1775		Syst. Ent. 2
+27132	Werner	1906		Jh. Ver. vaterl. Naturk. Wurttemberg 62
+27142	Paulian	1958		Naturaliste malgache 10
+27151	Werner	1928		Mitt. zool. Mus. Berl. 14
+27163	Battiston & Fontana	2005	A contribution to the knowledge of the genus Ameles Burmeister 1838, with the description of a new species from Jordan (Insecta Mantodea)	Atti della Accademia Roveretana degli Agiati Ser 7 B Classe di Scienze Matematiche Fisiche e Naturali 8 173-197
+27185	Otte	2004		Mantida Species File, Insect Diversity Association 1
+27220	Giglio-Tos	1898		Boll. Musei Zool. Anat. comp. R. Univ. Torino 13(311)
+27223	Johansson	1763		Amoen. Ac. 6
+27224	Linne	1758		Syst. Nat. (ed. 10) 1
+27238	Bolivar	1886		Actas Soc. esp. Hist. nat. 15
+27292	Mukherjee	1995		Oriental Insects 29
+27295	Werner	1922		Zool. Mededeel. Mus. Leiden 7
+27353	Roy	2009	Revision desToxoderini sensu novo (Mantodea, Toxodetinae)	Rev. suisse Zool. 116(1):93-183
+27355	La Greca	1954		Annuar. Inst. Mus. Zool. Univ. Torino 6(2)
+27370	Fabricius	1798		Ent. Syst., suppl.
+27397	Stal	1856		Ofvers. K.VetensAkad. Forh. Stockh. 13
+27406	Westwood	1889		Rev. Insect. Fam. Mantidarum.
+27416	Wang & Dong	1993		Zoological Res. 14(3)
+27417	Stal	1858		Eugenie’s Resa, Orth.
+27427	Scudder	1896		Can. Entomol. 28
+27444	Milledge	2005	Revision of the Genera Sphodropoda, Trachymantis and Zopheromantis (Mantodea: Mantidae: Mantinae).	Records of the Australian Museum 57:191-210
+27499	Brulle	1838		Hist. Nat. Canar., Ins. 2(2):76
+27547	Rehn	1960		Notul. Nat. 326
+27561	SHCHERBAKOV	2012	New data on the genera Euchomenella and Tagalomantis  (Dictyoptera: Mantidae: Angelinae)	Zoosystematica Rossica 21(2):270-278
+27640	Salazar	2004	Nuevas especies de blatidos y mantidos para Colombia (Insecta: Dictyoptera) y una natasobre la hembra de Vates festae Giglio-Tos, 1914	Boletin Cientifico Museo de Historia Natural Universidad de Caldas 273-275
+27693	Ippolito & Lombardo	2004	Decimiana clavata, ne species from Brazil (Mantidae)	Memoire Soc. entomol. Ital. (Memoire Soc. ent. Ital.) 82(2):373-378
+27707	Stiewe	2009	Dysaulophthalma nathani gen et sp. n. A new praying mantis from Southern India (Dictyoptera: Mantodea, Tarachodidae).	Entomologist`s Monthly Magazine (Ent. Mon. Mag.) 145(1):51-60
+27708	Stiewe & Roy	2010	A new praying mantis species of Junodia SCHULTHESS, 1899 from Kenya (Dictyoptera: Mantodea: Hymenopodidae)	Entomologist`s Monthly Magazine (Ent. Mon. Mag.) 146:63-70
+27803	Unknown	1921		Gigli a Insect. 177
+27827	Stiewe	2004	A new species of Eremiaphila LEFEBVRE, 1835 from Egypt (Mantodea: Eremiaphilidae)	Entomologische Zeitschrift 2004 (Entomol. Zeit.) 114(5):199-203
+27828	Ghate, Thulsi Ra, Maqsood Javed & Roy	2006	A new species of praying mantis genus Metacromantis BEIER from Andhra Pradesh, India (Mantodea: Hymenopodidae: Acromantinae)	Genus 17(3):327-334
+27830	Ghate & Mukherjee	2004	First record of the praying mantis genus Euchomenella Giglio-Tos from India and desscription of Euchomenella indica n.sp. from South India.	Genus 15(3):329-337
+27831	Vyjayandi	2009	A new genus of praying mantis Cotigaonopsis from Goa, India (Insecta: Mantodea)	Genus 20(3):485-492
+27832	Mukherjee, Stiewe & Ghorai	2010	A new species of praying mantis, Ephestiasula woodmasoni n. sp. from Gujarat, India with note on the location of types of some Indian species (Mantodea: Hymenopodidae)	Genus 21(2):169-173
+27834	Holwell, Ginn & Herberstein	2007	Three new species of Ciulfina Giglio-Tos (Mantodea: Liturgusidae) from north-eastern Australia.	ZOOTAXA 1583
+27835	Ge & Chen	2008	Review of the genus Palaeothespis Tinkham (Mantodea: Thespidae), with discription of one new genus.	ZOOTAXA 1716:53-58
+27836	Stiewe	2007	Two new species of Bolbella Giglio-Tos, 1915 from Southern Africa (Dictyoptera: Mantodea)	ZOOTAXA(1495):53-60
+27837	Rivera	2010	Chromatophotina, a remarkable new genus of praying mantid from the Neotropical Region and its two new species (Mantodea: Mantidae, Photinainae).	ZOOTAXA(2415):22-32
+27838	Svenson & Roy	2011	Taxonomic treatment of the endemic Malagasy praying mantis genus  Hyalomantis GIGLIO-TOS, 1915, with a new synonymy and the description  of three new species (Mantodea, Iridopterygidae, Tropidomantinae)	ZOOTAXA(2777):1-24
+27839	Roy & Svenson	2011	Revision of Platycalymma Westwood, 1889, and the synonymy of Ichromantis  Paulian, 1957 (Mantodea, Iridopterygidae, Tropidomantinae)	ZOOTAXA 3014 1-25
+27840	MOHAMMAD, GAD ALLA, HAMOULY, Ehrmann & EL-DEN NASSER	2011	Mantodea of Egypt	ZOOTAXA(3044):1-27
+27841	Orofino, Ippolito & Lombardo	2006	Remarks on Phyllovates Kirby, 1904 of West South America and Description of two new species (Insecta, Mantodea, Vatinae).	Transaction of the American Entomological Society (Trans. Am. Entomol. Soc.) 132(1+2):205-222
+27842	Zompro	2005	Inter- and Intra-ordinal realationships of the Mantophasmatodea, with comments on the phylogeny of polyneopteran orders.	Mitt. Geol.-Palaentol. Inst. Univ. Hamburg 89:85-116
+27843	Ingrisch	1999	Orthopteroid Insects of Yemen	Esperiana-Buchreihe zur Entomologie (Esperiana) 7:349-376
+27845	Anisyutkin & Gorochov	2004	Haania doroshenkoi, a new species of mantises from Cambodia (Mantina: Mantidae: Thespinae) and a case of mirror symmetry in the structure of the male genitalia of mantisis	Russian Entomlogical Journal (Russian Entomol. J.) 13(3):119-122
+27846	Liana	2009	Paula micra gen. et sp. nov., A new Praying Mantis from Java (Mantodea: Mantidae: Amelinae)	Annales Zoologici 59(3):267-292
+27851	Menezes & Bravo	2012	A new species of Decimiana Uvarov (Insecta, Mantodea,  Acanthopidae) from Brazil, with remarks on the  distribution of Decimiana bolivari (Chopard)	Zookeys 236 55-64
+27854	González, Miller & J Salazar	2011	DESCRIPTION OF A NEW SPECIES OF ACANTHOPS AUDINET -SERVILLE 1831 FROM COLOMBIA (DICTYOPTERA: MANTODEA )	bol.cient.mus.hist.nat. 15(1):206-212
+27855	Doganlar	2007	A new species of the genus Eremiaphilia Lefebvre, 1835 (Mantodea: Eremiaphilidae) from Turkey	Australian Journal of Basic and Applied Sciences Research (Aust. J. of Basic and Appl. Sci.) 1(1):1-6
+27856	Lombardo & Perez-Gelabert	2004	The mantids of Hispaniola, with the description of two new species (Mantodea).	Boletin de la S.E.A. (Boln. S.E.A.)(34):35-48
+27857	Lombardo & Ippolito	2004	Revision of the Species Acanthops Serville 1831 (Mantodea, Mantidae, Acanthopinae) with Comments on their Phylogeny	Entomological Society of America 97(6):1076-1102
+27858	Giebel	1862	Wirbeltiere und Insektenreste im Bernstein.	Festschrift fuer die gesamten Naturwissenschaften(22):311-321
+34211	Menezes & Bravo	2013	A new species of Orthoderella Giglio-Tos (Mantodea, Mantidae, Photinainae) from Brazil.	Revista Brasileira de Entomologia 57(1):12-18
+34212	Brunner von Wattenwyl	1878	Nutwissenschaftliche Beitraege zur Kenntnis der Kaukasuslaender auf Grund seiner Sammelbeute.	Naturwiss. Beitr. Kaukasus 87-90
+36761	Galvagni	1976	La Pseudoyersinia andreae nuova specie scoperta in Sardegna	ATTI DELI: ACCADEMIA ROVERETANA DEGLI AGIATI (Atti Acc. Rov. Agiati) VI 14-15:147-155
+36810	Mériguet	2013	Madamantis, a new subgenus of Tarachomantis Brancsik, 1893 (Dictyoptera, Mantidae)	Bulletin de la Société entomologique de France 118(1):27-40
+36953	Roy	2013	Revision of the genus Pachymantis SAUSSURE, 1871	Bulletin de la Société entomologique de France 118(2):145-154
+38054	Roy	2013		Zoosystema 35(3):277-359
+43849	Roy	2013	Une nouvelle espece d`Amorphoscelis Stal, 1871, de`Afrique centre-occidentale.	Bulletin de la Société entomologique de France 118(4):513-519
+43948	Lombardo, Ippolito & Rivera	2013	Synopsis of the Neutropical mantid genus Pseudacanthops SAUSSURE, 1870, with the description of three new species (Mantodea: Acanthopidae)	Revue Suisse de Zoologie 120(3):373-403
+44043	Svenson, G.J.	2014	Revision of the Neotropical bark mantis genus Liturgusa SAUSSURE 1869, (Insecta, Mantodea, Liturgusini)	Zookeys 390:1-214
+44191	Holwell	2014	Four new species of Ciulfina Giglio-Tos, 1915 (Mantodea, Liturgusidae, Liturgusinae) from the Northern Territory, Australia.	ZOOTAXA 3797 1:29-38
+44278	Roy & Stiewe	2014	Revision of the genus Galinthias Stal, 1877 (Mantodea, Galinthiadidae)	Bulletin de la Société entomologique de France 119(2):199-215
+44381	Schwarz & Helmkampf	2014	A remarkable new species of Mythomantis Giglio Tos, 1916 from northern Borneo, with notes on the systematics of Deroplatyinae Westwood, 1889 (Mantodea: Mantidae)	ZOOTAXA 3797(1):120-129
+44389	Stiewe & Lombardo	2014	A taxonomic revision of Otomantis Bolivar, 1890 (Mantodea, Hymenopodidae, Acromantinae) with description of five new species	 3797(1):169-193
+44391	Stiewe	2014	A taxonomic revision of Otomantis Bolivar, 1890 (Mantodea, Hymenopodidae, Acromantinae) with description of five new species	ZOOTAXA 3797(1):169-193
+44392	Lombardo & Stiewe	2014	A taxonomic revision of Otomantis Bolivar, 1890 (Mantodea, Hymenopodidae, Acromantinae) with description of five new species	 3797(1):169-193
+44512	Agudelo	2014	A new genus and species of Mantoididae (Mantodea) from the Brazilian and Venezuelan Amazon, with remarks on Mantoida Newman, 1838	ZOOTAXA(3797):194-206
+45001	Roy & Schwarz	2014	New data on the genus Afrothespsis Roy, 2006 (Dictyoptera, Mantodea)	Bulletin de la Société entomologique de France 119(4):473-480
+45253	Roy	2005	A new species of Galepsus in the Comoren Islands (Dictyoptera: Tarachodidae)	Bulletin de la Société entomologique de France 110(4/5):383-386
+45650	Lombardo, Umbriaco & Ippolito	2014	Taxonomic revision of the Neutropical genus Parastagmatoptera Saussure, 1871 (Dictyoptera, Mantidae, Stagmatopterinae) with a biogeographic comment.	Insect Systematics and Evolution DOI 10.1163
+45655	Menezes & Bravo	2015	A new species of Margaromantis Piza, 1982 (Insecta: Mantodea) from Brazil.	Biodiversity Data Journal 3(e4343)
+45916	Roy	2015	A new genus of mantid from French Guiana (Mantodea, Acanthopidae)	Bulletin de la Société entomologique de France 120(2):143-146
+46157	Lee	2014	New Lower Cretaceous basal mantodean (Insecta) from the  Crato Formation (NE Brazil)	Geologica Carphatica 65(4):285--292
+46412	Soomro, N.M., M.H. Soomro & Wagan	2001	Description of three new species and sub species of praying mantids from Sindh	Sindh Univ.Res.Jour.(Scr.Ser.) 33(1):23-26
+46830	Delclos, Penalver, Arillo, Engel, Nel, Azar & Ross	2016	New mantises (Insecta: Mantodea) in Cretaceous ambersfrom Lebanon, Spain and Myanmar.	Cretaceous Research 60:91-108
+46855	Brannoch & Svenson	2016	Anew genus and species (Cornucollis ge. n. masoalensis sp. n.) of paying mantis from northern Madagascar (Mantodea, Iridopterygidae, Tropidomantinae)  	Zookeys 556:65-85

@@ -1,0 +1,34 @@
+﻿AcceptedTaxonID	DistributionElement	StandardInUse
+1220586	14    	TDWG Level 2 code
+1220589	TAN	TDWG Level 3 code
+1220600	BLT	TDWG Level 3 code
+1220601	Baltic amber	text
+1220602	NAM	TDWG Level 3 code
+1220602	Namibia	text
+1220603	NAM	TDWG Level 3 code
+1220603	Namibia	text
+1220604	NAM	TDWG Level 3 code
+1220604	Namibia	text
+1220605	NAM	TDWG Level 3 code
+1220605	Namibia	text
+1220606	NAM	TDWG Level 3 code
+1220607	NAM	TDWG Level 3 code
+1220608	2	TDWG Level 1 code
+1220609	CPP-WC	TDWG Level 4 code
+1220609	South Africa	text
+1220610	CPP-WC	TDWG Level 4 code
+1220610	South Africa	text
+1220611	CPP-WC	TDWG Level 4 code
+1220611	South Africa	text
+1220612	CPP-WC	TDWG Level 4 code
+1220612	South Africa	text
+1220613	CPP-WC	TDWG Level 4 code
+1220613	South Africa	text
+1220614	CPP-WC	TDWG Level 4 code
+1220614	South Africa	text
+1220615	CPP-NC	TDWG Level 4 code
+1220615	South Africa	text
+1220616	CPP-NC	TDWG Level 4 code
+1220616	South Africa	text
+1220699	NAM	TDWG Level 3 code
+1220701	NAM	TDWG Level 3 code

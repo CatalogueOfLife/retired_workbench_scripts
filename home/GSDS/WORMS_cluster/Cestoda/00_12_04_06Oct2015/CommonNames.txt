@@ -1,0 +1,4 @@
+AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
+105227	trójzębiec				Polish	147411	
+105179	bruzdogłowiec				Polish	147411	
+105190	bruzdogłowiec				Polish	147411	

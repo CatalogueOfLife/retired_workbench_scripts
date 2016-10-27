@@ -1,0 +1,124 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+416345	344231	Dentalium		eburneum	Linnaeus, 1767				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:416345	
+344228	344231	Laevidentalium		bisinuatum	(André, 1896)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344228	
+344653	344240	Dentalium		laseroni	Colman, 1958				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344653	
+344226	344235	Laevidentalium		arnoldi	Lamprell & Healy, 1998				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344226	
+344227	344239	Laevidentalium		banale	(Boissevain, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344227	
+344652	344233	Laevidentalium		pluteum	(Colman, 1958)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344652	
+344229	344490	Laevidentalium		callipeplum	(Dall, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344229	
+527807	344491	Laevidentalium		crocinum	(Dall, 1907)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:527807	
+139692	344255	Heteroschismoides		subterfissum	(Jeffreys, 1877)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:139692	
+157043	139690	Dentalium		ensiculus	Jeffreys, 1877				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:157043	
+153881	139691	Entalina		quinquangularis	(Forbes, 1843)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153881	
+344643	344528	Antalis		infracta	(Odhner, 1931)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344643	
+344645	344524	Dentalium		gouldii	Dall, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344645	
+344654	344563	Dentalium		tessellatum	Scarabino, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344654	
+344434	378075	Antalis		disparile	(d’Orbigny, 1853)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344434	
+421011	344190	Fissidentalium		carduum	(Dall, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:421011	
+575056	344552	Dentalium		quadrangulare	G.B. Sowerby I, 1832				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:575056	
+575059	344554	Dentalium		tesseragonum	G.B. Sowerby I, 1832				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:575059	
+378451	344190	Fissidentalium		floridense	(Henderson, 1920)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378451	
+344650	344505	Dentalium		acuticostatum	Plate, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344650	
+605390	344383	Cadulus		booceras	Tomlin, 1926				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:605390	
+344247	344570	Bathoxiphus		stanisici	Lamprell & Healy, 1998				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344247	
+344248	344570	Bathoxiphus		steineri	Lamprell & Healy, 1998				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344248	
+575057	344516	Dentalium		sectum	Deshayes, 1826				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:575057	
+575058	344517	Dentalium		semipolitum	Broderip & G.B. Sowerby I, 1829				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:575058	
+575142	344518	Fustiaria		splendida	(Sowerby, 1832)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:575142	
+382378	140015	Pulsellum		lobatum	(Sowerby II, 1860)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:382378	
+574383	140016	Dentalium		filum	G.B. Sowerby II, 1860				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:574383	
+421013	344398	Episiphon		didymus	(Watson, 1879)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:421013	
+575141	344401	Fustiaria		innumerabilis	(Pilsbry & Sharp, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:575141	
+595815	344319	Cadulus		viperidens	Melvill & Standen, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:595815	
+592638	344569	Dentalium		capense	Tomlin, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:592638	
+344430	378018	Antalis		callithrix	(Dall, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344430	
+183380	140893	Pulsellum		lafotensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:183380	
+157094	344414	Siphonodentalium		bushi	(Henderson, 1920)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:157094	
+428809	140893	Siphonodentalium		lofotense	(M. Sars, 1805)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:428809	
+157096	344420	Siphonodentalium		occidentale	Henderson, 1920				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:157096	
+157098	344424	Siphonodentalium		verrilli	Henderson, 1920				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:157098	
+575139	344581	Fustiaria		brevicornu	(Pilsbry & Sharp, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:575139	
+421014	344587	Compressidens		pressus	(Sharp & Pilsbry in Pilsbry & Sharp, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:421014	
+587499	344592	Dentalium		tracheatum	Boissevain, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:587499	
+428808	344458	Siphonodentalium		galatheae	Knudsen, 1964				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:428808	
+532724	344595	Dentalium		perceptum	Mabille & Rochebrune, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:532724	
+575138	344593	Fustiaria		aequatoria	(Pilsbry & Sharp, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:575138	
+575140	344594	Fustiaria		dalli	(Pilsbry & Sharp, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:575140	
+532870	140002	Gadila		cylindrata	(Jeffreys, 1877)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:532870	
+527808	140010	Gadila		fusiformis	(Pilsbry & Sharp, 1898)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:527808	
+532871	344288	Gadila		minuscula	(Dall, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:532871	
+246006	140010	Gadila		subfusiformis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:246006	
+599404	344280	Siphonodentalium		delicatulum	(Suter, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:599404	
+344655	344294	Cadulus		halius	Henderson, 1920				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344655	
+344656	344297	Cadulus		martini	Scarabino, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344656	
+225621	344136	Dentalium		congoense	(Plate, 1908)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:225621	
+344646	344148	Dentalium		duodecimcostatum	Brazier, 1877				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344646	
+344658	344463	Cadulus		carolinensis	Bush, 1885				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344658	
+157046	344469	Cadulus		grandis	A. E. Verrill, 1884				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:157046	
+344659	344473	Cadulus		nitidus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344659	
+157048	344477	Cadulus		rushii	Pilsbry & Sharp, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:157048	
+157049	344479	Cadulus		spectabilis	A. E. Verrill, 1885				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:157049	
+344647	344180	Dentalium		flavum	Scarabino, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344647	
+211853	344177	Dentalium		lineolatum	Cooke, 1885				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:211853	
+140013	196388	Gadila		olivi	(Scacchi, 1835)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:140013	
+416653	196388	Gadila		olivii	(Scacchi, 1835)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:416653	
+421016	344481	Polyschides		tetraschistum	(Watson, 1879)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:421016	
+183432	196388	Siphonodentalium		olivi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:183432	
+575146	344476	Siphonodentalium		quadrifissatum	(Pilsbry & Sharp, 1898)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:575146	
+246005	139999	Dentalium		rubescens	Deshayes, 1825				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:246005	
+248253	139999	Episiphon		rubescens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:248253	
+532946	344261	Laevidentalium		liodon	(Pilsbry & Sharp, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:532946	
+595582	344321	Cadulus		aberrans	Whiteaves, 1887				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:595582	
+605791	344321	Cadulus		fusiformis	Pilsbry & Sharp, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:605791	
+605790	344321	Cadulus		hepburni	Dall, 1897				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:605790	
+605792	344321	Cadulus		nitentior	Arnold, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:605792	
+416752	344263	Dentalium		politum	Linnaeus, 1767				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:416752	
+533324	344336	Polyschides		bushiae	(Dall, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:533324	
+416343	344342	Cadulus		domingensis	(d'Orbigny in Mörch, 1863)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:416343	
+557255	557254	Cadulus		elongatus	Henderson, 1920				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:557255	
+575143	344358	Cadulus		perpusillus	(Sowerby, 1832)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:575143	
+575144	344359	Cadulus		peruvianus	Dall, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:575144	
+344660	344361	Cadulus		poculum	Dall, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344660	
+140009	196386	Cadulus		strangulatus	Locard, 1897				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:140009	
+416439	344347	Dentalium		gadus	Montagu, 1803				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:416439	
+326902	344358	Dentalium		perpusillum	Sowerby in Broderip & G.B. Sowerby I, 1832				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:326902	
+344657	344342	Gadila		acus	(Dall, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344657	
+344465	557254	Polyschides		elongatus	(Henderson, 1920)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344465	
+344661	344361	Polyschides		poculum	(Dall, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344661	
+421015	344361	Polyschides		poculus	(Dall, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:421015	
+157047	344573	Cadulus		pandionis	Verrill & Smith, 1880				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:157047	
+344300	378858	Cadulus		simpsoni	Henderson, 1920				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344300	
+575145	344371	Cadulus		striatus	Pilsbry & Sharp, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:575145	
+157093	344376	Cadulus		verrilli	Henderson, 1920				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:157093	
+344402	344579	Episiphon		jamiesoni	Lamprell & Healy, 1998				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344402	
+527806	344579	Gadilina		stapes	(Boissevain, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:527806	
+153865	196374	Antalis		agile	(G. O. Sars, 1872)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153865	
+153956	150534	Antalis		entale	Linnaeus, 1758				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153956	
+139526	196374	Dentalium		agile	Sars M. in Sars G.O., 1872				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:139526	
+344641	344426	Dentalium		antillarum	d’Orbigny, 1842				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344641	
+139527	196375	Dentalium		dentalis	Linnaeus, 1758				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:139527	
+139528	150534	Dentalium		entalis	Linnaeus, 1758				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:139528	
+157040	196377	Antalis		occidentale	(Stimpson, 1851)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:157040	
+344648	139535	Dentalium		caudani	Locard, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344648	
+344642	344432	Dentalium		circumcinctum	Watson, 1879				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344642	
+139529	196376	Dentalium		inaequicostatum	Dautzenberg, 1891				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:139529	
+225624	344439	Dentalium		intesi	Nicklès, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:225624	
+605702	344440	Dentalium		longitrorsum	(Reeve, 1843)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:605702	
+366414	344454	Dentalium		nanum	Hutton, 1873				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:366414	
+139530	196381	Dentalium		novemcostatum	Lamarck, 1818				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:139530	
+139531	196377	Dentalium		occidentale	Stimpson, 1851				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:139531	
+532844	196377	Fissidentalium		georgiense	(Henderson, 1920)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:532844	
+157044	139535	Fissidentalium		meridionale	(Pilsbry & Sharp, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:157044	
+139540	139535	Laevidentalium		caudani	(Locard, 1896)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:139540	
+150537	196380	Antalis		vulgare	(Da Costa, 1778)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:150537	
+154025	196380	Dentale		vulgare	Da Costa, 1778				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154025	
+344649	139536	Dentalium		ergasticum	Fischer, 1883				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344649	
+416747	196380	Dentalium		laeve	Turton, 1819				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:416747	
+139532	196378	Dentalium		panormum	Chenu, 1843				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:139532	
+344644	344446	Dentalium		pretiosum	G.B. Sowerby II, 1860				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:344644	
+139533	196379	Dentalium		rossati	Caprotti, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:139533	
+154021	196380	Dentalium		tarentinum	Lamarck, 1818				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154021	
+139534	196380	Dentalium		vulgare	da Costa, 1778				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:139534	
+139537	139536	Fissidentalium		ergasticum	(Fischer P., 1883)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:139537	
+139538	196382	Fissidentalium		exuberans	(Locard, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:139538	
+139539	139536	Fissidentalium		scamnatum	(Locard, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:139539	

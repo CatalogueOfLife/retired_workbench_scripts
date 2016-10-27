@@ -1,0 +1,760 @@
+﻿ReferenceID	Authors	Year	Title	Source
+22593	Anisyutkin	1995	A new species of Diplatyidae (Dermaptera) from Equatorial Africa	Zoologichesky Zhurnal 74(5):31-34
+22612	Brindle	1972	Insects of Micronesia. Dermaptera	Insects Micronesia 5(2):97-171
+22629	Burr	1911	A revision of the Genus Diplatys, Serv. (Dermaptera)	Transactions of the Royal Entomological Society of London (Trans. R. Entomol. Soc. Lond. ) 59:21-47
+22644	Rodzianko	1897	Forficulidarum species novas	Wiener entomologische Zeitung 16:153-154
+22647	Fabricius	1798	Supplementum entomologiae systematicae	 1-572
+22664	Borelli	1915	Dermatteri delle Isole Filippine Nota II	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 30(705):1-7
+22670	Engel & Chatzimanolis	2005	Early Cretaceous earwigs (Dermaptera) from the Sanatana Formation, Brazil	Polskie Pismo Entomologiczne 74:219-226
+22683	Erichson	1842	Beitrag zur Insecten-Fauna von Vandiemensland, mit besonderer Berücksichtigung der geographischen Verbreitung der Insecten	Archiv für Naturgeschichte (Arch. Naturgesch. ) 8(1):83-287
+22684	Fernando	1961	New Species of Insects from Ceylon	CEYLON JOURNAL OF SCIENCE BIOLOGICAL SCIENCES 4:41-44
+22685	Gerstaecker	1869	Beitrag zur Insektenfauna von Zanzibar. No. 2. Orthoptera and Neuroptera	Archiv für Naturgeschichte (Arch. Naturgesch. ) 25:201-223
+22688	Hincks	1940	Dermaptera (earwigs) from Hainan Island	Notes d‘entomologie chinoise 8:29-40
+22714	Rochenberg	1883		Maturna 7(7):175
+22716	de Bormans	1883	Étude sur quelques Forticulaires nouveaux ou peu connus, precédé d''un Tableau synoptique des genres de cette famille	Annales de la Societe entomologique de Belgique 27:um 187
+22718	Burr	1914		Records of the Indian Museum (Rec. Ind. Mus. ) 10:um 284
+22719	Wollaston	1858		Annals and Magazine of Natural History Series 3(Volume 1):um 20
+23188	Engel	2003	The earwigs of Kansas, with a key to genera north of Mexico (Insecta: Dermaptera)	Transactions of the Kansas Academy of Science 106:115-123
+23220	Engel & DA Grimaldi	2004	A primitive Earwig in Cretaceous Amber from Myanmar (Dermaptera: Pygidicranidae)	Journal of Palaeontology 78(5):1018-1023
+23255	Hincks	1957	Description of genus Nesolabis. pp. 53-56 in Chopard, L. La faune entomologique de l''Ile de la Réunion. I. Orthoptéroïdes	Mémoires de l‘institut scientifique de Madagascar. Série E 8:53-56
+23262	Kamimura	2004	Mating behaviour and insemination in Diplatys flavicollis, an earwig with double-barrelled penises and a variable number of female sperm-storage organs	Journal of zoology (J. Zool. Lond. ) 262(1 Jan 2004):37-46
+23277	Brindle	1968	Dermaptera from Venezuela	Acta Biologica Venezuelica (Acta Biol. Venezuela) 6(1):82-98
+23278	Herrich-Schäffer	1840	Nomenclator Entomologicus. Verzeichnis der europäischen Insecten, zur Erleichterung des Tauschverkehrs mit Preisen versehen. Heft 2 Coleoptera, Orthoptera, Dermaptotera, Hymenoptera. 40 und 244 p 8 Tafeln	 2:40 and 244
+23335	Hincks	1947	Dermaptera from the New Hebrides and Lord Howe I	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 83:65-67
+23350	Hanney	1963	A new species of Hemimerus (Dermaptera) from Nyasaland and its association with the genus Beamys Thomas	Proceedings of the Entomological Society London 32:38-40
+23371	Burr	1913	Indian Dermaptera collected by Dr. AD Imms	Journal and Proceedings of the Asiatic Society of Bengal NS 9(5):183-187
+23414	Hincks	1958	Some notes on Parisolabinae (Dermaptera)	EOS Revista Española de Entomologia 34:131-134
+23468	Burr	1908	Notes on the Forficularia. - XI. On new and little known Species and Synonymic Note	Annals and Magazine of Natural History Series 8(Volume 1):47-51
+23595	Kapoor	1974	On two new species of earwig (Dermaptera) and a new record of Diplatys chinensis Hincks from India.	Zoological Journal of the Linnean Society (Zool. J. Linn. Soc. ) 55:241-246
+23609	Rehn, JAG	1901	The Forficulidae, Blattidae, Mantidae and Phasmidae collected in Northeast Africa by Dr. A Donaldson Smith	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philadelphia)(April):273-
+23618	Karsch, F	1885	Pygidicrana Finschi nov. spec. eien neue Forficulidea Nordaustarliens	Entomologische Nachrichten (Entomologische Nachrichten ) 11:322-323
+23619	Karsch, F	1885	Eine neue Forficulide Madagascars	Entomologische Nachrichten (Entomologische Nachrichten ) 11:323-324
+23642	Rambur	1838	Faune Entomologique de l’Andalusie. Troisieme Ordre des Insectes. Dermaptera	 17-69
+23676	Motschulsky	1859	Catalogue des insectes rapportes des environs du fleuve Amour, depuis la Schilka jusqu''a Nikolaevsk, examines et enumerees	Bulletin de la Société imperiale des Naturalistes 32:487-499
+23677	Burr	1912	A new species of Arixenia (Dermaptera)	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 48:105-106
+23681	Bey-Bienko	1967	Some Orthopteroid insects of the orders Blattoptera, Orthoptera and Dermaptera from Afghanistan	Acta entomologica bohemoslovaca 64(6):407-438
+23682	Menozzi	1930	Quelques Dermaptères de Libéria et du Congo Belge	Rev. Zool. Bot. Afr.  XIX,1:95-98
+23684	Semenov Tian-Shansky & Bey-Bienko	1935	Les Dermaptères du Tibet	EOS Revista Española de Entomologia 10:221-232
+23689	Semenov	1901	Anechura Scudd.  Forficula (L.) Scudd. (Orthoptera, Forficulidae)	Horae Societatis Entomologicae Rossicae (Horae Soc Ent Ross) XXXV:185-201
+23698	Meinert	1868	Om dobbelte Saedgange hos Insekten, fortsatte Bidrag til Forficulernes Anatomi	Naturhistorisk Tidskrift 3:278-294
+23757	Herbst	1786	Verzeichnis meiner Insektensammlung	Arch Insektengesch Zürich 7-8
+23776	Kapoor, Bharadwaj & Banerjee	1971	Some new species of Dermaptera from India	Bull Entomol Soc India 12(1):28-40
+23778	Karny	1911	Ein interessanter Ohrwurm aus Bosnien	Entomologische Rundschau 28:159-160
+23787	Kolenati	1846	Insecta Caucasi. Dermaptera	Malet Entomol 5:69-79
+23832	Costa, OG	1839	Degl''Insetti nuovi e rari della provincia di Terra d''Otranto	Journ Econ Biol 4:50-51
+23848	Dohrn	1859	Beitrag zur Kenntnis Europäischer Forficulinen	Stettiner Entomologische Zeitung 20:105-107
+23867	Finot	1887	Nouvelle espece francaise d''Orthopteres. Description de Forficula lesnei	Bull Soc Entomol France 7:189-190
+23868	Finot	1893	Quatre especes nouvelles d''Orthopteres	Bull Soc Entomol France 62:28-30
+23873	Burr	1906	Dermapteros de la Guinea espanola	Mem R Soc Esp Hist Nat 1:293-295
+23874	Burr	1907	Dermaptera	Sjöstedts Kilimanjaro-Meru Expedition No 17 Uppsala 17:12 pp
+23876	Burr	1913	Zoological results of the Abor Expedition, 1911-1912. X. Dermaptera	Records of the Indian Museum (Rec. Ind. Mus. ) 8(2):135-147
+23900	Chopard	1937	Les Dermapteres et Orthopteres de Madere	Rev franc Entomol Paris 4:219-239
+23901	Chopard	1942	Insectes orthopteroides (Blattidae, Mantidae, Gryllidae, Phasmidae, Dermaptera) recoltes dans les iles atlantiques	Soc Sci Fenn Comm Biol 8(4):1-13
+23906	Bolivar	1899	Anataelia, genero nuevo de forficulido de las Islas Canarias	Actas Soc Esp Hist Nat 8:97-99
+23909	de Bormans	1883	Six forficulaires nouveaux de Sumatra	Notes from the Leyden Museum 6:183-196
+23936	Brulle	1838	Orthopteres	Histoire naturelle des Iles Canaries 2(2):74-78
+23950	Baijal & S Singh	1954	Entomological survey of the Himalayas. Part III. On a collection of Dermaptera	Agra Univ J Res (Sci) 3:455-462
+23968	Bharadwaj & Kapoor	1967	Some South American Dermaptera	Bull Entomol 8(1):67-69
+23973	Bolivar	1893	Viaje de M. Ch. Alluaud á las islas Canarias	Actas Soc Esp Hist Nat 22:45-53
+23974	Bolivar	1893	Liste des Orthopteres recueillis en Syrie par le Dr. Theod. Barrois	Revue Biologique du Nord de la France 5:476-489
+23977	Srivastava	1974	On a New Species of the Genus Diplatys Serville, 1831 (Dermaptera, Diplatyidae) from India	Ceylon J Sci (Biol Sci) 11(1):9-11
+23978	Srivastava	1974	Notes on the genus Aborolabis Srivastava (Ins Dermaptera, Carcinophoridae) with descriptions of a new species	Journal of the Zoological Society of India (J. Zool. Soc. India) 26(1-2):57-61
+23979	Srivastava	1975	On a new species of Dermaptera from Ceylon	EOS Revista Española de Entomologia 49:281-284
+23980	Srivastava & Saha	1975	Notes on a Collection of Dermaptera from Darjeeling Distr. (India) with the Description of a New Species	Ceylon J Sci (Bio Sci) 11(2):59-69
+23981	Srivastava	1976	Studies on the Dermaptera of the Philippines	Pacific Insects (Pacif. Insects. ) 17(1):99-138
+23982	Srivastava	1977	Indian species of Euborellia and Liparura (Dermaptera) with descriptions of six new species	ORIENTAL INSECTS 11(2):181-194
+23983	Srivastava	1978	On a new species of the genus Irdex Burr (Dermaptera, Labiidae) from New Guinea	Annali del Museo Civico di Storia Naturale di Genova 82:136-140
+23984	Srivastava	1978	On a new species of the genus Isolabis Verhoeff (Dermaptera, Brachylabinae) from Burma with a key to oriental species	Annali del Museo Civico di Storia Naturale di Genova 82:323-328
+23985	Srivastava	1979	A new species of Cranopygia (Dermaptera, Pygidicranidae) from India	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 115:73-76
+23986	Stal	1855	Entomologiska Notiser. Forficulariae fran Cafferlandet	Oefv kongl Vet Acad Foerh 12:347-355
+23989	Steinmann	1974	Vandex fantasticus sp. n. (Dermaptera: Labiidae) from Ghana	Acta zool hung 20:425-428
+23990	Steinmann	1974	Blandex africanus sp.n. from South Africa (Dermaptera, Pygidicranidae)	ANNALES HISTORICO-NATURALES MUSEI NATIONALIS HUNGARICI 66:149-150
+23991	Steinmann	1974	A revision of the Dermaptera in the "A. Koenig" Museum, Bonn	Folia entomologica Hungarica 27:187-204
+23992	Steinmann	1975	Brindleiana atlas gen. et sp. N. from SE Asia and Taxonomical Notes on Allodahlinae (Dermaptera, Forficulidae)	ANNALES HISTORICO-NATURALES MUSEI NATIONALIS HUNGARICI 67:71-76
+23997	Steinmann	1977	Apachyus baloghi sp.n. (Dermaptera, Apachyidae) from Brazzaville-Congo	Opusc zool Budapest 13:79-82
+23999	Steinmann	1979	A new species of earwig (Dermaptera, Labiidae) from Venezuela	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 115:9-10
+24004	Taglianti	1974	Studi sui Dermatteri. 2. Una nuova Forficula del Medio Oriente	Fragmenta Entomologica (Fragm. Entomol. ) 10(1):53-60
+24005	Tillyard	1926	Dermaptera	Insects of Australia and New Zealand 107-112
+24007	Wenbao	1985	A new species of the genus Diplatys from Zhejiang (Dermaptera, Pygidicranidae)	Entomotaxonomia 7(1):49-50
+24008	Westwood	1837	Forficule	Magasin de Zoologie 7:178
+24009	White, A	1846	Zoology of voyage of H.M.S. Erebus under the command of Cap. Sir James C. Ross during the years 1839 to 1843	
+24032	Sakai, S	1973	VII. Forficulidae	Dermapterorum Catalogus Praeliminaris 357 pp
+24035	Scudder	1869	Notes on the Orthoptera collected by Prof. James Orton on either side of the Andes of Equatorial South America	Proceedings of the Boston Society of Natural History 12:330-345
+24036	Scudder	1876	A Century of Orthoptera. Decade V. Forficulariae (North America)	Proceedings of the Boston Society of Natural History 18:251-257
+24037	Scudder	1876	A Century of Orthoptera. Decade VI. Forficulariae (North America)	Proceedings of the Boston Society of Natural History 18:257-264
+24038	Scudder	1876	Description of three species of Labia from the Southern United States	Proceedings of the Boston Society of Natural History 18:265-268
+24039	Scudder	1893	The Orthoptera of the Galapagos Islands	Bull Mus Comp Zool Harvard 25:1-25
+24042	Shiraki	1907	Neue Blattiden und Forficuliden Japans	Trans Sapporo nat Hist Soc 2:103-111
+24046	Srivastava	1969	On a new species of Dermaptera from India	Entomologist's Record 81:205-208
+24047	Srivastava	1970	On a new species of the Genus Epilabis Burr, 1915  (Dermaptera) from India	Ceylon J Sci (Bio Sci) 8(2):46-48
+24048	Srivastava	1969	Notes on a Collection of Dermaptera from India	EOS Revista Española de Entomologia 45:319-333
+24050	Srivastava	1972	Notes on a collection of Dermaptera from N.E.F.A. India	Records of the Zoological Survey of India (Rec. zool. Surv. India) 66(1-4):129-142
+24051	Rehn, JAG	1921	Studies in Costa Rica Dermaptera and Orthoptera	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 47:307-318
+24052	Rehn, JAG	1933	Wissenschaftliche Ergebnisse der schwedischen entomologischen Reisen des Herrn Dr. A. Roman in Amazonas 1914-1915, und 1923-1924	Arkiv för zoologi (Ark. Zool. ) 24A(11):1-79
+24054	Rehn, JAG & Hebard	1914	United States and Mexico records of species of the genus Doru (Dermaptera, Forficulidae)	Jl NY ent Soc 22:89-96
+24057	Rehn, JAG	1918	On Dermaptera and Orthoptera from south-eastern Brazil	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 44:181-222
+24059	Palisot de Beauvois	1817	Insectes recueillis en Afrique et en Amerique dans les royaumes d''Oware a Saint-Dominique et dans les Etats-Unis pendant les annees	 1781-1791 - Paris(267pp)
+24060	Philippi	1863	Verzeichnis der im Museum von Santiago befindlichen Chilenischen Orthopteren	Zeitschr Ges Nat 21:217-245
+24063	Popham	1983	New Malawian earwigs	Chanc Coll Zomba 1983:135-136
+24064	Ramamurthi & BV David	1973	A new Subgenus and Five New Species of Carcinophorinae (Dermaptera) from India	Zoologischer Anzeiger (Zool. Anz. ) 190:434-442
+24067	Rehn, JAG	1903	Notes on West Indian Orthoptera, with a list of the species known from the island of Puerto Rico	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 29:129-136
+24068	Rehn, JAG	1903	On two earwigs of the genus Labia from Costa Rica	Entomological News 14:292-293
+24070	Rehn, JAG	1916	The Stanford Expedition to Brazil, 1911, J.C. Branner Director. 1. Dermaptera and Orthoptera	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 42:215-308
+24071	Moreira	1931	Contribucao para o conhecimento dos insetos Dermapteros do Brasil	Rev Ent Sao Paulo 1:257-265
+24072	Moreira	1931	Über einige Dermaptera von Südamerika aus der Sammlung des Deutschen Entomologischen Instituts, Dahlem	Konowia 10(3):167-170
+24073	Moreira	1932	Dermapteros da colleccao do Museu Paulista	Revista de Entomologia (Rev. Entomol) 2:277-289
+24074	Nishikawa	1970	On the Genus Forficula of Japan including the Ryukyus (Dermaptera, Forficulidae)	Kontyu 38(1):75-83
+24076	Menozzi	1933	Descrizione di due nuove specie di Dermatteri di Sumatra	Misc Zool Sum 77:1-5
+24077	Moreira	1930	Forficulideos do Brasil	Boletimo Instituto Biologico de Defesa Agricola Rio de Janeiro 7:1-34
+24078	Kapoor	1967	Descriptions of two new species of Dermaptera from India	ORIENTAL INSECTS 1:55-59
+24079	Kapoor	1967	Catalogue on the Indian Dermaptera	Agra Univ J Res (Sci) 16(1):1-42
+24081	Kapoor	1974	Genitalata mahajani gen. et sp . n. from Himachal Pradesh, India (Dermaptera, Chelisochidae)	Zoological Journal of the Linnean Society (Zool. J. Linn. Soc. ) 55:83-86
+24083	Linnaeus	1758	Systema Naturae (Holmiae)	 10(1):823 pp
+24087	Machado	1953	Contribucao de una nova especie (Dermaptera, Labiidae)	Dusenia 4:243-236
+24090	Costa, A.	1881	Relazione di un viaggio nelle Calabrie per richerche zoologiche fatto nella state del 1876	Atti Della R. Accademia Delle Scienze Fisiche E Matematiche 9(6):1-63
+24091	Machado	1956	Contribucao ao conhecimento do genero "Pyragra" Serville, 1831 (Dermaptera, Pygidicranidae)	Revista Brasileira de Biologia 16:159-162
+24093	Machado	1967	Descricao de  "Doru cincinnatoi sp.n." (Dermaptera, Forficulidae)	Atas Soc Biol Rio de Janeiro 11(3):129-130
+24094	Maran	1965	Beitrag zur Kenntnis der Taxonomie und der Geographischen Verbreitung der Vertreter der Gattung Anechura Scudder (Dermaptera, Forficulidae)	Acta Entomologica Musei Nationalis Pragae 36:671-683
+24096	Martin, MM	1978	El genero Guanchia en las Islas Canarias (Dermaptera, Forficulidae)	Mus Ins Cienc nat (Zool) 1:7-28
+24098	Menozzi	1929	Diagnosi di cinque nuove specie di Dermatteri	Memorie della Societa Entomologica Italiana 8:8-18
+24100	Menozzi	1932	Contributo alla conoscenza dei Dermatteri del Brasile	Rev Ent 2:150-168
+24105	Hebard	1923	Dermaptera and Orthoptera from the state of Sinaloa, Mexico	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 48:157-196
+24106	Hebard	1929	Supplementary notes on Panamanian Dermaptera and Orthoptera	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 55:389-400
+24108	Hebard	1933	Notes on Panamanian Dermaptera and Orthoptera	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 59:103-108
+24110	Hincks	1947	A new species of earwig from Sierra Leone (Dermaptera)	Entomologist 80:201-203
+24111	Hincks	1948	Dermaptera collected in the Ivory Coast by MM Paulian and Delamare	Revue Française d' Entomologie (Revue Française d'Entomologie) 14:318-321
+24114	Hudson, L	1973	A Systematic Revision of the New Zealand Dermaptera	Jl R soc New Zeal 3(2):219-254
+24122	Duda & Malhotra	1970	On a new species of Diplatys Serville, 1831, from Kashmir [Eine neue Art von Diplatys Serville, 1931, aus Kaschmir]	Beiträge zur Entomologie, besonders in Bezug auf die schlesische Fauna (Beiträge zur Entomologie) 20:141-143
+24123	Eschscholz	1822	Entomograph	 1:1-128
+24130	Gangola	1968	Studies on the Dermaptera of Kumaon Hills. 2. Carcinophoridae and Labiduridae	Entomologist 101:52-59
+24131	Géné	1832	Descrizione di una nuova Forficula italiana	Annali delle Scienze del Regno Lombardo-Veneto 17-18
+24135	Gray	1832	Forficularia	Griffith The Animal Kingdom 15:181-184
+24136	Guerin-Meneville	1856	Insectos in Sagra, R. de la (ed.) Historia fisica, politica y natural de la Isla de Cuba	Ramon Historia Fisica y Natural de la Isla de Cuba IV:371 pp
+24139	Günther, K	1929	Die Dermapteren der deutschen Kaiserin Augusta-Fluss-Expedition 1912/13	Mitteilungen aus dem Zoologischen Museum in Berlin 15(1):55-83
+24140	Günther, KK	1932	Die Dermapteran der Sunda-Expedition Dr. Rensch 1927 nebst Bemerkungen über einige weitere malayische und papuanische Dermapteren und über die tiergeographischen Beziehungen der Dermapterenfauna von Insulinden	Sber Ges naturf Freunde Berl 3(8-10):471-491
+24141	Hebard	1917	Notes on Mexican Dermaptera	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 43(December):409-432
+24142	Burr	1912	Interesting Dermaptera in the Budapest Museum	Annls hist-nat Mus natn Hung 10:281-284
+24146	Burr	1914	Quelques Dermapteres de Madagascar	Revue suisse de zoologie 22(4):115-120
+24152	Caudell	1907	On some Forficulidae of the United States and West Indies	Journal of the New York Entomological Society (J. NY Ent. Soc. ) 15:166-170
+24154	Brindle	1973	Dermaptera from Venezuela. Part I. Ancistrogastrinae (Forficulidae)	Revista de la Facultad de Agronomia (Maracay) 7(1):47-54
+24155	Brindle	1973	Notes on Oriental Geracinae (Dermaptera, Labiidae)	Entomologist 106:137-143
+24156	Brindle	1973	Taxonomic notes on the genus Strongylopsalis Burr (Dermaptera, Labiidae)	Journal of Entomology 42(1):11-16
+24157	Brindle	1974	Dermaptera from Venezuela. Part II. Diplatyidae and Labiidae (Geracinae)	Revista de la Facultad de Agronomia (Maracay) 8(1):107-125
+24159	Brindle	1975	A review of the genus Tagalina Dohrn (Dermaptera, Pygidicranidae)	J Ent (B) 44(2):145-151
+24160	Brindle	1975	Dermaptera from Reunion, with the descriprion of a new genus and species of blind Dermaptera	Annales de la Societe entomologique de France NS 11(4):763-766
+24161	Brindle	1975	Dermaptera from Ceylon (Sri Lanka)	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 110:147-152
+24162	Brindle	1975	Dermaptera in: Mission entomologique du Musee Royal de l''Afrique Centrale aux Monts Uluguru, Tanzania	Revue de Zoologie Africaine 89:681-695
+24163	Brindle	1976	A new species of Spongovostox Burr (Dermaptera, Labiidae) from Nigeria	Entomologist's Record 88:53-55
+24164	Brindle	1976	The Dermaptera from the New Hebrides	Records of the South Australian Museum 17(13):221- 238
+24165	Brindle	1977	The Identity of Anisolabis kudagae Burr (Dermaptera, Carcinophoridae) and a Description of a New Species of Anisolabis from Sri Lanka	Entomologist's Record 89:143-147
+24168	Brulle	1832	Insects Bory de St Vincent J.B.G.M. Expedition Scientifique de Moree. Section des sciences physique Tome III. Botanique Pt.2	Bory de St Vincent J.B.G.M. Expedition Scientifique de Moree sect 2 IV:81-97
+24169	Brunner, L	1906	Report in the Orthoptera of Trinidad, West Indies	Jl NY ent Soc 14:135-165
+24174	Burr	1906	Note on the genus Neolobophora Scudder (Dermaptera)	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 42:112-114
+24176	Burr	1908	Sopre alcuni Dermatteri del Museo Civico di Genova	Bull Soc ent Ital 60:175-181
+24177	Burr	1908	Notes on the Forficularia. - X. A revision of the Nesogasterinae	Annals and Magazine of Natural History Series 8(Volume 1):42-47
+24179	Burr	1909	Notes on the Forficularia. - XVII. On new species, a new genus, and new synonymy	Annals and Magazine of Natural History Series 8(Volume 4):113-129
+24184	Borelli	1915	Dermatteri nouvi o poco noti del Messico	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 30(699):1-4
+24185	Borelli	1916	Di una nuova specie del genere Forficula Lin (F. abrutiana)	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 31(711):1-3
+24186	Borelli	1921	Di alcuni Dermatteri raccolti in Malesia dal Prof C F Baker	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 35(736):1-8
+24187	Borelli	1923	Dermatteri delle Isole Fillipine	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 38(13):1-20
+24188	Borelli	1924	Dermapteres de l''Ile Buru	Hortus Botanicus Bogoriensis, Java (Treubia) (Treubia) 9 oder 5:331-339
+24190	Borelli	1925	Nuova specie australiana di Dermatteri	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 40(36):1-3
+24191	Borelli	1926	Dermatteri nuovi o poco noti della Malesia	Res biol 1(1):1-11
+24192	Borelli	1931	Nouveau genre et nouvelle espece de Dermapteres de Madagascar	Bull Mus natn Hist nat Paris  (2)(3):492-495
+24193	Borelli	1932	Dermapteres de la Presqu''ile Malaise	Bulletin of the Raffles Museum 7:80-95
+24195	Borelli	1932	Dermaptera of Madagascar	Soc Natur Luxemb Ges Monatsber 26:56-58
+24196	Borelli	1932	Dermapteres du Mont Kinabalu	J fed Malay Mus 17:191-202
+24197	Borelli	1932	Dermapteres nouveaux du Museum zoologique de Hamburg	Konowia 11:85-97
+24198	Borg	1904	Forficuliden aus Kamerun. Beiträge zur Kenntnis der Insektenfauna von Kamerun	Arkiv für Zoologi 1:563-580
+24199	de Bormans	1880	Etude sur quelques forficulides exotiques du Musee Royal d''Histoire Naturelle de Bruxelles	Compt Rend Soc ent Belg 23:68-74
+24200	Brindle	1966	Notes on the Dermaptera in the Hamburg Museum	Entomologische Mitteilungen aus dem Zoologischen Staatsinstitut und Zoologischen Museum Hamburg (Entomol. Mitt. zool. Mus. Hamburg) 3(56):127-141
+24203	Brindle	1969	A new species of Brachylabis Dohrn (Dermaptera, Carcinophoridae) from Malaysia	Entomologist 102:197-200
+24206	Brindle	1969	A new species of Pseudovostox Borelli (Dermaptera, Labiidae) from Angola	Opuscula Entomologica (Opusc. Ent. ) 34:145-150
+24207	Brindle	1970	A preliminary revision of the Genus Skalistes Burr (Dermaptera, Forficulidae)	Entomologist 103:217-228
+24209	Brindle	1971	A revision of the Labiidae (Dermaptera) of the neotropical and nearctic regions. II. Geracinae and Labiinae	Journal of Natural History (J. Nat. Hist. ) 5:155-182
+24211	Lucas, HF	1847	Forficesila annulipes, sp. n	Annales de la Societe entomologique de France 5(Series 2):84-85
+24213	Pallas	1773	Reise durch verschiedene Provinzen des russischen Reiches in den Jahren 1768-74	St. Petersburg(2. Anhang):p.30
+24215	Audinet-Serville	1831	Revue Méthodique des Insectes de l''ordre des Orthoptères	Annales des Sciences Naturelles (Ann. Sci. Nat. ) 22(86):28-65, 134-167, 262-292
+24219	Westwood	1881	On the Earwig	Annales des Sciences Naturelles (Ann. Sci. Nat. ) 1
+24220	Yersin, A	1860	Note sur quelques Orthoptères nouveaux ou peu connus	Annales de la Societe entomologique de France (3)(8)
+24229	Bey-Bienko	1965	Orthopteroid insects of the orders Blattoptera and Dermaptera from Komodo and adjacent islands in Indonesia Dermaptera of Komodo	Zoologichesky Zhurnal 44:1646-1649
+24230	Bey-Bienko	1970	New or interesting earwigs (Dermaptera) from tropical and subtropical Asia	Zoologichesky Zhurnal 69:1810-1820
+24232	Bharadwaj & Kapoor	1967	Dermaptera in the National Pusa Collection	Bull Entomol 8(2):1-7
+24236	Borelli	1904	Viaggio del Dr. Alfredo Borelli nella Republica del''Equador e regionivicine	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 19(475):1-6
+24237	Borelli	1905	Forficole raccolte nel Paraguay dal Sig A Bertoni de Windelried	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 20(516):1-12
+24238	Borelli	1906	Di alcune forficole dell''isola di Madeira	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 21(520):1-4
+24239	Borelli	1906	Forficole di Costa Rica	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 21(531):1-19
+24240	Borelli	1906	Di una nuova specie di forficola di Madagascar	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 21(533):1-3
+24241	Borelli	1906	Spedizione al Ruwenzori di SAR Luigi Amedeo di Savoia Duca degli Abruzzi. Part 5. Nuove specie di forficole	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 21(541):1-5
+24242	Borelli	1907	Nuova Forficule dell''Ecuador	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 22(552):1-3
+24243	Borelli	1907	Spedizione al Ruwenzori di SAR Luigi Amedeo di Savoia Duca degli Abruzzi. Part 17. Nouve specie di Forficole	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 22(558):1-6
+24244	Borelli	1907	Spedizione al Ruwenzori di SAR Luigi Amedeo di Savoia Duca degli Abruzzi. Part 27. Nouva specie di Forficole	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 22(572):1-2
+24245	Borelli	1907	Di una nuova specie di Forficola del Sudan	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 22(573):1-2
+24246	Borelli	1907	Dermatteri dell''Africa Occidentale	Annali del Museo Civico di Storia Naturale di Genova 3:1-46
+24248	Borelli	1907	Due nuove specie di Forficole di Costarica	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 22(574):1-3
+24249	Borelli	1908	Materiali per la conoscenza della fauna Eritrea	Bollettino della Societa Entomologica Italiana 39:3-9
+24250	Borelli	1908	Nuovo genera di Forficole di Costa Rica	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 23(594):1-4
+24252	de Bormans	1884	Six Forficulaires nouveaux de Sumatra	Notes from the Leyden Museum 6:183-
+24253	Burmeister	1838		Handbuch der Entomologie, Reimer, Berlin 2 2(1)
+24255	Burr	1900	Notes on the Forficularia. - V. Descriptions of New Species and New Genus	Annals and Magazine of Natural History Series 7(Volume 6):79-88
+24256	Burr	1900	Notes on the Forficularia. - VI. On a collection of Forficularia from Sarawak	Annals and Magazine of Natural History Series 7(Volume 6):89-101
+24257	Burr	1900	Forficules exotiques du Musée royal d''Histoire Naturelle de Bruxelles	Annales de la Societe entomologique de Belgique 44:47-54
+24258	Burr	1905	Descriptions of five new Dermaptera	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 184:84-86
+24259	Burr	1907	A Third Note on Earwigs (Dermaptera) in the Indian Museum, with Description of a New Species	Records of the Indian Museum (Rec. Ind. Mus. ) 1(Pt 3. No. 15):207-210
+24265	Dubrony	1879	Enumeration des Orthoptères des régiones Indienne et Austro-Malaise, rapportées par MM J Doria, O Beccari et LM d''Albertis	Annali del Museo Civico di Storia Naturale di Genova 14:348-383
+24266	Dufour	1820	Description de dix espèces nouvelles ou peu connues d''Insectes recueillis en Espagne	Ann génér des Sc Phys de Bruxelles 1820(6):307-317
+24267	Fabricius	1775	Systema Entomologicae, sistens insectorum classes, ordines, genera, species, adiectis synonymis, locis, descriptionibus, observationibus	 832 pp
+24268	Fabricius	1793	Entomologia systematica emendata et aucta	Hafniae 1792-94  Tom II(Orthoptera):519 pp
+24269	Fabricius	1781	Species Insectorum exhibentes eorum differentias specificas, synonyma auctorum, loca natalia, metamorphosin adiectis observationibus, descriptionibus	 552 pp
+24270	Fabricius	1787	Mantissa Insectorum sistens eorum species nuper detectas adiectis characteribus genericis, diffentiis specificis, emendationibus, observationibus	 Tom I:348 pp
+24273	de Geer	1773	Mémoires pour servir à l''Histoire des Insectes I. Orthoptères vol. 3	 696 pp
+24274	Gerstaecker	1873	Baron Karl von der Decken''s Reise in Ost-Afrika III. 2. Abth. Gliederthiere Insecta	
+24275	Gerstaecker	1883	Beitrag zur Kenntnis der Orthopteren-Fauna Guineas, nach den von T. Buchholz während den Jahren 1872 bis 1875 dasselbst gesammelten Arten	Mitth des naturw Ver Neuvorp u Rügen
+24276	Guerin-Méneville	1838	es war wirklich kein Titel angegeben!	Magasin de Zoologie 8(2):23
+24277	Haan	1842	Bijdragen tot de Kennis der Orthoptera	Verhandl over de natuurlijke Geschiedenis der Nederlandsche overzeesche Bezittingen 238-243
+24278	Krauss	1895	Beschreibung einer neuen Forficula aus Tunis, nebst Bemerkungen über das Vorkommen von Forficula lucasi, Dohrn	Entomologische Nachrichten (Entomologische Nachrichten ) 21:97-100
+24308	Bolivar	1897	Les Orthoptères de St. Joseph''s College, à Trichinopoly, sud de l''Inde	Annales de la Societe entomologique de France 66:282-316
+24309	de Bormans	1883	Étude sur quelques Forficulaires nouveaux ou peu connus, precédé d''un Tableau synoptique des genres de cette famille	Annales de la Societe entomologique de Belgique 27:59-90
+24338	Fieber	1853	Synopsis der europäischen Dermapteren	Lotos 3:252-258
+24340	Fischer von Waldheim	1846	Orthoptera Imperii Rossici	Mosquae 1-443
+24342	Géné	1832	Saggio di una Monographia del Forficula indigene	Annali delle Scienze del Regno Lombardo-Veneto 2:215-230
+24344	Kittary	1849	Orthoptères observés dans les steppes des Kirgises	Bull Soc Nat Moscou 22:437-442
+24350	Semenov	1902	Dermaptera nova aut minus cognita, I	Rev Russe d'Ent 2:99-102
+24351	Semenov	1908	Dermaptera nova aut minus cognita, III	Rev Russe d'Ent 8:159-173
+24352	Semenov Tian-Shansky & Bey-Bienko	1934	Dermaptères de la Mongolie	Bulletin de la Société Entomologique de France (Bull. Soc. Entomol. Fr. ) 39:55-58
+24359	Brindle	1972	A new species of Diplatys Serville (Dermaptera, Diplatyidae) from Costa Rica	Entomologist 105:281-283
+24360	Brindle	1973	Dermaptera in the Hamburg Museum	Entomologische Mitteilungen aus dem Zoologischen Museum Hamburg 4(82):395-402
+24363	Srivastava	1976	Studies on the Dermaptera of Philippines	EOS Revista Española de Entomologia 52:255-307
+24375	Steinmann	1984	The Dermaptera material in the Museo Civico di Storia Naturale di Verona (Italy)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 30(1-2):189-204
+24389	Borelli	1909	Nuove Forficule del Kashmir	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 24(603):1-4
+24390	Borelli	1921	Dermaptères nouveaux du Museum de Paris	Bulletin du Muséum national d'Histoire naturelle Paris 77-83:153-161
+24391	Borelli	1927	Dermatteri raccolti nell''Estremo-Oriente dal Prof. L. Silvestri	Bolletino del Labratorio di Zoologia Generale e Agraria della R. Scuola superiore d‘Agricoltura in Portici 20:60-78
+24421	Azam	1906	Description d''une espèce et d''une variété de Forficules de Russie	Bull Soc Ent France 1906:80-82
+24427	Brindle	1971	New Neotropical species of Dermaptera	Entomologist 104:249-257
+24428	Brindle	1972	Dermaptera	Insects of Miconesia 5(2):97-171
+24434	Steinmann	1982	Revision of the genus Timomenus Burr, 1907 (Dermaptera: Forficulidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 28(3-4):361-378
+24507	Srivastava	1977	Notes on the genus Homotages Burr (Dermaptera: Labiidae) with the description of a new species from India	CEYLON JOURNAL OF SCIENCE BIOLOGICAL SCIENCES 12(2):109-114
+24516	Srivastava	1978	On a new genus and three new species of Dermaptera from India with notes on Epilabis Burr	Bulletin of the Zoological Survey of India (Bull. zool. Surv. India) 1(1):71-76
+24522	Steinmann	1983	On Indian and Nepalese Dermaptera from the Museum d''Histoire Naturelle at Geneve	Revue suisse de zoologie 90(3):543-558
+24523	Kapoor, Malla & PJ Shah	1978	On a collection of earwigs (Dermaptera) from Nepal	JOURNAL OF NATURAL HISTORY MUSEUM TRIBHUVAN UNIVERSITY 2(1-4):57-66
+24524	Srivastava	1979	On a new species of genus Euborellia Burr (Dermaptera: Carcinophoridae) from Philippines	Bulletin of the Zoological Survey of India (Bull. zool. Surv. India) 2(1):49-51
+24526	Srivastava	1979	On a new species of the genus Labia Leach (Dermaptera: Labiidae) from Borneo	Doriana 5(233):1-6
+24527	Srivastava	1981	On a new species of the genus Nannisolabis Burr (Insecta: Dermaptera) from Burma with a key to Oriental species	Bulletin of the Zoological Survey of India (Bull. zool. Surv. India) 4(2):147-150
+24528	Steinmann	1979	On some Dermaptera preserved in the Zoological Museum of the University of Florence	Redia Firenze 62:193-228
+24538	Srivastava	1979	On two new species of the genus Paradohrnia Shiraki (Dermaptera: Eudohrniinae) from India	CEYLON JOURNAL OF SCIENCE BIOLOGICAL SCIENCES 13(1-2):23-27
+24551	Borelli	1908	Descrizione di una nuova Forficole di Madeira	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 23(582):1-3
+24570	Srivastava	1987	Notes on a collection of Dermaptera present in Zoologisk Museum, Copenhagen	Bulletin of the Zoological Survey of India (Bull. zool. Surv. India) 8(1-3):111-125
+24697	Stal	1860	Fregatten Eugenies Resa omkring Jorden. Insekten Orthoptera	
+24723	Shiraki	1905	Neue Forficuliden Japans	Trans Sapporo Nat Hist Soc I Part 1:91-96
+24742	Zhang, JF	1994	Discovery of primitive fossil earwigs (Insecta) from Late Jurassic of Laiyang, Shandong and its significance	ACTA PALAEONTOLOGICA SINICA 33((2) Mar):229-245
+24797	Vishnyakova	1980	Earwigs (Insecta, Forficulida) from the Upper Jurassic of the Karatau Range	PALEONTOLOGICHESKII ZHURNAL 1980(1):78-94
+24809	Srivastava	1975	Notes on the Indian species of the genus Irdex Burr (Dermaptera: Labiidae)	Tiwari KK and Srivastava CB [Eds] Dr BS Chauhan commemoration volume 1975 Zoological Society of India Vani Vihar Orissa India i-viii:Chapter pagination 267-278
+24835	Steinmann	1987	Dermaptera of Venezuela	Decu V Orghidan T Dancau D Bordon C Linares O Urbani F Tronchoni J and Bosque C [Eds] Fauna hipogea y hemiedafica de Venezuela y de otros paises de America del Sur Editura Academiei Republicii Socialiste Romania Bucarest 1987:Chapter pagination 165-172
+24908	Steinmann	1980	A revision of the species belonging in Forcipula Bolivar, 1897 (Dermaptera: Labiduridae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 26(1-3):229-252
+24910	Steinmann	1986	A new generic classification for the Diplatys species-groups (Dermaptera: Pygidicranidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 32(1-2):169-179
+24923	Moon & CW Kim	1985	A review of the Far East Palaearctic genus Challia Burr, including a new species Challia kyusani sp. nov. (Challinae: Dermaptera)	Korean Journal of Entomology (Korean J. Ent. ) 15(1):55-60
+24924	Steinmann	1981	A revision of the Indo-Australian Gonolabis Burr, 1900 species (Dermaptera: Carcinophoridae)	Folia entomologica Hungarica 34(2):187-195
+24925	Steinmann	1984	A revision of the Indo-Australian species of the genus Auchenomus Karsch, 1886 (Dermaptera: Labiidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 30(3-4):511-521
+24926	Steinmann	1982	A revision of the genus Ancistrogaster Stal, 1855 (Dermaptera, Forficulidae)	ANNALES HISTORICO-NATURALES MUSEI NATIONALIS HUNGARICI 74:75-84
+24929	Steinmann	1986	A survey of Neotropical Strongylopsalinae (Dermaptera: Labiidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 32(3-4):361-376
+24930	Steinmann	1982	A survey of the Neotropical Prosparatta Burr species (Dermaptera: Labiidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 28(1-2):139-141
+24933	Steinmann	1979	A systematic survey of the species belonging in the genus Labidura Leach, 1815 (Dermaptera)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 25(3-4):415-423
+24955	Steinmann	1983	A contribution to the fauna of earwigs (Dermaptera) of Vietnam	Zoologichesky Zhurnal 62(11):1745-1748
+24961	Steinmann	1985	A revision of the genus Chaetolabia Brindle, 1972 (Dermaptera, Labiidae)	ANNALES HISTORICO-NATURALES MUSEI NATIONALIS HUNGARICI 77:121-126
+24962	Steinmann	1985	A revision of the genus Irdex Burr, 1911 (Dermaptera: Labiidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 31(1-3):245-265
+24978	Steinmann	1981	A study of the circumtropical Dermaptera material in the ''Instituut voor Taxonomische Zoologie'', Amsterdam	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 27(1-2):187-210
+24980	Stephens	1835	Illustrations of British Entomology	
+24997	Capra	1929	Risultatit zoologici della Missione inviata dalla R. Societa geographica italiana per l’esplorazone dell’oasi di Giarabub. (Ortotteri e Dermatteri)	Societa Veneziana di Scienze Naturali 53:122-159
+25000	Dubrony	1878	Essai sur le genre Chelidura	Annali del Museo Civico di Storia Naturale di Genova 12:433-450
+25001	Capra	1978	Nuova specie di Anisolabis (s.l.) del Mar Rosso (Dermaptera Carcinophoridae)	Annali del Museo Civico di Storia Naturale di Genova 5(228):1-6
+25002	Géné	1837	Descrizione di cinque nuove forficole d''Europa con alcune osservazioni intorno a varie specie giá conosciute di questo genere	Annali delle Scienze Regno Lombardo-Veneto 7:82-90
+25010	Srivastava	1981	Notes on Bormans syntypes of some species of Dermaptera (Insecta)	Annali del Museo Civico di Storia Naturale Giacomo Doria Genova 287-306
+25012	Srivastava	1982	Studies on some Bormans'' material of Dermaptera (Insecta)	Annali del Museo Civico di Storia Naturale Giacomo Doria Genova 97-107
+25033	Steinmann	1984	The African species-group of the genus Esphalmenus Burr, 1909 (Dermaptera: Pygidicranidae)	Folia entomologica Hungarica 45:209-213
+25034	Steinmann	1979	The Dermaptera in the PAN Zoologiczny Instytut, Warszawa	Folia entomologica Hungarica 32:149-175
+25035	Steinmann	1985	The Dermaptera material of the Zoological Institute and Museum, Yerevan	Folia entomologica Hungarica 46(1):165-170
+25036	Steinmann	1979	A revision of the Indo-Australian species of the genus Anisolabis Fieber, 1853	Reichenbachia 17(8):57-69
+25038	Steinmann	1978	Zoogeographical dispersity of Carcinophoridae (Dermaptera)	Deutsche entomologische Zeitschrift  (Dtsch. ent. Z. ) 25:173-189
+25041	Srivastava	1977	On two new species of Dermaptera from India	Deutsche Entomologische Zeitschrift NF 24:289-292
+25042	Steinmann	1978	A revision of the African Gonolabis Burr, 1900, species (Dermaptera: Carcinophoridae)	Folia entomologica Hungarica 31:189-197
+25043	Steinmann	1978	A revision of the genus Ctenisolabis Verhoeff, 1902 (Dermaptera: Carcinophoridae)	Folia entomologica Hungarica 31(2):213-217
+25046	Steinmann	1978	Dermaptera from Tunisia with a checklist of the North African species	Folia entomologica Hungarica 31:181-187
+25050	Steinmann	1975	A survey of the neotropical Vostox Burr species (Dermaptera: Labiidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 21(3-4):435-445
+25052	Steinmann	1974	A new generic classification of the species group of Diplatys Serville (Dermaptera: Pygidicranidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 20(1-2):187-205
+25053	Steinmann	1981	The survey of the Dermaptera material in the Staatliches Museum fur Tierkunde Dresden. Part 1. Catadermaptera	Reichenbachia 19(24):133-142
+25054	Steinmann	1983	The survey of the Dermaptera material in the Staatliches Museum für Tierkunde Dresden. Part 2: Eudermaptera	Reichenbachia 21(7):45-59
+25056	Audinet-Serville	1838[1839]		Histoire naturelle des insectes. Orthopteres, Librairie encylopédique de Roret, Paris i-xviii, 1-776
+25057	Ebner	1932	Eine neue Dermapteren Art aus Siebenbürgen (Rumänien)	Wiener entomologische Zeitung 49:16-17
+25059	Steinmann	1977	A new Diaperasticus Burr species from Sudan (Dermaptera: Forficulidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 23(3-4):415-420
+25060	Steinmann	1977	A survey of Palaearctic Anechurinae (Dermaptera: Forficulidae)	Acta zool hung 23:199-212
+25063	Scudder	1890	The fossil insects of North America, with note on some European species, Vol 2 Tertiary insects, New York 215, pl 16, fig 24	 2
+25069	Menozzi	1935	Contributo alla conoscenza dei Dermatteri del Congo Belga	Revue de Zoologie et de Botanique Africaine 27:15-32
+25070	Menozzi	1938	Mission scientifique de l‘Omo, 4, fasc. 34 (Orthoptera), 11 (Dermaptera):	 4(34):135-143
+25076	Burr	1909	Diagnoses preliminaires d‘insectes nouveaux receuilles dans le Congo belge par le Dr. Sheffield Neave	Annales de la Societe entomologique de Belgique 53:96
+25077	Burr	1904	aus Genera Insectorum und Hincks Eintrag ZMUC iii02 Aus Brindle 1973 Eintrag ZMUC Iii02	in Distant: Insecta transvaaliensia, 1: 97 1:97
+25078	Rehn, JAG	1933	Some Dermaptera from Angola, Northern Rhodesia and Belgian Congo, with a description of a new species of Karschiella	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 59:1-10
+25079	Menozzi	1937	Dermatteri dell‘Angola	Revue suisse de zoologie 44:443-454
+25080	Hincks	1957	The Earwigs of South Africa	South African Animal Life 4(Chapter 2):33-94
+25082	Menozzi	1928	Dermapteres du Congo belge	Revue de Zoologie et de Botanique Africaine 16:29-32
+25083	Steinmann	1985	Some new Spongovostox Burr, 1911, and Marava Burr, 1911 taxa (Dermaptera, Labiidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 31(4):381-396
+25084	Steinmann	1988	Seven new Chaetospania Karsch species from the old world (Dermaptera: Labiidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 34:409-418
+25085	Borelli	1923	Dermapteres du Congo Belge	Revue de Zoologie Africaine 11(4):412-434
+25086	Hincks	1957	Dermaptera, in: Exploration Hydrobiologique du Lac Tanganika	Institute royal des Sciences naturelles Belgique 3(6):41-42
+25087	Burr	1912	Über einige neue und interessante Dermapteren aus dem Museum Berlin	Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin 1912:311-330
+25088	Dubrony	1879	Etudes de quelques Dermaptères exotiques	Anales de la Sociedad Espanola de Historia Natural 8:91-96
+25091	Hincks	1954	Additions to the Belgian Congo Dermaptera	Annales du Musee du Congo Belge Tervuren (Belgique) Sciences Zoologiques 1:387-389
+25094	Emlen & Nijout	2000	The development and evolution of exaggerated morphologies in insects	Annual Review of Entomology (Annu. Rev. Entomol. ) 45:661-708
+25096	Steinmann	1979	A survey of the Gonolabis Burr, 1900 species from South East Asia (Dermaptera: Carcinophoridae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 25(1-2):165-176
+25097	Hebard	1929	Notes on the Malayan and Philippine Dermaptera with description of new species	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 55:335-344
+25098	Mjöberg	1924	Results of Dr E Möbergs Swedish Scientific Expeditions to Australia 1910-1913. 36. Dermaptera	Arkiv för zoologi (Ark. Zool. ) 16(21):1-11
+25099	Brindle	1977	Dermaptera from Ceylon	Revue suisse de zoologie 84(2):453-461
+25102	Borelli	1907	Ortotteri raccolti de leonardo Fea nell‘Africa occidentale	Annali del Museo Civico di Storia Naturale di Genova Series 3; Volume 3:345-390
+25103	Hincks	1955	Mission GF de Witte en collaboration avec W Adam, A. Janssen, L. van Meel et R. Verheven (1946-1949).  Dermaptera	Parc national de L‘Upemba 35(1):3-15
+25106	Hincks	1951	The Dermaptera of the Belgian Congo	Annales du Musee du Congo Belge Tervuren (Belgique) Sciences Zoologiques Series 8; Volume 8:1-50
+25112	Sharp	1895	The Cambridge Natural History. Chapter VIII Orthoptera	 202-219
+25113	Nishikawa	1973	Three new species of the genus Diplatys (Dermaptera: Diplatyidae)	Bulletin of the Japan Entomological Academy 7(2):34-37
+25118	Nishikawa	1969	Notes on the Carcinophorinae of Japan and the Ryukyus (Dermaptera: Carcinophoridae)	Kontyu 37(1):41-55
+25119	Brindle	1982	Three new species of African Diplatys Serville (Dermaptera: Diplatyidae)	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 118:163-165
+25121	Brindle	1968	The Dermaptera of the Canary Islands	Arkiv för zoologi (Ark. Zool. ) 22(3):139-148
+25122	Brindle	1968	Dermaptera	Parc national de la Garamba - Mission H de Saeger 53(2):17-32
+25130	Heller	1907	Zwei neue Forficuliden von den Kanarischen Inseln (Orth.)	Deutsche entomologische Zeitschrift  (Dtsch. ent. Z. ) 1907:525-526
+25131	Brindle	1975	Mission entomologique du Musee Royal de l‘Afrique Central aux Monts Uluguru, Tanzanie  2. Dermaptera	Revue de Zoologie Africaine 89(3):681-695
+25136	Hebard	1924	Studies in the Dermaptera and Orthoptera of Equador	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philadelphia) 76:109-248
+25138	Brunner von Wattenwyl	1882	Prodomus der europäischen Orthopteren	 466 pp
+25139	Desmarest	1820	Faune francaise ou Histoire naturelle, generale et particuliere des Animaux qui se trouve en France	
+25145	Brindle	1981	Two new genera of neotropical earwigs (Dermaptera, Carcinophoridae)	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 117(Jan-Apr):77-82
+25148	Boeseman	1952	Diplatys sumatranus, a new earwig from Sumatra	Tidsskrift for Plateavl 31(24):259-263
+25155	Caudell	1907	On some earwigs (Forficulidae) collected in Guatemala by Messrs Schwarz and Barber	Proceedings of the United States National Museum (Proc. U. S. Nat. Mus. ) 33:169-176
+25156	Caudell	1913	Notes on the Nearctic orthopterous insects. I. Nonsaltatorial forms	Proceedings of the United States National Museum (Proc. U. S. Nat. Mus. ) 44:595-614
+25159	Caudell	1927	Report on the Orthopteroid insects collected by the Fiji-New Zealand Expedition from the University of Iowa. Stud. Nat. Hist. Iowa Univ.	Proceedings of the United States National Museum (Proc. U. S. Nat. Mus. ) 12(3):1-22
+25161	Brindle	1975	Ergebnisse der Bhutan Expedition 1972 des Naturhistorischen Museums in Basel. Dermaptera	Entomologica Basiliensia 1:1-59
+25162	Brindle	1976	Dermaptera from the Seychelles	Revue de Zoologie Africaine 90(2):435-445
+25163	Brindle	1977	Dermaptera of Venezuela. Pygidicranidae and Labiidae (except Geracinae) Part 3.	REVISTA DE LA FACULTAD DE AGRONOMIA 9(3):109-131
+25164	Brindle	1968	Contibution a la Conaissance de la Faune entomologique de la Cote-d‘Ivoire. (J. Decelle, 1961-1964). II Dermaptera	Annales du Musee Royal de l'Afrique Centrale Tervuren, Series no 8, Sciences Zoologiques 165:11-20
+25165	Brindle	1968	A new Brazilian species of the genus Brachylabis Dohrn (Dermaptera, Carcinophoridae)	Papéis Avulsos de Zoologia 22(4):31-34
+25166	Brindle	1970	A new species of the Genus Argusina Hebard (Dermaptera: Labiidae) from Papua	Entomologist(June):147-150
+25168	Brindle	1969	A new species of Vandex Burr (Dermaptera: Labiidae) from Africa	Entomologist 102(August):190-193
+25170	Brindle	1970	New African Species of the genus Pseudovostox Borelli (Dermaptera Labiidae)	Revue de Zoologie et de Botanique Africaine 81(3-4):255-270
+25172	Brindle	1970	Dermaptera from Gabon	Revue Biologica Gabonica 6(1):11-25
+25173	Brindle	1971	Two new species of Dermaptera from Brazil	Papéis Avulsos de Zoologia 23(20):165-171
+25174	Brindle	1971	The Dermaptera of Ceylon Report No. 10, Lund University Ceylon Expedition in 1962	Entomologica Scandinavica Supplement 1:208-236
+25176	Brindle	1972	Description of a new species of Dermaptera from Solomon Islands	Entomologist's Record 84:281-283
+25177	Brindle	1974	The Dermaptera of Nepal	Senckenbergiana biologica 55(1/3):141-164
+25180	Brindle	1966	The Dermaptera of Madagascar	Transactions of the Royal Entomological Society of London (Trans. R. Entomol. Soc. Lond. ) 118(7):221-259
+25181	Brindle	1968	Contribution a la faune du Congo (Brazzaville) Mission A Villiers and A Descarpentrie. LXXIII Dermaptera	Bulettin de l‘IFAN, Series A 30(2):772-779
+25182	Hincks	1960	Notes on Dermaptera.- IV. Description of new genera and species	Proceedings of the Royal entomological Society of London (B) (Proc. R. ent. Soc. Lond. (B)) 29(11-12):155-159
+25183	Hincks	1961	Two new species of Diplatys Serville (Dermaptera: Pygidicranidae) from West Africa, with a note on a recently described Carcinophorine (Dermaptera: Labiduridae)	Bulettin de l‘IFAN, Series A 23(1):25-29
+25185	Johnsen	1974	Contributions to the knowledge of Dermaptera, Orthoptera and Dictyoptera of the Canary Islands	Natura Jutlandica 17:27-83
+25191	Krauss	1904	Beitrag zur Orthopteren-Fauna Montenegro‘s mit Beschreibung einer neuen Forficula Art	Sitzungsberichte der königlich böhmischen Gesellschaft der Wissenschaften. II Classe
+25199	Eversmann	1859	Orthoptera Volgo-Uralensis	Bulletin de la Société imperiale des Naturalistes 121-146
+25207	Hincks	1950	Supplementary notes on Mauritian Earwigs (Dermaptera)	Annals and Magazine of Natural History Series 12(Volume 3):353-357
+25208	Hincks	1952	The Dermaptera of the New Hebrides	Annals and Magazine of Natural History Series 12(Volume 5):200-204
+25209	Hincks	1952	Notes on some South African Dermaptera	Durban Museum Novitates 4(2):25-29
+25210	Hincks	1953	Liste preliminaire des Dermapteres de Madagascar	Mémoires de l‘institut scientifique de Madagascar. Série E 4:361-382
+25211	Hincks	1954	Report from Professor T Gislen‘s expedition to Australia in 1951-1952. 8. Dermaptera	Lunds Universitets Årsskrift, NF 50(4):1-10
+25212	Hincks	1954	Notes on Dermaptera	Proceedings of the Royal entomological Society of London (B) (Proc. R. ent. Soc. Lond. (B)) 23(9-10):159-163
+25213	Hincks	1954	La reserve naturelle integrale du Mont Nimba. Dermaptera	Mémoires de l‘Institut francais d‘Afrique noir 40(2):101-121
+25215	Hebard	1920	Expedition of the California Academy of Sciences to the Galapagos Islands, 1905-1906	Proceedings of the California Academy of Sciences 2(17):311-346
+25216	Hebard	1922	Dermaptera and Orthoptera of Hawaii	Occasional papers of the Bernice Pauahi Bishop Museum of the Polynesian ethnology and Natural History 7(14):305-375
+25220	Hincks	1938	Die Arthropodenfauna von Madeira nach den Ergebnissen der Reise von Prof. Dr. O. Lundblad Juli - August 1935	Arkiv för zoologi (Ark. Zool. ) 30B(12):1-8
+25221	Hincks	1954	The Dermaptera of Sumba and Flores	Verhandlungen der Naturforschenden Gesellschaft in Basel 65(1):9-23
+25223	Machado	1957	Da presenca no Brasil do Genero Dicrana Burr, 1915 com a descricao de uma especie nova	Boletim do Museu nacional 166:1-7
+25226	Giles	1973	Dermaptera from the Kermadec islands, with the description of a new species of Labia Leach (Labiidae)	The New Zealand Entomologist 5(3 & 4):304-312
+25227	Giles	1958	Dermaptera from the Three Kings Islands, New Zealand, with the description of new species of Brachylabis Dohrn (Labiduridae)	RECORDS OF THE AUCKLAND INSTITUTE AND MUSEUM 5(1 & 2):43-48
+25229	Günther, K	1933	Die Dermaptera der Deutschen Limnologischen Sunda-Expedition	Archiv für Hydrobiologie 4:504-517
+25230	Günther, K	1933	Die Dermaptera der Deutschen Limnologischen Sunda-Expedition	Verhandlungen der Naturforschenden Gesellschaft in Basel 44(2):151-164
+25231	Günther, K	1934	Phasmadoiden und Forficuliden von Java, den kleinen Sundinseln und Nordaustralien	Revue suisse de zoologie 41(34):525-543
+25233	de Fernandes	1973	Des Dermapteres loges dans des galles de Quercus sp (avec la description d‘une espece nouvelle)	Arquivos do Museu Bocage 4(7 oder (2)):187-195
+25234	Hebard	1921	American Dermaptera of he Museum National d‘Histoire naturelle, Paris, France	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philadelphia) 337-354
+25250	Mjöberg	1904	Eine neue Forficulide Beschrieben	Ent Tidskr 25:131-132
+25251	Mjöberg	1913	Preliminary description of some new, Australian Gryllids and Forficulids	Entomologisk Tidskrift (Entomol. Tidskr. ) 34:26-34
+25253	Motschulsky	1863	Essai d‘un catalogue des insectes de l‘ile Ceylan	Bulletin de la Société imperiale des Naturalistes 36:1-8
+25258	Rehn, JAG & Hebard	1917	Studies in West Indian Earwigs (Dermaptera)	Bulletin of the American Museum of Natural History (Bull. Amer. Mus. Nat. Hist. ) 37:635-651
+25260	Rehn, JAG	1903	Studies in American Forficulidae	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philadelphia) 299-312
+25261	Rehn, JAG	1904	Studies in old world Forficulids or Earwigs, and Blattids or Cockroaches	Proceedings of the United States National Museum (Proc. U. S. Nat. Mus. ) 27:539-560
+25262	Rehn, JAG	1905	Notes on Exotic Forficulids or Earwigs, with descriptions of new species	Proceedings of the United States National Museum (Proc. U. S. Nat. Mus. ) 29:501-515
+25263	Srivastava	1983	On the high altitude Dermaptera of India	Proceedings of the Workshop of High Altitude Entomology and Wildlife Ecology of the zoological Survey of India 1983:105-135
+25264	Srivastava	1984	Notes on some Dermaptera present in the „Institut für Pflanzenschutzforschung Kleinmachow, Eberswalde-Finow, DDR“	Bulletin of the Zoological Survey of India (Bull. zool. Surv. India) 5(2-3):103 - 108
+25269	Semenov	1903	Dermatoptera nova aut minus cognita	(1):19-20
+25270	Shiraki	1928	Dermaptera aus dem Kaiserreich Japan	Insecta Matsumurana 3(1):1-25
+25272	Scudder	1875	Notes on Orthoptera from Northern Peru, collected by Prof James Orton	Proceedings of the Boston Society of Natural History 17:257-286
+25274	Ramamurthi	1973	Dermaptera from Thailand, with description of three new species  (Insecta, Dermaptera)	Steenstrupia 3:11-16
+25288	Srivastava	1982	Notes on some Bormans‘ material of Dermaptera (Insecta)	Annali del Museo Civico di Storia Naturale di Genova 84:97-107
+25292	Srivastava	1983	Notes on some Dermaptera (Insecta) with description of a new species from India	Entomologica Basiliensia 8:39-42
+25293	Srivastava	1983	Studies on some Dermaptera present in the American Museum of Natural History, New York	Records of the Zoological Survey of India (Rec. zool. Surv. India) 80:495-505
+25294	Srivastava	1983	On a new species of the genus Irdex Burr (Dermaptera: Labiidae) from Sri Lanka	Journal of the Bombay Natural History Society 79(3):638-641
+25302	Burr	1906	Dermatoptera. Résultats de l‘expédition scientifique néerlandaise á la Nouvelle-Guinée	Nova Guinea V(Zoologie):9-10
+25303	Ramamurthi	1967	Dermaptera collected by the Noona Dan Expedition in the Philippine and Bismarck Islands	Entomologiske Meddelelser (Entomol. Medd. ) 35:227-259
+25305	Srivastava	1982	Notes on a collection of Dermaptera (Insecta) present in the Natural History Museum, Basel	Entomologica Basiliensia 7:61-76
+25310	Srivastava	1986	Studies on Indian Labidurinae (Dermaptera)	Records of the Zoological Survey of India. Miscalleonous Publication Occasional Paper 89:1-36
+25311	Srivastava	1985	Insecta: Dermaptera	Records of the Zoological Survey of India (Rec. zool. Surv. India) 82(1-4):41-52
+25312	Srivastava	1983	Notes on Dubrony‘s (= Bormans) some material of Dermaptera	Annali del Museo Civico di Storia Naturale di Genova 84:373-392
+25314	Srivastava	1984	Notes on some Dermaptera present in Zoologisk Museum, Copenhagen	Bulletin of the Zoological Survey of India (Bull. zool. Surv. India) 5(2 -3):7-17
+25315	Steinmann	1981	The Dermaptera of the Universitetets Zoologiske Museum, København	Folia entomologica Hungarica 42(1):173-192
+25316	Krauss	1886	Beiträge zur Orthopteren-Kunde	Verhandlungen der k.k. zoologisch-botanischen Gesellschaft in Wien XXXVI:137-148
+25334	Borelli	1903	Di alcune Forficole di Costa Rica	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 18(449):1-5
+25337	Rehn, JAG	1949	Dermaptera collected by the Mangarevan expedition	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 75:97-107
+25341	Burr	1910	A preliminary revision of the Labiduridae, a family of the Dermaptera	Transactions of the Entomological Society 1910:161-203
+25345	Bey-Bienko	1933	Schwedisch-chinesische wissenschaftliche Expedition nach den nordwestlichen Provinzen Chinas. Insekten. 8. Orthoptera 7. Forficulidae et Tetrigidae	Arkiv för zoologi (Ark. Zool. ) 25A(20):1-13
+25350	Bey-Bienko	1926	Notes on some Orthoptera from Palaearctic Asia	Transactions of the Siberian Academy of Agriculture and Forestry 6(8):1-13
+25354	Bolivar	1878	Catalogus Orthopterorum europae et Confinium	 1-17
+25358	Hincks	1937	A new Diplatys (Dermaptera) from Belgian Congo	Entomologist‘s Monthly Magazine 73:37-39
+25359	Borelli	1900	Descrizione di una nuova Forficula del Congo	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 15(381):1-3
+25360	Hincks	1937	Notes on some Chinese Dermaptera	Notes d‘entomologie chinoise 4(4):51-63
+25364	Hebard	1917	A contribution to the knowledge of the Dermaptera of Panama	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 43:301-334
+25367	Hebard	1917	Dermapterological notes	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philadelphia) 69(June):231-250
+25369	de Bormans	1900	Quelques Dermaptères du Musée Civique de Génes	Annali del Museo Civico di Storia Naturale di Genova 20:441-467
+25370	de Bormans	1880	Quelques Dermaptères exotiques	Anal de la Soc Esp de Hist Nat 9:505-515
+25373	Bey-Bienko	1959	Results of the Chinese-Soviet zoological-botanical expeditions 1955-1957 to south-western China. Dermaptera of Szechuan and Yunnan	Revue d‘Entomologie de l‘URSS 38(3):590-627; 943
+25378	Chopard	1924	The fauna of an island in the Chilka Lake. The Dermaptera and Orthoptera of Barkuda Island	Records of the Indian Museum (Rec. Ind. Mus. ) 26(2):165-191
+25385	Holdhaus	1908	Botanische und zoologische Ergebnisse einer Wissenschaftlichen Forschungsreise nach den Samoainseln, dem Neuguinea-Archipel und den Salomoninseln. VII. Kritisches Verzeichnis der bisher von den Samoainseln bekannten Orthopteren	Denkschriften der mathematisch-naturwissenschaftlichen Klasse der kaiserlichen Akademie der Wissenschaften LXXXIV:1-26
+25388	Burr	1910	Dermaptera	Transactions of the Linnean Society of London, Series 2 (Trans. Linn. Soc. Lond. Ser. 2) 14:123-133
+25390	Hebard	1933	Notes on Australasian and Melanesian Dermaptera	Memoirs of the Queensland Museum 10(3):145-156
+25396	Chopard	1951	Notes sur les Orthopteroides de Madagascar	Mémoires de l‘institut scientifique de Madagascar. Série A V(1):143-158
+25400	Hincks	1936	A new Diplatys (Dermaptera) from Belgian Congo	Proceedings of the Royal entomological Society of London (B) (Proc. R. ent. Soc. Lond. (B)) 5(6):126-128
+25404	Borelli	1931	Dermapteres de L‘Inde meridionale	Revue suisse de zoologie 38(10):289-305
+25406	Borelli	1926	Dermapteres de Java, Sumatra et iles voisines	Hortus Botanicus Bogoriensis, Java (Treubia) (Treubia) 8(3-4):248-273
+25407	Borelli	1926	Spolia Mentawiensia: Dermaptera	Journal of the Malayan Branch of the Roayl Asiatic Society 4(3):384-391
+25408	Borelli	1921	Dermapteres nouveaux du Museum de Paris	Bulletin du Muséum national d'Histoire naturelle 1921(1-2):77-161
+25411	Borelli	1915	Di alcuni Dermatteri della Cina	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 30(698):1-6
+25412	Borelli	1915	Dermatteri delle Isole Filippine	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 30(697):1-7
+25413	Borelli	1914	Dermatteri raccolti dal Prof. F. Silvestri nell‘Africa occidentale	Bolletino del Labratorio di Zoologia Generale e Agraria della R. Scuola superiore d‘Agricoltura in Portici 8(Marzo):264-274
+25415	Borelli	1912	Dermapters nouveaux ou peu connus du Museum de Paris	Bulletin du Muséum national d'Histoire naturelle 1912(4):1-20
+25416	Borelli	1912	Nuovo genere di Dermatteri della Repubblica Argentina	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 27(649):1-3
+25418	Borelli	1911	Specie nouve di Dermatteri di Costa Rica	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 26(644):1-10
+25419	Borelli	1911	Diagnosi preventive di dermatteri movi della regione indiana	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 26(640):1-4
+25420	Borelli	1910	Mission geodesique de l‘Equateur. Collections recueillies par M. le Dr Rivet. Orthopteres Forficulides	Bulletin du Muséum national d'Histoire naturelle 1920(3):156-158
+25421	Borelli	1910	Descrizione di una nouva specie di Forficola di Costa Rica	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 25(623):1-3
+25423	Borelli	1909	Forficole nuove o poco note di Costa Rica	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 24(611):1-22
+25424	Borelli	1909	Forficole raccolte dal Prof. F. Silvestri nell‘America Settentrionale e nelle isole Havvaii	Bolletino del Labratorio di Zoologia Generale e Agraria della R. Scuola superiore d‘Agricoltura in Portici 3(Maggio):314-328
+25426	Burr	1905	Una especie nueva de Opisthocosmia (Dermapteros)	Boletin de la real Sociedad Española de Historia Natural 5(Diciembre):530
+25427	Burr	1905	Earwigs of the Indian Museum with descriptions of new species	Journal of the Asiatic Society of Bengal NS 1(2):27-31
+25428	Burr	1903	Notes on the Forficularia. - VII. Some hitherto unpublished descriptions of new species, by the late M. Auguste de Bormans	Annals and Magazine of Natural History Series 7(Volume 11):231-241, 265-270
+25429	Burr	1903	Notes on the Forficularia. - VIII. Five new species from the de Bormans Collection	Annals and Magazine of Natural History Series 7(Volume 11):270-277
+25430	Burr	1902	On the Forficularia on the Hungarian National Museum of Budapest	Termeszetrajzi Füzetek 25:1-12; 477-488
+25431	Burr	1901	The Earwigs of Ceylon	Journal of the Bombay Natural History Society 14:59-78; 316-336
+25432	Burr	1899	XXI. Notes on the Forficularia.  I Forficularia collected by WGH Rosenberg in Ecuador II Apterygida or Sphingolabis? III A new species of Anisolabis from Ceylon IV Forficularia collected by MR Doherty in Macassar and New Guinea	Annals and Magazine of Natural History Series 7(Volume 6):252-260
+25433	Burr	1899	Further new species of Forficularia	Annals and Magazine of Natural History Series 7(Volume 3):162-166
+25435	Burr	1897	On new species of Forficularia	Annals and Magazine of Natural History Series 6(Volume 20):310-316
+25443	Werner, F	1908	Zur Kenntnis der Orthopteren-Fauna von Tripolis und Barka	Zoologische Jahrbücher Abteilung für Systematik, Geographie und Biologie der Tiere (Zool. Jb. Syst. ) 27(1):83-143
+25449	Burr	1906	A further note on earwigs (Dermaptera) in the Indian Museum; with description of a new species	Journal of the Asiatic Society of Bengal NS 2(9):381-390
+25451	Burr	1907	Wissenschaftliche Ergebnisse der schwedischen zoologischen Expedition nach dem Kilimandjaro, dem Meru und den umgebenden Massaisteppen Deutsch-Ostafrikas 1905-1906. 17 Orthoptera. 1 Dermatoptera	 17(1)
+25452	Burr	1908	Notes on the Forficularia. - XIV. A Revision of the Pygidicranidae	Annals and Magazine of Natural History Series 8(Volume 2):382-392
+25453	Burr	1908	Die Fauna Südwest-Australiens. Ergebnisse der Hamburger südwest-australischen Forschungsreise 1905. Dermaptera	 2(Lieferung 5):69-79
+25454	Burr	1907	On a remarkable new earwig (Dermatoptera) from Portuguese West Africa	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 43:60-62
+25455	Burr	1907	Ueber Dermapteren aus Deutsch - Ost - Afrika	Berliner entomologische Zeitschrift  (Berliner entomol. Z. ) 52:201-207
+25457	Burr	1915	Dermaptera collected by Mr EDW Jacobson in Simalur	Tijdschrift voor Entomologie (Tijdschr. Entomol. ) 58:115-118
+25458	Burr	1913	New Guinea Dermaptera, collected by Dr PN van Kampen and K Gjellerup (1910-11)	Tijdschrift voor Entomologie (Tijdschr. Entomol. ) 56:312-316
+25459	Burr	1913	Dermaptera collected in Natal and Zululand by Dr. Ivar Trägårdh	Meddelanden fran Göteborgs Musei Zoologiska Afdelning 2:3-6
+25460	Burr	1913	Notas de Dermapterologia americana	Revista Chilena de Historia Natural 17(3):166-171
+25461	Burr	1911	Ueber einige interessante Dermapteren der Dohrn‘schen Sammlung	Entomologische Zeitung 1911(1):327-342
+25464	Burr	1911	On some South African Dermaptera (Earwigs) in the South African Museum, Cape Town	Annals of the South African Museum 10(1):1-17
+25468	Burr	1909	Dermatoptera. Resultat de l‘expedition scientifique neerlandaise a la Nouvell Guenee en 1907 sous les auspiees du HA Lorentz	Annals and Magazine of Natural History 9:15-17
+25470	Burr	1908	Notes on the Forficularia. - XIII. A Revision of the Brachylabinae (Isolabidae)	Annals and Magazine of Natural History Series 8(Volume 2):246-255
+25471	Kirby, WF	1891	A revision of the Forficulidae with descriptions of new species in the British Museum	Journal of the Linnean Society (Zoology) (J. Linn. Soc. (Zool. )) 23:502-531
+25474	Kirby, WF	1903	Notes on Forficulidae, with Description of new species in the Collection of the Natural History Museum, South Kensington	Annals and Magazine of Natural History Series 7(Volume 11):60-68
+25475	Kirby, WF	1896	Description of new species of Forficulidae in the Collection of the British Museum (Nat. Hist.), S. Kensington	Journal of the Linnean Society. Zoology. 25:520-529
+25481	Burr	1917	Contribution a la faune entomologique de l‘indo-chine francaise. Dermapteres	Annales de la Societé entomologique de France (Ann. Soc. Entomol. France. ) 86:57-62
+25483	Burr	1914	Notes on the Forficularia. - XX. A new genus and five new species from Australia	Annals and Magazine of Natural History Series 8(Volume 13):72-77
+25488	Fischer	1853	Orthoptera Europaea	 454 pp
+25489	Werner, F	1907	Die Dermapteren und Orthopteren Bosniens und der Herzegowina	Wissenschaftliche Mitteilungen aus Bosnien und der Herzegowina 10:645-655
+25494	Rehn, JAG	1925	Notes on West Indian Dermaptera with description of a new species of Vostox	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 51:19-26
+25499	Rehn, JAG	1936	Zoological Results of the George Vanderbilt African Expedition of 1934. Part V. -Dermaptera	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philadelphia) LXXXVIII:507-526
+25502	Chopard	1924	On some cavernicolous Orthoptera and Dermaptera from Assam and Burma	Records of the Indian Museum (Rec. Ind. Mus. ) 26:81-92
+25505	Kevan	1951	Records of Trinidad Earwigs (Dermaptera)	Annals and Magazine of Natural History Series 12(Volume 4):249-257
+25515	de Bormans	1894	Viaggio di Leonardo Fea in Birmania et regioni vicine LXI Dermapteres	Annali del Museo Civico di Storia Naturale di Genova 2 14:371-409
+25516	Brindle	1978	The genus Emboros Burr (Dermaptera: Forficulidae)	ENTOMOLOGIST'S RECORD AND JOURNAL OF VARIATION 90(3):60-62
+25517	Brindle	1980	Dermaptera from the Gunong Mulu National ark, Borneo	ENTOMOLOGIST'S RECORD AND JOURNAL OF VARIATION 92:172-175
+25527	Hincks	1956	Results from the Danish Expedition to the French Cameroons 1949-50. V. Dermaptera	Bulettin de l‘IFAN, Series A 18(2):597-606
+25528	Brindle	1969	Recoltes de Ph. Bruneau de Miré au Cameroun	Bulettin de l‘IFAN, Series A 31(1):58-72
+25529	Brindle	1978	The genera Syntonus Burr and Obelura (Dermaptera: Forficulidae)	Entomolological Record and Journal of Variation 90(12):313-316
+25534	Chopard	1940	Un remarquable Dermaptère cavernicole de l''Afrique occidental Diplatys milloti	Bulletin de la Société Zoologique de France (Bull. Soc. Zool. Fr. ) LXV:75-79
+25539	Brindle	1985	A new species of Isolabis Verhoeff (Dermaptera: Carcinophoridae) from Malawi	Nyala 11(1):12-14
+25540	Brindle	1982	Dermaptera from Venezuela. Part 4	Boletin de Entomologia Venezolana, NS (Bol ent Venez) 2(4):33-44
+25575	Lucas, H	1849	Exploration scientifique de l‘Algerie pendant les annes 1840, 1841, 1842. Sciences physique, Zoologie Tome III	 1-6
+25584	Ler	1986	Bestimmungstabellen der Insekten des fernen Osten der UdSSR. Teil 6 [in Russian]	 317-323
+25585	Borelli	1909	Dermatteri dell‘Uganda e del Ruwenzori	Il Rouwenzori: relazioni scientifiche 1(sep):3-19
+25590	Brindle	1966	A key to the Neotropical genus Idolopsalis Borelli (Dermaptera: Carcinophoridae)	Proceedings of the Royal entomological Society of London (B) (Proc. R. ent. Soc. Lond. (B)) 35(11- 12):143- 148
+25591	Brindle	1968	The Dermaptera of the Naturhistoriska Riksmuseum, Stockholm, Part III	Arkiv för zoologi (Ark. Zool. ) 20 nr 25:533- 552
+25593	Brindle	1967	Dois anos de colheitas em Timor português por Raul do Nascimento Ferreira Nr. 8 - Dermaptera	Memorias e Estudos do Museu Zoologico da Universidade de Coimbra 302:1-28
+25594	Brindle	1968	The Dermaptera of Surinam and other Guyanas	Studies on the Fauna of Suriname and other Guyanas 10(36)
+25595	Brindle	1971	The Dermaptera of the Naturhistoriska Riksmuseum, Stockholm, Part IV	Entomologisk Tidskrift (Entomol. Tidskr. ) 92(1-2):1- 27
+25600	Brindle	1966	The Dermaptera of the Naturhistoriska Riksmuseum, Stockholm, Part I	Arkiv för zoologi (Ark. Zool. ) 14:437- 447
+25601	Brindle	1966	A Revision of the Dermaptera of the Congo	Revue de Zoologie et de Botanique Africaine LXXIII(1- 2):40- 58
+25602	Brindle	1966	Dermaptera from Central and East Africa. II	Revue de Zoologie et de Botanique Africaine 74(1-2):29-49
+25610	Burr	1897	British Orthoptera. (Earwigs, Grasshoppers, and Crickets.)	 68 pp
+25614	Hebard	1922	Studies in the Dermaptera and Orthoptera of Colombia. Second Paper	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 47:107-169
+25615	Hebard	1919	Studies in the Dermaptera and Orthoptera of Colombia. First Paper	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 45:89-179
+25616	Brindle	1985	Synonymical notes on the American species of Labia Leach (Dermaptera, Labiidae) with a key to species and description of a new species	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 121:73-80
+25618	Srivastava	1978	A new indian Allodahlia Verhoeff (Dermaptera, Forficulidae)	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 114:231-233
+25619	Hebard	1921	The Janeirensis group of the genus Euborellia, with description of a new species	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 47:319-324
+25623	de Bormans	1888	Viaggio di Leonardo Fea in birmania e regioni vicine	Annali del Museo Civico di Storia Naturale di Genova Serie 2(VoI 26):431-448
+25624	Burr	1905	Notes on the Forficularia. - IX. One new species with synonymic notes	Annals and Magazine of Natural History Series 7(Volume 16):486-496
+25626	Brindle	1979	Five new species of American earwigs (Dermaptera)	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 115:149-154
+25627	Brindle	1984	The identity of Haplodiplatys severus (Bormans) (Dermaptera:Pygidicranidae)	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 120:151-154
+25628	Burr	1913	H. Sauters Formosa-Ausbeute: Dermaptera	Entomologische Mitteilungen 2:65-70
+25631	Burr	1909	Notes on the classification of the Dermaptera	Deutsche entomologische Zeitschrift  (Dtsch. ent. Z. ) 1909:320-328
+25632	Zhou, W & Q Chen	1983	On the discovery of a fossil insect from Zhejiang (Dermaptera)	Entomotaxonomia 5(1):61-62
+25641	Zeuner	1962	A subfossil giant Dermapteron from St. Helena	Proceedings of the Zoological Society of London (Proc. zool. Soc. Lond. ) 138:651-653
+25662	Zacher	1910	Zur Morphologie und Systematik der Dermapteren	Entomologische Rundschau 27:24, 29-30
+25664	Zacher	1911	Studien über das System der Protodermapteren	Zoologische Jahrbücher Abteilung für Systematik, Geographie und Biologie der Tiere (Zool. Jb. Syst. ) 30:303-400
+25668	Bey-Bienko	1934	Studies on the Dermaptera of the Province of Sechuan, China	Annals and Magazine of Natural History Series 10(Volume 8):401-425
+25669	Bey-Bienko	1936	Insectes Dermaptères	Faune de l'URSS 239 pp
+25677	Boeseman	1954	The Dermaptera in the Museums at Leiden and Amsterdam	Zoologische Verhandlingen 21:1-117
+25679	Borelli	1902	Forficole raccolte da Dott. Filippo Sivestri nella Repubblica Argentina et regione vicine	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 17(418):1-7
+25680	Borelli	1904	Viaggio del Dr. Alfredo Borelli nella Republica Argentina e nel Paraguay	Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 19:1-8
+25683	Borelli	1915	Voyage de Ch. ALLUAUD et R. JEANNEL en Afrique Orientale (1911-1912). Resultats scientifiques. Insectes Orthopteres. 1. Dermaptera	 1:3-22
+25694	Brindle	1964	A revision of the African species of the genus Gelotolabis Zacher (Dermaptera: Carcinophoridae)	Annals and Magazine of Natural History Series 13(Volume 7):747-755
+25697	de Bormans & Krauss	1900	Forficulidae und Hemimeridae	Das Tierreich 11:142 pp
+25698	de Bormans	1893	Forficulidae	Biologia Centrali-Americana 1(113):1-12
+25699	Brindle	1967	Two new species of Gonolabina Verhoeff (Dermaptera, Carcinophoridae) from Peru	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 103:5-11
+25700	Brindle	1968	A revision of the Labiidae (Dermaptera) of the neotropical and nearctic regions. I. Pericominae, Strogylopsalinae, Sparattinae	Journal of Natural History (J. Nat. Hist. ) 2:273-303
+25701	Brindle	1968	II. A new genus and species of the blind Dermaptera from the Galapagos Islands	Mission zoologique belge aux îles Galapagos et en Ecuador 1:171-176
+25704	Brindle	1969	A key to the African species of the genus Chaetospania Karsch (Dermaptera, Labiiade)	Proceedings of the Royal entomological Society of London (B) (Proc. R. ent. Soc. Lond. (B)) 38:95-100
+25706	Brindle	1965	A revision of the subfamily Allostethinae (Dermaptera, Labiduridae)	Annals and Magazine of Natural History Series 13(Volume 8):575-596
+25707	Brindle	1965	A revision of the subfamily Apachyinae (Dermaptera, Labiduridae)	Annals and Magazine of Natural History Series 13(Volume 8):435-446
+25709	Brindle	1966	A new species of Forficula L. (Dermaptera, Forficulidae) from Africa	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 102:147-149
+25710	Brindle	1966	A revision of the subfamily Labidurinae (Dermaptera, Labiduridae)	Annals and Magazine of Natural History Series 13(Volume 9):239-269
+25713	Brindle	1967	The Dermaptera of the Naturhistoriska Riksmuseum, Stockholm, Part II	Arkiv för zoologi (Ark. Zool. ) 20(7):147-163
+25714	Brindle	1969	Insects Dermaptères	Faune de Madagascar XXX:112 pp
+25715	Brindle	1969	Notes on the genus Acanthocordax Günther (Dermaptera, Forficulidae)	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 105:273-277
+25719	Brindle	1970	A key to the neotropical genus Neolobophora Scudder, and related genera (Dermaptera, Forficulidae)	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 106:97-105
+25720	Brindle	1970	Dermaptera	La faune terrestre de l'île de Sainte-Helene 1:213-227
+25721	Brindle	1970	The Dermaptera of the Solomon Islands	Pacific Insects (Pacif. Insects. ) 12:641-700
+25723	Brindle	1971	A revision of the genus Doru Burr (Dermaptera, Forficulidae)	Papéis Avulsos de Zoologia 23:173-196
+25724	Brindle	1971	A revision of the Labiidae (Dermaptera) of the neotropical and nearctic regions. III. Spongiphorinae	Journal of Natural History (J. Nat. Hist. ) 5:521-568
+25725	Brindle	1971	Brendin-Archbold-Smithsonian Biological Survey of Dominica: The Dermaptera of Dominica	Smithsonian Contributions to Zoology (Smithson. Contrib. Zool. ) 63:25 pp
+25726	Brindle	1971	Le massif des monts Loma (Sierra Leone) Fascicule I. XI. Dermaptera	Mémoires de l'Institut fondamental d'Afrique noire 86:265-281
+25727	Brindle	1971	The Dermaptera of the Caribbean	Studies of the fauna of Curaçao and other Caribbean islands no.131:1-75
+25728	Brindle	1972	A review of the genus Allodahlia Verhoeff (Dermaptera, Forficulidae)	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 108:23-30
+25730	Brindle	1973	A new genus and species of Geracinae (Dermaptera; Labiidae) from Guatemala	Entomologist 106:153-156
+25731	Brindle	1973	The Dermaptera of Africa. Pt I	Annales du Musee Royal de l'Afrique Centrale Tervuren, Series no 8, Sciences Zoologiques 205:335 pp
+25732	Brindle	1974	A new species of Dermaptera (Forficulidae) from Mexican Bromeliads	Entomologist's Record 86:6-8
+25733	Brindle	1975	Notes on the neotropical genus Metresura Rehn (Dermaptera, Forficulidae)	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 111:79-87
+25734	Brindle	1976	The Dermaptera of New Caledonia	Pacific Insects (Pacif. Insects. ) 17:61-86
+25735	Brindle	1978	The Dermaptera of Africa. Pt II	Annales du Musee Royal de l'Afrique Centrale Tervuren, Series no 8, Sciences Zoologiques 225:1-204
+25736	Brindle	1980	The cavernicolous fauna of Hawaiian lava tubes. 12. A new species of blind troglobitic earwig (Dermaptera: Carcinophoridae), with a revision of the related surface living earwigs of the Hawaiin Islands	Pacific Insects (Pacif. Insects. ) 21:261-274
+25737	Brindle	1984	The Esphalmeninae (Dermaptera: Pygidicranidae): a group of Andean and Southern African earwigs	Systematic Entomology (Syst. Ent. ) 9:281-292
+25738	Brindle	1987	New Australian Dermaptera including one new genus	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 123:141-146
+25739	Brindle	1987	New Dermaptera records from Nepal, with descriptions of new species and a review of the Himalayan fauna	Courier Forschungsinstitut Senckenberg (Cour. Forsch. Inst. Senckenberg) 93:333-351
+25740	Brindle	1988	Dermaptera at light in Panama	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 124(1484-1487):45-56
+25746	Brown, FM	1984	Two undescribed fossil Dermaptera from Florissant, Colorado	Entomological News 95:33-35
+25751	Burr	1904	Observations on the Dermatoptera, including revisions of several genera, and descriptions of new genera and species	Transactions of the Entomological Society 1904(June):277-322
+25752	Burr	1907	A preliminary revision of the Forficulidae (sensu stricto) and of the Chelisochidae, families of the Dermatoptera	Transactions of the Entomological Society 1907:91-134
+25753	Burr	1910	The Dermaptera (earwigs) of the United States National Museum	Proceedings of the United States National Museum (Proc. U. S. Nat. Mus. ) 38:443-467
+25754	Burr	1910	The Fauna of British India: Dermaptera (Earwigs)	 217 pp
+25755	Burr	1911	Contribution to our knowledge of Indian earwigs	Journal of the Asiatic Society of Bengal (J. Asiatic. Soc. ) 7:771-800
+25757	Burr	1911	Notes on the Forficularia. - XIX. On little-known earwigs from Formosa	Annals and Magazine of Natural History Series 8(Volume 8):51-53
+25758	Burr	1911	Notes on the Forficularia. - XVIII. More new species	Annals and Magazine of Natural History Series 8(Volume 8):39-50
+25761	Burr	1912	Die Dermaptera des k.k. naturhistorischen Hofmuseums in Wien	Annalen des k. k. naturhistorischen Hofmuseums, Wien 26:63-108
+25762	Burr	1912	Nachträge zu meiner Bearbeitung Dermaptera des k.k. naturhistorischen Hofmuseums. I. Nachtrag	Annalen des k. k. naturhistorischen Hofmuseums, Wien 26:331-338
+25763	Burr	1912	Nachträge zu meiner Bearbeitung Dermaptera des k.k. naturhistorischen Hofmuseums. II. Nachtrag	Annalen des k. k. naturhistorischen Hofmuseums, Wien 26:338-340
+25764	Burr	1914	Notes on the Forficularia. - XXIII. More new species	Annals and Magazine of Natural History Series 8(Volume 14):420-428
+25766	Burr	1914	Les dermapteres de la Nouvelle-Caledonie et des Iles Loyalty	Annals and Magazine of Natural History 1:315-324
+25767	Burr	1915	On the male genital armature of the Dermaptera. Part II: Psalidae	Journal of the Royal Microscopical Society (J. R. Microsc. Soc. ) Dec.1915;Ser.2:521-546
+25768	Burr	1915	On the male genital armature of the Dermaptera. Part I: Protodermaptera (except Psalidae)	Journal of the Royal Microscopical Society (J. R. Microsc. Soc. ) Oct.1915;Ser.2:413-447
+25770	Burr	1916	On the male genital armature of the Dermaptera. Part III: Eudermaptera	Journal of the Royal Microscopical Society (J. R. Microsc. Soc. ) Dec.1916;Ser.2:1-18
+25771	Burr	1947	Two new species of Dermaptera from Turkey	Proceedings of the Royal entomological Society of London (B) (Proc. R. ent. Soc. Lond. (B)) 16:60-65
+25774	Burr	1952	What is Forficula rodziankoi Semenov?	Proceedings of the Royal Entomological Society of London (B) Taxonomy 21:164-166
+25795	Hincks	1951	Notes on some species of Nesogaster (Dermaptera, Labiidae)	Annals and Magazine of Natural History Series 12(Volume 4):562-576
+25796	Hincks	1952	A new Australian species of the genus Antisolabis (Dermaptera, Labiduridae)	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 88:214-215
+25797	Hincks	1952	Some Dermaptera from Sierra Leone	Proceedings of the Royal entomological Society of London (B) (Proc. R. ent. Soc. Lond. (B)) 21:19-26
+25800	Hincks	1955	A systematic monograph of the Dermaptera of the world based on material in the British Museum (Natural History). 1. Pygidicranidae Subfamily Diplatyinae	British Museum (Natural History) 132 pp
+25813	Chopard	1934	Diagnose de deux especes nouvelles du genre Hemimerus Walk	Bulletin de la Societe entomologique de France 39:242-243
+25821	Cockerell	1920	Fossil arthropods in the British Museum	Annals and Magazine of Natural History Series 6:211-214
+25830	Deoras	1940	Structure of Hemimerus deceptus Rehn var. ovatus, and the classification of Dermaptera	Nature 146:201
+25834	Dohrn	1862	Die Dermaptera von Mexico	Entomologische Zeitung 23:225-232
+25835	Dohrn	1862	Versuch einer Monographie der Dermapteren	Entomologische Zeitung 24:35-66
+25836	Dohrn	1863	Versuch einer Monographie der Dermapteren	Entomologische Zeitung 24:309-322
+25837	Dohrn	1864	Versuch einer Monographie der Dermapteren	Entomologische Zeitung 25:285-296
+25838	Dohrn	1864	Versuch einer Monographie der Dermapteren	Entomologische Zeitung 25:417-429
+25839	Dohrn	1865	Versuch einer Monographie der Dermapteren	Entomologische Zeitung 26:68-99
+25840	Dohrn	1867	Neue und bisher nicht genügend bekannte Forficulinen	Entomologische Zeitung 28:343-349
+25854	Gangola	1965	Studies on the Dermaptera of Kumaon Hills. Part I (Forficulidea)	Entomologist 98:227-236
+25892	Hebard	1923	Studies on Indian Dermaptera	Memoirs of the Department of Agriculture in India 7:195-242
+25893	Hebard	1927	Studies in Sumatran Dermaptera	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philadelphia) 79:23-48
+25916	Hincks	1947	Entomological results from Swedish expedition 1934 to Burma and British India. Dermaptera collected by Rene Malaise	Arkiv för zoologi (Ark. Zool. ) 39A:1-43
+25918	Hincks	1947	Brief notes on the genital armature of Pseudisolabis kosswigi and Forficula hincksi	Proceedings of the Royal entomological Society of London (B) (Proc. R. ent. Soc. Lond. (B))
+25920	Hincks	1949	A new genus and species of Dermaptera from Tanganyika	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 85:75-77
+25922	Hincks	1949	Some earwigs (Dermaptera) from New Zealand	Proceedings of the Royal entomological Society of London (B) (Proc. R. ent. Soc. Lond. (B)) 18:201-206
+25923	Hincks	1950	Some Dermaptera from Kilimanjaro, Tanganyika	Entomologist's Monthly Magazine (Entomologist's mon. Mag. ) 86:179-181
+25924	Hincks	1955	New species of pygidicranine earwigs (Dermaptera: Pygidicranidae)	Annals and Magazine of Natural History Series 12(Volume 8):806-827
+25926	Hincks	1957	New species of the genus Diplatys Serville (Dermaptera: Pygidicranidae)	Proceedings of the Royal entomological Society of London (B) (Proc. R. ent. Soc. Lond. (B)) 26:149-154
+25927	Hincks	1959	A systematic monograph of the Dermaptera of the world based on material in the British Museum (Natural History). 2. Pygidicranidae excluding Diplatyinae	 218 pp
+25934	Jordan, K	1909	Description of a new kind of apterous earwig, apparently parasitic on a bat	Novitates zoologicae (Novit. zool. ) 16:313-326,plates
+25940	Kapoor	1966	Indian Dermaptera of the genus Cranopygia Burr (Pygidicranidae) with the description of a new species from Poona (India)	Annals and Magazine of Natural History Series 13(Volume 9):481-484
+25941	Kapoor	1966	Three new species of Dermaptera from North-West Himalayas	Annals and Magazine of Natural History Series 13(Volume 9):389-397
+25942	Kapoor	1967	On a new genus of Dermaptera from South India	Journal of Natural History (J. Nat. Hist. ) 1:355-358
+25943	Kapoor	1968	New species of the genus Diplatys Serville from India (Dermaptera: Diplatyinae)	Zoologischer Anzeiger (Zool. Anz. ) 181:117-128
+25944	Kapoor & Katiyar	1971	On the two new species of the genus Pseudisolabis Burr from India (Dermaptera: Parisolabinae)	Journal of Natural History (J. Nat. Hist. ) 5:499-502
+25947	Karsch, F	1886	Über einige neue oder wenig bekannte Ohrwürmer (Dermaptera) der äthiopischen Region	Berliner entomologische Zeitschrift  (Berliner entomol. Z. ) 30:85-91
+26003	Ping	1935	On our fossil insects from Sinkiang	Chinese Journal of Zoology 1:107-115
+26012	Martins-Neto	1990	Primeiro registro de Dermpatera (Insecta, Orthopteromorpha) na Formacao Santana (Cretáceo inferior), Bacia do araripe, nordeste do Brasil	Revista Brasileira de Entomologia (Rev. bras. Ent. ) 34:775-784
+26014	Martynov	1925	To the knowledge of fossil insects from the Jurassic beds in Turkestan	Bulletin de l'Académie de Sciences de URSS, Leningrad (Bull. Acad. Sci. URSS, Leningrad) 19:569-598
+26070	Popham & Brindle	1967	Genera and species of the Dermaptera: 4. Pericominae, Vandicinae, Strongylopsalinae, Nesogastrinae, Isopyginae and Sparattinae (Labiidae)	Entomologist 100:35-38
+26083	Popham	1984	The genus Hemimerus, insect parasites of the giant rat	Nyala 10(1):39-42
+26085	Popham	1990	Insects from the Santana Formation, Lower Cretaceous, of Brazil. Dermaptera	Bulletin of the American Natural History Museum (Bull. Am. Nat. Hist. ) 195:69-75
+26092	Ramamurthi	1963	Notes on Indian Dermaptera	Annals and Magazine of Natural History Series 13(Volume 6):671-676
+26093	Ramamurthi	1965	Dermaptera from South India	Annals and Magazine of Natural History Series 13(Volume 8):59-63
+26094	Ramamurthi	1968	New and known Dermaptera from South India with two generic records new to India	Zoologischer Anzeiger (Zool. Anz. ) 181:128-136
+26099	Rehn, JAG	1901	Remarks on some Mexican Orthoptera, with description of new species	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc. ) 27:218-239
+26107	Rehn, JAG & JWH Rehn	1936[1935]	A study of the genus Hemimerus (Dermaptera, Hemimerina, Hemimeridae)	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philadelphia) LXXXVII:457-508
+26108	Rehn, JAG	1946	Five new species of earwigs of the indo-pacific genus Nesogaster (Dermaptera: Labiidae, Nesogastrinae)	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philadelphia) XCVIII:219-239
+26166	Scudder	1876	Brief synopsis of North American earwigs, with an appendix on the fossil species	Bulletin of the United States Geological and Geographical Survey of the Territories 2:249-260
+26167	Scudder	1876	Critical and historical notes on the Forficulariae; including description of new generic forms and an alphabetical synonymic list of the described species	Proceedings of the Boston Society of Natural History 18:287-332
+26172	Srivastava	1975	On a new species of the genus Cranopygia Burr (Dermaptera) from India	Entomologist's Record 87:121-122
+26173	Srivastava	1981	Notes on the genus Platylabia Dohrn (Carcinophoridae: Platylabiinae) with description of two new species from India	Bulletin of the Zoological Survey of India (Bull. zool. Surv. India) 4:103-109
+26175	Srivastava	1985	Notes on some Dermaptera from Australia preserved in the Zoologisch Museum, Amsterdam	Bulletin Zoologisch Museum 10(9):45-50
+26179	Srivastava	1982	On a new species of the genus Chaetospania Karsch (Dermaptera: Labiidae) with a key to species from the Indian subregion	Records of the Zoological Survey of India (Rec. zool. Surv. India) 79(3-4):475-481
+26184	Srivastava	1969	On a new species of the genus Hamaxas Burr, 1907, (Dermaptera: Chelisochidae)	Zoologischer Anzeiger (Zool. Anz. ) 182:136-140
+26185	Srivastava	1975	Notes on a collection of Dermaptera (Insecta) from Manipur (India) with the description of two new species	Journal of the Zoological Society of India (J. Zool. Soc. India) 27:101-111
+26192	Steinmann	1979	A revision of the genus Aborolabis Srivastava, 1969	EOS Revista Española de Entomologia 53:213-222
+26193	Steinmann	1981	The Dermaptera of the Museo civico di Storia naturale di Milano with description of Forcipula leonardii n.sp	ATTI DELLA SOCIETA ITALIANA DI SCIENZE NATURALI E DEL MUSEO CIVICO DI STORIA NATURALE DI MILANO 122:157-170
+26194	Steinmann	1985	New Carcinophoridae and Labiduridae from circumtropical region (Dermaptera)	International Quaterly of Entomology 1(1):19-26
+26195	Steinmann	1985	Paraspania, new genus in the subfamily Labiinae (Dermaptera, Labiinae)	International Quaterly of Entomology 1(1):13-18
+26196	Steinmann	1986	Dermaptera: Catadermaptera I	Das Tierreich 102:345 pp
+26198	Steinmann	1987	Two new genera and species for the subfamily of Labiinae (Dermaptera, Labiidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 33:177-186
+26199	Steinmann	1988	A revision of the genus Acanthocordax Guenther 1929 (Dermaptera, Forficulidae)	ANNALES HISTORICO-NATURALES MUSEI NATIONALIS HUNGARICI 80:51-56
+26200	Steinmann	1988	A revision of the Oriental Forficula Linnaeus, 1758 species (Dermaptera: Forficulidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 34(1):1-26
+26201	Steinmann	1988	Some new Dermaptera taxa from West Irian	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 34(1-2):297-305
+26202	Steinmann	1989	A revision of the genus Cosmellia Verhoeff, 1902 (Dermaptera, Forficulidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 34:143-164
+26203	Steinmann	1989	Dermaptera: Catadermaptera II	Das Tierreich 105:505 pp
+26204	Steinmann	1989	World Catalogue of Dermaptera	SERIES ENTOMOLOGICA  43:934 pp
+26205	Steinmann	1990	A revision of the genus Anechura Scudder, 1876 (Dermaptera, Forficulidae)	Acta Zoologica Academiae Scientiarum Hungaricae (Acta Zool. Hung. ) 36(1-2):135-155
+26206	Steinmann	1990	Dermaptera: Eudermaptera I	Das Tierreich 106:558 pp
+26207	Steinmann	1993	Dermaptera: Eudermaptera II	Das Tierreich 108:709 pp
+26231	Verhoeff	1902	Über Dermapteren. 1. Aufsatz. Versuch eines neuen, natürlichen Systems auf vergleichend-morphologischer Grundlage und über den Mikrothorax der Insecten	Zoologischer Anzeiger (Zool. Anz. ) 25:181-209
+26239	Verhoeff	1902	Über Dermapteren. 2. Aufsatz: Neue ungeflügelte Eudermapteren-Gattungen	Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin 1902(1):2-18
+26242	Verhoeff	1904	Über Dermapteren. 5. Aufsatz. Zwei neue Gruppen	Archiv für Naturgeschichte (Arch. Naturgesch. ) 70:115-121
+26251	Vishnyakova	1980	Earwigs from the Upper Jurassic of the Karatau range	Paleontological Journal (Paleont. J. ) 1:63-79
+26255	Walker, F	1871	Description of Hemimerus talpoides	Catal. derm. Salt. Brit. Mus.  VSupplement:2
+26265	Engel & Haas	2007	Family-Group names for Earwigs (Dermaptera)	American Museum Novitates (Am. Mus. Novitates) 3567:1-20
+26269	Palisot de Beauvois	1805		Insectes recueillis en Afrique et en Amérique, Orthopt.
+26270	Brisout de Barneville	1856		Annales de la Societé entomologique de France (Ann. Soc. Entomol. France. ) (3)4:748
+26272	Srivastava	1978[1976]	Studies on Dermaptera of Philippines	Eos - Revista Espanola de Entomologia (EOS) 52:255-307
+26273	Srivastava	1969	On two new species of Dermaptera from India	Eos Madr 44:425-431
+26274	Srivastava	1970	Notes on a collection of Dermaptera from India	Eos Madr 45:319-333
+26275	Smidt	1876		Ann Mag nat Hist  4(17):450
+26276	Shiraki	1936		Rept. First Sci. Exp. Manchouku 5(1):9
+26277	Shiraki	1905		Journ Sapporo Agr Coll 2:80
+26278	Shiraki	1908		Trans Sapporo nat Hist Soc 2(1-2):105
+26279	Semenov	1907		Entomol Mon Mag 21(18):232
+26280	Semenov	1907		L‘annulaire du Musée Zoologique de L‘Académie Impériale des Sciences de St-Pétersbourg 12:122
+26281	Semenov	1903		Revue russe d'Entomologie 3:20
+26282	Semenov	1901		Revue russe d'Entomologie 1:48
+26284	Biswas, Lahiri & Ghosh	1974	Two new species and notes on Cranopygia fletcheri (Dermaptera: Pygidicranidae) from Meghalaya	ORIENTAL INSECTS 8(4):419-423
+26285	Borelli	1926	Dermapteres de Java, Sumatra et Iles Voisines	Hortus Botanicus Bogoriensis, Java (Treubia) (Treubia) 8:248-273
+26286	Borelli	1932	Dermapteres de Borneo	J fed Malay Mus 17:179-190
+26287	Borelli	1926	Dermatteri delle Isole Filippine	Res biol 1(1):61-79
+26289	Burr	1911	Uber einige interessante Dermapteren de Dohrn'schen Sammlung	Stettiner Entomologische Zeitung 72:337-342
+26292	Caudell	1904	On a collection of non-saltatorial Orthoptera from Paraguay	Journal of the New York Entomological Society (J. NY Ent. Soc. ) 12:179-188
+26293	Dohrn	1869		Stettin ent Ztg 30:233
+26294	Kapoor & Bharadwaj	1968		Bull Ent Res 9:81
+26295	Hincks	1960		Bull Ent Res 1:15
+26296	Brindle	1983	Dermaptera from Nepal	Senckenbergiana biologica 63(1-2):91-104
+26297	de Miranda Ribeiro	1937	Dermapteros do nordeste brasilerio	O Campo(3):36-37
+26298	Hincks	1939		Entomologist's mon Mag 75:236
+26299	Burr	1908		Notes fr. Leyden Mus 30:95
+26301	Blanchard	1853		Voy. Pole Sud 4:349
+26302	Tindale	1923		Trans r ent Soc Lond 47:363
+26303	Kirby, WF	1900	Mon. Christmas Isl.	 134
+26304	Liu	1946		China Border Res Soc Sztechwan (B) 16:19
+26305	Guerin & Percheron	1838		Gen Ins 6:4
+26306	Fischer	1846		Horae Societatis Entomologicae Rossicae (Horae Soc Ent Ross) 47
+26307	Guillon	1841		Rev. Zool 14
+26309	Montrouier	1864		Annls Soc Linn Lyon NS 11
+26310	Westwood	1857		Proceedings of the Zoological Society of London (Proc. zool. Soc. Lond. ) 5:129
+26311	de Miranda Ribeiro	1931	Os Dermapteros do Museu Nacional	Bolm Mus nac Rio de Janeiro 7:289-294
+26312	Ramamurthi	1960		Bull ent 1:35
+26314	Günther, K	1934		Arch. Hydrobiol. Suppl. 12:512
+26315	Günther, K	1930		Mitt dtsch entomol Ges 34 1:700
+26317	Latreille	1817	Voy. Amer. Zool. Ins.	 2:119
+26319	Wood	1874	Insects abroad	 280
+26320	Machado & A Castro	1947		Rev. bras. biol. 7:1
+26322	Thunberger	1827		Acta Sco. Sci. Uppsala 9:52
+26323	Fernando	1957		Ceylon J Sci (Biol Sci) 25:203-221
+26324	Borelli	1916		Bollettino dei Musei di Zoologia ed Anatomia Comparata della Universita di Torino (Bol. . Mus. Zool. Anat. comp. R. Univ. Torino) 31(715):2
+26325	Caudell	1904		Proceedings of the United States National Museum (Proc. U. S. Nat. Mus. ) 28:461
+26326	Stal	1858		Eugenies Resa Ins 304
+26327	Borelli	1912	Dermapteres nouveaux ou peu connus du Museum de Paris	Bull Mus natn Hist nat Paris  1:221-240
+26328	Nutting & Gurney	1961	A new earwing in the genus Vostox (Dermpatera, Labiidae) from the South-western United States and Mexico	Psyche 68(2-3):45-52
+26329	Menozzi	1941	Dermatteri della Micronesia	Mushi 13:73-80
+26330	Kapoor & AK Shah	1983		Senckenbergiana biologica 63:99
+26331	Kapoor, Bharadwaj & Banerjee	1971		Bull ent 12(1):30
+26332	Ramamurthi	1964		Ann Mag nat Hist  13(6):647
+26333	de Bormans	1882		Annali Mus civ Stor nat Genova 18:314
+26334	Kirby, WF	1888		Proceedings of the Zoological Society of London (Proc. zool. Soc. Lond. ) 564
+26335	Borelli	1918		Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 32(721):2
+26336	Ramamurthi	1962		Ent. Loyola Coll. 3:41
+26337	Borelli	1906		Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 21(528):1-
+26338	Chen, M & Chen	1935		Sinensia 6:219
+26339	Nishikawa	1973		BULLETIN DAITO BUNKA UNIVERSITY NATURAL SCIENCES 20:48
+26340	de Bormans	1888		Mem Soc Zool France 1:120
+26341	Günther, K	1934		Beiträge zur Entomologie (Contributions to entomology) (Beitr. Entomol. / Beitr. Ent. ) 1:102
+26342	Semenov	1901		Russkoe entomologiceskoe obozrenie (= Revue Russe d'Entomologie) (Entomol. Obozrenie / Entomol. Obozr. ) 1:98
+26343	Matsumura	1913		Thou. Ins. Jap. Add. 1:2
+26344	Olivier, AG	1791		Encyclopédie méthodique Hist Nat 6:468
+26345	Kapoor	1968		Entomologist 101:80
+26347	Semenov	1903		Ent Obozr 3:197
+26349	Okamoto	1924		Bull. Agr. Exp. Station Korea 1(2):53
+26350	Santokh Singh	1955		Agra Univ J Res (Sci) 4(1):132
+26351	Schmidt	1866		Nat. Hist. Ver. Krain
+26354	Borelli	1918		Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 33(726):1-4
+26355	Hagenbach	1822		Symbol. faun. Ins. Helvet. 1:16
+26356	Borelli	1912		Bollettino dei Musei di Zoologia ed Anatomia Comparata della R. Universita di Torino 27(660):1-
+26357	Marsham	1802		Ent. Brit. 1
+26358	Hincks	1958		Bulletin de la Societe entomologique Française 63:185
+26359	Matsumura & Shiraki	1905		Journ Sapporo Agr Coll 1:84-
+26360	Kapoor, Bharadwaj & Benerjee	1972		Bull. Ent. New Delhi 12(1):37
+26362	Brindle	1965		Ark Zool 18(18):442
+26363	Lucas, H	1846		Expl. Alger. 3:5
+26368	Dufour	1820		
+26369	Le Guillon	1911		
+26372	Zhao, J., Ren & Shih	2010	Enigmatic earwig-like fossils from Inner Mongolia, China	Insect Science 17:459-464
+26377	Zhang, J.	2002	The most primitive Earwigs (Archidermaptera, Dermaptera, Insecta) from the Upper Jurassic of Neimonggol Autonomous Region, Northeastern China	Acta-Micropalaeontologica-Sinica 19(4):348-362
+26378	Zhao, J., Shih, Ren & Y. Zhao	2011	New Primitive Fossil Earwig from Daohugou, Inner Mongolia, China (Insecta: Dermaptera: Archidermaptera)	Acta Geologica Sinica 85(1):75-80
+26382	Zhang, H. C.	1997	Early Cretaceous insects from the Dalazi Formation of the Zhixin basin, Jilin Povince, China	Palaeoworld 7 75-103
+26383	Engel	2011	New earwigs in mid-Cretaceous amber from Myanmar (Dermaptera, Neodermaptera)	ZooKeys 130 1293:137- 152
+26385	Burr 	1911	Dermaptera 	Genera Insectorum 122:112 pp
+26387	Bonelli In Saggio di una Monographia del Forficula indigene.	1832	In Saggio di una Monographia del Forficula indigene.	Annali delle Scienze del Regno Lombardo-Veneto 2:224
+26388	de Bormans In Notes on the Forficularia. - VII. Some hitherto unpublished descriptions of new species, by the late M. Auguste de Bormans.	1903	In Notes on the Forficularia. - VII. Some hitherto unpublished descriptions of new species, by the late M. Auguste de Bormans.	Annals and Magazine of Natural History Series 7(Volume 11):221-241
+26389	Erichson 	1848		Reisen in Brit. Guiana 3:579
+26390	Klug 	1838		Handbuch der Entomologie, Reimer, Berlin 2 2(1)
+26391	de Bormans In Les Orthoptères de St. Joseph''s College, à Trichinopoly, sud de l''Inde.	1897	In Les Orthoptères de St. Joseph''s College, à Trichinopoly, sud de l''Inde.	Annales de la Societe entomologique de France 66:284
+26392	Blanchard 	1851		Revista Chilena de Historia Natural 6
+26393	Kirby, WF In Insecta Transvaaliensia a contribution to a knowledge of the Entomology of South Africa Part I. Orthoptera.	1900	In Insecta Transvaaliensia a contribution to a knowledge of the Entomology of South Africa Part I. Orthoptera.	 12
+26394	Illiger 	1838		Handbuch der Entomologie, Reimer, Berlin 2 2(1)
+26395	Kapoor In Dermaptera in the National Pusa Collection.	1967	In Dermaptera in the National Pusa Collection.	Bull Entomol 8(2):1
+26396	Blanchard 	1847		Voy. Amer. merid. 6
+26397	de Bormans 	1893		Annales de la Société Entomologique de France NS (Ann. Soc. Entomol. Fr. ) 42:160
+26398	de Bormans In XXI. Notes on the Forficularia.  I Forficularia collected by WGH Rosenberg in Ecuador II Apterygida or Sphingolabis? III A new species of Anisolabis from Ceylon IV Forficularia collected by MR Doherty in Macassar and New Guinea.	1899	In XXI. Notes on the Forficularia.  I Forficularia collected by WGH Rosenberg in Ecuador II Apterygida or Sphingolabis? III A new species of Anisolabis from Ceylon IV Forficularia collected by MR Doherty in Macassar and New Guinea.	Annals and Magazine of Natural History Series 7(Volume 6):259
+26399	Charpentier In Versuch einer Monographie der Dermapteren.	1865	In Versuch einer Monographie der Dermapteren.	Entomologische Zeitung 26:78
+26400	de Bormans In Further new species of Forficularia.	1899	In Further new species of Forficularia.	Annals and Magazine of Natural History Series 7(Volume 3):164
+26401	Westwood 	1836		Bot. nat. Hist. Himalay Mtns 2:9
+26402	Burr 	1908		Filchner Expedition China-Tibet Zool-bot Ergebn Hexapoda Berlin 10
+26403	Megerle 	1825		Horae Societatis Entomologicae Rossicae (Horae Soc Ent Ross) 69
+26404	Steinmann & Kis In Dermaptera: Eudermaptera I.	1990	In Dermaptera: Eudermaptera I.	Das Tierreich 106
+26405	Semenov In Insectes Dermaptères.	1936	In Insectes Dermaptères.	Faune de l'URSS 158
+26406	de Saussure 	1874		Turkestan Orth.
+26407	Lafresnaye In Fauna Insectorum Europaea.	1828	In Fauna Insectorum Europaea.	 16
+26408	Leach In Illustrations of British Entomology.	1835	In Illustrations of British Entomology.	 5
+26409	Guerin-Méneville 	1836		Ramon Historia Fisica y Natural de la Isla de Cuba 7
+26410	Motschulsky 	1846		Horae Societatis Entomologicae Rossicae (Horae Soc Ent Ross) 47:354
+26411	Krauss In Forficulidae und Hemimeridae.	1900	In Forficulidae und Hemimeridae.	Das Tierreich 11
+26413	Maa In A review of the parasitic earwigs (Dermaptera: Arixeniina; Hemimerina).	1974	In A review of the parasitic earwigs (Dermaptera: Arixeniina; Hemimerina).	Pacific Insects (Pacif. Insects. ) 16:307-374
+44380	Rehn, JAG & Hebard	1914	On the Orthoptera found on the Florida Keys and in extreme southern Florida. 2. Philadelphia Proc.	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philadelphia) 1914:377
+44445	Anisyutkin	2014	<i>Mesodiplatys venado</i> sp. nov. (Dermaptera: Diplatyidae), probable evidence of   contact between Neotropical and Malagasy faunas	Zootaxa 3794(4):593-599
+44446	Nishikawa	2013	A New Species of the Genus Anisolabis FIEBER (Dermaptera, Anisolabididae) from the Ogasawara Islands, Japan.	Japanese Journal of Systematic Entomology 19(2):199-206
+44447	Ross & Engel	2013	The first diplatyid earwig in Tertiary amber (Dermaptera: Diplatyidae): A new species from Miocene Mexican amber	Insect Systematics and Evolution 44(2):157-166
+44448	Kocarek	2012	Paradiplatys kubani sp nov from Laos (Dermaptera: Diplatyidae)	Acta Entomologica Musei Nationalis Pragae 52(2):335-339
+44449	Perrichot & Engel	2011	New earwig nymphs (Dermaptera: Pygidicranidae) in mid-Cretaceous amber from France	Cretaceous Research 32(3):325-330
+44450	Engel, Ortega-Blanco & Azar	2011	The earliest earwigs in amber (Dermaptera): A new genus and species from the Early Cretaceous of Lebanon	Insect Systematics and Evolution 42(2):139-148
+44453	Kocarek	2011	Dermaptera of Iran with description of Euborellia angustata sp. nov	Acta Entomologica Musei Nationalis Pragae 51(2):381-390
+44454	Kocarek	2011	Euborellia ornata sp. nov. from Nepal (Dermaptera: Anisolabididae).	Acta Entomologica Musei Nationalis Pragae 51(2):391-395
+44456	Unknown			Annales Zoologici (Warsaw)
+44457	Scudder	1876	Fossil Orthoptera from the Rocky Mountain Tertiarios.	Bulletin of the Uunited States Geological Survey (Bull. U. S. geol. surv. ) i((1875)):447-449
+44459	Scudder	1900	Adephagous and clavicorn Coleoptera from Tertiary deposits at Florissant, Colorado with descriptions of a few other forms and a systematic list of the non-rhynchophorous Tertiary Coleoptera of North America.	Monographs of the United States Geological Survey 40:1-145
+45206	Walker, F	1853	Termitidae-Ephemeridae	List of the specimens of neuropterous insects in the collection of the British museum., British Museum, London 3
+46387	Kocarek	2014	Earwigs (Dermaptera) of Socotra Island: checklist, distribution, and description of a new genus and four new species.	Acta Entomologica Musei Nationalis Pragae Supplement 54:1-21
+46388	Matzke & Kocarek	2015	Description and biology of Euborellia arcanum sp. nov., an alien earwig occupying greenhouses in Germany and Austria (Dermaptera: Anisolabididae)	Zootaxa 3956(1):131-139
+47370	Kamimura & Nishikawa In The earwig fauna (Insecta: Dermaptera) of Penang Island, Malaysia, with descriptions of two new species.	2016	In The earwig fauna (Insecta: Dermaptera) of Penang Island, Malaysia, with descriptions of two new species.	Zootaxa 4084

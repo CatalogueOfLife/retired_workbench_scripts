@@ -1,0 +1,120 @@
+﻿AcceptedTaxonID	CommonName	Language
+1159251	pine bark adelgid	English
+1159264	Eurasian pine adelgid	English
+1159273	pine leaf adelgid	English
+1159364	eastern spruce gall adelgid	English
+1159375	Cooley spruce gall adelgid	English
+1159381	balsam woolly adelgid	English
+1159402	hemlock woolly adelgid	English
+1160029	filbert aphid	English
+1160176	black pecan aphid	English
+1160180	blackmargined aphid	English
+1160191	yellow pecan aphid	English
+1160222	crapemyrtle aphid	English
+1160231	walnut aphid	English
+1160338	elm leaf aphid	English
+1160378	spotted alfalfa aphid	English
+1160378	yellow clover aphid	English
+1160421	sweetclover aphid	English
+1160514	Norway maple aphid	English
+1160517	boxelder aphid	English
+1160909	yellow sugarcane aphid	English
+1160965	painted maple aphid	English
+1161140	elm cockscombgall aphid	English
+1161323	woolly apple aphid	English
+1161328	woolly pear aphid	English
+1161344	woolly elm aphid	English
+1161735	lettuce root aphid	English
+1161756	poplar twig gall aphid	English
+1161758	poplar petiolegall aphid	English
+1161764	sugarbeet root aphid	English
+1161883	beech blight aphid	English
+1161896	poplar vagabond aphid	English
+1162115	woolly alder aphid	English
+1162694	fringed orchid aphid	English
+1162826	banyan aphid	English
+1162904	giant bark aphid	English
+1163247	Carolina conifer aphid	English
+1163338	green spruce aphid	English
+1163382	larch aphid	English
+1163530	white pine aphid	English
+1163872	balsam twig aphid	English
+1163893	araucaria aphid	English
+1164233	manzanita leafgall aphid	English
+1164370	corn root aphid	English
+1164370	erigeron root aphid	English
+1164553	viburnum aphid	English
+1164704	buckthorn aphid	English
+1164724	oleander aphid	English
+1164747	apple aphid	English
+1164791	spirea aphid	English
+1164823	bean aphid	English
+1165075	cowpea aphid	English
+1165200	strawberry root aphid	English
+1165234	soybean aphid	English
+1165236	cotton aphid	English
+1165236	melon aphid	English
+1165310	ivy aphid	English
+1165349	grapevine aphid	English
+1165933	brown citrus aphid	English
+1165946	black citrus aphid	English
+1165986	rusty plum aphid	English
+1166044	sugarcane aphid	English
+1166082	greenbug	English
+1166144	mealy plum aphid	English
+1166183	corn leaf aphid	English
+1166198	waterlily aphid	English
+1166214	bird cherry-oat aphid	English
+1166228	rice root aphid	English
+1166245	apple grain aphid	English
+1166610	fern aphid	English
+1166662	Russian wheat aphid	English
+1166676	western wheat aphid	English
+1166731	hop aphid	English
+1166789	clover aphid	English
+1166819	onion aphid	English
+1166826	violet aphid	English
+1166925	caragana aphid	English
+1167016	pea aphid	English
+1167198	asparagus aphid	English
+1167220	strawberry aphid	English
+1167286	currant aphid	English
+1167335	rosy apple aphid	English
+1167396	tulip bulb aphid	English
+1167414	rusty banded aphid	English
+1167543	spruce aphid	English
+1167660	sow thistle aphid	English
+1167755	cabbage aphid	English
+1168045	turnip aphid	English
+1168156	chrysanthemum aphid	English
+1168492	mint aphid	English
+1168667	celery aphid	English
+1168698	snowball aphid	English
+1168782	English grain aphid	English
+1168835	orchid aphid	English
+1169101	banana aphid	English
+1169151	western lily aphid	English
+1169270	crescentmarked lily aphid	English
+1169313	tuliptree aphid	English
+1169438	gooseberry witchbroom aphid	English
+1169622	goldenglow aphid	English
+1169908	potato aphid	English
+1170022	purplespotted lily aphid	English
+1170051	rose aphid	English
+1170156	foxglove aphid	English
+1170354	black peach aphid	English
+1170374	thistle aphid	English
+1170514	black cherry aphid	English
+1170541	ornate aphid	English
+1170633	shallot aphid	English
+1170639	green peach aphid	English
+1170640	green peach aphid	English
+1170684	tobacco aphid	English
+1170707	privet aphid	English
+1170889	yellow rose aphid	English
+1170978	pecan phylloxera	English
+1170985	pecan leaf phylloxera	English
+1171063	grape phylloxera	English
+1222195	balsam woolly adelgid	English
+1222919	chrysanthemum aphid	English
+1225983	sow thistle aphid	English

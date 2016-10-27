@@ -1,0 +1,6 @@
+AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
+528397	rukket fingersopp				Norwegian Nynorsk	147411	
+528397	wrinkled club				English	147411	
+528397	rimpelige koraalzwam				Dutch	147411	
+528397	rynket fingersopp				Norwegian Bokmål	147411	
+528397	rynkig fingersvamp				Swedish	147411	

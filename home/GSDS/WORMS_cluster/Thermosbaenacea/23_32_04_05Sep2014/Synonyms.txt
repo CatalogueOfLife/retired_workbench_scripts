@@ -1,0 +1,9 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+412798	412776	Monodella		scabra	Pretus, 1991				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:412798	
+412796	412770	Monodella		halophila	S.L. Karaman, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:412796	
+412793	412763	Monodella		argentarii	Stella, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:412793	
+412799	412779	Monodella		somala	Chelazzi & Messsana, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:412799	
+412794	412764	Monodella		atlantomaroccana	Boutin & Cals, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:412794	
+412797	412775	Monodella		sanctaecrucis	Stock, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:412797	
+412795	412760	Monodella		finki	Mestrov & Lattinger-Penko, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:412795	
+412800	412782	Monodella		texana	Maguire, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:412800	

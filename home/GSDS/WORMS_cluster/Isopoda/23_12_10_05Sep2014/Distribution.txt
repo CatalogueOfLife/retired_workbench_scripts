@@ -1,0 +1,4674 @@
+AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
+220697	Tunis Gulf	Text		
+118839	Tunis Gulf	Text		
+118467	Tunis Gulf	Text		
+118474	Tunis Gulf	Text		
+118843	Tunis Gulf	Text		
+118852	Tunis Gulf	Text		
+118994	Tunis Gulf	Text		
+118809	Rockall Trough	Text		
+118809	Rockall Trough	Text		
+233981	East Siberian Sea	Text		
+118515	Davis Strait	Text		
+255646	Davis Strait	Text		
+183459	Davis Strait	Text		
+183275	Davis Strait	Text		
+183274	Davis Strait	Text		
+183280	Davis Strait	Text		
+183279	Davis Strait	Text		
+183251	Davis Strait	Text		
+183252	Davis Strait	Text		
+183218	Davis Strait	Text		
+183216	Davis Strait	Text		
+183057	Davis Strait	Text		
+118513	Davis Strait	Text		
+264241	Davis Strait	Text		
+183184	Davis Strait	Text		
+233980	Davis Strait	Text		
+233980	Davis Strait	Text		
+295715	Davis Strait	Text		
+146502	Hudson Strait	Text		
+157913	Beaufort Sea	Text		
+156445	Beaufort Sea	Text		
+233981	Beaufort Sea	Text		
+119034	Beaufort Sea	Text		
+118798	Beaufort Sea	Text		
+118802	Beaufort Sea	Text		
+118770	Beaufort Sea	Text		
+118747	Beaufort Sea	Text		
+118539	Beaufort Sea	Text		
+146502	Beaufort Sea	Text		
+118986	Beaufort Sea	Text		
+257444	Mozambique Channel	Text		
+259032	Gulf of Suez	Text		
+220690	Gulf of Suez	Text		
+255979	Gulf of Suez	Text		
+256789	Gulf of Suez	Text		
+118932	Gulf of Suez	Text		
+118936	Gulf of Suez	Text		
+256353	Gulf of Suez	Text		
+118973	Gulf of Suez	Text		
+259032	Gulf of Aqaba	Text		
+216037	Red Sea	Text		
+216037	Red Sea	Text		
+255979	Red Sea	Text		
+256499	Red Sea	Text		
+118927	Red Sea	Text		
+220694	Red Sea	Text		
+256731	Red Sea	Text		
+256734	Red Sea	Text		
+220694	Red Sea	Text		
+220697	Red Sea	Text		
+220690	Red Sea	Text		
+259032	Red Sea	Text		
+256753	Red Sea	Text		
+118849	Red Sea	Text		
+220706	Red Sea	Text		
+119047	Red Sea	Text		
+119039	Red Sea	Text		
+216057	Red Sea	Text		
+220708	Red Sea	Text		
+220708	Red Sea	Text		
+220708	Red Sea	Text		
+257391	Red Sea	Text		
+220736	Red Sea	Text		
+214917	Red Sea	Text		
+220727	Red Sea	Text		
+258196	Red Sea	Text		
+256631	Red Sea	Text		
+256824	Red Sea	Text		
+258399	Red Sea	Text		
+148661	Red Sea	Text		
+220729	Red Sea	Text		
+220729	Red Sea	Text		
+411092	Gulf of Aden	Text		
+579988	Gulf of Aden	Text		
+212107	Persian Gulf	Text		
+558704	Persian Gulf	Text		
+579987	Persian Gulf	Text		
+293271	Persian Gulf	Text		
+220708	Persian Gulf	Text		
+293265	Persian Gulf	Text		
+751365	Persian Gulf	Text		
+574617	Persian Gulf	Text		
+256739	Persian Gulf	Text		
+574616	Persian Gulf	Text		
+292694	Persian Gulf	Text		
+259036	Persian Gulf	Text		
+292695	Persian Gulf	Text		
+292696	Persian Gulf	Text		
+255447	Gulf of Oman	Text		
+255398	Arabian Sea	Text		
+118831	Arabian Sea	Text		
+256612	Arabian Sea	Text		
+256794	Arabian Sea	Text		
+261839	Arabian Sea	Text		
+255219	Gulf of Mannar	Text		
+255231	Bay of Bengal	Text		
+258829	Bay of Bengal	Text		
+259810	Bay of Bengal	Text		
+292760	Bay of Bengal	Text		
+256861	Bay of Bengal	Text		
+118632	Bay of Bengal	Text		
+261045	Bay of Bengal	Text		
+256867	Andaman Sea	Text		
+256448	Andaman Sea	Text		
+256611	Andaman Sea	Text		
+256816	Malacca Strait	Text		
+220716	Suez canal	Text		
+256475	Suez canal	Text		
+220727	Suez canal	Text		
+260603	Caspian Sea	Text		
+256389	Caribbean Sea	Text		
+258957	Caribbean Sea	Text		
+220697	Caribbean Sea	Text		
+255979	Caribbean Sea	Text		
+216037	Caribbean Sea	Text		
+256902	Caribbean Sea	Text		
+256903	Caribbean Sea	Text		
+258081	Caribbean Sea	Text		
+258087	Caribbean Sea	Text		
+261865	Caribbean Sea	Text		
+157912	Gulf of Mexico	Text		
+262942	Gulf of Mexico	Text		
+263041	Gulf of Mexico	Text		
+220727	Gulf of Mexico	Text		
+257081	Gulf of Mexico	Text		
+256373	Gulf of Mexico	Text		
+256474	Gulf of Mexico	Text		
+256463	Gulf of Mexico	Text		
+256479	Gulf of Mexico	Text		
+256316	Gulf of Mexico	Text		
+257915	Gulf of Mexico	Text		
+157908	Gulf of Mexico	Text		
+257385	Gulf of Mexico	Text		
+255709	Gulf of Mexico	Text		
+255710	Gulf of Mexico	Text		
+263448	Gulf of Mexico	Text		
+263449	Gulf of Mexico	Text		
+263450	Gulf of Mexico	Text		
+263859	Gulf of Mexico	Text		
+263851	Gulf of Mexico	Text		
+256258	Gulf of Mexico	Text		
+118242	Gulf of Mexico	Text		
+256264	Gulf of Mexico	Text		
+118596	Gulf of Mexico	Text		
+255289	Gulf of Mexico	Text		
+262583	Gulf of Mexico	Text		
+262585	Gulf of Mexico	Text		
+262586	Gulf of Mexico	Text		
+118585	Gulf of Mexico	Text		
+255324	Gulf of Mexico	Text		
+255326	Gulf of Mexico	Text		
+255300	Gulf of Mexico	Text		
+255291	Gulf of Mexico	Text		
+256721	Gulf of Mexico	Text		
+255259	Gulf of Mexico	Text		
+258487	Gulf of Mexico	Text		
+255586	Gulf of Mexico	Text		
+255590	Gulf of Mexico	Text		
+261865	Gulf of Mexico	Text		
+261844	Gulf of Mexico	Text		
+256718	Gulf of Mexico	Text		
+256716	Gulf of Mexico	Text		
+256332	Gulf of Mexico	Text		
+256815	Gulf of Mexico	Text		
+258351	Gulf of Mexico	Text		
+258352	Gulf of Mexico	Text		
+258333	Gulf of Mexico	Text		
+258338	Gulf of Mexico	Text		
+258342	Gulf of Mexico	Text		
+261218	Gulf of Mexico	Text		
+258087	Gulf of Mexico	Text		
+256825	Gulf of Mexico	Text		
+256836	Gulf of Mexico	Text		
+261322	Gulf of Mexico	Text		
+261459	Gulf of Mexico	Text		
+255535	Gulf of Mexico	Text		
+118906	Gulf of Mexico	Text		
+261589	Gulf of Mexico	Text		
+157898	Gulf of Mexico	Text		
+261790	Gulf of Mexico	Text		
+261796	Gulf of Mexico	Text		
+261817	Gulf of Mexico	Text		
+261839	Gulf of Mexico	Text		
+261699	Gulf of Mexico	Text		
+256315	Gulf of Mexico	Text		
+256073	Gulf of Mexico	Text		
+255526	Gulf of Mexico	Text		
+260877	Gulf of Mexico	Text		
+258479	Gulf of Mexico	Text		
+260921	Gulf of Mexico	Text		
+256046	Gulf of Mexico	Text		
+256902	Gulf of Mexico	Text		
+256913	Gulf of Mexico	Text		
+148645	Gulf of Mexico	Text		
+261047	Gulf of Mexico	Text		
+258182	Gulf of Mexico	Text		
+118744	Gulf of Mexico	Text		
+256361	Gulf of Mexico	Text		
+255791	Gulf of Mexico	Text		
+257223	Gulf of Mexico	Text		
+260444	Gulf of Mexico	Text		
+260419	Gulf of Mexico	Text		
+260439	Gulf of Mexico	Text		
+258413	Gulf of Mexico	Text		
+260359	Gulf of Mexico	Text		
+260366	Gulf of Mexico	Text		
+260371	Gulf of Mexico	Text		
+260375	Gulf of Mexico	Text		
+260378	Gulf of Mexico	Text		
+258420	Gulf of Mexico	Text		
+260704	Gulf of Mexico	Text		
+255518	Gulf of Mexico	Text		
+260637	Gulf of Mexico	Text		
+260558	Gulf of Mexico	Text		
+260565	Gulf of Mexico	Text		
+256294	Gulf of Mexico	Text		
+256754	Gulf of Mexico	Text		
+157847	Gulf of Mexico	Text		
+260190	Gulf of Mexico	Text		
+257001	Gulf of Mexico	Text		
+118888	Gulf of Mexico	Text		
+260148	Gulf of Mexico	Text		
+260239	Gulf of Mexico	Text		
+257851	Gulf of Mexico	Text		
+255511	Gulf of Mexico	Text		
+256801	Gulf of Mexico	Text		
+118565	Gulf of Mexico	Text		
+260262	Gulf of Mexico	Text		
+255228	Gulf of Mexico	Text		
+157888	Gulf of Mexico	Text		
+257860	Gulf of Mexico	Text		
+257861	Gulf of Mexico	Text		
+157887	Gulf of Mexico	Text		
+256614	Gulf of Mexico	Text		
+256604	Gulf of Mexico	Text		
+256597	Gulf of Mexico	Text		
+259670	Gulf of Mexico	Text		
+256740	Gulf of Mexico	Text		
+259750	Gulf of Mexico	Text		
+257333	Gulf of Mexico	Text		
+259812	Gulf of Mexico	Text		
+220697	Gulf of Mexico	Text		
+118842	Gulf of Mexico	Text		
+259243	Gulf of Mexico	Text		
+259252	Gulf of Mexico	Text		
+259199	Gulf of Mexico	Text		
+255201	Gulf of Mexico	Text		
+118606	Gulf of Mexico	Text		
+259343	Gulf of Mexico	Text		
+259347	Gulf of Mexico	Text		
+411059	Gulf of Mexico	Text		
+255967	Gulf of Mexico	Text		
+216037	Gulf of Mexico	Text		
+255968	Gulf of Mexico	Text		
+255214	Gulf of Mexico	Text		
+257111	Gulf of Mexico	Text		
+258993	Gulf of Mexico	Text		
+258986	Gulf of Mexico	Text		
+258951	Gulf of Mexico	Text		
+257448	Gulf of Mexico	Text		
+367044	Gulf of Mexico	Text		
+257306	Gulf of Mexico	Text		
+257313	Gulf of Mexico	Text		
+367057	Gulf of Mexico	Text		
+255191	Gulf of Mexico	Text		
+258757	Gulf of Mexico	Text		
+258725	Gulf of Mexico	Text		
+421638	Gulf of Mexico	Text		
+258872	Gulf of Mexico	Text		
+255365	Gulf of Mexico	Text		
+255374	Gulf of Mexico	Text		
+258764	Gulf of Mexico	Text		
+118827	Gulf of Mexico	Text		
+256404	Gulf of Mexico	Text		
+258458	Gulf of Mexico	Text		
+258295	Gulf of Mexico	Text		
+157885	Gulf of St. Lawrence	Text		
+118623	Gulf of St. Lawrence	Text		
+118615	Gulf of St. Lawrence	Text		
+146880	Gulf of St. Lawrence	Text		
+118217	Gulf of St. Lawrence	Text		
+119039	Gulf of St. Lawrence	Text		
+118827	Gulf of St. Lawrence	Text		
+118982	Gulf of St. Lawrence	Text		
+118497	Gulf of St. Lawrence	Text		
+118204	Gulf of St. Lawrence	Text		
+118770	Gulf of St. Lawrence	Text		
+118754	Gulf of St. Lawrence	Text		
+118757	Gulf of St. Lawrence	Text		
+118751	Gulf of St. Lawrence	Text		
+157891	Gulf of St. Lawrence	Text		
+264171	Gulf of St. Lawrence	Text		
+118730	Gulf of St. Lawrence	Text		
+147002	Gulf of St. Lawrence	Text		
+118917	Gulf of St. Lawrence	Text		
+256894	Gulf of St. Lawrence	Text		
+118915	Gulf of St. Lawrence	Text		
+118802	Gulf of St. Lawrence	Text		
+118798	Gulf of St. Lawrence	Text		
+156445	Gulf of St. Lawrence	Text		
+257395	Gulf of St. Lawrence	Text		
+157913	Gulf of St. Lawrence	Text		
+119053	Gulf of St. Lawrence	Text		
+156446	Gulf of St. Lawrence	Text		
+411076	Philippine Sea	Text		
+411088	Philippine Sea	Text		
+411086	Philippine Sea	Text		
+411080	Philippine Sea	Text		
+411082	Philippine Sea	Text		
+411049	Philippine Sea	Text		
+411052	Philippine Sea	Text		
+411064	Philippine Sea	Text		
+411065	East China Sea	Text		
+579155	Sea of Japan	Text		
+411092	Sea of Japan	Text		
+410902	Sea of Japan	Text		
+257531	Bering Sea	Text		
+259114	Bering Sea	Text		
+263978	Gulf of Panama	Text		
+263982	Gulf of Panama	Text		
+459106	Rio de la Plata	Text		
+459105	Rio de la Plata	Text		
+263977	Drake Passage	Text		
+255885	Drake Passage	Text		
+411039	Scotia Sea	Text		
+263957	Scotia Sea	Text		
+263967	Scotia Sea	Text		
+262829	Scotia Sea	Text		
+344983	Scotia Sea	Text		
+344984	Scotia Sea	Text		
+344987	Scotia Sea	Text		
+579149	Weddell Sea	Text		
+410921	Weddell Sea	Text		
+579153	Weddell Sea	Text		
+579150	Weddell Sea	Text		
+263983	Weddell Sea	Text		
+410916	Weddell Sea	Text		
+410910	Weddell Sea	Text		
+174927	Weddell Sea	Text		
+344986	Weddell Sea	Text		
+344988	Weddell Sea	Text		
+344989	Weddell Sea	Text		
+410929	Weddell Sea	Text		
+257986	Weddell Sea	Text		
+411044	Weddell Sea	Text		
+411068	Weddell Sea	Text		
+459127	Weddell Sea	Text		
+459109	Weddell Sea	Text		
+459126	Weddell Sea	Text		
+410924	Weddell Sea	Text		
+255622	Weddell Sea	Text		
+174413	Weddell Sea	Text		
+174413	Weddell Sea	Text		
+174448	Weddell Sea	Text		
+261589	South China Sea	Text		
+291325	South China Sea	Text		
+256830	Gulf of Thailand	Text		
+257444	Java Sea	Text		
+255309	Makassar Strait	Text		
+405350	Timor Sea	Text		
+261456	Gulf of Carpentaria	Text		
+256673	Gulf of Carpentaria	Text		
+256731	Gulf of Carpentaria	Text		
+579161	Arafura Sea	Text		
+259651	Arafura Sea	Text		
+256488	Banda Sea	Text		
+258624	Torres Strait	Text		
+256442	Coral Sea	Text		
+450638	Tasman Sea	Text		
+410925	Tasman Sea	Text		
+405345	Tasman Sea	Text		
+174413	Tasman Sea	Text		
+405350	Tasman Sea	Text		
+816511	Tasman Sea	Text		
+816511	Tasman Sea	Text		
+816511	Tasman Sea	Text		
+816511	Tasman Sea	Text		
+816537	Tasman Sea	Text		
+816537	Tasman Sea	Text		
+816537	Tasman Sea	Text		
+261959	Tasman Sea	Text		
+263956	Tasman Sea	Text		
+255452	Bass Strait	Text		
+260503	Bass Strait	Text		
+816537	Bass Strait	Text		
+411079	Bass Strait	Text		
+411078	Bass Strait	Text		
+411090	Bass Strait	Text		
+710639	Amundsen Sea	Text		
+715544	Amundsen Sea	Text		
+710639	Bellingshausen Sea	Text		
+579159	Ross Sea	Text		
+256543	Ross Sea	Text		
+174413	Ross Sea	Text		
+411067	Ross Sea	Text		
+255947	Georges Bank	Text		
+263526	Mid-Atlantic Ridge	Text		
+183189	Puerto Rico Trench	Text		
+255958	Puerto Rico Trench	Text		
+233891	Elbe	Text		
+118973	Wandelaar	Text		
+118995	Wandelaar	Text		
+118852	Westerschelde	Text		
+118852	Westerschelde	Text		
+118474	Westerschelde	Text		
+119046	Westerschelde	Text		
+119046	Westerschelde	Text		
+119046	Westerschelde	Text		
+146999	Westerschelde	Text		
+118958	Westerschelde	Text		
+118958	Westerschelde	Text		
+119001	Schelde estuary	Text		
+118958	Schelde estuary	Text		
+257817	Madeira	Text		
+264376	Madeira	Text		
+261272	Madeira	Text		
+119042	Banc d'Arguin	Text		
+264714	Pyrénées	Text		
+257939	Galapagos Islands	Text		
+148637	Cap Gris Nez	Text		
+119043	Cap Gris Nez	Text		
+119042	North East Atlantic	Text		
+119047	North East Atlantic	Text		
+119046	North East Atlantic	Text		
+146970	North East Atlantic	Text		
+146965	North East Atlantic	Text		
+118216	North East Atlantic	Text		
+118994	North East Atlantic	Text		
+118990	North East Atlantic	Text		
+118474	North East Atlantic	Text		
+256988	North East Atlantic	Text		
+148644	North East Atlantic	Text		
+119024	North East Atlantic	Text		
+118467	North East Atlantic	Text		
+118204	North East Atlantic	Text		
+118926	North East Atlantic	Text		
+118839	North East Atlantic	Text		
+118860	North East Atlantic	Text		
+118757	North East Atlantic	Text		
+118735	North East Atlantic	Text		
+118917	North East Atlantic	Text		
+148645	North East Atlantic	Text		
+147002	North East Atlantic	Text		
+264818	North East Atlantic	Text		
+118732	North East Atlantic	Text		
+118218	North East Atlantic	Text		
+118954	North East Atlantic	Text		
+118953	North East Atlantic	Text		
+118793	North East Atlantic	Text		
+118226	North East Atlantic	Text		
+118864	North East Atlantic	Text		
+118801	North East Atlantic	Text		
+118240	North East Atlantic	Text		
+118236	North East Atlantic	Text		
+118973	North East Atlantic	Text		
+118859	Dutch Exclusive  Economic Zone	Text		
+118958	Dutch Exclusive  Economic Zone	Text		
+148661	Dutch Exclusive  Economic Zone	Text		
+118917	Dutch Exclusive  Economic Zone	Text		
+118917	Dutch Exclusive  Economic Zone	Text		
+118918	Dutch Exclusive  Economic Zone	Text		
+118953	Dutch Exclusive  Economic Zone	Text		
+118732	Dutch Exclusive  Economic Zone	Text		
+118218	Dutch Exclusive  Economic Zone	Text		
+118227	Dutch Exclusive  Economic Zone	Text		
+119001	Dutch Exclusive  Economic Zone	Text		
+148658	Dutch Exclusive  Economic Zone	Text		
+118235	Dutch Exclusive  Economic Zone	Text		
+118240	Dutch Exclusive  Economic Zone	Text		
+118233	Dutch Exclusive  Economic Zone	Text		
+148638	Dutch Exclusive  Economic Zone	Text		
+118973	Dutch Exclusive  Economic Zone	Text		
+118936	Dutch Exclusive  Economic Zone	Text		
+118474	Dutch Exclusive  Economic Zone	Text		
+118852	Dutch Exclusive  Economic Zone	Text		
+148637	Dutch Exclusive  Economic Zone	Text		
+118843	Dutch Exclusive  Economic Zone	Text		
+118216	Dutch Exclusive  Economic Zone	Text		
+118994	Dutch Exclusive  Economic Zone	Text		
+118990	Dutch Exclusive  Economic Zone	Text		
+118714	Dutch Exclusive  Economic Zone	Text		
+119039	Dutch Exclusive  Economic Zone	Text		
+119039	Dutch Exclusive  Economic Zone	Text		
+119042	Dutch Exclusive  Economic Zone	Text		
+119043	Dutch Exclusive  Economic Zone	Text		
+119044	Dutch Exclusive  Economic Zone	Text		
+119046	Dutch Exclusive  Economic Zone	Text		
+119048	Dutch Exclusive  Economic Zone	Text		
+119050	Dutch Exclusive  Economic Zone	Text		
+119047	Dutch Exclusive  Economic Zone	Text		
+118205	Dutch Exclusive  Economic Zone	Text		
+148659	Dutch Exclusive  Economic Zone	Text		
+119024	Dutch Exclusive  Economic Zone	Text		
+118196	Dutch Exclusive  Economic Zone	Text		
+118827	Dutch Exclusive  Economic Zone	Text		
+293484	Danish Exclusive Economic Zone	Text		
+148675	French Exclusive Economic Zone	Text		
+257516	French Exclusive Economic Zone	Text		
+119049	Georgian Exclusive Economic Zone	Text		
+118938	Greek Exclusive Economic Zone	Text		
+256988	Greek Exclusive Economic Zone	Text		
+118941	Greek Exclusive Economic Zone	Text		
+118940	Greek Exclusive Economic Zone	Text		
+118943	Greek Exclusive Economic Zone	Text		
+118942	Greek Exclusive Economic Zone	Text		
+118474	Greek Exclusive Economic Zone	Text		
+118929	Greek Exclusive Economic Zone	Text		
+118931	Greek Exclusive Economic Zone	Text		
+118930	Greek Exclusive Economic Zone	Text		
+264232	Greek Exclusive Economic Zone	Text		
+118935	Greek Exclusive Economic Zone	Text		
+118934	Greek Exclusive Economic Zone	Text		
+118932	Greek Exclusive Economic Zone	Text		
+118937	Greek Exclusive Economic Zone	Text		
+118936	Greek Exclusive Economic Zone	Text		
+118843	Greek Exclusive Economic Zone	Text		
+118848	Greek Exclusive Economic Zone	Text		
+118849	Greek Exclusive Economic Zone	Text		
+118847	Greek Exclusive Economic Zone	Text		
+118846	Greek Exclusive Economic Zone	Text		
+148637	Greek Exclusive Economic Zone	Text		
+118855	Greek Exclusive Economic Zone	Text		
+118851	Greek Exclusive Economic Zone	Text		
+118852	Greek Exclusive Economic Zone	Text		
+118854	Greek Exclusive Economic Zone	Text		
+118850	Greek Exclusive Economic Zone	Text		
+118894	Greek Exclusive Economic Zone	Text		
+119047	Greek Exclusive Economic Zone	Text		
+119042	Greek Exclusive Economic Zone	Text		
+119039	Greek Exclusive Economic Zone	Text		
+118990	Greek Exclusive Economic Zone	Text		
+118993	Greek Exclusive Economic Zone	Text		
+118992	Greek Exclusive Economic Zone	Text		
+118994	Greek Exclusive Economic Zone	Text		
+118997	Greek Exclusive Economic Zone	Text		
+118995	Greek Exclusive Economic Zone	Text		
+156110	Greek Exclusive Economic Zone	Text		
+119000	Greek Exclusive Economic Zone	Text		
+119024	Greek Exclusive Economic Zone	Text		
+146494	Greek Exclusive Economic Zone	Text		
+118468	Greek Exclusive Economic Zone	Text		
+118467	Greek Exclusive Economic Zone	Text		
+118839	Greek Exclusive Economic Zone	Text		
+119038	Greek Exclusive Economic Zone	Text		
+118872	Greek Exclusive Economic Zone	Text		
+118528	Greek Exclusive Economic Zone	Text		
+118205	Greek Exclusive Economic Zone	Text		
+118713	Greek Exclusive Economic Zone	Text		
+118973	Greek Exclusive Economic Zone	Text		
+220727	Greek Exclusive Economic Zone	Text		
+118834	Greek Exclusive Economic Zone	Text		
+256459	Greek Exclusive Economic Zone	Text		
+118766	Greek Exclusive Economic Zone	Text		
+263446	Greek Exclusive Economic Zone	Text		
+156446	Greek Exclusive Economic Zone	Text		
+474857	Greek Exclusive Economic Zone	Text		
+474865	Greek Exclusive Economic Zone	Text		
+119001	Greek Exclusive Economic Zone	Text		
+118510	Greek Exclusive Economic Zone	Text		
+118509	Greek Exclusive Economic Zone	Text		
+118227	Greek Exclusive Economic Zone	Text		
+118225	Greek Exclusive Economic Zone	Text		
+118481	Greek Exclusive Economic Zone	Text		
+118677	Greek Exclusive Economic Zone	Text		
+118678	Greek Exclusive Economic Zone	Text		
+118732	Greek Exclusive Economic Zone	Text		
+264176	Greek Exclusive Economic Zone	Text		
+264179	Greek Exclusive Economic Zone	Text		
+264181	Greek Exclusive Economic Zone	Text		
+264823	Greek Exclusive Economic Zone	Text		
+118948	Greek Exclusive Economic Zone	Text		
+264172	Greek Exclusive Economic Zone	Text		
+118956	Greek Exclusive Economic Zone	Text		
+118953	Greek Exclusive Economic Zone	Text		
+118740	Greek Exclusive Economic Zone	Text		
+119073	Greek Exclusive Economic Zone	Text		
+118738	Greek Exclusive Economic Zone	Text		
+118917	Greek Exclusive Economic Zone	Text		
+118919	Greek Exclusive Economic Zone	Text		
+148645	Greek Exclusive Economic Zone	Text		
+118501	Greek Exclusive Economic Zone	Text		
+118859	Greek Exclusive Economic Zone	Text		
+118863	Greek Exclusive Economic Zone	Text		
+118907	Greek Exclusive Economic Zone	Text		
+261839	Greek Exclusive Economic Zone	Text		
+261827	Greek Exclusive Economic Zone	Text		
+156239	Greek Exclusive Economic Zone	Text		
+147081	Icelandic Exclusive Economic Zone	Text		
+292937	Icelandic Exclusive Economic Zone	Text		
+293380	Icelandic Exclusive Economic Zone	Text		
+118936	Irish Exclusive economic Zone	Text		
+256961	Irish Exclusive economic Zone	Text		
+256988	Irish Exclusive economic Zone	Text		
+118852	Irish Exclusive economic Zone	Text		
+118855	Irish Exclusive economic Zone	Text		
+148637	Irish Exclusive economic Zone	Text		
+118849	Irish Exclusive economic Zone	Text		
+119000	Irish Exclusive economic Zone	Text		
+118995	Irish Exclusive economic Zone	Text		
+118994	Irish Exclusive economic Zone	Text		
+118990	Irish Exclusive economic Zone	Text		
+119039	Irish Exclusive economic Zone	Text		
+119042	Irish Exclusive economic Zone	Text		
+119044	Irish Exclusive economic Zone	Text		
+119043	Irish Exclusive economic Zone	Text		
+119047	Irish Exclusive economic Zone	Text		
+119046	Irish Exclusive economic Zone	Text		
+119050	Irish Exclusive economic Zone	Text		
+119048	Irish Exclusive economic Zone	Text		
+118714	Irish Exclusive economic Zone	Text		
+118217	Irish Exclusive economic Zone	Text		
+146970	Irish Exclusive economic Zone	Text		
+148673	Irish Exclusive economic Zone	Text		
+118467	Irish Exclusive economic Zone	Text		
+118190	Irish Exclusive economic Zone	Text		
+119024	Irish Exclusive economic Zone	Text		
+146516	Irish Exclusive economic Zone	Text		
+118199	Irish Exclusive economic Zone	Text		
+118196	Irish Exclusive economic Zone	Text		
+148644	Irish Exclusive economic Zone	Text		
+118926	Irish Exclusive economic Zone	Text		
+118205	Irish Exclusive economic Zone	Text		
+118200	Irish Exclusive economic Zone	Text		
+118203	Irish Exclusive economic Zone	Text		
+118839	Irish Exclusive economic Zone	Text		
+293484	Irish Exclusive economic Zone	Text		
+118842	Irish Exclusive economic Zone	Text		
+119001	Irish Exclusive economic Zone	Text		
+118793	Irish Exclusive economic Zone	Text		
+118225	Irish Exclusive economic Zone	Text		
+118227	Irish Exclusive economic Zone	Text		
+118226	Irish Exclusive economic Zone	Text		
+118798	Irish Exclusive economic Zone	Text		
+118801	Irish Exclusive economic Zone	Text		
+118233	Irish Exclusive economic Zone	Text		
+118240	Irish Exclusive economic Zone	Text		
+118237	Irish Exclusive economic Zone	Text		
+118234	Irish Exclusive economic Zone	Text		
+118681	Irish Exclusive economic Zone	Text		
+118973	Irish Exclusive economic Zone	Text		
+256154	Irish Exclusive economic Zone	Text		
+118735	Irish Exclusive economic Zone	Text		
+118752	Irish Exclusive economic Zone	Text		
+118757	Irish Exclusive economic Zone	Text		
+118758	Irish Exclusive economic Zone	Text		
+257580	Irish Exclusive economic Zone	Text		
+147002	Irish Exclusive economic Zone	Text		
+118917	Irish Exclusive economic Zone	Text		
+118918	Irish Exclusive economic Zone	Text		
+118954	Irish Exclusive economic Zone	Text		
+264175	Irish Exclusive economic Zone	Text		
+118732	Irish Exclusive economic Zone	Text		
+118218	Irish Exclusive economic Zone	Text		
+259512	Italian Exclusive Economic Zone	Text		
+259516	Italian Exclusive Economic Zone	Text		
+148675	Italian Exclusive Economic Zone	Text		
+118917	Norwegian Exclusive Economic Zone	Text		
+257571	Norwegian Exclusive Economic Zone	Text		
+147042	Norwegian Exclusive Economic Zone	Text		
+445795	Norwegian Exclusive Economic Zone	Text		
+293488	Norwegian Exclusive Economic Zone	Text		
+293489	Norwegian Exclusive Economic Zone	Text		
+292980	Norwegian Exclusive Economic Zone	Text		
+146512	Norwegian Exclusive Economic Zone	Text		
+146516	Norwegian Exclusive Economic Zone	Text		
+367215	Norwegian Exclusive Economic Zone	Text		
+146970	Norwegian Exclusive Economic Zone	Text		
+119044	Polish Exclusive Economic Zone	Text		
+119042	Polish Exclusive Economic Zone	Text		
+119039	Polish Exclusive Economic Zone	Text		
+118852	Polish Exclusive Economic Zone	Text		
+118474	Polish Exclusive Economic Zone	Text		
+264152	Polish Exclusive Economic Zone	Text		
+119034	Polish Exclusive Economic Zone	Text		
+118953	Polish Exclusive Economic Zone	Text		
+118958	Polish Exclusive Economic Zone	Text		
+258016	Portuguese Exclusive Economic Zone	Text		
+119049	Romanian Exclusive economic Zone	Text		
+257820	Romania	Text		
+119042	Swedish Exclusive Economic Zone	Text		
+119044	Swedish Exclusive Economic Zone	Text		
+119039	Swedish Exclusive Economic Zone	Text		
+118623	Swedish Exclusive Economic Zone	Text		
+118615	Swedish Exclusive Economic Zone	Text		
+118559	Swedish Exclusive Economic Zone	Text		
+119024	Swedish Exclusive Economic Zone	Text		
+118601	Swedish Exclusive Economic Zone	Text		
+118732	Swedish Exclusive Economic Zone	Text		
+264171	Swedish Exclusive Economic Zone	Text		
+118917	Swedish Exclusive Economic Zone	Text		
+118770	Swedish Exclusive Economic Zone	Text		
+119049	Ukrainian Exclusive Economic Zone	Text		
+119048	United Kingdom Exclusive Economic Zone	Text		
+119050	United Kingdom Exclusive Economic Zone	Text		
+119047	United Kingdom Exclusive Economic Zone	Text		
+119046	United Kingdom Exclusive Economic Zone	Text		
+119042	United Kingdom Exclusive Economic Zone	Text		
+119044	United Kingdom Exclusive Economic Zone	Text		
+119043	United Kingdom Exclusive Economic Zone	Text		
+146970	United Kingdom Exclusive Economic Zone	Text		
+118217	United Kingdom Exclusive Economic Zone	Text		
+118714	United Kingdom Exclusive Economic Zone	Text		
+118990	United Kingdom Exclusive Economic Zone	Text		
+118994	United Kingdom Exclusive Economic Zone	Text		
+118995	United Kingdom Exclusive Economic Zone	Text		
+119000	United Kingdom Exclusive Economic Zone	Text		
+118216	United Kingdom Exclusive Economic Zone	Text		
+146965	United Kingdom Exclusive Economic Zone	Text		
+260535	United Kingdom Exclusive Economic Zone	Text		
+118656	United Kingdom Exclusive Economic Zone	Text		
+118559	United Kingdom Exclusive Economic Zone	Text		
+148674	United Kingdom Exclusive Economic Zone	Text		
+148674	United Kingdom Exclusive Economic Zone	Text		
+260259	United Kingdom Exclusive Economic Zone	Text		
+118669	United Kingdom Exclusive Economic Zone	Text		
+118548	United Kingdom Exclusive Economic Zone	Text		
+118615	United Kingdom Exclusive Economic Zone	Text		
+118623	United Kingdom Exclusive Economic Zone	Text		
+233979	United Kingdom Exclusive Economic Zone	Text		
+118849	United Kingdom Exclusive Economic Zone	Text		
+118848	United Kingdom Exclusive Economic Zone	Text		
+118843	United Kingdom Exclusive Economic Zone	Text		
+148637	United Kingdom Exclusive Economic Zone	Text		
+118855	United Kingdom Exclusive Economic Zone	Text		
+118852	United Kingdom Exclusive Economic Zone	Text		
+256988	United Kingdom Exclusive Economic Zone	Text		
+118941	United Kingdom Exclusive Economic Zone	Text		
+118942	United Kingdom Exclusive Economic Zone	Text		
+257517	United Kingdom Exclusive Economic Zone	Text		
+256961	United Kingdom Exclusive Economic Zone	Text		
+118936	United Kingdom Exclusive Economic Zone	Text		
+118474	United Kingdom Exclusive Economic Zone	Text		
+118929	United Kingdom Exclusive Economic Zone	Text		
+118203	United Kingdom Exclusive Economic Zone	Text		
+118201	United Kingdom Exclusive Economic Zone	Text		
+118204	United Kingdom Exclusive Economic Zone	Text		
+118200	United Kingdom Exclusive Economic Zone	Text		
+118205	United Kingdom Exclusive Economic Zone	Text		
+118986	United Kingdom Exclusive Economic Zone	Text		
+118982	United Kingdom Exclusive Economic Zone	Text		
+118979	United Kingdom Exclusive Economic Zone	Text		
+118926	United Kingdom Exclusive Economic Zone	Text		
+118206	United Kingdom Exclusive Economic Zone	Text		
+118207	United Kingdom Exclusive Economic Zone	Text		
+257844	United Kingdom Exclusive Economic Zone	Text		
+257843	United Kingdom Exclusive Economic Zone	Text		
+118497	United Kingdom Exclusive Economic Zone	Text		
+118842	United Kingdom Exclusive Economic Zone	Text		
+293484	United Kingdom Exclusive Economic Zone	Text		
+259922	United Kingdom Exclusive Economic Zone	Text		
+118839	United Kingdom Exclusive Economic Zone	Text		
+119024	United Kingdom Exclusive Economic Zone	Text		
+119026	United Kingdom Exclusive Economic Zone	Text		
+146516	United Kingdom Exclusive Economic Zone	Text		
+119023	United Kingdom Exclusive Economic Zone	Text		
+118196	United Kingdom Exclusive Economic Zone	Text		
+118192	United Kingdom Exclusive Economic Zone	Text		
+118199	United Kingdom Exclusive Economic Zone	Text		
+118198	United Kingdom Exclusive Economic Zone	Text		
+148673	United Kingdom Exclusive Economic Zone	Text		
+257832	United Kingdom Exclusive Economic Zone	Text		
+118190	United Kingdom Exclusive Economic Zone	Text		
+146494	United Kingdom Exclusive Economic Zone	Text		
+148659	United Kingdom Exclusive Economic Zone	Text		
+118467	United Kingdom Exclusive Economic Zone	Text		
+148644	United Kingdom Exclusive Economic Zone	Text		
+118827	United Kingdom Exclusive Economic Zone	Text		
+118825	United Kingdom Exclusive Economic Zone	Text		
+118830	United Kingdom Exclusive Economic Zone	Text		
+118816	United Kingdom Exclusive Economic Zone	Text		
+118815	United Kingdom Exclusive Economic Zone	Text		
+118777	United Kingdom Exclusive Economic Zone	Text		
+118770	United Kingdom Exclusive Economic Zone	Text		
+118758	United Kingdom Exclusive Economic Zone	Text		
+118757	United Kingdom Exclusive Economic Zone	Text		
+118754	United Kingdom Exclusive Economic Zone	Text		
+118752	United Kingdom Exclusive Economic Zone	Text		
+118751	United Kingdom Exclusive Economic Zone	Text		
+118735	United Kingdom Exclusive Economic Zone	Text		
+261279	United Kingdom Exclusive Economic Zone	Text		
+256154	United Kingdom Exclusive Economic Zone	Text		
+256193	United Kingdom Exclusive Economic Zone	Text		
+261211	United Kingdom Exclusive Economic Zone	Text		
+257580	United Kingdom Exclusive Economic Zone	Text		
+118911	United Kingdom Exclusive Economic Zone	Text		
+118863	United Kingdom Exclusive Economic Zone	Text		
+118862	United Kingdom Exclusive Economic Zone	Text		
+118861	United Kingdom Exclusive Economic Zone	Text		
+118859	United Kingdom Exclusive Economic Zone	Text		
+118784	United Kingdom Exclusive Economic Zone	Text		
+118917	United Kingdom Exclusive Economic Zone	Text		
+118918	United Kingdom Exclusive Economic Zone	Text		
+147002	United Kingdom Exclusive Economic Zone	Text		
+148645	United Kingdom Exclusive Economic Zone	Text		
+256097	United Kingdom Exclusive Economic Zone	Text		
+118745	United Kingdom Exclusive Economic Zone	Text		
+295739	United Kingdom Exclusive Economic Zone	Text		
+118958	United Kingdom Exclusive Economic Zone	Text		
+148661	United Kingdom Exclusive Economic Zone	Text		
+118506	United Kingdom Exclusive Economic Zone	Text		
+146999	United Kingdom Exclusive Economic Zone	Text		
+118732	United Kingdom Exclusive Economic Zone	Text		
+118218	United Kingdom Exclusive Economic Zone	Text		
+118677	United Kingdom Exclusive Economic Zone	Text		
+118676	United Kingdom Exclusive Economic Zone	Text		
+118954	United Kingdom Exclusive Economic Zone	Text		
+118953	United Kingdom Exclusive Economic Zone	Text		
+118973	United Kingdom Exclusive Economic Zone	Text		
+118241	United Kingdom Exclusive Economic Zone	Text		
+256459	United Kingdom Exclusive Economic Zone	Text		
+118834	United Kingdom Exclusive Economic Zone	Text		
+118242	United Kingdom Exclusive Economic Zone	Text		
+118515	United Kingdom Exclusive Economic Zone	Text		
+118515	United Kingdom Exclusive Economic Zone	Text		
+263648	United Kingdom Exclusive Economic Zone	Text		
+263657	United Kingdom Exclusive Economic Zone	Text		
+263752	United Kingdom Exclusive Economic Zone	Text		
+263753	United Kingdom Exclusive Economic Zone	Text		
+118681	United Kingdom Exclusive Economic Zone	Text		
+118234	United Kingdom Exclusive Economic Zone	Text		
+118236	United Kingdom Exclusive Economic Zone	Text		
+118237	United Kingdom Exclusive Economic Zone	Text		
+118238	United Kingdom Exclusive Economic Zone	Text		
+118240	United Kingdom Exclusive Economic Zone	Text		
+118233	United Kingdom Exclusive Economic Zone	Text		
+148638	United Kingdom Exclusive Economic Zone	Text		
+257613	United Kingdom Exclusive Economic Zone	Text		
+257587	United Kingdom Exclusive Economic Zone	Text		
+257586	United Kingdom Exclusive Economic Zone	Text		
+148658	United Kingdom Exclusive Economic Zone	Text		
+148668	United Kingdom Exclusive Economic Zone	Text		
+147121	United Kingdom Exclusive Economic Zone	Text		
+258508	United Kingdom Exclusive Economic Zone	Text		
+258538	United Kingdom Exclusive Economic Zone	Text		
+262440	United Kingdom Exclusive Economic Zone	Text		
+118801	United Kingdom Exclusive Economic Zone	Text		
+118802	United Kingdom Exclusive Economic Zone	Text		
+118798	United Kingdom Exclusive Economic Zone	Text		
+118232	United Kingdom Exclusive Economic Zone	Text		
+118226	United Kingdom Exclusive Economic Zone	Text		
+255271	United Kingdom Exclusive Economic Zone	Text		
+118227	United Kingdom Exclusive Economic Zone	Text		
+118225	United Kingdom Exclusive Economic Zone	Text		
+148642	United Kingdom Exclusive Economic Zone	Text		
+258268	United Kingdom Exclusive Economic Zone	Text		
+118793	United Kingdom Exclusive Economic Zone	Text		
+119001	United Kingdom Exclusive Economic Zone	Text		
+118509	United Kingdom Exclusive Economic Zone	Text		
+410800	Chatham Rise	Text		
+715536	Challenger Plateau	Text		
+579166	Campbell Plateau	Text		
+715518	Argentine Basin	Text		
+255890	Argentine Basin	Text		
+263527	Argentine Basin	Text		
+263527	Argentine Basin	Text		
+747382	Argentine Basin	Text		
+292918	Agulhas Plateau	Text		
+411041	Cape Basin	Text		
+743910	Maud Rise	Text		
+743909	Maud Rise	Text		
+118466	European waters (ERMS scope)	Text		
+118600	European waters (ERMS scope)	Text		
+118458	European waters (ERMS scope)	Text		
+118831	European waters (ERMS scope)	Text		
+118819	European waters (ERMS scope)	Text		
+118821	European waters (ERMS scope)	Text		
+118814	European waters (ERMS scope)	Text		
+118518	European waters (ERMS scope)	Text		
+118813	European waters (ERMS scope)	Text		
+118815	European waters (ERMS scope)	Text		
+118816	European waters (ERMS scope)	Text		
+118189	European waters (ERMS scope)	Text		
+118511	European waters (ERMS scope)	Text		
+118513	European waters (ERMS scope)	Text		
+118512	European waters (ERMS scope)	Text		
+118597	European waters (ERMS scope)	Text		
+118598	European waters (ERMS scope)	Text		
+118599	European waters (ERMS scope)	Text		
+118820	European waters (ERMS scope)	Text		
+118823	European waters (ERMS scope)	Text		
+118824	European waters (ERMS scope)	Text		
+118825	European waters (ERMS scope)	Text		
+118827	European waters (ERMS scope)	Text		
+118830	European waters (ERMS scope)	Text		
+118817	European waters (ERMS scope)	Text		
+256450	European waters (ERMS scope)	Text		
+118191	European waters (ERMS scope)	Text		
+118193	European waters (ERMS scope)	Text		
+118194	European waters (ERMS scope)	Text		
+118192	European waters (ERMS scope)	Text		
+118196	European waters (ERMS scope)	Text		
+118197	European waters (ERMS scope)	Text		
+118198	European waters (ERMS scope)	Text		
+118199	European waters (ERMS scope)	Text		
+119024	European waters (ERMS scope)	Text		
+119025	European waters (ERMS scope)	Text		
+119026	European waters (ERMS scope)	Text		
+119021	European waters (ERMS scope)	Text		
+119022	European waters (ERMS scope)	Text		
+119023	European waters (ERMS scope)	Text		
+119019	European waters (ERMS scope)	Text		
+119017	European waters (ERMS scope)	Text		
+119018	European waters (ERMS scope)	Text		
+118650	European waters (ERMS scope)	Text		
+118651	European waters (ERMS scope)	Text		
+118652	European waters (ERMS scope)	Text		
+118190	European waters (ERMS scope)	Text		
+118468	European waters (ERMS scope)	Text		
+118461	European waters (ERMS scope)	Text		
+118467	European waters (ERMS scope)	Text		
+119013	European waters (ERMS scope)	Text		
+118473	European waters (ERMS scope)	Text		
+118471	European waters (ERMS scope)	Text		
+118470	European waters (ERMS scope)	Text		
+119014	European waters (ERMS scope)	Text		
+119015	European waters (ERMS scope)	Text		
+118982	European waters (ERMS scope)	Text		
+118711	European waters (ERMS scope)	Text		
+118979	European waters (ERMS scope)	Text		
+118980	European waters (ERMS scope)	Text		
+118981	European waters (ERMS scope)	Text		
+118983	European waters (ERMS scope)	Text		
+118645	European waters (ERMS scope)	Text		
+118646	European waters (ERMS scope)	Text		
+118984	European waters (ERMS scope)	Text		
+118985	European waters (ERMS scope)	Text		
+118986	European waters (ERMS scope)	Text		
+118710	European waters (ERMS scope)	Text		
+118206	European waters (ERMS scope)	Text		
+118207	European waters (ERMS scope)	Text		
+118926	European waters (ERMS scope)	Text		
+118497	European waters (ERMS scope)	Text		
+118713	European waters (ERMS scope)	Text		
+118712	European waters (ERMS scope)	Text		
+118976	European waters (ERMS scope)	Text		
+118977	European waters (ERMS scope)	Text		
+118978	European waters (ERMS scope)	Text		
+118925	European waters (ERMS scope)	Text		
+118602	European waters (ERMS scope)	Text		
+118774	European waters (ERMS scope)	Text		
+118773	European waters (ERMS scope)	Text		
+118775	European waters (ERMS scope)	Text		
+118601	European waters (ERMS scope)	Text		
+118526	European waters (ERMS scope)	Text		
+118527	European waters (ERMS scope)	Text		
+118205	European waters (ERMS scope)	Text		
+118496	European waters (ERMS scope)	Text		
+118201	European waters (ERMS scope)	Text		
+118202	European waters (ERMS scope)	Text		
+118203	European waters (ERMS scope)	Text		
+118204	European waters (ERMS scope)	Text		
+118200	European waters (ERMS scope)	Text		
+118606	European waters (ERMS scope)	Text		
+119005	European waters (ERMS scope)	Text		
+119003	European waters (ERMS scope)	Text		
+118534	European waters (ERMS scope)	Text		
+118533	European waters (ERMS scope)	Text		
+118842	European waters (ERMS scope)	Text		
+119002	European waters (ERMS scope)	Text		
+118841	European waters (ERMS scope)	Text		
+118840	European waters (ERMS scope)	Text		
+119038	European waters (ERMS scope)	Text		
+118839	European waters (ERMS scope)	Text		
+118927	European waters (ERMS scope)	Text		
+119031	European waters (ERMS scope)	Text		
+118528	European waters (ERMS scope)	Text		
+118529	European waters (ERMS scope)	Text		
+118530	European waters (ERMS scope)	Text		
+118531	European waters (ERMS scope)	Text		
+118532	European waters (ERMS scope)	Text		
+118874	European waters (ERMS scope)	Text		
+118872	European waters (ERMS scope)	Text		
+118866	European waters (ERMS scope)	Text		
+118869	European waters (ERMS scope)	Text		
+118871	European waters (ERMS scope)	Text		
+118868	European waters (ERMS scope)	Text		
+118867	European waters (ERMS scope)	Text		
+118928	European waters (ERMS scope)	Text		
+118929	European waters (ERMS scope)	Text		
+119074	European waters (ERMS scope)	Text		
+118931	European waters (ERMS scope)	Text		
+118474	European waters (ERMS scope)	Text		
+118498	European waters (ERMS scope)	Text		
+118881	European waters (ERMS scope)	Text		
+118882	European waters (ERMS scope)	Text		
+118883	European waters (ERMS scope)	Text		
+118937	European waters (ERMS scope)	Text		
+118936	European waters (ERMS scope)	Text		
+118935	European waters (ERMS scope)	Text		
+118933	European waters (ERMS scope)	Text		
+118934	European waters (ERMS scope)	Text		
+118932	European waters (ERMS scope)	Text		
+118544	European waters (ERMS scope)	Text		
+118543	European waters (ERMS scope)	Text		
+118610	European waters (ERMS scope)	Text		
+118611	European waters (ERMS scope)	Text		
+118546	European waters (ERMS scope)	Text		
+118547	European waters (ERMS scope)	Text		
+118208	European waters (ERMS scope)	Text		
+118607	European waters (ERMS scope)	Text		
+118608	European waters (ERMS scope)	Text		
+118609	European waters (ERMS scope)	Text		
+118944	European waters (ERMS scope)	Text		
+118945	European waters (ERMS scope)	Text		
+118943	European waters (ERMS scope)	Text		
+118942	European waters (ERMS scope)	Text		
+118940	European waters (ERMS scope)	Text		
+118938	European waters (ERMS scope)	Text		
+118941	European waters (ERMS scope)	Text		
+118519	European waters (ERMS scope)	Text		
+118535	European waters (ERMS scope)	Text		
+118520	European waters (ERMS scope)	Text		
+118521	European waters (ERMS scope)	Text		
+118522	European waters (ERMS scope)	Text		
+118523	European waters (ERMS scope)	Text		
+118540	European waters (ERMS scope)	Text		
+118541	European waters (ERMS scope)	Text		
+118542	European waters (ERMS scope)	Text		
+118560	European waters (ERMS scope)	Text		
+118536	European waters (ERMS scope)	Text		
+118539	European waters (ERMS scope)	Text		
+118537	European waters (ERMS scope)	Text		
+118538	European waters (ERMS scope)	Text		
+118699	European waters (ERMS scope)	Text		
+118890	European waters (ERMS scope)	Text		
+118891	European waters (ERMS scope)	Text		
+118887	European waters (ERMS scope)	Text		
+118888	European waters (ERMS scope)	Text		
+118886	European waters (ERMS scope)	Text		
+118884	European waters (ERMS scope)	Text		
+118885	European waters (ERMS scope)	Text		
+118612	European waters (ERMS scope)	Text		
+118614	European waters (ERMS scope)	Text		
+118615	European waters (ERMS scope)	Text		
+118616	European waters (ERMS scope)	Text		
+118617	European waters (ERMS scope)	Text		
+118618	European waters (ERMS scope)	Text		
+118620	European waters (ERMS scope)	Text		
+118621	European waters (ERMS scope)	Text		
+118619	European waters (ERMS scope)	Text		
+118622	European waters (ERMS scope)	Text		
+118623	European waters (ERMS scope)	Text		
+118845	European waters (ERMS scope)	Text		
+118846	European waters (ERMS scope)	Text		
+118847	European waters (ERMS scope)	Text		
+118848	European waters (ERMS scope)	Text		
+118626	European waters (ERMS scope)	Text		
+118627	European waters (ERMS scope)	Text		
+118843	European waters (ERMS scope)	Text		
+118625	European waters (ERMS scope)	Text		
+118849	European waters (ERMS scope)	Text		
+118850	European waters (ERMS scope)	Text		
+118852	European waters (ERMS scope)	Text		
+118856	European waters (ERMS scope)	Text		
+118853	European waters (ERMS scope)	Text		
+118854	European waters (ERMS scope)	Text		
+118851	European waters (ERMS scope)	Text		
+118214	European waters (ERMS scope)	Text		
+118209	European waters (ERMS scope)	Text		
+118210	European waters (ERMS scope)	Text		
+118211	European waters (ERMS scope)	Text		
+118212	European waters (ERMS scope)	Text		
+118213	European waters (ERMS scope)	Text		
+118566	European waters (ERMS scope)	Text		
+118564	European waters (ERMS scope)	Text		
+118562	European waters (ERMS scope)	Text		
+118561	European waters (ERMS scope)	Text		
+118565	European waters (ERMS scope)	Text		
+118568	European waters (ERMS scope)	Text		
+118569	European waters (ERMS scope)	Text		
+118549	European waters (ERMS scope)	Text		
+118557	European waters (ERMS scope)	Text		
+118558	European waters (ERMS scope)	Text		
+118559	European waters (ERMS scope)	Text		
+118555	European waters (ERMS scope)	Text		
+118556	European waters (ERMS scope)	Text		
+118553	European waters (ERMS scope)	Text		
+118554	European waters (ERMS scope)	Text		
+118550	European waters (ERMS scope)	Text		
+118551	European waters (ERMS scope)	Text		
+118552	European waters (ERMS scope)	Text		
+118893	European waters (ERMS scope)	Text		
+118894	European waters (ERMS scope)	Text		
+118669	European waters (ERMS scope)	Text		
+118548	European waters (ERMS scope)	Text		
+118484	European waters (ERMS scope)	Text		
+118483	European waters (ERMS scope)	Text		
+118892	European waters (ERMS scope)	Text		
+118987	European waters (ERMS scope)	Text		
+118216	European waters (ERMS scope)	Text		
+118476	European waters (ERMS scope)	Text		
+118477	European waters (ERMS scope)	Text		
+118475	European waters (ERMS scope)	Text		
+118998	European waters (ERMS scope)	Text		
+118999	European waters (ERMS scope)	Text		
+118647	European waters (ERMS scope)	Text		
+119000	European waters (ERMS scope)	Text		
+118996	European waters (ERMS scope)	Text		
+118215	European waters (ERMS scope)	Text		
+118682	European waters (ERMS scope)	Text		
+119066	European waters (ERMS scope)	Text		
+119065	European waters (ERMS scope)	Text		
+118657	European waters (ERMS scope)	Text		
+118685	European waters (ERMS scope)	Text		
+118653	European waters (ERMS scope)	Text		
+118654	European waters (ERMS scope)	Text		
+118655	European waters (ERMS scope)	Text		
+118659	European waters (ERMS scope)	Text		
+118660	European waters (ERMS scope)	Text		
+118661	European waters (ERMS scope)	Text		
+118662	European waters (ERMS scope)	Text		
+118658	European waters (ERMS scope)	Text		
+118663	European waters (ERMS scope)	Text		
+118664	European waters (ERMS scope)	Text		
+118665	European waters (ERMS scope)	Text		
+118946	European waters (ERMS scope)	Text		
+118857	European waters (ERMS scope)	Text		
+118855	European waters (ERMS scope)	Text		
+118895	European waters (ERMS scope)	Text		
+118896	European waters (ERMS scope)	Text		
+118988	European waters (ERMS scope)	Text		
+118989	European waters (ERMS scope)	Text		
+118990	European waters (ERMS scope)	Text		
+118992	European waters (ERMS scope)	Text		
+118991	European waters (ERMS scope)	Text		
+118994	European waters (ERMS scope)	Text		
+118993	European waters (ERMS scope)	Text		
+118997	European waters (ERMS scope)	Text		
+118995	European waters (ERMS scope)	Text		
+118714	European waters (ERMS scope)	Text		
+118668	European waters (ERMS scope)	Text		
+118487	European waters (ERMS scope)	Text		
+118485	European waters (ERMS scope)	Text		
+118486	European waters (ERMS scope)	Text		
+118667	European waters (ERMS scope)	Text		
+118514	European waters (ERMS scope)	Text		
+118217	European waters (ERMS scope)	Text		
+118776	European waters (ERMS scope)	Text		
+118687	European waters (ERMS scope)	Text		
+118688	European waters (ERMS scope)	Text		
+118689	European waters (ERMS scope)	Text		
+118690	European waters (ERMS scope)	Text		
+118691	European waters (ERMS scope)	Text		
+118692	European waters (ERMS scope)	Text		
+118693	European waters (ERMS scope)	Text		
+119046	European waters (ERMS scope)	Text		
+119047	European waters (ERMS scope)	Text		
+119050	European waters (ERMS scope)	Text		
+119049	European waters (ERMS scope)	Text		
+119048	European waters (ERMS scope)	Text		
+119039	European waters (ERMS scope)	Text		
+119042	European waters (ERMS scope)	Text		
+119043	European waters (ERMS scope)	Text		
+119044	European waters (ERMS scope)	Text		
+119053	European waters (ERMS scope)	Text		
+118836	European waters (ERMS scope)	Text		
+118591	European waters (ERMS scope)	Text		
+118810	European waters (ERMS scope)	Text		
+118811	European waters (ERMS scope)	Text		
+118812	European waters (ERMS scope)	Text		
+118809	European waters (ERMS scope)	Text		
+118595	European waters (ERMS scope)	Text		
+118596	European waters (ERMS scope)	Text		
+118594	European waters (ERMS scope)	Text		
+118766	European waters (ERMS scope)	Text		
+118640	European waters (ERMS scope)	Text		
+118643	European waters (ERMS scope)	Text		
+118517	European waters (ERMS scope)	Text		
+118242	European waters (ERMS scope)	Text		
+118641	European waters (ERMS scope)	Text		
+118642	European waters (ERMS scope)	Text		
+118808	European waters (ERMS scope)	Text		
+118592	European waters (ERMS scope)	Text		
+118593	European waters (ERMS scope)	Text		
+118515	European waters (ERMS scope)	Text		
+118482	European waters (ERMS scope)	Text		
+118792	European waters (ERMS scope)	Text		
+118834	European waters (ERMS scope)	Text		
+119037	European waters (ERMS scope)	Text		
+118865	European waters (ERMS scope)	Text		
+119034	European waters (ERMS scope)	Text		
+119035	European waters (ERMS scope)	Text		
+119036	European waters (ERMS scope)	Text		
+118974	European waters (ERMS scope)	Text		
+118807	European waters (ERMS scope)	Text		
+119029	European waters (ERMS scope)	Text		
+118966	European waters (ERMS scope)	Text		
+118967	European waters (ERMS scope)	Text		
+118968	European waters (ERMS scope)	Text		
+118241	European waters (ERMS scope)	Text		
+118973	European waters (ERMS scope)	Text		
+118970	European waters (ERMS scope)	Text		
+118971	European waters (ERMS scope)	Text		
+118972	European waters (ERMS scope)	Text		
+118969	European waters (ERMS scope)	Text		
+118224	European waters (ERMS scope)	Text		
+118222	European waters (ERMS scope)	Text		
+118223	European waters (ERMS scope)	Text		
+119052	European waters (ERMS scope)	Text		
+118509	European waters (ERMS scope)	Text		
+118510	European waters (ERMS scope)	Text		
+118220	European waters (ERMS scope)	Text		
+119001	European waters (ERMS scope)	Text		
+118793	European waters (ERMS scope)	Text		
+118771	European waters (ERMS scope)	Text		
+118772	European waters (ERMS scope)	Text		
+118225	European waters (ERMS scope)	Text		
+118796	European waters (ERMS scope)	Text		
+255271	European waters (ERMS scope)	Text		
+118227	European waters (ERMS scope)	Text		
+118481	European waters (ERMS scope)	Text		
+119027	European waters (ERMS scope)	Text		
+119028	European waters (ERMS scope)	Text		
+118232	European waters (ERMS scope)	Text		
+118231	European waters (ERMS scope)	Text		
+118798	European waters (ERMS scope)	Text		
+118799	European waters (ERMS scope)	Text		
+118226	European waters (ERMS scope)	Text		
+118802	European waters (ERMS scope)	Text		
+118800	European waters (ERMS scope)	Text		
+118801	European waters (ERMS scope)	Text		
+118586	European waters (ERMS scope)	Text		
+118587	European waters (ERMS scope)	Text		
+118588	European waters (ERMS scope)	Text		
+118583	European waters (ERMS scope)	Text		
+118584	European waters (ERMS scope)	Text		
+118585	European waters (ERMS scope)	Text		
+257613	European waters (ERMS scope)	Text		
+119033	European waters (ERMS scope)	Text		
+118233	European waters (ERMS scope)	Text		
+118235	European waters (ERMS scope)	Text		
+118234	European waters (ERMS scope)	Text		
+118681	European waters (ERMS scope)	Text		
+118237	European waters (ERMS scope)	Text		
+118238	European waters (ERMS scope)	Text		
+118239	European waters (ERMS scope)	Text		
+118240	European waters (ERMS scope)	Text		
+118236	European waters (ERMS scope)	Text		
+118804	European waters (ERMS scope)	Text		
+118805	European waters (ERMS scope)	Text		
+118914	European waters (ERMS scope)	Text		
+118791	European waters (ERMS scope)	Text		
+119032	European waters (ERMS scope)	Text		
+118579	European waters (ERMS scope)	Text		
+118581	European waters (ERMS scope)	Text		
+118580	European waters (ERMS scope)	Text		
+118582	European waters (ERMS scope)	Text		
+118913	European waters (ERMS scope)	Text		
+118860	European waters (ERMS scope)	Text		
+118859	European waters (ERMS scope)	Text		
+118784	European waters (ERMS scope)	Text		
+118862	European waters (ERMS scope)	Text		
+118863	European waters (ERMS scope)	Text		
+118861	European waters (ERMS scope)	Text		
+118491	European waters (ERMS scope)	Text		
+118905	European waters (ERMS scope)	Text		
+118906	European waters (ERMS scope)	Text		
+118907	European waters (ERMS scope)	Text		
+118908	European waters (ERMS scope)	Text		
+118911	European waters (ERMS scope)	Text		
+118910	European waters (ERMS scope)	Text		
+118912	European waters (ERMS scope)	Text		
+118635	European waters (ERMS scope)	Text		
+118770	European waters (ERMS scope)	Text		
+118781	European waters (ERMS scope)	Text		
+118782	European waters (ERMS scope)	Text		
+118783	European waters (ERMS scope)	Text		
+118785	European waters (ERMS scope)	Text		
+118786	European waters (ERMS scope)	Text		
+118787	European waters (ERMS scope)	Text		
+118788	European waters (ERMS scope)	Text		
+118789	European waters (ERMS scope)	Text		
+118790	European waters (ERMS scope)	Text		
+118780	European waters (ERMS scope)	Text		
+118778	European waters (ERMS scope)	Text		
+118779	European waters (ERMS scope)	Text		
+118777	European waters (ERMS scope)	Text		
+118631	European waters (ERMS scope)	Text		
+118630	European waters (ERMS scope)	Text		
+118765	European waters (ERMS scope)	Text		
+118758	European waters (ERMS scope)	Text		
+118764	European waters (ERMS scope)	Text		
+118762	European waters (ERMS scope)	Text		
+118761	European waters (ERMS scope)	Text		
+118633	European waters (ERMS scope)	Text		
+118632	European waters (ERMS scope)	Text		
+118769	European waters (ERMS scope)	Text		
+118751	European waters (ERMS scope)	Text		
+118753	European waters (ERMS scope)	Text		
+118752	European waters (ERMS scope)	Text		
+118648	European waters (ERMS scope)	Text		
+118904	European waters (ERMS scope)	Text		
+118760	European waters (ERMS scope)	Text		
+118754	European waters (ERMS scope)	Text		
+118757	European waters (ERMS scope)	Text		
+118755	European waters (ERMS scope)	Text		
+118756	European waters (ERMS scope)	Text		
+119006	European waters (ERMS scope)	Text		
+118858	European waters (ERMS scope)	Text		
+118901	European waters (ERMS scope)	Text		
+118903	European waters (ERMS scope)	Text		
+118578	European waters (ERMS scope)	Text		
+118575	European waters (ERMS scope)	Text		
+118576	European waters (ERMS scope)	Text		
+118577	European waters (ERMS scope)	Text		
+118750	European waters (ERMS scope)	Text		
+118571	European waters (ERMS scope)	Text		
+118572	European waters (ERMS scope)	Text		
+118573	European waters (ERMS scope)	Text		
+118735	European waters (ERMS scope)	Text		
+118736	European waters (ERMS scope)	Text		
+118743	European waters (ERMS scope)	Text		
+118745	European waters (ERMS scope)	Text		
+118744	European waters (ERMS scope)	Text		
+118746	European waters (ERMS scope)	Text		
+118747	European waters (ERMS scope)	Text		
+118479	European waters (ERMS scope)	Text		
+118748	European waters (ERMS scope)	Text		
+147002	European waters (ERMS scope)	Text		
+118919	European waters (ERMS scope)	Text		
+118918	European waters (ERMS scope)	Text		
+118915	European waters (ERMS scope)	Text		
+118916	European waters (ERMS scope)	Text		
+118917	European waters (ERMS scope)	Text		
+118507	European waters (ERMS scope)	Text		
+118505	European waters (ERMS scope)	Text		
+118506	European waters (ERMS scope)	Text		
+118504	European waters (ERMS scope)	Text		
+118502	European waters (ERMS scope)	Text		
+118503	European waters (ERMS scope)	Text		
+118508	European waters (ERMS scope)	Text		
+118499	European waters (ERMS scope)	Text		
+118500	European waters (ERMS scope)	Text		
+118501	European waters (ERMS scope)	Text		
+118962	European waters (ERMS scope)	Text		
+118959	European waters (ERMS scope)	Text		
+118960	European waters (ERMS scope)	Text		
+118961	European waters (ERMS scope)	Text		
+118957	European waters (ERMS scope)	Text		
+118958	European waters (ERMS scope)	Text		
+119073	European waters (ERMS scope)	Text		
+118737	European waters (ERMS scope)	Text		
+119072	European waters (ERMS scope)	Text		
+118739	European waters (ERMS scope)	Text		
+118709	European waters (ERMS scope)	Text		
+118707	European waters (ERMS scope)	Text		
+118708	European waters (ERMS scope)	Text		
+118703	European waters (ERMS scope)	Text		
+118704	European waters (ERMS scope)	Text		
+118705	European waters (ERMS scope)	Text		
+118706	European waters (ERMS scope)	Text		
+118949	European waters (ERMS scope)	Text		
+118950	European waters (ERMS scope)	Text		
+118951	European waters (ERMS scope)	Text		
+118952	European waters (ERMS scope)	Text		
+118953	European waters (ERMS scope)	Text		
+118956	European waters (ERMS scope)	Text		
+118955	European waters (ERMS scope)	Text		
+118954	European waters (ERMS scope)	Text		
+118488	European waters (ERMS scope)	Text		
+118489	European waters (ERMS scope)	Text		
+118490	European waters (ERMS scope)	Text		
+118740	European waters (ERMS scope)	Text		
+118741	European waters (ERMS scope)	Text		
+118742	European waters (ERMS scope)	Text		
+118702	European waters (ERMS scope)	Text		
+118700	European waters (ERMS scope)	Text		
+118701	European waters (ERMS scope)	Text		
+118733	European waters (ERMS scope)	Text		
+118734	European waters (ERMS scope)	Text		
+118731	European waters (ERMS scope)	Text		
+118732	European waters (ERMS scope)	Text		
+118730	European waters (ERMS scope)	Text		
+118948	European waters (ERMS scope)	Text		
+118219	European waters (ERMS scope)	Text		
+118947	European waters (ERMS scope)	Text		
+118694	European waters (ERMS scope)	Text		
+118695	European waters (ERMS scope)	Text		
+118696	European waters (ERMS scope)	Text		
+118697	European waters (ERMS scope)	Text		
+118698	European waters (ERMS scope)	Text		
+118680	European waters (ERMS scope)	Text		
+118218	European waters (ERMS scope)	Text		
+118678	European waters (ERMS scope)	Text		
+118677	European waters (ERMS scope)	Text		
+118679	European waters (ERMS scope)	Text		
+118897	European waters (ERMS scope)	Text		
+119051	European waters (ERMS scope)	Text		
+118675	European waters (ERMS scope)	Text		
+118676	European waters (ERMS scope)	Text		
+118674	European waters (ERMS scope)	Text		
+118671	European waters (ERMS scope)	Text		
+118672	European waters (ERMS scope)	Text		
+118838	European waters (ERMS scope)	Text		
+183253	North West Atlantic	Text		
+147002	North West Atlantic	Text		
+157896	North West Atlantic	Text		
+157894	North West Atlantic	Text		
+118917	North West Atlantic	Text		
+148661	North West Atlantic	Text		
+146999	North West Atlantic	Text		
+118915	North West Atlantic	Text		
+118730	North West Atlantic	Text		
+157891	North West Atlantic	Text		
+118676	North West Atlantic	Text		
+118677	North West Atlantic	Text		
+118758	North West Atlantic	Text		
+118756	North West Atlantic	Text		
+118757	North West Atlantic	Text		
+118754	North West Atlantic	Text		
+118751	North West Atlantic	Text		
+118770	North West Atlantic	Text		
+157898	North West Atlantic	Text		
+156446	North West Atlantic	Text		
+157913	North West Atlantic	Text		
+119053	North West Atlantic	Text		
+156445	North West Atlantic	Text		
+157912	North West Atlantic	Text		
+262839	North West Atlantic	Text		
+157910	North West Atlantic	Text		
+157911	North West Atlantic	Text		
+157908	North West Atlantic	Text		
+119036	North West Atlantic	Text		
+157905	North West Atlantic	Text		
+157901	North West Atlantic	Text		
+256718	North West Atlantic	Text		
+157903	North West Atlantic	Text		
+118801	North West Atlantic	Text		
+118802	North West Atlantic	Text		
+118798	North West Atlantic	Text		
+118799	North West Atlantic	Text		
+157842	North West Atlantic	Text		
+119031	North West Atlantic	Text		
+118982	North West Atlantic	Text		
+118497	North West Atlantic	Text		
+157841	North West Atlantic	Text		
+118204	North West Atlantic	Text		
+118601	North West Atlantic	Text		
+118827	North West Atlantic	Text		
+146880	North West Atlantic	Text		
+157847	North West Atlantic	Text		
+233979	North West Atlantic	Text		
+156090	North West Atlantic	Text		
+118623	North West Atlantic	Text		
+118615	North West Atlantic	Text		
+233978	North West Atlantic	Text		
+157885	North West Atlantic	Text		
+157887	North West Atlantic	Text		
+157888	North West Atlantic	Text		
+118559	North West Atlantic	Text		
+157890	North West Atlantic	Text		
+183188	North West Atlantic	Text		
+119039	North West Atlantic	Text		
+118217	North West Atlantic	Text		
+119047	North West Atlantic	Text		
+119047	North West Atlantic	Text		
+256795	Tristan da Cunha (Fracture Zone)	Text		
+263320	Tristan da Cunha (Fracture Zone)	Text		
+293398	Walvis Ridge	Text		
+341249	Angola Basin	Text		
+744040	Angola Basin	Text		
+411043	Angola Basin	Text		
+263991	Angola Basin	Text		
+341250	Angola Basin	Text		
+410911	Angola Basin	Text		
+410907	Angola Basin	Text		
+579141	Angola Basin	Text		
+341248	Angola Basin	Text		
+341251	Angola Basin	Text		
+410927	Angola Basin	Text		
+410926	Angola Basin	Text		
+459132	Bounty Seachannel	Text		
+256650	South West Pacific Basin	Text		
+256412	South West Pacific Basin	Text		
+256395	South West Pacific Basin	Text		
+256425	South West Pacific Basin	Text		
+256434	South West Pacific Basin	Text		
+256445	South West Pacific Basin	Text		
+119047	Mascarene Plateau	Text		
+258082	Japan Trench	Text		
+255954	Japan Trench	Text		
+260506	Japan Trench	Text		
+264801	Aleutian Trench	Text		
+411046	Canada Basin	Text		
+747380	Clarion Fracture Zone	Text		
+579157	Clipperton Fracture Zone	Text		
+579156	Clipperton Fracture Zone	Text		
+579442	Kermadec Trench	Text		
+263969	Kermadec Trench	Text		
+579168	Kermadec Trench	Text		
+262612	Kermadec Trench	Text		
+430436	Great Barrier Reef	Text		
+410920	Great Barrier Reef	Text		
+607553	Great Barrier Reef	Text		
+293399	Peru-Chile Trench	Text		
+255946	Peru-Chile Trench	Text		
+258085	Peru-Chile Trench	Text		
+258085	Peru-Chile Trench	Text		
+579137	Peru-Chile Trench	Text		
+579424	Peru-Chile Trench	Text		
+263974	Kuril-Kamchatka Trench	Text		
+263961	Kuril-Kamchatka Trench	Text		
+263965	Kuril-Kamchatka Trench	Text		
+259866	Madagascar	Text		
+256580	Madagascar	Text		
+259810	Madagascar	Text		
+259671	Madagascar	Text		
+256731	Madagascar	Text		
+258935	Madagascar	Text		
+292759	Madagascar	Text		
+212999	Madagascar	Text		
+212999	Madagascar	Text		
+258168	Madagascar	Text		
+220759	Madagascar	Text		
+264424	Madagascar	Text		
+211374	Madagascar	Text		
+259032	Madagascar	Text		
+258988	Madagascar	Text		
+260395	Madagascar	Text		
+260390	Madagascar	Text		
+220708	Madagascar	Text		
+258422	Madagascar	Text		
+216055	Madagascar	Text		
+256968	Madagascar	Text		
+211384	Madagascar	Text		
+255441	Madagascar	Text		
+256745	Madagascar	Text		
+293269	Madagascar	Text		
+255231	Madagascar	Text		
+214908	Madagascar	Text		
+260262	Madagascar	Text		
+263895	Madagascar	Text		
+220716	Madagascar	Text		
+118973	Madagascar	Text		
+261883	Madagascar	Text		
+261883	Madagascar	Text		
+261864	Madagascar	Text		
+216051	Madagascar	Text		
+216050	Madagascar	Text		
+216042	Madagascar	Text		
+216041	Madagascar	Text		
+256910	Madagascar	Text		
+261627	Madagascar	Text		
+261632	Madagascar	Text		
+220710	Madagascar	Text		
+258399	Madagascar	Text		
+256688	Madagascar	Text		
+214915	Madagascar	Text		
+211377	Madagascar	Text		
+211377	Madagascar	Text		
+256488	New Caledonian Exclusive Economic Zone	Text		
+256446	New Caledonian Exclusive Economic Zone	Text		
+509367	New Caledonian Exclusive Economic Zone	Text		
+259517	Palau Exclusive Economic Zone	Text		
+295854	Philippines Exclusive Economic Zone	Text		
+260331	Philippines Exclusive Economic Zone	Text		
+257520	Philippines Exclusive Economic Zone	Text		
+257527	Philippines Exclusive Economic Zone	Text		
+258020	Philippines Exclusive Economic Zone	Text		
+264145	Philippines Exclusive Economic Zone	Text		
+260503	Australian Exclusive Economic Zone	Text		
+450641	Australian Exclusive Economic Zone	Text		
+118875	Australian Exclusive Economic Zone	Text		
+410906	Australian Exclusive Economic Zone	Text		
+744054	Papua New Guinean Exclusive Economic Zone	Text		
+293389	Fijian Exclusive Economic Zone	Text		
+258476	Madagascan Exclusive Economic Zone	Text		
+258476	Kenyan Exclusive Economic Zone	Text		
+380211	Kenyan Exclusive Economic Zone	Text		
+260606	Kenyan Exclusive Economic Zone	Text		
+258735	Saudi Arabia	Text		
+293257	Saudi Arabia	Text		
+257562	Saudi Arabia	Text		
+262037	Saudi Arabia	Text		
+261998	Saudi Arabia	Text		
+262012	Saudi Arabia	Text		
+262287	Saudi Arabia	Text		
+262485	Saudi Arabia	Text		
+258988	Pakistan	Text		
+211338	Pakistan	Text		
+261782	Pakistan	Text		
+256821	Pakistan	Text		
+262037	United Arab Emirates	Text		
+263043	United Arab Emirates	Text		
+257879	United Arab Emirates	Text		
+118714	Azores Exclusive Economic Zone	Text		
+119044	Azores Exclusive Economic Zone	Text		
+119039	Azores Exclusive Economic Zone	Text		
+119047	Azores Exclusive Economic Zone	Text		
+119048	Azores Exclusive Economic Zone	Text		
+256988	Azores Exclusive Economic Zone	Text		
+118936	Azores Exclusive Economic Zone	Text		
+118843	Azores Exclusive Economic Zone	Text		
+256925	Azores Exclusive Economic Zone	Text		
+255975	Azores Exclusive Economic Zone	Text		
+118817	Azores Exclusive Economic Zone	Text		
+118467	Azores Exclusive Economic Zone	Text		
+367047	Azores Exclusive Economic Zone	Text		
+119024	Azores Exclusive Economic Zone	Text		
+118956	Azores Exclusive Economic Zone	Text		
+118732	Azores Exclusive Economic Zone	Text		
+146999	Azores Exclusive Economic Zone	Text		
+156211	Azores Exclusive Economic Zone	Text		
+118958	Azores Exclusive Economic Zone	Text		
+118961	Azores Exclusive Economic Zone	Text		
+118973	Azores Exclusive Economic Zone	Text		
+118509	Azores Exclusive Economic Zone	Text		
+118510	Azores Exclusive Economic Zone	Text		
+119001	Azores Exclusive Economic Zone	Text		
+260629	Cape Verdean Exclusive Economic Zone	Text		
+118613	Canary Islands Exclusive Economic Zone	Text		
+258015	Canary Islands Exclusive Economic Zone	Text		
+295738	Western Saharan Exclusive Economic Zone	Text		
+258443	South Georgian and the South Sandwich Islands	Text		
+262983	South Georgian and the South Sandwich Islands	Text		
+257978	South Georgian and the South Sandwich Islands	Text		
+261727	South Georgian and the South Sandwich Islands	Text		
+261739	South Georgian and the South Sandwich Islands	Text		
+261579	South Georgian and the South Sandwich Islands	Text		
+175076	South Georgian and the South Sandwich Islands	Text		
+175106	South Georgian and the South Sandwich Islands	Text		
+174999	South Georgian and the South Sandwich Islands	Text		
+258061	South Georgian and the South Sandwich Islands	Text		
+174985	South Georgian and the South Sandwich Islands	Text		
+261432	Prince Edward Islands Exclusive Economic Zone	Text		
+255613	Prince Edward Islands Exclusive Economic Zone	Text		
+262983	Prince Edward Islands Exclusive Economic Zone	Text		
+259019	Prince Edward Islands Exclusive Economic Zone	Text		
+259019	Prince Edward Islands Exclusive Economic Zone	Text		
+157841	Prince Edward Islands Exclusive Economic Zone	Text		
+259633	Prince Edward Islands Exclusive Economic Zone	Text		
+257103	Prince Edward Islands Exclusive Economic Zone	Text		
+257940	Prince Edward Islands Exclusive Economic Zone	Text		
+119047	Amsterdam Island & St. Paul Island Exclusive Economic Zone (EEZ)	Text		
+258048	Amsterdam Island & St. Paul Island Exclusive Economic Zone (EEZ)	Text		
+293486	South African Exclusive Economic Zone	Text		
+259514	South African Exclusive Economic Zone	Text		
+293382	South African Exclusive Economic Zone	Text		
+256435	South African Exclusive Economic Zone	Text		
+292934	South African Exclusive Economic Zone	Text		
+293491	South African Exclusive Economic Zone	Text		
+174834	South African Exclusive Economic Zone	Text		
+411056	Bermudian Exclusive Economic Zone	Text		
+259640	Trinidad and Tobago	Text		
+260185	Trinidad and Tobago	Text		
+258019	Panamanian Exclusive Economic Zone	Text		
+295734	Peruvian Exclusive Economic Zone	Text		
+295735	Peruvian Exclusive Economic Zone	Text		
+295736	Peruvian Exclusive Economic Zone	Text		
+257901	Guadeloupe	Text		
+257528	Greenlandic Exclusive Economic Zone	Text		
+259819	Greenlandic Exclusive Economic Zone	Text		
+255644	Greenlandic Exclusive Economic Zone	Text		
+293482	Tonga	Text		
+258018	Hawaiian Exclusive Economic Zone	Text		
+263843	New Zealand Exclusive Economic Zone	Text		
+263854	New Zealand Exclusive Economic Zone	Text		
+263858	New Zealand Exclusive Economic Zone	Text		
+293378	New Zealand Exclusive Economic Zone	Text		
+256267	New Zealand Exclusive Economic Zone	Text		
+263976	New Zealand Exclusive Economic Zone	Text		
+256488	New Zealand Exclusive Economic Zone	Text		
+256488	New Zealand Exclusive Economic Zone	Text		
+256492	New Zealand Exclusive Economic Zone	Text		
+256492	New Zealand Exclusive Economic Zone	Text		
+263502	New Zealand Exclusive Economic Zone	Text		
+263373	New Zealand Exclusive Economic Zone	Text		
+263956	New Zealand Exclusive Economic Zone	Text		
+263445	New Zealand Exclusive Economic Zone	Text		
+262945	New Zealand Exclusive Economic Zone	Text		
+262966	New Zealand Exclusive Economic Zone	Text		
+262967	New Zealand Exclusive Economic Zone	Text		
+257070	New Zealand Exclusive Economic Zone	Text		
+257076	New Zealand Exclusive Economic Zone	Text		
+258134	New Zealand Exclusive Economic Zone	Text		
+263215	New Zealand Exclusive Economic Zone	Text		
+263216	New Zealand Exclusive Economic Zone	Text		
+263211	New Zealand Exclusive Economic Zone	Text		
+263212	New Zealand Exclusive Economic Zone	Text		
+262801	New Zealand Exclusive Economic Zone	Text		
+258219	New Zealand Exclusive Economic Zone	Text		
+258220	New Zealand Exclusive Economic Zone	Text		
+262804	New Zealand Exclusive Economic Zone	Text		
+255490	New Zealand Exclusive Economic Zone	Text		
+255491	New Zealand Exclusive Economic Zone	Text		
+263969	New Zealand Exclusive Economic Zone	Text		
+405939	New Zealand Exclusive Economic Zone	Text		
+405939	New Zealand Exclusive Economic Zone	Text		
+262846	New Zealand Exclusive Economic Zone	Text		
+262841	New Zealand Exclusive Economic Zone	Text		
+405941	New Zealand Exclusive Economic Zone	Text		
+405941	New Zealand Exclusive Economic Zone	Text		
+256460	New Zealand Exclusive Economic Zone	Text		
+256460	New Zealand Exclusive Economic Zone	Text		
+405940	New Zealand Exclusive Economic Zone	Text		
+405940	New Zealand Exclusive Economic Zone	Text		
+405945	New Zealand Exclusive Economic Zone	Text		
+405945	New Zealand Exclusive Economic Zone	Text		
+405947	New Zealand Exclusive Economic Zone	Text		
+405950	New Zealand Exclusive Economic Zone	Text		
+405950	New Zealand Exclusive Economic Zone	Text		
+445635	New Zealand Exclusive Economic Zone	Text		
+445635	New Zealand Exclusive Economic Zone	Text		
+293398	New Zealand Exclusive Economic Zone	Text		
+445636	New Zealand Exclusive Economic Zone	Text		
+445636	New Zealand Exclusive Economic Zone	Text		
+258436	New Zealand Exclusive Economic Zone	Text		
+255585	New Zealand Exclusive Economic Zone	Text		
+255601	New Zealand Exclusive Economic Zone	Text		
+256330	New Zealand Exclusive Economic Zone	Text		
+292959	New Zealand Exclusive Economic Zone	Text		
+261935	New Zealand Exclusive Economic Zone	Text		
+119052	New Zealand Exclusive Economic Zone	Text		
+261959	New Zealand Exclusive Economic Zone	Text		
+119052	New Zealand Exclusive Economic Zone	Text		
+262130	New Zealand Exclusive Economic Zone	Text		
+255276	New Zealand Exclusive Economic Zone	Text		
+292982	New Zealand Exclusive Economic Zone	Text		
+410800	New Zealand Exclusive Economic Zone	Text		
+262612	New Zealand Exclusive Economic Zone	Text		
+118240	New Zealand Exclusive Economic Zone	Text		
+255307	New Zealand Exclusive Economic Zone	Text		
+255320	New Zealand Exclusive Economic Zone	Text		
+255327	New Zealand Exclusive Economic Zone	Text		
+118234	New Zealand Exclusive Economic Zone	Text		
+255879	New Zealand Exclusive Economic Zone	Text		
+262708	New Zealand Exclusive Economic Zone	Text		
+262709	New Zealand Exclusive Economic Zone	Text		
+258010	New Zealand Exclusive Economic Zone	Text		
+262703	New Zealand Exclusive Economic Zone	Text		
+262704	New Zealand Exclusive Economic Zone	Text		
+262705	New Zealand Exclusive Economic Zone	Text		
+262706	New Zealand Exclusive Economic Zone	Text		
+262707	New Zealand Exclusive Economic Zone	Text		
+261444	New Zealand Exclusive Economic Zone	Text		
+261447	New Zealand Exclusive Economic Zone	Text		
+261414	New Zealand Exclusive Economic Zone	Text		
+261423	New Zealand Exclusive Economic Zone	Text		
+256693	New Zealand Exclusive Economic Zone	Text		
+256695	New Zealand Exclusive Economic Zone	Text		
+256698	New Zealand Exclusive Economic Zone	Text		
+256699	New Zealand Exclusive Economic Zone	Text		
+256675	New Zealand Exclusive Economic Zone	Text		
+256687	New Zealand Exclusive Economic Zone	Text		
+256650	New Zealand Exclusive Economic Zone	Text		
+256653	New Zealand Exclusive Economic Zone	Text		
+261428	New Zealand Exclusive Economic Zone	Text		
+118911	New Zealand Exclusive Economic Zone	Text		
+261606	New Zealand Exclusive Economic Zone	Text		
+257575	New Zealand Exclusive Economic Zone	Text		
+261577	New Zealand Exclusive Economic Zone	Text		
+261581	New Zealand Exclusive Economic Zone	Text		
+256634	New Zealand Exclusive Economic Zone	Text		
+261219	New Zealand Exclusive Economic Zone	Text		
+256627	New Zealand Exclusive Economic Zone	Text		
+258318	New Zealand Exclusive Economic Zone	Text		
+261298	New Zealand Exclusive Economic Zone	Text		
+256820	New Zealand Exclusive Economic Zone	Text		
+256234	New Zealand Exclusive Economic Zone	Text		
+256274	New Zealand Exclusive Economic Zone	Text		
+255765	New Zealand Exclusive Economic Zone	Text		
+255764	New Zealand Exclusive Economic Zone	Text		
+367194	New Zealand Exclusive Economic Zone	Text		
+367193	New Zealand Exclusive Economic Zone	Text		
+255564	New Zealand Exclusive Economic Zone	Text		
+255561	New Zealand Exclusive Economic Zone	Text		
+255546	New Zealand Exclusive Economic Zone	Text		
+255550	New Zealand Exclusive Economic Zone	Text		
+256891	New Zealand Exclusive Economic Zone	Text		
+256884	New Zealand Exclusive Economic Zone	Text		
+261082	New Zealand Exclusive Economic Zone	Text		
+261101	New Zealand Exclusive Economic Zone	Text		
+261116	New Zealand Exclusive Economic Zone	Text		
+148645	New Zealand Exclusive Economic Zone	Text		
+256914	New Zealand Exclusive Economic Zone	Text		
+256906	New Zealand Exclusive Economic Zone	Text		
+256907	New Zealand Exclusive Economic Zone	Text		
+256909	New Zealand Exclusive Economic Zone	Text		
+118918	New Zealand Exclusive Economic Zone	Text		
+256896	New Zealand Exclusive Economic Zone	Text		
+258376	New Zealand Exclusive Economic Zone	Text		
+258377	New Zealand Exclusive Economic Zone	Text		
+255930	New Zealand Exclusive Economic Zone	Text		
+257055	New Zealand Exclusive Economic Zone	Text		
+258365	New Zealand Exclusive Economic Zone	Text		
+258367	New Zealand Exclusive Economic Zone	Text		
+258368	New Zealand Exclusive Economic Zone	Text		
+258371	New Zealand Exclusive Economic Zone	Text		
+255861	New Zealand Exclusive Economic Zone	Text		
+325485	New Zealand Exclusive Economic Zone	Text		
+255909	New Zealand Exclusive Economic Zone	Text		
+257049	New Zealand Exclusive Economic Zone	Text		
+257050	New Zealand Exclusive Economic Zone	Text		
+257051	New Zealand Exclusive Economic Zone	Text		
+257052	New Zealand Exclusive Economic Zone	Text		
+257046	New Zealand Exclusive Economic Zone	Text		
+257047	New Zealand Exclusive Economic Zone	Text		
+255915	New Zealand Exclusive Economic Zone	Text		
+255916	New Zealand Exclusive Economic Zone	Text		
+255530	New Zealand Exclusive Economic Zone	Text		
+256065	New Zealand Exclusive Economic Zone	Text		
+256067	New Zealand Exclusive Economic Zone	Text		
+445630	New Zealand Exclusive Economic Zone	Text		
+445630	New Zealand Exclusive Economic Zone	Text		
+445629	New Zealand Exclusive Economic Zone	Text		
+445629	New Zealand Exclusive Economic Zone	Text		
+256533	New Zealand Exclusive Economic Zone	Text		
+256560	New Zealand Exclusive Economic Zone	Text		
+257340	New Zealand Exclusive Economic Zone	Text		
+257949	New Zealand Exclusive Economic Zone	Text		
+256741	New Zealand Exclusive Economic Zone	Text		
+259709	New Zealand Exclusive Economic Zone	Text		
+118875	New Zealand Exclusive Economic Zone	Text		
+259660	New Zealand Exclusive Economic Zone	Text		
+258140	New Zealand Exclusive Economic Zone	Text		
+256734	New Zealand Exclusive Economic Zone	Text		
+259758	New Zealand Exclusive Economic Zone	Text		
+256926	New Zealand Exclusive Economic Zone	Text		
+256930	New Zealand Exclusive Economic Zone	Text		
+256934	New Zealand Exclusive Economic Zone	Text		
+256504	New Zealand Exclusive Economic Zone	Text		
+256939	New Zealand Exclusive Economic Zone	Text		
+450638	New Zealand Exclusive Economic Zone	Text		
+450639	New Zealand Exclusive Economic Zone	Text		
+450639	New Zealand Exclusive Economic Zone	Text		
+450640	New Zealand Exclusive Economic Zone	Text		
+450640	New Zealand Exclusive Economic Zone	Text		
+255536	New Zealand Exclusive Economic Zone	Text		
+450637	New Zealand Exclusive Economic Zone	Text		
+450637	New Zealand Exclusive Economic Zone	Text		
+259299	New Zealand Exclusive Economic Zone	Text		
+389788	New Zealand Exclusive Economic Zone	Text		
+527347	New Zealand Exclusive Economic Zone	Text		
+257096	New Zealand Exclusive Economic Zone	Text		
+410925	New Zealand Exclusive Economic Zone	Text		
+259236	New Zealand Exclusive Economic Zone	Text		
+257097	New Zealand Exclusive Economic Zone	Text		
+259634	New Zealand Exclusive Economic Zone	Text		
+259518	New Zealand Exclusive Economic Zone	Text		
+257099	New Zealand Exclusive Economic Zone	Text		
+257119	New Zealand Exclusive Economic Zone	Text		
+257121	New Zealand Exclusive Economic Zone	Text		
+257125	New Zealand Exclusive Economic Zone	Text		
+257127	New Zealand Exclusive Economic Zone	Text		
+256448	New Zealand Exclusive Economic Zone	Text		
+258746	New Zealand Exclusive Economic Zone	Text		
+258747	New Zealand Exclusive Economic Zone	Text		
+256398	New Zealand Exclusive Economic Zone	Text		
+256445	New Zealand Exclusive Economic Zone	Text		
+405338	New Zealand Exclusive Economic Zone	Text		
+405345	New Zealand Exclusive Economic Zone	Text		
+405343	New Zealand Exclusive Economic Zone	Text		
+405344	New Zealand Exclusive Economic Zone	Text		
+405339	New Zealand Exclusive Economic Zone	Text		
+405340	New Zealand Exclusive Economic Zone	Text		
+405341	New Zealand Exclusive Economic Zone	Text		
+256418	New Zealand Exclusive Economic Zone	Text		
+405342	New Zealand Exclusive Economic Zone	Text		
+405348	New Zealand Exclusive Economic Zone	Text		
+405348	New Zealand Exclusive Economic Zone	Text		
+256434	New Zealand Exclusive Economic Zone	Text		
+258835	New Zealand Exclusive Economic Zone	Text		
+258836	New Zealand Exclusive Economic Zone	Text		
+258837	New Zealand Exclusive Economic Zone	Text		
+256435	New Zealand Exclusive Economic Zone	Text		
+405349	New Zealand Exclusive Economic Zone	Text		
+118825	New Zealand Exclusive Economic Zone	Text		
+256435	New Zealand Exclusive Economic Zone	Text		
+256446	New Zealand Exclusive Economic Zone	Text		
+256446	New Zealand Exclusive Economic Zone	Text		
+405349	New Zealand Exclusive Economic Zone	Text		
+724047	New Zealand Exclusive Economic Zone	Text		
+256386	New Zealand Exclusive Economic Zone	Text		
+256395	New Zealand Exclusive Economic Zone	Text		
+405347	New Zealand Exclusive Economic Zone	Text		
+256416	New Zealand Exclusive Economic Zone	Text		
+256408	New Zealand Exclusive Economic Zone	Text		
+256416	New Zealand Exclusive Economic Zone	Text		
+255656	New Zealand Exclusive Economic Zone	Text		
+257920	New Zealand Exclusive Economic Zone	Text		
+259174	New Zealand Exclusive Economic Zone	Text		
+255199	New Zealand Exclusive Economic Zone	Text		
+260657	New Zealand Exclusive Economic Zone	Text		
+260658	New Zealand Exclusive Economic Zone	Text		
+260614	New Zealand Exclusive Economic Zone	Text		
+260557	New Zealand Exclusive Economic Zone	Text		
+255244	New Zealand Exclusive Economic Zone	Text		
+174995	New Zealand Exclusive Economic Zone	Text		
+255845	New Zealand Exclusive Economic Zone	Text		
+258050	New Zealand Exclusive Economic Zone	Text		
+255993	New Zealand Exclusive Economic Zone	Text		
+174999	New Zealand Exclusive Economic Zone	Text		
+119047	New Zealand Exclusive Economic Zone	Text		
+255820	New Zealand Exclusive Economic Zone	Text		
+255832	New Zealand Exclusive Economic Zone	Text		
+255833	New Zealand Exclusive Economic Zone	Text		
+255836	New Zealand Exclusive Economic Zone	Text		
+255824	New Zealand Exclusive Economic Zone	Text		
+255816	New Zealand Exclusive Economic Zone	Text		
+260489	New Zealand Exclusive Economic Zone	Text		
+255241	New Zealand Exclusive Economic Zone	Text		
+255466	New Zealand Exclusive Economic Zone	Text		
+255469	New Zealand Exclusive Economic Zone	Text		
+257161	New Zealand Exclusive Economic Zone	Text		
+260440	New Zealand Exclusive Economic Zone	Text		
+293035	New Zealand Exclusive Economic Zone	Text		
+257022	New Zealand Exclusive Economic Zone	Text		
+257040	New Zealand Exclusive Economic Zone	Text		
+257033	New Zealand Exclusive Economic Zone	Text		
+257030	New Zealand Exclusive Economic Zone	Text		
+260125	New Zealand Exclusive Economic Zone	Text		
+118946	New Zealand Exclusive Economic Zone	Text		
+257023	New Zealand Exclusive Economic Zone	Text		
+255659	New Zealand Exclusive Economic Zone	Text		
+260222	New Zealand Exclusive Economic Zone	Text		
+260223	New Zealand Exclusive Economic Zone	Text		
+260225	New Zealand Exclusive Economic Zone	Text		
+255727	New Zealand Exclusive Economic Zone	Text		
+257966	New Zealand Exclusive Economic Zone	Text		
+258150	New Zealand Exclusive Economic Zone	Text		
+258152	New Zealand Exclusive Economic Zone	Text		
+175206	New Zealand Exclusive Economic Zone	Text		
+260123	New Zealand Exclusive Economic Zone	Text		
+260126	New Zealand Exclusive Economic Zone	Text		
+260127	New Zealand Exclusive Economic Zone	Text		
+256964	New Zealand Exclusive Economic Zone	Text		
+256973	New Zealand Exclusive Economic Zone	Text		
+256956	New Zealand Exclusive Economic Zone	Text		
+256963	New Zealand Exclusive Economic Zone	Text		
+256946	New Zealand Exclusive Economic Zone	Text		
+175241	New Zealand Exclusive Economic Zone	Text		
+255741	New Zealand Exclusive Economic Zone	Text		
+255742	New Zealand Exclusive Economic Zone	Text		
+260334	New Zealand Exclusive Economic Zone	Text		
+260335	New Zealand Exclusive Economic Zone	Text		
+256616	New Zealand Exclusive Economic Zone	Text		
+256790	New Zealand Exclusive Economic Zone	Text		
+255496	New Zealand Exclusive Economic Zone	Text		
+256794	New Zealand Exclusive Economic Zone	Text		
+256795	New Zealand Exclusive Economic Zone	Text		
+260327	New Zealand Exclusive Economic Zone	Text		
+405332	New Zealand Exclusive Economic Zone	Text		
+256409	New Zealand Exclusive Economic Zone	Text		
+255227	New Zealand Exclusive Economic Zone	Text		
+459132	New Zealand Exclusive Economic Zone	Text		
+258661	Jamaican Exclusive Economic Zone	Text		
+257529	Alaskan Exclusive Economic Zone	Text		
+260260	Brazilian Exclusive Economic Zone	Text		
+260254	Brazilian Exclusive Economic Zone	Text		
+260256	Brazilian Exclusive Economic Zone	Text		
+260257	Brazilian Exclusive Economic Zone	Text		
+259515	Brazilian Exclusive Economic Zone	Text		
+259511	Brazilian Exclusive Economic Zone	Text		
+257840	Brazilian Exclusive Economic Zone	Text		
+259937	Brazilian Exclusive Economic Zone	Text		
+445797	Brazilian Exclusive Economic Zone	Text		
+259935	Chilean Exclusive Economic Zone	Text		
+256435	Chilean Exclusive Economic Zone	Text		
+257533	Chilean Exclusive Economic Zone	Text		
+262388	Iran	Text		
+260597	Iran	Text		
+257893	Bangladesh	Text		
+259810	Myanmar	Text		
+257515	Vietnamese Exclusive Economic Zone	Text		
+262625	Singapore	Text		
+263453	Singapore	Text		
+211367	Singapore	Text		
+260340	Singapore	Text		
+527407	Japanese Exclusive Economic Zone	Text		
+260258	Japanese Exclusive Economic Zone	Text		
+257616	Japanese Exclusive Economic Zone	Text		
+257617	Japanese Exclusive Economic Zone	Text		
+260255	Japanese Exclusive Economic Zone	Text		
+257530	Japanese Exclusive Economic Zone	Text		
+293259	Japanese Exclusive Economic Zone	Text		
+256416	Japanese Exclusive Economic Zone	Text		
+257842	Japanese Exclusive Economic Zone	Text		
+411055	Japanese Exclusive Economic Zone	Text		
+261230	Japanese Exclusive Economic Zone	Text		
+293032	Japanese Exclusive Economic Zone	Text		
+257610	Japanese Exclusive Economic Zone	Text		
+257611	Japanese Exclusive Economic Zone	Text		
+257585	Japanese Exclusive Economic Zone	Text		
+257618	Japanese Exclusive Economic Zone	Text		
+263529	Japanese Exclusive Economic Zone	Text		
+256488	Japanese Exclusive Economic Zone	Text		
+264123	Japanese Exclusive Economic Zone	Text		
+263292	Indonesian Exclusive Economic Zone	Text		
+257510	Indonesian Exclusive Economic Zone	Text		
+292940	Sea of Okhotsk	Text		
+579154	Sea of Okhotsk	Text		
+257518	Red Sea	Text		
+260179	Red Sea	Text		
+257576	Antarctica	Text		
+175023	Antarctica	Text		
+445624	Antarctica	Text		
+579408	Antarctica	Text		
+411062	Antarctica	Text		
+396391	Macquarie Island	Text		
+411073	Macquarie Island	Text		
+411072	Macquarie Island	Text		
+411074	Macquarie Island	Text		
+256047	Macquarie Island	Text		
+260813	Solomon Islands	Text		
+260442	Solomon Islands	Text		
+257504	Solomon Islands	Text		
+256442	Solomon Islands	Text		
+258864	Solomon Islands	Text		
+256893	Guam	Text		
+264542	South Korea	Text		
+564088	South Korea	Text		
+260348	China	Text		
+260354	China	Text		
+708918	China	Text		
+256734	China	Text		
+118875	China	Text		
+258716	China	Text		
+261301	China	Text		
+261299	China	Text		
+261732	Reunion	Text		
+216059	Reunion	Text		
+216036	Reunion	Text		
+263018	Reunion	Text		
+211340	Reunion	Text		
+214902	Reunion	Text		
+256542	Reunion	Text		
+260246	Reunion	Text		
+256448	Mauritius	Text		
+211374	Mauritius	Text		
+214898	Mauritius	Text		
+214898	Mauritius	Text		
+216037	Mauritius	Text		
+260395	Mauritius	Text		
+260481	Mauritius	Text		
+260246	Mauritius	Text		
+256837	Mauritius	Text		
+261732	Mauritius	Text		
+258399	Mauritius	Text		
+263018	Mauritius	Text		
+262842	Mauritius	Text		
+262830	Mauritius	Text		
+220752	Chagos	Text		
+260442	Chagos	Text		
+259032	Chagos	Text		
+258864	Chagos	Text		
+262763	Ascensión	Text		
+256435	Falkland Islands	Text		
+174985	Falkland Islands	Text		
+527310	Falkland Islands	Text		
+259908	Falkland Islands	Text		
+174575	Falkland Islands	Text		
+257853	Falkland Islands	Text		
+174999	Falkland Islands	Text		
+174995	Falkland Islands	Text		
+175001	Falkland Islands	Text		
+256233	Falkland Islands	Text		
+256236	Falkland Islands	Text		
+411075	Falkland Islands	Text		
+256047	Falkland Islands	Text		
+175020	Falkland Islands	Text		
+119052	Falkland Islands	Text		
+256260	Falkland Islands	Text		
+258436	Falkland Islands	Text		
+175153	Crozet Islands	Text		
+258134	Crozet Islands	Text		
+261580	Crozet Islands	Text		
+261425	Crozet Islands	Text		
+261432	Crozet Islands	Text		
+261311	Crozet Islands	Text		
+256211	Crozet Islands	Text		
+256233	Crozet Islands	Text		
+257048	Crozet Islands	Text		
+174884	Crozet Islands	Text		
+258061	Crozet Islands	Text		
+174689	Crozet Islands	Text		
+174856	Crozet Islands	Text		
+256435	Crozet Islands	Text		
+256408	Crozet Islands	Text		
+259019	Crozet Islands	Text		
+264238	Crozet Islands	Text		
+257940	Crozet Islands	Text		
+174575	Crozet Islands	Text		
+175200	Crozet Islands	Text		
+257103	Crozet Islands	Text		
+261957	Saint Paul Island	Text		
+118946	Kerguelen Islands	Text		
+174995	Kerguelen Islands	Text		
+258061	Kerguelen Islands	Text		
+174999	Kerguelen Islands	Text		
+175147	Kerguelen Islands	Text		
+175200	Kerguelen Islands	Text		
+175137	Kerguelen Islands	Text		
+257103	Kerguelen Islands	Text		
+259520	Kerguelen Islands	Text		
+174985	Kerguelen Islands	Text		
+255340	Kerguelen Islands	Text		
+256408	Kerguelen Islands	Text		
+258115	Kerguelen Islands	Text		
+262983	Kerguelen Islands	Text		
+258443	Kerguelen Islands	Text		
+256267	Kerguelen Islands	Text		
+175020	Kerguelen Islands	Text		
+256047	Kerguelen Islands	Text		
+256877	Kerguelen Islands	Text		
+261739	Kerguelen Islands	Text		
+118914	Kerguelen Islands	Text		
+175001	Kerguelen Islands	Text		
+256692	Kerguelen Islands	Text		
+256334	Kerguelen Islands	Text		
+261311	Kerguelen Islands	Text		
+175076	Kerguelen Islands	Text		
+256233	Kerguelen Islands	Text		
+255340	Heard and McDonald Islands	Text		
+262064	Togo	Text		
+261158	Togo	Text		
+256837	Congo	Text		
+257486	Bermuda	Text		
+258716	Bermuda	Text		
+257536	Bermuda	Text		
+264667	Bermuda	Text		
+292693	Cuba	Text		
+255961	Cuba	Text		
+263809	Cuba	Text		
+264018	Cuba	Text		
+257901	Cuba	Text		
+258716	Haiti	Text		
+261839	Puerto Rico	Text		
+257901	Puerto Rico	Text		
+256866	Saint Lucia	Text		
+708675	British Virgin Islands	Text		
+256672	Virgin Islands	Text		
+744028	Guadeloupe	Text		
+257454	Martinique	Text		
+256554	French Polynesia	Text		
+118515	West Coast of Ireland	Text		
+256893	Palmyra Atoll	Text		
+257560	Samoa	Text		
+261896	Samoa	Text		
+261865	Samoa	Text		
+262857	Samoa	Text		
+255961	Hawaii	Text		
+258716	Hawaii	Text		
+118817	Hawaii	Text		
+256804	Hawaii	Text		
+257550	Hawaii	Text		
+257560	Hawaii	Text		
+261602	Hawaii	Text		
+256824	Hawaii	Text		
+261865	Hawaii	Text		
+259669	Belize	Text		
+256893	Belize	Text		
+183224	Jamaica	Text		
+260166	Alaska	Text		
+258735	Guinea-Bissau	Text		
+259859	Guinea-Bissau	Text		
+174394	Indian Ocean, Antarctic and Southern Ocean	Text		
+257529	FAO fishing area 67	Text		
+256455	FAO fishing area 67	Text		
+118917	FAO fishing area 67	Text		
+257558	FAO fishing area 67	Text		
+146502	FAO fishing area 18	Text		
+261839	Hong Kong	Text		
+261380	Hong Kong	Text		
+118907	French Exclusive Economic Zone [Mediterranean part]	Text		
+264823	French Exclusive Economic Zone [Mediterranean part]	Text		
+295738	French Exclusive Economic Zone [Mediterranean part]	Text		
+744032	French Exclusive Economic Zone [Mediterranean part]	Text		
+257583	French Exclusive Economic Zone [Mediterranean part]	Text		
+257586	French Exclusive Economic Zone [Mediterranean part]	Text		
+257615	French Exclusive Economic Zone [Mediterranean part]	Text		
+264414	French Exclusive Economic Zone [Mediterranean part]	Text		
+258781	French Exclusive Economic Zone [Mediterranean part]	Text		
+259395	French Exclusive Economic Zone [Atlantic part]	Text		
+257843	French Exclusive Economic Zone [Atlantic part]	Text		
+257844	French Exclusive Economic Zone [Atlantic part]	Text		
+259509	French Exclusive Economic Zone [Atlantic part]	Text		
+293481	French Exclusive Economic Zone [Atlantic part]	Text		
+259922	French Exclusive Economic Zone [Atlantic part]	Text		
+293483	French Exclusive Economic Zone [Atlantic part]	Text		
+118849	French Exclusive Economic Zone [Atlantic part]	Text		
+257517	French Exclusive Economic Zone [Atlantic part]	Text		
+257519	French Exclusive Economic Zone [Atlantic part]	Text		
+293261	French Exclusive Economic Zone [Atlantic part]	Text		
+147121	French Exclusive Economic Zone [Atlantic part]	Text		
+148668	French Exclusive Economic Zone [Atlantic part]	Text		
+148658	French Exclusive Economic Zone [Atlantic part]	Text		
+148642	French Exclusive Economic Zone [Atlantic part]	Text		
+445763	French Exclusive Economic Zone [Atlantic part]	Text		
+295733	French Exclusive Economic Zone [Atlantic part]	Text		
+292984	French Exclusive Economic Zone [Atlantic part]	Text		
+295739	French Exclusive Economic Zone [Atlantic part]	Text		
+118218	French Exclusive Economic Zone [Atlantic part]	Text		
+291324	Russian Exclusive economic Zone [Pacific part]	Text		
+259510	Spanish Exclusive Economic Zone [Mediterranean part]	Text		
+118798	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118798	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118802	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118802	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118681	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118681	Canadian Exclusive Economic Zone [Arctic part]	Text		
+119053	Canadian Exclusive Economic Zone [Arctic part]	Text		
+156445	Canadian Exclusive Economic Zone [Arctic part]	Text		
+156445	Canadian Exclusive Economic Zone [Arctic part]	Text		
+157913	Canadian Exclusive Economic Zone [Arctic part]	Text		
+119053	Canadian Exclusive Economic Zone [Arctic part]	Text		
+157913	Canadian Exclusive Economic Zone [Arctic part]	Text		
+255646	Canadian Exclusive Economic Zone [Arctic part]	Text		
+119034	Canadian Exclusive Economic Zone [Arctic part]	Text		
+233981	Canadian Exclusive Economic Zone [Arctic part]	Text		
+233981	Canadian Exclusive Economic Zone [Arctic part]	Text		
+119036	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118676	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118734	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118734	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118747	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118747	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118636	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118770	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118636	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118780	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118770	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118757	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118757	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118758	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118758	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118754	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118754	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118756	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118756	Canadian Exclusive Economic Zone [Arctic part]	Text		
+256204	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118982	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118986	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118497	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118204	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118204	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118814	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118814	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118825	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118825	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118827	Canadian Exclusive Economic Zone [Arctic part]	Text		
+146502	Canadian Exclusive Economic Zone [Arctic part]	Text		
+146502	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118217	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118539	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118539	Canadian Exclusive Economic Zone [Arctic part]	Text		
+146880	Canadian Exclusive Economic Zone [Arctic part]	Text		
+146880	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118623	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118623	Canadian Exclusive Economic Zone [Arctic part]	Text		
+118827	Canadian Exclusive Economic Zone [Atlantic part]	Text		
+259095	Santorini	Text		
+118474	Verrebroekdok	Text		
+264439	Alabama	Text		
+293300	Ryukyu Islands	Text		
+326185	Ryukyu Islands	Text		
+264816	Ryukyu Islands	Text		
+579133	Andhra Pradesh	Text		
+256496	Tasmania	Text		
+259908	Tasmania	Text		
+257097	Tasmania	Text		
+118925	Tasmania	Text		
+174995	Tasmania	Text		
+118946	Tasmania	Text		
+260492	Tasmania	Text		
+260164	Tasmania	Text		
+260323	Tasmania	Text		
+260328	Tasmania	Text		
+256668	Tasmania	Text		
+607531	Tasmania	Text		
+261724	Tasmania	Text		
+211341	Tasmania	Text		
+579164	Tasmania	Text		
+579173	Tasmania	Text		
+579178	Tasmania	Text		
+262771	Tasmania	Text		
+263354	Tasmania	Text		
+261589	Baja California	Text		
+260505	Baja California	Text		
+260505	Baja California	Text		
+261210	Bali	Text		
+264159	Sakhalin	Text		
+260166	British Columbia	Text		
+262591	British Columbia	Text		
+118875	South Australia (state)	Text		
+257039	South Australia (state)	Text		
+260164	South Australia (state)	Text		
+259963	South Australia (state)	Text		
+246275	South Australia (state)	Text		
+256889	South Australia (state)	Text		
+118908	South Australia (state)	Text		
+118911	South Australia (state)	Text		
+261710	South Australia (state)	Text		
+261724	South Australia (state)	Text		
+258402	South Australia (state)	Text		
+256824	South Australia (state)	Text		
+256255	South Australia (state)	Text		
+211341	South Australia (state)	Text		
+258830	Western Australia (state)	Text		
+256448	Western Australia (state)	Text		
+258624	Western Australia (state)	Text		
+259651	Western Australia (state)	Text		
+256496	Western Australia (state)	Text		
+259908	Western Australia (state)	Text		
+259911	Western Australia (state)	Text		
+260164	Western Australia (state)	Text		
+260171	Western Australia (state)	Text		
+256968	Western Australia (state)	Text		
+211341	Western Australia (state)	Text		
+258309	Western Australia (state)	Text		
+261839	Western Australia (state)	Text		
+261724	Western Australia (state)	Text		
+261709	Western Australia (state)	Text		
+118911	Western Australia (state)	Text		
+256861	Western Australia (state)	Text		
+256830	Western Australia (state)	Text		
+256917	Western Australia (state)	Text		
+256918	Western Australia (state)	Text		
+157896	Nova Scotia	Text		
+261742	Massachusetts	Text		
+257841	North Carolina	Text		
+292915	Western Cape	Text		
+292916	Western Cape	Text		
+292920	Eastern Cape, Province of the	Text		
+260629	Gulf of Maine	Text		
+118217	Gulf of Maine	Text		
+119047	Gulf of Maine	Text		
+119039	Gulf of Maine	Text		
+157890	Gulf of Maine	Text		
+157847	Gulf of Maine	Text		
+157885	Gulf of Maine	Text		
+118827	Gulf of Maine	Text		
+119031	Gulf of Maine	Text		
+157842	Gulf of Maine	Text		
+118204	Gulf of Maine	Text		
+118982	Gulf of Maine	Text		
+118497	Gulf of Maine	Text		
+157913	Gulf of Maine	Text		
+157910	Gulf of Maine	Text		
+157908	Gulf of Maine	Text		
+119036	Gulf of Maine	Text		
+157901	Gulf of Maine	Text		
+157903	Gulf of Maine	Text		
+118802	Gulf of Maine	Text		
+118801	Gulf of Maine	Text		
+118798	Gulf of Maine	Text		
+118754	Gulf of Maine	Text		
+118770	Gulf of Maine	Text		
+146999	Gulf of Maine	Text		
+157896	Gulf of Maine	Text		
+118917	Gulf of Maine	Text		
+157891	Gulf of Maine	Text		
+118730	Gulf of Maine	Text		
+261602	Sulawesi	Text		
+258168	Sulawesi	Text		
+255679	New South Wales	Text		
+459129	New South Wales	Text		
+260323	New South Wales	Text		
+256496	New South Wales	Text		
+259761	New South Wales	Text		
+256526	New South Wales	Text		
+459108	New South Wales	Text		
+118925	New South Wales	Text		
+256391	New South Wales	Text		
+255703	New South Wales	Text		
+256708	New South Wales	Text		
+118911	New South Wales	Text		
+256830	New South Wales	Text		
+256821	New South Wales	Text		
+211341	New South Wales	Text		
+579175	New South Wales	Text		
+579162	New South Wales	Text		
+262614	New South Wales	Text		
+220727	New South Wales	Text		
+264243	Natal	Text		
+118973	Natal	Text		
+256367	Natal	Text		
+256475	Natal	Text		
+156446	Natal	Text		
+256861	Natal	Text		
+261780	Natal	Text		
+118945	Natal	Text		
+256955	Natal	Text		
+118925	Natal	Text		
+118875	Natal	Text		
+174856	Natal	Text		
+220752	Durban	Text		
+345009	Enderby Land	Text		
+261839	Florida	Text		
+264443	Florida	Text		
+256816	Queensland	Text		
+256659	Queensland	Text		
+261839	Queensland	Text		
+262771	Queensland	Text		
+255452	Queensland	Text		
+256804	Queensland	Text		
+256611	Queensland	Text		
+295730	Queensland	Text		
+256448	Queensland	Text		
+258624	Queensland	Text		
+258938	Queensland	Text		
+259762	Queensland	Text		
+259912	Queensland	Text		
+292757	Queensland	Text		
+292758	Queensland	Text		
+257839	Queensland	Text		
+259651	Queensland	Text		
+260402	California	Text		
+256207	California	Text		
+264266	California	Text		
+264267	California	Text		
+264295	California	Text		
+257584	California	Text		
+256893	Caroline Islands	Text		
+256816	Caroline Islands	Text		
+292978	Kerala	Text		
+220689	Kerala	Text		
+256966	Kerala	Text		
+261615	Kurile Islands	Text		
+255961	Los Angeles	Text		
+256966	Madras	Text		
+220689	Madras	Text		
+579147	Magellan Strait	Text		
+256047	Magellan Strait	Text		
+411084	Magellan Strait	Text		
+527344	Magellan Strait	Text		
+411094	Magellan Strait	Text		
+256408	Marion Bay	Text		
+256435	Marion Bay	Text		
+259019	Marion Bay	Text		
+257940	Marion Bay	Text		
+259633	Marion Bay	Text		
+174689	Marion Bay	Text		
+174995	Marion Bay	Text		
+118632	Marion Bay	Text		
+256047	Marion Bay	Text		
+257048	Marion Bay	Text		
+256914	Marion Bay	Text		
+262983	Marion Bay	Text		
+255613	Marion Bay	Text		
+256739	Irian Jaya	Text		
+257343	Irian Jaya	Text		
+256902	New Guinea	Text		
+260813	New Guinea	Text		
+259032	New Guinea	Text		
+257504	New Guinea	Text		
+259800	New Guinea	Text		
+257609	New Jersey	Text		
+256805	Tokyo Bay	Text		
+257508	Trivandrum	Text		
+257574	Trivandrum	Text		
+257612	Trivandrum	Text		
+257614	Trivandrum	Text		
+118911	Victoria (Australian state)	Text		
+256708	Victoria (Australian state)	Text		
+261724	Victoria (Australian state)	Text		
+579169	Victoria (Australian state)	Text		
+579170	Victoria (Australian state)	Text		
+579171	Victoria (Australian state)	Text		
+579177	Victoria (Australian state)	Text		
+579167	Victoria (Australian state)	Text		
+261850	Victoria (Australian state)	Text		
+255711	Victoria (Australian state)	Text		
+256496	Victoria (Australian state)	Text		
+256526	Victoria (Australian state)	Text		
+255888	Victoria (Australian state)	Text		
+259908	Victoria (Australian state)	Text		
+255682	Victoria (Australian state)	Text		
+260328	Victoria (Australian state)	Text		
+260323	Victoria (Australian state)	Text		
+260492	Victoria (Australian state)	Text		
+118474	Galgenweel	Text		
+214915	Aldabra	Text		
+212997	Aldabra	Text		
+258399	Aldabra	Text		
+216060	Aldabra	Text		
+216035	Aldabra	Text		
+256918	Aldabra	Text		
+256902	Aldabra	Text		
+256903	Aldabra	Text		
+256893	Aldabra	Text		
+256883	Aldabra	Text		
+213010	Aldabra	Text		
+216047	Aldabra	Text		
+256052	Aldabra	Text		
+216049	Aldabra	Text		
+263889	Aldabra	Text		
+263895	Aldabra	Text		
+216064	Aldabra	Text		
+216064	Aldabra	Text		
+216053	Aldabra	Text		
+216052	Aldabra	Text		
+211342	Aldabra	Text		
+261865	Aldabra	Text		
+214911	Aldabra	Text		
+214912	Aldabra	Text		
+214903	Aldabra	Text		
+213004	Aldabra	Text		
+213001	Aldabra	Text		
+214904	Aldabra	Text		
+214906	Aldabra	Text		
+259036	Aldabra	Text		
+214900	Aldabra	Text		
+216037	Aldabra	Text		
+216037	Aldabra	Text		
+256570	Aldabra	Text		
+259875	Aldabra	Text		
+258935	Aldabra	Text		
+293253	Aldabra	Text		
+260395	Aldabra	Text		
+216058	Aldabra	Text		
+214907	Aldabra	Text		
+212999	Cargados Carajos	Text		
+263813	São Tomé	Text		
+264021	São Tomé	Text		
+260293	São Tomé	Text		
+259474	São Tomé	Text		
+264021	Principe Island	Text		
+246275	Luderitz	Text		
+246275	Luderitz	Text		
+246305	Luderitz	Text		
+261751	Zaire	Text		
+263950	Zaire	Text		
+263408	Zaire	Text		
+264727	Zaire	Text		
+262856	Zaire	Text		
+262859	Zaire	Text		
+262864	Zaire	Text		
+262050	Zaire	Text		
+259008	Zaire	Text		
+260304	Zaire	Text		
+260318	Zaire	Text		
+259949	Zaire	Text		
+246305	Transkei	Text		
+118849	Atlantic Europe	Text		
+118807	Mediterranean Sea	Text		
+118510	Mediterranean Sea	Text		
+118481	Mediterranean Sea	Text		
+118796	Mediterranean Sea	Text		
+262388	Mediterranean Sea	Text		
+264667	Mediterranean Sea	Text		
+118804	Mediterranean Sea	Text		
+147002	Mediterranean Sea	Text		
+118959	Mediterranean Sea	Text		
+118962	Mediterranean Sea	Text		
+118501	Mediterranean Sea	Text		
+118504	Mediterranean Sea	Text		
+118505	Mediterranean Sea	Text		
+118916	Mediterranean Sea	Text		
+118897	Mediterranean Sea	Text		
+118672	Mediterranean Sea	Text		
+118678	Mediterranean Sea	Text		
+118218	Mediterranean Sea	Text		
+118947	Mediterranean Sea	Text		
+118948	Mediterranean Sea	Text		
+118731	Mediterranean Sea	Text		
+118702	Mediterranean Sea	Text		
+119073	Mediterranean Sea	Text		
+119073	Mediterranean Sea	Text		
+118739	Mediterranean Sea	Text		
+118740	Mediterranean Sea	Text		
+118488	Mediterranean Sea	Text		
+118489	Mediterranean Sea	Text		
+118490	Mediterranean Sea	Text		
+118950	Mediterranean Sea	Text		
+118955	Mediterranean Sea	Text		
+118956	Mediterranean Sea	Text		
+119006	Mediterranean Sea	Text		
+118736	Mediterranean Sea	Text		
+118572	Mediterranean Sea	Text		
+118901	Mediterranean Sea	Text		
+118903	Mediterranean Sea	Text		
+118765	Mediterranean Sea	Text		
+118860	Mediterranean Sea	Text		
+118863	Mediterranean Sea	Text		
+118491	Mediterranean Sea	Text		
+118907	Mediterranean Sea	Text		
+118907	Mediterranean Sea	Text		
+118911	Mediterranean Sea	Text		
+118912	Mediterranean Sea	Text		
+118849	Mediterranean Sea	Text		
+118846	Mediterranean Sea	Text		
+118620	Mediterranean Sea	Text		
+118850	Mediterranean Sea	Text		
+118483	Mediterranean Sea	Text		
+118484	Mediterranean Sea	Text		
+118893	Mediterranean Sea	Text		
+118894	Mediterranean Sea	Text		
+118931	Mediterranean Sea	Text		
+118932	Mediterranean Sea	Text		
+118933	Mediterranean Sea	Text		
+118934	Mediterranean Sea	Text		
+118935	Mediterranean Sea	Text		
+118936	Mediterranean Sea	Text		
+118937	Mediterranean Sea	Text		
+118881	Mediterranean Sea	Text		
+118884	Mediterranean Sea	Text		
+118887	Mediterranean Sea	Text		
+118535	Mediterranean Sea	Text		
+118537	Mediterranean Sea	Text		
+118536	Mediterranean Sea	Text		
+118540	Mediterranean Sea	Text		
+118541	Mediterranean Sea	Text		
+118543	Mediterranean Sea	Text		
+118544	Mediterranean Sea	Text		
+118941	Mediterranean Sea	Text		
+118940	Mediterranean Sea	Text		
+118942	Mediterranean Sea	Text		
+118943	Mediterranean Sea	Text		
+118944	Mediterranean Sea	Text		
+118945	Mediterranean Sea	Text		
+118993	Mediterranean Sea	Text		
+118992	Mediterranean Sea	Text		
+118997	Mediterranean Sea	Text		
+119000	Mediterranean Sea	Text		
+118647	Mediterranean Sea	Text		
+579427	Mediterranean Sea	Text		
+118475	Mediterranean Sea	Text		
+118476	Mediterranean Sea	Text		
+118485	Mediterranean Sea	Text		
+118487	Mediterranean Sea	Text		
+119042	Mediterranean Sea	Text		
+119042	Mediterranean Sea	Text		
+119046	Mediterranean Sea	Text		
+119046	Mediterranean Sea	Text		
+119047	Mediterranean Sea	Text		
+118817	Mediterranean Sea	Text		
+118821	Mediterranean Sea	Text		
+264424	Mediterranean Sea	Text		
+146494	Mediterranean Sea	Text		
+118467	Mediterranean Sea	Text		
+118468	Mediterranean Sea	Text		
+118470	Mediterranean Sea	Text		
+118471	Mediterranean Sea	Text		
+118473	Mediterranean Sea	Text		
+119013	Mediterranean Sea	Text		
+119014	Mediterranean Sea	Text		
+257481	Mediterranean Sea	Text		
+119025	Mediterranean Sea	Text		
+118773	Mediterranean Sea	Text		
+411061	Mediterranean Sea	Text		
+259394	Mediterranean Sea	Text		
+118645	Mediterranean Sea	Text		
+118713	Mediterranean Sea	Text		
+118867	Mediterranean Sea	Text		
+118868	Mediterranean Sea	Text		
+118869	Mediterranean Sea	Text		
+118871	Mediterranean Sea	Text		
+118872	Mediterranean Sea	Text		
+118528	Mediterranean Sea	Text		
+118839	Mediterranean Sea	Text		
+118840	Mediterranean Sea	Text		
+119038	Mediterranean Sea	Text		
+119002	Mediterranean Sea	Text		
+119003	Mediterranean Sea	Text		
+119005	Mediterranean Sea	Text		
+118534	Arctic Ocean	Text		
+118529	Arctic Ocean	Text		
+118497	Arctic Ocean	Text		
+118982	Arctic Ocean	Text		
+118710	Arctic Ocean	Text		
+118774	Arctic Ocean	Text		
+118775	Arctic Ocean	Text		
+118601	Arctic Ocean	Text		
+118527	Arctic Ocean	Text		
+118814	Arctic Ocean	Text		
+118816	Arctic Ocean	Text		
+118514	Arctic Ocean	Text		
+183182	Arctic Ocean	Text		
+118662	Arctic Ocean	Text		
+118989	Arctic Ocean	Text		
+294710	Arctic Ocean	Text		
+118607	Arctic Ocean	Text		
+118550	Arctic Ocean	Text		
+118553	Arctic Ocean	Text		
+118555	Arctic Ocean	Text		
+118557	Arctic Ocean	Text		
+118561	Arctic Ocean	Text		
+118564	Arctic Ocean	Text		
+118625	Arctic Ocean	Text		
+118627	Arctic Ocean	Text		
+118626	Arctic Ocean	Text		
+118579	Arctic Ocean	Text		
+118580	Arctic Ocean	Text		
+118582	Arctic Ocean	Text		
+118791	Arctic Ocean	Text		
+118630	Arctic Ocean	Text		
+118631	Arctic Ocean	Text		
+118761	Arctic Ocean	Text		
+118762	Arctic Ocean	Text		
+118764	Arctic Ocean	Text		
+118780	Arctic Ocean	Text		
+118781	Arctic Ocean	Text		
+118751	Arctic Ocean	Text		
+118753	Arctic Ocean	Text		
+118755	Arctic Ocean	Text		
+118741	Arctic Ocean	Text		
+118741	Arctic Ocean	Text		
+118732	Arctic Ocean	Text		
+118680	Arctic Ocean	Text		
+118671	Arctic Ocean	Text		
+118674	Arctic Ocean	Text		
+118675	Arctic Ocean	Text		
+118915	Arctic Ocean	Text		
+118746	Arctic Ocean	Text		
+119027	Arctic Ocean	Text		
+118771	Arctic Ocean	Text		
+147081	Arctic Ocean	Text		
+119029	Arctic Ocean	Text		
+118595	Arctic Ocean	Text		
+118641	Arctic Ocean	Text		
+118643	Arctic Ocean	Text		
+119053	Arctic Ocean	Text		
+174457	Antarctic Ocean	Text		
+174995	Antarctic Ocean	Text		
+174906	Antarctic Ocean	Text		
+174929	Antarctic Ocean	Text		
+261727	Antarctic Ocean	Text		
+579151	Antarctic Ocean	Text		
+174955	Antarctic Ocean	Text		
+119052	Antarctic Ocean	Text		
+260630	Southern Ocean	Text		
+260631	Southern Ocean	Text		
+256795	Southern Ocean	Text		
+260241	Southern Ocean	Text		
+260196	Southern Ocean	Text		
+256386	Southern Ocean	Text		
+259934	Southern Ocean	Text		
+259938	Southern Ocean	Text		
+259650	Southern Ocean	Text		
+261923	Southern Ocean	Text		
+261616	Southern Ocean	Text		
+261619	Southern Ocean	Text		
+261698	Southern Ocean	Text		
+261554	Southern Ocean	Text		
+175075	Southern Ocean	Text		
+261386	Southern Ocean	Text		
+579425	North Pacific	Text		
+256455	North Pacific	Text		
+257558	North Pacific	Text		
+118917	North Pacific	Text		
+264278	North Pacific	Text		
+257572	North Pacific	Text		
+258087	South Pacific	Text		
+261966	South Pacific	Text		
+255979	South Pacific	Text		
+293383	South Pacific	Text		
+146880	North Atlantic	Text		
+118539	North Atlantic	Text		
+118512	North Atlantic	Text		
+118825	North Atlantic	Text		
+257922	North Atlantic	Text		
+264166	North Atlantic	Text		
+264167	North Atlantic	Text		
+264169	North Atlantic	Text		
+118986	North Atlantic	Text		
+118839	North Atlantic	Text		
+118973	North Atlantic	Text		
+156446	North Atlantic	Text		
+255646	North Atlantic	Text		
+118708	North Atlantic	Text		
+118701	North Atlantic	Text		
+118704	North Atlantic	Text		
+118705	North Atlantic	Text		
+118706	North Atlantic	Text		
+182938	North Atlantic	Text		
+256090	North Atlantic	Text		
+256133	North Atlantic	Text		
+344985	South Atlantic	Text		
+183116	South Atlantic	Text		
+257573	South Atlantic	Text		
+183300	South Atlantic	Text		
+261727	South Atlantic	Text		
+255949	South Atlantic	Text		
+260695	Europe	Text		
+264485	Europe	Text		
+264399	Europe	Text		
+263889	Europe	Text		
+264646	Europe	Text		
+262144	Europe	Text		
+264351	Europe	Text		
+262144	Africa	Text		
+264646	North America	Text		
+264351	North America	Text		
+258061	Antarctica	Text		
+389789	Antarctica	Text		
+389790	Antarctica	Text		
+175203	Antarctica	Text		
+261579	Antarctica	Text		
+174815	Antarctica	Text		
+258436	Antarctica	Text		
+260554	Lebanon	Text		
+260550	Lebanon	Text		
+263486	France	Text		
+263533	France	Text		
+261279	France	Text		
+264270	France	Text		
+264271	France	Text		
+257582	France	Text		
+261653	France	Text		
+261653	France	Text		
+264566	France	Text		
+146999	Zeeland	Text		
+148638	Oostende	Text		
+118218	Oostende	Text		
+146999	Oostende	Text		
+146999	Oostende	Text		
+146999	Oostende	Text		
+148637	Oostende	Text		
+118852	Oostende	Text		
+118852	Oostende	Text		
+118843	Oostende	Text		
+119050	Oostende	Text		
+119044	Oostende	Text		
+146999	Blankenberge	Text		
+146999	Blankenberge	Text		
+118907	Blankenberge	Text		
+146999	Knokke-Heist	Text		
+118852	De Haan	Text		
+146999	Nieuwpoort	Text		
+118852	Nieuwpoort	Text		
+118917	Koksijde	Text		
+119043	Koksijde	Text		
+119050	Koksijde	Text		
+118852	De Panne	Text		
+118852	De Panne	Text		
+119046	De Panne	Text		
+118994	Dover	Text		
+118732	Calais	Text		
+118842	Calais	Text		
+118995	Calais	Text		
+119046	Calais	Text		
+118852	Calais	Text		
+118925	Victoria (UK Ward)	Text		
+119046	Bray-Dunes	Text		
+118852	Bray-Dunes	Text		
+118218	Dunkerque	Text		
+118732	Wimereux	Text		
+118218	Wimereux	Text		
+118954	Wimereux	Text		
+118953	Wimereux	Text		
+118958	Wimereux	Text		
+118917	Wimereux	Text		
+118918	Wimereux	Text		
+118757	Wimereux	Text		
+118973	Wimereux	Text		
+118973	Wimereux	Text		
+118834	Wimereux	Text		
+147121	Wimereux	Text		
+148668	Wimereux	Text		
+148638	Wimereux	Text		
+118240	Wimereux	Text		
+118225	Wimereux	Text		
+119001	Wimereux	Text		
+118467	Wimereux	Text		
+148673	Wimereux	Text		
+118196	Wimereux	Text		
+119024	Wimereux	Text		
+118842	Wimereux	Text		
+118871	Wimereux	Text		
+118205	Wimereux	Text		
+119043	Wimereux	Text		
+119044	Wimereux	Text		
+119039	Wimereux	Text		
+119048	Wimereux	Text		
+119050	Wimereux	Text		
+119046	Wimereux	Text		
+119047	Wimereux	Text		
+118995	Wimereux	Text		
+148637	Wimereux	Text		
+118852	Wimereux	Text		
+118855	Wimereux	Text		
+118849	Wimereux	Text		
+118843	Wimereux	Text		
+118474	Wimereux	Text		
+119047	Boulogne-sur-Mer	Text		
+119047	Cosmopolitan (World Oceans)	Text		
+118474	Atlantic	Text		
+157847	Atlantic	Text		
+256988	Atlantic	Text		
+148638	Belgium	Text		
+148644	Netherlands	Text		
+607631	England	Text		
+257783	France	Text		
+257798	France	Text		
+257803	France	Text		
+257624	France	Text		
+264424	France	Text		
+259262	France	Text		
+259435	France	Text		
+259897	France	Text		
+260275	France	Text		
+260071	France	Text		
+264464	France	Text		
+260136	France	Text		
+260553	France	Text		
+260420	France	Text		
+260510	France	Text		
+257526	France	Text		
+262162	France	Text		
+264247	France	Text		
+743899	France	Text		
+264618	France	Text		
+264626	France	Text		
+262303	France	Text		
+262424	France	Text		
+262480	France	Text		
+262597	France	Text		
+263065	France	Text		
+264711	France	Text		
+264712	France	Text		
+264716	France	Text		
+263744	France	Text		
+263719	France	Text		
+263803	France	Text		
+263646	France	Text		
+263648	France	Text		
+262597	Lebanon	Text		
+264246	Lebanon	Text		
+262160	Lebanon	Text		
+262231	Lebanon	Text		
+261349	Lebanon	Text		
+257625	Greece	Text		
+258719	Greece	Text		
+258640	Greece	Text		
+259262	Greece	Text		
+259729	Greece	Text		
+264460	Greece	Text		
+264452	Greece	Text		
+264457	Greece	Text		
+263704	Greece	Text		
+263598	Greece	Text		
+263561	Greece	Text		
+262921	Greece	Text		
+262919	Greece	Text		
+262576	Greece	Text		
+264374	Greece	Text		
+264372	Greece	Text		
+262597	Greece	Text		
+262204	Greece	Text		
+264573	Greece	Text		
+261694	Greece	Text		
+260982	Greece	Text		
+156211	Greece	Text		
+260951	Greece	Text		
+262058	Ghana	Text		
+262064	Ghana	Text		
+264626	Germany	Text		
+262359	Germany	Text		
+264763	Germany	Text		
+263585	Germany	Text		
+264785	Germany	Text		
+607557	Germany	Text		
+264809	Germany	Text		
+264817	Georgia (Country)	Text		
+256837	Gabon	Text		
+261169	Liberia	Text		
+261171	Liberia	Text		
+262045	Liberia	Text		
+264803	Finland	Text		
+259231	Lesotho	Text		
+257550	Fiji	Text		
+259032	Fiji	Text		
+260647	Ethiopia	Text		
+262021	Ethiopia	Text		
+262033	Ethiopia	Text		
+262034	Ethiopia	Text		
+262036	Ethiopia	Text		
+262009	Ethiopia	Text		
+263947	Ethiopia	Text		
+262037	Eritrea	Text		
+264566	Ireland	Text		
+257562	Kuwait	Text		
+260883	Kuwait	Text		
+262012	Kuwait	Text		
+257596	Kuwait	Text		
+211377	Kenya	Text		
+211377	Kenya	Text		
+211380	Kenya	Text		
+261233	Kenya	Text		
+261249	Kenya	Text		
+261840	Kenya	Text		
+258407	Kenya	Text		
+258482	Kenya	Text		
+258476	Kenya	Text		
+263408	Kenya	Text		
+263946	Kenya	Text		
+212107	Kenya	Text		
+262003	Kenya	Text		
+262027	Kenya	Text		
+262036	Kenya	Text		
+260647	Kenya	Text		
+260426	Kenya	Text		
+118927	Kenya	Text		
+220689	Kenya	Text		
+256570	Kenya	Text		
+259941	Kenya	Text		
+257434	Kenya	Text		
+258869	Kenya	Text		
+259032	Kenya	Text		
+258916	Kenya	Text		
+258916	Kenya	Text		
+258916	Kenya	Text		
+258916	Kenya	Text		
+258916	Kenya	Text		
+260592	Kazakhstan	Text		
+262270	Jordan	Text		
+264317	Japan	Text		
+264164	Japan	Text		
+256436	Japan	Text		
+118817	Japan	Text		
+256526	Japan	Text		
+256526	Japan	Text		
+118875	Japan	Text		
+291327	Japan	Text		
+291328	Japan	Text		
+550547	Japan	Text		
+256795	Japan	Text		
+716261	Japan	Text		
+345373	Japan	Text		
+574618	Japan	Text		
+260348	Japan	Text		
+256804	Japan	Text		
+260661	Japan	Text		
+261865	Japan	Text		
+345374	Japan	Text		
+156446	Japan	Text		
+261055	Japan	Text		
+264544	Japan	Text		
+255953	Japan	Text		
+261299	Japan	Text		
+261301	Japan	Text		
+345372	Japan	Text		
+256830	Japan	Text		
+261627	Japan	Text		
+261543	Japan	Text		
+261544	Japan	Text		
+261545	Japan	Text		
+261546	Japan	Text		
+261547	Japan	Text		
+261246	Guinea	Text		
+260293	Guinea	Text		
+264547	Italy	Text		
+261229	Italy	Text		
+263540	Italy	Text		
+263561	Italy	Text		
+264763	Italy	Text		
+263704	Italy	Text		
+263711	Italy	Text		
+264785	Italy	Text		
+263719	Italy	Text		
+263803	Italy	Text		
+263533	Italy	Text		
+263486	Italy	Text		
+263272	Italy	Text		
+383296	Italy	Text		
+262899	Italy	Text		
+262162	Italy	Text		
+258285	Italy	Text		
+264342	Italy	Text		
+258236	Italy	Text		
+262597	Italy	Text		
+258545	Italy	Text		
+264370	Italy	Text		
+264371	Italy	Text		
+258581	Italy	Text		
+264379	Italy	Text		
+258489	Italy	Text		
+262359	Italy	Text		
+264618	Italy	Text		
+264606	Italy	Text		
+260136	Italy	Text		
+259951	Italy	Text		
+260071	Italy	Text		
+257523	Italy	Text		
+257526	Italy	Text		
+260510	Italy	Text		
+264452	Italy	Text		
+264460	Italy	Text		
+259402	Italy	Text		
+259435	Italy	Text		
+264405	Italy	Text		
+264390	Italy	Text		
+258719	Italy	Text		
+257624	Italy	Text		
+257818	Italy	Text		
+257702	Italy	Text		
+264316	Italy	Text		
+148673	Italy	Text		
+264361	Bosnia and Herzegovina	Text		
+264359	Bosnia and Herzegovina	Text		
+263576	Bosnia and Herzegovina	Text		
+264432	Bosnia and Herzegovina	Text		
+258786	Bosnia and Herzegovina	Text		
+264005	Bolivia	Text		
+119052	Brazil	Text		
+256720	Brazil	Text		
+263805	Brazil	Text		
+256483	Brazil	Text		
+256476	Brazil	Text		
+175153	Brazil	Text		
+118905	Brazil	Text		
+259284	Brazil	Text		
+260185	Brazil	Text		
+259947	Brazil	Text		
+257600	Bahamas	Text		
+257597	Bahamas	Text		
+258678	Brunei	Text		
+258685	Brunei	Text		
+264387	Austria	Text		
+264383	Austria	Text		
+264547	Austria	Text		
+264513	Austria	Text		
+257818	Austria	Text		
+263324	Australia	Text		
+263354	Australia	Text		
+119052	Australia	Text		
+118918	Australia	Text		
+148645	Australia	Text		
+256866	Australia	Text		
+118914	Australia	Text		
+256830	Australia	Text		
+118927	Australia	Text		
+256734	Australia	Text		
+607560	Australia	Text		
+259032	Australia	Text		
+118817	Australia	Text		
+256762	Australia	Text		
+256795	Australia	Text		
+744042	Argentina	Text		
+744043	Argentina	Text		
+175001	Argentina	Text		
+119052	Argentina	Text		
+257336	Argentina	Text		
+260215	Argentina	Text		
+260048	Argentina	Text		
+258900	Angola	Text		
+259949	Angola	Text		
+260304	Angola	Text		
+264690	Angola	Text		
+262864	Angola	Text		
+262858	Angola	Text		
+263538	Angola	Text		
+262050	Angola	Text		
+263535	Andorra	Text		
+264251	Algeria	Text		
+258529	Algeria	Text		
+264366	Algeria	Text		
+262430	Algeria	Text		
+262482	Algeria	Text		
+264592	Algeria	Text		
+261229	Algeria	Text		
+260600	Algeria	Text		
+259225	Algeria	Text		
+257783	Algeria	Text		
+257813	Algeria	Text		
+262204	Albania	Text		
+258285	Albania	Text		
+263598	Albania	Text		
+257625	Albania	Text		
+263578	Czech Republic	Text		
+263585	Czech Republic	Text		
+264792	Czech Republic	Text		
+262567	Czech Republic	Text		
+264682	Czech Republic	Text		
+260982	Czech Republic	Text		
+264494	Czech Republic	Text		
+257781	Czech Republic	Text		
+258786	Croatia	Text		
+264405	Croatia	Text		
+264429	Croatia	Text		
+264676	Croatia	Text		
+264370	Croatia	Text		
+264360	Croatia	Text		
+264363	Croatia	Text		
+264249	Croatia	Text		
+264573	Croatia	Text		
+183197	Ivory Coast	Text		
+263385	Ivory Coast	Text		
+261171	Ivory Coast	Text		
+261169	Ivory Coast	Text		
+264143	Ivory Coast	Text		
+261959	Costa Rica	Text		
+263809	Costa Rica	Text		
+259725	Costa Rica	Text		
+260395	Comores	Text		
+216037	Comores	Text		
+216037	Comores	Text		
+258958	Comores	Text		
+258867	Comores	Text		
+216064	Comores	Text		
+257598	Comores	Text		
+220752	Comores	Text		
+256260	Chile	Text		
+257606	Chile	Text		
+119052	Chile	Text		
+119052	Chile	Text		
+256663	Chile	Text		
+256423	Chile	Text		
+293035	Chile	Text		
+256795	Chile	Text		
+262857	Ecuador	Text		
+118817	Cape Verde	Text		
+118474	Canada	Text		
+157847	Canada	Text		
+118982	Canada	Text		
+264399	Canada	Text		
+263389	Cameroon	Text		
+262040	Cameroon	Text		
+261751	Cameroon	Text		
+261170	Cameroon	Text		
+261154	Cameroon	Text		
+260318	Cameroon	Text		
+259474	Cameroon	Text		
+259859	Cameroon	Text		
+259008	Cameroon	Text		
+262615	Bulgaria	Text		
+262618	Bulgaria	Text		
+262576	Bulgaria	Text		
+259214	Bulgaria	Text		
+257428	Colombia	Text		
+257567	Colombia	Text		
+264037	Colombia	Text		
+264018	Colombia	Text		
+256719	South Africa (country)	Text		
+211341	South Africa (country)	Text		
+211341	South Africa (country)	Text		
+256318	South Africa (country)	Text		
+216051	South Africa (country)	Text		
+262763	South Africa (country)	Text		
+213013	South Africa (country)	Text		
+216070	South Africa (country)	Text		
+220717	South Africa (country)	Text		
+220716	South Africa (country)	Text		
+263538	South Africa (country)	Text		
+264084	South Africa (country)	Text		
+220727	South Africa (country)	Text		
+220727	South Africa (country)	Text		
+216063	South Africa (country)	Text		
+216066	South Africa (country)	Text		
+216065	South Africa (country)	Text		
+216062	South Africa (country)	Text		
+216068	South Africa (country)	Text		
+216068	South Africa (country)	Text		
+216067	South Africa (country)	Text		
+258429	South Africa (country)	Text		
+220754	South Africa (country)	Text		
+220753	South Africa (country)	Text		
+118973	South Africa (country)	Text		
+211382	South Africa (country)	Text		
+216054	South Africa (country)	Text		
+256824	South Africa (country)	Text		
+211378	South Africa (country)	Text		
+211378	South Africa (country)	Text		
+212996	South Africa (country)	Text		
+212996	South Africa (country)	Text		
+261539	South Africa (country)	Text		
+261531	South Africa (country)	Text		
+214914	South Africa (country)	Text		
+256837	South Africa (country)	Text		
+261514	South Africa (country)	Text		
+220752	South Africa (country)	Text		
+213006	South Africa (country)	Text		
+118503	South Africa (country)	Text		
+118503	South Africa (country)	Text		
+213007	South Africa (country)	Text		
+257543	South Africa (country)	Text		
+213011	South Africa (country)	Text		
+118500	South Africa (country)	Text		
+257547	South Africa (country)	Text		
+257978	South Africa (country)	Text		
+212833	South Africa (country)	Text		
+258476	South Africa (country)	Text		
+220715	South Africa (country)	Text		
+211276	South Africa (country)	Text		
+211277	South Africa (country)	Text		
+211383	South Africa (country)	Text		
+220701	South Africa (country)	Text		
+220703	South Africa (country)	Text		
+211386	South Africa (country)	Text		
+211385	South Africa (country)	Text		
+211384	South Africa (country)	Text		
+220702	South Africa (country)	Text		
+220704	South Africa (country)	Text		
+118474	South Africa (country)	Text		
+260162	South Africa (country)	Text		
+256795	South Africa (country)	Text		
+211381	South Africa (country)	Text		
+220707	South Africa (country)	Text		
+211333	South Africa (country)	Text		
+211335	South Africa (country)	Text		
+211336	South Africa (country)	Text		
+579422	South Africa (country)	Text		
+257028	South Africa (country)	Text		
+220722	South Africa (country)	Text		
+220721	South Africa (country)	Text		
+220720	South Africa (country)	Text		
+118946	South Africa (country)	Text		
+220724	South Africa (country)	Text		
+174995	South Africa (country)	Text		
+174999	South Africa (country)	Text		
+220738	South Africa (country)	Text		
+259606	South Africa (country)	Text		
+259231	South Africa (country)	Text		
+259228	South Africa (country)	Text		
+259319	South Africa (country)	Text		
+258024	South Africa (country)	Text		
+264457	South Africa (country)	Text		
+256739	South Africa (country)	Text		
+220695	South Africa (country)	Text		
+220689	South Africa (country)	Text		
+259787	South Africa (country)	Text		
+220696	South Africa (country)	Text		
+220690	South Africa (country)	Text		
+220693	South Africa (country)	Text		
+256417	South Africa (country)	Text		
+213000	South Africa (country)	Text		
+212998	South Africa (country)	Text		
+214905	South Africa (country)	Text		
+258979	South Africa (country)	Text		
+211374	South Africa (country)	Text		
+211296	South Africa (country)	Text		
+220713	South Africa (country)	Text		
+262803	Taiwan	Text		
+256731	Taiwan	Text		
+257781	Switzerland	Text		
+264513	Switzerland	Text		
+263648	Sweden	Text		
+488006	Surinam	Text		
+262033	Sudan	Text		
+262009	Sudan	Text		
+262004	Sudan	Text		
+263043	Sudan	Text		
+257879	Sudan	Text		
+257562	Sudan	Text		
+260275	Spain	Text		
+259951	Spain	Text		
+259952	Spain	Text		
+264464	Spain	Text		
+260553	Spain	Text		
+257798	Spain	Text		
+257702	Spain	Text		
+118700	Spain	Text		
+261271	Spain	Text		
+261279	Spain	Text		
+257582	Spain	Text		
+262387	Spain	Text		
+264604	Spain	Text		
+264608	Spain	Text		
+262280	Spain	Text		
+262268	Spain	Text		
+262303	Spain	Text		
+264602	Spain	Text		
+262298	Spain	Text		
+262448	Spain	Text		
+264643	Spain	Text		
+262424	Spain	Text		
+262430	Spain	Text		
+262476	Spain	Text		
+262480	Spain	Text		
+262502	Spain	Text		
+262482	Spain	Text		
+262516	Spain	Text		
+264592	Spain	Text		
+263646	Spain	Text		
+263535	Spain	Text		
+264713	Spain	Text		
+263065	Spain	Text		
+212999	Somalia	Text		
+258829	Somalia	Text		
+255398	Somalia	Text		
+214899	Somalia	Text		
+214899	Somalia	Text		
+257500	Somalia	Text		
+118927	Somalia	Text		
+293256	Somalia	Text		
+293255	Somalia	Text		
+259652	Somalia	Text		
+293242	Somalia	Text		
+260340	Somalia	Text		
+255470	Somalia	Text		
+262021	Somalia	Text		
+262027	Somalia	Text		
+262003	Somalia	Text		
+262037	Somalia	Text		
+216053	Somalia	Text		
+212107	Somalia	Text		
+257562	Somalia	Text		
+257881	Somalia	Text		
+261249	Somalia	Text		
+293258	Somalia	Text		
+261718	Somalia	Text		
+293273	Somalia	Text		
+264811	Slovenia	Text		
+264812	Slovenia	Text		
+264804	Slovenia	Text		
+264805	Slovenia	Text		
+264806	Slovenia	Text		
+264808	Slovenia	Text		
+264382	Slovenia	Text		
+264386	Slovenia	Text		
+264370	Slovenia	Text		
+264390	Slovakia	Text		
+260699	Slovakia	Text		
+264385	Slovakia	Text		
+258598	Slovakia	Text		
+261179	Slovakia	Text		
+261246	Sierra Leone	Text		
+263385	Sierra Leone	Text		
+262045	Sierra Leone	Text		
+211371	Seychelles	Text		
+213005	Seychelles	Text		
+118817	Seychelles	Text		
+258716	Seychelles	Text		
+258867	Seychelles	Text		
+293254	Seychelles	Text		
+293264	Seychelles	Text		
+216039	Seychelles	Text		
+216037	Seychelles	Text		
+216057	Seychelles	Text		
+216056	Seychelles	Text		
+260246	Seychelles	Text		
+293267	Seychelles	Text		
+211339	Seychelles	Text		
+211337	Seychelles	Text		
+216052	Seychelles	Text		
+262830	Seychelles	Text		
+211862	Seychelles	Text		
+293276	Seychelles	Text		
+257598	Seychelles	Text		
+214916	Seychelles	Text		
+293275	Seychelles	Text		
+211379	Seychelles	Text		
+216044	Seychelles	Text		
+216049	Seychelles	Text		
+216048	Seychelles	Text		
+256052	Seychelles	Text		
+216046	Seychelles	Text		
+216045	Seychelles	Text		
+213008	Seychelles	Text		
+262471	Libya	Text		
+262597	Libya	Text		
+258476	Sri Lanka	Text		
+256047	Sri Lanka	Text		
+257881	Sri Lanka	Text		
+256475	Sri Lanka	Text		
+220716	Sri Lanka	Text		
+118796	Sri Lanka	Text		
+259879	Sri Lanka	Text		
+256570	Sri Lanka	Text		
+118927	Sri Lanka	Text		
+256448	Sri Lanka	Text		
+256453	Sri Lanka	Text		
+258686	Sri Lanka	Text		
+257444	Sri Lanka	Text		
+264425	Sri Lanka	Text		
+259036	Sri Lanka	Text		
+264475	Sri Lanka	Text		
+258214	Sri Lanka	Text		
+256753	Sri Lanka	Text		
+291362	Sri Lanka	Text		
+256950	Sri Lanka	Text		
+256769	Sri Lanka	Text		
+260345	Sri Lanka	Text		
+255470	Sri Lanka	Text		
+174995	Sri Lanka	Text		
+260600	Tunisia	Text		
+261514	Namibia	Text		
+261531	Namibia	Text		
+261539	Namibia	Text		
+257547	Namibia	Text		
+257543	Namibia	Text		
+264690	Namibia	Text		
+264084	Namibia	Text		
+260162	Namibia	Text		
+258900	Namibia	Text		
+256674	Burma	Text		
+261883	Burma	Text		
+214899	Mozambique	Text		
+255398	Mozambique	Text		
+211374	Mozambique	Text		
+214899	Mozambique	Text		
+214898	Mozambique	Text		
+258958	Mozambique	Text		
+258966	Mozambique	Text		
+258970	Mozambique	Text		
+258979	Mozambique	Text		
+257315	Mozambique	Text		
+211343	Mozambique	Text		
+212999	Mozambique	Text		
+220759	Mozambique	Text		
+220759	Mozambique	Text		
+220759	Mozambique	Text		
+220759	Mozambique	Text		
+258829	Mozambique	Text		
+293241	Mozambique	Text		
+259228	Mozambique	Text		
+259319	Mozambique	Text		
+216038	Mozambique	Text		
+259652	Mozambique	Text		
+118927	Mozambique	Text		
+258935	Mozambique	Text		
+211275	Mozambique	Text		
+260390	Mozambique	Text		
+260443	Mozambique	Text		
+174995	Mozambique	Text		
+220719	Mozambique	Text		
+220719	Mozambique	Text		
+255441	Mozambique	Text		
+255217	Mozambique	Text		
+258476	Mozambique	Text		
+118503	Mozambique	Text		
+220729	Mozambique	Text		
+220729	Mozambique	Text		
+220729	Mozambique	Text		
+211377	Mozambique	Text		
+211377	Mozambique	Text		
+211345	Mozambique	Text		
+261253	Mozambique	Text		
+256830	Mozambique	Text		
+261595	Mozambique	Text		
+220710	Mozambique	Text		
+220712	Mozambique	Text		
+261780	Mozambique	Text		
+293272	Mozambique	Text		
+292697	Mozambique	Text		
+118908	Mozambique	Text		
+261416	Mozambique	Text		
+220728	Mozambique	Text		
+118973	Mozambique	Text		
+118973	Mozambique	Text		
+118973	Mozambique	Text		
+118973	Mozambique	Text		
+175153	Mozambique	Text		
+220727	Mozambique	Text		
+220727	Mozambique	Text		
+216062	Mozambique	Text		
+220716	Mozambique	Text		
+220716	Mozambique	Text		
+262037	Mozambique	Text		
+211338	Mozambique	Text		
+211338	Mozambique	Text		
+211341	Mozambique	Text		
+216050	Mozambique	Text		
+216051	Mozambique	Text		
+264602	Morocco	Text		
+262298	Morocco	Text		
+262516	Morocco	Text		
+445634	Morocco	Text		
+259225	Morocco	Text		
+256661	Mexico	Text		
+346349	Mexico	Text		
+263833	Mexico	Text		
+264295	Mexico	Text		
+264099	Mexico	Text		
+465378	Mexico	Text		
+258716	Mexico	Text		
+256837	Senegal	Text		
+262859	Senegal	Text		
+257522	Senegal	Text		
+258735	Senegal	Text		
+258716	Senegal	Text		
+260329	New Zealand	Text		
+260161	New Zealand	Text		
+259963	New Zealand	Text		
+118946	New Zealand	Text		
+260125	New Zealand	Text		
+257030	New Zealand	Text		
+174995	New Zealand	Text		
+257920	New Zealand	Text		
+257097	New Zealand	Text		
+325347	New Zealand	Text		
+118911	New Zealand	Text		
+256653	New Zealand	Text		
+256698	New Zealand	Text		
+261097	New Zealand	Text		
+292959	New Zealand	Text		
+119052	New Zealand	Text		
+579163	New Zealand	Text		
+579165	New Zealand	Text		
+579172	New Zealand	Text		
+579176	New Zealand	Text		
+211341	New Zealand	Text		
+263324	New Zealand	Text		
+258134	New Zealand	Text		
+256794	Maldives	Text		
+256745	Maldives	Text		
+259875	Maldives	Text		
+118831	Maldives	Text		
+257083	Maldives	Text		
+211377	Malaysia	Text		
+220708	Malaysia	Text		
+260347	Malaysia	Text		
+260345	Malaysia	Text		
+260341	Malaysia	Text		
+257500	Malaysia	Text		
+258678	Malaysia	Text		
+258685	Malaysia	Text		
+258691	Malaysia	Text		
+258899	Malawi	Text		
+258970	Malawi	Text		
+261253	Malawi	Text		
+261675	Malawi	Text		
+264727	Malawi	Text		
+264430	Macedonia	Text		
+264431	Macedonia	Text		
+264380	Macedonia	Text		
+264381	Macedonia	Text		
+264378	Macedonia	Text		
+264365	Macedonia	Text		
+264362	Macedonia	Text		
+292758	Papua New Guinea	Text		
+259651	Papua New Guinea	Text		
+258935	Papua New Guinea	Text		
+256537	Papua New Guinea	Text		
+257444	Papua New Guinea	Text		
+220708	Papua New Guinea	Text		
+262131	Papua New Guinea	Text		
+262135	Papua New Guinea	Text		
+257893	Papua New Guinea	Text		
+256830	Papua New Guinea	Text		
+262255	Israel	Text		
+261349	Israel	Text		
+259266	Israel	Text		
+264454	Israel	Text		
+259732	Israel	Text		
+257686	Israel	Text		
+257563	Guyana	Text		
+260185	Guyana	Text		
+259640	Guyana	Text		
+259947	Guyana	Text		
+257639	Iraq	Text		
+260883	Iraq	Text		
+262287	Iraq	Text		
+262913	Iraq	Text		
+256830	Indonesia	Text		
+258402	Indonesia	Text		
+342427	Indonesia	Text		
+342425	Indonesia	Text		
+257603	Indonesia	Text		
+342426	Indonesia	Text		
+262803	Indonesia	Text		
+261883	Indonesia	Text		
+262625	Indonesia	Text		
+118927	Indonesia	Text		
+256734	Indonesia	Text		
+258691	Indonesia	Text		
+259032	Indonesia	Text		
+260352	Indonesia	Text		
+255231	Indonesia	Text		
+259036	India	Text		
+257300	India	Text		
+264424	India	Text		
+256453	India	Text		
+216037	India	Text		
+258935	India	Text		
+255470	India	Text		
+256753	India	Text		
+256762	India	Text		
+148645	India	Text		
+256902	India	Text		
+256830	India	Text		
+256866	India	Text		
+256674	India	Text		
+261782	India	Text		
+256475	India	Text		
+262597	India	Text		
+118709	Iceland	Text		
+119066	Iceland	Text		
+263578	Hungary	Text		
+264674	Hungary	Text		
+264675	Hungary	Text		
+264682	Hungary	Text		
+262567	Hungary	Text		
+261179	Hungary	Text		
+260699	Hungary	Text		
+257562	Djibouti	Text		
+261596	Djibouti	Text		
+156211	Italy	Text		
+264513	Italy	Text		
+261694	Italy	Text		
+258966	Zambia	Text		
+258899	Zambia	Text		
+257562	Yemen	Text		
+261718	Yemen	Text		
+262037	Yemen	Text		
+261998	Yemen	Text		
+262485	Yemen	Text		
+259036	Vietnam	Text		
+259947	Venezuela	Text		
+257563	Venezuela	Text		
+257567	Venezuela	Text		
+262858	Venezuela	Text		
+264037	Venezuela	Text		
+257597	Venezuela	Text		
+257608	Venezuela	Text		
+291326	Vanuatu (Nation)	Text		
+259537	USA	Text		
+157847	USA	Text		
+118474	USA	Text		
+262597	USA	Text		
+256052	Tanzania	Text		
+220710	Tanzania	Text		
+261675	Tanzania	Text		
+216060	Tanzania	Text		
+261233	Tanzania	Text		
+216061	Tanzania	Text		
+216071	Tanzania	Text		
+216069	Tanzania	Text		
+216052	Tanzania	Text		
+216064	Tanzania	Text		
+263946	Tanzania	Text		
+263947	Tanzania	Text		
+262034	Tanzania	Text		
+262184	Tanzania	Text		
+216055	Tanzania	Text		
+260426	Tanzania	Text		
+211368	Tanzania	Text		
+220702	Tanzania	Text		
+258869	Tanzania	Text		
+259945	Tanzania	Text		
+216040	Tanzania	Text		
+261847	Thailand	Text		
+255441	Thailand	Text		
+211367	Thailand	Text		
+212999	Thailand	Text		
+258457	Thailand	Text		
+256453	Thailand	Text		
+259036	Thailand	Text		
+751944	Thailand	Text		
+256520	Thailand	Text		
+258938	Thailand	Text		
+256526	Russia	Text		
+264810	Romania	Text		
+261271	Portugal	Text		
+264377	Portugal	Text		
+258541	Portugal	Text		
+264368	Portugal	Text		
+264369	Portugal	Text		
+262502	Portugal	Text		
+264643	Portugal	Text		
+262298	Portugal	Text		
+262268	Portugal	Text		
+262280	Portugal	Text		
+264602	Portugal	Text		
+264608	Portugal	Text		
+262387	Portugal	Text		
+264715	Portugal	Text		
+259952	Portugal	Text		
+259389	Portugal	Text		
+743888	Portugal	Text		
+118926	Portugal	Text		
+260928	Poland	Text		
+261883	Philippines	Text		
+156446	Philippines	Text		
+257603	Philippines	Text		
+256830	Philippines	Text		
+256830	Philippines	Text		
+256816	Philippines	Text		
+261627	Philippines	Text		
+256665	Philippines	Text		
+256902	Philippines	Text		
+258476	Philippines	Text		
+260352	Philippines	Text		
+256794	Philippines	Text		
+256611	Philippines	Text		
+291362	Philippines	Text		
+256448	Philippines	Text		
+257444	Philippines	Text		
+118927	Philippines	Text		
+258925	Philippines	Text		
+263805	Paraguay	Text		
+264005	Paraguay	Text		
+259284	Paraguay	Text		
+260215	Paraguay	Text		
+259725	Panama	Text		
+257428	Panama	Text		
+263043	Oman	Text		
+257596	Oman	Text		
+262597	Oman	Text		
+262037	Oman	Text		
+257562	Oman	Text		
+258735	Oman	Text		
+119065	Norway	Text		
+118827	Norway	Text		
+118798	Norway	Text		
+262058	Nigeria	Text		
+263813	Nigeria	Text		
+262856	Nigeria	Text		
+261158	Nigeria	Text		
+257454	Peru	Text		
+260839	Peru	Text		
+260839	Peru	Text		
+257606	Peru	Text		
+118817	Netherlands Antilles	Text		
+261138	New Caledonia	Text		
+259608	New Caledonia	Text		
+263184	New Caledonia	Text		
+256713	New Caledonia	Text		
+256415	New Caledonia	Text		
+292762	New Caledonia	Text		
+263540	Yugoslavia (ex)	Text		
+258498	Yugoslavia (ex)	Text		
+258236	Yugoslavia (ex)	Text		
+264272	Yugoslavia (ex)	Text		
+264273	Yugoslavia (ex)	Text		
+264274	Yugoslavia (ex)	Text		
+264275	Yugoslavia (ex)	Text		
+264276	Yugoslavia (ex)	Text		
+264277	Yugoslavia (ex)	Text		
+257397	Atlantic Europe	Text		
+211368	East Africa	Text		
+220694	East Africa	Text		
+258938	East Africa	Text		
+258935	East Africa	Text		
+118859	East Atlantic	Text		
+258769	East Atlantic	Text		
+118936	East Atlantic	Text		
+118817	North West Africa	Text		
+220738	False Bay	Text		
+246275	False Bay	Text		
+216063	False Bay	Text		
+261456	Lizard Island (Southern Ocean)	Text		
+256233	South Orkney Island	Text		
+262983	Antarctic Peninsula	Text		
+174924	Antarctic Peninsula	Text		
+174927	Antarctic Peninsula	Text		
+259198	Ross Sea	IHO/EEZ		
+174924	South Shetlands	Text		
+388170	South Shetland Islands	Text		
+262983	South Shetland Islands	Text		
+411070	South Shetland Islands	Text		
+715519	King George Island	Text		
+715519	King George Island	Text		
+715522	King George Island	Text		
+715520	King George Island	Text		
+256047	Patagonia	Text		
+175147	Patagonia	Text		
+220693	Saldanha Bay	Text		
+606988	Lofoten Islands	Text		
+220697	East Pacific	Text		
+445628	East Pacific	Text		
+256662	East Pacific	Text		
+256649	West Pacific	Text		
+255936	West Pacific	Text		
+255937	West Pacific	Text		
+256398	West Pacific	Text		
+405343	West Pacific	Text		
+579152	West Atlantic	Text		
+256448	Indo-West Pacific	Text		
+258938	Indo-West Pacific	Text		
+118757	West Coast of Norway 	Text		
+118732	West Coast of Norway 	Text		
+146999	West Coast of Norway 	Text		
+119048	West Coast of Norway 	Text		
+119050	West Coast of Norway 	Text		
+119044	West Coast of Norway 	Text		
+119043	West Coast of Norway 	Text		
+119039	West Coast of Norway 	Text		
+118714	West Coast of Norway 	Text		
+118958	West Coast of Scotland	Text		
+118467	East Coast of England	Text		
+118855	East Coast of England	Text		
+118973	East Coast of England	Text		
+148642	South Coast of England	Text		
+118918	South Coast of England	Text		
+119046	South Coast of England	Text		
+148673	South Coast of England	Text		
+148675	South Coast of England	Text		
+148642	West Coast of England	Text		
+119046	West Coast of England	Text		
+118843	West Coast of England	Text		
+148674	West Coast of England	Text		
+148675	West Coast of England	Text		
+118702	West Mediterranean	Text		
+264825	West Mediterranean	Text		
+146965	West Africa	Text		
+256674	South East Africa	Text		
+264485	North Africa	Text		
+262208	North Africa	Text		
+262476	North Africa	Text		
+264245	North Africa	Text		
+256435	Cape Point	Text		
+246275	East London	Text		
+119052	East London	Text		
+119039	Voordelta	Text		
+119043	Voordelta	Text		
+119046	Voordelta	Text		
+118852	Voordelta	Text		
+119034	Muuga harbour (Port of Tallinn, Gulf of Finland)	Text		
+119039	Knokke	Text		
+258572	Santander	Text		
+263379	Yucatan	Text		
+216064	Zanzibar	Text		
+256475	Zanzibar	Text		
+293274	Zanzibar	Text		
+258402	Zanzibar	Text		
+256052	Zanzibar	Text		
+258185	Zanzibar	Text		
+256950	Zanzibar	Text		
+256753	Zanzibar	Text		
+258457	Zanzibar	Text		
+259025	Zanzibar	Text		
+259036	Zanzibar	Text		
+258916	Zanzibar	Text		
+258916	Zanzibar	Text		
+256353	Amirantes	Text		
+256867	Gujarat	Text		
+261596	Sinai Peninsula	Text		
+258739	North West Australia	Text		
+257434	North West Australia	Text		
+256660	North West Australia	Text		
+255965	Egmont Reef	Text		
+259875	Mahe Island	Text		
+256570	Mahe Island	Text		
+214898	Mahe Island	Text		
+216057	Mahe Island	Text		
+260395	Mahe Island	Text		
+261812	Mahe Island	Text		
+258399	Mahe Island	Text		
+256052	Mahe Island	Text		
+258476	Mahe Island	Text		
+118917	Oostduinkerke	Text		
+183220	South East Atlantic	Text		
+255938	South East Atlantic	Text		
+264168	South East Atlantic	Text		
+182940	South East Atlantic	Text		
+216055	Murogo Reef	Text		
+257397	San Francisco Bay	Text		
+256717	Atlantic Coast of United States of America	Text		
+259866	Algoa Bay	Text		
+256979	Algoa Bay	Text		
+256866	Delagoa Bay	Text		
+255217	Delagoa Bay	Text		
+292917	Gordon's Bay	Text		
+258988	Karachi	Text		
+261055	Korea Island	Text		
+261299	Korea Island	Text		
+261301	Korea Island	Text		
+411057	Korea Island	Text		
+260354	Korea Island	Text		
+257067	Laccadive islands	Text		
+261138	Loyalty Islands	Text		
+264710	Loyalty Islands	Text		
+263833	Loyalty Islands	Text		
+261896	Loyalty Islands	Text		
+335859	Mollucas	Text		
+258145	Nahoon River	Text		
+256453	North Australia	Text		
+256739	North Australia	Text		
+259666	North Australia	Text		
+256654	North Australia	Text		
+256651	North Australia	Text		
+256650	North Australia	Text		
+256670	North Australia	Text		
+259773	North East Australia	Text		
+220708	North East Australia	Text		
+263451	North East Australia	Text		
+261462	North East Australia	Text		
+261460	North East Australia	Text		
+261454	North East Australia	Text		
+220693	Orange River	Text		
+257026	Saint Sebastian Bay	Text		
+211374	Sumatra	Text		
+212999	Sumatra	Text		
+256453	Sumatra	Text		
+260347	Sumatra	Text		
+293268	Sumatra	Text		
+260341	Sumatra	Text		
+261374	Sumatra	Text		
+220738	Table Bay	Text		
+119047	Table Bay	Text		
+256816	Tahiti Island	Text		
+220693	Vema	Text		
+246305	Vema	Text		
+211386	Vema	Text		
+119052	Vema	Text		
+264099	Texas	Text		
+262597	Palestinian Territory	Text		
+261725	Davis Sea	Text		
+261725	Heard Island	Text		
+264238	Heard Island	Text		
+175200	Heard Island	Text		
+260391	Abrolhos Archipelago	Text		
+211377	Abrolhos Archipelago	Text		
+220759	Andaman Islands	Text		
+212999	Andaman Islands	Text		
+260347	Andaman Islands	Text		
+261865	Andaman Islands	Text		
+262181	Andaman Islands	Text		
+258309	Andaman Islands	Text		
+261210	Andaman Islands	Text		
+256917	Andaman Islands	Text		
+256918	Andaman Islands	Text		
+256903	Andaman Islands	Text		
+256902	Andaman Islands	Text		
+256893	Andaman Islands	Text		
+258436	Auckland Islands	Text		
+256671	South East Australia	Text		
+256657	South East Australia	Text		
+256658	South East Australia	Text		
+256659	South East Australia	Text		
+256664	South East Australia	Text		
+256669	South East Australia	Text		
+256666	South East Australia	Text		
+256655	South East Australia	Text		
+256656	South East Australia	Text		
+256714	South East Australia	Text		
+411092	South East Australia	Text		
+256492	South East Australia	Text		
+459133	South East Australia	Text		
+259775	South East Australia	Text		
+259911	South East Australia	Text		
+259337	South East Australia	Text		
+405349	South East Australia	Text		
+256449	South East Australia	Text		
+259339	South West Australia	Text		
+258686	Borneo	Text		
+256453	Borneo	Text		
+261461	Caribbean Coast Colombia	Text		
+258627	Central Atlantic Ocean	Text		
+258627	Central Atlantic Ocean	Text		
+146981	Central Atlantic Ocean	Text		
+263528	Central Atlantic Ocean	Text		
+263528	Central Atlantic Ocean	Text		
+260161	Chatham Islands	Text		
+256267	Chatham Islands	Text		
+220708	Watamu	Text		
+260145	Bangkok	Text		
+257893	Bangkok	Text		
+257888	Bangkok	Text		
+257893	Bangkok	Text		
+258457	Chilka Lake	Text		
+211374	Chilka Lake	Text		
+256520	Chilka Lake	Text		
+119047	Chinde	Text		
+256824	Chinde	Text		
+259036	Eniwetok Atoll	Text		
+256612	Goa	Text		
+258396	Gulf of Kutch	Text		
+259141	Gulf of Kutch	Text		
+256570	Gulf of Kutch	Text		
+216052	Bawe Island	Text		
+256398	East Australia	Text		
+256392	East Indian Ocean	Text		
+119044	South East Coast of England	Text		
+118917	South East Coast of England	Text		
+411051	Beagle Channel	Text		
+257893	Ganges Delta	Text		
+258916	Grand Comoro Island	Text		
+220716	Indochina	Text		
+175147	Cape Horn	Text		
+256435	Cape Horn	Text		
+258572	Burgos	Text		
+257083	Malay Peninsula	Text		
+264710	New Hebrides	Text		
+118875	New Hebrides	Text		
+220708	Nicobar Islands	Text		
+255226	Nicobar Islands	Text		
+256966	Nicobar Islands	Text		
+261595	Nicobar Islands	Text		
+256859	Northern Territory	Text		
+256917	Northern Territory	Text		
+264221	Northern Territory	Text		
+259912	Northern Territory	Text		
+259651	Northern Territory	Text		
+258624	Northern Territory	Text		
+258829	Northern Territory	Text		
+211377	Phuket	Text		
+118973	Phuket	Text		
+262798	Phuket	Text		
+261876	Phuket	Text		
+262590	Phuket	Text		
+258767	Phuket	Text		
+255190	Phuket	Text		
+258988	Phuket	Text		
+255961	Phuket	Text		
+259340	Phuket	Text		
+255227	Phuket	Text		
+256966	Phuket	Text		
+216058	Phuket	Text		
+257384	Cochin	Text		
+258476	Travancore	Text		
+258482	Travancore	Text		
+258457	Travancore	Text		
+257444	Travancore	Text		
+211374	Travancore	Text		
+259879	Travancore	Text		
+256520	Travancore	Text		
+174995	Travancore	Text		
+174995	Travancore	Text		
+211368	Travancore	Text		
+256968	Travancore	Text		
+211367	Quilon	Text		
+255971	Quilon	Text		
+257384	Quilon	Text		
+258544	Risano	Text		
+258735	South China	Text		
+258185	Ko Phuket	Text		
+212996	Vatta Kayal	Text		
+264792	Bavarian Alps	Text		
+257820	Bessarabia	Text		
+259800	Bismarck Archipelago	Text		
+262637	Central Asia	Text		
+262913	Caucasus Region	Text		
+264317	Caucasus Mountains	Text		
+260597	Caucasus Mountains	Text		
+260603	Caucasus Mountains	Text		
+260084	Caucasus Mountains	Text		
+262637	East Europe	Text		
+260695	East United States of America	Text		
+257486	East United States of America	Text		
+262040	Fernando Po	Text		
+262184	Fernando Po	Text		
+263389	Fernando Po	Text		
+261154	Fernando Po	Text		
+261170	Fernando Po	Text		
+264143	Fernando Po	Text		
+262672	Kashmir	Text		
+262691	Mongolia	Text		
+260661	North China	Text		
+262842	Palaos	Text		
+258930	Palau Islands	Text		
+260928	South Germany	Text		
+259898	West Europe	Text		
+261380	Macau Island	Text		
+259032	Gilbert Islands	Text		
+263320	Gough Island	Text		
+256070	Gough Island	Text		
+174995	Gough Island	Text		
+257893	Java	Text		
+261374	Java	Text		
+118875	Java	Text		
+256734	Java	Text		
+118734	Commander Islands	Text		
+263184	Marquesas Islands	Text		
+294844	South West Atlantic	Text		
+256715	South West Atlantic	Text		
+345011	South West Atlantic	Text		
+255773	South West Atlantic	Text		
+264358	Montenegro	Text		
+257336	Tierra del Fuego	Text		
+174985	Tierra del Fuego	Text		
+174999	Tierra del Fuego	Text		
+175001	Tierra del Fuego	Text		
+256047	Tierra del Fuego	Text		
+256331	Walvis Bay	Text		
+119052	Walvis Bay	Text		
+258061	Subantarctic Isles	Text		
+118917	North East Pacific	Text		
+257558	North East Pacific	Text		
+256455	North East Pacific	Text		
+257529	North East Pacific	Text		
+579411	North East Pacific	Text		
+264231	North West Pacific	Text		
+263972	North West Pacific	Text		
+263988	North West Pacific	Text		
+264240	North West Pacific	Text		
+264190	North West Pacific	Text		
+264191	North West Pacific	Text		
+264192	North West Pacific	Text		
+255945	North West Pacific	Text		
+255941	North West Pacific	Text		
+255942	North West Pacific	Text		
+255948	North West Pacific	Text		
+255952	North West Pacific	Text		
+255950	North West Pacific	Text		
+255951	North West Pacific	Text		
+255955	North West Pacific	Text		
+255957	North West Pacific	Text		
+259240	North West Pacific	Text		
+256293	North West Pacific	Text		
+579414	North West Pacific	Text		
+579410	North West Pacific	Text		
+579416	North West Pacific	Text		
+579417	North West Pacific	Text		
+579418	North West Pacific	Text		
+579419	North West Pacific	Text		
+579420	North West Pacific	Text		
+255781	South East Indian Ocean	Text		
+264238	South Indian Ocean	Text		
+607527	West North Atlantic	Text		
+607525	West North Atlantic	Text		
+579415	Central North Pacific	Text		
+264265	Central North Pacific	Text		
+255940	Central North Pacific	Text		
+257577	Central South Pacific	Text		
+257534	Central South Pacific	Text		
+258944	Central South Pacific	Text		
+118911	South Africa	Text		
+256563	South Africa	Text		
+256446	South Africa	Text		
+258077	Central Pacific Ocean	Text		
+258077	Central Pacific Ocean	Text		
+258075	Central Pacific Ocean	Text		
+258075	Central Pacific Ocean	Text		
+258087	Central Pacific Ocean	Text		
+747380	Central Pacific Ocean	Text		
+259537	Chiapas	Text		
+579760	Maryland	Text		
+259834	Long Island (USA)	Text		
+260401	Honolulu	Text		
+293387	Oahu Island	Text		
+264444	Virginia	Text		
+257081	Aby, Lagune	Text		
+148661	Aby, Lagune	Text		
+220709	Aby, Lagune	Text		
+257608	Tobago	Text		
+259513	Monterey Bay	Text		
+255943	Cape Lookout	Text		
+255956	Cape Lookout	Text		
+264442	Illinois	Text		
+264440	Illinois	Text		
+264541	Missouri	Text		
+264441	Kentucky	Text		
+264539	Arkansas	Text		
+257570	Naples	Text		
+257587	Naples	Text		
+261988	Naples	Text		
+260480	Naples	Text		
+257511	Naples	Text		
+257512	Naples	Text		
+257514	Naples	Text		
+257521	Naples	Text		
+259936	Naples	Text		
+744052	Lizard Island (Queensland)	Text		
+744053	Lizard Island (Queensland)	Text		
+256526	Pacific Coast of the United States	Text		
+256662	Pacific Coast of the United States	Text		
+256661	Pacific Coast of the United States	Text		
+527311	Adelie Land	Text		
+527346	Adelie Land	Text		
+261959	Eastern Pacific	Text		
+255357	North West Shelf	Text		
+255344	North West Shelf	Text		
+255350	North West Shelf	Text		
+255403	North West Shelf	Text		
+255457	North West Shelf	Text		
+263226	North West Shelf	Text		
+588458	Hainan	Text		
+262616	Serbia	Text		
+264388	Serbia	Text		
+264384	Serbia	Text		
+258567	Serbia	Text		
+264364	Serbia	Text		
+157896	Cobscook Bay	Text		
+118917	Cobscook Bay	Text		
+118730	Cobscook Bay	Text		
+157891	Cobscook Bay	Text		
+118770	Cobscook Bay	Text		
+118754	Cobscook Bay	Text		
+157908	Cobscook Bay	Text		
+157903	Cobscook Bay	Text		
+157901	Cobscook Bay	Text		
+119047	Cobscook Bay	Text		
+119039	Cobscook Bay	Text		
+157885	Cobscook Bay	Text		
+157847	Cobscook Bay	Text		
+119031	Cobscook Bay	Text		
+118204	Cobscook Bay	Text		
+118497	Cobscook Bay	Text		
+118982	Cobscook Bay	Text		
+411058	Amsterdam-St Paul	Text		
+263981	South Sandwich Islands	Text		
+411060	Society Islands	Text		
+389788	Auckland Island	Text		
+396392	Auckland Island	Text		
+605553	Eastern Caribbean	Text		
+263526	Bermuda	Text		
+263526	Bermuda	Text		
+594917	East African Coral Coast	Text		
+264815	Former USSR	Text		
+258586	Lake Ohrid	Text		
+258531	Lake Ohrid	Text		
+264367	Lake Ohrid	Text		
+743884	Powell Basin	Text		
+579174	Port Jackson	Text		
+410918	Port Jackson	Text		
+410919	Swan Island	Text		
+411053	Hyuga Basin	Text		
+292919	Jonkershoek Staatsbos	Text		
+264160	Transcaucasus	Text		
+264375	Lefkada	Text		
+156446	Manicouagan	Text		
+118497	Manicouagan	Text		
+118497	St. Lawrence Estuary	Text		
+118497	St. Lawrence Estuary	Text		
+118217	St. Lawrence Estuary	Text		
+156446	St. Lawrence Estuary	Text		
+119053	St. Lawrence Estuary	Text		
+118770	St. Lawrence Estuary	Text		
+256894	St. Lawrence Estuary	Text		
+157891	St. Lawrence Estuary	Text		
+264171	St. Lawrence Estuary	Text		
+579134	Yunnan Province	Text		
+579135	Lake Xochimilco	Text		
+579146	Batemans Bay	Text		
+579148	Batemans Bay	Text		
+579145	Montague Island	Text		
+579142	Guinea Basin	Text		
+579144	Guinea Basin	Text		
+579143	Guinea Basin	Text		
+579136	Guinea Basin	Text		
+264814	Tokyo	Text		
+264540	Oklahoma	Text		
+255939	Bougainville Trench	Text		
+579441	Romanche Trench	Text		
+119053	Saguenay Fjord	Text		
+156445	Saguenay Fjord	Text		
+118799	Saguenay Fjord	Text		
+118798	Saguenay Fjord	Text		
+118802	Saguenay Fjord	Text		
+118677	Saguenay Fjord	Text		
+118915	Saguenay Fjord	Text		
+118770	Saguenay Fjord	Text		
+118754	Saguenay Fjord	Text		
+118757	Saguenay Fjord	Text		
+118751	Saguenay Fjord	Text		
+118982	Saguenay Fjord	Text		
+118497	Saguenay Fjord	Text		
+118204	Saguenay Fjord	Text		
+118623	Saguenay Fjord	Text		
+118615	Saguenay Fjord	Text		
+118217	Saguenay Fjord	Text		
+148637	North Sea	Text		
+119046	North Sea	Text		
+255882	Celtic Sea	Text		
+118741	Norwegian Sea	Text		
+118636	Norwegian Sea	Text		
+146999	Wadden Sea	Text		
+118741	Greenland Sea	Text		
+118741	Greenland Sea	Text		
+579409	Bay of Biscay	Text		
+255891	Bay of Biscay	Text		
+531934	Bay of Biscay	Text		
+118707	Bay of Biscay	Text		
+118513	Denmark Strait	Text		
+118682	Denmark Strait	Text		
+118515	Denmark Strait	Text		
+146965	English Channel	Text		
+118855	English Channel	Text		
+148638	Southern Bight	Text		
+118754	Southern Bight	Text		
+118732	Southern Bight	Text		
+119024	Southern Bight	Text		
+118852	Southern Bight	Text		
+148637	Southern Bight	Text		
+118995	Nordhinter	Text		
+119048	Westhinder	Text		
+119043	Westhinder	Text		
+118196	Westhinder	Text		
+118467	Westhinder	Text		
+118732	Westhinder	Text		
+261272	Azores	Text		
+264821	Azores	Text		
+264824	Azores	Text		
+146999	Azores	Text		
+156211	Azores	Text		
+262344	Azores	Text		
+118973	Azores	Text		
+263958	Azores	Text		
+264494	Azores	Text		
+257522	Azores	Text		
+118817	Azores	Text		
+148673	Azores	Text		
+257481	Azores	Text		
+257817	Azores	Text		
+259898	Azores	Text		
+118942	Channel Islands	Text		
+445631	Faroe Islands	Text		
+148669	Zeeschelde	Text		
+264152	Zeeschelde	Text		
+118871	Belgian Coast	Text		
+118852	Zeebrugge	Text		
+146999	Zeebrugge	Text		
+146999	Zeebrugge	Text		
+118852	British Isles	Text		
+118849	British Isles	Text		
+118936	British Isles	Text		
+119044	British Isles	Text		
+119043	British Isles	Text		
+119042	British Isles	Text		
+119050	British Isles	Text		
+119048	British Isles	Text		
+119039	British Isles	Text		
+119000	British Isles	Text		
+118995	British Isles	Text		
+118196	British Isles	Text		
+118958	British Isles	Text		
+146999	British Isles	Text		
+119001	British Isles	Text		
+119047	Plymouth	Text		
+118849	Plymouth	Text		
+147121	Plymouth	Text		
+118218	Plymouth	Text		
+119001	Dorset	Text		
+118218	Isle of Wight	Text		
+118918	Isle of Man	Text		
+118849	Isle of Man	Text		
+118936	Shetlands	Text		
+119072	Sark	Text		
+118217	Belgian Exclusive Economic Zone	Text		
+118217	Belgian Exclusive Economic Zone	Text		
+119039	Belgian Exclusive Economic Zone	Text		
+119039	Belgian Exclusive Economic Zone	Text		
+119039	Belgian Exclusive Economic Zone	Text		
+119039	Belgian Exclusive Economic Zone	Text		
+119046	Belgian Exclusive Economic Zone	Text		
+119047	Belgian Exclusive Economic Zone	Text		
+119046	Belgian Exclusive Economic Zone	Text		
+119046	Belgian Exclusive Economic Zone	Text		
+119046	Belgian Exclusive Economic Zone	Text		
+119048	Belgian Exclusive Economic Zone	Text		
+119048	Belgian Exclusive Economic Zone	Text		
+119048	Belgian Exclusive Economic Zone	Text		
+119050	Belgian Exclusive Economic Zone	Text		
+119050	Belgian Exclusive Economic Zone	Text		
+119050	Belgian Exclusive Economic Zone	Text		
+119050	Belgian Exclusive Economic Zone	Text		
+119050	Belgian Exclusive Economic Zone	Text		
+119050	Belgian Exclusive Economic Zone	Text		
+119050	Belgian Exclusive Economic Zone	Text		
+119050	Belgian Exclusive Economic Zone	Text		
+119039	Belgian Exclusive Economic Zone	Text		
+119042	Belgian Exclusive Economic Zone	Text		
+119042	Belgian Exclusive Economic Zone	Text		
+119039	Belgian Exclusive Economic Zone	Text		
+119043	Belgian Exclusive Economic Zone	Text		
+119043	Belgian Exclusive Economic Zone	Text		
+119043	Belgian Exclusive Economic Zone	Text		
+119044	Belgian Exclusive Economic Zone	Text		
+119044	Belgian Exclusive Economic Zone	Text		
+119044	Belgian Exclusive Economic Zone	Text		
+119044	Belgian Exclusive Economic Zone	Text		
+119044	Belgian Exclusive Economic Zone	Text		
+119046	Belgian Exclusive Economic Zone	Text		
+119046	Belgian Exclusive Economic Zone	Text		
+119046	Belgian Exclusive Economic Zone	Text		
+119046	Belgian Exclusive Economic Zone	Text		
+148637	Belgian Exclusive Economic Zone	Text		
+118995	Belgian Exclusive Economic Zone	Text		
+118995	Belgian Exclusive Economic Zone	Text		
+118474	Belgian Exclusive Economic Zone	Text		
+118843	Belgian Exclusive Economic Zone	Text		
+118843	Belgian Exclusive Economic Zone	Text		
+118843	Belgian Exclusive Economic Zone	Text		
+118843	Belgian Exclusive Economic Zone	Text		
+148637	Belgian Exclusive Economic Zone	Text		
+118852	Belgian Exclusive Economic Zone	Text		
+118852	Belgian Exclusive Economic Zone	Text		
+148637	Belgian Exclusive Economic Zone	Text		
+148637	Belgian Exclusive Economic Zone	Text		
+148650	Belgian Exclusive Economic Zone	Text		
+118852	Belgian Exclusive Economic Zone	Text		
+118852	Belgian Exclusive Economic Zone	Text		
+118852	Belgian Exclusive Economic Zone	Text		
+118852	Belgian Exclusive Economic Zone	Text		
+118852	Belgian Exclusive Economic Zone	Text		
+118852	Belgian Exclusive Economic Zone	Text		
+118852	Belgian Exclusive Economic Zone	Text		
+119024	Belgian Exclusive Economic Zone	Text		
+118196	Belgian Exclusive Economic Zone	Text		
+118196	Belgian Exclusive Economic Zone	Text		
+148675	Belgian Exclusive Economic Zone	Text		
+148673	Belgian Exclusive Economic Zone	Text		
+148673	Belgian Exclusive Economic Zone	Text		
+118467	Belgian Exclusive Economic Zone	Text		
+118467	Belgian Exclusive Economic Zone	Text		
+148659	Belgian Exclusive Economic Zone	Text		
+146494	Belgian Exclusive Economic Zone	Text		
+118827	Belgian Exclusive Economic Zone	Text		
+118827	Belgian Exclusive Economic Zone	Text		
+118871	Belgian Exclusive Economic Zone	Text		
+118871	Belgian Exclusive Economic Zone	Text		
+118871	Belgian Exclusive Economic Zone	Text		
+118754	Belgian Exclusive Economic Zone	Text		
+118911	Belgian Exclusive Economic Zone	Text		
+146999	Belgian Exclusive Economic Zone	Text		
+146999	Belgian Exclusive Economic Zone	Text		
+146999	Belgian Exclusive Economic Zone	Text		
+118958	Belgian Exclusive Economic Zone	Text		
+118958	Belgian Exclusive Economic Zone	Text		
+118958	Belgian Exclusive Economic Zone	Text		
+118917	Belgian Exclusive Economic Zone	Text		
+118917	Belgian Exclusive Economic Zone	Text		
+118732	Belgian Exclusive Economic Zone	Text		
+118732	Belgian Exclusive Economic Zone	Text		
+118732	Belgian Exclusive Economic Zone	Text		
+264171	Belgian Exclusive Economic Zone	Text		
+118218	Belgian Exclusive Economic Zone	Text		
+118218	Belgian Exclusive Economic Zone	Text		
+118218	Belgian Exclusive Economic Zone	Text		
+118954	Belgian Exclusive Economic Zone	Text		
+118953	Belgian Exclusive Economic Zone	Text		
+118953	Belgian Exclusive Economic Zone	Text		
+118953	Belgian Exclusive Economic Zone	Text		
+148668	Belgian Exclusive Economic Zone	Text		
+148668	Belgian Exclusive Economic Zone	Text		
+148668	Belgian Exclusive Economic Zone	Text		
+262544	Belgian Exclusive Economic Zone	Text		
+262451	Belgian Exclusive Economic Zone	Text		
+262272	Belgian Exclusive Economic Zone	Text		
+118240	Belgian Exclusive Economic Zone	Text		
+118240	Belgian Exclusive Economic Zone	Text		
+148638	Belgian Exclusive Economic Zone	Text		
+148638	Belgian Exclusive Economic Zone	Text		
+148638	Belgian Exclusive Economic Zone	Text		
+148638	Belgian Exclusive Economic Zone	Text		
+119001	Belgian Exclusive Economic Zone	Text		
+119001	Belgian Exclusive Economic Zone	Text		
+119001	Belgian Exclusive Economic Zone	Text		
+118973	Belgian Exclusive Economic Zone	Text		
+118834	Belgian Exclusive Economic Zone	Text		
+118834	Belgian Exclusive Economic Zone	Text		
+263752	Belgian Exclusive Economic Zone	Text		
+119047	Adriatic Sea	Text		
+118218	Adriatic Sea	Text		
+264822	Adriatic Sea	Text		
+119047	Black Sea	Text		
+118853	Black Sea	Text		
+118851	Black Sea	Text		
+118856	Black Sea	Text		
+118987	Black Sea	Text		
+118938	Black Sea	Text		
+119074	Black Sea	Text		
+118919	Black Sea	Text		
+264181	Black Sea	Text		
+118904	Black Sea	Text		
+119033	Black Sea	Text		
+118973	Black Sea	Text		
+264415	Sardinia	Text		
+264319	Sardinia	Text		
+257523	Sicily	Text		
+264414	Sicily	Text		
+259095	Sicily	Text		
+257674	Sicily	Text		
+264316	Sicily	Text		
+257813	Sicily	Text		
+263272	Sicily	Text		
+263711	Sicily	Text		
+264248	Sicily	Text		
+262242	Sicily	Text		
+264342	Sicily	Text		
+233891	Syria	Text		
+262270	Syria	Text		
+262333	Syria	Text		
+262231	Syria	Text		
+262255	Syria	Text		
+260554	Syria	Text		
+259731	Syria	Text		
+258646	Atlantic	Text		
+118982	Atlantic	Text		
+118926	Atlantic	Text		
+256563	Atlantic	Text		
+261959	Pacific Ocean	Text		
+256437	Pacific Ocean	Text		
+292761	Pacific Ocean	Text		
+118889	Indian Ocean	Text		
+260253	Indian Ocean	Text		
+264268	Indian Ocean	Text		
+264269	Indian Ocean	Text		
+118905	Indian Ocean	Text		
+411092	Mediterranean Sea	Text		
+411092	Mediterranean Sea	Text		
+118808	Mediterranean Sea	Text		
+118766	Mediterranean Sea	Text		
+256459	Mediterranean Sea	Text		
+118865	Mediterranean Sea	Text		
+118966	Mediterranean Sea	Text		
+118969	Mediterranean Sea	Text		
+118973	Mediterranean Sea	Text		
+256988	United Kingdom	Text		
+259897	UK	Text		
+263950	Uganda	Text		
+259945	Uganda	Text		
+259941	Uganda	Text		
+260592	Turkmenistan	Text		
+264813	Turkmenistan	Text		
+262691	Turkmenistan	Text		
+262672	Turkmenistan	Text		
+260951	Turkey	Text		
+262160	Turkey	Text		
+262597	Turkey	Text		
+262916	Turkey	Text		
+262919	Turkey	Text		
+262921	Turkey	Text		
+260084	Turkey	Text		
+260550	Turkey	Text		
+258640	Turkey	Text		
+257639	Turkey	Text		
+259731	Turkey	Text		
+259729	Turkey	Text		
+264454	Turkey	Text		
+259266	Turkey	Text		
+262242	Tunisia	Text		
+262471	Tunisia	Text		
+264604	Balear Islands	Text		
+262448	Balear Islands	Text		
+264819	Mallorca	Text		
+264820	Mallorca	Text		
+257641	Elba	Text		
+295731	Gulf of Naples	Text		
+262333	Dalmatia	Text		
+263576	Dalmatia	Text		
+264373	Corfu	Text		
+258716	Canary Islands	Text		
+262208	Canary Islands	Text		
+262344	Canary Islands	Text		
+118703	Canary Islands	Text		
+264389	Bourgogne	Text		
+259952	Corsica	Text		
+259951	Corsica	Text		
+259402	Corsica	Text		
+257803	Corsica	Text		
+264319	Corsica	Text		
+257641	Corsica	Text		
+264415	Corsica	Text		
+258781	Corsica	Text		
+263744	Corsica	Text		
+262899	Corsica	Text		
+257686	Cyprus	Text		
+259732	Cyprus	Text		
+262916	Cyprus	Text		
+264250	Cyprus	Text		
+262004	Egypt	Text		
+119049	Russian part of the Black Sea	Text		
+118741	Greenlandic part of the Arctic Ocean	Text		
+183217	Panamanian part of the Caribbean Sea	Text		
+183219	Costa Rican part of the North Pacific Ocean	Text		
+263507	Mexican part of the North Pacific Ocean	Text		
+261846	Mexican part of the North Pacific Ocean	Text		
+747381	Galapagos part of the South Pacific Ocean	Text		
+118917	Canadian Exclusive Economic Zone [Pacific part]	Text		
+257558	Canadian Exclusive Economic Zone [Pacific part]	Text		
+256455	Canadian Exclusive Economic Zone [Pacific part]	Text		
+715669	Baixa Funda Cave	Text		
+118973	Kerkennah Islands	Text		
+147002	North Sea	Text		
+257674	Egypt	Text		
+257686	Egypt	Text		
+211374	Egypt	Text	Alien	
+148645	North Sea	Text	Alien	
+220727	Egypt	Text	Alien	
+220727	Egypt	Text	Alien	
+261827	Tunisia	Text	Alien	
+220727	Mediterranean Sea	Text	Alien	
+257081	Indian Ocean	Text	Alien	
+233891	German Bight	Text	Alien	
+119034	Ukrainian part of the Black Sea	Text	Alien	
+119034	Ukrainian part of the Black Sea	Text	Alien	
+233891	North Sea	Text	Alien	
+148645	United Kingdom	Text	Alien	
+261839	Italy	Text	Alien	
+264185	Soviet Union	Text	Alien	
+119034	Ukraine	Text	Alien	
+220727	Australia	Text	Alien	
+220727	Israel	Text	Alien	
+118918	Ireland	Text	Alien	
+148669	France	Text	Alien	
+256762	Lebanon	Text	Alien	
+257466	Lebanon	Text	Alien	
+148645	Atlantic Europe	Text	Alien	
+148669	Atlantic Europe	Text	Alien	
+341251	Atlantic	Text	Native - Endemic	

@@ -1,0 +1,31 @@
+ReferenceID	Authors	Year	Title	Details	
+42			ITIS database		
+281	Fabricius, O.	1780	Fauna Groenlandica: systematice sistens animalia Groenlandiae occidentalis hactenus indagata, quod nomen specificium. Hafniae et Lipsiae: Copenhagen, Denmark. XVI, 452, [2] f. pp.		
+663	Howson, C.M.; Picton, B.E. (Ed.)	1997	The species directory of the marine fauna and flora of the British Isles and surrounding seas. <i>Ulster Museum Publication</i>, 276. The Ulster Museum: Belfast, UK. ISBN 0-948150-06-8. vi, 508 (+ cd-rom) pp.		
+669	Mauchline, J.	1984	Euphausiid, stomatopod and leptostracan crustaceans: keys and notes for the identification of the species. <i>Synopses of the British fauna (new series)</i>, 30. E.J. Brill; W. Backhuys: London, UK. ISBN 90-04-07471-6. vii, 91 pp.		
+2930	Brunel, P., L. Bosse, & G. Lamarche.	1998	Catalogue of the marine invertebrates of the estuary and Gulf of St. Lawrence. Canadian Special Publication of Fisheries and Aquatic Sciences, 126. 405 p.		
+6501	Olesen, J.	1999	A new species of Nebalia (Crustacea, Leptostraca) from Unguja Island (Zanzibar), Tanzania, East Africa, with a phylogenetic analysis of leptostracan genera. Journal of Natural History 33: 1789-1809.		
+14110	Dahl E.	1990	Records of Nebalia (Crustacea Leptostraca) from the Southern Hemisphere-a critical review. Bulletin of the British Museum (Natural History), Zoology, 56, 1, 73-91.		
+42271			NSF PEET Program		
+124982	Walker-Smith G.K. & Poore G.C.B.	2001	A phylogeny of the Leptostraca (Crustacea) with keys to families and genera. Memoirs of Museum Victoria 58(2): 383-410.		
+127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
+128831	Ledoyer, M.	2000	Leptostracés (Crustacea) de Nouvelle-Calédonie (mer de Corail, Ouest Pacifique) = Leptostraca (Crustacea) from New Caledonia (Coral Sea, West Pacific). Marine Life 10 (1-2): 57-68		
+129003	Moreira, Gestoso & Troncoso.	2003	Two new species of Sarsinebalia (Crustacea, Leptostraca) from the Northeast Atlantic, with comments on the genus. Sarsia 88 (3): 189-209		
+129004	Moreira, Gestoso & Troncoso.	2003	Two new species of Sarsinebalia (Crustacea, Leptostraca) from the Northeast Atlantic, with comments on the genus. Sarsia 88 (3): 189-209		
+129709	Ledoyer Michel.	2002	Leptostracas (Crustacea) de Nouvelle-Caledonie (mer de Corail, Ouest Pacifique) = Leptostraca (Crustacea) from New Caledonia (Coral Sea, West Pacific). Marine Life 10 (1-2): 57-68		
+141240	Martin, J. W. and T. A. Haney.	2009	Leptostraca (Crustacea) of the Gulf of Mexico,		
+141277	Petryashov, V.V.	1996	Pseudonebaliopsis atlantica gen n, sp n is a new genus and a new species of Leptostraca (Crustacea, Malacostraca) from central part of North Atlantic. Zoologischesky Zhurnal 75(12): 1892-1896		
+141280	Moreira, J., G. Díaz-Agras, M. Candás, M.P. Señarís and V. Urgorri.	2009	Leptostracans (Crustacea: Phyllocarida) from the Ría de Ferrol (Galicia, NW Iberian Peninsula), with description of a new species of Nebalia Leach, 1814. Scientia Marina, Vol 73, No 2		
+141281	Haney, T.A. and J.W. Martin.	2005	Nebalia kensleyi, a new species of leptostracan (Crustacea: Phyllocarida) from Tomales Bay, California. Proc. Biol. Soc. Washington 118(1): 3-20		
+141283	Moreira J., C. Kocak and T. Katagan.	2007	Journal of the Marine Biological Association of the United Kingdom, 87(5): 1247-1254		
+141284	Todd A. Haney, Robert R. Hessler and Joel W. Martin.	2001	Nebalia schizophthalma, a new Species of Leptostracan (Malacostraca) from deep waters off the East Coast of the United States. Journal of Crustacean Biology, 21(1), 192-201.		
+141286	Moreira J., E. Cacabelos and M. Domínguez.	2003	Nebalia troncosoi sp. nov., a new species of leptostracan (Crustacea: Phyllocarida: Leptostraca) from Galicia, Iberian Peninsula (north-east Atlantic). Journal of the Marine Biological Association of the UK, 83:2:341-350.		
+141287	Schram & Malzahn.	1984	The Fossil leptostracan Rhabdouraea bentzi (Malzahn, 1958). 1984. Transactions of the San Diego Society of Natural History, 20,		
+141959	Haney, T.A. & J.W. Martin	2004	A new genus and species of leptostracan (Crustacea: Malacostraca: Phyllocarida) from Guana Island, British Virgin Islands, and a review of leptostracan genera. Journal of Natural History 38: 447-469.		
+152803	Ortiz, M., I. Winfield & S. Chazaro-Olvera	2011	A new sponge-inhabiting leptostracan species of the genus Nebalia (Crustacea: Pyllocarida: Leptostraca) from the Veracruz Coral Reef System, Gulf of Mexico. Zootaxa 3027: 52-62.		
+154067	Lee, C.N.M. & R. Bamber,	2011	A new species of Nebalia (Crustacea: Phyllocarida: Leptostraca) from the Cape d’Aguilar Marine Reserve, Hong Kong. Zootaxa 3091: 51–59.		
+163032	Bochert, R. & M.L. Zettler,	2012	Nebalia deborahae, a new species of Leptostraca (Phyllocarida) from South West Africa. Crustaceana 85 (2): 205-218.		
+163033	Moreira, J., M. Sezgin, T. Katagan, O. Gonulal & B. Topaloglu,	2012	First record of a bathyal leptostracan, Nebalia abyssicola Fage, 1929 (Crustacea: Malacostraca: Phyllocarida), in the Aegean Sea, eastern Mediterranean. Turkish Journal of Zoology 36 (3): 351-360.		
+163084	Song, J.-H., J. Moreira & G.-S. Min	2012	A new species of Leptostraca, Nebalia koreana (Malacostraca: Phyllocarida), from South Korea. Journal of Crustacean Biology 32(4): 641-653.		
+163949	Song, J.-H., J. Moreira & G.-S. Min,	2012	Nebalia pseudotroncosoi n. sp. (Malacostraca: Leptostraca), from South Korea, with a peculiar sexual dimorphism. J. Crust. Biol. Advance online: 13		
+165516	Dyntaxa	2013	Swedish Taxonomic Database. Accessed at www.dyntaxa.se [15-01-2013].		

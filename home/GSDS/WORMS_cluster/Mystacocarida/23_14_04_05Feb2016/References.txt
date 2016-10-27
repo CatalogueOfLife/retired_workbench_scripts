@@ -1,0 +1,4 @@
+ReferenceID	Authors	Year	Title	Details	
+1331	Boxshall, G.	2001	Mystacocarida, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+6827	Costello, M.J.; Emblow, C.; White, R. (Ed.).	2001	European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels, 50. Muséum national d'Histoire Naturelle: Paris, France. ISBN 2-85653-538-0. 463 pp.		
+141239	Martin, J. W.	2009	Cephalocarida and Mystacocarida (Crustacea) of the Gulf of Mexico,		

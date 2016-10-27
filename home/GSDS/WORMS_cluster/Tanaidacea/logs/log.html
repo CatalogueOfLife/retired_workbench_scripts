@@ -1,0 +1,3364 @@
+<html><body>
+<br><b>Harvesting...</b>
+<pre>
+</pre><hr><b>File format conversions...</b>
+<pre>
+Unzipping
+Archive:  WoRMS_Tanaidacea.zip
+  inflating: AcceptedSpecies.txt     
+  inflating: AcceptedInfraSpecificTaxa.txt  
+  inflating: Synonyms.txt            
+  inflating: CommonNames.txt         
+  inflating: Distribution.txt        
+  inflating: References.txt          
+  inflating: NameReferencesLinks.txt  
+  inflating: SourceDatabase.txt      
+Skipping format conversion
+</pre><hr><b>Creating buffer database, performing structural transformations...</b>
+<pre>
+<pre>
+Initiating buffer creation - this may take a while depending on size of the dataset...
+
+Creating buffer database Buffer_Tanaidacea in schema as provided by Tanaidacea
+--------------
+DROP DATABASE IF EXISTS Buffer_Tanaidacea
+--------------
+
+--------------
+CREATE DATABASE IF NOT EXISTS Buffer_Tanaidacea
+--------------
+
+--------------
+CREATE TABLE `AcceptedInfraSpecificTaxa` (
+`AcceptedTaxonID` varchar(50) PRIMARY KEY,
+`ParentSpeciesID` varchar(50) default NULL,
+`InfraSpeciesEpithet` varchar(50) default NULL,
+`InfraSpecificAuthorString` varchar(50) default NULL,
+`InfraSpecificMarker` varchar(10) default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`IsFossil` tinyint(1) default NULL,
+`LifeZone` varchar(50) default NULL,
+`AdditionalData` varchar(255) default NULL,
+`LTSSpecialist` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`LTSDate` varchar(50) default NULL,
+`InfraSpeciesURL` varchar(255) default NULL,
+`GSDTaxonGUI` varchar(255) default NULL,
+`GSDNameGUI`  varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `AcceptedSpecies` (
+`AcceptedTaxonID` varchar(50) PRIMARY KEY,
+`Kingdom` varchar(50) default NULL,
+`Phylum` varchar(50) default NULL,
+`Class` varchar(50) default NULL,
+`Order` varchar(50) default NULL,
+`Superfamily` varchar(50) default NULL,
+`Family` varchar(50) default NULL,
+`Genus` varchar(50) default NULL,
+`SubGenusName` varchar(50) default NULL,
+`Species` varchar(50) default NULL,
+`AuthorString` varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`IsFossil` tinyint(1) default NULL,
+`LifeZone` varchar(50) default NULL,
+`AdditionalData` varchar(255) default NULL,
+`LTSSpecialist` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`LTSDate` varchar(50) default NULL,
+`SpeciesURL` varchar(255) default NULL,
+`GSDTaxonGUI` varchar(255) default NULL,
+`GSDNameGUI` varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `CommonNames` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`CommonName` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Transliteration` varchar(255) default NULL,
+`Language` varchar(50) CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`Country`  varchar(255) default NULL,
+`Area`  varchar(255) default NULL,
+`ReferenceID` varchar(50) default NULL,
+PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE = utf8_general_ci
+--------------
+
+--------------
+CREATE TABLE `Distribution` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`Distribution` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`StandardInUse` varchar(50) default NULL,
+`DistributionStatus` varchar(50) default NULL,
+PRIMARY KEY (`record_id`) 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COLLATE = utf8_general_ci
+--------------
+
+--------------
+CREATE TABLE `References` (
+`ReferenceID` varchar(50) PRIMARY KEY,
+`Authors` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`Year` varchar(255) default NULL,
+`Title` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Details` varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `NameReferencesLinks` (
+`ID` integer(10) PRIMARY KEY,
+`ReferenceType` varchar(50) default NULL,
+`ReferenceID` varchar(50) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `SourceDatabase` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`DatabaseFullName` varchar(255) NOT NULL,
+`DatabaseShortName` varchar(50) NOT NULL,
+`DatabaseVersion` varchar(50) NOT NULL,
+`ReleaseDate` varchar(50) NOT NULL,
+`AuthorsEditors` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`TaxonomicCoverage` varchar(255) NOT NULL,
+`GroupNameInEnglish` varchar(255) NOT NULL,
+`Abstract` text  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+`Organisation` varchar(255) NOT NULL,
+`HomeURL` varchar(255) default NULL,
+`Coverage` varchar(50) default NULL,
+`Completeness` integer(3) default NULL,
+`Confidence` integer(1) default NULL,
+`LogoFileName`  varchar(255) default NULL,
+`ContactPerson` varchar(255)  CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL,
+PRIMARY KEY (`record_id`) 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+CREATE TABLE `Synonyms` (
+`ID` integer(10) PRIMARY KEY,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`Genus` varchar(50) NOT NULL,
+`SubGenusName` varchar(50) default NULL,
+`Species` varchar(50) NOT NULL,
+`AuthorString` varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`InfraSpecies` varchar(50) default NULL,
+`InfraSpecificMarker` varchar(50) default NULL,
+`InfraSpecificAuthorString`  varchar(50)  CHARACTER SET utf8 COLLATE utf8_general_ci default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`GSDNameGUI` varchar(255) default NULL 
+) ENGINE=MyISAM DEFAULT CHARSET=utf8
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'AcceptedInfraSpecificTaxa.txt' INTO TABLE `AcceptedInfraSpecificTaxa` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES 
+(`AcceptedTaxonID`, `ParentSpeciesID`, `InfraSpeciesEpithet`, `InfraSpecificAuthorString`,  `InfraSpecificMarker`, `GSDNameStatus`,  `Sp2000NameStatus`, `IsFossil`, `LifeZone`, `AdditionalData`, `LTSSpecialist`, `LTSDate`, `InfraSpeciesURL`, `GSDTaxonGUI`, `GSDNameGUI`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'AcceptedSpecies.txt' INTO TABLE `AcceptedSpecies` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `Kingdom`, `Phylum`, `Class`, `Order`, `Superfamily`, `Family`, `Genus`, `SubGenusName`, `Species`, `AuthorString`, `GSDNameStatus`, `Sp2000NameStatus`, `IsFossil`, `LifeZone`, `AdditionalData`, `LTSSpecialist`, `LTSDate`, `SpeciesURL`, `GSDTaxonGUI`, `GSDNameGUI`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'CommonNames.txt' INTO TABLE `CommonNames` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `CommonName`, `Transliteration`, `Country`, `Area`, `Language`, `ReferenceID`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'Distribution.txt' INTO TABLE `Distribution` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n'  IGNORE 1 LINES
+(`AcceptedTaxonID`, `Distribution`, `StandardInUse`, `DistributionStatus`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'NameReferencesLinks.txt' INTO TABLE NameReferencesLinks CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ID`, `ReferenceType`, `ReferenceID`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'References.txt' INTO TABLE `References` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ReferenceID`, `Authors`, `Year`, `Title`, `Details`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'SourceDatabase.txt' INTO TABLE `SourceDatabase` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`DatabaseFullName`, `DatabaseShortName`, `DatabaseVersion`, `ReleaseDate`, `AuthorsEditors`, `TaxonomicCoverage`, `GroupNameInEnglish`, `Abstract`, `Organisation`, `HomeURL`, `Coverage`, `Completeness`, `Confidence`, `LogoFileName`, `ContactPerson`)
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'Synonyms.txt' INTO TABLE `Synonyms` CHARACTER SET utf8 FIELDS TERMINATED BY '\t'  LINES TERMINATED BY '\r\n' IGNORE 1 LINES
+(`ID`, `AcceptedTaxonID`, `Genus`, `SubGenusName`, `Species`, `AuthorString`, `InfraSpecies`, `InfraSpecificMarker`, `InfraSpecificAuthorString`, `GSDNameStatus`, `Sp2000NameStatus`, `GSDNameGUI`)
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+Initial database created. Creating database Assembly_Tanaidacea in assembly schema
+--------------
+DROP DATABASE IF EXISTS Assembly_Tanaidacea
+--------------
+
+--------------
+CREATE DATABASE IF NOT EXISTS Assembly_Tanaidacea
+--------------
+
+--------------
+DROP TABLE IF EXISTS `databases`
+--------------
+
+--------------
+CREATE TABLE  `databases` (
+  `database_name_displayed` varchar(125) DEFAULT NULL,
+  `record_id` int(10) NOT NULL AUTO_INCREMENT,
+  `database_name` varchar(150) DEFAULT NULL,
+  `database_full_name` varchar(100) NOT NULL DEFAULT '',
+  `web_site` longtext,
+  `organization` longtext,
+  `contact_person` varchar(255) DEFAULT NULL,
+  `taxa` varchar(255) DEFAULT NULL,
+  `taxonomic_coverage` longtext,
+  `abstract` longtext,
+  `version` varchar(255) DEFAULT NULL,
+  `release_date` date DEFAULT '0000-00-00',
+  `SpeciesCount` int(11) DEFAULT 0,
+  `SpeciesEst` int(11) DEFAULT 0,
+  `authors_editors` longtext,
+  `accepted_species_names` int(10) DEFAULT 0,
+  `accepted_infraspecies_names` int(10) DEFAULT 0,
+  `species_synonyms` int(10) DEFAULT 0,
+  `infraspecies_synonyms` int(10) DEFAULT 0,
+  `common_names` int(10) DEFAULT 0,
+  `total_names` int(10) DEFAULT 0,
+  `is_new` tinyint(1) NOT NULL DEFAULT 0,
+  `coverage` varchar(45) DEFAULT NULL,
+  `completeness` int(3) unsigned DEFAULT 0,
+  `confidence` 	tinyint(1) unsigned DEFAULT 0,
+  PRIMARY KEY (`record_id`),
+  KEY `database_name` (`database_name`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `families`
+--------------
+
+--------------
+CREATE TABLE  `families` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `hierarchy_code` varchar(250) NOT NULL,
+  `kingdom` varchar(50) NOT NULL DEFAULT 'Not Assigned',
+  `phylum` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `class` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `order` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `family` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `superfamily` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  `family_code` varchar(50) NOT NULL,
+  `is_accepted_name` int(1) unsigned,
+  PRIMARY KEY (`record_id`),
+  KEY (`family_code`),
+  KEY `kingdom` (`kingdom`),
+  KEY `phylum` (`phylum`),
+  KEY `class` (`class`),
+  KEY `order` (`order`),
+  KEY `family` (`family`),
+  KEY `superfamily` (`superfamily`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `sp2000_statuses`
+--------------
+
+--------------
+CREATE TABLE  `sp2000_statuses` (
+  `record_id` int(1) NOT NULL AUTO_INCREMENT,
+  `sp2000_status` varchar(50) NOT NULL DEFAULT '',
+  PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM
+--------------
+
+--------------
+DROP TABLE IF EXISTS `scientific_names`
+--------------
+
+--------------
+CREATE TABLE  `scientific_names` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `web_site` longtext,
+  `genus` varchar(50) DEFAULT NULL,
+  `subgenus` varchar(50) DEFAULT NULL,
+  `species` varchar(60) DEFAULT NULL,
+  `infraspecies_parent_name_code` varchar(42) DEFAULT NULL,
+  `infraspecies` varchar(50) DEFAULT NULL,
+  `infraspecies_marker` varchar(50) DEFAULT NULL,
+  `author` varchar(100) DEFAULT NULL,
+  `accepted_name_code` varchar(42) DEFAULT NULL,
+  `comment` longtext,
+  `scrutiny_date` text,
+  `sp2000_status_id` int(1) DEFAULT NULL,
+  `database_id` int(10) DEFAULT NULL,
+  `specialist_id` int(10) DEFAULT NULL,
+  `family_id` int(10) DEFAULT NULL,
+  `specialist_code` varchar(50) DEFAULT NULL,
+  `family_code` varchar(50) DEFAULT NULL,
+  `is_accepted_name` int(1) DEFAULT NULL,
+  `GSDTaxonGUID` longtext,
+  `GSDNameGUID` longtext,
+  `is_extinct` smallint(1) NOT NULL DEFAULT '0',
+  `has_preholocene` smallint(1) NOT NULL DEFAULT '0',
+  `has_modern` smallint(1) NOT NULL DEFAULT '1',
+  PRIMARY KEY (`record_id`,`name_code`),
+  KEY `database_id` (`database_id`),
+  KEY `family_id` (`family_id`),
+  KEY `species` (`species`),
+  KEY `infraspecies` (`infraspecies`),
+  KEY `specialist_code` (`specialist_code`),
+  KEY `accepted_name_code` (`accepted_name_code`),
+  KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
+  KEY `name_code1` (`name_code`,`family_id`),
+  KEY `record_id` (`record_id`,`family_id`),
+  KEY `genus` (`genus`,`species`,`infraspecies`),
+  KEY `sp2000_status_id` (`sp2000_status_id`),
+  KEY `sp2000_status_id_2` (`sp2000_status_id`,`database_id`,`infraspecies`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `common_names`
+--------------
+
+--------------
+CREATE TABLE  `common_names` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL DEFAULT '',
+  `common_name` varchar(700) NOT NULL,
+  `transliteration` varchar(700),
+  `language` varchar(25) NOT NULL,
+  `country` varchar(44) NOT NULL DEFAULT '',
+  `area` varchar(50) DEFAULT NULL,
+  `reference_id` int(10) DEFAULT '0',
+  `database_id` int(10) NOT NULL,
+  `is_infraspecies` int(1) NOT NULL DEFAULT '0',
+  `reference_code` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `common_name` (`common_name`),
+  KEY `reference_code` (`reference_code`),
+  KEY `name_code` (`name_code`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `distribution`
+--------------
+
+--------------
+CREATE TABLE  `distribution` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `distribution` longtext,
+  `StandardInUse` varchar(255) DEFAULT NULL,
+  
+   `DistributionStatus` varchar(255),
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`),
+  KEY `database_id` (`database_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `lifezone`
+--------------
+
+--------------
+CREATE TABLE  `lifezone` (
+  `record_id` int(11) NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42),
+  `lifezone` varchar(255),
+  `database_id` int(10),
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`),
+  KEY `database_id` (`database_id`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `scientific_name_references`
+--------------
+
+--------------
+CREATE TABLE  `scientific_name_references` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL DEFAULT '',
+  `reference_type` varchar(10) DEFAULT NULL,
+  `reference_id` int(10) DEFAULT '0',
+  `reference_code` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`,`reference_id`,`reference_type`),
+  KEY `reference_code` (`reference_code`),
+  KEY `name_code_2` (`name_code`,`reference_type`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `references`
+--------------
+
+--------------
+CREATE TABLE  `references` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `author` varchar(200) DEFAULT NULL,
+  `year` varchar(50) DEFAULT NULL,
+  `title` longtext,
+  `source` longtext,
+  `database_id` int(10) NOT NULL,
+  `reference_code` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `reference_code` (`reference_code`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+DROP TABLE IF EXISTS `specialists`
+--------------
+
+--------------
+CREATE TABLE  `specialists` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `specialist_name` varchar(255) NOT NULL DEFAULT '',
+  `specialist_code` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `specialist_code` (`specialist_code`)
+) ENGINE=MyISAM DEFAULT CHARACTER SET = utf8 COLLATE = utf8_bin
+--------------
+
+--------------
+INSERT INTO `sp2000_statuses` 
+VALUES (1,'accepted name'),
+(2,'ambiguous synonym'),
+(3,'misapplied name'),
+(4,'provisionally accepted name'),
+(5,'synonym')
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+CREATE TRIGGER delfamcascade AFTER DELETE ON `families`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `scientific_names` WHERE family_code = old.family_code;
+
+END;
+
+CREATE TRIGGER delspcascade AFTER DELETE ON `scientific_names`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+DELETE FROM `distribution` WHERE name_code = old.name_code;
+DELETE FROM `lifezone` WHERE name_code = old.name_code;
+DELETE FROM `scientific_name_references` WHERE name_code = old.name_code;
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+
+END;
+
+CREATE TRIGGER delrefscascade AFTER DELETE ON `scientific_name_references`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `references` WHERE reference_code = old.reference_code;
+
+END;
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Creation of the assembly database completed.
+
+Starting structural transformations (ACEF3 to ACI)
+--------------
+SET @dbid = 110
+--------------
+
+--------------
+SET @dbabbr = 'W-Tnd-'
+--------------
+
+--------------
+SET @dbtouse = 'Buffer_Tanaidacea'
+--------------
+
+--------------
+UPDATE `databases` SET `taxonomic_coverage`="Animalia-Arthropoda-Malacostraca-Tanaidacea", `is_new` = 2, `taxa`="Tanaids", `coverage`="Global", `completeness` = 100, `confidence` = 5
+--------------
+
+--------------
+SET foreign_key_checks = 0
+--------------
+
+--------------
+TRUNCATE TABLE `databases`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `databases`
+ SELECT
+ CONCAT(`DatabaseShortName`, ': ', `DatabaseFullName`)  AS `database_name_displayed`,
+ @dbid AS `record_id`,
+ `DatabaseShortName` AS `database_name`,
+ `DatabaseFullName` AS `database_full_name`,
+  `HomeURL` AS `web_site`,
+  `Organisation` AS `organization`,
+  `ContactPerson` AS `contact_person`,
+  `GroupNameInEnglish` AS `taxa`,
+  `TaxonomicCoverage` AS `taxonomic_coverage`,
+  `Abstract` AS `abstract`,
+  `DatabaseVersion` AS `version`,
+  `ReleaseDate` AS `release_date`,
+  `Coverage` AS `SpeciesCount`,
+  `Completeness` AS `SpeciesEst`,
+  `AuthorsEditors` AS `authors_editors`,
+  NULL AS `accepted_species_names`,
+  NULL AS `accepted_infraspecies_names`,
+  NULL AS `species_synonyms`,
+  NULL AS `infraspecies_synonyms`,
+  NULL AS `common_names`,
+  NULL AS `total_names`,
+  NULL AS `is_new`,
+  NULL AS `coverage`,
+  NULL AS `completeness`,
+  NULL AS `confidence`
+  FROM ",
+@dbtouse,
+".`SourceDatabase`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `distribution`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `distribution`
+ SELECT
+ NULL AS `record_id`,
+ CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
+ `Distribution` AS `distribution`,
+ `StandardInUse` AS `StandardInUse`,
+ `DistributionStatus` AS `DistributionStatus`,
+@dbid AS `database_id`
+ FROM ",
+@dbtouse,
+".`Distribution`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `families`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `families`
+SELECT DISTINCT
+NULL AS `record_id`,
+NULL AS `hierarchy_code`,
+`Kingdom` AS `kingdom`,
+`Phylum` AS `phylum`,
+`Class` AS `class`,
+`Order` AS `order`,
+`Family` AS `family`,
+`Superfamily` AS `superfamily`,
+@dbid AS `database_id`,
+NULL AS `family_code`,
+NULL AS `is_accepted_name`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+UPDATE `families` SET `family_code` = CONCAT(@dbabbr,record_id)
+--------------
+
+--------------
+TRUNCATE TABLE `specialists`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `specialists`
+SELECT DISTINCT
+NULL  AS `record_id`,
+`LTSSpecialist` AS `specialist_name`,
+NULL AS `specialist_code`,
+@dbid AS `database_id`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`
+WHERE `LTSSpecialist` IS NOT NULL OR
+`LTSSpecialist` != ''")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+UPDATE `specialists` SET `specialist_code` = CONCAT(@dbabbr,record_id)
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_names`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
+`SpeciesURL` AS `web_site`,
+`Genus` AS `genus`,
+`SubGenusName` AS `subgenus`,
+`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+NULL  AS `infraspecies`,
+NULL  AS `infraspecies_marker`,
+`AuthorString` AS `author`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `accepted_name_code`,
+`AdditionalData` AS `comment`,
+`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+`specialists`.`record_id` AS `specialist_id`,
+`families`.`record_id` AS `family_id`,
+`specialists`.`specialist_code` AS `specialist_code`,
+`families`.`family_code` AS `family_code`,
+1 AS `is_accepted_name`,
+`GSDTaxonGUI` AS `GSDTaxonGUI`,
+`GSDNameGUI` AS `GSDNameGUI`,
+`IsFossil` AS `is_extinct`,
+`IsFossil` AS `has_preholocene`,
+if (`IsFossil` = 0, 1, 0) AS `has_modern`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies` AcceptedSpecies
+LEFT OUTER JOIN `families` ON
+(`AcceptedSpecies`.`Kingdom` = `families`.`kingdom` AND
+`AcceptedSpecies`.`Phylum` = `families`.`phylum` AND
+`AcceptedSpecies`.`Class` = `families`.`class` AND
+`AcceptedSpecies`.`Order` = `families`.`order` AND
+`AcceptedSpecies`.`Superfamily` = `families`.`superfamily` AND
+`AcceptedSpecies`.`Family` = `families`.`family`)
+LEFT OUTER JOIN `specialists` ON
+`AcceptedSpecies`.`LTSSpecialist` = `specialists`.`specialist_name`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`AcceptedSpecies`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `lifezone`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `lifezone`
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
+`LifeZone` AS `lifezone`,
+@dbid AS `database_id`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`
+WHERE `LifeZone` IN('marine','freshwater','Marine','Freshwater')")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AIT`.`AcceptedTaxonID`) AS `name_code`,
+NULL AS `web_site`,
+`sn`.`genus` AS `genus`,
+NULL AS `subgenus`,
+`sn`.`species` AS `species`,
+CONCAT(@dbabbr,`AIT`.`ParentSpeciesID`) AS `infraspecies_parent_name_code`,
+`AIT`.`InfraSpeciesEpithet` AS `infraspecies`,
+`AIT`.`InfraSpecificMarker` AS `infraspecies_marker`,
+`AIT`.`InfraSpecificAuthorString` AS `author`,
+CONCAT(@dbabbr,`AIT`.`AcceptedTaxonID`) AS `accepted_name_code`,
+`AIT`.`AdditionalData` AS `comment`,
+`AIT`.`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+`specialists`.`specialist_code` AS `specialist_code`,
+sn.family_code AS `family_code`,
+1 AS `is_accepted_name`,
+NULL AS `GSDTaxonGUI`,
+`AIT`.`GSDNameGUI` AS `GSDNameGUI`,
+`IsFossil` AS `is_extinct`,
+`IsFossil` AS `has_preholocene`,
+if (`IsFossil` = 0, 1, 0) AS `has_modern`
+FROM ",
+@dbtouse,
+".`AcceptedInfraSpecificTaxa` AIT
+LEFT OUTER JOIN scientific_names sn ON
+CONCAT(@dbabbr,`AIT`.`ParentSpeciesID`) = `sn`.`name_code`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`AIT`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
+LEFT OUTER JOIN `specialists` ON
+`AIT`.`LTSSpecialist` = `specialists`.`specialist_name`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr,`Synonyms`.`ID`) AS `name_code`,
+NULL AS `web_site`,
+`Synonyms`.`Genus` AS `genus`,
+`Synonyms`.`SubGenusName` AS `subgenus`,
+`Synonyms`.`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+`Synonyms`.`InfraSpecies` AS `infraspecies`,
+`Synonyms`.`InfraSpecificMarker` AS `infraspecies_marker`,
+`Synonyms`.`AuthorString` AS `author`,
+CONCAT(@dbabbr,`Synonyms`.`AcceptedTaxonID`) AS `accepted_name_code`,
+NULL AS `comment`,
+NULL AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+sn.`specialist_code` AS `specialist_code`,
+sn.`family_code` AS `family_code`,
+0 AS `is_accepted_name`,
+NULL AS `GSDTaxonGUI`,
+`Synonyms`.`GSDNameGUI` AS `GSDNameGUI` ,
+0 AS `is_extinct`,
+0 AS `has_preholocene`,
+1 AS `has_modern`
+FROM ",
+@dbtouse,
+".`Synonyms` Synonyms
+LEFT OUTER JOIN scientific_names sn ON
+CONCAT(@dbabbr,`Synonyms`.`AcceptedTaxonID`) = `sn`.`name_code`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`Synonyms`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `common_names`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `common_names`
+SELECT
+NULL,
+CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
+CONVERT(`CommonName` USING utf8) AS `common_name`,
+`Transliteration` AS `transliteration`,
+`Language` AS `language`,
+`Country` AS `country`,
+`Area` AS `area`,
+ NULL AS `reference_ID`,
+@dbid AS `database_ID`,
+ NULL AS `is_infraspecies`,
+ `ReferenceID` AS `reference_code`
+ FROM ",
+@dbtouse,
+".`CommonNames`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `references`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `references`
+SELECT
+NULL AS `record_id`,
+`Authors` AS `author`,
+`Year` AS `year`,
+`Title` AS `title`,
+`Details` AS `source`,
+@dbid AS `database_id`,
+CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`
+ FROM ",
+@dbtouse,
+".`References`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_name_references`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_name_references`
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr, `ID`) AS `name_code`,
+`ReferenceType` AS `reference_type`,
+NULL AS `reference_id`,
+CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`,
+@dbid AS `database_id`
+ FROM ",
+@dbtouse,
+".`NameReferencesLinks`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET foreign_key_checks = 1
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Data Loaded.
+</pre>
+</pre><hr><b>Backing up...</b>
+<pre>
+Creating directory  23_54_04_05Oct2016
+Backing up files
+</pre><hr><b>Executing local editorial checks</b>
+<pre>
+<pre>
+Integrity and editorial checks - this may take a while depending on size of the dataset...
+
+Starting local editorial transformations
+--------------
+DELETE FROM `common_names` WHERE `common_name` IS NULL OR `common_name` = ""
+--------------
+
+--------------
+DELETE FROM `distribution` WHERE `distribution` IS NULL OR `distribution` = ""
+--------------
+
+--------------
+DELETE FROM `references` WHERE (`title` IS NULL OR `title` = "") AND (`author` IS NULL OR `author` = "")
+--------------
+
+--------------
+DELETE FROM `specialists` WHERE `specialist_name` IS NULL OR `specialist_name` = ""
+--------------
+
+--------------
+DELETE FROM `scientific_names` WHERE (`species` IS NULL OR `species` LIKE "%sp.%" OR `species` LIKE "%spp.%") AND `infraspecies` IS NULL
+--------------
+
+--------------
+DELETE FROM `scientific_names` WHERE `genus` IS NULL OR `genus` = "" OR genus like "% %" OR `genus` LIKE '%sp.%' OR `genus` LIKE "%spp.%"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `family_id` = NULL
+--------------
+
+--------------
+UPDATE `scientific_names` SET `specialist_id` = NULL
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "forma" WHERE `infraspecies_marker` LIKE "f.%"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "var." WHERE `infraspecies_marker` LIKE "Variety"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "subsp." WHERE `infraspecies_marker` LIKE "Subspecies"
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies_marker` = "subsp." WHERE `infraspecies_marker` LIKE "ssp."
+--------------
+
+--------------
+UPDATE `scientific_names` SET `sp2000_status_id` = 5 WHERE `sp2000_status_id` IS NULL AND `is_accepted_name` = 0
+--------------
+
+--------------
+UPDATE `families` SET `family` = "Not assigned" WHERE `family` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `order` = "Not assigned" WHERE `order` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `class` = "Not assigned" WHERE `class` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `phylum` = "Not assigned" WHERE `phylum` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `kingdom` = "Not assigned" WHERE `kingdom` LIKE "% %"
+--------------
+
+--------------
+UPDATE `families` SET `family` = "Not assigned" WHERE (`family` IS NULL OR `family` = '')
+--------------
+
+--------------
+UPDATE `families` SET `order` = "Not assigned" WHERE (`order` IS NULL OR `order` = '')
+--------------
+
+--------------
+UPDATE `families` SET `class` = "Not assigned" WHERE (`class` IS NULL OR `class` = '')
+--------------
+
+--------------
+UPDATE `families` SET `phylum` = "Not assigned" WHERE (`phylum` IS NULL OR `phylum` = '')
+--------------
+
+--------------
+UPDATE `families` SET `kingdom` = "Not assigned" WHERE (`kingdom` IS NULL OR `kingdom` = '')
+--------------
+
+--------------
+UPDATE `families` SET `hierarchy_code` = CONCAT(`kingdom`,'-',`phylum`,'-',`class`,'-',`order`,'-',`family`)
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "subsequent type designation%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "Nom%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "taxonomy source%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "additional source%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "NomRef" WHERE `reference_type` LIKE "original description%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "source of synonymy%"
+--------------
+
+--------------
+UPDATE `scientific_name_references` SET `reference_type` = "TaxAccRef" WHERE `reference_type` LIKE "basis of record%"
+--------------
+
+--------------
+UPDATE `databases` SET database_name_displayed = REPLACE(database_name_displayed,'_',' ')
+--------------
+
+--------------
+UPDATE `databases` SET database_name = REPLACE(database_name,'_',' ')
+--------------
+
+--------------
+UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ',', '')
+--------------
+
+--------------
+UPDATE `databases` SET authors_editors = REPLACE(authors_editors, ';', ',')
+--------------
+
+--------------
+SELECT "Misspelt infraspecies (no subgenus): ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND
+(`subgenus` IS NULL OR `subgenus` = '') AND
+`infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%')
+--------------
+
+--------------
+SELECT "Misspelt infraspecies (with subgenus): ", `name_code`, `genus`, `subgenus`, `species`, `infraspecies` FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND
+`subgenus` != '' AND
+(`infraspecies` NOT LIKE CONCAT(`genus`, ' (', `subgenus`, ') ', `species`, '%') OR `infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%'))
+--------------
+
+--------------
+DELETE FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND
+(`subgenus` IS NULL OR `subgenus` = '') AND
+`infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%')
+--------------
+
+--------------
+DELETE FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %' AND
+`infraspecies` LIKE CONCAT(`genus`, '%') AND
+`subgenus` != '' AND
+(`infraspecies` NOT LIKE CONCAT(`genus`, ' (', `subgenus`, ') ', `species`, '%') OR `infraspecies` NOT LIKE CONCAT(`genus`, ' ', `species`, '%'))
+--------------
+
+--------------
+SELECT "Incorrect infraspecies: ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %'  AND
+`infraspecies` NOT LIKE 'f.%' AND
+`infraspecies` NOT LIKE 'var.%' AND
+`infraspecies` NOT LIKE 'subsp.%'
+--------------
+
+--------------
+DELETE FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %'  AND
+`infraspecies` NOT LIKE 'f.%' AND
+`infraspecies` NOT LIKE 'var.%' AND
+`infraspecies` NOT LIKE 'subsp.%'
+--------------
+
+--------------
+SELECT "Infraspecies starting with marker: ", `name_code`, `genus`, `species`, `infraspecies` FROM `scientific_names`
+WHERE `infraspecies` LIKE '% %' AND
+(`infraspecies` LIKE 'f.%' OR
+`infraspecies` LIKE 'var.%' OR
+`infraspecies` LIKE 'subsp.%')
+--------------
+
+--------------
+UPDATE `scientific_names` SET `infraspecies` = SUBSTRING_INDEX(`infraspecies`, ' ', -1)
+WHERE `infraspecies` LIKE '% %' AND
+(`infraspecies` LIKE 'f.%' OR
+`infraspecies` LIKE 'var.%' OR
+`infraspecies` LIKE 'subsp.%')
+--------------
+
+--------------
+SELECT "Infraspecies mismatch (infraspecies_parent_name_code set but infraspecies empty): ", `name_code`, `infraspecies_parent_name_code` FROM `scientific_names`
+WHERE CHAR_LENGTH(`infraspecies_parent_name_code`) > 1 AND
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+SELECT "Infraspecies mismatch (infraspecies_marker set but infraspecies empty): ", `name_code`, `infraspecies_marker` FROM `scientific_names`
+WHERE CHAR_LENGTH(`infraspecies_marker`) > 1 AND
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+DELETE FROM `scientific_names`
+WHERE CHAR_LENGTH(`infraspecies_parent_name_code`) > 1 AND
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+DELETE FROM `scientific_names`
+WHERE CHAR_LENGTH(`infraspecies_marker`) > 1 AND
+(`infraspecies` IS NULL OR `infraspecies` = '')
+--------------
+
+--------------
+UPDATE `scientific_names` SET `species` = LOWER(`species`)
+--------------
+
+--------------
+SELECT "Empty species name: ", `name_code`, `genus`, `infraspecies` FROM `scientific_names`
+WHERE `species` = '' OR `species` IS NULL
+--------------
+
+--------------
+DELETE FROM `scientific_names`
+WHERE `species` = '' OR `species` IS NULL
+--------------
+
+--------------
+SELECT "Empty reference: ", `author`, `year`, `reference_code` FROM `references`
+WHERE (`title` = '' OR `title` IS NULL) AND
+(`source` = '' OR `source` IS NULL)
+--------------
+
+--------------
+DELETE FROM `references`
+WHERE (`title` = '' OR `title` IS NULL) AND
+(`source` = '' OR `source` IS NULL)
+--------------
+
+--------------
+UPDATE `scientific_names` SET `scrutiny_date` = DATE_FORMAT(`scrutiny_date`, '%d-%b-%Y')
+WHERE `scrutiny_date` LIKE '%:%' AND
+(`scrutiny_date` != '' OR `scrutiny_date` IS NOT NULL)
+--------------
+
+--------------
+SELECT "Set is_infraspecies flag: ", t1.`name_code`, t1.`common_name`, t2.`genus`, t2.`species`, t2.`infraspecies`
+FROM `common_names` AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.`name_code` = t2.`name_code`
+WHERE (t2.`infraspecies` != '' OR t2.`infraspecies` IS NOT NULL) AND
+t1.`is_infraspecies` = 0
+--------------
+
+--------------
+UPDATE `common_names` AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.`name_code` = t2.`name_code`
+SET t1.`is_infraspecies` = 1
+WHERE (t2.`infraspecies` != '' OR t2.`infraspecies` IS NOT NULL) AND
+t1.`is_infraspecies` = 0
+--------------
+
+--------------
+UPDATE `scientific_names` SET `author` = TRIM(`author`)
+--------------
+
+--------------
+UPDATE `references`  SET `author` = TRIM(`author`)
+--------------
+
+--------------
+SELECT "Duplicate accepted names:", sn.name_code, sn.sp2000_status_id, dups.genus, dups.subgenus, dups.species, dups.infraspecies_marker, dups.infraspecies, dups.author
+FROM
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+	FROM scientific_names
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+WHERE sn.sp2000_status_id = 1
+--------------
+
+--------------
+SELECT "Accepted name to be retained", MAX(name_code), genus, subgenus, species, infraspecies_marker, infraspecies, author
+FROM
+	(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, dups.species AS species,
+		dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+	FROM
+		(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+		FROM scientific_names
+		GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+	LEFT JOIN scientific_names sn
+	ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2
+GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author
+--------------
+
+--------------
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus,
+	dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+FROM
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+	FROM scientific_names
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+WHERE sn.sp2000_status_id = 1 AND sn.name_code NOT IN
+	(SELECT dups3.namecodes_to_keep FROM
+		(SELECT MAX(name_code) AS namecodes_to_keep, genus, subgenus, species, infraspecies_marker, infraspecies, author
+		FROM
+			(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus,
+				dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+			FROM
+				(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+				FROM scientific_names
+				GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+		LEFT JOIN scientific_names sn
+		ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author WHERE sn.sp2000_status_id = 1) AS dups2
+GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author) AS dups3)
+--------------
+
+--------------
+SELECT 'Common name without parent accepted name', t1.record_id, t1.common_name, t1.name_code FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+--------------
+CREATE TEMPORARY TABLE scientific_names_tmp
+(PRIMARY KEY (`record_id`,`name_code`),
+  KEY `database_id` (`database_id`),
+  KEY `family_id` (`family_id`),
+  KEY `species` (`species`),
+  KEY `infraspecies` (`infraspecies`),
+  KEY `specialist_code` (`specialist_code`),
+  KEY `accepted_name_code` (`accepted_name_code`),
+  KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
+  KEY `name_code1` (`name_code`,`family_id`),
+  KEY `record_id` (`record_id`,`family_id`),
+  KEY `genus` (`genus`,`species`,`infraspecies`),
+  KEY `sp2000_status_id` (`sp2000_status_id`),
+  KEY `sp2000_status_id_2` (`sp2000_status_id`,`database_id`,`infraspecies`))
+SELECT * FROM scientific_names
+--------------
+
+--------------
+SELECT 'Synonym without parent accepted name', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.accepted_name_code
+FROM scientific_names AS t1
+LEFT JOIN scientific_names_tmp AS t2 ON t1.accepted_name_code = t2.name_code
+WHERE t2.name_code IS NULL AND t1.is_accepted_name != 1
+--------------
+
+Synonym without parent accepted name	record_id	name_code	genus	species	infraspecies	accepted_name_code
+Synonym without parent accepted name	1783	W-Tnd-247775	Langapseudes	tuberculatus		W-Tnd-247777
+--------------
+SELECT 'Infraspecies without parent accepted name', t1.record_id, t1.name_code, t1.genus, t1.species, t1.infraspecies, t1.accepted_name_code
+FROM scientific_names AS t1
+LEFT JOIN scientific_names_tmp AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
+WHERE t1.infraspecies_parent_name_code IS NOT NULL AND t2.name_code IS NULL
+--------------
+
+--------------
+SELECT 'Lifezone without parent accepted name', t1.record_id, t1.name_code, t1.lifezone
+FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+--------------
+SELECT 'Distribution without parent accepted name', t1.record_id, t1.name_code, t1.distribution
+FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+--------------
+SELECT 'Accepted name without parent family', t1.record_id, t1.name_code,
+	t1.genus, t1.subgenus, t1.species, t1.infraspecies, t1.family_code
+FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL
+--------------
+
+Accepted name without parent family	record_id	name_code	genus	subgenus	species	infraspecies	family_code
+Accepted name without parent family	1783	W-Tnd-247775	Langapseudes		tuberculatus		NULL
+--------------
+SELECT 'Reference link to non-existing accepted name', t1.record_id, t1.reference_code, t1.name_code
+FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+Reference link to non-existing accepted name	record_id	reference_code	name_code
+Reference link to non-existing accepted name	12	W-Tnd-11109	W-Tnd-136302
+Reference link to non-existing accepted name	47	W-Tnd-1325	W-Tnd-136574
+Reference link to non-existing accepted name	48	W-Tnd-1325	W-Tnd-136581
+Reference link to non-existing accepted name	66	W-Tnd-43055	W-Tnd-247063
+Reference link to non-existing accepted name	122	W-Tnd-43055	W-Tnd-247492
+Reference link to non-existing accepted name	123	W-Tnd-43055	W-Tnd-247499
+Reference link to non-existing accepted name	145	W-Tnd-43055	W-Tnd-247692
+Reference link to non-existing accepted name	154	W-Tnd-43055	W-Tnd-247899
+Reference link to non-existing accepted name	198	W-Tnd-166395	W-Tnd-720008
+Reference link to non-existing accepted name	235	W-Tnd-43055	W-Tnd-819074
+Reference link to non-existing accepted name	237	W-Tnd-170009	W-Tnd-819132
+Reference link to non-existing accepted name	238	W-Tnd-192922	W-Tnd-819361
+Reference link to non-existing accepted name	240	W-Tnd-43055	W-Tnd-819617
+Reference link to non-existing accepted name	245	W-Tnd-11109	W-Tnd-819860
+Reference link to non-existing accepted name	246	W-Tnd-21287	W-Tnd-819864
+Reference link to non-existing accepted name	249	W-Tnd-178424	W-Tnd-819886
+Reference link to non-existing accepted name	251	W-Tnd-193599	W-Tnd-819890
+Reference link to non-existing accepted name	255	W-Tnd-43055	W-Tnd-819917
+Reference link to non-existing accepted name	258	W-Tnd-193871	W-Tnd-819939
+Reference link to non-existing accepted name	263	W-Tnd-43055	W-Tnd-820117
+Reference link to non-existing accepted name	264	W-Tnd-11109	W-Tnd-820124
+Reference link to non-existing accepted name	267	W-Tnd-43055	W-Tnd-820260
+Reference link to non-existing accepted name	268	W-Tnd-140212	W-Tnd-820265
+Reference link to non-existing accepted name	269	W-Tnd-193100	W-Tnd-820266
+Reference link to non-existing accepted name	270	W-Tnd-45807	W-Tnd-820538
+Reference link to non-existing accepted name	274	W-Tnd-43055	W-Tnd-820946
+Reference link to non-existing accepted name	275	W-Tnd-21287	W-Tnd-821679
+Reference link to non-existing accepted name	276	W-Tnd-43055	W-Tnd-821682
+Reference link to non-existing accepted name	277	W-Tnd-21287	W-Tnd-821686
+Reference link to non-existing accepted name	278	W-Tnd-43055	W-Tnd-821689
+Reference link to non-existing accepted name	281	W-Tnd-21287	W-Tnd-821729
+Reference link to non-existing accepted name	282	W-Tnd-43055	W-Tnd-821732
+Reference link to non-existing accepted name	286	W-Tnd-43055	W-Tnd-826462
+Reference link to non-existing accepted name	305	W-Tnd-45887	W-Tnd-136327
+Reference link to non-existing accepted name	322	W-Tnd-43055	W-Tnd-136483
+Reference link to non-existing accepted name	328	W-Tnd-1325	W-Tnd-136543
+Reference link to non-existing accepted name	334	W-Tnd-170009	W-Tnd-136590
+Reference link to non-existing accepted name	335	W-Tnd-141158	W-Tnd-156199
+Reference link to non-existing accepted name	385	W-Tnd-169827	W-Tnd-247457
+Reference link to non-existing accepted name	390	W-Tnd-139286	W-Tnd-247491
+Reference link to non-existing accepted name	392	W-Tnd-43055	W-Tnd-247505
+Reference link to non-existing accepted name	436	W-Tnd-167989	W-Tnd-388227
+Reference link to non-existing accepted name	441	W-Tnd-43055	W-Tnd-396744
+Reference link to non-existing accepted name	476	W-Tnd-193867	W-Tnd-720610
+Reference link to non-existing accepted name	495	W-Tnd-43055	W-Tnd-740352
+Reference link to non-existing accepted name	502	W-Tnd-172647	W-Tnd-819147
+Reference link to non-existing accepted name	503	W-Tnd-170012	W-Tnd-819148
+Reference link to non-existing accepted name	505	W-Tnd-10392	W-Tnd-819211
+Reference link to non-existing accepted name	507	W-Tnd-43055	W-Tnd-819219
+Reference link to non-existing accepted name	510	W-Tnd-168006	W-Tnd-819485
+Reference link to non-existing accepted name	515	W-Tnd-43055	W-Tnd-819636
+Reference link to non-existing accepted name	517	W-Tnd-140250	W-Tnd-819846
+Reference link to non-existing accepted name	523	W-Tnd-43055	W-Tnd-819937
+Reference link to non-existing accepted name	525	W-Tnd-43055	W-Tnd-820090
+Reference link to non-existing accepted name	530	W-Tnd-114819	W-Tnd-820562
+Reference link to non-existing accepted name	533	W-Tnd-179603	W-Tnd-820938
+Reference link to non-existing accepted name	534	W-Tnd-43055	W-Tnd-820941
+Reference link to non-existing accepted name	536	W-Tnd-193866	W-Tnd-821656
+Reference link to non-existing accepted name	539	W-Tnd-43055	W-Tnd-821694
+Reference link to non-existing accepted name	542	W-Tnd-43055	W-Tnd-821712
+Reference link to non-existing accepted name	543	W-Tnd-21287	W-Tnd-821723
+Reference link to non-existing accepted name	544	W-Tnd-21287	W-Tnd-821724
+Reference link to non-existing accepted name	545	W-Tnd-43055	W-Tnd-826357
+Reference link to non-existing accepted name	546	W-Tnd-21287	W-Tnd-826421
+Reference link to non-existing accepted name	548	W-Tnd-138950	W-Tnd-826891
+Reference link to non-existing accepted name	549	W-Tnd-138950	W-Tnd-826892
+Reference link to non-existing accepted name	551	W-Tnd-43055	W-Tnd-827374
+Reference link to non-existing accepted name	554	W-Tnd-194903	W-Tnd-827527
+Reference link to non-existing accepted name	567	W-Tnd-43055	W-Tnd-136260
+Reference link to non-existing accepted name	568	W-Tnd-193406	W-Tnd-136269
+Reference link to non-existing accepted name	589	W-Tnd-21287	W-Tnd-136436
+Reference link to non-existing accepted name	591	W-Tnd-43055	W-Tnd-136460
+Reference link to non-existing accepted name	594	W-Tnd-43055	W-Tnd-136494
+Reference link to non-existing accepted name	598	W-Tnd-193677	W-Tnd-136549
+Reference link to non-existing accepted name	606	W-Tnd-45887	W-Tnd-183441
+Reference link to non-existing accepted name	616	W-Tnd-43055	W-Tnd-247064
+Reference link to non-existing accepted name	667	W-Tnd-43055	W-Tnd-247500
+Reference link to non-existing accepted name	685	W-Tnd-132856	W-Tnd-247693
+Reference link to non-existing accepted name	700	W-Tnd-18801	W-Tnd-428698
+Reference link to non-existing accepted name	725	W-Tnd-138943	W-Tnd-493918
+Reference link to non-existing accepted name	726	W-Tnd-138943	W-Tnd-493920
+Reference link to non-existing accepted name	738	W-Tnd-193595	W-Tnd-689482
+Reference link to non-existing accepted name	755	W-Tnd-141177	W-Tnd-737432
+Reference link to non-existing accepted name	775	W-Tnd-193405	W-Tnd-819629
+Reference link to non-existing accepted name	776	W-Tnd-43055	W-Tnd-819802
+Reference link to non-existing accepted name	779	W-Tnd-43055	W-Tnd-819866
+Reference link to non-existing accepted name	780	W-Tnd-43055	W-Tnd-819868
+Reference link to non-existing accepted name	783	W-Tnd-43055	W-Tnd-819911
+Reference link to non-existing accepted name	786	W-Tnd-10384	W-Tnd-819971
+Reference link to non-existing accepted name	790	W-Tnd-158012	W-Tnd-820179
+Reference link to non-existing accepted name	791	W-Tnd-193814	W-Tnd-820259
+Reference link to non-existing accepted name	797	W-Tnd-43055	W-Tnd-820945
+Reference link to non-existing accepted name	798	W-Tnd-43055	W-Tnd-820947
+Reference link to non-existing accepted name	800	W-Tnd-43055	W-Tnd-820981
+Reference link to non-existing accepted name	801	W-Tnd-43055	W-Tnd-821674
+Reference link to non-existing accepted name	802	W-Tnd-21287	W-Tnd-821678
+Reference link to non-existing accepted name	803	W-Tnd-21287	W-Tnd-821680
+Reference link to non-existing accepted name	804	W-Tnd-43055	W-Tnd-821681
+Reference link to non-existing accepted name	805	W-Tnd-43055	W-Tnd-821683
+Reference link to non-existing accepted name	806	W-Tnd-43055	W-Tnd-821704
+Reference link to non-existing accepted name	807	W-Tnd-21287	W-Tnd-821737
+Reference link to non-existing accepted name	808	W-Tnd-193686	W-Tnd-826432
+Reference link to non-existing accepted name	812	W-Tnd-141167	W-Tnd-826551
+Reference link to non-existing accepted name	813	W-Tnd-43055	W-Tnd-826563
+Reference link to non-existing accepted name	815	W-Tnd-10393	W-Tnd-827525
+Reference link to non-existing accepted name	846	W-Tnd-193814	W-Tnd-136471
+Reference link to non-existing accepted name	853	W-Tnd-132856	W-Tnd-136569
+Reference link to non-existing accepted name	857	W-Tnd-21287	W-Tnd-136586
+Reference link to non-existing accepted name	923	W-Tnd-43055	W-Tnd-247559
+Reference link to non-existing accepted name	1000	W-Tnd-43055	W-Tnd-819484
+Reference link to non-existing accepted name	1001	W-Tnd-43055	W-Tnd-819616
+Reference link to non-existing accepted name	1008	W-Tnd-193841	W-Tnd-819912
+Reference link to non-existing accepted name	1012	W-Tnd-193103	W-Tnd-819938
+Reference link to non-existing accepted name	1013	W-Tnd-140242	W-Tnd-819940
+Reference link to non-existing accepted name	1014	W-Tnd-43055	W-Tnd-819952
+Reference link to non-existing accepted name	1019	W-Tnd-43055	W-Tnd-820186
+Reference link to non-existing accepted name	1022	W-Tnd-138950	W-Tnd-820376
+Reference link to non-existing accepted name	1023	W-Tnd-43055	W-Tnd-820561
+Reference link to non-existing accepted name	1024	W-Tnd-40478	W-Tnd-820570
+Reference link to non-existing accepted name	1030	W-Tnd-21287	W-Tnd-821687
+Reference link to non-existing accepted name	1031	W-Tnd-43055	W-Tnd-821688
+Reference link to non-existing accepted name	1032	W-Tnd-43055	W-Tnd-821697
+Reference link to non-existing accepted name	1034	W-Tnd-21287	W-Tnd-821730
+Reference link to non-existing accepted name	1035	W-Tnd-43055	W-Tnd-821731
+Reference link to non-existing accepted name	1037	W-Tnd-43055	W-Tnd-827338
+Reference link to non-existing accepted name	1052	W-Tnd-43055	W-Tnd-136311
+Reference link to non-existing accepted name	1067	W-Tnd-1325	W-Tnd-136440
+Reference link to non-existing accepted name	1074	W-Tnd-193860	W-Tnd-136548
+Reference link to non-existing accepted name	1077	W-Tnd-1325	W-Tnd-136579
+Reference link to non-existing accepted name	1155	W-Tnd-43055	W-Tnd-247708
+Reference link to non-existing accepted name	1166	W-Tnd-130946	W-Tnd-395852
+Reference link to non-existing accepted name	1167	W-Tnd-18801	W-Tnd-428586
+Reference link to non-existing accepted name	1168	W-Tnd-18801	W-Tnd-428697
+Reference link to non-existing accepted name	1208	W-Tnd-22171	W-Tnd-739551
+Reference link to non-existing accepted name	1217	W-Tnd-170028	W-Tnd-819611
+Reference link to non-existing accepted name	1218	W-Tnd-43055	W-Tnd-819633
+Reference link to non-existing accepted name	1219	W-Tnd-193407	W-Tnd-819638
+Reference link to non-existing accepted name	1221	W-Tnd-193841	W-Tnd-819861
+Reference link to non-existing accepted name	1224	W-Tnd-43055	W-Tnd-819919
+Reference link to non-existing accepted name	1225	W-Tnd-193869	W-Tnd-819935
+Reference link to non-existing accepted name	1229	W-Tnd-193100	W-Tnd-820096
+Reference link to non-existing accepted name	1231	W-Tnd-43055	W-Tnd-820187
+Reference link to non-existing accepted name	1234	W-Tnd-43055	W-Tnd-820569
+Reference link to non-existing accepted name	1237	W-Tnd-193875	W-Tnd-821657
+Reference link to non-existing accepted name	1238	W-Tnd-43055	W-Tnd-821705
+Reference link to non-existing accepted name	1239	W-Tnd-170012	W-Tnd-823732
+Reference link to non-existing accepted name	1241	W-Tnd-43055	W-Tnd-827339
+Reference link to non-existing accepted name	1242	W-Tnd-193405	W-Tnd-827384
+Reference link to non-existing accepted name	1248	W-Tnd-170032	W-Tnd-829015
+Reference link to non-existing accepted name	1253	W-Tnd-43055	W-Tnd-136274
+Reference link to non-existing accepted name	1259	W-Tnd-138946	W-Tnd-136428
+Reference link to non-existing accepted name	1265	W-Tnd-1325	W-Tnd-136467
+Reference link to non-existing accepted name	1268	W-Tnd-43055	W-Tnd-136491
+Reference link to non-existing accepted name	1274	W-Tnd-43055	W-Tnd-136559
+Reference link to non-existing accepted name	1281	W-Tnd-132856	W-Tnd-244612
+Reference link to non-existing accepted name	1304	W-Tnd-43055	W-Tnd-247259
+Reference link to non-existing accepted name	1307	W-Tnd-43055	W-Tnd-247293
+Reference link to non-existing accepted name	1348	W-Tnd-18801	W-Tnd-428584
+Reference link to non-existing accepted name	1350	W-Tnd-43055	W-Tnd-428810
+Reference link to non-existing accepted name	1374	W-Tnd-169619	W-Tnd-738507
+Reference link to non-existing accepted name	1381	W-Tnd-192919	W-Tnd-746186
+Reference link to non-existing accepted name	1387	W-Tnd-43055	W-Tnd-818861
+Reference link to non-existing accepted name	1390	W-Tnd-193841	W-Tnd-819255
+Reference link to non-existing accepted name	1397	W-Tnd-43055	W-Tnd-819882
+Reference link to non-existing accepted name	1400	W-Tnd-43055	W-Tnd-819946
+Reference link to non-existing accepted name	1401	W-Tnd-43055	W-Tnd-820099
+Reference link to non-existing accepted name	1402	W-Tnd-138799	W-Tnd-820112
+Reference link to non-existing accepted name	1403	W-Tnd-43055	W-Tnd-820180
+Reference link to non-existing accepted name	1405	W-Tnd-43055	W-Tnd-820984
+Reference link to non-existing accepted name	1406	W-Tnd-21287	W-Tnd-821685
+Reference link to non-existing accepted name	1407	W-Tnd-21287	W-Tnd-821698
+Reference link to non-existing accepted name	1409	W-Tnd-21287	W-Tnd-821715
+Reference link to non-existing accepted name	1410	W-Tnd-43055	W-Tnd-821720
+Reference link to non-existing accepted name	1412	W-Tnd-43055	W-Tnd-827451
+Reference link to non-existing accepted name	1429	W-Tnd-1325	W-Tnd-136424
+Reference link to non-existing accepted name	1431	W-Tnd-170011	W-Tnd-136463
+Reference link to non-existing accepted name	1443	W-Tnd-43055	W-Tnd-244627
+Reference link to non-existing accepted name	1492	W-Tnd-43055	W-Tnd-247685
+Reference link to non-existing accepted name	1515	W-Tnd-138799	W-Tnd-577859
+Reference link to non-existing accepted name	1518	W-Tnd-43055	W-Tnd-606218
+Reference link to non-existing accepted name	1527	W-Tnd-168622	W-Tnd-736798
+Reference link to non-existing accepted name	1528	W-Tnd-168622	W-Tnd-736799
+Reference link to non-existing accepted name	1532	W-Tnd-43055	W-Tnd-738515
+Reference link to non-existing accepted name	1543	W-Tnd-43055	W-Tnd-819853
+Reference link to non-existing accepted name	1546	W-Tnd-193851	W-Tnd-819914
+Reference link to non-existing accepted name	1547	W-Tnd-158012	W-Tnd-819916
+Reference link to non-existing accepted name	1551	W-Tnd-139281	W-Tnd-820123
+Reference link to non-existing accepted name	1552	W-Tnd-43055	W-Tnd-820138
+Reference link to non-existing accepted name	1554	W-Tnd-140212	W-Tnd-820193
+Reference link to non-existing accepted name	1555	W-Tnd-140212	W-Tnd-820258
+Reference link to non-existing accepted name	1557	W-Tnd-46948	W-Tnd-820980
+Reference link to non-existing accepted name	1558	W-Tnd-158012	W-Tnd-821602
+Reference link to non-existing accepted name	1560	W-Tnd-43055	W-Tnd-821675
+Reference link to non-existing accepted name	1561	W-Tnd-21287	W-Tnd-821693
+Reference link to non-existing accepted name	1563	W-Tnd-21287	W-Tnd-821708
+Reference link to non-existing accepted name	1564	W-Tnd-43055	W-Tnd-821725
+Reference link to non-existing accepted name	1594	W-Tnd-43055	W-Tnd-220680
+Reference link to non-existing accepted name	1634	W-Tnd-43055	W-Tnd-247689
+Reference link to non-existing accepted name	1655	W-Tnd-138943	W-Tnd-493915
+Reference link to non-existing accepted name	1657	W-Tnd-43055	W-Tnd-577842
+Reference link to non-existing accepted name	1683	W-Tnd-193407	W-Tnd-819150
+Reference link to non-existing accepted name	1685	W-Tnd-43055	W-Tnd-819221
+Reference link to non-existing accepted name	1686	W-Tnd-10388	W-Tnd-819251
+Reference link to non-existing accepted name	1691	W-Tnd-46899	W-Tnd-819599
+Reference link to non-existing accepted name	1693	W-Tnd-43055	W-Tnd-819621
+Reference link to non-existing accepted name	1697	W-Tnd-193105	W-Tnd-819800
+Reference link to non-existing accepted name	1703	W-Tnd-45691	W-Tnd-820098
+Reference link to non-existing accepted name	1704	W-Tnd-193117	W-Tnd-820122
+Reference link to non-existing accepted name	1707	W-Tnd-140212	W-Tnd-820261
+Reference link to non-existing accepted name	1712	W-Tnd-43055	W-Tnd-821642
+Reference link to non-existing accepted name	1715	W-Tnd-21287	W-Tnd-826356
+Reference link to non-existing accepted name	1716	W-Tnd-17172	W-Tnd-826433
+Reference link to non-existing accepted name	1719	W-Tnd-42961	W-Tnd-827029
+Reference link to non-existing accepted name	1732	W-Tnd-1325	W-Tnd-136262
+Reference link to non-existing accepted name	1740	W-Tnd-1325	W-Tnd-136562
+Reference link to non-existing accepted name	1774	W-Tnd-43055	W-Tnd-247566
+Reference link to non-existing accepted name	1787	W-Tnd-18801	W-Tnd-428696
+Reference link to non-existing accepted name	1824	W-Tnd-43055	W-Tnd-819041
+Reference link to non-existing accepted name	1825	W-Tnd-43055	W-Tnd-819643
+Reference link to non-existing accepted name	1834	W-Tnd-139281	W-Tnd-820185
+Reference link to non-existing accepted name	1836	W-Tnd-45807	W-Tnd-820535
+Reference link to non-existing accepted name	1839	W-Tnd-193108	W-Tnd-826330
+Reference link to non-existing accepted name	1841	W-Tnd-128556	W-Tnd-827340
+Reference link to non-existing accepted name	1842	W-Tnd-43055	W-Tnd-827431
+Reference link to non-existing accepted name	1867	W-Tnd-6831	W-Tnd-183473
+Reference link to non-existing accepted name	1871	W-Tnd-43055	W-Tnd-244610
+Reference link to non-existing accepted name	1903	W-Tnd-45807	W-Tnd-247628
+Reference link to non-existing accepted name	1906	W-Tnd-43055	W-Tnd-247686
+Reference link to non-existing accepted name	1908	W-Tnd-132856	W-Tnd-247694
+Reference link to non-existing accepted name	1928	W-Tnd-43055	W-Tnd-242565
+Reference link to non-existing accepted name	1930	W-Tnd-43055	W-Tnd-244588
+Reference link to non-existing accepted name	1951	W-Tnd-43055	W-Tnd-247530
+Reference link to non-existing accepted name	1968	W-Tnd-43055	W-Tnd-577858
+Reference link to non-existing accepted name	1986	W-Tnd-138799	W-Tnd-819017
+Reference link to non-existing accepted name	1989	W-Tnd-10388	W-Tnd-819250
+Reference link to non-existing accepted name	1990	W-Tnd-43055	W-Tnd-819254
+Reference link to non-existing accepted name	1991	W-Tnd-46576	W-Tnd-819642
+Reference link to non-existing accepted name	1993	W-Tnd-43055	W-Tnd-819854
+Reference link to non-existing accepted name	1997	W-Tnd-43055	W-Tnd-820859
+Reference link to non-existing accepted name	1999	W-Tnd-132856	W-Tnd-820948
+Reference link to non-existing accepted name	2000	W-Tnd-21287	W-Tnd-821691
+Reference link to non-existing accepted name	2001	W-Tnd-21287	W-Tnd-821709
+Reference link to non-existing accepted name	2002	W-Tnd-43055	W-Tnd-821727
+Reference link to non-existing accepted name	2006	W-Tnd-17165	W-Tnd-827387
+Reference link to non-existing accepted name	2007	W-Tnd-43055	W-Tnd-829014
+Reference link to non-existing accepted name	2018	W-Tnd-43055	W-Tnd-181517
+Reference link to non-existing accepted name	2039	W-Tnd-43055	W-Tnd-247501
+Reference link to non-existing accepted name	2047	W-Tnd-18801	W-Tnd-428704
+Reference link to non-existing accepted name	2072	W-Tnd-43055	W-Tnd-819043
+Reference link to non-existing accepted name	2080	W-Tnd-43055	W-Tnd-820113
+Reference link to non-existing accepted name	2085	W-Tnd-21287	W-Tnd-821684
+Reference link to non-existing accepted name	2086	W-Tnd-43055	W-Tnd-821700
+Reference link to non-existing accepted name	2087	W-Tnd-21287	W-Tnd-821718
+Reference link to non-existing accepted name	2088	W-Tnd-43055	W-Tnd-821736
+Reference link to non-existing accepted name	2090	W-Tnd-194778	W-Tnd-826885
+Reference link to non-existing accepted name	2091	W-Tnd-43055	W-Tnd-827031
+Reference link to non-existing accepted name	2101	W-Tnd-1325	W-Tnd-136453
+Reference link to non-existing accepted name	2103	W-Tnd-742	W-Tnd-148691
+Reference link to non-existing accepted name	2105	W-Tnd-43055	W-Tnd-242582
+Reference link to non-existing accepted name	2107	W-Tnd-141167	W-Tnd-247112
+Reference link to non-existing accepted name	2125	W-Tnd-43055	W-Tnd-247679
+Reference link to non-existing accepted name	2144	W-Tnd-43055	W-Tnd-819040
+Reference link to non-existing accepted name	2146	W-Tnd-43055	W-Tnd-819619
+Reference link to non-existing accepted name	2147	W-Tnd-18801	W-Tnd-819844
+Reference link to non-existing accepted name	2150	W-Tnd-138958	W-Tnd-820367
+Reference link to non-existing accepted name	2152	W-Tnd-43055	W-Tnd-820937
+Reference link to non-existing accepted name	2154	W-Tnd-21287	W-Tnd-821702
+Reference link to non-existing accepted name	2155	W-Tnd-43055	W-Tnd-821716
+Reference link to non-existing accepted name	2176	W-Tnd-138946	W-Tnd-818863
+Reference link to non-existing accepted name	2179	W-Tnd-43055	W-Tnd-819947
+Reference link to non-existing accepted name	2183	W-Tnd-193865	W-Tnd-821655
+Reference link to non-existing accepted name	2184	W-Tnd-21287	W-Tnd-821699
+Reference link to non-existing accepted name	2187	W-Tnd-43055	W-Tnd-821719
+Reference link to non-existing accepted name	2194	W-Tnd-10388	W-Tnd-242594
+Reference link to non-existing accepted name	2215	W-Tnd-193615	W-Tnd-819627
+Reference link to non-existing accepted name	2217	W-Tnd-43055	W-Tnd-819863
+Reference link to non-existing accepted name	2220	W-Tnd-45808	W-Tnd-820571
+Reference link to non-existing accepted name	2224	W-Tnd-10393	W-Tnd-827524
+Reference link to non-existing accepted name	2232	W-Tnd-43055	W-Tnd-244616
+Reference link to non-existing accepted name	2236	W-Tnd-140242	W-Tnd-247723
+Reference link to non-existing accepted name	2238	W-Tnd-18801	W-Tnd-428695
+Reference link to non-existing accepted name	2246	W-Tnd-139281	W-Tnd-820184
+--------------
+SELECT 'Reference link to non-existing reference', t1.record_id, t1.reference_code, t1.name_code
+FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL
+--------------
+
+Reference link to non-existing reference	record_id	reference_code	name_code
+Reference link to non-existing reference	5	W-Tnd-43055	W-Tnd-136259
+Reference link to non-existing reference	14	W-Tnd-43055	W-Tnd-136321
+Reference link to non-existing reference	22	W-Tnd-43055	W-Tnd-136364
+Reference link to non-existing reference	24	W-Tnd-43055	W-Tnd-136378
+Reference link to non-existing reference	26	W-Tnd-43055	W-Tnd-136421
+Reference link to non-existing reference	31	W-Tnd-43055	W-Tnd-136452
+Reference link to non-existing reference	34	W-Tnd-43055	W-Tnd-136478
+Reference link to non-existing reference	43	W-Tnd-43055	W-Tnd-136514
+Reference link to non-existing reference	45	W-Tnd-43055	W-Tnd-136545
+Reference link to non-existing reference	46	W-Tnd-43055	W-Tnd-136552
+Reference link to non-existing reference	53	W-Tnd-43055	W-Tnd-237608
+Reference link to non-existing reference	54	W-Tnd-43055	W-Tnd-242595
+Reference link to non-existing reference	55	W-Tnd-43055	W-Tnd-244567
+Reference link to non-existing reference	56	W-Tnd-43055	W-Tnd-244584
+Reference link to non-existing reference	59	W-Tnd-43055	W-Tnd-244624
+Reference link to non-existing reference	62	W-Tnd-43055	W-Tnd-247049
+Reference link to non-existing reference	66	W-Tnd-43055	W-Tnd-247063
+Reference link to non-existing reference	67	W-Tnd-43055	W-Tnd-247068
+Reference link to non-existing reference	69	W-Tnd-43055	W-Tnd-247075
+Reference link to non-existing reference	70	W-Tnd-43055	W-Tnd-247082
+Reference link to non-existing reference	76	W-Tnd-43055	W-Tnd-247118
+Reference link to non-existing reference	78	W-Tnd-43055	W-Tnd-247125
+Reference link to non-existing reference	79	W-Tnd-43055	W-Tnd-247132
+Reference link to non-existing reference	80	W-Tnd-43055	W-Tnd-247168
+Reference link to non-existing reference	81	W-Tnd-43055	W-Tnd-247175
+Reference link to non-existing reference	82	W-Tnd-43055	W-Tnd-247182
+Reference link to non-existing reference	87	W-Tnd-43055	W-Tnd-247213
+Reference link to non-existing reference	89	W-Tnd-43055	W-Tnd-247218
+Reference link to non-existing reference	90	W-Tnd-43055	W-Tnd-247225
+Reference link to non-existing reference	94	W-Tnd-43055	W-Tnd-247268
+Reference link to non-existing reference	95	W-Tnd-43055	W-Tnd-247275
+Reference link to non-existing reference	96	W-Tnd-43055	W-Tnd-247282
+Reference link to non-existing reference	100	W-Tnd-43055	W-Tnd-247318
+Reference link to non-existing reference	101	W-Tnd-43055	W-Tnd-247325
+Reference link to non-existing reference	104	W-Tnd-43055	W-Tnd-247332
+Reference link to non-existing reference	107	W-Tnd-43055	W-Tnd-247368
+Reference link to non-existing reference	108	W-Tnd-43055	W-Tnd-247375
+Reference link to non-existing reference	110	W-Tnd-43055	W-Tnd-247382
+Reference link to non-existing reference	113	W-Tnd-43055	W-Tnd-247418
+Reference link to non-existing reference	114	W-Tnd-43055	W-Tnd-247425
+Reference link to non-existing reference	115	W-Tnd-43055	W-Tnd-247432
+Reference link to non-existing reference	119	W-Tnd-43055	W-Tnd-247468
+Reference link to non-existing reference	120	W-Tnd-43055	W-Tnd-247475
+Reference link to non-existing reference	121	W-Tnd-43055	W-Tnd-247482
+Reference link to non-existing reference	122	W-Tnd-43055	W-Tnd-247492
+Reference link to non-existing reference	123	W-Tnd-43055	W-Tnd-247499
+Reference link to non-existing reference	125	W-Tnd-43055	W-Tnd-247511
+Reference link to non-existing reference	126	W-Tnd-43055	W-Tnd-247518
+Reference link to non-existing reference	127	W-Tnd-43055	W-Tnd-247525
+Reference link to non-existing reference	129	W-Tnd-43055	W-Tnd-247532
+Reference link to non-existing reference	130	W-Tnd-43055	W-Tnd-247549
+Reference link to non-existing reference	132	W-Tnd-43055	W-Tnd-247575
+Reference link to non-existing reference	136	W-Tnd-43055	W-Tnd-247611
+Reference link to non-existing reference	137	W-Tnd-43055	W-Tnd-247618
+Reference link to non-existing reference	138	W-Tnd-43055	W-Tnd-247625
+Reference link to non-existing reference	141	W-Tnd-43055	W-Tnd-247661
+Reference link to non-existing reference	142	W-Tnd-43055	W-Tnd-247668
+Reference link to non-existing reference	143	W-Tnd-43055	W-Tnd-247675
+Reference link to non-existing reference	145	W-Tnd-43055	W-Tnd-247692
+Reference link to non-existing reference	150	W-Tnd-43055	W-Tnd-247868
+Reference link to non-existing reference	154	W-Tnd-43055	W-Tnd-247899
+Reference link to non-existing reference	156	W-Tnd-43055	W-Tnd-387626
+Reference link to non-existing reference	157	W-Tnd-43055	W-Tnd-387633
+Reference link to non-existing reference	159	W-Tnd-43055	W-Tnd-414648
+Reference link to non-existing reference	160	W-Tnd-43055	W-Tnd-416346
+Reference link to non-existing reference	163	W-Tnd-43055	W-Tnd-449020
+Reference link to non-existing reference	166	W-Tnd-43055	W-Tnd-449063
+Reference link to non-existing reference	167	W-Tnd-43055	W-Tnd-449070
+Reference link to non-existing reference	169	W-Tnd-43055	W-Tnd-449077
+Reference link to non-existing reference	174	W-Tnd-43055	W-Tnd-449120
+Reference link to non-existing reference	178	W-Tnd-43055	W-Tnd-478736
+Reference link to non-existing reference	180	W-Tnd-43055	W-Tnd-478743
+Reference link to non-existing reference	182	W-Tnd-43055	W-Tnd-478750
+Reference link to non-existing reference	188	W-Tnd-43055	W-Tnd-577839
+Reference link to non-existing reference	189	W-Tnd-43055	W-Tnd-577903
+Reference link to non-existing reference	191	W-Tnd-43055	W-Tnd-606476
+Reference link to non-existing reference	193	W-Tnd-43055	W-Tnd-606516
+Reference link to non-existing reference	195	W-Tnd-43055	W-Tnd-607855
+Reference link to non-existing reference	199	W-Tnd-43055	W-Tnd-720014
+Reference link to non-existing reference	200	W-Tnd-43055	W-Tnd-720021
+Reference link to non-existing reference	203	W-Tnd-43055	W-Tnd-720614
+Reference link to non-existing reference	204	W-Tnd-43055	W-Tnd-731610
+Reference link to non-existing reference	205	W-Tnd-43055	W-Tnd-731760
+Reference link to non-existing reference	206	W-Tnd-43055	W-Tnd-731984
+Reference link to non-existing reference	207	W-Tnd-43055	W-Tnd-732646
+Reference link to non-existing reference	211	W-Tnd-43055	W-Tnd-738512
+Reference link to non-existing reference	214	W-Tnd-43055	W-Tnd-738529
+Reference link to non-existing reference	217	W-Tnd-43055	W-Tnd-739698
+Reference link to non-existing reference	224	W-Tnd-43055	W-Tnd-760840
+Reference link to non-existing reference	225	W-Tnd-43055	W-Tnd-798737
+Reference link to non-existing reference	226	W-Tnd-43055	W-Tnd-798744
+Reference link to non-existing reference	228	W-Tnd-43055	W-Tnd-798751
+Reference link to non-existing reference	231	W-Tnd-43055	W-Tnd-818874
+Reference link to non-existing reference	233	W-Tnd-43055	W-Tnd-819067
+Reference link to non-existing reference	235	W-Tnd-43055	W-Tnd-819074
+Reference link to non-existing reference	239	W-Tnd-43055	W-Tnd-819610
+Reference link to non-existing reference	240	W-Tnd-43055	W-Tnd-819617
+Reference link to non-existing reference	247	W-Tnd-43055	W-Tnd-819867
+Reference link to non-existing reference	252	W-Tnd-43055	W-Tnd-819893
+Reference link to non-existing reference	254	W-Tnd-43055	W-Tnd-819910
+Reference link to non-existing reference	255	W-Tnd-43055	W-Tnd-819917
+Reference link to non-existing reference	257	W-Tnd-43055	W-Tnd-819929
+Reference link to non-existing reference	260	W-Tnd-43055	W-Tnd-819967
+Reference link to non-existing reference	263	W-Tnd-43055	W-Tnd-820117
+Reference link to non-existing reference	267	W-Tnd-43055	W-Tnd-820260
+Reference link to non-existing reference	272	W-Tnd-43055	W-Tnd-820860
+Reference link to non-existing reference	273	W-Tnd-43055	W-Tnd-820939
+Reference link to non-existing reference	274	W-Tnd-43055	W-Tnd-820946
+Reference link to non-existing reference	276	W-Tnd-43055	W-Tnd-821682
+Reference link to non-existing reference	278	W-Tnd-43055	W-Tnd-821689
+Reference link to non-existing reference	279	W-Tnd-43055	W-Tnd-821696
+Reference link to non-existing reference	282	W-Tnd-43055	W-Tnd-821732
+Reference link to non-existing reference	283	W-Tnd-43055	W-Tnd-826445
+Reference link to non-existing reference	286	W-Tnd-43055	W-Tnd-826462
+Reference link to non-existing reference	292	W-Tnd-43055	W-Tnd-136265
+Reference link to non-existing reference	296	W-Tnd-43055	W-Tnd-136283
+Reference link to non-existing reference	297	W-Tnd-43055	W-Tnd-136298
+Reference link to non-existing reference	298	W-Tnd-43055	W-Tnd-136300
+Reference link to non-existing reference	302	W-Tnd-43055	W-Tnd-136316
+Reference link to non-existing reference	306	W-Tnd-43055	W-Tnd-136333
+Reference link to non-existing reference	313	W-Tnd-43055	W-Tnd-136383
+Reference link to non-existing reference	314	W-Tnd-43055	W-Tnd-136384
+Reference link to non-existing reference	321	W-Tnd-43055	W-Tnd-136482
+Reference link to non-existing reference	322	W-Tnd-43055	W-Tnd-136483
+Reference link to non-existing reference	323	W-Tnd-43055	W-Tnd-136502
+Reference link to non-existing reference	326	W-Tnd-43055	W-Tnd-136516
+Reference link to non-existing reference	329	W-Tnd-43055	W-Tnd-136551
+Reference link to non-existing reference	331	W-Tnd-43055	W-Tnd-136564
+Reference link to non-existing reference	337	W-Tnd-43055	W-Tnd-242588
+Reference link to non-existing reference	339	W-Tnd-43055	W-Tnd-242590
+Reference link to non-existing reference	342	W-Tnd-43055	W-Tnd-247050
+Reference link to non-existing reference	343	W-Tnd-43055	W-Tnd-247070
+Reference link to non-existing reference	346	W-Tnd-43055	W-Tnd-247088
+Reference link to non-existing reference	348	W-Tnd-43055	W-Tnd-247101
+Reference link to non-existing reference	349	W-Tnd-43055	W-Tnd-247105
+Reference link to non-existing reference	351	W-Tnd-43055	W-Tnd-247138
+Reference link to non-existing reference	353	W-Tnd-43055	W-Tnd-247152
+Reference link to non-existing reference	355	W-Tnd-43055	W-Tnd-247155
+Reference link to non-existing reference	356	W-Tnd-43055	W-Tnd-247169
+Reference link to non-existing reference	359	W-Tnd-43055	W-Tnd-247219
+Reference link to non-existing reference	360	W-Tnd-43055	W-Tnd-247220
+Reference link to non-existing reference	362	W-Tnd-43055	W-Tnd-247237
+Reference link to non-existing reference	367	W-Tnd-43055	W-Tnd-247288
+Reference link to non-existing reference	368	W-Tnd-43055	W-Tnd-247305
+Reference link to non-existing reference	370	W-Tnd-43055	W-Tnd-247338
+Reference link to non-existing reference	371	W-Tnd-43055	W-Tnd-247355
+Reference link to non-existing reference	372	W-Tnd-43055	W-Tnd-247356
+Reference link to non-existing reference	373	W-Tnd-43055	W-Tnd-247369
+Reference link to non-existing reference	374	W-Tnd-43055	W-Tnd-247373
+Reference link to non-existing reference	377	W-Tnd-43055	W-Tnd-247406
+Reference link to non-existing reference	380	W-Tnd-43055	W-Tnd-247420
+Reference link to non-existing reference	381	W-Tnd-43055	W-Tnd-247423
+Reference link to non-existing reference	383	W-Tnd-43055	W-Tnd-247437
+Reference link to non-existing reference	386	W-Tnd-43055	W-Tnd-247470
+Reference link to non-existing reference	388	W-Tnd-43055	W-Tnd-247487
+Reference link to non-existing reference	392	W-Tnd-43055	W-Tnd-247505
+Reference link to non-existing reference	398	W-Tnd-43055	W-Tnd-247555
+Reference link to non-existing reference	401	W-Tnd-43055	W-Tnd-247573
+Reference link to non-existing reference	408	W-Tnd-43055	W-Tnd-247604
+Reference link to non-existing reference	409	W-Tnd-43055	W-Tnd-247606
+Reference link to non-existing reference	411	W-Tnd-43055	W-Tnd-247620
+Reference link to non-existing reference	412	W-Tnd-43055	W-Tnd-247623
+Reference link to non-existing reference	417	W-Tnd-43055	W-Tnd-247637
+Reference link to non-existing reference	420	W-Tnd-43055	W-Tnd-247670
+Reference link to non-existing reference	421	W-Tnd-43055	W-Tnd-247674
+Reference link to non-existing reference	426	W-Tnd-43055	W-Tnd-247705
+Reference link to non-existing reference	428	W-Tnd-43055	W-Tnd-247722
+Reference link to non-existing reference	429	W-Tnd-43055	W-Tnd-247738
+Reference link to non-existing reference	431	W-Tnd-43055	W-Tnd-247874
+Reference link to non-existing reference	432	W-Tnd-43055	W-Tnd-247888
+Reference link to non-existing reference	435	W-Tnd-43055	W-Tnd-247905
+Reference link to non-existing reference	437	W-Tnd-43055	W-Tnd-388608
+Reference link to non-existing reference	439	W-Tnd-43055	W-Tnd-389693
+Reference link to non-existing reference	440	W-Tnd-43055	W-Tnd-390479
+Reference link to non-existing reference	441	W-Tnd-43055	W-Tnd-396744
+Reference link to non-existing reference	443	W-Tnd-43055	W-Tnd-431792
+Reference link to non-existing reference	445	W-Tnd-43055	W-Tnd-449022
+Reference link to non-existing reference	448	W-Tnd-43055	W-Tnd-449039
+Reference link to non-existing reference	449	W-Tnd-43055	W-Tnd-449040
+Reference link to non-existing reference	450	W-Tnd-43055	W-Tnd-449057
+Reference link to non-existing reference	452	W-Tnd-43055	W-Tnd-449090
+Reference link to non-existing reference	455	W-Tnd-43055	W-Tnd-449107
+Reference link to non-existing reference	457	W-Tnd-43055	W-Tnd-458650
+Reference link to non-existing reference	460	W-Tnd-43055	W-Tnd-478706
+Reference link to non-existing reference	461	W-Tnd-43055	W-Tnd-478720
+Reference link to non-existing reference	463	W-Tnd-43055	W-Tnd-478723
+Reference link to non-existing reference	465	W-Tnd-43055	W-Tnd-478737
+Reference link to non-existing reference	466	W-Tnd-43055	W-Tnd-478770
+Reference link to non-existing reference	470	W-Tnd-43055	W-Tnd-606485
+Reference link to non-existing reference	471	W-Tnd-43055	W-Tnd-607856
+Reference link to non-existing reference	473	W-Tnd-43055	W-Tnd-720001
+Reference link to non-existing reference	478	W-Tnd-43055	W-Tnd-731998
+Reference link to non-existing reference	481	W-Tnd-43055	W-Tnd-736795
+Reference link to non-existing reference	486	W-Tnd-43055	W-Tnd-738531
+Reference link to non-existing reference	493	W-Tnd-43055	W-Tnd-740290
+Reference link to non-existing reference	495	W-Tnd-43055	W-Tnd-740352
+Reference link to non-existing reference	496	W-Tnd-43055	W-Tnd-798749
+Reference link to non-existing reference	499	W-Tnd-43055	W-Tnd-819018
+Reference link to non-existing reference	504	W-Tnd-43055	W-Tnd-819154
+Reference link to non-existing reference	506	W-Tnd-43055	W-Tnd-819218
+Reference link to non-existing reference	507	W-Tnd-43055	W-Tnd-819219
+Reference link to non-existing reference	508	W-Tnd-43055	W-Tnd-819222
+Reference link to non-existing reference	511	W-Tnd-43055	W-Tnd-819486
+Reference link to non-existing reference	512	W-Tnd-43055	W-Tnd-819487
+Reference link to non-existing reference	515	W-Tnd-43055	W-Tnd-819636
+Reference link to non-existing reference	520	W-Tnd-43055	W-Tnd-819923
+Reference link to non-existing reference	521	W-Tnd-43055	W-Tnd-819924
+Reference link to non-existing reference	523	W-Tnd-43055	W-Tnd-819937
+Reference link to non-existing reference	524	W-Tnd-43055	W-Tnd-820087
+Reference link to non-existing reference	525	W-Tnd-43055	W-Tnd-820090
+Reference link to non-existing reference	526	W-Tnd-43055	W-Tnd-820091
+Reference link to non-existing reference	527	W-Tnd-43055	W-Tnd-820104
+Reference link to non-existing reference	529	W-Tnd-43055	W-Tnd-820358
+Reference link to non-existing reference	534	W-Tnd-43055	W-Tnd-820941
+Reference link to non-existing reference	537	W-Tnd-43055	W-Tnd-821660
+Reference link to non-existing reference	538	W-Tnd-43055	W-Tnd-821677
+Reference link to non-existing reference	539	W-Tnd-43055	W-Tnd-821694
+Reference link to non-existing reference	540	W-Tnd-43055	W-Tnd-821695
+Reference link to non-existing reference	542	W-Tnd-43055	W-Tnd-821712
+Reference link to non-existing reference	545	W-Tnd-43055	W-Tnd-826357
+Reference link to non-existing reference	550	W-Tnd-43055	W-Tnd-826924
+Reference link to non-existing reference	551	W-Tnd-43055	W-Tnd-827374
+Reference link to non-existing reference	556	W-Tnd-43055	W-Tnd-827761
+Reference link to non-existing reference	558	W-Tnd-43055	W-Tnd-832091
+Reference link to non-existing reference	559	W-Tnd-43055	W-Tnd-832092
+Reference link to non-existing reference	567	W-Tnd-43055	W-Tnd-136260
+Reference link to non-existing reference	574	W-Tnd-43055	W-Tnd-136301
+Reference link to non-existing reference	576	W-Tnd-43055	W-Tnd-136306
+Reference link to non-existing reference	577	W-Tnd-43055	W-Tnd-136329
+Reference link to non-existing reference	581	W-Tnd-43055	W-Tnd-136363
+Reference link to non-existing reference	582	W-Tnd-43055	W-Tnd-136370
+Reference link to non-existing reference	583	W-Tnd-43055	W-Tnd-136372
+Reference link to non-existing reference	591	W-Tnd-43055	W-Tnd-136460
+Reference link to non-existing reference	592	W-Tnd-43055	W-Tnd-136472
+Reference link to non-existing reference	594	W-Tnd-43055	W-Tnd-136494
+Reference link to non-existing reference	595	W-Tnd-43055	W-Tnd-136506
+Reference link to non-existing reference	600	W-Tnd-43055	W-Tnd-136560
+Reference link to non-existing reference	601	W-Tnd-43055	W-Tnd-136563
+Reference link to non-existing reference	605	W-Tnd-43055	W-Tnd-183393
+Reference link to non-existing reference	607	W-Tnd-43055	W-Tnd-237607
+Reference link to non-existing reference	610	W-Tnd-43055	W-Tnd-242596
+Reference link to non-existing reference	611	W-Tnd-43055	W-Tnd-244566
+Reference link to non-existing reference	612	W-Tnd-43055	W-Tnd-244602
+Reference link to non-existing reference	616	W-Tnd-43055	W-Tnd-247064
+Reference link to non-existing reference	618	W-Tnd-43055	W-Tnd-247067
+Reference link to non-existing reference	620	W-Tnd-43055	W-Tnd-247074
+Reference link to non-existing reference	621	W-Tnd-43055	W-Tnd-247076
+Reference link to non-existing reference	624	W-Tnd-43055	W-Tnd-247107
+Reference link to non-existing reference	625	W-Tnd-43055	W-Tnd-247131
+Reference link to non-existing reference	626	W-Tnd-43055	W-Tnd-247133
+Reference link to non-existing reference	628	W-Tnd-43055	W-Tnd-247140
+Reference link to non-existing reference	634	W-Tnd-43055	W-Tnd-247167
+Reference link to non-existing reference	635	W-Tnd-43055	W-Tnd-247174
+Reference link to non-existing reference	638	W-Tnd-43055	W-Tnd-247210
+Reference link to non-existing reference	640	W-Tnd-43055	W-Tnd-247240
+Reference link to non-existing reference	641	W-Tnd-43055	W-Tnd-247267
+Reference link to non-existing reference	642	W-Tnd-43055	W-Tnd-247274
+Reference link to non-existing reference	643	W-Tnd-43055	W-Tnd-247276
+Reference link to non-existing reference	646	W-Tnd-43055	W-Tnd-247307
+Reference link to non-existing reference	649	W-Tnd-43055	W-Tnd-247333
+Reference link to non-existing reference	650	W-Tnd-43055	W-Tnd-247367
+Reference link to non-existing reference	652	W-Tnd-43055	W-Tnd-247374
+Reference link to non-existing reference	654	W-Tnd-43055	W-Tnd-247410
+Reference link to non-existing reference	656	W-Tnd-43055	W-Tnd-247433
+Reference link to non-existing reference	661	W-Tnd-43055	W-Tnd-247467
+Reference link to non-existing reference	662	W-Tnd-43055	W-Tnd-247469
+Reference link to non-existing reference	663	W-Tnd-43055	W-Tnd-247474
+Reference link to non-existing reference	664	W-Tnd-43055	W-Tnd-247476
+Reference link to non-existing reference	666	W-Tnd-43055	W-Tnd-247498
+Reference link to non-existing reference	667	W-Tnd-43055	W-Tnd-247500
+Reference link to non-existing reference	668	W-Tnd-43055	W-Tnd-247533
+Reference link to non-existing reference	669	W-Tnd-43055	W-Tnd-247564
+Reference link to non-existing reference	670	W-Tnd-43055	W-Tnd-247567
+Reference link to non-existing reference	671	W-Tnd-43055	W-Tnd-247569
+Reference link to non-existing reference	672	W-Tnd-43055	W-Tnd-247574
+Reference link to non-existing reference	676	W-Tnd-43055	W-Tnd-247633
+Reference link to non-existing reference	681	W-Tnd-43055	W-Tnd-247667
+Reference link to non-existing reference	682	W-Tnd-43055	W-Tnd-247669
+Reference link to non-existing reference	683	W-Tnd-43055	W-Tnd-247676
+Reference link to non-existing reference	686	W-Tnd-43055	W-Tnd-247703
+Reference link to non-existing reference	687	W-Tnd-43055	W-Tnd-247710
+Reference link to non-existing reference	689	W-Tnd-43055	W-Tnd-247733
+Reference link to non-existing reference	694	W-Tnd-43055	W-Tnd-247869
+Reference link to non-existing reference	696	W-Tnd-43055	W-Tnd-247876
+Reference link to non-existing reference	701	W-Tnd-43055	W-Tnd-428703
+Reference link to non-existing reference	702	W-Tnd-43055	W-Tnd-448316
+Reference link to non-existing reference	703	W-Tnd-43055	W-Tnd-449019
+Reference link to non-existing reference	704	W-Tnd-43055	W-Tnd-449026
+Reference link to non-existing reference	705	W-Tnd-43055	W-Tnd-449028
+Reference link to non-existing reference	708	W-Tnd-43055	W-Tnd-449052
+Reference link to non-existing reference	709	W-Tnd-43055	W-Tnd-449062
+Reference link to non-existing reference	711	W-Tnd-43055	W-Tnd-449085
+Reference link to non-existing reference	715	W-Tnd-43055	W-Tnd-449121
+Reference link to non-existing reference	717	W-Tnd-43055	W-Tnd-478708
+Reference link to non-existing reference	718	W-Tnd-43055	W-Tnd-478709
+Reference link to non-existing reference	719	W-Tnd-43055	W-Tnd-478735
+Reference link to non-existing reference	721	W-Tnd-43055	W-Tnd-478742
+Reference link to non-existing reference	722	W-Tnd-43055	W-Tnd-478744
+Reference link to non-existing reference	727	W-Tnd-43055	W-Tnd-558720
+Reference link to non-existing reference	728	W-Tnd-43055	W-Tnd-571028
+Reference link to non-existing reference	731	W-Tnd-43055	W-Tnd-571691
+Reference link to non-existing reference	732	W-Tnd-43055	W-Tnd-577847
+Reference link to non-existing reference	733	W-Tnd-43055	W-Tnd-606517
+Reference link to non-existing reference	735	W-Tnd-43055	W-Tnd-607854
+Reference link to non-existing reference	736	W-Tnd-43055	W-Tnd-607930
+Reference link to non-existing reference	737	W-Tnd-43055	W-Tnd-607932
+Reference link to non-existing reference	742	W-Tnd-43055	W-Tnd-720029
+Reference link to non-existing reference	743	W-Tnd-43055	W-Tnd-720036
+Reference link to non-existing reference	745	W-Tnd-43055	W-Tnd-729966
+Reference link to non-existing reference	746	W-Tnd-43055	W-Tnd-731759
+Reference link to non-existing reference	747	W-Tnd-43055	W-Tnd-731761
+Reference link to non-existing reference	748	W-Tnd-43055	W-Tnd-732638
+Reference link to non-existing reference	749	W-Tnd-43055	W-Tnd-732640
+Reference link to non-existing reference	750	W-Tnd-43055	W-Tnd-734333
+Reference link to non-existing reference	753	W-Tnd-43055	W-Tnd-736918
+Reference link to non-existing reference	756	W-Tnd-43055	W-Tnd-738511
+Reference link to non-existing reference	758	W-Tnd-43055	W-Tnd-739549
+Reference link to non-existing reference	761	W-Tnd-43055	W-Tnd-739726
+Reference link to non-existing reference	763	W-Tnd-43055	W-Tnd-740292
+Reference link to non-existing reference	764	W-Tnd-43055	W-Tnd-760841
+Reference link to non-existing reference	766	W-Tnd-43055	W-Tnd-798743
+Reference link to non-existing reference	767	W-Tnd-43055	W-Tnd-798745
+Reference link to non-existing reference	768	W-Tnd-43055	W-Tnd-798752
+Reference link to non-existing reference	770	W-Tnd-43055	W-Tnd-818866
+Reference link to non-existing reference	771	W-Tnd-43055	W-Tnd-819066
+Reference link to non-existing reference	773	W-Tnd-43055	W-Tnd-819602
+Reference link to non-existing reference	776	W-Tnd-43055	W-Tnd-819802
+Reference link to non-existing reference	777	W-Tnd-43055	W-Tnd-819809
+Reference link to non-existing reference	779	W-Tnd-43055	W-Tnd-819866
+Reference link to non-existing reference	780	W-Tnd-43055	W-Tnd-819868
+Reference link to non-existing reference	783	W-Tnd-43055	W-Tnd-819911
+Reference link to non-existing reference	789	W-Tnd-43055	W-Tnd-820175
+Reference link to non-existing reference	792	W-Tnd-43055	W-Tnd-820368
+Reference link to non-existing reference	797	W-Tnd-43055	W-Tnd-820945
+Reference link to non-existing reference	798	W-Tnd-43055	W-Tnd-820947
+Reference link to non-existing reference	800	W-Tnd-43055	W-Tnd-820981
+Reference link to non-existing reference	801	W-Tnd-43055	W-Tnd-821674
+Reference link to non-existing reference	804	W-Tnd-43055	W-Tnd-821681
+Reference link to non-existing reference	805	W-Tnd-43055	W-Tnd-821683
+Reference link to non-existing reference	806	W-Tnd-43055	W-Tnd-821704
+Reference link to non-existing reference	810	W-Tnd-43055	W-Tnd-826461
+Reference link to non-existing reference	813	W-Tnd-43055	W-Tnd-826563
+Reference link to non-existing reference	814	W-Tnd-43055	W-Tnd-826920
+Reference link to non-existing reference	816	W-Tnd-43055	W-Tnd-827654
+Reference link to non-existing reference	831	W-Tnd-43055	W-Tnd-136313
+Reference link to non-existing reference	833	W-Tnd-43055	W-Tnd-136347
+Reference link to non-existing reference	837	W-Tnd-43055	W-Tnd-136381
+Reference link to non-existing reference	840	W-Tnd-43055	W-Tnd-136446
+Reference link to non-existing reference	847	W-Tnd-43055	W-Tnd-136485
+Reference link to non-existing reference	848	W-Tnd-43055	W-Tnd-136513
+Reference link to non-existing reference	851	W-Tnd-43055	W-Tnd-136547
+Reference link to non-existing reference	855	W-Tnd-43055	W-Tnd-136578
+Reference link to non-existing reference	858	W-Tnd-43055	W-Tnd-157837
+Reference link to non-existing reference	860	W-Tnd-43055	W-Tnd-237598
+Reference link to non-existing reference	862	W-Tnd-43055	W-Tnd-242580
+Reference link to non-existing reference	866	W-Tnd-43055	W-Tnd-244615
+Reference link to non-existing reference	867	W-Tnd-43055	W-Tnd-244643
+Reference link to non-existing reference	869	W-Tnd-43055	W-Tnd-247051
+Reference link to non-existing reference	871	W-Tnd-43055	W-Tnd-247081
+Reference link to non-existing reference	872	W-Tnd-43055	W-Tnd-247091
+Reference link to non-existing reference	876	W-Tnd-43055	W-Tnd-247121
+Reference link to non-existing reference	877	W-Tnd-43055	W-Tnd-247124
+Reference link to non-existing reference	878	W-Tnd-43055	W-Tnd-247149
+Reference link to non-existing reference	880	W-Tnd-43055	W-Tnd-247158
+Reference link to non-existing reference	885	W-Tnd-43055	W-Tnd-247192
+Reference link to non-existing reference	887	W-Tnd-43055	W-Tnd-247217
+Reference link to non-existing reference	889	W-Tnd-43055	W-Tnd-247226
+Reference link to non-existing reference	890	W-Tnd-43055	W-Tnd-247251
+Reference link to non-existing reference	891	W-Tnd-43055	W-Tnd-247260
+Reference link to non-existing reference	892	W-Tnd-43055	W-Tnd-247285
+Reference link to non-existing reference	898	W-Tnd-43055	W-Tnd-247315
+Reference link to non-existing reference	899	W-Tnd-43055	W-Tnd-247324
+Reference link to non-existing reference	902	W-Tnd-43055	W-Tnd-247349
+Reference link to non-existing reference	903	W-Tnd-43055	W-Tnd-247358
+Reference link to non-existing reference	904	W-Tnd-43055	W-Tnd-247359
+Reference link to non-existing reference	907	W-Tnd-43055	W-Tnd-247383
+Reference link to non-existing reference	908	W-Tnd-43055	W-Tnd-247392
+Reference link to non-existing reference	912	W-Tnd-43055	W-Tnd-247451
+Reference link to non-existing reference	913	W-Tnd-43055	W-Tnd-247460
+Reference link to non-existing reference	915	W-Tnd-43055	W-Tnd-247485
+Reference link to non-existing reference	916	W-Tnd-43055	W-Tnd-247519
+Reference link to non-existing reference	917	W-Tnd-43055	W-Tnd-247524
+Reference link to non-existing reference	923	W-Tnd-43055	W-Tnd-247559
+Reference link to non-existing reference	925	W-Tnd-43055	W-Tnd-247583
+Reference link to non-existing reference	929	W-Tnd-43055	W-Tnd-247617
+Reference link to non-existing reference	931	W-Tnd-43055	W-Tnd-247651
+Reference link to non-existing reference	932	W-Tnd-43055	W-Tnd-247660
+Reference link to non-existing reference	934	W-Tnd-43055	W-Tnd-247716
+Reference link to non-existing reference	936	W-Tnd-43055	W-Tnd-247725
+Reference link to non-existing reference	937	W-Tnd-43055	W-Tnd-247728
+Reference link to non-existing reference	938	W-Tnd-43055	W-Tnd-247885
+Reference link to non-existing reference	946	W-Tnd-43055	W-Tnd-449037
+Reference link to non-existing reference	947	W-Tnd-43055	W-Tnd-449046
+Reference link to non-existing reference	949	W-Tnd-43055	W-Tnd-449071
+Reference link to non-existing reference	952	W-Tnd-43055	W-Tnd-449080
+Reference link to non-existing reference	954	W-Tnd-43055	W-Tnd-449105
+Reference link to non-existing reference	955	W-Tnd-43055	W-Tnd-449110
+Reference link to non-existing reference	956	W-Tnd-43055	W-Tnd-449111
+Reference link to non-existing reference	961	W-Tnd-43055	W-Tnd-478717
+Reference link to non-existing reference	962	W-Tnd-43055	W-Tnd-478718
+Reference link to non-existing reference	968	W-Tnd-43055	W-Tnd-571037
+Reference link to non-existing reference	969	W-Tnd-43055	W-Tnd-571680
+Reference link to non-existing reference	972	W-Tnd-43055	W-Tnd-606478
+Reference link to non-existing reference	975	W-Tnd-43055	W-Tnd-720011
+Reference link to non-existing reference	976	W-Tnd-43055	W-Tnd-720020
+Reference link to non-existing reference	977	W-Tnd-43055	W-Tnd-720615
+Reference link to non-existing reference	980	W-Tnd-43055	W-Tnd-732647
+Reference link to non-existing reference	981	W-Tnd-43055	W-Tnd-734316
+Reference link to non-existing reference	982	W-Tnd-43055	W-Tnd-734319
+Reference link to non-existing reference	984	W-Tnd-43055	W-Tnd-737435
+Reference link to non-existing reference	988	W-Tnd-43055	W-Tnd-738506
+Reference link to non-existing reference	990	W-Tnd-43055	W-Tnd-739701
+Reference link to non-existing reference	991	W-Tnd-43055	W-Tnd-739799
+Reference link to non-existing reference	992	W-Tnd-43055	W-Tnd-740268
+Reference link to non-existing reference	993	W-Tnd-43055	W-Tnd-740310
+Reference link to non-existing reference	996	W-Tnd-43055	W-Tnd-818824
+Reference link to non-existing reference	997	W-Tnd-43055	W-Tnd-819289
+Reference link to non-existing reference	1000	W-Tnd-43055	W-Tnd-819484
+Reference link to non-existing reference	1001	W-Tnd-43055	W-Tnd-819616
+Reference link to non-existing reference	1002	W-Tnd-43055	W-Tnd-819816
+Reference link to non-existing reference	1004	W-Tnd-43055	W-Tnd-819850
+Reference link to non-existing reference	1009	W-Tnd-43055	W-Tnd-819918
+Reference link to non-existing reference	1011	W-Tnd-43055	W-Tnd-819921
+Reference link to non-existing reference	1014	W-Tnd-43055	W-Tnd-819952
+Reference link to non-existing reference	1019	W-Tnd-43055	W-Tnd-820186
+Reference link to non-existing reference	1023	W-Tnd-43055	W-Tnd-820561
+Reference link to non-existing reference	1026	W-Tnd-43055	W-Tnd-820823
+Reference link to non-existing reference	1028	W-Tnd-43055	W-Tnd-820952
+Reference link to non-existing reference	1029	W-Tnd-43055	W-Tnd-820986
+Reference link to non-existing reference	1031	W-Tnd-43055	W-Tnd-821688
+Reference link to non-existing reference	1032	W-Tnd-43055	W-Tnd-821697
+Reference link to non-existing reference	1035	W-Tnd-43055	W-Tnd-821731
+Reference link to non-existing reference	1037	W-Tnd-43055	W-Tnd-827338
+Reference link to non-existing reference	1041	W-Tnd-43055	W-Tnd-832094
+Reference link to non-existing reference	1052	W-Tnd-43055	W-Tnd-136311
+Reference link to non-existing reference	1054	W-Tnd-43055	W-Tnd-136330
+Reference link to non-existing reference	1056	W-Tnd-43055	W-Tnd-136348
+Reference link to non-existing reference	1057	W-Tnd-43055	W-Tnd-136355
+Reference link to non-existing reference	1059	W-Tnd-43055	W-Tnd-136369
+Reference link to non-existing reference	1060	W-Tnd-43055	W-Tnd-136373
+Reference link to non-existing reference	1064	W-Tnd-43055	W-Tnd-136423
+Reference link to non-existing reference	1065	W-Tnd-43055	W-Tnd-136429
+Reference link to non-existing reference	1068	W-Tnd-43055	W-Tnd-136480
+Reference link to non-existing reference	1071	W-Tnd-43055	W-Tnd-136505
+Reference link to non-existing reference	1080	W-Tnd-43055	W-Tnd-237606
+Reference link to non-existing reference	1081	W-Tnd-43055	W-Tnd-242572
+Reference link to non-existing reference	1084	W-Tnd-43055	W-Tnd-244593
+Reference link to non-existing reference	1087	W-Tnd-43055	W-Tnd-244632
+Reference link to non-existing reference	1088	W-Tnd-43055	W-Tnd-244644
+Reference link to non-existing reference	1089	W-Tnd-43055	W-Tnd-244657
+Reference link to non-existing reference	1091	W-Tnd-43055	W-Tnd-247059
+Reference link to non-existing reference	1092	W-Tnd-43055	W-Tnd-247065
+Reference link to non-existing reference	1094	W-Tnd-43055	W-Tnd-247090
+Reference link to non-existing reference	1095	W-Tnd-43055	W-Tnd-247098
+Reference link to non-existing reference	1097	W-Tnd-43055	W-Tnd-247108
+Reference link to non-existing reference	1101	W-Tnd-43055	W-Tnd-247141
+Reference link to non-existing reference	1107	W-Tnd-43055	W-Tnd-247234
+Reference link to non-existing reference	1109	W-Tnd-43055	W-Tnd-247248
+Reference link to non-existing reference	1110	W-Tnd-43055	W-Tnd-247252
+Reference link to non-existing reference	1113	W-Tnd-43055	W-Tnd-247277
+Reference link to non-existing reference	1114	W-Tnd-43055	W-Tnd-247302
+Reference link to non-existing reference	1118	W-Tnd-43055	W-Tnd-247341
+Reference link to non-existing reference	1120	W-Tnd-43055	W-Tnd-247366
+Reference link to non-existing reference	1123	W-Tnd-43055	W-Tnd-247384
+Reference link to non-existing reference	1128	W-Tnd-43055	W-Tnd-247409
+Reference link to non-existing reference	1130	W-Tnd-43055	W-Tnd-247434
+Reference link to non-existing reference	1133	W-Tnd-43055	W-Tnd-247452
+Reference link to non-existing reference	1136	W-Tnd-43055	W-Tnd-247477
+Reference link to non-existing reference	1138	W-Tnd-43055	W-Tnd-247490
+Reference link to non-existing reference	1139	W-Tnd-43055	W-Tnd-247516
+Reference link to non-existing reference	1141	W-Tnd-43055	W-Tnd-247541
+Reference link to non-existing reference	1147	W-Tnd-43055	W-Tnd-247634
+Reference link to non-existing reference	1148	W-Tnd-43055	W-Tnd-247652
+Reference link to non-existing reference	1151	W-Tnd-43055	W-Tnd-247659
+Reference link to non-existing reference	1152	W-Tnd-43055	W-Tnd-247677
+Reference link to non-existing reference	1153	W-Tnd-43055	W-Tnd-247690
+Reference link to non-existing reference	1154	W-Tnd-43055	W-Tnd-247702
+Reference link to non-existing reference	1155	W-Tnd-43055	W-Tnd-247708
+Reference link to non-existing reference	1157	W-Tnd-43055	W-Tnd-247727
+Reference link to non-existing reference	1160	W-Tnd-43055	W-Tnd-247745
+Reference link to non-existing reference	1161	W-Tnd-43055	W-Tnd-247877
+Reference link to non-existing reference	1165	W-Tnd-43055	W-Tnd-389783
+Reference link to non-existing reference	1171	W-Tnd-43055	W-Tnd-449029
+Reference link to non-existing reference	1172	W-Tnd-43055	W-Tnd-449060
+Reference link to non-existing reference	1173	W-Tnd-43055	W-Tnd-449068
+Reference link to non-existing reference	1174	W-Tnd-43055	W-Tnd-449079
+Reference link to non-existing reference	1176	W-Tnd-43055	W-Tnd-449093
+Reference link to non-existing reference	1183	W-Tnd-43055	W-Tnd-478759
+Reference link to non-existing reference	1184	W-Tnd-43055	W-Tnd-479033
+Reference link to non-existing reference	1185	W-Tnd-43055	W-Tnd-571672
+Reference link to non-existing reference	1189	W-Tnd-43055	W-Tnd-606511
+Reference link to non-existing reference	1194	W-Tnd-43055	W-Tnd-720012
+Reference link to non-existing reference	1197	W-Tnd-43055	W-Tnd-720037
+Reference link to non-existing reference	1198	W-Tnd-43055	W-Tnd-729958
+Reference link to non-existing reference	1200	W-Tnd-43055	W-Tnd-731762
+Reference link to non-existing reference	1201	W-Tnd-43055	W-Tnd-734320
+Reference link to non-existing reference	1204	W-Tnd-43055	W-Tnd-737434
+Reference link to non-existing reference	1205	W-Tnd-43055	W-Tnd-738495
+Reference link to non-existing reference	1209	W-Tnd-43055	W-Tnd-739557
+Reference link to non-existing reference	1210	W-Tnd-43055	W-Tnd-739807
+Reference link to non-existing reference	1211	W-Tnd-43055	W-Tnd-740293
+Reference link to non-existing reference	1213	W-Tnd-43055	W-Tnd-746216
+Reference link to non-existing reference	1214	W-Tnd-43055	W-Tnd-760842
+Reference link to non-existing reference	1218	W-Tnd-43055	W-Tnd-819633
+Reference link to non-existing reference	1220	W-Tnd-43055	W-Tnd-819858
+Reference link to non-existing reference	1223	W-Tnd-43055	W-Tnd-819913
+Reference link to non-existing reference	1224	W-Tnd-43055	W-Tnd-819919
+Reference link to non-existing reference	1231	W-Tnd-43055	W-Tnd-820187
+Reference link to non-existing reference	1232	W-Tnd-43055	W-Tnd-820262
+Reference link to non-existing reference	1234	W-Tnd-43055	W-Tnd-820569
+Reference link to non-existing reference	1238	W-Tnd-43055	W-Tnd-821705
+Reference link to non-existing reference	1240	W-Tnd-43055	W-Tnd-826921
+Reference link to non-existing reference	1241	W-Tnd-43055	W-Tnd-827339
+Reference link to non-existing reference	1245	W-Tnd-43055	W-Tnd-827696
+Reference link to non-existing reference	1246	W-Tnd-43055	W-Tnd-828500
+Reference link to non-existing reference	1247	W-Tnd-43055	W-Tnd-828943
+Reference link to non-existing reference	1252	W-Tnd-43055	W-Tnd-136257
+Reference link to non-existing reference	1253	W-Tnd-43055	W-Tnd-136274
+Reference link to non-existing reference	1256	W-Tnd-43055	W-Tnd-136325
+Reference link to non-existing reference	1258	W-Tnd-43055	W-Tnd-136358
+Reference link to non-existing reference	1267	W-Tnd-43055	W-Tnd-136477
+Reference link to non-existing reference	1268	W-Tnd-43055	W-Tnd-136491
+Reference link to non-existing reference	1274	W-Tnd-43055	W-Tnd-136559
+Reference link to non-existing reference	1277	W-Tnd-43055	W-Tnd-242566
+Reference link to non-existing reference	1284	W-Tnd-43055	W-Tnd-244638
+Reference link to non-existing reference	1288	W-Tnd-43055	W-Tnd-247079
+Reference link to non-existing reference	1289	W-Tnd-43055	W-Tnd-247093
+Reference link to non-existing reference	1292	W-Tnd-43055	W-Tnd-247113
+Reference link to non-existing reference	1293	W-Tnd-43055	W-Tnd-247130
+Reference link to non-existing reference	1294	W-Tnd-43055	W-Tnd-247147
+Reference link to non-existing reference	1295	W-Tnd-43055	W-Tnd-247161
+Reference link to non-existing reference	1299	W-Tnd-43055	W-Tnd-247212
+Reference link to non-existing reference	1301	W-Tnd-43055	W-Tnd-247228
+Reference link to non-existing reference	1302	W-Tnd-43055	W-Tnd-247245
+Reference link to non-existing reference	1304	W-Tnd-43055	W-Tnd-247259
+Reference link to non-existing reference	1305	W-Tnd-43055	W-Tnd-247279
+Reference link to non-existing reference	1307	W-Tnd-43055	W-Tnd-247293
+Reference link to non-existing reference	1308	W-Tnd-43055	W-Tnd-247296
+Reference link to non-existing reference	1311	W-Tnd-43055	W-Tnd-247327
+Reference link to non-existing reference	1314	W-Tnd-43055	W-Tnd-247347
+Reference link to non-existing reference	1316	W-Tnd-43055	W-Tnd-247364
+Reference link to non-existing reference	1318	W-Tnd-43055	W-Tnd-247398
+Reference link to non-existing reference	1319	W-Tnd-43055	W-Tnd-247411
+Reference link to non-existing reference	1324	W-Tnd-43055	W-Tnd-247462
+Reference link to non-existing reference	1325	W-Tnd-43055	W-Tnd-247479
+Reference link to non-existing reference	1327	W-Tnd-43055	W-Tnd-247513
+Reference link to non-existing reference	1328	W-Tnd-43055	W-Tnd-247544
+Reference link to non-existing reference	1331	W-Tnd-43055	W-Tnd-247561
+Reference link to non-existing reference	1332	W-Tnd-43055	W-Tnd-247581
+Reference link to non-existing reference	1336	W-Tnd-43055	W-Tnd-247632
+Reference link to non-existing reference	1337	W-Tnd-43055	W-Tnd-247645
+Reference link to non-existing reference	1338	W-Tnd-43055	W-Tnd-247662
+Reference link to non-existing reference	1339	W-Tnd-43055	W-Tnd-247714
+Reference link to non-existing reference	1341	W-Tnd-43055	W-Tnd-247730
+Reference link to non-existing reference	1342	W-Tnd-43055	W-Tnd-247866
+Reference link to non-existing reference	1343	W-Tnd-43055	W-Tnd-247896
+Reference link to non-existing reference	1345	W-Tnd-43055	W-Tnd-387630
+Reference link to non-existing reference	1346	W-Tnd-43055	W-Tnd-389586
+Reference link to non-existing reference	1350	W-Tnd-43055	W-Tnd-428810
+Reference link to non-existing reference	1352	W-Tnd-43055	W-Tnd-449014
+Reference link to non-existing reference	1353	W-Tnd-43055	W-Tnd-449031
+Reference link to non-existing reference	1354	W-Tnd-43055	W-Tnd-449065
+Reference link to non-existing reference	1355	W-Tnd-43055	W-Tnd-449066
+Reference link to non-existing reference	1357	W-Tnd-43055	W-Tnd-449113
+Reference link to non-existing reference	1358	W-Tnd-43055	W-Tnd-478715
+Reference link to non-existing reference	1361	W-Tnd-43055	W-Tnd-478762
+Reference link to non-existing reference	1363	W-Tnd-43055	W-Tnd-606480
+Reference link to non-existing reference	1364	W-Tnd-43055	W-Tnd-606497
+Reference link to non-existing reference	1366	W-Tnd-43055	W-Tnd-606514
+Reference link to non-existing reference	1371	W-Tnd-43055	W-Tnd-737372
+Reference link to non-existing reference	1372	W-Tnd-43055	W-Tnd-737437
+Reference link to non-existing reference	1375	W-Tnd-43055	W-Tnd-738508
+Reference link to non-existing reference	1376	W-Tnd-43055	W-Tnd-738525
+Reference link to non-existing reference	1377	W-Tnd-43055	W-Tnd-739695
+Reference link to non-existing reference	1383	W-Tnd-43055	W-Tnd-746213
+Reference link to non-existing reference	1384	W-Tnd-43055	W-Tnd-760836
+Reference link to non-existing reference	1385	W-Tnd-43055	W-Tnd-798740
+Reference link to non-existing reference	1387	W-Tnd-43055	W-Tnd-818861
+Reference link to non-existing reference	1388	W-Tnd-43055	W-Tnd-819061
+Reference link to non-existing reference	1391	W-Tnd-43055	W-Tnd-819478
+Reference link to non-existing reference	1393	W-Tnd-43055	W-Tnd-819631
+Reference link to non-existing reference	1396	W-Tnd-43055	W-Tnd-819848
+Reference link to non-existing reference	1397	W-Tnd-43055	W-Tnd-819882
+Reference link to non-existing reference	1398	W-Tnd-43055	W-Tnd-819898
+Reference link to non-existing reference	1400	W-Tnd-43055	W-Tnd-819946
+Reference link to non-existing reference	1401	W-Tnd-43055	W-Tnd-820099
+Reference link to non-existing reference	1403	W-Tnd-43055	W-Tnd-820180
+Reference link to non-existing reference	1404	W-Tnd-43055	W-Tnd-820950
+Reference link to non-existing reference	1405	W-Tnd-43055	W-Tnd-820984
+Reference link to non-existing reference	1408	W-Tnd-43055	W-Tnd-821703
+Reference link to non-existing reference	1410	W-Tnd-43055	W-Tnd-821720
+Reference link to non-existing reference	1412	W-Tnd-43055	W-Tnd-827451
+Reference link to non-existing reference	1413	W-Tnd-43055	W-Tnd-829191
+Reference link to non-existing reference	1422	W-Tnd-43055	W-Tnd-136266
+Reference link to non-existing reference	1427	W-Tnd-43055	W-Tnd-136366
+Reference link to non-existing reference	1428	W-Tnd-43055	W-Tnd-136367
+Reference link to non-existing reference	1433	W-Tnd-43055	W-Tnd-136500
+Reference link to non-existing reference	1436	W-Tnd-43055	W-Tnd-211222
+Reference link to non-existing reference	1438	W-Tnd-43055	W-Tnd-242574
+Reference link to non-existing reference	1442	W-Tnd-43055	W-Tnd-244613
+Reference link to non-existing reference	1443	W-Tnd-43055	W-Tnd-244627
+Reference link to non-existing reference	1447	W-Tnd-43055	W-Tnd-244646
+Reference link to non-existing reference	1449	W-Tnd-43055	W-Tnd-247053
+Reference link to non-existing reference	1450	W-Tnd-43055	W-Tnd-247054
+Reference link to non-existing reference	1451	W-Tnd-43055	W-Tnd-247084
+Reference link to non-existing reference	1453	W-Tnd-43055	W-Tnd-247089
+Reference link to non-existing reference	1455	W-Tnd-43055	W-Tnd-247139
+Reference link to non-existing reference	1456	W-Tnd-43055	W-Tnd-247171
+Reference link to non-existing reference	1457	W-Tnd-43055	W-Tnd-247189
+Reference link to non-existing reference	1462	W-Tnd-43055	W-Tnd-247239
+Reference link to non-existing reference	1463	W-Tnd-43055	W-Tnd-247253
+Reference link to non-existing reference	1464	W-Tnd-43055	W-Tnd-247254
+Reference link to non-existing reference	1465	W-Tnd-43055	W-Tnd-247270
+Reference link to non-existing reference	1466	W-Tnd-43055	W-Tnd-247289
+Reference link to non-existing reference	1467	W-Tnd-43055	W-Tnd-247303
+Reference link to non-existing reference	1468	W-Tnd-43055	W-Tnd-247304
+Reference link to non-existing reference	1469	W-Tnd-43055	W-Tnd-247354
+Reference link to non-existing reference	1471	W-Tnd-43055	W-Tnd-247389
+Reference link to non-existing reference	1473	W-Tnd-43055	W-Tnd-247489
+Reference link to non-existing reference	1476	W-Tnd-43055	W-Tnd-247539
+Reference link to non-existing reference	1477	W-Tnd-43055	W-Tnd-247540
+Reference link to non-existing reference	1483	W-Tnd-43055	W-Tnd-247589
+Reference link to non-existing reference	1487	W-Tnd-43055	W-Tnd-247639
+Reference link to non-existing reference	1488	W-Tnd-43055	W-Tnd-247640
+Reference link to non-existing reference	1492	W-Tnd-43055	W-Tnd-247685
+Reference link to non-existing reference	1493	W-Tnd-43055	W-Tnd-247721
+Reference link to non-existing reference	1495	W-Tnd-43055	W-Tnd-247889
+Reference link to non-existing reference	1496	W-Tnd-43055	W-Tnd-247890
+Reference link to non-existing reference	1501	W-Tnd-43055	W-Tnd-449041
+Reference link to non-existing reference	1502	W-Tnd-43055	W-Tnd-449042
+Reference link to non-existing reference	1504	W-Tnd-43055	W-Tnd-449056
+Reference link to non-existing reference	1506	W-Tnd-43055	W-Tnd-449091
+Reference link to non-existing reference	1508	W-Tnd-43055	W-Tnd-478722
+Reference link to non-existing reference	1510	W-Tnd-43055	W-Tnd-478757
+Reference link to non-existing reference	1512	W-Tnd-43055	W-Tnd-478771
+Reference link to non-existing reference	1513	W-Tnd-43055	W-Tnd-558723
+Reference link to non-existing reference	1514	W-Tnd-43055	W-Tnd-571692
+Reference link to non-existing reference	1518	W-Tnd-43055	W-Tnd-606218
+Reference link to non-existing reference	1521	W-Tnd-43055	W-Tnd-709018
+Reference link to non-existing reference	1522	W-Tnd-43055	W-Tnd-719999
+Reference link to non-existing reference	1523	W-Tnd-43055	W-Tnd-720000
+Reference link to non-existing reference	1525	W-Tnd-43055	W-Tnd-729941
+Reference link to non-existing reference	1526	W-Tnd-43055	W-Tnd-729959
+Reference link to non-existing reference	1529	W-Tnd-43055	W-Tnd-737428
+Reference link to non-existing reference	1532	W-Tnd-43055	W-Tnd-738515
+Reference link to non-existing reference	1542	W-Tnd-43055	W-Tnd-819803
+Reference link to non-existing reference	1543	W-Tnd-43055	W-Tnd-819853
+Reference link to non-existing reference	1544	W-Tnd-43055	W-Tnd-819889
+Reference link to non-existing reference	1548	W-Tnd-43055	W-Tnd-819922
+Reference link to non-existing reference	1550	W-Tnd-43055	W-Tnd-820088
+Reference link to non-existing reference	1552	W-Tnd-43055	W-Tnd-820138
+Reference link to non-existing reference	1556	W-Tnd-43055	W-Tnd-820375
+Reference link to non-existing reference	1560	W-Tnd-43055	W-Tnd-821675
+Reference link to non-existing reference	1564	W-Tnd-43055	W-Tnd-821725
+Reference link to non-existing reference	1566	W-Tnd-43055	W-Tnd-826890
+Reference link to non-existing reference	1569	W-Tnd-43055	W-Tnd-827760
+Reference link to non-existing reference	1576	W-Tnd-43055	W-Tnd-136263
+Reference link to non-existing reference	1577	W-Tnd-43055	W-Tnd-136268
+Reference link to non-existing reference	1583	W-Tnd-43055	W-Tnd-136382
+Reference link to non-existing reference	1585	W-Tnd-43055	W-Tnd-136434
+Reference link to non-existing reference	1587	W-Tnd-43055	W-Tnd-136449
+Reference link to non-existing reference	1590	W-Tnd-43055	W-Tnd-136517
+Reference link to non-existing reference	1593	W-Tnd-43055	W-Tnd-183377
+Reference link to non-existing reference	1594	W-Tnd-43055	W-Tnd-220680
+Reference link to non-existing reference	1595	W-Tnd-43055	W-Tnd-242591
+Reference link to non-existing reference	1596	W-Tnd-43055	W-Tnd-244649
+Reference link to non-existing reference	1599	W-Tnd-43055	W-Tnd-247102
+Reference link to non-existing reference	1600	W-Tnd-43055	W-Tnd-247122
+Reference link to non-existing reference	1602	W-Tnd-43055	W-Tnd-247172
+Reference link to non-existing reference	1603	W-Tnd-43055	W-Tnd-247186
+Reference link to non-existing reference	1604	W-Tnd-43055	W-Tnd-247202
+Reference link to non-existing reference	1607	W-Tnd-43055	W-Tnd-247271
+Reference link to non-existing reference	1608	W-Tnd-43055	W-Tnd-247272
+Reference link to non-existing reference	1610	W-Tnd-43055	W-Tnd-247322
+Reference link to non-existing reference	1611	W-Tnd-43055	W-Tnd-247336
+Reference link to non-existing reference	1614	W-Tnd-43055	W-Tnd-247388
+Reference link to non-existing reference	1617	W-Tnd-43055	W-Tnd-247421
+Reference link to non-existing reference	1618	W-Tnd-43055	W-Tnd-247422
+Reference link to non-existing reference	1621	W-Tnd-43055	W-Tnd-247472
+Reference link to non-existing reference	1622	W-Tnd-43055	W-Tnd-247486
+Reference link to non-existing reference	1623	W-Tnd-43055	W-Tnd-247502
+Reference link to non-existing reference	1624	W-Tnd-43055	W-Tnd-247503
+Reference link to non-existing reference	1625	W-Tnd-43055	W-Tnd-247521
+Reference link to non-existing reference	1626	W-Tnd-43055	W-Tnd-247522
+Reference link to non-existing reference	1627	W-Tnd-43055	W-Tnd-247538
+Reference link to non-existing reference	1630	W-Tnd-43055	W-Tnd-247603
+Reference link to non-existing reference	1632	W-Tnd-43055	W-Tnd-247671
+Reference link to non-existing reference	1633	W-Tnd-43055	W-Tnd-247672
+Reference link to non-existing reference	1634	W-Tnd-43055	W-Tnd-247689
+Reference link to non-existing reference	1636	W-Tnd-43055	W-Tnd-247707
+Reference link to non-existing reference	1639	W-Tnd-43055	W-Tnd-247871
+Reference link to non-existing reference	1641	W-Tnd-43055	W-Tnd-449023
+Reference link to non-existing reference	1642	W-Tnd-43055	W-Tnd-449024
+Reference link to non-existing reference	1645	W-Tnd-43055	W-Tnd-449054
+Reference link to non-existing reference	1646	W-Tnd-43055	W-Tnd-449055
+Reference link to non-existing reference	1647	W-Tnd-43055	W-Tnd-449059
+Reference link to non-existing reference	1648	W-Tnd-43055	W-Tnd-449074
+Reference link to non-existing reference	1650	W-Tnd-43055	W-Tnd-449123
+Reference link to non-existing reference	1651	W-Tnd-43055	W-Tnd-449124
+Reference link to non-existing reference	1653	W-Tnd-43055	W-Tnd-478754
+Reference link to non-existing reference	1656	W-Tnd-43055	W-Tnd-571024
+Reference link to non-existing reference	1657	W-Tnd-43055	W-Tnd-577842
+Reference link to non-existing reference	1658	W-Tnd-43055	W-Tnd-577911
+Reference link to non-existing reference	1661	W-Tnd-43055	W-Tnd-719981
+Reference link to non-existing reference	1662	W-Tnd-43055	W-Tnd-719982
+Reference link to non-existing reference	1665	W-Tnd-43055	W-Tnd-720017
+Reference link to non-existing reference	1668	W-Tnd-43055	W-Tnd-731764
+Reference link to non-existing reference	1669	W-Tnd-43055	W-Tnd-732650
+Reference link to non-existing reference	1670	W-Tnd-43055	W-Tnd-734322
+Reference link to non-existing reference	1672	W-Tnd-43055	W-Tnd-738501
+Reference link to non-existing reference	1676	W-Tnd-43055	W-Tnd-798734
+Reference link to non-existing reference	1677	W-Tnd-43055	W-Tnd-798747
+Reference link to non-existing reference	1678	W-Tnd-43055	W-Tnd-798748
+Reference link to non-existing reference	1684	W-Tnd-43055	W-Tnd-819220
+Reference link to non-existing reference	1685	W-Tnd-43055	W-Tnd-819221
+Reference link to non-existing reference	1687	W-Tnd-43055	W-Tnd-819253
+Reference link to non-existing reference	1688	W-Tnd-43055	W-Tnd-819304
+Reference link to non-existing reference	1689	W-Tnd-43055	W-Tnd-819321
+Reference link to non-existing reference	1692	W-Tnd-43055	W-Tnd-819620
+Reference link to non-existing reference	1693	W-Tnd-43055	W-Tnd-819621
+Reference link to non-existing reference	1695	W-Tnd-43055	W-Tnd-819639
+Reference link to non-existing reference	1696	W-Tnd-43055	W-Tnd-819640
+Reference link to non-existing reference	1698	W-Tnd-43055	W-Tnd-819807
+Reference link to non-existing reference	1699	W-Tnd-43055	W-Tnd-819856
+Reference link to non-existing reference	1700	W-Tnd-43055	W-Tnd-819925
+Reference link to non-existing reference	1705	W-Tnd-43055	W-Tnd-820256
+Reference link to non-existing reference	1706	W-Tnd-43055	W-Tnd-820257
+Reference link to non-existing reference	1709	W-Tnd-43055	W-Tnd-820575
+Reference link to non-existing reference	1712	W-Tnd-43055	W-Tnd-821642
+Reference link to non-existing reference	1714	W-Tnd-43055	W-Tnd-821692
+Reference link to non-existing reference	1733	W-Tnd-43055	W-Tnd-136271
+Reference link to non-existing reference	1744	W-Tnd-43055	W-Tnd-244631
+Reference link to non-existing reference	1745	W-Tnd-43055	W-Tnd-244634
+Reference link to non-existing reference	1747	W-Tnd-43055	W-Tnd-247106
+Reference link to non-existing reference	1755	W-Tnd-43055	W-Tnd-247235
+Reference link to non-existing reference	1757	W-Tnd-43055	W-Tnd-247242
+Reference link to non-existing reference	1761	W-Tnd-43055	W-Tnd-247335
+Reference link to non-existing reference	1762	W-Tnd-43055	W-Tnd-247339
+Reference link to non-existing reference	1765	W-Tnd-43055	W-Tnd-247399
+Reference link to non-existing reference	1768	W-Tnd-43055	W-Tnd-247435
+Reference link to non-existing reference	1769	W-Tnd-43055	W-Tnd-247442
+Reference link to non-existing reference	1772	W-Tnd-43055	W-Tnd-247508
+Reference link to non-existing reference	1774	W-Tnd-43055	W-Tnd-247566
+Reference link to non-existing reference	1777	W-Tnd-43055	W-Tnd-247601
+Reference link to non-existing reference	1778	W-Tnd-43055	W-Tnd-247608
+Reference link to non-existing reference	1779	W-Tnd-43055	W-Tnd-247644
+Reference link to non-existing reference	1781	W-Tnd-43055	W-Tnd-247678
+Reference link to non-existing reference	1785	W-Tnd-43055	W-Tnd-247742
+Reference link to non-existing reference	1786	W-Tnd-43055	W-Tnd-388228
+Reference link to non-existing reference	1788	W-Tnd-43055	W-Tnd-449025
+Reference link to non-existing reference	1789	W-Tnd-43055	W-Tnd-449027
+Reference link to non-existing reference	1790	W-Tnd-43055	W-Tnd-449051
+Reference link to non-existing reference	1792	W-Tnd-43055	W-Tnd-449118
+Reference link to non-existing reference	1794	W-Tnd-43055	W-Tnd-478710
+Reference link to non-existing reference	1798	W-Tnd-43055	W-Tnd-478774
+Reference link to non-existing reference	1799	W-Tnd-43055	W-Tnd-478776
+Reference link to non-existing reference	1800	W-Tnd-43055	W-Tnd-571687
+Reference link to non-existing reference	1801	W-Tnd-43055	W-Tnd-571689
+Reference link to non-existing reference	1802	W-Tnd-43055	W-Tnd-606219
+Reference link to non-existing reference	1803	W-Tnd-43055	W-Tnd-606483
+Reference link to non-existing reference	1804	W-Tnd-43055	W-Tnd-606492
+Reference link to non-existing reference	1805	W-Tnd-43055	W-Tnd-719997
+Reference link to non-existing reference	1806	W-Tnd-43055	W-Tnd-720002
+Reference link to non-existing reference	1809	W-Tnd-43055	W-Tnd-729957
+Reference link to non-existing reference	1811	W-Tnd-43055	W-Tnd-729964
+Reference link to non-existing reference	1813	W-Tnd-43055	W-Tnd-731763
+Reference link to non-existing reference	1815	W-Tnd-43055	W-Tnd-734335
+Reference link to non-existing reference	1816	W-Tnd-43055	W-Tnd-737440
+Reference link to non-existing reference	1817	W-Tnd-43055	W-Tnd-746210
+Reference link to non-existing reference	1819	W-Tnd-43055	W-Tnd-766396
+Reference link to non-existing reference	1821	W-Tnd-43055	W-Tnd-798754
+Reference link to non-existing reference	1823	W-Tnd-43055	W-Tnd-818864
+Reference link to non-existing reference	1824	W-Tnd-43055	W-Tnd-819041
+Reference link to non-existing reference	1825	W-Tnd-43055	W-Tnd-819643
+Reference link to non-existing reference	1826	W-Tnd-43055	W-Tnd-819877
+Reference link to non-existing reference	1830	W-Tnd-43055	W-Tnd-819936
+Reference link to non-existing reference	1831	W-Tnd-43055	W-Tnd-819941
+Reference link to non-existing reference	1832	W-Tnd-43055	W-Tnd-820177
+Reference link to non-existing reference	1837	W-Tnd-43055	W-Tnd-820536
+Reference link to non-existing reference	1842	W-Tnd-43055	W-Tnd-827431
+Reference link to non-existing reference	1860	W-Tnd-43055	W-Tnd-136466
+Reference link to non-existing reference	1861	W-Tnd-43055	W-Tnd-136484
+Reference link to non-existing reference	1865	W-Tnd-43055	W-Tnd-136582
+Reference link to non-existing reference	1866	W-Tnd-43055	W-Tnd-156371
+Reference link to non-existing reference	1869	W-Tnd-43055	W-Tnd-244580
+Reference link to non-existing reference	1871	W-Tnd-43055	W-Tnd-244610
+Reference link to non-existing reference	1872	W-Tnd-43055	W-Tnd-244611
+Reference link to non-existing reference	1874	W-Tnd-43055	W-Tnd-244628
+Reference link to non-existing reference	1879	W-Tnd-43055	W-Tnd-247120
+Reference link to non-existing reference	1881	W-Tnd-43055	W-Tnd-247170
+Reference link to non-existing reference	1884	W-Tnd-43055	W-Tnd-247238
+Reference link to non-existing reference	1886	W-Tnd-43055	W-Tnd-247255
+Reference link to non-existing reference	1888	W-Tnd-43055	W-Tnd-247269
+Reference link to non-existing reference	1892	W-Tnd-43055	W-Tnd-247456
+Reference link to non-existing reference	1894	W-Tnd-43055	W-Tnd-247473
+Reference link to non-existing reference	1896	W-Tnd-43055	W-Tnd-247520
+Reference link to non-existing reference	1897	W-Tnd-43055	W-Tnd-247523
+Reference link to non-existing reference	1905	W-Tnd-43055	W-Tnd-247673
+Reference link to non-existing reference	1906	W-Tnd-43055	W-Tnd-247686
+Reference link to non-existing reference	1907	W-Tnd-43055	W-Tnd-247687
+Reference link to non-existing reference	1909	W-Tnd-43055	W-Tnd-247706
+Reference link to non-existing reference	1911	W-Tnd-43055	W-Tnd-414647
+Reference link to non-existing reference	1914	W-Tnd-43055	W-Tnd-449021
+Reference link to non-existing reference	1916	W-Tnd-43055	W-Tnd-449075
+Reference link to non-existing reference	1917	W-Tnd-43055	W-Tnd-449089
+Reference link to non-existing reference	1920	W-Tnd-43055	W-Tnd-571676
+Reference link to non-existing reference	1928	W-Tnd-43055	W-Tnd-242565
+Reference link to non-existing reference	1930	W-Tnd-43055	W-Tnd-244588
+Reference link to non-existing reference	1933	W-Tnd-43055	W-Tnd-247045
+Reference link to non-existing reference	1934	W-Tnd-43055	W-Tnd-247078
+Reference link to non-existing reference	1936	W-Tnd-43055	W-Tnd-247129
+Reference link to non-existing reference	1938	W-Tnd-43055	W-Tnd-247144
+Reference link to non-existing reference	1939	W-Tnd-43055	W-Tnd-247163
+Reference link to non-existing reference	1940	W-Tnd-43055	W-Tnd-247180
+Reference link to non-existing reference	1941	W-Tnd-43055	W-Tnd-247229
+Reference link to non-existing reference	1942	W-Tnd-43055	W-Tnd-247263
+Reference link to non-existing reference	1944	W-Tnd-43055	W-Tnd-247360
+Reference link to non-existing reference	1948	W-Tnd-43055	W-Tnd-247429
+Reference link to non-existing reference	1949	W-Tnd-43055	W-Tnd-247465
+Reference link to non-existing reference	1950	W-Tnd-43055	W-Tnd-247496
+Reference link to non-existing reference	1951	W-Tnd-43055	W-Tnd-247530
+Reference link to non-existing reference	1955	W-Tnd-43055	W-Tnd-247699
+Reference link to non-existing reference	1956	W-Tnd-43055	W-Tnd-247729
+Reference link to non-existing reference	1958	W-Tnd-43055	W-Tnd-247865
+Reference link to non-existing reference	1968	W-Tnd-43055	W-Tnd-577858
+Reference link to non-existing reference	1972	W-Tnd-43055	W-Tnd-719998
+Reference link to non-existing reference	1975	W-Tnd-43055	W-Tnd-732652
+Reference link to non-existing reference	1976	W-Tnd-43055	W-Tnd-734324
+Reference link to non-existing reference	1981	W-Tnd-43055	W-Tnd-739803
+Reference link to non-existing reference	1984	W-Tnd-43055	W-Tnd-762899
+Reference link to non-existing reference	1988	W-Tnd-43055	W-Tnd-819068
+Reference link to non-existing reference	1990	W-Tnd-43055	W-Tnd-819254
+Reference link to non-existing reference	1993	W-Tnd-43055	W-Tnd-819854
+Reference link to non-existing reference	1997	W-Tnd-43055	W-Tnd-820859
+Reference link to non-existing reference	1998	W-Tnd-43055	W-Tnd-820940
+Reference link to non-existing reference	2002	W-Tnd-43055	W-Tnd-821727
+Reference link to non-existing reference	2004	W-Tnd-43055	W-Tnd-827010
+Reference link to non-existing reference	2007	W-Tnd-43055	W-Tnd-829014
+Reference link to non-existing reference	2008	W-Tnd-43055	W-Tnd-829030
+Reference link to non-existing reference	2018	W-Tnd-43055	W-Tnd-181517
+Reference link to non-existing reference	2020	W-Tnd-43055	W-Tnd-244569
+Reference link to non-existing reference	2021	W-Tnd-43055	W-Tnd-244594
+Reference link to non-existing reference	2022	W-Tnd-43055	W-Tnd-244650
+Reference link to non-existing reference	2023	W-Tnd-43055	W-Tnd-244658
+Reference link to non-existing reference	2026	W-Tnd-43055	W-Tnd-247216
+Reference link to non-existing reference	2030	W-Tnd-43055	W-Tnd-247309
+Reference link to non-existing reference	2032	W-Tnd-43055	W-Tnd-247352
+Reference link to non-existing reference	2035	W-Tnd-43055	W-Tnd-247402
+Reference link to non-existing reference	2037	W-Tnd-43055	W-Tnd-247466
+Reference link to non-existing reference	2038	W-Tnd-43055	W-Tnd-247497
+Reference link to non-existing reference	2039	W-Tnd-43055	W-Tnd-247501
+Reference link to non-existing reference	2040	W-Tnd-43055	W-Tnd-247509
+Reference link to non-existing reference	2041	W-Tnd-43055	W-Tnd-247515
+Reference link to non-existing reference	2043	W-Tnd-43055	W-Tnd-247666
+Reference link to non-existing reference	2044	W-Tnd-43055	W-Tnd-247734
+Reference link to non-existing reference	2046	W-Tnd-43055	W-Tnd-387631
+Reference link to non-existing reference	2049	W-Tnd-43055	W-Tnd-449036
+Reference link to non-existing reference	2050	W-Tnd-43055	W-Tnd-449043
+Reference link to non-existing reference	2051	W-Tnd-43055	W-Tnd-449053
+Reference link to non-existing reference	2056	W-Tnd-43055	W-Tnd-606513
+Reference link to non-existing reference	2057	W-Tnd-43055	W-Tnd-607931
+Reference link to non-existing reference	2059	W-Tnd-43055	W-Tnd-720025
+Reference link to non-existing reference	2061	W-Tnd-43055	W-Tnd-720607
+Reference link to non-existing reference	2063	W-Tnd-43055	W-Tnd-731757
+Reference link to non-existing reference	2064	W-Tnd-43055	W-Tnd-732644
+Reference link to non-existing reference	2069	W-Tnd-43055	W-Tnd-740345
+Reference link to non-existing reference	2070	W-Tnd-43055	W-Tnd-798739
+Reference link to non-existing reference	2072	W-Tnd-43055	W-Tnd-819043
+Reference link to non-existing reference	2073	W-Tnd-43055	W-Tnd-819046
+Reference link to non-existing reference	2074	W-Tnd-43055	W-Tnd-819143
+Reference link to non-existing reference	2079	W-Tnd-43055	W-Tnd-819964
+Reference link to non-existing reference	2080	W-Tnd-43055	W-Tnd-820113
+Reference link to non-existing reference	2084	W-Tnd-43055	W-Tnd-820985
+Reference link to non-existing reference	2086	W-Tnd-43055	W-Tnd-821700
+Reference link to non-existing reference	2088	W-Tnd-43055	W-Tnd-821736
+Reference link to non-existing reference	2089	W-Tnd-43055	W-Tnd-826565
+Reference link to non-existing reference	2091	W-Tnd-43055	W-Tnd-827031
+Reference link to non-existing reference	2092	W-Tnd-43055	W-Tnd-827701
+Reference link to non-existing reference	2100	W-Tnd-43055	W-Tnd-136339
+Reference link to non-existing reference	2105	W-Tnd-43055	W-Tnd-242582
+Reference link to non-existing reference	2106	W-Tnd-43055	W-Tnd-247062
+Reference link to non-existing reference	2109	W-Tnd-43055	W-Tnd-247195
+Reference link to non-existing reference	2110	W-Tnd-43055	W-Tnd-247197
+Reference link to non-existing reference	2111	W-Tnd-43055	W-Tnd-247231
+Reference link to non-existing reference	2112	W-Tnd-43055	W-Tnd-247261
+Reference link to non-existing reference	2114	W-Tnd-43055	W-Tnd-247295
+Reference link to non-existing reference	2116	W-Tnd-43055	W-Tnd-247312
+Reference link to non-existing reference	2117	W-Tnd-43055	W-Tnd-247326
+Reference link to non-existing reference	2119	W-Tnd-43055	W-Tnd-247397
+Reference link to non-existing reference	2120	W-Tnd-43055	W-Tnd-247412
+Reference link to non-existing reference	2123	W-Tnd-43055	W-Tnd-247646
+Reference link to non-existing reference	2125	W-Tnd-43055	W-Tnd-247679
+Reference link to non-existing reference	2126	W-Tnd-43055	W-Tnd-247682
+Reference link to non-existing reference	2127	W-Tnd-43055	W-Tnd-247748
+Reference link to non-existing reference	2129	W-Tnd-43055	W-Tnd-247882
+Reference link to non-existing reference	2131	W-Tnd-43055	W-Tnd-387632
+Reference link to non-existing reference	2133	W-Tnd-43055	W-Tnd-449100
+Reference link to non-existing reference	2134	W-Tnd-43055	W-Tnd-449116
+Reference link to non-existing reference	2136	W-Tnd-43055	W-Tnd-606493
+Reference link to non-existing reference	2137	W-Tnd-43055	W-Tnd-606518
+Reference link to non-existing reference	2141	W-Tnd-43055	W-Tnd-766397
+Reference link to non-existing reference	2142	W-Tnd-43055	W-Tnd-798735
+Reference link to non-existing reference	2143	W-Tnd-43055	W-Tnd-818865
+Reference link to non-existing reference	2144	W-Tnd-43055	W-Tnd-819040
+Reference link to non-existing reference	2146	W-Tnd-43055	W-Tnd-819619
+Reference link to non-existing reference	2151	W-Tnd-43055	W-Tnd-820537
+Reference link to non-existing reference	2152	W-Tnd-43055	W-Tnd-820937
+Reference link to non-existing reference	2155	W-Tnd-43055	W-Tnd-821716
+Reference link to non-existing reference	2156	W-Tnd-43055	W-Tnd-829243
+Reference link to non-existing reference	2165	W-Tnd-43055	W-Tnd-478729
+Reference link to non-existing reference	2167	W-Tnd-43055	W-Tnd-478763
+Reference link to non-existing reference	2168	W-Tnd-43055	W-Tnd-478765
+Reference link to non-existing reference	2170	W-Tnd-43055	W-Tnd-571683
+Reference link to non-existing reference	2172	W-Tnd-43055	W-Tnd-577716
+Reference link to non-existing reference	2173	W-Tnd-43055	W-Tnd-606496
+Reference link to non-existing reference	2175	W-Tnd-43055	W-Tnd-740480
+Reference link to non-existing reference	2177	W-Tnd-43055	W-Tnd-819044
+Reference link to non-existing reference	2179	W-Tnd-43055	W-Tnd-819947
+Reference link to non-existing reference	2182	W-Tnd-43055	W-Tnd-820799
+Reference link to non-existing reference	2186	W-Tnd-43055	W-Tnd-821717
+Reference link to non-existing reference	2187	W-Tnd-43055	W-Tnd-821719
+Reference link to non-existing reference	2188	W-Tnd-43055	W-Tnd-826918
+Reference link to non-existing reference	2196	W-Tnd-43055	W-Tnd-247264
+Reference link to non-existing reference	2199	W-Tnd-43055	W-Tnd-247528
+Reference link to non-existing reference	2201	W-Tnd-43055	W-Tnd-247610
+Reference link to non-existing reference	2202	W-Tnd-43055	W-Tnd-247613
+Reference link to non-existing reference	2203	W-Tnd-43055	W-Tnd-247630
+Reference link to non-existing reference	2205	W-Tnd-43055	W-Tnd-478713
+Reference link to non-existing reference	2206	W-Tnd-43055	W-Tnd-478730
+Reference link to non-existing reference	2207	W-Tnd-43055	W-Tnd-577918
+Reference link to non-existing reference	2208	W-Tnd-43055	W-Tnd-720611
+Reference link to non-existing reference	2209	W-Tnd-43055	W-Tnd-737439
+Reference link to non-existing reference	2210	W-Tnd-43055	W-Tnd-740263
+Reference link to non-existing reference	2211	W-Tnd-43055	W-Tnd-818859
+Reference link to non-existing reference	2212	W-Tnd-43055	W-Tnd-819063
+Reference link to non-existing reference	2214	W-Tnd-43055	W-Tnd-819612
+Reference link to non-existing reference	2217	W-Tnd-43055	W-Tnd-819863
+Reference link to non-existing reference	2218	W-Tnd-43055	W-Tnd-820097
+Reference link to non-existing reference	2223	W-Tnd-43055	W-Tnd-827385
+Reference link to non-existing reference	2230	W-Tnd-43055	W-Tnd-156197
+Reference link to non-existing reference	2231	W-Tnd-43055	W-Tnd-244609
+Reference link to non-existing reference	2232	W-Tnd-43055	W-Tnd-244616
+Reference link to non-existing reference	2234	W-Tnd-43055	W-Tnd-247493
+Reference link to non-existing reference	2235	W-Tnd-43055	W-Tnd-247700
+Reference link to non-existing reference	2239	W-Tnd-43055	W-Tnd-449045
+Reference link to non-existing reference	2240	W-Tnd-43055	W-Tnd-478725
+Reference link to non-existing reference	2241	W-Tnd-43055	W-Tnd-478761
+Reference link to non-existing reference	2242	W-Tnd-43055	W-Tnd-571674
+Reference link to non-existing reference	2243	W-Tnd-43055	W-Tnd-734317
+Reference link to non-existing reference	2244	W-Tnd-43055	W-Tnd-740309
+Reference link to non-existing reference	2247	W-Tnd-43055	W-Tnd-820864
+Reference link to non-existing reference	2255	W-Tnd-43055	W-Tnd-157839
+Reference link to non-existing reference	2259	W-Tnd-43055	W-Tnd-478728
+Reference link to non-existing reference	2260	W-Tnd-43055	W-Tnd-720613
+Reference link to non-existing reference	2262	W-Tnd-43055	W-Tnd-820861
+Reference link to non-existing reference	2263	W-Tnd-43055	W-Tnd-821733
+--------------
+SELECT 'Specialist not present in scientific names table', t1.record_id,
+	t1.specialist_name, t1.specialist_code
+FROM specialists AS t1
+LEFT JOIN scientific_names AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL
+--------------
+
+--------------
+SELECT 'Reference without parent accepted or common name', t1.record_id, t1.author, t1.year,
+	t1.title, t1.reference_code
+FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
+--------------
+
+Reference without parent accepted or common name	record_id	author	year	title	reference_code
+Reference without parent accepted or common name	1	Howson, C. M.; Picton, B. E.	1997	The species directory of the marine fauna and flora of the British Isles and surrounding seas	W-Tnd-663
+Reference without parent accepted or common name	4	Chilton, C.	1885	Notes on a few Australian Edriophthalmata	W-Tnd-5280
+Reference without parent accepted or common name	5	Thomson, G.M.	1880	New species of Crustacea from New Zealand	W-Tnd-5778
+Reference without parent accepted or common name	8	White, A.	1847	List of the specimens of Crustacea in the collection of the British Museum	W-Tnd-9499
+Reference without parent accepted or common name	9	Amar, R., & Cazaubon, A.	1978	Une nouvelle espece de Synapseudes Crustacea, Tanaidacea des cotes Mediterranneennes	W-Tnd-10205
+Reference without parent accepted or common name	10	Audouin, V.	1826	Explication sommaire des planches de crustaces de l'Egypte  et de la Syrie, publiées par Jules-Cesar Savigny, membre de l'Inst.; offrant un exposé  des caractères naturels des genres avec la disctinction des espèces. Description de l'Egypte	W-Tnd-10376
+Reference without parent accepted or common name	16	Bacescu, M.	1980	Anuropoda francispori, genre nouveau et espéce nouvelle de Monokonophora (Crustacea,Tanidacea) des eaux de la Méditerranée levantine	W-Tnd-10389
+Reference without parent accepted or common name	27	Bonnier, J.	1896	Édriophthalmes. In: Koehler, R., Résultats scientifiques de la campagne du "Caudan" dans le Golfe de Gascogne. Edriophthalmes	W-Tnd-10695
+Reference without parent accepted or common name	36	Day, J.H., Field, J.G., & Penrith, M.J.	1970	The benthic fauna and fishes of False Bay, South Africa	W-Tnd-11948
+Reference without parent accepted or common name	37	Desmarest, A.G.	1823	Malacostracés	W-Tnd-12057
+Reference without parent accepted or common name	39	Stephensen, K.	1915	Isopoda, Tanaidacea, Cumacea, Amphipoda (excl. Hyperiidea)	W-Tnd-14273
+Reference without parent accepted or common name	40	Stephensen, K.	1927	Papers from Dr. Th. Mortensen’s Pacific expedition 1914-16. XL. Crustacea from the Auckland and Campbell Islands	W-Tnd-14285
+Reference without parent accepted or common name	41	Stebbing, T.R.R.	1918	Some Crustacea of Natal	W-Tnd-14371
+Reference without parent accepted or common name	43	Larsen, K., & Wilson, G.D.F.	1998	Tanaidomorphan systematics- is it obsolete?	W-Tnd-17056
+Reference without parent accepted or common name	45	Roman, M.-L.	1976	Une nouvelle espèces de Tanaidacea de Madagascar: Acanthapseudes elegans n.g., n.sp. (Crustacea, Tanaidacea)	W-Tnd-17171
+Reference without parent accepted or common name	47	Stebbing, T.R.R.	1904	Gregarious Crustacea from Ceylon	W-Tnd-18494
+Reference without parent accepted or common name	49	Sieg, J.	1980	Revision der Gattung Nototanais Richardson, (Crustacea, Tanaidacea)	W-Tnd-18868
+Reference without parent accepted or common name	50	Walker, A.O.	1898	On some new species of Edriophthalma from the Irish Seas	W-Tnd-19012
+Reference without parent accepted or common name	53	Vanhöffen, E.	1907	Crustaceen aus dem kleinen Karajakfjord in West-Grönland	W-Tnd-19350
+Reference without parent accepted or common name	54	Monod, T.	1935	Crustacés. Pages 449-466, In: Monod, T., F. Angel, L. Germain, & G. Petit, Contribution a l´Étude Faunistique de la Réserve Naturelle de Manampetsa (Madagascar)	W-Tnd-19467
+Reference without parent accepted or common name	55	Sars, M.	1858	Oversigt over de i den norsk-arctiske Region forekommende Krebsdyr	W-Tnd-19932
+Reference without parent accepted or common name	59	Guerrero-Kommritz, J., & Blazewicz-Paszkowycz, M.	2004	New species of Tanaella Norman and Stebbing,1886 (Crustacea: Tanaidacea: Tanaellidae) from the deep-sea  off the Antarctic and Angola Basin, with a key to the genus	W-Tnd-20451
+Reference without parent accepted or common name	61	Blazewicz-Paszkowycz, M.	2004	A description of a new species of Typhlotanais (Crustacea: Tanaidacea) from West Antarctic with a note on the genus	W-Tnd-20458
+Reference without parent accepted or common name	64	Heer, O.	1865	Die Urwelt der Schweiz [Primordial Switzerland]	W-Tnd-21939
+Reference without parent accepted or common name	66	Sieg, J.	1986	Distribution of the Tanaidacea: Synopsis of the known data and suggestions on possible distribution patterns	W-Tnd-22635
+Reference without parent accepted or common name	67	Hodgson, T.V.	1902	Crustacea	W-Tnd-22901
+Reference without parent accepted or common name	71	Pfeffer, G.	1889	Zur Fauna von Süd-Georgien	W-Tnd-42732
+Reference without parent accepted or common name	76	Barnard, K. H.	1914	Contributions to the crustacean fauna of South Africa. 1.- Additions to the marine Isopoda	W-Tnd-45230
+Reference without parent accepted or common name	80	Beddard, F.E.	1886	Report on the Isopoda collected by H.M.S. Challenger during the years 1873-1876. Part 2	W-Tnd-45266
+Reference without parent accepted or common name	81	Boone, P.L.	1923	New marine tanaid and isopod Crustacea from California	W-Tnd-45314
+Reference without parent accepted or common name	86	Giambiagi, D.	1922	Cuatro nuevos isopodos de la Argentina	W-Tnd-45752
+Reference without parent accepted or common name	89	Haswell, W.A.	1881	On some new Australian marine Isopoda- Part II	W-Tnd-45838
+Reference without parent accepted or common name	93	Stebbing, T.R.R.	1905	Report on the Isopoda collected by Professor Herdman, at Ceylon, in 1902	W-Tnd-46188
+Reference without parent accepted or common name	94	Stebbing, T.R.R.	1910	No. VI.- Isopoda from the Indian Ocean and British East Africa. The Percy Sladen Trust Expedition to the Indian Ocean in 1905	W-Tnd-46192
+Reference without parent accepted or common name	99	Monod, T.	1933	Tanaidacea et Isopoda. Mission Robert- Ph. Dollfus en Égypte	W-Tnd-46597
+Reference without parent accepted or common name	103	Nordenstam, A.	1930	Tanaidacea and Marine Isopoda from Juan Fernandez	W-Tnd-46715
+Reference without parent accepted or common name	104	Norman, A.M.	1906	A new Heterotanais and a new Eurydice, genera of Isopoda	W-Tnd-46723
+Reference without parent accepted or common name	105	Pillai, N.K.	1954	A preliminary note on the Tanaidacea and Isopoda of Travancore	W-Tnd-46791
+Reference without parent accepted or common name	107	Richardson, H.	1905	A monograph on the isopods of North America	W-Tnd-46903
+Reference without parent accepted or common name	110	Richardson, H.	1911	Les Crustaces isopodes du Travailleur et du Talisman; formes nouvelles	W-Tnd-46918
+Reference without parent accepted or common name	112	Sars, G.O	1866	II. Beretning om en i Sommeren 1865 foretagen zoologisk Reise ved Kysterne af Christianias og Christiansands Stifter	W-Tnd-46943
+Reference without parent accepted or common name	115	Menzel, R.W.	1971	Checklist of the fauna and flora of Apalachee Bay and St. George's Sound area	W-Tnd-54812
+Reference without parent accepted or common name	118	Bamber, R.N., & Boxshall, G.A.	2006	A new genus and species of the Langitanainae (Crustacea: Peracarida: Tanaidae) bearing a new genus and species of nicothoid parasite (Crustacea: Copepoda: Siphonostomatoida: Nicothoidae) from the New Caledonia slope	W-Tnd-75990
+Reference without parent accepted or common name	121	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.	W-Tnd-127204
+Reference without parent accepted or common name	127	Nunomura, N.	2005	A new species of the genus Apseudes (Tanaidacea: Apseudidae) Okinawa, southern Japan	W-Tnd-129106
+Reference without parent accepted or common name	128	Bamber, R.N.	2003	A new species of Hemikalliapseudes (Crustacea: Peracarida: Tanaidacea) from the continental slope off Angola	W-Tnd-130553
+Reference without parent accepted or common name	138	Dollfus, A.	1897	Note préliminaire sur les Tanaidae recueillis aux Açores pendant les Campagnes de l´Hirondelle (1887-1888).  Bulletin du Société Zoologiqùe France 22: 207-215.   	W-Tnd-132862
+Reference without parent accepted or common name	141	Studer, T.	1884	Isopoden, gesammelt während der Reise S.M.S Gazelle um die Erde, 1874-76	W-Tnd-132868
+Reference without parent accepted or common name	143	Blazewicz-Paszkowycz, M., & Zemko, K.	2009	A new species of Metatanais Shiino, 1952 (Crustacea, Tanaidacea, Paratanaoidea) from Australian coral reefs, with a redefinition of the genus. In: Bruce N (Ed) Advances in the taxonomy and biogeography of Crustacea in the Southern Hemisphere	W-Tnd-133582
+Reference without parent accepted or common name	152	Guerrero-Kommritz, J., & Blazewicz-Paszkowycz, M.	2004	Magotanais, a new genus of Tanaidacea (Tanaidomorpha, Crustacea) from the Weddell Sea, Antarctica	W-Tnd-138947
+Reference without parent accepted or common name	157	Stebbing, T.R.R.	1891	Sessile-eyed Crustacea	W-Tnd-138961
+Reference without parent accepted or common name	163	Lang, K.	1967	Taxonomische und phylogenetische Untersuchungen über die Tanaidaceen. 3. Der Umfang der Familien Tanaidae Sars, Lang und Paratanaidae Lang nebst Bermerkungen über den taxonomischen Wert der Mandibeln und Maxillulae. Dazu eine taxonomisch-monographische Da	W-Tnd-139302
+Reference without parent accepted or common name	167	Sieg, J., & Dojiri, M.	1989	Remarks on Araphura Bird & Holdich (Crustacea, Tanaidacea) and allied genera, including descriptions of three new species	W-Tnd-140211
+Reference without parent accepted or common name	174	Stebbing, T.R.R.	1919	Crustacea from the Falkland Islands, collected by Mr. Rupert Vallentin, F.L.S.	W-Tnd-140243
+Reference without parent accepted or common name	182	Kudinova-Pasternak, R.K.	1972	New species of the genus Neotanais magnificus n. sp. from the Antarctic	W-Tnd-140256
+Reference without parent accepted or common name	188	Bamber, R.N.	2008	A new species of Apseudes (Tanaidacea: Apseudomorpha: Apseudidae) from Hong Kong, with observations on Gollumudes mortoni (Bamber, 2001)	W-Tnd-141152
+Reference without parent accepted or common name	190	Bamber, R.N.	2008	A new species of the freshwater tanaidacean genus Pseudohalmyrapseudes (Crustacea: Tanaidacea: Parapseudidae) from Sulawesi	W-Tnd-141154
+Reference without parent accepted or common name	195	Bird, G.J., & Larsen, K.	2009	Tanaidacean phylogeny – the second step: the basal paratanaoidean families (Crustacea: Malacostraca)	W-Tnd-141160
+Reference without parent accepted or common name	198	Blazewicz-Paszkowycz, M., & Bamber, R.N.	2009	A new genus of a new Austral family of paratanaoid tanaidacean (Crustacea: Peracarida: Tanaidacea), with two new species	W-Tnd-141163
+Reference without parent accepted or common name	199	Drumm, D.T.	2007	Two new species of Tanaidacea of the genus Kalliapseudes Stebbing, 1910 (Crustacea: Apseudomorpha: Kalliapseudidae) from Australia	W-Tnd-141164
+Reference without parent accepted or common name	206	Gutu, M.; Iliffe, T. M.	2008	A new species and the first description of the male belonging to the genus Swireapseudes Bamber, from the submarine caves of the Eleuthera Island (Crustacea: Tanaidacea: Apseudomorpha)	W-Tnd-141172
+Reference without parent accepted or common name	207	Jóźwiak, P.; Blaźewicz-Paszkowycz, M.	2007	ew records of two rare genera, Monstrotanais Kudinova-Pasternak, 1981 and Robustochelia Kudinova-Pasternak, 1983 (Tanaidacea: Crustacea)	W-Tnd-141173
+Reference without parent accepted or common name	211	Larsen, K., & Shimomura, M.	2008	Tanaidacea (Crustacea: Peracarida) from Japan. IV. Shallow-water species from Akajima with notes on the recolonization potential of tanaids	W-Tnd-141178
+Reference without parent accepted or common name	214	Ritger, R.K., & Heard, R.W.	2007	Julmarichardia gutui, a new species of Apseudomorph Tanaidacean (Crustacea: Malacostraca: Peracarida) from the Australian northwest continental shelf	W-Tnd-141182
+Reference without parent accepted or common name	218	Weigmann, S., & Guerrero-Kommritz, J.	2009	New species of Neotanais Beddard, 1886 (Crustacea, Tanaidacea) from the deep sea of the tropical and southern East Atlantic Ocean	W-Tnd-141188
+Reference without parent accepted or common name	228	Józwiak, P., & Blazewicz-Paszkowycz, M.	2011	New records of the family Agathotanaidae (Crustacea: Tanaidacea) in the Antarctic, with remarks on Arthrura monacantha (Vanhöffen, 1914)	W-Tnd-151133
+Reference without parent accepted or common name	229	Larsen, K.	2012	A new family, genus and species of apseudomorphan Tanaidacea (Crustacea: Peracarida) from the Caribbean Sea	W-Tnd-151138
+Reference without parent accepted or common name	231	Drumm, D.T., & Morales-Núñez, A.G.	2010	A new species of Mesokalliapseudes Lang, 1956 (Crustacea: Tanaidacea: Kalliapseudidae) from Puerto Rico, with remarks on the genus	W-Tnd-151480
+Reference without parent accepted or common name	234	Bird, G.J.	2010	Tanaidacea (Crustacea, Peracarida) of the North-east Atlantic: the Agathotanaidae of the AFEN, BIOFAR and BIOICE projects, with a description of a new species of Paragathotanais Lang	W-Tnd-151483
+Reference without parent accepted or common name	237	Bamber, R.N., & Chatterjee, T.	2010	The new and the old: littoral tanaidomorph Tanaidacea (Crustacea: Peracarida) from the Andaman Islands, Indian Ocean	W-Tnd-151486
+Reference without parent accepted or common name	238	Zenetos, A.; Gofas, S.; Verlaque, M.; Cinar, M.; Garcia Raso, J.; Bianchi, C.; Morri, C.; Azzurro, E.; Bilecenoglu, M.; Froglia, C.; Siokou, I.; Violanti, D.; Sfriso, A.; San Martin, G.; Giangrande, A	2010	Alien species in the Mediterranean Sea by 2010. A contribution to the application of European Union’s Marine Strategy Framework Directive (MSFD). Part I. Spatial distribution	W-Tnd-155063
+Reference without parent accepted or common name	240	Bacescu, M.; Carausu, A.	1947	Apseudopsis ostroumovi n.sp. dans la Mer Noire (morphologie, affinités phylogénètiques, écologie)	W-Tnd-156970
+Reference without parent accepted or common name	252	Suárez-Morales, E., Londoño-Mesa, M., & Heard, R.W.	2011	Discovery of a new genus of tanaidacean (Crustacea: Tanaidacea: Mirandotanaidae) found associated with a deep-sea terebellid polychaete	W-Tnd-163210
+Reference without parent accepted or common name	258	Bamber, R.N., Chatterjee, T., & Marshall, D.J.	2012	Inshore apseudomorph tanaidaceans (Crustacea: Peracarida) from Brunei: new records and new species	W-Tnd-164322
+Reference without parent accepted or common name	259	Dyntaxa	2013	Swedish Taxonomic Database	W-Tnd-165516
+Reference without parent accepted or common name	265	Larsen, K., & Heard, R.W.	2004	A new species of Protanaissus Sieg, 1982 (Crustacea: Tanaidacea: Peracarida), from South Florida	W-Tnd-166405
+Reference without parent accepted or common name	267	Bamber, R.N.	2012	A re-assessment of Hexapleomera Dudich, 1931 (Crustacea: Tanaidacea: Tanaidae), with designation of three new species	W-Tnd-166457
+Reference without parent accepted or common name	274	Heard, R.W., & Morales-Núñez,  A.G.	2011	Akanthoparapseudes alfaroae, a new genus and species of apseudomorphan tanaidacean (Crustacea: Malacostraca: Peracarida) from Puerto Rican coastal waters	W-Tnd-168042
+Reference without parent accepted or common name	285	Guţu, M.	1991	A few remarks on Sphyrapidae (Crustacea, Tanaidacea) and the description of a new genus Kudinopasternakia, belonging to this family	W-Tnd-168634
+Reference without parent accepted or common name	286	Guţu, M.	2001	Ansphyrapus, a new genus of the family Sphyrapidae (Crustacea: Tanaidacea, Apseudomorpha)	W-Tnd-168635
+Reference without parent accepted or common name	288	Esquete, P., Bamber, R.N., Moreira, J., & Troncoso, J.S.	2012	Apseudopsis adami, a new species of tanaidacean (Crustacea: Peracarida) from the NW Iberian Peninsula: postmarsupial development and remarks on morphological characters	W-Tnd-168832
+Reference without parent accepted or common name	300	Calman, W.T.	1933	On Anthracocaris scotica (Peach), a fossil crustacean from the Lower Carboniferous	W-Tnd-169851
+Reference without parent accepted or common name	302	Schram, F.R.	1989	Designation of a new name and type for the Mazon Creek (Pennsylvanian, Francis Creek Shale) tanaidacean	W-Tnd-169853
+Reference without parent accepted or common name	303	Glaessner, M.F.	1962	Teil 2, In: Glaessner, M.F., & E. Malzahn. Neue Crustaceen aus dem niederrheinischen Zechstein	W-Tnd-169964
+Reference without parent accepted or common name	304	Malzahn, E.	1957	Neue Fossilfunde und vertikale Verbreitung der niederrheinischen Zechsteinfauna in den Bohrungen Kamp 4 und Friedrich Heinrich 57 bei Kamp-Lintfort	W-Tnd-169965
+Reference without parent accepted or common name	307	Sieg, J.	1977	Eine neue Gattung (Heterotanoides gen. n.) aus der Familie der Paratanaidae Lang (Tanaidacea)	W-Tnd-169980
+Reference without parent accepted or common name	311	Sieg, J.	1993	Remarks on the Tanaidacea (Crustacea: Isopoda [sic]) of Australia: On Bilobatus crenulatus gen. et sp. nov., from Port Darwin	W-Tnd-169995
+Reference without parent accepted or common name	312	Sieg, J., & Bird, G.	1989	Remarks on the genus Mesotanais Dollfus, 1897 (Crustacea, Tanaidacea)/ Redescription of the type-species and description of M. elongatus sp. nov.	W-Tnd-169996
+Reference without parent accepted or common name	313	Sieg, J., & Dojiri, M.	1991	Two new species and a new genus of the suborder Tanaidomorpha (Crustacea: Tanaidacea) from Californian waters	W-Tnd-169997
+Reference without parent accepted or common name	314	Sieg, J., & Heard, R.W.	1985	Tanaidacea (Crustacea: Peracarida) of the Gulf of Mexico. IV. On Nototanoides trifurcatus gen. nov., sp. nov., with a key to the genera of the Nototanaidae	W-Tnd-170000
+Reference without parent accepted or common name	318	Angsupanich, S.	2004	A new species of Longiflagrum (Tanaidacea, Parapseudidae), from Songkhla Lagoon, Thailand	W-Tnd-170006
+Reference without parent accepted or common name	322	Bacescu, M.	1979	Kalliapseudes gianucai, a new Tanaidacea from the Brazilian waters	W-Tnd-170013
+Reference without parent accepted or common name	324	Bacescu, M.	1981	Sur quelques Apseudidae (Crustacea- Tanaidacea) de la Méditerranée Occidentale et de l ́Adriatique, avec les diagnoses de deux taxons nouveaux: Apseudes sicilianus n.sp. et A. misarai n.sp.	W-Tnd-170015
+Reference without parent accepted or common name	325	Bacescu, M.	1982	Nouvelle contribution à l‘étude des Apseudoidea Leviapseudes longissimus n. sp. des eaux Sud- Ouest Africaines	W-Tnd-170016
+Reference without parent accepted or common name	330	Bamber, R.N.	1990	A new species of Zeuxo (Crustacea: Tanaidacea) from the French Atlantic Coast	W-Tnd-170025
+Reference without parent accepted or common name	331	Bamber, R.N.	1993	A new species of Kalliapseudes (Crustacea: Tanaidacea: Kalliapseudidae) from Trinidad	W-Tnd-170026
+Reference without parent accepted or common name	333	Bamber, R.N.	2009	Two new species of Shell-inhabiting tanaidaceans (Crustacea, Peracarida, Tanaidacea, Pagurapseudidae, Pagurapseudinae) from the shallow sublittoral off Vanuatu	W-Tnd-170031
+Reference without parent accepted or common name	335	Bamber, R.N., Ariyananda, T., & Silva, E.I.L.	1996 (1997)	A new genus and species of apseudomorph tanaidacean from Sri Lanka	W-Tnd-170033
+Reference without parent accepted or common name	338	Bird, G.J.	1999	A new species of Pseudotanais (Crustacea, Tanaidacea) from cold seeps in the deep Caribbean, collected by the French submersible Nautile	W-Tnd-170077
+Reference without parent accepted or common name	342	Bird, G.J., & Holdich, D.M.	1989	Recolonisation of artificial sediments in the deep Bay of Biscay by tanaidaceans (Crustacea: Peracarida), with a description of a new species of Pseudotanais	W-Tnd-170094
+Reference without parent accepted or common name	343	Blazewicz-Paszkowycz, M.	2005	Singula, a new name for Singularia Blazewicz-Paszkowycz, 2005 (Crustacea: Malacostraca: Tanaidacea) preoccupied by Singularia Arenberger, 1988 (Insecta: Lepidoptera)	W-Tnd-170098
+Reference without parent accepted or common name	344	Drumm, D.T., & Heard, R.W.	2006	Transkalliapseudes spinatulata, new genus, new species (Crustacea: Tanaidacea: Kalliapseudidae) from the northwest Australian shelf	W-Tnd-170105
+Reference without parent accepted or common name	346	Gardiner, L.F.	1973	A new species and genus of a new monokonophoran family (Crustacea: Tanaidacea), from southeastern Florida	W-Tnd-170112
+Reference without parent accepted or common name	355	Bamber, R.N., & Costa, A.C.	2009	The tanaidaceans (Arthropoda: Peracarida: Tanaidacea) of São Miguel, Azores, with description of two new species, and a new record from Tenerife	W-Tnd-171381
+Reference without parent accepted or common name	356	Thomson, G.M.	1879	On two new isopods (Arcturus, sp., and Tanais, sp.) from New Zealand	W-Tnd-171470
+Reference without parent accepted or common name	361	Brown, A. C.	1954	CXIV.- An addition to the South African Tanaidacea. The Annals and	W-Tnd-172644
+Reference without parent accepted or common name	365	Larsen, K., & Araújo-Silva, C.	2014	A new genus of Colletteidae (Crustacea Peracarida: Tanaidacea) from the Pacific with comments on dimorphic males with species specific characters	W-Tnd-176749
+Reference without parent accepted or common name	367	Kakui, K., & Hiruta, C.	2014	Diverse pereopodal secretory systems implicated in thread production in an apseudomorph tanaidacean crustacean	W-Tnd-176751
+Reference without parent accepted or common name	368	Bird, G.J.	2014	Tanaidacea (Crustacea: Peracarida) of the North-east Atlantic: the genera Leptognathioides and Portaratrum of the 'Atlantic Margin'	W-Tnd-176752
+Reference without parent accepted or common name	371	Leach, W.E.	1814	Crustaceology	W-Tnd-180025
+Reference without parent accepted or common name	372	Santos, K.C. dos	2014	Two new species of Kudinopasternakia Guţu, (Crustacea: Tanaidacea: Sphyrapodidae) with remarks on setology nomenclature	W-Tnd-182023
+Reference without parent accepted or common name	377	Knight, J., & Heard, R.W.	2006	A new species, Apseudes larseni (Crustacea: Tanaidacea), from the marine waters of New Zealand	W-Tnd-192910
+Reference without parent accepted or common name	379	Gamô, S.	1984	A new remarkably giant tanaid, Gigantapseudes maximus sp. nov. (Crustacea) from the abyssal depths far off southeast of Mindanao, the Philippines	W-Tnd-192918
+Reference without parent accepted or common name	381	Kudinova-Pasternak, R.K.	1985	Glubokovodnye Tanaidacea (Crustacea, Malacostraca) iz iugo-zapadnoi chasti Indiiskogo Okeana. Podotriady Neotanaidomorpha i Apseudomorpha) [The abyssal Tanaidacea (Crustacea, Malacostraca) from the south-west Indian Ocean. Suborders Neotanaidomorpha and A	W-Tnd-192920
+Reference without parent accepted or common name	382	Richardson, H.	1912	Description of a new species of isopod belonging to the genus Apseudes from Ecuador	W-Tnd-192921
+Reference without parent accepted or common name	384	Shiino, S.M.	1937	On Apseudes nipponicus n. sp. (Crustacea, Tanaidacea)	W-Tnd-192923
+Reference without parent accepted or common name	386	Gutu, M.; Iliffe, T. M.	1989	Description of two new species of Tanaidacea (Crustacea) from the marine water caves of the Palau Islands (Pacific Ocean)	W-Tnd-192925
+Reference without parent accepted or common name	392	Lang, K.	1953	Apseudes hermaphroditicus n.sp. a hermaphroditic Tanaide from the Antarctic	W-Tnd-193101
+Reference without parent accepted or common name	393	Lang, K.	1953	The postmarsupial development of the Tanaidacea	W-Tnd-193102
+Reference without parent accepted or common name	397	Lang, K.	1957	Tanaidacea from Canada and Alaska	W-Tnd-193106
+Reference without parent accepted or common name	398	Lang, K.	1958	Leptognathia paramanca n. sp	W-Tnd-193107
+Reference without parent accepted or common name	400	Lang, K.	1970	Taxonomische und phylogenetische Untersuchungen über die Tanaidaceen 4. Aufteilung der Apseudiden in vier Familien nebst aufstellung von zwei Gattungen und einer Art der neuen Familie Leiopidae	W-Tnd-193111
+Reference without parent accepted or common name	405	Lang, K.	1972	Siphonolabrum mirabile n. gen., n. sp. (Tanaidacea)	W-Tnd-193116
+Reference without parent accepted or common name	408	Milne-Edwards, H.	1828	Mémoire sur quelques Crustacés nouveaux	W-Tnd-193269
+Reference without parent accepted or common name	424	Gutu, M.	1996	The description of Spinosapseudes n. g., and amended diagnoses of two genera of Tanaidacea (Crustacea)	W-Tnd-193411
+Reference without parent accepted or common name	426	Gutu, M.	2006	A new metapseudid genus and species (Crustacea: Tanaidacea) from the northeast of the Hispaniola Island (Dominican Republic)	W-Tnd-193568
+Reference without parent accepted or common name	427	Bacescu, M., & Absalao, R.S.	1985	Hemikalliapseudes cavooreni n.sp. and a few remarks on the Brazilian Apseudoidea	W-Tnd-193569
+Reference without parent accepted or common name	430	Monod, T.	1923	Sur un Kalliapseudes nouveau des côtes Mauritaniennes	W-Tnd-193584
+Reference without parent accepted or common name	431	Haswell, W.A.	1882	Description of a new species of Apseudes	W-Tnd-193585
+Reference without parent accepted or common name	432	Bacescu, M., & Gutu, M.	1971	Contributions à la connaissance du genre Apseudes de la Méditerranée. Fageapseudes n.g. et Tuberapseudes n.sg.	W-Tnd-193586
+Reference without parent accepted or common name	436	Kudinova-Pasternak, R.K.	1989	Glubokovodnye tanaidy (Crustacea, Tanaidacea) iz severno-vostocinoi i centralinoi ciastei Indiiskogo Okeana (po materialam Frantuzskoi expeditii “Safari II” [Tanaidacees abyssales (Crustacea, Tanaidacea) de partie Nord-Est et Centrale de l´Ocean´Indien (d	W-Tnd-193591
+Reference without parent accepted or common name	437	Willemoes-Suhm, R. von	1875	On some Atlantic Crustacea from the ‘Challenger’ Expedition (communicated by W. Thomson)	W-Tnd-193592
+Reference without parent accepted or common name	440	Gutu, M.	1998	Description of a new species belonging to genus Pugiodactylus (Crustacea, Tanaidacea) from Malaysian waters	W-Tnd-193597
+Reference without parent accepted or common name	441	Larwood, H.J.C.	1954	XIX.- Crustacea Tanaidacea and Isopoda from the Suez Canal	W-Tnd-193598
+Reference without parent accepted or common name	443	Shiino, S.M.	1966	On Kalliapseudes (Kalliapseudes) tomiokaensis sp. nov. (Crustacea: Tanaidacea) from Japanese waters	W-Tnd-193600
+Reference without parent accepted or common name	445	Hansknecht, T., Heard, R.W., & Bamber, R.	2002	Tanapseudes gutui, a new species of apseudomorphan Tanaidacea (Crustacea: Peracarida) from the Caribbean Sea and the taxonomic status of the family Tanapseudidae Bacescu, 1978	W-Tnd-193606
+Reference without parent accepted or common name	446	Gutu, M.	1989	La description de Calozodion Dollfusi, espèce nouvelle de tanaïdacés (Crustacea) provenant des eaux européennes de l´Atlantique	W-Tnd-193607
+Reference without parent accepted or common name	448	Gutu, M.	1984	Contribution to the knowledge of the genus Calozodion (Crustacea, Tanaidacea)	W-Tnd-193609
+Reference without parent accepted or common name	449	Larsen, K., & Shimomura, M.	2006	Tanaidacea (Crustacea: Peracarida) from Japan. I. Apseudomorpha from the East China Sea, Seto Inland Sea, and Nansei Islands	W-Tnd-193610
+Reference without parent accepted or common name	455	Chilton, C.	1882	Art. X.- Additions to the isopodan fauna of New Zealand	W-Tnd-193618
+Reference without parent accepted or common name	458	Kudinova-Pasternak, R.K.	1973	New species of the genus Herpotanais Wolff, 1956 of the deep-sea family Neotanaidae (Crustacea: Tanaidacea) from the Pacific	W-Tnd-193621
+Reference without parent accepted or common name	460	Larsen, K.	1999	Deep-sea tanaidaceans (Crustacea: Peracarida) from the Albatross cruises 1885-86, with keys to the suborder Neotanaidomorpha	W-Tnd-193623
+Reference without parent accepted or common name	462	Messing, C.G.	1977	Biological results of the University of Miami deep-sea expeditions. Neotanais persephone, a new species of hadal Tanaidacean (Crustacea: Peracarida)	W-Tnd-193625
+Reference without parent accepted or common name	466	Guerrero-Kommritz, J., Schmidt, A., & Brandt, A.	2002	Paranarthrura Hansen, 1913 (Crustacea: Tanaidacea) from the Angola Basin, description of Paranarthrura angolensis n. sp.	W-Tnd-193641
+Reference without parent accepted or common name	469	Larsen, K., & Heard, R.W.	2002	Two new deep-sea tanaidacean genera, Isopodidus and Cetiopyge (Crustacea: Peracarida) from the Gulf of Mexico	W-Tnd-193658
+Reference without parent accepted or common name	471	Holdich, D.M., & Bird, G.J.	1986	Tanaidacea (Crustacea) from sublittoral waters off West Scotland, including the description of two new genera	W-Tnd-193671
+Reference without parent accepted or common name	475	Brown, A.C.	1957	On an interesting new tanaidacean crustacean from the west coast of South Africa, Tanaiomera columbina, gen. nov., sp. nov.	W-Tnd-193679
+Reference without parent accepted or common name	476	Brown, A.C.	1957	A revision of the genus Leptochelia (Crustacea: Tanaidacea) in southern African waters	W-Tnd-193683
+Reference without parent accepted or common name	480	Smith, G.	1906	High and low dimorphism. With an account of certain Tanaidae of the Bay of Naples	W-Tnd-193688
+Reference without parent accepted or common name	489	Brown, A.C.	1958	Report on the tanaidacean Crustacea of the Langebaan Lagoon and Saldanha Bay, on the west coast of South Africa	W-Tnd-193813
+Reference without parent accepted or common name	491	Kudinova-Pasternak, R.K.	1966 (1967)	On a new abyssal tanaidacean from the Pacific, Arthrura andriashevi n. gen., n. sp.	W-Tnd-193815
+Reference without parent accepted or common name	492	Larsen, K., & Heard, R.W.	2004	Revision of the tanaidomorphan deep-sea genus Tanaella (Crustacea: Tanaidacea)	W-Tnd-193817
+Reference without parent accepted or common name	494	Tattersall, W.M.	1904	Some new and rare Isopoda taken in the British area	W-Tnd-193830
+Reference without parent accepted or common name	498	Templeton, R.	1840	Description of a minute crustaceous animal from the Island of Mauritius	W-Tnd-193848
+Reference without parent accepted or common name	499	Kudinova-Pasternak, R.K.	1989	A supplement to the fauna of Tanaidacea (Crustacea) of Kurile Islands and the description of Zeuxo beringi sp. n. (Commander Islands)	W-Tnd-193849
+Reference without parent accepted or common name	500	Kussakin, G. O.; & Tzareva, L. V.	1974	[On the fauna of Tanaidacea (Crustacea, Tanaidacea) from the intertidal zone of the Kurile Islands]	W-Tnd-193850
+Reference without parent accepted or common name	506	Richardson, H.	1901	Papers from the Hopkins Stanford Galapagos Expedition, 1898-1899. VI. The isopods	W-Tnd-193868
+Reference without parent accepted or common name	508	Mello-Leitão, A.	1941	Uma nova especie brasileira de “Tanais”	W-Tnd-193870
+Reference without parent accepted or common name	510	Milne-Edwards, H.	1838	Classe huitième/ Les Crustaces	W-Tnd-193874
+Reference without parent accepted or common name	514	Boas, J.E.V.	1887	Kleinere carcinologische Mittheilungen	W-Tnd-194407
+Reference without parent accepted or common name	516	Bouvier, E.-L.	1918	Sur une petite Collection de Crustacés de Cuba offerte au Muséum par M. de Boury	W-Tnd-194425
+Reference without parent accepted or common name	517	Claus, C.	1884	Über Apseudes Latreillii Edw. und die Tanaiden	W-Tnd-194426
+Reference without parent accepted or common name	518	Delage, Y.	1881	Contribution a l´étude de l´appereil circulatoire des Crustacés Édriophthalmes marins	W-Tnd-194428
+Reference without parent accepted or common name	519	Dollfus, A.	1898	Campagnes du Travailleur et du Talisman: Neotanais Edwardsi, sp. nov.	W-Tnd-194430
+Reference without parent accepted or common name	520	Grube, A.E.	1864	VI. Crustacea	W-Tnd-194432
+Reference without parent accepted or common name	522	Gutu, M., & Heard, R.W.	2002 (2003)	A new genus and species of a new family of apseudomorph tanaidaceans (Crustacea: Peracarida) from Australian waters	W-Tnd-194501
+Reference without parent accepted or common name	526	Gutu, M.	2001	Appearance and reality in the knowledge of the Tanaidacean crustaceans from the Mediterranean Basin	W-Tnd-194820
+Reference without parent accepted or common name	527	Gutu, M., & Angsupanich, S.	2004	Two new parapseudid species and some first records of Tanaidacea (Crustacea: Peracarida) from Thailand	W-Tnd-194829
+Reference without parent accepted or common name	528	Kudinova-Pasternak, R.K.	1972	Notes about the Tanaidacean fauna (Crustacea Malacostraca) of the Kermadec Trench	W-Tnd-194837
+Reference without parent accepted or common name	531	Gutu, M., & Angsupanich, S.	2006	Msangia tarangensis, a new species (Crustacea: Tanaidacea: Apseudomorpha) from the Thai waters of the Andaman Sea	W-Tnd-194880
+Reference without parent accepted or common name	532	Larsen, K.	2002	Curtipleon heterochelatum, a new species of Tanaidacea (Crustacea: Peracarida) from the Andaman Sea	W-Tnd-194884
+Reference without parent accepted or common name	534	Riggio, S.	1973	Segnalazione del genere Synapseudes Miller 1940 (Crustacea Peracarida Anisopoda) nel Mediterraneo con la Descrizione preliiminare di Synapseudes shiinoi n. sp. [On the presence of the genus Synapseudes Miller, 1940 (Crustacea Peracarida Anisopoda), in the	W-Tnd-194887
+Reference without parent accepted or common name	535	Gutu, M.	2006	Description of the second species of the family Numbakullidae Gutu and Heard (Crustacea: Tanaidacea) from Sri Lanka	W-Tnd-194888
+Reference without parent accepted or common name	536	Gutu, M.	1997	Tanaidacea. In: Gutu, M. (ed.), Results of the Zoological Expedition Organized by “Grigore Antipa” Museum in the Indonesia Archipelago (1991). I. Peracarida (Crustacea)	W-Tnd-194889
+Reference without parent accepted or common name	539	Gutu, M.	1992	Pagurapseudes pangtiruthuli, a new species (Crustacea, Tanaidacea) from Bali Island	W-Tnd-194900
+Reference without parent accepted or common name	540	Kazmi, Q.B., & Siddiqui, F.A.	2001	Pagurapseudes setulosa, a new species of Apseudomorpha (Crustacea, Tanaidacea) from Pakistan	W-Tnd-194901
+Reference without parent accepted or common name	546	Brum, I.N. da Silva	1971	Apseudes paulensis nova espécie de Tanaidacea do litoral Brasileiro (Crustacea)	W-Tnd-194931
+Reference without parent accepted or common name	547	Viskup, B.J., & Heard, R.W.	1989	Tanaidacea (Crustacea: Peracarida) of the Gulf of Mexico. VIII. Pseudosphyrapus siegi, n. sp. (Sphyrapidae) from the continental slope of the northern Gulf of Mexico	W-Tnd-194937
+Reference without parent accepted or common name	551	Sachariewa-Kowatschewa, K., & Bachmayer, F.	1965	Eine neue fossile Scherenassel (Ophthalmapseudes acutirostris nov. spec.) aus den Dogger-Schichten von BulgarienPages 236-240, In: Bachmayer, F., E. Malzahn, K. Sachariewa-Kowatschewa, & S. Végh. Neue Scherenassel-Funde aus den Dogger-Schichten von Nordde	W-Tnd-194942
+Reference without parent accepted or common name	553	Reiff, E.	1936	Isopoden aus dem Lias Delta (Amaltheenschichten) Schwabens	W-Tnd-194945
+Reference without parent accepted or common name	554	Stebbing, T.R.R.	1893	Chapter XXI. Isopoda. Tribe 1.- Chelifera	W-Tnd-194965
+Reference without parent accepted or common name	555	Knight, J., Larsen, K., & Heard, R.W.	2003	A new genus and species, Tumidochelia randyi, from the Gulf of Mexico (Crustacea: Peracarida: Tanaidacea)	W-Tnd-195343
+Reference without parent accepted or common name	556	Esquete, P., Sibaja-Cordero, J.A., & Troncoso, J.S.	2013	A new genus and species of Leptocheliidae (Crustacea: Peracarida: Tanaidacea) from Isla del Coco (Costa Rica)	W-Tnd-195454
+Reference without parent accepted or common name	557	Jones, J.A., & Holdich, D.M.	1983	A new species of the tanaid genus Tanaissus Norman & Scott from British waters	W-Tnd-195539
+Reference without parent accepted or common name	558	Stebbing, T. R. R.	1914	Crustacea from the Falkland Islands collected by Mr. Rupert Vallentin, F.L.S.- Part II	W-Tnd-195552
+Reference without parent accepted or common name	560	Shiino, S.M.	1964	Tanaidacea	W-Tnd-195554
+Reference without parent accepted or common name	561	Heller, C.	1865	Crustaceen: Ordo Isopoda	W-Tnd-195565
+Reference without parent accepted or common name	563	Schram, F.R.	1974	Paleozoic Peracarida of North America.	W-Tnd-195939
+Reference without parent accepted or common name	569	Rumbold, C. E.; Obenat, S. M.; Spivak, E. D.	2015	Comparison of life history traits of Tanais dulongii (Tanaidacea: Tanaididae) in natural and artificial marine environments of the south-western Atlantic	W-Tnd-198235
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+CREATE TEMPORARY TABLE duplicates_to_delete AS
+SELECT "Accepted name to be deleted", sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus,
+	dups.species AS species, dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+FROM
+	(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+	FROM scientific_names
+	GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id
+	HAVING cnt > 1) AS dups
+LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+WHERE sn.sp2000_status_id = 1 AND sn.name_code NOT IN
+	(SELECT dups3.namecodes_to_keep FROM
+		(SELECT MAX(name_code) AS namecodes_to_keep, genus, subgenus, species, infraspecies_marker, infraspecies, author FROM
+			(SELECT sn.name_code AS name_code, sn.sp2000_status_id AS sp2000_status_id, dups.genus AS genus, dups.subgenus AS subgenus, dups.species AS species,
+				dups.infraspecies_marker AS infraspecies_marker, dups.infraspecies AS infraspecies, dups.author AS author
+			FROM
+				(SELECT genus, subgenus, species, infraspecies_marker, infraspecies, author, sp2000_status_id, count(*) as cnt
+				FROM scientific_names
+				GROUP BY genus, subgenus, species, infraspecies, infraspecies_marker, author, sp2000_status_id HAVING cnt > 1) AS dups
+			LEFT JOIN scientific_names sn ON sn.genus = dups.genus AND sn.subgenus = dups.subgenus AND sn.species = dups.species AND sn.author = dups.author
+			WHERE sn.sp2000_status_id = 1) AS dups2
+		GROUP BY genus, subgenus, species, infraspecies_marker, infraspecies, author) AS dups3)
+--------------
+
+--------------
+DELETE QUICK FROM scientific_names
+USING scientific_names
+INNER JOIN duplicates_to_delete ON scientific_names.name_code = duplicates_to_delete.name_code
+--------------
+
+--------------
+DELETE QUICK t1 FROM common_names AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+--------------
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN scientific_names_tmp AS t2 ON t1.accepted_name_code = t2.name_code
+WHERE t2.name_code IS NULL AND t1.is_accepted_name != 1
+--------------
+
+--------------
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN scientific_names_tmp AS t2 ON t1.infraspecies_parent_name_code = t2.name_code
+WHERE t1.infraspecies_parent_name_code IS NOT NULL AND t2.name_code IS NULL
+--------------
+
+--------------
+DELETE QUICK t1 FROM lifezone AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+--------------
+OPTIMIZE TABLE lifezone
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Tanaidacea.lifezone	optimize	status	OK
+--------------
+DELETE QUICK t1 FROM distribution AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+--------------
+OPTIMIZE TABLE distribution
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Tanaidacea.distribution	optimize	status	OK
+--------------
+DELETE QUICK t1 FROM scientific_names AS t1
+LEFT JOIN families AS t2 ON t1.family_code = t2.family_code
+WHERE t2.family_code IS NULL
+--------------
+
+--------------
+OPTIMIZE TABLE scientific_names
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Tanaidacea.scientific_names	optimize	status	OK
+--------------
+DELETE QUICK t1 FROM scientific_name_references AS t1
+LEFT JOIN scientific_names AS t2 ON t1.name_code = t2.name_code
+WHERE t2.name_code IS NULL
+--------------
+
+--------------
+DELETE QUICK t1 FROM scientific_name_references AS t1
+LEFT JOIN `references` AS t2 ON t1.reference_code = t2.reference_code
+WHERE t2.reference_code IS NULL
+--------------
+
+--------------
+OPTIMIZE TABLE scientific_name_references
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Tanaidacea.scientific_name_references	optimize	status	OK
+--------------
+DELETE QUICK t1 FROM specialists AS t1
+LEFT JOIN `scientific_names` AS t2 ON t1.specialist_code = t2.specialist_code
+WHERE t2.specialist_code IS NULL
+--------------
+
+--------------
+DELETE t1 FROM `references` AS t1
+LEFT JOIN scientific_name_references AS t2 ON t1.reference_code = t2.reference_code
+LEFT JOIN common_names AS t3 ON t1.reference_code = t3.reference_code
+WHERE t2.reference_code IS NULL AND t3.reference_code IS NULL
+--------------
+
+--------------
+OPTIMIZE TABLE `references`
+--------------
+
+Table	Op	Msg_type	Msg_text
+Assembly_Tanaidacea.references	optimize	status	OK
+--------------
+DROP TRIGGER IF EXISTS delfamcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delspcascade
+--------------
+
+--------------
+DROP TRIGGER IF EXISTS delrefscascade
+--------------
+
+--------------
+CREATE TRIGGER delfamcascade AFTER DELETE ON `families`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `scientific_names` WHERE family_code = old.family_code;
+
+END;
+
+CREATE TRIGGER delspcascade AFTER DELETE ON `scientific_names`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+DELETE FROM `distribution` WHERE name_code = old.name_code;
+DELETE FROM `lifezone` WHERE name_code = old.name_code;
+DELETE FROM `scientific_name_references` WHERE name_code = old.name_code;
+DELETE FROM `common_names` WHERE name_code = old.name_code;
+
+END;
+
+CREATE TRIGGER delrefscascade AFTER DELETE ON `scientific_name_references`
+FOR EACH ROW 
+BEGIN
+
+DELETE FROM `references` WHERE reference_code = old.reference_code;
+
+END;
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+</pre>
+<pre>
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Editorial and Integrity checks Completed.
+</pre>
+</pre><hr><b>Replacing sectors in Assembly Global database</b>
+<pre>
+<pre>
+Starting Sector Management
+--------------
+SET @dbid = 110
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+DELETE FROM ",
+@dbtouse,
+".`databases` WHERE `record_id` = @dbid")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`families` SELECT 
+NULL AS `record_id`,
+`hierarchy_code`,	
+`kingdom`,	
+`phylum`,	
+`class`,	
+`order`,	
+`family`,	
+`superfamily`, 	
+`database_id`, 	
+`family_code`,
+`is_accepted_name`
+FROM  `families`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`databases` SELECT 
+`database_name_displayed`, 
+`record_id`, 
+`database_name`, 
+`database_full_name`, 
+`web_site`, 
+`organization`, 
+`contact_person`, 
+`taxa`, 
+`taxonomic_coverage`, 
+`abstract`, 
+`version`, 
+`release_date`, 
+`SpeciesCount`, 
+`SpeciesEst`, 
+`authors_editors`, 
+`accepted_species_names`, 
+`accepted_infraspecies_names`, 
+`species_synonyms`, 
+`infraspecies_synonyms`, 
+`common_names`, 
+`total_names`, 
+`is_new`,
+`coverage`,
+`completeness`,
+`confidence`
+FROM `databases`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`scientific_names` 
+(`record_id`, `name_code`, `web_site`, `genus`, `subgenus`, `species`, `infraspecies_parent_name_code`, `infraspecies`, `infraspecies_marker`, `author`, `accepted_name_code`, `comment`, `scrutiny_date`, `sp2000_status_id`, `database_id`, `specialist_id`, `family_id`, `specialist_code`, `family_code`, `is_accepted_name`, `GSDTaxonGUID`, `GSDNameGUID`, `is_extinct`, `has_preholocene`, `has_modern`) SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`web_site`, 
+`genus`, 
+`subgenus`, 
+`species`, 
+`infraspecies_parent_name_code`, 
+`infraspecies`, 
+`infraspecies_marker`, 
+`author`, 
+`accepted_name_code`, 
+`comment`, 
+`scrutiny_date`, 
+`sp2000_status_id`, 
+`database_id`, 
+`specialist_id`, 
+`family_id`, 
+`specialist_code`, 
+`family_code`, 
+`is_accepted_name`, 
+`GSDTaxonGUID`, 
+`GSDNameGUID`, 
+`is_extinct`,
+`has_preholocene`, 
+`has_modern`
+FROM `scientific_names`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`common_names` SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`common_name`, 
+`transliteration`, 
+`language`, 
+`country`, 
+`area`, 
+NULL AS `reference_id`, 
+`database_id`, 
+`is_infraspecies`, 
+`reference_code`
+FROM  `common_names`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`distribution` SELECT 
+NULL AS `record_id`, 
+`name_code`, 
+`distribution`, 
+`StandardInUse`, 
+`DistributionStatus`,
+`database_id`
+FROM  `distribution`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`lifezone` SELECT 
+NULL AS `record_id`,
+`name_code`, 	
+`lifezone`,
+`database_id`
+FROM  `lifezone`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`scientific_name_references` SELECT 
+NULL AS `record_id`,
+`name_code`,	
+`reference_type`, 	
+NULL AS `reference_id`,	
+`reference_code`,
+`database_id`
+FROM  `scientific_name_references`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`references` SELECT 
+NULL AS `record_id`, 
+`author`, 
+`year`, 
+`title`, 
+`source`, 
+`database_id`, 
+`reference_code`
+FROM  `references`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO ", @dbtouse, ".`specialists` SELECT 
+NULL AS `record_id`,
+`specialist_name`,
+`specialist_code`,
+`database_id`
+FROM  `specialists`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+Transformations Completed.
+<pre>
+</pre><hr><b>Chain completed</b>
+</body></html>

@@ -1,0 +1,793 @@
+AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
+119552	Azov sea	Text		
+119645	Aberdeen	Text		
+119681	Naples	Text		
+119467	Trieste	Text		
+119737	Banyuls	Text		
+119648	Banyuls	Text		
+119746	Banyuls	Text		
+232239	Algiers Bay	Text		
+119536	Algiers Bay	Text		
+119536	Aegean Sea	Text		
+119483	Aegean Sea	Text		
+119482	Aegean Sea	Text		
+119723	Aegean Sea	Text		
+119746	Aegean Sea	Text		
+119494	Aegean Sea	Text		
+119491	Aegean Sea	Text		
+119492	Aegean Sea	Text		
+119487	Aegean Sea	Text		
+119484	Aegean Sea	Text		
+119485	Aegean Sea	Text		
+119488	Aegean Sea	Text		
+119490	Aegean Sea	Text		
+119648	Aegean Sea	Text		
+119636	Aegean Sea	Text		
+119506	Aegean Sea	Text		
+119629	Aegean Sea	Text		
+119687	Aegean Sea	Text		
+119755	Aegean Sea	Text		
+119755	Aegean Sea	Text		
+119755	Aegean Sea	Text		
+518597	Great Barrier Reef	Text		
+518598	Great Barrier Reef	Text		
+518599	Great Barrier Reef	Text		
+119409	European waters (ERMS scope)	Text		
+119412	European waters (ERMS scope)	Text		
+119413	European waters (ERMS scope)	Text		
+119414	European waters (ERMS scope)	Text		
+119403	European waters (ERMS scope)	Text		
+119404	European waters (ERMS scope)	Text		
+119405	European waters (ERMS scope)	Text		
+119406	European waters (ERMS scope)	Text		
+119401	European waters (ERMS scope)	Text		
+119399	European waters (ERMS scope)	Text		
+119745	European waters (ERMS scope)	Text		
+119738	European waters (ERMS scope)	Text		
+119739	European waters (ERMS scope)	Text		
+119742	European waters (ERMS scope)	Text		
+119743	European waters (ERMS scope)	Text		
+119744	European waters (ERMS scope)	Text		
+119636	European waters (ERMS scope)	Text		
+119733	European waters (ERMS scope)	Text		
+119734	European waters (ERMS scope)	Text		
+119735	European waters (ERMS scope)	Text		
+119468	European waters (ERMS scope)	Text		
+119467	European waters (ERMS scope)	Text		
+119469	European waters (ERMS scope)	Text		
+119470	European waters (ERMS scope)	Text		
+119466	European waters (ERMS scope)	Text		
+119465	European waters (ERMS scope)	Text		
+119647	European waters (ERMS scope)	Text		
+119463	European waters (ERMS scope)	Text		
+119464	European waters (ERMS scope)	Text		
+119397	European waters (ERMS scope)	Text		
+119398	European waters (ERMS scope)	Text		
+119634	European waters (ERMS scope)	Text		
+119396	European waters (ERMS scope)	Text		
+119394	European waters (ERMS scope)	Text		
+119395	European waters (ERMS scope)	Text		
+119683	European waters (ERMS scope)	Text		
+119648	European waters (ERMS scope)	Text		
+119472	European waters (ERMS scope)	Text		
+119473	European waters (ERMS scope)	Text		
+119474	European waters (ERMS scope)	Text		
+119475	European waters (ERMS scope)	Text		
+119476	European waters (ERMS scope)	Text		
+119477	European waters (ERMS scope)	Text		
+119478	European waters (ERMS scope)	Text		
+119604	European waters (ERMS scope)	Text		
+119605	European waters (ERMS scope)	Text		
+119606	European waters (ERMS scope)	Text		
+119590	European waters (ERMS scope)	Text		
+119650	European waters (ERMS scope)	Text		
+119651	European waters (ERMS scope)	Text		
+119600	European waters (ERMS scope)	Text		
+119599	European waters (ERMS scope)	Text		
+119598	European waters (ERMS scope)	Text		
+119737	European waters (ERMS scope)	Text		
+119402	European waters (ERMS scope)	Text		
+119601	European waters (ERMS scope)	Text		
+119602	European waters (ERMS scope)	Text		
+119421	European waters (ERMS scope)	Text		
+119422	European waters (ERMS scope)	Text		
+119644	European waters (ERMS scope)	Text		
+119419	European waters (ERMS scope)	Text		
+119420	European waters (ERMS scope)	Text		
+119645	European waters (ERMS scope)	Text		
+119432	European waters (ERMS scope)	Text		
+119664	European waters (ERMS scope)	Text		
+119696	European waters (ERMS scope)	Text		
+119697	European waters (ERMS scope)	Text		
+119629	European waters (ERMS scope)	Text		
+119691	European waters (ERMS scope)	Text		
+119692	European waters (ERMS scope)	Text		
+119693	European waters (ERMS scope)	Text		
+119695	European waters (ERMS scope)	Text		
+119665	European waters (ERMS scope)	Text		
+119549	European waters (ERMS scope)	Text		
+119684	European waters (ERMS scope)	Text		
+119722	European waters (ERMS scope)	Text		
+119685	European waters (ERMS scope)	Text		
+119721	European waters (ERMS scope)	Text		
+119674	European waters (ERMS scope)	Text		
+119609	European waters (ERMS scope)	Text		
+119677	European waters (ERMS scope)	Text		
+119608	European waters (ERMS scope)	Text		
+119688	European waters (ERMS scope)	Text		
+119628	European waters (ERMS scope)	Text		
+119428	European waters (ERMS scope)	Text		
+119431	European waters (ERMS scope)	Text		
+119591	European waters (ERMS scope)	Text		
+119423	European waters (ERMS scope)	Text		
+119424	European waters (ERMS scope)	Text		
+119425	European waters (ERMS scope)	Text		
+119426	European waters (ERMS scope)	Text		
+119427	European waters (ERMS scope)	Text		
+119591	European waters (ERMS scope)	Text		
+119591	European waters (ERMS scope)	Text		
+119591	European waters (ERMS scope)	Text		
+119657	European waters (ERMS scope)	Text		
+119656	European waters (ERMS scope)	Text		
+119653	European waters (ERMS scope)	Text		
+119652	European waters (ERMS scope)	Text		
+119500	European waters (ERMS scope)	Text		
+119501	European waters (ERMS scope)	Text		
+119505	European waters (ERMS scope)	Text		
+119506	European waters (ERMS scope)	Text		
+119507	European waters (ERMS scope)	Text		
+119509	European waters (ERMS scope)	Text		
+119510	European waters (ERMS scope)	Text		
+119511	European waters (ERMS scope)	Text		
+119508	European waters (ERMS scope)	Text		
+119512	European waters (ERMS scope)	Text		
+119513	European waters (ERMS scope)	Text		
+119514	European waters (ERMS scope)	Text		
+119518	European waters (ERMS scope)	Text		
+119519	European waters (ERMS scope)	Text		
+119520	European waters (ERMS scope)	Text		
+119516	European waters (ERMS scope)	Text		
+119517	European waters (ERMS scope)	Text		
+119521	European waters (ERMS scope)	Text		
+119522	European waters (ERMS scope)	Text		
+119660	European waters (ERMS scope)	Text		
+119658	European waters (ERMS scope)	Text		
+119659	European waters (ERMS scope)	Text		
+119655	European waters (ERMS scope)	Text		
+119661	European waters (ERMS scope)	Text		
+119407	European waters (ERMS scope)	Text		
+119607	European waters (ERMS scope)	Text		
+119662	European waters (ERMS scope)	Text		
+119663	European waters (ERMS scope)	Text		
+119673	European waters (ERMS scope)	Text		
+119490	European waters (ERMS scope)	Text		
+119489	European waters (ERMS scope)	Text		
+119486	European waters (ERMS scope)	Text		
+119485	European waters (ERMS scope)	Text		
+119488	European waters (ERMS scope)	Text		
+119487	European waters (ERMS scope)	Text		
+119493	European waters (ERMS scope)	Text		
+119492	European waters (ERMS scope)	Text		
+119491	European waters (ERMS scope)	Text		
+119494	European waters (ERMS scope)	Text		
+119495	European waters (ERMS scope)	Text		
+119594	European waters (ERMS scope)	Text		
+119619	European waters (ERMS scope)	Text		
+119746	European waters (ERMS scope)	Text		
+119595	European waters (ERMS scope)	Text		
+119747	European waters (ERMS scope)	Text		
+119728	European waters (ERMS scope)	Text		
+119433	European waters (ERMS scope)	Text		
+119434	European waters (ERMS scope)	Text		
+119435	European waters (ERMS scope)	Text		
+119618	European waters (ERMS scope)	Text		
+119725	European waters (ERMS scope)	Text		
+119726	European waters (ERMS scope)	Text		
+119588	European waters (ERMS scope)	Text		
+119496	European waters (ERMS scope)	Text		
+119666	European waters (ERMS scope)	Text		
+119667	European waters (ERMS scope)	Text		
+119668	European waters (ERMS scope)	Text		
+119669	European waters (ERMS scope)	Text		
+119670	European waters (ERMS scope)	Text		
+119724	European waters (ERMS scope)	Text		
+119524	European waters (ERMS scope)	Text		
+119408	European waters (ERMS scope)	Text		
+119723	European waters (ERMS scope)	Text		
+119702	European waters (ERMS scope)	Text		
+119718	European waters (ERMS scope)	Text		
+119701	European waters (ERMS scope)	Text		
+119530	European waters (ERMS scope)	Text		
+119525	European waters (ERMS scope)	Text		
+119526	European waters (ERMS scope)	Text		
+119527	European waters (ERMS scope)	Text		
+119528	European waters (ERMS scope)	Text		
+119533	European waters (ERMS scope)	Text		
+119534	European waters (ERMS scope)	Text		
+119535	European waters (ERMS scope)	Text		
+119536	European waters (ERMS scope)	Text		
+119532	European waters (ERMS scope)	Text		
+119531	European waters (ERMS scope)	Text		
+119483	European waters (ERMS scope)	Text		
+119484	European waters (ERMS scope)	Text		
+119482	European waters (ERMS scope)	Text		
+119592	European waters (ERMS scope)	Text		
+119593	European waters (ERMS scope)	Text		
+119529	European waters (ERMS scope)	Text		
+119537	European waters (ERMS scope)	Text		
+119538	European waters (ERMS scope)	Text		
+119539	European waters (ERMS scope)	Text		
+119540	European waters (ERMS scope)	Text		
+119542	European waters (ERMS scope)	Text		
+119543	European waters (ERMS scope)	Text		
+119544	European waters (ERMS scope)	Text		
+119550	European waters (ERMS scope)	Text		
+119552	European waters (ERMS scope)	Text		
+119553	European waters (ERMS scope)	Text		
+119551	European waters (ERMS scope)	Text		
+119555	European waters (ERMS scope)	Text		
+119558	European waters (ERMS scope)	Text		
+119560	European waters (ERMS scope)	Text		
+119561	European waters (ERMS scope)	Text		
+119559	European waters (ERMS scope)	Text		
+119556	European waters (ERMS scope)	Text		
+119557	European waters (ERMS scope)	Text		
+119571	European waters (ERMS scope)	Text		
+119566	European waters (ERMS scope)	Text		
+119567	European waters (ERMS scope)	Text		
+119568	European waters (ERMS scope)	Text		
+119569	European waters (ERMS scope)	Text		
+119570	European waters (ERMS scope)	Text		
+119565	European waters (ERMS scope)	Text		
+119563	European waters (ERMS scope)	Text		
+119564	European waters (ERMS scope)	Text		
+119562	European waters (ERMS scope)	Text		
+119573	European waters (ERMS scope)	Text		
+119572	European waters (ERMS scope)	Text		
+119574	European waters (ERMS scope)	Text		
+119575	European waters (ERMS scope)	Text		
+119576	European waters (ERMS scope)	Text		
+119577	European waters (ERMS scope)	Text		
+119578	European waters (ERMS scope)	Text		
+119579	European waters (ERMS scope)	Text		
+119580	European waters (ERMS scope)	Text		
+119641	European waters (ERMS scope)	Text		
+119480	European waters (ERMS scope)	Text		
+119611	European waters (ERMS scope)	Text		
+119612	European waters (ERMS scope)	Text		
+119613	European waters (ERMS scope)	Text		
+119614	European waters (ERMS scope)	Text		
+119615	European waters (ERMS scope)	Text		
+119616	European waters (ERMS scope)	Text		
+119617	European waters (ERMS scope)	Text		
+119698	European waters (ERMS scope)	Text		
+119699	European waters (ERMS scope)	Text		
+119700	European waters (ERMS scope)	Text		
+119481	European waters (ERMS scope)	Text		
+119610	European waters (ERMS scope)	Text		
+119637	European waters (ERMS scope)	Text		
+119638	European waters (ERMS scope)	Text		
+119639	European waters (ERMS scope)	Text		
+119640	European waters (ERMS scope)	Text		
+119584	European waters (ERMS scope)	Text		
+119581	European waters (ERMS scope)	Text		
+119554	European waters (ERMS scope)	Text		
+119582	European waters (ERMS scope)	Text		
+119583	European waters (ERMS scope)	Text		
+119756	European waters (ERMS scope)	Text		
+119757	European waters (ERMS scope)	Text		
+119754	European waters (ERMS scope)	Text		
+119748	European waters (ERMS scope)	Text		
+119749	European waters (ERMS scope)	Text		
+119750	European waters (ERMS scope)	Text		
+119753	European waters (ERMS scope)	Text		
+119755	European waters (ERMS scope)	Text		
+119761	European waters (ERMS scope)	Text		
+119762	European waters (ERMS scope)	Text		
+119437	European waters (ERMS scope)	Text		
+119763	European waters (ERMS scope)	Text		
+119620	European waters (ERMS scope)	Text		
+119621	European waters (ERMS scope)	Text		
+119622	European waters (ERMS scope)	Text		
+119623	European waters (ERMS scope)	Text		
+119624	European waters (ERMS scope)	Text		
+119774	European waters (ERMS scope)	Text		
+119672	European waters (ERMS scope)	Text		
+119585	European waters (ERMS scope)	Text		
+119587	European waters (ERMS scope)	Text		
+119765	European waters (ERMS scope)	Text		
+119704	European waters (ERMS scope)	Text		
+119705	European waters (ERMS scope)	Text		
+119545	European waters (ERMS scope)	Text		
+119546	European waters (ERMS scope)	Text		
+119775	European waters (ERMS scope)	Text		
+119400	European waters (ERMS scope)	Text		
+119675	European waters (ERMS scope)	Text		
+119676	European waters (ERMS scope)	Text		
+119773	European waters (ERMS scope)	Text		
+119771	European waters (ERMS scope)	Text		
+119772	European waters (ERMS scope)	Text		
+119729	European waters (ERMS scope)	Text		
+119671	European waters (ERMS scope)	Text		
+119497	European waters (ERMS scope)	Text		
+119438	European waters (ERMS scope)	Text		
+119439	European waters (ERMS scope)	Text		
+119625	European waters (ERMS scope)	Text		
+119719	European waters (ERMS scope)	Text		
+119720	European waters (ERMS scope)	Text		
+119703	European waters (ERMS scope)	Text		
+119686	European waters (ERMS scope)	Text		
+119730	European waters (ERMS scope)	Text		
+119498	European waters (ERMS scope)	Text		
+119687	European waters (ERMS scope)	Text		
+119596	European waters (ERMS scope)	Text		
+119597	European waters (ERMS scope)	Text		
+119499	European waters (ERMS scope)	Text		
+119732	European waters (ERMS scope)	Text		
+119547	European waters (ERMS scope)	Text		
+119548	European waters (ERMS scope)	Text		
+119708	European waters (ERMS scope)	Text		
+119776	European waters (ERMS scope)	Text		
+119706	European waters (ERMS scope)	Text		
+119707	European waters (ERMS scope)	Text		
+119711	European waters (ERMS scope)	Text		
+119709	European waters (ERMS scope)	Text		
+119710	European waters (ERMS scope)	Text		
+119766	European waters (ERMS scope)	Text		
+119716	European waters (ERMS scope)	Text		
+119712	European waters (ERMS scope)	Text		
+119714	European waters (ERMS scope)	Text		
+119715	European waters (ERMS scope)	Text		
+119631	European waters (ERMS scope)	Text		
+119767	European waters (ERMS scope)	Text		
+119768	European waters (ERMS scope)	Text		
+119642	European waters (ERMS scope)	Text		
+119769	European waters (ERMS scope)	Text		
+119770	European waters (ERMS scope)	Text		
+119681	European waters (ERMS scope)	Text		
+119633	European waters (ERMS scope)	Text		
+119679	European waters (ERMS scope)	Text		
+119680	European waters (ERMS scope)	Text		
+119643	European waters (ERMS scope)	Text		
+119630	European waters (ERMS scope)	Text		
+119627	European waters (ERMS scope)	Text		
+119445	European waters (ERMS scope)	Text		
+119442	European waters (ERMS scope)	Text		
+119443	European waters (ERMS scope)	Text		
+119448	European waters (ERMS scope)	Text		
+119449	European waters (ERMS scope)	Text		
+119450	European waters (ERMS scope)	Text		
+119451	European waters (ERMS scope)	Text		
+119452	European waters (ERMS scope)	Text		
+119453	European waters (ERMS scope)	Text		
+119454	European waters (ERMS scope)	Text		
+119455	European waters (ERMS scope)	Text		
+119456	European waters (ERMS scope)	Text		
+119457	European waters (ERMS scope)	Text		
+119458	European waters (ERMS scope)	Text		
+119459	European waters (ERMS scope)	Text		
+119460	European waters (ERMS scope)	Text		
+119461	European waters (ERMS scope)	Text		
+119462	European waters (ERMS scope)	Text		
+119632	European waters (ERMS scope)	Text		
+119444	European waters (ERMS scope)	Text		
+119709	Porcupine Bank	Text		
+119707	Porcupine Bank	Text		
+119645	Trondheims Fjord	Text		
+119645	Trondheims Fjord	Text		
+119598	Trondheims Fjord	Text		
+119645	Trondheims Fjord	Text		
+196396	Icelandic Exclusive Economic Zone	Text		
+518541	Portuguese Exclusive Economic Zone	Text		
+119561	Portuguese Exclusive Economic Zone	Text		
+196401	Portuguese Exclusive Economic Zone	Text		
+119580	Portuguese Exclusive Economic Zone	Text		
+119726	Portuguese Exclusive Economic Zone	Text		
+518045	Portuguese Exclusive Economic Zone	Text		
+518046	Portuguese Exclusive Economic Zone	Text		
+119674	Portuguese Exclusive Economic Zone	Text		
+119506	Portuguese Exclusive Economic Zone	Text		
+119499	Portuguese Exclusive Economic Zone	Text		
+119498	Portuguese Exclusive Economic Zone	Text		
+468118	New Caledonian Exclusive Economic Zone	Text		
+717825	New Zealand Exclusive Economic Zone	Text		
+119686	New Zealand Exclusive Economic Zone	Text		
+119687	New Zealand Exclusive Economic Zone	Text		
+414364	New Zealand Exclusive Economic Zone	Text		
+414347	New Zealand Exclusive Economic Zone	Text		
+414384	New Zealand Exclusive Economic Zone	Text		
+414373	New Zealand Exclusive Economic Zone	Text		
+414379	New Zealand Exclusive Economic Zone	Text		
+414380	New Zealand Exclusive Economic Zone	Text		
+414381	New Zealand Exclusive Economic Zone	Text		
+414382	New Zealand Exclusive Economic Zone	Text		
+414348	New Zealand Exclusive Economic Zone	Text		
+414385	New Zealand Exclusive Economic Zone	Text		
+119643	New Zealand Exclusive Economic Zone	Text		
+119680	New Zealand Exclusive Economic Zone	Text		
+119632	New Zealand Exclusive Economic Zone	Text		
+519117	New Zealand Exclusive Economic Zone	Text		
+414342	New Zealand Exclusive Economic Zone	Text		
+119608	New Zealand Exclusive Economic Zone	Text		
+414372	New Zealand Exclusive Economic Zone	Text		
+119684	New Zealand Exclusive Economic Zone	Text		
+414361	New Zealand Exclusive Economic Zone	Text		
+414369	New Zealand Exclusive Economic Zone	Text		
+414376	New Zealand Exclusive Economic Zone	Text		
+414349	New Zealand Exclusive Economic Zone	Text		
+119644	New Zealand Exclusive Economic Zone	Text		
+414355	New Zealand Exclusive Economic Zone	Text		
+414359	New Zealand Exclusive Economic Zone	Text		
+414367	New Zealand Exclusive Economic Zone	Text		
+414368	New Zealand Exclusive Economic Zone	Text		
+414350	New Zealand Exclusive Economic Zone	Text		
+414362	New Zealand Exclusive Economic Zone	Text		
+119466	New Zealand Exclusive Economic Zone	Text		
+414339	New Zealand Exclusive Economic Zone	Text		
+414352	New Zealand Exclusive Economic Zone	Text		
+414353	New Zealand Exclusive Economic Zone	Text		
+414374	New Zealand Exclusive Economic Zone	Text		
+414375	New Zealand Exclusive Economic Zone	Text		
+414340	New Zealand Exclusive Economic Zone	Text		
+414341	New Zealand Exclusive Economic Zone	Text		
+414338	New Zealand Exclusive Economic Zone	Text		
+414356	New Zealand Exclusive Economic Zone	Text		
+414346	New Zealand Exclusive Economic Zone	Text		
+414343	New Zealand Exclusive Economic Zone	Text		
+414378	New Zealand Exclusive Economic Zone	Text		
+414351	New Zealand Exclusive Economic Zone	Text		
+414354	New Zealand Exclusive Economic Zone	Text		
+414371	New Zealand Exclusive Economic Zone	Text		
+414377	New Zealand Exclusive Economic Zone	Text		
+119723	New Zealand Exclusive Economic Zone	Text		
+414357	New Zealand Exclusive Economic Zone	Text		
+414358	New Zealand Exclusive Economic Zone	Text		
+119489	Black Sea	Text		
+119486	Black Sea	Text		
+119484	Black Sea	Text		
+119482	Black Sea	Text		
+119532	Black Sea	Text		
+119529	Black Sea	Text		
+119599	Black Sea	Text		
+119420	Black Sea	Text		
+119468	Black Sea	Text		
+119402	Black Sea	Text		
+119505	Black Sea	Text		
+119522	Black Sea	Text		
+196818	Black Sea	Text		
+119586	Black Sea	Text		
+119439	Black Sea	Text		
+119497	Black Sea	Text		
+158613	Barents Sea	Text		
+158661	Barents Sea	Text		
+119570	Barents Sea	Text		
+119562	Barents Sea	Text		
+158622	Barents Sea	Text		
+119550	Barents Sea	Text		
+119559	Barents Sea	Text		
+119574	Barents Sea	Text		
+119576	Barents Sea	Text		
+119700	Europe	Text		
+119593	Europe	Text		
+148282	La slack (stream)	Text		
+119557	North East Atlantic	Text		
+744946	North East Atlantic	Text		
+148282	Oostende	Text		
+119655	English Channel	Text		
+119655	English Channel	Text		
+119506	Adriatic Sea	Text		
+119529	Adriatic Sea	Text		
+119770	Adriatic Sea	Text		
+225692	Azores	Text		
+119651	Iceland	Text		
+119496	Iceland	Text		
+119708	Iceland	Text		
+119708	Iceland	Text		
+119707	West Coast of Ireland	Text		
+119651	West Coast of Ireland	Text		
+119651	West Coast of Ireland	Text		
+119648	West Coast of Ireland	Text		
+119648	West Coast of Ireland	Text		
+119599	West Coast of Ireland	Text		
+119599	West Coast of Ireland	Text		
+119466	West Coast of Ireland	Text		
+119656	West Coast of Ireland	Text		
+119659	West Coast of Ireland	Text		
+119660	West Coast of Ireland	Text		
+119655	Irish Sea	Text		
+119655	Irish Sea	Text		
+119466	Irish Sea	Text		
+119463	Irish Sea	Text		
+119599	Irish Sea	Text		
+196401	Irish Sea	Text		
+196881	Kara Sea	Text		
+119566	North West Atlantic	Text		
+158622	North West Atlantic	Text		
+119557	North West Atlantic	Text		
+158619	North West Atlantic	Text		
+158617	North West Atlantic	Text		
+158611	North West Atlantic	Text		
+158613	North West Atlantic	Text		
+158615	North West Atlantic	Text		
+158626	North West Atlantic	Text		
+158624	North West Atlantic	Text		
+158628	North West Atlantic	Text		
+119670	North West Atlantic	Text		
+158630	North West Atlantic	Text		
+119594	North West Atlantic	Text		
+119723	North West Atlantic	Text		
+158661	North West Atlantic	Text		
+119419	North West Atlantic	Text		
+119399	North West Atlantic	Text		
+119651	North West Atlantic	Text		
+158606	North West Atlantic	Text		
+119673	North West Atlantic	Text		
+119677	North West Atlantic	Text		
+158654	North West Atlantic	Text		
+119431	North West Atlantic	Text		
+119708	North West Atlantic	Text		
+160484	North West Atlantic	Text		
+159457	North West Atlantic	Text		
+160486	North West Atlantic	Text		
+119400	North West Atlantic	Text		
+158684	North West Atlantic	Text		
+119439	North West Atlantic	Text		
+119761	North West Atlantic	Text		
+158679	North West Atlantic	Text		
+158631	North West Atlantic	Text		
+119632	North West Atlantic	Text		
+119445	North West Atlantic	Text		
+119444	North West Atlantic	Text		
+119419	West Coast of Norway 	Text		
+119598	West Coast of Norway 	Text		
+119645	West Coast of Norway 	Text		
+119645	West Coast of Norway 	Text		
+119576	West Coast of Norway 	Text		
+119645	Oslofjord	Text		
+119648	Plymouth	Text		
+119651	Plymouth	Text		
+119651	Plymouth	Text		
+119599	Plymouth	Text		
+119599	Plymouth	Text		
+119419	Plymouth	Text		
+119399	Plymouth	Text		
+119636	Plymouth	Text		
+119636	Plymouth	Text		
+119463	Plymouth	Text		
+119395	Plymouth	Text		
+196393	Plymouth	Text		
+119396	Plymouth	Text		
+119466	Plymouth	Text		
+119628	Plymouth	Text		
+119695	Plymouth	Text		
+119684	Plymouth	Text		
+119684	Plymouth	Text		
+119608	Plymouth	Text		
+119432	Plymouth	Text		
+119432	Plymouth	Text		
+119660	Plymouth	Text		
+119661	Plymouth	Text		
+119659	Plymouth	Text		
+119506	Plymouth	Text		
+119607	Plymouth	Text		
+119652	Plymouth	Text		
+119653	Plymouth	Text		
+119656	Plymouth	Text		
+119655	Plymouth	Text		
+119655	Plymouth	Text		
+119577	Plymouth	Text		
+119700	Plymouth	Text		
+119640	Plymouth	Text		
+196401	Plymouth	Text		
+119593	Plymouth	Text		
+119593	Plymouth	Text		
+119483	Plymouth	Text		
+119723	Plymouth	Text		
+119723	Plymouth	Text		
+119700	Plymouth	Text		
+119701	Plymouth	Text		
+196398	Plymouth	Text		
+196399	Plymouth	Text		
+119594	Plymouth	Text		
+119726	Plymouth	Text		
+119726	Plymouth	Text		
+119458	Plymouth	Text		
+119632	Plymouth	Text		
+119461	Plymouth	Text		
+119750	Plymouth	Text		
+119753	Plymouth	Text		
+119754	Plymouth	Text		
+119756	Plymouth	Text		
+119773	Plymouth	Text		
+119730	Plymouth	Text		
+119687	Plymouth	Text		
+119687	Plymouth	Text		
+119597	Plymouth	Text		
+119548	Plymouth	Text		
+119715	Plymouth	Text		
+119708	Plymouth	Text		
+119707	Plymouth	Text		
+119681	West Coast of Scotland	Text		
+119552	Skagerrak	Text		
+119655	Skagerrak	Text		
+119651	Skagerrak	Text		
+119651	Skagerrak	Text		
+119645	Skagerrak	Text		
+119645	Skagerrak	Text		
+119634	Spain	Text		
+148282	Wadden Sea	IHO/EEZ		
+119600	Tunisia	Text		
+119432	Wimereux	Text		
+148282	Yerseke	Text		
+119494	Marmara Sea	Text		
+119399	Marmara Sea	Text		
+119456	Marmara Sea	Text		
+119631	Marmara Sea	Text		
+119761	Marmara Sea	Text		
+730907	Sea of Japan	Text		
+119464	Mediterranean Sea	Text		
+238157	Mediterranean Sea	Text		
+238156	Mediterranean Sea	Text		
+119599	Mediterranean Sea	Text		
+119591	Mediterranean Sea	Text		
+119591	Mediterranean Sea	Text		
+119480	Mediterranean Sea	Text		
+119610	Mediterranean Sea	Text		
+119524	Mediterranean Sea	Text		
+119529	Mediterranean Sea	Text		
+119530	Mediterranean Sea	Text		
+232238	Mediterranean Sea	Text		
+196406	Mediterranean Sea	Text		
+231439	Mediterranean Sea	Text		
+196408	Mediterranean Sea	Text		
+119482	Mediterranean Sea	Text		
+119483	Mediterranean Sea	Text		
+119484	Mediterranean Sea	Text		
+119490	Mediterranean Sea	Text		
+225792	Mediterranean Sea	Text		
+119494	Mediterranean Sea	Text		
+119495	Mediterranean Sea	Text		
+231440	Mediterranean Sea	Text		
+225834	Mediterranean Sea	Text		
+119583	White Sea	Text		
+119576	White Sea	Text		
+196883	White Sea	Text		
+196882	White Sea	Text		
+158615	White Sea	Text		
+196877	White Sea	Text		
+119564	White Sea	Text		
+196876	White Sea	Text		
+158622	White Sea	Text		
+119566	White Sea	Text		
+119651	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119655	North Sea	Text		
+119599	North Sea	Text		
+119645	North Sea	Text		
+119577	Baltic sea	Text		
+196882	Baltic sea	Text		
+119566	Baltic sea	Text		
+119574	Baltic sea	Text		
+196878	Baltic sea	Text		
+119564	Baltic sea	Text		
+119565	Baltic sea	Text		
+119555	Baltic sea	Text		
+119557	Baltic sea	Text		
+119553	Black Sea	Text		
+119558	Black Sea	Text		
+119552	Black Sea	Text		
+119564	Black Sea	Text		
+196799	Black Sea	Text		
+196541	Black Sea	Text		
+119494	Black Sea	Text		
+119495	Black Sea	Text		
+119490	Black Sea	Text		
+119687	Sète	Text		
+119461	Sète	Text		
+119445	Sète	Text		
+119684	Sète	Text		
+119721	Sète	Text		
+119739	Sète	Text		
+119467	Sète	Text		
+119465	Sète	Text		
+119463	Sète	Text		
+119644	Sète	Text		
+119700	Sète	Text		
+119723	Sète	Text		
+119718	Sète	Text		
+196564	Sète	Text		
+119492	Sète	Text		
+119571	Belgian Exclusive Economic Zone	Text		
+119568	Belgian Exclusive Economic Zone	Text		
+119552	Belgian Exclusive Economic Zone	Text		
+119653	Belgian Exclusive Economic Zone	Text		
+119657	Belgian Exclusive Economic Zone	Text		
+119552	Polish Exclusive Economic Zone	Text		
+518541	Spanish Exclusive Economic Zone	Text		
+119561	Spanish Exclusive Economic Zone	Text		
+196401	Spanish Exclusive Economic Zone	Text		
+119580	Spanish Exclusive Economic Zone	Text		
+119726	Spanish Exclusive Economic Zone	Text		
+119506	Spanish Exclusive Economic Zone	Text		
+119674	Spanish Exclusive Economic Zone	Text		
+518045	Spanish Exclusive Economic Zone	Text		
+518046	Spanish Exclusive Economic Zone	Text		
+119498	Spanish Exclusive Economic Zone	Text		
+119499	Spanish Exclusive Economic Zone	Text		
+119714	Norwegian Sea	Text		
+119576	Norwegian Sea	Text		
+119574	Norwegian Sea	Text		
+119570	Norwegian Sea	Text		
+119562	Norwegian Sea	Text		
+158622	Norwegian Sea	Text		
+119559	Norwegian Sea	Text		
+119555	Norwegian Sea	Text		
+119550	Norwegian Sea	Text		
+160486	Gulf of Maine	Text		
+159457	Gulf of Maine	Text		
+160484	Gulf of Maine	Text		
+158684	Gulf of Maine	Text		
+119439	Gulf of Maine	Text		
+158679	Gulf of Maine	Text		
+119761	Gulf of Maine	Text		
+119632	Gulf of Maine	Text		
+158611	Gulf of Maine	Text		
+158622	Gulf of Maine	Text		
+158626	Gulf of Maine	Text		
+158628	Gulf of Maine	Text		
+158661	Gulf of Maine	Text		
+119419	Gulf of Maine	Text		
+119399	Gulf of Maine	Text		
+119677	Gulf of Maine	Text		
+158654	Gulf of Maine	Text		
+119431	Gulf of Maine	Text		
+119651	Gulf of Maine	Text		
+158606	Gulf of Maine	Text		
+119673	Gulf of Maine	Text		
+148282	Spuikom	Text		
+119632	Cobscook Bay	Text		
+834004	Senegalese part of the North Atlantic Ocean	Text		
+119632	North Sea	Text		
+158622	Greenlandic part of Baffin Bay	Text		
+834004	Mediterranean Sea Area	Text		
+119498	Baltic sea	Text	Alien	
+119499	Baltic sea	Text	Alien	
+395058	Israeli part of the Mediterranean Sea - Eastern Basin	Text	Alien	
+395059	Israeli part of the Mediterranean Sea - Eastern Basin	Text	Alien	
+395060	Israeli part of the Mediterranean Sea - Eastern Basin	Text	Alien	
+519289	Italian part of the Ionian Sea	Text	Alien	
+119499	Swedish part of the Baltic Sea	Text	Alien	
+119498	Swedish part of the Baltic Sea	Text	Alien	
+119489	Ukraine	Text	Alien	
+119584	Ukraine	Text	Alien	
+119572	Ukraine	Text	Alien	
+119498	Atlantic	Text	Alien	
+238743	Black Sea	Text	Alien	
+119498	North Sea	Text	Alien	
+119499	North Sea	Text	Alien	
+119580	North Sea	Text	Alien	
+119498	Russia	Text	Alien	
+119499	Russia	Text	Alien	
+718256	Israeli part of the Mediterranean Sea - Eastern Basin	Text	Alien	
+119580	Swedish part of the Kattegat	Text	Origin uncertain	
+119580	Swedish part of the Skagerrak	Text	Origin uncertain	
+395029	Israeli part of the Mediterranean Sea - Eastern Basin	Text	Origin unknown	

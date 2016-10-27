@@ -1,0 +1,9 @@
+ID	ReferenceType	ReferenceID	
+141971	TaxAccRef	1364	
+141971	TaxAccRef	6827	
+141971	TaxAccRef	41597	
+141971	TaxAccRef	165516	
+141972	TaxAccRef	1364	
+141972	TaxAccRef	6827	
+141972	TaxAccRef	41598	
+141972	TaxAccRef	165516	

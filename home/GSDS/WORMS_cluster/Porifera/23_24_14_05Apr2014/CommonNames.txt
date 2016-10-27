@@ -1,0 +1,246 @@
+AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
+165160	Αυτί του ελέφαντα				Modern Greek (1453-)	147411	
+165220	Φίνο				Modern Greek (1453-)	147411	
+165250	Σωληνοσφούγγαρο				Modern Greek (1453-)	147411	
+165251	Τσιμούχα = ‘Tsimoucha’ 				Modern Greek (1453-)	147411	
+165160	Λαγόφυτο				Modern Greek (1453-)	147411	
+165220	Μελάτια				Modern Greek (1453-)	147411	
+132377	Καπάδικο				Modern Greek (1453-)	147411	
+132275	gelber-Gitterkalkschwamm				German		
+133445	orangeroter Krustenschwamm				German		
+166616	Rosa Zylinderschwamm				German		
+133543	Kraterschwamm				German		
+132356	Grauer-Lederschwamm				German		
+133928	Fleischschwamm				German		
+166837	Feigenschwamm				German		
+134235	orangefarbener Strahlenschwamm				German		
+132321	Höhlenwächterschwamm				German	163039	
+133693	blauer Krustenschwamm				German	163039	
+165081	Krustenlederschwamm				German	163039	
+134311	Meerorange				German	163039	
+134121	gelber Bohrschwamm				German	147412	
+167144	großer Süßwasserschwamm				German	147412	
+132575	Pinselschamm				German		
+132277	weißer-Gitterkalkschwamm				German		
+157411	roter Schwamm				German		
+170892	blauwer Krustenschwamm				German		
+134312	Zitrone Schwam				German		
+132316	weißer Stachelschwamm				German	147412	
+132317	weißer Stachelschwamm				German	147412	
+134285	Feigenschwamm				German	147412	
+165853	Brotkrumenschwamm				German	147412	
+132736	Gallertschwamm				German	147412	
+132201	Fladenkalkschwamm				German	147412	
+132216	Röhrenkalkschwamm				German	147412	
+134121	gelber Borschwamm				German	1116	
+132833	Geweihschwamm				German	1116	
+132233	Kalkschwamm				German	1116	
+132251	Wimperkalkschwamm				German	1116	
+132487	löchriger Geweihschwamm				German		
+132499	Lamellengeweihschwamm				German		
+133911	Goldschwamm				German		
+133911	goldener Zapfenschwamm				German		
+133911	esponja amarela				Portuguese		
+134112	esponja de vidro				Portuguese		
+133911	verongia				Italian		
+132487	spugna alberello				Italian		
+132499	spugna verrucosa				Italian		
+134112	spugna patata				Italian		
+132275	clatrina gialla				Italian		
+133445	spugna dello spondillo				Italian		
+166616	spugna a canne d'organo				Italian		
+133928	spugna viola				Italian		
+166837	spugna petrosia				Italian		
+134235	spugna rossa				Italian		
+134235	spirastrella				Italian		
+132377	spugna equina  				Italian	147411	
+133913	spugna cavernicola gialla				Italian	163039	
+132321	disidea				Italian	163039	
+133693	spugna incostante blu				Italian	163039	
+266969	orecchio d'elefante				Italian	163039	
+132575	spugna con granchio facchino				Italian		
+132277	clatrina bianca				Italian		
+134312	spugna limone				Italian		
+132275	clathrina amarilla 				Spanish		
+133445	esponja incrustante anaranjada-roja				Spanish		
+133543	esponja con crateres				Spanish		
+133928	esponja azul				Spanish		
+134235	esponja incrustante naranja				Spanish		
+133911	esponja de tubo amarilla				Spanish	163039	
+133913	verongia cavernícola				Spanish	163039	
+132472	esponja de cuernos de gamo				Spanish	163039	
+132487	esponja cornuda				Spanish	163039	
+132499	esponja verrugosa				Spanish	163039	
+134112	esponja de cuero				Spanish	163039	
+134121	esponja perforante				Spanish	163039	
+134146	esponja perforante verde				Spanish	163039	
+132321	esponja diside				Spanish	163039	
+166616	esponja tubo púrpura				Spanish	163039	
+133928	esponja morada				Spanish	163039	
+166837	petrosia dura				Spanish	163039	
+133679	esponja masiva roja				Spanish	163039	
+133693	esponja incrustante azul				Spanish	163039	
+266969	oreja de elefantes				Spanish	163039	
+134311	naranja de mar				Spanish	163039	
+132277	clathrina blanco				Spanish		
+134312	Esponja limón				Spanish		
+132377	sfungjeri me zgavra				Albanian	151643	
+132499	sfungjeri gishtor				Albanian	151643	
+134282	sfungjeri me kore				Albanian	151643	
+134311	portokalli i detit me pufka				Albanian	151643	
+133445	esponja incrustant vermella				Catalan		
+166837	esponja de pedra				Catalan		
+132454	esponja taronja lobulada				Catalan	163043	
+133911	esponja d'or				Catalan	163039	
+133911	aplisina				Catalan	163043	
+133913	verongia cavernícola				Catalan	163039	
+134112	esponja de cuir				Catalan	163039	
+134112	patata de mar				Catalan	163043	
+132275	esponja grogra reticulada				Catalan	163043	
+134121	esponja perforant				Catalan	163039	
+134146	esponja perforant verda				Catalan	163039	
+133928	esponja lila				Catalan	163039	
+166837	petrosia				Catalan	163039	
+165081	esponja catedral				Catalan	163039	
+266969	orella d'elefant				Catalan	163039	
+134311	taronja de mar				Catalan	163039	
+132455	eponge épineuse orange				French		
+133911	vérongia				French		
+132472	axinelle plate				French		
+134121	clione jaune				French	1116	
+132833	chaline				French	1116	
+132233	leuconie				French	1116	
+132251	sycon				French	1116	
+132487	axinelle commune				French		
+132499	axinelle verruqueuse				French		
+134112	éponge-cuir				French		
+134146	clione verte				French		
+133445	éponge encroûtante orange-rouge				French		
+166616	éponge tubulaire rose				French		
+133543	éponge à cratères				French		
+132356	ircinia sombre				French		
+133928	éponge bleue				French		
+132317	éponge épineuse blanche				French		
+134235	éponge encroûtante orange				French		
+133913	éponge cavernicole jaune				French	163039	
+134112	éponge-rognon				French	163043	
+132275	clathrine jaune				French	163043	
+132321	éponge cavernicole violette				French	163039	
+132324	éponge mie de pan mouillée				French	163039	
+166837	éponge pierre				French	163039	
+133693	éponge encroûtante bleuâtre				French	163039	
+165081	ircinia fibreuse				French	163039	
+266969	oreille d'éléphant				French	163039	
+150225	éponge mousse de carotte				French		
+132575	éponge pinceau				French		
+132277	clathrine blanche				French		
+166605	chaline cendrée				French		
+157411	clione rouge				French		
+133150	rameau de chocolat				French		
+134312	citron de mer				French		
+132833	chalina digitée				French	145894	
+165251	fine dure, chimousse				French		
+132883	paarse buisjesspons				Dutch	685	
+132233	witte buisjesspons				Dutch	1116	
+132251	gewone zakspons				Dutch	685	
+132487	vertakt geweispons				Dutch		
+133445	oranjerode korstspons				Dutch		
+132321	roze stekelspons				Dutch		
+166616	roze buisjesspons				Dutch		
+133543	roze kraterspons				Dutch		
+133928	gelobde spons				Dutch		
+166837	harde vijgspons				Dutch		
+133693	blauwige korstspons				Dutch		
+134121	boorspons				Dutch	685	
+165853	broodspons				Dutch		
+132833	geweispons				Dutch	685	
+132275	gele traliekalkspons				Dutch	9880	
+134121	gele boorspons				Dutch	9880	
+134139	rode boorspons				Dutch	9880	
+134146	groene boorspons				Dutch	9880	
+132252	gekraagde kalkspons				Dutch	9880	
+165801	sliertige broodspons				Dutch		
+235864	schoorsteenspons				Dutch		
+132663	bleke piekjesspons				Dutch		
+132216	gewone buisjesspons				Dutch	685	
+132219	vertakte witte buisjesspons				Dutch		
+132233	grillige buisjesspons				Dutch	685	
+168589	grijze korstspons				Dutch		
+134285	vijgspons				Dutch	685	
+132258	harige zakspons				Dutch	685	
+132575	penseelspons				Dutch		
+132277	witte traliekalkspons				Dutch		
+166637	rose kussenspons				Dutch	150220	
+132736	weke sponsje				Dutch		
+170892	blauwe korstspons				Dutch		
+134312	citroen spons				Dutch		
+134024	sunger				Turkish	147411	
+134025	sunger				Turkish	147411	
+134106	sunger				Turkish	147411	
+133941	sunger				Turkish	147411	
+133928	sunger				Turkish	147411	
+133938	sunger				Turkish	147411	
+134348	sunger				Turkish	147411	
+133958	sunger				Turkish	147411	
+133961	sunger				Turkish	147411	
+134011	sunger				Turkish	147411	
+133911	houba komínová				Czech		
+194607	short-tubed boring sponge				English		
+194608	Cachacrou boring sponge				English		
+178378	coral-eating boring sponge				English		
+573748	labyrithical boring sponge				English		
+178376	slimy boring sponge				English		
+178377	Jamaica boring sponge				English		
+134121	yellow boring sponge				English	1116	
+132233	calcareous tube-sponge				English	1116	
+132251	ciliated sponge				English	1116	
+345057	Bob Marley sponge				English		
+132487	common antlers sponge				English		
+132499	mediterranean mermaids glove				English		
+132275	yellow Clathrina   				English		
+134121	red boring sponge				English		
+133445	orange-red encrusting sponge    				English		
+133543	crater sponge    				English		
+133928	flesh sponge				English		
+166837	stony sponge				English		
+134235	encrusting orange sponge				English		
+133247	mermaid's glove				English	7566	
+220454	crumpled sponge				English	6561	
+168257	stinging tube sponge				English	6066	
+166083	spiky tube sponge				English	6066	
+169378	purple-staining sponge				English	6066	
+165171	bath sponge				English	6066	
+168413	black sack sponge				English	6066	
+166902	barrel sponge				English	6066	
+133913	yellow cave-sponge				English	163039	
+132762	Loosanoff's haliclona				English	2901	
+134121	boring sponge				English	1116	
+132321	pink sponge				English	163039	
+132324	goosebump sponge				English	163039	
+165853	breadcrumb sponge				English		
+166616	pink tube sponge     				English	163039	
+132216	orange pipe sponge				English	2901	
+133693	bluish encrusting sponge				English	163039	
+157411	boring sponge				English	2901	
+165081	stinker sponge				English	163039	
+266969	elephant ear				English	163039	
+134285	fig sponge				English	2901	
+170988	golfball sponge				English	6066	
+150225	carrot-sponge				English		
+132575	brush sponge				English		
+132277	white clathrina				English		
+167030	Turkish pie				English		
+170892	blue encrusting sponge				English		
+134312	sea lemon				English		
+132558	pork scratching sponge				English		
+132181	purse sponge				English	147411	
+165801	Bowerbank's halichondria				English	147411	
+132833	mermaid's glove				English	147411	
+132511	chalice sponge				English	147411	
+134311	golf ball sponge				English	147411	
+132473	branching sponge				English	10085	
+714090	yellow flabby-sponge				English	3042	
+165251	leather sponge				English		
+165251	zimoukha				Arabic		
+134121	wiertka złotawa				Polish		
+167144	nawodnik rzeczny				Polish	147411	

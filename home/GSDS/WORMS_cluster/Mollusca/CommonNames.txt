@@ -1,0 +1,3337 @@
+AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
+140712	risdiskur				Icelandic	124438	
+140271	smokkfiskur				Icelandic		
+140679	rudoji patela				Lithuanian	147411	
+140780	kilnioji pina				Lithuanian	147411	
+140459	akmengraužis				Lithuanian	147411	
+140658	paprastoji austrė				Lithuanian	147411	
+426425	siaurasis vertigas				Lithuanian	147411	
+342149	kaminari-ika				Japanese	124589	
+342149	mongouika				Japanese	124589	
+225586	hana-ika				Japanese	124589	
+140605	ma-dako tako				Japanese	9810	
+181376	torafu-kouika				Japanese	124589	
+181376	mongouika				Japanese	124589	
+141444	mongo-ika				Japanese	124589	
+141444	yoroppa kouika				Japanese	124589	
+141444	ko-ika				Japanese	9810	
+141444	ma-ika				Japanese	9810	
+342315	niyori-mimi-ika				Japanese	124589	
+153107	harinashi-kouika				Japanese	124589	
+153107	shirikusari				Japanese	124589	
+153107	shiriyakeika				Japanese	124589	
+342198	bouzuika				Japanese	124589	
+342367	hana-ika				Japanese	124589	
+140605	ośmiornica zwyczajna				Polish		
+147123	wodożytka nowozelandzka				Polish	147411	
+140430	małgiew piaskołaz				Polish	147411	
+138788	arka Noego				Polish		
+141579	rogowiec bałtycki				Polish	147411	
+141444	mątwa zwyczajna				Polish		
+141444	mątwa pospolita				Polish		
+426425	poczwarówka zwężona				Polish	147411	
+140271	kałamarnice				Polish		
+153558	rozdepka rzeczna				Polish	147411	
+140780	delici midye				Turkish	147411	
+138802	deniz tarağı				Turkish	147411	
+140459	deniz midyesi				Turkish	147411	
+140459	taş midyesi				Turkish	147411	
+140459	yeşil ağaç salyangozu				Turkish	147411	
+141444	sübye				Turkish	124589	
+382205	dev deniz taragi				Turkish	147411	
+140271	kalamar				Turkish		
+140658	istiridye				Turkish	147411	
+138878	salyangoz				Turkish	147411	
+207670	dev deniz taragi				Turkish	147411	
+140712	cragen gylchog				Welsh	124438	
+141444	txautxa				Basque	163039	
+141444	txibia				Basque		
+140301	txirla zuria				Basque	163043	
+140271	txipiroiak				Basque		
+140480	muskuilu				Basque		
+140350	Донацила рогова 				Ukrainian	147411	
+140780	Пинна шляхетна				Ukrainian	147411	
+140459	Морський фінік				Ukrainian	147411	
+140658	Устриця звичайна				Ukrainian	147411	
+140658	Устриця їстівна				Ukrainian	147411	
+413623	Черенок 				Ukrainian	147411	
+426425	Вертиго вузький				Ukrainian	147411	
+138823	Montagus astartemusling				Danish	147411	
+141774	stor topsnegl				Danish	147411	
+139009	tyndskallet hjertemusling				Danish	147411	
+248248	blæresnegl				Danish	147411	
+140838	stribet nøgensnegl				Danish	147411	
+141374	pyramidetangsnegl				Danish	147411	
+141424	flad pebermusling				Danish	147411	
+139959	slidset albueskæl				Danish	147411	
+140302	hvælvet trugmusling				Danish	147411	
+138709	stor trådsnegl				Danish	147411	
+140152	rød skallus				Danish	147411	
+141767	plettet topsnegl				Danish	147411	
+141435	glanspebermusling				Danish	147411	
+140767	almindelig boremusling				Danish	147411	
+140733	sværdskedemusling				Danish	147411	
+140533	montagus boresnegl				Danish	147411	
+141320	halvribbet tangsnegl				Danish	147411	
+138912	almindelig konk				Danish	147411	
+140299	tykskallet trugmusling				Danish	147411	
+140431	afstumpet sandmusling				Danish	147411	
+138678	lille spiralribbet pighudesnegl				Danish	147411	
+138963	tøffelsnegl				Danish	147411	
+146732	vingeribbet pigsnegl				Danish	147411	
+153552	stribet albueskæl				Danish	147411	
+139686	fløjlssnegl				Danish	147411	
+234103	dammusling 				Danish	147411	
+138814	marsksnegl				Danish	147411	
+426363	sandravsnegl				Danish	147411	
+248263	øresnegl				Danish	147411	
+181564	stor bønnemusling				Danish	147411	
+141908	almindelig venusmusling				Danish	147411	
+141308	slank tangsnegl				Danish	147411	
+140168	lavspiret grubesnegl				Danish	147411	
+141715	venstresnoet tårnsnegl				Danish	147411	
+140579	stor svanehalsmusling				Danish	147411	
+426427	græsvindelsnegl				Danish	147411	
+154008	stor sumpsnegl				Danish	147411	
+141976	træ-boremusling				Danish	147411	
+138760	pelikanfod				Danish	147411	
+182699	almindelig sumpsnegl				Danish	147411	
+140732	Amerikansk knivmusling 				Danish	147411	
+505666	oddermusling				Danish	147411	
+140266	lille strandsnegl				Danish	147411	
+181563	lille bønnemusling				Danish	147411	
+141602	skibspæleorm 				Danish	147411	
+141587	stribet tallerkenmusling				Danish	147411	
+141902	lille fløjsskæl				Danish	147411	
+146733	ribbet pigsnegl				Danish	147411	
+140702	glat kammusling				Danish	147411	
+141251	netribbet tangsnegl				Danish	147411	
+140717	syvribbet kammusling				Danish	147411	
+140712	kammusling				Danish	124438	
+426355	pletbåndet solsnegl				Danish	147411	
+140712	stor kammusling				Danish	147411	
+139410	hampefrømusling				Danish	147411	
+139010	lille hjertemusling				Danish	147411	
+292689	tvetandssnegl				Danish	147411	
+140737	lille knivmusling				Danish	147411	
+140103	hulemusling				Danish	147411	
+141580	stor østersømusling				Danish	147411	
+139265	slank pilsnegl				Danish	147411	
+140503	tandet dværgkonk				Danish	147411	
+140512	keglekormet dværgkonk				Danish	147411	
+140605	almindelig ottearmet blæksprutte				Danish	147411	
+147123	ungefødende dyndsnegl  				Danish	147411	
+141341	rav-tangsnegl				Danish	147411	
+141639	brakvandstrådsnegl				Danish	147411	
+141741	nordlig kauri 				Danish	147411	
+139903	krum pighudesnegl				Danish	147411	
+140771	stor boremusling				Danish	147411	
+138899	slank tensnegl				Danish	147411	
+181590	skjoldsnegl				Danish	147411	
+138824	furet astartemusling				Danish	147411	
+139217	bølgebåndet pilsnegl				Danish	147411	
+140187	spids albueskæl				Danish	147411	
+140430	almindelig sandmusling				Danish	147411	
+140589	almindelig nøddemusling				Danish	147411	
+138681	spiralribbet pighudesnegl				Danish	147411	
+140687	jomfruøsters				Danish	147411	
+140151	marmoreret skallus				Danish	147411	
+141230	prikket tangsnegl				Danish	147411	
+138758	søhare				Danish	147411	
+146905	almindelig vindeltrappesnegl				Danish	147411	
+150534	almindelig søtand				Danish	147411	
+138802	molboøsters				Danish	147411	
+140023	tungemusling				Danish	147411	
+141359	stor tangsnegl				Danish	147411	
+140173	kappeskæl				Danish	147411	
+426408	karteusersnegl				Danish	147411	
+139673	evesnegl				Danish	147411	
+141595	almindelig tallerkenmusling				Danish	147411	
+138793	Αγριόμυδο				Modern Greek (1453-)	147411	
+140767	Άσπρο δάκτυλο				Modern Greek (1453-)	147411	
+140350	Αμμοκόχυλο				Modern Greek (1453-)	147411	
+140601	Μοσκιός				Modern Greek (1453-)	147411	
+140733	Στραβοσωλήνας				Modern Greek (1453-)	147411	
+381057	Αγριομεθύστρα				Modern Greek (1453-)	147411	
+394429	Μεγάλο χτένι				Modern Greek (1453-)	147411	
+140869	Έσπερος				Modern Greek (1453-)	147411	
+141452	Σουπίτσα				Modern Greek (1453-)	147411	
+140299	Μικρή γυαλιστερή				Modern Greek (1453-)	147411	
+140401	Ρεπάνι				Modern Greek (1453-)	147411	
+140499	Κοφίνι Αφρικής				Modern Greek (1453-)	147411	
+140048	Κουτάλι				Modern Greek (1453-)	147411	
+394429	Χτένι Ιακώβου				Modern Greek (1453-)	147411	
+140716	Τρίφτης				Modern Greek (1453-)	147411	
+140302	Αχιβαδάκι				Modern Greek (1453-)	147411	
+138966	Παντόφλα				Modern Greek (1453-)	147411	
+139602	Κίτρινο κοχύλι				Modern Greek (1453-)	147411	
+139066	Στριφτάρι				Modern Greek (1453-)	147411	
+139066	Κέρατο				Modern Greek (1453-)	147411	
+181057	Βούκινο				Modern Greek (1453-)	147411	
+139023	Αγριοκανάτα				Modern Greek (1453-)	147411	
+141767	Μεγάλος τροχός				Modern Greek (1453-)	147411	
+139059	Σκαλτσίνι Αιγαίου				Modern Greek (1453-)	147411	
+139066	Σκαλτσίνι				Modern Greek (1453-)	147411	
+141424	Γλυκοκόχυλο				Modern Greek (1453-)	147411	
+140302	Πετσινάκι				Modern Greek (1453-)	147411	
+140295	Πετσίνα				Modern Greek (1453-)	147411	
+141581	Κυκλοτελλίνα				Modern Greek (1453-)	147411	
+140495	Αμμοκόφινο				Modern Greek (1453-)	147411	
+141874	Λασπόπυργος				Modern Greek (1453-)	147411	
+139502	Γουρουνίτσα				Modern Greek (1453-)	147411	
+140647	Καλαμάρι άγγελος				Modern Greek (1453-)	147411	
+140529	Σκουροφέγγαρο				Modern Greek (1453-)	147411	
+138993	Ραβδωτή μεθύστρα				Modern Greek (1453-)	147411	
+139125	Μακρυπλόκαμο καλαμάρι				Modern Greek (1453-)	147411	
+140111	Καλαμάρι ομπρέλα				Modern Greek (1453-)	147411	
+140236	Βεντάλια				Modern Greek (1453-)	147411	
+141447	Κοντόχοντρη σουπίτσα				Modern Greek (1453-)	147411	
+153134	Καλαμαράκι				Modern Greek (1453-)	147411	
+138760	Πελεκανοπόδαρο				Modern Greek (1453-)	147411	
+180993	Τσαρούχι				Modern Greek (1453-)	147411	
+138994	Αχινομεθύστρα				Modern Greek (1453-)	147411	
+141687	Μπουχόνα				Modern Greek (1453-)	147411	
+141687	Κοχύλα				Modern Greek (1453-)	147411	
+141753	Κοκκώδης τροχός				Modern Greek (1453-)	147411	
+141787	Τροχός παγόδα				Modern Greek (1453-)	147411	
+141802	Τροχός φυκιών				Modern Greek (1453-)	147411	
+141451	Σουπίτσα αίνιγμα				Modern Greek (1453-)	147411	
+141453	Ομορφοσουπίτσα				Modern Greek (1453-)	147411	
+140417	Πορφύρα				Modern Greek (1453-)	147411	
+141687	Μπουρού				Modern Greek (1453-)	147411	
+140481	Μύδι				Modern Greek (1453-)	147411	
+140487	Κουμπί				Modern Greek (1453-)	147411	
+181006	Μπουρού				Modern Greek (1453-)	147411	
+139024	Γραμμωτή κανάτα				Modern Greek (1453-)	147411	
+140687	Χτένι				Modern Greek (1453-)	147411	
+141759	Σπειρωτός τροχός				Modern Greek (1453-)	147411	
+181006	Πολύχρωμος τρίτωνας				Modern Greek (1453-)	147411	
+138924	Χρωματιστό βούκινο				Modern Greek (1453-)	147411	
+140294	Ριγωτή πετσίνα				Modern Greek (1453-)	147411	
+140430	Σκαφτιάς				Modern Greek (1453-)	147411	
+140494	Κερατοκόφινο				Modern Greek (1453-)	147411	
+141541	Ξυραφάκι				Modern Greek (1453-)	147411	
+141773	Τροχός μασέλα				Modern Greek (1453-)	147411	
+139399	Κοραλλοκόχυλο				Modern Greek (1453-)	147411	
+139603	Βιολετί κοχύλι				Modern Greek (1453-)	147411	
+387245	Στραβόστρομπος				Modern Greek (1453-)	147411	
+141446	Άστατη σουπίτσα				Modern Greek (1453-)	147411	
+141807	Τραχύς τροχός				Modern Greek (1453-)	147411	
+140271	Καλαμάρι				Modern Greek (1453-)	147411	
+141450	Συμμετρική σουπίτσα				Modern Greek (1453-)	147411	
+141650	Θρακιά				Modern Greek (1453-)	147411	
+141680	Ρομβοκαλάμαρο				Modern Greek (1453-)	147411	
+140480	Μύδι Ατλαντικού				Modern Greek (1453-)	147411	
+731296	Bokhoring				Afrikaans	176761	
+234093	kërmilli mëshikëz me majë				Albanian	151643	
+140233	midhja lime				Albanian	151643	
+139931	kërmilli boshtor mesdhetar				Albanian	151643	
+140684	kupa laramane				Albanian	151643	
+426411	kërmilli i dunave				Albanian	151643	
+141912	artemisja e lëmuar				Albanian	151643	
+140508	kërmilli kosh				Albanian	151643	
+141443	sepja elegante				Albanian	151643	
+141444	sepja				Albanian	151643	
+141444	sipa				Albanian	151643	
+141444	supja				Albanian	151643	
+426375	kërmilli i djerrinave ranore				Albanian	151643	
+140677	kupa blu				Albanian	151643	
+140891	midhja zog				Albanian	151643	
+138940	bushiq deti				Albanian	151643	
+140271	kallamari				Albanian	151643	
+140271	kalmari				Albanian	151643	
+140271	lignja				Albanian	151643	
+140271	ulignja				Albanian	151643	
+140025	bajame deti				Albanian	151643	
+140658	gurca				Albanian	151643	
+140658	gurrca				Albanian	151643	
+140658	midhja e gurtë				Albanian	151643	
+140658	stridhe				Albanian	151643	
+138748	gurca si shale				Albanian	151643	
+141906	flegërtrasha e lëmuar				Albanian	151643	
+181582	kërmilli i madh i kënetës				Albanian	151643	
+141549	gurca me gjëmba				Albanian	151643	
+140770	midhja shpuese				Albanian	151643	
+141590	telina e madhe				Albanian	151643	
+141944	kërmilli guaskëkrimb				Albanian	151643	
+140549	kermilli hënë i jozefinës				Albanian	151643	
+141872	kërmilli kullë				Albanian	151643	
+141936	venusi me lytha				Albanian	151643	
+140417	kërmilli buzëkuq kokërrizor				Albanian	151643	
+141687	kërmilli gaviç				Albanian	151643	
+138760	kërmilli këmbëpelikan				Albanian	151643	
+139066	kërmilli karficë				Albanian	151643	
+139952	kupa e vrimuar italiane				Albanian	151643	
+139602	midhja buzësharrë				Albanian	151643	
+139023	kërmilli zile me gunga				Albanian	151643	
+141424	petashuqja e lagunave				Albanian	151643	
+182693	kërmilli kulaç				Albanian	151643	
+154006	kërmilli këlyshlindës me majë				Albanian	151643	
+139502	medaljoni dardhor				Albanian	151643	
+381057	midhja zemër me gunga				Albanian	151643	
+140601	oktapodi me aromë				Albanian	151643	
+140733	midhja shpatë				Albanian	151643	
+394429	dhambsuta				Albanian	151643	
+394429	midhja freskore				Albanian	151643	
+248263	kërmilli si vesh i baltave				Albanian	151643	
+154008	kërmilli këlyshlindës i lumit				Albanian	151643	
+138758	lepuri i detit				Albanian	151643	
+140687	freskorja e mbretëreshës				Albanian	151643	
+140487	ruazë e detit				Albanian	151643	
+140396	kërmilli guaskëpurpur				Albanian	151643	
+139951	kupa e vrimuar europiane				Albanian	151643	
+141907	venusi me shirita				Albanian	151643	
+139499	medaljoni i përflaktë				Albanian	151643	
+140605	likurishtja				Albanian	151643	
+140605	oktapodi i zakonshëm				Albanian	151643	
+140605	tetëkëmbëshi				Albanian	151643	
+140481	midhja e zezë				Albanian	151643	
+138788	midhja varkë e noes				Albanian	151643	
+140459	midhja hurmë				Albanian	151643	
+426408	kërmilli hartë				Albanian	151643	
+140023	midhja e madhe zemër				Albanian	151643	
+140780	midhja si pendë				Albanian	151643	
+140459	mаlak kаmenoprobivаch				Bulgarian	147411	
+140459	Малък каменопробивач				Bulgarian	147411	
+140780	blаgorodnа pinа				Bulgarian	147411	
+140780	Благородна пина				Bulgarian	147411	
+141444	sepija				Bulgarian	124589	
+140679	sredizemnomorskа kitаyskа shаpchitsа				Bulgarian	147411	
+140679	Средиземноморска китайска шапчица				Bulgarian	147411	
+141936	escopinya gravada				Catalan	163043	
+140600	pop blanc				Catalan	163043	
+138757	llebre de mar petita				Catalan	163039	
+141549	ostra vermella				Catalan	163039	
+140658	ostra comuna				Catalan		
+140271	calamar				Catalan	163039	
+141607	broma				Catalan	163043	
+141607	corc marí				Catalan	163043	
+138755	llebre de mar negre				Catalan	163039	
+141444	sípia comuna				Catalan		
+139989	flabellina blanca				Catalan	163039	
+141549	ostra vermella				Catalan	163043	
+140656	ostra japonesa				Catalan	163043	
+140431	gestutzte Klaffmuschel				German	147412	
+394429	Jakobsmuscheln				German	163043	
+394429	Pilgermuscheln				German	163043	
+141737	Hornkorall Fadenschnecke				German	163041	
+138963	Pantoffelschnecke				German	686	
+138878	Wellhornschnecke				German	686	
+140299	bunte Trogmuschel				German	686	
+140431	abgestutzte Klaffmuschel				German	686	
+140767	weise Bohrmuschel				German	686	
+140767	Engelsflügel				German	686	
+248263	Ohrenschlammschnecke				German	147412	
+140767	weiße Bohrmuschel				German	147412	
+140733	schwertförmige Scheidenmuschel				German	147412	
+141587	gerippte Tellmuschel				German	83	
+140732	Amerikanische Schwertmuschel				German	123768	
+141587	Bohnen-Plattmuschel				German	83	
+140732	Amerikanische Scheidenmuschel				German	43064	
+140166	Schwamm-Sternschnecke				German	163041	
+153134	marmorierter Zwergkalmar				German	147412	
+138760	Pelikanfus				German	686	
+140481	Mittelmeermiesmuschel				German	686	
+138760	Pelikanfuß				German	147412	
+182699	gemeine Schnauzenschnecke				German	147412	
+138923	kantige Spindelschnecke				German	147412	
+141424	Pfeffermuschel				German	123768	
+138709	breitwartige Fadenschnecke				German	1116	
+140302	gedrungene Trogmuschel				German	83	
+141908	gestreifte Venusmuschel				German	83	
+139768	Blasse Fadenschnecke				German	147412	
+140430	Sandklaffmuschel				German	147412	
+140589	glänzende Nußmuschel				German	83	
+140687	gefelderte Kammmuschel				German	163043	
+140396	Purpurschnecke				German		
+146905	gemeine Wendeltreppe				German	686	
+138758	gemeiner Seehase				German	163039	
+140687	kleine Pilgermuschel				German	123768	
+140687	Reisemantel				German	686	
+140430	Klaffmuschel				German	686	
+140430	Sandmuschel				German	686	
+140151	marmorierte Käferschnecke				German	147412	
+146905	unechte Wendeltreppe				German	147412	
+509315	Leopardschnecke				German	163039	
+509315	gefleckter Doris				German	163041	
+140780	Schinkenmuschel				German	163039	
+141580	Kalk-Plattmuschel				German	147412	
+140737	durchsichtige Scheidenmuschel				German	147412	
+140712	groβe Pilgermuschel				German	163043	
+141741	Europäische Kauri				German		
+416668	kurzschwanzekrebs Rote				German	9810	
+138709	breitwarzige Fadenschnecke				German	147412	
+139602	gestutzte Dreieckmuschel				German	686	
+141424	grosse Pfeffermuschel				German	686	
+140838	gestreifte Hörnchenschnecke				German	147412	
+140152	rote Käferschnecke				German	147412	
+140059	Meerohr				German	686	
+139009	Kopenhagener Herzmuschel				German	147412	
+139686	grüne Samtschnecke				German	1116	
+139993	violette Fadenschnecke				German		
+140780	Edle Steckmuschel				German	147411	
+140780	große Steckmuschel				German	147411	
+140235	Feilenmuschel				German	163039	
+141741	gerippte Kaurischnecke				German	686	
+140712	grosse Kammmuschel				German	686	
+140103	Felsenbohrer				German	686	
+140771	krause Bohrmuschel				German	686	
+141639	Brackwasser Fadenschnecke				German	147412	
+140712	Kammuschel				German	124438	
+140405	gerippte Purpurschnecke				German		
+140405	Austernbohrer				German		
+140780	Edle				German		
+140605	gemeiner Krake				German	9810	
+140605	gewöhnlicher Krake				German	9810	
+141595	dünne Plattmuschel				German	83	
+141595	platte Tellmuschel				German	83	
+141546	Messerscheide-Muschel				German	123768	
+138788	Arche Noah-Muschel				German		
+182807	gefleckte Hörnchenschnecke				German	147412	
+139523	Bäumchenschnecke				German	1116	
+139938	große orangerote Fadenschnecke				German		
+139988	violette Fadenschnecke				German		
+139687	gestreifte Flügelschnecke				German		
+140459	Dattelmuschel				German	147411	
+140459	Seedattel				German	147411	
+140459	Steindattel				German	147411	
+141459	Mittelmeer-Sepiole				German	163039	
+141459	Zwergsepia				German	163039	
+181221	Pfirsichchnecke				German	163039	
+140023	Menschenherz				German	686	
+342149	fa gai na				Chinese	124589	
+342149	mak gung				Chinese	124589	
+342149	yi muk woo chak				Chinese	124589	
+181376	mak mo				Chinese	124589	
+181376	foo baan woo chack				Chinese	124589	
+153107	ngor huet mak				Chinese	124589	
+153107	mo jam woo chak				Chinese	124589	
+342315	leung yee jai				Chinese	124589	
+342367	mak dau				Chinese	124589	
+140679	patella ferrosa  				Italian	147411	
+141458	seppiola robusta				Italian	124589	
+141458	cappuccetto				Italian	124589	
+141936	tartufo di mare				Italian		
+141919	quahog				Italian		
+141449	seppiola grossa				Italian	124589	
+141449	babbunedda				Italian	124589	
+141449	cape e chiuove				Italian	124589	
+141449	capo di chiodo				Italian	124589	
+141449	purpo seccia				Italian	124589	
+141449	vurpascele				Italian	124589	
+140770	dattero bianco  				Italian	147411	
+140363	mitra zonata  				Italian	147411	
+140656	ostrica concava				Italian		
+140656	ostrica del Pacifico				Italian		
+140656	ostrica giapponese				Italian		
+141906	fasolara				Italian		
+141877	tilodina gialla				Italian	163041	
+140271	calamaro				Italian	9810	
+141739	tritonia striata				Italian	163041	
+140271	totariello				Italian	9810	
+141730	lucama a rete				Italian	163041	
+138803	argonauta				Italian		
+140658	ostrica comune				Italian		
+140233	sorbolo di mare				Italian		
+141456	seppiola intermedia				Italian	124589	
+141456	cappuccetto				Italian	124589	
+141457	seppiola linguetta				Italian	124589	
+141791	trottola  				Italian	147411	
+140262	littorina comune				Italian		
+141443	seppia elegante				Italian	124589	
+141443	castagnola				Italian	124589	
+141444	seppia comune				Italian	124589	
+141444	scarpetta				Italian	124589	
+141444	scarpitta				Italian	124589	
+141444	scarpitelle				Italian	124589	
+141444	seccetella				Italian	124589	
+141444	secce				Italian	124589	
+141444	sepp(i)a				Italian	124589	
+141444	sepia imperiale				Italian	124589	
+141643	fimbria				Italian	163041	
+141911	lupino				Italian		
+141444	sepia				Italian	9810	
+141617	cutona azzurra				Italian		
+140059	orecchia marina				Italian	163043	
+141102	tritone lucido  				Italian	147411	
+140481	mitilo mediterraneo				Italian		
+196603	bergia azzurra				Italian		
+141453	seppiola affine				Italian	124589	
+141453	cappuccetto				Italian	124589	
+141451	seppiola misteriosa				Italian	124589	
+140081	nudibranchio uncinato				Italian	163039	
+140481	cozza				Italian	163039	
+140481	muscolo				Italian	163039	
+140481	peozzo				Italian	163039	
+141687	elmo  				Italian	147411	
+138760	pie' di pellicani				Italian		
+394429	conchiglia dei pellerini				Italian	132512	
+394429	capa santa				Italian	132512	
+394429	cappasanta				Italian	163043	
+394429	conchiglia di San Giacomo				Italian	163043	
+141452	seppiola comune				Italian	124589	
+141452	cappuccetto				Italian	124589	
+140299	madia comune				Italian		
+138878	buccino comune				Italian		
+141447	seppiola grossa di fondo				Italian	124589	
+139686	elisia				Italian	163039	
+140687	canestrello				Italian	163043	
+140687	leque				Italian	163043	
+140194	chitone blanco				Italian	163039	
+140712	ventaglio				Italian	132512	
+509315	lumaca maculata				Italian	163041	
+140780	astura				Italian	163039	
+140712	cappasanta atlantica				Italian	163043	
+140712	pettine maggiore				Italian	163043	
+140235	lima ballerina				Italian		
+140605	polpo di scoglio				Italian	9810	
+141448	seppiola minore				Italian	124589	
+141448	cappuccetto				Italian	124589	
+140780	pinna nobile  				Italian	147411	
+140605	polpo comune				Italian		
+509315	vacchetta di mare				Italian		
+140780	nacchera				Italian		
+140780	cozza penna				Italian		
+140780	pinna comune				Italian		
+141445	seppia pizzuta				Italian	124589	
+139988	flabellina rosa				Italian		
+141459	seppiola di Rondelet				Italian	124589	
+141459	cappuccetto				Italian	124589	
+140459	dattero di mare  				Italian	147411	
+138788	arca di Noè				Italian	163039	
+140605	chobotnice pobřežní				Czech		
+140271	krakatice				Czech		
+141444	sépie obecná				Czech		
+207674	giant clam				English	6561	
+342042	veiled octopus				English	1318	
+342209	gelatinous blanket octopus				English	1318	
+141694	palmate octopus				English	1318	
+141443	elegant cuttlefish				English	1318	
+157037	butterfly bobtail squid				English	1318	
+457762	Brazil reef octopus				English	195811	
+224922	giant chiton				English	6561	
+224922	armadillo				English	6561	
+216315	toothed topshell				English	6561	
+225139	variegated topshell				English	6561	
+413374	alikreukel				English	6561	
+413374	giant periwinkle				English	6561	
+216248	textile nerite				English	6561	
+225658	pustular triton				English	6561	
+156924	crested oyster				English	2901	
+156992	boreal awningclam				English	2901	
+141607	naval shipworm				English	2901	
+157022	sharptail shortfin squid				English	2901	
+141548	ram's horn squid				English	2901	
+367836	California aglaja				English	42	
+225269	zoned cowry				English	140768	
+140403	Atlantic dogwinkle				English	2901	
+153507	red-finger aeolis				English	2901	
+141641	Johnston's balloon eolis				English	2901	
+156749	cupped shipworm				English	2901	
+138799	comb bathyark				English	2901	
+140480	common mussel				English	1116	
+141607	great shipworm				English	1116	
+140271	lon-finned squid				English	1116	
+139535	meridian tuskshell				English	2901	
+156817	bay scallop				English	2901	
+216318	toothed top shell				English	5910	
+215118	elongated shell				English	5915	
+141850	looping snail				English	10085	
+138999	lagoon cockle				English	10085	
+570724	half-extending cowry				English	140768	
+160259	tan marginella				English	2901	
+160323	spotted moonsnail				English	2901	
+160332	serpulid odostome				English	2901	
+159855	flexed gyro				English	2901	
+140169	tiny lacuna				English	2901	
+215382	terebellum conch				English	6540	
+208064	eyed auger				English	5910	
+208566	magilus coral snail				English	5903	
+208166	large harp				English	6540	
+208425	needle pyram				English	5910	
+216577	zigzag venus				English	5987	
+208157	Madras harp				English	6540	
+216411	horses hoof				English	6080	
+141348	golden-capped risso				English	6080	
+140271	Cape Hope squid				English	1318	
+342291	jumbo flying squid				English	1318	
+342066	purpleback flying squid				English	1318	
+141680	diamond squid				English	1318	
+342023	red octopus				English	1318	
+342232	greater bobtail squid				English	1318	
+141450	elegant bobtail squid				English	124589	
+342232	greater shining bobtail squid				English	124589	
+141446	odd bobtail squid				English	124589	
+140812	yellow-plumed sea slug				English	147411	
+141909	banded venus				English	147411	
+141782	grey top shell				English	147411	
+426387	heath snail				English	147411	
+141807	rough top shell				English	147411	
+140169	least chink shell				English	147411	
+140403	dog whelk				English	147411	
+181558	short-ended pea mussel				English	147411	
+426421	cylindrical whorl snail				English	147411	
+225337	long-siphoned whelk				English	6561	
+225346	Forsskal's whelk				English	6561	
+225371	smooth plough shell				English	6561	
+141548	ram's horn shell				English	6561	
+141539	flat skenea				English	2901	
+141539	planorb skenea				English	2901	
+140480	blue mussel				English	2901	
+140480	edible blue mussel				English	2901	
+223976	false grooved cowry				English	5971	
+216854	false margined cowry				English	5971	
+141680	diamondback squid				English	5936	
+141739	striped tritonia				English	163041	
+141875	minute turton				English	2901	
+141782	grey topshell				English	686	
+141782	painted topshell				English	686	
+140403	dogwhelk				English	686	
+224567	tusk shell				English	6561	
+224601	bisexual mussel				English	6561	
+207898	Cape pearl oyster				English	6561	
+224844	dwarf rusty clam				English	6561	
+141908	venusschelp				Dutch	691	
+234103	zwanemossel				Dutch		
+141304	knophoren				Dutch	685	
+140218	stippelschelp				Dutch	685	
+141358	gestippeld drijfhorentje				Dutch	147411	
+138993	tere hartschelp				Dutch	685	
+141976	houtboormossel				Dutch	685	
+181373	lepelschelp				Dutch	685	
+138814	schorreslakje				Dutch	140200	
+140261	vlakke alikruik				Dutch	685	
+141715	bruine contrahoren				Dutch	685	
+181559	driehoekkige erwtenmossel				Dutch	147411	
+139993	paarse waaierslak				Dutch	147411	
+426427	dwerg korfslak				Dutch	147411	
+154008	stompe moerasslak				Dutch	147411	
+140104	rotsboorder				Dutch	141410	
+141715	bruin contrahorentje				Dutch	147411	
+141022	spitse tandhoren				Dutch	691	
+139686	groene wierslak				Dutch	685	
+140840	gestippelde mosdierslak				Dutch	685	
+139768	bleke knuppelslak				Dutch	691	
+138700	platte cirkelslak				Dutch	139290	
+141308	slank gordelslakje				Dutch	139290	
+139686	groene zeenaaktslak				Dutch	139290	
+140840	gestippelde sterslak				Dutch	139290	
+139768	bleke knotsslak				Dutch	139290	
+140104	ruwe rotsboorder				Dutch	2	
+138814	Gray's kustslak				Dutch	705	
+141690	gekielde cirkelslak				Dutch	705	
+141801	genavelde tolhoren				Dutch	685	
+140168	bleke scheefhoren				Dutch	685	
+141304	gewone knophoren				Dutch	685	
+140129	doorschijnende spiraalhoren				Dutch	691	
+426363	rode barnsteenslak				Dutch	133005	
+426427	dwerg-korfslak				Dutch	133005	
+234103	brede zwanrmossel				Dutch	147411	
+140461	kleine paardemossel				Dutch	691	
+140218	gewone stippelschelp				Dutch	685	
+141908	gewone venusschelp				Dutch	147411	
+138963	gewoon muiltje				Dutch	691	
+138963	slippertje				Dutch	163040	
+139580	millenium wratslak				Dutch	1116	
+140767	witte boormossel				Dutch	61	
+140733	slanke kleine zwaardschede				Dutch	61	
+138878	wulk				Dutch	2	
+140431	afgeknotte gaper				Dutch	755	
+139580	millennium wratslak				Dutch	147411	
+181564	gewone hoornschaal				Dutch	147411	
+138963	slipper				Dutch	2	
+181228	citroenslak				Dutch		
+138963	muiltje				Dutch	685	
+139163	geruite spieshoren				Dutch	691	
+139631	roodgevlekte kroonslak				Dutch	685	
+153952	scheve vijlschelp				Dutch	139290	
+140282	vingerafdrukje				Dutch	139290	
+381057	geknobbelde hartschelp				Dutch	139290	
+141320	gordelslakje				Dutch	139290	
+139631	kroonslak				Dutch	139290	
+141618	zeecypresslak				Dutch	139290	
+141737	gorhoonnaktslakje				Dutch	163041	
+140431	afgeknotte strandgaper				Dutch	2	
+140282	dubbeltjesschelp				Dutch	685	
+140167	grote scheefhoren				Dutch	691	
+141320	geribde gordelhoren				Dutch	685	
+140869	ovale zonneschelp				Dutch	686	
+248263	oorvormige poelslak				Dutch	147411	
+138878	kinkhoorn				Dutch		
+141618	zilverblauwe knotsslak				Dutch	691	
+141435	glanzende dunschaal				Dutch	691	
+141452	langwerpige dwerginktvis				Dutch	691	
+140299	grote strandschelp				Dutch		
+140048	lepeloester				Dutch	141379	
+153552	gewone schotelhoren				Dutch		
+367570	schuingeribde trapgevel				Dutch		
+146732	grote ribhoren				Dutch		
+138709	grote vlokslak				Dutch	1116	
+141374	gestippelde drijfhoren				Dutch		
+138709	vlokkige zeeslak				Dutch	2	
+140295	otterschelp				Dutch	2	
+152220	glad zaagje				Dutch	685	
+140302	halfgeknotte strandschelp				Dutch	83	
+140295	gewone otterschelp				Dutch	147411	
+181557	dwergerwtenmossel				Dutch	147411	
+182693	gewone schijfhoren				Dutch	147411	
+138709	vlokkige naaktslak				Dutch	138865	
+156714	slanke waaierslak				Dutch	147411	
+154006	spitse moerasslak				Dutch	147411	
+248248	bronblaashoren				Dutch	147411	
+141138	geknotte oubliehoren				Dutch	685	
+140838	harlekijnslak				Dutch	685	
+138923	gekielde noordhoren				Dutch	139290	
+138709	vlokkige zeenaaktslak				Dutch	139290	
+140295	ovale slijkschelp				Dutch	2	
+141424	platte slijkgaper				Dutch	2	
+140931	stomp traliehorentje				Dutch	705	
+140780	gnaccara				Corsican		
+141444	seppia				Corsican		
+141444	mustekala				Finnish	124589	
+140262	rantakotilo				Finnish		
+140271	kalmari				Finnish		
+140301	vinohammassimpukka				Finnish		
+140605	meritursas				Finnish		
+138878	kuningaskotilo				Finnish		
+140271	scuid				Scottish Gaelic		
+140262	faocha				Scottish Gaelic		
+140262	storstrandsnigel				Norwegian Nynorsk	147411	
+138992	pigghjarteskjel				Norwegian Nynorsk	147411	
+141911	sirkelskjel				Norwegian Nynorsk	147411	
+141929	lammeskjel				Norwegian Nynorsk	147411	
+141579	østersjøskjel				Norwegian Nynorsk	147411	
+138802	kuskjel				Norwegian Nynorsk	147411	
+140709	stripekamskjel				Norwegian Nynorsk	147411	
+140710	tigerskjel				Norwegian Nynorsk	147411	
+140474	svartskjel				Norwegian Nynorsk	147411	
+139975	nøkkelholsnigel				Norwegian Nynorsk	147411	
+141782	glattkjeglesnigel				Norwegian Nynorsk	147411	
+140480	blåskjel				Norwegian Nynorsk	147411	
+140403	purpursnigel				Norwegian Nynorsk	147411	
+140467	o-skjel				Norwegian Nynorsk	147411	
+140735	slireskjel				Norwegian Nynorsk	147411	
+139957	korallhjelmsnigel				Norwegian Nynorsk	147411	
+139054	dvergtårnsnigel				Norwegian Nynorsk	147411	
+140658	østers				Norwegian Nynorsk	147411	
+139959	hjelmsnigel				Norwegian Nynorsk	147411	
+138760	pelikanfotsnigel				Norwegian Nynorsk	147411	
+153552	jomfrusnigel				Norwegian Nynorsk	147411	
+141774	flekktoppsnigel				Norwegian Nynorsk	147411	
+140152	marmorleddsnigel				Norwegian Nynorsk	147411	
+138923	neptunsnigel				Norwegian Nynorsk	147411	
+140702	korallskjel				Norwegian Nynorsk	147411	
+140132	flekkleddsnigel				Norwegian Nynorsk	147411	
+140717	sjustripeskjel				Norwegian Nynorsk	147411	
+140266	småstrandsnigel				Norwegian Nynorsk	147411	
+140232	bergskjel				Norwegian Nynorsk	147411	
+141988	spegelskjel				Norwegian Nynorsk	147411	
+140767	blåleireskjel				Norwegian Nynorsk	147411	
+138878	kongsnigel				Norwegian Nynorsk	147411	
+140082	svampleddsnigel				Norwegian Nynorsk	147411	
+140712	kamskjel				Norwegian Nynorsk	147411	
+147123	vandresnigel				Norwegian Nynorsk	147411	
+140503	nettsnigel				Norwegian Nynorsk	147411	
+140687	harpeskjel				Norwegian Nynorsk	147411	
+140151	praktleddsnigel				Norwegian Nynorsk	147411	
+141424	peparskjel				Norwegian Nynorsk	147411	
+141741	kaffibønne				Norwegian Nynorsk	147411	
+140873	regnbogeskjel				Norwegian Nynorsk	147411	
+140737	lommeknivskjel				Norwegian Nynorsk	147411	
+140771	strutskjel				Norwegian Nynorsk	147411	
+139410	korgskjel				Norwegian Nynorsk	147411	
+140103	steinboreskjel				Norwegian Nynorsk	147411	
+141765	perlemorkjeglesnigel				Norwegian Nynorsk	147411	
+140170	tarestilksnigel				Norwegian Nynorsk	147411	
+138998	saueskjel				Norwegian Nynorsk	147411	
+140692	haneskjel				Norwegian Nynorsk	147411	
+140472	stripeskjel				Norwegian Nynorsk	147411	
+140263	buttstrandsnigel				Norwegian Nynorsk	147411	
+141799	trappekjeglesnigel				Norwegian Nynorsk	147411	
+141872	tårnsnigel				Norwegian Nynorsk	147411	
+140685	olbogesnigel				Norwegian Nynorsk	147411	
+140283	kalveskjel				Norwegian Nynorsk	147411	
+140264	steinsnigel				Norwegian Nynorsk	147411	
+140083	kjempeleddsnigel				Norwegian Nynorsk	147411	
+140271	kalmáry				Slovak		
+153107	sepia inerme Japonesa				Spanish	124589	
+140480	mejillón				Spanish	124438	
+140271	calamar				Spanish	9810	
+141450	sepieta elegante				Spanish	124589	
+342198	globito del Pacífico boreal				Spanish	124589	
+342232	globito reluciente				Spanish	124589	
+141446	globito aberrante				Spanish	124589	
+141548	espírula				Spanish	124589	
+342236	nautilo ombligo				Spanish	124589	
+141739	tritonia rayada				Spanish	163041	
+141444	jibia				Spanish	9810	
+141444	sepia común				Spanish	9810	
+141444	aluda				Spanish	9810	
+141444	choco				Spanish	9810	
+141442	sepia africana				Spanish	124589	
+140658	ostra común				Spanish	147411	
+220309	sepia caperuza				Spanish	124589	
+141459	seppiola				Italian	163039	
+141459	sepolino				Italian	163039	
+141459	zotolina				Italian	163039	
+141459	zotolo				Italian	163039	
+141459	sepietta				Italian	163039	
+139938	godiva arancia				Italian	163039	
+140774	fillidia mediterranea				Italian	163041	
+141546	cannolicchio				Italian		
+141546	cappalunga				Italian		
+138802	vongola oceanica				Italian		
+140624	flyveblæksprutte				Danish	147411	
+140474	sort musculus				Danish	147411	
+140709	stribet kammusling				Danish	147411	
+140710	tigerkammusling				Danish	147411	
+138952	rørsnegl				Danish	147411	
+139523	kvastsnegl				Danish	147411	
+139738	plettet vindeltrappesnegl				Danish	147411	
+138992	pigget hjertemusling				Danish	147411	
+235792	lundsnegl				Danish	147411	
+140528	stor boresnegl				Danish	147411	
+138749	lille sadelmusling 				Danish	147411	
+140262	stor 				Danish	147411	
+140728	mysia				Danish	147411	
+236719	varierende kammusling				Danish	147411	
+140521	højspiret boresnegl				Danish	147411	
+138818	astartemusling				Danish	147411	
+426356	bæltesolsnegl				Danish	147411	
+141911	dosiniamusling				Danish	147411	
+141912	glat dosinia				Danish	147411	
+138903	håret tensnegl				Danish	147411	
+140640	hvid doride				Danish	147411	
+139975	hulisse				Danish	147411	
+139371	buttet pilsnegl				Danish	147411	
+140108	Jeffreys hulemusling				Danish	147411	
+141444	sepiablæksprutte				Danish	147411	
+141929	nettegnet venusmusling				Danish	147411	
+138686	tårnformet pighudesnegl				Danish	147411	
+140440	gittermusling				Danish	147411	
+141579	østersømusling				Danish	147411	
+138821	ellipseformet astartemusling				Danish	147411	
+139604	kilemusling				Danish	147411	
+139004	glat hjertemusling				Danish	147411	
+426391	vinkeltandssnegl				Danish	147411	
+140590	Grøn nøddemusling				Danish	147411	
+140658	østers				Danish	147411	
+139054	lille tårnsnegl				Danish	147411	
+141662	almindelig foldmusling				Danish	147411	
+139072	obelisksnegl				Danish	147411	
+139765	almindelig trådsnegl				Danish	147411	
+140199	grå skallus				Danish	147411	
+140735	barberknivmusling				Danish	147411	
+140301	tykskallet trugmusling				Danish	147411	
+141905	fløjlsskæl				Danish	147411	
+140467	almindelig hestemusling				Danish	147411	
+140616	hulspiret snegl				Danish	147411	
+426354	brednavlet solsnegl				Danish	147411	
+138998	almindelig hjertemusling				Danish	147411	
+140870	kølet sandmusling				Danish	147411	
+140770	daddelformet boremusling				Danish	147411	
+426397	bimpelsnegl				Danish	147411	
+141449	Ross's blæksprutte				Danish	147411	
+140170	båndtegnet grubesnegl				Danish	147411	
+140263	butspiret strandsnegl				Danish	147411	
+181582	stor mosesnegl				Danish	147411	
+140513	dværgkonk				Danish	147411	
+140577	lille svanehalsmusling				Danish	147411	
+141799	rødbrun topsnegl				Danish	147411	
+138934	butspiret konk				Danish	147411	
+138734	kuglesnegl				Danish	147411	
+138984	narrehuesnegl				Danish	147411	
+426425	skæv vindelsnegl				Danish	147411	
+140627	dunet doride				Danish	147411	
+426426	sandskornvindelsnegl				Danish	147411	
+141627	eremittrådsnegl				Danish	147411	
+140291	perlemorsmusling				Danish	147411	
+138920	rødkonk				Danish	147411	
+181368	Norsk pæleorm				Danish	147411	
+139106	skinnende ormebløddyr				Danish	147411	
+138906	stribet tensnegl				Danish	147411	
+139008	brakvandshjertemusling				Danish	147411	
+426387	stor solsnegl				Danish	147411	
+140169	lille grubesnegl				Danish	147411	
+140271	Europæisk loligo				Danish	147411	
+140403	purpursnegl				Danish	147411	
+141909	bredribbet venusmusling				Danish	147411	
+141607	pæleorm				Danish	147411	
+426421	tandløs dværgpuppesnegl				Danish	147411	
+234102	stor malermusling				Danish	147411	
+141782	almindelig topsnegl				Danish	147411	
+139476	cylindersnegl				Danish	147411	
+141433	hvid pebermusling				Danish	147411	
+140186	hueformet albueskæl				Danish	147411	
+181566	vandremusling				Danish	147411	
+140536	bleg boresnegl				Danish	147411	
+140480	blåmusling				Danish	147411	
+150457	brun doride				Danish	147411	
+141365	foldet tangsnegl				Danish	147411	
+140229	slank limapontia				Danish	147411	
+139718	lille vindeltrappesnegl				Danish	147411	
+139736	sporeribbet vindeltrappesnegl				Danish	147411	
+153558	flodnerit				Danish	147411	
+141672	Sars' foldmusling				Danish	147411	
+140472	kølet musculus				Danish	147411	
+140505	Ραβδωτό κοφίνι				Modern Greek (1453-)	147411	
+138748	Κουφόστρειδο				Modern Greek (1453-)	147411	
+141449	Μικροσουπιά				Modern Greek (1453-)	147411	
+140363	Δίχρωμη μήτρα				Modern Greek (1453-)	147411	
+140656	Στρείδι Πορτογαλίας				Modern Greek (1453-)	147411	
+225259	Πτυχωτό χτένι				Modern Greek (1453-)	147411	
+139934	Ριγωτό αδράχτι				Modern Greek (1453-)	147411	
+141099	Χοντροτρίτωνας				Modern Greek (1453-)	147411	
+141906	Γυαλιστερή				Modern Greek (1453-)	147411	
+138984	Ουγγαρέζικο καπέλο				Modern Greek (1453-)	147411	
+140770	Φτερά αγγέλων				Modern Greek (1453-)	147411	
+140870	Έσπερος Ατλαντικού				Modern Greek (1453-)	147411	
+141456	Μεσοσουπίτσα				Modern Greek (1453-)	147411	
+141549	Γαϊδουροπόδαρο				Modern Greek (1453-)	147411	
+140770	Δάκτυλο				Modern Greek (1453-)	147411	
+140606	Τετράκερο χταπόδι				Modern Greek (1453-)	147411	
+141449	Σουπίτσα πεπόνι				Modern Greek (1453-)	147411	
+225645	Γατοπόδαρο				Modern Greek (1453-)	147411	
+224752	Μήτρα Αφρικής				Modern Greek (1453-)	147411	
+140363	Μήτρα				Modern Greek (1453-)	147411	
+140513	Κοφίνι				Modern Greek (1453-)	147411	
+140625	Θράψαλλο				Modern Greek (1453-)	147411	
+138803	Αργοναύτης				Modern Greek (1453-)	147411	
+141544	Σαμάρι				Modern Greek (1453-)	147411	
+141544	Ζαμπονάκι				Modern Greek (1453-)	147411	
+224954	Παγόδα				Modern Greek (1453-)	147411	
+140025	Χοντραχιβάδα Ευρώπης				Modern Greek (1453-)	147411	
+139004	Αυγόστρειδο Νορβηγίας				Modern Greek (1453-)	147411	
+141544	Ξυράφι				Modern Greek (1453-)	147411	
+224822	Σωλήνας				Modern Greek (1453-)	147411	
+367899	Φλογοφέγγαρο				Modern Greek (1453-)	147411	
+140625	Καλαμάρι φυσητήρας				Modern Greek (1453-)	147411	
+140607	Μονόκερο χταπόδι				Modern Greek (1453-)	147411	
+140658	Στρείδι				Modern Greek (1453-)	147411	
+138761	Χηνοπόδαρο				Modern Greek (1453-)	147411	
+231749	Αχιβάδα				Modern Greek (1453-)	147411	
+139497	Γουρουνίτσα				Modern Greek (1453-)	147411	
+140531	Γραμμοφέγγαρο				Modern Greek (1453-)	147411	
+139931	Πτυχωτό αδράχτι				Modern Greek (1453-)	147411	
+141752	Τροχός χωνί				Modern Greek (1453-)	147411	
+138961	Κινέζικο καπέλο				Modern Greek (1453-)	147411	
+140416	Μυδοφάγος				Modern Greek (1453-)	147411	
+141101	Τρίτωνας				Modern Greek (1453-)	147411	
+141803	Πολύμορφος τροχός				Modern Greek (1453-)	147411	
+236714	Γραμμωτό χτένι				Modern Greek (1453-)	147411	
+140297	Ξανθοπετσίνα				Modern Greek (1453-)	147411	
+181379	Οκταπλόκαμο καλαμάρι				Modern Greek (1453-)	147411	
+140684	Αγριοπεταλίδα				Modern Greek (1453-)	147411	
+140416	Όστρακο του Θωμά				Modern Greek (1453-)	147411	
+231749	Μαρμαροαχιβάδα				Modern Greek (1453-)	147411	
+140293	Αγριοπετσίνα				Modern Greek (1453-)	147411	
+141790	Μαγικός τροχός				Modern Greek (1453-)	147411	
+141858	Κοραλλοστρόβιλος				Modern Greek (1453-)	147411	
+141458	Αγριοσουπίτσα				Modern Greek (1453-)	147411	
+141590	Τελλίνα				Modern Greek (1453-)	147411	
+140679	Σιδηροπεταλίδα				Modern Greek (1453-)	147411	
+140736	Κερατοσωλήνας				Modern Greek (1453-)	147411	
+141926	Αγριοαχιβάδα				Modern Greek (1453-)	147411	
+140604	Χταπόδι αράχνη				Modern Greek (1453-)	147411	
+140598	Σφαιροχτάποδο				Modern Greek (1453-)	147411	
+141855	Μάτι της Παναγιάς				Modern Greek (1453-)	147411	
+139398	Σγουρό κοραλλοκόχυλο				Modern Greek (1453-)	147411	
+141855	Στρόβιλος				Modern Greek (1453-)	147411	
+140600	Λευκοχτάποδο				Modern Greek (1453-)	147411	
+141755	Τροχός αμφορέας				Modern Greek (1453-)	147411	
+141785	Ακτινωτός τροχός				Modern Greek (1453-)	147411	
+140283	Λουκίνα				Modern Greek (1453-)	147411	
+140549	Σταχτοφέγγαρο				Modern Greek (1453-)	147411	
+140649	Βορινό καλαμάρι				Modern Greek (1453-)	147411	
+140683	Στικτοπεταλίδα				Modern Greek (1453-)	147411	
+141872	Πύργος				Modern Greek (1453-)	147411	
+141936	Κυδώνι				Modern Greek (1453-)	147411	
+140780	Πίνα				Modern Greek (1453-)	147411	
+138998	catxel				Catalan	163043	
+138998	escopinya de gallet				Catalan	163043	
+141906	petxinot de sang				Catalan	163043	
+141906	lluenta				Catalan	163043	
+140770	fòlada				Catalan	163043	
+138803	argonauta				Catalan	163043	
+140480	musclo				Catalan		
+140301	cloïssa blanca				Catalan	163043	
+140301	ou blanc				Catalan	163043	
+140295	navalló				Catalan	163043	
+140235	llima				Catalan	163039	
+140235	petxineta				Catalan	163039	
+140605	pop roquer				Catalan	163039	
+139499	porcelana				Catalan	163039	
+139499	cauri				Catalan	163039	
+181249	flabellina ratllada				Catalan	163039	
+141546	navalla				Catalan	163043	
+140481	musclo del Mediterrani				Catalan		
+140262	caragolí comú				Catalan		
+138788	peu de cabrit				Catalan	163039	
+141459	morralet				Catalan	163039	
+141459	orellut				Catalan	163039	
+141459	sipió				Catalan	163039	
+139938	godiva taronja				Catalan	163039	
+139988	flabellina lila				Catalan	163039	
+140396	cornet				Catalan	163039	
+138758	llebre de mar tacada				Catalan	163039	
+509315	vaqueta suïssa				Catalan	163039	
+140780	nacre				Catalan	163039	
+140712	petxina de pelegrí de l'Atlàntic				Catalan	163043	
+141907	rossellona				Catalan	163043	
+140605	pop roquer				Catalan	163043	
+140605	pop ver				Catalan	163043	
+140687	xel				Catalan	163043	
+140396	corn blanc				Catalan		
+139686	elysia verda				Catalan	163039	
+140299	ou				Catalan		
+394429	petxina de pelegrí del Mediterrani				Catalan	163043	
+140733	navalla recta				Catalan	163043	
+140059	orella de mar				Catalan	163039	
+140059	greixereta				Catalan	163043	
+140059	sabateta de la Mare de Déu				Catalan	163043	
+140481	musclo de roca				Catalan	163039	
+139196	ballaruga				Catalan	163043	
+140481	Mediteranska klapavica				Slovenian		
+138758	pikasti morski zajček				Slovenian		
+140780	veliki leščur				Slovenian	147411	
+140459	morski datelj				Slovenian	138974	
+140780	leščur				Slovenian	138974	
+426425	ozki vretenec				Slovenian	138974	
+140271	lignji				Slovenian		
+140658	navadna ostriga				Slovenian	147411	
+139959	geruite napslak				Dutch	685	
+140059	gewoon zee-oor				Dutch	691	
+426379	slanke duinhoren				Dutch	133005	
+140733	kleine zwaardschede				Dutch	2	
+141617	hemelsblauwe knotsslak				Dutch		
+140295	ovale otterschelp				Dutch	123768	
+140059	zee-oor				Dutch	685	
+141767	priktolhoren				Dutch	685	
+138823	driehoekige astarte				Dutch	147411	
+141931	tapijtschelp				Dutch	9269	
+139602	stompje zaagje				Dutch		
+152370	geruite ribhoren				Dutch		
+140366	drietandschelpje				Dutch	147411	
+138843	bandhoren				Dutch	685	
+140166	satijnslak				Dutch	685	
+140366	drietandschelp				Dutch	685	
+139766	gezwollen knuppelslak				Dutch	147411	
+141353	spits drijfhorentje				Dutch	147411	
+138760	pelikaansvoetje				Dutch	2	
+235809	fraaie pluimdrager				Dutch	147411	
+141587	rechtsgestreepte platschelp				Dutch	9234	
+140481	diepwatermossel				Dutch	685	
+182699	grote diepslak				Dutch	147411	
+231750	Aziatische tapijtschelp				Dutch		
+181580	Aziatische korfmossel				Dutch		
+140732	Amerikaanse zwaardschede				Dutch		
+138843	bandhorentje				Dutch	147411	
+140032	bruine plooislak				Dutch	685	
+140166	gewone satijnslak				Dutch	685	
+141738	kleine tritonia				Dutch	691	
+138760	pelikaansvoet				Dutch	139290	
+140032	geplooide sterslak				Dutch	139290	
+141738	gewone tritonia				Dutch	139290	
+140230	schorreslak				Dutch	685	
+140589	driehoekige parelmoerneur				Dutch	147411	
+140589	driehoekige parelmoerneut				Dutch	83	
+140294	smalle otterschelp				Dutch	123768	
+140194	geribde keverslak				Dutch		
+146905	gewoon wenteltrapje				Dutch	2	
+146905	wenteltrap				Dutch	755	
+140687	wijde mantel				Dutch	685	
+140830	wrattige mosdierslak				Dutch	147411	
+140230	kleine schorreslak				Dutch	147411	
+153998	vijverpluimdrager				Dutch	147411	
+139951	gewone sleutelgathoren				Dutch	2	
+140589	glanzende parelmoerneut				Dutch	83	
+138758	zeehaas				Dutch	685	
+248249	glanzende erwtenmossel				Dutch	147411	
+140260	gestreepte alikruik				Dutch	147411	
+151628	wadslakje				Dutch	755	
+139951	sleutelgathoren				Dutch	685	
+140294	otterschelp				Dutch	141410	
+146905	wenteltrapje				Dutch	141412	
+138681	kleine spieshoren				Dutch	691	
+139217	hoge trapgevel				Dutch	691	
+140230	gewone schorreslak				Dutch	685	
+140589	parelmoerneut				Dutch	139290	
+139217	slanke trapgevel				Dutch	139290	
+140230	schorreslakje				Dutch	139290	
+140366	gewone drietandschelp				Dutch	685	
+140432	kleine gaper				Dutch	685	
+140768	kleine boormossel				Dutch	685	
+141651	grove papierschelp				Dutch	685	
+140266	kleine alikruik				Dutch		
+146733	stompe ribhoren				Dutch		
+141602	scheepsworm				Dutch	2	
+141353	spitse drijfhoren				Dutch	685	
+138843	gewone bandhoren				Dutch	685	
+140430	strandgaper				Dutch	2	
+141230	gevlekte traliedrijfhoren				Dutch	685	
+426371	Griekse duinslak				Dutch	133005	
+140605	kraak				Dutch		
+140605	gewoone octopus				Dutch		
+139644	kommavlek kroonslak				Dutch		
+140571	melkwitte arkschelp				Dutch	61	
+138831	kleine astarte				Dutch	61	
+140737	sabelschede				Dutch	61	
+140405	geschubde stekelhoren				Dutch	2	
+138899	slanke noordhoren				Dutch	2	
+140512	kleine fuikhoren				Dutch	2	
+140503	verdikte fuikhoren				Dutch	2	
+141907	venusschelp				Dutch	685	
+140605	achtarm				Dutch	685	
+156972	Amerikaanse grote mantelschelp				Dutch		
+236717	Patagonische babycoquilles				Dutch		
+138824	breedgeribde astarte				Dutch	685	
+141230	gevlekt traliedrijfhorentje				Dutch	147411	
+146905	gewone wenteltrap				Dutch	147411	
+140405	stekelhoren				Dutch	685	
+181556	kleine erwtenmossel				Dutch	147411	
+233525	toegeknepen korfmossel				Dutch		
+181249	witgestreepte waaierslak				Dutch	147411	
+140712	grote mantelschelp				Dutch	141403	
+140712	St. Jacobschelp				Dutch	141403	
+181590	kapslak				Dutch	147411	
+140023	Ochsenherz				German	686	
+138802	Islandmuschel				German	686	
+141359	dünnschalige Rissoa				German	147412	
+140624	Pfeilkalmar				German	147412	
+140528	Halsband-Mondschnecke				German	1116	
+139992	violetrote Fadenschnecke				German		
+141791	Kreiselschnecke				German	147411	
+140528	grosse Nabelschnecke				German	123768	
+138992	dornige Herzmuschel				German	147412	
+140262	gemeine Uferschnecke				German	686	
+140262	gemeine Strandschnecke				German	686	
+140528	Halsbandnabelschnecke				German	686	
+138992	stachelige Herzmuschel				German	686	
+140605	Krake				German	9810	
+139938	orangener Godiva				German	163039	
+141579	Baltische Plattmuschel				German	147412	
+140640	raue Sternschnecke				German	147412	
+141579	Baltische Tellmuschel				German	83	
+141579	Plattmuschel				German	83	
+141444	gemeiner Tintenfish				German	1116	
+139989	weisse Fadenschnecke				German	163039	
+141912	Helle Artemis				German	147412	
+139908	Drummonds Fadenschnecke				German	147412	
+141911	Artemismuschel				German		
+141444	Sepia				German	9810	
+141444	Sepietintenfisch				German	9810	
+138920	gemeine Spindelschnecke				German	147412	
+181368	Norwegischer Bohrwurm				German	147412	
+140627	gestachelte Doris				German	1116	
+138755	Seehase				German		
+426425	schmale Windelschnecke				German	147411	
+141877	gelbe Tylodina				German	163041	
+140627	weichwarzige Sternschnecke				German	147412	
+140155	Veilchenschnecke				German	686	
+140155	Flosschnecke				German	686	
+138920	Spindelschnecke				German	686	
+141782	graue Kreiselschnecke				German	147412	
+140480	Miesmuschel				German	147412	
+139008	kleine Herzmuschel				German	147412	
+141607	Pfahlwurm				German	43064	
+141739	gestreifter Tritonia				German	163041	
+141782	aschfarbene Kreiselschnecke				German	686	
+141782	bunte J-Kreiselschnecke				German	686	
+140403	nordische Purpurschnecke				German	686	
+140403	nordische Steinchenschnecke				German	686	
+140480	essbare Miesmuschel				German	686	
+141782	Friesenkopf				German		
+140271	Kalmar				German	9810	
+140271	gemeiner Kalmar				German	9810	
+141444	Sepie				German	124589	
+141579	rote Bohne				German	83	
+140271	gewöhnlicher Kalmar				German	1116	
+140233	Feilenmuschel				German		
+140301	dickschalige Trogmuschel				German	9234	
+231749	Teppichmuschel				German	124438	
+140513	Netzreusenschnecke				German	123768	
+140656	Felsenauster				German	123768	
+138734	Kugelschnecke				German	147412	
+153131	gepfriemter Zwergkalmar				German	147412	
+140263	stumpfkegelige Uferschnecke				German	686	
+138984	Ungarnkappe				German	686	
+138748	Sattelmuschel				German	686	
+138748	Zwiebelmuschel				German	686	
+140656	Portugiesische Auster				German	686	
+138998	essbare Herzmuschel				German	686	
+140770	grose Bohrmuschel				German	686	
+140770	Dattelmuschel				German	686	
+139134	glatte Sternschnecke				German	147412	
+140656	Pazifische Auster				German	147412	
+141549	Lazarusklapper				German		
+140658	essbare Auster				German	1116	
+139604	gebänderte Sägemuschel				German	83	
+140590	gemeine Nussmuschel				German	686	
+138821	elliptische Astarte				German	147412	
+139940	Favorinus-Fadenschnecke				German	147412	
+141744	Europäische Kauri				German		
+140229	breitköpfige Lanzettschnecke				German	147412	
+150457	braune Sternschnecke				German	147412	
+141433	weiße Pfeffermuschel				German	83	
+141433	kleine Pfeffermuschel				German	83	
+138757	kleiner Seehase				German	163039	
+140029	weiße Griffelschnecke				German	147412	
+140736	Taschenmessermuschel				German	686	
+181566	Dreiecksmuschel				German	147412	
+181566	Wandermuschel				German	147412	
+140264	dunkle Strandschnecke				German	1116	
+141936	rauhe venusmushel				German	9810	
+140300	elliptische Trogmuschel				German	83	
+138961	Chinesenhut				German	686	
+140467	grose Miesmuschel				German	686	
+397039	leafy jewelbox				English	42	
+397048	barratt corbula				English	42	
+397048	truncate corbula				English	42	
+216854	nebrite cowrie				English	5971	
+342023	East Pacific red octopus				English	1318	
+342032	Tehuelche octopus				English	1318	
+153107	Japanese spineless cuttlefish				English	1318	
+141446	odd bobtail				English	1318	
+342198	North Pacific bobtail squid				English	1318	
+342232	greater shining bobtail				English	1318	
+141450	elegant bobtail				English	1318	
+141548	ram's horn				English	1318	
+138965	slipper limpet				English	6561	
+214973	variegated sundial shell				English	6561	
+216254	blotched nerite				English	6561	
+216084	ribbed turrid				English	6561	
+140271	common squid				English	9810	
+140271	European squid				English	9810	
+140271	inkfish				English	9810	
+140271	sea arrow				English	9810	
+344431	waxy tuskshell				English	1318	
+344129	stained tuskshell				English	1318	
+140577	minute nutclam				English	2901	
+156932	rounded pandora				English	2901	
+156939	fragile spoonclam				English	2901	
+156989	cuneate montacutid				English	2901	
+215835	Pacific tiger lucine				English	5910	
+215499	geographer cone				English	6506	
+160440	fat dovesnail				English	2901	
+160476	plicate mangelia				English	2901	
+139134	white Atlantic cadlina				English	2901	
+160340	Eastern elliptio				English	2901	
+405012	black abalone				English	42	
+529727	Maria's cowry				English		
+571954	triangle floater				English	152760	
+571968	Eastern floater				English	152760	
+140656	Japanese oyster				English	163040	
+140656	giant pacific oyster				English	163040	
+140656	immigrant oyster				English	163040	
+156732	red-ribbed scallop				English	2901	
+141549	thorny oyster				English	614	
+140656	giant cupped oyster				English	163043	
+140656	giant oyster				English	163043	
+141549	European thorny oyster				English		
+140570	emerald nerite				English		
+216371	silver-mouthed turban				English	5910	
+215835	tiger lucine				English	5910	
+207754	antique ark				English	5910	
+342215	Web’s cuttlefish				English	124589	
+141456	intermediate bobtail squid				English	124589	
+570725	Staphylaea's cousin				English	140768	
+138984	fools capsnail				English	2901	
+160233	striate cup-and -saucer				English	2901	
+160283	northern emarginula				English	2901	
+140170	northern lacuna				English	2901	
+140227	retrovert pteropod				English	2901	
+140263	yellow periwinkle				English	2901	
+211062	lotorium triton				English	5910	
+215499	geography cone				English	6506	
+214942	sponge finger oyster				English	6506	
+207847	plicate kitten's paw				English	5987	
+215385	spindle tibia				English	6066	
+140027	Atlantic armhook squid				English	1318	
+140027	Atlantic gonate squid				English	1318	
+342315	humming-bird bobtail squid				English	124589	
+141449	stout bobtail squid				English	124589	
+153131	European common squid				English	147411	
+141906	brown venus				English	147411	
+138984	Hungarian cap shell				English	147411	
+140870	Faroe sunset shell				English	147411	
+141792	Pennant’s top shell				English	147411	
+140170	banded chink shell				English	147411	
+426411	white snail				English	147411	
+141906	cock				English	124438	
+225352	Cape dogwhelk				English	6561	
+225388	pinch-kipped marginella				English	6561	
+225502	coral nudibranch				English	6561	
+225545	iridescent nudibranch				English	6561	
+247773	northern white chiton				English	42	
+156589	undulate thracia				English	2901	
+156589	conrad thracia				English	2901	
+156782	morton eggcockle				English	2901	
+156782	yellow eggcockle				English	2901	
+220322	shiny bird squid				English	5936	
+141549	spinous scallop				English	163039	
+140656	Pacific cupped oyster				English	123768	
+138998	edible cockle				English	123768	
+140263	flat periwinkle				English	686	
+138984	bonnet shell				English	686	
+140658	ostra europea				Spanish	163043	
+138803	argonauta				Spanish	163043	
+140301	almeja blanca				Spanish	163043	
+140301	clica				Spanish	163043	
+140233	peine				Spanish		
+342185	sepia de Viet Nam				Spanish	124589	
+141454	sepiola atlántica				Spanish	124589	
+231749	almeja fina				Spanish	124438	
+140025	almendra de mar				Spanish	124438	
+138802	almeja de Islandia				Spanish	147411	
+138788	arca de Noé				Spanish	163043	
+141459	globito				Spanish	163039	
+141459	sepiola				Spanish	163039	
+181221	caracol melocotón				Spanish	163039	
+139938	godiva anaranjada				Spanish	163039	
+139988	flabellina violeta				Spanish	163039	
+140459	dátil de mar				Spanish	147411	
+181376	sepia faraón				Spanish	124589	
+140262	bígaro				Spanish	124438	
+141457	sepiola lengüita				Spanish	124589	
+141546	navaja europea				Spanish	163043	
+139938	babosa naranja				Spanish		
+342176	sepia estrellada				Spanish	124589	
+141459	sepiola enana				Spanish	124589	
+157036	globito tierno				Spanish	124589	
+157036	calamarcito				Spanish	124589	
+140389	canadilla				Spanish	124438	
+157037	globito leucóptero				Spanish	124589	
+139989	flabellina blanca				Spanish	163039	
+141444	luda				Spanish	124589	
+141444	rellena / relleno				Spanish	124589	
+141444	sipionet				Spanish	124589	
+141443	sepia elegante				Spanish	124589	
+141443	castaño				Spanish	124589	
+140262	caracolillo				Spanish		
+216384	nautilo común				Spanish	124589	
+140235	lima				Spanish	163039	
+140235	peinecillo				Spanish	163039	
+140605	pulpo de roca				Spanish	163039	
+141741	porcelanita				Spanish	163039	
+181249	flabellina rallada				Spanish	163039	
+141907	chirla				Spanish	163043	
+140059	oreja de mar				Spanish	124438	
+416668	calamar de Forbes				Spanish	9810	
+140605	pulpo				Spanish	9810	
+141448	globito pequeño				Spanish	124589	
+236717	vieira patagónica				Spanish		
+141445	sepia con punta				Spanish	124589	
+141445	sepia puntiaguda				Spanish	124589	
+141445	chopito				Spanish	124589	
+140194	quitón blanco				Spanish	163039	
+140396	búsano				Spanish	163039	
+140396	corneta				Spanish	163039	
+138758	liebre de mar manchada				Spanish	163039	
+140712	concha de Santiago				Spanish	131431	
+140712	concha de peregrino				Spanish	124438	
+140780	nacra común				Spanish	147411	
+416668	calamar veteado				Spanish	9810	
+140605	pulpo común				Spanish	9810	
+141737	tritonia de gorgonias				Spanish	163041	
+140481	mejillón mediterráneo				Spanish	163039	
+140481	mejillón rubio				Spanish	163039	
+141687	caracol tonel				Spanish		
+397169	mejillón de Nueva Zelandia				Spanish		
+438902	sepia de Ken				Spanish	124589	
+394429	concha de peregrino				Spanish	163043	
+394429	venera				Spanish	163043	
+140733	muergo				Spanish	163043	
+342187	sepia de Zanzibar				Spanish	124589	
+138878	bocina				Spanish	124438	
+141452	sepieta común				Spanish	124589	
+342149	sepia labiada				Spanish	124589	
+220306	sepia rana.				Spanish	124589	
+225586	sepia ornada				Spanish	124589	
+342324	globito de Tasmania				Spanish	124589	
+342199	globito de Tortugas				Spanish	124589	
+141447	globito de Carol				Spanish	124589	
+139686	elysia verde				Spanish	163039	
+342366	sepia llamativa				Spanish	124589	
+509315	vaquita suiza				Spanish	163039	
+140780	nácar				Spanish	163039	
+342120	sepia mazicorta				Spanish	124589	
+141453	sepiola análoga				Spanish	124589	
+141451	sepieta misteriosa				Spanish	124589	
+140295	arola				Spanish	163043	
+220304	sepia austral				Spanish	124589	
+141936	escupiña grabada				Spanish	9810	
+140685	lapa				Spanish	124438	
+140600	pulpo blanco				Spanish	163043	
+141549	ostra roja				Spanish	163039	
+140263	bígaro chato				Spanish		
+138984	caperuza				Spanish		
+138675	quitón espinoso				Spanish	163039	
+138757	liebre de mar pequeña				Spanish	163039	
+140679	lapa ferruginosa				Spanish	147411	
+141877	tylodina amarilla				Spanish	163041	
+225573	pota pájara				Spanish	9810	
+141442	choco canario				Spanish	9810	
+225573	pota pajarito				Spanish	9810	
+140685	albueskæl				Danish	147411	
+139883	stilktoppet pighudesnegl				Danish	147411	
+141334	tyndskallet tangsnegl				Danish	147411	
+140300	elliptisk trugmusling				Danish	147411	
+140283	lucinamusling				Danish	147411	
+141821	perlesnegl 				Danish	147411	
+139849	sylformet pighudesnegl				Danish	147411	
+141872	tårnsnegl				Danish	147411	
+141200	butspiret tangsnegl				Danish	147411	
+138675	petit chiton épineux				French	163039	
+138757	petit lièvre de mer				French	163039	
+138728	aglaja ponctuée				French	163041	
+141736	tritonia à manchons				French	163041	
+141736	triton maniéré				French	163041	
+140600	pieuvre blanche				French		
+141134	bulle arctique				French	145894	
+156961	pétricole pholadiforme				French	145895	
+141919	palourde américaine				French	145895	
+140264	littorine rugueuse				French	145895	
+140685	bernique				French	9269	
+141872	turritelle				French	9269	
+140600	elédone				French	9269	
+140300	spisule				French	9269	
+140734	couteau				French	9269	
+141919	clam				French	9269	
+141919	quahog				French	9269	
+141936	praire				French	9269	
+140685	patelle commune				French	1116	
+140264	littorine des rochers				French	1116	
+141936	praire commune				French	9810	
+156916	nucule de l'Atlantique				French	145894	
+140429	perceur d'huitre				French	145894	
+156859	grand moule striée				French	145895	
+156805	clovisse arctique				French	145895	
+141458	sépiole robuste				French	124589	
+342317	sépiole mimika				French	124589	
+141433	syndesmye blanche				French	9234	
+140536	lunatie du Groenland				French	145894	
+156655	haminée nordique				French	145894	
+141433	telline blanche				French	123768	
+342367	seiche encrier				French	124589	
+342138	seiche géante africaine				French	124589	
+342156	seiche d’Oman				French	124589	
+141739	triton striée				French	163041	
+140403	pourpre petit pierre				French	686	
+140480	moule comestible				French	686	
+140271	calmar commun				French	9810	
+141548	spirule				French	124589	
+160323	natice trisériée				French	145894	
+153107	sépia inerme Japonaise				French	124589	
+141539	skénée planorbe				French	145894	
+156992	solémie du nord				French	145894	
+141607	taret commun				French	145894	
+140403	pourpre de l'Atlantique				French	145895	
+141450	sépiole élégante				French	124589	
+342198	sépiole du Pacifique boréal				French	124589	
+342232	sépiole cracheuse				French	124589	
+141446	sépiole différente				French	124589	
+140155	janthine				French		
+225573	encornet oiseau				French	9810	
+141442	seiche africane				French	9810	
+156803	gemme améthyste				French	145895	
+140403	bigorneau blanc				French	9269	
+140403	pilau				French	9269	
+140271	encornet				French	9269	
+138999	coque				French	9269	
+140403	pourpre				French	1116	
+140480	moule commun				French	1116	
+140271	calmar				French	1116	
+138755	lièvre noir de mer				French	163039	
+140792	doris argo				French	163041	
+140792	doris fauve				French	163041	
+141877	tylodine jaune				French	163041	
+231749	palaroude				French	124438	
+160161	petit cérithe de Green				French	145894	
+140627	doris épineux				French	1116	
+141549	spondyle				French	163039	
+141549	pied d'ane				French	163039	
+138748	anomie pelure d'oignon				French	686	
+140656	huître portugaise				French	686	
+138998	coque				French	686	
+156932	pandore de Gould				French	145894	
+140263	littorine jaune				French	145895	
+140170	lacune commune de l'Atlantique				French	145895	
+141906	verni				French	124438	
+138998	sourdon				French		
+138998	rigadeau				French		
+342315	sépiole colibri				French	124589	
+141449	sépiole melon				French	124589	
+141449	sépiole				French	124589	
+397024	odostomie à double suture				French	145894	
+420438	odostomie rêche				French	145894	
+160233	crucibule strié				French	145894	
+156832	vénéricarde boréale				French	145894	
+140656	huître creuse du Pacifique				French	163043	
+140656	huître creuse japonaise				French	163043	
+139601	Γραμμοκόχυλο				Modern Greek (1453-)	147411	
+141448	Σουπίτσα				Modern Greek (1453-)	147411	
+141907	Χάβαρο				Modern Greek (1453-)	147411	
+181381	Καλαμάρι στέμμα				Modern Greek (1453-)	147411	
+139006	Αυγόστρειδο				Modern Greek (1453-)	147411	
+416668	Ψευτοκαλάμαρο				Modern Greek (1453-)	147411	
+139499	Γουρουνίτσα				Modern Greek (1453-)	147411	
+140503	Πτυχωτό κοφίνι				Modern Greek (1453-)	147411	
+140405	Ψευτόστρομπος				Modern Greek (1453-)	147411	
+140605	Χταπόδι				Modern Greek (1453-)	147411	
+140780	Πίννα				Modern Greek (1453-)	147411	
+141448	Σουπίτσα φακή				Modern Greek (1453-)	147411	
+140624	Καταμάχι				Modern Greek (1453-)	147411	
+138788	Καλόγνωμη				Modern Greek (1453-)	147411	
+140459	Βάλανος				Modern Greek (1453-)	147411	
+140459	Χουρμάς				Modern Greek (1453-)	147411	
+140459	Πετροσωλήνας				Modern Greek (1453-)	147411	
+139688	Καλαμάρι σβούρα				Modern Greek (1453-)	147411	
+138852	Βραχυπλόκαμο καλαμάρι				Modern Greek (1453-)	147411	
+141795	Βαθουλωτός τροχός				Modern Greek (1453-)	147411	
+140023	Καρδιά				Modern Greek (1453-)	147411	
+140024	Χοντραχιβάδα				Modern Greek (1453-)	147411	
+141445	Κοκκινοσουπιά				Modern Greek (1453-)	147411	
+141545	Αχιβαδοσωλήνας				Modern Greek (1453-)	147411	
+141595	Τελλινίτσα				Modern Greek (1453-)	147411	
+140624	Θράψαλλο				Modern Greek (1453-)	147411	
+140610	Ανισοπλόκαμο χταπόδι				Modern Greek (1453-)	147411	
+138783	Ψευτοκαλόγνωμη				Modern Greek (1453-)	147411	
+138747	Καλαμάρι πινέζα				Modern Greek (1453-)	147411	
+236719	Καλόγρια				Modern Greek (1453-)	147411	
+236719	Χλαμύδα				Modern Greek (1453-)	147411	
+140528	Καδενοφέγγαρο				Modern Greek (1453-)	147411	
+138990	Αγκαθομεθύστρα				Modern Greek (1453-)	147411	
+138992	Κόκκινη μεθύστρα				Modern Greek (1453-)	147411	
+140621	Κόκκινο καλαμάρι				Modern Greek (1453-)	147411	
+141457	Σουπίτσα γλώσσα				Modern Greek (1453-)	147411	
+141591	Χρωματιστή τελλίνα				Modern Greek (1453-)	147411	
+138926	Αγριοβούκινο				Modern Greek (1453-)	147411	
+157031	Μαργαριτοφόρο καλαμάρι				Modern Greek (1453-)	147411	
+236719	Πολύχρωμο χτένι				Modern Greek (1453-)	147411	
+140464	Αγριόμυδο				Modern Greek (1453-)	147411	
+140728	Ψευτολουκίνα				Modern Greek (1453-)	147411	
+141934	Ψευτοκύδωνο				Modern Greek (1453-)	147411	
+146524	Λεπτή πίννα				Modern Greek (1453-)	147411	
+140389	Αγκαθωτός στρόμπος				Modern Greek (1453-)	147411	
+141444	soupia				Modern Greek (1453-)	124589	
+141911	Στρογγυλή αχιβάδα				Modern Greek (1453-)	147411	
+141911	Ψευτοχάβαρο				Modern Greek (1453-)	147411	
+141912	Γυαλιστερό κυδώνι				Modern Greek (1453-)	147411	
+141779	Άσπρος τροχός				Modern Greek (1453-)	147411	
+141780	Γυαλιστερός τροχός				Modern Greek (1453-)	147411	
+141793	Τροχός				Modern Greek (1453-)	147411	
+141443	Ντελικάτη σουπιά				Modern Greek (1453-)	147411	
+141444	Σουπιά				Modern Greek (1453-)	147411	
+141694	Χταπόδι παλάμη				Modern Greek (1453-)	147411	
+140508	Χοντροκόφινο				Modern Greek (1453-)	147411	
+141830	Μεσότροχος				Modern Greek (1453-)	147411	
+236720	Γυαλιστερό χτένι				Modern Greek (1453-)	147411	
+141578	Λεπτοτελλίνα				Modern Greek (1453-)	147411	
+141777	Φυκοτροχός				Modern Greek (1453-)	147411	
+140677	Πεταλίδα				Modern Greek (1453-)	147411	
+140891	Φτερόστρειδο				Modern Greek (1453-)	147411	
+141444	oum semra				Hassaniyya	9810	
+140605	azeiz				Hassaniyya	9810	
+140271	calmar				Romanian		
+140103	noordse rotsboorder				Dutch	147411	
+139903	kromme glanshoren				Dutch	691	
+151374	platte schaalhoren				Dutch	139290	
+147123	Jenkins' brakwaterhorentje				Dutch	139290	
+140614	ammonietslakje				Dutch	139290	
+141741	koffieboontje				Dutch	139290	
+141907	gewone venusschelp				Dutch	2	
+140103	Noorse rotsboorder				Dutch	2	
+140771	ruwe boormossel				Dutch	2	
+140605	gewone achtarm				Dutch	2	
+141439	tere dunschaal				Dutch	705	
+139410	korfschelp				Dutch	685	
+141741	ongevlekt koffieboontje				Dutch	685	
+147123	Jenkins' waterhoren				Dutch	691	
+141639	brakwater-knotsslak				Dutch	691	
+140712	grote mantel				Dutch	685	
+141580	ovaal nonnetje				Dutch	691	
+416668	noordse pijlinktvis				Dutch	685	
+139010	kleine kokkel				Dutch		
+153982	bolle duinslak				Dutch		
+140201	ronde keverslak				Dutch		
+140614	geribd ammonietslakje				Dutch	147411	
+426355	grofgeribde grasslak				Dutch	147411	
+426355	fijngeribde grasslak				Dutch	133005	
+140712	sint-jacobsschelp				Dutch		
+141595	tere platschelp				Dutch	83	
+138802	noordkromp				Dutch	83	
+139523	boompjesslak				Dutch	685	
+140173	groot glasmuitje				Dutch	685	
+138902	Ijslandse slanke noordhorens				Dutch	685	
+141010	slanke tandhoren				Dutch	691	
+140459	steenmossel				Dutch		
+140259	(eier-) levendbarende alikruik				Dutch	139290	
+153928	Basters' drijfhoren				Dutch	139290	
+138952	buishorentje				Dutch	139290	
+141010	slank tandhorentje				Dutch	139290	
+138952	stomp buishorentje				Dutch	147411	
+140710	tijgerpels				Dutch	2	
+141546	messchede				Dutch	2	
+140259	levendbarende alikruik				Dutch	691	
+138952	stompe buishoren				Dutch	691	
+139673	gewoon muizeoortje				Dutch	147411	
+140023	ossenhartschelp				Dutch	686	
+426408	kleine karthuizerslak				Dutch	133005	
+140474	zwarte streepschelp				Dutch	685	
+141445	gedoornde zeekat				Dutch	691	
+140624	grote pijlinktvis				Dutch	691	
+140674	Pandoraschelp				Dutch	141379	
+246148	witte muntschelp				Dutch	141379	
+140509	grof geribde fuikhoorn				Dutch		
+150534	gladde olifantstand				Dutch		
+235792	gewone tuinslak				Dutch	147411	
+141700	dekselhoren				Dutch	685	
+141291	navelgroefhoren				Dutch	685	
+140528	tepelhoren				Dutch	691	
+141555	kwelderslak				Dutch	691	
+140262	gewone alikruik				Dutch	2	
+151894	glanzende tepelhoren				Dutch	147411	
+140464	behaarde paardemossel				Dutch	2	
+235792	tuinslak				Dutch	140203	
+138992	gedoornde hartschelp				Dutch	685	
+140262	alikruik				Dutch	1683	
+181221	rode naaktslak				Dutch		
+139938	brandend vuurtje				Dutch		
+139988	violette draadslak				Dutch		
+139988	purperen zeenaaktslak				Dutch		
+139687	gestreepte vleugelslak				Dutch		
+141359	vliezig drijfhorentje				Dutch	2	
+139738	Turtons wenteltrapje				Dutch	2	
+139523	gewone boompjesslak				Dutch	685	
+182708	bolle stroommossel				Dutch	147411	
+141595	tere dunschaal				Dutch	9234	
+140123	vergeten brakwaterhoren				Dutch	685	
+139488	bootschelp				Dutch	685	
+509315	luipaardslak				Dutch		
+182808	groene mosdierslak				Dutch	147411	
+181236	Sarsia kroonslak				Dutch		
+141609	vertakte paalworm				Dutch	691	
+140528	gewone tepelhoren				Dutch	691	
+139085	bruine sponshoren				Dutch	685	
+141864	zevenkantige trapgevel				Dutch	691	
+141555	gewone kwelderslak				Dutch	691	
+140855	blauwtipje				Dutch	685	
+139085	naaldje				Dutch	139290	
+140464	baardmossel				Dutch	147411	
+141700	gewone dekselhoren				Dutch	685	
+141291	gewone navelgroefhoren				Dutch	685	
+138990	grote hartschelp				Dutch	685	
+140728	zandschelp				Dutch	685	
+345281	tweetandschelpje				Dutch		
+236719	bonte mantel				Dutch	141379	
+138749	schilferige dekschelp				Dutch		
+140521	IJslandse tepelhoren				Dutch	141379	
+196380	zwakgeribde olifantstand				Dutch		
+141911	gewone artemisschelp				Dutch	147411	
+141442	jibia africana				Spanish	9810	
+342367	sepia tintero				Spanish	124589	
+342138	sepia gigante africana				Spanish	124589	
+342156	sepia de Oman				Spanish	124589	
+141458	sepiola robusta				Spanish	124589	
+140656	ostión				Spanish	163043	
+140656	ostión del Pacífico				Spanish	163043	
+140656	ostra japonesa				Spanish	163043	
+138998	berberecho				Spanish	163043	
+141906	almejón				Spanish	163043	
+141906	almejón de sangre				Spanish	163043	
+342215	sepia de Web				Spanish	124589	
+141456	sepiola intermedia				Spanish	124589	
+342315	globito colibri				Spanish	124589	
+141449	globito robusto				Spanish	124589	
+141449	choco				Spanish	124589	
+141449	chopito				Spanish	124589	
+141449	globito				Spanish	124589	
+141906	saverina				Spanish	124438	
+140735	Scheidenmuschel				German	686	
+140735	Schotenmuschel				German	686	
+140301	feste Trogmuschel				German	147412	
+140735	schotenförmige Scheidenmuschel				German	147412	
+139765	kleine Fadenschnecke				German	147412	
+140263	stumpfe Strandschnecke				German	1116	
+140467	Pferdemuschel				German	147412	
+141454	kleine Sprutte				German	1116	
+140656	Japanische Auster				German	163043	
+140264	rauher Strandschnecke				German	686	
+141872	gemeine Turmschnecke				German	686	
+140300	kleine Trogmuschel				German	686	
+141936	Venusmuschel				German	9810	
+139604	gebänderte Dreiecksmuschel				German	83	
+139604	Sägezähnchen				German	123768	
+140685	gemeine Napfschnecke				German	686	
+140658	østers				Norwegian	147411	
+140403	purpursnegl				Norwegian	147411	
+140459	daddelmusling				Norwegian	147411	
+138802	kuskjell				Norwegian	147411	
+139993	lilla frynsesnegl				Norwegian		
+140712	vieira				Portuguese	124438	
+140605	polvo comum				Portuguese		
+181221	lesma-pêssego				Portuguese	163039	
+416668	lula-riscada				Portuguese	9810	
+140059	orelha				Portuguese	124438	
+140605	polvo-vulgar				Portuguese	9810	
+141444	siba				Portuguese		
+141444	choco				Portuguese	9810	
+140262	caramujo				Portuguese		
+141442	choco-africano				Portuguese	9810	
+138755	lebre-do-mar				Portuguese		
+141444	choco-vulgar				Portuguese	9810	
+231749	ameijoa				Portuguese	124438	
+140480	mexilhao				Portuguese	124438	
+140271	lula-vulgar				Portuguese	9810	
+140389	buzio				Portuguese	124438	
+140271	lula-comum				Portuguese	9810	
+141919	amêijoa-mercenária				Portuguese		
+141919	clame-redonda				Portuguese		
+140025	castanhola				Portuguese	124438	
+141936	pé-de-burro				Portuguese	9810	
+141906	concha chione				Portuguese	124438	
+140301	amêijoa branca				Portuguese	163043	
+140656	ostra-gigante				Portuguese	163043	
+140685	lapa				Portuguese	124438	
+140513	netted dog whelk				English	686	
+138748	saddle oyster				English	686	
+140656	Portuguese oyster				English	686	
+138998	common cockle				English	686	
+140770	common piddock				English	686	
+224609	black mussel				English	6561	
+140463	ear mussel				English	6561	
+216521	littoral tellin				English	6561	
+397024	two-groove odostome				English	42	
+215285	Cape false limpet				English	6561	
+215142	truncated mangrove snail				English	6561	
+225238	baby's toes				English	6561	
+216964	granular frog shell				English	6561	
+344444	Pilsbry tuskshell				English	1318	
+344573	kingly toothshell				English	1318	
+140606	fourhorn octopus				English	1318	
+342315	double-ear bobtail				English	1318	
+141449	stout bobtail				English	1318	
+157032	big-fin bobtail squid				English	1318	
+141456	intermediate bobtail				English	1318	
+138848	deepsea squid				English	1318	
+140658	edible oyster				English	2901	
+157005	file yoldia				English	2901	
+160395	sharp nassa				English	2901	
+160464	pumpkin physa				English	2901	
+160446	turriculate lora				English	2901	
+156737	common jingle				English	2901	
+139604	banded wedge-shell				English	83	
+140025	dog cockle				English	42381	
+141944	worm shell				English	614	
+140658	common oyster				English	1116	
+196377	occidental tuskshell				English	2901	
+211922	thorny chiton				English	5896	
+220309	hooded cuttlefish				English	5936	
+159928	concealed arctic chiton				English	2901	
+215229	ventricose  ark				English	6506	
+216616	variable mussel				English	5896	
+216901	common calpurnus				English	6506	
+215680	sertum rock shell				English	6080	
+141693	oblong trapezium				English	5987	
+345303	Caribbean glassy-bubble				English	42	
+345304	clean glassy-bubble				English	42	
+342313	luminous flying squid				English	1318	
+140625	lesser flying squid				English	1318	
+140607	unicorn octopus				English	1318	
+139054	needle whelk				English	147411	
+139957	thick slit limpet				English	147411	
+140025	dog-cockle				English	147411	
+139004	Norway cockle				English	147411	
+141744	spotted cowrie				English	147411	
+225725	papery burnupena				English	6561	
+225358	tick shell				English	6561	
+141879	umbrella pleurobranch				English	6561	
+138803	paper nautilus				English	5936	
+240765	California seahare				English	42	
+246814	halfsmooth yoldia				English	42	
+246814	oblique-lined yoldia				English	42	
+344482	tetrodon toothshell				English	1318	
+344585	flattened toothshell				English	1318	
+139557	Arctic paper-bubble				English	2901	
+139557	Arctic paperbubble				English	2901	
+139557	weak paper-bubble				English	2901	
+138803	Greater Argonaut				English	5936	
+141730	marionia				English	163041	
+141662	flexuose cleftclam				English	2901	
+140590	common nut clam				English	686	
+224822	pencil bait				English	6561	
+397043	topsnail				English		
+397061	Kumamoto oyster				English		
+207659	spiral-ridged siffie				English	6561	
+207660	perlemoen				English	6561	
+207660	abalone				English	6561	
+216348	black-spotted topshell				English	6561	
+344432	banded tuskshell				English	1318	
+344449	green tuskshell				English	1318	
+344168	hexagon tuskshell				English	1318	
+546856	scorched monodont				English		
+546856	spotted top shell				English		
+140607	Atlantic warty octopus				English	1318	
+342092	flapjack octopus				English	1318	
+140658	European flat oyster				English		
+160011	boreal marginella				English	2901	
+160012	seaboard marginella				English	2901	
+160061	ivory chalice-bubble				English	2901	
+140627	hairy spiny doris				English	2901	
+138820	crenulate astarte				English	2901	
+140692	Iceland scallop				English	2901	
+397146	Charrua mussel				English		
+397160	Chilean Oyster				English		
+140677	Mediterranean limpet				English	614	
+157003	delicate tellin				English	2901	
+140389	purperslak				Dutch	124438	
+147459	blauwgestreepte schaalhoren				Dutch		
+140626	rubberslak				Dutch	691	
+181555	gewone erwtenmossel				Dutch	147411	
+141444	gewone zeekat				Dutch	2	
+156887	brakwatermossel				Dutch		
+141393	spikkelhorentje				Dutch	147411	
+138686	slanke spieshoren				Dutch	691	
+138903	gezwollen slanke noordhoren				Dutch	685	
+139371	ruwe trapgevel				Dutch	691	
+140958	gladde speldhoren				Dutch	691	
+140758	gestippeld schepje				Dutch	691	
+140640	wrattige sterslak				Dutch	685	
+140857	wrattig tipje				Dutch	691	
+139908	brede ringsprietslak				Dutch	685	
+140640	geknobbelde sterslak				Dutch	139290	
+141911	artemisschelp				Dutch	685	
+139975	doorboorde napslak				Dutch	685	
+140657	Amerikaanse oester				Dutch	691	
+140172	klein glasmuiltje				Dutch	685	
+426356	eenbandige grasslak				Dutch	133005	
+139640	trage kroonslak				Dutch	147411	
+141444	gewone inktvis				Dutch	124589	
+141444	zeekat				Dutch	61	
+141579	gewoon nonnetje				Dutch	691	
+141579	nonnetje				Dutch	61	
+140626	gewone rubberslak				Dutch	685	
+140440	geruite streepschelp				Dutch	691	
+141929	ovale venusschelp				Dutch	685	
+140108	geplooide rotsboorder				Dutch	691	
+141443	sierlijke zeekat				Dutch	685	
+141912	dichtgestreepte artemisschelp				Dutch	141379	
+139640	roodgevlekte kroonslak				Dutch		
+426356	éénbandige grasslak				Dutch	147411	
+140480	eetbare mossel				Dutch	2	
+141607	paalworm				Dutch	685	
+140271	pijlinktvis				Dutch	61	
+140480	blauwe mossel				Dutch	61	
+141782	asgrauwe tolhoren				Dutch	2	
+141782	gewone tolhoren				Dutch	2	
+141548	posthoreninktvis				Dutch	685	
+234102	schildersmossel				Dutch	147411	
+141539	zeeposthoren				Dutch	691	
+141850	cilinderslak				Dutch	685	
+156817	grote mantel				Dutch	124438	
+140403	purperslak				Dutch	685	
+234093	puntige blaashoren				Dutch	147411	
+139476	valse oubliehoren				Dutch	691	
+139008	scheve kokkel				Dutch	139290	
+141539	zeeposthorentje				Dutch	139290	
+139476	slanke oubliehoren				Dutch	139290	
+153380	zachtgedoornde zeenaaktslak				Dutch	139290	
+141739	gestreepte tritonia				Dutch	163041	
+141607	gewone paalworm				Dutch	691	
+141807	gekielde kegeltolhoren				Dutch	685	
+140169	kleine scheefhoren				Dutch	685	
+141539	gewone zeeposthoren				Dutch	691	
+141850	gewone cilinderslak				Dutch	685	
+426387	heideslak				Dutch	133005	
+426421	cylindrische korfslak				Dutch	133005	
+141641	slanke knotsslak				Dutch	685	
+140471	platte streepschelp				Dutch	685	
+140237	kleine vijlschelp				Dutch	691	
+139008	scheve hartschelp				Dutch	685	
+141909	breedgeribde venusschelp				Dutch	685	
+138999	brakwaterkokkel				Dutch		
+178911	korstmosschelp				Dutch		
+141280	gestreepte traliedrijfhoren 				Dutch	141379	
+181558	scheve erwtenmossel				Dutch	147411	
+140480	mossel				Dutch	685	
+152312	scheve bultschelp				Dutch	691	
+153107	Japanse zeekat				Dutch	691	
+153380	gorgelpijp-knotsslak				Dutch	691	
+140271	gewone pijlinktvis				Dutch	685	
+138691	bootschelp				Dutch	691	
+139134	kaalslak				Dutch	691	
+138998	gewone kokkel				Dutch	2	
+140170	scheefhorentje				Dutch	2	
+140263	stompe alikruik				Dutch	2	
+138691	spoelhoren				Dutch	2	
+138998	eetbare hartschelp				Dutch	2	
+138998	kokkel				Dutch	61	
+181582	gewone poelslak				Dutch	147411	
+140170	scheefhoren				Dutch	685	
+140513	gevlochten fuikhoren				Dutch	685	
+140870	geplooide zonneschelp				Dutch	147411	
+138691	gewone bootschelp				Dutch	691	
+140227	spitse contravleugelslak				Dutch	691	
+139134	gewone kaalslak				Dutch	691	
+140870	Fär-Oër schelp				Dutch	139290	
+141799	opgezwollen tolhoren				Dutch	139290	
+139770	zeedraadslak				Dutch	139290	
+138748	paardenzadel				Dutch	2	
+140656	Japanse oester				Dutch	685	
+140770	gewone boormossel				Dutch	2	
+141906	grande palourde				French	163043	
+342215	sépia de Web				French	124589	
+141456	sépiole intermédiaire				French	124589	
+141905	veloutée lisse				French	145894	
+140467	grande moule				French	686	
+140263	bigorneau obtus				French	9269	
+140263	bigorneau jeune				French	9269	
+140513	grande nasse				French	9269	
+140513	nasse réticulée				French	9269	
+141906	vernis				French	9269	
+140770	gite				French	9269	
+140770	grande pholade				French	9269	
+140656	huître japonaise				French	163040	
+140656	huître du Pacifique				French	163040	
+140263	littorine tronquée				French	1116	
+140656	huître creuse				French	1116	
+140301	spisule solide				French	9234	
+140301	mactre solide				French	9234	
+160102	mitrelle lunée				French	145894	
+140233	lime				French		
+342185	seiche du Viet Nam				French	124589	
+141454	sépiole grandes oreilles				French	124589	
+138802	cyprine d'Islande				French	686	
+140658	huître plate européenne				French		
+342236	nautile bouton				French	124589	
+140684	patelle				French	9269	
+140467	modiole				French	9269	
+140735	couteau				French	9269	
+138961	chapeau chinois				French	163040	
+141454	sépiole				French	1116	
+141730	marionia de Blainville				French	163041	
+138803	argonaute voilier				French		
+140590	nucule nacrée				French	686	
+139604	olive de mer				French	9234	
+157005	amande de mer				French	145894	
+139604	flion				French	9234	
+156737	anomie simple				French	145894	
+141579	petit macoma				French	145895	
+157002	telline naine du nord				French	145895	
+141643	téthys				French	163041	
+140389	rocher				French	124438	
+157037	sépiole leucoptère				French	124589	
+141444	seche				French	9810	
+141444	seiche commune				French		
+141444	casseron				French	9810	
+141744	grain de café				French	9269	
+141744	porcelaine puce				French	9269	
+141744	pucelage				French	9269	
+140625	calmar				French	9269	
+140590	nucule				French	9269	
+140025	amande de mer				French	9269	
+140658	huître plate				French	9269	
+140658	belon				French	9269	
+140658	pied de cheval				French	9269	
+139004	bucarde				French	9269	
+140025	amande marbrée				French	124438	
+140658	huître comestible				French	1116	
+220309	seiche capuchon				French	124589	
+141579	telline Baltique				French	9234	
+140525	natice close				French	145894	
+160363	triforis à riaes noires				French	145894	
+156870	mactre naine				French	145894	
+139572	doris orange				French		
+140040	okenia de Méditerranée				French		
+216384	nautile flammé				French	124589	
+140528	natice porte-chaine				French	686	
+156887	fausse moule brune				French	163040	
+139908	facéline				French	1116	
+141444	seiche				French	1116	
+141443	seiche élégante				French	124589	
+141444	chakod				French	124589	
+141444	chibia				French	124589	
+156940	périplime de Lea				French	145894	
+160082	turbonille tronqué				French	145894	
+140262	littorine commune d'Europe				French	145895	
+140521	natice d'Islande				French	145894	
+141457	sépiole languette				French	124589	
+140774	phyllis à ponctuations blanches				French	163041	
+140774	phyllidie jaune				French	163041	
+140262	littorine commun				French	1116	
+140528	natice				French	1116	
+140855	antiopelle				French	1116	
+181376	seiche pharaon				French	124589	
+140262	bigorneau				French	9269	
+140262	vignot				French	9269	
+140262	caracole				French	9269	
+140528	grande natice				French	9269	
+138990	coque épineuse				French	9269	
+138990	bucarde épineuse				French	9269	
+138992	bucarde				French	9269	
+141934	praire				French	9269	
+138788	arche de Noe				French	163039	
+141459	sépiole de Rondelet				French	163039	
+140459	date de mer				French		
+139523	nudibranche hérissé				French	145895	
+141595	telline mince				French	9234	
+141595	papillon				French	9234	
+160230	crépidule plate				French	145894	
+139673	ovatelle naine des vases				French	145894	
+141459	sépiole naine				French	124589	
+157036	sépiole calamarette				French	124589	
+341958	orange bigeye octopus				English	1318	
+367966	smooth-edge jewelbox				English	42	
+140627	thorny doris				English	1116	
+140105	Arctic roughmya				English	2901	
+139119	jewel box				English	614	
+147194	frilly typhis				English		
+216349	maculated top shell				English	5910	
+139106	glistenworm				English	2901	
+160147	Johnson's caecum				English	2901	
+160297	New England wentletrap				English	2901	
+140155	common purple sea snail				English	6506	
+217000	bull mouth helmet				English	5910	
+211270	strawberry topshell				English	6080	
+225573	bird squid				English	9810	
+225573	Atlantic bird squid				English	1318	
+341958	North Pacific bigeye octopus				English	1318	
+141577	blunt tellin				English	147411	
+181368	Norway shipworm				English	147411	
+140891	wing shell				English	147411	
+225359	purple-lipped dogwhelk				English	6561	
+225473	variable cone				English	6561	
+208626	spotted sea hare				English	6561	
+225509	crowned nudibranch				English	6561	
+246815	many-rib cyclocardia				English	42	
+246815	many-ribbed cyclocardia				English	42	
+426425	marsh snail				English	147411	
+160212	hairy whelk				English	2901	
+160212	hairy colus				English	2901	
+223987	false three-banded cowry				English	5971	
+138755	black sea hare				English	163039	
+141877	yellow tylodina				English	163041	
+141877	yellow umbrella slug				English	163041	
+141663	gould cleftclam				English	2901	
+140155	purple sea snail				English	686	
+138920	red whelk				English	686	
+141442	African cuttlefish				English	1318	
+342194	bully bobtailsquid				English	1318	
+140677	rayed Mediterranean limpet				English		
+225124	multicoloured topshell				English	6561	
+225723	pink-lipped topshell				English	6561	
+140155	bubble raft shell				English	6561	
+140155	violet snail				English	6561	
+344515	slender tuskshell				English	1318	
+533135	mouse cowry				English	140768	
+156779	flexed verticord				English	2901	
+140467	northern horsemussel				English	2901	
+156996	Atlantic surfclam				English	2901	
+140233	spiny lima				English	6506	
+342236	bellybutton nautilus				English	1318	
+342334	lesser blue-ringed octopus				English	1318	
+367955	rough keyhole limpet				English	42	
+160004	reticulate cocculina				English	2901	
+160072	mossy valvata				English	2901	
+156711	lemon drop				English	2901	
+156745	squarish astarte				English	2901	
+156826	thin cyclinella				English	2901	
+156843	Atlantic giant cockle				English	2901	
+141454	little cuttlefish				English	1116	
+344325	Agassiz's cadulus				English	2901	
+140233	spiny fileclam				English		
+139497	dirty Cowry				English		
+342185	Viet Nam cuttlefish				English	124589	
+141454	Atlantic bobtail squid				English	124589	
+570813	dragon's head cowry				English	140768	
+160204	wavy clio				English	2901	
+139178	common clione				English	2901	
+160289	angulate wentletrap				English	2901	
+141820	Greenland margarite				English	2901	
+160370	Florida melampus				English	2901	
+140233	spiny file shell				English	6506	
+215169	sundial				English	6066	
+217011	common distorsio				English	5910	
+215522	lettered cone				English	5910	
+220955	lyre-shaped volute				English	6080	
+140301	thick trough shell				English	9234	
+140416	veined whelk				English	9193	
+181379	Ruppell's octopus squid				English	1318	
+138761	de Serre’s pelican’s foot				English	147411	
+248261	twisted ramshorn				English	147411	
+139965	pink slit limpet				English	147411	
+140467	horse-mussel				English	147411	
+140684	China limpet				English	147411	
+231749	chequered carpet shell				English	147411	
+156996	Atlantic surf clam				English	147411	
+140301	surf clam				English	124438	
+140301	bar clam				English	124438	
+140735	pod razor shell				English	614	
+225367	annulated plough shell				English	6561	
+225397	Cape marginella				English	6561	
+225448	algoa cone				English	6561	
+141799	gezwollen tolhoren				Dutch	691	
+141792	gevlamde tolhoren				Dutch	685	
+138984	Hongaarse muts				Dutch	685	
+426354	grofgeribde grasslak				Dutch	133005	
+426397	mostonnetje				Dutch	133005	
+426411	zandslak				Dutch	133005	
+140577	geribde snavelneut				Dutch	685	
+140377	geribde zeeklitschelp				Dutch	685	
+140770	pholade				Dutch	685	
+141599	franje-paalworm				Dutch		
+141906	Amerikaanse venusschelp				Dutch		
+141906	bruine venusschelp				Dutch		
+426354	fijngeribde grasslak				Dutch	147411	
+139557	glashoren				Dutch	691	
+141662	golfschelp				Dutch	691	
+139407	Zuiderzee schijfslak				Dutch	147411	
+140025	gewone marmerschelp				Dutch	147411	
+141025	brede tandhoren				Dutch	691	
+139557	gewone glashoren				Dutch	691	
+139407	Zuiderzee-schijfslak				Dutch	691	
+140590	ovale parelmoerneut				Dutch	139290	
+139054	muizekeutel				Dutch	139290	
+141025	breed tandhorentje				Dutch	139290	
+140025	kamschelp				Dutch	2	
+140658	eetbare oester				Dutch	2	
+139004	Noorse hartschelp				Dutch	2	
+141811	gezwollen kegeltolhoren				Dutch	691	
+139672	meertandig muizeoortje				Dutch	147411	
+426391	genaveld tonnetje				Dutch	133005	
+141744	gevlekt koffiebontje				Dutch	147411	
+153375	slanke ringsprietslak				Dutch		
+140658	platte oester				Dutch	1683	
+139054	naaldje				Dutch	2	
+141744	gevlekt koffieboontje				Dutch	685	
+138803	papiernautilus				Dutch	685	
+140590	parelmoerneut				Dutch	2	
+139604	zaagje				Dutch	83	
+140658	oester				Dutch	685	
+139054	muizenkeuteltje				Dutch	685	
+140025	marmerschelp				Dutch	685	
+138821	ovale strandschelp				Dutch	147411	
+141662	gewone golfschelp				Dutch	691	
+140625	kromme pijlinktvis				Dutch	691	
+224822	Kaapse messchede				Dutch		
+138821	ovale astarte				Dutch		
+139671	wit muizenoortje				Dutch		
+160446	trapgevel 				Dutch		
+153375	gekroonde ringsprietslak				Dutch		
+141905	fluweelhoren				Dutch	685	
+139178	vlerkslak				Dutch	691	
+140467	paardenmossel				Dutch	2	
+140233	raspschelp				Dutch		
+146900	Portugese oester				Dutch	691	
+140199	pissebedkeverslak				Dutch	685	
+141454	kleine zeekat				Dutch	61	
+140301	stevige strandschelp				Dutch	61	
+141203	wit drijfhorentje				Dutch	2	
+138961	Chinees hoedje				Dutch	2	
+231749	tapijtschelp				Dutch	124438	
+141454	dwerginktvis				Dutch	2	
+248261	riempje				Dutch	147411	
+156996	reuzenstrandschelp				Dutch	147411	
+141905	gewone fluweelhoren				Dutch	685	
+140616	atoomslak				Dutch	705	
+139178	gewone vlerkslak				Dutch	691	
+140033	bleke plooislak				Dutch	685	
+139765	plompe knuppelslak				Dutch	691	
+141203	melkwit drijfhorentje				Dutch	139290	
+139765	plompe knotsslak				Dutch	139290	
+140467	gewone paardenmossel				Dutch	147411	
+153131	dwergpijlinktvis				Dutch	2	
+153131	kleine pijlinktvis				Dutch	61	
+138984	zotskap				Dutch	755	
+139770	noordelijke knuppelslak				Dutch	147411	
+140199	gewone pissebedkeverslak				Dutch	147411	
+140735	groot tafelmesheft				Dutch	685	
+139965	roze napslak				Dutch	691	
+139012	geschubde hartschelp				Dutch	691	
+140297	brede strandschelp				Dutch	691	
+141454	gewone dwerginktvis				Dutch	685	
+140684	ruwe schaalhoren				Dutch	685	
+231749	geruite tapijtschelp				Dutch		
+140416	geaderde stekelhoorn				Dutch		
+138710	gekraagde vlokslak				Dutch		
+140735	tafelmesheft				Dutch	2	
+138920	gewone noordhoren				Dutch	685	
+141577	stevige platschelp				Dutch	147411	
+139906	peper en zoutslak				Dutch		
+153996	plattepluimdrager				Dutch	147411	
+138920	noordhoren				Dutch	685	
+152774	asgrauwe keverslak				Dutch	691	
+139805	grote glanshoren				Dutch	691	
+140092	slanke rolsprietslak				Dutch	691	
+140627	egelslak				Dutch	685	
+141577	geribde platschelp				Dutch	139290	
+141627	zeeraspslak				Dutch	139290	
+141877	gele tylodina				Dutch	163041	
+141546	couteau d'Europe				French	163043	
+139938	godive orange				French		
+139988	flabelline mauve				French		
+342176	seiche étoilée				French	124589	
+139523	limace arborescente				French	1116	
+141445	seiche rosée				French	124589	
+139488	oublie				French	9269	
+141595	telline papillon				French	123768	
+141546	couteau gaine				French	123768	
+138722	limace à bigoudis				French	163041	
+140194	chiton écailleux				French	163039	
+140396	rocher fascié				French	163039	
+138758	lièvre de mer taché				French	163039	
+146905	scalaire				French	123768	
+140687	vanneau				French	686	
+140235	lime				French	163039	
+139499	porcelaine livide				French	163039	
+160450	tourelle noble 				French	145894	
+160443	pyramidelle brune				French	145894	
+140151	chiton rouge marbré				French	145894	
+157006	yoldie fausse-mye				French	145894	
+140687	pageline				French	163043	
+140712	grande coquille st. Jacques				French	686	
+140712	coquille St-Jacques atlantique				French	131431	
+140712	cocquille Saint-Jacques				French	124438	
+156454	thracia tronqué				French	145894	
+140771	grand pholade rugueuse				French	145895	
+159998	silique costulée				French	145895	
+140780	grande nacre				French		
+416668	encornet de Forbes				French	9810	
+416668	encornet veinè				French	9810	
+140605	poulpe commun				French	9810	
+140605	poulpe de roche				French	9810	
+139951	fissurelle				French	9269	
+138758	aplysie ponctuée				French	9269	
+140687	peigne				French	9269	
+140687	pétoncle blanc				French	9269	
+140687	olivette				French	9269	
+140687	picheline				French	9269	
+140294	lutraire				French	9269	
+140430	mye				French	9269	
+140430	clauque				French	9269	
+140430	bec de jar				French	9269	
+140294	lutraire étroite				French	123768	
+140430	mye des sables				French	123768	
+141448	sépiole bobie				French	124589	
+139474	cylichna blanc				French	145894	
+141907	galinette				French	163043	
+140481	moulé de Méditerranée				French	163039	
+140044	trapanie tachetée				French		
+140712	grande vanne				French	132512	
+509315	Doris dalmatien				French	163039	
+140780	jamboneau de mer				French	163039	
+141687	dólium geant				French		
+141687	tonne cannelée				French		
+140405	cormaillot				French	9269	
+140405	murex				French	9269	
+140503	petite nasse				French	9269	
+141741	grain de café				French	9269	
+141741	porcelaine puce				French	9269	
+141741	pucelage				French	9269	
+416668	calmar				French	9269	
+140605	pieuvre				French	9269	
+140605	poulpe				French	9269	
+141907	vénus				French	9269	
+140771	pholade crépue				French	123768	
+342366	seiche flamboyante				French	124589	
+138760	pied de pélican				French	686	
+140481	moule de provence				French	686	
+342218	calmar géant				French	167145	
+138709	eolidien à papilles				French	1116	
+140081	hancockia à crochets				French	163039	
+140732	couteau droit				French	145895	
+156963	fausse-vénus				French	145895	
+141587	telline striée				French	9234	
+156744	astarte lisse				French	145894	
+156793	lyonsie hyaline				French	145894	
+156878	myselle plate de l'Atlantique				French	145894	
+141451	sépiole mystérieuse				French	124589	
+141453	sépiole analogue				French	124589	
+140732	couteau				French	9269	
+141587	telline				French	123768	
+140732	couteau américain				French	123768	
+342120	seiche petites mains				French	124589	
+181580	clam asiatique				French	163040	
+141602	petit taret				French	163040	
+231750	palourde japonaise				French	163040	
+231750	palourde croisée japonaise				French	163040	
+140043	trapanie à lignes blanches				French	163041	
+141308	cingula pointue				French	145894	
+342324	sépiole du Tasmanie				French	124589	
+342199	sépiole de la Tortue				French	124589	
+141447	sépiole de Carol				French	124589	
+156823	cumingia tellinoïde				French	145894	
+140168	lacune pâle				French	145894	
+225586	sépia ornée				French	124589	
+139686	elysie verte				French	1116	
+140840	thécacère				French	1116	
+225533	gas flame nudibranch				English	6561	
+141905	smooth lamellaria				English	2901	
+141905	smooth velutina				English	2901	
+139765	balloon aeolis				English	2901	
+139765	dwarf balloon aeolis				English	2901	
+216875	ring cowrie				English	5971	
+223997	violet-spotted cowry				English	5971	
+220317	bigfin reef squid				English	5936	
+138961	Chinaman's hat				English	686	
+140467	horse mussel				English	686	
+217258	miter pyram				English	5987	
+216492	slippery wedge shell				English	6561	
+140684	rough limpet				English	686	
+341985	pygmy octopus				English	1318	
+342036	gloomy octopus				English	1318	
+141454	Atlantic bobtail				English	1318	
+139429	Atlantic cranch squid				English	1318	
+341951	two-spotted octopus				English	195811	
+138961	Chinese hat				English	6561	
+225333	common dogwhelk				English	6561	
+344159	reticulate tuskshell				English	1318	
+344508	ivory tuskshell				English	1318	
+344291	little toothshell				English	1318	
+344325	Agassiz toothshell				English	1318	
+574021	horned mus cowry				English	140768	
+574021	horned mouse cowry				English		
+156859	ribbed mussel				English	2901	
+156805	Artic wedgeclam				English	2901	
+140472	discordant mussel				English	2901	
+156916	Atlantic nutclam				English	2901	
+156923	thin nutclam				English	2901	
+341963	chestnut octopus				English	1318	
+140429	Atlantic oyster drill				English	2901	
+140029	Atlantic ancula				English	2901	
+156716	salmon aeolis				English	2901	
+150457	barnacle-eating onchidoris				English	2901	
+140429	American tingle				English	163040	
+140429	American whelk tingle				English	163040	
+156805	Arctic wedgeclam				English	2901	
+342138	giant African cuttlefish				English	124589	
+138757	dwarf sea hare				English		
+216355	button tops				English	5910	
+216812	panther cowrie				English	5929	
+156991	wedge clam				English	42246	
+156991	Atlantic rangia				English	42246	
+156991	common rangia				English	42246	
+570723	Kernel cowry				English	140768	
+223975	smoothed staphylaea				English	140768	
+159974	mud amnicola				English	2901	
+160174	grass cerith				English	2901	
+160149	beautiful caecum				English	2901	
+141765	boreal topsnail				English	2901	
+140536	pale moonsnail				English	2901	
+141433	white furrow shell				English	83	
+215501	imperial cone				English	6506	
+215458	rat cone				English	5910	
+208374	swollen olive				English	5910	
+216412	rudder cardita				English	5987	
+215276	Brown Argonaut				English	6506	
+215433	berry cone				English	6080	
+527800	boomerang clam				English	145452	
+141097	roundear enope squid				English	1318	
+141458	robust bobtail squid				English	124589	
+342317	Mimika bobtail squid				English	124589	
+342317	globito mimika				English	124589	
+141815	grooved top shell				English	147411	
+140472	green crenella				English	147411	
+140429	American sting winkle				English	147411	
+140815	lemon pleurobranch				English	6561	
+225504	silver nudibranch				English	6561	
+220381	Spanish dancer				English	6561	
+139650	feathered doto				English		
+223975	grooved cowry				English	5971	
+223989	pale zigzag cowry				English	5971	
+138757	small sea hare				English	163039	
+397040	cross-barred venus				English	42	
+397065	California softshell clam				English	42	
+224861	sunset clam				English	6561	
+216280	Cape keyhole limpet				English	6561	
+344428	berry tuskshell				English	1318	
+344253	Verrill toothshell				English	1318	
+344321	aberrant toothshell				English	1318	
+141790	turban top shell				English	686	
+140604	spider octopus				English	1318	
+342049	Atlantic banded octopus				English	1318	
+342367	paintpot cuttlefish				English	1318	
+342156	Oman cuttlefish				English	1318	
+342317	Mimika bobtail				English	1318	
+141458	robust bobtail				English	1318	
+141919	Northern quahog				English	2901	
+140585	cancellate nutclam				English	2901	
+140155	paarse zeilslak				Dutch	686	
+426375	bolle duinslak				Dutch	133005	
+426425	nauwe korfslak				Dutch	133005	
+426426	kleine korfslak				Dutch	133005	
+139169	gestreept dwerghorentje				Dutch	147411	
+141627	zeerasp-knotsslak				Dutch	685	
+141578	gewone eierschelp				Dutch	691	
+140592	grote parelmoerneut				Dutch		
+140942	vlak speldhorentje				Dutch		
+139800	gestreepte glanshoren				Dutch	691	
+141147	gewone dropslak				Dutch	691	
+141072	melkwitte priemhoren				Dutch	685	
+140747	ketting-schepje				Dutch	685	
+141565	groene rolsprietslak				Dutch	691	
+140229	kleine schorreslak				Dutch	685	
+140029	oranje plooislak				Dutch	691	
+140161	holtemosseltje				Dutch	139290	
+141790	geknobbelde tolhoren				Dutch	139290	
+139718	witte wenteltrap				Dutch	139290	
+141072	melkwit priemhorentje				Dutch	139290	
+140029	oranjetipje				Dutch	139290	
+150457	rosse sterslak				Dutch	685	
+141365	klein drijfhorentje				Dutch	705	
+141815	vlakke kegeltolhoren				Dutch	685	
+426370	Franse duinslak				Dutch	133005	
+426413	kegelslak				Dutch	133005	
+141615	gestippelde knotsslak				Dutch	691	
+140472	gebochelde streepschelp				Dutch	685	
+141883	ronde komschelp				Dutch	691	
+140161	gewone holteschelp				Dutch	691	
+141147	dropslak				Dutch	691	
+156991	Amerikaanse strandschelp				Dutch		
+181566	gewone driehoeksmossel				Dutch	147411	
+140161	holteschelpje				Dutch	147411	
+153558	zoetwaterneriet				Dutch	147411	
+141433	witte dunschaal				Dutch	2	
+140429	Amerikaanse oesterboorder				Dutch		
+138675	kleine borstelkeverslak				Dutch	685	
+141790	knobbelige tolhoren				Dutch	2	
+139718	wit wenteltrapje				Dutch	2	
+140229	gewone schorreslak				Dutch	147411	
+139650	gevederde kroonslak				Dutch		
+153558	gewone zoetwaterneriet				Dutch	691	
+146952	ovaal zeeklitschelpje				Dutch	61	
+138677	grote borstelkeverslak				Dutch	685	
+141436	prismatische dunschaal				Dutch	61	
+140264	ruwe alikruik				Dutch	2	
+141872	penhoren				Dutch	2	
+141134	oubliehorentje				Dutch	2	
+140283	noordse cirkelschelp				Dutch	685	
+140685	schaalhoorn				Dutch	147411	
+140685	gewone schaalhoren				Dutch	2	
+140300	ovale strandschelp				Dutch	83	
+140300	elliptische strandschelp				Dutch	83	
+140734	klein mesheft				Dutch	755	
+140685	tepelhoedje				Dutch	124438	
+138714	verborgen vlokslak				Dutch		
+140734	klein tafelmesheft				Dutch	147411	
+138711	kleine vlokslak				Dutch	685	
+156961	Amerikaanse boormossel				Dutch		
+153887	getijdeslak				Dutch	691	
+140685	schaalhoren				Dutch	685	
+140985	stevige tandhoren				Dutch	691	
+140283	noordse lucina				Dutch	139290	
+140264	vale alikruik				Dutch	139290	
+140264	donkere alikruik				Dutch	139290	
+141134	oubliehoren				Dutch	139290	
+141621	gestreepte zeenaaktslak				Dutch	139290	
+140734	kleine tafelmesheft				Dutch	2	
+141936	wrattige venusschelp				Dutch	2	
+141334	dwerg-drijfhoren				Dutch	691	
+426382	bolle duinhoren				Dutch	133005	
+160539	grote zwaardschede				Dutch		
+141621	gestreepte knotsslak				Dutch	691	
+141919	Amerikaanse venusschelp				Dutch	685	
+140600	kleine achtarm				Dutch	685	
+139162	stompe spieshoren				Dutch	141379	
+152651	Antilliaanse keverslak				Dutch		
+140683	lapa rústica				Galician		
+140301	ameixa branca				Galician	163043	
+140301	cornicha				Galician	163043	
+138998	berberecho				Galician	163043	
+140271	lura txibia				Galician	9810	
+141911	reló				Galician		
+140481	mexillón				Galician	163039	
+141546	longueirón				Galician	163043	
+140712	vieira				Galician	131431	
+140605	polvo				Galician	9810	
+140733	navalla				Galician		
+394429	vieira do Mediterráneo				Galician	163043	
+140767	blåleireskjell				Norwegian Bokmål	147411	
+138878	kongsnegl				Norwegian Bokmål	147411	
+140082	svampleddsnegl				Norwegian Bokmål	147411	
+141988	speilskjell				Norwegian Bokmål	147411	
+140598	globose octopus				English	1318	
+140600	horned octopus				English	1318	
+341935	combed octopus				English	1318	
+367822	green-lipped mussel				English		
+367822	Asian green mussel				English		
+139328	pyramid lora				English	2901	
+141134	Arctic barrel-bubble				English	2901	
+156746	crenulate astarte				English	2901	
+156776	variable coquina				English	2901	
+140734	minor jackknife clam				English	2901	
+397087	radial purse-oyster				English		
+571967	Eastern pearlshell				English	152760	
+141919	hard shell				English	163040	
+140683	Lusitanian limpet				English	614	
+141936	clam				English	9810	
+141936	warty venus shell				English	9810	
+570812	snake's head cowry				English	140768	
+140264	rough periwinkle				English	2901	
+141819	boreal rosy margarite				English	2901	
+140300	elliptic trough shell				English	83	
+216657	raven's wing				English	5905	
+208605	distaff spindle				English	5910	
+215457	marble cone				English	6506	
+224060	spider or finger conch				English	6540	
+220952	imperial volute				English	6080	
+342337	glass squid				English	1318	
+342286	magister armhook squid				English	1318	
+342337	glassy flying squid				English	1318	
+140600	curled octopus				English	147411	
+140264	black-lined periwinkle				English	147411	
+141821	pearly top shell				English	147411	
+141872	Auger shell				English	147411	
+141919	hard clam				English	124438	
+141919	little necks				English	124438	
+141919	cherry stones				English	124438	
+225381	pure plough shell				English	6561	
+225515	Cape dorid				English	6561	
+152651	West Indian green chiton				English	690	
+141821	spiral margarite				English	2901	
+141821	helicina margarite				English	2901	
+156995	green jackknife				English	2901	
+156995	green jackknife clam				English	2901	
+140649	common clubhook squid				English	5936	
+156961	false angelwing				English	42	
+140483	brown mussel				English	6561	
+224615	estuarine mussel				English	6561	
+214919	scallop				English	6561	
+397053	Suminoe oyster				English	42	
+341786	rough-keeled argonaut				English	171079	
+141936	warty venus				English	6561	
+224996	saddle-shaped keyhole limpet				English	6561	
+207903	colonial worm shell				English	6561	
+215119	knobbled horn shell				English	6561	
+344207	costate tuskshell				English	1318	
+344507	reed tuskshell				English	1318	
+574456	Mexican Isabella cowry				English	140768	
+140685	common limpet				English	686	
+342286	schneider 				English	1318	
+341952	lesser twospotted octopus				English	195811	
+208934	robust shell				English	5928	
+139410	basket shell				English	10085	
+160193	Cooper's Atlantic caecum				English	2901	
+215516	vexillum cone				English	5910	
+216413	furbellowed watering pot				English	5987	
+220957	Gilchrist's volute				English	6080	
+141741	northern cowrie				English	686	
+181381	reverse jewell squid				English	1318	
+342230	Panama brief squid				English	1318	
+342064	Argentine shortfin squid				English	1318	
+225569	Angola flying squid				English	1318	
+141448	lentil bobtail squid				English	124589	
+181590	lake limpet				English	147411	
+426355	wrinkled snail				English	147411	
+141907	striped venus				English	147411	
+140103	wrinkled rock borer				English	147411	
+140503	thick-lipped dog whelk				English	147411	
+151374	black-footed limpet				English	147411	
+181556	Henslow's pea mussel				English	147411	
+147123	Jenkins' spire snail				English	147411	
+141639	lagoon sea slug				English	147411	
+141741	Arctic cowrie				English	147411	
+140780	noble pen shell				English	147411	
+458775	high-bridge chickpea cowrie				English	140845	
+225369	fat plough shell				English	6561	
+215541	livid cone				English	6561	
+225480	green bubble shell				English	6561	
+140737	razor shell				English	10085	
+147123	New-Zealand mudsnail				English		
+140103	Arctic hiatella				English	2901	
+140103	Arctic saxicave				English	2901	
+141424	pepperskjell				Norwegian Bokmål	147411	
+153552	jomfrusnegl				Norwegian Bokmål	147411	
+140687	harpeskjell				Norwegian Bokmål	147411	
+140232	bergskjell				Norwegian Bokmål	147411	
+140266	småstrandsnegl				Norwegian Bokmål	147411	
+138760	pelikanfotsnegl				Norwegian Bokmål	147411	
+138923	neptunsnegl				Norwegian Bokmål	147411	
+141774	flekktoppsnegl				Norwegian Bokmål	147411	
+139959	hjelmsnegl				Norwegian Bokmål	147411	
+140152	rødleddsnegl				Norwegian Bokmål	147411	
+141741	kaffebønne				Norwegian Bokmål	147411	
+140712	kamskjell				Norwegian Bokmål	147411	
+140151	marmorleddsnegl				Norwegian Bokmål	147411	
+140702	korallskjell				Norwegian Bokmål	147411	
+140132	flekkleddsnegl				Norwegian Bokmål	147411	
+140717	sjustripeskjell				Norwegian Bokmål	147411	
+138802	kuskjell				Norwegian Bokmål	147411	
+147123	vandresnegl				Norwegian Bokmål	147411	
+140503	nettsnegl				Norwegian Bokmål	147411	
+140103	steinboreskjell				Norwegian Bokmål	147411	
+140873	regnbueskjell				Norwegian Bokmål	147411	
+140737	lommeknivskjell				Norwegian Bokmål	147411	
+140771	strutskjell				Norwegian Bokmål	147411	
+139410	kurvskjell				Norwegian Bokmål	147411	
+140474	svartskjell				Norwegian Bokmål	147411	
+140709	stripekamskjell				Norwegian Bokmål	147411	
+140710	tigerskjell				Norwegian Bokmål	147411	
+141911	sirkelskjell				Norwegian Bokmål	147411	
+140262	storstrandsnegl				Norwegian Bokmål	147411	
+138992	pigghjerteskjell				Norwegian Bokmål	147411	
+141579	østersjøskjell				Norwegian Bokmål	147411	
+141929	lammeskjell				Norwegian Bokmål	147411	
+139975	nøkkelhullsnegl				Norwegian Bokmål	147411	
+140403	purpursnegl				Norwegian Bokmål	147411	
+140480	blåskjell				Norwegian Bokmål	147411	
+140735	slireskjell				Norwegian Bokmål	147411	
+139054	dvergtårnsnegl				Norwegian Bokmål	147411	
+140658	østers				Norwegian Bokmål	147411	
+139957	korallhjelmsnegl				Norwegian Bokmål	147411	
+140263	buttstrandsnegl				Norwegian Bokmål	147411	
+140170	tarestilksnegl				Norwegian Bokmål	147411	
+138998	saueskjell				Norwegian Bokmål	147411	
+141782	glattkjeglesnegl				Norwegian Bokmål	147411	
+141799	trappekjeglesnegl				Norwegian Bokmål	147411	
+140692	haneskjell				Norwegian Bokmål	147411	
+140467	o-skjell				Norwegian Bokmål	147411	
+141765	perlemorkjeglesnegl				Norwegian Bokmål	147411	
+140083	kjempeleddsnegl				Norwegian Bokmål	147411	
+141872	tårnsnegl				Norwegian Bokmål	147411	
+140283	kalveskjell				Norwegian Bokmål	147411	
+140264	steinsnegl				Norwegian Bokmål	147411	
+140685	albusnegl				Norwegian Bokmål	147411	
+140472	stripeskjell				Norwegian Bokmål	147411	
+225573	okeanicheskiy kalmar				Russian	9810	
+140658	европейская устрица				Russian	147411	
+140658	устрица съедобная				Russian	147411	
+140271	srèdizemnomorskiy kalmar				Russian	9810	
+140271	severniy kalmar				Russian	9810	
+140403	моллюски-багрянки				Russian	147411	
+140271	kalmar				Russian	9810	
+140480	midiya				Russian	124438	
+141444	sepia				Russian		
+141444	kora katitza				Russian	124589	
+141444	obiknovennaya karakatiza				Russian	9810	
+140605	obiknovenniy shprot				Russian	9810	
+140459	или морской финик				Russian	147411	
+140459	камнеточец				Russian	147411	
+138802	циприна исландская				Russian	147411	
+140712	grebeshok				Russian	124438	
+140605	obiknovenniy osminog				Russian	9810	
+416668	dlinnoperiy kalmar				Russian	9810	
+342149	seiche baisers				French	124589	
+220306	seiche grenouille				French	124589	
+138963	berlingot de mer				French		
+141801	troque ombliqué				French	9269	
+141801	gibbule				French	9269	
+139993	coryphelle mauve				French	9269	
+196604	berghia azurée				French	163039	
+141737	tritonia des gorgones				French	163041	
+141737	tritonia de Nils Odhner				French	163041	
+140733	couteau-sabre				French		
+138878	buccin ondé				French	686	
+141452	sépiole commune				French	124589	
+138963	crépidule				French	1116	
+438902	seiche de Ken				French	124589	
+160172	cérithe vergeté				French	145894	
+138878	buccin commun				French	145894	
+138963	crépidule pontée				French	145894	
+140167	lacune				French	145894	
+394429	coquille Saint Jacques de Méditerranée				French	163043	
+140733	couteau-silique				French	163043	
+342187	seiche de Zanzibar				French	124589	
+138878	bulot				French	9269	
+138878	comteux				French	9269	
+141452	sépiole				French	9269	
+141452	supion				French	9269	
+140299	grande mactre				French	9269	
+140733	couteau				French	9269	
+140767	pholade				French	9269	
+140431	mye tronquée				French	123768	
+140767	barnée blanche				French	123768	
+397169	moule de Nouvelle-Zélande				French		
+140095	Hermès arlequin				French	163041	
+140838	limace à quatre lignes				French	163041	
+140059	orcille de mer				French	163043	
+140059	ormeau de Méditerranée				French	163043	
+139516	doris grande fleur				French	163039	
+138923	neptunée commune du Nord				French	145894	
+140152	chiton rouge du Nord				French	145894	
+140059	ormeau				French	124438	
+140302	spisule tronquée				French	9234	
+160065	bulle cannelée				French	145894	
+160215	colus du Stimpson				French	145894	
+139959	emarginule				French	9269	
+141767	troque jujube				French	9269	
+141767	calliostome				French	9269	
+140295	lutraire				French	9269	
+140295	lacogne				French	9269	
+141424	lavignon				French	9269	
+141424	scrobiculaire				French	9269	
+141424	pisse en l'air				French	9269	
+220304	seiche australe				French	124589	
+546856	maihi				Maori		
+426391	tandpuppsnäcka				Swedish	147411	
+140658	ostron				Swedish	147411	
+139012	skrovlig hjärtmussla				Swedish	147411	
+141905	sjöpungsnäcka				Swedish	147411	
+139178	änglavingsnäcka				Swedish	147411	
+160246	liten pilsnäcka				Swedish	147411	
+139054	nålsnäcka				Swedish	147411	
+234208	sköldpaddskålsnäcka				Swedish	147411	
+248261	remskivsnäcka				Swedish	147411	
+140467	hästmussla				Swedish	147411	
+181582	stor dammsnäcka				Swedish	147411	
+140870	garimussla				Swedish	147411	
+140263	trubbig strandsnäcka				Swedish	147411	
+140509	stor nätsnäcka				Swedish	147411	
+139738	större vindeltrappa				Swedish	147411	
+140262	vanlig strandsnäcka				Swedish	147411	
+141929	radiärstrimmig venusmussla				Swedish	147411	
+141579	östersjömussla				Swedish	147411	
+181555	allmän ärtmussla				Swedish	147411	
+426356	hedsnäcka				Swedish	147411	
+140440	liktandad dvärgmussla				Swedish	147411	
+141799	puckelsnurrsnäcka				Swedish	147411	
+426397	ängspuppsnäcka				Swedish	147411	
+140656	Japanskt jätteostron				Swedish	147411	
+153996	flat kamgälsnäcka				Swedish	147411	
+138984	ungersk mössa				Swedish	147411	
+140170	bandad lagunsnäcka				Swedish	147411	
+426425	smalgrynsnäcka				Swedish	147411	
+426426	dvärggrynsnäcka				Swedish	147411	
+138920	neptunussnäcka				Swedish	147411	
+426421	hedcylindersnäcka				Swedish	147411	
+140169	blek lagunsnäcka				Swedish	147411	
+140403	purpursnäcka				Swedish	147411	
+141909	grovräfflad venusmussla				Swedish	147411	
+181558	sned ärtmussla				Swedish	147411	
+234102	äkta målarmussla				Swedish	147411	
+426387	större hedsnäcka				Swedish	147411	
+181566	vandrarmussla				Swedish	147411	
+153558	båtsnäcka				Swedish	147411	
+141782	större puckelsnurrsnäcka				Swedish	147411	
+234093	sydeuropeisk båtsnäcka				Swedish	147411	
+140480	blåmussla				Swedish	147411	
+141872	tornsnäcka				Swedish	147411	
+140685	stor skålsnäcka				Swedish	147411	
+140771	Atlantic great piddock				English	2901	
+140771	great piddock				English	2901	
+140235	gaping file shale				English	163039	
+139499	brown cowry				English	163039	
+141741	coffee bean				English	163039	
+416668	veined squid				English	5936	
+181249	striped flabellina				English	163039	
+156454	northern thracia				English	2901	
+141741	unspotted European cowrie				English	686	
+140712	great scallop				English	686	
+140103	wrinkled rockborer				English	686	
+140771	oval piddock				English	686	
+225714	oblique ark shell				English	6561	
+216452	smooth trough shell				English	6561	
+140712	great Atlantic scallop				English	131431	
+140712	scallop				English	131431	
+140712	St. James' shell				English	131431	
+140712	pelgrim scallop				English	124438	
+341996	Mexican four-eyed octopus				English	1318	
+342400	spiney-horn octopus				English	1318	
+342366	Pfeffer's flamboyant cuttlefish				English	1318	
+141448	lentil bobtail				English	1318	
+509315	dotted seaslug				English		
+416668	common squid				English	9810	
+416668	Forbe's squid				English	9810	
+416668	lura				English	9810	
+140605	scuttle				English	9810	
+344463	Carolina toothshell				English	1318	
+156865	fragile piddock				English	2901	
+156972	sea scallop				English	2901	
+156999	purplish tagelus				English	2901	
+157001	stout tagelus				English	2901	
+157006	oval yoldia				English	2901	
+140596	North Atlantic octopus				English	1318	
+342305	North Pacific giant octopus				English	1318	
+141859	ribbed moelleria				English	2901	
+139994	pellucid aeolis				English	2901	
+156070	disk dosinia				English	2901	
+140294	narrow otter shell				English	123768	
+140430	long necked clam				English	163040	
+140430	steamer clam				English	163040	
+140396	banded dye-murex				English		
+146905	European wentletrap				English	686	
+140151	mottled red chiton				English	2901	
+140187	northern blind limpet				English	2901	
+216638	cockscomb oyster				English	5905	
+216904	common egg cowrie				English	6506	
+208014	partridge tun				English	5910	
+215466	striated cone				English	5910	
+207673	crocus giant clam				English	6506	
+220212	Burrow's chiton				English	6080	
+342239	southern reef squid				English	1318	
+342241	Caribbean reef squid				English	1318	
+342375	Gould's flying squid				English	1318	
+140596	spoonarm octopus				English	1318	
+139424	piglet squid				English	1318	
+139951	common keyhole limpet				English	147411	
+140830	orange-clubbed sea slug				English	147411	
+248249	shining pea mussel				English	147411	
+215461	Natal textile cone				English	6561	
+140830	orange-clubbed nudibranch				English	6561	
+139151	mottled dorid				English	6561	
+344420	Westerly toothshell				English	1318	
+156763	bean crenella				English	2901	
+156763	faba crenella				English	2901	
+156806	gilded wedgeclam				English	2901	
+156806	Turton's wedge clam				English	2901	
+140430	softshell				English	2901	
+140430	softshell clam				English	2901	
+216861	thick-edged cowry				English	5971	
+210788	big blue octopus				English	5936	
+138722	Neapolitan spurilla				English	163041	
+138758	spotted sea hare				English	163039	
+146905	common wentletrap				English	123768	
+140687	queen scallop				English	686	
+140430	sand gaper				English	686	
+224819	angular surf clam				English	6561	
+207678	rectangular false cockle				English	6561	
+224549	ridged tellin				English	6561	
+397064	spiny cup-and-saucer				English	42	
+156972	Atlantic sea scallop				English		
+156972	deep sea scallop				English	176651	
+156972	Atlantic deep sea scallop				English		
+236717	Patagonian scallop				English		
+139951	Greek keyhole limpet				English		
+216602	streaked sand clam				English	6561	
+224885	beaked clam				English	6561	
+224962	rayed limpet				English	6561	
+225121	black-chained topshell				English	6561	
+224649	pheasant shell				English	6561	
+225655	flame-patterned burnupena				English	6561	
+344520	American tuskshell				English	1318	
+594808	greater European peaclam				English	42	
+139523	frond-aeolis				English	2901	
+138802	ocean quahog				English	2901	
+141595	thin tellin				English	83	
+571957	alewife floater				English	152760	
+140474	black mussel				English	2901	
+367883	hermissenda				English	42	
+139523	frond eolis				English	1116	
+140709	striate scallop				English	2901	
+344469	Verrill's giant cadulus				English	2901	
+216382	tapestry turban				English	6506	
+215495	bubble cone				English	5910	
+342176	starry cuttlefish				English	124589	
+159929	glistenworm				English	2901	
+160230	eastern white slippersnail				English	2901	
+160280	eastern emerald elysia				English	2901	
+215482	sand-dusted cone				English	6506	
+215446	crowned cone				English	5910	
+211101	ceramic vase				English	5910	
+224005	flattened harlequin cowry				English	5971	
+208158	true harp				English	6540	
+342376	Hawaiian flying squid				English	1318	
+140623	orangeback squid				English	1318	
+140624	European flying squid				English	1318	
+139688	eye-flash squid				English	1318	
+157036	lesser shining bobtail				English	1318	
+140623	orangeback flying squid				English	1318	
+141459	dwarf bobtail squid				English	124589	
+157036	lesser shining bobtail squid				English	124589	
+138802	Icelandic cyprine				English	147411	
+140459	date mussel				English	147411	
+139673	mouse-eared snail				English	147411	
+140710	tiger scallop				English	147411	
+141546	grooved razor shell				English	614	
+208629	wedge sea hare				English	6561	
+139623	warty dorid				English	6561	
+139488	woody canoe-bubble				English	10085	
+240767	foliate thornmouth				English	42	
+138788	Noah's arch				English	163039	
+141459	Rondelet's bobtail				English	163039	
+181221	peach seaslug				English	163039	
+139938	orange godiva				English	163039	
+140609	Dana octopus squid				English	5936	
+140023	heart cockle				English	686	
+138802	Iceland cyprina				English	686	
+216632	ledge mussel				English	6561	
+225492	white mussel				English	6561	
+225492	wedge shell				English	6561	
+397063	onyx slippersnail				English		
+207658	siffie				English	6561	
+207658	venus ear				English	6561	
+225005	mantled keyhole limpet				English	6561	
+344398	ovate tuskshell				English	1318	
+344469	grand toothshell				English	1318	
+396627	sieve cowrie				English	140768	
+341962	lesser Pacific striped octopus				English		
+342026	moon octopus				English	1318	
+140610	tuberculate octopus				English	1318	
+141445	pink cuttlefish				English	1318	
+157036	lesser bobtail squid				English	1318	
+141459	dwarf bobtail				English	1318	
+141460	Steenstrup's bobtail				English	1318	
+138852	common arm squid				English	1318	
+139688	Verany's enope squid				English	1318	
+160082	interrupted turbonille				English	2901	
+160075	northern wormsnail				English	2901	
+156833	New England cyclocardia				English	2901	
+571969	creeper				English	152760	
+141700	pheasant shell				English	614	
+140464	bearded mussel				English	614	
+156931	panacca clam				English	2901	
+153087	northern shortfin squid				English	2901	
+215200	Indian volute				English	5915	
+341973	Lilliput octopus				English	1318	
+140528	moon snail				English	1116	
+140855	antiopella				English	1116	
+216327	toothed top shell				English	6080	
+215827	furrowed venus				English	5904	
+217006	grey bonnet				English	5910	
+181376	pharaoh cuttlefish				English	5936	
+141457	tongue bobtail squid				English	124589	
+141555	modest alderia				English	2901	
+140521	Iceland moonsnail				English	2901	
+159775	carinate alvania				English	2901	
+140228	trochiform pteropod				English	2901	
+140262	common periwinkle				English	2901	
+208448	penguin's wing				English	5905	
+215436	black-and-white cone				English	5910	
+215434	Nussatella cone				English	5910	
+140264	vivipar strandsnäcka				Swedish	147411	
+140472	tångmussla				Swedish	147411	
+141334	mindre bandtångsnäcka				Swedish	147411	
+141774	granulerad toppsnäcka				Swedish	147411	
+248248	vanlig blåssnäcka				Swedish	147411	
+139959	slitsskalsnäcka				Swedish	147411	
+181557	mindre ärtmussla				Swedish	147411	
+182693	allmän skivsnäcka				Swedish	147411	
+154006	spetssumpsnäcka				Swedish	147411	
+140152	Linnés ledsnäcka				Swedish	147411	
+140733	knivmussla				Swedish	147411	
+141320	limfjordssnäcka				Swedish	147411	
+235810	sibirisk kamgälsnäcka				Swedish	147411	
+138878	valthornssnäcka				Swedish	147411	
+138963	ostronpest				Swedish	147411	
+248263	örondammsnäcka				Swedish	147411	
+153552	jungfruskålsnäcka				Swedish	147411	
+139686	sammetssnigel				Swedish	147411	
+140168	blek lagunsnäcka				Swedish	147411	
+140579	skaftmussla				Swedish	147411	
+141358	bandtångsnäcka				Swedish	147411	
+181564	allmän klotmussla				Swedish	147411	
+138814	marsksnäcka				Swedish	147411	
+181559	trekantig ärtmussla				Swedish	147411	
+426427	ängsgrynsnäcka				Swedish	147411	
+141715	vänstervriden tornsnäcka				Swedish	147411	
+234103	större dammussla				Swedish	147411	
+248264	oval dammsnäcka				Swedish	147411	
+141908	finräfflad venusmussla				Swedish	147411	
+235809	sumpkamgälsnäcka				Swedish	147411	
+138760	pelikanfotsnäcka				Swedish	147411	
+342218	jättebläckfiskar				Swedish	147411	
+181563	huvmussla				Swedish	147411	
+182699	stor snytesnäcka				Swedish	147411	
+146733	vindeltornsnäcka				Swedish	147411	
+140605	attaarmade bläckfiskar				Swedish		
+140712	stor kammussla				Swedish	147411	
+140771	nordlig borrmussla				Swedish	147411	
+139265	smal vindeltornsnäcka				Swedish	147411	
+181590	dammhättesnäcka				Swedish	147411	
+181556	flodärtmussla				Swedish	147411	
+140737	liten knivmussla				Swedish	165516	
+292689	tandsnäcka				Swedish	147411	
+140712	kalmmussla				Swedish	124438	
+426355	kalksnäcka				Swedish	147411	
+140512	mindre nätsnäcka				Swedish	147411	
+140103	stenborrmussla				Swedish	147411	
+141580	stor östersjömussla				Swedish	147411	
+140396	purpursnäcka				Swedish		
+153998	stor kamgälsnäcka				Swedish	147411	
+138824	grovräfflad astartemussla				Swedish	147411	
+248249	glänsande ärtmussla				Swedish	147411	
+151628	stor tusensnäcka				Swedish	147411	
+147123	nyzeeländsk tusensnäcka				Swedish	147411	
+140687	hoppmussla				Swedish	147411	
+146905	vindeltrappa				Swedish	147411	
+138758	sjöhare				Swedish	147411	
+182708	spetsig målarmussla				Swedish	147411	
+426408	mindre vallsnäcka				Swedish	147411	
+141359	större bandtångsnäcka				Swedish	147411	
+235792	parksnäcka				Swedish	147411	
+208082	lance auger				English	5903	
+216865	golden cowrie				English	6080	
+216863	camel cowrie				English	6080	
+138990	spiny cockle				English	124438	
+138992	prickly cockle				English	614	
+220316	Cape Hope squid				English	1318	
+342407	Bartsch's squid				English	1318	
+342409	swordtip squid				English	1318	
+140621	broadtail shortfin squid				English	1318	
+342380	grass squid				English	1318	
+140621	southern shortfin squid				English	1318	
+225360	brown mitre				English	6561	
+225396	cloudy marginella				English	6561	
+215436	Hebrew cone				English	6561	
+225494	warty pleurobranch				English	6561	
+239393	Turquet's octopus				English		
+344422	salish toothshell				English	1318	
+344588	Stearns toothshell				English	1318	
+156940	lea spoonclam				English	2901	
+156940	oval spoonclam				English	2901	
+216870	harlequin cowry				English	5971	
+140262	periwinkle				English	123768	
+140528	large necklace-shell				English	123768	
+156497	Atlantic woodeater				English	2901	
+140528	necklace shell				English	686	
+141598	shipworm				English	6561	
+224860	round-ended wedge shell				English	6561	
+224960	prickly limpet				English	6561	
+225653	ridged burnupena				English	6561	
+344479	notable toothshell				English	1318	
+736932	scaly-foot gastropod				English	197317	
+216870	history cowrie				English	5971	
+141455	golden bobtail				English	1318	
+141457	tongue bobtail				English	1318	
+138747	sharpear enope squid				English	1318	
+140290	sandy lyonsia				English	2901	
+141579	Baltic macoma				English	2901	
+156870	dwarf surfclam				English	2901	
+156887	dark falsemussel				English	2901	
+216384	emperor nautilus				English	1318	
+342310	map octopus				English	1318	
+139975	diluvian puncturella				English	2901	
+160414	one-tooth simnia				English	2901	
+160428	eastern auger				English	2901	
+141125	ovate barrel-bubble				English	2901	
+139771	painted balloon aeolis				English	2901	
+139908	Boston facelina				English	2901	
+156734	transverse ark				English	2901	
+138818	boreal astarte				English	2901	
+140657	eastern oyster				English	2901	
+141579	Baltic tellin				English	83	
+571955	Brook floater				English	152760	
+156887	Conrad's false musle				English	163040	
+139908	facelina				English	1116	
+141444	common cuttlefish				English	1116	
+140525	Arctic moonsnail				English	2901	
+140843	granular poromya				English	2901	
+141444	margade				English	124589	
+146524	fan mussel				English		
+216384	chambered nautilius				English	5936	
+207674	fluted giant clam				English	6080	
+213508	violet asphis				English	5905	
+208159	ribbed harp				English	6540	
+211100	tube vase				English	5908	
+160214	pygmy whelk				English	2901	
+140525	Artic moonsnail				English	2901	
+160295	many-ribbed wentletrap				English	2901	
+140222	bulimoid pteropod				English	2901	
+159913	henscomb hydrobe				English	2901	
+208963	horned helmet shell				English	6506	
+215430	lithograph cone				English	5910	
+215529	textile cone				English	5910	
+215465	Bengal cone				English	6080	
+140389	murex				English	124438	
+140657	American oyster				English	124438	
+342378	Wellington flying squid				English	1318	
+342378	New Zealand arrow squid				English	1318	
+141694	common blanket octopus				English	1318	
+157037	leucoptera bobtail squid				English	124589	
+141911	rayed artemis				English	147411	
+141912	smooth artemis				English	147411	
+139975	Noah's keyhole limpet				English	147411	
+141929	oval venus				English	147411	
+225458	elongate cone				English	6561	
+140022	sea swallow				English	6561	
+160227	northern rough wentletrap				English	2901	
+160227	Couthouy's snail				English	2901	
+140440	cross-sculpture crenella				English	2901	
+140440	decussate crenella				English	2901	
+157002	northern dwarf tellin				English	2901	
+157002	northern dwarf-tellin				English	2901	
+224004	Arabic cowry				English	5971	
+139989	white flabellina				English	163039	
+157007	short yoldia				English	2901	
+342333	greater blue-ringed octopus				English	1318	
+341954	Caribbean reef octopus				English	1318	
+367776	fat gaper				English	42	
+367969	wartneck piddock				English	42	
+160401	bruised nassa				English	2901	
+160065	channeled barrel-bubble				English	2901	
+156750	Atlantic mud-piddock				English	2901	
+140102	northern propellerclam				English	2901	
+140295	common otter shell				English	123768	
+141767	painted top shell				English	614	
+138709	common grey sea slug				English	1116	
+140781	rough penshell				English		
+140838	fourline nudibranch				English		
+220304	African cuttlefish				English	5936	
+395577	miraculous cowry				English	129712	
+140152	northern red chiton				English	2901	
+160108	rosy northern dovesnail				English	2901	
+160215	Stimpson's colus				English	2901	
+160265	Cayenne keyhole limpet				English	2901	
+140302	cut trough shell				English	83	
+208472	pod tree oyster				English	6506	
+208165	lesser harp				English	6540	
+217332	sun carrier shell				English	6080	
+207679	large-ribbed cardita				English	6080	
+216739	stolid cowrie				English	6080	
+215424	white-banded bubble				English	6080	
+141374	violet risso				English	6080	
+140059	ormer				English	124438	
+140059	abalone				English	124438	
+140059	ear shell				English	124438	
+138709	grey sea slug				English	147411	
+139959	slit limpet				English	147411	
+140059	green ormer				English	147411	
+248248	common bladder snail				English	147411	
+181557	pygmy pea mussel				English	147411	
+182693	margined ramshorn				English	147411	
+140188	cap limpet				English	147411	
+154006	Lister's river snail				English	147411	
+142017	shielded dogwhelk				English	6561	
+225370	finger plough shell				English	6561	
+246819	lenticular axinopsid				English	42	
+246819	silky axinopsid				English	42	
+138709	shag-rug aeolis				English	2901	
+138709	papillose eolis				English	2901	
+138823	narrow-hinge astarte				English	2901	
+138823	Montagu's astarte				English	2901	
+140059	common ormer				English	163043	
+140059	lamellated haliotis				English	163043	
+141424	peppery furrow shell				English	686	
+140452	half-hairy mussel				English	6561	
+216653	horse mussel				English	6561	
+224641	Cape rock oyster				English	6561	
+140295	otter shell				English	6561	
+216503	ridged wedge shell				English	6561	
+220304	southern cuttlefish				English	1318	
+342197	North Pacific bobtail squid				English	1318	
+153063	armed cranch squid				English	1318	
+224877	heart clam				English	6561	
+181364	corrugated venus				English	6561	
+367633	spiny chiton				English	6561	
+344305	inflated toothshell				English	1318	
+594807	Chinese mysterysnail				English	42	
+141308	pointed cingula				English	2901	
+159981	fine-lined hydrobe				English	2901	
+141840	obscure solarelle				English	2901	
+160074	West Indian wormsnail				English	2901	
+140754	file paperbubble				English	2901	
+156666	tinted paperbubble				English	2901	
+139525	robust frond-aeolis				English	2901	
+156730	smooth abra				English	2901	
+234103	swan mussel				English		
+397083	Japanese abalone				English		
+397147	black-striped mussel				English		
+405014	pinto abalone				English	42	
+405014	Japanese abalone				English	47792	
+140461	bean mussel				English	614	
+160342	eastern lampmussel				English	2901	
+156798	cheating macoma				English	2901	
+156934	inornate pandora				English	2901	
+342238	chambered nautilus				English	1318	
+595691	blood-red Cowry				English	140768	
+139686	green elysia				English	1116	
+140840	thecacera				English	1116	
+139436	striate cardiomya				English	2901	
+139686	sap-sucking slug				English		
+160031	Atlantic black seahare				English	2901	
+138857	shingled whelk				English	2901	
+140168	pale lacuna				English	2901	
+141908	striped venus				English	83	
+207895	prickly pen shell				English	6506	
+211096	common spider conch				English	6540	
+215762	vexillum rock shell				English	6506	
+216855	Lamarck's cowrie				English	5971	
+215383	Arabian tibia				English	6540	
+216387	heart cockle				English	6080	
+141372	variable risso				English	6080	
+140111	umbrella squid				English	1318	
+140193	Grimaldi scaled squid				English	1318	
+140647	angel squid				English	1318	
+153097	Boreoatlantic gonate squid				English	1318	
+342324	southern bobtail squid				English	124589	
+342199	Tortuga bobtail squid				English	124589	
+141447	Carol bobtail squid				English	124589	
+138789	ark-shell				English	147411	
+140529	dark necklace shell				English	147411	
+140168	pallid chink shell				English	147411	
+140261	flat periwinkle				English	147411	
+248264	wandering snail				English	147411	
+154008	river snail				English	147411	
+224543	great ribbed cockle				English	134748	
+225386	Carolinian olive shell				English	6561	
+215451	sponsal cone				English	6561	
+225522	black nudibranch				English	6561	
+139686	plant-sucking nudibranch				English	6561	
+141822	olive margarite				English	2901	
+141822	eastern olive margarite				English	2901	
+220306	frog cuttlefish				English	5936	
+220324	old woman octopus				English	5936	
+160074	West Indian worm-shell				English	6080	
+224611	brack-water mussel				English	6561	
+140236	file shell				English	6561	
+213486	smooth platter shell				English	6561	
+141801	flat top shell				English	686	
+342149	kisslip cuttlefish				English	1318	
+225586	ornate cuttlefish				English	1318	
+141447	Carol bobtail				English	1318	
+342199	Tortuga bobtail				English	1318	
+139125	long-armed squid				English	1318	
+153097	Boreoatlantic armhook squid				English	1318	
+216719	tropical periwinkle				English	6561	
+344446	Wampum tuskshell				English	1318	
+344264	narrow-slit tuskshell				English	1318	
+344596	straight tuskshell				English	1318	
+344271	California toothshell				English	1318	
+344353	mayor toothshell				English	1318	
+344471	Miami toothshell				English	1318	
+457933	elusive sieve cowrie				English	140844	
+225254	droppings cowry				English	140768	
+160071	three-ridge valvata				English	2901	
+156744	smooth astarte				English	2901	
+141587	bean-like tellin				English	123768	
+397185	white-tentacle Japanes aeolis				English		
+181580	Asiatic clam				English	163040	
+181580	prosperity clam				English	163040	
+140732	Atlantic jack knife clam				English	163040	
+141602	big-ear shipworm				English	163040	
+231750	Japanese littleneck clam				English	163040	
+231750	Japanese carpet shell				English	163040	
+141687	tun shell				English	614	
+156793	glassy lyonsia				English	2901	
+156863	Arctic surfclam				English	2901	
+156963	false quahog				English	2901	
+142004	sibling yoldia				English	2901	
+342269	chambered nautilus				English	1318	
+139045	three-spine cavoline				English	2901	
+140702	vitreous scallop				English	2901	
+138945	DeFolin's lagoon snail				English	10085	
+141453	analogous bobtail squid				English	124589	
+570727	granulated cowry				English	140768	
+146733	bobtail trophon				English	2901	
+159871	two-ridge rams-horn				English	2901	
+207899	black-lip pearl shell				English	5904	
+216725	mangrove whelk				English	6066	
+141102	Triton's trumpet shell				English	5903	
+141687	giant tun				English	6080	
+217159	scorpion murex				English	5987	
+207716	leafed telline				English	6080	
+207901	pearl oyster				English	6080	
+215204	black-tankard angaria				English	6080	
+220954	gold-banded volute				English	6080	
+428137	glory-of-the-seas cone				English		
+153134	midsize squid				English	1318	
+325306	Antarctic flying squid				English	1318	
+342067	Japanese flying squid				English	1318	
+342069	boreal clubhook squid				English	1318	
+141887	vampire squid				English	1318	
+141451	mysterious bobtail squid				English	124589	
+153134	little squid				English	147411	
+138760	common pelican’s foot				English	147411	
+140266	small periwinkle				English	147411	
+181563	lake orb mussel				English	147411	
+231750	Manila clam				English	147411	
+140732	American jack knife clam				English	614	
+208016	pleated plough shell				English	6561	
+215423	striped bubble shell				English	6561	
+225500	white-tipped nudibranch				English	6561	
+181580	Asian clam				English	42	
+140015	lobate toothshell				English	1318	
+139445	glacial dipperclam				English	2901	
+139445	glacial cuspidaria				English	2901	
+156878	plate mysella				English	2901	
+156878	Atlantic flat lepton				English	2901	
+216874	money cowrie				English	5971	
+254378	warped whelk				English	42	
+140166	white jorunna				English	163041	
+138760	pelican's foot				English	686	
+140481	Mediterranean mussel				English	6561	
+224849	Gilchrist's tellin				English	6561	
+397021	Japanese false cerith				English	42	
+341984	bumblebee octopus				English	1318	
+342120	shortclub cuttlefish				English	1318	
+153083	warty bobtail squid				English	1318	
+141453	anagolous bobtail				English	1318	
+342218	giant squid				English	1318	
+224998	conical keyhole limpet				English	6561	
+208652	salmon-lipped whelk				English	6561	
+225334	scaly dogwhelk				English	6561	
+344490	gorgeous tuskshell				English	1318	
+344426	Antillean tuskshell				English	1318	
+344375	Tolmie toothshell				English	1318	
+344477	rush toothshell				English	1318	
+160036	ligate false spindle				English	2901	
+160053	white baby ear				English	2901	
+141618	concise cuthona				English	2901	
+397071	Florida marshclam				English	42	
+397169	New Zealand mussel				English		
+438902	Ken's cuttlefish				English	124589	
+138963	oyster-pest				English	163040	
+139950	humped keyhole limpet				English	614	
+156879	triangular mysella				English	2901	
+140482	foolish mussel				English	2901	
+156994	Atlantic awningclam				English	2901	
+157011	spoonarm octopus				English	2901	
+157028	Atlantic brief squid				English	2901	
+225565	Tuberculated Argonaut				English	1318	
+140601	musky octopus				English	1318	
+379789	giant deep-sea oyster				English		
+141652	orbicular axinopsid				English	2901	
+394429	great Mediterranean scallop				English	163043	
+394429	pilgrim mussel				English	163043	
+140733	sword razor shell				English	163043	
+139631	crowned doto				English		
+141737	whip fan nudibranch				English		
+342187	Zanzibar cuttlefish				English	124589	
+570811	serpent's head cowry				English	140768	
+146732	clathrate trophon				English	2901	
+138878	waved whelk				English	2901	
+138963	common Atlantic slippersnail				English	2901	
+215120	rough horn				English	5915	
+216843	tiger cowrie				English	5929	
+211091	giant spider conch				English	6540	
+215520	general cone				English	6506	
+220953	aulica volute				English	6080	
+157028	Western Atlantic brief squid				English	1318	
+325305	sevenstar flying squid				English	1318	
+141452	common bobtail squid				English	124589	
+545994	geoduck				English		
+381057	rough cockle				English	147411	
+138963	American slipper limpet				English	147411	
+140869	large sunset shell				English	147411	
+140299	rayed trough shell				English	147411	
+248263	ear pond snail				English	147411	
+181564	horny orb mussel				English	147411	
+153552	white tortoiseshell limpet				English	147411	
+140733	common razor shell				English	614	
+225501	cowled nudibranch				English	6561	
+225518	four-colour nudibranch				English	6561	
+138963	slipper limpet				English	43156	
+140082	eastern hanleya				English	2901	
+140082	Hanley's chiton				English	2901	
+139631	crown doto				English	2901	
+139631	coronate doto				English	2901	
+140431	truncate softshell				English	2901	
+140431	truncate softshell clam				English	2901	
+141737	gorgonian tritonia				English	163041	
+138963	slipper shell				English	686	
+138878	common whelk				English	686	
+140431	blunt gaper				English	686	
+140767	white piddock				English	686	
+141452	common bobtail				English	1318	
+394429	pilgrim's scallop				English		
+214886	black chiton				English	6561	
+344510	turned tuskshel				English	1318	
+344408	annulate tuskshell				English	1318	
+344476	four-slit toothshell				English	1318	
+196391	eroded turretsnail				English	2901	
+139474	white chalice-bubble				English	2901	
+139478	concealed chalice-bubble				English	2901	
+156747	wavy astarte				English	2901	
+342366	flamboyant cuttlefish				English	124589	
+571960	yellow lampmussel				English	152760	
+140405	European sting winkle				English	614	
+509315	cow snail				English	163041	
+140780	fan mussel				English	163039	
+140712	king scallop				English	163043	
+141580	chalky macoma				English	2901	
+156917	pointed nutclam				English	2901	
+140673	glacial pandora				English	2901	
+159998	Atlantic razor				English	2901	
+140605	common octopus				English	2901	
+342332	blue-lined octopus				English	1318	
+367761	Pismo clam				English	42	

@@ -1,0 +1,966 @@
+ReferenceID	Authors	Year	Title	Details	
+190219	Bell, J. F.	1884	Notes on a collection of Echinodermata from Australia		
+168994	Checchia-Rispoli, G.	1923	Sopra due Cipiastri del Miocene medio della Sardegna. Bollettino del R. Ufficio Geologico d'Italia 49, 1-8.		
+124955	Bernasconi, I.	1956	Dos nuevos equinodermos de la costa del Brasil Neotropica 2(8):  33-36		
+169017	Checchia-Rispoli, G.	1947	Monographia degli "Epiaster" della Somalia Italiana. Atti della Accademia Nazionale dei Lincei (Memorie) 8, 1-23.		
+169612	Mortensen, T.	1913	Die Echinoiden des Mittelmeeres. Eine revidierte Übersicht der im Mittelmeere lebenden Echiniden, mit Bemerkungen über neue oder weniger bekannte Formen		
+154624	Tatarenko, D. E.; Poltaraus, A. B.	1993	Affiliation of sea urchin Pseudocentrotus depressus to the family Strongylocentrotidae and description of a new genus Mesocentrotus belonging to the group based on DNA-DNA hybridization and comparative morphological data		
+145301	McKnight, D. G.	1968	Additions to the echinoid fauna of New Zealand. New Zealand		
+3155	Mortensen, T.	1909	Die Echinoiden der Deutschen Südpolar-Expedition 1901-1903.		
+132589	Mah, C.L.; McKnight, D.G.; Eagle, M.K.; Pawson, D.L.; Améziane, N.; Vance, D.J.; Baker, A.N.; Clark, H.E.S.; Davey, N.	2009	Phylum Echinodermata: sea stars, brittle stars, sea urchins, sea cucumbres, sea lilies, in: Gordon, D.P. (Ed.) (2009). New Zealand inventory of biodiversity: 1. Kingdom Animalia: Radiata, Lophotrochozoa, Deuterostomia.		
+168971	Böhm, J.	1927	Beitrag zur Kenntnis der Senonfauna der Bithynischen Halbinsel		
+169489	Sánchez Roig, M.	1952	Paleontologia Cubana: Revision de los Equinodermos Fosiles del Grupo Cassiduloida. Memorias de la Sociedad Cubana Historia Natural "Felipe Poey" 21, 47-57.		
+169566	Wanner, J.	1941	Neue Beiträge zur Kenntnis der permischen Echinodermen von Timor		
+47428	Rowe, F. W. E.	1989	Nine new deep-water species of Echinodermata from Norfolk Island and Wanganella Bank, northeastern Tasman Sea, with a checklist of the echinoderm fauna		
+145324	Pawson, D. L.	1978	The echinoderm fauna of Ascension Island, South Atlantic Ocean. Smithsonian Contributions to		
+169466	Renngarten, V.	1926	La faune des dépots crétacés de la région d'Assa-Kambiléevka, Caucase du Nord. Géologique, (new series) 147, 1-132.		
+175615	Leske, N. G.	1778	Jacobi Theodori Klein naturalis dispositio echinodermatum . . ., edita et descriptionibus novisque inventis et synonomis auctorem aucta.  Addimenta ad  I. T. Klein naturalem dispositionem Echinodermatum. G. E. Beer, Leipzig, xxii+278 pp.		
+177461	Tenison-Woods, J. E.	1878	The Echini of Australia. Proceedings of the Linnean Society of New South Wales 2, 145-176.		
+169297	Lambert, J.	1931	Étude sur les échinides fossiles du Nord de l'Arfrique. Mémoires de la Société Géologique de France, Nouvelle Serie (Mémoire No. 16) 7/2, 1-108, pls. 1-4.		
+169420	Mortensen, T. & Mercier, J.	1939	Remarques sur le genre Jacquiertia. Bulletin de la Société Linnéenne de Normandie 9, 58-61.		
+169071	Cooke, C. W.	1954	Pliocene Echinoids from Okinawa		
+169320	Lambert, J. & Charles, F.	1937	Echinides crétaceous de la région de Djidde (Anatolie). Bulletin de la Société Belge de Géologie de Paléontologie et Hydrologie, 47, 377-401.		
+169558	Vialov, O.	1930	Sur les échinides réguliers des dépôts mésozoiques du Grand Balkhan (Turkmenia		
+140235	Clark, H.L.	1912	Hawaiian and other Pacific Echini. The Pedinidae, Phymosomatidae, Stomopneustidae, and Echinometridae. - Memoirs of the Museum of Comparative Zoölogy at Harvard College, 34/4: 205-383.		
+156136	Bidenkap, O.	1899	Tromsøsundets Echinodermer. Tromsø Museums Aarshefter 20, 104-112.		
+169117	Devriès, A.	1960	Contribution à l'étude de quelques groupes d'échinides fossiles d'Algérie.  Thèses présentées a la Faculté des Sciences de l'Université de Paris pour obtenir le Grade de Docteur ès Sciences Naturelles 4277, Imprimerie la Typo-Litho et Ju		
+169512	Smiser, J. S.	1936	Cretaceous echinoids from Trans-Pecos, Texas		
+169412	Mortensen, T.	1948	Contributions to the Biology of the Philippine Archipelago and adjacent regions. Report on the Echinoidea collected by the United States Fisheries Steamer "Albatross" during the Philippine Expedition, 1907-1910. Part 3: The Echinoneid		
+169163	Gocev, P.	1933	Paleontologische und stratigraphische Untersuchungen über das Eocän von Varna. Zeitschrift der Bulgarischen Geologischen Gesellschaft 5, 1-82.		
+9269	Muller, Y.	2004	Faune et flore du littoral du Nord, du Pas-de-Calais et de la Belgique: inventaire. [Coastal fauna and flora of the Nord, Pas-de-Calais and Belgium: inventory]. Commission Régionale de Biologie Région Nord Pas-de-Calais: France. 307 pp.		
+169263	Kongiel, R.	1935	[Contribution à l'étude du "siwak" dans les environs de Pulawy (plateau de Lublin)]. Travaux de la Société des Sciences et des Lettres de Wilno: Classe des Sciences Mathématiques et Naturelles 9, 1-59.		
+193013	Dieni, I.; Kroh, A.	2014	Boreal echinoids from the Tethys Realm: Infulaster and Hagenowia from the Upper Cretaceous of eastern Sardinia (Italy)		
+169455	Popiel-Barczyk, E.	1958	Jezowce rodzaju Conulus z turonu okolic Krakowa, Miechowa i Wolbromia		
+169309	Lambert, J.	1935	Notes sur quelques Echinides fossiles, I: Echinides du Djebel Outaia II: Sur un Echinolampus du Désert Libyque: III: Echinides du Mexique recueillis par M.F. Mulerried. Bulletin de la Sociéte Géologique de France 5, 359-368.		
+147520	Desor, E.	1858	Synopsis des échinides fossiles / par É. Desor		
+145267	Bernasconi, I.	1955	Una nueva especie de Diadematidae tropical		
+169171	Hall, D. A.	1966	Archaeopneustes moorefieldi, a New Pliocene Spangoid Echinoid from the San Luis Obispo Area California		
+169005	Checchia-Rispoli, G.	1932	Su alcuni Echinidi Credacei della Tripolitania. Memorie della Reale Accademia d'Italia  3, 373-391 .		
+169220	Jeannet, A.	1935	Observations sur des Echinides sculptés de la Gironde		
+169363	Mercier, J.	1932	Etudes sur les échinides du Bathonien de la bordure occidentale du Bassin de Paris. Mémoires de la Société Linnéenne de Normandie (new series, Geology section) 2, 1-273.		
+47417	Fell, H.B.	1958	Deep-sea echinoderms of New Zealand. Zoology Publications from Victoria University of Wellington 24: 1-40		
+169289	Lambert, J.	1927	Sur quélques Échinides du Tithonique et de l'Éocrétacé des environs de Chambéry. Bulletin de la Société Géologique de France 4, 361-377.		
+169340	Maczýnska, S. S.	1968	Echinoids of the Genus Micraster L.Agassiz from the Upper Cretaceous of the Craców area. Prace Muzeum Ziemi (Polska Akademia Nauk Muzeum Ziemi 12, 87-168.		
+145293	Krau, L.	1960	Nova espécie de ourico do mar capturado na baia de Sepetiba (Cassiduloidea		
+169097	Dasupta, G.; C, H.	1929	A Short Note on the Cretaceous Fauna of the Khasi Hills, Assam. The Quarterly		
+169197	Innocenti, G. D.	1924	Due Nuovi Echinidi dell'Eocene Istriano. Rivista Italiana di Paleontologia 30, 41-46.		
+155131	Agassiz, L. & Desor, P. J. E.	1847	Catalogue raisonné des espèces, des genres, et des familles d'échinides. Annales des Sciences Naturelles, Troisième Série, Zoologie 7, 129-168.		
+169028	Chiriac, M.	1956	Contribution á l'étude de la faune des échinides crétaciques de la Dobroga du Sud		
+3186	Mironov, A. N.	1974	Pourtalesiid sea urchins of the Antarctic and Subantarctic (Echinoidea: Pourtalesiidae		
+162585	Ikeda, H. B. E.	1940	The fauna of Akkesi		
+169569	Weaver, C. E.	1931	Palaeontology of the Jurassic and Cretaceous of West Central Argentinia. Memoirs of the University of Washington 1, 1-469.		
+169048	Clark, H. L.	1938	Echinoderms from Australia, an account of collections made in 1929 and 1932		
+181783	Clément, A.	2013	Révision des espèces Hemidiadema rugosum Agassiz, 1846, et H. neocomiense (Cotteau, 1869) (Euechinoidea, Camarodonta, Glyphocyphidae) du Crétacé inférieur du Bassin parisien (France). Carnets de Géologie [Notebooks on Geology] Mémoire 2013/01 (CG2013_M01), 1-57.		
+138446	Wood-Mason, J.; Alcock, A.	1891	Natural history notes from H.M. Indian marine survey steamer 'Investigator', Commander R.F. Hoskyn, R.N., commanding. Series II, No. 1. On the results of deep-sea dredging during the season 1890-1891 Ann. Mag. Nat. Hist. VIII, Sixth series(XLVIII): 427-452, plate XVII		
+169240	Kier, P. M.	1956	A New Genus of Echinoid from the Palaeozoic of Ireland		
+168991	Chao, K.	1942	On the Occurrence of Melonechinus in Kuangsi, China		
+169140	Eaton, J. E.; Grant, U. S.; Allen, H. B.	1941	Miocene of Caliente Range and Environs, California		
+145336	Shigei, M.	1982	A new species of the fibulariid sea-urchin, Fibularia japonica, from Japanese waters		
+145281	David, B. & De Ridder, C.	1989	Echinodermes: Échinides irréguliers.		
+169532	Szörényi, E.	1963	Einiges über Mitglieder der Familie Spatangidae (Echinoidea		
+169432	Nisiyama, S.	1951	A New Scaphechinus from North-East Japan		
+169183	Hayasaka, I.	1948	Notes on Some Fossil Echinoids of Taiwan, IV		
+169515	Socin, C.	1946	Fossile eocenico con iscrizione geroglifica rinvenuto in Eliopoli. Atti della Societ		
+169609	Simonelli, V.	1889	Terreni e fossili dell'Isola di Pianosa nel Mar Tirreno. Bollettino del R. Comitato Geologico d'Italia 20, 193-237.		
+145304	McNamara, K. J.	1982	Taxonomy and evolution of living species of Breynia (Echinoidea: Spatangoida) from Australia		
+169538	Tavani, G.	1946	Fossili eocenici della Cirenaica. Atti della Società Toscana di Scienze		
+169277	Kühn, O.	1925	Die Echinodermen der Gosauformation. Annalen des Naturhistorischen Museums in		
+145327	Serafy, D. K.	1970	A new species of Clypeaster from the Gulf and Caribbean and a key to the species in the tropical northwestern Atlantic (Echinodermata: Echinoidea		
+169323	Lambert, J. & Jeannet, A.	1928	Nouveau catalogue des moules d'échinides fossiles du Musée d'Histoire naturelle de Neuchâtel exécutés sous la direction de L. Agassiz et E. Desor. Mémoires de la Société helvétique des Sciences naturelles 64, 233 p.		
+168997	Checchia-Rispoli, G.	1928	Sopra alcuni "Stolonoclypus" del Miocene medio della Sardegna. Bollettino del R. Ufficio Geologico d'Italia 53, 1-20.		
+169300	Lambert, J.	1933	Échinides fossiles du Maroc II. Protectorat de la République Française au Maroc, Service des Mines et de la Carte Géologique, Notes et Mémoires 27, 27-77.		
+3158	Mortensen, T.	1910	The Echinoidea of the Swedish South Polar Expedition. Wissenschaftliche Ergebnisse der Schwedischen Südpolar Expedition 6/4, 1-114.		
+168974	Brighton, A. G.	1925	On Some Cretaceous Echinoids from Nigeria		
+168951	Barry, J. O.; LeBlanc, R. J.	1942	Lower Eocene Faunal Units of Louisiana		
+169469	Richards, G. L.	1935	Revision of Some California Species of Asterodapsis		
+169346	Malaroda, R.	1951	II lattorfiano del Monteccio di Costozza (Colli Berici). Parte Prima: I macrofossili. Memorie del Museo Civico di Storia Naturale di		
+146083	Gray J.E.	1855	Catalogue of the Recent Echinida, or Sea Eggs, in the Collection of the British Museum. Part I.-Echinida Irregularia. Woodfall & Kinder, London, 69 pp.		
+141431	Mortensen, T.	1951	A Monograph of the Echinoidea. V, 2. Spatangoida II.  Amphisternata II. Spatangidæ, Loveniidæ, Pericosmidæ, Schizasteridæ, Brissidæ, 593 pp., C. A. Reitzel, Copenhagen.		
+168822	Clark, H.L.	1914	Hawaiian and other Pacific Echini. The Clypeasteridae, Arachnoididae, Laganidae, Fibulariidae, and Scutellidae. Memoirs of the Museum of Comparative Zoology at Harvard College, 46/1, 1-80.		
+169060	Collignon, M.	1950	Recherches sur les faunes albiennes de Madagascar. II. Les Échindes d'Ambarimaninga. Annales géologiques du Service des		
+147574	Mooi, R.	1997	Sand dollars of the genus Dendraster (Echinoidea: Clypeasteroida): Phylogenetic systematics, heterochrony, and distribution of extant species		
+169452	Philip, G. M.	1969	The Tertiary echinoids of south-eastern Australia. IV. Camarodonta (2		
+169120	Djabarov, G. N.	1968	[A new Late Cretaceous Echinocorys from Central Asia].		
+169108	Demanet, F.	1931	Lovenechinus jacksoni nov. sp. Paleechinide ouveau du Dinatien Inférieur. Bulletin du Musée Royal d'Histoire Naturelle de Belgique 7, 1-9.		
+165516	Dyntaxa	2013	Swedish Taxonomic Database		
+145264	Baker, A. N.	1969	Two new heart-urchins, including a new species of Cyclaster, from New Zealand waters (Echinoidea) Spatanoida		
+169068	Cooke, C. W.	1949	Pygurostoma pasionensis, a Cretaceous echinoid from Guatemala		
+35237	Tornquist, A.	1905	Über eine eocäne Fauna von der Westküste von Madagaskar. Abhandlungen der Senckenbergischen Naturforschenden Gesellschaft 27, 323-337.  		
+181849	Quenstedt, F. A. v.	1874	Atlas zu den Echiniden. Fues's Verlag (R. Reisland), Leipzig, pls 62-89.		
+169014	Checchia-Rispoli, G.	1943	Brissoidi eocenici Migiurtina. Reale Accademia d'Italia 14, 99-111.		
+169555	Venzo, S.	1934	Il Ladinico superiore dell'Isola di Rodi (Egeo), II: La fauna		
+169409	Mortensen, T.	1942	New Echinoidea (Camarodonta). Preliminary notice. Videnskabelige Meddelelser fra Dansk naturhistorisk Forening i København 106, 225-232.		
+6392	Clark, H.L.	1938	Echinoderms from Australia: an account of collections made in 1929 and 1932 <i>Mem. Mus. Comp. Zool. 55</i>: 1-596 (28 plates)		
+4185	David, B., T. Choné, A. Festeau & C. de Ridder	2004	Antarctic Echinoids, an Interactive Database. Editions Universitaires Dijon. Cd Rom.		
+3072	Trott, T.J.	2004	Cobscook Bay inventory: a historical checklist of marine invertebrates spanning 162 years. Northeastern Naturalist (Special Issue 2): 261 - 324.		
+169386	Morishita, A.	1962	Cretaceous Echinoid Hemiaster from Shikoku Japan. Number II in On Some Fossil Echinoids of Japan		
+169217	Jeannet, A.	1934	Sur quelques Echinides crétacés d'Ibiza (Baléares). Eclogae Geologicae Helvetiae 27, 387-388.		
+169151	Fell, H. B.	1949	An echinoid from the Tertiary (Janjukian) of South Australia, Brochopleurus australiae sp. nov		
+169080	Cottreau, J.	1922	Paléontologie de Madagascar; 10. Fossiles crétacés de la côte orientale de Madagascar		
+162980	Faas, A. V.	1941	Echinoidea.		
+193668	Bruguière, J.-G.	1827	Tableau Encyclopédique et méthodique des trois régnes de la nature. Vers, coquilles, mollusques et polypiers. Tome Second. Mme Agasse, Paris; pls 96-314.		
+7145	Blainville, H.M.D. De	1834	Manuel d’Actinologie ou de Zoophytologie. (F.G. Levrault: Paris, Strasbourg): Volume 1 (text),1-viii, 1-644; Volume 2 (atlas), pls I-C.		
+169174	Haughton, S. H.	1925	Notes on Some Cretaceous Fossils from Angola (Cephalopoda and Echinoidea		
+163690	Vellutini, B. C. & Migotto, A. E.	2010	Embryonic, Larval, and Juvenile Development of the Sea Biscuit Clypeaster subdepressus (Echinodermata: Clypeasteroida). PLoS ONE 5(3), e9654.		
+169100	Davies, L. M. & Pinfold, E. S.	1937	The Eocene Beds of the Punjab Salt Range. Palaeontologica Indica (new series) 24, 1-79.		
+10085			BIOTIC		
+504	Norman, A.M.	1869	Shetland Final Dredging Report. Part II. On the Crustacea, Tunicata, Polyzoa, Echinodermata, Actinozoa, Hydrozoa, and Porifera.		
+169237	Khanna, S. N.	1967	A New Species of Genus Eupatagus from Eocenes of Jaisalmer, Rajasthan (India). Proceedings of the National Academy of Sciences India. 37B, 214-220.		
+172675	Kamyabi Shadana, H., Villier, L., Sadeghia, A. & Adabia, M. H. in press. Revision of the Macraster species (Echinodermata, Echinoidea)occurring in the Albian deposits of the Zagros basin, Southwest Iran. Annales de Paléontologie	2013			
+6349	Loisette, M. M.; Marshall, J. I.	1983	Some aspects of the Zoogeography of Northwestern Australian Echinoderms (other than Holothurians		
+156539	Agassiz, A.	1872	Preliminary Notice of a few Species of Echini. Bulletin of the Museum of Comparative Zoölogy at Harvard College 3, 55-58.		
+154046	Deraniyagala, P. E. P.	1961	The Amphitheatres of Minihagel Kanada, Their Possible Origin and Some of the Fossils and Stone Artefacts Collected from Them		
+169535	Tanaka, K.; Okubo, M.	1954	On some echinoids from the Paleo-Cretaceous of the Yuasa District in the Kii Peninsula and of the Yatsushiro District in Kyushu		
+169131	Durham, J. W.	1957	Notes on echinoids		
+169578	Wright, C. W.	1967	Notes on Cretaceous Saleniidae		
+169429	Nisiyama, S.	1948	Astrodapsis in Japan		
+145284	Endean, R.	1964	A New Species of Venomous Echinoid from Queensland Waters		
+169088	Currie, E. D.	1935	Jurassic Echinoidea. Pp. 40-46 in  Mesozoic Paleontology of British		
+169326	Lambert, J. & Thiéry, P.	1909	925. Essai de Nomenclature Raisonnée des Echinides. L. Ferrière, Chaumont, fasc. 1: i-iii, 1-80, pls. 1-2 (March 1909); fasc. 2: 81-160, pls. 3-4 (July 1910); fasc. 3: 161-240, pls. 5-6 (May 1911); fasc. 4: 241-320, pls. 7-8		
+169349	Marchesini Santos, M. E. C.	1958	Equinóides Miocénicos da Formação Pirabas. Boletim de Departamento Nacional da Produção Mineral, Divisão de Geologia e Mineralogia 179, 1-24.		
+163066	Contins, M. & Ventura, C. R. R.	2011	Embryonic, larval, and post-metamorphic development of the sea urchin Cassidulus mitis (Echinoidea; Cassiduloida): an endemic brooding species from Rio de Janeiro, Brazil. Marine Biology 158, 2279–2288.		
+163043			TermCat, The Center for Terminology.		
+169280	Körner, K.	1937	Marine (Cassianer-Raibler) Trias am Nevado de Acotambo (Nord-Peru		
+169495	Smiser, J. S.	1935	A monograph of the Belgian Cretaceous Echinoids. Mémoire du Musée Royal d'Histoire Naturelle de Belgique 68 , 1-98.		
+169472	Roman, J.	1952	Sur les structures internes des Clypéastres. Bulletin de la Société Géologique de		
+169372	Miller, A. K.	1929	Ancylocidaris, a New Echinoid Genus from the Sundance of West-Central Wyoning		
+194919	Panning, A.	1923a	Eine Pedicellarienstudie an Echinus esculentus L. mit einer Bemerkung über Echinus esculentus L. var. fuscus Mortensen		
+139565	Liao, Y.	1978	The echinoderms of Xisha Islands, Guangdong Province, China. 2. Ophiuroidea. Stud. mar. Sinica, 12, 69-104, 4 pls.		
+149575	Schiaparelli, S.; Alvaro, M. C.; Barnich, R.	2011	Polynoid polychaetes living in the gut of irregular sea urchins: a first case of inquilinism in the Southern Ocean		
+169518	Spreng, A. C.; Howe, W. B.	1963	Echinoid jaws from the Mississippian and Pennsylvanian of Missouri		
+169403	Mortensen, T.	1939	New Echinoida (Aulodonta). Preliminary Notice. Videnskabelige Meddelelser fra Dansk naturhistorisk Forening i København 103, 547-550.		
+3172	David, B.; Mooi, R.	2000	A new species of subantarctic Plexechinus and its phylogenetic position within the Holasteroida (Echinodermata		
+145261	Baker, A. N.	1967	Two New Echinoids from Northern New Zealand, including a New Species of Diadema		
+149091	De Bruyn, C.; David, B.; De Ridder, C.; Rigaud, T.	2010	Asymmetric exploitation of two echinoid host species by a parasitic pea crab and its consequences for the parasitic life cycle		
+169011	Checchia-Rispoli, G.	1940	Su alcuni Echinidi del Malm della Sicilia. Bullettino della Societá di Scienze Naturalil ed Economiche die Palermo 22, 23-25.		
+169203	Jackson, R. T.	1937	Mexican Fossil Echini		
+169449	Philip, G. M.	1963	Two Australian Tertiary neolampadids, and the classification of cassiduloid echinoids		
+169057	Collignon, M.	1930	Beitrag zur Kenntnis der eozänen Echinidenfauna des Krappfeldes (Kärnten		
+142459	Mortensen, T.	1948c	A Monograph of the Echinoidea. IV, 1 Holectypoida, Cassiduloida, 371 pp., C. A. Reitzel, Copenhagen.		
+170193	Jagt, J. W. M., Jagt-Yazykova, E. A. & Zonova, T. D.	2013	Notes on selected Cretaceous echinoids from south-central Sakhalin, Far East Russia. Netherlands Journal of Geosciences / Geologie en Mijnbouw 92/2-3, 123-132.  		
+169111	Deraniyagala, P. E. P.	1961	The Amphitheatres of Minihagal Kanda, Their Possible Origin and Some of the Fossils and Stone Artefacts collected from them. Spolia Zeylanica		
+145307	Mironov, A. N.	1971	Soft sea urchins of the family Echinothuriidae collected by the R/V “Vityaz” and the “Academician Kurchatov” in the Pacific and Indian Oceans		
+169357	Meffert, B.	1931	La faune éocéne du Daralaghez en Arménie		
+169506	Serra, G.	1935	Descrizione di alcuni echinidi dei giacimenti fosfatici della Tripolitania. Bolletino della Societ		
+169077	Corroy, G.	1925	Le néocomien de la bordure orientale du basin de Paris. Bulletin de la Société des Sciences de Nancy 4, 171-504.		
+169575	Whitney, M. I.; Kellum, L. B.	1966	Echinoids of the Glen Rose Limestone of Texas		
+169552	Vautrin H Liban Serv Trav pupl Section d'étud	1933	Les Échinides burdigaliens de la zone désertique Syrienne. Haut-commissariat de la République Française en Syrie et au		
+149203	Koehler, R.	1895	Note préliminaire sur les échinides recueillis pendant les campagnes de l'Hirondelle. Bulletin de la Société Zoologique de France 20, 223-227.		
+169503	Seneš, J.	1955	Stratigrafický a biofaciálny výskum niektorých Neogénnych sedimentov východného Slovenska na základe makrofauny		
+169526	Stephenson, L. W.	1928	Additions to the Upper Cretaceous invertebrate faunas of the Carolinas		
+167680	Zachos, L.G.	2012	A new genus and species of echinoid (Echinoidea, Spatangoida) from the Oligocene (Rupelian) of Mississippi. Southeastern Geology, 49/1, 43-48.		
+168934	Airaghi, C.	1934	Echinidi paleogenici della Sirtica e del Fezzan Orientale. Missione Scientifica della Reale Academia d'Italia a Cufra (1931-IX), Viaggi di Studio et Esplorazioni 3, 63-81.		
+6507	Agassiz, A.	1872	874. Revision of the Echini. Illustrated Catalogue of the Museum of Comparative Zoölogy at Harvard College 7, pt. 1-2: i-xii, 1-378, pls. 1-49 (1872); pt. 3: 379-628+1, pls. 50-77 (1873); pt. 4: 629-762, pls. 78-94 (1874).		
+169246	Kier, P. M.	1963	Tertiary echinoids from the Caloosahatchee and Tamiami formations of Florida		
+149011	Arakaki, Y.; Uehara, T.	1999	Morphological comparison of black Echinometra individuals among those in the Indo-West Pacific		
+168954	Bather, F. A.	1934	Chelonechinus n.g., a Neogene urchinid		
+162977	Arab, A. L. & Vaziri, M. R.	2010	Sexual Dimorphism in a New Species of Cassiduloid Echinoid, Pygaulus baghinensis, from the Aptian Strata of Baghin Area, West of Kerman, Iran. Journal of Sciences, Islamic Republic of Iran 21, 43-47.		
+6338	Rowe, F.W.E & Gates, J.	1995	Echinodermata. In ‘Zoological Catalogue of Australia’. 33 (Ed A. Wells.) pp xiii + 510 (CSIRO Australia, Melbourne.)		
+145273	Cherbonnier, G.	1959	Echinodermes de la Guyane francaise (Crinoides, Asterides, Ophiurides, Holothurides). (Note 4.) Bulletin du Muséum National d'Histoire Naturelle 2, 367-372.		
+169177	Hawkins, H. L.	1935	Two genera of Carboniferous Echinoidea (Lepidocidaris and Hyattechinus) new to Britain		
+169226	Jeannet, A.	1955	Sur quelques Echinides fossiles étrangers. Bulletin de la Sociéte Géologique de		
+169034	Clark, A. H.	1946	Echinoderms from the Pearl Islands, Bay of Panama, with a revision of the Pacific Species of the Genus Encope		
+6289	Mortensen, T.	1931	Echinodermata. Faune des colonies francaises 4: 590-596.		
+170116	Fourtau, R.	1901	Notes pour servir a l'étude des Échinides fossiles d'Égypte. Bulletin de la Société Géologique de		
+167717	Osborn, A. S., Mooi, R. & Ciampaglio, C. N.	2013	A New Species of Protoscutella (Echinoidea, Clypeasteroida, Protoscutellidae) from the Middle Eocene (Lutetian) Santee Limestone in Berkeley County, South Carolina. Southeastern Geology 49, 119-131.		
+169426	Nisiyama, S.	1935	On Some Fossil Echinoids from Northeastern Japan		
+169483	Sánchezoig, R.; M	1926	Contribucion a la Paleontologia Cubana - Los Equinodermos Fosiles de Cuba		
+151679	Lambert, J.	1921	Échinides vivants et fossiles recueillis à Madagascar par M. Raymond Decary. Mémoires de la Société Académique d'Agriculture des Sciences, Arts et Belles-Lettres du Département de l'Aube, Troisième Série, 58-59 (1921-1922)/(Vols. 85-86 of the whole series), 13-55.		
+169234	Keller, A. & Vautrin, H.	1937	Nouvelle contribution á Pétude des échinides de la Syrie et tu Liban. Notes et Mémoires Haut-Commissariat de la République Francaise en Syrie et au Liban 2, 137-164.		
+168985	Buitrón, B. E.	1970	Equinoides del Cretácic o inferior de la región de San Juan Raya-Zapotitlán, Estado de Puebla		
+145287	Harold, A. S.; Telford, M.	1990	Systematics, phylogeny and biogeography of the genus Mellita (Echinoidea: Clypeasteroida		
+145330	Shigei, M.	1975	A new species of the heart urchins, an extant species of Brissopatagus (Echinoidea: Spatangoida), from Sagami Bay		
+169091	Currie, E. D.	1939	Note on Echinoidea from Burma		
+168942	Assmann, P.	1914	Beitrag zur Kenntnis der Stratigraphie des oberschlesischen Muschelkalk. Jahrbuch der Preußischen Geologischen Landesanstalt zu		
+169283	Lambert, J.	1924	Sur un échinide du Bassin de Paris. Bulletin de la Société Géologique de France 4, 98.		
+3149	Mironov, A. N.	1978	Meridosternous echinoids (Echinoidea: Meridosternina) collected during the 16th cruise of the R/V 'Dm		
+169383	Morishita, A.	1955	Notes on Echinarachnius in Japan. Memoirs of the College of Science, University of Kyoto B 22, 223-236.		
+151848	Vadet, A., Nicolleau, P. & Reboul, R.	2010	Les Echinides de l'Atlas marocain: Bajocien Bathonien. Premiere partie: les réguliers. Annales de la Société d’Histoire Naturelle du Boulonnais 9/1, 1-40.		
+169160	Frenguelli, J.	1944	Stomechinus pulchellus n.sp. nuevo equinodermo des Titoniense del Neuquén. Notas del Museo de la		
+6524	Mortensen, T.	1943a	A Monograph of the Echinoidea. III, 2. Camarodonta. I. Orthopsidæ, Glyphocyphidæ, Temnopleuridæ and Toxopneustidæ, vii+553 pp., C. A. Reitzel, Copenhagen.		
+150946	De groot, M. C.	1863	Notes on the Mineralogy and Geology of Borneo and the adjacent Islands		
+169254	Kier, P. M.	1967	Sexual dimorphism in an Eocene echinoid		
+169423	Männil, R.	1962	The Taxonomy and Morphology of Bothriocidaris (Echinoidea). Esti NSV Teaduste Akadeemia		
+169369	Meznerics, I.	1941	Neue Stachelhäuter (Echinodermen) aus dem Miocän Ungarns. Annales Musei Nationalis Hungarici, Pars Mineralogica, Geologica et Palaeontologica 34, 83-96 .		
+156705	Pearse, J. S. & Mooi, R.	2007	Echinoidea.		
+147411			PESI (A Pan-European Species directories Infrastructure) focal points		
+145321	Mortensen, T.	1951	Report on the Echinoidea collected by the "Atlantide" Expedition. Scientific results of the Danish Expedition to the coasts of tropical West Africa		
+169509	Shmidt, O. I.	1938	Upper Cretaceous Marine Echinoids of Caucasus: Genus Pseudoffaster Lambert		
+156133	Say, T.	1826	On the species of the Linnean genus Echinus, inhabiting the coast of the United States		
+169463	Regnéll, G.	1956	Silurian Echinoids from Gotland. Arkiv för Mineralogi och Geologi  2, 155-178.		
+168914	Vaziri, M. R. & Arab, A. L.	2012	Two new species of Arbacioid echinoids (genus Goniopygus) from the Aptian sediments of Baghin area (Kerman, Iran). Iranian Journal of Science & Technology A3, 231-237.		
+167734	Rodríguez, A., Hernández, J. C., Clemente, S. & Coppard, S. E.	2013	A new species of Diadema (Echinodermata: Echinoidea: Diadematidae) from the eastern Atlantic Ocean and a neotype designation of Diadema antillarum (Philippi, 1845). Zootaxa 3636, 144-170.		
+181803	Cotteau, G. H	1861-1867	Terrain Crétacé, Tome Septième. Échinides. Paléontologie Française. Description des Animaux Invertébrés commencée par Alcide d'Orbigny continuée sous la direction d'un comité spécial		
+169306	Lambert, J.	1931	Note sur le groupe des Oligopygus, la nouvelle famille des Haimeidae, et sur quelques echinides fossiles de Cuba. Bulletin de la Societe Geologique de		
+6269	Bell, F. J.	1909	Report on the echinoderma (other than holothurians) collected by Mr. J. Stanley Gardiner in the western parts of the Indian Ocean. Transactions of the Linnean Society of London. 2nd Series: Zoology 13, 17-22.		
+168968	Beurlen, K.	1966	Novos Equinóides no Cretáceo do Nordeste do Brasil. Anais da Academia Brasileira de Ciéncias 38, 455-464.		
+145310	Mironov, A. N.	1975	Deep-sea urchins (Echinodermata, Echinoidea) collected during the 14th cruise of the R/V "Akademik Kurchatov		
+169360	Melville, R. V.	1952	On a New Species of Irregular Echinoid (Plagiochasma coxwellense sp. nov.) from the Lower Greensand of Faringdon Berks		
+154063	Mortensen, T.	1949	New Echinoidea (Cassiduloida, Clypeasteroida). Preliminary notice. Videnskabelige Meddelelsar Dansk Naturhistoriske Forening i Kjobenhavn 111 (1948-49), 67-72.		
+168247	Smith, A. B.	2012	Geological history of bathyal echinoid faunas, with a new genus from the late Cretaceous of Italy		
+169243	Kier, P. M.	1958	New American Paleozoic Echinoids		
+145576	Fell, H. B. & Pawson, D. L.	1966	Echinacea.		
+169337	Maccagno, A. M.	1947	Nuova specie di Schizaster nel macco die Palo (Lazio		
+169031	Clark, A. H.	1932	Echinoderms from the Islands of Niuafoou and Nukualofa, Tonga Archipelago, with the description of a new genus and two new species		
+150222	Gray J.E.	1851	Descriptions of some new genera and species of Spatangidae in the British Museum. The Annals and Magazine of Natural History, 2nd Series 7, 130-134.		
+149226	Cooke, C. W.	1957	Rhytiobrissus cuneus, a New Echinoid from North Carolina		
+145313	Mironov, A. N.	1981	Sea-urchins (Echinoidea).		
+145290	Kier, P. M.; Grant, R. E.	1965	Echinoid distribution and habits		
+169549	Tzaghareli, A.	1949	The upper Cretaceous fauna of Georgia. Académie des Sciences de la RSS Géorgienne, Série Géologique 5, 173-274.		
+169266	Kongiel, R.	1939	[Notes pour sevir à l'étude des Échinides crétacés de Pologne, I. Échinides réguliers]. Travaux de la Société des Sciences et des Lettres de Wilno: Classe des Sciences Mathématiques et Naturelles 13, 1-54.		
+169008	Checchia-Rispoli, G.	1936	Su alcuni Echinidi della Sicilia. Bollettino della Societ		
+169074	Cooke, C. W.	1961	Cenozoic and Cretaceous echinoids from Trinidad and Venezuela		
+169317	Lambert, J.	1937	Échinides fossiles du Moroc. Protectorat de la République Française au Maroc, Service des Mines et de la Carte Géologique, Notes et Mémoires 39, 39-109.		
+169572	Weisbord, N. E.	1934	Some Cretaceous and Tertiary Echinoids from Cuba		
+145270	Budin, I. N.	1983	A new species of sand dollars of the genus Scaphechinus from Peter the Great Bay in		
+162931	Tate, R.	1885	Notes on the physical and geological features of the basin of the lower Murray River. Transactions of the Royal Society of South Australia 7, 24-46.		
+169200	Israelsky, M. C.	1933	Echinoids from the Malumbang Formation Philippine Islands		
+6112	Clark, A.M.	1984	Echinodermata of the Seychelles. In: (Ed) D. R. Stoddart. Biogeography and Ecology of the Seychelles Islands. Dr. W. Junk Publishers, The Hague. : 83 - 102.		
+169223	Jeannet, A.	1936	Sur quelques grands Echinides irréguliers du Nummultique des environs d'Iberg		
+169486	Sánchezoig, R.; M	1952	El genero Cubanaster (Equinidos fosiles irregulares		
+168988	Casey, R.	1960	A New Echinoid from the lower Cretaceous (Albian		
+181866	Duncan, P. M.	1889	A Revision of the Genera and great Groups of the Echinoidea		
+6398	Clark, A.H.	1954	Records of Indo-Pacific Echinoderms. Pacific Science, 8: 243-263.		
+169380	Montanaro-Gallitelli, E.; Lang, Z.	1937	Celenterati, Echinodermi e Brachiopodi del Cretaceo medio-superiore dello Zululand		
+169180	Hayasaka, I.; Morishita, A.	1947	Notes on Some Fossil Echinoids of Taiwan		
+169329	Lees, G. M.	1928	The geology and tectonics of Oman and of parts of south-eastern Arabia		
+169529	Stockley, G. M.	1927	Neogene Echinoidea from Zanzibar Protectorate.		
+169286	Lambert, J.	1926	Note sur un Echinide nouveau du Bajcien de Liestal. Naturforschende Gesellschaft Baselland Tätigkeitsbereich 7, 118-122.		
+150202	Mortensen, T.	1932	Über den angeblichen Kieselschwamm Microcordyla Asteriæ Zirpolo. Zoologischer Anzeiger 97, 197.		
+176711	Parin, N. V., Mironov, A. N., & Nesis, K. N.	1997	Biology of the Nazca and Sala y Gomez submarine ridges, an outpost of the Indo-West Pacific fauna in the eastern Pacific Ocean: composition and distribution of the fauna, its communities and history.		
+145333	Shigei, M.	1977	A new species of the echinothurioid sea-urchins, Sperosoma nudum, from the North Pacific, off central Japan		
+150283	de Loriol, P.	1883	Eozäne Echinoideen aus Ägypten und der lybischen Wüste. Palaeontographica 30, 1-59.  		
+169255	Kier, P. M.	1968	The Triassic Echinoderms of North America		
+162734	Lieske, E. & Myers, R.	2004	Coral Reef Guide Red Sea. Collins, 384 pp.		
+35169	Knorr, G. W. & Müller, P. L. S.	1766	Deliciae naturae selectae oder auserlesenes Naturalien-Cabinet, welches aus den drey Reichen der Natur zeiget, was von curiösen Liebhabern aufbehalten und gesammlet zu werden verdienet		
+140227	Agassiz A.	1869	Preliminary report on the echini and star-fishes dredged in deep water between Cuba and the Florida Reef, by L. F. de Pourtalès, Assist. U.S. Coast Survey.		
+169232	Jones, S. T.	1938	Geology of Sierra de la Pena and Paleontology of the Indidura Formation, Coahuila Mexico		
+145328	Serafy, D. K.	1971	A new species of Clypeaster (Echinodermata, Echinoidea) from San Felix Island, with a key to the recent species of the eastern		
+169301	Lambert, J.	1933	Note sur quelques Echinides de la région de Chatillon-sur-Seine. Bulletin de la Société Géologique de France, Notes et Mémoires 5, 173-180.		
+169278	Kühn, O.	1936	Eine neue Burdigalausbildung bei Horn. Sitzungsberichte der Akademie der Wissenschaften Wien, mathematisch-naturwissenschaftliche		
+169424	Nagao, T.	1928	Palaeogene Fossils of the Islands of Kyûshû, Japan, Part 2. Science Reports of the Tôhoku		
+169324	Lambert, J.; Pérébaskine, V.	1929	Note sur quelques Échinides du Soudan. Bulletin de la Société Géologique de		
+169447	Philip, G. M.	1963	A New Regular Echinoid from the Jurassic of Wyoming		
+169470	Richards, H. G.	1962	New Cretaceous Invertebrate Fossils from Test Borings in New Jersey. In The Cretaceous Fossils of New Jersey		
+139517	Baranova, Z. I.	1955	New species and subspecies of echinoderms from the Bering Sea		
+149043	Mooi, R.; David, B.	1996	Phylogenetic analysis of extreme morphologies: deep-sea holasteroid echinoids		
+147420	Kroh, A. & Mooi, R.	2010	World Echinoidea Database. Available online at http://www.marinespecies.org/echinoidea		
+169355	Maury, C. J.	1925	Fosseis terciarios do Brasil com desripcäo de novas formas cretaceas. Monographias do Servico Geologico e Mineralogico do		
+169547	Traub, F.	1938	Geologische und paläontologische Bearbeitung der Kreide und des Tertiärs im Östlichen Rupertiwinkel, Nördlich von Salzburg		
+169401	Mortensen, T.	1937	Phyllacanthus forcipulatus, sp. nov.a New Cidarid from the Indian Ocean		
+42918	Coppard, S.E.; Schultz, H.A.G.	2006	A new species of Coelopleurus (Echinodermata: Echinoidea: Arbaciidae) from New Caledonia. Zootaxa 1281: 1–19.		
+149089	De Bruyn, C.; Rigaud, T.; David, B.; De Ridder, C.	2009	Symbiosis between the pea crab Dissodactylus primitivus and its echinoid host Meoma ventricosa: potential consequences for the crab mating system		
+169155	Fell, H. B.	1962	A New Cretaceous Echinoid from the Franciscan Formation of California		
+169009	Checchia-Rispoli, G.	1938	Di alcuni Clipeastri del Miocene del Monte Gargano		
+132624	Audouin, V.	1809	Explication sommaire des planches d'Échinoderms de l'Égypte et de la Syrie, publiées par J. C. Savigny, membre de l'Institut; offrant un exposé des caractères naturels des genres avec la distinction des espèces, par Victor Audouin. Pp. 203-212		
+169501	Schmitz, E.	1970	Ein interessanter Cidarisstachel im Feuersteingeschiebe		
+145305	McNamara, K. J.	1984	Living Australian species of the echinoid Pericosmus (Spatangoida: Pericosmidae		
+169109	Denizot, G.	1935	Monographies gélogiques des environs de Marseille: Description des massifs de Marseilleveyre et de Puget. Annales du Musée d'Histoire Naturelle de		
+169458	Poslavskaya, N. A.; Moskvin M M A L Yanshin; V, V.	1960	Echinoids of the order Spatangoida in Danian and adjacent deposits of Crimea, Caucasus and the Transcaspian region]. Pp		
+169209	Jeannet, A.	1929	Revision des Rhabdocidaris du Jura supérieur suisse. Mémoires de la Sociét		
+145259	Allison, E. C.; Durham, J. W.; Mintz, L. W.	1967	New Southeast Pacific Echinoids		
+169063	Cooke, C. W.	1941	Oligopygus nancei, a New Echinoid from Venezuela		
+193669	Bruguière, J. G., Lamarck, J.-B., Lamouroux, J. V. F., Bory de Saint-Vincent, Deslongchamps, E.	1827	Tableau Encyclopédique et Méthodique des trois Règnes de la Nature. Vers, coquilles, mollusques, polypiers, zoophytes, etc. etc. Mme Agasse, Paris; viii+180 pp.		
+145316	Mironov, A. N.	2006	Echinoids from seamounts of the north-eastern Atlantic; onshore/offshore gradients in species distribution.		
+140238	Meijere, J.C.H.d.	1903	Vorläufige Beschreibung der neuen, durch die Siboga-Expedition gesammelten Echiniden. - Tijdschrift der Nederlandsche Dierkundige Vereeniging, 2de serie, 8/1: 1-16.		
+169550	Tzankov, V.	1930	Géologie du plateau de Šumen et ses environs immédiats. Zeitschrift der bulgarischen geologischen Gesellschaft 2, 1-77.		
+168983	Brünnich Nielsen, K.	1942	Martinosigra elongata, g. n. et sp. n. A new echinoid from the Ehite Chalk of Denmark. Meddelelser fra Dansk Geologisk Forening 10, 159-166.		
+169573	Wind, J.	1954	Tylocidaris Piggene som Ledeforsteninger i vort øvra Senon og Danien. Meddelelser fra Dansk Geologisk Forening 12, 481-486.		
+154021	Kroh, A.	2010	Index of Living and Fossil Echinoids 1971-2008. Annalen des Naturhistorischen Museums in Wien, Serie A 112, 195-470.		
+5938	Bell, F.J.	1884	Echinodermata. In: R.W. Coppinger (ed): Report on the Zoological Collections made in the indo-pacific Ocean during the voyage of HMS Alert, 1881-2. London.		
+147612	Leach, W. E.	1812	[Echinus lithophagus].		
+169175	Hawkins, H. L.	1924	Notes on a New Collection of Fossil Echinoida from Jamaica		
+169152	Fell, H. B.	1950	A Triassic Echinoid from New Zealand. Transactions and		
+169075	Cooper, G. A.	1931	A New Species of the Echinoid Lepidesthes		
+145285	Fell, H. B.	1963	The Spatangids of New Zealand. Zoology Publications from Victoria University of Wellingston 32, 1-8.		
+169344	Maillieux, E.	1935	Contribution à l'étude des Echinoïdes du Frasnien de la Belgique. Mémoire du Musée Royal d'Histoire Naturelle de Belgique 65, 1-16.		
+169332	Lobacheva, S. V. & Poretskaya, E. S.	1967	[A new Epiaster from Turkmenia - The oldest  representative of the genus]. Vsesoyuznyy Nauchno-Issledovatel'skiy Geologorazvedochniy Neftyanoy Institut (VNIGRI) 129, 182-187.		
+169581	Zachos, L. G.	1968	A new echinoid form the Ocala Limestone. Florida Scientist - Quarterly		
+169083	Ctyroky, P.	1965	Lovenia mortensi n.sp. a New Species of Spatangoid Echinoid from the Miocene of the Vienna Basin		
+177396	Portell, R. W.; Oyen, C. W.	2001	Eocene Echinoids		
+149707	Koukouras, A., Sinis, A. I., Bobori, D., Kazantzidis, S. & Kitsos, M.-S.	2007	The echinoderm (Deuterostomia) fauna of the Aegean Sea, and comparison with those of the neighbouring seas. Journal of Biological Research 7, 67-92.		
+177453	Geys, J. F.	1995	Holectypoid echinoids from Cenomanian and Turonian strata in the Mons basin (Belgium). 2. Conulus. Bulletin de l'Institut Royal des Sciences naturelles de		
+22039	Pennant, T.,	1777	British Zoology, vol. IV. Crustacea. Mollusca. Testacea: i-viii, 1-154, Plates 1-93. London.		
+169524	Stefanini, G.	1931	Echinodermi, Vermi, Briozoi e Brachiopodi del Giuralias della Somalia.		
+169281	Köster, E.	1950	Formveränderungen von Echinocorsy sulcatus (Goldfuss 1826-33). Geologiska Föreningens		
+169381	Morishita, A.	1952	Fossil Astriclypus from Japan. Memoirs of the College of Science, University of Kyoto B 20, 107-114.		
+169040	Cooke, C. W.	1958	Cretaceous Echinoidea of New Jersey. Bulletin of the New Jersey Geological Survey Division of Geology 61, 45-54.		
+168940	Arnold, B. W.; Clark, H. L.	1927	Jamaican fossil echini. With descriptions of new species of Cainozoic Echinoidea by Herbert L. Hawkins		
+163038	Gras, A.	1848	Description des oursins fossiles du département de l'Isère, précédée de notions élémentaires sur l'organisation & la glossologie de cette classe de zoophytes et suivie d'une notice géologique sur les : ouvrage orné de six planches représentant 45 espèces nouvelles ou non encore figurées / par Albin Gras		
+169481	Sahni, M. R.	1955	Recent Researches in the Palæontologic Division, Geological Surey of India		
+176251	Kühndahl, C.	2002	Hagenowia und H. (Infulaster) infulasteroides aus der Lägerdorfer Schreibkreide. Arbeitskreis Paläontologie Hannover 30, 57-63.		
+6522	Mortensen, T.	1935	A Monograph of the Echinoidea. II. Bothriocidaroida, Melonechinoida, Lepidocentroida, and Stirodonta, 647 pp., C. A. Reitzel & Oxford University Press, Copenhagen & London.		
+191642	Chow, S., Kajigaya, Y., Kurogi, H., Niwa, K., Shibuno, T., Nanami, A. & Kiyomoto, S.	2014	On the Fourth Diadema Species (Diadema-sp) from Japan		
+169421	Moskvin, M. M. & Poslavskaya, N. A.	1959	Echinodermata.		
+169398	Mortensen, T.	1934	New Echinoidea. Preliminary Notice. Videnskabelige Meddelelser fra Dansk naturhistorisk Forening i København 98, 161-167.		
+42380	Koehler, R.	1921	Echinodermes. Faune de France, 1. Librairie de la Faculte des Sciences, Paris. 216 pp.		
+169304	Lambert, J.	1934	Appendice sur un Clypeaster de l'Angola. Boletim do Museu e Laboratório Mineralógico e Geológico da Universidade de Lisboa, 1a Série 3, 247-248.		
+169229	Jekelius, E.	1932	Der weisse Triaskalk von Brasov und seine Fauna. Anuarul Institutului Geologic al Romdniei 17, 1-109.		
+169590	Tortonese, E.	1980	Review of present status of knowledge of the Mediterranean Echinoderms.		
+3181	David, B.; Mooi, R.	1990	An echinoid that "gives birth": morphology and systematics of a new Antarctic species, Urechinus mortenseni		
+169252	Kier, P. M.	1966	A new echinoid from the Cretaceous Pierre Shale of Eastern Wyoming		
+139420	Koehler, R.	1909	Echinodermes provenant des campagnes du yacht Princesse-Alice (Astéries, Ophiures, Echinides et Crinoïdes). Résultats des Campagnes Scientifiques Accomplies sur son Yacht par Albert 1er Prince Souverain de		
+169444	Petitot, M. L.	1954	Sur une nouvelle espece d'echinide irregulier du Maroc; Pseudopygurus ambroggii nov. sp. Notes et Memoires du Service Geologique (Rabat) 121, 83-87.		
+169166	Gorodiski, A.	1951	Au sujet de quelques Cassiduloida (oursins irréguliers) de l'Eocéne Moyen du Sénégal. Bulletin du Muséum National d'Histoire Naturelle 2, 322-330.		
+169072	Cooke, C. W.	1955	Some Cretaceous echinoids from the Americas. United States Geological Survey Professional Paper 264 E, 87-112.		
+169367	Mercier, J.	1937	Les échinides du Lias de la bordure du Massif Armoricain. Bulletin de la Société Géologique de Normandie et des Amis du Museum du Havre 39, 12-42.		
+169461	Ravn, J. P. J.	1928	De Regulære Echinider i Danmarks Kridtaflejringer. Det Kongelige Danske Videnskabernes Selskabs Skrifter, naturvidenskabelig og mathematisk		
+169845	Cooke, C. W.	1959	Cenozoic echinoids of eastern United States		
+168665	Agassiz, A.; Clark, H. L.	1907	Hawaiian and other Pacific Echini. The Cidaridae. Memoirs of the Museum of Comparative Zoology at		
+181993	Jagt, J. W.; Jackson, J.; Van der ham, R. W.	2014	Bathysalenia skylari, a new late Turonian (Late Cretaceous) saleniid echinoid from central Texas, USA		
+169507	Shalem, N.	1933	Sopra un giacimento cenomaniano a Brachiopodi in Palestina. Rivista Italiana di Paleontologia 39, 17-28.		
+169312	Lambert, J.	1936	Échinides du Sénonien supérieur et de l'Eocène.		
+169158	Fischer, A. G.	1951	The echinoid fauna of the Inglis Member, Moodys Branch Formation. Fla. Geol. Surv. Bull. 34, 49-101.		
+168966	Besairie, H.; Lambert, J.	1930	Notes sur quelques echinides de Madagascar et du Zululand. Bulletin de la Société Géologique de		
+169112	Desio, A.	1934	Faune neogeniche della Sirtica (Cirenaica		
+181801	Valette, A.	1908	Révision des échinides fossiles de l'Yonne. 2ème partie (Crétacé). Bulletin de la Société des Sciences Historiques et Naturelles de l'Yonne 61, 183-385.		
+145308	Mironov, A. N.	1973	New deep-sea species of sea urchins of the genus Echinocrepis and the distribution of the family Pourtalesiidae		
+3173	Fell, F.J.	1976	The Cidaroida (Echinodermata: Echinoidea) of Antarctica and the southern oceans. Unpublished PhD. Thesis, Univ. of Maine at Orono: 1-294		
+169358	Melikov, O. G.; Endelman, L. G.	1963	A New Echinoid from the Lower Maestrichtian of the Caucasus		
+175172	Anderson, O. F.	2013	A review of New Zealand and southeast Australian echinothuriinids (Echinodermata: Echinothuriidae) with descriptions of seven new species. Zootaxa 3609 (6): 521-567.		
+169006	Checchia-Rispoli, G.	1933	Echinidi cretacei della Tripolitania. Bollettino del R. Ufficio Geologico d'Italia 58, 1-14.		
+169029	Chiriac, M.	1957	Contributions á Pétude de la faune des Echinides Crétacés de la Dobrogea du Sud. Revue de Géologie et de Géographie, Académie de la République Populaire Roumaine 1, 61-95.		
+145268	Brito, I. M.	1959	Sôbre una nova Clypeaster do Brasil (Echinoidea Clypeasteroidea). Centro de Estudos Zoológicos Universidade de		
+169527	Stephenson, L. W.	1936	Geology and paleontology of the Georges Bank Canyons, Part II: Upper Cretaceous fossils from Georges Bank (Including species from Banquerau, Nova Scotia		
+147566	Clark, H. L.	1948	A report of the echini of the warmer eastern Pacific, based on the collection of the Velero III		
+150984	Agassiz, A.	1880	Reports on the results of dredging, under the supervision of Alexander Agassiz, in the Caribbean Sea in 1878-79, and along the Atlantic Coast of the United States during summer of 1880, by the U.S. Coast Survey Steamer "Blake". IX. Preliminary report on the Echini. Bulletin of the Museum of Comparative Zoölogy at Harvard College 8, 69-84.		
+169292	Lambert, J.	1928	Sur deux Échinides fossiles de Cuba. Bulletin de la Société Géologique de		
+145339	Weinberg, S.; de Ridder, C.	1998	Asthenosoma marisrubri n. sp		
+169241	Kier, P. M.	1957	A New Upper Carboniferous Echinoid from Texas		
+169315	Lambert, J.	1936	Observations critiques sur quelques Hemiaster du sud-ouest de la France. Bulletin de la Société d'Histoire Naturelle de Toulouse 69, 77-94.		
+163839	Pawson, D. L.; Miller, J. E.	1983	Systematics and Ecology of the Sea-Urchin Genus Centrostephanus (Echinodermata: Echinoidea) from the Atlantic and Eastern Pacific Oceans		
+154465	Tandon, K. K.; Srivastava, D. K.	1980	A new genus and species of the clypeasteroid echinoid from the middle Eocene rocks of Kutch, India		
+149012	Arakaki, Y.; Uehara, T.; Fagoonee, I.	1998	Comparative Studies of the Genus Echinometra from Okinawa and Mauritius		
+61	Cattrijsse, A.; Vincx, M.	2001	Biodiversity of the benthos and the avifauna of the Belgian coastal waters: summary of data collected between 1970 and 1998. Sustainable Management of the North Sea. Federal Office for Scientific, Technical and Cultural Affairs: Brussel, Belgium. 48 pp.		
+3138	Madon-Senez C.	2002	A new species of marsupiate Antarctic echinoid: Amphipneustes davidi (Echinodermata: Spatangoida: Schizasteridae). Proc. Bio. Soc. Wash. 115(1): 51-56		
+145319	Mooi, R., David, B., Fell, J. F. & Chone, T.	2000	Three new species of bathyal cidaroids (Echinodermata: Echinoidea) from the Antarctic region. Proceedings of the Biological Society Washington 113, 224-237.		
+169049	Clark, H. L.	1939	A remarkable new genus of sea-urchin (Spatangidae		
+169221	Jeannet, A.	1936	Description de quelques Échinides sculptés du Lutétien supérieur des environs de Bordeaux. Mémoires de la Société Paléontologique Suisse 57, 13 p.		
+169123	Douglas, J. A.	1928	Contributions to Persian Palaeontology. III Fauna of the Mio-Pliocene Series from Middle Fars upwards		
+169198	Israelsky, M. C.	1924	Notes on Some Echinoids from the San Rafael and Tuxpam Beds of the Tampico Region, Mexico. Proceedings of the California Academy of Sciences 4 , 137-145.		
+155747	Gasco, F.	1876	Descrizione di alcuni Echinodermi nuovi o per la prima trovati nel Mediterraneo. Rendiconto dell'Accademia delle Scienze Fische e Matematiche 15, 32-41.		
+155132	Agassiz, L. & Desor, P. J. E.	1846	Catalogue raisonné des familles, des genres, et des espèces de la classe des échinodermes. Annales des Sciences Naturelles, Troisième Série, Zoologie 6, 305-374.		
+145296	Madsen, F. J.	1957	On a new species of Meoma, and on a few other echinoids from tropical West Africa. Bulletin de l'Institut Français d'Afrique Noire, Série		
+169178	Hawkins, H. L.	1935	V. Cretaceous Echinoida. Mesozoic palaeontology of British Somaliland. Geology and Paleontology of British Somaliland 2, 47-56.		
+156692	Lessios, H. A.; Lockhart, S.; Collin, R.; Sotil, G.; Sanchez-jerez, P.; Zigler, K. S.; Perez, A. F.; Garrido, M. J.; Geyer, L. B.; Bernardi, G.; Vacquier, V. D.; Haroun, R.; Kessing, B. D.	2011	Phylogeography and bindin evolution in Arbacia , a sea urchin genus with an unusual distribution		
+162929	Mcnamara, K.; Philip, G.; Kruse, P.	1986	Tertiary brissid echinoids of southern Australia		
+39503	Delle Chiaje S.	1841	844. Descrizione e notomia degli animali invertebrati della Sicilia citeriore osservati vivi negli anni 1822-1830. Napoli, Stabilimento Tipografico di C. Batelli e Co. vol. 1, 98		
+169570	Weaver, C. E.	1942	Palaeontology of marine Tertiary formations of Oregon and Washington		
+169378	Mitzopoulos, M. K.	1960	Die Echiniden de Attischen Kreide am Skironischen Engpass		
+149212	Asgaard, U.	1976	Cyclaster danicus, a shallow burrowing non-marsupiate echinoid		
+169092	Currierovince, E. D. P.; Ethiopiat 2, P.	1943	Palaeontology of Harrar		
+169484	Sánchezoig, R.; M	1949	Los equinodermos fosiles de Cuba		
+168943	Assmann, P.	1937	Revision der Fauna der Wirbellosen der oberschlesischen Trias. Abhandlungen der Preußischen Geologischen Landesanstalt, Neue Folge 170, 1-134.		
+168986	Callegari, P.	1930	Su alcuni Echinidi miocenici di S. Severino Marche. Memorie dell'Instuto Geologico della R		
+169135	Lambert, J.	1935	Sur quelques nouveaux échinides fossiles d'Egypte. Bulletin de l'Institut d'Egype 18, 39-43.		
+165548	Hernández, J.C., Clemente, S., Tuya, F., Pérez-Ruzafa, A., Sangil, C., Moro-Abad, L. & Bacallado-Aránega, J.J.	2013	Echinoderms of the Canary Islands, Spain. In: J.J. Alvarado & F.A. Solís-Marín (eds), Echinoderm Research and Diversity in Latin America,		
+149710	Lambert, J. & Thiéry, P.	1909	925. Essai de Nomenclature Raisonnée des Echinides. L. Ferrière, Chaumont, fasc. 1: i-iii, 1-80, pls. 1-2 (March 1909); fasc. 2: 81-160, pls. 3-4 (July 1910); fasc. 3: 161-240, pls. 5-6 (May 1911); fasc. 4: 241-320, pls. 7-8 (March 1914); fasc. 5: 321-384, pl. 9 (Sept. 1921); fasc. 6-7: 385-512, pls. 10-11, 14 (Dec. 1924); fasc. 7-8: 513-607, pls. 12, 13, 15 (Feb. 1925) pp.		
+169186	Hollandr, F. D. J.; Feldmann, R. M.	1967	A new species of cassiduloid echinoids from the Fox Hills Formation (Upper Cretaceous) of North Dakota		
+169564	Vredenburg, E.	1922	Oligocene Echinoidea collected by Rao Bahadur S. Sethu Rama Rau in Burma		
+141415	Kerckhof, F.; Eneman, E.	1983	From the Natural History Archive [Uit het Natuurhistorisch Archief]. De Strandvlo 3(2): 54-56		
+168969	Bindemann, W.	1938	Ein Echinid mit Laterne aus dem Kulm von Herborn, Meekechinus ? herbornensis n.sp		
+155286	Lessios, H. A.; Kessing, B. D.; Robertson, D. R.; Paulay, G.	1999	Phylogeography of the Pantropical Sea Urchin Eucidaris in Relation to Land Barriers and Ocean Currents		
+145276	Chesher, R. H.	1970	Evolution in the Genus Meoma (Echinoidea: Spatangoida) and a Description of a New Species from Panama. (Biological results of the University of Miami deep-sea expeditions. 68		
+145299	Markov, A. V.	1989	Species composition of the genus Trigonocidaris (Echinoidea		
+169441	Paulson, O. L.	1958	A New Species of the Eocene Echinoid Periarchus		
+177459	Agassiz, L.	1839	Description des Échinodermes fossiles de la Suisse; première partie, Spatangoides et Clypéasteroides. Nouveaux Mémoires de la Société helvétique des Sciences naturelles 3, i-viii, 1-101.		
+169541	Thiéry, P., Lambert, J. & Collignon, M.	1928	Note sur quelques échinides de la région de Voulte. Travaux du Laboratoire de Géologie de la Faculté des Sciences de Lyon 13, 81-103.		
+145322	Pawson, D. L.; Phelan, T. H.	1979	Clypeaster kieri, a new species of clypeasteroid (Echinodermata: Echinoidea) from off Bombay, India		
+168854	Saucede, T.; Bonnot, A.; Marchand, D.; Courville, P.	2013	A Revision of the Rare Genus Cyclolampas (Echinoidea) Using Morphometrics with Description of a New Species from the Upper Callovian of Burgundy (France)		
+154050	Robertson, D.	1871	Notes on Amphidotus cordatus (Penn). Quarterly Journal of Microscopical Science, New Series 11, 25-27.		
+169395	Mortensen, T.	1932	On the Salenidae of the Upper Cretaceous Deposits of Scania		
+169261	Koehler, R.	1926	Echinodermata Echinoidea.		
+169249	Kier, P. M.	1964	Fossil echinoids from the Marshall Islands		
+169510	Shmidt, O. I. & Vereshchaghin, V. N.	1960	Stratigraphy and sea urchin fauna of the Upper Cretaceous deposits of northern Sikhote Alin. Trudy Vsesouizniyi neftianoi naucho-issbdovatelskii geolo-razvedochnyi institut 154, 266-230.		
+147575	Mironov, A. N.	1991	Sea hedgehogs of the genus Marginoproctus (Echinoidea, Fibulariidae		
+169464	Reguant, S., Roman, J. & Villatte, J.	1970	Echinides de l'Eocene moyen de la region de Vic (Barcelone). Bulletin de la Société Géologique de France, Série 7 12, 894-912.		
+169215	Jeannet, A.	1934	Présence du genre Schizobrissus dans le Nummulitique d'Iberg (S. damiani n.sp		
+169069	Cooke, C. W.	1949	Two Cretaceous Echinoids from Peru		
+149195	Pfeffer, G.	1887	Ueber Parasalenia gratiosa A. Agassiz und Parasalenia Pöhlii nov. spec. Verhandlungen des Vereins für naturwissenschaftlich Unterhaltung zu Hamburg 6, 110-113.		
+151851	Saucède, T. & Néraudeau, D.	2006	An 'Elvis' echinoid, Nucleopygus (Jolyclypus) jolyi, from the Cenomanian of France: phylogenetic analysis, sexual dimorphism and neotype designation. Cretaceous Research 27, 542-554.		
+6270	Clark, A. M.; Taylor, J. D.	1971	Echinoderms from Diego Garcia		
+169115	Devriès, A.	1956	Sur une nouvelle espéce d'échinide en Algérie. Enallaster transiens Pomel (in coll.) Publications du Service de la Carte Géologique de l'Algérie (new series) 8, 251-267 .		
+181850	Quenstedt, F. A. v.	1875	Petrefactenkunde Deutschlands. I. Abtheilung, 3. Band. Echinodermen (Echiniden). Fues's Verlag (R. Reisland), Leipzig, viii+720 pp.		
+169338	Maccagno, A. M.	1947	Illustrazione degli echinidi giurassici della Somalia. Atti della Accademia Nazionale dei Lincei (Memmorie) 8, 99-136.		
+169195	Ikins, W. C.	1940	Some Echinoids from the Cretaceous of Texas		
+169361	Melville, R. V.	1955	Echinotiara arabica sp. nov. a Regular Echinoid from the Toarcian of		
+169387	Morishita, A.	1965	New Species of Salenia from the Miocene of Japan. Number IV in On Fossil Echinoids of Japan		
+169218	Jeannet, A.	1934	Sur quelques Échinides néocomiens du Vorarlberg. Mémoires de la Sociét		
+145265	Baker, A. N.	1983	A new apatopygid echinoid genus from New Zealand (Echinodermata: Cassiduloida)		
+169169	Grant, U. S. I.; Hertlein, L. G.	1938	Brissopsis blanpidie, a New Species of Echinoid from the Medial Tertiary of Mississippi		
+169003	Checchia-Rispoli, G.	1932	Echinidi regolari del Maestrichtiano della Tripolitania. Bollettino del R. Ufficio Geologico d'Italia 57, 1-16.		
+169318	Lambert, J.	1938	Notes sur quelques Échinides fossiles communiqués par M.M. Dalloni et Schoeller. Bulletin de la Société Géologique de		
+169103	De Saez, M. D.	1929	Un nuevo equinodermo fosil argentino. Revista del Museo de la Plata. Universidad Nacinal de la		
+6822	Agassiz, A.	1863	List of the echinoderms sent to different institutions in exchange for other specimens, with annotations. Bulletin of the Museum of Comparative Zoölogy at Harvard College 1, 17-28.		
+155129	Gaillard, C.; N?raudeau, D.; Thierry, J.	2011	Tithonia oxfordiana, a new irregular echinoid associated with Jurassic seep deposits in south-east France		
+169269	Kongiel, R.	1957	Remarques sur les échinides suprajurassiques de Czarnoglow et de Swietoszewo en Poméranie occidentale. Bull. Inst. Geol. 105, 5-74.		
+169146	Engel H nov gen et nov spec	1964	On Winkleria maastrichtensis Phymosomina ?Phymosomatidae) from the Upper-Cretaceous (Md		
+64			North East Atlantic Taxa		
+169295	Lambert, J.	1929	Sur les Échinides éocènes de Madagascar. Cpmtes Rendus des Séances de l'Académie des Sciences 189 , 192-194.		
+3161	Larrain, A. P.	1985	Brachysternaster, new genus, and Brachysternaster chesheri, new species of Antarctic echinoid		
+169026	Chiplonkar, G. W.	1937	Echinoids from the Bagh Beds. Proceedings of the Indian Academy of Sciences B6, 60-71.		
+37144	Studer, T.,	1889	Die Forschungsreise S.M.S. "Gazelle" in den Jahren 1874 bis 1876 unter Kommando des Kapitän zur See Freiherrn von Schleinitz, herausgegeben von dem Hydrographischen Amt des Reichs-Marine-Amts. III. Zoologie und GeoIogie   : 1-322.		
+181830	Lambert, J.	1917	Note sur quelques Holasteridae. Bulletin de la Société des Sciences Historiques et Naturelles de l'Yonne, 70(2), 191-223.		
+162740	Debelius, H.	2007	Riff-Führer Rotes Meer. Kosmos, Stuttgart, 322 pp.		
+169238	Kier, P. M.	1953	A New Lower Carboniferous Echinoid from North America		
+169046	Clark, H. L.	1937	A new Eocene sea-urchin from Alabama		
+169487	Sánchezoig, R.; M	1952	Nuevos generos y especies de equinoideos fosiles cubanos		
+169438	Ozaki, K.	1939	On a New Species of Lower Carboniferous Echinoida from Hunan, South China. Jubilee Publication in the Commemoration of Professor H		
+685	Hayward, P.; Nelson-Smith, A.; Shields, C.	1999	Gids van kust en strand: flora en fauna [Coast and beach guide: flora and fauna]. Tirion: Baarn, Netherlands. ISBN 90-5210-327-5. 352, ill. pp.		
+141249	Pawson, D. L., D. J. Vance, C. G. Messing, F. A. Solis-Marin, and C. L. Mah.	2009	Echinodermata of the Gulf of Mexico,		
+165545	Clemente, S. & Hernández, J.C.	2008	Influence of wave exposure and habitat complexity in determining spatial variation of the sea urchin Diadema aff. antillarum (Echinoidea: Diadematidae) populations and macro algal cover (Canary Islands - Eastern Atlantic Ocean). In: J.J. Alvarado & J. Cortés (eds), Estudio Latinamericanos en Equinodermos II. Revista Biologiá Tropical, 56/Suppl. 3, 229-254.		
+169138	Dzhalilov, M. P.; Egorov, E. V.	1969	Late-Senonian Sea Urchins and Some New Data on Stratigraphy of the Upper Senonian in the South Western Spurs of the Gissar Ridge		
+168989	Castex, L.	1930	Révision des Échinides du Nummulitique du départment des Landes. Actes de la Sociét		
+1	Hayward, P.J.; Ryland, J.S. (Ed.)	1990	The marine fauna of the British Isles and North-West Europe: 1. Introduction and protozoans to arthropods. Clarendon Press: Oxford, UK. ISBN 0-19-857356-1. 627 pp.		
+169530	Strausz, L.	1926	Neuere Daten zur untermediterranen Fauna von Fót. Földtani Közlöny 55, 367-369.		
+190314	Diakonov, A.M.	1923a	Echinodermes (Echinodermata) Volume I, Part I. Echinides (Echinoidea). Faune de la Russie et des Pays Limitrophes, fondée principalement sur les collections du Musée Zoologique de l'Académie des Sciences de Russie, 361 pp.		
+145279	Dafni, J.	1983	A new subspecies of Tripneustes gratilla from the northern Red Sea (Echinodermata: Echinoidea: Toxopneustidae		
+169089	Currie, E. D.	1935	Report on Miocene Echinoids from Cyprus Collected by Dr.F.R.C.Reed. The Annals and		
+176228	Orbigny, A. d'	1853	860). Paléontologie Française. Description zoologique et géologique de tous les Animaux Mollusques et Rayonnés fossiles de la France, comprenant leur application à la reconnaissance des couches. Terrains Crétacés. Tome Sixième, contenant les Échinodermes. Victor Masson, Paris, 596 pp.		
+169066	Cooke, C. W.	1947	A New Jurassic Stromechinus from the Big Horn Basin, Wyoming		
+169968	Lambert, J.	1931	Échinides du Lias du Moyen Atlas Marocain. Protectorat de la République Française au Maroc, Service des Mines et de la Carte Géologique, Notes et Mémoires 17, 5-25.		
+145325	Péquignat, E.	1964	Description d'une espèce nouvelle de grande taille, repérée dans trois localités entre Marseille et Gênes: Echinocardium fenauxi (Péquignat		
+169043	Clark, H. L.	1929	A new Miocene echinoid from California		
+145302	McKnight, D. G.	1974	Some echinoids new to New Zealand waters		
+169020	Checchia-Rispoli, G.	1950	Su alcuni echinidi eocenici della Migiurtinia. Bollettino del R. Ufficio Geologico d'Italia 70 (1946), 21-43.		
+169352	Martin, K.	1919	Unsere paläontologische Kenntnis von Java nebst einleitender Bemerkungen über die Geologie der Insel.Leiden,		
+169561	Villatte, J.	1966	Porpitella paleocaenica nov. sp., échinide nouveau de l'Éocène inférieur de l'Ariège. Bulletin de la Société d'Histoire Naturelle de Toulouse 102, 517-520.		
+169490	Sánchez Roig, M.	1952	Revision de los Clypeasteridos Cubanos. Revista de Agricultura 1952, 118-155.		
+8986	Van Soest, R.W.M.	2002	Family Stylocordylidae Topsent, 1892.		
+169275	Krenkel, H.	1928	Die regulären Echiniden dder pommerschen Kreide. Abhandlungen aus dem Geologisch Palaeontologischen Institut der Universität Greifswald 7, 1-32.		
+162975	Schlüter, N., Kutscher, M., Smith, A. B., Jagt, J. W. M. & Lees, J. A.	2012	Late Cretaceous phymosomatids and the true identity of Cidarites granulosus Goldfuss, 1829 (Echinoidea, Phymosomatoida). Zootaxa 3271, 17–30.		
+169467	Rey, J.	1966	Sur un Echinide nouveau de l'Hauterivien portugais. Holectypus almeidae. Bulletin de la Socieété d'Histoire Naturelle de Toulouse 102, 295-300.		
+169298	Lambert, J.	1932	Sur quelques échinides du Tithonique et de l'Eocrétacé des environs de Cambéry. Bulletin de Socétacé d'Histoire Naturelle de Savoie 22, 250-263.		
+169321	Lambert, J. & Jacquet, F.	1936	Les échinides fossiles du Sénégal. Bulletin de la Société Géologique de France, Série 5 5, 339-361(373).		
+6825	Smith, A. B. (Editor)	2005	The Echinoid Directory. World Wide Web electronic publication.		
+2964	Gosner, K.L.	1971	Guide to identification of marine and estuarine invertebrates: Cape Hatteras to the Bay of Fundy. John Wiley & Sons, Inc. 693 p.		
+149198	McCormack, G.	2007	Cook Islands Biodiversity Database, Version 2007.2. Cook Islands Natural Heritage Trust, Rarotonga.		
+169498	Schaffer, H.	1962	Die Scutelliden des Miozäns von Österreich und Ungarn		
+169012	Checchia-Rispoliiuseppe, G.	1941	Osservazioni su alcuni generi di Antillasterinae. Rendiconti della Accademia Nazionale dei		
+145262	Baker, A. N.	1998	The rediscovery of Echinus elevatus Hutton 1872 in New Zealand, and a new name for Acanthotrema Baker & Rowe 1990 (Echinodermata: Echinoidea		
+149092	Srivastava, D. K.; Mcnamara, K. J.	2011	A reappraisal of the brissid echinoid Schizobrissus insignis (Duncan & Sladen) from the middle Eocene of Kachchh, India		
+169404	Mortensen, T.	1939	Report on the Echinoidea of the Murray Expedition. Part I. Pp. 1-28 in  The John Murray Expedition 1933-34		
+169450	Philip, G. M.	1964	The Tertiary echinoids of south-eastern Australia. II. Cidaridae (2		
+169106	Dehée, R.	1927	La faune marine du terrain houiller inferieur de Merville. Annales de la Société Géologique du Nord 52, 286-295.		
+169258	Koechlin, E.	1947	Demonstration eines neuen Glypticus aus dem Berner Jura. Verhandlungen der Schweizerischen Naturforschenden Gesellschaft 127, 83.		
+169607	Checchia-Rispoli, G.	1907	Gli Echinidi viventi e fossili sella Sicilia. Parte seconda: Gli Echinidi del Piano Siciliano dei ditorni di Palermo		
+6324	Clark, A.M. and J. Courtman-Stock.	1976	The echinoderms of southern Africa. Publ. No. 766. British Museum (Nat. Hist), London. 277 pp.		
+123768			Strandvondsten van Gravelines tot Nieuwpoort. Ecogids Tjiftjaf		
+140241	Agassiz, A.; Clark, H. L.	1907	Preliminary report on the echini collected, in 1902, among the Hawaiian Islands, by the U.S. Fish Comussion steamer "Albatross", in charge of Commander Chauncey Thomas, U.S.N., commanding		
+169553	Venzo, S.	1934	Di alcuni Echinodermi dell'Eocene dell'isola di Rodi. Bollettino della Societ		
+169212	Jeannet, A.	1933	Sur quelques Leiocidaris jurassiques suisse. Mémoires de la Sociét		
+176096	Smith, A. B. & Wright, C. W.	2003	British Cretaceous echinoids. Part 7, Atelostomata, 1. Holasteroida. Monographs of the Palaeontographical Society 156 (619), 440-568.		
+169172	Hassan, M. Y.	1969	Contributions to the Echinoid Fauna of the Maestrichtian-Paleocene Strata of South Western Egypt		
+193835	Ravenel, E.	1845	Description of a new recent species of Scutella		
+168886	Kier, P. M.; Lawson, M. H.	1978	Index of living and fossil echinoids 1924-1970		
+170878	Osborn, A. S.; Ciampaglio, C. N.	2010	A new species of Abertella (Echinoidea, Scutellina) from the Late Miocene (Tortonian) Peace River Formation of		
+169364	Mercier, J.	1935	Note sur quelques échinides jurassiques. Bulletin de la Société Linnéenne de Normandie 8, 27-30.		
+125371	Clark, H. L.	1923	The Echinoderm fauna of South Africa		
+163954	Li, J.; Ó Foighil, D.; Middelfart, P.	2012	The Evolutionary Ecology of Biotic Association in a Megadiverse Bivalve Superfamily: Sponsorship Required for Permanent Residency in Sediment		
+169341	Maczýnska, S. S.	1958	Cenomanian and Turonian Echinoids of Genus Discoidea from the Vicinity of Kraków Miechów and Wolbrom		
+151127	Airaghi, C.	1898	Echinidi del Pliocene Lombardo. Atti della Società Italiana di Scienze naturali e del Museo Civico di Storia naturale in Milano, 37, 357-377.		
+631	Hansson, H.G. (Comp.)	1998	NEAT (North East Atlantic Taxa): Scandinavian Echinodermata Check-List		
+168980	Brotzen, F.	1960	On Tylocidaris species (Echinoidea) and the stratigraphy of the Danian of Sweden, with a bibliography of the Danian and the Paleocene. Sveriges geologiska undersökning		
+169149	Fabre, A.	1933	Note sur les Amphiopes de l'Helvétien du Gers. Extraits des Procés-Verbaux des Séaces de la Sociét		
+169000	Checchia-Rispoli, G.	1930	Su di un echinide tetramero del Cretaceo della Tripolitania		
+169427	Nisiyama, S.	1937	A New species of Sisomondia from the Oligocene of Titi-zima		
+169521	Stearn, C. W.	1956	A new echinoid from the upper Devonian of Alberta		
+169533	Szörényi, E.	1966	Laticlypus giganteus n. gen. n. sp. (Echinoidea) des assises Jurassiques de la Montagne Bakony		
+169129	Durham, J. W.	1954	A New Family of Clypeastroid Echinoids		
+181784	Tate, R.	1891	A bibliography and revised list of the described echinoids of the Australian Eocene, with description of some new species. Transactions of the Royal Society of South Australia 14, 270-282.		
+169192	Ikeda, H.	1939	A New Species of Diadema from Japan. Records od Oceanograpic Works		
+145282	de Ridder, C.	1984	Clypeastéroïdes et spatangoïdes littoraux de Nouvelle-Calédonie (Echinodermata). Bulletin du Muséum national d'Histoire naturelle, 4e série, Section A (Zoologie, Biologie et Écologie animales) 6, 617-624.		
+169086	Currie, E. D.	1927	Jurassic and Eocene echinoids from Somaliland		
+169584	Zullo, V. A.; Kaar, R. F.; Durham, J. W.; Allison, E. C.	1964	The echinoid genus Salenia in		
+168992	Chapman, F.; Cudmore, F. A.	1934	The Cainozoic Cidaridae of Australia		
+169478	Roman, J.; Gonçalves, F.	1965	chinides du Crétacé et du Miocène de Moçambique		
+169435	Nisiyama, S. & Hashimoto, W.	1950	A New Echinarachnius from the Tertiary of Hokkaido. Short Papers of the Institute of Geology and Paleontology, Tohoku University (Sendai) 2, 29-42.		
+2901			North-West Atlantic Ocean species (NWARMS)		
+172630	Borghi, E.	2013	Mazettia (Maretiidae) un caratteristico echinoide del Miocene dell'Emilia-Romagna. Notiziario naturalistico della Societé Reggiana di Scienze Naturali 2013, 9-20.		
+169384	Morishita, A.	1956	On Some Fossil Echinoids from Kyusyu Japan.  Memoirs of the College of Science University of Kyoto B 23, 193-202.		
+169235	Kellum, L. B.	1926	Paleontology and Stratigraphy of the Castle Hayne aand Trent Marls in North Carolina		
+19821	Chiantore, M.; Cattaneo, V. R.; Elia, L.; Guidetti, M.; Antonini, M.	2002	Reproduction and condition of the scallop Adamussium colbecki, the sea-urchin Sterechinus neumayeri  and the sea-star Odontaster validus at Terra Nova Bay (Ross Sea): different strategies related to inter-annual variations in food availability		
+168852	Phelan, T. H.	1972	Comments on the echinoid genus Encope and a new subgenus		
+169516	Solovjev, A. N.; Melikov, O. H.	1963	Turanglaster, a new echinoid genus from the Upper Cretaceous of Turkmenia and Azerbaijan		
+162592	Dafni, J.	2008	Diversity and Recent Changes in the Echinoderm Fauna of the Gulf of Aqaba with emphasis on the Regular Echinoids.		
+169090	Currie, E. D.	1938	Neogene Echinoidea in the second Mc-Kinnon Wood collection. Mon. Geol. Dept. Hunterian Mus. Glasgow Uni. 5, 82-89.		
+169539	Termier, H. & Termier, G.	1950	Paléontologie Marocaine II. Invertébrés de l'Ère Primaire, 4: Annélides, Arthropodes, Echinodermes, Conularides, et Graptolithes. Notes et Mémoires, Protectorat de la République Française au Maroc, Direction de la Productio		
+169562	Villatte, J.	1966	Recherches sur quelques Conoclypus de l'Éocène d'Éspagne. Bulletin de la Société Géologique de France, Série 7 7/6, 866-870.		
+6525	Mortensen, T.	1943b	A Monograph of the Echinoidea. III, 3. Camarodonta. II. Echinidæ, Strongylocentrotidæ, Parasaleniidæ, Echinometridæ, 446 pp., C. A. Reitzel, Copenhagen.		
+169347	Maldonado-Koerdell, M.	1953	Los equinoides regulares de Mesozoico de México. Aales de la Escuela Nacional de Ciencias Biologicas 7 1-4, 15-43.		
+3182	Larrain, A. P.	1986	A new species of subantarctic echinoid (Echinoidea: Schizasteridae). Boletin de la sociedad de Biologia de Concepción 56 (1985), 115-119.		
+168998	Checchia-Rispoli G C Crema V -	1929	Illustrazione degli echinidi cenozoici della Cirenaica raccolti dall'Ing		
+147412			Unterwasser-Welt Ostsee		
+169393	Mortensen, T.	1928	Papers from Dr. Th. Mortensen's Pacific Expedition 1914-16, XLIV. New Cidaridae. Preliminary Notice. Videnskabelige Meddelelser fra Dansk naturhistorisk Forening i København 85, 65-74.		
+146084	Durham, J. W.	1961	The Echinoid Mellita in the Pacific Coast Cenozoic		
+168975	Brighton, A. G.	1926	Eocene Echinoids from N.W		
+169493	Sánchez Roig, M.	1953	Nuevos equinoideos fosiles de Cuba. Anales de la Academia de Ciencias Medicas, Fisicas y Naturales de la Habana 91, 135-176.		
+145566	Lessios, H. A.	2005	Echinoids of the Pacific Waters of Panama: Status of knowledge and new records		
+168952	Basse, E.	1928	Quelques invertébratés crétacés de la Cordillére Andine. Bulletin de la Société Géologique de		
+169370	Mihály, S.	1969	Tortonai Echinoideák a Kerepesi úti csatornázás feltárásából. Földtani Közlöny 99, 253-257.		
+145297	Markov, A. V.	1988	Deep-sea urchins of the genus Salenia (Echinoidea		
+169213	Jeannet, A.	1933	Sur quelques Échinides néocomiens du Vorarlberg. Verhandlungen der Schweizerische Naturforschende Gesellschaft 114, 370-371.		
+169416	Mortensen, T.	1948	New Echinoidea (Cassiduloida, Clypeasteroida). Preliminary notice. Videnskabelige Meddelelser fra Dansk naturhistorisk Forening i København 111, 67-72.		
+6268	Décary, R.	1924	Liste d'echinodermes receuillis a Madagascar. Bulletin de l'academie Malgache nouvelle serie Tome IV38-41		
+169201	Jackson, R. T.	1926	Lepidesthes howsei sp.nov. a Carboniferous Echinoid from Northumberland		
+145263	Baker, A. N.	1968	A New Cidarid Echinoid from Northern New Zealand		
+169462	Regnéll, G.	1955	Catopygus (Echinoidea) als Geschiebe im Quartär Schonens. Skrifter Fran Mineralogisk-och Paleontologisk-Geologiska Institutionerna Lund N:R 24		
+169167	Gardner, J.	1933	The Midway Group of Texas. The University of Texas Bulletin 3301, 1-403.		
+169608	Checchia-Rispoli, G.	1916	Gli Echinidi viventi e fossili della Sicilia. Parte terza. Appendice alle Parti Prima e Seconda		
+169359	Melinossi, R.	1935	Su di um echinide della Patagonia. Atti della Societá Toscana di Scienze		
+181802	Cotteau, G. H.	1869	Échinides nouveaux ou peu connus. Revue et Magasin de Zoologie pure et appliquée, 2ème série 21, 238-248.		
+9419	Müller O.F. 	1776	Zoologiae Danicae Prodromus seu Animalium Daniae et Norvegiae indigenarum characteres, nomina, et synonyma imprimis popularium. 		
+169101	De Gregorio, A.	1930	Sul Permiano di Sicilia. Annales de Géologie et de Paléontologie 52, 1-70.		
+169267	Kongiel, R.	1949	Les Echinocorys du Danien de Danemark de Suède et de Pologne. Travaux du Service Géologique de Pologne 5, 1-89.		
+169244	Kier, P. M.	1958	Permian echinoids from West Texas		
+145340	Zullo, V. A.; Kaar, R. F.; Durham, J. W.; Allison, E. C.	1964	The echinoid genus Salenia in		
+169316	Lambert, J.	1936	Quelques nouveaux Echinides fossiles du Crétacé du Mexique. Bulletin de la Société Géologique de France 5, 3-6.		
+6130	Ludwig, H.	1899	Echinodermen des Sansibargebietes.  Abhandl. d. Senckenb. naturf. Ges., Bonn, Vol. 21(1): 537 - 563.		
+169193	Ikeda, H.	1940	Coptopleura sema, a new genus and new species of the temnopleurid from the Ogasawara Islands (Echinoidea)		
+154045	Deraniyagala, P. E. P.	1956	Some Fossils from the Miocene Amphitheatre at Minihagalkanda Ceylon		
+163840	Serafy, D. K.	1979	Echinoids (Echinodermata: Echinoidea). Memoirs of the Hourglass Cruises (Florida Dept		
+155135	Desor, E.	1842	Monographies d'Échinodermes vivants et fossiles. Échinites. Famille des Clypéastroides. Quatrième monographie. Des Dysaster. Petitpierre, Neuchatel, 29 pp.		
+169293	Lambert, J.	1928	Sur un Échinide nouveau des couches à Stegarter de Gan. Compte Rendu Sommaire des Séance de la Société Géologique de France 1928, 263-265.		
+5987	Vine, P.	1986	Red Sea Invertebrates. Immel Publishing, London. 224 pp.		
+169224	Jeannet, A.	1952	Sur deux Échinides tertiaires de la Nouvelle-Calédonie. Bulletin de la Société Géologique de		
+145320	Mortensen, T.	1950	New Echinoidea (Spatangoida). Preliminary notice. Videnskabelige Meddelelsar Dansk Naturhistoriske Forening i Kjøbenhavn 112, 157-163.		
+145271	Caso, M. E.	1981	Contribución al estudio de los Echinozoa de México. La familia Mellitidae Stefanini. Descripción de una nueva especie del género Mellita. Mellita eduardobarrosoi sp. nov. Anales del Centro de Ciencias del Mar y Limnologia Universidad Nacional Autónoma de México 7 (1980), 141-180.		
+169124	Durham, J. W.	1949	Dendraster elsmerensis Durham, n.sp		
+169001	Checchia-Rispoli, G.	1930	Sul genere "Noetlingaster" Vredenburg. Bollettino del R. Ufficio Geologico d'Italia 55, 1-24.		
+42			ITIS database		
+165194	Stara, P. & Borghi, E.	2012	First fossil record of the genus Faorina (Echinoidea: Pericosmidae). Bollettino della Società Paleontologica Italiana, 51/2, 85-98.		
+162930	Laube, G. C.	1869	Über einige fossile Echiniden von den Murray cliffs in Süd-Australien. Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften, mathematisch-naturwissenschaftliche Classe, Abtheilung I 59, 183-198.		
+169485	Sánchez Roig, M.	1951	Faunula de Equinodermos fosiles del Teriario, del termino municipal de Moron, Provinicia de Camagüey. Memorias de la Sociedad Cubana de Historia Natural "Felipe Poey" 20, 37-64.		
+169144	Engelill, H. H.; Sugaroaf, L.	1961	Some Fossil Clypeastrids (Echinoidea) from Brimstone		
+169473	Roman, J.	1965	Morphologie et évolution des Echinolampas (Échinides, Cassiduloïdes). Mémoires du Muséum National d'Histoire Naturelle, Nouvelle Série, Série		
+169536	Tanaka, K. & Shibata, M.	1961	A new species of Aphelaster from the Lower Cretaceous of Japan. Translation of the Proceedings of the Paleontological Society of Japan, new series 42 , 68-72.		
+8612	Zirpolo, G.	1927	1926]. Di una nuova Silicospugna del Golfo di Napoli (<i>Microcordyla asteriae</i> n.g. n.sp.). Bolletino della Società dei Naturalisti in Napoli (2) 38(18): 287-290.		
+169436	Odum, H.	1926	Studier over Daniet i Jylland og paa Fyn. (Studies on the Cretaceous formation Daninium in Jutland and Funen). Danmarks geologiske Undersogelse 2 , 1-306.		
+169336	MacBride, E. W.; Spencer, W. K.	1938	Two New Echinoidea Aulechinus and Ectinechinus and an Adult Plated Holothurian, Eothuria from the Upper Ordovician of Girvan Scotland		
+169236	Kellum, L. B.	1931	Revision of the Names of Three Fossils from the Castle Hayne and Trent Marls in North Carolina		
+151085	Marcopoulou-Diacantoni, A.	1967	La faune des échinides néogènes des Pays helléniques. Annales Géologiques des Pays Helléniques 18, 331-406.		
+168987	Carter, C. S.	1928	The White Chalk of Lincolnshire. Lincolnshire Naturalists		
+169087	Currie, E. D.	1930	The Echinoidea in the Mc-Kinnon Wood collection. Monographs of the Geological Department of the Hunterian Museum Glasgow University  4, 169-179.		
+169018	Checchia-Rispoli, G.	1947	Sul genere "Brissopatagus" Cotteau. Rendiconti della Accademia Nazionale dei Lincei 8, 516-520 .		
+169350	Marchesini Santos, M. E. C.	1960	Equióides Crácicos do Rio Grande do Norte. Divisäo de Geologia e Mineralogia Boletim 1-26.		
+169256	Kier, P. M.	1968	Echinoids from the Middle Eocene Lake City Formation of Georgia		
+169327	Lambert, J. & Valette, A.	1934	Études sur quelques échinodermes crétacés de Bugarach (Aude). Bulletin de la Société Géologique de France, Série 5 5, 43-60.		
+145277	Chesher, R. H.	1972	A new Paraster (Echinoidea: Spatangoida) from the Carribean (Biological results of the University of Miami deep-sea expeditions. 86		
+145300	Markov, A. V.	1991	The most deep-sea representative of the family Schizasteridae (Echinoidea		
+155450	No	1907	The Danish Ingolf-Expedition		
+169519	Stainbrook, M. A.	1937	New echinoderms from the Devonian Cedar Valley Formation of Iowa		
+145323	Pawson, D. L.	1964	A new cidaroid from New Zealand waters		
+169496	Schaffer, H.	1960	Interessante obereozäne Echinidenarten, aus Bruderndorf (N. Ö.) und Oberitalien. Sitzungsberichte der Österreichischen Akademie der Wissenschaften		
+169465	Reidl, G.	1941	Über eine neue Spatangidenart Plagiobrissus abeli nov. spec. aus dem Torton von Müllendorf (ehem. Burgenland). Berichte der Reichsstelle für Bodenforschung 1941, 24-29.		
+169542	Thirring, J. T.	1936	Paläontologische Neuigkeiten aus dem Bakony Gebirge. Földtani Közlöny 66, 51-68.		
+169605	Pomel, A.	1887	Paléontologie ou description des animaux fossiles de l'Algérie. Zoophytes. 2e fascicule. - Échinodermes. 2e livraison. Adolphe Jourdan, Alger, 344 pp.		
+149044	Mortensen, T.	1905	Some new species of Echinoidea. Videnskabelige Meddelelser fra den naturhistoriske Forening i		
+3279	Casanova J-P,De Jong L, Faure E.	1998	Interrelationships of the two families constituting the Lophogastrida (Crustacea: Mysidacea) inferred from morphological and molecular data. Marine-Biology-Berlin.Aug., 1998; 132 (1) 59-65.		
+6113	Sloan, N.A., A.M. Clark & J.D. Taylor	1979	The Echinoderms of Aldabra and their habitats.  Bull. Br. Mus. Nat. Hist. (Zool.) 37 (2): 81- 128.		
+156383	Kroh, A.; Gholamalian, H.; Mandic, O.; Coric, S.; Harzhauser, M.; Reuter, M.; Piller, W. E.	2011	Echinoids and pectinid bivalves from the Early Miocene Mishan Formation of Iran		
+169402	Mortensen, T.	1937	Some Echinoderm Remains from the Jurassic of Würtemberg. Det Kongelige Danske Videnskabernes Selskabs		
+149090	Saucede, T.; Mironov, A. N.; Mooi, R.; David, B.	2009	The morphology, ontogeny, and inferred behaviour of the deep-sea echinoid Calymne relicta (Holasteroida)		
+169559	Vialov, O. & Manouilenko, O.	1939	Les oursins paléogènes du Fergana. Problems of Paleontology, Publications of the Laboratory of Paleontology (Moscow University) 5, 147-176.		
+169413	Mortensen, T.	1948	Report on the Echinoidea of the Murray Expedition. Part II. Pp. 1-15 in  The John Murray Expedition 1933-34		
+169264	Kongiel, R.	1936	O kilku nowych jezowcach z osadow gornokredowych w okolicach Pulaw. Travaux de la Société des Sciences et des Lettres de Wilno: Classe des Sciences Mathématiques et Naturelles 10, 1-10.		
+169064	Cooke, C. W.	1942	Cenozoic irregular echinoids of the Eastern United States		
+150670	Troschel, F. H.	1851	Ueber die Gattung Tripylus. Archiv für Naturgeschichte 17, 67-74.		
+145260	Baker, A. N.; Rowe, F. W. E.	1990	Atelostomatid sea urchins from Australian and New Zealand waters (Echinoidea		
+177571	Woodward, S.	1833	An Outline of the Geology of Norfolk. John Stacy, Norwich, 54 pp.		
+169456	Poretskaya, E. S.	1968	[A new Callovian Collyrites from central Asia].		
+169433	Nisiyama, S.	1966	The Echinoid Fauna from Japan and adjacent Regions		
+168935	Airaghi, C.	1939	Echinidi Cretacici e Terziari della regione di Orfella e della Sirtica. Annali del Museo Libico di Storia Naturale 1, 253-286.		
+149204	Koehler, R.	1895	Note préliminaire sur les échinides des premières campagnes de la Princesse Alice. Bulletin de la Société Zoologique de France 20, 227-233.		
+154042	Szörényi, E.	1966	Laticlypus giganteus n. gen. n. sp. (Echinoidea) des assises Jurassiques de la Montagne Bakony		
+42913	Coppard, S.E.; Van Noordenburg, H.	2007	A new species of <i>Lissocidaris</i> (Echinodermata: Echinoidea: Cidaridae) from the Philippines: convergent evolution among smooth-spined cidaroids. Zootaxa 1493: 53–65.		
+191677	Mooi, R., Kroh, A. & Srivastava, D. K.	2014	Phylogenetic re-evaluation of fossil and extant micro-echinoids with revision of Tridium, Cyamidia, and Lenicyamidia (Echinoidea: Clypeasteroida)		
+2930	Brunel, P., Bosse, L. & Lamarche, G.	1998	Catalogue of the marine invertebrates of the estuary and Gulf of St. Lawrence. Canadian Special Publication of Fisheries and Aquatic Sciences, 126. 405 p.		
+140239	Döderlein, L.	1885	Seeigel von Japan und den Liu-Kiu Inseln		
+150392	Perrier, E.	1869	Recherche sur les pédicellaires et les ambulacres des astérides et des oursins. Thèses présentées à la Faculté des Sciences de Paris pour obtenir le Grade de Docteur ès Sciences Naturelles  Victor Masson et fils, Paris, 5-188 pp.		
+169339	Maccagno, A. M.	1941	Osservazioni sul genere Somaliaster Haw. Bollettino della Societ		
+181762	Mooi, R.	1989	Living and Fossil Genera of the Clypeasteroida (Echinoidea: Echinodermata): An Illustrated Key and Annotated Checklist. Smithsonian Contributions to Zoology 488, iii+1-51.		
+169104	Dehm, R.	1953	Rhenechinus hopstätteri nov. gen. nov. sp., ein Seeigel aus dem rheinischen Unter-Devon . Notizblatt des Hessischen Landesamtes für Bodenforschung zu Wiesbaden 81, 88-95.		
+151643	Dhora, DH.	2008	Fjalor i emrave të kafshëve të Shqipërisë (Emri shkencor – Shqip – Anglisht) / Dictionary of animal names of Albania (Scientific names – Albanian – English). Camaj – Pipa. Shkodër, Albania.		
+168955	Bather, F. A.; Spencer, W. K.	1934	A New Ordovician Echinoid from Girvan Ayrshire. The Annals and		
+169170	Grant, U. S. I.; Hertlein, L. G.	1956	Schizaster morlini, a New Species of Echinoid from the Pliocene of Imperial County		
+169147	Ernst, G.	1970	Faziesgebundenheit und Ökomorphologie bei irregulären Echiniden der nordwestdeutschen Oberkreide		
+6823	Fischer, P.	1864	Note sur les perforations de l'Echinus lividus (Lamk.). Ann. D. Sci. Nat. 5ième série Zool. Tom. I., 321-332		
+168978	Brito, I. M.	1964	Equinoides cretácios do Estado da Bahia.  Publicação Avulsa, Universidade da Bahia Escola de Geologia 1, 1-10.		
+169319	Lambert, J.	1938	Une neuvelle variéte de l'Heterodiadema libycum Desor, du Cenomanien superieur de Tamaya (Niger). Bulletin de la Société Géologique de		
+3185	Döderlein, L.	1906	Die Echinoiden der Deutschen Tiefsee-Expedition.		
+169296	Lambert, J.	1931	Echinides Crétacés de la région d'Héraclée. Annales de la Société Géologique de Belgique 54 (Mémoires), M1-M12.		
+169084	Currie, E. D.	1924	On fossil Echinoidea from the Aru Islands		
+169582	Zázvorka, V.	1952	Trematopygus nováki sp. n. (Echinoidea) from the Upper Cretaceous of Bohemia. Mémoires de la Société Royal des Lettres et des Sciences de Bohême 11, 1-5.		
+169476	Roman, J. & Debant, P.	1962	Baueria  tessieri nov. sp. (Arbaciidae) Echinide Nouveau du Danien de (Sénégal). Compte Rendu Sommaire des Séances de la Société Géologique de France 8, 245.		
+193578	Klein, J.T.	1734	Naturalis dispositio echinodermatum. Accessit lucubratiuncula de aculeis Echinorum Marinorum, cum spicilegio de belemnitis.		
+169233	Jordan, E. K. & Hertlein, L. G.	1926	Expedition to the revillagigedo Islands, Mexico, in 1925 VII: Contribution to the Geology and Paleontology of the Tertiary of Cedros Island and Adjacent Parts of Lower California. Proceedings of the California Academy		
+145331	Shigei, M.	1975	A new species of a new genus of the arbaciid sea-urchins (Echinoidea: Arbacioida) from the North Pacific, off Hachijo Island		
+169382	Morishita, A.	1953	On Some Neogene Echinoids from Nagano Prefecture, Japan. Memoirs of the College of Science, University of Kyoto B 20, 217-226.		
+169284	Lambert, J.	1924	Sur un échinide nouveau du Rhétien des Préalpes bernoises		
+145303	McNamara, K. J.; Philip, G. M.	1980	Living Australian schizasterid echinoids		
+169445	Petitot, M. L.	1961	Contribution á l'étude des échinides fossiles du Maroc (Jurassique et Crétacé). Notes et Mémoires du Service Géologique (Maroc) 146, 1-183.		
+169422	Mullerried, F. K. G.	1951	Algunos fosiles marinos de Terciario inferior y medio de Palenque, Chiapas. Revista de la Sociedad Mexicana de Historia Natural 12, 209-227.		
+6262	Clark, A.M.	1977	The South African Museum's Meiring Naude cruises, part 4: Echinoderms. Ann. S. Afr. Mus. 73(6):; 133-147.		
+145280	Dartnell, A. J.	1972	A brooding echinoid from Tasmania. Proceedings of the Linnean		
+169207	Jeannet, A.	1928	Sur quelques échinides jurassiques de la Collection Renz. Verhandlungen Schweizerische Naturforschende Gesellschaft 109, 221.		
+3153	Mironov, A. N.	1997	Holasteroid sea urchins. 4		
+169230	Jesionek-Szymańska, W.	1963	Echinides irreguliers du Dogger de Pologne		
+169253	Kier, P. M.	1966	Four new Eocene echinoids from Barbados		
+169376	Mirigliano, G.	1938	Echinolampas delorenzoi. Revista Italiana di Paleontologia 44, 46-50.		
+138974			Davorin Tome		
+169276	Kristan-Tollmann, E.; Tollmann, A.; Geyssant, J.	1969	Zur Schichtfolge und Fossilführung des Zentralalpinen (unterostalpinen) Rhät der Tarntaler Berge in Tirol		
+147487	Bölsche, W.	1865	Zusammenstellung der bis jetzt bekannten Echiniden aus der Gruppe der Diademiden. Archiv für Naturgeschichte 31, 324-336.		
+169299	Lambert J	1933	Échinides de Madagascar communiqués par M H Besairie		
+162732	Lieske, E. & Myers, R.	2010	Korallenriff-Führer Rotes Meer. Franckh-Kosmos Verlag, 383 pp.		
+169568	Warren, P. S.	1926	A marine fauna in the Birch Lake Sandstone, Alberta		
+154073	van der Ham, R. W. J. M., Jagt, J. W. M. & Janssens, H. J.	2011	Leymeriaster campestris, a new early Campanian hemiasterid echinoid from southern Limburg, the Netherlands. Netherlands Journal of Geosciences — Geologie en Mijnbouw 90, 179-185.		
+148320	Cotteau, G. H. & Triger, J.	1857	869. Échinides du département de la Sarthe, considérés au point de vue zoologique et stratigraphique. J.-B. Baillière et Fils, Paris,		
+6308	Clark, A.M.	1974	Notes on some echinoderms from southern Africa. Bulluetin of the British Museum of Natural History (Zoology) 26(6): 423-487, 3 pls, 16 figs, 1 map, 3 tables		
+156372	Özdikmen, H.; Udoh, A. U. 2.	1928	Ekerekeia nom. nov., a replacement name for Farquharsonia Currie, (Echinodermata: Euechinoidea), pPreoccupied by Farquharsonia Collin		
+151463	Kroh, A.	2005	Catalogus Fossilium Austriae. Band 2. Echinoidea neogenica,		
+169107	Deleau, P.	1938	Etude géologique des régions de Jemmapes Hammam Meskoutine et du Col des Oliviers. Bulletin du Service de la Carte Géologique de l'Algérie 2, 1-383.		
+177574	Nietsch, H.	1921	Die irregulären Echiniden der pommerschen Kreide. Abhandlungen aus dem Geologisch Palaeontologischen Institut der		
+129954	Clark, H. L.	1926	Notes on a collection of Echinoderms from the Australian Museum		
+169545	Zammit-Maempel, G.	1969	A new species of Coelopleurus (Echinoidea) from the Miocene of		
+169153	Fell, H. B.	1954	Tertiary and Recent Echinoidea of New Zealand: Cidaridae		
+156134	Koehler, R.	1898	Sur la présence en Mediterranée de l'Asterias rubens et de l'Echinocardium pennatifidum. Zoologischer Anzeiger 21.  		
+169015	Checchia-Rispoli, G.	1943	Osservazioni su alcuni Pseudodiademinae. Atti della Reale Accademia d'Italia, Rendiconti della Classe di Scienze Fisiche, Matematiche e Naturali 7, 317-321.		
+3176	Mortensen, T.	1928b	A Monograph of the Echinoidea. I. Cidaroidea, 551 pp., C. A. Reitzel & Oxford University Press, Copenhagen & London.		
+169453	Pijpers, P.	1933	Geology and Palaeontology of Bonaire (D.W.I.). Geographische en Geologische Mededeelingen 8, 1-103.		
+168961	Besairie, H.	1930	Recherches géologiques à Madagascar. Contribution a I'etude des ressources minerales. Bulletin de la Société d'Histoire Naturelle de Toulouse 60, 345-616.		
+145311	Mironov, A. N.	1976	Deep-sea urchins of the northern Pacific		
+169556	Venzo, S.	1935	I. Fossili del Neogene Veronese, Trentino e Bresciano, II. Cefalopodi, Gasteropodi, Scafopodi, Echinidi e Celenterati. Palaeontographia Italica 35, 201-255.		
+169307	Lambert, J.	1935	Note sur les Echinides jurassiques et les oscillations du détroit poitevin. Bulletin de la Sociéte Géologique de France 5, 523-535.		
+169061	Comaschiaria, C.; I	1956	Il Sottogenere Amphiope in Sardegna. Bolletino della Societ		
+168915	Vaziri, M. R. & Arab, A. L.	2013	Echinoids of the Genus Tetragramma Agassiz (Phymosomatoida) from the Aptian Sediments of the Basab Region, Northwest of Kerman, Iran. Journal of Sciences, Islamic Republic of Iran 24, 149-155.		
+154062	Tommasi, L. R.	1966	Lista dos equinóides recentes do Brasil. Contribuições Avulsas do Instituto Oceanográfico, Universidade de São		
+169161	Gill, W. D.	1953	Facies and Fauna in the Bhadrar Beds of the Punjab Salt Range, Pakistan		
+181765	Wanner, J.	1920	Ueber einige palaozoische Seeigelstacheln (Timorocidaris gen. nov. und Bolboporites Pander		
+145291	Krau, L.	1952	Sobre uma nova espécie de echinoidea Clypeaster oliveirai (ordem Clypeastroida		
+145575	Gray J.E.	1855	An arrangement of the Families of Echinida, with Descriptions of some New Genera and Species. Proceedings of the Zoological Society London 23, 35-39.		
+147567	Philippi, R. A.	1845	Beschreibung einiger neuer Echinodermen nebst kritischen Bemerckungen über einige weniger bekannte Arten. Archiv für Naturgeschichte 11, 344-359.		
+168981	Brown, I. A.	1967	A Devonian Echinoid from Taemas, South of Yass, N.S.W		
+169007	Checchia-Rispoli, G.	1933	llustrazione di alcuni Echinidi del Maestrichtiano della Tripolitania raccolti de Ignazia Sanfilippo		
+145314	Mironov, A. N.	1995	Holasteroid sea urchins. 1. Morphological diversity of Pourtalesia jeffreysi		
+168958	Bernasconi, I.	1954	Notas sobre una nueva especie de equinoideo fósil de Tierra del Fuego		
+141192	Sismonda, E.	1844	Memoria geo-zoologica sugli Echinidi fossili del Contado di Nizza. - Memoria della Reale Accademia della Scienze di Torino, n. ser., 6/2: 341-412.		
+3188	Mortensen, T.	1950	Reports of the BANZAR Antarctic Research Expedition 1929-1931: Echinoidea		
+194451	Kroh, A.	2014	Echinoids from the Chlamys Ledge Member (Polonez Cove Formation, Oligocene) of King George Island, West Antarctica		
+169173	Haughton, S. H.	1924	Notes sur quelques fossiles crétacés de l'Angola (Cephalopodes et Echinides). Comunicaçoes dos Serviços Geológicos de		
+169522	Stefanini, G.	1923	Il reticonei dintorni di Selvena (Siena) e i suoi fossili		
+168205	David, B.; Laurin, B.	1996	Morphometrics and cladistics: measuring phylogeny in the sea urchin Echinocardium		
+181865	Schloenbach, U.	1869	Beitrag zur Altersbestimmung des Grünsandes von Rothenfelde unweit Osnabrück. Neues Jahrbuch für Mineralogie, Geologie und Paläontologie 1869, 808-841		
+169379	Molengraaff, G. J. H.	1929	Beschrijving van den Echiniden uit het Boven Eoceen van Curacao, Pages 72-83 in Geologie en. Geohydrologie van het Eiland Curacao. 25-28.		
+156552	Deecke, W.	1913	Paläontologische Betrachtungen. III. Über Echinoideen. Centralblatt für Mineralogie, Geologie und Paläontologie 1913, 498-507, 526-534.		
+169081	Cottreau, J.	1933	Échinides du Miocène en Anjou. Bulletin de la Société Géologique de France, Série 5 3, 541-553.		
+169181	Hayasaka, I.; Morishita, P.	1947	Fossil Species of Clypeaster from Tokuno-shima		
+168938	Anderson, F. M.	1958	Upper Cretaceous of the Pacific Coast		
+147541	Clark, H. L.	1940	A revision of the keyhole urchins (Mellita		
+169430	Nisiyama, S.	1950	Two New Species of the Toxasteridae from Japan. Short Papers of the Institute of Geology and Paleontology		
+169330	Leonardi, P.; Lovo, M.	1950	Nuove forme di echinodermi della fauna Cassiana di Cortina d'Ampezzo		
+169287	Lambert, J.	1927	Considérations sur les échinides de la Comanche Séries du Texas. Bulletin de la Société Géologique de France 26, 263-278.		
+145334	Shigei, M.	1977	A new species of the aspidodiadematoid sea-urchins, Aspidodiadema intermedium, from the East China Sea, off southern Japan		
+169479	Roman, J. & Gorodiski, A.	1959	Echinides Eocénes du Sénégal. Notes du Service de Géologie et de Prospection Miniére (Dakar) 3, 1-91.		
+6050	Tortonese, E.	1977	Report on Echinoderms from the gulf of Aqaba (Red Sea		
+145283	Dollfus, R.-P. & Roman, J.	1981	Les Échinides de la mer Rouge. Ministère des Universités, Comité des Travaux Historiques et Scientifiques, Mémoires de la Section des Sciences 9, 1-145.		
+169579	Wright, C. W.; Wright, E. V.	1949	The Cretaceous echinoid genera Infulaster Desor and Hagenowia Duncan. The Annals and		
+169611	Bonnet, A.	1926	Documents pour servir à l'étude de la variation chez les Échinides. V. Variations du test chez le Spatangus purpureus. Bulletin de l'Instut océanographique de Monaco 23, 1-27.		
+137975	Stephenson, L. W.	1941	The large invertebrate fossils of the Navarro Group of Texas (exclusive of corals and crustaceans and exclusive of the Escondido Formation		
+169373	Minato, M.	1950	On Some Palaeogene in Hokkaido. The		
+168972	Boni, A.	1939	Fauna anisica pigmea scoperta nelle prealpi bresciane. Bolletino della Societ		
+168995	Checchia-Rispoli, G.	1925	Illustrazione dei Clipeastri miocenici della Calabria seguita da uno studio sulla morfologia interna e sulla classificazione dei Clipeastri. Memorie descrittive della carta geologica d'Italia 9, 1-75.		
+3179	Mortensen, T.	1950	A Monograph of the Echinoidea. V, 1. Spatangoida I. Protosternata, Meridosternata, Amphisternata I. Palæopneustidæ, Palæostomatidæ, Aëropsidæ, Toxasteridæ, Micrasteridæ, Hemiasteridæ, 432 pp., C. A. Reitzel, Copenhagen.		
+1187	Massin, C.; Norro, A.; Mallefet, J.	2002	Biodiversity of a wreck from the Belgian Continental Shelf: monitoring using scientific diving. Preliminary results. Bull. IRSNB (Biologie) 72, pp 67-72.		
+141318	Lamarck, J.B.P.M de	1816	Histoire Naturelle des Animaux sans Vertèbres, [...], Tome Troisième. - 586		
+170183	Bernasconi, I.	1970	Sobre la validez específica de Austrocidaris lorioli (Mortensen		
+169513	Soares, A. F.; Devriès, A.	1967	Un genre nouveau de la famille des Pericosmidae dans le Crétac		
+3133	Koehler, R.	1911	Astéries, Ophiures, et Échinides de l'Expédition Antarctique Anglaise de 1907-1909. British Antarctic Expedition 1907-1909, Reports on the Scientific Investigations 2(Biology)/4, 25-66.  		
+176652	Lovén, S.	1874	Études sur les échinoïdées. Kongelige Svenska Vetenskaps-Akademiens Handlingar 11, 1-91.		
+169396	Mortensen, T.	1932	New Contributions to the Knowledge of the Cidarids I: Notes on Some Recent Cidarids. Det Kkongelige Danske Videnskabernes Selskabs Skrifter, Naturvidenskabelig og Afdeling 9, 145-174 .		
+29127	Fishelson, L.	1971	Ecology and distribution of the benthic fauna in the shallow waters of the Red Sea		
+169356	Maury, C. J.	1930	O cretaceo da Parahyba do Norte. Monographie do Servico Geologico e Mineralogico do		
+169250	Kier, P. M.	1964	Clypeaster romani, New Name for C. crassus Kier 1963 not L		
+169070	Cooke, C. W.	1953	American Upper Cretaceous Echinoidea		
+169058	Maccagno, A. M.	1950	Echinidi giurassici dell'Harar. Bollettino del R. Ufficio Geologico d'Italia 70 (1946),  79-101.		
+140236	Pawson, D. L.	1964	The echinoid genus Caenopedina in New Zealand		
+169118	Devriès, A.	1967	Etudes sur des Echinides fossiles de Turquie. Travaux de l'Institut de Géologie et d'Anthropologie Préhistorique de la Facult		
+169204	Jeannet, A.	1927	Un Paracidaris nouveau du Jura argovien		
+169548	Twenhofel, W. H.	1924	The geology and invertebrate fauna of the Comanchean and "Dakota" Formations of Kansas		
+169164	Gonçalves, F. & Roman, J.	1963	Une sous-espéce nouvelle de Rotula orbiculus Linné dans les formations Plilo-Quaternaires de l'Angola. 9, 99-106.		
+151852	Vadet, A.	2010	Genre Hemidiadema Agassiz in Agassiz & Desor 1846. Hemidadema [sic!] rugosum (Agassiz in Agassiz & Desor 1846.		
+169502	Scott, G.	1926	Études stratigraphiques et paléontologiques sur les terrains crétacés du Texas. Ph.D. thesis, University of Grenoble, Greno218ble, 218 pp.		
+169310	Lambert, J.	1935	Notes sur quelques Echinides fossiles, III: Echinides du Mexique recueillis par M.F. Mullerried. Bulletin de la société Géologique de France 5, 369-374.		
+168964	Besairie, H.	1936	Fossiles du Bathonien supérieur.		
+169505	Serra, G.	1932	Su di una nuova spezies di "Schizaster". Atti della Reale Accademia Nazionale dei Lincei		
+169078	Cotton, B. C.; Godfrey, F. K.	1942	Echinodermata of the Flindersian Region, Southern Australia		
+169576	Wolburg, J.	1933	Das Devon im Gebiet der oberen Lenne. Abhandlungen der Preußischen Geologischen Landesanstalt 151, 1-70.		
+169313	Lambert, J.	1936	Les échinides du Bajocien du Plateau de l'Ankara.		
+162649	Seto, J.; Ma, Y.; Davis, S. A.; Meldrum, F.; Gourrier, A.; Kim, Y.; Schilde, U.; Sztucki, M.; Burghammer, M.; Maltsev, S.; Jager, C.; Colfen, H.	2012	Structure-property relationships of a biological mesocrystal in the adult sea urchin spine		
+145337	Tommasi, L. R.	1958	El genero Astropyga Gray, nuevo para America del Sud		
+168984	Brünnich Nielsen, K.	1926	Kalken paa Saltholm. Danmarks feologiske Undersogelse 4, 1-23.		
+169290	Lambert, J.	1928	Note sur quelques echinides du Crétacé d'Espagne communiqués par M. le Royo y Gómez. Bol. Real soc. Espanola Hist. nat. 28, 147-157.		
+145294	Larrain, A. P.	1975	Los equinoideos regulares fosiles y recíentes de Chile		
+169098	Davies, L. M.	1926	Remarks on the known Indian species of Conoclypeus, with descriptions of the new species from the Eocene of North-West India		
+169027	Chiplonkar, G. W.	1939	Echinoids from the Bagh Beds II. Proceedings of the Indian Academy of Sciences B9, 236-240.		
+169270	Kongiel, R.	1958	Sur les radioles des Echinides des couches á Crania tuberculata Nilss. á Boryszew prés de Sochaczew. Prace Muzeum Ziemi (Instytut Geologiczny Muzeum Ziemi) 2, 3-30.		
+145317	Mironov, A. N.	2008	Pourtalesiid sea urchins (Echinodermata: Echinoidea) of the northern Mid-Atlantic Ridge. Marine Biology Research 4, 3-24.		
+169121	Djakonov, A. M.	1938	The Echinodermata of Siaukhu Bay (Japan Sea). Reports of the Japan Sea Hydrobiological Expedition of the Zoological Institute, Academy of Sciences of the U.S.S.R.  in 1934 425-498.		
+169247	Maury, C. J.	1934	Fossil Invertebrata from Northeastern Brazil		
+126147	Brandt, J. F.	1835	Prodromus descriptionis Animalium ab H. Mertensio in orbis terrarum circumnavigatione observatorum		
+168941	Arnold, B. W.; Clark, H. L.	1934	Some additional fossil Echini from Jamaica. Memoirs of the Museum of Comparative Zoology at		
+149708	Anthula, D. J.	1899	Über die Kreidefossilien des Kaukasus mit einem Überblick über die Entwicklung der Sedimentbildungen des Kaukasus. Beiträge zur Paläontologie und Geologie Österreich-Ungarns und des Orients 12, 53-159.		
+151131	Wanner, J.; Knipscheer, H. C. G.; Schenk, E.	1952	Zur Kenntnis der Trias der Insel Seran (Indonesien		
+3042	Pollock, L.W.	1998	A Practical Guide to the Marine Animals of Northeastern North America.		
+169439	Parnes, A.	1961	On the Occurrence of Pseudopygurus Lambert in Southn Israel. The Bulletin of the Research Council of Israel 10G, 216-222.		
+162586	Fujiwara, T.	1935	On the poisonous pedicellaria of Toxopneustes pileolus (Lamarck		
+169047	Clark, H. L.	1937	A new sea-urchin from the "Oligocene" of Oregon		
+145274	Chesher, R. H.	1968	The systematics of sympatric species in West Indian spatangoids: a revision of the genera Brissopsis		
+169035	Clark, H. L.	1923	The echinoderm fauna of South Africa		
+169141	El-Din Mahmoud, I. G.	1955	Etudes paléontologiques sur la faune Crétacique du Massif du Moghara (Sinä-Egypte). Publications de L'Institut du Desert D'Egytpe, 8, 1-195.		
+169227	Jeannet, A.	1959	Sur quelques Echinides tertiaires de la Trinité. Verhandlungen der Schweizerische Naturforschende Gesellschaft 70, 193-204.		
+181819	Mita, M.; Sato, J.; Hirosawa, Y.; Nakamura, M.	2007	Gonadal maturation is dependent on body size in the sea urchin, Echinometra tsumajiroi		
+169525	Stephenson, D. G.	1968	Some Miocene Cidaridae (Echinoidea) from Kenya		
+169133	Durham, J. W.	1961	Miocene echinoids from the Valle Central, Costa Rica		
+2999	Linkletter, L. E.	1977	A checklist of marine fauna and flora of the Bay of Fundy		
+150939	Mooi, R.	1990	Progenetic miniaturization in the sand dollar Sinaechinocyamus: implications for clypeasteroid phylogeny.		
+165546	Vita Roldán, H.D.	2011	Influencia de un campo magnético débil en el comportamiento de Diadema aff. antillarum (Echinodermata: Echinoidea). Anales Universitarios de Etología, 5, 72-77.		
+169333	Loel, W. & Corey, W. H.	1932	The Vaqueros Formation, Lower Miocene of California, I:Paleontology. University of California Publications, Buletin of the Department of Geological Sciences 22, 31-410.		
+169113	inilvestri, S.; Zuffardiomerci, A. C.; Desio, R.; Cipolla, A.; F; Chiarugi, A.	1926	Resultati Scientifici della Missione alla Oasi di Giarabub		
+176252	Gale, A. S.; Smith, A. B.	1982	The palaeobiology of the Cretaceous irregular echinoids Infulaster and Hagenowia		
+145278	Coppard, S. E.	2008	A comparative analysis of the spatangoid echinoid genera Brissopsis and Metalia: a new genus and species of spatangoid (Echinodermata: Echinoidea: Brissopsidae) from the Philippines and reassignment of Brissopsis persica to Metalia. Zootaxa  1760, 1-23.		
+169328	Laureri, S.	1963	Nuovi Echinidi Elveziani della Media Val D'Enza (Reggio Emilia). Bolletino della Societ		
+169351	Marchesiniantos, S.; C, M. E.; de Souzaunha, C.; L, F.	1959	Söbre Hemiaster jacksoni Maury e outros equinóides do cretácico brasileiro. Divisäo de Geologia e		
+150897	David, B., Choné, T., Mooi, R., & de Ridder, C.	2005	Antarctic Echinoidea.		
+140231	Mortensen, T.	1940	Contributions to the Biology of the Philippine Archipelago and adjacent regions. Report on the Echinoidea collected by the United States fisheries streamer "Albatross" during the Philippine Expedition, 1907-1910		
+169543	Thomas, A. O.	1924	Echinoderms of the Iowa Devonian		
+168856	Deecke, W.	1929	Echinoidea jurassica. Fossilium Catalogus, 1: Animalia 39, W. Junk, Berlin, 1-540 pp.		
+169520	Stchepinsky, V.	1943	Gaziantep Deniz Oligoseni (Cenup Turkie). Maden Tetkik ve Arama Enstit		
+6406	Lambert, J.	1923	Echinides vivants et fossiles recueillis à Madagascar par M. Raymond Decary. Mém. Soc. Acad. Agric. Sci. Dép. Aube 85: 13-55, 1 pl.		
+145309	Mironov, A. N.	1974	New species of the abyssal sea urchins of the genus Echinosigra		
+169451	Philip, G. M.	1965	The Tertiary echinoids of south-eastern Australia. III. Stirodonta, Aulodonta and Camarodonta (1		
+169059	Collignon, M.	1949	Tessieria, nouveau genre d'Echinides du Maastrichtien du Sénégal (Tessieria senegalensis, sp. nov.). Bulletin de la Société Géologique de France, Série 5 5, 263-268.		
+169497	Schaffer, H.	1961	Brissus (Allobrissus) miocaenicus, eine neue Echinidenart aus dem Torton von Mühlendorf (Burgenland). Sitzungsberichte der Österreichischen Akademie der Wissenschaften		
+127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
+169251	Kier, P. M.	1965	Evolutionary trends in Paleozoic echinoids		
+169105	Dehm, R.	1961	Ein zweiter Seeigel, Porechninus nov. gen., nov. spec., aus dem rheinischen Unter-Devon. Mitteilungen der Bayerischen Staatssammlung für Paläontologie und historische Geologie 1, 1-8.		
+169205	Jeannet, A.	1928	Contribution à l'étude des Echinides tertiaires de la Trinité et du Venezuela. Mémoires de la Société Paléontologique Suisse 48, 1-49.		
+156524	Henderson, R. A.; Fell, H. B.	1969	Taimanawa, a new genus of brissid echinoids from the Tertiary and Recent Indo-West Pacific with a review of the related genera Brissopatagus and Gillechinus		
+168967	Beurlen, K.	1934	Monographie der Echinoiden-Familie Collyritidae d'Orbigny		
+169305	Lambert, J.	1932	Étude sur les échinides fossiles du Nord de l'Arfrique. Mémoires de la Société Géologique de France, Nouvelle Serie (Mémoire No. 16) 7/4, 109-228, pls. 5-8.		
+169508	Shibata, M.	1960	Two new species of Kewia from Japan. Transactions and		
+175162	Kroh, A.; Lukeneder, A.; Gallem?, J.	2014	Absurdaster, a new genus of basal atelostomate from the Early Cretaceous of Europe and its phylogenetic position		
+169159	Flandrin, J.	1929	Contribution á Pétude des terrains crétacés de l'Anatolie du Nord (Asie Mineure), III: Paléontologie. Annales de l'Université de Grenoble, Section Science-Médicine (new series) 6, 342-375.		
+154014	Kier, P. M.	1962	Revision of the cassiduloid echinoids		
+169259	Maury, C. J.	1936	O Cretaceo de Sergipe. Monographias do Servico Geoogico e Mineralogico 11, 1-283.		
+169013	Checchia-Rispoli, G.	1942	"Migliorina" nuovo genere di Echinide dell'Eocene della Migiurtina. Rendiconti della  Reale Accademia d'Italia 7, 305-309.		
+169554	Venzo, S.	1933	Di alcuni fossili Oligocenici del Trentino e del Veronese		
+168864	Saucède, T., Dudicourt, J. C. & Courville, P.	2012	Description of two new fossil echinoids (Echinodermata: Echinoidea) from the Early Hauterivian (Early Cretaceous) of the Paris Basin (France). Zootaxa 3512, 75-88.		
+169385	Morishita, A.	1957	On some fossil echinoids of Japan, Brissopsis and Eupatagus. Memoirs of the College of Science, University of tokyo, Series B 24, 161-164.		
+168936	Alberti, A.	1950	Su una nuova specie di "Heteraster". Bollettino del R. Ufficio Geologico d'Italia 70 (1946), 133-136.		
+191558	von Martens, E.	1866	Ueber ostasiatische Echinodermen		
+169079	Cottreau, J.	1935	Quelques échinides fossiles de Madagascar		
+169056	Clegg, E. L. G.	1933	Echinoidea from the Persian Gulf		
+145289	Hoggett, A. K.; Rowe, F. W. E.	1986	South-west Pacific cidarid echinoids (Echinodermata) including two new species		
+177357	Rowden, A. A., Kröger, K. & Clark, M. R.	2012	Biodiversity of macroinvertebrate and fish assemblages of the northwestern Ross Sea shelf. New Zealand Aquatic Environment and Biodiversity Report 101, 1-111.		
+168956	Belanski, C. H.	1928	The Shellrock Stage of the Devonian of Iowa		
+156536	Mooi, R.	1990	Living cassiduloids (Echinodermata: Echinoidea): A key and annotated list		
+169271	Kongiel, R. & Matweijewówna, L.	1937	Materiaux fauniques de la Crai supérieure des environs de Pulawy. Travaux de la Société des Sciences et des Lettres de Wilno 11, 115-148.		
+169036	Clark, H. L.	1925	A Catalogue of the Recent Sea-Urchins (Echinoidea) in the Collection of the British Museum (Natural History). Oxford University Press, London, 250 pp.		
+169285	Lambert, J.	1926	Note sur un Acrocidaris recueilli par le Ct. Caziot au Mont-Boron prés Nice		
+169428	Nisiyama, S.	1940	941. On the Japaese Species of Echinarachnius. Jubilee Publication in the Commemoration of Professor H. Yabe, M.I.A. Sixtieth Birthday 2, 803-862.		
+169440	Paul, C. R. C.	1967	New Ordovician Bothriocidaridae from Girvan and a Reinterpretation of Bothriocidaris Eichwald		
+145275	Chesher, R. H.	1968	Lytechinus williamsi, a new sea urchin from Panama		
+169228	Jeannet, A.; Martin, R.	1937	Ueber Neozoische Echinoidea aus dem Niederlaendisch-Indischen Archipel		
+169093	Daeigaerreira, V. F.; O	1962	Nota sobre a presença do género "Agassizia" no Miocénico do Algarve		
+169179	Hawkins, H. L.	1946	Cravenechinus a New Type of Echinoid from the Carboniferous Limestone		
+127081	Clark, H. L.	1928	The sea-lilies, sea-stars, brittle-stars and sea-urchins of the South Australian Museum		
+169377	Mirigliano, G.	1957	Scutella montagnai n.sp. (Echinoida Clypeastroidea		
+169969	Lambert, J.; Jeannet, A.	1935	Contribution à l'étude des Échinides tertiaires des Iles de las Sonde. Mémoires de la Sociét		
+148329	Pereira, P.	2010	Echinoidea from the Neogene of Portugal Mainland. Palaeontos 18, 1-191.		
+3151	Pawson, D. L.	1968	The Echinozoan fauna of the New Zealand Subantarctic Islands		
+169577	Woodring, W. P.; Stewart, S.; Richards, R. W.	1940	Geology of the Kettleman Hills Oil Field		
+190384	Koehler, R.	1913	Description d'un Echinide nouveau Brissopsis Le Monnieri. Nancy: Berger-Levrault		
+169185	Hertlein, L. G.; Grant U S I Diego; Californiaart 2a, P.; Paleontology	1960	The geology and paleontology of the marine Pliocene of San		
+156693	Mortensen, T.	1941	Echinoderms of Tristan de Cunha.		
+145332	Shigei, M.	1975	A new species of the cidarid sea-urchins (Echinoidea: Cidaroida) from the East China Sea		
+139493	Clark, A. M.	1955	Echinodermata of the Gold Coast		
+168947	Bantz, H. U.	1969	Echiniden aus Plattenkalken der Altmühlalb und ihre Biostratinomie. Erlanger geologische Abhandlungen 78, 1-35.		
+1116	Leewis, R.	2002	Flora en fauna van de zee [Marine flora and fauna]. <i>Veldgids</i>, 16. KNNV Uitgeverij: Utrecht, The Netherlands. ISBN 90-5011-153-X. 320 pp.		
+169563	Vogl, V.	1921	Nouvelles notices sur les échinides éocènes de la Hongrie. Földtani Közlöny 50, 128.		
+168993	Checchia-Rispoli, G.	1921	Fauna del Neocretacici della Tripolitania: Echinidi. Memorie per servire alla Descrizione della Carta Geologica d'Italia 8, 1-31.		
+168970	Blanckenhorn, M.	1925	Die Seeigelfauna der Kreide Palästinas		
+3154	Mironov, A. N.	1995	Holasteroid echinoids. 2. The genus Pourtalesia		
+47665	Caspers, H.	1985	Rupert Riedl (Herausgeber):Fauna und Flora des Mittelmeeres. Ein systematischer Meeresführer für Biologen und Naturfreunde. 3. Auflage.–Mit 3610 Abb., 836 S. Hamburg und Berlin: Verlag Paul Parey 1983. ISBN 3-490-23418-9. DM 148,–		
+169448	Philip, G. M.	1963	The Tertiary echinoids of south-eastern Australia. I. Introduction and Cidaridae (1		
+169371	Miller, A. K.	1928	A New Echinoid from the Sundance d West-Central Wyoming		
+6526	Mortensen, T.	1948d	A Monograph of the Echinoidea. IV, 2. Clypeasteroida. Clypeasteridæ, Arachnoidæ, Fibulariidæ, Laganidæ and Scutellidæ, 471 pp., C. A. Reitzel, Copenhagen.		
+168853	Cutress, B. M.	1976	A new Prionocidaris (Echinodermata: Echinoidea) from the Middle Miocene of Florida		
+169394	Mortensen, T.	1930	Some new Japanese echinoids		
+169202	Jackson, R. T.	1929	Palaeozoic Echini from Belgium. Mémoire du Musée Royal d'Histoire Naturelle de Belgique 38, 1-74.		
+140234	Mortensen, T.	1939	New Echinoida (Aulodonta). Preliminary Notice. - Videnskabelige Meddelelser fra Danks naturhistorisk Forening i København, 103: 547-550.		
+755	Eneman, E.	1984	Uit het Natuurhistorisch Archief [From the Natural History Archive]. <i>De Strandvlo 4(1)</i>: 4-17		
+169500	Schenck, H. G.	1928	A new echinoid from the Californian Eocene		
+169511	Smiser, J. S.	1935	A Revision of the Echinoid Genus Echinocorys in the Senonian of Belgium. Mémoire du Musée Royal d'Histoire Naturelle de Belgique 67, 3-51.		
+145312	Mironov, A. N.	1978	The most deep-sea species of sea urchins		
+169116	Devriès, A.	1956	Note sur une faune échinitique fossile recueillie dans le Sud-Oranais. Publications du Service de la Carte Géologique de l'Algérie (new series) 8, 267-290.		
+169010	Checchia-Rispoli, G.	1940	Su alcuni Clipeastri miocenici della Calabria. Atti Accademia della Scienze Fisiche e		
+169354	Mathieu, G.	1949	Géologie régionale des environs de Matmata Medenine et Foum-Tatahouine. In Contribution á létude des Monts Troglodytes dans l'extréme Sud Tunisien. Annales des Mines et de la Géologie 1, 1-82.		
+151850	Nicolleau, P. & Vadet, A.	2010	Etude sur le genre Jolyclypus: Nucleopygus ou Aulacopygus? Annales de la Société d’Histoire Naturelle du Boulonnais 9/2, 1-16.		
+169162	Gocev, P.	1928	Revision und Ergänzung der alttertiären Fauna von Haskovo, I: Echinoidea		
+169308	Lambert, J.	1935	Sur quelques échinides fossiles de Valence et d'Alicante communiqués par M. le Prof. Darder Pericás. Boletín de la Sociedad Espanola de Historia Naturali 35, 359-371.		
+6271	James, D.B & J.S. Pearse	1969	Echinoderms from the Gulf of Suez and the Northern Red Sea. J. Mar. Biol. Assoc. India 11(1-2): 79-125.		
+145315	Mironov, A. N.	1996	Holasteroid sea urchins: 3. Helgocystis and a new genus Rictocystis		
+169362	Mercier, J.	1931	Notes échinologiques VII: Rhabdocidaris bigoti (Cidaridae, Stereocidaridae Rhabdocidarinae) espéce nouvelle du Bathonien supérieur de la Sarthe		
+169551	Tzankov, V.	1934	chinides fossiles de la Craie supérieur de Bulgarie de Nord. Annuaire del'Universit		
+169053	Clark, H. L.	1945	Echinoidea.		
+145292	Krau, L.	1954	Nova espécie de Ourico do Mar: Cassidulus mitis de Sepetiba		
+169268	Kongiel, R.	1950	O kilku nowych jezowcach z górnego mastrychtu okolic Pulaw		
+169574	Wind, J.	1959	Echinocorys Formerne og deres stratigrafiske Udbredelse i det øverste Kridt i Danmark. Meddelelser fra Dansk Geologisk Forening 14, 122-131.		
+168982	Brunnschweiler, R. O.	1962	On echinoids in the Tertiary of Western Australia with a description of two new Eocene Fibulariidae		
+152717	Vadet, A.	1999	Revision des echinides de Saint Cassian et evolution des echinides post-carboniferes 2. Memoires de la Societe Academique du Boulonnais 20, 61-116.		
+141144	Mortensen, T.	1904	The Danish Expedition to Siam 1899-1900. III. Echinoidea (1). - Kongelige Danske Videnskabelige Selskabs		
+155136	Mamedalizade, A. M.	2011	Paleozoogeographic zonation of the Campanian and Maastrichtian marine basins of the Caucasus and Transcaspian based on marine echinoids		
+163858	Smith, A. B.; Crame, J. A.	2012	Echinoderm faunas from the Lower Cretaceous (Aptian-Albian) of Alexander Island, Antarctica		
+145272	Cherbonnier, G.	1959	Echinides: Expédition Océanographique Belege dans les Eaux Cotiérs Africaines de l'Atlantique Sud. 1948-1949 Institut Royal des Sciences Naturelles de		
+169076	Cooper, G. A.	1931	Lepidechinoides Olsson a genus of Devonian echinoids		
+169002	Checchia-Rispoli, G.	1931	Sopra alcuni spatangoidi del Maestrichtiano della Tripolitania. Bollettino del R. Ufficio Geologico d'Italia 56, 1-14.		
+9234	Degraer S., J. Wittoeck, W. Appeltans, K. Cooreman, T. Deprez, H. Hillewaert, K. Hostens, J. Mees, E. Vanden Berghe & M. Vincx	2006	The macrobenthos atlas of the Belgian part of the North Sea. Belgian Science Policy. D/2005/1191/3. ISBN 90-810081-6-1. 164 pp.		
+51899	Tenison-Woods, J. E.	1883	One a new species of Stomopneustes and a new variety of Hipponoe variegata. Proceedings of the Linnean Society of New South Wales, 7: 93-94.		
+169096	Dartevelle, E.	1953	Echinides fossiles du Congo et de l'Angola. 2e partie. Description systématique des Echinides fossiles du Congo et de l'Angola. Annles du Musée Royal du Congo Belge Tervuren (Belgique), Série in 8°, Sciences Géologiques 13, vii-xi, 1-240.		
+169225	Jeannet, A.	1953	Hessotiara zuberi sp. nov.Echinide nouveau du Jura soleurois. Vierteljahrschrift der Naturforschenden Gesellschaft in Zürich 98, 1 pl.		
+169488	Sánchez Roig, M.	1952	Nuevos generos y especies de equinodermos fosiles Cubanos. Memorias de la Sociedad Cubana Historia Natural "Felipe Poey" 21, 1-30.		
+163082	Zigler, K. S.; Lessios, H. A.	2004	SPECIATION ON THE COASTS OF THE NEW WORLD: PHYLOGEOGRAPHY AND THE EVOLUTION OF BINDIN IN THE SEA URCHIN GENUS LYTECHINUS		
+169523	Stefanini, G.	1928	Echinidi mesozoici del Caracorùm. Spedizione Italiana de		
+169437	Otuka, Y.	1938	Neogene Fossils of the Ihara District, Sizuoka Prefecture, Japan		
+169425	Nestler, H.	1965	Echiniden aus dem Unter-Maastricht der Insel Rügen I: Die Saleniiden		
+163039			Club d'immersió Facultat de Biologia, Universitat de Barcelona		
+169531	Szörényi, E.	1953	Miozäne Echiniden aus den westlichen Teilen der Ukraine		
+169288	Lambert, J.	1927	Revision des Échinides fossiles de la Catalogne. Memorias del Museo de Ciencias Naturales de		
+150204	Lambert, J.	1912	Description des échinides des terrains néogènes du bassin Rhône. fasc.2. Mémoires de la Sociét		
+145335	Shigei, M.	1981	A new species of the spatangoid sea-urchin (Echinoidea; Spatangoida), Lovenia lata, from Sagami Bay		
+169182	Hayasaka, I.; Shibata, M.	1952	A New Tertiary Species of Echinarachnius from Hokkaido		
+169139	Démoly, M.	1928	Note de M.Jules Lambert sur des échinides de la Savoie et de l'Iscre. Bulletin de la Société d'Histoire Naturelle de		
+155265	Smith, A. B. & Kroh, A. (editor)	2011	The Echinoid Directory. World Wide Web electronic publication		
+168990	Castex, L.	1947	Notes sur quelques échinides fossiles du sud-oust de la France. Actes de la Société Linnéenne de Bordeaux 93, 25-42.		
+169331	Linck, O.	1955	Ein bemerkenswerter Seeigel-Rest (Miocidaris pakistanensis n.sp.) aus der Unter-Trias der Salt Range (Pakistan). Neues Jahrbuch für Geologie und Paläontologie, Monatshefte 10		
+169480	Rouchadze, J.	1940	Les Échinides supracrétacés de la Georgie. Bulletin du Musée de Georgie 10, 81-182.		
+168939	Argamakova, V.	1934	Some Echinoidea of the Neogene of Sakhalin		
+151801	Smith, A. B.	2010	Gymnodiadema and the Jurassic roots of the Arbacioida (stirodont echinoids)		
+169065	Cooke, C. W.	1946	Comanche echinoids		
+191641	Lessios, H. A.; Kessing, B. D.; Pearse, J. S.	2001	Population structure and speciation in tropical seas: global phylogeography of the sea urchin Diadema		
+176653	Durkin, M. K.	1980	The Saleniinae in time and space.		
+168996	Checchia-Rispolirema -, G. C. C.	1927	Illustrazione degli echinidi cenozoici della Cirenaica raccolti dall'Ing. Generi Schizaster e Trachyaster		
+145326	Rowe, F. W. E. & Hoggett, A. K.	1986	The cidarid echinoids (Echinodermata) of New South Wales. Proceedings of the Linnean Society of New South Wales 108 (1985), 225-261.		
+6523	Mortensen, T.	1940b	A Monograph of the Echinoidea. III, 1. Aulodonta, with Additions to Vol. II (Lepidocentroida and Stirodonta). 370 pp., C. A. Reitzel, Copenhagen.		
+169019	Checchia-Rispoli, G.	1948	"Salenia Hawkinsi" nuovo echinide del Cenomaniano della Somalia. Rendiconti dell'Accademia Nazionale dei Lincei 8, 169-172.		
+168950	Barbu, V. & Dragos, V.	1957	Noi forme de Scutellina din Eocenul de Nord-Vest al Transilvanici.  Buletin Stiintific, Sectia de Geologie si Geografie 2, 643-655 .		
+169537	Tauber, A. F.	1951	Tripneustes ventricosus austriacus nov. ssp. ein tropischer Seeigel aus dem Torton des Wiener Beckens. Sitzungsberichte der Österreichischen Akademie der		
+169514	Socin, C.	1942	Nota preliminare sulla fauna echinologica dell'Oligo-Miocene Somalo. Atti Reale della Accademia della Scienze di Torino 77, 47-56.		
+168973	Boos, M. F.	1929	Stratigraphy and Fauna of the Luta Limestone (Permian) of Oklahoma and Kansas		
+169491	Sánchez Roig, M.	1953	Algunos Equinoideos fosiles Cubanos. Revista de Agricultura 1953, 53-67.		
+169322	Lambert, J. & Jeannet, A.	1928	Contribution á la conniassance des échinidés tertiaires des Iles de la Sonde (Java Bornéo Soembawa et Timor). Verhandlungen Schweizerische Naturforschende Gesellschaft 109, 219.		
+169591	Chenuil, A. & Féral, J.-P.	2003	Sequences of mitochondrial DNA suggest that Echinocardium cordatum is a complex of several sympatric or hybridizing species: A pilot study.		
+169345	Maillieux, E.	1940	Les échinodermes du Frasnien de la Belgique. Mémoire du Musée Royal d'Histoire Naturelle de Belgique 92,		
+169468	Richards, E. F.	1947	Mesozoic Fossils of the Peruvian Andes, II: Echinoidea Pelecypoda and Gastropoda		
+156384	Jain, R. L.	2002	Echinoids from the Gaj Formation (Early and Middle Miocene) of Kathiawar, Gujarat, India. Journal of the Palaeontological Society of India 47, 107-135.		
+169119	Devriès, A.	1966	Note sur une nouvelle espèce de la famielle des Galéropygides, suivie de quelques considérations stratigraphiques sur le gisement qui l'a fournie par G. Alaydé. Travaux de l'Institut de Géologie et d'Anthropologie Préhistorique de la Faculté des Sciences de Poitiers 7, 19-30.		
+169606	Néraudeau, D.; Borghi, E.; Roman, J.	1998	Le genre d'échinide Spatangus dans les localités du Pliocène et du Pléistocénee d'Émilie (Italie du Nord		
+163108	Pierrat, B.; Sauc?de, T.; Festeau, A.; David, B.	2012	Antarctic, Sub-Antarctic and cold temperate echinoid database		
+169165	Gordon, W. A.	1963	Middle Tertiary echinoids of Puerto Rico		
+176089	Smith, A. B.; Simmons, M. D.; Racey, A.	1990	Cenomanian echinoids, larger foraminifera and calcareous algae from the Natih Formation, central Oman Mountains		
+149199			CalPhotos: A database of photos of plants, animals, habitats and other natural history subjects [web application]. BSCIT, University of California, Berkeley.		
+165515	Kroh, A.; Mooi, R.; Del Río, C.; Neumann, C.	2013	A new late Cenozoic species of <i>Abertella</i> (Echinoidea: Clypeasteroida) from Patagonia		
+169560	Vidal, D. L. M.	1921	Contribución a la paleontologia del cretácico de Cataluña. Memorias de la Reale Academia de Ciencias y Artes de		
+169460	Ravn, J. P. J.	1927	De Irregulære Echinider i Danmarks Kridtaflejringer. Det Kongelige Danske Videnskabernes Selskabs Skrifter, naturvidenskabelig og mathematisk		
+140237	Anderson, O. F.	2009	The giant purple pedinida new species of Caenopedina (Echinodermata: Echinoidea: Pedinidae) from New Zealand and Australia		
+169211	Jeannet, A.	1933	Note un Miocidaris nouveau. Pp. 1-7 in Pezer, B.  Die Triasfauna der Tessiner Kalkalpen		
+169311	Lambert, J.	1935	Echinides créacés des princes de Burgos, Palencia et Leon communiques par M. Raymond Ciry, II: Sur queslques Echinides crétacés d'Espagne comuniques par M. le Prof. Royo y Gómez. Boletin de la Sociedad Espanola de Historia Natural  35,		
+181800	Lambert, J.	1920	Note sur quelques Echinides du Crétacé inférieur de la Provence		
+169291	Lambert, J.	1928	Révision des échinids fossiles du Bordelais, III: Echinides du Miocéne. Actes de la Société Linnéenne de Bordeaux 79, 71-132.		
+155133	Holmes, F. C.	2011	A new species of Peribrissus (Echinoidea, Spatangoida) from the middle Miocene of South Australia. Memoirs of the Museum Victoria 68, 29–35.		
+152714	Manso, C. L. d. C. & Souza-Lima, W.	2011	New genus and new species of echinoid (Echinodermata, Orthopsidae) from the Albian (Lower Cretaceous) of Sergipe-Alagoas Basin, Brazil. Arquivos do Museu Nacional 68, 41-46.		
+9214	Southward, E.C.; Campbell, A.C.	2006	[Echinoderms: keys and notes for the identification of British species]. <i>Synopses of the British fauna (new series)</i>, 56. Field Studies Council: Shrewsbury, UK. ISBN 1-85153-269-2. 272 pp.		
+169457	Poretskaya, E. S.	1968	Polyplacidia artenica-a New Genus ans species of Sea Urchin from South Western Armenia.Ezhegodnik		
+83	Holtmann, S.E.; Groenewold, A.; Schrader, K.H.M.; Asjes, J.; Craeymeersch, J.A.; Duineveld, G.C.A.; van Bostelen, A.J.; van der Meer, J.	1996	Atlas of the zoobenthos of the Dutch continental shelf. Ministry of Transport, Public Works and Water Management: Rijswijk, The Netherlands. ISBN 90-369-4301-9. 243 pp.		
+169434	Nisiyama, S.	1968	The echinoid fauna from Japan and adjacent regions		
+169242	Kier, P. M.	1957	Tertiary Echinoidea from British Somaliland		
+166351	Smith, A.B. & Wright, C.W.	2012	British Cretaceous echinoids. Part 9, Atelostomata, 2. Spatangoida (2). Monographs of the Palaeontographical Society, 166/639, 635-754.		
+169314	Lambert, J.	1936	Nouveaux échinides fossiles de Madagascar. Annales Géologiques du Service des		
+145338	Wang, C.	1984	New classification of clypeasteroid echinoids		
+169265	Kongiel, R.	1936	Sur  quelques Echinides de la Craie supérieure de Kasne Siolo prés Wolkowysk. Travaux de la Société des Sciences et des Lettres de Wilno 10, 1-12.		
+169122	Dollfus, R. P.	1946	Sur un Pseudechinus récolté par Charles Vélain a l'fle Saint-Paul: Observations morphologiques et biogéographiques. Mémoires du Muséum National d'Histoire Naturelle (new series) 22, 159-178.		
+149225	McNamara, K. J.	1982	A new species of the echinoid Rhynobrissus (Spatangoida: Brissidae) from North-West Australia		
+145318	Mooi, R.	1990	A New "Living Fossil" Echinoid (Echinodermata) and the Ecology and Palaeobiology of Caribbean Cassiduloids		
+169365	Mercier, J.	1937	Deux genres nouveaux d'échinides du Lias. Bulletin de la Société Géologique de France, Série 5 5, 419-442.		
+169199	Israelsky, M. C.	1933	A New Species of Echionid from Tamaulipas Mexico		
+169342	Maczýnska, S. S.	1962	On Echinoids of the Genus Pyrina from the Cenomanian in the Vicinity of Kralów Miechów abd Wolbrom. Prace Muzeum Ziemi (Polska Akademia Nauk Muzeum Ziemi (Polska Akademia Nauk Muzeum Ziemi) 5, 149-186.		
+169073	Cooke, C. W.	1957	Geology of Saipan Mariana Islands, Part 3: Paleontology Chapter J.Echinoids		
+145269	Budin, I. N.	1980	A new genus of sand dollars of the family Fibulariidae (Echinoidea		
+145295	Liao, Y.	1979	A new genus of clypeasteroid sea-urchin from Huang Hai. Oceanologia et Limnologia Sinica 10, 67-72.		
+169222	Jeannet, A.	1936	Sur un Diplocidaris marocain: Diplocidaris mauritanicus nov. sp		
+169099	Davies, L. M.	1943	Tertiary Echinoidea of the Kohat-Potwar Basin. Quarterly		
+182269	Zirpolo, G.	1929	Note morphologiche e sistematiche su Microcordyla Asteriae Zirpulo		
+169534	Tanaka, K.	1965	Cretaceous echinoids from the Sanchu Graben, Central Japan. Transactions and		
+169391	Mortensen, T.	1927	Contributions to the Biology of the Philippine Archipelago and adjacent regions. Report on the Echinoidea collected by the United States fisheries streamer "Albatross" during the Philippine Expedition, 1907-1910		
+153290	Hart, M. W., Jeffrey, C. H. & Emlet, R. B.	2011	Molecular phylogeny of echinometrid sea urchins: more species of Heliocidaris with derived modes of reproduction. Invertebrate Biology 130, 175-185.		
+162587	Mortensen, T.	1903	The Danish Ingolf-Expedition 1895-1896. Vol. 4, No. 2. Echinoidea, pt. 1. Bianco Luno, Copenhagen, 198 pp.		
+169571	Weber, G.	1934	chinoidea du Jurassique et du Crétacé de Crimée I. Transactions of the United Geological and Prospecting		
+181820	McClanahan, T. R. & Muthiga, N. A.	2013	Echinometra.		
+169583	Zoeke, M. E.	1952	Heterosalenia alloiteaui nov. sp. du Jurassique moyen du Liban Nord et un cas de croissance excessive de plaques arrêtant le développement des zones ambulacraires. Bulletin de la Société Géologique de France, Série 6 2, 249-252.		
+169142	Elouard, P. & Roman, J.	1966	Présence du genre Gagaria (Echinide régulier Temnopleuridé) dans l'Eocéne moyen da la vallée du Sénégal. Bulletin de la Société Géologique de France, Série 7 8, 839-844.		
+169085	Currie, E. D.	1925	The collection of fossils and rocks from Somaliland. Pt. 5. Jurassic and Eocene Echinoidea		
+169334	Lörcher, E.	1930	Neue Seeigelfunde aus dem Jura Württembergs. Neues Jahrbuch für Mineralogie, Geologie und Paläontologie 64, 255-270.		
+149709	Smith, A. B. & Jeffery, C. H.	2000	Maastrichtian and Palaeocene echinoids: a key to world faunas. Special Papers in Palaeontology 63, 1-406.		
+169279	Kutassy, E.	1928	A Borsodmegyei Királd Barnaszénmedencéje. Földtani Szemle 1, 1-20 .		
+146085	Clark, H. L.	1947	A new and remarkable keyhole urchin Mellita notabilis n. sp		
+169231	Jesionek-Szymańskaevada, W. N.; A, U. S.	1970	On a new pygasterid (Echinoidea) from the Jurassic (Middle Lias) of		
+169325	Lambert, J. & Sánchez Roig, M.	1934	Nueva especie fosil del genero "Clypeaster". Revista de Agriculture Comercio y Trabajo 14, 22-24.		
+169302	Lambert, J.	1933	Supplément á la Revision des Echinides fossiles de la Catalogne. Butll. Instit. Catalana Hist. nat.  33,		
+169348	Mansfield, W. C.	1932	Pliocene Fossils from Limestone in Southern Florida		
+169471	Roché, P.	1939	Aalénien et Bajocien du Maconnais et de quelques régions voisines. Travaux du Laboratoire de Géologie de la Faculte des Sciences de Lyon 35, 1-355.		
+168999	Checchia-Rispoli, G.	1929	Nuove osservazioni sulla struttura interna dei Clipeastri. Palaeontographia Italica 29-30,  25-30.		
+128867	Lindley, I. D.	2004	Some living and fossil echinoderms from the Bismark Archipelago, Papua New Guinea and two new echinoid species. Proceedings of the Linnean Society of New South Wales 125, 115-139.		
+169494	Sapoundjieva, V.	1964	Les Fossiles de Bulgarie. VIb. Paléogène Echinoidea. Académie des Sciences de Bulgarie, Sofia, 1-64 pp.		
+177460	Agassiz, L.	1840	Catalogus systematicus ectyporum echinodermatum fossilium Musei Neocomensis : secundum ordinem zoologicum dispositus : adjectis synonymis recentioribus, nec non stratis et locis in quibus reperiuntur : sequuntur characteres diagnostici generum novorum vel minus cognitorum / auctore, L. Agassiz		
+169517	Somos, L. & Kókay, J.	1960	Földtani megfigyélesek a Mecsekhegységi Liásban és Miocénben. Földtani Közlöny 90, 331-347.		
+168976	Brighton, A. G.	1926	A New Miocene Echinoid from N.W		
+168953	Bather, F. A.	1929	XXX. Triassic Echinoderms of Timor. Paläontologie von Timor nebst kleineren Beiträgen zur Paläontologie einiger anderen Inseln des ostindischen Archipels. 16, 215-272.		
+169262	Koehler, R.	1927	Echinides du Musée Indien á Calcutta, III: Echinides réguliers		
+169557	Via, L.; Padreny, J.	1970	Dos nuevas especies de Clypeaster del Eoceno de Cataluña. Instituto de Investigaciones Geológicas de la		
+145298	Markov, A. V.	1988	Sea urchins of the family Saleniidae: composition and distribution		
+168824	Orbigny, A.d.	1853	860. Terrains Crétacés. Tome Sixième, contenant les Échinodermes. Paléontologie Française. Description zoologique et géologique de tous les Animaux Mollusques et Rayonnés fossiles de la France, comprenant leur application à la reconnaissance des couches,		
+169168	Grant, U. S. I.; Hertlein, L. G.	1938	The West American Cenozoic Echinoidea. Publications of the University of California at		
+169156	Fell, H. B.	1963	New Genera of Tertiary Echinoids from Victoria, Australia		
+194446	Mooi, R., Hilton, R. P.	2014	First record and phylogenetic significance of a Jurassic diadematacean sea urchin from California		
+145306	Mironov, A. N.; Sagaidachny, A. Y.	1984	Morphology and distribution of the recent echinoids of the genus Echinocyamus (Echinoidea: Fibulariidae		
+169454	Pinar, N.	1951	Sur les oursins de l'Éocène moyen de Çalalca-Karacaköy (Trakkya, Turquie). Bulletin de la Société Géologique de		
+169016	Checchia-Rispoli, G.	1945	Di due nuovi generi di Echinidi del Cretaceo della Somalia. Bollettino del R. Ufficio Geologico d'Italia 68 (1943), 81-90.		
+169408	Mortensen, T.	1940	Echinoderms from the Iranian Gulf: Asteroidea Ophiuroidea and Echinoidea		
+2928	Bromley, J. E. C.; Bleakney, J. S.	1984	Keys to the fauna and flora of Minas Basin		
+169062	Cooke, C. W.	1941	Cenozoic regular echinoids of eastern United States		
+177354	Agassiz, A.; Clarkamchatka, H. L. K.; Saghalinorea, K.; Japan by U S Fish L M Garrett; commanding, U. S. N.	1907	Preliminary report on the Echini collected in 1906, from May to December, among the Aleutian Islands, in Bering Sea, and along the coasts of Commission steamer "Albatross", in charge of Lieut.-Commander		
+169125	Durham, J. W.	1950	E.W. Scripps Cruise to the Gulf of  California, Part 2: Megascopic Paleontology and Marine Stratigraphy		
+169196	Imbesimedile, S.; M	1958	Clipeastri Aquitanian, Elveziani e Tortoniani della Calabria		
+169102	De Gregorio, A.	1930	Fossili triassici delle Cave di Billiemi presso Palermo. Annales de Géologie et de Paléontologie 54, 1-40.		
+145266	Baranova, Z. I.	1957	Echinoderms of the Bering Sea		
+168933	Adkins, W. S.	1930	Texas Comanchean echinoids of the genus Macraster		
+155130	Agassiz, L. & Desor, P. J. E.	1847	Catalogue raisonné des espèces, des genres, et des familles d'échinides. Annales des Sciences Naturelles, Troisième Série, Zoologie 8, 5-35, 355-380.		
+175170	Ooster, W. A.	1865	Pétrifications remarquables des Alpes Suisses. Synopsis des Échinodermes fossiles des Alpes Suisses		
+1368	Hansson, H.G.	2001	Echinodermata, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+145341	Durham, J. W.	1955	Classification of clypeasteroid echinoids		
+169145	Engel, H.	1964	On Two New Species of Holectypus Desor from the Senonian of South-Limburg near		
+169176	Hawkins, H. L.	1926	On a New Species of Phyllobrissus from a Deep Boring at Vorginia Water, Surrey. Summary of Progess of the Geological Survey of Great Britain and the Museum of Practical Geology for the Year 1925 Appendix 7, 1889-191.		
+5916	Clark, A.M. and F.W.E. Rowe.	1971	Monograph of Shallow-water Indo-West Pacific Echinoderms. Trustees of the British Museum (Natural History): London. x + 238 p. + 30 pls.		
+149010	Landry, C., Geyer, L. B., Arakaki, Y., Uehara, T. & Palumbi, S. R.	2003	Recent speciation in the Indo-West Pacific: rapid evolution of gamete recognition and sperm morphology in cryptic species of sea urchin. Proceedings of the Royal Society Biological Sciences Series B 270, 1839-1847.		
+145286	Fell, F. J.	1975	The echinoid genus Centrostephanus in the South Pacific Ocean with a description of a new species		
+8	Linnaeus, C.	1758	Systema Naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Editio decima, reformata. Laurentius Salvius: Holmiae. ii, 824 pp.		
+169082	Crespin, I.	1944	The Occurrence of the Genus Conoclypus in the North-West Division, Western Australia		
+169239	Kier, P. M.	1954	A New Palaeechinus from Alberta		
+181831	Behrens, G.	1878	Ueber die Kreideablagerungen auf der Insel Wollin. Zeitschrift der Deutschen Geologischen Gesellschaft 30, 229-267.		
+177452	Hallr, C. A. J.	1962	Evolution of the echinoid genus Astrodapsis		
+169282	Lambert, J.	1924	Note sur les Echinides de la collection Ambayrac		
+149065	Shmidt, O. I.	1975	On the new subgenus of the family Eoscutellidae Durham in the Paleogene of Kamchatka (Yuzhno Sakhalinsk		
+145329	Serafy, D. K.	1974	A new heart-urchin, Araeolampas atlantica, new genus, new species, from the North Atlantic and notes on the closely related Homolampas		
+169580	Yakovlev, N.	1939	Echinodermata.		
+4179	Clarke, A.; Johnston, N.M	2003	Antarctic marine benthic diversity		
+169431	Nisiyama, S.	1950	Fossil Echinoidea from the Miyako Cretaceous. Short Papers of the Institute of Geology and Paleontology Tohoku University (Sendai) 2, 29-38.		

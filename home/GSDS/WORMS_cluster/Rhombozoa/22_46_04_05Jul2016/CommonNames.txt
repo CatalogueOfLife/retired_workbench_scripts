@@ -1,0 +1,5 @@
+AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
+265668	Togari-nihaityu				Japanese	170282	
+265682	Konbou-nihaityu				Japanese	170282	
+265691	Yamato-nihaityu				Japanese	170282	
+265695	Misaki-nihaityu				Japanese	170282	

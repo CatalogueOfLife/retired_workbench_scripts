@@ -1,0 +1,1343 @@
+﻿ID	AcceptedTaxonID	Genus	SubgenusName	SpeciesEpithet	AuthorString	InfraSpecies	InfraSpeciesMarker	InfraSpeciesAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUID
+154557	1182229	Labidura		electrina	Cockerell, 1920				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:4
+180054	1182169	Diplatys		palawanensis	Srivastava, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180053
+180057	1180162	Forficula		modesta	Stal, 1860				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180057
+180058	1180162	Pygidicrana		modesta	(Stal, 1860)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180057
+180059	1180162	Labia		modesta	(Stal, 1860)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180057
+180060	1180162	Anechura		modesta	(Stal, 1860)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180057
+180061	1180162	Anisolabis		modesta	(Stal, 1860)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180057
+180065	1179578	Psalis		croceipes	Moreira, 1930				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180064
+180069	1179860	Forficula		ares	Burr, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180068
+180072	1179892	Lobophora		nigronitens	Stal, 1860				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180072
+180923	1179780	Haplodiplatys	Haplodiplatys	signatus	Bey-Bienko, 1970				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466438
+180928	1180412	Dicrana		herberti	Machado, 1957				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180927
+180931	1180578	Stenixus		rhachynotus	Hebard, 1933				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180930
+180933	1180856	Forficesila		mauritanica	Lucas, H, 1849				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180932
+180935	1181990	Spongiphora		lewisi	de Bormans, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180934
+180936	1180569	Haplodiplatys	Haplodiplatys	wallacei	Bey-Bienko, 1959				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466430
+180952	1180319	Diplatys		stemmleri	Brindle, 1975				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466434
+180956	1181393	Diplatys		rileyi	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466408
+180960	1179521	Forficula		aculeata	Scudder, 1876				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180959
+180962	1180618	Parasparatta		picadoi	Borelli, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180961
+180965	1180275	Diplatys		kivuensis	Hincks, 1951				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466435
+180970	1180669	Opisthocosmia		neolobophoroides	Burr, 1901				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180969
+180978	1179442	Timomenus		elongatus	Srivastava, 1976				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180977
+180982	1182184	Timomenus		nathani	Srivastava, 1969				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180981
+180988	1181198	Diplatys		siva	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466426
+180991	1180334	Parasparatta		spiculifera	Brindle, 1977				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180990
+180993	1181998	Dicrana		burri	Hincks, 1939				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180993
+180994	1179759	Anisolabis		tripolitana	Werner, F, 1908				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180994
+180997	1179479	Forficula		vigilans	Stal, 1855				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180996
+180998	1180793	Haplodiplatys	Haplodiplatys	rufescens	(Kirby, WF, 1896)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466380
+180999	1180793	Cylindrogaster		rufescens	Kirby, WF, 1896				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466380
+181002	1181377	Forficula		hincksi	Burr, 1947				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181001
+181004	1180655	Chelidura		peringueyi	Burr, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181003
+181007	1180723	Mesochelidura		promontorii	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181006
+181009	1181584	Diplatys		simlaensis	Kapoor, 1968				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466420
+181013	1179617	Parasparatta		rehni	Hebard, 1929				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181012
+181016	1179759	Forficula		equestris	Géné, 1837				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181016
+181023	1179759	Anisolabis		bormansi	Scudder, 1893				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181023
+181024	1179759	Diplatys	Diplatys	bormansi	(Scudder, 1893)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181023
+181025	1179759	Chaetospania		bormansi	(Scudder, 1893)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181023
+181026	1179759	Paratitanolabis		bormansi	(Scudder, 1893)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181023
+181027	1179759	Titanolabis		bormansi	(Scudder, 1893)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181023
+181032	1181399	Diplatys		chinensis	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466422
+181036	1181378	Forficula		rehni	Burr, 1952				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181035
+181042	1179370	Diplatys		srivastavai	Kapoor, 1974				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466442
+181051	1179918	Forficula		longipes	Haan, 1842				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181050
+181053	1180361	Anisolabis		nepalensis	Brindle, 1974				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181052
+181056	1179541	Prolabia		calverti	Rehn, JAG, 1921				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181055
+181058	1181001	Labia		championi	de Bormans, 1893				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181057
+181062	1181013	Forficula		nigerrima	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181061
+181064	1180012	Anechura		calciatii	Borelli, 1909				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181063
+181068	1181409	Diplatys		reconditus	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181067
+181072	1179538	Paracosmia		carrikeri	Rehn, JAG, 1921				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181071
+181073	1179843	Forficula		dichroa	Stal, 1860				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181073
+181075	1181443	Labidura		femoralis	Dohrn, 1863				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181075
+181077	1180435	Prolabia		dominicae	Rehn, JAG & Hebard, 1917				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181076
+181080	1179524	Forficula		tolteca	Scudder, 1876				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181079
+181084	1180676	Labia		equatoria	Burr, 1899				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181083
+181086	1179878	Labia		feae	Dubrony, 1879				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181085
+181088	1180439	Labia		flaviscuta	Rehn, JAG, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181087
+181090	1180683	Labia		dolicha	Burr, 1897				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181089
+181094	1180576	Sparatta		gardineri	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181093
+181098	1179777	Labia		grandis	Dubrony, 1879				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181098
+181105	1179914	Forficula		sumatranum	Haan, 1842				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181104
+181107	1180870	Microvostox		lucidus	Brindle, 1968				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181106
+181111	1182113	Forficula		sinuata	Lafresnaye, 1828				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181110
+181114	1179964	Labia		mexicana	de Bormans, 1883				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181113
+181116	1179689	Labia		modesta	Brunner, L, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181115
+181118	1179612	Vostox		moreirai	Menozzi, 1932				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181117
+181122	1181172	Labia		paradoxa	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181121
+181124	1181971	Labia		paraguayensis	Caudell, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181123
+181126	1179727	Diplatys		olsufiewi	Borelli, 1932				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466440
+181132	1181531	Forficula		triangulata	Hincks, 1950				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181131
+181135	1181391	Diplatys		tonkinensis	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466381
+181137	1180216	Forficula		capeneri	Hincks, 1957				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181136
+181139	1181400	Diplatys		bidentatus	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466378
+181142	1179926	Forficula		gigantea		japonica	morph	Haan, 1842	Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181141
+181146	1179504	Diplatys		fengyangensis	Wenbao, 1985				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466441
+181148	1181398	Diplatys		flavens	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466423
+181151	1179406	Anisolabis		pervicina	Burr, 1913				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181150
+181155	1180175	Opisthocosmia		flavocapitata	Shiraki, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181154
+181157	1181951	Forficula		afra	Palisot de Beauvois, 1805				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466234
+181158	1180119	Forficula		yersini	Brisout de Barneville, 1856				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181158
+181159	1179964	Prolabia		mexicana		longipennis	morph	Borelli, 1915	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181159
+181160	1181095	Nesogaster		cristata	Brindle, 1976				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181160
+181161	1181095	Forficula		cristata	(Brindle, 1976)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181160
+181164	1181950	Forficula		unidentata	Palisot de Beauvois, 1805				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181163
+181169	1182214	Labiduromma		commixtum	Scudder, 1890				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466393
+181173	1181413	Forcinella		azteca	Dohrn, 1862				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181172
+181177	1180761	Sphingolabis		perplexa	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181176
+181179	1179759	Forficula		variicornis	Smidt, 1876				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181179
+181180	1180117	Forficesila		taurica	Motschulsky, 1846				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181180
+181187	1180463	Brachylabis		scotti	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181186
+181189	1179548	Forficula		spectabilis	Philippi, 1863				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181188
+181191	1180684	Chelisoches		punctulatus	Burr, 1897				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181190
+181192	1180970	Dendroiketes		similis	Ramamurthi, 1967				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181192
+181197	1180784	Pygidicrana		frontalis	Kirby, WF, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181197
+181200	1181335	Spongovostox		parvus	Burr, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181199
+181202	1182041	Forficula		pulchella	Audinet-Serville, 1838				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181201
+181206	1181000	Spongophora		rogersi	de Bormans, 1893				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181205
+181209	1179526	Labia		rotundata	Scudder, 1876				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181208
+181211	1179864	Labia		severini	Burr, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181210
+181214	1179801	Labia		silvestrii	Borelli, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181213
+181217	1180869	Larex		surinamensis	Brindle, 1968				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181216
+181220	1180766	Labia		tricolor	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181219
+181222	1179653	Prolabia		triquetra	Hebard, 1917				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181221
+181223	1181950	Forficula		minuscula	Latreille, 1817				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181223
+181224	1181950	Labia		guttata	Scudder, 1876				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181225
+181230	1179511	Labia		arcuata	Scudder, 1876				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181229
+181232	1179511	Labia		nodifer	Hebard, 1917				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181232
+181237	1179812	Labia		conspicua	Borelli, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181236
+181238	1179812	Labia		nodulosa	Brindle, 1973				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181238
+181239	1180430	Labia		rechingeri	Holdhaus, 1908				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181239
+181240	1180430	Labia		flavicollis	de Bormans, 1903				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181240
+181246	1181442	Anisolabis		pallipes	Shiraki, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181246
+181249	1179759	Anisolabis		fallax	Bey-Bienko, 1959				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181249
+181254	1180330	Brachylabis		seychellensis	Brindle, 1976				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181253
+181256	1179975	Ancistrogaster		aterrima	de Bormans, 1883				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181255
+181259	1182078	Anechura		elongata	de Bormans, 1888				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181258
+181262	1179915	Forficula		chartecea	Haan, 1842				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181261
+181263	1179915	Forficula		chartacea	Haan, 1842				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181263
+181267	1181985	Anisolabis		incerta	de Bormans, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181266
+181282	1179821	Gonolabis		camposi	Borelli, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181281
+181285	1181540	Cranopygia		assamensis	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181284
+181291	1179759	Forficula		annulicornis	Blanchard, 1851				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181291
+181300	1179363	Hemimerus		morrisi	Hanney, 1963				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181299
+181306	1180505	Nesogaster		atropos	Rehn, JAG, 1946				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181306
+181307	1180529	Anechura		eoa	Semenov, 1902				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181307
+181316	1179567	Spongovostox		dubius	Moreira, 1931				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181315
+181319	1179875	Labidura		nepalensis	Burr, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181318
+180569	1179418	Forficula	Forficesila	maxima	Brulle, 1838				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180568
+180571	1180405	Microvostox		chopardi	Hebard, 1920				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180570
+180583	1181328	Anechura		stoliczkae	Burr, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180582
+180586	1182012	Neolobophora		asiatica	de Bormans, 1897				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180586
+180588	1180826	Spongiphora		nitidipennis	de Bormans, 1894				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180588
+180590	1181242	Forficula		sjoestedti	Burr, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180589
+180594	1181976	Diplatys		transversalis	Brindle, 1983				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180593
+180596	1181934	Psalis		kawakamii	Shiraki, 1928				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180595
+180598	1180378	Diplatys		spinulosus	Hincks, 1961				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466146
+180601	1179411	Forficula		brevitarsis	Chopard, 1942				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180600
+180605	1180164	Forficula		bicuspis	Stal, 1860				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180604
+180607	1181982	Pygidicrana		biaffra	de Bormans, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180606
+180611	1180292	Forficula		guancharia	Heller, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180610
+180615	1181489	Pygidicrana		caffra	Dohrn, 1867				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180614
+180616	1179892	Lobophora		tartarea	Stal, 1860				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180616
+180619	1180174	Apterygida		aeris	Shiraki, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180618
+180622	1182087	Diaperasticus		erythrocephalus		maculipes	morph	Borelli, 1914	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180622
+180624	1181729	Anisolabis		silvestrii	Borelli, 1914				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180624
+180629	1181859	Mecomera		kervillei	Burr, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180628
+180632	1179593	Forficula		minor	Linnaeus, 1758				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180632
+180634	1181848	Auchenomus		birmanus	de Bormans, 1888				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180633
+181323	1179508	Spongophora		nigripennis	Scudder, 1869				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181322
+181326	1179591	Forficula		neglecta	Marsham, 1802				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181326
+181328	1182084	Eparchus		tenellus		mindanensis	subspecies	Günther, K, 1934	Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181327
+181330	1180826	Chaetospania		baliensis	Günther, K, 1933				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181330
+181344	1179846	Labia		trinitatis	Brunner, L, 1906				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181344
+181346	1179807	Ancistrogaster		perdita	Borelli, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181345
+181348	1180873	Dinex		geijskesi	Brindle, 1968				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181347
+181349	1181592	Apterygida		mackinderi	Burr, 1900				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181349
+181352	1181182	Anechura		schlagintweiti	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181351
+181354	1181852	Anechura		feae	de Bormans, 1888				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181354
+181355	1179386	Anechura		bipunctata		pirpanjalae	subspecies	Santokh Singh, 1955	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181355
+181358	1179846	Forficula		dorsalis	Burmeister, 1838				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181357
+181359	1179846	Labia		chalybea	Dohrn, 1864				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181359
+181361	1181551	Diplatys		malayanus	Hincks, 1957				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181360
+181362	1179922	Cordax		forcipatus		formosana	morph	Boeseman, 1954	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181362
+181368	1180499	Spongiphora		rubiceps	Burr, 1900				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181368
+181370	1180652	Diplatys		gladiator	Burr, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466142
+181372	1181281	Kalocrania		raja	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181371
+181381	1180423	Anisolabis		peregrina	Mjöberg, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181380
+181388	1179956	Forcipula		quadrispinosa		lurida	subspecies	Bolivar, 1897	Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181387
+181394	1179694	Spongiphora		schubotzi	Burr, 1909				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181393
+181397	1181443	Euborellia		kumaoensis	Gangola, 1968				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181396
+181402	1180158	Paradohrnia		longiforceps	Srivastava, 1979				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181401
+181404	1180288	Labia		africana	Brindle, 1968				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181403
+181406	1180616	Metasparatta		chacoensis	Borelli, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181405
+181409	1179531	Diplatys		flavicollis	Shiraki, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181408
+181412	1181484	Opisthocosmia		devians	Dohrn, 1865				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181411
+181414	1180662	Hamaxas		papuanus	Burr, 1909				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181414
+181415	1180662	Acanthocordax		papuanus	(Burr, 1909)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181414
+181419	1182074	Opisthocosmia		amazonensis	de Bormans, 1899				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181418
+181423	1181468	Lobophora		laetior	Dohrn, 1865				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181422
+181427	1181524	Cosmicula		flavicornis	Hincks, 1947				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181426
+181431	1182010	Forficula		gagatina	Klug, 1838				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181430
+181434	1180907	Labia		heliconia	Brindle, 1985				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181433
+181436	1181456	Labia		maeklini	Dohrn, 1864				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181435
+181438	1180636	Labia		oraedivitis	Borelli, 1909				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181437
+181441	1181494	Psalidophora		stigma	Dohrn, 1867				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181440
+181447	1181983	Pygidicrana		celebensis	de Bormans, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181447
+181449	1181443	Anisolabis		minuta	Caudell, 1907				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181449
+181460	1182041	Labia		melancholica	Scudder, 1876				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181460
+181467	1180683	Nesogaster		fruhstorferi	Verhoeff, 1902				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181467
+181476	1179921	Forficula		tenella	Haan, 1842				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181475
+181480	1179887	Labidurodes		egregius	Günther, K, 1929				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181480
+181482	1179843	Forficula		vellicans	Scudder, 1876				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181482
+181490	1179367	Labia		cheliduroides	de Bormans, 1883				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181490
+181494	1180390	Antisolabis		pauliani	Hincks, 1953				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181493
+181499	1181188	Opisthocosmia		temora	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181498
+181500	1180505	Nesogaster		apoensis	Rehn, JAG, 1946				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181500
+181501	1181256	Neolobophora		asiatica	Burr, 1907				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181502
+181509	1179961	Forficula		versicolor	de Bormans, 1883				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181508
+181510	1180675	Sparatta		minuta	Caudell, 1907				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181510
+181512	1182022	Forficesila		australica	Guillon, 1841				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181511
+181520	1180803	Diplatys		hainanensis	Hincks, 1940				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181520
+181528	1179968	Chelisoches		pulchripennis	de Bormans, 1883				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181527
+181531	1180738	Metisolabis		voltzkowi	Steinmann, 1989				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181531
+181534	1180499	Chelisoches		variopictus	de Bormans, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181533
+181536	1179890	Labidura		inconspicua	Verhoeff, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181536
+181537	1182048	Prolabia		recurva	Borelli, 1923				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181537
+181539	1179777	Forficula	Apterygida	gravidula	Gerstaecker, 1873				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181539
+181548	1181936	Thermastris		dohrni	Scudder, 1875				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181547
+181553	1180643	Anisolabis		eteronoma	Borelli, 1909				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181552
+181556	1181417	Forficula		exilis	Scudder, 1876				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181556
+181557	1181417	Doru		exilis	(Scudder, 1876)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181556
+181563	1179777	Mecomera		brunnea	de Bormans, 1883				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181563
+181568	1181864	Labia		tenuipes	Burr, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181567
+181570	1180725	Apterygida		coloniae	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181569
+181573	1180752	Chelisoches		limbatus	Borg, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181573
+181575	1181995	Sphingolabis		brunneri	de Bormans, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181574
+181577	1180677	Forficula		divergens	Burr, 1899				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181576
+181583	1181461	Psalidophora		frontalis	Dohrn, 1864				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181582
+181584	1181461	Ancistrogaster		panamensis	de Bormans, 1883				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181584
+181590	1180762	Forficula		ambigua	Burr, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181590
+181595	1180752	Chelisoches		vittatus	Burr, 1903				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181595
+181597	1180809	Pyge		shortridgei	Burr, 1914				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181596
+181602	1179777	Forficula		nigripennis	Motschulsky, 1863				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181602
+181605	1180826	Irdex		novaeguineae	Boeseman, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181603
+181608	1179482	Forficula		protensa	Gerstaecker, 1883				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181608
+181610	1179760	Forficula		bicolor	Motschulsky, 1846				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181610
+181611	1179760	Labia		bicolor	(Motschulsky, 1846)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181610
+181612	1179760	Brachylabis		bicolor	(Motschulsky, 1846)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181610
+181619	1179368	Apachys		corticinus	Burr, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181618
+181624	1179809	Ancistrogaster		alfari	Borelli, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181623
+181626	1181328	Himanechura		lahualensis	Santokh Singh, 1955				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181626
+181627	1179914	Echinosoma		westermanni	Dohrn, 1862				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181627
+181628	1179798	Sparatta		atropos	Rehn, JAG, 1933				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181628
+181631	1180117	Forficula		moesta	Géné, 1837				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181630
+181633	1179986	Forficula		pallidicornis	Brulle, 1832				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181633
+181635	1182031	Forficula		tarsata	Westwood, 1857				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181634
+181638	1179844	Forficula		ruficeps	Burmeister, 1838				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181638
+181642	1179740	Platylabia		bihastata	Borg, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181641
+181643	1180662	Hamaxas		esakii	Menozzi, 1941				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181643
+181649	1179591	Forficula		infumata	Megerle, 1825				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181649
+181651	1181831	Physogaster		scabinatus	Ramamurthi, 1967				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181650
+181654	1180872	Dinex		boesemani	Brindle, 1968				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181653
+181655	1180505	Nesogaster		javanicus	Hincks, 1955				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181655
+181657	1179552	Placolabis		thailandensis	Ramamurthi & BV David, 1973				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181656
+181659	1180505	Forficula		miranda	de Bormans, 1903				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181659
+181662	1180393	Nannisolabis		gisleni	Hincks, 1954				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181661
+181670	1181635	Spongophora		prolixa	Scudder, 1876				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181669
+181672	1181488	Pygidicrana		valida	Dohrn, 1867				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181671
+181674	1180768	Labia		buprestoides	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181673
+181676	1181431	Pygidicrana		eximia	Dohrn, 1862				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181675
+181677	1181431	Cranopygia		eximia	(Dohrn, 1862)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181675
+181680	1182011	Euborellia		astruci	Burr, 1911				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181680
+181682	1179733	Sparatta		xanthothorax	Moreira, 1932				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181682
+181685	1179347	Forficula		laeta	Gerstaecker, 1869				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181685
+181686	1179857	Hypurgus		fulvus	Burr, 1911				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181686
+181688	1181328	Anechura		himalayana	Santokh Singh, 1955				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181688
+181691	1182148	Forficula		maritima	Bonelli, 1832				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181690
+181692	1179763	Neolobophora		bogotensis	Bolivar, 1878				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181693
+181697	1180507	Chelisoches		doriae	de Bormans, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181696
+181702	1180381	Forficula		obtusangula	Krauss, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181701
+181703	1182115	Forficula		albipennis	Megerle, 1825				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181703
+181704	1182115	Apterygida		albipennis	(Megerle, 1825)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181703
+181707	1179763	Spongophora		forfex	Scudder, 1876				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181707
+181709	1180868	Nala		tenuicornis		timorensis	subspecies	Brindle, 1967	Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181708
+181711	1180783	Diplatys		ridleyi	Kirby, WF, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181710
+181713	1181194	Apterygida		bonchampsi	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181712
+181716	1180260	Nannisolabis		ceylonica	Brindle, 1977				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181715
+181722	1181350	Diplatys		nana	Burr, 1914				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466446
+181725	1180242	Forcipula		gariazzi		tanganyikae	subspecies	Hincks, 1957	Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181724
+181739	1180664	Opisthocosmia		biroi	Burr, 1902				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181738
+181741	1179798	Prosparatta		sinaloae	Hebard, 1923				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181741
+181742	1181621	Parasparatta		panamae	Hebard, 1933				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181742
+181747	1181464	Forficula		cingalensis	Dohrn, 1865				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181746
+181750	1180505	Nesogaster		fulgor	Steinmann, 1983				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181749
+181753	1181415	Forficula		lugubris	Dohrn, 1862				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181752
+181755	1180169	Forficula		parvicollis	Stal, 1860				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181754
+181757	1180720	Spongiphora		propinquus	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181756
+181761	1180678	Forficula		remota	Burr, 1899				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181760
+181763	1179961	Forficula		speculigera	Stal, 1855				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181763
+181765	1181491	Labia		quadrilobata	Dohrn, 1867				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181764
+181768	1180505	Nesogaster		reditus	Rehn, JAG, 1946				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181768
+181770	1180520	Psalis		guttata	de Bormans, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181769
+181774	1182048	Forficula		marginalis	Thunberger, 1827				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181773
+181780	1181593	Pygidicrana		buettneri	Karsch, F, 1886				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181779
+181783	1182112	Forficula		fedtschenkoi	de Saussure, 1874				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181782
+181785	1180168	Pydicrana		notigera	Stal, 1860				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181784
+181786	1179988	Forficula		burriana	Semenov, 1907				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181786
+181788	1180693	Gelotolabis		erythrocephala	Brindle, 1964				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181788
+181792	1181199	Diplatys		hova	Burr, 1914				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181792
+181794	1179832	Ancistrogaster		biolleyi	Borelli, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181793
+181805	1179474	Nesogaster		gonopygius	Borelli, 1926				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181805
+181807	1180994	Diplatys	Diplatys	severa	de Bormans, 1893				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181807
+181809	1182087	Forficula		natalensis	Stal, 1855				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181809
+181813	1180369	Emboros		unicolor	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181812
+181815	1180686	Spongiphora		vicina	Borelli, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181815
+181821	1181245	Sarcinatrix		rehni	Burr, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181820
+181824	1179763	Forficula		longiforcipata	Blanchard, 1847				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181824
+181825	1179763	Forficula		longissima	Wood, 1874				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181825
+181831	1181635	Psalidophora		parallela	Dohrn, 1862				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181831
+181834	1180892	Anechura		biturberculata	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:473046
+181838	1181860	Opisthocosmia		formosa	Burr, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181837
+181840	1182115	Forficula		curta	Fischer von Waldheim, 1846				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181840
+181844	1179345	Forficula		oceanica	Le Guillon, 1911				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181844
+181847	1181274	Diplatys		ernesti	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181846
+181849	1182115	Forficula		freyi	Dohrn, 1859				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181849
+181851	1179474	Nesogastrella		ruficeps	Verhoeff, 1902				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181851
+181855	1179345	Apterygida		erichsoni	Dohrn, 1862				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181855
+181858	1181991	Labia		tristis	de Bormans, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181857
+181861	1181953	Forficula		depressa	Palisot de Beauvois, 1805				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181860
+181862	1179477	Sparatta		clarkii	Kirby, WF, 1896				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181862
+181865	1181643	Hamaxas		tezpurensis	Srivastava, 1969				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181864
+181867	1182061	Labia		esakii	Menozzi, 1941				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181866
+181870	1180493	Labia		barberi	Hebard, 1917				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181869
+181876	1179509	Labia		bilineata	Scudder, 1869				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181875
+181880	1180855	Spongovostox		flavocincta	Brindle, 1982				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181879
+181882	1180854	Spongovostox		flavostriata	Brindle, 1982				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181881
+181886	1179698	Archidux		adolfi	Burr, 1909				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181885
+181888	1180433	Labia		ceylonica	Motschulsky, 1863				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181887
+181890	1179367	Strongylopsalis		cornuta	Burr, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181889
+181892	1180996	Forficula		smithi	de Bormans, 1893				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181891
+181894	1181441	Pygidicrana		kallipygos	Dohrn, 1862				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181893
+181898	1179728	Emboros		pendleburyi	Borelli, 1932				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181897
+181901	1181327	Sarakas		borellii	Burr, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181900
+181903	1179798	Sparatta		incerta		gonopygia	morph	Borelli, 1909	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181903
+181904	1181621	Parasparatta		guayanensis	Hebard, 1921				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181904
+181908	1179852	Ancistrogaster		intermedia	Burr, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181907
+181910	1182054	Spongophora		apicedentata	Caudell, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181909
+181914	1181462	Labia		luzonica	Dohrn, 1864				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181913
+181917	1182115	Forficula		pedestris	Bonelli, 1832				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181917
+181919	1181865	Forficula		vidua	Burr, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181918
+181921	1179890	Forficula		lividipes	Dufour, 1820				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181921
+181922	1180788	Pygidicrana		quadriguttata	de Bormans, 1903				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181922
+181923	1180994	Diplatys	Diplatys	malcolmi	Hincks, 1955				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181923
+181932	1179633	Forficula		linearis	Eschscholz, 1822				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181931
+181934	1179886	Brachylabis		punctata	Dubrony, 1879				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181933
+181936	1181866	Forficula		canariensis	Burr, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181935
+181939	1181465	Lobophora		superba	Dohrn, 1865				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181938
+181942	1179883	Chaetospania		borneensis		testacea	subspecies	Günther, K, 1929	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181942
+181946	1181978	Antenoria		bicyclura	de Miranda Ribeiro, 1937				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181946
+181952	1180941	Eulabis		polita	Zacher, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181951
+181955	1181458	Labia		ghilianii	Dohrn, 1864				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181954
+181957	1181459	Psalidophora		pygmaea	Dohrn, 1864				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181956
+181958	1181459	Labia		menozzii	Moreira, 1932				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181958
+181960	1180316	Labia		schwarzi	Caudell, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181959
+181963	1179425	Forficula		cabrerae	Bolivar, 1893				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181962
+181967	1181480	Allodahlia		spinosa	Brindle, 1966				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181967
+181969	1181097	Brachylabis		rouxiodes	Brindle, 1976				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181968
+181971	1181499	Sadiya		grata	Hebard, 1923				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181970
+181974	1181933	Pyge		okunii	Shiraki, 1928				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181973
+181976	1181981	Pygidicrana		papua	de Bormans, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181975
+181977	1182105	Forficula		montana	Géné, 1832				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181978
+181978	1182105	Brachylabis		montana	(Géné, 1832)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181978
+181979	1182105	Obelura		montana	(Géné, 1832)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181978
+181980	1182105	Syntonus		montana	(Géné, 1832)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181978
+181982	1181994	Opisthocosmia		burri	de Bormans, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181981
+181985	1179548	Gonolabina		kuhlgatzi	Verhoeff, 1902				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181985
+181991	1180717	Acnodes		americana	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181990
+181995	1180422	Spongovostox		asemus	Hebard, 1921				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181994
+181997	1181338	Spongovostox		basalis	Burr, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181996
+182000	1179802	Spongiphora		bertonii	Borelli, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181999
+182002	1180800	Sphingolabis		binotata	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182001
+182004	1180243	Prolabia		hildebrandti	Burr, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182003
+182008	1181537	Cranopygia		tonkinensis	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182007
+182010	1181417	Forficula		taeniata	Dohrn, 1862				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182009
+182011	1180516	Forcipula		decolyi		longipennis	subspecies	de Bormans, 1900	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182011
+182014	1179936	Psalidophora		insignis	Stal, 1855				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182014
+182016	1179936	Psalidophora		punctipennis	Stal, 1858				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182016
+182017	1179936	Vostox		punctipennis	(Stal, 1858)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182016
+182018	1179936	Spongiphora		geayi	Burr, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182018
+182020	1179936	Labia		insularis	Brunner, L, 1906				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182020
+182032	1180904	Psalis		apolinari	Hebard, 1919				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182031
+182035	1181935	Labia		formosana	Shiraki, 1928				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182034
+182044	1180245	Kalocrania		semenoffi	Burr, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182043
+182045	1180793	Diplatys		falcatus	Burr, 1910				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182045
+182051	1179810	Anisolabis		ambigua	Borelli, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182050
+182054	1179883	Forficula		borneensis	Dubrony, 1879				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182053
+182059	1180889	Archidux		minimus	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182058
+182060	1181621	Sparatta		lobata	Borelli, 1909				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182060
+182068	1180900	Brachylabis		submetallica	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182067
+182070	1180662	Spongiphora		nigrorufa	Burr, 1902				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182069
+182073	1180691	Anisolabis		annandalei	Burr, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182072
+182076	1182097	Odontopsalis		filchneri	Burr, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182075
+182079	1179954	Brachylabis		bifoveolata	Bolivar, 1897				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182078
+182081	1180293	Archidux		rugosus	Brindle, 1975				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182080
+182082	1218461	Euborellia		maxima	Moreira, 1932				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182082
+182083	1179714	Chelisoches		bimammatus	Hebard, 1929				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182083
+182085	1179471	Forficesila		liturata	Stal, 1855				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182084
+182088	1180505	Nesogaster		venustus	Borelli, 1926				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182088
+182091	1180987	Gelotolabis		hincksi	Brindle, 1964				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182090
+182093	1180248	Labia		bicolor	Dubrony, 1879				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466147
+182099	1180831	Anechura		coriacea	de Bormans, 1894				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182099
+182102	1181610	Araripelabia		costae	Martins-Neto, 1990				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182102
+182107	1179800	Spongiphora		confusa	Borelli, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182106
+182111	1181449	Forcinella		antoni	Dohrn, 1864				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182110
+182113	1181450	Forcinella		janeirensis	Dohrn, 1864				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182112
+182121	1180743	Chelisoches		tenebrator	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182120
+182125	1180999	Ancistrogaster		impennis	de Bormans, 1893				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182124
+182126	1179760	Labidura		confusa	Capra, 1929				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182126
+182130	1182087	Forficula		erythrocephala	Olivier, AG, 1791				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182129
+182132	1181448	Forcinella		brunneri	Dohrn, 1864				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182131
+182134	1179851	Opisthocosmia		oannes	Burr, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182133
+182141	1182114	Kosmetor		intermeidus	Borelli, 1918				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182140
+182143	1180249	Diplatys		raffrayi	Dubrony, 1879				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182142
+182145	1179887	Labidurodes		robustus	Dubrony, 1879				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:467559
+182149	1181636	Cranopygia		angulata	Srivastava, 1975				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182148
+182150	1181482	Forficula		barroisi	Bolivar, 1893				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182150
+182152	1180430	Platylabia		dimidiata	Dohrn, 1867				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182153
+182153	1180430	Strongylopsalis		dimidiata	(Dohrn, 1867)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182153
+182157	1182014	Timomenus		zeae	Liu, 1946				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182156
+182159	1180137	Anisolabis	Euborellia	flavipes	Bey-Bienko, 1967				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182159
+182164	1180399	Apolabis		acutiventris	Hincks, 1954				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182163
+182165	1181445	Forcipula		pugnax		parallela	morph	Borelli, 1912	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182165
+182166	1181444	Labidura		morosa	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182166
+182167	1182047	Spongiphora		robur	Burr, 1907				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182167
+182169	1181402	Diplatys		sinuatus	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182168
+182174	1181961	Prolabia		formica	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182173
+182176	1182039	Labia		serrata	Kapoor, 1967				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182175
+182178	1179876	Forficula		doriae	Dubrony, 1879				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182177
+182180	1179902	Forficula		biguttata	Fabricius, 1781				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182180
+182182	1180013	Pseudisolabis		burri	Borelli, 1909				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182182
+182188	1180795	Sparatta		w-signata	Burr, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182188
+182194	1181403	Diplatys		ugandanus	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182193
+182195	1182087	Forficula		jackeryensis	Palisot de Beauvois, 1805				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182195
+182197	1181871	Metalabis		brasiliensis	Brindle, 1979				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182196
+182199	1180294	Archidux		laevis	Brindle, 1975				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182198
+182201	1180179	Apterygida		crinitata	Shiraki, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182200
+182204	1179659	Pyragra		buscki	Caudell, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182203
+182206	1181548	Diplatys		gracillimus	Hincks, 1957				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466444
+182212	1181264	Pseudisolabis		tenera	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182211
+182216	1181339	Spongovostox		recurrens	Burr, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182215
+182218	1179957	Spongophora		similis	de Bormans, 1883				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182217
+182219	1181917	Allostethus		marensi	Verhoeff, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182219
+182221	1181340	Spongovostox		vicinus	Burr, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182220
+182223	1182087	Chelisoches		pulchellus	Gerstaecker, 1883				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182223
+182224	1182087	Purex		pulchellus	(Gerstaecker, 1883)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182223
+182226	1182170	Diplatys		hoogstraali	Srivastava, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182225
+182231	1179393	Diplatys		jawalagiriensis	Kapoor, Bharadwaj & Banerjee, 1971				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182230
+182238	1180738	Brachylabis		voeltzkowi	Burr, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182237
+182243	1182087	Apterygida		erythrocephala		aptera	morph	Borelli, 1907	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182243
+182247	1180395	Diplatys		excidens	Hincks, 1954				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182246
+182249	1179970	Neolobophora		ova	de Bormans, 1883				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182248
+182253	1180659	Labia		sicaria	Burr, 1902				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182252
+182255	1181405	Diplatys		chopardi	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182254
+182257	1181851	Chelisoches		glaucopterus	de Bormans, 1888				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182256
+182261	1180847	Diplatys		milloti	Chopard, 1940				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466449
+182263	1181272	Diplatys		liberatus	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182262
+182265	1181193	Odontopsalis		harmandi	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182264
+182268	1181331	Syntonus		ensifer	Burr, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182267
+182270	1181451	Forcinella		stali	Dohrn, 1864				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182269
+182278	1180238	Sphingolabis		testacea	Borelli, 1923				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182277
+182281	1181189	Apterygida		vishnu	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182280
+182282	1180636	Labia		arae-divitis	Popham & Brindle, 1967				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182282
+182284	1179565	Nannisolabis		punctulata		rufa	morph	Moreira, 1931	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182284
+182285	1179565	Brachylabis		rufa	(Moreira, 1931)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182284
+182291	1180374	Pseudovostox		villiersi	Brindle, 1968				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182290
+182295	1179835	Anisolabis		tellinii	Borelli, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182294
+182302	1180642	Anisolabis		aporonoma	Borelli, 1909				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182301
+182305	1180406	Labia		dubronyi	Hebard, 1922				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182304
+182307	1180758	Sphingolabis		bipartita	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182306
+182310	1181448	Gonolabis		verhoeffi	Burr, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182311
+182311	1181448	Anisolabis		verhoeffi	(Burr, 1905)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182311
+182313	1181587	Pseudisolabis		santokhi	Kapoor & Katiyar, 1971				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182312
+182315	1179879	Labia		nigrella	Dubrony, 1879				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182314
+182319	1180262	Diplatys		feae	Borelli, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182318
+182321	1180989	Gelotolabis		umbrosa	Brindle, 1964				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182320
+182324	1179867	Chelisoches		beelzebub	Burr, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182323
+182330	1179551	Forficula		taylori	Popham, 1983				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182329
+182334	1180021	Proreus		fuscus	Borelli, 1927				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182333
+182337	1181547	Diplatys		dolens	Hincks, 1957				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182336
+182339	1179701	Apterygida		feae	(Burr, 1909)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182338
+182340	1179701	Spongiphora		gestroi	Burr, 1909				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182338
+182345	1181401	Diplatys		adjacens	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182344
+182348	1181863	Anechura		sokotrana	Burr, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:473043
+182350	1179902	Anechura		asiatic	Semenov, 1903				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182350
+182355	1182139	Timomenus		flavoguttatus	Shiraki, 1907				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182355
+182356	1181482	Forficula		escherichi	Krauss, 1895				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182356
+182359	1181173	Labia		alluaudi	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182358
+182363	1179562	Psalis		brasiliensis	Moreira, 1931				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182362
+182365	1180291	Forficula		uxoris	Heller, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182364
+182368	1181387	Diplatys		rehni	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182368
+182376	1181989	Carcinophora		boliviana	de Bormans, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182376
+182382	1182067	Forficula		hawaiiensis	de Bormans, 1882				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182381
+182393	1182199	Cylindrogaster		nigra	Scudder, 1876				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182392
+182397	1182020	Forficula		percheroni	Guerin & Percheron, 1838				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182396
+182399	1181185	Opisthocosmia		micheli	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182398
+182401	1181210	Brachylabis		malgacha	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182400
+182403	1179902	Chelidura		anthracina	Kolenati, 1846				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182403
+182406	1179431	Diplatys		torrevillasi	Srivastava, 1976				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182405
+182408	1179923	Forficula		insignis	Haan, 1842				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182407
+182410	1181078	Archidux		biloba	Brindle, 1973				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182409
+182412	1179468	Forficula		vitticollis	Stal, 1855				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182412
+182414	1180839	Pygidicrana		modesta	de Bormans, 1894				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182413
+182416	1180371	Emboros		sogai	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182415
+182417	1179902	Forficula		fabricii	Fieber, 1853				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182417
+182419	1181550	Diplatys		denticulatus	Hincks, 1957				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182418
+182422	1179861	Anechura		hermes	Burr, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182421
+182424	1180595	Diplatys		karnyi	Borelli, 1926				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182423
+182429	1181313	Labia		oweni	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182428
+182431	1181473	Forficula		lobophoroides	Dohrn, 1865				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182430
+182432	1179482	Forficula		4-maculata	Stal, 1855				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182432
+182436	1181203	Diplatys		gerstaeckeri		calidasa	morph	Burr, 1904	Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182435
+182442	1181385	Diplatys		bensoni	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182441
+182447	1180841	Emboros		madagascariensis	Brindle, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182446
+182455	1180803	Diplatys		salvazae	Burr, 1917				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466141
+182460	1181477	Forficula		circulata	Dohrn, 1865				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182459
+182463	1182028	Chelidura		geniculata	Montrouier, 1864				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182462
+182465	1182141	Anechura		euxina	Semenov, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182464
+182469	1181192	Odontopsalis		lewisi	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182468
+182471	1181974	Diplatys		menoni	Kapoor & Bharadwaj, 1968				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182470
+182475	1181422	Nannopygia		gerstaeckeri	Dohrn, 1862				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182475
+182477	1181582	Diplatys		poonaensis	Kapoor, 1968				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182476
+182479	1181410	Diplatys		coelebs	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182478
+182483	1179925	Forficula	Psalidophora	fuscipennis	Haan, 1842				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182482
+182485	1180240	Spongovostox		burgeoni		longipennis	morph	Borelli, 1923	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182485
+182487	1180707	Diplatys		vosseleri	Burr, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182486
+182491	1179902	Anechura		bipunctata		orientalis	subspecies	Krauss, 1900	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182491
+182494	1181406	Diplatys		borellii	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182493
+182497	1181386	Diplatys		javanicus	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182496
+182500	1180902	Diplatys		leleupi	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182499
+182502	1180379	Diplatys		simplex	Hincks, 1961				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182501
+182504	1181187	Mecomera		weissi	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182503
+182506	1180286	Diplatys		saxeus	Brindle, 1982				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182505
+182508	1181204	Diplatys		greeni	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182507
+182510	1180285	Diplatys		taurinus	Brindle, 1982				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182509
+182512	1180279	Diplatys		shirakii	Nishikawa, 1973				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182511
+182517	1179332	Diplatys		jacobsoni	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182516
+182521	1180828	Opisthocosmia		simplex	de Bormans, 1894				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182520
+182525	1179341	Anisolabis		recurvus	Borelli, 1915				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182524
+182526	1181415	Forficula		metrica	Rehn, JAG, 1903				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182526
+182535	1181277	Diplatys		bormansi	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182534
+182537	1179985	Forficula		acanthopygia	Géné, 1832				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182536
+182543	1182105	Forficula		aptera	Megerle, 1825				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182543
+182545	1180501	Opisthocosmia		beccarii	de Bormans, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182544
+182547	1180935	Eulabis		saramacensis	Zacher, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182546
+182552	1180353	Brachylabis		coffiaiti	Brindle, 1970				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182551
+182554	1180841	Opisthocosmia		dubia	Burr, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182554
+182556	1180297	Brachylabis		unicolor	Brindle, 1975				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182555
+182558	1179482	Spongovostox		spatulus	Burr, 1911				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182558
+182564	1182148	Anisolabis		quadrata	Liu, 1946				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182564
+182565	1182148	Brachylabis		quadrata	(Liu, 1946)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182564
+182569	1179867	Forficula		acris	Burr, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182569
+182570	1179923	Eparchus		insignis		inermis	morph	Boeseman, 1954	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182570
+182572	1180525	Anisolabis		peruviana	de Bormans, 1880				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182571
+182575	1181119	Isolabis		carinata	Brindle, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182574
+182577	1181273	Diplatys		lefroyi	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182576
+182579	1181515	Argusina		lita	Hebard, 1927				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182578
+182582	1181444	Labidura		quadrispinosa	Dohrn, 1863				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182581
+182584	1180828	Eparchus		inermis	Hebard, 1923				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182584
+182586	1180830	Chelisoches		feae	de Bormans, 1894				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182585
+182589	1179679	Diplatys		incisus	Brindle, 1975				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182588
+182591	1179799	Psalis		burri	Borelli, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182590
+182593	1180368	Emboros		longiforceps	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182592
+182595	1180509	Psalis		scudderi	de Bormans, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182594
+182597	1180824	Spongophora		semiflava	de Bormans, 1894				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182596
+182599	1182148	Anisolabis		addita	Burr, 1913				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182599
+182601	1181975	Diplatys		nathani	Hincks, 1960				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182600
+182606	1179385	Anechura		tibetana	Semenov Tian-Shansky & Bey-Bienko, 1935				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182605
+182610	1181583	Diplatys		jogiensis	Kapoor, 1968				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182609
+182616	1181475	Forficula		jagori	Dohrn, 1865				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182615
+182617	1179701	Spongovostox		conradti	Burr, 1911				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182617
+182619	1179683	Brachylabis		cordata	Brindle, 1976				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182618
+182620	1182048	Forficula		ochropus	Stal, 1855				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182620
+182624	1179602	Anechura	Borelliola	chelmosensis	Maran, 1965				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182623
+182627	1180215	Forficula		rugosula	Hincks, 1957				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182626
+182632	1180246	Kalocrania		grotei	Burr, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182632
+182634	1179429	Diplatys		santoshi	Srivastava, 1975				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182633
+182636	1181169	Labia		forceps	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182635
+182638	1179913	Forficula		pallidipennis	Haan, 1842				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182637
+182639	1179913	Cranopygia		pallidipennis	(Haan, 1842)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182637
+182640	1179418	Forficula		major	Brulle, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182640
+182643	1179820	Spongiphora		ferruginea	Borelli, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182642
+182649	1179690	Neolobophora		borellii	Burr, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182648
+182652	1180924	Dicrana		elongata	Zacher, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182651
+182655	1180790	Gonolabis		michaelseni	Burr, 1908				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182655
+182658	1181543	Cranopygia		formosa	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182657
+182660	1181011	Cranopygia		variegata	Brindle, 1965				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182659
+182662	1179937	Forficula		imprevista	Burr, 1907				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182662
+182665	1179488	Demogorgon		adelphus	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182665
+182669	1181555	Cranopygia		sarawacensis	Hincks, 1959				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182668
+182671	1181987	Ancistrogaster		javana	de Bormans, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182670
+182673	1181939	Diplatys		degerboliae	Ramamurthi, 1973				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182672
+182677	1181417	Forficula		californica	Dohrn, 1865				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182677
+182679	1181278	Diplatys		fletcheri	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182678
+182687	1181190	Opisthocosmia		annandalei	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182686
+182691	1179994	Burriola		przewalskii	Semenov, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182690
+182695	1181616	Kosmetor		cornutus	Ramamurthi, 1968				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182694
+182696	1179937	Forficula		rodziankoi	Semenov, 1901				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182696
+182697	1179846	Labia		glabricula	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182697
+182699	1179995	Burriola		redux	Semenov, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182698
+182704	1180888	Archidux		intermedius	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182703
+182708	1181383	Diplatys		rotundicollis	Hincks, 1952				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466139
+182717	1179719	Skendyle		tuberuclata	Borelli, 1924				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182716
+182721	1180281	Diplatys		hayashidai	Nishikawa, 1973				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182720
+182723	1181122	Brachylabis		meridionalis	Brindle, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182722
+182726	1182136	Taipinia		pulla	Shiraki, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182725
+182738	1180762	Forficula		lebongae	Hebard, 1923				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182738
+182742	1182148	Gonolabis		picea	Borelli, 1907				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182742
+182750	1181444	Forcipula		jacobsoni	Burr, 1908				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182750
+182751	1181444	Arixenia		jacobsoni	(Burr, 1908)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182750
+182754	1180823	Spongovostox		luteus	Burr, 1913				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182754
+182758	1179854	Ancistrogaster		inopinata	Burr, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182757
+182760	1180015	Psalis		purpurea	Borelli, 1921				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182759
+182764	1180755	Hypurgus		humeralis		vittatus	morph	Burr, 1911	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182764
+182766	1179760	Forficula		riparia	Pallas, 1773				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182766
+182768	1179330	Diplatys		annandalei	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182767
+182769	1179339	Forficula		baetica	Rambur, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182769
+182771	1179415	Chelisoches		ritsemae	de Bormans, 1883				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182770
+182773	1179613	Anisolabis		spitzi	Menozzi, 1932				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182772
+182775	1179710	Diplatys		sublobatus	Borelli, 1923				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182774
+182776	1182048	Labia		jeanneli	Borelli, 1915				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182776
+182778	1179912	Pygidicrana		picta	Guerin-Méneville, 1838				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182777
+182779	1179912	Cranopygia		picta	(Guerin-Méneville, 1838)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182777
+182783	1180527	Labia		cheliduroides	de Bormans, 1880				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182782
+182785	1179760	Labidura		truncata	Kirby, WF, 1903				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182785
+182787	1179839	Chelisoches		sobrius	de Bormans, 1884				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182786
+182792	1180274	Apolabis		straeleni	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182791
+182797	1180689	Labia		fruehstorferi	Burr, 1897				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182796
+182799	1181126	Anisolabis		nigeriensis	Brindle, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182798
+182802	1179708	Acrania		bakeri	Borelli, 1921				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182801
+182803	1179708	Cranopygia		bakeri	(Borelli, 1921)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182801
+182805	1179847	Sphingolabis		borneensis	Burr, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182806
+182806	1179847	Diplatymorpha		borneensis	(Burr, 1905)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182806
+182813	1181079	Archidux		pygidiatus	Brindle, 1973				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182812
+182815	1179747	Anisolabis		tasmanica	de Bormans, 1880				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182814
+182816	1179396	Forficula		hellmanni	Kittary, 1849				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182816
+182818	1180270	Spongiphora		tripunctata	Borelli, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182817
+182820	1180411	Labia		sutteri	Hincks, 1954				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182819
+182824	1181200	Diplatys		croixi	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182823
+182826	1180552	Anisolabis		omei	Bey-Bienko, 1959				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182825
+182830	1180754	Sparatta		horsfieldi	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182829
+182832	1181526	Diplatys		truncatus	Hincks, 1947				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182831
+182834	1182052	Platylabia		legoci	Fernando, 1957				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182833
+182836	1181545	Cranopygia		vittipennis	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466507
+182838	1180284	Diplatys		beroni	Brindle, 1982				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182837
+182839	1179591	Forficula		major	de Geer, 1773				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182839
+182840	1179591	Platylabia		major	(de Geer, 1773)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182839
+182842	1180805	Kleiduchus		variegatus	Burr, 1917				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182841
+182846	1181495	Platylabia		thoracica	Dohrn, 1867				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182845
+182848	1180017	Anisolabis		cavaleriei	Borelli, 1921				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182847
+182855	1181505	Proreus		fletcheri	Hebard, 1923				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182854
+182857	1179597	Forficula	Apterygida	silana	Costa, A., 1881				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182856
+182859	1179720	Psalis		nigropicea	Borelli, 1924				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182858
+182862	1181909	Pseudisolabis		walkeri	Burr, 1908				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182862
+182866	1182150	Forficula		pyrenaica	Bonelli, 1832				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182865
+182874	1181589	Auchenomus		tschitscherini	Semenov, 1908				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182874
+182877	1180440	Opisthocosmia		anomalia	Rehn, JAG, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182876
+182883	1180417	Skendyle		nitens	Günther, K, 1934				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182883
+182885	1179743	Brachylabis		sjoestedti	Borg, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182884
+182888	1180819	Thalperus		sanga	Rehn, JAG, 1936				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182887
+182898	1180833	Opisthocosmia		dubia	de Bormans, 1894				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182897
+182904	1179760	Labidura		servillei	Dohrn, 1863				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182903
+182905	1179760	Forficula		fischeri	Motschulsky, 1846				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182905
+182907	1179696	Opisthocosmia		nieuwenhuisi	Burr, 1909				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182906
+182910	1180611	Psalis		insulana	Borelli, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182909
+182912	1179407	Euborellia		aborensis	Burr, 1913				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182911
+182914	1181470	Lobophora		melanocephala	Dohrn, 1865				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182913
+182918	1181455	Forcinella		colossea	Dohrn, 1864				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182917
+182921	1180997	Opisthocosmia		americana	de Bormans, 1893				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182920
+182927	1181343	Archidux		neavei	Burr, 1914				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182926
+182928	1179547	Forficesila		elegans	Stal, 1855				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182928
+182931	1179559	Labia		auricoma	Rehn, JAG, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182930
+182934	1179868	Opisthocosmia		rebus	Burr, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182933
+182938	1179488	Labidura		livida	Dubrony, 1879				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182938
+182939	1180238	Spongovostox		eichelbaumi	Borelli, 1932				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182939
+182941	1180933	Horridolabis		paradoxura	Zacher, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182940
+182943	1182005	Labia		subarmata	Kirby, WF, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182942
+182948	1179427	Diplatys		deviensis	Srivastava, 1974				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182947
+182949	1181950	Labia		burgessi	Scudder, 1876				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182949
+182952	1179333	Diplatys		dohrni	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182951
+182954	1179334	Diplatys		fella	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182953
+182957	1180283	Gelotolabis		distincta	Nishikawa, 1969				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182956
+182959	1181124	Anisolabis		whellani	Brindle, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182958
+182961	1180829	Opisthocosmia		dux	de Bormans, 1894				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182960
+182962	1181173	Labia		trigrina	Burr, 1914				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182963
+182963	1181173	Marava		trigrina	(Burr, 1914)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182963
+182965	1182025	Forficula		testaceicornis	Blanchard, 1851				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182965
+182967	1180519	Labidura		tenuicornis	de Bormans, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182966
+182969	1180666	Chaetospania		confusa	Burr, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182969
+182971	1179890	Forficesila		vicina	Lucas, H, 1846				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182971
+182973	1180421	Spongovostox		berlandi	Hebard, 1921				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182972
+182975	1180811	Marava		hackeri	Burr, 1914				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182974
+182978	1181130	Anisolabis		hamata	Brindle, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182977
+182979	1181179	Apterygida		longipygi	Matsumura & Shiraki, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182979
+182981	1179488	Labidura		brasiliensis	Moreira, 1930				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182981
+182985	1180828	Eparchus		oberthuri	Borelli, 1912				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182985
+182987	1180828	Anisolabis		panfilovi	(Bey-Bienko, 1959)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182986
+182988	1180828	Eparchus		panfilovi	Bey-Bienko, 1959				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182986
+182990	1181592	Sphingolabis		sansibaricus	Karsch, F, 1886				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182989
+182995	1180436	Prolabia		jamaicana	Rehn, JAG & Hebard, 1917				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182994
+182997	1180674	Chelisoches		dohertyi	Burr, 1899				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182996
+182999	1180895	Brachylabis		rugosa	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182998
+183004	1179892	Chelisoches		comprimens	Scudder, 1876				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183004
+183007	1179890	Echinosoma		obscurum	Kirby, WF, 1900				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183007
+183009	1182147	Cranopygia		meghalayana	Biswas, Lahiri & Ghosh, 1974				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183008
+183013	1179337	Forficula		herculeana	Fabricius, 1798				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183014
+183017	1179547	Forficula		americana	Palisot de Beauvois, 1817				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183016
+183020	1180150	Labia		reniformis	Srivastava, 1979				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183019
+183022	1180272	Spongiphora		ruber	Borelli, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183021
+183024	1179547	Forficula		procera	Burmeister, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183024
+183028	1181202	Diplatys		aethiops	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183027
+183031	1180575	Labia		fryeri	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183030
+183034	1182085	Opisthocosmia		komarovi	Semenov, 1901				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183033
+183036	1179714	Chelisoches		brevipennis	Borelli, 1923				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183035
+183038	1181542	Cranopygia		comata	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183037
+183043	1180162	Forficula		simulans	Stal, 1860				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183042
+183045	1180923	Picrania		phoenix	Zacher, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183044
+183046	1180170	Spongovostox		gracilis	Borelli, 1916				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183046
+183050	1180170	Forficula		mucronata	Stal, 1860				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183049
+183057	1181993	Chelisoches		varicornis	de Bormans, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183056
+183059	1181487	Platylabia		sparattoides	de Bormans, 1900				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183059
+183060	1181455	Anisolabis		colossea		minor	morph	Burr, 1902	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183060
+183065	1180014	Narberia		tuberculata	Borelli, 1921				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183064
+183066	1180430	Platylabia		guineensis	Dohrn, 1867				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183066
+183072	1179488	Demogorgon		longipennis	Borelli, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183072
+183074	1180673	Psalis		rosenbergi	Burr, 1899				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183073
+183076	1182148	Labidura		advena	Meinert, 1868				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183076
+183078	1180496	Pseudisolabis		elegans	Hebard, 1917				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183077
+183080	1181734	Forficula		modesta	Menozzi, 1929				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183080
+183082	1179745	Ancistrogaster		poecilocerus	Borg, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183081
+183084	1181049	Labia		termitophila	Brindle, 1970				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183083
+183089	1179760	Forficesila		affinis	Guerin-Méneville, 1836				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183089
+183092	1179910	Sparatta		bongiana	Borg, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183092
+183094	1180813	Forficula		orientalis	Burr, 1900				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183094
+183096	1181283	Nannisolabis		formicoides	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183095
+183108	1180931	Logicolabis		caesarea	Zacher, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183107
+183125	1180687	Spongiphora		guttulata	Burr, 1897				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183124
+183127	1180893	Brachylabis		fusca	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183126
+183130	1181066	Anisolabis		rugosus	Brindle, 1971				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183129
+183132	1180881	Chaetospania		mjöbergi	Brindle, 1971				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183132
+183137	1179632	Forficula		pectoralis	Eschscholz, 1822				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183136
+183140	1182006	Labia		indistincta	Kirby, WF, 1900				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183140
+183141	1180762	Forficula		gardneri	Kapoor, Bharadwaj & Benerjee, 1972				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183141
+183144	1182232	Paradohrnia		ornaticapitata	Shiraki, 1928				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183143
+183149	1179717	Labia		boettcheri	Borelli, 1923				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183148
+183161	1179760	Labidura		granulosa	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183161
+183165	1182066	Labia		fulleri	Ramamurthi, 1964				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183164
+183174	1180832	Forficula		pulchripes	de Bormans, 1894				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183173
+183179	1180755	Opisthocosmia		humeralis	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183178
+183184	1179488	Demogorgon		batesi	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183184
+183193	1179818	Spongiphora		aloysiisabaudiae	Borelli, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183192
+183195	1180897	Brachylabis		proxima	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183194
+183211	1179794	Cranopygia		fletcheri	Bharadwaj & Kapoor, 1967				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183210
+183216	1179822	Pygidicrana		livida	Borelli, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183215
+183220	1179750	Brachylabis		kelangi	Brindle, 1969				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183219
+183230	1182002	Forficula		grandiventris	Blanchard, 1853				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183229
+183232	1179535	Diplatys		anamalaiensis	Srivastava, 1969				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183231
+183236	1181613	Cranopygia		triangulata	Ramamurthi, 1965				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183235
+183238	1180598	Landex		burri	Borelli, 1921				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183238
+183240	1181485	Forcinella		hottentotta	Dohrn, 1867				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183239
+183243	1179488	Demogorgon		bicolor	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183243
+183250	1179960	Labia		pratti	Boeseman, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183250
+183257	1180982	Anisolabis		caeca	Borelli, 1902				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183256
+183261	1179430	Diplatys		bhowmiki	Srivastava & Saha, 1975				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466377
+183264	1181733	Anisolabis		antennata	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183264
+183267	1181353	Nannisolabis		forficula	Burr, 1914				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183266
+183272	1179924	Forficula		armata	Haan, 1842				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183271
+183281	1180837	Labia		fasciata	de Bormans, 1894				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183281
+183282	1181445	Labidura		pugnax	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183283
+183283	1181445	Forcipula		pugnax	(Kirby, WF, 1891)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183283
+183285	1182166	Kosmetor		ferrarius	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183284
+183287	1180792	Cylindrogaster		nigriceps	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183286
+183289	1181411	Diplatys		confusus	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183288
+183295	1179840	Opisthocosmia		minuscula	de Bormans, 1884				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183294
+183299	1181735	Paradohrnia		punctata	Srivastava, 1979				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183299
+183300	1181475	Kosmetor		punctata	Srivastava, 1976				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183300
+183303	1180321	Forficula		lucens	Brindle, 1975				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183302
+183305	1180467	Psalis		festiva	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183304
+183308	1179966	Anisolabis		javana	de Bormans, 1883				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183307
+183314	1181442	Labidura		plebeja	Dohrn, 1863				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183313
+183316	1182148	Labidurodes		singularis	Shiraki, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183316
+183319	1181528	Afrolabia		masai	Hincks, 1949				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183318
+183325	1179803	Pseudochelidura		schmitzi	Borelli, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183324
+183329	1181728	Marava		minuscula	Brindle, 1977				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183329
+183333	1180244	Psalis		haenschi	Burr, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183332
+183341	1181489	Pygidicrana		bettoni	Kirby, WF, 1903				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183341
+183346	1180372	Labia		malgacha	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183345
+183347	1181170	Labia		insularis	Burr, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183348
+183349	1180238	Spongovostox		eichelbaumi		longipennis	morph	Borelli, 1932	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183349
+183355	1179813	Labia		biolleyi	Borelli, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183354
+183362	1180704	Gonolabis		woodwardi		dentata	morph	Burr, 1908	Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183361
+183368	1180988	Gelotolabis		tanganyikae	Brindle, 1964				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183367
+183374	1180748	Pygidicrana		horsfieldi	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183373
+183375	1180748	Cranopygia		horsfieldi	(Kirby, WF, 1891)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183373
+183382	1180846	Diplatys		longipennis	Brindle, 1969				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183381
+183385	1181875	Chaetospania		infernalis	Burr, 1913				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183384
+183391	1179922	Forficula		forcipata	Haan, 1842				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183391
+183393	1181969	Leptisolabis		aliena	Borelli, 1911				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183393
+183397	1180824	Spongophora		semi-flava	de Bormans, 1894				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183397
+183401	1179996	Forficula		kaznakovi	Semenov, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183400
+183404	1180261	Anisolabis		feae	Borelli, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183403
+183407	1180400	Apolabis		cristata	Hincks, 1954				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183406
+183410	1179354	Dicrana		dravida	Burr, 1914				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183410
+183411	1180652	Diplatys		bicoloripes	Hebard, 1923				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183411
+183420	1181445	Forcipula		trispinosa		minor	morph	Burr, 1910	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183420
+183423	1180521	Psalis		indica		minor	morph	de Bormans, 1900	Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183422
+183428	1179331	Diplatys		griffithsi	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183427
+183430	1179657	Psalis		nigra	Caudell, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183429
+183432	1182087	Apterygida		cagnii	Borelli, 1906				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183432
+183436	1181167	Labiduromma		guerneyi	Brown, FM, 1984				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466384
+183444	1182095	Forficula		huegeli	Dohrn, 1865				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183444
+183448	1182152	Diplatys		fallax	Borelli, 1926				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183447
+183452	1181285	Proreus		delicatulus	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183451
+183454	1180401	Apolabis		quadricollis	Hincks, 1954				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183453
+183455	1179941	Forficula		plana	Illiger, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183455
+183456	1180789	Anisolabis		laeta	de Bormans, 1888				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183457
+183457	1180789	Brachylabis		laeta	(de Bormans, 1888)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183457
+183462	1179477	Chaetolabia		pygidiata	Srivastava, 1987				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183463
+183463	1179477	Marava		pygidiata	(Srivastava, 1987)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183463
+183465	1180588	Labia		karnyi	Borelli, 1926				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183464
+183468	1179416	Sparatta		semifulva	de Bormans, 1883				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183467
+183470	1181305	Forficula		ruficeps	Shiraki, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183470
+183474	1179960	Sparatta		brunneri	de Bormans, 1883				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183474
+183475	1179883	Labia		flavicollis	Burr, 1903				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183475
+183476	1179883	Diplatys	Diplatys	flavicollis	(Burr, 1903)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183475
+183478	1181276	Diplatys		angustatus	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183477
+183479	1181731	Heterolabis		punctata	Srivastava, 1978				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183479
+183481	1181586	Pseudisolabis		jonathani	Kapoor & Katiyar, 1971				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183480
+183487	1181858	Ancistrogaster		kervillei	Burr, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183486
+183493	1180802	Kosmetor		claviger	Burr, 1917				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183492
+183499	1179533	Chaetospania		anamalaiensis	Srivastava, 1969				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183498
+183503	1179351	Cylindrogaster		abnormis	de Bormans, 1883				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183502
+183505	1181021	Diplatys		kjellenderi	Brindle, 1967				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183504
+183507	1182211	Apovostox		elongatus	Srivastava, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183506
+183514	1181438	Pygidicrana		angustata	Dohrn, 1862				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183513
+183518	1181437	Pygidicrana		cumingi	Dohrn, 1862				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183517
+183521	1180269	Spongiphora		tuberculata	Borelli, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183520
+183523	1179651	Chaetospania		rammei	Günther, K, 1929				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183522
+183526	1180750	Forficula		coriacea	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466136
+183531	1181407	Diplatys		nilgiriensis	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183530
+183535	1180823	Spongiphora		lutea	de Bormans, 1894				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183534
+183540	1179545	Labia		castanea	Moreira, 1930				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183540
+183542	1181812	Labiduromma		exsulatum	Scudder, 1890				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466396
+183546	1181813	Labiduromma		gilberti	Scudder, 1890				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466386
+183549	1181816	Labiduromma		mortale	Scudder, 1890				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466398
+183551	1180529	Apterygida		athymia	Rehn, JAG, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183551
+183555	1181466	Opisthocosmia		variegata	Dohrn, 1865				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183555
+183557	1181388	Diplatys		longicornis	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466445
+183559	1180722	Sphingolabis		villica	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183558
+183560	1181895	Brachylabis		theoriae	Verhoeff, 1902				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183560
+183562	1181469	Lobophora		ludekingi	Dohrn, 1865				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183561
+183566	1179377	Forficula		analis	Rambur, 1838				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183565
+183567	1179847	Labidurodes		magnificus	Rehn, JAG, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183567
+183569	1180138	Epilabis		punctata	Srivastava, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183568
+183570	1180714	Brachylabis		trägardhi	Burr, 1915				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183570
+183572	1182087	Forficula		variana	Scudder, 1876				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183572
+183575	1179970	Diplatys	Diplatys	hova	Burr, 1914				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183575
+183576	1179591	Forficula		media	Marsham, 1802				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183576
+183579	1180834	Labia		ridens	de Bormans, 1894				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183578
+183587	1180366	Diplatys		major	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466447
+183588	1181969	Brachylabis		nigra	Caudell, 1907				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183588
+183591	1179847	Forficula		indica	Burmeister, 1838				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183591
+183594	1179867	Forficula		celeris	Burr, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183594
+183596	1180572	Diplatys		flavobrunneus	Chopard, 1924				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183595
+183598	1179886	Brachylabis		caudelli	Burr, 1908				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183598
+183600	1180413	Labia		kermadecensis	Giles, 1973				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183599
+183603	1179944	Forficula		brachynota	Haan, 1842				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183603
+183609	1180932	Labidura		dohrni	Zacher, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183608
+183612	1180391	Antisolabis		milloti	Hincks, 1953				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183611
+183623	1181069	Brachylabis		allardi	Brindle, 1971				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183622
+183627	1180383	Labia		mameti	Hincks, 1950				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183626
+183628	1179847	Forficula		geniculata	Stal, 1855				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183628
+183631	1180317	Chaetospania		stoneri	Caudell, 1927				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183630
+183633	1181862	Opisthocosmia		poultoni	Burr, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183632
+183640	1180464	Nannisolabis		holdhausi	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183639
+183643	1180623	Euborellia		penicillata	Borelli, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183642
+183646	1182006	Labia		murrayi	Kirby, WF, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183645
+183648	1181549	Diplatys		mucronatus	Hincks, 1957				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466443
+183650	1180635	Brachylabis		montana	Borelli, 1909				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183649
+183655	1181072	Geracides		guatamalensis	Brindle, 1973				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183654
+183664	1180159	Pseudochelidura		madeirensis	Borelli, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183663
+183665	1179547	Psalis		columbiana	de Bormans, 1883				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183665
+183668	1179941	Nannopygia		dohrni	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183668
+183669	1179941	Doru		dohrni	(Kirby, WF, 1891)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183668
+183679	1180403	Antisolabis		grandicollis	Hincks, 1954				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183678
+183682	1182087	Forficula		africana	Dohrn, 1865				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183681
+183686	1180280	Diplatys		hakasonei	Nishikawa, 1973				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183685
+183690	1179850	Anechura		ahrimanes	Burr, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183689
+183695	1181170	Labidurodes		nitidus	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183694
+183700	1180788	Pygidicrana		guttata	Kirby, WF, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183699
+183702	1180267	Labia		tetragona	Borelli, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183701
+183704	1180589	Nannisolabis		dammermani	Borelli, 1926				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183703
+183712	1181439	Pygidicrana		ophthalmica	Dohrn, 1863				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183711
+183717	1180365	Diplatys		raharizoninai	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466448
+183718	1179941	Sparatta		apicalis	Kirby, WF, 1896				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183718
+183728	1179383	Forficula		uvarovi	Semenov Tian-Shansky & Bey-Bienko, 1935				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183727
+183731	1180682	Anisolabis		kirbyi	Burr, 1897				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183730
+183736	1180455	Eulithinus		hispanicus	Steinmann, 1984				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183736
+183746	1181808	Apolabis		jaenneli	Menozzi, 1938				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183745
+183747	1181097	Brachylabis		rouxioides	Brindle, 1976				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183747
+183749	1180282	Paralabis		ryukyuensis	Nishikawa, 1969				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183748
+183753	1180322	Forficula		distendens	Brindle, 1975				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183752
+183757	1180837	Labia		fasciatus	de Bormans, 1894				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183756
+183759	1181205	Anisolabis		albovittata	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183758
+183764	1181825	Labidurodes		coloratus	Burr, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183763
+183766	1180898	Brachylabis		quadrata	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183765
+183767	1179801	Labia		micans	Hebard, 1917				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183767
+183775	1181541	Cranopygia		burmensis	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183774
+183787	1181558	Cranopygia		vicina	Hincks, 1959				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183786
+183805	1179523	Forficula		vara	Scudder, 1876				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183804
+183807	1180826	Chaetospania		jupiter	Burr, 1900				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183807
+183817	1180930	Gelotolabis		burri	Zacher, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183816
+183827	1179416	Sphingolabis		furcifer	de Bormans, 1883				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183827
+183848	1179760	Forficula		marginella	Costa, OG, 1839				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183848
+183852	1181955	Forficula		macrocephala	Palisot de Beauvois, 1805				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183851
+183853	1179750	Geracodes		brincki	Brindle, 1971				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183853
+183854	1180935	Eulabis		saramaccensis	Zacher, 1911				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183854
+183855	1180935	Metalabis		saramaccensis	(Zacher, 1911)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183854
+183858	1182156	Apovostox		gracilis	Borelli, 1932				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183857
+183860	1180500	Apterygida		lingua	Burr, 1902				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183860
+183861	1179892	Chelisoches		tigris	Burr, 1913				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183861
+183863	1181557	Cranopygia		proxima	Hincks, 1959				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183862
+183868	1181434	Pygidicrana		siamensis	Dohrn, 1862				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183867
+183869	1181434	Cranopygia		siamensis	(Dohrn, 1862)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183867
+183875	1181077	Archidux		bicolor	Brindle, 1973				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183874
+183877	1181970	Auchenomus		minor	Caudell, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183876
+183881	1180922	Kalocrania		similis	Zacher, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183880
+183882	1180922	Cranopygia		similis	(Zacher, 1911)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183880
+183886	1179482	Forficula		quadrimaculata	Stal, 1855				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183885
+183889	1182069	Proreus		pusillus	Borelli, 1918				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183888
+183893	1182000	Labia		myrmeca	Burr, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183892
+183894	1179985	Forficula		xanthopygia	Schmidt, 1866				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183894
+183896	1180810	Marava		victoriae	Burr, 1914				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183895
+183899	1182070	Chelisoches		semiluteus	de Bormans, 1899				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183898
+183902	1179867	Forficula		ignota	Burr, 1909				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183902
+183905	1180162	Spongophora		sphinx	Burr, 1900				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183905
+183906	1180162	Spongiphora		sphinx	(Burr, 1900)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183905
+183910	1180430	Forficesila		dilaticauda	Motschulsky, 1863				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183910
+183911	1180430	Platylabia		dilaticauda	(Motschulsky, 1863)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183910
+183915	1180681	Pygidicrana		imperatrix	Burr, 1899				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183915
+183918	1180162	Labidurodes		formosanus	Shiraki, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183918
+183919	1180162	Chelisoches		formosanus	(Shiraki, 1905)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183918
+183926	1180894	Brachylabis		minima	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183925
+183929	1180500	Chelisoches		elegans	de Bormans, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183929
+183934	1179672	Geracides		araguensis	Brindle, 1974				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183933
+183937	1179354	Cranopygia		yunnanea	Bey-Bienko, 1959				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183936
+183940	1179792	Kosmetor		bosei	Bharadwaj & Kapoor, 1967				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183939
+183942	1180657	Gonolabis		inca	Burr, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183941
+183944	1179547	Forficula		distincta	Guerin-Meneville, 1856				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183944
+183947	1180445	Labia		nigroflavida	Rehn, JAG, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183946
+183949	1180524	Labia		hilaris	de Bormans, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183948
+183951	1181270	Psalis		lefroyi	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183950
+183952	1179344	Anisolabis		xenia	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183952
+183954	1179549	Forficula		lativentris	Philippi, 1863				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183953
+183957	1181546	Cranopygia		constricta	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183956
+183963	1180326	Kosmetor		gracilis	Brindle, 1975				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183962
+183965	1180343	Argusina		papuana	Brindle, 1970				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183964
+183967	1181619	Labidurodes		orientalis	Ramamurthi, 1968				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183966
+183969	1180603	Kosmetor		tagalensis	Borelli, 1915				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183969
+183971	1180714	Brachylabis		traegaordhi	Burr, 1913				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183970
+183976	1180511	Gonolabis		peringueyi	de Bormans, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183975
+183978	1181427	Echinosoma		distanti	Burr, 1910				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183978
+183980	1181439	Pygidicrana		atriceps	Kirby, WF, 1903				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183980
+183981	1181427	Echinosoma		rufum	Borelli, 1921				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183981
+183982	1181536	Cranopygia		modesta	Burr, 1915				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183982
+183986	1180658	Labia		canaca	Burr, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183985
+183996	1179760	Labidura		clarki	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183996
+183997	1179760	Forficula		bilineata	Herbst, 1786				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183997
+184000	1179396	Chelidura		tomis	Kolenati, 1846				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184000
+184002	1179760	Labidura		distincta	Rodzianko, 1897				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184002
+184003	1179760	Chaetospania		distincta	(Rodzianko, 1897)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184002
+184008	1179760	Apterygida		huseinae	Rehn, JAG, 1901				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184009
+184009	1179760	Labidura		huseinae	(Rehn, JAG, 1901)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184009
+184010	1179760	Labidura		auditor	Scudder, 1876				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184010
+184012	1179711	Diplatys		mixtus	Borelli, 1923				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184011
+184014	1180341	Labia		decellei	Brindle, 1968				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184013
+184017	1180624	Homoeolabis		maindroni	Borelli, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184016
+184020	1179608	Vlax		ambesus	Menozzi, 1929				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184019
+184022	1180398	Diplatys		lamottei	Hincks, 1954				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466145
+184025	1179760	Labidura		mongolica	Rehn, JAG, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184025
+184026	1179760	Forficula		bivittata	Klug, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184026
+184035	1181404	Diplatys		gedyei	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184034
+184040	1181969	Leptisolabis		howardi	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184039
+184045	1179911	Brachylabis		cincticollis	Gerstaecker, 1883				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184044
+184048	1180529	Forficula		japonica	de Bormans, 1880				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184047
+184049	1179344	Anisolabis		perkinsi	Burr, 1910				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184049
+184051	1180812	Marava		doddi	Burr, 1914				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184050
+184052	1182047	Spongiphora		ochracea	Borg, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184052
+184053	1179760	Forficula		amurensis	Motschulsky, 1859				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184053
+184054	1179591	Forficula		auricularia		silanoides	subspecies	Karny, 1911	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184054
+184072	1179804	Pseudochelidura		biolleyi	Borelli, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184071
+184081	1180355	Chaetospania		delicatula	Brindle, 1970				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184080
+184088	1180518	Gonolabidura		volzi	Zacher, 1910				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184088
+184102	1180247	Pyge		sauteri	Burr, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184101
+184105	1181166	Labiduromma		scudderi	Brown, FM, 1984				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466388
+184108	1182057	Labia		pyropi	Borelli, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184107
+184112	1179986	Forficula		brevis	Rambur, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184112
+184115	1180312	Forficula		cacaoensis	Caudell, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184114
+184118	1180370	Emboros		brunnea	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184117
+184122	1180429	Labia		pilicornis	Motschulsky, 1863				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184122
+184123	1180526	Forficula		vrobusta	Semenov, 1908				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184123
+184125	1180651	Opisthocosmia		vivax	Burr, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184124
+184127	1179591	Forficula		borealis	Leach, 1835				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184127
+184129	1179812	Labia		cyanescens	Borelli, 1909				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184129
+184132	1181185	Hypurgus		kuhlgatzi	Burr, 1909				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184132
+184135	1179970	Thalperus		inermus	Borelli, 1923				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184135
+184139	1180396	Labia		browni	Hincks, 1954				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184138
+184143	1180259	Chaetospania		pygmaea	Mjöberg, 1924				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184142
+184144	1181625	Hemimerus		ovatus	Deoras, 1940				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184144
+184146	1179691	Labia		borellii	Burr, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184145
+184148	1180620	Neolobophora		insolita	Borelli, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184147
+184150	1179522	Neolobophora		volsella	Scudder, 1876				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184149
+184151	1179937	Forficula		serrata	Dohrn, 1865				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184151
+184159	1179807	Neolobophora		bogotensis	Borelli, 1906				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184159
+184160	1180429	Diplatys	Diplatys	rehni	Hincks, 1955				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184160
+184161	1180429	Labia		rehni	(Hincks, 1955)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184160
+184163	1180429	Labia		rogenhoferi	de Bormans, 1903				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184163
+184167	1181467	Opisthocosmia		maculifera	Dohrn, 1865				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184166
+184168	1179892	Sphingolabis		insularis	Kirby, WF, 1900				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184168
+184169	1179892	Labidura		nigricornis	Kirby, WF, 1888				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184169
+184171	1179833	Ancistrogaster		tristani	Borelli, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184170
+184172	1179892	Chelisoches		imitator	Ramamurthi, 1967				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184172
+184181	1181240	Chelisoches		pulchellus	Burr, 1901				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184181
+184186	1182105	Forficula		alpina	Bonelli, 1832				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184186
+184189	1179885	Sparatta		australica	de Bormans, 1883				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184189
+184190	1179885	Labidura		australica	(de Bormans, 1883)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184189
+184193	1181051	Labia		bituberculata	Brindle, 1970				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184192
+184194	1179892	Chelisoches		lilyanus	Holdhaus, 1908				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184194
+184195	1179892	Forficula		tasmanica	Blanchard, 1853				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184195
+184196	1179892	Anisolabis		tasmanica	(Blanchard, 1853)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184195
+184198	1181439	Pygidicrana		finschi	Karsch, F, 1885				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184198
+184200	1180162	Labidurodes		okinawaiensis	Shiraki, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184200
+184201	1180389	Kleiduchus		flavipennis	Chopard, 1951				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184201
+184205	1180801	Sphingolabis		subaptera	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184204
+184207	1179816	Apterygida		cavallii	Borelli, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184206
+184208	1181810	Bormansia		orientalis	Borelli, 1912				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184208
+184209	1179396	Forficula		pomerantzevi	Semenov, 1903				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184209
+184211	1181179	Chelidura		diminuta	Matsumura & Shiraki, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184211
+184212	1179807	Rhyacolabis		anachoreta	Rehn, JAG, 1921				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184212
+184215	1179986	Forficula		laminigera	Costa, A., 1881				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184215
+184217	1179760	Forficesila		suturalis	Burmeister, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184217
+184218	1179760	Forficula		crenata	Olivier, AG, 1791				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184218
+184220	1180426	Spongiphora		australiana	Mjöberg, 1913				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184219
+184231	1179796	Anisolabis		festae	Borelli, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184230
+184237	1181346	Dicrana		wigginsi	Burr, 1914				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184237
+184239	1182006	Labia		incerta	Kirby, WF, 1900				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184239
+184243	1179639	Forficula		brasiliensis	Gray, 1832				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184242
+184255	1180410	Labia		rotundifrons	Hincks, 1954				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184254
+184299	1181544	Cranopygia		maculipes	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184298
+184302	1179561	Psalis		minima	Moreira, 1931				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184301
+184305	1179534	Epilabis		burri	Srivastava, 1970				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184304
+184306	1180839	Pygidicrana		piepersi	Burr, 1908				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184306
+184309	1179591	Forficula		caucasica	Bey-Bienko, 1926				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184309
+184310	1180598	Epilandex		undulata	Ramamurthi, 1963				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184310
+184315	1182085	Apterygida		femorata	Matsumura, 1913				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184315
+184319	1180455	Pseudochelidura		montanus	Steinmann, 1981				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184318
+184328	1181265	Nannisolabis		willeyi	Burr, 1910				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184327
+184334	1181440	Pygidicrana		nietneri	Dohrn, 1862				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184333
+184340	1181042	Brachylabis		greensladei	Brindle, 1970				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184339
+184343	1179966	Gonolabis		sumatrana	de Bormans, 1900				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184343
+184347	1181473	Chelisoches		picticornis	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184347
+184353	1181082	Anechura		chopardi	(Brindle, 1973)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184353
+184361	1180896	Brachylabis		humicola	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184360
+184370	1179760	Forficula		bidens	Olivier, AG, 1791				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184370
+184373	1179547	Carcinophora		fusca	Borelli, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184373
+184376	1181442	Euborellia		kiangsuensis	Hincks, 1937				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184376
+184398	1180826	Irdex		philippinensis	Ramamurthi, 1967				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184398
+184415	1181814	Labiduromma		infernum	Scudder, 1890				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466392
+184420	1180698	Dicrana		separata	Burr, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184419
+184424	1179892	Chelisoches		stratioticus	Rehn, JAG, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184424
+184425	1179970	Opisthocosmia		roccattii	Borelli, 1906				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184425
+184434	1179645	Tagalina		semperi		erythronota	subspecies	Günther, K, 1929	Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184433
+184436	1180151	Nannisolabis		hincki	Srivastava, 1981				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184435
+184443	1181532	Spongiphora		frontalis	Burr, 1909				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184444
+184444	1181532	Dicrana		frontalis	(Burr, 1909)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184444
+184445	1181532	Dacnodes		frontalis	(Burr, 1909)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184444
+184446	1181532	Pygidicrana		frontalis	(Burr, 1909)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184444
+184448	1180387	Emboros		diversus	Hincks, 1953				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184447
+184449	1218456	Allostethus		vicinus	Srivastava, 1976				 Nomen nudum	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184449
+184453	1181476	Sondax		pubescens	Liu, 1946				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184453
+184454	1180316	Microvostox		septentrionalis	Hebard, 1917				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184454
+184457	1180808	Dicrana		hackeri	Burr, 1914				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184457
+184470	1179725	Labia		pendleburyi	Borelli, 1932				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184469
+184475	1179818	Spongiphora		aloysii-sabaudiae	Borelli, 1906				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184475
+184479	1179597	Forficula		targionii	Brunner von Wattenwyl, 1882				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184479
+184483	1180518	Anisolabis		piligera	de Bormans, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184482
+184486	1179760	Labidura		bengalensis	Dohrn, 1863				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184486
+184489	1179760	Labidura		leucotarsata	Mjöberg, 1913				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184489
+184491	1179760	Labidura		pluvialis	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184491
+184492	1179760	Forficula		rufescens	Palisot de Beauvois, 1805				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184492
+184493	1179760	Anisolabis		rufescens	(Palisot de Beauvois, 1805)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184492
+184496	1179890	Labidura		australica	Mjöberg, 1913				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184496
+184498	1179890	Forficula		dufouri	Desmarest, 1820				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184498
+184499	1179890	Labidura		dufouri	(Desmarest, 1820)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184498
+184501	1179890	Forficula		pallipes	Dufour, 1820				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184501
+184507	1179501	Forficula		brignolii	Taglianti, 1974				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184506
+184513	1182020	Forficula		percheron	Hebard, 1922				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184513
+184526	1179872	Labia		laminata	Burr, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184525
+184529	1179547	Chelidura		robusta	Scudder, 1869				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184529
+184530	1179547	Forficula		robusta	(Scudder, 1869)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184529
+184534	1182010	Apterygida		buscki	Rehn, JAG, 1903				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184534
+184537	1179941	Allostethus		gracilis	Brindle, 1966				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184537
+184538	1179941	Marava		gracilis	(Brindle, 1966)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184537
+184540	1181810	Bormansia		meridionalis		pallida	morph	Borelli, 1912	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184540
+184541	1181810	Marava		pallida	(Borelli, 1912)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184540
+184542	1179910	Chaetospania		escalerae	Burr, 1906				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184542
+184556	1180835	Platylabia		fallax	de Bormans, 1894				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184555
+184559	1181174	Labia		triangulata	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184558
+184561	1181129	Anisolabis		uncinata	Brindle, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184560
+184565	1181352	Euborellia		sisera	Burr, 1914				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184564
+184566	1180170	Sphingolabis		indumathiae	Fernando, 1957				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184566
+184579	1182062	Labia		appendicina	Menozzi, 1941				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184578
+184583	1180313	Labia		breviforceps	Caudell, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184582
+184590	1179862	Chelisoches		shelfordi	Burr, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184589
+184625	1180981	Gonolabis		silvestri	Borelli, 1902				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184624
+184629	1180021	Hamaxas		nitidulus	Hebard, 1927				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184629
+184633	1179922	Opisthocosmia		errois	Burr, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184633
+184637	1179565	Nannisolabis		punctulata	Moreira, 1931				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184636
+184642	1181480	Forficula		ancylura	Dohrn, 1865				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184641
+184658	1180477	Diplatys		schoutedeni	Hincks, 1937				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466144
+184669	1180836	Sphingolabis		feae	(de Bormans, 1894)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184669
+184716	1179862	Chelisoches		hercules	Burr, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184716
+184724	1179710	Diplatys		falcatus	Borelli, 1915				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184724
+184734	1180790	Anisolabis		occidentalis	Kirby, WF, 1896				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184733
+184756	1181389	Diplatys		bihamatus	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466137
+184783	1179973	Mecomera		modiglianii	de Bormans, 1900				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184783
+184805	1182011	Apolabis		mnemrosyne	Menozzi, 1929				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184805
+184810	1180899	Brachylabis		rufa	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184809
+184811	1179707	Protolabis		aroliata	Bey-Bienko, 1959				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184811
+184818	1181963	Platylabia		foliata	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184817
+184820	1181125	Anisolabis		sinuata	Brindle, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184819
+184822	1180765	Platylabia		nigriceps	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184821
+184825	1181123	Anisolabis		transversalis	Brindle, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184824
+184829	1179692	Labidura		figinii	Burr, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184828
+184831	1180552	Anisolabis		cheni	Bey-Bienko, 1959				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184830
+184834	1179823	Anisolabis		compressa	Borelli, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184833
+184837	1181992	Sparatta		aculeata	de Bormans, 1903				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184836
+184844	1182105	Forficula		paupercula	Géné, 1832				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184844
+184848	1180665	Platylabia		quadrata	Burr, 1902				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184847
+184854	1179680	Brachylabis		bicolor	Brindle, 1975				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:184853
+185021	1179834	Anisolabis		andreinii	Borelli, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:185020
+185028	1179880	Labia		pygidiata	Dubrony, 1879				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:185027
+185054	1179811	Anisolabis		armata	Borelli, 1906				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:185053
+185076	1180921	Nannopygia		picta	Zacher, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:185075
+185092	1181384	Diplatys		pectinatus	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466138
+185094	1180583	Diplatys		burri	Hincks, 1936				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466143
+185096	1181358	Spondox		sarasini	Burr, 1914				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:185095
+185099	1181895	Leptisolabis		usumbarana	Verhoeff, 1902				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:185098
+185299	1179910	Forficula		paederina	Gerstaecker, 1883				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:185298
+185358	1181589	Auchenomus		pandanicola	Chopard, 1951				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:185358
+185649	1179985	Forficula		aptera	Schmidt, 1866				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:185649
+459363	1181306	Platylabia		styligera	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:459362
+459442	1179818	Spongiphora		affinis	Borelli, 1907				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:459442
+465957	1180473	Anechura		sven-hedini	Bey-Bienko, 1933				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:465957
+465958	1179759	Diplatys	Diplatys	nana	Burr, 1914				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180817
+466035	1180831	Allodahlia		coriacea		signata	subspecies	Bey-Bienko, 1970	Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466035
+466036	1179847	Allostethus		jeolikotensis	Baijal & S Singh, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466036
+466037	1179847	Allostethus		maculatum	Boeseman, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466037
+466038	1179847	Allostethus		nainitalensis	Baijal & S Singh, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466038
+466039	1181704	Anisolabis		picea	Steinmann, 1989				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466039
+466042	1179721	Apachyus		australiae	Tillyard, 1926				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466042
+466043	1181785	Diplatys	Diplatys	sumatranus	Boeseman, 1952				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182559
+466047	1179857	Sparatta		setulosa	Burr, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466047
+466048	1179892	Lobophora		rufitarsis	Audinet-Serville, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466048
+466057	1181423	Diplatys	Nannopygia	longisetosa	Westwood, 1881				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466057
+466058	1179922	Eparchus		brevicontigua	Boeseman, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466058
+466059	1180500	Euenkrates		burri	Boeseman, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466059
+466065	1180500	Euenkrates		inermis	Boeseman, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466065
+466068	1180762	Forficula		bhatnagari	Gangola, 1965				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466068
+466069	1179591	Forficula		dentata	Fabricius, 1775				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466069
+466071	1179396	Forficula		elongata	Eversmann, 1859				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466071
+466072	1179591	Forficula		forcipata	Stephens, 1835				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466072
+466073	1179396	Forficula		mesmini	Azam, 1906				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466073
+466079	1180429	Labia		minor	Rehn, JAG & Hebard, 1914				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466079
+466082	1179591	Forficula		parallela	Fabricius, 1775				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466082
+466083	1181268	Gonolabis		calas	Fernando, 1961				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466083
+466084	1180119	Forficula		setulosa	Fieber, 1853				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466084
+466085	1180522	Spongiphora		stella	de Bormans, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466085
+466086	1179760	Labidura		dubronyi	Borg, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466086
+466088	1179760	Labidura		morbida	Audinet-Serville, 1831				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466088
+466089	1179760	Forficula		gigantea	Fabricius, 1787				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466089
+466090	1179760	Labidura		icterica	Audinet-Serville, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466090
+466091	1179760	Labidura		karschi	Borg, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466091
+466092	1179337	Labidura		loveridgei	Zeuner, 1962				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466092
+466093	1179760	Forficula		pallipes	Fabricius, 1775				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466093
+466094	1179760	Forficesila		terminalis	Audinet-Serville, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466094
+466096	1179777	Forficula		wallacei	Dohrn, 1865				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466098
+466102	1179890	Forficesila		castanea	Audinet-Serville, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466102
+466103	1179890	Forficesila		meridionalis	Audinet-Serville, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466103
+466106	1181472	Opisthocosmia		bidentata	Boeseman, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466106
+466108	1180430	Platylabia		camerunensis	Borg, 1904				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466108
+466109	1182139	Labia		flavoguttata	Shiraki, 1908				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466109
+466110	1180430	Forficula		pygmaea	Fabricius, 1793				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466110
+466115	1180126	Chelidura		dufourii	Audinet-Serville, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466115
+466119	1179763	Spongiphora		iherminieri	Audinet-Serville, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466119
+466120	1179763	Forficula		parallela	Westwood, 1837				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466120
+466121	1181736	Chelidura		euxina	Bey-Bienko, 1936				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466121
+466122	1180814	Chelidura		reiseri	Werner, F, 1907				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466122
+466123	1179843	Forficula		luteipennis	Audinet-Serville, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466123
+466124	1179633	Forficula		suturalis	Audinet-Serville, 1838				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466124
+466125	1179760	Forficula		erythrocephala	Fabricius, 1793				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466125
+466126	1179760	Apterygida		erythrocephala	(Fabricius, 1793)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466125
+466127	1179760	Forficula		flavipes	Fabricius, 1793				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466127
+466131	1179904	Forficula		bimaculata	Palisot de Beauvois, 1817				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466009
+466132	1179519	Forficula		luteipes	Scudder, 1876				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182015
+466220	1182135	Labia		yezoensis	Shiraki, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183227
+466280	1179355	Forficula		edentula	Wollaston, 1858				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466280
+466288	1179663	Strongylopsalis		boliviana	Brindle, 1971				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466288
+466289	1179921	Opisthocosmia		tenella	(Haan, 1842)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181475
+466290	1182046	Spongiphora		dissimilis	Moreira, 1930				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466290
+466324	1182136	Anechura		crinitata	Burr, 1911				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466324
+466326	1179951	Pygidicrana		marmoricrura	Audinet-Serville, 1838				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466326
+466327	1180964	Dicrana		jacobsoni	Boeseman, 1954				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466327
+466328	1179950	Forficesila		thoracica	Audinet-Serville, 1838				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466328
+466330	1180564	Diplatys		komodoensis	Bey-Bienko, 1965				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466330
+466331	1180971	Diplatys		sumatranus	Boeseman, 1952				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466331
+466332	1179902	Forficula		bipunctata	Fabricius, 1781				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466332
+466333	1179904	Forficula		albipes	Fabricius, 1787				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466333
+466334	1179400	Forficula		circinata	Finot, 1893				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466334
+466335	1180952	Mesochelidura		brongersmai	Boeseman, 1954				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466335
+466336	1179944	Forficula		scabriuscula	Audinet-Serville, 1838				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466336
+466337	1179892	Forficula		morio	Fabricius, 1775				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466337
+466338	1179896	Forficula		flavipennis	Fabricius, 1793				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:181589
+466340	1182225	Labia		emarginata	Srivastava, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466340
+466341	1179900	Forficula		annulata	Fabricius, 1793				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466341
+466342	1180458	Labia		testor	Steinmann, 1981				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466342
+466344	1179901	Forficula		elongata	Fabricius, 1793				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466343
+466345	1179936	Psalidophora		brunneipennis	Audinet-Serville, 1838				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466345
+466346	1179345	Apterygida		ruficeps	Erichson, 1842				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466346
+466348	1180975	Gonolabidura		boschmai	Boeseman, 1954				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466348
+466349	1179344	Forficula		pacifica	Erichson, 1842				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466349
+466350	1179506	Forficula		littorea	White, A, 1846				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466350
+466351	1180555	Anisolabis	Gelotolabis	externa	Bey-Bienko, 1959				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466351
+466374	1218522	Labidura		tertiaria	Scudder, 1876				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466374
+466389	1181815	Labiduromma		labens	Scudder, 1890				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466390
+466400	1218530	Labidura		lithophila	Scudder, 1876				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466401
+466507	1181545	Epicranopygia		vittipennis	(Hincks, 1955)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466507
+467503	1180840	Apachys		pascoei	Kirby, WF, 1896				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:467503
+467504	1179768	Pygidicrana		egregia	Kirby, WF, 1896				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:467504
+467507	1180798	Labidura		walkeri	Kirby, WF, 1896				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:467507
+467522	1221182	Olyntha		staphylinoides	Walker, F, 1853				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:467521
+467523	1179911	Psalis		picina	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:467523
+467558	1179488	Demogorgon		patagonicus	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:467558
+467559	1179887	Anisolabis		robusta	(Dubrony, 1879)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:467559
+467560	1179763	Spongophora		dysoni	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:467560
+180643	1181827	Chelisoches		diodontus	Ramamurthi, 1967				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180642
+180645	1181445	Labidura		trispinosa	Dohrn, 1863				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180644
+180647	1181341	Chelisoches		formosanus	Burr, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180646
+180649	1182025	Forficula		chilensis	Blanchard, 1851				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180648
+180652	1181495	Anisolabis		gestroi	Burr, 1907				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180652
+180653	1181242	Forficula		bequarti	Menozzi, 1930				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180653
+180655	1181201	Diplatys		conradti	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466140
+180659	1179440	Proreus		dentatus	Srivastava, 1976				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180658
+180664	1182047	Spongiphora		assiniensis	de Bormans, 1893				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180663
+180665	1180505	Nesogaster		apicalis	Hincks, 1951				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180665
+180667	1179759	Forficesila		annulipes	Lucas, HF, 1847				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180667
+180672	1179574	Vlax		paulensis	Moreira, 1932				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180671
+180676	1180994	Diplatys		severa	de Bormans, 1893				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466427
+180684	1181495	Chaetospania		tricuspidiata	Burr, 1906				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180684
+180687	1182024	Forficula		blanchardi	Guillon, 1841				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180686
+180689	1179518	Ancistrogaster		gulosa	Scudder, 1876				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180688
+180691	1181127	Anisolabis		nitens	Brindle, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180690
+180693	1181527	Pseudisolabis		kosswigi	Hincks, 1947				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180692
+180695	1180648	Opisthocosmia		aesculapia	Burr, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180694
+180697	1181128	Anisolabis		laevigata	Brindle, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180696
+180699	1179488	Forficesila		xanthopus	Stal, 1855				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180698
+180701	1179892	Lobophora		cincticornis	Stal, 1860				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180701
+180703	1180827	Opisthocosmia		lugens	de Bormans, 1894				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180702
+180705	1181376	Kosmetor		burgursi	Burr, 1916				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180704
+180706	1181467	Forficula		petropolis	Wood, 1874				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180706
+180708	1179514	Forficula		hirsuta	Scudder, 1876				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180708
+180714	1180315	Cylindrogaster		diplatyoides	Caudell, 1907				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180713
+180716	1180505	Labia		aculeata	de Bormans, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180716
+180718	1181064	Parasparatta		dominicana	Brindle, 1971				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180717
+180720	1180216	Mesochelidura		natalensis	Hincks, 1952				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180720
+180723	1182095	Forficula		macropyga	Westwood, 1836				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180722
+180728	1180901	Diplatys		basilewskyi	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466428
+180730	1180119	Forficula		pubescens	Géné, 1837				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180729
+180735	1181310	Anisolabis		vicina	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180734
+180736	1181466	Forficula		appendiculata	Charpentier, 1865				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180736
+180738	1180000	Diplatys		hamatus	Brindle, 1972				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466437
+180740	1179474	Forficula		amoena	Stal, 1855				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180739
+180742	1181195	Opisthocosmia		vicina	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180741
+180744	1179638	Forficula		orsinii	Géné, 1832				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180743
+180747	1179777	Prolabia		ascensionis	Hebard, 1917				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180747
+180749	1180430	Forficesila		curvicauda	Motschulsky, 1863				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180749
+180750	1180565	Haplodiplatys	Haplodiplatys	bilobus	Bey-Bienko, 1959				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466432
+180759	1180566	Haplodiplatys	Haplodiplatys	darwini	Bey-Bienko, 1959				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466431
+180763	1181869	Parasparatta		sinuata	Brindle, 1979				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180762
+180765	1180860	Forficula		schwarzi	Rehn, JAG, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180764
+180771	1180200	Haplodiplatys	Haplodiplatys	hincksi	Steinmann, 1974				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466436
+180774	1180180	Labidurodes		nigritus	Shiraki, 1905				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180773
+180776	1180727	Mesochelidura		kaffir	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180775
+180780	1181196	Opisthocosmia		nevilli	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180779
+180782	1180502	Labia		papua	de Bormans, 1900				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180781
+180783	1182113	Chelidura		vittigera	Fischer, 1846				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180783
+180787	1179733	Parasparatta		quinquepunctata	Borelli, 1932				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180786
+180789	1179732	Parasparatta		ecuadorensis	Borelli, 1932				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180788
+180792	1181452	Brachylabis		angulifera	Dohrn, 1864				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180791
+180797	1181392	Diplatys		ruwenzoricus	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466424
+180799	1181525	Diplatys		malaisei	Hincks, 1947				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466421
+180800	1180751	Haplodiplatys	Haplodiplatys	jansoni	(Kirby, WF, 1891)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466379
+180801	1180751	Cylindrogaster		jansoni	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466379
+180805	1179443	Timomenus		simulans	Srivastava, 1976				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180804
+180808	1181081	Forficula		stuckenbergi	Brindle, 1973				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180807
+180812	1181197	Opisthocosmia		shelfordi	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180811
+180814	1179973	Platylabia		javana	de Bormans, 1883				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180813
+180816	1179364	Pseudisolabis		immsi	Burr, 1913				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180815
+180822	1182115	Forficula		media	Hagenbach, 1822				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180822
+180826	1179884	Psalidophora		angusticollis	Dubrony, 1879				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180825
+180831	1181973	Pygidicrana		daemeli	Dohrn, 1869				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180830
+180833	1179379	Arixenia		jacobsoni	Burr, 1912				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180832
+180835	1180117	Forficula		hispanica	Herrich-Schäffer, 1840				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180835
+180836	1180117	Euborellia		hispanica	(Herrich-Schäffer, 1840)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180835
+180838	1180481	Prosparatta		humilis	Hebard, 1917				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180837
+180839	1181466	Ancistrogaster		falcifera	Rehn, JAG, 1905				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180839
+180842	1180891	Archidux		simplex	Brindle, 1966				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180841
+180846	1180570	Haplodiplatys	Haplodiplatys	similis	Bey-Bienko, 1959				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466429
+180848	1180214	Brachylabis		ruficollis	Hincks, 1957				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180847
+180851	1179843	Forficula		gracilis	Burmeister, 1838				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180851
+180853	1180608	Nannisolabis		camerunensis	Borelli, 1914				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180852
+180855	1181199	Diplatys		viator	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466425
+180857	1179615	Parasparatta		luederwaldti	Menozzi, 1932				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180856
+180861	1181454	Forcinella		marginalis	Dohrn, 1864				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180860
+180866	1181137	Forficula		angolensis	Brindle, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180865
+180868	1179791	Proreus		shaffii	Bharadwaj & Kapoor, 1967				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180867
+180870	1179595	Parasparatta		bocainensis	Machado, 1953				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180869
+180873	1181186	Opisthocosmia		brahma	Burr, 1904				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180872
+180876	1181443	Euborellia		askotensis	Gangola, 1968				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180875
+180878	1179734	Diplatys		insularis	Borelli, 1932				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466439
+180883	1180724	Chelidurella		purcelli	Burr, 1911				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180882
+180889	1179703	Praos		uncinata	Borelli, 1915				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180888
+180892	1180668	Neolobophora		tamul	Burr, 1901				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180891
+180896	1179493	Haplodiplatys	Haplodiplatys	orientalis	Steinmann, 1974				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466403
+180900	1181083	Cordax		africanus	Brindle, 1973				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180899
+180901	1179996	Forficula		caucasia	Semenov, 1903				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180901
+180903	1181390	Diplatys		tibetanus	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466382
+180905	1181704	Gonolabis		picea	(Steinmann, 1989)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180904
+180907	1180320	Diplatys		urbanii	Brindle, 1975				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466433
+180910	1181408	Diplatys		propinquus	Hincks, 1955				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180909
+180915	1181585	Diplatys		glenis	Kapoor, 1968				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:466419
+180918	1181476	Forficula		metallica	Dohrn, 1865				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180917
+180921	1181138	Forficula		crassa	Brindle, 1978				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:180920
+467613	1180752	Sphingolabis		variegata	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:182135
+467614	1180760	Sphingolabis		spiculifera	Kirby, WF, 1891				Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:467614
+467615	1181484	Sphingolabis		meridionalis	Kirby, WF, 1891				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:467615
+470591	1180588	Labia		abnormis	Hebard, 1927				Junior synonym	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:470591
+471268	1180170	Labia		mucronata	(Stal, 1860)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:183049
+473046	1180892	Forficula		biturberculata	(Brindle, 1966)				Subsequent combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:473046
+473049	1224059	Socotralabis		hulai		bezdeki	subspecies	Kocarek, 2014	Original combination	Unambiguous synonym	urn:lsid:Dermaptera.speciesfile.org:TaxonName:473052

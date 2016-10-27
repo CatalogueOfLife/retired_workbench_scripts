@@ -1,0 +1,23 @@
+ReferenceID	Authors	Year	Title	Details	
+663	Howson, C. M.; Picton, B. E.	1997	The species directory of the marine fauna and flora of the British Isles and surrounding seas	Ulster Museum Publication, 276. The Ulster Museum: Belfast, UK. ISBN 0-948150-06-8. vi, 508 (+ cd-rom) pp.	
+1318	van der Land, J. (ed)	2008	UNESCO-IOC Register of Marine Organisms (URMO)		
+1398	van der Land, J.	2001	Gnathostomulida, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+8624	Sterrer, W.	1970	Gnathostomulida, in: Riedl, R. (Ed.). Fauna und Flora der Adria. Parey, Berlin, 2nd ed.,		
+8625	Riedl, R.	1971	On the genus Gnathostomula (Gnathostomulida). Int. Revue ges	Hydrobiol. 56(3): 385-496	
+8626	Ax, P.	1956	Die Gnathostomulida, eine rätselhafte Wurmgruppe aus dem Meeressand. Abhandlungen der Akademie für Wissenschaft und Literatur Mainz, mathematisch-naturwissenschaftliche Klasse 8: 1-32.    		
+8628	Kristensen, R.M.; Nørrevang, A.	1977	On the fine structure of <i>Rastrognathia macrostoma</i> gen. et sp. n. placed in Rastrognathiidae fam. n. (Gnathostomulida). <i>Zoologica Scri. 6</i>: 27-41		
+8630	Mamkaev, Y. V.	1961	A new representative of the Gnathostomulids: Gnathostomula murmanica sp. n. . Doklady Akademii Nauk SSSR   141(6): 1501-1504. English translation	Doklady Biological Sciiences Section Translations. 141: 1115-1117	
+8631	Müller, U.; Ax, P.	1971	Gnathostomulida von der Nordseeinsel Sylt mit Beobachtungen zur Lebensweise und Entwicklung von Gnathostomula paradoxa Ax	Mikrofauna des Meeresbodens. 9: 1-41	
+8633	Sterrer, W.	1965	Gnathostomula axi kirsteuer und Austrognathia (Ein Weiteres Gnathostomuliden-Genus) aus der nordadria	Z. Morph. u. Okol. Tiere. 55(7), 783-795	
+8634	Sterrer, W.	1966	<i>Gnathostoula paradoxa</i> und Vertreter von <i>Pterognathia</i> (ein neues Gnathostomuliden-Genus) von der schwedischen Westküste []. <i>Arkiv för Zoologi, Serie 2, 18(16)</i>: 405-413		
+8635	Sterrer, W.	1966	Neue Gnathostomulida. Veröffentlichungen des Instituts für Meeresforschung in	Bremerhaven, Sonderband. 2: 201-208	
+8636	Sterrer, W.	1969	Beiträge zur Kenntnis der Gnathostomulida I. Anatomie und Morphologie des Genus Pterognathia Sterrer	Arkiv för Zoologi , Serie. 2(22): 1-125	
+8637	Sterrer, W.	1971	On the Biology of Gnathostomulida. Vie et	Milieu, Suppl. 22: 493-507	
+8639	Sterrer, W.	1991	<i>Triplignathia adriatica</i>, new genus and species, and a typology of mouth parts in Austrognathiidae (Ganthostomulida). <i>Proc. Biol. Soc. Wash. 104(3)</i>: 640-646		
+8640	Sterrer, W.	1997	Gnathostomulida from the Canary Islands. <i>Proc. Biol. Soc. Wash. 110(2)</i>: 186-197		
+8926	Fize, A.	1964	Contribution à l'étude de la microfaune des sables littoraux du Golfe d'Aigues Mortes. PhD Thesis. Université de Montpellier		
+132604	Shiel, R.; Smales, L.; Sterrer, W.; Duggan, I. C.; Pichelin, S.; Green, J. D.	2009	Phylum Gnathifera: lesser jaw worms, rotifers, thorny-headed worms, New Zealand inventory of biodiversity: 1	Kingdom Animalia: Radiata, Lophotrochozoa. in: Gordon, D.P. (Ed Deuterostomia. : 137-158	
+132823	BODC	2009	Species list from the British Oceanographic Data Centre.		
+141268	Sørensen, M. V. and W. Sterrer.	2009	Gnathostomulida of the Gulf of Mexico,		
+193062	Sterrer, W.	2011	Two species (one new) of Gnathostomulida (Bursovaginoidea: Conophoralia) from Barbados	Proceedings of the Biological Society of Washington. 124(3): 141-146	
+223928	Achatz, J. G.; Sterrer, W.	2015	New Austrognathiidae (Gnathostomulida: Conophoralia) from Hong Kong and Japan: microscopic anatomy, ultrastructure and evolutionary implications	Zootaxa. 3955(2): 267-282	

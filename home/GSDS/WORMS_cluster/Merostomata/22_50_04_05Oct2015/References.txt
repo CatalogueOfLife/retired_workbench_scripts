@@ -1,0 +1,6 @@
+ReferenceID	Authors	Year	Title	Details	
+42			ITIS database		
+64			North East Atlantic Taxa		
+1318			UNESCO-IOC Register of Marine Organisms		
+3017	Meinkoth, N.A.	1981	Field guide to North American seashore creatures. The Audubon Society. Alfred A. Knopf. New York. 799 p.		
+3042	Pollock, L.W.	1998	A Practical Guide to the Marine Animals of Northeastern North America.		

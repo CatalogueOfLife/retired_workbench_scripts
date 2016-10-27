@@ -1,0 +1,277 @@
+AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
+101097	Mediterranean Sea	Text		
+101097	Mediterranean Sea	Text		
+101100	Mediterranean Sea	Text		
+101100	Mediterranean Sea	Text		
+101101	Mediterranean Sea	Text		
+101103	Mediterranean Sea	Text		
+101108	Mediterranean Sea	Text		
+101108	Mediterranean Sea	Text		
+101109	Mediterranean Sea	Text		
+101109	Mediterranean Sea	Text		
+101114	Mediterranean Sea	Text		
+101114	Mediterranean Sea	Text		
+101115	Mediterranean Sea	Text		
+101115	Mediterranean Sea	Text		
+101122	Mediterranean Sea	Text		
+101122	Mediterranean Sea	Text		
+101130	Mediterranean Sea	Text		
+101130	Mediterranean Sea	Text		
+101131	Mediterranean Sea	Text		
+101129	Mediterranean Sea	Text		
+101129	Mediterranean Sea	Text		
+101135	Mediterranean Sea	Text		
+101135	Mediterranean Sea	Text		
+101137	Mediterranean Sea	Text		
+101137	Mediterranean Sea	Text		
+101139	Mediterranean Sea	Text		
+101140	Mediterranean Sea	Text		
+101140	Mediterranean Sea	Text		
+101142	Mediterranean Sea	Text		
+101145	Mediterranean Sea	Text		
+101145	Mediterranean Sea	Text		
+101146	Mediterranean Sea	Text		
+101146	Mediterranean Sea	Text		
+101147	Mediterranean Sea	Text		
+101147	Mediterranean Sea	Text		
+101126	Mediterranean Sea	Text		
+101126	Mediterranean Sea	Text		
+101127	Mediterranean Sea	Text		
+101148	Arctic Ocean	Text		
+101144	Arctic Ocean	Text		
+265128	Arctic Ocean	Text		
+101141	Arctic Ocean	Text		
+101138	Arctic Ocean	Text		
+101136	Arctic Ocean	Text		
+265115	Arctic Ocean	Text		
+265118	Arctic Ocean	Text		
+101132	Arctic Ocean	Text		
+101134	Arctic Ocean	Text		
+265085	Arctic Ocean	Text		
+265087	Arctic Ocean	Text		
+101124	Arctic Ocean	Text		
+101121	Arctic Ocean	Text		
+101113	Arctic Ocean	Text		
+101106	Arctic Ocean	Text		
+265061	Arctic Ocean	Text		
+101104	Arctic Ocean	Text		
+101105	Arctic Ocean	Text		
+101099	North Sea	Text		
+101116	North Sea	Text		
+101116	North Sea	Text		
+101123	North Sea	Text		
+101123	North Sea	Text		
+101139	North Sea	Text		
+101142	North Sea	Text		
+101143	Baltic sea	Text		
+101143	Baltic sea	Text		
+101126	Baltic sea	Text		
+101126	Baltic sea	Text		
+101140	Baltic sea	Text		
+101140	Baltic sea	Text		
+101137	Baltic sea	Text		
+101137	Baltic sea	Text		
+101129	Baltic sea	Text		
+101120	Baltic sea	Text		
+101120	Baltic sea	Text		
+101112	Baltic sea	Text		
+101112	Baltic sea	Text		
+101103	Black Sea	Text		
+101101	Black Sea	Text		
+101103	Black Sea	Text		
+101131	Black Sea	Text		
+101131	Black Sea	Text		
+101139	Black Sea	Text		
+101139	Black Sea	Text		
+101127	Black Sea	Text		
+101127	Black Sea	Text		
+101142	Black Sea	Text		
+101142	Black Sea	Text		
+101145	Black Sea	Text		
+101145	Black Sea	Text		
+265130	Caribbean Sea	Text		
+265129	Caribbean Sea	Text		
+265122	Caribbean Sea	Text		
+265124	Caribbean Sea	Text		
+265121	Caribbean Sea	Text		
+265102	Caribbean Sea	Text		
+265104	Caribbean Sea	Text		
+265090	Caribbean Sea	Text		
+265097	Caribbean Sea	Text		
+265112	Caribbean Sea	Text		
+265113	Caribbean Sea	Text		
+265054	Caribbean Sea	Text		
+265063	Caribbean Sea	Text		
+265068	Caribbean Sea	Text		
+265069	Caribbean Sea	Text		
+265092	Caribbean Sea	Text		
+265099	Caribbean Sea	Text		
+265100	Caribbean Sea	Text		
+101124	North West Atlantic	Text		
+101120	North West Atlantic	Text		
+101117	North West Atlantic	Text		
+101121	North West Atlantic	Text		
+101112	North West Atlantic	Text		
+101113	North West Atlantic	Text		
+101104	North West Atlantic	Text		
+101105	North West Atlantic	Text		
+101102	North West Atlantic	Text		
+101129	North West Atlantic	Text		
+101137	North West Atlantic	Text		
+101138	North West Atlantic	Text		
+101140	North West Atlantic	Text		
+101141	North West Atlantic	Text		
+101143	North West Atlantic	Text		
+265123	Red Sea	Text		
+265062	Red Sea	Text		
+101122	Red Sea	Text		
+101119	Roscoff	Text		
+101111	Wimereux	Text		
+265064	Australia	Text		
+265109	Australia	Text		
+835358	Gulf of Mexico	Text		
+265065	Gulf of Mexico	Text		
+835359	Gulf of Mexico	Text		
+101122	European waters (ERMS scope)	Text		
+101123	European waters (ERMS scope)	Text		
+101124	European waters (ERMS scope)	Text		
+101119	European waters (ERMS scope)	Text		
+101120	European waters (ERMS scope)	Text		
+101121	European waters (ERMS scope)	Text		
+101117	European waters (ERMS scope)	Text		
+101118	European waters (ERMS scope)	Text		
+101116	European waters (ERMS scope)	Text		
+101115	European waters (ERMS scope)	Text		
+101114	European waters (ERMS scope)	Text		
+101111	European waters (ERMS scope)	Text		
+101113	European waters (ERMS scope)	Text		
+101112	European waters (ERMS scope)	Text		
+101106	European waters (ERMS scope)	Text		
+101107	European waters (ERMS scope)	Text		
+101109	European waters (ERMS scope)	Text		
+101108	European waters (ERMS scope)	Text		
+101101	European waters (ERMS scope)	Text		
+101097	European waters (ERMS scope)	Text		
+101100	European waters (ERMS scope)	Text		
+101099	European waters (ERMS scope)	Text		
+101105	European waters (ERMS scope)	Text		
+101104	European waters (ERMS scope)	Text		
+101102	European waters (ERMS scope)	Text		
+101103	European waters (ERMS scope)	Text		
+101131	European waters (ERMS scope)	Text		
+101130	European waters (ERMS scope)	Text		
+101129	European waters (ERMS scope)	Text		
+101134	European waters (ERMS scope)	Text		
+101132	European waters (ERMS scope)	Text		
+101140	European waters (ERMS scope)	Text		
+101141	European waters (ERMS scope)	Text		
+101139	European waters (ERMS scope)	Text		
+101138	European waters (ERMS scope)	Text		
+101137	European waters (ERMS scope)	Text		
+101136	European waters (ERMS scope)	Text		
+101135	European waters (ERMS scope)	Text		
+101143	European waters (ERMS scope)	Text		
+101144	European waters (ERMS scope)	Text		
+101142	European waters (ERMS scope)	Text		
+101145	European waters (ERMS scope)	Text		
+101148	European waters (ERMS scope)	Text		
+101147	European waters (ERMS scope)	Text		
+101146	European waters (ERMS scope)	Text		
+101127	European waters (ERMS scope)	Text		
+101128	European waters (ERMS scope)	Text		
+101149	European waters (ERMS scope)	Text		
+101126	European waters (ERMS scope)	Text		
+265114	North West Pacific	Text		
+265067	North West Pacific	Text		
+265075	North West Pacific	Text		
+265066	West Indian Ocean	Text		
+265065	New Zealand Exclusive Economic Zone	Text		
+265073	New Zealand Exclusive Economic Zone	Text		
+265926	New Zealand Exclusive Economic Zone	Text		
+265929	New Zealand Exclusive Economic Zone	Text		
+265927	New Zealand Exclusive Economic Zone	Text		
+265928	New Zealand Exclusive Economic Zone	Text		
+265133	New Zealand Exclusive Economic Zone	Text		
+101123	Belgian Exclusive Economic Zone	Text		
+101111	Belgian Exclusive Economic Zone	Text		
+265135	North East Pacific	Text		
+265119	Beaufort Sea	Text		
+731314	Sardinia	Text		
+265133	South West Pacific Ocean	Text		
+265093	South West Pacific Ocean	Text		
+265929	South West Pacific Ocean	Text		
+265928	South West Pacific Ocean	Text		
+265930	South West Pacific Ocean	Text		
+265927	South West Pacific Ocean	Text		
+265926	South West Pacific Ocean	Text		
+265073	South West Pacific Ocean	Text		
+265074	South Africa	Text		
+265050	Antarctica	Text		
+265132	Central Indo-Pacific	Text		
+265110	Central Indo-Pacific	Text		
+101130	East North Atlantic	Text		
+101139	East North Atlantic	Text		
+101142	East North Atlantic	Text		
+101126	East North Atlantic	Text		
+101149	East North Atlantic	Text		
+101128	East North Atlantic	Text		
+101102	East North Atlantic	Text		
+101111	East North Atlantic	Text		
+101107	East North Atlantic	Text		
+101119	East North Atlantic	Text		
+101118	East North Atlantic	Text		
+101117	East North Atlantic	Text		
+265058	North East Indian Ocean	Text		
+265051	North East Indian Ocean	Text		
+265847	North East Indian Ocean	Text		
+265055	North East Indian Ocean	Text		
+266018	North East Indian Ocean	Text		
+265965	North East Indian Ocean	Text		
+265966	North East Indian Ocean	Text		
+265080	Northestern South Atlantic	Text		
+265078	Southeastern South Pacific	Text		
+265098	Southeastern South Pacific	Text		
+265120	Southeastern South Pacific	Text		
+265111	Southern South Atlantic	Text		
+265138	Southern South Atlantic	Text		
+265134	Southern South Atlantic	Text		
+101132	West Arctic Ocean	Text		
+101134	West Arctic Ocean	Text		
+101136	West Arctic Ocean	Text		
+101106	West Arctic Ocean	Text		
+265083	West Central Atlantic	Text		
+265086	West North Atlantic	Text		
+265101	West North Atlantic	Text		
+265079	West North Atlantic	Text		
+265081	West North Atlantic	Text		
+265071	West North Atlantic	Text		
+265059	West North Atlantic	Text		
+265060	West North Atlantic	Text		
+265065	West North Atlantic	Text		
+265126	West North Atlantic	Text		
+265105	West North Atlantic	Text		
+265106	West North Atlantic	Text		
+265107	West North Atlantic	Text		
+265108	West North Atlantic	Text		
+265136	West North Atlantic	Text		
+265094	West North Atlantic	Text		
+265137	West North Pacific	Text		
+265140	West North Pacific	Text		
+265127	West North Pacific	Text		
+265057	West North Pacific	Text		
+265921	West North Pacific	Text		
+265922	West North Pacific	Text		
+101099	West North Pacific	Text		
+265048	West North Pacific	Text		
+265052	West North Pacific	Text		
+265072	West North Pacific	Text		
+265070	West North Pacific	Text		
+265091	West North Pacific	Text		
+265088	West North Pacific	Text		
+265082	West North Pacific	Text		
+265053	Western South Atlantic	Text		
+265848	Western South Atlantic	Text		
+265116	Western South Atlantic	Text		
+265131	Western South Atlantic	Text		
+265117	Western South Pacific	Text		
+101101	Black Sea	Text		

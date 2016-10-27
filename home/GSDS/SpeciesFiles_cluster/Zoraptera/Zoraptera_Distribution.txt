@@ -1,0 +1,106 @@
+﻿AcceptedTaxonID	DistributionElement	StandardInUse
+1218734	MYA	TDWG Level 3 code
+1218734	Myanmar [Cretaceous]	text
+1218736	MYA	TDWG Level 3 code
+1218736	Myanmar [Cretaceous]	text
+1218737	Myanmar [Cretaceous]	text
+1218738	MYA	TDWG Level 3 code
+1218738	Myanmar [Cretaceous]	text
+1218739	GHA	TDWG Level 3 code
+1218739	GUI	TDWG Level 3 code
+1218739	Guinea, Ghana, Ivory Coast	text
+1218739	IVO	TDWG Level 3 code
+1218740	Sri Lanka	text
+1218740	SRL	TDWG Level 3 code
+1218741	DOM	TDWG Level 3 code
+1218741	Dominican Republic [Miocene]	text
+1218743	DOM	TDWG Level 3 code
+1218743	Dominican Republic [Miocene]	text
+1218744	COS	TDWG Level 3 code
+1218744	Costa Rica (Cocos), Panama, Dominican Republic, Trinidad, Venezuela, French Guiana	text
+1218744	CPI-CO	TDWG Level 4 code
+1218744	DOM	TDWG Level 3 code
+1218744	FRG	TDWG Level 3 code
+1218744	PAN	TDWG Level 3 code
+1218744	TRT	TDWG Level 3 code
+1218744	VEN	TDWG Level 3 code
+1218745	84    	TDWG Level 2 code
+1218745	Brazil	text
+1218746	Samoa	text
+1218746	SAM-WS	TDWG Level 4 code
+1218747	ZAI	TDWG Level 3 code
+1218747	Zaire	text
+1218748	Indonesia (Sumatra), Malay Peninsula	text
+1218748	MLY	TDWG Level 3 code
+1218748	SUM	TDWG Level 3 code
+1218749	GUA	TDWG Level 3 code
+1218749	Guatemala	text
+1218750	Madagascar	text
+1218750	MDG	TDWG Level 3 code
+1218751	COS	TDWG Level 3 code
+1218751	PAN	TDWG Level 3 code
+1218751	Panama, Costa Rica	text
+1218752	CLM	TDWG Level 3 code
+1218752	Colombia	text
+1218753	DEL	TDWG Level 3 code
+1218753	FLA	TDWG Level 3 code
+1218753	TEX	TDWG Level 3 code
+1218753	Texas, Delaware, Florida, United States	text
+1218754	84    	TDWG Level 2 code
+1218754	Brazil, Peru, Guyana	text
+1218754	GUY	TDWG Level 3 code
+1218754	PER	TDWG Level 3 code
+1218755	Indonesia (Java)	text
+1218755	JAW	TDWG Level 3 code
+1218756	PER	TDWG Level 3 code
+1218756	Peru	text
+1218757	Christmas Island	text
+1218757	XMS	TDWG Level 3 code
+1218758	ECU	TDWG Level 3 code
+1218758	GAL	TDWG Level 3 code
+1218758	Galapagos	text
+1218759	JAM	TDWG Level 3 code
+1218759	Jamaica	text
+1218760	BOL	TDWG Level 3 code
+1218760	Bolivia, Peru	text
+1218760	PER	TDWG Level 3 code
+1218761	CHT	TDWG Level 3 code
+1218761	Tibet	text
+1218762	79    	TDWG Level 2 code
+1218762	Mexico	text
+1218763	COS	TDWG Level 3 code
+1218763	Costa Rica	text
+1218764	TAI	TDWG Level 3 code
+1218764	Taiwan	text
+1218765	DOM	TDWG Level 3 code
+1218765	Dominican Republic [Miocene]	text
+1218766	PHI	TDWG Level 3 code
+1218766	Philippines	text
+1218767	Brazil	text
+1218767	BZC-MT	TDWG Level 4 code
+1218768	Indonesia (Mentawai)	text
+1218768	SUM	TDWG Level 3 code
+1218769	CHT	TDWG Level 3 code
+1218769	Tibet	text
+1218770	FLA	TDWG Level 3 code
+1218770	JAM	TDWG Level 3 code
+1218770	Jamaica, United States (Florida)	text
+1218771	Hawaii	text
+1218771	HAW-HI	TDWG Level 4 code
+1218772	MAU	TDWG Level 3 code
+1218772	Mauritius	text
+1218773	84    	TDWG Level 2 code
+1218773	Brazil	text
+1218774	FIJ	TDWG Level 3 code
+1218774	Fiji	text
+1218783	84    	TDWG Level 2 code
+1218783	BZN-AM	TDWG Level 4 code
+1218785	SEY	TDWG Level 3 code
+1220634	MLY-PM	TDWG Level 4 code
+1220635	MLY-PM	TDWG Level 4 code
+1220636	MLY-PM	TDWG Level 4 code
+1220637	NWG	TDWG Level 3 code
+1220637	Papua New Guinea	text
+1220648	BZN-PA	TDWG Level 4 code
+1223787	CHH	TDWG Level 3 code
+1223787	China: Hainan.	text

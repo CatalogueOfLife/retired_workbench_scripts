@@ -1,0 +1,199 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+378255	114619	Acanthodasys		arcachonensis	Kisielewski, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378255	
+265600	378289	Paraturbanella		brevicaudatus	Rao, 1991				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265600	
+114686	114688	Paraturbanella		microptera	Wilke, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114686	
+422196	114688	Paraturbanella		teisseri	Swedmark, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:422196	
+265500	608022	Neodasys		ciritus	Evans, 1992				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265500	
+114601	114600	Pleurodasys		megasoma	Boaden, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114601	
+765298	378231	Chaetura		capricornia	Metschnikoff, 1865				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765298	
+265917	378231	Dichaetura		capricornis	(Metschnikoff, 1865)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265917	
+378284	265595	Thaumastoderma		copriophorum	Chang, Lee & Clausen, 1998				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378284	
+395492	265594	Thaumastroderma		clandestinum	Chang, Kubota & Shirayama, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:395492	
+114676	247827	Thaumastoderma		renaudi	Kisielewski, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114676	
+267975	265263	Chaetonotus		guruguetoi	Grosso, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267975	
+247830	267979	Chaetonotus		jucundus	Schrom, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247830	
+267993	265263	Chaetonotus		truncatus	Saito, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267993	
+231867	154540	Halichaetonotus		marinus	Giard, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:231867	
+265294	378189	Chaetonotus		fencheli	d'Hondt, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265294	
+265360	378176	Chaetonotus		penthacanthus	Balsamo, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265360	
+265407	378192	Chaetonotus		trianguliforme	Visvesvara, 1964				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265407	
+378187	760964	Chaetonotus	Primochaetus	annectens	Grosso & Drahg, 1991				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378187	
+265598	247805	Paraturbanella		bergensis	Clausen, 1996				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265598	
+247803	378269	Ptychostomella		brachycephalus	(Lévi, 1954)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247803	
+114638	378270	Ptychostomella		helena	Roszczak, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114638	
+247912	114515	Chaetonotus	Halichaetonotus	jucundus	d'Hondt, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247912	
+114482	247796	Chaetonotus		decipiens	Remane, 1926				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114482	
+114488	114517	Chaetonotus		littoralis	d'Hondt, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114488	
+114495	114520	Chaetonotus		paradoxus	Remane, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114495	
+114497	114521	Chaetonotus		parvus	Wilke, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114497	
+231868	114522	Chaetonotus		pleuracanthus	Remane, 1926				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:231868	
+114503	711014	Chaetonotus		somniculosus	Mock, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114503	
+265405	378195	Chaetonotus		testiculophorus	Hummon, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265405	
+378194	711613	Halichaetonotus		poloniense	Hummon, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378194	
+114512	247796	Halichaetonotus		dubius	(Remane, 1926)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114512	
+114525	711015	Halichaetonotus		spinosus	Mock, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114525	
+265533	378243	Macrodasys		formeriae	Todaro & Rocha, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265533	
+265534	378244	Macrodasys		hexadactylus	Rao, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265534	
+266021	378223	Stylochaeta		abarbita	Visvesvara, 1964				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:266021	
+265905	378225	Dasydytes		bisetosus	Thompson, 1891				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265905	
+765286	378226	Dasydytes	Setodytes	chatticus	Schwank, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765286	
+265906	378226	Dasydytes		chatticus	Schwank, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265906	
+265908	378227	Dasydytes		dubius	Voigt, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265908	
+265910	378228	Dasydytes		iunctus	(Greuter, 1917)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265910	
+265911	378185	Dasydytes		lemnicola	Schwank, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265911	
+265915	378229	Dasydytes		primus	(Grünspan, 1908)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265915	
+265916	378230	Dasydytes		tongiorgii	Balsamo, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265916	
+764912	378185	Dasydytes	Setodytes	lemnicola	Schwank, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:764912	
+765287	378230	Dasydytes	Setopus	tongiorgii	Balsamo, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765287	
+765304	114573	Dactylopodalia		baltica	(Remane, 1929)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765304	
+765305	114573	Dactylopodella		baltica	Remane, 1926				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765305	
+765306	114574	Dactylopodola		brevis	d'Hondt & Balsamo, 2009				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765306	
+765308	265512	Dactylopodalia		indica	Rao & Ganapati, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765308	
+765309	114575	Dactylopodalia		roscovita	Swedmark, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765309	
+765310	114576	Dactylopodalia		typhle	(Remane, 1927)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765310	
+765311	114576	Dactylopodella		typhle	Remane, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765311	
+265511	114574	Dactylopodola		cornuta		cornuta	Subspecies	(Swedmark, 1956)	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265511	
+765307	114574	Dactylopodola		cornuta		var. brevis	Variety	d'Hondt, 1966	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765307	
+114541	760983	Ichthydium		cyclocephalum	Grünspan, 1908				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:114541	
+265464	265455	Ichthydium	Furficulichthys	monolobum	Brunson, 1950				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265464	
+265472	265473	Ichthydium	Ichthydium	stokesi	Grosso, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265472	
+265445	265471	Ichthydium		armigerum	Balsamo & Fregni, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265445	
+267986	114592	Thiodasys		sterreri	Boaden, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267986	
+114703	378297	Turbanella		subterrenea	Remane, 1934				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114703	
+267998	114690	Turbanella		cirrata	Papi, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267998	
+154533	114690	Turbanella		digitifera	(d'Hondt, 1965)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154533	
+114694	114690	Turbanella		italica	Gerlach, 1953				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114694	
+114704	114691	Turbanella		thiophila	Boaden, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114704	
+266004	378299	Redudasys		fornerisae	Kisielewski, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:266004	
+114643	710957	Tetranchyroderma		antennatum	Luporini, Magagnini & Tongiorgi, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114643	
+114644	265571	Tetranchyroderma		apus	Remane, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114644	
+378273	265572	Tetranchyroderma		austaliense	Nicholas & Todaro, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378273	
+267989	247818	Echinodasys		megastomum	(Remane, 1927)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267989	
+267990	247820	Echinodasys		polyacanthus	(Remane, 1927)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267990	
+265574	247813	Tetranchyroderma		canariensis	Todaro, Ancona, Marzano, Gallo D'Addabbo & Grimaldi De Zio, 2003				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265574	
+114646	247814	Tetranchyroderma		cirrophora	Lévi, 1950				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114646	
+114647	378274	Tetranchyroderma		coelopodium	Boaden, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114647	
+265576	378275	Tetranchyroderma		enalosum	Hummon, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265576	
+114656	247818	Tetranchyroderma		megastoma	(Remane, 1927)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114656	
+114660	247820	Tetranchyroderma		polyacanthus	(Remane, 1927)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114660	
+395491	265592	Tetranchyderma		weissi	Todaro, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:395491	
+114655	746208	Tetranchyroderma		massilense	Swedmark, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114655	
+265585	760657	Tetranchyroderma		paralittoralis	Rao, 1991				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265585	
+247840	378281	Tetranchyroderma		pugetensis	Wieser, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247840	
+114669	265591	Tetranchyroderma		vera	Wilke, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114669	
+114665	247823	Tetranchyroderma		suecica	Boaden, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114665	
+764983	378209	Chaetonotus	Lepidochaetus	brasilianus	Balsamo, d’Hondt, Pierboni & Grilli, 2009				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:764983	
+265424	378213	Chaetonotus	Lepidochaetus	zelinkai	Grünspan, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265424	
+265261	378213	Chaetonotus		berissensis	Grosso, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265261	
+265271	378210	Chaetonotus		carpaticus	Rudescu, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265271	
+265352	378211	Chaetonotus		ornatus	Daday, 1897				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265352	
+265371	378212	Chaetonotus		pusillus	Daday, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265371	
+765213	378207	Chaetonotus		squamatus	Dujardin, 1841				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765213	
+267980	378207	Chaetonotus		tesselatus	Metschnikoff, 1865				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267980	
+378314	378213	Lepidochaetus		zelinkai		var. bernensis	Variety	Steiner, 1913	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378314	
+378312	378213	Lepidochaetus		zelinkai		var. gallicus	Variety	d'Hondt, 1967	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378312	
+378311	378213	Lepidochaetus		zelinkai		var. graecensis	Variety	Grünspan, 1908	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378311	
+765214	378207	Lepidoderma		squammatum	(Dujardin, 1841)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765214	
+114545	378205	Lepidodermella		limogenum	Schrom, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114545	
+247801	378207	Lepidodermella		squamatum	(Dujardin, 1941)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247801	
+378208	265482	Lepidodermella		trilobum	Brunson, 1950				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378208	
+265855	265854	Chordodasys		antennatus	Rieger, Ruppert, Rieger & Schoepfer-Sterrer, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265855	
+114549	114552	Polymerurus		tesselatus	Renaud-Mornant, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114549	
+114566	114552	Xenotrichula		mirabilis	d'Hondt, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114566	
+765288	266025	Dasydytes		stylifer	Voigt, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765288	
+267983	266024	Stylochaeta		curviseta	Krivanek & Krivanek, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267983	
+378218	266033	Undula		paraënsis	Kisielewski, 1991				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378218	
+265543	378248	Urodasys		bucinostylis	Fregni, Faienza, De Zio Grimaldi, Tongiorgi & Balsamo, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265543	
+265545	378249	Urodasys		cornustylus	Schoepfer-Sterrer, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265545	
+265547	378250	Urodasys		nodostylus	Schoepfer-Sterrer, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265547	
+114614	114613	Urodasys		roscoffensis	Kisielewski, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114614	
+265548	378251	Urodasys		remostylus	Schoepfer-Sterrer, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265548	
+265549	378252	Urodasys		spirostylus	Schoepfer-Sterrer, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265549	
+114602	154562	Psammodasys		cambriensis	(Boaden, 1963)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114602	
+114603	154564	Psammodasys		turbanelloides	(Boaden, 1960)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114603	
+265219	378309	Aspidiophorus		heterodermus		levantinus	Subspecies	Kisielewski, 1978	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265219	
+265223	378186	Aspidiophorus		microsquammatus	Saito, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265223	
+764977	265238	Aspidiophorus		tatraënsis	Kisielewski, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:764977	
+765283	265850	Dasydytes		collini	Remane, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765283	
+265856	378298	Chordodasys		riedli	Schöpfer-Sterrer, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265856	
+265912	265851	Dasydytes		longisetosus	Metschnikoff, 1865				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265912	
+765282	265852	Dasydytes		longispinosus	Greuter, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765282	
+760990	114546	Polymerurus		delamarei	Renaud-Mornant, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:760990	
+114560	114563	Xenotrichula		beauchampi	Lévi, 1950				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114560	
+378235	267985	Xenotrichula		floridanus	Thane-Fenchel, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378235	
+378301	114563	Xenotrichula		intermedia		syltensis	Subspecies	Mock, 1979	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378301	
+765280	265836	Dasydytes		paucisetosus	Marcolongo, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765280	
+388504	608026	Dactylopodola		agadasis	Hochberg, 2003				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:388504	
+378236	608026	Dactylopodola		agadasys	Hochberg, 2003				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378236	
+265331	265379	Chaetonotus		magnus	Kisielewski, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265331	
+265235	378173	Aspidiophorus		silvaticus	Varga, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265235	
+267977	265333	Chaetonotus		balsaminus	Schwank, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267977	
+265302	265285	Chaetonotus		fuscus	Martin, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265302	
+114478	265252	Chaetonotus		apolemnus	Hummon, Balsamo & Todaro, 1992				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:114478	
+265298	265306	Chaetonotus		fruticosus	Martin, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265298	
+265301	764906	Chaetonotus		furculatus	Schwank, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265301	
+265344	265347	Chaetonotus	Chaetonotus	ocellatus	Martin, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265344	
+764935	265240	Chaetonotus	Diversichaetatella	kisielewskii	Schwank, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:764935	
+267974	265240	Chaetonotus		kisielewski	Schwank, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267974	
+740863	760956	Chaetonotus		machikanensis	Suzuki & Furuya, 2011				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:740863	
+114490	378183	Chaetonotus		maximus	Ehrenberg, 1831				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:114490	
+764979	265258	Chaetonotus		novenarius	Balsamo, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:764979	
+265350	764909	Chaetonotus		ontariensis	Schwank, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265350	
+267976	265330	Chaetonotus		ophiogaster	Remane, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267976	
+265359	378184	Chaetonotus		pawlowskii	Kisielewski, 1984				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:265359	
+265363	378303	Chaetonotus		polonicus	Schwank, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265363	
+740862	760954	Chaetonotus		retiformis	Suzuki & Furuya, 2011				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:740862	
+593677	378172	Chaetonotus		schoepferae	Thane-Fenchel, 1970				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:593677	
+265248	764908	Chaetonotus		annae	Schwank, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265248	
+710864	760961	Chaetonotus		elachysomus	Hummon, 2010				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:710864	
+710865	760962	Chaetonotus		eratus	Hummon, 2010				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:710865	
+265308	378175	Chaetonotus		heterocanthus	Remane, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265308	
+710866	760963	Chaetonotus		polyhybus	Hummon, 2010				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:710866	
+154542	265830	Ichthydium		hummoni	Ruppert, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154542	
+114542	247838	Ichthydium		rupperti	Mock, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114542	
+114543	247839	Ichthydium		supralitorale	Mock, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114543	
+764984	378193	Chaetonotus		cancinnus	Stokes, 1887				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:764984	
+265931	378193	Fluxiderma		conicinnum	(Stockes, 1887)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265931	
+114533	378196	Heterolepidoderma		brevituberculatum	Kisielewski, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114533	
+265427	378197	Heterolepidoderma		domentmani	Kisielewski, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265427	
+265432	378199	Heterolepidoderma		kossinensis	(Preobrajenskaja, 1926)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265432	
+114555	114556	Heteroxenotrichula		flandrensis	(d'Hondt, 1968)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114555	
+267984	154544	Heteroxenotrichula		wilkei	Ruppert, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267984	
+265465	265932	Ichthydium		montanum	Rudescu, 1967				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265465	
+765200	265441	Ichthydium		ocellatum	Metschnikoff, 1865				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765200	
+765199	378199	Lepidoderma		kossinensis	Preobrajenskaja, 1926				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765199	
+765201	265441	Lepidoderma		ocellatum	Zelinka, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765201	
+378222	265978	Ornamentula		paraënsis	Kisielewski, 1991				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:378222	
+114628	378259	Platydasys		mastiqurus	Clausen, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114628	
+114629	378260	Platydasys		maximus	Remane, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114629	
+114630	378261	Platydasys		ocellatus	Clausen, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114630	
+265558	378262	Platydasys		pacificus	Schmidt, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265558	
+114631	378263	Platydasys		phacellatus	Clausen, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114631	
+114632	378264	Platydasys		rarus	Forneris, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114632	
+114633	378265	Platydasys		ruber	Swedmark, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114633	
+114634	746194	Platydasys		styliferus	Boaden, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114634	
+114635	378267	Platydasys		tentaculatus	Swedmark, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114635	
+387644	378257	Platydasys		itoi	Chang, Kubota & Shirayama, 2002				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:387644	
+114569	378234	Xenotrichula		simplex	Mock, 1979				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114569	
+265907	378219	Dasydytes		crassus	Greuter, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265907	
+265941	378220	Haltidytes		oöeides	Brunson, 1950				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265941	
+114596	378239	Mesodasys		litoralis	Remane, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114596	
+114597	114595	Mesodasys		lobocercus	(Boaden, 1960)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:114597	
+765300	265967	Dasydytes		antenniger	Gosse, 1851				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765300	
+765274	114548	Chaetonotus		nodicaudus	Voigt, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765274	
+765271	265489	Ichthydium		entzii	Daday, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765271	
+765268	265486	Lepidoderma		biroi	Daday, 1897				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765268	
+765270	378215	Chaetonotus		elongatus	Daday, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765270	
+765273	265491	Chaetonotus		longicaudatus	Tatem, 1867				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765273	
+765276	265495	Chaetonotus		nodifurca	Marcolongo, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765276	
+765277	265496	Chaetonotus		rhomboides	Stokes, 1887				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765277	
+765278	265498	Chaetonotus		serraticaudus	Voigt, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765278	
+765272	265490	Lepidoderma		hystrix	Daday, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765272	
+765269	378215	Lepidoderma		elongatum	Daday, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765269	
+765275	114548	Polymerurus		nodicaudus		var. comatus	Variety	(Greuter, 1917)	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:765275	
+584800	265496	Lepidoderma		rhomboides	(Stokes, 1887)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:584800	
+247800	266007	Lepidodermella		punctatum	(Greuter, 1917)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:247800	
+265488	378215	Polymerurus		elongatum	(Daday, 1905)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265488	
+267982	265496	Polymerurus		marcolongae	Grosso, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267982	
+267997	265496	Polymerurus		oligotrichus	Remane, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:267997	
+265497	265495	Polymerurus		ringueleti	Grosso, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:265497	

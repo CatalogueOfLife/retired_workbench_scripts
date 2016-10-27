@@ -1,0 +1,1053 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+174462	156329	Amphiporus		scoresbyi	Wheeler, 1934				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:174462	
+176830	156329	Nipponnemertes		scoresbyi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176830	
+175734	162461	Dinonemertes		mollis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175734	
+177076	156285	Omatoplea		albicans					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177076	
+177077	156285	Ommatoplea		albicans					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177077	
+177079	156285	Polystemma	Amphiporus	allicans					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177079	
+177075	156285	Polystemma		albicans					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177075	
+177071	122645	Amphiporus	Ommatoplea	angulata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177071	
+177070	122645	Amphiporus		angulatus		angulatus	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177070	
+177069	122645	Fasciola		angulata	Müller, 1774				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177069	
+177073	122645	Meckelia		angulata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177073	
+177066	156286	Amphiporus		angulatus		beringianus	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177066	
+177065	156286	Cosmocephala		beringiana					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177065	
+156339	176812	Nipponnemertes		bimaculata	(Coe, 1901)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156339	
+177063	122651	Amphiporus	Naredopsis	bioculatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177063	
+177064	122651	Hallezia		bioculata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177064	
+177061	156287	Amphiporus		bürgeri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177061	
+177059	156288	Astemma		collaris					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177059	
+177060	156288	Astemma		resplendens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177060	
+177049	156291	Tatsnoskia		depressa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177049	
+122697	148607	Psammamphiporus		elongatus	(Stephenson, 1911)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:122697	
+177036	156294	Polia		grisea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177036	
+177038	156294	Polina		grisea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177038	
+177011	156296	Intestinonemertes		iwatai					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177011	
+177008	156297	Amphiporus		angulatus		japonicus	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177008	
+177007	156297	Cosmocephala		japonica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177007	
+176993	122666	Amphiporus		lacteiflorus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176993	
+176994	122666	Amphiporus		laetifloreus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176994	
+176996	122666	Amphiporus		loetofloreus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176996	
+176999	122666	Borlasia		alba					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176999	
+177000	122666	Borlasia		mandilla					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177000	
+177002	122666	Ditactorrhochma		mandilla					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177002	
+177003	122666	Gordius		albicans					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177003	
+177005	122666	Nemertes		lactiflorea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177005	
+177006	122666	Nemertes		mandilla					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177006	
+176331	162336	Tetrastemma		caecum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176331	
+176332	162333	Africanemertes		rützleri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176332	
+176992	122666	Planaria		lactiflorea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176992	
+176989	156299	Cosmocephala		matuana					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176989	
+148192	573299	Psammamphiporus		microocelli	Sun, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148192	
+176986	122671	Amphiporus		murmanicus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176986	
+176984	156300	Amphiporus		novae-zealandiae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176984	
+176983	156300	Borlasia		novae-zelandiae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176983	
+176985	156300	Drepanophorus		novae-zealandiae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176985	
+176982	156301	Cosmocephala		ochracea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176982	
+176970	156302	Polia		rhomboidalis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176970	
+176972	156302	Polina		rhomboidalis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176972	
+176912	156303	Borlasia		sanguinea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176912	
+176913	156303	Neesia		sanguinea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176913	
+176908	156310	Polystemma		sinuosum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176908	
+176895	156312	Cosmocephala		stimpsoni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176895	
+176896	156312	Cosmocephala		stimpsonii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176896	
+176893	156312	Omatoplea		stimpsonii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176893	
+176898	156312	Ommatoplea		stimpsoni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176898	
+176899	156312	Ommatoplea		stimpsonii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176899	
+176901	156312	Ophionemertes		stimpsoni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176901	
+176890	122683	Nareda		superba					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176890	
+176892	122683	Tetrastemma		albicollis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176892	
+176889	156313	Amphiporus	Ommatoplea	superbus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176889	
+148049	573300	Tagonemertes		tuba	Corrêa, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148049	
+176887	156314	Ditactorrhochma		typicum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176887	
+177763	155854	Lineus		reseocephalus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177763	
+177764	155854	Lineus		roseocephalus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177764	
+177762	155854	Lineus		scotti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177762	
+176330	162338	Tetrastemma		belgica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176330	
+176329	162338	Tetrastemma		belgicae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176329	
+148204	162339	Tetrastemma		dilutebasisae	Kulikova, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148204	
+176326	162340	Antarctonemertes		papilliformes					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176326	
+176327	162340	Antarctonemertes		quasioculata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176327	
+176325	162340	Tetrastemma		papilliformis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176325	
+176328	162340	Tetrastemma		quasioculata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176328	
+176323	162341	Tetrastemma		phyllospadicola					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176323	
+148000	735779	Amphiporus		michaelseni	Bürger, 1895				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148000	
+162342	735779	Antarctonemertes		validum	(Bürger, 1893)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162342	
+176316	162343	Antarctonemertes		varverae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176316	
+122735	148178	Arenonemertes		arenicola	Hylbom, 1991				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:122735	
+122737	148179	Arenonemertes		minuta	Friedrich, 1949				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:122737	
+176314	162344	Amphiporus		commensalis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176314	
+176313	162344	Amphiporus		commensalus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176313	
+176315	162344	Tetrastemma		commensalis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176315	
+175769	122828	Nectonemertes		chavesi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175769	
+175770	122828	Pelagonemertes		chavesi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175770	
+175768	162451	Pelagonemertes		chuni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175768	
+175767	122829	Pelagonemertes		grandis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175767	
+175766	122830	Pelagonemertes		hjorti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175766	
+175765	122831	Pelagonemertes		lata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175765	
+175763	122832	Nectonemertes		lobata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175763	
+175764	122832	Pelagonemertes		lobata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175764	
+175762	162452	Pelagonemertes		minor					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175762	
+175761	122833	Pelagonemertes		musculocaudata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175761	
+162492	573322	Pelagonemertes		parvula	Korotkevich, 1964				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162492	
+177286	122576	Eupolia		abyssorum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177286	
+177285	155986	Eupolia		alpha					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177285	
+177283	155987	Basiodiscus		anocellatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177283	
+177139	155988	Eupolia		antillensis	sensu Bürger, 1895				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177139	
+177280	155989	Eupolia		aurea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177280	
+177278	155990	Eupolia		australis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177278	
+177277	155991	Borlasia		bilineata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177277	
+177275	155992	Taeniosoma		cingulatum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177275	
+177187	122577	Baseodiscus		curtus	(Hubrecht, 1879)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177187	
+177260	122577	Baseodiscus		delineatus		var. curta	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177260	
+177261	122577	Baseodiscus		delineatus		var. curtus	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177261	
+177263	122577	Baseodiscus		insignis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177263	
+177264	122577	Borlasia		carmellina					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177264	
+177271	122577	Eupolia		amboinensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177271	
+177272	122577	Eupolia		ascophora					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177272	
+177273	122577	Eupolia		curta					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177273	
+177256	122577	Polia		delineata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177256	
+177254	155993	Taeniosoma		discolor					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177254	
+177253	122578	Eupolia		filholi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177253	
+177251	155994	Euborlasia		giardii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177251	
+177250	155994	Eupolia		giardii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177250	
+177233	155995	Baseodiscus		mediolineatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177233	
+177235	155995	Borlasia		hemprichii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177235	
+177236	155995	Eupolia		brocki					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177236	
+177237	155995	Eupolia		brockii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177237	
+177239	155995	Eupolia		hemprichi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177239	
+177240	155995	Eupolia		mediolineata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177240	
+177228	155995	Nemertes		hemprichii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177228	
+177246	155995	Taeniosoma		hemprichi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177246	
+177220	155996	Eupolia		indica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177220	
+177219	155998	Nematodemus		lumbricoides					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177219	
+177217	155999	Eupolia		maculosa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177217	
+177212	156000	Baseodiscus		mexicanum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177212	
+177211	156000	Eupolia		mexicana					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177211	
+177214	156000	Taeniosoma		mexicana					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177214	
+177216	156000	Toeniosoma		mexicana					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177216	
+177208	122579	Eupolia		minor					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177208	
+177206	122579	Polia		minor					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177206	
+177204	156001	Eupolia		multiporata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177204	
+177203	156002	Eupolia		nipponensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177203	
+177202	156003	Eupolia		pallida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177202	
+177200	122580	Balanocephalus		pellucidus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177200	
+177201	122580	Eupolia		pellucida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177201	
+177197	156004	Eupolia		pholidota					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177197	
+177194	156005	Eupolia		platei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177194	
+177186	156007	Taeniosoma		princeps					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177186	
+177183	156008	Taeniosoma		punnetti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177183	
+177152	156009	Baseodiscus		lineolatus	(Bürger, 1895)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177152	
+177156	156009	Baseodiscus		septemlineatus	(Stimpson, 1857)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177156	
+177146	156009	Borlasia		quinquelineata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177146	
+177159	156009	Euborlasia		quinquestriata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177159	
+177174	156009	Eupolia		melanogramma					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177174	
+177176	156009	Eupolia		novemlineata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177176	
+177177	156009	Eupolia		quinquelineata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177177	
+177143	156010	Eupolia		rugosa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177143	
+177142	156011	Eupolia		sulcata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177142	
+177137	156013	Eupolia		antillensis	sensu Takakura, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177137	
+177132	156014	Basiodiscus		unistriatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177132	
+177129	156014	Eupolia		unistriata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177129	
+177124	156015	Taeniosoma		univittatum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177124	
+147272	147270	Bennettia		insularis	Gibson, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147272	
+175868	162420	Punnettia		cerina					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175868	
+175758	122834	Bürgeriella		notabilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175758	
+175759	122834	Nectonemertes		notabilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175759	
+175379	122610	Callinera		bürgeri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175379	
+147171	122611	Callinera		buergeri		f. grandis	Forma		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147171	
+177770	122850	Bathynemertes		hardyi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177770	
+177771	122850	Planktonemertes		hardyi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177771	
+176835	122701	Baseodiscus		xantophila					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176835	
+176836	122701	Carcinonemertes		carcinophila		carcinophila	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176836	
+176837	122701	Carcinonemertes		carcinophila		imminuta	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176837	
+176838	122701	Carcinonemertes		carcinophila		var. immunata	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176838	
+176839	122701	Cephalothrix		involuta					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176839	
+176834	122701	Nemertes		cartinophilos					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176834	
+176832	156324	Carcinonemertes		errantia					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176832	
+147181	122615	Procarinina		atavia	Bergendal, 1902				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147181	
+147182	122616	Procarinina		buddenbrocki	Friedrich, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147182	
+147203	122621	Procarinina		remanei	Nawitzki, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147203	
+146915	122589	Carinella		armandi	McIntosh, 1875				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:146915	
+146913	122589	Valencinia		armandi	(McIntosh, 1875)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:146913	
+175311	146916	Carinoma		caraïbica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175311	
+146918	146917	Carinoma		griffini	Griffin, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:146918	
+146919	146917	Carinoma		mutabilis		var. argillina	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:146919	
+146920	146917	Carinoma		mutabilis		var. vasculosa	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:146920	
+175312	146921	Carinoma		patagonia					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175312	
+175313	146921	Carinoma		patagonicum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175313	
+122601	573282	Procephalothrix		adriatica	Senz, 1993				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:122601	
+177551	122555	Alardus		caudatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177551	
+176824	156334	Amphiporus		amboiensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176824	
+176823	156334	Amphiporus		amboinensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176823	
+176879	156315	Amphiporus		bioculatus	sensu Corrêa, 1958				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176879	
+176884	122689	Amphiporus		cephalonephridialis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176884	
+176553	122738	Amphiporus		cordiceps	sensu Friedrich, 1933				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176553	
+176883	122690	Amphiporus		hagmeieri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176883	
+176612	156413	Amphiporus		heterophthalma					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176612	
+176615	156413	Amphiporus		heterophthalmus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176615	
+176871	122694	Amphiporus		littoralis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176871	
+176877	122693	Amphiporus		marmoratus	sensu Bürger, 1895				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176877	
+176647	148606	Amphiporus		neesii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176647	
+175846	162431	Amphiporus		parmiornatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175846	
+176880	122691	Amphiporus		rhynchocoelomicus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176880	
+177670	122528	Ascaris		longissima	Gunnerus, 1770				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177670	
+147043	122596	Astemma		longum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147043	
+147063	122599	Astemma		rufifrons					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147063	
+147354	122478	Avenardia		alileuti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147354	
+147353	122478	Avenardia		priei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147353	
+176636	156409	Baseodiscus		ophiocephalus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176636	
+177809	122478	Borlasia		alileuti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177809	
+177671	122528	Borlasia		angliae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177671	
+147282	122454	Borlasia		annellata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147282	
+176650	148606	Borlasia		camillea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176650	
+147045	122596	Borlasia		cephalothrix					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147045	
+176734	122709	Borlasia		echinoderma					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176734	
+177749	122503	Borlasia		elizabethae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177749	
+176507	148606	Borlasia		flaccida	sensu Johnston (1846)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176507	
+177624	122536	Borlasia		gesserensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177624	
+177747	122504	Borlasia		inmaculata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177747	
+147046	122596	Borlasia		linearis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147046	
+147047	122596	Borlasia		longa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147047	
+177672	122528	Borlasia		longissimus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177672	
+177673	122528	Borlasia		nigra					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177673	
+177625	122543	Borlasia		olivacea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177625	
+177653	122536	Borlasia		purpurea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177653	
+177654	122536	Borlasia		rufa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177654	
+147062	122599	Borlasia		rufifrons					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147062	
+177739	155869	Borlasia		trilineata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177739	
+177613	155902	Borlasia		vittata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177613	
+147149	122609	Carinella		desiderata	Kennel, 1891				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147149	
+175325	147030	Carinella		galatheae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175325	
+147033	147030	Carinomella		galatheae	(Dieck, 1874)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147033	
+175348	122599	Cephalorhrix		rufifrons					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175348	
+147066	122599	Cephalothrix		biocculata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147066	
+175350	122596	Cephalothrix		bioculata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175350	
+175323	122593	Cephalothrix		bürgeri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175323	
+147049	122596	Cephalothrix		caeca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147049	
+147050	122596	Cephalothrix		coeca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147050	
+146929	122599	Cephalothrix		filum	(Quatrefages, 1846)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:146929	
+147067	122599	Cephalothrix		hymanaeus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147067	
+177816	122596	Cephalothrix		linearis		filiformis	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177816	
+147054	122596	Cephalothrix		linearlis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147054	
+147055	122596	Cephalothrix		lineatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147055	
+147069	122599	Cephalothrix		ocellata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147069	
+147071	572900	Cephalotrichella		alba	(Gibson & Sundberg, 1992)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147071	
+122600	147072	Cephalotrichella		signata	(Hubrecht, 1879)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:122600	
+175314	122590	Cephalotrix		arenaria					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175314	
+175329	122594	Cephalotrix		germanica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175329	
+175331	122595	Cephalotrix		lactea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175331	
+175337	122598	Cephalotrix		paragermanica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175337	
+175355	147070	Cephalotrix		viridis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175355	
+177714	122511	Cerebratula		oerstedii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177714	
+147324	147322	Cerebratulus		acteus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147324	
+147355	122478	Cerebratulus		angulosus	Haddon, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147355	
+177798	155832	Cerebratulus		ater					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177798	
+177793	122492	Cerebratulus		aurantiacus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177793	
+177728	155885	Cerebratulus		aurostriatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177728	
+177591	155905	Cerebratulus		bellus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177591	
+177712	122511	Cerebratulus		bilineatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177712	
+177710	155886	Cerebratulus		boutani					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177710	
+177709	155888	Cerebratulus		cingulatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177709	
+177703	155890	Cerebratulus		coloratus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177703	
+177702	155891	Cerebratulus		crosslandi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177702	
+177569	122553	Cerebratulus		dellechiajei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177569	
+177577	122553	Cerebratulus		delle-chiajei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177577	
+177700	122514	Cerebratulus		dohrnii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177700	
+175414	122464	Cerebratulus		eisigi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175414	
+177553	122555	Cerebratulus		fasciolatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177553	
+147356	122478	Cerebratulus		fragilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147356	
+177655	122536	Cerebratulus		fuscescens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177655	
+177699	155892	Cerebratulus		galbanus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177699	
+177697	155893	Cerebratulus		glaucus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177697	
+147357	122478	Cerebratulus		grandis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147357	
+177696	122518	Cerebratulus		grubei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177696	
+177693	122520	Cerebratulus		hubrechti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177693	
+177534	155910	Cerebratulus		impressus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177534	
+147325	147322	Cerebratulus		ingens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147325	
+147314	147313	Cerebratulus		latus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147314	
+177521	155912	Cerebratulus		leidyi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177521	
+177847	155868	Cerebratulus		leidyi	sensu Verrille, 1892				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177847	
+177848	155868	Cerebratulus		leidyi	sensu Coe, 1895				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177848	
+177685	155894	Cerebratulus		longifissus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177685	
+177810	147343	Cerebratulus		macrorhochmus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177810	
+147345	147343	Cerebratulus		macrorrhochmus		macrorrhochmus	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147345	
+147307	122471	Cerebratulus		maculosus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147307	
+177667	122530	Cerebratulus		mcintoshii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177667	
+175576	147360	Cerebratulus		medulatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175576	
+177808	147362	Cerebratulus		montgomery					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177808	
+147275	147274	Cerebratulus		natans	Punnett, 1900				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147275	
+177807	147364	Cerebratulus		niger					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177807	
+177665	155895	Cerebratulus		nigrofuscus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177665	
+177715	122511	Cerebratulus		oerstædtii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177715	
+147298	147297	Cerebratulus		ommunis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147298	
+177658	155898	Cerebratulus		psittacinus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177658	
+177474	122560	Cerebratulus		purpureus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177474	
+177803	147388	Cerebratulus		rubra					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177803	
+177802	122487	Cerebratulus		simulaus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177802	
+175850	162427	Cerebratulus		spectabilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175850	
+147358	122478	Cerebratulus		spraguei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147358	
+177801	147396	Cerebratulus		striolenta					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177801	
+177716	122511	Cerebratulus		taenia					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177716	
+177468	122564	Cerebratulus		tristis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177468	
+177639	155901	Cerebratulus		truncatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177639	
+155829	122543	Cerebratulus		viridis	Isler, 1900				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155829	
+147409	122488	Cnidon		urticans					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147409	
+177761	147851	Colemania		albulus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177761	
+176821	156336	Cratenemertes		pelagicus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176821	
+177759	155858	Diplopleura		caraïbica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177759	
+177758	155858	Diplopleura		curaçaoensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177758	
+175864	122858	Drepanophoris		rubrostriatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175864	
+175907	122855	Drepanophorus		albolineatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175907	
+175867	162421	Drepanophorus		latus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175867	
+175847	162429	Drepanophorus		longiceps					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175847	
+176656	148606	Empectonema		neesi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176656	
+176736	122709	Emplectoneema		echinoderma					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176736	
+176660	148606	Emplectoneema		neesi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176660	
+176757	156405	Emplectonema		bürgeri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176757	
+176651	148606	Emplectonema		camillea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176651	
+176662	148606	Emplectonema		neesi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176662	
+176639	156409	Emplectonema		ophiocephalum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176639	
+176676	122710	Emplectonema		viride					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176676	
+176679	122710	Emplectonema		viridis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176679	
+177753	155865	Eousia		verticivarius					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177753	
+177748	122504	Euborlasia		immaculata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177748	
+176762	156404	Eunemertes		bonhourei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176762	
+176756	122708	Eunemertes		duoni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176756	
+176740	122709	Eunemertes		echinoderma					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176740	
+176721	156406	Eunemertes		flavens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176721	
+176720	156407	Eunemertes		francisca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176720	
+176717	156408	Eunemertes		gigantea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176717	
+176680	122710	Eunemertes		gracile					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176680	
+176682	122710	Eunemertes		gracilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176682	
+176618	156413	Eunemertes		heterophthalma					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176618	
+176674	122712	Eunemertes		marioni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176674	
+176663	148606	Eunemertes		neesi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176663	
+176664	148606	Eunemertes		neesii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176664	
+176643	122713	Eunemertes		nordgaardi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176643	
+176621	122714	Eunemertes		spongicola					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176621	
+176620	156412	Eunemertes		violacea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176620	
+177646	122536	Fasciola		rubra	Müller, 1774				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177646	
+177623	122543	Fasciola		viridis	Müller, 1774				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177623	
+176481	162287	Fasiculonemertes		arenicola					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176481	
+176376	122730	Gononemertes		parasitica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176376	
+177557	122555	Gordius		fasciatus		spinifer	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177557	
+147359	122478	Gordius		fragilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147359	
+177560	122555	Gordius		fragilis		spinifer	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177560	
+176667	148606	Gordius		fuscus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176667	
+177675	122528	Gordius		marinus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177675	
+177676	122528	Gordius		maximus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177676	
+177472	122560	Gordius		purpureus		spinifer	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177472	
+177562	122555	Gordius		spinifer		fasciatus	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177562	
+177563	122555	Gordius		spinifer		fragilis	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177563	
+177717	122511	Gordius		taenia					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177717	
+176874	122694	Gurjanovella		littoralis		marisalbi	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176874	
+176872	122694	Gurjanovella		littoralis		var. albimaris	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176872	
+176873	122694	Gurjanovella		littoralis		var. maris-albi	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176873	
+176867	122695	Gurjanovella		littoralis		var. murmanicum	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176867	
+176869	122695	Gurjanovella		murmanica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176869	
+177734	155881	Hecate		arenicola					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177734	
+177677	122528	Heterolineus		longissimus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177677	
+177662	122534	Heterolineus		pseudoruber					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177662	
+175375	147140	Hubrechtella		sinimarinus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175375	
+177796	155834	Iwatanemertes		piperatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177796	
+176822	156336	Korotkevitschia		pelagicus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176822	
+177757	122584	Langia		formosa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177757	
+177756	155862	Langia		obockiana					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177756	
+177755	155863	Langia		vivesi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177755	
+147398	147396	Leodes		striolenta	Girard, 1853				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147398	
+177742	122507	Lineopsis		islandicus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177742	
+177738	155871	Lineopsis		semoni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177738	
+147387	147384	Lineus	Cerebratulus	rubens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147387	
+177683	122528	Lineus	Gordius	marinus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177683	
+177718	122511	Lineus		albolineatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177718	
+177737	155878	Lineus		alborostlatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177737	
+177736	155880	Lineus		angulatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177736	
+177657	122535	Lineus		arenicolus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177657	
+177799	155832	Lineus		ater					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177799	
+177593	155905	Lineus		bellus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177593	
+177719	122511	Lineus		bilineata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177719	
+147291	122457	Lineus		bivittatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147291	
+177705	122513	Lineus		coccineus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177705	
+177664	155896	Lineus		corrugatus	sensu Stephenson et al., 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177664	
+177701	122514	Lineus		dohrni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177701	
+177679	122528	Lineus		fasciatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177679	
+177632	122543	Lineus		genserensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177632	
+177656	122536	Lineus		gesserensis		ruber	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177656	
+177698	122517	Lineus		gilvus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177698	
+177117	156017	Lineus		glandulosa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177117	
+176683	122710	Lineus		gracilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176683	
+177694	122520	Lineus		hubrechtii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177694	
+177695	122520	Lineus		hubrecti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177695	
+177690	122524	Lineus		kenneli					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177690	
+177680	122528	Lineus		lineatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177680	
+177681	122528	Lineus		marinus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177681	
+177669	122529	Lineus		maris-albi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177669	
+177668	122530	Lineus		mintoshii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177668	
+147366	122481	Lineus		niveus	Punnett, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147366	
+177795	155834	Lineus		piperatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177795	
+147385	147384	Lineus		rubens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147385	
+177644	122538	Lineus		saint-hilairi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177644	
+177467	155915	Lineus		striatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177467	
+177641	155900	Lineus		torgiatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177641	
+177642	155900	Lineus		torguatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177642	
+177466	155917	Lineus		wilsoni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177466	
+176715	156408	Macronemertes		gigantea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176715	
+175596	122641	Malacobdella		anceps					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175596	
+175597	122641	Malacobdella		cardii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175597	
+175598	122641	Malacobdella		mercenaria					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175598	
+175600	122641	Malacobdella		mercenariae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175600	
+175601	122641	Malacobdella		myae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175601	
+175602	122641	Malacobdella		obesa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175602	
+175603	122641	Malacobdella		valenciennaei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175603	
+147279	147278	Meckelia		albula	Stimpson, 1857				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147279	
+177797	155832	Meckelia		atra					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177797	
+177730	155883	Meckelia		atrocaerulea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177730	
+177731	155883	Meckelia		atrocaeruleus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177731	
+177792	122492	Meckelia		aurantiaca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177792	
+147288	147287	Meckelia		australis	Stimpson, 1857				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147288	
+177597	155905	Meckelia		bella					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177597	
+177720	122511	Meckelia		bilineata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177720	
+147292	122458	Meckelia		borealis	Diesing, 1862				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147292	
+177587	155906	Meckelia		ceylanica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177587	
+177706	155888	Meckelia		cingulata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177706	
+147301	122463	Meckelia		depressa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147301	
+147302	122466	Meckelia		erythrorochma					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147302	
+175415	147304	Meckelia		fasciata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175415	
+147305	147304	Meckelia		fasciatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147305	
+177524	155912	Meckelia		fragilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177524	
+177540	155910	Meckelia		impressa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177540	
+147326	147322	Meckelia		ingens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147326	
+147323	147322	Meckelia		lactea	Leidy, 1851				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147323	
+147283	122454	Meckelia		leuckarti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147283	
+147336	122476	Meckelia		ligurica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147336	
+147327	147322	Meckelia		lizziae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147327	
+147344	147343	Meckelia		macrorrhochma	Schmarda, 1859				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147344	
+147347	147346	Meckelia		macrostoma	Schmarda, 1859				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147347	
+147365	147364	Meckelia		nigra	Stimpson, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147365	
+177666	155895	Meckelia		nigrofusca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177666	
+177721	122511	Meckelia		oerstedii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177721	
+177805	147368	Meckelia		olivacea	sensu Stimpson, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177805	
+147372	147371	Meckelia		paludicola					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147372	
+177794	155834	Meckelia		piperata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177794	
+147328	147322	Meckelia		pocohontas					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147328	
+177525	155912	Meckelia		rosea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177525	
+147381	147380	Meckelia		rubella	Stimpson, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147381	
+147393	147392	Meckelia		sinensis	Stimpson, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147393	
+147400	147399	Meckelia		subacuta	Stimpson, 1857				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147400	
+177722	122511	Meckelia		taenia					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177722	
+177469	155914	Meckelia		trigonocephala					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177469	
+147407	122488	Meckelia		urticans	Müller, 1854				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147407	
+177619	155902	Meckelia		vittata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177619	
+177621	155902	Meckelia		vittata		var. violacea	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177621	
+177603	155904	Micrura		alascensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177603	
+148584	122492	Micrura		aurantiaca	(Grube)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148584	
+177530	155911	Micrura		bella	sensu Kulikova & Kutishchev, 1984				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177530	
+177580	155908	Micrura		curaçaoensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177580	
+177564	122555	Micrura		fascicolata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177564	
+177566	122555	Micrura		fasiolata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177566	
+147931	155905	Micrura		festiva	Takakura, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147931	
+147308	122471	Micrura		fusca	McIntosh, 1874				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147308	
+177116	156017	Micrura		glandulosa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177116	
+177602	155904	Micrura		griffini					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177602	
+147329	147322	Micrura		lactea	(Hubrecht)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147329	
+177849	155868	Micrura		leidyi	sensu Coe, 1943, 1951, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177849	
+177850	155868	Micrura		leidyi	sensu Riser, 1993				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177850	
+147335	147334	Micrura		leucopsis	Coe, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147335	
+177514	155913	Micrura		multinotarum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177514	
+177743	122505	Micrura		obscura					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177743	
+177511	155907	Micrura		pardalis	sensu Coe, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177511	
+177585	155907	Micrura		pardalis		var. lineata	Variety	sensu Coe, 1940	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177585	
+177510	122566	Micrurinella		anton dohrni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177510	
+175746	122836	Nectonemertes		lanceolata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175746	
+176760	156405	Neesia		buergeri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176760	
+176669	148606	Neesia		neesii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176669	
+176626	156411	Neesia		rubea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176626	
+147065	122599	Nemertes	Borlasia	rufifrons					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147065	
+177610	155903	Nemertes		affinis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177610	
+147281	122454	Nemertes		annellata	Leuckart, 1849				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147281	
+176685	122710	Nemertes		balmea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176685	
+176670	148606	Nemertes		camillea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176670	
+177704	155889	Nemertes		collaris					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177704	
+175413	122461	Nemertes		complanata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175413	
+147299	122461	Nemertes		complanatus	Kölliker, 1845				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147299	
+176753	122708	Nemertes		duoni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176753	
+176742	122709	Nemertes		echinoderma					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176742	
+177565	122555	Nemertes		fasciolata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177565	
+176687	122710	Nemertes		glauca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176687	
+176689	122710	Nemertes		glaucus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176689	
+176675	122710	Nemertes		gracilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176675	
+147337	122476	Nemertes		ligurica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147337	
+176672	122712	Nemertes		marioni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176672	
+176558	122536	Nemertes		obscura	sensu Desor, 1848				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176558	
+176641	156409	Nemertes		ophiocephala					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176641	
+177804	147369	Nemertes		pachyrhyncha					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177804	
+147370	147369	Nemertes		pachyrhynchus	Schmarda, 1859				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147370	
+177663	155897	Nemertes		polyophthalma					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177663	
+176628	156410	Nemertes		quatrefagei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176628	
+147061	122599	Nemertes		rufifrons	Johnston, 1837				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147061	
+175852	162427	Nemertes		spectabilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175852	
+177622	155902	Nemertes		vittata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177622	
+176764	122705	Nemertopsella		actinophila					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176764	
+176763	122705	Nemertopsis		actinophila					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176763	
+176691	122710	Omatoplea		balmea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176691	
+176692	122710	Omatoplea		glauca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176692	
+176693	122710	Omatoplea		gracilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176693	
+176695	122710	Ommatoplea		balmea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176695	
+176611	156413	Ommatoplea		heterophthalma					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176611	
+176634	156409	Ommatoplea		ophiocephala					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176634	
+177729	155884	Ophiocephalus		auripunctatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177729	
+177751	122503	Ophiocephalus		elisabethae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177751	
+177752	122503	Ophiocephalus		elizabethae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177752	
+176497	162257	Paranemertes		biocellatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176497	
+175678	122843	Pelagonemertes		richardi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175678	
+175605	122641	Phylline		grossa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175605	
+177542	122556	Planaria		filaris					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177542	
+147039	122596	Planaria		linearis	Rathke, 1799				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147039	
+175732	122837	Planktonemertes		alberti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175732	
+175751	162456	Planktonemertes		bürgeri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175751	
+175748	122835	Planktonemertes		elongata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175748	
+175731	122839	Planktonemertes		grimaldii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175731	
+175754	162454	Planktonemertes		opaca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175754	
+175753	162455	Planktonemertes		pacifica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175753	
+175640	122849	Planktonemertes		robusta					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175640	
+177611	155903	Polia		affinis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177611	
+177691	122524	Polia		bilineata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177691	
+146931	122599	Polia		filum	Quatrefages, 1846				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:146931	
+147379	122486	Polia		rosea	Delle Chiaje, 1841				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147379	
+177608	155903	Poseidon		affinis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177608	
+147075	573283	Procephalothrix		aliena	(Punnett, 1903)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147075	
+147076	573284	Procephalothrix		arenarius	Gibson, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147076	
+147077	573285	Procephalothrix		fascicula	Iwata, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147077	
+122602	573286	Procephalothrix		filiformis	(Johnston, 1828)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:122602	
+147099	573287	Procephalothrix		hermaphroditicus	Gibson, Sánchez & Méndez, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147099	
+122603	573288	Procephalothrix		kiliensis	Friedrich, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:122603	
+147100	147101	Procephalothrix		major	(Coe, 1930)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147100	
+147113	573289	Procephalothrix		mokievskii	Korotkevich, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147113	
+122604	573290	Procephalothrix		oestrymnicus	Junoy & Gibson, 1991				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:122604	
+147114	573291	Procephalothrix		orientalis	Gibson, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147114	
+147115	573292	Procephalothrix		quequenensis	Moretto, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147115	
+147117	147119	Procephalothrix		spiralis	(Coe, 1930)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147117	
+176300	122739	Prosorchochmus		obscurus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176300	
+176302	122739	Prostoma		obscura					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176302	
+176304	122739	Prostoma		obscurum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176304	
+176305	122739	Prostomatella		obscura	(Schultze, 1851)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176305	
+175857	162424	Punnettia		maldivensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175857	
+176174	122764	Hecate		candida	(Müller, 1774)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176174	
+176467	122817	Hecate		dorsalis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176467	
+176147	159505	Hecate		elegans					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176147	
+176148	159505	Hecate		kelleri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176148	
+176175	122764	Hecate		serpentina					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176175	
+162404	573306	Hubrechtonemertes		lankesteri	(Hubrecht, 1887)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162404	
+177092	122582	Joubinia		blanca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177092	
+177085	122583	Joubinia		longirostris					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177085	
+177086	122583	Joubinia		longirostris		longirostris	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177086	
+177087	122583	Joubinia		longirostris		rava	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177087	
+177292	155931	Joubinia		rubens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177292	
+177419	155920	Lineus		albovittatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177419	
+177418	155920	Lineus		albo-vittatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177418	
+177441	122586	Lineus		anas					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177441	
+147215	122626	Lineus		annulatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147215	
+159501	155929	Lineus		bicolor	Verrill, 1892				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:159501	
+177410	122568	Lineus		coecus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177410	
+177777	155839	Lineus		communis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177777	
+177781	155836	Lineus		corrugatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177781	
+177451	122586	Lineus		digueti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177451	
+177409	155924	Lineus		dubius					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177409	
+177455	122586	Lineus		geniculatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177455	
+122519	573298	Lineus		gurjanovae	Korotkevich, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:122519	
+177338	155926	Lineus		lactea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177338	
+148583	155926	Lineus		lacteus	(Rathke, 1843)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148583	
+177457	122586	Lineus		mitellatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177457	
+174997	155839	Lineus		nigricans	Bürger, 1893				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:174997	
+177778	155839	Lineus		nigricans		var. striatus	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177778	
+177779	155839	Lineus		nigricnus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177779	
+177311	155927	Lineus		pseudo-lacteus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177311	
+177780	155839	Lineus		ruber		f. ß	Forma		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177780	
+148605	155839	Lineus		sanguineus	(Rathke, 1799)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148605	
+177312	155927	Lineus		sanguineus		pseudolacteus	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177312	
+155899	156282	Lineus		schmardai	Bürger, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155899	
+177420	155920	Lineus		tricuspidatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177420	
+122540	573298	Lineus		uschakovi	Korotkevich, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:122540	
+177421	155920	Meckelia		albo-vittata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177421	
+177300	155928	Meckelia		lurida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177300	
+177083	156282	Meckelia		striata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177083	
+147217	122626	Meckelia		trilineata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147217	
+177422	155920	Meckelia		viridis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177422	
+175777	162450	Mesarmaueria		acoeca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175777	
+175793	162439	Mesarmaueria		angusta					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175793	
+175778	162448	Mesarmaueria		caudata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175778	
+175791	162440	Mesarmaueria		crassa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175791	
+175788	162441	Mesarmaueria		divaricata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175788	
+175786	162442	Mesarmaueria		laticeps					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175786	
+175780	162446	Mesarmaueria		pellucida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175780	
+175785	162443	Mesarmaueria		tenuicauda					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175785	
+177301	155928	Micrura		inornata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177301	
+177463	155919	Micrura		uchidai					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177463	
+175563	162612	Micrura		viridis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175563	
+175543	162647	Monopora		vivipara					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175543	
+177408	155925	Myoisophagos		bicolor					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177408	
+177402	155926	Myoisophagos		lacteus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177402	
+177319	155927	Myoisophagos		pseudolacteus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177319	
+176286	162346	Nareda		aberrans					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176286	
+162621	175556	Nareda		serpentina	Stimpson, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162621	
+175745	162457	Nectonemertes		bürgeri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175745	
+148252	573321	Nectonemertes		compacta	Korotkevich, 1964				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148252	
+175706	122841	Nectonemertes		grimaldii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175706	
+175707	122841	Nectonemertes		kempi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175707	
+175709	162474	Nectonemertes		maijor					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175709	
+148254	122841	Nectonemertes		pelagica	Cravens & Heath, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148254	
+177772	155842	Nectonemertes		pellucida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177772	
+175741	162458	Nectonemertes		tenella					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175741	
+176550	162345	Nemertellina		minuta	sensu Yamaoka, 1940				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176550	
+176293	122746	Nemertellopsis		minutus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176293	
+176601	122715	Nemerteopsis		peronea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176601	
+176796	122704	Nemertes	Nemertes	pulchra					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176796	
+176491	122719	Nemertes		antonina					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176491	
+176176	122764	Nemertes		ehrenbergii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176176	
+175569	162608	Nemertes		flaccida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175569	
+176334	122733	Nemertes		fumosa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176334	
+176135	122773	Nemertes		haematodes					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176135	
+176488	162263	Nemertes		hermaphroditicus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176488	
+176093	122785	Nemertes		knochii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176093	
+176094	122785	Nemertes		krohnii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176094	
+177343	155926	Nemertes		lactea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177343	
+176055	122791	Nemertes		melanocephala					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176055	
+176602	122715	Nemertes		peronea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176602	
+147245	122637	Nemertes		polymorpha					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147245	
+176781	122704	Nemertes		pulchra					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176781	
+176177	122764	Nemertes		quadrioculata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176177	
+176487	162264	Nemertes		rubrolineata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176487	
+147262	122639	Nemertes		supera					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147262	
+175412	122639	Nemertes		superba					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175412	
+147259	122639	Nemertes		superbus	Kölliker, 1845				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147259	
+175987	122806	Nemertes		vermiculus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175987	
+176849	156323	Nemertes		verrilli					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176849	
+162488	175669	Nemertobus		maximovi	(Korotkevich, 1960)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162488	
+176590	730401	Nemertopsis		gracilis		bullocki	Subspecies	Coe, 1940	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176590	
+176591	730401	Nemertopsis		gracilis		var. bullocki	Variety	Coe, 1940	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176591	
+176604	122715	Nemertopsis		peronea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176604	
+176582	156415	Nemertopsis		quadripunctatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176582	
+176818	156338	Nipponnemertes		arenarius					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176818	
+176816	156340	Nipponnemertes		bimaculatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176816	
+122703	156395	Nipponnemertes		magna	(Punnett, 1903)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:122703	
+597692	122728	Norenburgia	Accirinia	macintoshi	(Bürger, 1895)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:597692	
+597689	162317	Norenburgia	Norenburgia	brevis	(Corrêa, 1948)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:597689	
+597688	162318	Norenburgia	Norenburgia	lactea	(Corrêa, 1954)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:597688	
+175676	162484	Obnemertes		nana	Korotkevich, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175676	
+176375	162329	Obürgeria		palma					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176375	
+176470	122817	Oerstdia		dorsalis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176470	
+176025	122797	Oerstedia		armatum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176025	
+176427	122721	Oerstedia		aurantiaca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176427	
+176268	122757	Oerstedia		baculus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176268	
+176401	122724	Oerstedia		claparedei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176401	
+176399	122724	Oerstedia		claparedii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176399	
+176445	122823	Oerstedia		dorsalis		f. A	Forma		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176445	
+176472	122817	Oerstedia		dorsalis		var. albolineata	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176472	
+176473	122817	Oerstedia		dorsalis		var. cincta	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176473	
+176474	122817	Oerstedia		dorsalis		var. marmorata	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176474	
+176475	122817	Oerstedia		dorsalis		var. viridis	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176475	
+176567	162312	Oerstedia		maculata	sensu Wheeler, 1934				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176567	
+162300	122817	Oerstedia		nigrimaculata	(Gibson, 1988)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162300	
+176563	122729	Oerstedia		pallida		f. suchumica	Forma		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176563	
+176448	122821	Oerstedia		russica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176448	
+176011	122804	Oerstedia		unicolor					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176011	
+175960	122810	Oerstedia		vittata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175960	
+176435	122825	Oerstedia		wijnhoffi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176435	
+176478	122816	Oerstediella		crassus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176478	
+176452	162302	Oerstediella		oculata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176452	
+176451	162305	Oerstediella		phoresiae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176451	
+176450	162307	Oerstediella		polyorbis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176450	
+176446	122822	Oerstediella		similiformis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176446	
+176444	122824	Oerstediella		tenuicollis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176444	
+176443	162309	Oerstediella		valentinae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176443	
+176442	162310	Oerstediella		venuste					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176442	
+176441	162311	Oerstediella		verae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176441	
+176434	162313	Oerstediella		zebra					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176434	
+176432	162316	Oertedia		vittata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176432	
+176606	122715	Omatoplea		peronea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176606	
+176086	122791	Ommatoplea		melanocephala					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176086	
+176608	122715	Ommatoplea		peronea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176608	
+177429	155920	Ophiocephalus		viridis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177429	
+176852	156323	Ophionemertes		agilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176852	
+147247	122637	Ophyocephalus		polymorphus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147247	
+176397	122726	Osotyphlonemertes		duplex					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176397	
+176422	122722	Ototyphlonemertes		aurita		aurita	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176422	
+176425	122722	Ototyphlonemertes		aurita		suchumica	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176425	
+176413	122723	Ototyphlonemertes		brunnea		brunnea	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176413	
+176415	122723	Ototyphlonemertes		brunnea		davidoffi	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176415	
+176416	122723	Ototyphlonemertes		brunnea		var. typica	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176416	
+176381	122729	Ototyphlonemertes		kefersteinii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176381	
+176382	122729	Ototyphlonemertes		pallida		czerniavskyi	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176382	
+176383	122729	Ototyphlonemertes		pallida		pallida	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176383	
+175703	162477	Pachinemertes		obesa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175703	
+148157	405059	Pantinonemertes		californiensis	Gibson, Moore & Crandall, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148157	
+148158	405060	Pantinonemertes		daguilarensis	Gibson & Sundberg, 1992				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148158	
+148159	405061	Pantinonemertes		enalios	Moore & Gibson, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148159	
+148160	405062	Pantinonemertes		fujianensis	Sun, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148160	
+148161	405063	Pantinonemertes		mooreae	Gibson, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148161	
+148162	405064	Pantinonemertes		mortoni	Gibson, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148162	
+162330	405065	Pantinonemertes		spectacula	(Yamaoka, 1940)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162330	
+176373	405065	Pantinonemertes		spectaculum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176373	
+148163	405066	Pantinonemertes		winsori	Moore & Gibson, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148163	
+175681	162481	Parabalaenanemertes		nigra					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175681	
+175714	162473	Paradinonemertes		wheeleri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175714	
+177413	122568	Paralinens		elisabetae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177413	
+156319	744894	Paramphiporus		albimarginatus	Kirsteuer, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156319	
+176496	162260	Paranemertes		cylindracae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176496	
+176486	162267	Paranemertes		incongruens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176486	
+176494	162261	Paranemertes		peregrina		var. alaskensis	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176494	
+176495	162261	Paranemertes		peregrina		var. californiensis	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176495	
+176439	122825	Paraoerstedia		wijnhoffi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176439	
+177791	155835	Parapolia		grytvikensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177791	
+176457	122819	Paroerstedia		laminariae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176457	
+175672	122844	Pelagonemertes		acutocaudata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175672	
+175685	162479	Pelagonemertes		elongata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175685	
+175667	122845	Pelagonemertes		fusca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175667	
+175684	162480	Pelagonemertes		gracilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175684	
+175674	162486	Pelagonemertes		indica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175674	
+175650	162494	Pelagonemertes		irenae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175650	
+175661	162490	Pelagonemertes		korotkevitschi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175661	
+175682	162481	Pelagonemertes		nigra					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175682	
+175679	162482	Pelagonemertes		obesa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175679	
+175647	122847	Pelagonemertes		wijnhoffi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175647	
+175664	122846	Pelagonemertes		zonata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175664	
+177768	122851	Pendonemertes		levensini					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177768	
+177765	155847	Perissonemertes		pyrrhocephalus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177765	
+176337	122733	Phrosorochmus		claparedii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176337	
+176079	122791	Planaria		ascaridea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176079	
+176464	122817	Planaria		dorsalis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176464	
+176339	122733	Planaria		flava					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176339	
+176187	122764	Planaria		quadrioculata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176187	
+177773	155839	Planaria		sanguinea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177773	
+177767	122852	Planktonemertes		adhaerens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177767	
+175632	162504	Planktonemertes		agassizi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175632	
+175633	162503	Planktonemertes		aurantiaca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175633	
+175719	162472	Planktonemertes		aureola					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175719	
+175627	162509	Planktonemertes		beebei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175627	
+175628	162508	Planktonemertes		coei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175628	
+175729	162463	Planktonemertes		drygalskii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175729	
+175625	122853	Planktonemertes		hubrechti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175625	
+177769	122851	Planktonemertes		levinseni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177769	
+175728	162464	Planktonemertes		macrostomum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175728	
+175645	122848	Planktonemertes		murrayi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175645	
+175686	162477	Planktonemertes		obesa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175686	
+175642	162496	Planktonemertes		rhomboidalis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175642	
+175629	162507	Planktonemertes		rubella					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175629	
+175637	162500	Planktonemertes		sargassicola					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175637	
+175635	162501	Planktonemertes		scarlata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175635	
+175631	162505	Planktonemertes		vanhöffeni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175631	
+175716	162473	Planktonemertes		wheeleri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175716	
+175638	162498	Planktonemertes		woodworthii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175638	
+175665	122846	Planktonemertes		zonata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175665	
+176489	122719	Polia		antonina					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176489	
+176024	122797	Polia		armata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176024	
+176419	122722	Polia		aurita					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176419	
+176266	122757	Polia		baculus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176266	
+176596	122715	Polia		bivittata	Delle Chiaje, 1841				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176596	
+176189	122764	Polia		capitata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176189	
+147218	122626	Polia		crucigera					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147218	
+176345	122410	Polia		fumosa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176345	
+176107	122781	Polia		humilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176107	
+176190	122764	Polia		quadrioculata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176190	
+176136	122773	Polia		sanguirubra					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176136	
+176137	122773	Polia		tetrophthalma					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176137	
+175989	122806	Polia		vermiculata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175989	
+175981	122806	Polia		vermiculus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175981	
+177115	122581	Polyopsis		lacazei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177115	
+175835	162433	Polyschista		curaçaoensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175835	
+148042	744895	Poseidonemertes		bothwellae	Gibson, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148042	
+175646	122847	Probalaenanemertes		wijnhoffi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175646	
+147116	573293	Procephalothrix		simula	Iwata, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147116	
+176364	162331	Prosadenoporus		badio-vagatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176364	
+176348	122733	Prosorchochmus		claparédi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176348	
+175546	162647	Prosorchochmus		viviparus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175546	
+176609	122715	Prosorhochmus		bistriatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176609	
+176333	122733	Prosorhochmus		claparèdii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176333	
+176610	122715	Prosorochmus		bistriatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176610	
+176357	122733	Prosorochmus		claparedei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176357	
+176358	122733	Prosorochmus		claparedi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176358	
+176359	122733	Prosorochmus		claparedii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176359	
+176360	122733	Prosorochmus		claparèdii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176360	
+176361	122733	Prosorochmus		delagei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176361	
+176281	122751	Prostoma		ambigua					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176281	
+176283	122751	Prostoma		ambiguum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176283	
+176279	162347	Prostoma		amphiporoides					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176279	
+176277	162348	Prostoma		antarcticum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176277	
+176273	122754	Prostoma		aseptata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176273	
+176271	122755	Prostoma		assimile					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176271	
+176269	122757	Prostoma		baculus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176269	
+176265	122758	Prostoma		beaumonti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176265	
+176192	122764	Prostoma		biancestro					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176192	
+176264	122759	Prostoma		bioculatum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176264	
+176200	122761	Prostoma		bistriatum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176200	
+176197	122763	Prostoma		buxeum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176197	
+176195	122764	Prostoma		candidum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176195	
+176165	122767	Prostoma		cerasinum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176165	
+176155	122769	Prostoma		cruciatum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176155	
+176154	122770	Prostoma		diadema					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176154	
+176153	122771	Prostoma		dubium					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176153	
+176151	162349	Prostoma		duboisi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176151	
+176150	162350	Prostoma		dutoiti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176150	
+176149	159505	Prostoma		elegans					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176149	
+176144	122772	Prostoma		falsum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176144	
+175992	122806	Prostoma		flagellatum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175992	
+176138	122773	Prostoma		flavidum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176138	
+176132	162352	Prostoma		georgianum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176132	
+176131	122776	Prostoma		glanduliferum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176131	
+176459	162299	Prostoma		gulliveri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176459	
+176118	162354	Prostoma		hansi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176118	
+176115	122779	Prostoma		hermaphroditicum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176115	
+176112	122780	Prostoma		herouardi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176112	
+176109	122781	Prostoma		humile					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176109	
+176104	162355	Prostoma		incisum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176104	
+176102	122782	Prostoma		interruptum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176102	
+176096	122785	Prostoma		knochii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176096	
+176092	122787	Prostoma		leonillae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176092	
+176089	122790	Prostoma		marionis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176089	
+176054	162357	Prostoma		merula					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176054	
+176052	122792	Prostoma		mixtum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176052	
+176040	122793	Prostoma		nimbatum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176040	
+176032	122795	Prostoma		portus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176032	
+176030	122796	Prostoma		quadristriatum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176030	
+176028	122797	Prostoma		quatrefagesi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176028	
+176023	122798	Prostoma		robertianae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176023	
+176021	162363	Prostoma		roseocephalum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176021	
+175579	162660	Prostoma		schultzei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175579	
+175580	162660	Prostoma		schultzei		jaltense	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175580	
+176019	122799	Prostoma		scutelliferum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176019	
+176018	122800	Prostoma		simplex					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176018	
+176372	405065	Prostoma		spectaculum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176372	
+176017	122801	Prostoma		subpellucidum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176017	
+176016	162375	Prostoma		suhmi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176016	
+176014	122803	Prostoma		tutus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176014	
+176013	122804	Prostoma		unicolor					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176013	
+176010	162383	Prostoma		unilineatum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176010	
+176008	122805	Prostoma		vastum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176008	
+176000	122806	Prostoma		vermicula					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176000	
+175993	122806	Prostoma		vermiculus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175993	
+175996	122806	Prostoma		vermiculus		catenulatum	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175996	
+175997	122806	Prostoma		vermiculus		solium	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175997	
+175998	122806	Prostoma		vermiculus		vermiculus	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175998	
+175978	162386	Prostoma		verrilli					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175978	
+175976	122807	Prostoma		viera					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175976	
+175973	122808	Prostoma		viperula					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175973	
+175962	122810	Prostoma		vitigerum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175962	
+175909	122810	Prostoma		vittigerum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175909	
+175964	122810	Prostoma		vittigerum		granulatum	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175964	
+175966	122810	Prostoma		vittigerum		granulosum	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175966	
+176145	162351	Prostomatella		enteroplecta					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176145	
+177082	122587	Pseudobasedodiscus		nonsulcatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177082	
+175825	122860	Ptychodes		splendida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175825	
+175820	122860	Punnettia		spendida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175820	
+175801	162437	Punnettia		timorensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175801	
+175472	156020	Quatrefagea		dubia					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175472	
+175474	156020	Quatrefagea		insignis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175474	
+177407	155926	Rhamphogordius		lacteus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177407	
+176280	162347	Stichostemma		amphiporoides					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176280	
+176278	162348	Stichostemma		antarcticum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176278	
+176152	162349	Stichostemma		duboisi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176152	
+176133	162352	Stichostemma		georgianum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176133	
+176461	162299	Stichostemma		gulliveri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176461	
+176706	162354	Stichostemma		hansi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176706	
+175565	162612	Stylus		viridis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175565	
+175378	147166	Tetramys		ramicerebrum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175378	
+176363	162332	Tetrastemma		albidum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176363	
+607115	122764	Tetrastemma		algae	(Dalyell, 1853)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:607115	
+176276	122753	Tetrastemma		arcticum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176276	
+176029	122797	Tetrastemma		armatum	J. V. Carus, 1885				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176029	
+148201	573312	Tetrastemma		bicolor	Coe, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148201	
+175908	162388	Tetrastemma		bobi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175908	
+176547	122784	Tetrastemma		cruciatus	sensu Senz, 1993				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176547	
+175011	162297	Tetrastemma		esbenseni	Wheeler, 1934				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175011	
+176139	122717	Tetrastemma		flavida	McIntosh, 1873-1874				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176139	
+176140	122773	Tetrastemma		flavidum		var. longissima	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176140	
+176141	122773	Tetrastemma		flavidum		var. longissimum	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176141	
+175009	162299	Tetrastemma		gulliveri	Bürger, 1893				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175009	
+176110	122781	Tetrastemma		humile					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176110	
+176458	122818	Tetrastemma		immutabile					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176458	
+176105	162355	Tetrastemma		insicum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176105	
+176548	122779	Tetrastemma		kefersteinii	sensu Joubin, 1890				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176548	
+176097	122785	Tetrastemma		knochi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176097	
+162356	573316	Tetrastemma		kulikovae	Gibson, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162356	
+176142	122773	Tetrastemma		longecapitatum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176142	
+176143	122773	Tetrastemma		longicapitatum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176143	
+176456	122820	Tetrastemma		maculatum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176456	
+176090	122790	Tetrastemma		marioni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176090	
+162358	573314	Tetrastemma		nigrifrons	(Coe, 1904)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162358	
+176455	122820	Tetrastemma		nigrum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176455	
+176033	162359	Tetrastemma		phaeabasisae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176033	
+176034	162359	Tetrastemma		pheobasisae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176034	
+176587	156415	Tetrastemma		quadripunctata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176587	
+176161	122768	Tetrastemma		rufescens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176161	
+176449	122821	Tetrastemma		rustica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176449	
+175477	162650	Tetrastemma		steenstrupii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175477	
+162373	573317	Tetrastemma		stimpsoni	Chernyshev, 1992				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162373	
+176015	162382	Tetrastemma		tridentata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176015	
+176006	162384	Tetrastemma		verinigrum		var. meridialis	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176006	
+176007	162384	Tetrastemma		verinigrum		var. meridianum	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176007	
+176498	156416	Tortus		paramusirensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176498	
+147264	122639	Tubulans		superba					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147264	
+175407	147236	Tubulanus		lucida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175407	
+147206	122623	Tubulanus		theeli	(Bergendal, 1902)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147206	
+176428	122721	Typhlonemertes		aurantiaca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176428	
+176403	122724	Typhlonemertes		claparedii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176403	
+176389	122729	Typhlonemertes		pallida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176389	
+177110	177102	Uchidaja		parasitica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177110	
+148244	573307	Urichonemertes		pilorhynchus	Gibson, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148244	
+177088	122583	Valencia		longirostris					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177088	
+147249	122637	Valencia		splendida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147249	
+177090	122583	Valenciennesia		longirostris					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177090	
+175468	162664	Valencinia		lineiformis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175468	
+177091	122583	Valencinia		longirostris		var. rava	Variety		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177091	
+147265	122639	Valencinia		ornata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147265	
+177291	155931	Valencinia		rubens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177291	
+147250	122637	Valencinia		splendida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147250	
+148246	573308	Xenonemertes		rhamphocephalus	Gibson, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148246	
+177295	155931	Zygeupolia		litoralis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177295	
+177294	155931	Zygeupolia		littoralis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177294	
+177414	155922	Zygeupolia		littoralis	sensu Iwata, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177414	
+156320	594953	Zygonemertes		callaina	Korotkevich, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156320	
+176860	156321	Zygonemertes		lüderitzi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176860	
+176859	122700	Zygonemertes		maslowskyi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176859	
+175854	162427	Punnettia		spectabilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175854	
+147390	147388	Renieria		rubra	Girard, 1853				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147390	
+147383	147380	Serpentaria		rubella					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147383	
+177726	122511	Siphonteron		bilineatum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177726	
+177568	122555	Stylus		fasciatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177568	
+177476	122560	Stylus		purpureus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177476	
+177732	155881	Tetrastemma		arenicola					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177732	
+176297	122739	Tetrastemma		obscurum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176297	
+176311	122738	Tetrastemma		vittata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176311	
+159507	122738	Tetrastemma		vittatum	Verrill				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:159507	
+175607	122641	Xenistum		valenciennaei					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175607	
+176772	122698	Acrostomum		stannii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176772	
+176820	156337	Amphiporus		africanus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176820	
+176847	156323	Amphiporus		agilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176847	
+176817	156338	Amphiporus		arenarius					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176817	
+176782	122704	Amphiporus		bergendali					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176782	
+176807	156393	Amphiporus		drepanophoroides					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176807	
+176783	122704	Amphiporus		falklandicus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176783	
+176804	156395	Amphiporus		magnus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176804	
+174458	156396	Amphiporus		marioni	Hubrecht, 1887				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:174458	
+175880	162409	Amphiporus		nagaiensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175880	
+148008	573309	Amphiporus		nelsoni	Sánchez, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148008	
+176484	162270	Amphiporus		obtusorostris					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176484	
+176802	156397	Amphiporus		occidentalis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176802	
+176799	156398	Amphiporus		ogumai					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176799	
+176797	156399	Amphiporus		pacificus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176797	
+176785	122704	Amphiporus		pulcher					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176785	
+176786	122704	Amphiporus		pulcher		pulcher	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176786	
+176778	156400	Amphiporus		punctatulus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176778	
+176779	156400	Amphiporus		punctatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176779	
+176787	122704	Amphiporus		pusillus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176787	
+148018	573310	Amphiporus		rubellus	Coe, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148018	
+174461	156401	Amphiporus		schollaerti	Wheeler, 1934				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:174461	
+176777	156401	Amphiporus		schollaeti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176777	
+175814	122860	Amphiporus		splendidus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175814	
+176773	122698	Amphiporus		stannii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176773	
+176775	122698	Amphiporus		stanniusi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176775	
+176846	156323	Amphiporus		virescens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176846	
+175779	162446	Armaueria		pellucida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175779	
+176465	122817	Astemma		gordius	Parfitt, 1867				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176465	
+175550	162628	Baseodiscus		caeca					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175550	
+175616	122853	Bathynemertes		hubrechti					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175616	
+177433	122586	Borlasia		annulata	(Ehrenberg, 1831)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177433	
+176113	122779	Borlasia		hermaphroditica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176113	
+176101	122783	Borlasia		kefersteinii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176101	
+177321	155926	Borlasia		lactea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177321	
+176853	122700	Borlasia		maslovskyi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176853	
+176854	122700	Borlasia		maslovskyi		f. aberrans	Forma		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176854	
+176858	122700	Borlasia		maslovskyi		f. typica	Forma		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176858	
+176855	122700	Borlasia		maslovskyi		maslovskyi	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176855	
+176056	122791	Borlasia		melanocephala					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176056	
+176058	122791	Borlasia		melanocephala		f. britannica	Forma		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176058	
+176060	122791	Borlasia		melanocephala		f. suchumica	Forma		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176060	
+176499	156415	Borlasia		quadripunctata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176499	
+175805	122860	Borlasia		splendida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175805	
+177416	155920	Borlasia		tricuspida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177416	
+177415	155920	Borlasia		tricuspidata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177415	
+175983	122806	Borlasia		vermiculus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175983	
+175540	162647	Borlasia		vivipara					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175540	
+147234	122632	Carinella		albida					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147234	
+147208	147207	Carinella		albocincta	Coe, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147208	
+147211	122626	Carinella		aragoi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147211	
+147220	147219	Carinella		aurea	Joubin, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147220	
+147223	147222	Carinella		capistrata	Coe, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147223	
+147225	147224	Carinella		cingulata	Coe, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147225	
+147258	147256	Carinella		dinema					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147258	
+147229	147228	Carinella		frenata	Coe, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147229	
+147230	122629	Carinella		groenlandica	Bergendal, 1902				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147230	
+175402	122629	Carinella		grönlandica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175402	
+147233	122632	Carinella		linearis	McIntosh, 1874				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147233	
+147212	122626	Carinella		macintoshi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147212	
+147213	122626	Carinella		mcintoshii					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147213	
+147241	147240	Carinella		pellucida	Coe, 1895				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147241	
+147242	122637	Carinella		polymorpha					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147242	
+147252	147251	Carinella		punctata	Takakura, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147252	
+147255	122638	Carinella		rubicunda	Bürger, 1892				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147255	
+147243	122637	Carinella		rubra					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147243	
+147257	147256	Carinella		sexlineata	Griffin, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147257	
+147244	122637	Carinella		speciosa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147244	
+147260	122639	Carinella		superba					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147260	
+147205	122623	Carinella		théeli	Bergendal, 1902				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147205	
+147214	122626	Carinella		trilineata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147214	
+147266	122640	Carinella		tubicola	Kennel, 1891				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147266	
+176262	122759	Cephalothrix		kroyeri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176262	
+175466	162638	Cephalotrix		lineatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175466	
+176088	122791	Cephalotrix		unipunctata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176088	
+177298	122573	Cerebratulus		albocinctus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177298	
+177417	155920	Cerebratulus		albo-vittatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177417	
+177436	122586	Cerebratulus		anas					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177436	
+175888	122863	Cerebratulus		assimilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175888	
+177783	155836	Cerebratulus		corrugatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177783	
+175886	122863	Cerebratulus		crassus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175886	
+177440	122586	Cerebratulus		geniculatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177440	
+177784	155836	Cerebratulus		hanseni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177784	
+147318	122586	Cerebratulus		knerii	(Diesing, 1850)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147318	
+157978	155928	Cerebratulus		luridus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:157978	
+177786	155836	Cerebratulus		magelhaensicus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177786	
+177299	122572	Cerebratulus		praealbescens					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177299	
+177787	155836	Cerebratulus		steeneni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177787	
+177788	155836	Cerebratulus		steineni					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177788	
+177789	155836	Cerebratulus		steinini					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177789	
+177790	155836	Cerebratulus		subtilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177790	
+147125	573295	Coeia		ijimai	Takakura, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147125	
+162414	573301	Coella		tiurensis	Stiasny-Wijnhoff, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162414	
+156332	156340	Collarenemertes		bimaculata	Chernyshev, 1993				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156332	
+176578	156415	Colpocephalus		quadripunctatus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176578	
+148028	744896	Correanemertes		polyophthalma	Gibson & Sundberg, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:148028	
+176789	122704	Cratenemertes		bergendali					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176789	
+176792	122704	Cratenemertes		danae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176792	
+176805	156394	Cratenemertes		madagascarensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176805	
+176798	156399	Cratenemertes		pacificus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176798	
+176780	156400	Cratenemertes		punctatulus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176780	
+176776	156402	Cratenemertes		variabilis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176776	
+176114	122779	Dichonemertes		hermaphroditica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176114	
+175723	162470	Dinonemertes		constricta					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175723	
+175727	162466	Dinonemertes		labiata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175727	
+175725	162467	Dinonemertes		lobata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175725	
+175722	162470	Dinonemertes		plana					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175722	
+175894	122863	Drapanophorus		crassus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175894	
+162394	573303	Drepanophoresta		lifuensis	(Punnett, 1900)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162394	
+162396	573304	Drepanophoresta		rosea	(Punnett, 1903)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162396	
+162398	573302	Drepanophoria		pajungae	Stiasny-Wijnhoff, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162398	
+162401	573305	Drepanophoringia		waingapuensis	Stiasny-Wijnhoff, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:162401	
+175613	122866	Drepanophorus		borealis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175613	
+175883	122864	Drepanophorus		igneus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175883	
+175803	162434	Drepanophorus		indicus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175803	
+175882	122864	Drepanophorus		nisidensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175882	
+175742	162457	Drepanophorus		pelagicus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175742	
+176765	156403	Drepanophorus		valdiviae					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176765	
+175802	162434	Drepanophorus		willeyanus					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175802	
+176490	122719	Emplectonema		antonina					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176490	
+176493	122719	Eunemertes		antonina					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176493	
+176597	122715	Eunemertes		peronea					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176597	
+176173	122764	Fasciola		candida	Müller, 1774				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:176173	
+147261	122639	Gordius		anguis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147261	
+147210	122626	Gordius		annulatus	Montagu, 1804				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:147210	
+175557	162614	Gordius		linearis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175557	
+175559	162612	Gordius		spinifer		viridis	Subspecies		unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:175559	
+175561	162612	Gordius		viridis					alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:175561	
+175831	122859	Crandallia		hubrechti	Härlin, 1998				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:175831	
+573320	148233	Punnettia		natans	(Kirsteuer, 1973)				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:573320	

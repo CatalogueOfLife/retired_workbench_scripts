@@ -1,0 +1,353 @@
+﻿AcceptedTaxonID	CommonName	Language
+1199239	Fast-Moving Stick Insect	English
+1199244	Winged Abrosoma	English
+1199259	Black and Green Phasma	English
+1199277	Kinabalu Dinophasma	English
+1199301	Jasar Spiny	English
+1199313	Green Striped Flying Stick	English
+1199329	Brown Flying Stick	English
+1199463	Florida Stick Insect	English
+1199463	Two-Striped Walkingstick	English
+1199469	Dark Walkingstick	English
+1199469	Northern Two-Striped Walkingstick	English
+1199470	Red-striped Stick Insect	English
+1199501	Winged Jamaican Malacomorpha	English
+1199503	Wingless Jamaican Malacomorpha	English
+1199533	Golden-Eyed Stick Insect	English
+1199581	Venezuela Stick Insect	English
+1199585	Two-spined Ecuador Stick Insect	English
+1199611	Orange-Winged Stick Insect	English
+1199760	Guadeloupe Stick Insect	English
+1199809	Trinidad Log Stick Insect	English
+1199996	Colorado Short-Horned Walkingstick	English
+1199998	Western Short-Horned Walkingstick	English
+1200089	Mediterranean Stick Insect	English
+1200105	French Stick Insect	English
+1200114	Cape Stick Insect	English
+1200123	Thunberg's Stick Insect	English
+1200127	McGregor's Stick-insect	English
+1200166	Tanzanian Stick Insect	English
+1200254	De Haan's Haaniella	English
+1200257	Prickly Haaniella	English
+1200258	Gray's Haaniella	English
+1200261	Müller's Haaniella	English
+1200268	Saussure's Haaniella	English
+1200272	Small Haaniella	English
+1200275	Jungle Nymph	English
+1200275	Malayan Jungle Nymph	English
+1200285	Thorny Stick Insect	English
+1200294	Samar Stick Insect	English
+1200311	Sungay Stick Insect	English
+1200330	Abercrombie's Stick Insect	English
+1200333	Brunei Hoploclonia Stick Insect	English
+1200335	Gecko Stick Insect	English
+1200386	Spiny Ulula Stick Insect	English
+1200390	Spiny Sabah Stick Insect	English
+1200393	Touch Me Not Stick Insect	English
+1200395	Small Cigar Stick Insect	English
+1200406	Pygmy Stick	English
+1200421	Money Plant Stick Insect	English
+1200450	Lobed Leaf-insect	English
+1200457	Monteith's Leaf-insect	English
+1200462	Celebes Leaf Insect	English
+1200467	Hausleithner's Stick Insect	English
+1200472	Linnaeus' Leaf Insect	English
+1200501	Gray's Leaf Insect	English
+1200501	Javanese Leaf Insect	English
+1200510	Giant Malaysian Leaf Insect	English
+1200519	Pygmy Stick-insect	English
+1200527	Plain Stick-insect	English
+1200529	Black-spotted Stick-insect	English
+1200539	Red Seychelles Stick Insect	English
+1200546	Plain Stick Insect	English
+1200553	Gardiner's Stick Insect	English
+1200554	Bulb-End Stick Insect	English
+1200568	Indian Stick Insect	English
+1200568	Laboratory Stick Insect	English
+1200569	Knob-Backed Stick Insect	English
+1200578	Scott's Spiny Stick Insect	English
+1200579	Common Seychelles Stick Insect	English
+1200584	Pincer-End Stick Insect	English
+1200588	Tanahrata's Knob-Back Stick Insect	English
+1200608	Woodford's Stick Insect	English
+1200622	Super Z-Bends Stick Insect	English
+1200627	Matang Megabeast Stick Insect	English
+1200645	Lobed-abdomen Stick-insect	English
+1200647	Tepper's Plain Stick-insect	English
+1200659	Sarawak Stick Insect	English
+1200663	Gray's Malayan Stick Insect	English
+1200674	Everett's Stick Insect	English
+1200679	Orange-Kneed Stick Insect	English
+1200687	Jejunus Stick Insect	English
+1200690	Mallet's Stick Insect	English
+1200768	Mt Kinabalu Stick Insect	English
+1200778	Hong Kong Stick Insect	English
+1200848	Australian Ridged Stick-insect	English
+1200851	WA Thin Stick-insect	English
+1200852	Long Denhama Stick-insect	English
+1200855	Graceful Stick-insect	English
+1200856	Denham Stick-insect	English
+1200861	Z-Bends Stick Insect	English
+1200863	Mindanaon Stick Insect	English
+1200865	Modest Lonchodes Stick Insect	English
+1200890	Warty-Legged Stick Insect	English
+1200891	Club-End Wart-legged Stick Insect	English
+1200898	Beak-End Warty-Legged Stick Insect	English
+1200930	Hong Kong Spiny Stick Insect	English
+1200933	Vietnam Prickly Stick Insect	English
+1200935	Unno's Stick Insect	English
+1200982	Brazilian Giant Stick Insect	English
+1201036	Hump-backed Stick Insect	English
+1201062	Giant Green Stick Insect	English
+1201066	Dragon Stick Insect	English
+1201072	Mayer's Walkingstick	English
+1201113	Lord Howe Island Stick Insect	English
+1201129	Giant Spiny Stick Insect	English
+1201134	Spiny Devil Stick Insect	English
+1201136	Oil Palm Stick Insect	English
+1201164	Small Prickly PNG Stick Insect	English
+1201208	Dull Spiny Stick-insect	English
+1201243	Spiny thorax Stick-insect	English
+1201247	Australian Arphax Stick-insect	English
+1201248	Brown Arphax Stick-insect	English
+1201249	Crafty Arphax Stick-insect	English
+1201251	Michaelsen's Arphax Stick-insect	English
+1201252	Striped Arphax Stick-insect	English
+1201255	Short-winged Stick-insect	English
+1201259	Walker's Stick-insect	English
+1201266	Prickly Stick Insect	English
+1201268	Unarmed Stick Insect	English
+1201270	Black-spined Stick Insect	English
+1201278	Bristly Stick Insect	English
+1201278	The Horrid Stick Insect	English
+1201286	Smooth Stick Insect	English
+1201286	The Common Stick Insect	English
+1201296	The Three Kings Stick Insect	English
+1201303	Cloudy Stick-insect	English
+1201307	Titan Stick Insect	English
+1201308	Wülfing's Stick Insect	English
+1201310	Lobe-legged Stick-insect	English
+1201312	Giant Acrophylla Stick-insect	English
+1201314	Quick Stick-insect	English
+1201332	Spiny Anchiale Stick-insect	English
+1201335	Strong Stick Insect	English
+1201339	Tessellated Stick-insect	English
+1201345	Cigar Stick Insect	English
+1201347	Margined-winged Stick-insect	English
+1201354	Gargantuan Stick-insect	English
+1201357	Goliath Stick Insect	English
+1201357	Regal Stick Insect	English
+1201363	Darwin Stick Insect	English
+1201367	Red-Winged Green Giant Stick Insect	English
+1201373	Gorgon Stick-insect	English
+1201375	Rentz's Stick-insect	English
+1201380	Horned Stick-insect	English
+1201381	Slender-dark Stick-insect	English
+1201382	Spiky-thorax Stick-insect	English
+1201389	Giant Stick Insect	English
+1201399	Baehr's Stick-insect	English
+1201441	Distinguished Stick-insect	English
+1201492	WA Slender Stick-insect	English
+1201503	Coconut Stick Insect	English
+1201514	Seychelles Palm Stick Insect	English
+1201525	Peppermint Stick-insect	English
+1201534	Tsuda's Giant Stick-insect	English
+1201577	Rentz's Strong Stick-insect	English
+1201586	Swan River Stick-insect	English
+1201587	Lysicles Stick-insect	English
+1201590	Beautiful Malanda Stick-insect	English
+1201592	Large Pink-winged Stick-insect	English
+1201594	Red-winged Stick-insect	English
+1201595	Ringbarker Stick-insect	English
+1201596	Key's Stick-insect	English
+1201601	Children's Stick Insect	English
+1201606	Sjöstedt's Graceful Stick-insect	English
+1201607	Michaelsen's Stick-insect	English
+1201608	Green Stick-insect	English
+1201609	Red-Shouldered Stick-insect	English
+1201612	Hasenpusch Family Stick-insect	English
+1201614	Moulds's Stick-insect	English
+1201615	Jiva's Stick-insect	English
+1201617	Orange-spined Stick-insect	English
+1201621	Spur-legged Stick-insect	English
+1201625	Cape York Stick-insect	English
+1201632	Reunion Thorny Stick Insect	English
+1201642	Mauritius Rough Stick Insect	English
+1201645	Reunion Stick Insect	English
+1201711	Kirby's Stick-insect	English
+1201725	Popa Stick Insect	English
+1201727	Giant Prickly Stick Insect	English
+1201727	Macleay's Spectre	English
+1201727	Spiny Leaf Insect	English
+1201745	Heavy Stick Insect	English
+1201747	Sumatran Stick Insect	English
+1201777	Giant Malayan Stick Insect	English
+1201784	Chan's Megastick	English
+1201795	Cantor's Stick Insect	English
+1201815	Taiwan Stick Insect	English
+1201824	Koshun Stick Insect	English
+1201837	Victoria Stick Insect	English
+1201865	Bangladesh Rhamphophasma Stick Insect	English
+1201872	Sri Lankan Stick Insect	English
+1201885	Naga Stick Insect	English
+1201887	Stilpna Stick Insect	English
+1201968	Great Thin Stick Insect	English
+1201997	Chiang Mai Stick Insect	English
+1202002	Christmas Island Stick-insect	English
+1202006	Thailand Stick Insect	English
+1202102	Jobra Stick Insect	English
+1202104	Rough Stick Insect	English
+1202110	Annam Stick Insect	English
+1202115	Four-spined Stick Insect	English
+1202118	Thainy Spiny Stick Insect	English
+1202120	Zompro's Stick Insect	English
+1202150	Costa Rican Stick Insect	English
+1202161	Sonoran Stick Insect	English
+1202280	Warty Stick Insect	English
+1202313	Rarely spined Peruvian Stick Insect	English
+1202373	Blatchley's Walkingstick	English
+1202375	Short-Rumped Walkingstick	English
+1202376	Slender-Bodied Walkingstick	English
+1202379	Giant Walkingstick	English
+1202421	Monteverde Stick Insect	English
+1202469	Gray Walkingstick	English
+1202471	Striped Walkingstick	English
+1202499	Mexican Walkingstick	English
+1202532	Prairie Walkingstick	English
+1202532	Veli's Walkingstick	English
+1202535	Arizona Walkingstick	English
+1202537	Carolina Walkingstick	English
+1202539	Common American Walkingstick	English
+1202539	Northern Walkingstick	English
+1202546	Similar Walkingstick	English
+1202550	Tamaulipas Walkingstick	English
+1202551	Twisted Walkingstick	English
+1202555	Coville's Walkingstick	English
+1202628	Trinidad Twig	English
+1202652	White-Kneed Stick Insect	English
+1202660	Magnificent Anarchodes	English
+1202669	Tiny Asceles	English
+1202670	Medium Asceles	English
+1202671	Singapore Asceles	English
+1202688	Mottled Asceles	English
+1202692	Hairy Asceles	English
+1202706	Flanged Feet Asceles	English
+1202719	Fractured Stick Insect	English
+1202726	Black-Winged Knob-Neck Stick Insect	English
+1202727	Dull Knob-Necked Stick Insect	English
+1202752	Knob-Necked Flying Stick Insect	English
+1202762	Tessellated-Wing Knob-Neck Stick insect	English
+1202776	Spiny-Necked Stick Insect	English
+1202779	Purple Stick Insect	English
+1202791	Thin Flying Stick	English
+1202807	Tessellated Spiny Flying Stick	English
+1202821	Tessellated Giant Stick Insect	English
+1202824	Triumphant Giant Stick Insect	English
+1202840	Thursday Island Stick-insect	English
+1202870	Lobed-Legged Yellow Flyer	English
+1202882	Short-Winged Lopaphus	English
+1202887	Variable-Winged Lopaphus	English
+1202895	Red Mouth Stick Insect	English
+1202902	Vietnam Lopaphus Stick Insect	English
+1202915	Cone-Headed Flying Stick	English
+1202924	Yellow and Brown Flying Stick	English
+1202950	Yellow-Spotted Flying Stick	English
+1202965	Dark-winged Stick-insect	English
+1202995	Variable Flying Stick	English
+1203001	Yellow Flying Stick	English
+1203027	Green Flying Stick	English
+1203033	Green Kotatinggi Flying Stick	English
+1203039	Red and White-Striped Flying Stick	English
+1203049	Rose-Winged Stick Insect	English
+1203053	Spotted Flying Stick	English
+1203066	Westwood's Flying Stick	English
+1203071	Fragile Flying Stick	English
+1203148	Black and Green Flying Stick	English
+1203189	Spiny Oxyartes Stick Insect	English
+1203218	Vietnam Green Stick Insect	English
+1203275	Herwaarden's Stick Insect	English
+1203276	Khao Stick Insect	English
+1203277	Small Red Winged Stick Insect	English
+1203288	Javanese Lichen Stick Insect	English
+1203297	Gorkom's Stick Insect	English
+1203300	Queensland Winged Beak-abdomen Stick-insect	English
+1203302	Paluma Winged Beak-abdomen Stick-insect	English
+1203322	Queensland Scionecra Stick-insect	English
+1203331	Milledge's Stick-insect	English
+1203367	Beautiful-winged Stick-insect	English
+1203381	Confused Winged Stick-insect	English
+1203397	Graceful-winged Stick-insect	English
+1203405	Green-Legged Sipyloidea	English
+1203411	Nelida's Stick-insect	English
+1203421	Similar-winged Stick-insect	English
+1203422	Madagascan Stick Insect	English
+1203422	Pink Winged Stick Insect	English
+1203431	Short-cerci Winged Stick-insect	English
+1203432	Garradunga Green-winged Stick-insect	English
+1203433	Hurricane Larry Stick-insect	English
+1203434	Mt. Lewis Winged Stick-insect	English
+1203435	Rentz's Sipyloidea Stick-insect	English
+1203436	White's Winged Stick-insect	English
+1203442	Malaccan Sosibia	English
+1203446	Multi-Eared Sosibia	English
+1203449	Brock's Sosibia	English
+1203454	Banded Sosibia	English
+1203460	Black-Spined Sosibia	English
+1203466	Philippines Winged Stick Insect	English
+1203472	Long Sosibia	English
+1203506	Evoneobert's Stick-insect	English
+1203507	Muddy Stick-insect	English
+1203509	Aberrant Stick-insect	English
+1203510	Banded-legged Stick-insect	English
+1203511	Granulated Stick-insect	English
+1203512	Pale Stick-insect	English
+1203513	Blue Mountain Stick-insect	English
+1203514	Richmond River Stick-insect	English
+1203515	Sydney Stick-insect	English
+1203519	Robinson's Stick-insect	English
+1203522	Yellow Umbrella Stick Insect	English
+1203526	Black-striped Stick-insect	English
+1203530	Lord Howe Horn-headed Stick-insect	English
+1203532	Dodd's Spiny Stick-insect	English
+1203562	Portugese Stick Insect	English
+1203564	Spanish Mountain Stick Insect	English
+1203586	Andamans Stick Insect	English
+1203589	Langkawi Stick Insect	English
+1203589	Malayan Sceptra	English
+1203690	Cape Mountain Stick-insect	English
+1203743	Cederberg Stick-insect	English
+1203744	Cape Mountain Stick Insect	English
+1203770	Spanish Stick Insect	English
+1203779	The Spiny Ridge-backed Stick Insect	English
+1203781	The Common Ridge-backed Stick Insect	English
+1203784	The Rough-skinned Ridge-backed Stick Insect	English
+1203786	The Lesser Rough-skinned Stick Insect	English
+1203790	Spiny Acanthoderus Stick-insect	English
+1203792	The Lesser Spiny Stick Insect	English
+1203802	Simple Pachymorpha Stick-insect	English
+1203804	Rough Pachymorpha Stick-insect	English
+1203806	Spiny Pachymorpha Stick-insect	English
+1203810	The Kauri Forest Stick Insect	English
+1203813	Hutton's Stick Insect	English
+1203881	Bartman's Timema	English
+1203882	Bohart's Timema	English
+1203883	California Timema	English
+1203884	Chumash Timema	English
+1203885	Coffman's Timema	English
+1203886	Cristina's Timema	English
+1203887	Dorothy's Timema	English
+1203888	Douglas Timema	English
+1203889	Genevieve's Timema	English
+1203890	Knull's Timema	English
+1203891	Landels-Hill Timema	English
+1203892	Santa Monica Mountains Timema	English
+1203893	Morongo Valley Timema	English
+1203894	Napika Timema	English
+1203895	Nevada Timema	English
+1203896	Petite Timema	English
+1203897	Sierra Nevada Mts. Timema	English
+1203898	Poppe Road Timema	English
+1203899	Santa Rita Mts. Timema	English
+1203900	Shepard's Timema	English
+1203901	Tahoe Timema	English
+1218098	Portugese Stick Insect	English

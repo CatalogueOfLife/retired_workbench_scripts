@@ -1,0 +1,169 @@
+﻿ReferenceID	Authors	Year	Title	Source
+44759	Béthoux, Nel, Lapeyrie & Gand	2005	New data on paleozoic Grylloblattid insects (Neoptera)	Journal of Paleontology 79(1):125-138
+44760	Huang, D.Y., Nel & Petrulevicius	2008		Zoological Journal of the Linnean Society (Zool. Jour. Linn. Soc.) 152(1):17-24
+44761	Zalessky, G.	1937	Ancestors of Some Groups of the Present-day Insects	Nature: International weekly journal of science (Nature) 140(3550):847-848
+44762	Aristov	2004	The Fauna of Grylloblattid Insects (Grylloblattida) of the Lower Permian Locality of Tshekarda	Paleontological Journal 38(Suppl 2):S80-S145
+44763	Béthoux & Beckemeyer	2007	New and rare insect species from the Wellington Formation (Orthoptera, Grylloblattodea; Lower Permian, USA)	Alavesia 1:49-61
+44764	Handlirsch	1911	New Paleozoic insects from the vicinity of Mazon Creek, Illinois	The American Journal of Science (Amer. Jour. Sci.) 4 31:353-378
+44765	Huang, D.Y. & Nel	2007	A new Middle Jurassic "grylloblattodean" family from China (Insecta: Juraperlidae fam. n.)	European Journal of Entomology 104(4):837-840
+44766	Kukalova, Jarmilla	1964	Permian Insects of Moravia. Part II. Liomopteridea	Sbornik geologickych ved, paleontologie 3:39-118
+44767	Sellards	1909	Types of Permian Insects. Part III. Megasecoptera, Oryctoblattinidae and Protorthoptera	The American Journal of Science (Amer. Jour. Sci.) 4 27:151-173
+44768	Walker	1914	A new species of Orthoptera forming a new genus and family	The Canadian Entomologist 46:93-99
+44769	Beckemeyer	2004	†Raaschiidae (Grylloblattida: †Protoperlina), A New Insect Family from the Lower Permian Wellington  Formation of Noble County, Oklahoma	Journal of the Kansas Entomological Society 77(3 (July)):215-221
+44772	Carpenter	1950	The Lower Permian Insects of Kansas. Part 10. The order Protorthoptera: The family Liomopteridae and its relatives	Proceedings of the American Academy of Arts and Sciences (Proc. Amer. Acad. Arts Sci.) 78:187-219
+44773	Storozhenko	1992	New Mesozoic grylloblattid insects from Soviet Central Asia	Paleontologicheskii Zhurnal 1992(1):67-75
+44776	Storozhenko	1992	Permian fossil insects of northeast Europe: new liomopterids (Grylloblattida, Liomopteridae and Phenopteridae)	Deutsche Entomologische Zeitschrift 39(1-3):209-220
+44777	Ren & Aristov	2011	New fossil grylloblatid (Insecta: Grylloblattida) from the Middle Jurassic of Inner Mongolia (China)	Paleontologicheskii Zhurnal 3:36-37
+44778	Meunier	1909	Insectes du Stephanien de Commentry (6th Note)	Bulletin du Muséum d’histoire naturelle (Bull. Mus. Paris) 15(1):40-49
+44779	Aristov & Storozhenko	2011	Review of the Permian family Permulidae nomen novum pro Aliculidae Storozhenko, 1997 (Grylloblattida)	ZooKeys 130(1489):111-130
+44780	Huang, D.Y. & Nel	2008	New Grylloblattida related to the genus Prosepididontus Handlirsch, 1920 in the Middle Jurassic of china (Insecta: Geinitziidae)	Alcheringa 32 4:395-403
+44781	Aristov	2004	Grylloblattids of the family Liomopteridae (Insecta: Grylloblattida) of the Upper half of the Upper Permian	Paleontological Journal 38(Suppl. 2):S150-S157
+44783	Sharov In Rohdendorf, Becker-Migdisova, Martynova & Sharov	1961	Otryad Paraplecoptera [Order Paraplecoptera] In Rohdendorf, Becker-Migdisova, Martynova &amp; Sharov	Trudy Paleontologicheskogo Instituta Akademii Nauk, SSSR (Tr. Paleont. Inst. Akad. Nauk, SSSR) 85:164-224
+44784	Storozhenko	1988	A review of the family Grylloplattidae [sic] (Insecta).	Articulata 3(5):167-181
+44785	Storozhenko & Park	2002	A new genus of the ice crawlers (Grylloblattida: Grylloblattidae) from Korea  	Far Eastern Entomologist 114(June):18-20
+44786	Bei-Bienko	1951	A new representative of orthopteroid insects of the group Grylloblattoidea (Orthoptera) in the fauna of the USSR [In Russian]	Entomologicheskoe obozrenie (Ent. Obozr.) 31:506-509
+44790	Aristov In Aristov & Bashkuev	2008	In Aristov &amp; Bashkuev	Paleontologicheskii Zhurnal 2
+44791	Storozhenko	1998		Sistematika, filogeniya i evolyutsiya grilloblattidovykh (insecta; Grylloblattida) [Systematics, phylogeny and evolution of the grylloblattids (Insecta: Grylloblattida)], Dal' nauka, Vladivostok 207 pp.
+44792	Martynov	1928	Permian fossil insects of North-East Europe. Trav. Mus. geol.	Acad Sci USSR Leningrad 4:1-118
+44793	Carpenter	1935	The Lower Permian Insects of Kansas. Part 7. Order Protoperlaria	Proceedings of the American Academy of Arts and Sciences (Proc. Amer. Acad. Arts Sci.) 70(4):103-146
+44794	Storozhenko	1994	Permian fossil insects of north-east Europe: new Atactophlebiidae, Ideliidae and Megakhosaridae (Grylloblattida).	Zoosystematica Rossica 3(1):49-52
+44795	Cui, Béthoux, Shih & Ren	2010	A new species of Juraperlidae (Insecta: Grylloblattida) from Middle Jurassic of China	Acta Entomologica Sinica
+44796	Caudell & King	1924	A new genus and species of the notopterous family Grylloblattidae from Japan	Proceedings of the Entomological Society of Washington (Proc. ent. Soc. Washington) 26:53-60
+44797	Gurney	1961	Further advances in the taxonomy and distribution of the Grylloblattidae (Orthoptera)	Proceedings of the Biological Society of Washington (Proc.biol.Soc.Washington) 74:67-76
+44799	Vrsansky & Storozhenko In Vrsansky, Storozhenko, Labandeira & Ihringova	2001	In Vrsansky, Storozhenko, Labandeira &amp; Ihringova	Annals of the Entomological Society of America (Ann. ent. Soc. Amer.) 94(2)
+44800	Kim & Lee	2007	A new species of the genus Galloisiana (Grylloblattodea, Grylloblattidae) from Korea	Zoological Science (Zool. Sci.) 24(7):733-745
+44801	Kamp	1963	Description of two new species of Grylloblattidae and of the adult of Grylloblatta barberi, with an interpretation of their geographical distribution	Annals of the Entomological Society of America (Ann. ent. Soc. Amer.) 56:53-68
+44802	Kamp	1979	Taxonomy, distribution and zoogeographic evolution of Grylloblatta in Canada (Insecta: Notoptera)	The Canadian Entomologist 111(1):27-38
+44803	Gurney	1937	Synopsis of the Grylloblattidae with the description of a new species from Oregon (Orthoptera)	Pan-Pacific Entomologist (Pan-Pacific Ent.) 13:159-171
+44804	Rasnitsyn, Sukacheva & Aristov	2005	Permian insects of the Vorkuta group in the Pechora Basin, and their stratigraphic implications	Paleontological Journal 39(4):404-416
+44805	Aristov In Rasnitsyn, Sukacheva & Aristov	2005	In Rasnitsyn, Sukacheva &amp; Aristov	Paleontological Journal 39(4)
+44806	Handlirsch	1919	Revision de palaozoischen insekten.	Denkschriften der Kaiserlichen Akademie der Wissenschaften, Mathematisch-Naturwissenschaftliche Klasse (Denkschr. Akad. Wiss. Wien) 96:1-82, 511-592
+44825	Lameere	1917	Revision sommaire des insectes fossiles du Stephanien de Commentry	Bulletin du Muséum d’histoire naturelle (Bull. Mus. Paris) 23:141-200
+45013	Storozhenko	1992	New fossil Grylloblattida Insecta (Insecta: Grylloblattida) from Mongolia.	Sovmestnaya Sovetsko-Mongol'skaya Paleontologicheskaya Ekspeditsiya Trudy (Trudy) 41:122-129
+45014	Storozhenko	1988	[New and little-known Mesozoic Grylloblattida (Insecta).]	Paleontologicheskii Zhurnal 1988(4):48-54
+45017	Rasnitsyn	1976	Grylloblattidae: modern representatives of the order Protoblattodea (lnsecta)	Proceedings of the USSR Academy of Sciences (Proc. USSR Academy of Sciences) 228:273-275
+45018	Bode	1954	Die Insektenfauna des ostniedersachsichen Oberen Lias	Palaeontographica Stuttgart A (PSA) 103:1-375
+45019	Storozhenko	1990	[New fossil grylloblattid insects (Insecta, Grylloblattida: Blattogryllidae, Geinitziidae) from the Permian and Mesozoic of Asia.]	Paleontologicheskii Zhurnal 1990(4):57-65
+45020	Handlirsch	1906	Die Fossilen Insecten und die Phylogenie der rezenten Formen: Ein Handbuch fur Palaontologen und Zoologen	Engelman
+45021	Riek	1976	A new collection of insects from the Upper Triassic of South Africa.	Annals of the Natal Museum (ANM) 22(3):791-820
+45022	Martynov	1937	Liassic insects from Shurab and Kisyl-Kiya.	Trav Inst Paleontol Acad Sci URSS Moscow (TIPAS URSS Moscow) 7:1-232
+45024	Zalessky, Y. M.	1939	Permian Insects of the Sylva River  Basin and Problems in the Evolution of the Class  Insecta: III. New Representatives of Protohymenoptera,  Homuptera, Hemisecoptera, Psocoptera, Protoperlaria,  Isoptera, and Protoblattodea	Problems of Paleontology Moscow (PPM) 5:33-91
+45025	Martynov	1940	Permian fossil insects from Tshekarda. [In Russian with English summary.]	Trav Inst Paleontol Acad Sci URSS Moscow (TIPAS URSS Moscow) 11(1):1-62
+45035	Aristov & Zessin	2009	[Mallorcagryllus hispanicus n. gen. et sp. - a new grylloblattid (Insecta: Grylloblattida: Blattogryllidae) from the Buntsandstein of the island of Mallorca, Spain.]	Virgo 12(1):30-34
+45036	Aristov	2011	New and Little Known Blattogryllidae (Insecta: Grylloblattida) from the Permian and Triassic of Russia, Kazakhstan, and Kyrgyzstan	Paleontological Journal 45(1):65-72
+45039	Aristov, Grauvogel-Stamm & Marchal-Papier	2011	New Grylloblattid Insects (Insecta: Grylloblattida) from the Gres a Voltzia of the Vosges (Middle Triassic of France).	Paleontological Journal 45(2):159-166
+45040	Heer	1864	Chauliodites Zinkeni, Heer	Vierteldj. Nat. Ges. Zur. (VNGZ) 9:279
+45041	Heer	1864	Chauliodites Picteti, Heer	Vierteldj. Nat. Ges. Zur. (VNGZ) 9:279
+45043	Storozhenko	1993	The revision of Megakhosaridae (Crylloblattida Grylloblattida])	Trudy Paleontologicheskogo Instituta Akademii Nauk, SSSR (Tr. Paleont. Inst. Akad. Nauk, SSSR) 252:100-112
+45045	Cui	2012	New data on the Blattogryllidae-Plesioblattogryllidae-Grylloblattidae complex (Insecta: Grylloblattida: Blattogryllopterida tax.n.).	Arthropod Systematics and Phylogeny (ASP) 70(3):167-180
+45046	Aristov	2013	New Grylloblattida (Insecta) from the Upper Permian and Lower Triassic of European Russia and Kazakhstan.	Paleontological Journal 47(1):66-76
+45062	Storozhenko & Aristov	2014	Review of the Paleozoic and Mesozoic Families Megakhosaridae and Blattogryllidae (Insecta: Grylloblattida).	Far Eastern Entomologist 271:1-28
+45063	Martynov	1937	Permskie iskopaemye nasekomye Kargaly i ikh otnosheniya [The Permian extinct insects of Kargala and their relationship].	Trudy Paleontologicheskogo Instituta Akademii Nauk, SSSR (Tr. Paleont. Inst. Akad. Nauk, SSSR) 7(2):8-91
+45064	Aristov	2008	New grylloblattids of the family Megakhosaridae (Insecta: Grylloblattida) from the Permian of Russia.	Paleontological Journal 42(3):269-272
+45066	Aristov	2004	Grylloblattids of the family Chaulioditidae (= Tomiidae syn. nov.) (Insecta: Grylloblattida) from the Upper Permian of the Orenburg Region.	Paleontological Journal 38((Suppl 2)):S146-S149
+45075	Aristov	2005	New Grylloblattids (Insecta: Grylloblattida) from the Triassic of Eastern Europe, Eastern Kazakhstan and Mongolia	Paleontological Journal 39(2):173-177
+45076	Storozhenko	1996	New Triassic grylloblattids of the family Ideliidae (Plecopteroidea, Grylloblattida).	Russian Entomological Journal (REJ) 5:13-19
+45077	Aristov	2008	New Tatarian Representatives of the Subfamily Chaulioditinae  (Insecta: Grylloblattida: Chaulioditidae) from European Russia.	Paleontological Journal 42(1):32-35
+45078	Aristov	2009	New Permian grylloblattids (Insecta: Grylloblattida) from Isady locality (Severodvinian Stage of Vologda Region).	Russian Entomological Journal (REJ) 18(1):17-22
+45080	Riek	1976	New Upper Permian insects from Natal, South Africa.	Annals of the Natal Museum (ANM) 22(3):755-789
+45081	Aristov, Zyla & Wegierek	2013	Chauliodites niedzwiedzkii sp n. (Grylloblattida: Chaulioditidae) from Triassic sediments of Poland.	Zootaxa 3721(3):281-285
+45082	Aristov	2013	New Grylloblattids (Insecta: Grylloblattida) from the Upper Permian of the Vologda Region.	Paleontological Journal 47(7):751-766
+45083	Storozhenko	1996	New Triassic Mesorthopteridae (Insecta, Plecopteroidea, Grylloblattida).	 19(1):115-127
+45084	Rasnitsyn	1982	Triassic and Jurassic insects of the genus Shurabia (Grylloblattida, Geinitziidae).	Paleontologicheskii Zhurnal 1982(3):78-87
+45086	Huang, Z.-q., F.-y. Li & Lin	1991	Some Early Jurassic insects from Meixi of Yiyang County, Jiangxi.	Acta Palaeontologica Sinica (APS) 30(5):647-654
+45087	Lin	1978	Upper Permian and Triassic fossil insects of Guizhou.	Acta Palaeontologica Sinica (APS) 17(3):313-317
+45089	Handlirsch	1920		
+45092	Storozhenko	1992	Permian fossil insects of north-east Europe: new and little-known Ideliidae (Insecta, Plecopteroidea, Grylloblattida).	Entomologica Fennica (Ent. Fen.) 3(1):21-39
+45093	Aristov	2009	Review of the stratigraphic distribution of Permian Grylloblattida (Insecta), with descriptions of new taxa.	Paleontological Journal 43(6):643-651
+45099	Wappler	2001	New Orthopteroid Insects from the Upper Triassic Molteno Formation, Karoo Basin, Southern Africa.	Acta Geologica Leopoldensia (Acta Geol. Leopol) 24:87-104
+45100	Aristov, Wappler & Rasnitsyn	2009	New and little-known grylloblattids of the family Geinitziidae (Insecta: Grylloblattida) from the Triassic and Jurassic of Europe, Asia, and South Africa.	Paleontological Journal 43(4):418-424
+45107	Storozhenko	1994	New Triassic grylloblattids from Kirghizia. (Insecta, Grylloblattida).	Spixiana (Spix.) 17(1):27-35
+45112	Silvestri	1927	Contribuzioni alla conoscenza dei Grylloblattidae.	Bollettino del Laboratorio di Zoologia in Portici 20:107-121
+45113	Silvestri	1931	Notes on Gryllo-blatta campodeiformis and a description of a new variety (Grylloblattidae).	Transactions of the American Entomological Society (Trans. of the AES) 57:291-295
+45115	Gurney	1953	Recent advances in the taxonomy and dis-tribution of Grylloblatta (Orthoptera: Grylloblattidae).	Journal of the Washington Academy of Sciences 43:325-332
+45116	Asahina	1959	Descriptions of two new Grylloblattidae from Japan.	Kontyu Tokyo 27:249-252
+45117	Namkung	1974	A new species of Galloisiana (Grylloblattidae) from Kosudong-gul Cave in Korea.	Korean Journal of Entomology (Korean J Ent) 4(2):91-95
+45119	Namkung	1974	A new species of cave dwelling Grylloblattoidea (Grylloblattidae) from Korea.	Korean Journal of Entomology (Korean J Ent) 4(1):1-7
+45120	Pravdin & Storozhenko	1977	A new species of the Grylloblattida (Insecta) from the Southern Maritime territory.	Entomologicheskoe obozrenie (Ent. Obozr.) 56(2):352-356
+45121	Storozhenko & Oliger	1984	A new species of Grylloblattida from north-eastern Altai.	Entomologicheskoe obozrenie (Ent. Obozr.) 63(4):729-732
+45122	Wang, S.-y.	1987	The discovery of Grylloblattodea in China and the description of a new species.	Acta Entomologica Sinica 30(4):423-429
+45132	Namkung	1989	One new species of the genus Galloisiana (Notoptera: Grylloblattidae) from Korea.	Korean Journal of Systematic Zoology (Kor. J. of Sys. Zoo.) 2(2):53-58
+45136	Kim & Lee	2006	Redescription of the largest ice bug, Namkungia magnus com. nov. (Grylloblattodea, Grylloblattidae) from Korea.	Zootaxa 1359:57-66
+45138	Schoville	2012	Three new species of Grylloblatta Walker (Insecta: Grylloblattodea: Grylloblattidae), from southern Oregon and northern California.	Zootaxa 3412:42-52
+45142	Riek	1954	Further Triassic insects from Brookvale, N.S.W. (Orders Orthoptera Saltatoria, Protorthoptera, Perlaria).	Records of the Australian Museum (Rec. of the Aust. Mus.) 23:161-168
+45144	Martynov	1937	Wings of termites and phylogeny of Isoptera and of allied groups of insects. [In Russian with English summary.].	Academicien NV Nasov Acad Sci URSS Moscow (?) 83-150
+45146	Martynov	1931[1930]	Permian fossil insecta from Tikhije Gory. Order Miomoptera. Second Part.	Bull Acad Leningrad 1930:951-975, 1115-1134
+45148	Riek	1973	Fossil insects of the Upper Permian of Natal, South Africa.	Annals of the Natal Museum (ANM) 21(3):513-532
+45157	Storozhenko	1991	Grylloblattid insects from the Upper Permian of eastern Kazakhstan.	Paleontologicheskii Zhurnal 1991(2):110-114
+45159	Martynova	1958	New insects from Permian and Mesozoik deposits of USSR.	Materialy k «Osnovam paleontologii». Paleontol. Inst. Akad. Nauk SSSR 2:69-94
+45160	Storozhenko	1997	Classification of order Grylloblattida (Insecta), with description of new taxa.	Far Eastern Entomologist 42:1-20
+45162	Tillyard	1928	Kansas Permian insects. Part 10. The new order Protoperlaria: a study of the typical genus Lemmatophora Sellards.	The American Journal of Science (Amer. Jour. Sci.) 16:185-220
+45166	Martynov	1936	On some new materials of Arthropoda from Kuznetsk-basin. [In Russian, with English summary.]	Bull Acad Sci URSS ser Biol Moscow 1936:1251-1264
+45167	Zalessky, G.	1955	New Protoblattoidea and Protorthoptera from Ural Permian deposits.	Doklady Akademii Nauk SSSR Moscow 101:347-350
+45168	Hong	1983	Two new fossil genera of Paraplecoptera (Insecta) in China.	Acta Paleontologica Sinica 22(3):359-362
+45171	Aristov	2002	Grylloblattids of the family Ideliidae (Insecta: Grylloblattida) from the Lower Permian of the Ural Mountains.	Paleontologicheskii Zhurnal 1:47-50
+45172	Zalessky, G.	1944	A representative of a new group of insects from the Permian deposits of the Urals.	CR Acad Sci URSS Moscow (NS) 44:342-344
+45182	Novokshonov	1999	A new grylloblattid from the Lower Permian of Urals (Insecta: Grylloblattida, Lemmatophoridae).	Neues Jahrbuch fuer Geologie und Palaeontologie Monatshefte 11:641-646
+45193	Novokshonov & Pan'kov	1999	A new aquatic insect larva (Plecopteroidea) from the Lower Permian of the Ural.	Neues Jahrbuch fuer Geologie und Palaeontologie Monatshefte 4:193-198
+45194	Aristov	2001	A New Representative of Lemmatophoridae (Insecta, Grylloblattida) from the Lower Permian of the Urals (Russia).	N. Jb. Geol. Paläontol. Mh. 5:257-264
+45199	Shcherbakov, Makarkin, Aristov & Vasilenko	2009	Permian insects from the Russky Island, south Primorye.	Russian Entomological Journal (REJ) 18(1):7-16
+45200	Aristov	2010	Review of Grylloblattid Insects (Insecta: Grylloblattida) from the Solikamsk Deposits of the Perm Region.	Paleontological Journal 44(5):505-514
+45202	Zalessky, Y. M.	1950	A Contribution to the Age of the Solikamsk Flagstone Formation.	Dokl. Akad. Nauk SSSR 70(4):683-685
+45203	Aristov	2009	New Grylloblattids of the Family Lemmatophoridae (Insecta: Grylloblattida) from the Permian of Russia.	Paleontological Journal 43(3):272-276
+45212	Tillyard	1937	Kansas Permian Insects.  Part 19. The order Protoperlaria (cont'd.).  The family Probnisidae.	The American Journal of Science (Amer. Jour. Sci.) 33:401-425
+45213	Pinto & de Ornellas	1978	New fossil insects from the White Band Formation (Permian), South Africa.	Universidade Federal do Rio Grande do Sul Instituto de Geociencias Pesquisas 10:96-104
+45215	Storozhenko & Aristov	1999	New genus of the family Liomopteridae (Insecta: Grylloblattida) from Lower Permian of Russia.	Far Eastern Entomologist 76:6-8
+45216	Aristov	1999	Ornaticosta tchekardensis n. sp., the first representative of the Liomopteridae (Insecta: Grylloblattida) from the Lower Permian of Chekarda (Ural).	Neues Jahrbuch fuer Geologie und Palaeontologie Monatshefte 12:725-727
+45254	Beckemeyer	2010	A new species of Liomopterella Sharov, 1961 (Polyneoptera: Liomopteridae) from the Early Permian Wellington Formation of Noble County, Oklahoma.	Transactions of the Kansas Academy of Science 113:151-160
+45256	Aristov & Mostovski	2013	Gryllolattids (Insecta, Grylloblattida) from the Upper Permian  of South Africa.	Paleontological Journal 47(5):495-502
+45257	Storozhenko	1992	A new family of Triassic grylloblattids from central Asia (Insecta: Grylloblattida).	Spixiana (Spix.) 15(1):67-73
+45274	Novokshonov	1998	Tshekhosara improvida n. gen., n. sp. (Insecta; Grylloblattida: Megakhosaridae) from the Lower Permian of Ural.	Palaeontologische Zeitschrift 72(1-2):65-66
+45277	Aristov	2009	New Grylloblattida (Insecta) from Kargala locality (Russia; Middle Permian).	Far Eastern Entomologist 192:1-8
+45279	Tillyard	1916	Mesozoic and tertiary insects of Queensland and New South, Wales.	Queensland Geological Survey 253:1-47
+45280	Aristov & Storozhenko	2013	A new genus of the family Mesorthopteridae (Grylloblattida) from the Triassic of Kyrgyzstan.	Far Eastern Entomologist 264:7-12
+45281	Ansorge	1996	The Upper Liassic insects of Grimmen (Pomerania, north Germany).	Neue Palaeontologische Abhandlungen 2:1-132
+45282	Storozhenko & Vrsansky	1995	New fossil family of the order Grylloblattida (Insecta: Plecopteroidea) from Asia.	Far Eastern Entomologist 19:1-4
+45286	Handlirsch	1937		
+45289	Storozhenko	1996	New Upper Carboniferous grylloblattids (Insecta, Grylloblattida) from Siberia.	Far Eastern Entomologist 26:18-20
+45290	Meunier	1911	Nouveaux insectes du houillor de Commentry.	Bulletin du Museum Paris 1911:117-128
+45291	Brongniart	1885	Les insectes fossiles des terrains primaires.	Bulletin de la Societe des Sciences Naturelles de Rouen 3 1885:50-68
+45306	Martynova	1952		
+45310	Brongniart	1893	Recherches pour servir a l’histoire des insectes fossiles des temps primaires precedees d’une etude sur la nervation des ailes des insectes.	Bulletin de la Societe d’Industrie Minerale de Saint Etienne, (3) 7:124-615
+45334	Meunier	1921	Nouvelles recherches sur les insectes du bassin houiller de Commentry.	Annales de Paleontologie 10:57-168
+45335	Aristov	2004	The Fauna of Grylloblattid Insects (Grylloblattida) from the End of the Late Permian to the First Half of the Triassic.	Paleontological Journal 38(5):514-521
+45348	Storozhenko	1990	Permian fossil insects of north-east Europa: revision of the family Atactophlebiidae (Ins. Gerarida, Atactophlebiidae).	Deutsche Entomologische Zeitschrift 37(4-5):407-412
+45349	Storozhenko	1997	New Triassic genus of the family Atactophlebiidae (Grylloblattida).	Far Eastern Entomologist 40:8
+45350	Marquat	1991	Ninfa de Miomóptero (Insecta) del Triásico de Mendosa, República Argentina.	Rev. Mus. Historia Nat. San Rafael (Mendosa) 11(1):3-13
+45351	Aristov	2002	New euryptilonids (Insecta: Grylloblattida: Euryptilonidae) from the Lower Permian of the Urals (Russia).	Neues Jahrbuch fuer Geologie und Palaeontologie Monatshefte 4:252-256
+45353	Prokop, Weiss, Dechambre & Nel	2012	Early Permian insects from Saar-Nahe Basin of Odernheim  town site, Rheinland-Pfalz in Germany (lnsecta, Grylloblattida,  Blattinopseida).	Geodiversitas 34(2):271-281
+45354	Carpenter	1926	Fossil insects from the Lower Permian of Kansas.	BULLETIN MUSEUM COMPARATIVE ZOOLOGY HARVARD COLL (BULL MUS COMP ZOOL HARVARD COLL) 67(13):437-444
+45355	Zalessky, G.	1930	Sur deux restes d'insectes fossiles provenant du bassin de Kousnetzk et sur l'age geologique des depots qui les renferment.	Bulletin de la Societe Geologique de France 5 5(193):687-695
+45356	Tillyard	1928	Kansas Permian Insects. Part 11. Order Protoperlaria.	The American Journal of Science (Amer. Jour. Sci.) 16:313-348
+45359	Novokshonov	2000	New fossil insects (Insecta : Grylloblattida, Ordinis incertis) from the Lower Permian of the Middle Urals.	Paleontologicheskii Zhurnal 5:42-47
+45374	Zalessky, Y. M.	1952	On Pre-Caddisflies from the Permian of the Ural Mountains.	Dokl. Akad. Nauk SSSR 82(6):985-988
+45379	Aristov, Novokshonov & Pan'kov	2006	Taxonomy of the Fossil Grylloblattid Nymphs (Insecta: Grylloblattida).	Paleontological Journal 40(1):79-89
+45384	Sharov	1957	Nymphs of Miomopterans (Miomoptera) from the Permian Deposits of the Kuznetsk Basin.	Dokl. Akad. Nauk SSSR 112(6):1106-1108
+45386	Riek	1976	Fossil Insect from the Middle Ecca (Lower Permian) of Southern Africa.	Palaeontol. Afr 19:145-148
+45389	Aristov, Storozhenko & Cui	2010	Review of the Permian Camptoneuritidae (Insecta: Grylloblattida).	Acta Geologica Sinica English Edition 84(4):756-761
+45394	Zalessky, Y. M.	1951	A new representative of permian insects of the order Protoperlaria.	CR Acad Sci URSS Moscow (NS) 81:81-84
+45400	Novokshonov	1998	New fossil insects (Insecta: Grylloblattida, Caloneurida, Hypoperlida?, Ordinis Incertis) from the Kungurian beds of the Middle Urals.	Paleontologicheskii Zhurnal 4:41-46
+45401	Aristov	1998	A new species of the Permian genus Kungurmica (Grylloblattida: Permembiidae).	Far Eastern Entomologist 65:15-16
+45402	Aristov & Rasnitsyn	2008	Position and taxonomy of the Permian fossil insect family Permembiidae (Insecta: Palaeomanteida = Miomoptera)	Russian Entomological Journal (REJ) 17(4):327-334
+45405	Tillyard	1928	Kansas Permian insects. Part 12. Family Delopteridae, with discussion of its ordinal position.	The American Journal of Science (Amer. Jour. Sci.) 16:469-488
+45406	Novokshonov, Ivanov & Aristov	2002	New insects (Insecta) from Middle Permian of the Ural.	Paleontologicheskii Zhurnal 2:39-42
+45407	Martynova	1961	Extant and extinct snake-flies (Insecta; Raphidioptera).	Paleontologicheskii Zhurnal 3:73-83
+45414	Storozhenko & Novokshonov	1995	Revision of the Permian family Sojanoraphidiidae (Grylloblattida).	Russian Entomological Journal (REJ) 3(3-4):37-39
+45415	Novokshonov & Storozhenko	1996	New genus of the family Sojanoraphidiidae (Grylloblattida) from Lower Permian of Ural.	Far Eastern Entomologist 33:1-4
+45416	Aristov	2009	A new family of the order Grylloblattida (Insecta) from the Middle Permian of Russia.	Paleontological Journal 43(2):178-182
+45420	Aristov	2014	Classification of the order Cnemidolestida (Insecta: Perlidea) with descriptions of new taxa.	Far Eastern Entomologist 277:1-46
+45421	Rasnitsyn & Aristov	2004	Two New Insects from the Upper Permian (Tatarian) of Belmont, New South Wales, Australia (Insecta: Hypoperlida: Anthracoptilidae = Permarrhaphidae; Grylloblattida: Sylvaphlebiidae)	Paleontological Journal 38(S2):S158-S163
+45423	Novokshonov	1995	New fossil Insecta from the Kungurian of Middle Ural.	Paleontologicheskii Zhurnal 3:61-67
+45442	Novokshonov & Aristov	2002	New and little-known Permian insects (Insecta: Grylloblattida; Orthoptera) from the Cekarda [Chekarda] locality, Central Ural Mountains.	Paleontologicheskii Zhurnal 6:73-77
+45454	Aristov & Mostovski In Aristov, Prevec & Mostovski	2009	In Aristov, Prevec &amp; Mostovski	 50(2):283
+45455	Zalessky, G.	1929	O novykh nasekomykh iz permskikh otlozhenij bassejnov rek kamy, vyatki i beloj [On new Permian insects from the basins of the Kama, Viatka, and Belaia rivers]	Trudy Obshchestva Estestvoispytatelej pri Kazanskom Universitet (Trudy Obsch. Est. Kazan. Univ.) 52(1):1-30
+45456	Bolton	1934	New forms from the insect fauna of the British coal measures.	Quarterly Journal of the Geological Society of London 90:277-302
+45465	Carpenter	1948	A Permian Insect from Texas.	Psyche 55(2):101-103
+45593	Porcinskij	1911	Hydrotea dentipes F., sa biologie et la destruction par ses larves de celles de Musca domestica L.	Trudy Byuro po Entomologii Ucen Kom Gl Upr Zeml St Peterburg 9(5):1-30
+46238	Marshall & Lytle	2015	Two new species of Grylloblatta Walker, 1914 (Grylloblattodea: Grylloblattidae)  from western North America, and a neotype designation for G. rothi Gurney 1953	Zootaxa 3949(3):408-418
+46386	Bai, S.-y. Wang & Yang In Bai, Jarvis, S.-y. Wang, Song, Y.-P. Wang, Z.-L. Wang, W.-Z. Li, Wei Wang & Yang	2010	In Bai, Jarvis, S.-y. Wang, Song, Y.-P. Wang, Z.-L. Wang, W.-Z. Li, W. Wang &amp; Yang	PLoS ONE 5(9)
+47371	Cui, Béthoux, Klass & Ren	2015	The Jurassic Bajanzhargalanidae (Insecta: Grylloblattida?): New genera and species, and data on postabdominal morphology	Arthropod Structure & Development 44:688-716

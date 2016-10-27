@@ -1,0 +1,187 @@
+AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
+459330	Galapagos Exclusive Economic Zone	Text		
+459291	Otago Peninsula	Text		
+459291	New Zealand Exclusive Economic Zone	Text		
+459292	Tasman Sea	Text		
+513898	Mediterranean Sea	IHO/EEZ		
+368327	Antarctic Ocean	Text		
+368327	Subantarctic Waters	Text		
+368327	Wilhelm II Land	Text		
+368327	Adelie Land	Text		
+368327	Ross Sea	Text		
+513899	Marseille	Text		
+147032	North West Atlantic	Text		
+147032	North Sea	Text		
+147032	British Isles	Text		
+147032	North Coast of France	Text		
+147032	Greenlandic Exclusive Economic Zone	Text		
+147032	Isle of Man	Text		
+147032	Mediterranean Sea	Text		
+147032	North West Atlantic	Text		
+147032	Plymouth	Text		
+147032	Roscoff	Text		
+147032	Belgian Exclusive Economic Zone	Text		
+147032	Irish Exclusive economic Zone	Text		
+147032	United Kingdom Exclusive Economic Zone	Text		
+147032	Canadian part of the Arctic Ocean	Text		
+147032	Saguenay Fjord	Text		
+147032	Gulf of St. Lawrence	Text		
+147032	Canadian part of the Arctic Ocean	Text		
+147032	Beaufort Sea	Text		
+147032	Swedish Exclusive Economic Zone	Text		
+459294	Greenlandic Exclusive Economic Zone	Text		
+459294	North America	Text		
+459294	Svalbard	Text		
+459295	Pribilof Islands	Text		
+156257	Norwegian Exclusive Economic Zone	Text		
+156257	Swedish Exclusive Economic Zone	Text		
+156257	British Isles	Text		
+156257	Shetland Islands	Text		
+156257	Sleat Sound	Text		
+156257	United Kingdom Exclusive Economic Zone	Text		
+156257	Sleat Sound	Text		
+214894	Tanzania	Text		
+214894	Unguja	Text		
+214894	Zanzibar	Text		
+368328	Antarctic Ocean	Text		
+368328	Subantarctic Waters	Text		
+368328	South Georgia	Text		
+459296	South African Exclusive Economic Zone	Text		
+459296	Cape Town	Text		
+156258	Mediterranean Sea	IHO/EEZ		
+156258	United Kingdom Exclusive Economic Zone	Text		
+459298	Karachi	Text		
+459298	Pakistani Exclusive Economic Zone	Text		
+459298	Arabian Sea	Text		
+390565	San Diego	Text		
+390565	California	Text		
+390585	New Caledonian Exclusive Economic Zone	Text		
+599878	Namibian Exclusive Economic Zone	Text		
+599878	Angolan Exclusive Economic Zone	Text		
+368329	Falkland Islands	Text		
+368329	Subantarctic Waters	Text		
+459299	Monterey	Text		
+459299	California	Text		
+156259	Shetland Islands	Text		
+156259	British Isles	Text		
+156259	United Kingdom Exclusive Economic Zone	Text		
+156259	French Exclusive Economic Zone [Atlantic part]	Text		
+156259	Spanish Exclusive Economic Zone [Atlantic part]	Text		
+459300	Southern California Bight	Text		
+459302	South West Africa	Text		
+389232	California	Text		
+459304	Mediterranean Sea	IHO/EEZ		
+459304	Ria de Ferrol	Text		
+459304	Mediterranean Sea	IHO/EEZ		
+459304	Mediterranean Sea	IHO/EEZ		
+459304	Mediterranean Sea	IHO/EEZ		
+459304	Iberian Peninsula	Text		
+459304	Canary Islands Exclusive Economic Zone	Text		
+603718	South Korean Exclusive Economic Zone	Text		
+421422	Ria Lagartos	Text		
+421422	Gulf of Mexico	Text		
+421423	Gulf of Mexico	Text		
+421423	New Zealand Exclusive Economic Zone	Text		
+421423	Australian Exclusive Economic Zone	Text		
+421423	Papua New Guinean Exclusive Economic Zone	Text		
+421423	South African Exclusive Economic Zone	Text		
+421423	New Caledonian Exclusive Economic Zone	Text		
+421423	Blanche Bay	Text		
+421423	Sandal bay	Text		
+421423	New Zealand Exclusive Economic Zone	Text		
+459305	South Island	Text		
+459305	New Britain	Text		
+459305	South African Exclusive Economic Zone	Text		
+459305	Lifou	Text		
+459305	Sandal bay	Text		
+459305	Blanche Bay	Text		
+459308	Caribbean Sea	Text		
+459308	Cuban Exclusive Economic Zone	Text		
+459309	Red Sea	Text		
+387620	New Caledonian Exclusive Economic Zone	Text		
+588453	Hong Kong	Text		
+387621	New Caledonian Exclusive Economic Zone	Text		
+368330	Subantarctic Waters	Text		
+368330	Magellanic region	Text		
+368330	Tierra del Fuego	Text		
+606818	South Korean Exclusive Economic Zone	Text		
+606818	Dolsando Island	Text		
+459311	Ria de Ferrol	Text		
+459311	Galicia	Text		
+459311	Spanish Exclusive Economic Zone [Atlantic part]	Text		
+459312	East Coast of United States of America	Text		
+459312	North Atlantic	Text		
+156260	Channel Islands	Text		
+156260	Guernsey	Text		
+156260	French Exclusive Economic Zone	Text		
+156260	Monaco	Text		
+156260	Mediterranean Sea	IHO/EEZ		
+156260	Mediterranean Sea	IHO/EEZ		
+156260	Ria de Ferrol	Text		
+156260	Mediterranean Sea	IHO/EEZ		
+156260	Mediterranean Sea	IHO/EEZ		
+156260	Mediterranean Sea	IHO/EEZ		
+156260	United Kingdom Exclusive Economic Zone	Text		
+156260	Mediterranean Sea	IHO/EEZ		
+388222	United Kingdom Exclusive Economic Zone	Text		
+388222	Galicia	Text		
+388222	Spanish Exclusive Economic Zone [Atlantic part]	Text		
+580371	Gulf of Mexico	Text		
+580371	Mexican Exclusive Economic Zone [Caribbean part]	Text		
+239374	Kerguelen Islands	Text		
+239374	Akaroa	Text		
+239374	New Zealand Exclusive Economic Zone	Text		
+368331	Antarctic Ocean	Text		
+368331	Princess Ragnhild Coast	Text		
+149680	North West Atlantic	Text		
+149680	Cabot Strait	Text		
+149680	New Jersey	Text		
+149680	Rockall Trough	Text		
+459328	Victoria (Australian state)	Text		
+459328	New South Wales	Text		
+459328	Tasmania	Text		
+368332	Antarctic Ocean	Text		
+368332	Subantarctic Waters	Text		
+368332	Kerguelen Islands	Text		
+368332	Palmer Archipelago	Text		
+368332	Weddell Sea	Text		
+368332	Wilhelm II Land	Text		
+368332	Palmer Archipelago	Text		
+149681	Antarctic Ocean	Text		
+149681	Atlantic	Text		
+149681	Indian Ocean	Text		
+149681	Pacific Ocean	Text		
+149681	Subantarctic Waters	Text		
+149681	South America	Text		
+149681	Falklands Islands Exclusive Economic Zone	Text		
+149681	Ghanaian Exclusive Economic Zone	Text		
+149681	Ivory Coast Exclusive Economic Zone	Text		
+149681	South West Indian Ocean	Text		
+149681	South Pacific	Text		
+149681	Scotia Sea	Text		
+149681	United Kingdom Exclusive Economic Zone	Text		
+421424	Gulf of Mexico	Text		
+459288	Belizean Exclusive Economic Zone	Text		
+396650	Bermudian Exclusive Economic Zone	Text		
+396650	Virgin Islands	Text		
+396650	South Florida	Text		
+396650	Japanese Exclusive Economic Zone	Text		
+396650	Gulf of Siam	Text		
+396650	Torres Strait	Text		
+396650	Gulf of Mexico	Text		
+459286	Mid-Atlantic Ridge	Text		
+477309	Guana Island	Text		
+388223	Galicia	Text		
+388223	United Kingdom Exclusive Economic Zone	Text		
+387622	New Caledonian Exclusive Economic Zone	Text		
+147144	Red Sea	Text		
+147144	Lofoten Islands	Text		
+147144	Mediterranean Sea	IHO/EEZ		
+147144	Mediterranean Sea	IHO/EEZ		
+147144	Australian Exclusive Economic Zone	Text		
+147144	North America	Text		
+147144	Mediterranean Sea	IHO/EEZ		
+147144	United Kingdom Exclusive Economic Zone	Text		
+388224	Galicia	Text		
+388224	United Kingdom Exclusive Economic Zone	Text		
+459332	Turks and Caicos Exclusive Economic Zone	Text		

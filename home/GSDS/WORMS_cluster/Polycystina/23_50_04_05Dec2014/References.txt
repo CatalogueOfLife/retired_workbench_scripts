@@ -1,0 +1,14 @@
+ReferenceID	Authors	Year	Title	Details	
+64			North East Atlantic Taxa		
+10025	Zavodnik, D; Kovacic, M.	2000	Index of marine Fauna in Rijeka Bay (Adriatic Sea, Croatia). Nat. Croat. 9 (4): 297-379.		
+47834			Radiolaria.org		
+47843	Lombari, G.; Lazarus, D. B.	1988	Neogene Cycladophorid Radiolarians from North Atlantic, Antarctic, and North Pacific Deep-Sea Sediments		
+47844			micro*scope		
+124410	Nigrini, C.; Moore, T.C.	1979	A guide to modern Radiolaria. Cushman Foundation for Foraminiferal research speciespublication No. 16.		
+124412	Boltovskoy, D.	1998	Classification and distribution of South Atlantic recent Polycystine Radiolaria		
+127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
+130574	Boltovskoy, Kogan, Alder &  Mianzan.	2003	    First record of a brackish radiolarian (Polycystina): Lophophaena rioplatensis n. sp. in the Río de la Plata estuary. Journal of Plankton Research (25) 12 : 1551-1559		
+132081			Marine Species Identification Portal (MSIP)		
+154053	Haeckel, E.	1887	Report on the Radiolaria collected by H.M.S. Challenger during the years 1873-76. London: Eyre & Spottiswoode.		
+176581	Environmental Assessment of the Alaskan Continental Shelf. Annual Reports of Principal Investigators for the year ending March	1981	Volume VII. Hazards. US. Department of Commerce.		
+176582	Tibbs, J. F.	1967	On Some Planktonic Protozoa Taken from the Track of the Drift		

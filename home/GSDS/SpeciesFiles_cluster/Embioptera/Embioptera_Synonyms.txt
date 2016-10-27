@@ -1,0 +1,163 @@
+﻿ID	AcceptedTaxonID	Genus	SubgenusName	SpeciesEpithet	AuthorString	InfraSpecies	InfraSpeciesMarker	InfraSpeciesAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUID
+144925	1171845	Saussurembia		ruficollis	(Saussure, 1896)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:722
+144926	1171757	Saussurembia		venosa	(Banks, 1924)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:774
+144927	1171879	Olyntha		wheeleri	Melander, 1902				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:627
+144929	1171757	Anisembia	Anisembia	schwarzi	Ross, 1940				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:775
+144931	1172288	Gynembia		tarsalis	Ross, 1940				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:175
+144936	1172098	Olyntha		brasiliensis	Gray, 1832				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:124
+144937	1172316	Olyntha		batesi	(McLachlan, 1877)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:111
+144938	1171945	Olyntha		urichi	(Saussure, 1896)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:541
+144939	1172106	Olyntha		salvini	(McLachlan, 1877)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:96
+144940	1171959	Olyntha		nobilis	(Gerstaecker, 1888)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:518
+144941	1172256	Embia		bramina	Saussure, 1896				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:245
+144942	1172256	Embia		hova	Saussure, 1896				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:244
+144943	1172225	Embia		humbertiana	Saussure, 1896				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:254
+144945	1172066	Embia		persica	McLachlan, 1877				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:383
+144946	1172316	Embia		batesi	McLachlan, 1877				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:111
+144947	1171959	Embia		nobilis	Gerstaecker, 1888				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:518
+144948	1171972	Metembia		flava	Ross, 1943				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:500
+144949	1172281	Oligotoma		borneensis	Hagen, 1885				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:186
+144952	1172087	Scelembia		virgo	Ross, 1960				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:143
+144974	1171788	Mesembia		aequalis	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:733
+144976	1172106	Neorhagadochir		salvini	(McLachlan, 1877)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:96
+144977	1172206	Oligembia	Dilobocerca	uxpanapaensis	Mariño & Márquez, 1982				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:285
+144575	1171770	Embia		texana	Melander, 1902				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:757
+144579	1171850	Anisembia	Chelicerca	davisi	Ross, 1940				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:659
+144580	1171885	Anisembia	Dactylocerca	rubra	Ross, 1940				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:615
+144582	1171773	Anisembia		sini	Chamberlin, 1923				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:751
+144585	1172256	Embia	Oligotoma	saundersii	Westwood, 1837				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:214
+144666	1172102	Neorhagadochir		inflata	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:104
+144671	1172104	Brachypterembia		moreliensis	Ross, 1984				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:100
+144727	1172038	Embia	Embia	savignii	Westwood, 1837				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:420
+144729	1172094	Archembia		arida	Ross, 2001				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:131
+144734	1172316	Archembia		peruviana	Ross, 2001				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:115
+144753	1172151	Gibocercus		chaco	Szumik, 1998				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:28
+144754	1172152	Gibocercus		beni	Szumik, 1998				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:26
+144755	1172157	Gibocercus		nanai	Szumik, 1998				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:18
+144756	1172153	Gibocercus		urucumi	Szumik, 1998				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:24
+144837	1172082	Donaconethis		sudanica	Ross, 1951				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:356
+144844	1172106	Embia		salvini	McLachlan, 1877				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:96
+144846	1171756	Oligotoma		hospes	Myers, 1928				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:778
+144859	1172096	Argocercembia		guyana	Ross, 2001				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:128
+144867	1171838	Chelicerca	Protochelicerca	dampfi	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:675
+144892	1171901	Australembia		incompta	Ross, 1963				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:810
+144899	1172045	Embia		florissantensis	Cockerell, 1908				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:412
+144904	1171945	Embia		urichi	Saussure, 1896				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:541
+144918	1172205	Oligembia		pacifica	Ross, 1940				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:287
+144919	1172216	Oligembia		banksi	Davis, 1939				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:267
+144922	1172174	Oligotoma		hubbardi	Hagen, 1885				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:342
+145051	1172244	Oligotoma		signata	Kapur & Kripalani, 1957				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:225
+145054	1172120	Oligotoma		bicingillata	Enderlein, 1909				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:72
+145055	1172120	Pararhagadochir		davisi	Ross, 1944				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:74
+145058	1172314	Archembia		lacombea	Ross, 1971				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:119
+145061	1172314	Embia		kotzbaueri	Navás, 1925				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:117
+145067	1171931	Australembia		rileyi	(Davis, 1940)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:591
+145069	1172090	Scelembia		malkini	(Ross, 1952)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:138
+145071	1172088	Scelembia		vilhenai	(Ross, 1952)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:142
+145073	1172089	Scelembia		carpenteri	(Davis, 1940)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:140
+145074	1171885	Chelicerca	Dactylocerca	rubra	(Ross, 1940)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:615
+145075	1172043	Embia		antiqua	Pictet, 1854				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:416
+145080	1172015	Embia		tunetana	Navás, 1919				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:452
+145088	1172289	Embia		solieri	Rambur, 1842				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:173
+145090	1171946	Clothoda		intermedia	Davis, 1939				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:536
+145091	1172201	Oligembia	Dilobocerca	lobata	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:296
+145092	1172202	Oligembia	Dilobocerca	jalapae	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:294
+145093	1172203	Oligembia	Dilobocerca	chiapae	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:292
+145094	1172176	Rhagadochir		oligotomoides	Enderlein, 1912				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:337
+145096	1172204	Oligembia	Dilobocerca	emarginata	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:290
+145104	1171841	Chelicerca	Chelicerca	nodulosa	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:668
+145105	1171845	Embia		ruficollis	Saussure, 1896				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:722
+145107	1172279	Oligotoma		ceylonica	Enderlein, 1912				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:801
+145108	1172280	Oligotoma		minuscula	Enderlein, 1912				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:190
+145109	1172043	Oligotoma		antiqua	(Pictet, 1854)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:416
+145111	1172272	Oligotoma		thoracica	Davis, 1940				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:201
+145116	1171973	Metembia		immsi	Davis, 1939				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:498
+145119	1172067	Oligotoma		valida	Hagen, 1885				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:382
+145121	1171965	Dictyoploca		cercocyrta	Krauss, 1911				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:511
+145122	1171983	Dihybocercus		spinosus	Navás, 1931				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:484
+145124	1172145	Aphanembia		obscura	Ross, 2001				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:35
+145125	1172130	Ischnosembia		amazonica	Ross, 2001				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:57
+145127	1172131	Pararhagadochir		surinamensis	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:54
+145128	1172131	Ischnosembia		surinamensis	(Ross, 1944)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:54
+145136	1172048	Embia		xanthocera	Navás, 1930				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:406
+145138	1172049	Navasiella		sulcata	(Navás, 1923)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:403
+145139	1172049	Oligotoma		sulcata	Navás, 1923				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:403
+145140	1171987	Embia	Rhagadochir	apicata	Silvestri, 1921				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:479
+145144	1171990	Embia		lunaris	Navás, 1926				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:373
+145149	1171980	Embia	Dihybocercus	berlandi	Navás, 1922				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:489
+145150	1171980	Berlandiella		berlandi	(Navás, 1922)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:489
+145152	1171798	Saussurella		ruficollis	Davis, 1939				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:807
+145153	1171845	Saussurella		ruficollis	(Saussure, 1896)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:722
+145154	1171757	Saussurella		venosa	(Banks, 1924)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:774
+145156	1172133	Embia		adspersa	Enderlein, 1909				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:52
+145158	1172024	Haploembia		algerica	Navás, 1930				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:442
+145165	1172038	Embia		aegyptiaca	Blanchard, 1845				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:425
+145166	1172038	Embia		enderleini	Esben-Petersen, 1915				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:423
+145167	1172098	Embia	Olyntha	brasiliensis	(Gray, 1832)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:124
+145172	1171777	Anisembia		vetehae	Szumik, 1998				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:745
+145184	1172091	Embia		vossleri	Enderlein, 1909				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:135
+145186	1172122	Embia		flavicollis	Enderlein, 1909				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:69
+145187	1172123	Embia		tenuis	Enderlein, 1909				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:67
+145189	1171757	Anisembia	Anisembia	venosa	(Banks, 1924)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:774
+145190	1171850	Chelicerca	Chelicerca	davisi	(Ross, 1940)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:659
+145191	1171879	Chelicerca	Chelicerca	wheeleri	(Melander, 1902)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:627
+145196	1172216	Idioembia		banksi	(Davis, 1939)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:267
+145197	1172217	Idioembia		producta	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:265
+145199	1172218	Embia	Rhagadochir	argentina	Navás, 1918				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:262
+145200	1172218	Idioembia		argentina	(Navás, 1918)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:262
+145204	1172182	Oligembia	Oligembia	buscki	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:326
+145206	1172183	Oligembia	Oligembia	peruviana	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:324
+145207	1172184	Oligembia	Oligembia	darlingtoni	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:322
+145208	1172185	Oligembia	Oligembia	bicolor	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:320
+145243	1172122	Pararhagadochir		trinitatis		flavicollis	subspecies	(Enderlein, 1909)	Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:69
+145244	1172124	Rhagadochir		trachelia	Navás, 1915				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:65
+145248	1172127	Embia		birabeni	Navás, 1918				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:61
+145251	1172133	Pararhagadochir		adspersa	(Enderlein, 1909)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:52
+145252	1171767	Saussurembia		symmetrica	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:805
+145254	1172281	Aposthonia		vosseleri	Krauss, 1911				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:188
+145255	1171865	Schizembia		minuta	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:642
+145257	1171839	Chelicerca	Chelicerca	heymonsi	(Enderlein, 1912)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:674
+145260	1172211	Diradius		caribbeanus	(Ross, 1944)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:275
+145261	1172283	Oligotoma	Aposthonia	oceania	Ross, 1951				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:184
+145262	1172284	Oligotoma	Aposthonia	micronesiae	Ross, 1955				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:182
+145267	1171967	Haploembia		capensis	Esben-Petersen, 1920				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:506
+145268	1171967	Dictyoploca		capensis	(Esben-Petersen, 1920)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:506
+145269	1172067	Embia	Parembia	valida	(Hagen, 1885)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:382
+145272	1172033	Embia	Parembia	dobhali	Ross, 1950				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:431
+145294	1172256	Oligotoma		bramina	(Saussure, 1896)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:245
+145318	1172226	Oligotoma		mesopotamica	Ross, 1966				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:798
+145209	1172186	Oligembia	Oligembia	unicolor	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:318
+145211	1172187	Oligembia	Oligembia	melanura	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:316
+145214	1172188	Oligembia	Oligembia	armata	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:314
+145215	1172209	Oligembia	Dilobocerca	excisa	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:280
+145218	1172189	Oligembia	Dilobocerca	gigantea	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:312
+145219	1172190	Oligembia	Dilobocerca	nigrina	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:310
+145220	1172191	Oligembia	Dilobocerca	plaumanni	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:308
+145221	1172210	Oligembia	Dilobocerca	vandykei	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:278
+145222	1172211	Oligembia	Dilobocerca	caribbeana	Ross, 1944				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:275
+145230	1171981	Berlandiella		errans	Davis, 1939				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:487
+145231	1171966	Dictyoploca		rimskyi	Davis, 1939				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:509
+145232	1172069	Embia	Dihybocercus	severini	Enderlein, 1912				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:375
+145236	1172057	Haploembia		bourgi	Navás, 1923				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:394
+145237	1172045	Clothoda		florissantensis	(Cockerell, 1908)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:412
+145239	1171946	Clothoda		urichi		intermedia	subspecies	Davis, 1939	Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:536
+145240	1171943	Clothoda		aequicercata	(Enderlein, 1912)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:544
+144978	1172180	Oligembia	Dilobocerca	cristobalensis	Mariño & Márquez, 1982				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:330
+144985	1172293	Oligotoma		hardyi	Friederichs, 1914				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:166
+144988	1171903	Metoligotoma		reducta		ingens	subspecies	Davis, 1936	Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:587
+145016	1172235	Oligotoma		agilis	Froggatt, 1904				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:236
+145026	1171931	Metoligotoma		nodosa	Davis, 1944				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:593
+145031	1171945	Clothoda		urichi	(Saussure, 1896)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:541
+145032	1172117	Embia		trinitatis	Saussure, 1896				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:80
+145034	1172316	Embolyntha		batesi	(McLachlan, 1877)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:111
+145035	1172106	Embolyntha		salvini	(McLachlan, 1877)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:96
+145036	1172143	Embolyntha		wagneri	(Navás, 1923)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:38
+145037	1172143	Embia		wagneri	Navás, 1923				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:38
+145039	1171757	Oligotoma		venosa	Banks, 1924				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:774
+145040	1172226	Embia		californica	Banks, 1906				Junior synonym	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:251
+145041	1172226	Oligotoma		californica	(Banks, 1906)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:251
+145042	1171879	Anisembia		wheeleri	(Melander, 1902)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:627
+145043	1171839	Anisembia		heymonsi	(Enderlein, 1912)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:674
+145044	1171839	Haploembia		heymonsi	Enderlein, 1912				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:674
+145045	1172273	Oligotoma		varians	Navás, 1922				Original combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:198
+145046	1172273	Aposthonia		varians	(Navás, 1922)				Subsequent combination	Unambiguous synonym	urn:lsid:Embioptera.speciesfile.org:TaxonName:198

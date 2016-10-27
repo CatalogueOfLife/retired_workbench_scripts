@@ -1,0 +1,41 @@
+﻿ReferenceID	Authors	Year	Title	Source
+44579	Silvestri	1913	Descrizione di un nuovo ordine di insetti	Bolletino del Laboratorio di Zoologia Generale e Agraria della R. Scuola Superiore d' Agricoltura in Portici (Boll. Lab. Zool. gen. agr. Portici) 7:193-209
+44580	Engel & Grimaldi	2002	The first Mesozoic Zoraptera (Insecta)	American Museum Novitates 3362:1-20
+44582	Engel In Klass [Ed.]. Proceedings of the First Dresden meeting on insect phylogeny: "Phylogenetic Relationships within the Insect Orders" (Dresden, September 19-21, 2003).	2003	Phylogeny of the Zoraptera In Klass [Ed.]. Proceedings of the First Dresden meeting on insect phylogeny: "Phylogenetic Relationships within the Insect Orders" (Dresden, September 19-21, 2003).	Entomologische Abhandlungen 61(2):147-148
+44583	Engel	2008	A new apterous Zorotypus in Miocene amber from the Dominican Republic (Zoraptera: Zorotypidae)     	Acta Entomologica Slovenica 16(2):127-136
+44584	Engel & Grimaldi	2000	A Winged Zorotypus in Miocene Amber  from the Dominican Republic (Zoraptera: Zorotypidae),  with Discussion on Relationships of and within the Order	Acta Geologica Hispanica 35(1):149-164
+44585	Gurney	1938	A synopsis of the order Zoraptera, with notes on the biology of Zorotypus hubbardi Caudell	Proceedings of the Entomological Society of Washington (Proc. Ent. Soc. Washington) 40(3):57-87
+44586	Silvestri	1947	Descrizione di due specie neotropicali di Zorotypus (Insecta, Zoraptera)	Bollettino del Laboratorio di Entomologia Agraria di Portici 7:1-12
+44587	Karny	1932	Psocoptera. Insects of Samoa and other Samoan Terrestrial Arthropoda. Part VII. Other orders of insects.	British Museum (Natural History) 7:117-129
+44588	Van-Ryn-Tournel	1971	Présence de l'ordre des Zoraptères au Congo et description de Zorotypus congensis sp. n.	Revue de Zoologie et de Botanique Africaines 83:100-110
+44589	Karny	1923	Zorapteren aus Süd-Sumatra	Treubia : recueil de travaux zoologiques, hydrobiologiques et océanographiques 3:14-29
+44590	Paulian	1949	Découverte de l'ordre des Zoraptères à Madagascar et description d'une nouvelle espèce	Memoires de l'Institut Scientifique de Madagascar A 3:77-80
+44591	Choe	1989	Zorotypus gurneyi, new species, from Panama and redescription of Z. barberi Gurney (Zoraptera: Zorotypidae)	Annals of the Entomological Society of America (Ann. ent. Soc. Amer.) 82:149-155
+44592	New	1978	Notes on Neotropical Zoraptera, with descriptions of two new species	Systematic Entomology 3:361-370
+44593	Caudell	1918	Zorotypus hubbardi, a new species of the order Zoraptera from the United States	The Canadian Entomologist 50:375-381
+44594	Bolivar y Pieltain & Coronado	1963	Estudio de un nuevo Zorotypus proveniente de la Región Amazónica Peruana (Ins., Zoraptera)	Ciencia (Mexico) 22:93-100
+44595	Engel	2000	A new Zorotypus from Peru, with notes on related Neotropical species (Zoraptera: Zortypidae)	Journal of the Kansas Entomological Society 73:11-20
+44596	New	1995	The order Zoraptera (Insecta) from Christmas Island, Indian Ocean	Invertebrate Taxonomy 9:243-246
+44597	Weidner	1976	Eine neue Zorotypus-Art von den Galapagosinseln, Zorotypus leleupi sp.n. (Zoraptera)	Mission Zoologique Belge aux îles Galapagos et en Ecuador (N. et J. Leleup 1964-1965) 3:161-176
+44598	Caudell	1927	Zorotypus longicercatus, a new species of Zoraptera from Jamaica	Proceedings of the Entomological Society of Washington (Proc. Ent. Soc. Washington) 29:144-145
+44599	Caudell	1923	A new species of Zoraptera from Bolivia	Proceedings of the Entomological Society of Washington (Proc. Ent. Soc. Washington) 25:60-62
+44600	Huang	1976	[A new species of Zoraptera]	Acta Entomologica Sinica 19:225-227
+44601	Bolivar y Pieltain	1940	Estudio de un nuevo Zoráptero de México	Anales de la Escuela Nacional de Ciencias Biologicas 1:513-523
+44602	Silvestri	1916	Diagnosi preliminaire di una nuova specie di Zorotypus (Insecta, Zoraptera) di Costa Rica	Bollettino del Laboratorio di Entomologia Agraria di Portici 10:120
+44603	Chao & Chen	2000	Formosozoros newi, a new genus and species of Zoraptera (Insecta) from Taiwan	Pan-Pacific Entomologist (Pan-Pacific Ent.) 76(1):24-27
+44604	Poinar	1988	Zorotypus palaeus, new species, a fossil Zoraptera (Insecta) in Dominican Amber	Journal of the New York Entomological Society 96:253-259
+44605	Karny	1927	Spolia Mentawiensia. Zoraptera	Treubia : recueil de travaux zoologiques, hydrobiologiques et océanographiques 9:1-5
+44606	Huang	1974	[Zorotypus sinensis, a new species from China]	Acta Entomologica Sinica 17:423-427
+44607	Caudell	1920	Zoraptera not an apterous order	Proceedings of the Entomological Society of Washington (Proc. Ent. Soc. Washington) 22:84-97
+44608	Caudell	1922	Zorotypus swezeyi, a new species of the order Zoraptera from Hawaii	Transactions of the American Entomological Society (Trans. Am. Entomol. Soc.) 48:133-135
+44609	Paulian	1951	Découverte de l'ordre des Zoraptères a l'île Maurice. Zorotypus vinsoni, n. sp.	Naturaliste Malgache 3:33-35
+44610	Gurney	1939	A new species of Zoraptera from Fiji	Occasional Papers of Bernice P. Bishop Museum Honolulu, Hawaii 15:161-165
+44613	Rafael & Engel	2006	A new species of Zorotypus from central Amazonia, Brazil (Zoraptera: Zorotypidae)	American Museum Novitates 3528:1-11
+44614	Zompro	2005	Inter- and intra-ordinal relationships of the Mantophasmatodea, with comments on the phylogeny of polyneopteran orders (Insecta: Polyneoptera)	Mitteilungen aus dem Geologisch-Palaeontologischen Institut der Universitaet Hamburg 89:85-116
+44630	Caudell	1923	Corrections	Proceedings of the Entomological Society of Washington (Proc. Ent. Soc. Washington) 25:104
+44881	Mashimo, Engel, Dallai, Beutel & Machida In Mashimo, Yoshizawa, Engel, Abd. Ghani, Dallai, Beutel & Machida. Zorotypus in Peninsular Malaysia (Zoraptera: Zorotypidae), with the description of three new species.	2013	In Mashimo, Yoshizawa, Engel, Abd. Ghani, Dallai, Beutel &amp; Machida. Zorotypus in Peninsular Malaysia (Zoraptera: Zorotypidae), with the description of three new species.	Zootaxa 3717(4)
+44882	Mashimo, Yoshizawa & Engel In Mashimo, Yoshizawa, Engel, Abd. Ghani, Dallai, Beutel & Machida. Zorotypus in Peninsular Malaysia (Zoraptera: Zorotypidae), with the description of three new species.	2013	In Mashimo, Yoshizawa, Engel, Abd. Ghani, Dallai, Beutel &amp; Machida. Zorotypus in Peninsular Malaysia (Zoraptera: Zorotypidae), with the description of three new species.	Zootaxa 3717(4)
+44883	Terry & Whiting	2012	Zorotypus novobritannicus n. sp., the first species of the order Zoraptera (Zorotypidae) from the Australasian Ecozone	Zootaxa 3260:53-61
+44901	Kaddumi	2005	Amber of Jordan: The Oldest Prehistoric Insects in Fossilized  Resin.	
+44903	Rafael, Godoi & Engel	2008	A new species of Zorotypus from eastern Amazonia, Brazil (Zoraptera: Zorotypidae)	Transactions of the Kansas Academy of Science (Trans of the KAS) 111(3/4):193-202
+46263	Yin & Li In Yin, Li & Wu. New and little known species of   Zorotypus   Silvestri (Zoraptera: Zorotypidae)   from China.	2015	In Yin, Li &amp; Wu. New and little known species of   Zorotypus   Silvestri (Zoraptera: Zorotypidae)   from China.	Zootaxa 4007(4)

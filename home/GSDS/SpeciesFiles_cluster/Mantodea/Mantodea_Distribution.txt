@@ -1,0 +1,143 @@
+﻿AcceptedTaxonID	DistributionElement	StandardInUse
+1182274	20    	TDWG Level 2 code
+1182275	20    	TDWG Level 2 code
+1182275	AFRICA / Somaliland, Sennaar, Upper Egypt	text
+1182276	Kenya: District Marsabit, Mt Kulal, 5500-6000 ft, 02-35N 36-55E, x 1947	text
+1182277	AFRICA / N. Nigeria, Azare; Senegal; Burkina Faso	text
+1182278	AFRICA / Sudan; Somalia	text
+1182287	AFRICA / “Africa aequinoxialis”	text
+1182385	EGY	TDWG Level 3 code
+1182386	3	TDWG Level 1 code
+1182387	PAL-JO	TDWG Level 4 code
+1182388	EGY	TDWG Level 3 code
+1182434	AFRICA / W. Sahara 	text
+1182491	43    	TDWG Level 2 code
+1182491	INDOMALAYSIA / Borneo: Darvel Bay	text
+1182498	INDOMALAYSIA / Philippines: Balabac-Dalawan Bay (paratype) Palawan, Mantalingajan, Pinigisan 600m	text
+1182598	IND-AP	TDWG Level 4 code
+1182599	INDOMALAYSIA / Sri Lanka: Haragama	text
+1182599	SRL	TDWG Level 3 code
+1182619	36    	TDWG Level 2 code
+1182619	EURASIA / China: Tibet-Xizang 2100m	text
+1182647	IND-GU	TDWG Level 4 code
+1182659	DOM	TDWG Level 3 code
+1182661	VIE	TDWG Level 3 code
+1182663	VIE	TDWG Level 3 code
+1182739	CHC-YN	TDWG Level 4 code
+1182790	4	TDWG Level 1 code
+1182791	IND	TDWG Level 3 code
+1182792	4	TDWG Level 1 code
+1182805	27    	TDWG Level 2 code
+1182806	KEN	TDWG Level 3 code
+1182806	Kenya	text
+1182807	KEN	TDWG Level 3 code
+1182807	Kenya	text
+1182995	NEP	TDWG Level 3 code
+1183010	MDG	TDWG Level 3 code
+1183011	MDG	TDWG Level 3 code
+1183012	MDG	TDWG Level 3 code
+1183043	MDG	TDWG Level 3 code
+1183044	MDG	TDWG Level 3 code
+1183045	MDG	TDWG Level 3 code
+1183087	QLD	TDWG Level 3 code
+1183088	QLD	TDWG Level 3 code
+1183089	50    	TDWG Level 2 code
+1183103	DOM	TDWG Level 3 code
+1183314	TVL	TDWG Level 3 code
+1183315	ZIM	TDWG Level 3 code
+1183335	2	TDWG Level 1 code
+1183347	EGY	TDWG Level 3 code
+1183398	NEB	TDWG Level 3 code
+1183539	GUA	TDWG Level 3 code
+1183558	CLM	TDWG Level 3 code
+1183560	CLM	TDWG Level 3 code
+1183569	BOR-SB	TDWG Level 4 code
+1183602	IND-TN	TDWG Level 4 code
+1183761	India, Kerala,Cardamon Hills, Periyar, env. de l`hotel Aranga	text
+1183795	MDG	TDWG Level 3 code
+1183841	FIJ	TDWG Level 3 code
+1183841	INDOMALAYSIA / Fiji: Viti Levu, Lebouka 	text
+1183857	MYA	TDWG Level 3 code
+1184062	CAF	TDWG Level 3 code
+1184065	CAF	TDWG Level 3 code
+1184098	CMN	TDWG Level 3 code
+1184099	CMN	TDWG Level 3 code
+1184100	KEN	TDWG Level 3 code
+1184101	SOC	TDWG Level 3 code
+1184162	TZK	TDWG Level 3 code
+1184167	TZK	TDWG Level 3 code
+1184487	NTA	TDWG Level 3 code
+1184732	PER	TDWG Level 3 code
+1184733	ECU	TDWG Level 3 code
+1184777	84    	TDWG Level 2 code
+1184778	AGE-CO	TDWG Level 4 code
+1184980	FRG	TDWG Level 3 code
+1185007	ECU	TDWG Level 3 code
+1185008	PER	TDWG Level 3 code
+1185045	84    	TDWG Level 2 code
+1185179	MDG	TDWG Level 3 code
+1185180	MDG	TDWG Level 3 code
+1185182	IND	TDWG Level 3 code
+1185436	2	TDWG Level 1 code
+1185483	French Guiana	text
+1185483	FRG	TDWG Level 3 code
+1185491	82    	TDWG Level 2 code
+1185524	84    	TDWG Level 2 code
+1185530	PER	TDWG Level 3 code
+1185531	ECU	TDWG Level 3 code
+1185532	PER	TDWG Level 3 code
+1185534	84    	TDWG Level 2 code
+1185535	FRG	TDWG Level 3 code
+1185605	FRG	TDWG Level 3 code
+1185627	CBD	TDWG Level 3 code
+1185720	CLM	TDWG Level 3 code
+1185832	4	TDWG Level 1 code
+1185974	AFRICA / Sudan: Bahr-el-Gebel, Kordofan, Mongalla	text
+1186002	MOZ	TDWG Level 3 code
+1186003	YEM	TDWG Level 3 code
+1186007	KEN	TDWG Level 3 code
+1186008	KEN	TDWG Level 3 code
+1186009	SUM	TDWG Level 3 code
+1186010	4	TDWG Level 1 code
+1186011	4	TDWG Level 1 code
+1186012	4	TDWG Level 1 code
+1186177	CLM	TDWG Level 3 code
+1199196	84    	TDWG Level 2 code
+1203978	1	TDWG Level 1 code
+1204094	BOR-SB	TDWG Level 4 code
+1207909	NAM	TDWG Level 3 code
+1207910	MLW	TDWG Level 3 code
+1207916	ANG	TDWG Level 3 code
+1207917	ANG	TDWG Level 3 code
+1207918	ANG	TDWG Level 3 code
+1207920	MOR-MO	TDWG Level 4 code
+1207921	SOM	TDWG Level 3 code
+1207922	TOG	TDWG Level 3 code
+1207923	IVO	TDWG Level 3 code
+1207924	ZIM	TDWG Level 3 code
+1207925	CAF	TDWG Level 3 code
+1217205	CON	TDWG Level 3 code
+1217743	84    	TDWG Level 2 code
+1217745	84    	TDWG Level 2 code
+1217748	8	TDWG Level 1 code
+1217751	VEN	TDWG Level 3 code
+1217753	PAN	TDWG Level 3 code
+1217754	BOL	TDWG Level 3 code
+1217757	84    	TDWG Level 2 code
+1217761	CLM	TDWG Level 3 code
+1217953	NTA	TDWG Level 3 code
+1217955	NTA	TDWG Level 3 code
+1217956	NTA	TDWG Level 3 code
+1217957	NTA	TDWG Level 3 code
+1218081	25    	TDWG Level 2 code
+1218357	BOR-SR	TDWG Level 4 code
+1218360	KEN	TDWG Level 3 code
+1218361	27    	TDWG Level 2 code
+1218590	84    	TDWG Level 2 code
+1221338	COM-CO	TDWG Level 4 code
+1221612	ZAM	TDWG Level 3 code
+1222258	84    	TDWG Level 2 code
+1222259	ECU	TDWG Level 3 code
+1222295	84    	TDWG Level 2 code
+1222669	FRG	TDWG Level 3 code
+1225191	MDG	TDWG Level 3 code

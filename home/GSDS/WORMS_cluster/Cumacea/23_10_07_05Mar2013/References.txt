@@ -1,0 +1,89 @@
+ReferenceID	Authors	Year	Title	Details	
+129200	Petrescu.	2006	  Nannastacidae (Crustacea: Cumacea) from  eastern Bass Strait, the south-eastern Australian slope, and  Antarctica. Memoirs of Museum Victoria Volume: 63 Issue: 2 Pages: 129-173		
+132612	Watling, L.	2009	Cumacea (Crustacea). In: Gordon, D. (Ed.) (2009). New Zealand Inventory of Biodiversity. Volume One: Kingdom Animalia. 584 pp		
+133468	Galathea II, Danish Deep Sea Expedition	1950	2		
+128496	Gerken.	2005	Two new Diastylidae (Crustacea: Cumacea) from California, collected by the R/V Velero IV. Proceedings of the Biological Society of Washington 118(2) : 270-284		
+9269	Muller, Y.	2004	Faune et flore du littoral du Nord, du Pas-de-Calais et de la Belgique: inventaire. [Coastal fauna and flora of the Nord, Pas-de-Calais and Belgium: inventory]. Commission Régionale de Biologie Région Nord Pas-de-Calais: France. 307 pp.		
+142158	Sars, G.O.	1869	Undersøgelser over Christianiafjordens Dybvandsfauna Nyt Mag. Naturv. 16: 305-362		
+129020	Muhlenhardt-Siegel	2005	New species of the family Nannastacidae  (Crustacea: Peracarida: Cumacea) from the Angola Basin,  south-eastern Atlantic. Deep-Sea Expedition DIVA-1. Addendum. Mitteilungen aus dem Hamburgischen Zoologischen Museum und Institut 102 : 85-97		
+129194	Petrescu.	2002	Cumacea (Crustacea: Peracarida) from Belize. Travaux du Museum National d'Histoire Naturelle "Grigore Antipa" 44: 141-203		
+6827	Costello, M.J.; Emblow, C.; White, R. (Ed.).	2001	European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels, 50. Muséum national d'Histoire Naturelle: Paris, France. ISBN 2-85653-538-0. 463 pp.		
+147411			PESI (A Pan-European Species directories Infrastructure) focal points		
+5591	Norman, A.M.	1869	Shetland final dredging report. Part II. On the Crustacea, Tunicata, Polyzoa, Echinodermata, Actinozoa, Hydrozoa, and Portifera. Report of the meeting of the British Association for the Advancement of Science, 38: 247-336.		
+165516	Dyntaxa	2013	Swedish Taxonomic Database. Accessed at www.dyntaxa.se [15-01-2013].		
+142502	Gerken, S.	2001	The Gynodiastylidae (Crustacea: Cumacea). Memoirs of Museum Victoria 59: 1–276.		
+130654	Corbera.	2002	Amphi-Atlantic distribution of the Mancocumatinae (Cumacea: Bodotriidae), with description of a new genus dwelling in marine lava caves of Tenerife (Canary Islands). Zoological Journal of the Linnean Society 134 (4): 453-461		
+3072	Trott, T.J.	2004	Cobscook Bay inventory: a historical checklist of marine invertebrates spanning 162 years. Northeastern Naturalist (Special Issue 2): 261 - 324.		
+128307	Corbera.	2004	A new species of Scherocumella (Crustacea, Cumacea) from a coral lagoon of Lifou, New Caledonia. Zoosystema 26(1) : 65-71		
+653			NSBP/NIVA		
+126157	Hansen, H.J.	1920	Crustacea Malacostraca 4. The Danish Ingolf-experdition 3(6).		
+129197	Petrescu, I.,	2004	The first mention of the genus Apocuma Jones, 1973 (Crustacea: Cumacea: Bodotriidae) from Australian waters. Travaux du Muséum d'Histoire Naturelle "Gigore Antipa" 46: 45–54.		
+131050	Muhlenhardt-Siegel.	2003	A new Cumacea genus (Crustacea: Peracarida: Diastylidae) from the deep-sea expedition DIVA-1 with RV “Meteor” to the Angola Basin. Beaufortia Bulletin Zoological Museum 53 (7): 159-165		
+141223	Heard, R. W. and D. Roccatagliata.	2009	Cumacea (Crustacea) of the Gulf of Mexico,		
+21392	Sars, G.O.	1900	An Account of the Crustacea of Norway. Vol. III. Cumacea. (planches). , 1-72.		
+2984	Howson, C.M., and B.E. Picton (eds.).	1997	The species directory of the marine fauna and flora of the British Isles and surrounding seas. Ulster Museum and The Marine Conservation Society, Belfast and Ross-on-Wye. 508 p.		
+128494	Gerken & Ryder.	2002	Campylaspis rex, sp. nov. (Crustacea: Cumacea) from New Zealand. Proceedings of the Biological Society of Washington 115 (2): 412-418		
+43951	ArcOD species list provided by Falk Huettmann on	2007	1-25		
+129567	Vassilenko & Tzareva.	2004	New Cumacea species (Malacostraca, Peracarida) from the deepwater area of the  Sea of Japan (Collections of the 52nd Cruise by the R/V «Vityaz», 1972). Zootaxa 702 : 1-16		
+163195	Sars, G.O.	1865	Om den aberrante Krebsdyrgruppe Cumacea og dens nordiske Arter. Forhandl. Vid. Selsk. 1864,		
+162746	Gilson, G.	1906	Recherches sur les deux pseudocuma de la mer flamande: P. longicornis Spencerbate et P. similis G.O. Sars. Mém. Soc. Ent. Belgique 12: 77-96, 15 fig.		
+129192	Petrescu & Wittmann.	2003	Elements for a revision and notes on bionomy of the Cumacea  (Crustacea: Peracarida) of the Weddell Sea (Antarctica). Material collected by the  5 PUBLICATIONS 75  expedition ANTARKTIS-VIII/5 of R.V. “Polarstern” 1998/90. Zoologische Mededelingen (Leiden) 77 (15-36 ): 557-630		
+9974	Petrescu, Iorgu	2006	Crustacea Malacostraca Cumacea, in: Revisione della Checklist della fauna marina italiana.		
+64			North East Atlantic Taxa		
+128863	Lin & Lee.	2002	A new species of the genus dimorphostylis (cumacea, diastylidae) from Korea. Korean Journal of Biological sciences  6 (1): 23-33		
+129198	Petrescu.	2004	Family Ceratocumatidae (Crustacea: Cumacea) mentioned for the first time from Australia. Travaux du Museum National d'Histoire Naturelle "Grigore Antipa" 46 : 55-66		
+129149	Ortiz & Lalana.	2002	Una nueva especie de cumaceo del genero Cyclaspis (Cumacea,  Bodotriidae), de aguas cubanas. Avicennia 15: 23-30		
+1	Hayward, P.J.; Ryland, J.S. (Ed.)	1990	The marine fauna of the British Isles and North-West Europe: 1. Introduction and protozoans to arthropods. Clarendon Press: Oxford, UK. ISBN 0-19-857356-1. 627 pp.		
+6831			BIOCEAN		
+2964	Gosner, K.L.	1971	Guide to identification of marine and estuarine invertebrates: Cape Hatteras to the Bay of Fundy. John Wiley & Sons, Inc. 693 p.		
+128585	Haye, P.	2004	<i>Austrocuma kornfieldi</i>, a New Bodotriid from India: Pleopod Number in Cumaceans and the Placement of Coricuma. Journal of Crustacean Biology 24(1) : 84-92.		
+128834	Lee & Lee.	2006	Nippoleucon projectus, a new species of leuconid cumaceans (Cumacea, Leuconidae) from Korea. Integrative Biosciences Volume: 10 Issue: 2 Pages: 93-101		
+6035	Day, J.	1975	South African Cumacea. Part 1: Family Bodotriidae, Subfamily Vaunthompsoniinae.  Annals of the South African Museum. Vol 66 (9): 177- 220.		
+129023	Muhlenhardt-Siegel.	2005	Cumacea species (Crustacea: Peracarida) from the deep-sea expedition DIVA-1 with RV ''Meteor'' to the Angola Basin in July 2000. Family Leuconidae. Organisms Diversity & Evolution 5(Supplement 1) : 131-149		
+128972	Micca & Roccatagliata.	2002	A New Species of Cumella (Cumacea, Nannastacidae) from Argentina, and a Partial Redescription of Cumella vicina Zimmer, 1944. Crustaceana (Leiden) 75 (2): 145-158		
+128305	Corbera & Martin.	2002	Two new cumacean species (Crustacea: Peracarida) from shallow waters off Thailand. Scientia Marina (Barcelona)  66 (4): 407-415		
+42941	Corbera, J.; Tirado, P.; Martin, D.	2005	Cumaceans (Crustacea: Peracarida) from the Persian Gulf. Zootaxa 1087: 1-31.		
+129195	Petrescu.	2003	Cumacea (Crustacea: Peracarida) from western tropical Atlantic. Travaux du Museum National d'Histoire Naturelle "Grigore Antipa" 45: 117-128		
+129390	Shalla & Bishop.	2004	Four new species of the genus Leucon (Crustacea: Cumacea)  from the Atlantic Frontier Margin. Journal of the Marine Biological Association of the United Kingdom 84(1) : 139-153 		
+141745	Mccarthy, A.M., Gerken, S. , Mcgrath, D. & Mccormack, G.P.,	2006	Monopseudocuma a new genus from the North East Atlantic and redescription of Pseudocuma gilsoni Ba escu, 1950 (Cumacea: Pseudocumatidae), Zootaxa 1203: 39–56.		
+43056			Arctic benthic invertebrate collection of the Zoological Institute of the Russian Academy of Sciences (RAS)		
+129024	Muhlenhardt-Siegel.	2005	Cumacea species (Crustacea: Peracarida) from the deep-sea expedition DIVA-1 with RV “Meteor” to the Angola Basin in July 2000. Family Nannastacidae. Organisms Diversity & Evolution 5(Supplement 1) : 151-170		
+163242	Norman, A.M.	1879	Crustacea Cumacea of the "Lightning", "Porcupine" and "Valorous" Expeditions. 8vo. Ann. N. H. (5) iii.		
+5987	Vine, P.	1986	Red Sea Invertebrates. Immel Publishing, London. 224 pp.		
+9259			Muhlenhardt-Siegel, Ute		
+42			ITIS database		
+130392	Anderson, G.	2008	Cumacea Classification. July 4, 2008.		
+129196	Petrescu.	2003	First record of Cumacea (Crustacea: Peracarida) from Madagascar. Travaux du Museum National d'Histoire Naturelle "Grigore Antipa" 45: 95-115		
+56			North Sea Benthos Survey		
+1081	Zimmer, C.	1933	Cumacea. <i>The fauna of the North Sea and Baltic</i>, 23(10.g4). Akademische Verlagsgesellschaft: Leipzig, Germany. 70-120 pp.		
+129545	Tzareva & Vassilenko.	2006	Two new species of Cumacea (Malacostraca, Peracarida) from Peter The Great Bay (Sea of Japan). Zootaxa Volume: 1174 Pages: 41-48		
+1596			Cuvelier, Daphne		
+5873			Watling, Les		
+663	Howson, C.M.; Picton, B.E. (Ed.)	1997	The species directory of the marine fauna and flora of the British Isles and surrounding seas. <i>Ulster Museum Publication</i>, 276. The Ulster Museum: Belfast, UK. ISBN 0-948150-06-8. vi, 508 (+ cd-rom) pp.		
+129176	Patel, Haye & Kornfield.	2003	Eocuma Petrescui, A New Species Of Bodotriid  Cumacean (Crustacea : Peracarida) From  Malaysia. Proceedings of the Biological Society of Washington 116 (4): 978-985		
+164358	Gerken S.	2012	New Zealand Ceratocumatidae and Nannastacidae (Crustacea: Cumacea). Zootaxa 3524: 124 pp.		
+2930	Brunel, P., L. Bosse, & G. Lamarche.	1998	Catalogue of the marine invertebrates of the estuary and Gulf of St. Lawrence. Canadian Special Publication of Fisheries and Aquatic Sciences, 126. 405 p.		
+129021	Muhlenhardt-Siegel.	2005	Cumacea species (Crustacea: Peracarida) from the Deep-Sea Expedition DIVA-1 with RV "Meteor" to the Angola Basin in July 2000. Family Diastylidae. Mitteilungen aus dem Hamburgischen Zoologischen Museum und Institut 102 : 99-152		
+128497	Gerken.	2005	Two new cumaceans (Crustacea: Peracarida) from Cook Inlet, Alaska. Proceedings of the Biological Society of Washington 118(4) : 674-691		
+141756			CeDAMar (Census of the Diversity of Abyssal Marine Life)		
+3042	Pollock, L.W.	1998	A practical guide to the marine animals of northeastern North America. Rutgers University Press. New Brunswick, New Jersey & London. 367 pp.		
+129193	Petrescu.	2002	Cumacea (Crustacea: Peracarida) collected from Tanzanian coasts by the expedition of “Grigore Antipa” national museum of natural history (Bucharest). Part V. Families Diastylidae and Gynodiastylidae. Travaux du Museum National d'Histoire Naturelle "Grigore Antipa" 44: 105-140		
+2999	Linkletter, L.E.	1977	A checklist of marine fauna and flora of the Bay of Fundy. Huntsman Marine Laboratory, St. Andrews, N.B. 68 p.		
+128584	Haye & Gerken.	2005	A new species of Cumacea (Crustacea: Peracarida) from Chile, Lamprops kensleyi. Proceedings of the Biological Society of Washington 118(1) : 30-37		
+1422	Watling, L.	2001	Cumacea, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
+1153			The Zoological Record: records of zoological literature relating chiefly to the year:  Zoological Society of London City:  London, UK		
+9271	Streftaris, N.; Zenetos, A.; Papathanassiou, E.	2005	Globalisation in marine ecosystems: the story of non-indigenous marine species across European seas. <i>Oceanogr. Mar. Biol. Ann. Rev. 43</i>: 419-453		
+19934	Sars, G.O.	1879	Crustacea et Pycnogonida nova in itinere 2do et 3tio Expeditionis Norvegicae anno 1877 & 78 collecta (Prodromus descriptionis) Arch. Math. Naturvidensk. Fjerde bind: 427-476		
+129614	Watling & Angsupanish.	2002	Procampylaspis andamanensis sp. nov. (Crustacea, Cumacea), first record of the genus from the Indo-Polynesian biogeographic province. Phuket Marine Biological Center Special Publication 23 (1): 33-40		
+129022	Mühlenhardt-Siegel, U.	2005	Cumacea species (Crustacea: Peracarida) from the Deep-Sea Expedition DIVA-1 with RV "Meteor" to the Angola Basin in July 2000. Families Lampropidae, Bodotriidae. Organisms, Diversity & Evolution 5 Suppl. 1: 113-130.		
+128306	Corbera, Brito & Nunez.	2002	Interstitial cumaceans from sandy bottoms and Cymodocea meadows of the Canary Islands. Cahiers de Biologie Marine 43 (1): 63-71		
+15935	MÜhlenhardt-siegel U.	1994	Leucon parasiphonatus, a new species (Crustacea: Cumacea: Leuconidae) from antarctic waters. Helgoländer wissenschaftliche Meeresuntersuchungen, 48, 1, 79-88.		
+129391	Shalla, S.H., Bishop, J.D.,	2005	First record of the genus <i>Atlantistylis</i> Reyss, 1975 (Crustacea: Cumacea) from the North Atlantic, with the description of a new species. Journal of Natural History, 39(18): 1483–1489.		
+128495	Gerken.	2002	A new species of Vemakylindrus, V. hystricosa n. sp. is described from the continental slope off the coast of California. The new species can be distinguished from all other Vemakylindrus by the combination of the carapace and pereonites covered with spines of varying lengths, the telson longer than the uropods, and the terminal three articles of pereopod 1 being subequal and each article much less than 0.5 the length of the basis. Proceedings of the Biological Society of Washington 115 (2): 419-425		
+2928	Bromley, J.E.C., and J.S. Bleakney.	1984	Keys to the fauna and flora of Minas Basin. National Research Council of Canada Report 24119. 366 p.		
+129019	Muhlenhardt-Siegel.	2003	Shallow-water cumacean Crustacea from Australia and  Lombok (Indonesia): families Bodotriidae and Leuconidae. Records of the South Australian Museum (Adelaide) 36 (1): 21-57		
+129191	Petrescu & Heard.	2004	Three new species of Cumacea (Crustacea: Peracarida) from  Costa Rica. Cumaceans (Crustacea, Peracarida) from Costa Rica. Zootaxa 721 : 1-12		
+155614	Krøyer, H.,	1841	Udsigt over de nordiske arter af slægten Hippolyte.— Naturhistorisk Tidsskrift 3: 570-579.		
+89214	Goodsir, H.D.S..	1843	On the sexes, organs of reproduction and mode of development of the cirripeds. Account of the Maidre of fisherman, and description of some new species of crustaceans. Edinburgh New Philosophical Journal 35:88-104, pl.3-4.		
+129199	Petrescu.	2004	New mentions of cumaceans (Crustacea: Cumacea) in Cuba. Travaux du Museum National d'Histoire Naturelle "Grigore Antipa" 47 / 89-95		

@@ -1,0 +1,53 @@
+AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
+344398	ovate tuskshell				English	1318	
+344408	annulate tuskshell				English	1318	
+344253	Verrill toothshell				English	1318	
+344271	California toothshell				English	1318	
+344291	little toothshell				English	1318	
+344305	inflated toothshell				English	1318	
+224567	tusk shell				English	6561	
+344129	stained tuskshell				English	1318	
+344159	reticulate tuskshell				English	1318	
+344168	hexagon tuskshell				English	1318	
+344264	narrow-slit tuskshell				English	1318	
+344321	aberrant toothshell				English	1318	
+344325	Agassiz toothshell				English	1318	
+344353	mayor toothshell				English	1318	
+344375	Tolmie toothshell				English	1318	
+344573	kingly toothshell				English	1318	
+140015	lobate toothshell				English	1318	
+344325	Agassiz's cadulus				English	2901	
+344207	costate tuskshell				English	1318	
+139535	meridian tuskshell				English	2901	
+344420	Westerly toothshell				English	1318	
+344422	salish toothshell				English	1318	
+344507	reed tuskshell				English	1318	
+344508	ivory tuskshell				English	1318	
+344510	turned tuskshel				English	1318	
+344515	slender tuskshell				English	1318	
+344520	American tuskshell				English	1318	
+344585	flattened toothshell				English	1318	
+344587	compressed toothshell				English	1318	
+344588	Stearns toothshell				English	1318	
+344594	Dall tuskshell				English	1318	
+344596	straight tuskshell				English	1318	
+344426	Antillean tuskshell				English	1318	
+344428	berry tuskshell				English	1318	
+344431	waxy tuskshell				English	1318	
+344432	banded tuskshell				English	1318	
+344444	Pilsbry tuskshell				English	1318	
+344446	Wampum tuskshell				English	1318	
+344449	green tuskshell				English	1318	
+196377	occidental tuskshell				English	2901	
+150534	gladde olifantstand				Dutch		
+196380	zwakgeribde olifantstand				Dutch		
+150534	almindelig søtand				Danish	147411	
+344490	gorgeous tuskshell				English	1318	
+344463	Carolina toothshell				English	1318	
+344469	grand toothshell				English	1318	
+344471	Miami toothshell				English	1318	
+344476	four-slit toothshell				English	1318	
+344477	rush toothshell				English	1318	
+344479	notable toothshell				English	1318	
+344482	tetrodon toothshell				English	1318	
+344469	Verrill's giant cadulus				English	2901	

@@ -1,0 +1,1039 @@
+<html><body>
+<br><b>Harvesting...</b>
+<pre>
+<p>Skipping download as there is no URL specified.<br /> Assuming the datasets are uploaded by users via usermin accounts.</p>
+</pre><hr><b>File format conversions...</b>
+<pre>
+Unzipping
+Archive:  FishBase_2012Jan10_CSV.zip
+  inflating: FishBase_2012Jan10_CSV/AcceptedInfraSpecificTaxa.txt  
+  inflating: FishBase_2012Jan10_CSV/AcceptedSpecies.txt  
+  inflating: FishBase_2012Jan10_CSV/CommonNames.txt  
+  inflating: FishBase_2012Jan10_CSV/Distribution.txt  
+  inflating: FishBase_2012Jan10_CSV/NameReferencesLinks.txt  
+  inflating: FishBase_2012Jan10_CSV/References.txt  
+  inflating: FishBase_2012Jan10_CSV/SourceDatabase.txt  
+  inflating: FishBase_2012Jan10_CSV/Synonyms.txt  
+Skipping format conversion
+</pre><hr><b>Creating buffer database, performing structural transformations...</b>
+<pre>
+Initiating buffer creation - this may take a while depending on size of the dataset...
+
+Creating buffer database Buffer_FishBase in schema as provided by FishBase
+--------------
+DROP DATABASE IF EXISTS Buffer_FishBase
+--------------
+
+--------------
+CREATE DATABASE IF NOT EXISTS Buffer_FishBase
+--------------
+
+--------------
+CREATE TABLE `AcceptedInfraSpecificTaxa` (
+`AcceptedTaxonID` varchar(50) PRIMARY KEY,
+`ParentSpeciesID` varchar(50) default NULL,
+`InfraSpeciesEpithet` varchar(50) default NULL,
+`InfraSpecificAuthorString` varchar(50) default NULL,
+`InfraSpecificMarker` varchar(10) default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`IsFossil` tinyint(1) default NULL,
+`LifeZone` varchar(50) default NULL,
+`AdditionalData` varchar(255) default NULL,
+`LTSSpecialist` varchar(255) default NULL,
+`LTSDate` varchar(50) default NULL,
+`InfraSpeciesURL` varchar(255) default NULL,
+`GSDTaxonGUI` varchar(255) default NULL,
+`GSDNameGUI`  varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1
+--------------
+
+--------------
+CREATE TABLE `AcceptedSpecies` (
+`AcceptedTaxonID` varchar(50) PRIMARY KEY,
+`Kingdom` varchar(50) default NULL,
+`Phylum` varchar(50) default NULL,
+`Class` varchar(50) default NULL,
+`Order` varchar(50) default NULL,
+`Superfamily` varchar(50) default NULL,
+`Family` varchar(50) default NULL,
+`Genus` varchar(50) default NULL,
+`SubGenusName` varchar(50) default NULL,
+`Species` varchar(50) default NULL,
+`AuthorString` varchar(50) default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`IsFossil` tinyint(1) default NULL,
+`LifeZone` varchar(50) default NULL,
+`AdditionalData` varchar(255) default NULL,
+`LTSSpecialist` varchar(255) default NULL,
+`LTSDate` varchar(50) default NULL,
+`SpeciesURL` varchar(255) default NULL,
+`GSDTaxonGUI` varchar(255) default NULL,
+`GSDNameGUI` varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1
+--------------
+
+--------------
+CREATE TABLE `CommonNames` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`CommonName` varchar(255) NOT NULL,
+`Transliteration` varchar(255) default NULL,
+`Language` varchar(50) default NULL,
+`Country`  varchar(255) default NULL,
+`Area`  varchar(255) default NULL,
+`ReferenceID` varchar(50) default NULL,
+PRIMARY KEY (`record_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1
+--------------
+
+--------------
+CREATE TABLE `Distribution` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`Distribution` text NOT NULL,
+`StandardInUse` varchar(50) default NULL,
+`DistributionStatus` varchar(50) default NULL,
+PRIMARY KEY (`record_id`) 
+) ENGINE=MyISAM DEFAULT CHARSET=latin1
+--------------
+
+--------------
+CREATE TABLE `References` (
+`ReferenceID` varchar(50) PRIMARY KEY,
+`Authors` varchar(255) default NULL,
+`Year` varchar(255) default NULL,
+`Title` varchar(255) NOT NULL,
+`Details` varchar(255) default NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1
+--------------
+
+--------------
+CREATE TABLE `NameReferencesLinks` (
+`ID` integer(10) PRIMARY KEY,
+`ReferenceType` varchar(50) default NULL,
+`ReferenceID` varchar(50) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=latin1
+--------------
+
+--------------
+CREATE TABLE `SourceDatabase` (
+`record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+`DatabaseFullName` varchar(255) NOT NULL,
+`DatabaseShortName` varchar(50) NOT NULL,
+`DatabaseVersion` varchar(5) NOT NULL,
+`ReleaseDate` varchar(50) NOT NULL,
+`AuthorsEditors` varchar(255) NOT NULL,
+`TaxonomicCoverage` varchar(255) NOT NULL,
+`GroupNameInEnglish` varchar(255) NOT NULL,
+`Abstract` text NOT NULL,
+`Organisation` varchar(255) NOT NULL,
+`HomeURL` varchar(255) default NULL,
+`Coverage` varchar(50) default NULL,
+`Completeness` integer(3) default NULL,
+`Confidence` integer(1) default NULL,
+`LogoFileName`  varchar(255) default NULL,
+`ContactPerson` varchar(255) NOT NULL,
+PRIMARY KEY (`record_id`) 
+) ENGINE=MyISAM DEFAULT CHARSET=latin1
+--------------
+
+--------------
+CREATE TABLE `Synonyms` (
+`ID` integer(10) PRIMARY KEY,
+`AcceptedTaxonID` varchar(50) NOT NULL,
+`Genus` varchar(50) NOT NULL,
+`SubGenusName` varchar(50) default NULL,
+`Species` varchar(50) NOT NULL,
+`AuthorString` varchar(50) default NULL,
+`InfraSpecies` varchar(50) default NULL,
+`InfraSpecificMarker` varchar(50) default NULL,
+`InfraSpecificAuthorString`  varchar(50) default NULL,
+`GSDNameStatus` varchar(50) default NULL,
+`Sp2000NameStatus` varchar(50) default NULL,
+`GSDNameGUI` varchar(255) default NULL 
+) ENGINE=MyISAM DEFAULT CHARSET=latin1
+--------------
+
+--------------
+LOAD DATA LOCAL INFILE 'AcceptedInfraSpecificTaxa.csv' INTO TABLE `AcceptedInfraSpecificTaxa` FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"' LINES TERMINATED BY '\n' IGNORE 1 LINES 
+(`AcceptedTaxonID`, `ParentSpeciesID`, `InfraSpeciesEpithet`, `InfraSpecificAuthorString`,  `InfraSpecificMarker`, `GSDNameStatus`,  `Sp2000NameStatus`, `IsFossil`, `LifeZone`, `AdditionalData`, `LTSSpecialist`, `LTSDate`, `InfraSpeciesURL`, `GSDTaxonGUI`, `GSDNameGUI`)
+--------------
+
+Initial database created. Creating database Assembly_FishBase in assembly schema
+--------------
+DROP DATABASE IF EXISTS Assembly_FishBase
+--------------
+
+--------------
+CREATE DATABASE IF NOT EXISTS Assembly_FishBase
+--------------
+
+--------------
+SET foreign_key_checks = 0
+--------------
+
+--------------
+DROP TABLE IF EXISTS `databases`
+--------------
+
+--------------
+CREATE TABLE  `databases` (
+  `database_name_displayed` varchar(125) DEFAULT NULL,
+  `record_id` int(10) NOT NULL AUTO_INCREMENT,
+  `database_name` varchar(150) DEFAULT NULL,
+  `database_full_name` varchar(100) NOT NULL DEFAULT '',
+  `web_site` longtext,
+  `organization` longtext,
+  `contact_person` varchar(255) DEFAULT NULL,
+  `taxa` varchar(255) DEFAULT NULL,
+  `taxonomic_coverage` longtext,
+  `abstract` longtext,
+  `version` varchar(255) DEFAULT NULL,
+  `release_date` date DEFAULT '0000-00-00',
+  `SpeciesCount` int(11) DEFAULT 0,
+  `SpeciesEst` int(11) DEFAULT 0,
+  `authors_editors` longtext,
+  `accepted_species_names` int(10) DEFAULT 0,
+  `accepted_infraspecies_names` int(10) DEFAULT 0,
+  `species_synonyms` int(10) DEFAULT 0,
+  `infraspecies_synonyms` int(10) DEFAULT 0,
+  `common_names` int(10) DEFAULT 0,
+  `total_names` int(10) DEFAULT 0,
+  `is_new` tinyint(1) NOT NULL DEFAULT 0,
+  PRIMARY KEY (`record_id`),
+  KEY `database_name` (`database_name`)
+) ENGINE=InnoDB
+--------------
+
+--------------
+DROP TABLE IF EXISTS `families`
+--------------
+
+--------------
+CREATE TABLE  `families` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `hierarchy_code` varchar(250) NOT NULL,
+  `kingdom` varchar(50) NOT NULL DEFAULT 'Not Assigned',
+  `phylum` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `class` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `order` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `family` varchar(50) NOT NULL DEFAULT ' Not Assigned ',
+  `superfamily` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  `family_code` varchar(50) NOT NULL,
+  PRIMARY KEY (`record_id`),
+
+KEY (`family_code`),
+CONSTRAINT families_link_to_GSD_db 
+FOREIGN KEY (`database_id`) REFERENCES `databases` (`record_id`)
+ON DELETE CASCADE ON UPDATE CASCADE,
+  KEY `kingdom` (`kingdom`),
+  KEY `phylum` (`phylum`),
+  KEY `class` (`class`),
+  KEY `order` (`order`),
+  KEY `family` (`family`),
+  KEY `superfamily` (`superfamily`)
+) ENGINE=InnoDB
+--------------
+
+--------------
+DROP TABLE IF EXISTS `sp2000_statuses`
+--------------
+
+--------------
+CREATE TABLE  `sp2000_statuses` (
+  `record_id` int(1) NOT NULL AUTO_INCREMENT,
+  `sp2000_status` varchar(50) NOT NULL DEFAULT '',
+  PRIMARY KEY (`record_id`)
+) ENGINE=InnoDB
+--------------
+
+--------------
+DROP TABLE IF EXISTS `scientific_names`
+--------------
+
+--------------
+CREATE TABLE  `scientific_names` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `web_site` longtext,
+  `genus` varchar(50) DEFAULT NULL,
+  `subgenus` varchar(50) DEFAULT NULL,
+  `species` varchar(60) DEFAULT NULL,
+  `infraspecies_parent_name_code` varchar(42) DEFAULT NULL,
+  `infraspecies` varchar(50) DEFAULT NULL,
+  `infraspecies_marker` varchar(50) DEFAULT NULL,
+  `author` varchar(100) DEFAULT NULL,
+  `accepted_name_code` varchar(42) DEFAULT NULL,
+  `comment` longtext,
+  `scrutiny_date` text,
+  `sp2000_status_id` int(1) DEFAULT NULL,
+  `database_id` int(10) DEFAULT NULL,
+  `specialist_id` int(10) DEFAULT NULL,
+  `family_id` int(10) DEFAULT NULL,
+  `specialist_code` varchar(50) DEFAULT NULL,
+  `family_code` varchar(50) DEFAULT NULL,
+  `is_accepted_name` int(1) DEFAULT NULL,
+  `GSDTaxonGUI` longtext,
+  `GSDNameGUI` longtext,
+  PRIMARY KEY (`record_id`,`name_code`),
+KEY `database_id` (`database_id`),
+  KEY `family_id` (`family_id`),
+  KEY `species` (`species`),
+  KEY `infraspecies` (`infraspecies`),
+  KEY `accepted_name_code` (`accepted_name_code`),
+KEY `infraspecies_parent_name_code` (`infraspecies_parent_name_code`),
+  KEY `name_code1` (`name_code`,`family_id`),
+  KEY `record_id` (`record_id`,`family_id`),
+  KEY `genus` (`genus`,`species`,`infraspecies`),
+  KEY `sp2000_status_id` (`sp2000_status_id`),
+  KEY `sp2000_status_id_2` (`sp2000_status_id`,`database_id`,`infraspecies`),
+CONSTRAINT scnames_link_to_GSD_db 
+FOREIGN KEY (`database_id`) REFERENCES `databases` (`record_id`)
+ON DELETE CASCADE ON UPDATE CASCADE,
+CONSTRAINT scnames_link_to_families 
+FOREIGN KEY (`family_code`) REFERENCES `families` (`family_code`)
+ON DELETE CASCADE ON UPDATE CASCADE,
+CONSTRAINT sp2000_statuses_to_scientific_names
+FOREIGN KEY (`sp2000_status_id`) REFERENCES `sp2000_statuses` (`record_id`)
+ON UPDATE CASCADE,
+CONSTRAINT acc_names_to_synonyms 
+FOREIGN KEY (`accepted_name_code`) REFERENCES `scientific_names` (`name_code`)
+ON DELETE CASCADE,
+CONSTRAINT acc_names_to_infraspecies 
+FOREIGN KEY (`infraspecies_parent_name_code`) REFERENCES `scientific_names` (`name_code`)
+ON DELETE CASCADE
+) ENGINE=InnoDB
+--------------
+
+--------------
+DROP TABLE IF EXISTS `common_names`
+--------------
+
+--------------
+CREATE TABLE  `common_names` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL DEFAULT '',
+  `common_name` varchar(700) NOT NULL,
+  `transliteration` varchar(700),
+  `language` varchar(25) NOT NULL,
+  `country` varchar(44) NOT NULL DEFAULT '',
+  `area` varchar(50) DEFAULT NULL,
+  `reference_id` int(10) DEFAULT '0',
+  `database_id` int(10) NOT NULL,
+  `is_infraspecies` int(1) NOT NULL DEFAULT '0',
+  `reference_code` varchar(50) DEFAULT NULL,
+PRIMARY KEY (`record_id`),
+CONSTRAINT link_to_GSD_db 
+FOREIGN KEY (`database_id`) REFERENCES `databases` (`record_id`)
+ON DELETE CASCADE ON UPDATE CASCADE,
+  KEY `common_name` (`common_name`),
+  KEY `language` (`language`,`common_name`,`name_code`),
+  KEY `common_name_2` (`common_name`,`name_code`,`database_id`),
+  KEY `name_code` (`name_code`),
+CONSTRAINT link_to_scnames
+FOREIGN KEY (`name_code`) REFERENCES `scientific_names` (`name_code`)
+ON DELETE CASCADE ON UPDATE CASCADE,
+  KEY `common_name_3` (`common_name`,`database_id`)
+) ENGINE=InnoDB
+--------------
+
+--------------
+DROP TABLE IF EXISTS `distribution`
+--------------
+
+--------------
+CREATE TABLE  `distribution` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `distribution` longtext,
+  `StandardInUse` varchar(255) DEFAULT NULL,
+  `DistributionStatus` ENUM ('Native', 'Domesticated', 'Alien', 'Uncertain', 'Alien-Domesticated','Native-Domesticated'),
+`database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`),
+KEY `database_id` (`database_id`),
+CONSTRAINT distribution_link_to_scnames
+FOREIGN KEY (`name_code`) REFERENCES `scientific_names` (`name_code`)
+ON DELETE CASCADE ON UPDATE CASCADE,
+CONSTRAINT distribution_link_to_GSD_db 
+FOREIGN KEY (`database_id`) REFERENCES `databases` (`record_id`)
+ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB
+--------------
+
+--------------
+DROP TABLE IF EXISTS `lifezone`
+--------------
+
+--------------
+CREATE TABLE  `lifezone` (
+  `record_id` int(11) NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL,
+  `lifezone` ENUM ('Marine', 'Brackish', 'Freshwater', 'Terrestrial', 'Unknown', 'Marine-Brackish', 'Marine-Freshwater', 'Brackish-Freshwater', 'Marine-Terrestrial', 'Freshwater-Terrestrial'),
+`database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`),
+KEY `database_id` (`database_id`),
+CONSTRAINT lifezone_link_to_scnames
+FOREIGN KEY (`name_code`) REFERENCES `scientific_names` (`name_code`)
+ON DELETE CASCADE ON UPDATE CASCADE,
+CONSTRAINT lifezone_link_to_GSD_db 
+FOREIGN KEY (`database_id`) REFERENCES `databases` (`record_id`)
+ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB
+--------------
+
+--------------
+DROP TABLE IF EXISTS `scientific_name_references`
+--------------
+
+--------------
+CREATE TABLE  `scientific_name_references` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name_code` varchar(42) NOT NULL DEFAULT '',
+  `reference_type` varchar(10) DEFAULT NULL,
+  `reference_id` int(10) DEFAULT '0',
+  `reference_code` varchar(50) DEFAULT NULL,
+`database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+  KEY `name_code` (`name_code`,`reference_id`,`reference_type`),
+  KEY `name_code_2` (`name_code`,`reference_type`),
+CONSTRAINT scname_references_link_to_scnames
+FOREIGN KEY (`name_code`) REFERENCES `scientific_names` (`name_code`)
+ON DELETE CASCADE ON UPDATE CASCADE,
+CONSTRAINT scinamerefs_link_to_GSD_db 
+FOREIGN KEY (`database_id`) REFERENCES `databases` (`record_id`)
+ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB
+--------------
+
+--------------
+DROP TABLE IF EXISTS `references`
+--------------
+
+--------------
+CREATE TABLE  `references` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `author` varchar(200) DEFAULT NULL,
+  `year` varchar(50) DEFAULT NULL,
+  `title` longtext,
+  `source` longtext,
+  `database_id` int(10) NOT NULL,
+  `reference_code` varchar(50) DEFAULT NULL,
+  PRIMARY KEY (`record_id`),
+CONSTRAINT references_link_to_GSD_db 
+FOREIGN KEY (`database_id`) REFERENCES `databases` (`record_id`)
+ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB
+--------------
+
+--------------
+DROP TABLE IF EXISTS `specialists`
+--------------
+
+--------------
+CREATE TABLE  `specialists` (
+  `record_id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `specialist_name` varchar(255) NOT NULL DEFAULT '',
+  `specialist_code` varchar(50) DEFAULT NULL,
+  `database_id` int(10) NOT NULL,
+  PRIMARY KEY (`record_id`),
+CONSTRAINT specialists_link_to_GSD_db 
+FOREIGN KEY (`database_id`) REFERENCES `databases` (`record_id`)
+ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB
+--------------
+
+--------------
+INSERT INTO `sp2000_statuses` 
+VALUES (1,'accepted name'),
+(2,'ambiguous synonym'),
+(3,'misapplied name'),
+(4,'provisionally accepted name'),
+(5,'synonym')
+--------------
+
+--------------
+SET foreign_key_checks = 1
+--------------
+
+
+Creation of the assembly database completed.
+
+Starting structural transformations (ACEF3 to ACI)
+--------------
+SET @dbid = 10
+--------------
+
+--------------
+SET @dbabbr = 'Fis-'
+--------------
+
+--------------
+SET @dbtouse = 'Buffer_FishBase'
+--------------
+
+--------------
+SET foreign_key_checks = 0
+--------------
+
+--------------
+TRUNCATE TABLE `databases`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `databases` 
+ SELECT
+ CONCAT(`DatabaseShortName`, ': ', `DatabaseFullName`)  AS `database_name_displayed`,
+ @dbid AS `record_id`,
+ `DatabaseShortName` AS `database_name`,
+ `DatabaseFullName` AS `database_full_name`,
+  `HomeURL` AS `web_site`,
+  `Organisation` AS `organization`,
+  `ContactPerson` AS `contact_person`,
+  `GroupNameInEnglish` AS `taxa`,
+  `TaxonomicCoverage` AS `taxonomic_coverage`,
+  `Abstract` AS `abstract`,
+  `DatabaseVersion` AS `version`,
+  `ReleaseDate` AS `release_date`,
+  `Coverage` AS `SpeciesCount`,
+  `Completeness` AS `SpeciesEst`,
+  `AuthorsEditors` AS `authors_editors`,
+  NULL AS `accepted_species_names`,
+  NULL AS `accepted_infraspecies_names`,
+  NULL AS `species_synonyms`,
+  NULL AS `infraspecies_synonyms`,
+  NULL AS `common_names`,
+  NULL AS `total_names`,
+  NULL AS `is_new`
+  FROM ",
+@dbtouse,
+".`SourceDatabase`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `distribution`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `distribution` 
+ SELECT
+ NULL AS `record_id`,
+ CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
+ `Distribution` AS `distribution`,
+ `StandardInUse` AS `StandardInUse`, 
+ `DistributionStatus` AS `DistributionStatus`,
+@dbid AS `database_id`
+ FROM ",
+@dbtouse,
+".`Distribution`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `families`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `families`
+SELECT DISTINCT
+NULL AS `record_id`,
+NULL AS `hierarchy_code`,
+`Kingdom` AS `kingdom`,
+`Phylum` AS `phylum`,
+`Class` AS `class`,
+`Order` AS `order`,
+`Family` AS `family`,
+`Superfamily` AS `superfamily`,
+@dbid AS `database_id`,
+NULL AS `family_code`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+UPDATE `families` SET `family_code` = CONCAT(@dbabbr,record_id)
+--------------
+
+--------------
+TRUNCATE TABLE `specialists`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `specialists`
+SELECT DISTINCT 
+NULL  AS `record_id`,
+`LTSSpecialist` AS `specialist_name`,
+NULL AS `specialist_code`,
+@dbid AS `database_id`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies` 
+WHERE `LTSSpecialist` IS NOT NULL OR 
+`LTSSpecialist` != ''")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+UPDATE `specialists` SET `specialist_code` = CONCAT(@dbabbr,record_id)
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_names`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
+`SpeciesURL` AS `web_site`,
+`Genus` AS `genus`,
+`SubGenusName` AS `subgenus`,
+`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+NULL  AS `infraspecies`,
+NULL  AS `infraspecies_marker`,
+`AuthorString` AS `author`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `accepted_name_code`,
+`AdditionalData` AS `comment`,
+`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+`specialists`.`record_id` AS `specialist_id`,
+`families`.`record_id` AS `family_id`,
+`specialists`.`specialist_code` AS `specialist_code`,
+`families`.`family_code` AS `family_code`,
+1 AS `is_accepted_name`,
+`GSDTaxonGUI` AS `GSDTaxonGUI`,
+`GSDNameGUI` AS `GSDNameGUI`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies` AcceptedSpecies
+LEFT OUTER JOIN `families` ON 
+(`AcceptedSpecies`.`Kingdom` = `families`.`kingdom` AND
+`AcceptedSpecies`.`Phylum` = `families`.`phylum` AND
+`AcceptedSpecies`.`Class` = `families`.`class` AND
+`AcceptedSpecies`.`Order` = `families`.`order` AND
+`AcceptedSpecies`.`Superfamily` = `families`.`superfamily` AND
+`AcceptedSpecies`.`Family` = `families`.`family`)
+LEFT OUTER JOIN `specialists` ON
+`AcceptedSpecies`.`LTSSpecialist` = `specialists`.`specialist_name`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`AcceptedSpecies`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
+WHERE `AcceptedSpecies`.`IsFossil` = 0")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `lifezone`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `lifezone`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`AcceptedTaxonID`) AS `name_code`,
+`LifeZone` AS `lifezone`,
+@dbid AS `database_id`
+FROM ",
+@dbtouse,
+".`AcceptedSpecies`
+WHERE `LifeZone` IN('marine','freshwater','Marine','Freshwater')")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT(@dbabbr,`Synonyms`.`ID`) AS `name_code`,
+NULL AS `web_site`,
+`Synonyms`.`Genus` AS `genus`,
+`Synonyms`.`SubGenusName` AS `subgenus`,
+`Synonyms`.`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+`Synonyms`.`InfraSpecies` AS `infraspecies`,
+`Synonyms`.`InfraSpecificMarker` AS `infraspecies_marker`,
+`Synonyms`.`AuthorString` AS `author`,
+CONCAT(@dbabbr,`Synonyms`.`AcceptedTaxonID`) AS `accepted_name_code`,
+NULL AS `comment`,
+NULL AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+@dbid AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+NULL AS `specialist_code`,
+NULL AS `family_code`,
+0 AS `is_accepted_name`,
+NULL AS `GSDTaxonGUI`,
+`Synonyms`.`GSDNameGUI` AS `GSDNameGUI` 
+FROM ",
+@dbtouse,
+".`Synonyms` Synonyms
+LEFT OUTER JOIN `sp2000_statuses` ON
+`Synonyms`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `common_names`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `common_names` 
+SELECT
+NULL, 
+CONCAT(@dbabbr, `AcceptedTaxonID`) AS `name_code`,
+`CommonName` AS `common_name`,
+`Transliteration` AS `transliteration`,
+`Language` AS `language`,
+`Country` AS `country`,
+`Area` AS `area`,
+ NULL AS `reference_ID`,
+@dbid AS `database_ID`,
+ NULL AS `is_infraspecies`,
+ `ReferenceID` AS `reference_code`
+ FROM ",
+@dbtouse,
+".`CommonNames`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `references`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `references` 
+SELECT
+NULL AS `record_id`, 
+`Authors` AS `author`,
+`Year` AS `year`,
+NULL AS `title`,
+`Title` AS `source`,
+@dbid AS `database_id`,
+CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`
+ FROM ",
+@dbtouse,
+".`References`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_name_references`
+--------------
+
+--------------
+SET @query = CONCAT("
+INSERT INTO `scientific_name_references` 
+SELECT
+NULL AS `record_id`,
+CONCAT(@dbabbr, `ID`) AS `name_code`,	
+`ReferenceType` AS `reference_type`,	
+NULL AS `reference_id`,
+CONCAT(@dbabbr, `ReferenceID`) AS `reference_code`,
+@dbid AS `database_id`
+ FROM ",
+@dbtouse,
+".`NameReferencesLinks`")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+--------------
+SET foreign_key_checks = 1
+--------------
+
+--------------
+TRUNCATE TABLE `scientific_names`
+--------------
+
+--------------
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT('FishBase',`AcceptedTaxonID`) AS `name_code`,
+`SpeciesURL` AS `web_site`,
+`Genus` AS `genus`,
+`SubGenusName` AS `subgenus`,
+`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+NULL  AS `infraspecies`,
+NULL  AS `infraspecies_marker`,
+`AuthorString` AS `author`,
+NULL  AS `accepted_name_code`,
+`AdditionalData` AS `comment`,
+`LTSDate` AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+10 AS `database_id`,
+`specialists`.`record_id` AS `specialist_id`,
+`families`.`record_id` AS `family_id`,
+CONCAT('FishBase',`specialists`.`specialist_code`) AS `specialist_code`,
+CONCAT('FishBase',`families`.`family_code`) AS `family_code`,
+1 AS `is_accepted_name`,
+`GSDTaxonGUI` AS `GSDTaxonGUI`,
+`GSDNameGUI` AS `GSDNameGUI`
+FROM `Buffer_FishBase`.`AcceptedSpecies` AcceptedSpecies
+LEFT OUTER JOIN `families` ON 
+(`AcceptedSpecies`.`Kingdom` = `families`.`kingdom` AND
+`AcceptedSpecies`.`Phylum` = `families`.`phylum` AND
+`AcceptedSpecies`.`Class` = `families`.`class` AND
+`AcceptedSpecies`.`Order` = `families`.`order` AND
+`AcceptedSpecies`.`Superfamily` = `families`.`superfamily` AND
+`AcceptedSpecies`.`Family` = `families`.`family`)
+LEFT OUTER JOIN `specialists` ON
+`AcceptedSpecies`.`LTSSpecialist` = `specialists`.`specialist_name`
+LEFT OUTER JOIN `sp2000_statuses` ON
+`AcceptedSpecies`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
+WHERE `AcceptedSpecies`.`IsFossil` = 0
+--------------
+
+--------------
+INSERT INTO `scientific_names`
+SELECT 
+NULL AS `record_id`,
+CONCAT('FishBase',`Synonyms`.`ID`) AS `name_code`,
+NULL AS `web_site`,
+`Synonyms`.`Genus` AS `genus`,
+`Synonyms`.`SubGenusName` AS `subgenus`,
+`Synonyms`.`Species` AS `species`,
+NULL AS `infraspecies_parent_name_code`,
+`Synonyms`.`InfraSpecies` AS `infraspecies`,
+`Synonyms`.`InfraSpecificMarker` AS `infraspecies_marker`,
+`Synonyms`.`AuthorString` AS `author`,
+CONCAT('FishBase',`Synonyms`.`AcceptedTaxonID`) AS `accepted_name_code`,
+NULL AS `comment`,
+NULL AS `scrutiny_date`,
+`sp2000_statuses`.`record_id` AS `sp2000_status_id`,
+10 AS `database_id`,
+NULL AS `specialist_id`,
+NULL AS `family_id`,
+NULL AS `specialist_code`,
+NULL AS `family_code`,
+0 AS `is_accepted_name`,
+NULL AS `GSDTaxonGUI`,
+`Synonyms`.`GSDNameGUI` AS `GSDNameGUI` 
+FROM `Buffer_FishBase`.`Synonyms` Synonyms
+LEFT OUTER JOIN `sp2000_statuses` ON
+`Synonyms`.`Sp2000NameStatus` = `sp2000_statuses`.`sp2000_status`
+--------------
+
+--------------
+TRUNCATE TABLE `common_names`
+--------------
+
+--------------
+INSERT INTO `common_names` 
+SELECT
+NULL, 
+`AcceptedTaxonID`,
+`CommonName`,
+`Transliteration`,
+`Language`,
+`Country`,
+`Area`,
+ NULL,
+ 10,
+ NULL,
+ `ReferenceID`
+ FROM `Buffer_FishBase`.`CommonNames`
+--------------
+
+--------------
+*/
+--------------
+
+
+Data Loaded.
+</pre><hr><b>Backing up...</b>
+<pre>
+Creating directory  18_15_50_23Jan2012
+Backing up files
+</pre><hr><b>Executing local editorial checks</b>
+<pre>
+Initiating buffer creation - this may take a while depending on size of the dataset...
+
+Starting local editorial transformations
+--------------
+DELETE FROM `common_names` WHERE `common_name` IS NULL OR `common_name` = ""
+--------------
+
+--------------
+DELETE FROM `distribution` WHERE `distribution` IS NULL OR `distribution` = ""
+--------------
+
+--------------
+DELETE FROM `families` WHERE `kingdom` != 'Animalia'
+--------------
+
+--------------
+DELETE FROM `references` WHERE `title` IS NULL OR `title` = ""
+--------------
+
+--------------
+DELETE FROM `specialists` WHERE `specialist_name` IS NULL OR `specialist_name` = ""
+--------------
+
+
+Transformations Completed.
+</pre><hr><b>Replacing sectors in Assembly Global database</b>
+<pre>
+Initiating buffer creation - this may take a while depending on size of the dataset...
+
+Starting Sector Management
+--------------
+SET @dbid = 10
+--------------
+
+--------------
+SET @dbtouse = 'Assembly_Global'
+--------------
+
+--------------
+SET @query = CONCAT("
+DELETE FROM ",
+@dbtouse,
+".`databases` WHERE `record_id` = @dbid")
+--------------
+
+--------------
+PREPARE stmt FROM @query
+--------------
+
+--------------
+EXECUTE stmt
+--------------
+
+--------------
+DEALLOCATE PREPARE stmt
+--------------
+
+
+Transformations Completed.
+</pre><hr><b>Chain completed</b>
+</body></html>

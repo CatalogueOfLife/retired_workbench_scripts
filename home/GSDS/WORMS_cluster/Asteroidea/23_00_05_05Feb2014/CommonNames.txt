@@ -1,0 +1,159 @@
+AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
+716927	Numeri-itomaki-hitode-zoku				Japanese	166078	
+123987	stella cuscinetto				Italian		
+123878	stella spinosa				Italian	163039	
+124094	stella arancio				Italian		
+123985	piede di oca				Italian	163043	
+124101	stella serpente				Italian		
+123803	martasteria				Italian		
+123803	stella marina spinosa				Italian		
+125161	stella rossa				Italian		
+123795	stella marina variabile				Italian		
+123795	stella marina spinosa minore				Italian		
+123795	stella pungente minore				Italian		
+123776	gemeiner Seestern				German	1116	
+123987	Fünfeckstern				German		
+123867	nordischer Kammstern				German	1116	
+124094	glatter Seestern				German		
+124043	knotiger Seestern				German	147412	
+123803	Eisseestern				German	163039	
+124154	gewöhnlicher Sonnenstern				German	147412	
+125161	roter Seestern				German		
+125166	kurzarmiger Seestern				German	147412	
+123795	Dornenstern Blauwestekelster				German		
+124160	gelber Sonnenstern				German	147412	
+123987	yll deti jastëkor				Albanian	151643	
+123856	ylli i madh krëhëror				Albanian	151643	
+123878	yll deti me thepa				Albanian	151643	
+123985	ylli këmbëpatë				Albanian	151643	
+124101	yll deti i purpur				Albanian	151643	
+124101	ylli krahëgjarpër				Albanian	151643	
+123803	ylli i madh me papilla				Albanian	151643	
+123803	estrella verda				Catalan	163039	
+125161	estrella vermella				Catalan	163039	
+123795	estrella d'espines primes				Catalan	163039	
+124101	estrella porprada				Catalan	163039	
+123985	peu d'ànec				Catalan	163043	
+123856	estrella de sorra				Catalan	163039	
+123987	estrelleta				Catalan	163039	
+123989	estrella de capità petita				Catalan	163039	
+213289	crown-of-thorns				English		
+123776	common starfish				English	1116	
+123776	common sea star				English		
+123987	starlet				English	163039	
+123987	cushion star				English	163039	
+123989	cushion star				English	163039	
+123867	sand star				English	1116	
+124094	smooth starfish 				English		
+213319	banded bubble star				English		
+367951	Luzon seastar				English		
+207610	azure sea star				English		
+291604	reef starfish				English		
+123813	rosy starfish				English		
+240757	pink stars				English		
+240755	ochre stars				English		
+123985	goose foot starfish				English	614	
+123970	Bloody Henry starfish				English	10085	
+123974	blood star				English	2901	
+123974	polar sea star				English	2901	
+123974	green slender sea star				English	2901	
+123974	polar slender sea star				English	2901	
+212298	cushion star				English		
+123803	spiny starfish				English	163039	
+124154	common sun star				English	147411	
+125161	red starfish				English	163039	
+125166	red cushion stat				English	614	
+123795	blue spiny starfish  				English		
+124160	purple sun star				English	147411	
+123776	astérie				French	1116	
+123776	étoile de mer				French	9269	
+123776	étoile de mer commune				French	123768	
+123776	astérie boréale commune				French	145895	
+124094	étoile de mer lisse  				French		
+123985	patte d'oie				French	9269	
+123985	pied d'oie				French	9269	
+123985	anséropode				French	9269	
+123985	étoile palmée				French	9269	
+123974	étoile de cuir boréale				French	9269	
+123974	étoile de mer sanguine				French	9269	
+123974	petit étoile rouge-sang				French	145894	
+125154	grande astérie polaire				French	145895	
+123803	astérie				French	163039	
+123803	étoile de mer glaciàire				French	163039	
+125161	étoile de mer rouge				French	163039	
+123987	astérie bossue				French		
+123867	étoile-peigne				French	1116	
+123795	étoile de mer épineuse				French		
+124160	gul solsjöstjärna				Swedish	147411	
+123867	kamsjöstjärna				Swedish	147411	
+125166	kuddsjöstjärna				Swedish	165516	
+125167	nåldyna				Swedish	165516	
+125170	raspsjöstjärna				Swedish	165516	
+123825	skräpsjöstjärna				Swedish	147411	
+123803	ishavssjöstjärna				Swedish		
+123851	nålsjöstjärna				Swedish	147411	
+124154	röd solsjöstjärna				Swedish	147411	
+125158	tjockarmad sjöstjärna				Swedish	165516	
+369167	smalarmad sjöstjärna				Swedish	147411	
+123803	taggsjöstjärna				Swedish	147411	
+124020	sjökex				Swedish	147411	
+123908	andromedasjöstjärna				Swedish	147411	
+124147	spetsig knubbsjöstjärna				Swedish	147411	
+124151	femhörnig knubbsjöstjärna				Swedish	147411	
+123971	nätkrullstjärna				Swedish	147411	
+123973	porkrullstjärna				Swedish	147411	
+124043	hästsjöstjärna				Swedish	147411	
+124085	ledsjöstjärna				Swedish	147411	
+123920	sjuarmad sprödstjärna				Swedish	147411	
+123813	rutig sjöstjärna				Swedish	147411	
+123776	vanlig sjöstjärna				Swedish	165516	
+254497	Noord-Atlantische zeester				Dutch		
+123776	zeester				Dutch	61	
+123776	gewone zeester				Dutch	685	
+123987	vijfhoekige zeester				Dutch		
+123867	kleine kamster				Dutch	1116	
+123867	kamster				Dutch	685	
+123868	Johnstons kamster				Dutch		
+124094	gladde zeester				Dutch		
+123985	ganzenvoetje				Dutch	685	
+124154	zonnester				Dutch	685	
+125161	oranjerode zeester				Dutch		
+123803	Ijszeester				Dutch		
+124160	negenvoeter				Dutch	685	
+124160	glattsolstjerne				Norwegian Bokmål	147411	
+124055	storsjøkjeks				Norwegian Bokmål	147411	
+123673	brisingasjøstjerne				Norwegian Bokmål	147411	
+123803	piggkorstroll				Norwegian Bokmål	147411	
+124154	piggsolstjerne				Norwegian Bokmål	147411	
+123915	muddersjøstjerne				Norwegian Bokmål	147411	
+124020	sjøkjeks				Norwegian Bokmål	147411	
+123908	andromedasjøstjerne				Norwegian Bokmål	147411	
+124043	knuddersjøstjerne				Norwegian Bokmål	147411	
+123920	sjuarmsjøstjerne				Norwegian Bokmål	147411	
+123813	rødsjøstjerne				Norwegian Bokmål	147411	
+123867	kamsjøstjerne				Norwegian Bokmål	147411	
+123776	Punameritähti				Finnish		
+124043	knuddersjøstjerne				Norwegian Nynorsk	147411	
+123920	sjuarmsjøstjerne				Norwegian Nynorsk	147411	
+123813	raudsjøstjerne				Norwegian Nynorsk	147411	
+123867	kamsjøstjerne				Norwegian Nynorsk	147411	
+124020	sjøkjeks				Norwegian Nynorsk	147411	
+123908	andromedasjøstjerne				Norwegian Nynorsk	147411	
+124154	piggsolstjerne				Norwegian Nynorsk	147411	
+123915	muddersjøstjerne				Norwegian Nynorsk	147411	
+123673	brisingasjøstjerne				Norwegian Nynorsk	147411	
+123803	piggkorstroll				Norwegian Nynorsk	147411	
+124055	storsjøkjeks				Norwegian Nynorsk	147411	
+124160	glattsolstjerne				Norwegian Nynorsk	147411	
+123776	estrella de mar 				Spanish		
+123795	estrella de espinas finas				Spanish	163039	
+123795	estrella espinosa azul 				Spanish		
+123803	estrella espinosa común				Spanish	163039	
+125161	estrella espinosa 				Spanish	163039	
+124101	estrella púrpura				Spanish	163039	
+124094	estrella de mar lisa				Spanish		
+123985	pata de ganso				Spanish	163043	
+123985	pie de ganso				Spanish	163043	
+123987	estrella de capitán				Spanish	163039	
+123989	estrella de capitán pequeña				Spanish	163039	
+123856	estrella de mar anaranjada				Spanish	163039	

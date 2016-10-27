@@ -1,0 +1,60 @@
+ReferenceID	Authors	Year	Title	Details	
+9269	Muller, Y.	2004	Faune et flore du littoral du Nord, du Pas-de-Calais et de la Belgique: inventaire. [Coastal fauna and flora of the Nord, Pas-de-Calais and Belgium: inventory]. Commission Régionale de Biologie Région Nord Pas-de-Calais: France. 307 pp.		
+129206	Pinder, Eberhard & Humphreys.	2006	New phallodrilines (Annelida: Clitellata: Tubificidae) from Western Australian groundwater. Zootaxa Volume: 1304 Pages: 31-48		
+163781	Lasserre, P.	1968	Présence du genre Achaeta Vejdovsky, 1877 (Oligochaeta, Enchytraeidae) dans les plages sableuses marines. Description de Achaeta littoralis n. sp. Bull. Mus. natn. Hist. nat., Paris (2) 39: 979-983, 1 fig. [English summary]		
+125705	Michaelsen W.,	1905	Die Oligochaeten der schwedischen Südpolar-Expedition. Wissenschaftliche Ergebnisse der schwedischen Südpolar-Expedition 1901-1903, 5, Lieferung 3: 1-12.		
+125711	Baker H. R. & Brinkhurst R. O.,	1981	A revision of the genus Monopylephorus and redefinition of the subfamilies Rhyacodrilinae and Branchiurinae (Tubificidae: Oligochaeta). Canadian Journal of Zoology, 59: 939-965.		
+58088	Baker, H. R.	1983	New species of Bathydrilus Cook (Oligochaeta Tubificidae) from British Columbia. Canadian Journal of Zoology 61(9): 2162-2167.		
+132784	Glasby, C.J.; Read, G.B.; Lee, K.E.; Blakemore, R.J.; Fraser, P.M.; Pinder, A.M.; Erséus, C.; Moser, W.E.; Burreson, E.M.; Govedich, F.R.; Davies, R.W.; Dawson, E.W.	2009	Phylum Annelida: bristleworms, earthworms, leeches, in: Gordon, D.P. (Ed.) (2009). New Zealand inventory of biodiversity: 1. Kingdom Animalia: Radiata, Lophotrochozoa, Deuterostomia.		
+54092	Baker, H. R.	1983	New species of Tubificoides Lastockin (Oligochaeta; Tubificidae) from the Pacific Northeast and the Arctic. Canadian Journal of Zoology 61(6): 1270-1283.		
+147411			PESI (A Pan-European Species directories Infrastructure) focal points		
+165516	Dyntaxa	2013	Swedish Taxonomic Database. Accessed at www.dyntaxa.se [15-01-2013].		
+67159	Erséus, Christer	1984	Taxonomy and phylogeny of the gutless Phallodrilinae (Oligochaeta, Tubificidae), with description of one new genus and twenty two new species. Zoologica Scripta 13: 239-272.		
+125702	Rota E. & Erséus C.,	1997	A re-examination of Grania monochaeta (Michaelsen) (Oligochaeta: Enchytraeidae), with descriptions of two new species from subantarctic South Georgia. Journal of Natural History, 31: 27-42.		
+3072	Trott, T.J.	2004	Cobscook Bay inventory: a historical checklist of marine invertebrates spanning 162 years. Northeastern Naturalist (Special Issue 2): 261 - 324.		
+163790	Brinkhurst, R. O. & Baker, H. R.	1979	A review of the marine Tubificidae (Oligochaeta) of North America. Canadian J. Zool. 57 (8): 1553-1569, illustr. [French summary].		
+155157			PESI - Pan-European Species directories Infrastructure		
+53892	Erséus, Christer	1987	Marine Limnodriloidinae (Oligochaeta, Tubificidae) from Italy, with description of two new species. Bollettino di Zoologia 54: 159-164.		
+125708	Erséus C. & Rota E.,	1996	Tubificidae (Oligochaeta) from the Ross Sea (Antarctica) with descriptions of one new genus and two new species. Polar Biol., 16: 491-496		
+129607	Wang & Erséus.	2003	Marine species of Ainudrilus and Heterodrilus (Oligochaeta: Tubificidae: Rhyacodrilinae) from Hainan Island in southern China. New Zealand Journal of marine and Freshwater Research 37 (1): 205-219		
+125703	Michaelsen W.,	1888	Die Oligochaeten von Süd-Georgien nach Ausbeute der Deutschen Station von 1882-83. Jahrbuch der Hamburgischen wissenschaftlicher Anstalten, 5: 53-73.		
+1318			UNESCO-IOC Register of Marine Organisms		
+1	Hayward, P.J.; Ryland, J.S. (Ed.)	1990	The marine fauna of the British Isles and North-West Europe: 1. Introduction and protozoans to arthropods. Clarendon Press: Oxford, UK. ISBN 0-19-857356-1. 627 pp.		
+163685	Knöller, F. H.	1935	Ökologische un systematische Untersuchungen über litorale und marine Oligochäeten der Kieler Bucht. Zool. Jahrb. Jena (Syst) 66,		
+1358	Erséus, C.; Healy, B.M.	2001	Oligochaeta, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+129324	Rota & Erséus.	2003	New records of Grania (Clitellata, Enchytraeidae) in the Northeast Atlantic (from Tromsø to the Canary Islands), with descriptions of seven new species. Sarsia 88 (3): 210-243		
+4189			Oligochaeta checklist for ERMS2		
+125700			Checklist of the antarctic Oligochaeta by Patrick Martin		
+61	Cattrijsse, A.; Vincx, M.	2001	Biodiversity of the benthos and the avifauna of the Belgian coastal waters: summary of data collected between 1970 and 1998. Sustainable Management of the North Sea. Federal Office for Scientific, Technical and Cultural Affairs: Brussel, Belgium. 48 pp.		
+131116	Pinder, A.M. and Halse, S.A.	2002	Two new species of <i>Ainudrilus</i> (Clitellata: Tubificidae) from south-western Australia, with notes on <i>Ainudrilus nharna</i> Pinder and Brinkhurst. Records of the Western Australian Museum 21, 1-7.		
+131024	Martinez-Ansemil, Giani & Sambugar.	2002	Oligochaetes from underground waters of Oman with descriptions of two new species of <i>Phreodrilidae</i> (Oligochaeta): <i>Antarctodrilus arabicus</i> n. sp. and <i>Phreodrilus stocki</i> n. sp. Contributions to Zoology 71 (4): 147-158		
+125706	Michaelsen W.,	1905	Die Oligochaeten der deutschen Südpolar-Expedition 1901-1903. Deutsche Südpolar-Expedition 1901-1903, 9, Zoologie I, 1-58.		
+128394	Erséus & Wang.	2005	Proceedings of the Twelfth International Marine Biological Workshop: the marine flora and fauna of Esperance, Western Australia: held in Esperance from 3 to 21 February 2003. 2 : 399-424		
+163256	Kallstenius, E.	1892	Eine neue Art der Oligochaetengattung Amphichaeta, Tauber. Biol. Fören. iv,		
+9419	Müller, O.F.	1776	Zoologica Danicae Prodromus seu Animalium Daniae et Norvegiae indigenarum characters, nomine, et synonyma imprimis popularium. Havniae. XXXII, 274 pp.		
+66485	Erséus, Christer	1993	Taxonomy of Capilloventer (Capilloventridae), a Little-Known Group of Aquatic Oligochaeta, with Descriptions of Two New Species. Journal of Natural History 27: 1029-1040.		
+125701	Rota E. & Erséus C.,	1996	Six new species of Grania (Oligochaeta, Enchytraeidae) from the Ross Sea, Antarctica. Antarctic Science, 8: 169-183.		
+42			ITIS database		
+125709	Erséus C.,	1994	Marine Tubificidae (Oligochaeta) of Antarctica, with descriptions of three new species of Phallodrilinae. Zoologica Scripta, 23: 217-224		
+14486	Oldevig H.	1961	A new Amphipod species from the South Sandwich Islands. Arkiv för Zoologi, 13, 2, 73-75.		
+663	Howson, C.M.; Picton, B.E. (Ed.)	1997	The species directory of the marine fauna and flora of the British Isles and surrounding seas. <i>Ulster Museum Publication</i>, 276. The Ulster Museum: Belfast, UK. ISBN 0-948150-06-8. vi, 508 (+ cd-rom) pp.		
+2930	Brunel, P., Bosse, L. & Lamarche, G.	1998	Catalogue of the marine invertebrates of the estuary and Gulf of St. Lawrence. Canadian Special Publication of Fisheries and Aquatic Sciences, 126. 405 p.		
+3042	Pollock, L.W.	1998	A practical guide to the marine animals of northeastern North America. Rutgers University Press. New Brunswick, New Jersey & London. 367 pp.		
+58087	Baker, H. R. and Erséus, Christer	1982	A new species of Bacescuella Hrabe (Oligochaeta: Tubificidae) from the Pacific coast of Canada. Canadian Journal of Zoology 60(8): 1951-1954.		
+132969			VLIZ Alien Species Consortium		
+172145	Sato, C.; Ohtaka, A.; Timm, T.	2009	Nais kisui sp. nov. (Annelida: Clitellata: Naididae) from Japan. Species Diversity, 14, 297–305.		
+47522	Hansson, H.G.	1998	NEAT (North East Atlantic Taxa): South Scandinavian marine Annelida check-list. Internet pdf Ed., Aug. 1998.		
+132823	BODC	2009	Species list from the British Oceanographic Data Centre.		
+127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
+154804	Eisen G.	1899	Enchytraeids. Harriman Alaska series. vol. I-V, VIII-XIV (1910)		
+1153			The Zoological Record: records of zoological literature relating chiefly to the year:  Zoological Society of London City:  London, UK		
+171226	Timm, T.	2013	Baltidrilus nom. nov., a substitute name for the genus Heterochaeta Claparède, 1863 (Annelida, Clitellata, Tubificidae) non Heterochaeta Westwood, 1843 (Insecta, Mantodea, Mantidae). Zootaxa, 3734(4): 499–500.		
+9271	Streftaris, N.; Zenetos, A.; Papathanassiou, E.	2005	Globalisation in marine ecosystems: the story of non-indigenous marine species across European seas. <i>Oceanogr. Mar. Biol. Ann. Rev. 43</i>: 419-453		
+171521	De Wit, P.; Rota, E.; Erséus, C.	2009	Grania (Annelida: Clitellata: Enchytraeidae) of the Great Barrier Reef, Australia, including four new species and a re-description of Grania trichaeta Jamieson, 1977. Zootaxa, 2165: 16–38.		
+172568	Erséus, C.	2008	A new species, Olavius ulrikae (Annelida: Clitellata: Tubificidae), re-assessment of a Western Australian gutless marine worm. Records of the Western Australian Museum, 24: 195-198.		
+125707	Rota E., Matamoros L. & Erséus C.,	2008	In search of Marionina (Clitellata, Enchytraeidae): A taxonomic history of the genus and a re-description of the type species Pachydrilus georgianus Michaelsen, 1888. Italian Journal of Zoology, iFirst Article, 1-2		
+128395	Erséus, Giere, Dreyer & Bailey-Brock.	2005	A new marine species of Tubificoides (Annelida: Oligochaeta: Tubificidae) from Hawaii, U.S.A. Proceedings of the Biological Society of Washington 118(2) : 264-269		
+128501	Giere & Erséus.	2002	Taxonomy and new bacterial symbioses of gutless marine Tubificidae (Annelida, Oligochaeta) from the Island of Elba (Italy). Organisms Diversity & Evolution 2 (4): 289-297		
+125704	Stephenson J.,	1932	Oligochaeta. Part I. Microdrili (mainly Enchytraeidae). Discovery Reports, 4: 233-264.		
+6145	Healy, B.	1997	Marionina schrijversi (Oligochaeta Enchytraeidae), a new species from a mangrove in Kenya. Tropical Zoology 10: 129-132.		
+125710	Erséus C.,	1979	Taxonomic revision of the marine genus Phallodrilus Pierantoni (Oligochaeta, Tubificidae), with descriptions of thirteen new species. Zoologica Scripta, 8: 187-208.		

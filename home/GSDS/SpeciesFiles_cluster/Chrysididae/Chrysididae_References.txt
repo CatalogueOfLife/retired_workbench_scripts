@@ -1,0 +1,58 @@
+﻿ReferenceID	Authors	Year	Title	Source
+43981	Mocsáry	1890	Additamentum primum ad monographiam chrysidadarum	Termesz. Fuzetek 13:45-66
+43982	Krombein	1983	Three new egg parasites of South-African walking sticks (hymenoptera: Chrysididae, Amiseginae)	Journal of the Entomological Society of South Africa (J. ent. Soc. sth. Afr.) 46(1):139-146
+43983	Krombein	1960	Additions to the Amiseginae and Adelphinae (Hymenoptera, Chrysididae)	Transactions of The American Entomological Society LXXXVI:27-39
+43984	Krombein	1957	A generic review of the Amiseginae, a group of Phasmatid egg parasites, and notes on the Adelphinae	Transactions of The American Entomological Society LXXXII:147-215
+43985	Krombein	1983	Biosystematic Studies of Ceylonese Wasps, XI: A Monograph of the Amiseginae and Loboscelidiinae (Hymenoptera: Chrysididae)	Smithsonian Contributions to Zoology(376)
+43986	Krombein	1980	Biosystematic Studies of Ceylonese Wasps I. A Preliminary revision of the Amiseginae	P. E. P. Deraniyagala Commemoration Vol. (Sri Lanka 1980) 246-260
+43987	Maa & Yoshimoto	1961	Loboscelidiidae, A New Family of Hymenoptera	Pacific insects 3(4):523-548
+43989	Fouts	1922	New Parasitic hymenoptera From The Oriental Islands	The Philippine Journal of Science 20(6):619-636
+43990	Westwood	1874		Thesaurus Entomologicus Oxoniensis, Clarendon Press, Oxford
+43991	Kimsey	1990	Zoogeography of the Amiseginae and a Remarkable New Chrysidid Wasp from Chile (Hymenoptera)	Psyche 97(3-4):141-145
+43992	Kimsey	1987	New genera and Species of Neotropical Amiseginae (Hymenoptera, Chrysididae)	Psyche 94:57-76
+43993	Kimsey	1986	New species and Genera of Amiseginae from Asia (Chrysididae, Hymenoptera)	Psyche 93:153-166
+43994	Kimsey & Bohart	1991[1990]	The Chrysidid Wasps of the World	
+44521	Liu, Yao & Xu	2011	A new species of the rare chrysidid subfamily Loboscelidiinae from China: the third species of <i>Rhadinoscelidia</i> Kimsey, 1988 (Hymenoptera, Chrysididae)	ZooKeys(87):11-18
+44525	Yao, Liu & Xu	2010	Two new species in the genus <i>Loboscelidia</i> (Hymenoptera: Chrysididae) from China	Florida Entomologist 93(4):526-534
+44526	Kimsey, Dewhurst & Nyaure	2013	New species of egg parasites from the Oil Palm Stick Insect (<i>Eurycantha insularis</i>) in Papupa New Guinea (Hymenoptera, Chrysididae, Phasmatodea, Phasmatidae)	Journal of Hymenoptera Research 30:19-28
+44528	Kimsey	2014	Description of a new chrysidid genus from New Caledonia (Hymenoptera, Chrysididae, Amiseginae)	Journal of Hymenoptera Research 38:19-35
+44529	Kimsey	1995	New amisegine wasps from Southeast Asia (Hymenoptera: Chrysididae)	Proceedings of the Entomological Society of Washington 97(3):590-595
+44536	Cameron	1888	Family Chrysididae. In Biologia Centrali-Americana, 1883-1900. Hymenoptera.	
+45697	Ducke	1902	Neue Goldwespen von Para	Zs. Syst. Hymen Dipt. 2:204-207
+45699	Kieffer	1910	Description de nouveaux microhymenopteres du Bresil	Ann. Soc. Ent. France 78:287-348
+45700	Kimsey	1986	New species of the American genus <i>Adelphe</i> Mocsary	Ins. Mundi 1:197-205
+45701	Ducke	1903	Neue sudamerikanische Chrysididen	Zs. Syst. Hymen Dipt. 3:129-136
+45702	Benoit	1951	Alieniscidae nomen novum pro Alienidae Bridwell	Bull. Ann. Soc. Ent. Belg. 87:90-92
+45703	Ashmead	1902	Classification of the fossorial, predaceous and parasitic wasps, or the superfamily Vespoidea	Canad. Ent. 34:219-231
+45705	Ducke	1902	Ein wenig bekanntes Chrysididengenus <i>Amisega</i> Cam.	Zs. Syst. Hymen Dipt. 2:141-144
+45706	Ducke	1911[1909]	Alla revisione dei chrysididi dello stato Brasiliano del Para (third suppl.)	Bol. Soc. Ent. Ital. 41:89-115
+45707	Krombein	1986	A remarkable new African amisegine wasp.	Proc. Ent. Soc. Wash. 88:509-514
+45708	Kieffer	1922	Philippine Serphidae (Proctotrupidae)	Phippine J. Sci. 20:65-103
+45709	Costa Lima	1936	Sur un nouveau Chryside: <i>Duckeia cyanea</i>, parasite des oeufs de Phasmide.	Livre Jubilaire E.-L. Bouvier 173-175
+45710	Riek	1955	Australian cleptid egg parasites of Cresmododa (Phasmodea)	Austr. J. Zool. 3:118-130
+45711	Krombein	1984	Two new egg parasites of South African walking sticks  and notes on two previously described species	J. Ent. Soc. S. Afr. 47:211-215
+45712	Dalla Torre	1897	Zur Nomenclatur der Chalcididen - Genera	Wein Ent Ztg 16:83-88
+45713	Walker	1866	Characters of a new genus and species of Chalcidites	Trans. Ent. Soc. Lond. 2:441-442
+45714	Kieffer	1905	Description de nouveaux Proctotrypides exotiques	Ann. Soc. Sci. Bruxelles 29:95-142
+45715	Kieffer	1907	Beschreibung neuer im British Museum zu London auf bewahrter Proctotrypiden	Berliner Ent. Zs. 51:279-302
+45717	Bridwell	1919	Some notes on Hawaiian and other Bethylidae with descriptions of new species	Proc. Hawaiian Ent. Soc. 4:35-38
+45718	Fouts	1925	descriptions of three new Hymenoptera from the Philippine Islands	The Philippine Journal of Science 26:515-519
+45720	Cameron	1910	Description of a new genus and species of <i>Oxyura</i> from Kuching, Borneo	Entomologist 43:22-23
+45721	Kimsey	1988	Loboscelidiinae, new species and a new genus from Malaysia	Psyche 95:67-79
+45722	Kieffer	1916	Diapriidae	Das Tierreich 44
+45723	Lin	1964	The Taiwanese Loboscelidiidae	Quart. J. Taiwan Mus., Taipei 17:237-245
+45724	Day	1978[1979]	The affinities of <i>Loboscelidia</i> Westwood	Syst. Ent. 4:21-30
+45726	Evans	1973	Cretaceous Aculeate Wasps from Taimyr, Siberia (Hymenoptera)	Psyche 80:166-178
+45755	Rosa, Wei & Xu	2014	An annotated checklist of the chrysidid wasps (Hymenoptera, Chrysididae) from China	ZooKeys 455:1-128
+45756	Kurzenko & Lelej	1994	<i>Nipponosega yamanei</i> gen. et sp. nov., a new remarkable cuckoo wasp (Hymenoptera, Specidae, Chrysididae) from Japan	Bulletin of national Science Museum 20:83-86
+45757	Xu, He & Terayama	2003	The genus <i>Nipponosega</i> Kurzenko et Lelej, 1994 firstly recorded from China, with a new species description (Hymenoptera, Chrysididae, Amiseginae).	Bulletin de L’Institut Royal des Sciences Naturelles de Belgique, Entomologie 73:195-196
+45758	Xu, Weng & He	2006	A new species of the genus Loboscelidia (Insecta, Hymenop- tera) from China	Acta Zootaxonomica Sinica 31(1):208-210
+45759	Liu, Yao & Xu	2010	Two new species of genus Loboscelidia (Hymenoptera: Chrysididae: Loboscelidiinae) from China.	Acta Zootaxonomica Sinica 35(3):641-645
+45763	Villemant A new species of <i>Kryptosega</i> Kimsey, 1986 (Insecta, Hymenoptera, Chrysididae, Amiesginae) from Vanuatu.	2012	Description of <i>Kryptosega mweramwera</i> A new species of <i>Kryptosega</i> Kimsey, 1986 (Insecta, Hymenoptera, Chrysididae, Amiesginae) from Vanuatu.	Zoosystema 34(2):263-264
+45764	Nagase	1995	A New Species of  <i>Nipponosega</i> (Hymenoptera, Chrysididae, Amiseginae) from Central Japan	Bull. Natn. Sci. Mus., Tokyo, Ser. A. 21(1):103-107
+45765	Kimsey	2014	Reevaluation of the odd chrysidid genus <i>Atoposega</i> Krombein (Hymenoptera, Chrysididae, Amiseginae)	ZooKeys 409:35-47
+45766	Kimsey	2012	Review of the odd chrysidid genus <i>Loboscelidia</i> Westwood, 1874 (Hymneoptera, Chrysididae, Lobosceldiinae)	ZooKeys 213:1-40
+45767	Krombein	1986	Three cuckoo wasps from Siberian and Baltic amber (Hymenoptera: Chrysididae: Amiseginae and Elampinae)	Proceedings of the Entomological Society of Washington 88(4):740-747
+45845	Kimsey	2005	Hymenopteran Waifs: A New Genus and Species of Chrysidid from Reunion (Hymenoptera: Chrysididae)	Insect Systematics and Evolution 36(1):57-61
+45846	Kimsey	1993	New Neotropical Amisegine Wasps (Hymenoptera: Chrysididae)	Pan-Pacific Entomologist 69(3):205-212
+46848	Kimsey, Mita & Pham	2016	New species of the genus Mahinda Krombein, 1983 (Hymenoptera, Chrysididae, Amiseginae)	ZooKeys 551:145-154

@@ -19,6 +19,7 @@ UPDATE families SET class = "Psilotopsida" WHERE `order` = "Psilotales" ;
 UPDATE families SET class = "Polypodiopsida" WHERE `order` = "Salviniales" ;
 UPDATE families SET class = "Polypodiopsida" WHERE `order` = "Schizaeales" ;
 UPDATE families SET class = "Lycopodiopsida" WHERE `order` = "Selaginellales" ;
+UPDATE `families` SET `is_accepted_name` = 1;
 UPDATE families SET hierarchy_code = CONCAT(`kingdom`,'-',`phylum`,'-',`class`,'-',`order`,'-',`family`);
 
 

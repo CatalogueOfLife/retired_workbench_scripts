@@ -1,0 +1,41 @@
+﻿ID	AcceptedTaxonID	Genus	SubgenusName	SpeciesEpithet	AuthorString	InfraSpecies	InfraSpeciesMarker	InfraSpeciesAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUID
+472725	1217600	Loboscelidia	Loboscelidia	reducta	Maa & Yoshimoto, 1961				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472724
+472729	1217597	Loboscelidia	Loboscelidia	parva	Maa & Yoshimoto, 1961				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472728
+472733	1217593	Laccomerista		rufescens	Cameron, 1910				Junior synonym	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472733
+472740	1217585	Scelidoloba		maai	Lin, 1964				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472740
+472741	1217585	Loboscelidia		latigena	Lin, 1964				Junior synonym	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472741
+472742	1217585	Loboscelidia		artigena	Lin, 1964				Junior synonym	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472742
+472747	1217580	Loboscelidia		nigricornis	Fouts, 1925				Junior synonym	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472747
+472779	1218602	Atoposega		decorata	Kimsey, 1995				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472779
+472811	1217547	Parachrysis		metallica	Kieffer, 1910				Junior synonym	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472811
+472822	1217536	Pseudepyris		paradoxa	Ducke, 1902				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472821
+472826	1217533	Duckeia		gracile	Kimsey, 1987				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472825
+472830	1217530	Cladobethylus		myrmecophilia	Kieffer, 1922				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472829
+472840	1217520	Cladobethylus		cruciger		antennalis	morph	Kieffer, 1922	Junior synonym	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472840
+472856	1217511	Atopogyne		rieki	(Krombein, 1957)				Subsequent combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472855
+472858	1217510	Atopogyne		lineata	Krombein, 1957				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472857
+472868	1217502	Mesitiopterus		townsendi	Ashmead, 1902				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472868
+472876	1217494	Amisega		cyaniceps	Ducke, 1911				Junior synonym	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472876
+472878	1217493	Mesitiopterus		floridensis	Krombein, 1960				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472877
+472890	1217482	Mesitiopterus		kahlii	Ashmead, 1902				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472890
+472895	1217478	Microsega		bella	Krombein, 1960				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472894
+472928	1217448	Alienus		aenigmaticus	Bridwell, 1919				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472929
+472929	1217448	Obenbergerella		aenigmatica	(Bridwell, 1919)				Subsequent combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472929
+472934	1217443	Cresmophaga		striatus	Riek, 1955				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472933
+472936	1217442	Cresmophaga		semiglabrus	Riek, 1955				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472935
+472938	1217441	Cresmophaga		rugosinotus	Riek, 1955				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472937
+472940	1217440	Cresmophaga		rubrifemur	Riek, 1955				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472939
+472942	1217439	Promesitius		punctaticeps	Kieffer, 1907				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472943
+472943	1217439	Ootheres		punctaticeps	(Kieffer, 1907)				Subsequent combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472943
+472945	1217438	Ootheres		nigrithorax	Riek, 1955				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472944
+472947	1217437	Ootheres		nigripedicel	Riek, 1955				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472946
+472949	1217436	Promesitius		bimaculatus	(Kieffer, 1907)				Subsequent combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472949
+472951	1217435	Cresmophaga		bispinosa	Riek, 1955				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472952
+472952	1217435	Myrmecomimesis		bispinosus	(Riek, 1955)				Subsequent combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472952
+472956	1217431	Promesitius		flavicollis	Kieffer, 1905				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472956
+472960	1217426	Myrmecopsis		nigricans	Walker, 1866				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472959
+472961	1217426	Ootheres		iridescens	Riek, 1955				Junior synonym	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472961
+472962	1217426	Promesitius		coeruleus	Kieffer, 1907				Junior synonym	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472963
+472963	1217426	Ootheres		coeruleus	(Kieffer, 1907)				Subsequent combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472963
+472978	1217523	Cladobethylus		aridulus	Krombein, 1980				Original combination	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:472977
+473174	1217589	Loboscelidia		carinata	Fouts, 1922				Junior synonym	Unambiguous synonym	urn:lsid:Chrysididae.speciesfile.org:TaxonName:473174

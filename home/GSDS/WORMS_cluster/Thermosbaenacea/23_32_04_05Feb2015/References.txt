@@ -1,0 +1,20 @@
+ReferenceID	Authors	Year	Title	Details	
+1407	van der Land, J.	2001	Thermosbaenacea, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+15064	Bowman, T. E.; Iliffe, T. M.	1986	Halosbaena fortunata, a new Thermosbaenacean crustacean from the Jameos Del Agua		
+16035	Wagner, H. P.	1994	A monographic review of the Thermosbaenacea (Crustacea: Peracarida). A study on their morphology, taxonomy, phylogeny and biogeography		
+132531	Boutin, C. & Cals, P.	1985	Importance en biogéographie évolutive de la découverte d'un Crustacé phréatobie, Monodella atIantomaroccana n. sp. (Thermosbaenacea) dans la plaine alluviale de Marrakech. Comptes Rendus de l'Académie des Sciences, Paris (sér. 3), 300, 267-270.		
+132533	Bowman, T. E.; Iliffe, T. M.	1988	Tulumella unidens, a new genus and species of thermosbaenacean crustacean from the Yucatan Peninsula, Mexico		
+132534	Cals, P. & Boutin, C.	1985	Découverte au Cambodge, domaine ancien de la Tethys orientale, d'un nouveau `fossile vivant' Theosbaena cambodjiana n.g. n.sp. (Crustacea, Thermosbaenacea). Comptes Rendus Hebdomadaires de Séances de l'Académie des Sciences, Paris, 300, 337-340.		
+132535	Chelazzi, L.; Messana, G.	1982	Monodella somala n. sp. (Crustacea Thermosbaenacea) from the Somali Democratic Republic		
+132538	Karaman, S. L.	1953	ber einen Vertreter der Ordnung Thermosbaenacea (Crustacea Peracarida) aus Jugoslavien, Monodella halophila n. sp		
+132539	Maguire, B.	1965	Monodella texana n. sp., an extension of the range of the crustacean order Thermosbaenacea to the Western Hemisphere		
+132540	Mestrov, M.; Lattinger-Penko, R.	1969	Sur la presence du Thermosbaenacés (Crustacea, Peracarida) dans les eaux interstitielles continentales de la Yugoslavie (Monodella finki n		
+132542	Monod, T.	1924	Sur un type nouveau de Malacostracé: Thermosbaena mirabilis nov. gen. nov. sp. Bulletin de la Sociét		
+132545	Poore, G. C. B.; Humphreys, W. F.	1992	First record of Thermosbaenacea (Crustacea) from the Southern Hemisphere: a new species from a cave in tropical		
+132548	Pór, F. D.	1962	Un nouveau Thermosbaenacé, Monodella relicta n. sp. dans le depression de la Mer Morte		
+132549	Pretus, J.L.l.	1991	Estudio taxonomico, biogeografico y ecologico de los crustaceos epigeos e hipogeos de las Baleares (Branchiopoda, Copepoda, Mystacocarida y Malacostraca).  [thesis]. Universidad de Barcelona, Barcelona		
+132550	Ruffo, S.	1949	Monodella stygicola n. g. n. sp. nuovo Crostaceo Termosbenaceo delle acque sotterranee della Penisola Salentina		
+132551	Shimomura, M. & Fujita, Y.	2009	First record of the thermosbaenacean genus Halosbaena from Asia: H. daitoensis sp. nov. (Peracarida: Thermosbaenacea: Halosbaenidae) from an anchialine cave of Minamidaito-jima Is., in Okinawa, southern Japan. Zootaxa, 1990, 55-64.		
+132552	Stella, E.	1951	Monodella argentarii n. sp. di Thermosbaenacea (Crustacea Peracarida) limnotroglobio di Monte Argentario		
+132553	Stock, J.H.	1976	A new genus and two new species of the crustacean order Thermosbaenacea from the West Indies. Bijdragen tot de Dierkunde, 46, 47-70.		
+132556	Yager, J.	1988	Tulumella grandis and T. bahamensis, two new species of thermosbaenacean crustaceans (Monodellidae) from anchialine caves in the Bahamas		

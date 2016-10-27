@@ -1,0 +1,86 @@
+﻿ID	AcceptedTaxonID	Genus	SubgenusName	SpeciesEpithet	AuthorString	InfraSpecies	InfraSpeciesMarker	InfraSpeciesAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUID
+467806	1221500	Fabrecia		minuta	Meunier, 1911				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467806
+467807	1221459	Fabrecia		pygmaea	Meunier, 1911				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468787
+467857	1220778	Microblattogryllus		variabilis	Storozhenko, 1990				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467858
+467861	1220781	Protoblattogryllus		abruptus	Storozhenko, 1990				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467862
+467886	1221503	Polyetes		elegantissima	Meunier, 1921				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467887
+467890	1221184	Lepium		elongatum	Sellards, 1909				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467891
+467892	1221184	Lepium		sellardsi	Handlirsch, 1919				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467892
+467893	1221184	Lepium		reticulatum	Sellards, 1909				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467893
+467922	1220323	Blania		falsa	Kukalova, Jarmilla, 1964				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468797
+467923	1220322	Blania		oviformis	Kukalova, Jarmilla, 1964				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468798
+467924	1220321	Blania		rotunda	Kukalova, Jarmilla, 1964				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468799
+467935	1221125	Euryptilodes		horridus	Sharov, 1961				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467935
+467955	1221159	Sylvaprisca		alba	Rasnitsyn, Sukacheva & Aristov, 2005				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467956
+467958	1221209	Prisca		fragilis	Sellards, 1909				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468907
+467979	1220803	Estadia		parva	Handlirsch, 1937				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467979
+467983	1220802	Lemmatophora		minuta		semitincta	subspecies	Tillyard, 1928	Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467983
+467984	1220802	Lemmatophora		minuta		pusilla	subspecies	Tillyard, 1928	Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467984
+467985	1220802	Lemmatophora		minuta		obscurata	subspecies	Tillyard, 1928	Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467985
+467992	1220324	Lemmatophora		typica		quadrimedia	subspecies	Tillyard, 1928	Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467992
+467993	1220324	Lemmatophora		typica		quadrifurcata	subspecies	Tillyard, 1928	Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467993
+467994	1220324	Lemmatophora		typica		conjuncta	subspecies	Tillyard, 1928	Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467994
+468064	1220275	Sojanopermula		minor	Aristov, 2004				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468816
+468066	1220274	Sojanopermula		tshekardensis	Aristov, 2004				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468817
+468167	1220872	Chauliodites		zinkeni	Heer, 1864				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468168
+468197	1220244	Grylloblatta		occidentalis	Silvestri, 1931				Subsequent combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468196
+468207	1220235	Grylloblatta		notabilis	Silvestri, 1927				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468207
+468215	1220228	Galloisia		nipponensis	Caudell & King, 1924				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468216
+468218	1220226	Grylloblattella		sinensis	(Wang, S.-y., 1987)				Subsequent combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468217
+468221	1220312	Galloisiana		kurentzovi	Pravdin & Storozhenko, 1977				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468844
+468224	1221033	Galloisiana		magnus	Namkung, 1989				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468225
+468226	1221031	Galloisiana		biryongensis	Namkung, 1974				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468227
+468227	1221031	Grylloblattella		biryongensis	(Namkung, 1974)				Subsequent combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468227
+468231	1220222	Galloisiana		pravdini	Storozhenko & Oliger, 1984				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468846
+468302	1221193	Horates		elongatus	Sellards, 1909				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468302
+468304	1221191	Liomopterum		extensum	Sellards, 1909				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468304
+468336	1221481	Rachimentomon		affine	Zalessky, Y. M., 1939				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468337
+468419	1221117	Tomia		fuyuanensis	Lin, 1978				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468420
+468421	1221114	Nivoptera		nanshenghuensis	Lin, 1978				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468892
+468423	1221014	Fletchitzia		kapokraalensis	Wappler, 2001				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468424
+468425	1221013	Fletchitzia		aleda	Wappler, 2001				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468426
+468427	1220992	Meixiella		postiretis	Huang, Z.-q., F.-y. Li & Lin, 1991				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468893
+468443	1221108	Hannoptera		promota	Bode, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468443
+468516	1221058	Metidelia		kostinae	Sharov, 1961				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468517
+468557	1220919	Megakhosarina		minuscula	Aristov, 2008				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468558
+468563	1221362	Megakhosara		simplex	Sharov, 1961				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468896
+468564	1221361	Megakhosara		dilucida	Sharov, 1961				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468565
+468567	1220916	Megakhosara		explicata	Sharov, 1961				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468568
+468579	1221378	Sylvokhosara		martynovi	Storozhenko, 1993				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468897
+468605	1220790	Mesoblattogryllus		longipennis	Storozhenko, 1992				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468606
+468607	1220789	Mesoblattogryllus		conjunctus	Storozhenko, 1992				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468608
+468625	1220742	Dorniella		multoramosa	Bode, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468625
+468626	1220742	Dorniella		violata	Bode, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468626
+468627	1220742	Dorniella		triramosa	Bode, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468627
+468628	1220742	Dorniella		brunsvicensis	Bode, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468628
+468629	1220742	Dorniella		biramosa	Bode, 1954				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468629
+468651	1220015	Peremella		ambiqua	Zalessky, Y. M., 1939				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468651
+468652	1220015	Mariella		gracilis	Zalessky, G., 1955				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468652
+468653	1220015	Czekardia		blattoides	Martynov, 1940				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468653
+468654	1220015	Kirkorella		mira	Zalessky, Y. M., 1950				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468654
+468733	1220007	Tshekardites		calcomessor	Aristov, 2004				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:469020
+468746	1220004	Tshekardites		bardensis	Aristov, 2004				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:469018
+468766	1220006	Tshekardites		lientericus	Aristov, 2004				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:469017
+468776	1220803	Estadia		tripunctata	Carpenter, 1926				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468776
+468780	1220802	Lemmatophora		minuta	(Sellards, 1909)				Subsequent combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468780
+468782	1221564	Orta		ovata	Sellards, 1909				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468783
+468814	1220277	Permula		edemskii	Aristov & Storozhenko, 2011				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:469234
+468904	1220009	Tshekardites		gracilis	Aristov, 2004				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:469004
+468905	1220008	Tshekardites		curculiuculus	Aristov, 2004				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:469030
+468911	1221210	Stemma		elegans	Sellards, 1909				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468911
+468912	1221210	Stemma		extensa	Sellards, 1909				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468912
+468914	1221210	Sellardsia		kansasensis	Tillyard, 1928				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468914
+468915	1221210	Sellardsia		lecoriodes	Tillyard, 1928				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468915
+468924	1221623	Paraprisca		causaria	Novokshonov, 2000				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468998
+468996	1221623	Paraprisca		uralica	Zalessky, Y. M., 1952				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468997
+468998	1221623	Uraloprisca		causaria	(Novokshonov, 2000)				Subsequent combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:468998
+469009	1221631	Liomopterites		gracilis	Sharov, 1961				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:469010
+469033	1221649	Permonympha		arcuata	Sharov, 1957				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:469033
+469289	1221781	Stenoneura		fayoli	Brongniart, 1893				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:469376
+469291	1221783	Stenoneura		robusta	Brongniart, 1893				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:469375
+469308	1221794	Idelia		permiakovi	Zalessky, G., 1929				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:469307
+469377	1220324	Lemmatophora		typica	Tillyard, 1928				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:469377
+469742	1222100	Delopterum		acostai	Marquat, 1991				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:469742
+473025	1221662	Camptoneura		reticulata	Martynov, 1928				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:473025
+467792	1221487	Stenoneura		maximi	Brongniart, 1893				Original combination	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467793
+467805	1221500	Protoblattina		giardi	Meunier, 1921				Junior synonym	Unambiguous synonym	urn:lsid:Grylloblattodea.speciesfile.org:TaxonName:467805

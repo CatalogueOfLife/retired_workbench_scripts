@@ -1,0 +1,3 @@
+AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
+761867	Ryukyu Islands	Text		
+395479	Grand Cayman 	Text		

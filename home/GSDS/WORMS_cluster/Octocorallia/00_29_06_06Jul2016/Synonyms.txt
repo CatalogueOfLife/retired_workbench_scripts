@@ -1,0 +1,731 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+291945	289607	Nephthea		aurantiaca	Verrill, 1866				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291945	
+291946	289612	Stereonephthya		bundegiensis	Verseveldt, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291946	
+291947	289615	Nephthea		complanata	Kükenthal, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291947	
+291948	289616	Nephthea		cornuta	Verseveldt, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291948	
+291072	289617	Spongodes		costatocyanea	(Burchardt, 1898)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291072	
+291949	289617	Spongodes		costatofulva	Burchardt, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291949	
+291950	289618	Stereonephthya		longicaulis	Kükenthal, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291950	
+291962	289619	Nephthea		dampierensis	Verseveldt, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291962	
+291952	289623	Nephthea		formosanus	Kükenthal, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291952	
+291954	289631	Nephthea		granulata	Kükenthal, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291954	
+292624	289631	Nephthea		hartmeyeri	Kükenthal, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292624	
+291956	289637	Nephthea		inermis	Holm, 1894				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291956	
+291957	289638	Dendronephthya		intermedia	Thomson & Dean, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291957	
+183062	125351	Chrysogorgia		agassizi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:183062	
+379371	125351	Dasygorgia		agassizi					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:379371	
+291827	177823	Chrysogorgia		affinis	Versluys, 1902				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291827	
+146535	128508	Balticina		christii	(Koren & Danielssen, 1847)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:146535	
+291828	286150	Chrysogorgia		elisabethae	Bayer, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291828	
+291826	286112	Chrysogorgia		occidentalis	Versluys, 1902				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291826	
+379372	286121	Dasygorgia		fruticosa					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:379372	
+379373	286126	Dasygorgia		japonica					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:379373	
+292564	125371	Acanella		normani	Verrill, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292564	
+291922	125371	Mopsea		arbuscula	Johnson, 1862				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291922	
+291923	286299	Acanella		spiculosa	Verrill, 1883				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291923	
+286301	286303	Acanella		japonica	Kükenthal, 1915				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286301	
+286305	286303	Acanella		sibogae	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286305	
+292039	289785	Thouarella		acanthina	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292039	
+291896	286214	Lophogorgia		barbadensis	Bayer, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291896	
+291897	286216	Lophogorgia		cabofalsoi	Stiasny, 1939				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291897	
+291898	286218	Lophogorgia		capverdensis	Grasshoff, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291898	
+291899	286219	Lophogorgia		cardinalis	Bayer, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291899	
+292531	286243	Eugorgia		gilchristi	Hickson, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292531	
+292532	286243	Eugorgia		lineata	Thomson, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292532	
+291902	286243	Leptogorgia		aurata	Thomson, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291902	
+759104	125369	Leptogorgia		lusitanica	Stiasny, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:759104	
+286266	418859	Leptogorgia		puniacea	(Milne Edwards & Haime, 1857)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286266	
+291900	286225	Lophogorgia		crista	Möbius, 1861				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291900	
+291901	286242	Lophogorgia		gaini	Stiasny, 1940				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291901	
+291903	286253	Lophogorgia		occidafricana	Stiasny, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291903	
+291904	286255	Lophogorgia		panamensis	Duchassaing & Michelotti, 1860				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291904	
+517881	286165	Nicella		coralloides	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517881	
+517882	286167	Nicella		mauritiana	Gray, 1870				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517882	
+292029	289456	Arthrogorgia		membranacea	Kükenthal & Gorzowski, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292029	
+286415	520678	Swiftia		beringi	(Nutting, 1912)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286415	
+291761	289551	Callogorgia		granulosa	(Kinoshita, 1907)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291761	
+292633	289710	Primnoella		divergens	Hickson, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292633	
+292634	289710	Primnoella		flagellum	Studer, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292634	
+292631	289710	Primnoella		magelhaenica	Studer, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292631	
+292632	289710	Primnoella		vanhoeffeni	Kükenthal, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292632	
+292038	409496	Primnoella		murrayi	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292038	
+292040	289808	Primnoella		delicata	Kinoshita, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292040	
+526663	520681	Dichotella		divergens	Gray, 1870				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:526663	
+289190	520681	Junceella		gemmacea	(Milne Edwards & Haime, 1857)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289190	
+291812	209982	Sinularia		brongersmai	Verseveldt, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291812	
+291727	209989	Sinularia		cervicornis	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291727	
+209992	209989	Sinularia		dura	(Pratt, 1903)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:209992	
+209969	209989	Sinularia		triaena	Kolonko, 1926				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:209969	
+292007	221137	Alcyonium		khoisanianum	Williams, 1988				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292007	
+212092	290270	Alcyonium		planiceps	Williams, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:212092	
+291810	288493	Anthomastus		agilis	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291810	
+291795	213058	Heteroxenia		capensis	Hickson, 1900				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291795	
+291915	290768	Psammogorgia		perroteti	(Stiasny, 1940)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291915	
+288498	209973	Sinularia		candidula	Verseveldt & Benayahu, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288498	
+292034	287648	Calyptrophora		versluysi	Nutting, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292034	
+292035	287649	Narella		angularis	(Nutting, 1980)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292035	
+409571	287651	Calyptrophora		japonica	Nutting, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:409571	
+409570	287651	Calyptrophora		japonica		f. B	Forma	Versluys, 1906	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:409570	
+287656	287655	Calyptrophora		pillsburyae	Bayer, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287656	
+292036	177836	Narella		trilepis	Pourtalès, 1868				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292036	
+287643	177831	Ctenocella		schmitti	Bayer, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287643	
+291885	177831	Nicella		schmitti	Bayer, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291885	
+288408	746480	Acabaria		amboinensis	Hentschel, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288408	
+288409	746481	Acabaria		andamanensis	van Ofwegen, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288409	
+212098	287770	Alcyonium		variabile	(J.S. Thomson, 1921)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:212098	
+289673	746525	Clathraria		acuta	Gray, 1870				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289673	
+289674	746526	Clathraria		akalyx	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289674	
+287581	291848	Ctenocella		acacesia	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287581	
+287583	291850	Ctenocella		andamanensis	Simpson, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287583	
+287585	292603	Ctenocella		atlantica	Toeplitz, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287585	
+287587	520717	Ctenocella		aurantiaca	Thomson & Henderson				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287587	
+287588	291853	Ctenocella		azilia	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287588	
+287589	520719	Ctenocella		barbadensis	Duchassaing & Michelotti, 1864				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287589	
+287590	291855	Ctenocella		candida	Ridley, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287590	
+287592	520720	Ctenocella		ceratophyta	Linnaeus, 1758				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287592	
+291778	231819	Alcyonium		paessleri	May, 1899				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291778	
+182745	125332	Parerythropodium		coralloides	(Pallas, 1766)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:182745	
+151656	125333	Lobularia		digitata	(Linnaeus, 1758)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:151656	
+291779	212090	Anthomastus		elegans	(Kükenthal, 1902)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291779	
+291780	132159	Alcyonidium		glomeratum	Hassell, 1843				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291780	
+287378	743703	Alcyonium		roseum	van Ofwegen, Häussermann & Försterra, 2007				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287378	
+212894	565326	Efflatounaria		sodwanae	Benayahu, 1993				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:212894	
+737810	289933	Eugorgia		ahorcadensis	Del Mar Soler-Hurtado & López-González, 2012				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:737810	
+289931	289928	Eugorgia		forreri	Studer, 1883				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289931	
+291782	287374	Metalcyonium		patagonicum	May, 1899				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291782	
+291784	287387	Metalcyonium		verseveldti	Benayahu, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291784	
+292068	291011	Anthelia		boquetei	(Roxas, 1933)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292068	
+210000	291012	Anthelia		flava	(May, 1899)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:210000	
+292069	291013	Anthelia		formosana	Utinomi, 1950				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292069	
+292070	291014	Anthelia		lineata	(Stimpson, 1855)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292070	
+291835	125340	Evagora		corii	Broch, 1935				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291835	
+292533	125340	Evagora		rosea	Philippi, 1842				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292533	
+289960	409514	Fannyella		lepidota	Bayer, 1998				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289960	
+292012	873983	Heterogorgia		magna	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292012	
+289191	520688	Junceella		racemosa	(Wright & Studer, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289191	
+289192	520689	Junceella		spinescens	(Gray, 1859)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289192	
+287469	173407	Aglaoprimnoa		stephanii	Bayer, 1996				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287469	
+292551	125373	Acanella		giglioti	Cecchini, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292551	
+292550	125373	Acanella		mediterranea	Cecchini, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292550	
+291928	125373	Isis		neapolitana	Koch, 1887				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291928	
+292050	125408	Primnoa		regularis	Duchassaing & Michelotti, 1860				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292050	
+292051	125409	Narella		elegans	Tixier-Durivault & Lafargue, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292051	
+388068	286509	Narella		alvinea	Cairns & Bayer, 2003				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:388068	
+289963	409528	Fannyella		nodosa	(Molander, 1929)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289963	
+286525	286515	Narella		nuttingi	Bayer, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286525	
+409529	409528	Primnoella		vanhoefeni	Kükenthal, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:409529	
+291732	286518	Stachyodes		capensis	Thomson, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291732	
+409556	286518	Stachyodes		gilberti	Kükenthal, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:409556	
+292049	286518	Stachyodes		gilchristi	Thomson, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292049	
+409555	286532	Stachyodes		regularis	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:409555	
+517891	286425	Thesea		echinata	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517891	
+286441	290323	Thesea		plana	Deichmann, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286441	
+286555	286564	Thouarella	Euthouarella	carinata	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286555	
+286575	286554	Thouarella	Thouarella	versluysi	Kükenthal, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286575	
+286552	173547	Thouarella		antarctica	(Valenciennes, 1846)				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:286552	
+289396	292028	Amphilaphis		biserialis	Nutting, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289396	
+289397	743680	Amphilaphis		dispersa	(Kükenthal, 1912)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289397	
+292037	289565	Sarcodictyon		canariensis	Ocaña, Brito & Nunez, 1992				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292037	
+850724	286506	Stenella		helminthophora	Nutting, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:850724	
+517869	209626	Capnella		gilchristi	Thomson, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517869	
+517870	209626	Capnella		rugosa	(Kükenthal, 1903)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517870	
+286338	876085	Bebryce		acanthoides	Thomson & Russell, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286338	
+287950	287949	Heteroxenia		coheni	Verseveldt, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287950	
+517631	724714	Anthomastus		japonicus	Nutting, 1923				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517631	
+286018	724715	Anthomastus		ritteri	Nutting, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286018	
+286020	724716	Anthomastus		steenstrupi	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286020	
+758013	211167	Carijoa		arborea	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:758013	
+291905	290566	Gorgonia		adamsii	(Verrill, 1868)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291905	
+291906	290567	Gorgonia		agassizii	(Verrill, 1864)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291906	
+291907	290568	Gorgonia		arenata	(Valenciennes, 1846)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291907	
+291908	290574	Gorgonia		darwinii	(Hickson, 1928)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291908	
+291909	290575	Gorgonia		douglasii	Hickson, 1928				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291909	
+291910	290577	Gorgonia		englemanni	Horn, 1860				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291910	
+291911	290578	Gorgonia		exilis	Verrill, 1870				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291911	
+290028	520687	Gorgonia		eximia	(Verrill, 1868)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290028	
+290031	520695	Gorgonia		gracilis	Kükenthal, 1924				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290031	
+291822	289921	Parerythropodium		hicksoni	(Utinomi, 1972)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291822	
+286390	520682	Placogorgia		campanulifera	(Nutting, 1910)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286390	
+724889	286009	Pseudoanthomastus		inusitatus	Tixier-Durivault & d'Hondt, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:724889	
+291833	125338	Clavularia		inordinata	Tixier-Durivault & Lafargue, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291833	
+292592	125338	Clavularia		ochracea	Von Koch, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292592	
+292591	125338	Clavularia		steveninoae	d'Hondt & Tixier-Durivault, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292591	
+286634	128504	Pennatula		argentina	Acuña & Zamponi, 1992				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286634	
+125345	520680	Anthelia		borealis	Koren & Danielssen, 1883				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:125345	
+517873	286578	Clematissa		alba	Nutting, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517873	
+158285	125376	Keratoisis		ornata	Verrill, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:158285	
+291919	290907	Alcyonium		rubrotincta	Thomson & Henderson, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291919	
+292560	290667	Bellonella		indica	Thomson & Henderson, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292560	
+291830	286157	Chrysogorgia		splendens	Verrill, 1883				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291830	
+291829	125355	Chrysogorgia		squarrosa	(Wright & Studer, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291829	
+880219	517674	Clavularia		rosea	Studer, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:880219	
+517874	517725	Clematissa		verrilli	Nutting, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517874	
+865906	517706	Echinogorgia		sassapo		reticulata	Subspecies	(Esper)	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:865906	
+287538	832294	Echinomuricea		parareticulata	Stiasny, 1942				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287538	
+287547	832299	Echinomuricea		stellata	(Nutting, 1910)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287547	
+865905	290667	Eleutherobia		indica	(Thomson & Henderson, 1905)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:865905	
+290095	832294	Heterogorgia		clausa	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290095	
+290099	289859	Heterogorgia		humilis	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290099	
+291843	125422	Anthelia		inermis	Berenguier, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291843	
+292009	213047	Psammogorgia		pulchra	(Thomson, 1911)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292009	
+291844	286614	Anthelia		inermis	Berenguier, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291844	
+289492	520675	Azoria		bayeri	(Lopez Gonzalez & Gili, 2001)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289492	
+291842	286613	Cornularia		aggregata	(Utinomi, 1955)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291842	
+291845	286615	Cornularia		komaii	(Utinomi, 1950)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291845	
+291846	286616	Cornularia		minuta	(Light, 1915)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291846	
+291847	286617	Cornularia		sagamiensis	(Utinomi, 1955)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291847	
+287921	287934	Litophyton		acutifolium	Kükenthal, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287921	
+287923	287934	Litophyton		crosslandi	Thomson & Mcqueen, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287923	
+287932	287934	Litophyton		sanderi	(May, 1899)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287932	
+287933	287934	Litophyton		stuhlmanni	(May, 1898)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287933	
+291791	209965	Lobophytum		angulatum	Tixier-Durivault, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291791	
+292557	209965	Lobophytum		caledonense	Tixier-Durivault, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292557	
+292556	209965	Lobophytum		hedleyi	Whitelegge, 1897				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292556	
+291924	289306	Mopsea		simplex	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291924	
+290403	520668	Muricella		purpurea	(Whitelegge, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290403	
+874128	213038	Nephthea		laevis	sensu Verseveldt 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:874128	
+292027	289319	Plumarella		serta	(Kükenthal & Gorzawsky, 1908)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292027	
+292026	289316	Primnoa		carinata	Kinoshita, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292026	
+292063	290190	Anthelia		scintillans	Thomson & Mackinnon, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292063	
+288002	520669	Subergorgia		mollis	(Nutting, 1910)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288002	
+288008	520671	Subergorgia		reticulata	(Ellis & Solander, 1786)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288008	
+289538	146941	Briareum		grandiflorum	Möbius, 1874				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289538	
+146765	146941	Capnella		glomerata	(Verrill, 1869)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:146765	
+517875	146941	Drifa		flavescens	(Molander, 1915)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517875	
+517879	158289	Lepidomuricea		grandis	Verrill, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517879	
+291775	290993	Alcyonium		monticulum	Verseveldt, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291775	
+288870	517698	Diodogorgia		laauense	Bayer, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288870	
+291890	289189	Junceella		barbadensis	Simpson, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291890	
+291889	289188	Junceella		squamata	Toeplitz, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291889	
+291892	212767	Junceella		trilineata	Thomson & Henderson, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291892	
+292552	212767	Junceella		vimen	Valenciennes, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292552	
+291831	290986	Lepidogorgia		gibbosa	(Nutting, 1908)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291831	
+742161	125390	Paramuricea		borealis	Verrill				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:742161	
+220386	290991	Parerythropodium		fulvum	Forskål, 1775				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:220386	
+291776	290994	Parerythropodium		rubiginosum	Verseveldt, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291776	
+291894	290997	Riisea		regia	(Steenstrup, 1861)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291894	
+291774	290992	Sympodium		fuscum	(Thomson & Henderson, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291774	
+146764	146943	Capnella		florida	(Rathke, 1806)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:146764	
+287393	146943	Gersemia		florida	(Rathke, 1806)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287393	
+291926	287450	Primnoisis		armata	Kükenthal, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291926	
+291927	173316	Primnoisis		spicata	Hickson, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291927	
+288706	288707	Homophyton		verrucosa	Möbius, 1861				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288706	
+291823	288707	Spongioderma		chuni	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291823	
+742688	288708	Spongioderma		vickersi	Benham, 1928				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:742688	
+286017	288098	Anthomastus		phalloides	Benham, 1928				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286017	
+288097	288098	Minabea		ozakii	Utinomi, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288097	
+289398	743681	Amphilaphis		grandiflora	(Kükenthal, 1912)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289398	
+292042	409512	Amphilaphis		parva	Kinoshita, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292042	
+289400	743679	Amphilaphis		regularis	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289400	
+289822	409510	Diplocalyptra		coronata	Kinoshita, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289822	
+289823	409512	Diplocalyptra		parva	(Kinoshita, 1908)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289823	
+409583	286572	Hookerella		pulchella	Gray, 1870				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:409583	
+173555	286569	Thouarella	Parathouarella	striata	Kükenthal, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:173555	
+173561	286574	Thouarella	Parathouarella	variabilis	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:173561	
+286560	286564	Thouarella	Euthouarella	flabellata	Kükenthal, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286560	
+286571	286564	Thouarella	Euthouarella	tenuisquamis	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286571	
+292041	409510	Thouarella		coronata	(Kinoshita, 1908)				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:292041	
+517764	291116	Primnoisis		humilis	Deichmann, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517764	
+289338	213048	Acrophyton		claviger	Hickson, 1900				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289338	
+290382	520672	Muricella		arborea	(Thomson & Simpson, 1909)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290382	
+865904	289477	Muricella		sinensis	(Verrill, 1865)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:865904	
+292010	213050	Muriceides		fusca	Thomson, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292010	
+290104	520673	Heterogorgia		polyklados	Germanos, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290104	
+290109	520674	Heterogorgia		theophilasi	Germanos, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290109	
+291929	125377	Lepidisis		vitrea	Verrill, 1883				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291929	
+291967	288107	Alcyonium		gracillimum	Kükenthal, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291967	
+292053	290683	Candidella		doederleini	(Wright & Studer, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292053	
+292054	290685	Candidella		spinosa	(Wright & Studer, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292054	
+289849	517892	Echinogorgia		asper	(Moroff, 1902)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289849	
+291930	286333	Keratoisis		nuda	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291930	
+517880	290941	Mopsea		bargibanti	Bayer & Sefani, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517880	
+291934	290940	Mopsea		plumacea	Briggs, 1915				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291934	
+286392	832308	Placogorgia		cryptotheca	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286392	
+291936	173509	Primnoisis		pulchella	(Studer, 1879)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291936	
+291027	287473	Scleracis		macquariana	Bayer & Stefani, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291027	
+291029	173509	Scleracis		pulchella	Studer, 1879				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291029	
+291968	288109	Spongodes		pallida	(Whitelegge, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291968	
+287998	288010	Subergorgia		appressa	(Nutting, 1911)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287998	
+288007	288010	Subergorgia		pulchra	(Nutting, 1911)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288007	
+290888	367982	Pseudopterogorgia		acerosa	(Pallas, 1766)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290888	
+290889	708858	Pseudopterogorgia		albatrossae	Bayer, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290889	
+290890	708859	Pseudopterogorgia		americana	(Gmelin, 1791)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290890	
+290893	708860	Pseudopterogorgia		bipinnata	(Verrill, 1864)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290893	
+290894	708861	Pseudopterogorgia		blanquillensis	(Stiasny, 1941)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290894	
+290895	708862	Pseudopterogorgia		elisabethae	Bayer, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290895	
+290898	708863	Pseudopterogorgia		hummelincki	Bayer, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290898	
+290899	708864	Pseudopterogorgia		hystrix	Bayer, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290899	
+290900	708865	Pseudopterogorgia		kallos	(Bielschowsky, 1918)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290900	
+290903	708866	Pseudopterogorgia		navia	Bayer, 1961				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290903	
+290906	708867	Pseudopterogorgia		rigida	(Bielschowsky, 1929)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290906	
+287526	520676	Echinomuricea		brunnea	(Nutting, 1908)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287526	
+292011	286341	Nicaule		crucifera	Bayer, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292011	
+291925	221133	Primnoisis		ramosa	Hickson, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291925	
+517609	829001	Alcyonium		caparti	Tixier-Durivault, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517609	
+132152	829002	Alcyonium		globusum	Tixier-Durivault, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:132152	
+287365	829003	Alcyonium		gruveli	Tixier-Durivault, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287365	
+517612	829004	Alcyonium		laxum	Tixier-Durivault, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517612	
+517614	829005	Alcyonium		miniatum	Tixier-Durivault, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517614	
+287371	829006	Alcyonium		monodi	Tixier-Durivault, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287371	
+288503	209973	Sinularia		compressa	Tixier-Durivault, 1945				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288503	
+291817	209987	Sinularia		elegans	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291817	
+291731	288500	Sinularia		palmata	(Pratt, 1903)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291731	
+291811	288500	Sinularia		pinnulata	(Shann, 1912)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291811	
+291816	288559	Sinularia		crispa	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291816	
+291728	288542	Sinularia		dumosa	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291728	
+291729	288542	Sinularia		partita	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291729	
+291730	288553	Sinularia		intacta	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291730	
+291813	288535	Sinularia		renei	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291813	
+291814	288542	Sinularia		ramulosa	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291814	
+291815	288553	Sinularia		rotundata	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291815	
+289537	289534	Briareum		gorgonoideum	Blainville, 1830				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289537	
+418850	289534	Briareum		polyanthes	(Duchassaing & Michelotti, 1860)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:418850	
+213022	289539	Clavularia		hamra	Gohar, 1948				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:213022	
+289536	289541	Briareum		excavata	(Nutting, 1911)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289536	
+517886	125418	Paragorgia		nodosa	Koren & Danielssen, 1883				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517886	
+517887	125418	Paragorgia		pacifica	Verrill, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517887	
+177711	125419	Paragorgia		boschmai	Bayer, 1964				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177711	
+517878	156101	Gersemia		longiflora	Verrill, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517878	
+517883	156101	Nidalia		arctica	Danielssen, 1887				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517883	
+742160	156103	Alcyonium		rubiforme	(Ehrenberg)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:742160	
+287338	156103	Capnella		rubiformis	(Ehrenberg, 1834)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287338	
+158271	156103	Eunephthya		rubiformis	(Ehrenberg, 1834)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:158271	
+564022	156103	Lobularia		rubiformis	Eherenberg, 1834				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:564022	
+517877	158274	Gersemia		capitata	(Danielssen, 1887)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517877	
+293248	286453	Acamptogorgia		ceylonensis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:293248	
+292022	125397	Echinomuricea		atlantica	(Johnson, 1862)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292022	
+177741	125398	Echinomuricea		klavereni	Carpine & Grasshoff, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177741	
+156104	287396	Gersemia		uvoeformis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156104	
+409548	125411	Gorgonia		lepadifera	Linnaeus, 1767				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:409548	
+409547	125411	Gorgonia		reseda	Pallas, 1766				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:409547	
+291785	288630	Lobularia		pauciflora	(Ehrenberg, 1834)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291785	
+287803	724231	Euplexaura		marki	Kükenthal, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287803	
+291960	289649	Nephthea		australis	Kükenthal, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291960	
+292626	289649	Nephthea		quercus	Kükenthal, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292626	
+291959	289647	Nephthya		pellucida	Kükenthal, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291959	
+292625	289649	Nephthya		rubra	Kükenthal, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292625	
+291961	289651	Stereonephthya		sierra	Thomson & Dean, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291961	
+173333	290495	Mopsea		elongata	Roule, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:173333	
+173426	409519	Ascolepsis		splendens	Thomson & Rennet, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:173426	
+173438	409520	Caligorgia		kukenthali	Molander, 1929				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:173438	
+173543	743429	Thouarella	Euthouarella	abies	Broch, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:173543	
+212087	290252	Alcyonium		flaccidum	Tixier-Durivault, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:212087	
+212091	290259	Alcyonium		utinomii	Verseveldt, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:212091	
+286596	290639	Corallium		stylasteroides	Ridley, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286596	
+289855	832305	Echinogorgia		flora	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289855	
+289958	409520	Fannyella		kukenthali	(Molander, 1929)				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:289958	
+289964	409519	Fannyella		rossii	Gray, 1872				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:289964	
+289965	409525	Fannyella		spinosa	(Thomson & Rennet, 1931)				alternate representation	Unaccepted name	urn:lsid:marinespecies.org:taxname:289965	
+291762	289828	Alcyonium		rudyi	Verseveldt & van Ofwegen, 1992				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291762	
+291763	290249	Lithophyton		confertum	Kükenthal, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291763	
+291764	290250	Alcyonium		echinatum	(Tixier-Durivault, 1970)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291764	
+291765	290251	Alcyonium		equisetiform	(Luttschwager, 1922)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291765	
+292619	288291	Lobophytum		carnatum	Tixier-Durivault, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292619	
+292618	288291	Lobophytum		radiatum	Tixier-Durivault, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292618	
+292555	288291	Lobophytum		tenerum	Tixier-Durivault, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292555	
+291804	288291	Lobophytum		undatum	Tixier-Durivault, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291804	
+517754	520699	Ovabunda		aldersladei	Janes, 2008				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517754	
+367817	834203	Plexaura		flexuosa	Lamouroux, 1821				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:367817	
+210008	520699	Xenia		impulsatilla	Verseveldt & Cohen, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:210008	
+210010	290551	Xenia		biseriata	Verseveldt & Cohen, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:210010	
+210011	290554	Xenia		obscuronata	Verseveldt & Cohen, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:210011	
+210015	290553	Xenia		macrospiculata	Gohar, 1940				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:210015	
+213060	520694	Simpsonella		squamifera	(Kükenthal, 1919)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:213060	
+213061	520693	Simpsonella		spiralis	(Hickson, 1904)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:213061	
+213062	520690	Simpsonella		capensis	(Simpson, 1910)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:213062	
+213063	520691	Simpsonella		flagellata	(Simpson, 1910)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:213063	
+286467	873983	Villogorgia		inermis	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286467	
+287859	747373	Xenia		ainex	Reinicke, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287859	
+287864	747374	Xenia		crenata	Reinicke, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287864	
+287866	290549	Xenia		crista	Reinicke, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287866	
+287878	747375	Xenia		gohari	Reinicke, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287878	
+287880	520698	Xenia		hamsina	Reinicke, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287880	
+287888	520699	Xenia		miniata	Reinicke, 1997				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287888	
+291766	290254	Alcyonium		molle	Thomson & Dean, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291766	
+291767	290255	Alcyonium		okinawanum	(Utinomi, 1976)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291767	
+291768	290256	Alcyonium		rotundum	Thomson & Dean, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291768	
+291769	290257	Alcyonium		simplex	Thomson & Dean, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291769	
+291770	290258	Nidalia		tuberculosa	(Tixier-Durivault, 1970)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291770	
+291772	290260	Lithophytum		viscidum	Utinomi, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291772	
+291836	290635	Corallium		inutile	Kishinouye, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291836	
+291837	290636	Corallium		japonicum	Kishinouyi, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291837	
+291839	290638	Corallium		salomonense	Thomson & Mackinnon, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291839	
+291963	290253	Alcyonium		legitimum	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291963	
+292043	289948	Callogorgia		compressa	Verrill, 1865				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292043	
+292044	289951	Callogorgia		fraseri	(Hickson, 1915)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292044	
+292045	289952	Callogorgia		granulosa	(Kinoshita, 1907)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292045	
+292047	743429	Fannyella		abies	Broch, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292047	
+292515	409519	Ascolepis		splendens	(Thomson & Rennet, 1931)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292515	
+292516	289955	Callogorgia		tuberculata	Versluys, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292516	
+409522	743429	Fannyella	Scyphogorgia	liouvillei	(Gravier, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:409522	
+409523	743429	Thouarella		abies	Broch, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:409523	
+754313	286626	Halipteris		septentrionalis	(Gray, 1872)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:754313	
+832306	832307	Echinogorgia		pseudoaurantiaca	Stiasny, 1942				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:832306	
+287920	520692	Simpsonella		ramifera	Williams, 1992				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287920	
+291802	288284	Sarcophyton		plicatum	Schenk, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291802	
+291803	288288	Sarcophyton		poculiforme	Tixier-Durivault, 1958				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291803	
+291805	209625	Sarcophyton		globosum	Tixier-Durivault, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291805	
+291806	209622	Sarcophyton		molle	Tixier-Durivault, 1946				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291806	
+291807	209621	Sarcophyton		tenuis	Pratt, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291807	
+291808	288306	Sarcophyton		convolutum	Thomson & Dean, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291808	
+291809	209618	Sarcophyton		decaryi	Tixier-Durivault, 1948				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291809	
+292064	290549	Xenia		arabica	(Reinicke, 1995)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292064	
+292065	290550	Xenia		benayahui	(Reinicke, 1995)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292065	
+292066	290552	Xenia		faraunensis	(Verseveldt & Cohen, 1971)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292066	
+292067	290555	Xenia		verseveldti	Benayahu, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292067	
+292554	288291	Sarcophytum		puertogalerae	Roxas, 1932				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292554	
+292644	209621	Sarcophyton		icolor	Pratt, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292644	
+292645	209625	Sarcophyton		implanum	Verseveldt, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292645	
+292646	209618	Sarcophyton		certum	Tixier-Durivalt, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292646	
+292647	209618	Sarcophyton		fungiforme	Schenk, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292647	
+292648	209618	Sarcophyton		dispersum	Schenk, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292648	
+292650	209618	Sarcophyton		manifestum	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292650	
+292651	209622	Sarcophyton		reichenbachi	Schenk, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292651	
+517889	286030	Sarcodictyon		agglomerata	Forbes & Goodsir, 1851				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517889	
+290101	832298	Heterogorgia		operculata	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290101	
+290106	832294	Heterogorgia		reticulata	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290106	
+290107	832299	Heterogorgia		stellata	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290107	
+286210	520683	Leptogorgia		angolana	Grasshoff, 1992				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286210	
+291916	290896	Leptogorgia		formosa	(Nutting, 1910)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291916	
+286245	520684	Leptogorgia		guineensis	Grasshoff, 1988				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286245	
+286282	520685	Leptogorgia		sanguinolenta	(Pallas, 1766)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286282	
+286283	520686	Leptogorgia		schoutedeni	Stiasny, 1939				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286283	
+286446	517893	Thesea		sanguinea	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286446	
+291773	290662	Minabea		acronocephala	(Williams, 1992)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291773	
+291796	290663	Minabea		aldersladei	Williams, 1992				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291796	
+291797	290665	Minabea		cosmarioides	Williams, 1992				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291797	
+291798	290666	Minabea		goslineri	Williams, 1992				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291798	
+291799	290667	Minabea		indica	(Thomson & Henderson, 1905)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291799	
+291800	290668	Minabea		kosiensis	Williams, 1992				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291800	
+291801	290669	Minabea		robusta	Utinomi & Imahara, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291801	
+291918	290905	Lophogorgia		pinnata	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291918	
+291920	290908	Lophogorgia		thomassini	(Tixier-Durivault, 1972)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291920	
+291921	290909	Leptogorgia		torresia	(Wright & Studer, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291921	
+292008	125421	Lobularia		spinulosum	(Delle Chiajie, 1822)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292008	
+292020	517894	Thesea		simplex	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292020	
+286019	724718	Anthomastus		robustum	Versluys, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286019	
+367950	287633	Ellisella		ramosa	(Simpson, 1910)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:367950	
+292538	287642	Ctenocella		regia	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292538	
+292017	125384	Muriceides		sceptrum	(Studer, 1891)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292017	
+292016	286355	Clematissa		chamaeleon	(von Koch, 1887)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292016	
+288416	517575	Acabaria		dakini	Thorpe, 1928				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288416	
+517871	291834	Clavularia		danae	Hickson, 1895				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517871	
+287552	874479	Muricea		appressa	(Verrill, 1864)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287552	
+287578	874479	Muricea		tenella	Verrill, 1869				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287578	
+742687	290176	Semperina		macrocalyx	Nutting, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:742687	
+517837	287562	Thesea		crosslandi	Hickson, 1928				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517837	
+517888	290880	Pseudoplexaura		crassa	(Ellis & Solander, 1786)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517888	
+738475	125421	Paralcyonium		elegans	Milne Edwards, 1857				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:738475	
+292018	286397	Pseudothesea		foliata	Aurivillius, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292018	
+177692	125344	Telesto		septentrionalis	Madsen, 1944				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177692	
+292019	286404	Thesea		placoderma	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292019	
+292061	287959	Xenia		rigida	May, 1899				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292061	
+292062	287960	Xenia		uniserta	Kükenthal, 1902				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292062	
+517868	517890	Clavularia		japonica	Nutting, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517868	
+177689	287517	Telesto		fructiculosa	Dana, 1846				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177689	
+290034	520696	Gorgonia		media	(Verrill, 1864)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290034	
+290040	520697	Gorgonia		stenobrochis	Valenciennes, 1846				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290040	
+291895	520696	Rhipidogorgia		media	Verill, 1864				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291895	
+291912	290583	Leptogorgia		pulchra	Verrill, 1870				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291912	
+291913	290587	Gorgonia		rutila	(Verrill, 1868)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291913	
+291914	290593	Gorgonia		tabogae	(Hickson, 1928)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291914	
+291893	286164	Nicella		ramosa	Toeplitz, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291893	
+292005	290491	Alcyonium		alta	(Tixier-Durivault, 1955)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292005	
+287368	829010	Alcyonium		laeve	Tixier-Durivault, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287368	
+292006	290492	Alcyonium		violaceum	Tixier-Durivault, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292006	
+289395	743684	Amphilaphis		abietina	Studer, 1894				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289395	
+292004	290486	Bellonella		sibogae	Utinomi, 1957				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292004	
+177708	291228	Titanidium		suberosum	(Ellis & Solander, 1786)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:177708	
+286551	716954	Thouarella	Thouarella	alternata	Nutting, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286551	
+286559	716943	Thouarella	Thouarella	diadema	Cairns, 2006				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286559	
+286568	716951	Thouarella	Thouarella	recta	Nutting, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286568	
+286570	574237	Thouarella		superba	(Nutting, 1912)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286570	
+291932	290827	Mopsea		elegans	Thomson & Mackinnon, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291932	
+291996	291097	Neospongodes		portoricensis	(Hargitt, 1901)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291996	
+292021	290812	Plexaurella		fusifera	Kunze, 1916				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292021	
+292604	291070	Dendronephthya		celosia	Lesson, 1834				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292604	
+606874	606872	Cereopsis		studeri	Koch, 1891				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:606874	
+291819	289559	Anthopodium		australe	Verrill, 1876				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291819	
+291820	289560	Anthopodium		rubens	Verrila, 1872				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291820	
+286481	177832	Callogorgia		americana		americana	Subspecies	Bayer & Cairns, 2003	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286481	
+520679	286483	Caligorgia		cristata	Aurivillius, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:520679	
+292030	286483	Callogorgia		weltneri	(Versluys, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292030	
+390614	832293	Callogorgia		americana		delta	Subspecies	Cairns & Bayer, 2003	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:390614	
+292031	286486	Primnoa		flabellum	Ehrenberg, 1834				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292031	
+292032	286487	Primnoella		indica	Kükenthal, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292032	
+173445	286503	Caligorgia		ventilabrum	Studer, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:173445	
+292033	173455	Callozostron		horridum	Kükenthal, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292033	
+289001	289000	Dendronephthya		elegans	Henderson, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289001	
+292052	286536	Calyptrophora		mariae	Versluys, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292052	
+288651	205239	Nephthea		armata	Thomson & Henderson, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288651	
+213043	205239	Nephthea		hirsuta	Tixier-Durivault, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:213043	
+288691	205239	Nephthea		zanzibarensis	Thomson & Henderson, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288691	
+291825	290915	Suberia		genthi	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291825	
+212089	743784	Alcyonium		moriferum	(Tixier-Durivault, 1954)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:212089	
+212088	743785	Alcyonium		valdiviae	Kükenthal, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:212088	
+287757	743779	Eleutherobia		albiflora	(Utinomi, 1957)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287757	
+213036	743780	Eleutherobia		aurea	Benayahu & Schleyer, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:213036	
+287763	743781	Eleutherobia		grayi	(Thomson & Dean, 1931)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287763	
+743786	743782	Eleutherobia		nezdoliyi	Dautova & Savinkin, 2009				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:743786	
+213034	743778	Eleutherobia		rotifera	(J.S. Thomson, 1910)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:213034	
+286406	832309	Placogorgia		pulchra	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286406	
+286407	832311	Placogorgia		reticuloides	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286407	
+287772	743783	Eleutherobia		zanahoria	Williams, 2000				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287772	
+288385	832311	Menella		reticuloides	(Nutting, 1910)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288385	
+291030	291031	Scleracis		pumila	Kükenthal, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291030	
+291935	290942	Mopsea		whiteleggei	Thomson & Mackinnon, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291935	
+292057	290945	Primnoa		plumatilis	(Milne Edwards, 1857)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292057	
+743674	743675	Stenella	Dasystenella	liouvillei	Gravier, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:743674	
+212094	289821	Alcyonium		mutabiliforme	Williams, 1988				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:212094	
+517615	829007	Alcyonium		patulum	Tixier-Durivault, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517615	
+517616	829008	Alcyonium		pobeguini	Tixier-Durivault, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517616	
+517619	829009	Alcyonium		strictum	Tixier-Durivault, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517619	
+286349	286350	Bebryce		stellata	Hentschel, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286349	
+289520	520677	Belonella		unilobata	(Thomson, 1921)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289520	
+289884	880187	Elasmogorgia		mitsukurii	(Kinoshita, 1909)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289884	
+158293	128516	Ptilella		borealis	(M. Sars)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:158293	
+210018	287895	Xenia		blumi	Schenk, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:210018	
+286437	880187	Thesea		mitsukurii	(Kinoshita, 1909)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286437	
+290988	289519	Rhodophyton		variabile	Studer, 1891				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290988	
+291777	291052	Alcyonium		complanatum	(Verseveldt, 1977)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291777	
+291931	287456	Mopsea		verticellata	Lamouroux, 1816				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291931	
+292013	287812	Plexaura		platystoma	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292013	
+292014	287814	Plexaura		recta	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292014	
+292024	880187	Filigella		mitzukurii	Kinoshita, 1909)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292024	
+367723	287457	Mopsea		flabellum	Thomson & Mackinnon, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:367723	
+517836	880184	Thesea		boninensis	Aurivillius, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517836	
+517884	290926	Olindagorgia		marcgravii	Bayer, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517884	
+579809	128516	Pennatula		borealis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:579809	
+288867	288872	Diodogorgia		ceratosa	Kükenthal, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288867	
+288868	288872	Diodogorgia		cervicornis	Kükenthal, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288868	
+288869	288872	Diodogorgia		crustata	(Hargitt, 1901)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288869	
+874129	701646	Eunephthya		maldivensis	Hickson, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:874129	
+874437	874125	Litophyton		albida	(Holm, 1894)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:874437	
+874439	874471	Litophyton		arvispiculosa	(Thomson & Dean, 1931)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:874439	
+213039	874122	Nephthea		laevis	Kükenthal, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:213039	
+213040	874127	Nephthea		elatensis	Verseveldt & Cohen, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:213040	
+213042	874126	Nephthea		simulata	Verseveldt, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:213042	
+288303	288803	Sarcophyton		proprium	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288303	
+288648	874125	Nephthea		aberrans	Verseveldt, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288648	
+288649	874118	Nephthea		acuticonica	Verseveldt, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288649	
+288650	874438	Nephthea		amentacea	Studer, 1894				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288650	
+288653	874440	Nephthea		bayeri	Verseveldt, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288653	
+288654	874441	Nephthea		berdfordi	Shann, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288654	
+288655	874442	Nephthea		brassica	Kükenthal, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288655	
+288656	874119	Nephthea		bumasta	Verseveldt, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288656	
+288657	874443	Nephthea		capnelliformis	(Thomson & Dean, 1931)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288657	
+288659	874120	Nephthea		chabrolii	Audoin, 1828				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288659	
+288660	874445	Nephthea		columnaris	Studer, 1895				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288660	
+288661	874446	Nephthea		compacta	Verseveldt, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288661	
+288662	874447	Nephthea		concinna	Kükenthal, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288662	
+288663	874448	Nephthea		corallina	Kükenthal, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288663	
+288664	874449	Nephthea		crassa	Kükenthal, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288664	
+288665	874450	Nephthea		cupressiformis	Kükenthal, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288665	
+288666	874451	Nephthea		debilis	Kükenthal, 1895				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288666	
+288667	874452	Nephthea		digitata	(Wright & Studer, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288667	
+288668	874453	Nephthea		elongata	Kükenthal, 1895				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288668	
+288669	874454	Nephthea		erecta	Kükenthal, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288669	
+288670	874121	Nephthea		filamentosa	Verseveldt, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288670	
+288671	874127	Nephthea		galbuloides	Verseveldt, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288671	
+288672	874455	Nephthea		globulosa	(May, 1899)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288672	
+288673	874456	Nephthea		gracillima	(Thomson & Dean, 1931)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288673	
+288674	874457	Nephthea		grisea	(Kükenthal, 1895)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288674	
+288675	874458	Nephthea		junipera	(Thomson & Dean, 1931)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288675	
+288676	874123	Nephthea		lanternaria	Verseveldt, 1973				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288676	
+288677	874459	Nephthea		legiopolypa	Verseveldt & Alderslade, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288677	
+288678	874460	Nephthea		mollis	Macfadyan, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288678	
+288679	874461	Nephthea		nigra	(Kükenthal, 1895)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288679	
+288680	874462	Nephthea		pacifica	Kükenthal, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288680	
+288681	874463	Nephthea		pyramidalis	(Kükenthal, 1895)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288681	
+288682	874464	Nephthea		rubra	Kükenthal, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288682	
+288683	874465	Nephthea		setoensis	Utinomi, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288683	
+288684	874466	Nephthea		sibogae	(Thomson & Dean, 1931)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288684	
+288685	874467	Nephthea		sphaerophora	Kükenthal, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288685	
+288686	874127	Nephthea		striata	Kükenthal, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288686	
+288687	874468	Nephthea		tenuis	(Kükenthal, 1896)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288687	
+288688	874469	Nephthea		thujaria	Kükenthal, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288688	
+288689	874125	Nephthea		tixierae	Verseveldt, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288689	
+288690	874470	Nephthea		tongaensis	Kükenthal, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288690	
+291790	288774	Lobophytum		nodosum	Tixier-Durivault, 1969				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291790	
+291792	288777	Lobophytum		oblongum	Tixier-Durivault, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291792	
+291793	288784	Lobophytum		roxasi	Moser, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291793	
+291794	209963	Lobophytum		chevalieri	Tixier-Durivault, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291794	
+291821	288866	Suberia		capensis	(Thomson, 1911)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291821	
+291964	290467	Neospongodes		bahiensis	Kükenthal, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291964	
+874130	874125	Nephthea		savignyi	Ehrenberg, 1834				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:874130	
+874132	874125	Spongodes		albida	Holm, 1894				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:874132	
+874133	874125	Nephthya		jaegerskioeldi	Holm, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:874133	
+874444	874471	Litophyton		cervispiculosa	(Thomson & Dean, 1931)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:874444	
+286013	724712	Anthomastus		fisheri	Bayer, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286013	
+287641	520701	Ctenocella		sanguinolenta	(Gray, 1859)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287641	
+517632	724713	Anthomastus		venustus	Tixier-Durivault & d'Hondt, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517632	
+567060	207409	Tubipora		purpurea	Pallas, 1766				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:567060	
+287593	291858	Ctenocella		cercidia	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287593	
+287594	291859	Ctenocella		ceylonensis	Simpson, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287594	
+287597	291862	Ctenocella		cylindrica	Toeplitz, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287597	
+287599	291864	Ctenocella		divisa	Thomson & Henderson, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287599	
+287600	520722	Ctenocella		elongata	Pallas, 1766				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287600	
+287601	291865	Ctenocella		erythraea	Kükenthal, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287601	
+212765	746485	Acabaria		biserialis	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:212765	
+220499	517714	Gorgonella		maris-rubri					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:220499	
+287602	291866	Ctenocella		eustala	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287602	
+287603	520723	Ctenocella		filiformis	Toeplitz, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287603	
+287605	291867	Ctenocella		flagellum	Thomson & Russell, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287605	
+287606	291868	Ctenocella		flava	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287606	
+287610	520724	Ctenocella		gracilis	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287610	
+287611	520725	Ctenocella		grandiflora	Deichmann, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287611	
+287612	291870	Ctenocella		grandis	Verrill, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287612	
+287614	291871	Ctenocella		gruveli	Stiasny, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287614	
+287618	291873	Ctenocella		laevis	Verrill, 1865				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287618	
+287619	520726	Ctenocella		limbaughi	Bayer, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287619	
+287622	291874	Ctenocella		maculata	Studer, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287622	
+287623	291875	Ctenocella		moniliformis	Lamarck, 1816				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287623	
+287624	520727	Ctenocella		nivea	Bayer & Grasshoff, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287624	
+287625	291876	Ctenocella		nuctenea	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287625	
+287630	520728	Ctenocella		plexauroides	Toeplitz, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287630	
+287632	291878	Ctenocella		quadrilineata	Simpson, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287632	
+287634	520740	Ctenocella		rigida	Toeplitz, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287634	
+287636	520741	Ctenocella		rosea	Bayer & Grasshoff, 1995				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287636	
+287638	291880	Ctenocella		rossafila	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287638	
+287639	291881	Ctenocella		rubra	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287639	
+287644	520742	Ctenocella		thomsoni	(Simpson, 1910)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287644	
+287646	291887	Ctenocella		vermeuleni	Stiasny, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287646	
+288410	746482	Acabaria		australis	(Gray, 1868)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288410	
+288411	746483	Acabaria		baladea	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288411	
+288412	746484	Acabaria		bicolor	(Nutting, 1908)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288412	
+288413	746487	Acabaria		cinquemiglia	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288413	
+288415	746489	Acabaria		corymbosa	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288415	
+288417	746490	Acabaria		delicata	Hickson, 1940				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288417	
+288418	746491	Acabaria		divaricata	Gray, 1859				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288418	
+288419	746492	Acabaria		erythraea	(Ehrenberg, 1834)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288419	
+288420	288130	Acabaria		flabellum	(Thomson & Mackinnon, 1910)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288420	
+288421	746493	Acabaria		formosa	Nutting, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288421	
+288423	288131	Acabaria		fragilis	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288423	
+288424	746495	Acabaria		frondosa	(Brundin, 1896)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288424	
+288425	746496	Acabaria		furcata	(Thomson, 1916)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288425	
+288426	746497	Acabaria		gracillima	(Ridley, 1884)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288426	
+288427	746498	Acabaria		haddoni	Hickson, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288427	
+288428	746499	Acabaria		harbereri	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288428	
+288429	746500	Acabaria		hicksoni	Nutting, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288429	
+288430	746501	Acabaria		japonica	(Verrill, 1865)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288430	
+288431	746502	Acabaria		kuea	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288431	
+291787	287764	Nidalia		gracilis	Nutting, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291787	
+291852	291876	Ctenocella		ochracea	Studer, 1890				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291852	
+291854	520722	Junceella		barbadensis	Duchassaing & Michelotti, 1864				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291854	
+291884	520720	Leptogorgia		boryana	Milne Edwards & Haime, 1857				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291884	
+292537	520720	Verrucella		stellata	Nutting, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292537	
+292539	520720	Gorgonia		sasappo	Pallas, 1766				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292539	
+292558	287770	Metalcyonium		variabile	Thomson, 1921				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292558	
+292627	287764	Nidalia		pellucida	Kükenthal, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292627	
+517721	746486	Acabaria		capensis	(Studer, 1878)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517721	
+517876	287764	Eleutherobia		japonica	Puetter, 1900				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517876	
+835881	125399	Stenogorgia		borealis	Kramp, 1930				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:835881	
+212764	746514	Acabaria		rubra	Esper, 1789				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:212764	
+212766	746510	Acabaria		pulchra	Hickson, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:212766	
+287760	743702	Eleutherobia		flammicerebra	Williams, 2003				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287760	
+288126	746501	Melithaea		densa	(Kükenthal, 1908)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288126	
+288129	746501	Melithaea		flabellifera	(Kükenthal, 1908)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288129	
+288135	746509	Melithaea		modesta	(Nutting, 1911)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288135	
+288143	746519	Melithaea		splendens	(Nutting, 1911)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288143	
+288146	288145	Melithaea		sulphurea	(Studer, 1895)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288146	
+288395	746550	Wrightella		braueri	Kükenthal, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288395	
+288396	746551	Wrightella		coccinea	(Ellis & Solander, 1786)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288396	
+288397	746552	Wrightella		dubia	(Broch, 1916)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288397	
+288398	746554	Wrightella		stiasnyi	van Ofwegen, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288398	
+288399	746555	Wrightella		superba	Kükenthal, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288399	
+288400	746556	Wrightella		tongaensis	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288400	
+288401	746558	Wrightella		variabilis	Thomson & Henderson, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288401	
+288432	288132	Acabaria		laevis	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288432	
+288433	746505	Acabaria		modesta	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288433	
+288434	746506	Acabaria		nuttingi	Hickson, 1937				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288434	
+288435	746507	Acabaria		ouvea	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288435	
+288436	746508	Acabaria		philippinensis	(Wright & Studer, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288436	
+288437	746509	Acabaria		planoregularis	Kükenthal, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288437	
+288438	746511	Acabaria		ramulosa	Kükenthal, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288438	
+288439	746513	Acabaria		rubeola	(Wright & Studer, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288439	
+288440	746515	Acabaria		serrata	Ridley, 1884				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288440	
+288441	746516	Acabaria		sinaica	Grasshoff, 2000				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288441	
+288442	746520	Acabaria		squarrosa	Kükenthal, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288442	
+288443	746521	Acabaria		tenuis	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288443	
+288444	746522	Acabaria		triangulata	Nutting, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288444	
+288445	746523	Acabaria		undulata	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288445	
+288446	746524	Acabaria		valdiviae	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288446	
+288447	288149	Acabaria		variabilis	(Hickson, 1905)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:288447	
+289675	746527	Clathraria		atrorubens	(Gray, 1870)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289675	
+289676	746528	Clathraria		elongata	(Gray, 1859)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289676	
+289677	746529	Clathraria		maldivensis	van Ofwegen, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289677	
+289678	746530	Clathraria		omanensis	van Ofwegen, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289678	
+289679	746531	Clathraria		planiloca	(Ridley, 1888)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289679	
+289680	746532	Clathraria		robusta	Kükenthal, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289680	
+289681	746533	Clathraria		roemeri	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289681	
+289682	746534	Clathraria		rubrinodis	Gray, 1859				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289682	
+290365	746535	Mopsella		aurantia	(Esper, 1798)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290365	
+290366	746536	Mopsella		clavigera	Ridley, 1884				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290366	
+290367	746537	Mopsella		dichotoma	(Linnaeus, 1758)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290367	
+290368	746538	Mopsella		gracilis	Gray, 1859				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290368	
+290369	746540	Mopsella		klunzingeri	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290369	
+290370	746512	Mopsella		robusta	(Shann, 1912)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290370	
+290371	746542	Mopsella		sanguinea	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290371	
+290372	746543	Mopsella		singularis	Thomson, 1916				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290372	
+290373	746544	Mopsella		sinuata	(Wright & Studer, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290373	
+290374	746545	Mopsella		spinosa	Kükenthal, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290374	
+290375	746546	Mopsella		spongiosa	Nutting, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290375	
+290376	746547	Mopsella		studeri	Nutting, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290376	
+290377	746548	Mopsella		textiformis	(Lamarck, 1815)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290377	
+290378	746522	Mopsella		triangulata	(Nutting, 1911)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290378	
+290379	746549	Mopsella		zimmeri	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:290379	
+291937	291059	Mopsea		australis	Thomson & Mackinnon, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291937	
+291942	746496	Wrightella		furcata	Thomson, 1916				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291942	
+291943	288149	Melitodes		variabilis	Hickson, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291943	
+291944	288137	Acabaria		nodosa	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291944	
+292023	286420	Psammogorgia		spauldingi	Nutting, 1909				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292023	
+367839	746513	Mopsella		rubeola	(Wright & Studer, 1889)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:367839	
+517578	746517	Acabaria		splendens	(Thomson & McQueen, 1908)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517578	
+517601	746512	Acabaria		robusta	(Shann, 1912)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517601	
+517742	746541	Mopsella		retifera	(Lamarck, 1816)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517742	
+517861	746553	Wrightella		fragilis	Thomson, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517861	
+517862	746557	Wrightella		trilineata	Thomson, 1917				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517862	
+605557	746539	Mopsella		hicksoni	Thorpe, 1928				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:605557	
+607936	746503	Acabaria		mabahissi	Hickson, 1940				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:607936	
+746488	746501	Melithaea		confusum	(Moroff, 1902)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:746488	
+746494	746501	Melithaea		formosum	(Moroff, 1902)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:746494	
+746504	746509	Melitodes		modesta	(Nutting, 1911)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:746504	
+746518	746517	Melitodes		splendens	Thomson & McQueen, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:746518	
+517885	286605	Paragorgia		dendroides	Bayer, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:517885	
+158290	125411	Primnoa		reseda	(Pallas)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:158290	
+289399	743685	Amphilaphis		plumacea	Thomson & Mackinnon, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289399	
+287582	520705	Ctenocella		alba	(Thomson & Henderson, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287582	
+287584	520706	Ctenocella		anomala	(Simpson, 1910)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287584	
+287586	520702	Ctenocella		aurantia	(Gray, 1869)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287586	
+173344	869818	Primnoisis		antarctica	(Studer, 1878)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:173344	
+173347	869819	Primnoisis		fragilis	Kükenthal, 1919				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:173347	
+286541	409495	Primnoella		biserialis	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286541	
+286542	286549	Primnoella		compressa	Kükenthal, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286542	
+286547	409495	Primnoella		philippi	Aurivillius, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:286547	
+287462	869814	Primnoisis		delicatula	Hickson, 1907				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287462	
+287463	869816	Primnoisis		formosa	Gravier, 1913				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287463	
+287464	869817	Primnoisis		gracilis	(Gravier, 1913)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287464	
+287465	869818	Primnoisis		sparsa	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287465	
+287591	291856	Ctenocella		cerasina	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287591	
+287595	291860	Ctenocella		corona	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287595	
+287596	291861	Ctenocella		crassa	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287596	
+287598	291863	Ctenocella		diadema	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287598	
+287604	125360	Ctenocella		flagellum	Johnson, 1863				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287604	
+287607	520703	Ctenocella		flexuosa	Lamarck, 1815				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287607	
+287608	520707	Ctenocella		furcata	Hickson				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287608	
+287609	291869	Ctenocella		glabra	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287609	
+287613	520704	Ctenocella		granulata	Esper, 1788				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287613	
+287615	520708	Ctenocella		hicksoni	Simpson, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287615	
+287616	520709	Ctenocella		hystrix	Valenciennes, 1855				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287616	
+287617	291872	Ctenocella		ixobola	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287617	
+287626	291288	Ctenocella		pallida	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287626	
+287629	291877	Ctenocella		petila	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287629	
+287631	520711	Ctenocella		profunda	Wright & Studer, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287631	
+287635	291291	Ctenocella		rosea	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287635	
+287637	291879	Ctenocella		rossa	Grasshoff, 1999				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287637	
+287640	520713	Ctenocella		sanctaecrusis	Duchassaing & Michelotti, 1864				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287640	
+287645	291886	Ctenocella		umbraculum	Ellis & Solander, 1786				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287645	
+287647	520714	Ctenocella		verrucosa	Simpson, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:287647	
+289901	409551	Epiphaxum		auloporoides	(Lonsdale, 1850)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:289901	
+291818	288692	Sarcophyton		trochiforme	Hickson, 1900				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:291818	
+292055	286539	Primnoa		willeyi	Hickson, 1915				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:292055	

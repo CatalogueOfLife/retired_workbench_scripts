@@ -1,0 +1,2 @@
+﻿DatabaseFullName	DatabaseShortName	DatabaseVersion	ReleaseDate	AuthorsEditors	TaxonomicCoverage	GroupNameInEnglish	Abstract	Organisation	HomeURL	Coverage	Completeness	Confidence	LogoFileName	ContactPerson
+Zoraptera Species File	Zoraptera SF	5.0/5.0	05/31/2016 00:00:00	Maehr, Michael D. & Hopkins, Heidi	Zoraptera	zorapterans	Zoraptera Species File contains taxonomic and other information on the zorapterans of the world.	Illinois Natural History Survey	Zoraptera.speciesfile.org	G	99	5	Zoraptera.speciesfile.org/HomePage/Zoraptera/img_logo/SiteLogo.jpg	Mike Maehr

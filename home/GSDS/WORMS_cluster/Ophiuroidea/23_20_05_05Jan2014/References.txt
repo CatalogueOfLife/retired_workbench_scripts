@@ -1,0 +1,736 @@
+ReferenceID	Authors	Year	Title	Details	
+64			North East Atlantic Taxa		
+42916	Hoggett, A.K.	2006	A new species of Macrophiothrix (Ophiuroidea: Ophiotrichidae) common in northern Australia. Zootaxa 1326: 17–24.		
+172275	Berry, C.T.	1941	Cretaceous ophiurans from Texas. Journal of Paleontology, 15(1), 61-67.		
+172286	Clark, W.B.	1893	Mesozoic Echinodermata of the United States. U.S. Geological Survey Bulletin, 97, 1-30.		
+172281	Calzada, S. & Gutiérrez, D.	1987	Ofiuras (Echinodermata) del Ladiniense catalán. Batalleria, 1, 31-38.		
+172291	Detre, C. & Mihaly, S.	1987	Két Újabb Ophiuroida Lelet A Balaton-Felvidék Triászából. Magyar Állami Földtani Intézet Évi Jelentese, AZ 1985, 449–452.		
+172292	Detre, C.	1971	A Hofman-féle hegyszentmártoni (Villányi-hegység) anizusi Ophiuroidea-leletek: Hofmannistella transdanubica n. gen., n. sp. Földtani Közlöny, 101, 406-413.		
+172283	Chen, Z.Q. & McNamara, K.J.	2006	End-Permian extinction and subsequent recovery of the Ophiuroidea (Echinodermata). Palaeogeography, Palaeoclimatology, Palaeoecology, 236, 321-344.		
+172296	Easton, W.H.	1943	The fauna of the Pitkin Formation of Arkansas. Journal of Paleontology, 17(2), 125-154.		
+172297	Eck, H.	1865	Über die Formationen des bunten Sandsteins und des Muschelkalks in Oberschlesien und ihre Versteinerungen. Friedländer und Sohn, Berlin, 1-148.		
+172349	Oppel, A.	1864	Über das Lager von Seesternen im Lias und Keuper. Jahreshefte des Vereins für vaterländische Naturkunde in Württemberg, 20, 112.		
+172279	Broderip, W.J.	1840	Description of some fossil Crustacea and Radiata, found at Lyme Regis, in Dorsetshire. Transactions of the geological Society of London, 2, 390-396.		
+172300	Forbes, E.	1843	On the fossil remains of starfishes and of the order Ophiuridae, found in Britain. Proceedings of the geological Society of London, 4, 232-234.		
+172288	Cottreau, J.	1929	Echinodermes du Bradfordien des environs d'Alençon (Orne). Compte rendu sommaire et bulletin de la Société Géologique de France, 4(29), 463-469.		
+172289	Damon, R.	1880	Supplement to the Geology of Weymouth and the Isle of Portland. 2nd edition. London.		
+172325	König, E.	1825	Icones fossilium sectiles. London, 1-44.		
+172345	Miller, H.W. Jr.	1958	A new genus and species of Permian ophiuroid from Kansas. Journal of Paleontology, 32(2), 357-361.		
+172277	Boehm, G.	1889	Ein Beitrag zur Kenntnis fossiler Ophiuren. Bericht der naturforschenden Gesellschaft Freiburg. Breslau, 4, 232-287.		
+172315	Hess, H.	1970	Schlangensterne und Seesterne aus dem oberen Hauterivien "Pierre jaune" von St-Blaise bei Neuchâtel. Eclogae geologicae Helvetiae, 63(3), 1069-1091.		
+172304	Hattin, D.E.	1967	Permian ophiuroids from Northern Oklahoma. Journal of Paleontology, 41(2), 489-492.		
+172314	Hess, H.	1965	Trias-Ophiuren aus Deutschland, England, Italien und Spanien. Mitteilungen der Bayerischen Staatssammlung für Paläontologie und historische Geologie, 5, 151-177.		
+154122	Hernandez-herrejon, L.A., Soliz -Marin, F.A., Laguarda-Figueras, A., Pineda Enriquez, T.	2010	First record of Ophioderma vansyoci (Echinodermata: Ophiuroidea) in the Gulf of California. Marine Biodiversity Records 3: 1-3.		
+172311	Hess, H.	1960	Neubeschreibung von Geocoma elegans (Ophiuroidea) aus dem unteren Callovien von La Voulte-sur-Rhône (Ardèche). Eclogae geologicae Helvetiae, 53(1), 335-385.		
+172282	Chapman, F.	1934	A Lower Cretaceous Brittle-star from Queensland. Proceedings of the Royal Society of Victoria, 46, 195-199.		
+171217	Kroh, A. & Thuy, B.	2013	A new Philippine ophiuroid symbiotic on a cassiduloid echinoid species. Zoologischer Anzeiger 252: 279-288.		
+163039			Club d'immersió Facultat de Biologia, Universitat de Barcelona		
+151595	Thomas, L.P.	1962	The shallow water amphiurid brittle stars (Echinodermata, Ophiuroidea) of Florida. Bulletin of Marine Science of the Gulf and Caribbean 12(4): 623-694.		
+151643	Dhora, DH.	2008	Fjalor i emrave të kafshëve të Shqipërisë (Emri shkencor – Shqip – Anglisht) / Dictionary of animal names of Albania (Scientific names – Albanian – English). Camaj – Pipa. Shkodër, Albania.		
+151849	Clark, A.H.	1952	Schizostella, a new genus of brittle-star (Gorgonocephalidae). Proceedings of the United States National Museum 102: 451-454.		
+151872	Thomas, L.P.	1966	A revision of the tropical American species of Amphipholis (Echinodermata: Ophiuroidea). Bulletin of Marine Science 16(4): 827-833.		
+151844	Clark, H.L.	1939	A new Astroconus from South Australia. Records of the South Australian Museum 6: 207-208		
+151841	Clark, H.L.	1915	A remarkable new brittle star. Journal of Entomology and Zoology 7: 64-66.		
+151869	Thomas, l.P.	1964	Amphiodia atra (Stimpson) and Ophionema intricata Lütken, additions to the shallow water amphiurid brittlestar fauna of Florida (Echinodermata: Ophiuroidea). Bulletin of Marine Science of the Gulf and Caribbean 14(1): 158-167		
+172294	Donofrio, D.A. & Mostler, H.	1977	Wenig beachtete Echinodermaten-Skelettelemente aus der Alpinen Trias. Geologisch-Paläontologische Mitteilungen Innsbruck, 6(6), 1-27.		
+172307	Hess H.	1964	Die Ophiuren des englischen Jura. Eclogae geologicae Helvetiae, 57, 756-801.		
+172306	Hess H.	1962	Mikropaläontologische Untersuchungen an Ophiuren II: Die Ophiuren aus dem Lias (Pliensbachien-Toarcien) von Seewen (Kt. Solothurn). Eclogae geologicae Helvetiae, 55, 609-656.		
+172313	Hess, H.	1963	Mikropaläontologische Untersuchungen an Ophiuren II: Die Ophiuren aus dem Lias (Pliensbachien-Toarcien) von Seewen (Kt. Solothurn). Eclogae geologicae Helvetiae 55: 609-656.		
+172317	Hess, H.	1991	Neue Schlangensterne aus dem Toarcium und Aalenium des Schwäbischen Jura (Baden-Württemberg). Stuttgarter Beiträge zur Naturkunde, Serie B, 180, 1-11.		
+172318	Ishida, Y.	1991	Fossil Ophiurois from the Oligocene Asagai Formation of Iwaki, Fukushima, Japan. Bulletin of the National Science Museum, series C (Geology & Paleotology), 18(2), 65-78.		
+172326	Kristan-Tollmann E. & Gramann F.	1992	Paleontological evidence for the Triassic age of rocks dredged from the northern Exmouth Plateau (Tethyan foraminifers, echinoderms and ostracodes). In: Rad U. von, Haq B.U. et al. (eds) Proceedings of the Ocean Drilling Program, Scientific Results 122: 463-474. College Station, Texas.		
+172332	Kutscher, M. & Villier, L.	2003	Ophiuroid remains from the Toarcian of Sainte-Verge (Deux-Sèvres, France): paleobiological perspectives. Geobios, 36, 179-194.		
+172334	Kutscher, M.	1987	Die Echinodermen der Callovien-Geschiebe. Der Geschiebe-Sammler, 2-3, 53-104.		
+172335	Kutscher, M.	1988	Zur Invertebratenfauna und Stratigraphie des oberen Pliensbachien von Grimmen (DDR), Echinodermata. Freiberger Forschungshefte, C419, 62-70.		
+172347	Morris, R.W., Rollins, H.B. & Shaak, G.D.	1973	A New Ophiuroid from the Brush Creek Shale (Conemaugh Group, Pennsylvanian) of Western Pennsylvania. Journal of Paleontology, 47(3), 473-478.		
+172348	Müller, A.H.	1950	Die Ophiuroideenreste aus dem Mucronatensenon von Rügen. Geologica, 5, 4-35.		
+172369	Thuy, B. & Schulz, H.	2012	The oldest representative of a modern deep-sea ophiacanthid brittle-star clade from Jurassic shallow-water coral reef sediments. Acta Palaeontologica Polonica, http://dx.doi.org/10.4202/a		
+172381	Wolburg, J.	1939	Skelettreste von Ophiuren aus dem deutschen Lias, ihre systematische Zugehörigkeit und Bedeutung als Mikrofossilien. Paläontologische Zeitschrift, 21, 20-42.		
+156561	Manso, C.L.C.	2004	Echinodermata da Bacia de Camamu, Bahia, Brasil. Biologia Geral e Experimental 5(1): 19-25		
+172299	Feng, R.-L.	1985	New discovery of fossil ophiuroids from Guizhou and southern Sichuan, China. Acta Palaeontologica Sinica, 24, 337-343.		
+172321	Jagt, J.W.M.	1998	Fossils explained 21: Post-Palaeozoic ophiuroids. Geology Today, 2, 77-80.		
+172312	Hess, H.	1960	Ophiurenreste aus dem Malm des Schweizer Juras und des Departements Haut-Rhin. Eclogae Geologicae Helvetiae, 53(1), 385-421.		
+172327	Kristan-Tollmann, E., Tollmann, A. & Hamedani, A.	1979	Beiträge zur Kenntnis der Trias von Persien. Mitteilungen der österreichischen geologischen Gesellschaft, 70, 119-190.		
+172301	Forbes, E.	1852	Monograph of the Echinodermata of the British Tertiaries. Palaeontographical Society London, 6, 1-36.		
+156555	Koehler, R.	1895	Dragages profonds executes a bord du Caudan dans le Golfe de Gascogne. Rapport préliminaire sur le Échinodermes. Revue biologique du Nord de la France 7: 439-496.		
+149693	Okanishi, M. & Fujita, T.	2011	Two new species of the subgenus Asteroporpa (Asteromoana) (Ophiuroidea: Euryalida: Gorgoncephalidae) from Japan. Zootaxa 2751: 25-39.		
+150882	ICZN Opinion 1560. Asterias squamata Delle Chiaje,	1828	curretnly Amphipholis squamata; Echinodermata, Ophiuroidea): specific name conserved. Bulletin of Zoological Nomenclature 46(3): 210.		
+150879	Clark, A.M.	1987	Case 2131. Asterias squamata Delle Chiaje, 1828 (currently Amphipholis squamata; Echinodermatat, Ophiuroidea): proposed conservation of the specific name. Bulletin of Zoological Nomenclature 44(4): 246-247.		
+151874	Clark, H.L.	1915	The Echinoderms of Ceylon other than Holothurians. Spolia Zeylandica 10(37): 83-102.		
+151876	Ely, C.A.	1944	A new brittle-star (Ophiocoma anaglyptica) from Canton Island. Journal of the Washington Academy of Sciences 34: 373-375.		
+153341	Hendler, G.	2011	New light on the nomenclature, taxonomy, and biology of Hemipholis species (Echinodermata: Ophiuroidea: Ophiactidae). Zootaxa 3048: 44-52.		
+139305	Müller, O.F.	1789	Zoologia Danica seu Animalium Daniae et Norwegiae rariorum ac minus notorum. Descritiones et Historia [vol.3]		
+164158	Martín-Ledo, R., Sands, C.J. & López-González, P.J.	2012	A new brooding species of brittle star (Echinodermata: Ophiuroidea) from Antarctic waters. Polar Biology DOI 10.1007/s00300-012-1242-z		
+165516	Dyntaxa	2013	Swedish Taxonomic Database. Accessed at www.dyntaxa.se [15-01-2013].		
+166272	Thuy, B. & Meyer, C.A.	2013	The pitfalls of extrapolating modern depth ranges to fossil assemblages: new insights from Middle Jurassic brittle stars (Echinodermata: Ophiuroidea) from Switzerland. Swiss Journal of Palaeontology. doi:10.1007/s13358-012-0048-5  (published online 2012, in print 2013)		
+166269	Mills, V.S. & O'Hara, T.D.	2013	Ophiuroids (Echinodermata; Ophiuroidea) of biogenic habitats on the continental shelf of New Zealand. Zootaxa 3613 (5): 401-444.		
+152795	Okanishi, M., O'Hara, T.D. & Fujita, T.	2011	A new genus Squamophis of Asteroschematidae (Echinodermata, Ophiuroidea, Euryalida) from Australia. ZooKeys 129: 1-15.		
+153342	Duncan, P.M.	1881	On an unusal form of the genus Hemipholis, Agass. Journal of the Linnean Society. Zoology 15: 138-143, pl. 6		
+151875	Matsumoto, H.	1913	Preliminary notice of a new interesting ophiuran (Astrophiura kawamurai). Annotationes zoologicae Japonenses 8(2): 225-228, 1pl.		
+151871	Hoggett, A.K.	1990	Taxonomy and systematic position of the brittlestar genus Macrophiothrix H.L. Clark (Echinodermata: Ophiuroidea). Thesis, Univ. of Queensland, 398 pp		
+151873	Rowe, F.W.E.	1985	A review of the ophiocomin genus Clarkcoma Devaney, 1970 (Ophiuroidea: Ophiocomidae). Proceedings of the Linnean Society of New South Wales 108(1): 59-69.		
+172336	Kutscher, M.	1992	Ophiomusium geisingense n. sp. - eine neue Ophiurenart aus dem Lias Epsilon (Unteres Toarcium) von Bachhausen/Bayern. Archaeopteryx, 10, 25-30.		
+166785	Koehler R	1896	Échinodermes. Résultats scientifiques de la Campagne du “Caudan” dans le Golfe de Gascogne. <i>Annales de l'Université de Lyon</i>, 26: 33-127.		
+151458	Turner, R.L. & Hallan, K.	2011	Triplodia, replacement name for Triodia A.M. Clark, 1970 (Ophiuroidea: Amphiuridae) non Hübner, 1820 (Lepidoptera: Hepialidae). Proceedings of the Biological Society of Washington 124(1): 7-8.		
+151829	Mortensen, T.	1952	Echinoidea and Ophiuroidea. Reports of the Lund University Chile Expedition 1948-49, 3. Lunds Universitets årsskrift N.F. avd. 2, 47(8): 1-22.		
+151834	Koehler, R.	1898	Description d’une ophiure littorale nouvelle de l’Ócean Indien (Ophiothrix innocens). Bulletin de la Société Zoologique de France 23:164-165.		
+151836	Ives, J.E.	1891	Echinoderms and arthropods from Japan. Proceedings of the Academy of Natural Sciences of Philadelphia 1891: 210-223, pls 7-11.		
+151831	O'Hara, T.	1990	New records of Ophiuridae, Ophiacanthidae and Ophiocomidae (Echinodermata: Ophiuroidea) form south-eastern Australia. Memoirs of the Museum of Victoria 50(2): 287-305.		
+151825	THOMAS, L.P.	1975	The systematic relationships of Ophioplocus, Ophioceramis and Ophioceres (Echinodermata: Ophiuroidea). Bulletin of Marine Science, 25: 232–247 figs 1–3.		
+151832	Murakami, S.	1963	On some ophiurans from Kii and vicinities with descriptions of a new species. Publications of the Seto Marine Biological Laboratory 11: 171-184.		
+168640	Mills, S.V. & O'Hara, T.D.	2010	Amphilepis neozelandica sp. nov., the first record of the Amphilepididae in New Zealand waters (Echinodermata: Ophiuroidea).  Zootaxa 2514: 47-54		
+172337	Kutscher, M.	1996	Echinodermata aus dem Ober-Toarcium und Aalenium Deutschlands II. Ophiuroidea. Stuttgarter Beiträge zur Naturkunde, Serie B (Geologie und Paläontologie), 242, 1-33.		
+172338	Lanquine, A.	1916	Sur un Ophiuridé du Rhétien des Alpes-Maritimes. Bulletin de la Société Géologique de France, 4e série, 16, 88-96.		
+172339	Laugier, R.	1961	Existence d'Ophiures dans le Rhétien de Lorraine. Comptes rendus de l'Académie des Sciences, Paris, 253, 3024.		
+172342	Loriol, P. de.	1872	Description géologique et paléontologique des étages jurassiques supérieurs de la Haute-Marne. Mémoires de la Société Linnéenne de Normandie 16, Savy, Paris.		
+154626	Pomory, C.M.; Carpenter, J.H. & Winter, J.H.	2011	Amphicutis stygobita, a new genus and new species of brittle star (Echinodermata: Ophiuroidea: Ophiurida: Amphilepididae) found in Bernier Cave, an anchialine cave on San Salvador Island, Bahamas. Zootaxa 3133: 50-68.		
+147707	Martynov, A.	2010	Reassessment of the classification of the Ophiuroidea (Echinodermata), based on morphological characters. I. General character evaluation and delineation of the families Ophiomyxidae and Ophiacanthidae. Zootaxa 2697: 1-154.		
+162663	Parameswaran, U.V. & Jaleel, A.K.U.	2012	Asteroschema sampadae (Ophiuroidea: Asteroschmeatinae), a new deep-sea brittle star from the continental slope off the southern tip of India. Zootaxa 3269: 47-56.		
+172343	Martin-Medrano, L., Thuy, B. & Garcia-Barrera, P.	2009	New Albian (Early Cretaceous) Ophiuroids from the Tlayúa Quarry, Puebla, Mexico. Palaeontology, 52(1), 83-94.		
+139497	Leach, W.E.	1819	Descriptions des nouvelles espèces d’Animaux découvertes par le vaisseau Isabelle dans un voyage au pôle boréal. Journal de Physique, de Chimie 88: 462-467.		
+155345	Heller, C.,	1863	Untersuchungen über die Litoralfauna des Adriatischen Meeres.— Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften in Wien 46: 415-448, Plates 1-3.		
+154043	Stöhr, S.	2011	New records and new species of Ophiuroidea (Echinodermata) from Lifou, Loyalty Islands, New Caledonia. Zootaxa 3089: 1-50.		
+172263	Airaghi, C.	1908	Revisione degli asteroidi e degli echinidi lombardi. Rendiconti, Reale Istituto lombardo di scienze e lettere, 41, 244.		
+172268	Bataller, J.R.	1941	Equinodermos Fosiles Nuevos o Poco Conocidos de España. Las Ciencias, 6, 60-73.		
+172270	Berry, C. T.	1937	An Ophiuran from the Byram Marl (Oligocene) of Mississippi. Journal of Paleontology, 11 (3), 235-240.		
+172274	Berry, C.T.	1939	Ophiomusium calathospongum from the Mississippian of Pennsylvania. Notulae naturae of the Academy of Natural Sciences of Philadelphia, 24, 1-4.		
+172350	Picard, E.	1858	Über den Keuper bei Schlotheim in Thüringen und seine Versteinerungen. Zeitschrift für die gesamten Naturwissenschaften, 11, 425.		
+172245	Spencer, W.K.	1907	A Monograph of the British Fossil Echinodermata from the Cretaceous formations. Volume second: The Asteroidea and Ophiuroidea. Paleontographical Society Monographs, 2(4): 91-132.		
+172267	Barbier, R., Debelmas, J. & Latreille, M.	1957	Découverte d'Ophiuridés dans le Rhétien intraalpin de la région d'Orcières (Hautes-Alpes). Travaux du Laboratoire Géologique de la Faculté des Sciences de l'Université de Grenoble, 33, 105.		
+172305	Heller, C.	1858	Über neue fossile Stelleriden. Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften, mathematisch-naturwissenschaftliche Classe, 28(2), 155-170.		
+172309	Hess H.	1966	Mikropaläontologische Untersuchungen an Ophiuren V: Die Ophiuren aus dem Argovien (unteres Ober-Oxford) vom Guldental (Kt. Solothurn) und von Savigna (Dépt. Jura). Eclogae geologicae Helvetiae, 59, 1025-1063.		
+172316	Hess, H.	1975	Mikropaläontologische Untersuchungen an Ophiuren VII. Die Ophiuren aus den Humeralis-Schichten (Ober-Oxford) von Raedersdorf (Haut-Rhin). Eclogae geologicae Helvetiae, 68(3), 603-612.		
+172324	Klinghardt, F.	1933	Beobachtungen an lebenden und fossilen Schangen-Seesternen, Quallen und Rudisten. Jahrbuch der Preussischen geologischen Landesanstalt, 53, 947-963.		
+172328	Küpper, K.	1954	Ophiuroidea aus dem Torton des Wiener Beckens. Paläontologische Zeitschrift, 28, 159-166.		
+172329	Kutscher, M. & Hary, A.	1991	Echinodermen im Unteren Lias (Bucklandi- und Semicostatum-Zone) zwischen Ellange und Elvange (SE-Luxemburg). Neues Jahrbuch für Geologie und Paläontologie, Abhandlungen 182: 37-72.		
+172341	Liao, Z.T., Wang, X.J.	2002	Fossil ophiuroids from Tongziyan Formation (Middle Permian) in Longyan, Fujian. Acta Palaeontologica Sinica, 41(3), 396–402.		
+172344	Mayou, T.V.	1969	A new species of Permian Ophiuroid from Nevada. Journal of Paleontology, 43(4), 936-940.		
+9269	Muller, Y.	2004	Faune et flore du littoral du Nord, du Pas-de-Calais et de la Belgique: inventaire. [Coastal fauna and flora of the Nord, Pas-de-Calais and Belgium: inventory]. Commission Régionale de Biologie Région Nord Pas-de-Calais: France. 307 pp.		
+149398	Rodrigues, C.F.; Paterson, G.L.J.; Cabrinovic, A.; Cunha, M.R.	2011	Deep-sea ophiuroids (Echinodermata: Ophiuroidea: Ophiurida) from the Gulf of Cadiz (NE Atlantic). Zootaxa 2754: 1-26.		
+42944			Stöhr Sabine		
+43021	Hendler, G.; Miller, J.E.; Pawson, D.L.; Kier, P.M.	1995	Sea stars, sea urchins, and allies. Echinoderms of Florida and the Caribbean Sea. Smithsonian Institution Press.		
+139353	Bartsch, I.	1983	Ophiambix meteoris n.sp. , ein neuer Schlangenstern aus der Iberischen Tiefsee (Ophiacanthidae, Ophiuroidea). Spixiana, 6(2), 97-100.		
+139487	Sladen, W.P.	1879	On the structure of Astrophiura, a new and aberrant genus of Echinodermata. Ann. Mag. Nat. Hist. Ser. IV, 5.		
+139525	Djakonov, A.M.	1929	?. Trudy Murmanskogo Biologicheskogo Stantsii, 3.		
+139561	Liao, Y.	1983	On Amphilimna polyacantha sp. nov. and the systematic position of A. multispina Koehler (Ophiuroidea). Chinese Journal of Oceanology and Limnology, 1(2), 177-184, 2 pls.		
+139587	Ljungman, A. V.	1866	Om några nya arter af Ophiurider. Öfversigt af Kongliga Vetenskaps-Akademiens Förhandlingar 1866, 23(6), 163-166.		
+139611	Tommasi, L.R.	1965	Alguns Amphiuridae (Ophiuroidea) do litoral de sao Paulo e Santa Catarina. Oceanografia Biológia, 8, 1-9.		
+139669	Leriche, M.	1931	Une Ophiure du “Panisélien” de la mer du Nord (Ophiurites eocaenus nov. sp.). Bulletin de la Société géologique de France, 4(12), 7796-800.		
+139700	Berry, C.T.	1939	More complete remains of Ophiura marylandica. Proceedings of the American Philosophical Society, 80(1), 87-94.		
+139486	Bell, F.J.	1905	Echinoderma. III. Ophiuroidea. Marine Invest. S. Africa, 3, 255-260.		
+139523	Clark, A.M.	1966	Echinodermata. Port Phillip Survey 1957-1963. Memoirs nat. Mus. Victoria, 27, 289-384.		
+32476	Harms, J. ,	1993	Check list of species (algae, invertebrates and vertebrates) found in the vicinity of the island of Helgoland (North Sea, German Bight) - a review of recent records. Helgoländer Meeresuntersuch. 47 1: 1-34.		
+139701	Blake, D. B.; Allison, R.C.	1970	A new west American Eocene species of the Recent Australian ophiuroid Ophiocrossota. Journal of Paleontology, 44(5), 925-927.		
+139702	Smirnov, I. C.	1977	A new species of Ophiomisidium (Ophiuroidea) from the subantarctic waters of the Indian Ocean. Explorations of the Fauna of the Seas, 21(29), 105-108.		
+139703	Duncan, P.M.	1878	On Lütkenia, a new genus of Ophiuridae from Discovery Bay. Annals and Magazine of Natural History, 5(II), 188-193.		
+139706	Fell, H.B.	1946	7. Ophiomyxa duskiensis, a new ophiuroid from the southern fjords. Transactions of the Royal Society of New Zealand, 76(3), 421-422.		
+139675	Mortensen, T.	1939	Two new deep-sea echinoderms from the Red Sea. Publ. Mar. Biol. Stn Ghardaqa, 1, 37-45.		
+139677	Baker, A.N.	1979	Some Ophiuroidea from the Tasman Sea and adjacent waters. New Zealand Journal of Zoology, 6, 21-51.		
+139707	Murakami, S.	1943	Report on the ophiurans of Yaeyama, Ryu-Kyu. Journal of the Department of Agriculture, Kyusyu Imperial University, 7(5), 159-204.		
+139672	Duncan, P.M.	1880	On a synthetic type of ophiurid from the North Atlantic. Journal of the Linnean Society, 15, 73-78.		
+139562	Liao, Y.	1983	Ophiocentrus anomalus sp. nov. of the family Amphiuridae (Ophiuroidea) from southern China. Oceanologia Limnologia Sinica, 14(4), 407-410, 1 pl.		
+139528	Cherbonnier, G.	1957	Ophiures rares ou nouvelles des côtes de Sierra Leone. Bulletin Museum national d’Histoire naturelle Paris, 2 series, 24(2), 163-171, figs 1-3.		
+43056			Arctic benthic invertebrate collection of the Zoological Institute of the Russian Academy of Sciences (RAS)		
+139563	Clark, A.H.	1917	Two new ophiurans from the China Sea. Proceedings of the Biological Society of Washington, 30, 13-16.		
+172354	Pomel, A.	1885	Paléontologie ou description des animaux fossiles de l'Algérie. Zoophytes. 2, Echinodermes. Adolphe Jourdan, Alger, 1-344.		
+139488	Pfeffer,G.	1900	Echinodermen von Ternate. Abh. senckenberg. naturforsch. Ges., 25, 81-86.		
+139291	Irimura, S.	1967	A new species of Ophiuroidea from the coast of Kii Peninsula, Japan. Publications of the Seto Marine Biological Laboratory 15(5): 353-356.		
+139533	Djakonov, A.M.	1935	New ophiurans from the Sea of Japan. Compte Rendu de l'Academie des Science de I'Union des Republique Sovietique Sociatistes Leningrad N.S. 3(8): 186-188.		
+139565	Liao, Y.	1978	The echinoderms of Xisha Islands, Guangdong Province, China. 2. Ophiuroidea. Stud. mar. Sinica, 12, 69-104, 4 pls.		
+139588	Koehler, R.	1923	Astéries et Ophiures. Further Zoological Results of the Swedish Antarctic Expedition 1901-1903, 1 (1), 3-145.		
+172278	Bolette, D.P.	1998	Aspiduriella nom. N. for the genus Aspidura Agassiz, 1935 (Echinodermata: Ophiuroidea: Ophiuridae): preoccupied by Aspidura Wagler, 1830 (Reptilia: Serpentes: Colubridae). Journal of Paleontology, 72(2), 401-402.		
+172280	Broglio Loriga, C. & Berti Cavicchi, A.	1972	Praeaplocoma hessi n. gen., n. sp., un Ofiura del Werfeniano (Trias Inferiore) del Gruppo della Costabella, Dolomiti. Memorie Geopaleontologiche dell' Universita di Ferrara, 2(1), 185-197.		
+172284	Chen, Z.Q., Shi, G.R. & Kaiho, K.	2004	New ophiuroids from the Permian/Triassic boundary beds of South China. Palaeontology, 47, 1301-1312.		
+172287	Cornell, W.C., Lemone, D.V. & Norland, W.D.	1991	Albian ophiuroids from Cerro de Cristo Rey, Dona Ana County, New Mexico. Journal of Paleontology, 65(6), 1009-1013.		
+172293	Detre, C.	1983	Az elsö Ophiuroidea maradvany a magyarországi alsótriászbol. Földtani Közlöny. Bulletin of the Hungary Geological Society, 113, 357– 363.		
+172298	Eck, H.	1872	Rüdersdorf und Umgebung. Eine geognostische Monographie. Abhandlungen zur geologischen Specialkarte von Preußen und benachbarten Thüringischen Staaten, 1(1), 1-183.		
+172320	Jagt, J.W.M.	1991	A new ophiuroid from the Maastrichtian type area (Late Cretaceous, SE Netherlands, NE Belgium). Bulletin de l'Institut royal des Sciences naturelles de Belgique, Sciences de la Terre, 61, 197-209.		
+172322	Jagt, J.W.M.	2000	Late Cretaceous-Early Palaeogene echinoderms and the K/T boundary in the southeast Netherlands and northeast Belgium, Part 3: Ophiuroids, with a chapter on: Early Maastrichtian ophiuroids from Rügen (northeast Germany) and Møn (Denmark) by Manfred Kutscher & John W.M. Jagt. Scripta Geologica, 121, 1-179.		
+172323	Jagt, J.W.M.	2001	Deckersamphiura vitea, a new Late Campanian ophiuroid from southern Limburg (The Netherlands). Bulletin de l'Institut royal des Sciences naturelles de Belgique, Sciences de la Terre, 71, 191-193.		
+172331	Kutscher, M. & Röper, M.	1995	Die Ophiuren des "Papierschiefers" von Hienheim (Malm zeta 3, Untertithon). Archaeopteryx, 13, 85-89.		
+172346	Miller, S.A. & Gurley, W.F.E.	1891	Description of some new genera and species of Echinodermata from the Coal Measures and Subcarboniferous rocks of Indiana, Missouri, and Iowa. Indiana Department of Geology and Natural Resources, 16th Annual Report: 327-373.		
+172266	Arnold, R.	1908	Description of a new brittle star from the upper Miocene of the Santa Cruz Mountains, California. Proceedings of the United States National Museum, 36(1620), 403-405.		
+172273	Berry, C.T.	1938	Ophiurans from the Upper Senonian of South Limburg, Holland. Journal of Paleontology, 12, 61-71.		
+172276	Blumenbach, F.	1804	Specimen archaeologiae telluris terrarumque inprimis Hannoveranarum. Commentationes Societatis Regiae Scientiarum Gottingensis 15: 132–156.		
+172285	Clark, W.B. & Twitchell, M.W.	1915	The Mesozoic and Cenozoic Echinodermata of the United States. United States Geological Survey Bulletin, 54, 1-341.		
+172302	Guillaume, L.	1926	Ophiopeza portei, Ophiure nouvelle du Bathonien supérieur de Ranville (Calvados). Compte Rendu Sommaire et Bulletin de la Société Géologique de France, 4(26), 117-127.		
+172303	Hagenow, F. von	1851	Aspidura ludeni. Paläontographica, 1, 21.		
+172319	Jagt, J.W.M. & Kutscher, M.	1998	Late Cretaceous ophiuroids from Germany and the Netherlands: An update. In: Mooi, R. & Telford, M. (eds.) Echinoderms, San Francisco. A.A. Balkema, Rotterdam, 371-376.		
+172351	Picard, K.	1886	Über Ophiuren aus dem Oberen Muschelkalk bei Schlotheim in Thüringen. Zeitschrift der deutschen geologischen Gesellschaft, 38, 876.		
+172352	Picard, K.	1887	Über zwei interessante Versteinerungen aus dem Untern Muschelkalk bei Sondershausen. Zeitschrift fur die gesamten Naturwissenschaften, 60, 72.		
+172353	Picard, K.	1889	Über einige seltenere Petrefakten aus Muschelkalk. Zeitschrift der deutschen geologischen Gesellschaft, 41, 635.		
+172372	Thuy, B.	2013	Temporary expansion to shelf depths rather than an onshore-offshore trend: the shallow-water rise and demise of the modern deep-sea brittle star family Ophiacanthidae (Echinodermata: Ophiuroidea). European Journal of Taxonomy, 48,1-242.		
+172373	Thuy, B., Marty, D. & Comment, G.	2013	A remarkable example of a Late Jurassic shallow-water ophiuroid assemblage from the Swiss Jura Mountains. Swiss Journal of Geosciences, 106, 409-426.		
+172375	Ubaghs, C.	1879	Description géologique  et paléontologique du sol de Limbourg avec Catalogue général des fossiles du terrain crétacé, Coupe de la superposition des couches, et Description de quelques grands vertébrés de la craie supérieure de Maastricht. Roermond, J.J. Romen et fils, 1-275.		
+172290	Desio, A.	1951	Ophioderma torrii, nueva specie di Ofiura nel Retico del M. Albenza (Prealpi Bergamasche). Rivista Italiana di Paleontologia e Stratigrafia, 57, 67-75.		
+172308	Hess H.	1965	Mikropaläontologische Untersuchungen an Ophiuren IV: Die Ophiuren aus dem Renggeri-Ton (Unter-Oxford) von Chapois (Jura) und Longecombe (Ain). Eclogae geologicae Helvetiae, 58, 1059-1082.		
+172310	Hess H.	1975	. Mikropaläontologische Untersuchungen an Ophiuren VI: Die Ophiuren aus den Günsberg-Schichten (oberes Oxford) vom Guldental (Kt. Solothurn). Eclogae geologicae Helvetiae, 68, 591-601.		
+172330	Kutscher, M. & Jagt, J. W. M.	2000	Early Maastrichtian ophiuroids from Rügen (northeast Germany) and Mon (Denmark).		
+172333	Kutscher, M.	1981	Die Echinodermen des Oberoligozäns von Sternberg. Zeitschrift für geologische Wissenschaften, 9(2), 221-239.		
+172359	Roemer, F.A.	1840	Die Versteinerungen des Norddeutschen Kreidegebirges, 2, 49-145.		
+172362	Sanchez, T.N.	1983	A new Permian ophiuroid, Archaeophiomusium andinum nov, sp. from western Venezuela. Geobios, 16(1), 103-107.		
+172370	Thuy, B.	2005	Les ophiures de l'Hettangien inférieur de Vance (B), Bereldange/Bridel et Bourglinster (L). Memoirs of the Geological Survey of Belgium, 51, 33-57.		
+172377	Valette, A.	1929	Note sur quelques stellerides jurassiques du Laboratoire de Géologie de la Faculté des Sciences de Lyon. Travaux du Laboratoire de Géologie de la Faculté des Sciences de Lyon, 16, 1-62.		
+172382	Wright, T.	1854	Contributions to the Palaeontology of Gloucestershire: a description, with figures of some new species of Echinodermata from the Lias and Oolites. The Annals and Magazine of natural History, 2(13), 376-383.		
+172384	Wright, T.	1880	Monograph of the British fossil Echinodermata from the oolithic formations. Volume 2 - The Asteroidea and Ophiuroidea. Part 3. Monograph of the Palaeontographical Society, 1880, 155-203		
+172385	Wu, Q.	1980	First discovery of an upper Permian ophiuroid in Fujian. Acta Palaeontologica Sinica, 19(1), 61-62.		
+172430	Stöhr, S., Boissin, E. & Hoareau, T.	2013	Taxonomic revision of the Ophiocoma brevipes group (Echinodermata, Ophiuroidea), with description of a new subgenus (Breviturma) and a new species. European Journal of Taxonomy 68: 1-26.		
+172431	Pineda-Enriquez, T., Solis-Marin, F., Hooker, Y. & Laguarda-Figueras, A.	2013	Ophioderma peruana, a new species of brittlestar (Echinodermata, Ophiuroidea, Ophiodermatidae) from the Peruvian coast. Zookeys 357: 53-65.		
+35113	D'Orbigny, A.	1850	Prodrome de paléontologie stratigraphique universelle des animaux mollusques et rayonnés faisant suite au cours élémentaire de paléontologie et de géologie stratigraphique, 2, 1-428.		
+37024	Sars, M.	1857	Bidrag til kundskaben om middelhavets Littoral-Fauna, Reisebemaerkninger fra Italien. I Classis: Polypi. Nyt Mag. Naturvid. 9 : 110-164.		
+37270	Verrill, A.E.,	1885	Results of the explorations made by the steamer "Albatross", off the northern coast of the United States, in 1883. Rep. U.S. Commnr Fish., 1883  : 503-699.		
+9991	Matarrese, Alfonso	2006	Echinodermata, in: Revisione della Checklist della fauna marina italiana.		
+139355	Lyman, T.	1878	Ophiuridae and Astrophytidae of the “Challenger” expedition. Part I. Bulletin of the Museum of Comparative Zoology at Harvard College, Cambridge, Mass., 5(7), 65-168, 10 pl.		
+139356	Lyman, T.	1879	Ophiuridae and Astrophytidae of the “Challenger” expedition. Part II. Bulletin of the Museum of Comparative Zoology at Harvard College, Cambridge, Mass., 6(2), 17-83, 10 pl.		
+138533	Martens, E. v.	1870	Die Ophiuriden des indischen Oceans. Archiv für Naturgeschichte 36: 244-262.		
+9214	Southward, E.C.; Campbell, A.C.	2006	[Echinoderms: keys and notes for the identification of British species]. <i>Synopses of the British fauna (new series)</i>, 56. Field Studies Council: Shrewsbury, UK. ISBN 1-85153-269-2. 272 pp.		
+9234	Degraer S., J. Wittoeck, W. Appeltans, K. Cooreman, T. Deprez, H. Hillewaert, K. Hostens, J. Mees, E. Vanden Berghe & M. Vincx	2006	The macrobenthos atlas of the Belgian part of the North Sea. Belgian Science Policy. D/2005/1191/3. ISBN 90-810081-6-1. 164 pp.		
+10085			BIOTIC		
+172264	Alexander, C.I.	1931	A new Lower Cretaceous ophiuroid. Journal of Paleontology, 5, 152-153.		
+7476	Fleming, J.	1828	A History of British Animals, Exhibiting the Descriptive Characters and Systematical Arrangement of the Genera and Species of Quadrupeds, Birds, Reptiles, Fishes, Mollusca, and Radiata of the United Kingdom; including the Indigenous, Extirpated, and Extinct Kinds, together with Periodical and Occasional Visitants. Bell and Bradfute, Edinburgh: i-xxiii, 1-565.		
+7509	Goldfuss, A.	1826	833. Petrefacta Germaniae tam ea, quae in museo Universitatis Regiae Borussicae Fredericae Wilhelmiae Rhenanae servantur quam alia quaecunque in Museis Hoeninghausiano Muensteriano aliisque extant Iconibus et Descriptionibus Illustrata. Erster Theil. (Arnz & Comp.: Dusseldorf): 1-252, pls I-LXXI.		
+7765	Lamarck, J.B.P. De Monet, Comte De	1816	Histoire naturelle des animaux sans vertèbres, présentant les caractères généraux et particuliersde ces animaux, leur distribution, leurs classes, leurs familles, leurs genres,et la citation des principales espèces qui s’y rapportent. (Verdière:Paris): Volume 2: 1-568.		
+151830	Ives, J.E.	1889	On a new genus and two new species of ophiurans. Proceedings of the Academy of Natural Sciences of Philadelphia 41: 143-145.		
+8316	Thomson, C.W.	1873	The Depths of the Sea. (Macmillan and Co.: London): 1-527.		
+42381			MarLIN		
+172355	Porte, P.	1927	Ophiuridées nouvelles du Bradfordien de Ranville. Bulletin de la Société Linnéenne de Normandie, 9, 64-78.		
+172358	Rasmussen, H.W.	1950	Cretaceous Asteroidea and Ophiuroidea with special reference to the species found in Denmark. Danmarks geologiske undersøgelse, 77, 1-134.		
+172360	Roman, J., Breton, G. & Vadon, C.	1993	Ophiures et astéride (Echinodermata) du Tithonien de Canjuers (Var, France). Annales de Paléontologie, 79(1), 1-18.		
+20238	Guille A.	1982	A new genus and species of ophiacanthid brittlestar (Echinodermata: Ophiuroidea) from the Kerguelen Islands, with new taxonomic, biogeographic and quantitative data on the echinoderm fauna. Australian Museum Memoir, 16,		
+172357	Rasmussen, H. W.	1972	Lower tertiary crinoidea, asteroidea and ophiuroidea from northern Europe and Greenland. Det Kongelige Danske Videnskabernes Selskab Biologiske Skrifter 19(7).		
+172356	Rasmussen H.W.(	1952	Cretaceous Ophiuroidea from Germany, Sweden, Spain and New Jersey. Meddelelser fra Dansk Geologisk Forening, 12 (1951), 47-57.		
+21939	Heer O.	1865	Die Urwelt der Schweiz. Friedrich Schulthess, Zurich, 622 pp.		
+43023	Mortensen, Th.	1927	Handbook of the echinoderms of the British Isles. Humphrey Milford/Oxford University Press: London. IX, 471 pp.		
+43025	Madsen, J.	1983	A review of the Ophioleucinae stat. rev. (Echinodermata, Ophiuroidea) with the erection of a new genus, Ophiostriatus. Steenstrupia 9: 29-69.		
+23030	Stöhr, S.	2005	Who's who among baby brittle stars (Echinodermata: Ophiuroidea): postmetamorphic development of some North Atlantic forms. Zoological Journal of the Linnean Society 143: 543-576		
+23031	Stöhr, S., Segonzac, M.	2005	Deep-sea ophiuroids (Echinodermata) from reducing and non-reducing environments in the North Atlantic Ocean. Journal of the Marine Biological Association of the UK 85: 383-402		
+23032	Paterson, G.L.J., Tyler, P.A., Gage, H.D.	1982	The taxonomy and zoogeography of the genus Ophiocten (Echinodermata: Ophiuroidea) in the North Atlantic Ocean. Bulletin of the British Museum of Natural History (Zoology) 43: 109-128		
+23033	Madsen, F.J.	1977	The Ophioleucidae. Galathea Report 14: 109-122		
+42935	McKnight, D.G.	2003	New brittle-stars (Echinodermata: Ophiuroidea) from New  Zealand waters. Zootaxa 352: 1-36.		
+42998	Döderlein, L.	1896	Bericht über die von Herrn Professor Semon bei Amboina und Thursday Island gesammelten Ophiuroidea. Denkschriften medizinisch-naturwissenschaftliche Gesellschaft Jena 8: 279-300.		
+43179	Clark, H.L.	1921	The echinoderm fauna of Torres Strait: its composition and its origin. Department of Marine Biology of the Carnegie Institute 10: vi + 223, 38 pls.		
+42997	Matsumoto, H.	1915	A new classificatioon of the Ophiuroidea: with description of new genera and species. Proceedings of the Academy of Natural Sciences of Philadelphia 68: 43-92.		
+43018	Hendler, G.	1996	Class Ophiuroidea. In: Blake, J.A., Scott, P.H., Lissner, A. (eds). Taxonomic Atlas of the Benthic Fauna of the Santa Maria Basin and the Western Santa Barbara Channel, 14: 113-179		
+139592	Fell, H.B.	1961	New genera and species of Ophiuroidea from Antarctica. Transactions of the Royal Society of New Zealand, 88(4), 839-841.		
+139303	Müller, J.H.; Troschel, F.H.	1842	System der Asteriden. , 1-134. Vieweg: Braunschweig		
+139304	Lyman, T.	1883	Reports on the results of dredging, under the supervision of Alexander Agassiz, in the Carribbean Sea (1878-79), and on the east coast of the United States, during the summer of 1880, by the U.S. coast survey steamer “Blake”, commander J.R. Bartlett, U.S.N., commanding. XX.- Report on the Ophiuroidea. Bulletin of the Museum of Comparative Zoology at Harvard, 10(6), 227-287.		
+139306	Hendler, G.	1979	Sex-reversal and viviparity in Ophiolepis kieri, n. sp. with notes on viviparous brittlestars from the Carribbean (Echinodermata: Ophiuroidea). Proceedings of the Biological Society in Washington, 92(4), 783-795.		
+139307	Kyte, M. A.	1987	Stegophiura ponderosa (Lyman), new combination, and Amphiophura vemae and Homophiura nexila, new species (Echinodermata: Ophiuroidea) from the r/v Vema collections. Proceedings of the Biological Society in Washington, 100(2), 249-256.		
+139308	Hendler, G.; Miller, J. E.	1984	Ophioderma devaneyi and Ophioderma ensiferum, new brittlestar species from the Western Atlantic (Echinodermata: Ophiuroidea). Proceedings of the Biological Society in Washington, 97(2), 442-461.		
+139309	Turner, R.L.	1984	Revision of Ophiopaepale Lungman, 1872 (Echinodermata: Ophiuroidea, with a redescription of O. goesiana Ljungman, 1872, and notes on O. diplax (Nielsen, 1932), new combination. Proceedings of the Biological Society in Washington, 97(4), 927-941.		
+139310	Soliman, F. E.-S.	1991	Studies on Egyptian Echinodermata: Ophiocoma aegyptiaca sp. nov. (Ophiuroidea: Ophiocomida), from the Red Sea. Galaxea, 10, 79-88.		
+139312	Forbes, E.	1839	On the Asteriadae of the Irish Sea. Memoirs of the Wernerian Society, 8, 1-114.		
+139314	Lyman, T.	1882	Report on the Opiuroidea. Report of the Scientific Results of the voyage of H.M.S. Challenger 1873-76. Zoology, 5(1), 1-386.		
+139318	Lyman, T.	1869	Preliminary report on the Ophiuridae and Astrophytidae dredged in deep water between Cuba and Florida Reef. . Bulletin of the Museum of Comparative Zoology, 1, 309-354.		
+139311	Kyte, M. A.	1982	Ophiacantha abyssa, new species, and Ophiophthalmus displasia (Clark), a suggested new combination in the Ophiuroid family Ophiacanthidae (Echinodermata: Ophiuroidea) from off Oregon, U.S.A. Proceedings of the Biological Society of Washington, 95(3), 505-508.		
+139324	Tyler, P. A.; Paterson, G. J. L.; Sibuet, M.; Guille, A.; Murtons, B. J.; Segonzac, M.	1995	A new genus of ophiuroid (Echinodermata: Ophiuroidea) from hydrothermal mounds along the Mid-Atlantic Ridge. J. mar. biol. Ass. U.K., 75, 977-986.		
+139329	Koehler, R.	1930	Ophiures recueillies par le Docteur Th. Mortensen dans les Mers d’Australie et dans l’Archipel Malais. Papers from Dr. Th. Mortensen’s Pacific Expedition 1914-16. LIV. Videnskabelige Meddelelser fra Dansk naturhistorisk Forening, 89, 1-295, 22 pl.		
+139336	Vadon, C.; Guille, A.	1984	Les Ophiuridae (Ophiuroidea, Echinodermata) de la campagne MD 32 du “Marion-Dufresne” autour de l’ile de La Réunion. Bull. Mus. natn. Hist. nat., Paris, 4e serie, section A, 6(3), 583-615.		
+139338	Lyman, T.	1860	Descriptions of new Ophiuridae, belonging to the Smithsonian Institution and to the Museum of Comparative Zoology at Cambridge. Proceedings of the Boston Society of Natural History 1859-61, 7, 252-262.		
+139342	Baker, A.N.; Devaney, D.M.	1981	New records of Ophiuroidea (Echinodermata) from Southern Australia, including new species of Ophiacantha and Ophionereis. Transactions of the Royal Society of Southern Australia, 105(4), 155-178.		
+139351	Lütken, C.F.	1859	Additamenta ad historiam Ophiuridarum. Anden Afdelning. Det kongelige danske Videnskabernes Selskaps Skrifter. 5 Raekke, Naturvidenskabelig og mathematisk Afdelning, 5, 177-271, 5 pl.		
+139352	Lütken, C.F.	1869	Additamenta ad historiam Ophiuridarum. Tredie Afdelning. Det kongelige danske Videnskabernes Selskaps Skrifter. 5 Raekke, Naturvidenskabelig og mathematisk Afdelning, 8, 20-109.		
+139354	Lyman, T.	1875	Zoological Results of the Hassler Expedition. 2. Ophiuridae and Astrophytidae. Illustrated catalogue of the Museum of Comparative Zoology at Harvard College, 8(2), 1-34, 5 pl.		
+139496	Greeff, R.	1882	Echinodermen beobachtet auf einer Reise nach der Guinea-Insel Sao-Thomé. Zoologischer Anzeiger, 105, 114-120, 135-139, 156-159.		
+139498	Lyman, T.	1860	?. Proceedings of the Boston Society of Natural History 1859-61, 7, x-424-x.		
+139612	Troschel, F.H.	1879	Eine neue Art der Ophiuridengattung Ophiarachna. Sitzungsberichte der niederrheinischen Gesellschaft in Bonn, 135-138.		
+139614	Clark, H.L.	1911	North Pacific Ophiurans in the collection of the United States National Museum. Smithsonian Institution United States National Museum Bulletin, 75, 1-302.		
+47588	Martynov, A.V. & Litvinova, N.M.	2008	Deep-water Ophiuroidea of the northern Atlantic with descriptions of three species and taxonomic remarks on certain genera and species. Marine Biology research 4: 76-111		
+47589	Madsen, F.J.	1967	Ophiuroidea. British Australian and New Zealand Antarctic Research Expedition 1929-1931, part 3: 123-145		
+47590	Koehler, R.	1914	A contribution to the study of Ophiurans of the United States National Museum. Bulletin of the United States National Museum 84: 1-173		
+47754	Lütken, C.F.	1855	Bidrag til Kundskab om Slangestjernerne. I. Forelöbig Oversigt over Grönlandshavet Ophiurer. Videnskabelige Meddelelser fra den naturhistoriske Forening 1854, 6: 95-104.		
+125926	Liao Y, Clark AM	1995	The Echinoderms of Southern China. Science Press, Beijing. 614 pp.		
+125949	Madsen, F.J.	1955	Echinoderms other than holothurians collected in sub-antarctic and antarctic seas, mainly by the Norvegia Expeditions 1928-30. Scientific Research, Norwegian Antarctic Expedition 37: 1-17		
+125733	Clark, A.M.	1970	the name of the starfish <i>Anthenea acuta</i> (Perrier), preoccupied. Proceedings of the Linnean Society of New South Wales 95: 157.		
+132989	Clark, H.L.	1918	Brittle stars, new and old. Bulletin Museum Comparative Zoology 62 (6): 263-338, 8 pl..		
+127081	Clark, H.L.	1928	The sea-lilies, sea-stars, brittle-stars and sea-urchins of the South Australian Museum. Records of the South Australian Museum 3(4): 361-482.		
+146008	Sars, M.	1859	Bidrag til Kundskaben om Middelhavets Littoral-Fauna. Nyt Magasin för Naturvidenskaberne. 1857, 10: 1-99, 2 pls.		
+146056	Tommasi, LR., & de Oliveira, E.,	1976	Equinodermes do Brasil. 5. Sobre algumas especies coletadas durante viagens do n/oc. PROF. W. BESNARD. Boletim Instituto Oceanografica, São Paulo. 25(1): 77-100.		
+131861	Schoppe, S.	1996	Ophiothrix synoecina new species (Echinodermata: Ophiuroidea) from the Caribbean coast of Columbia. Bulletin of Marine Science 58(2): 429-437.		
+47865	Stöhr, S., Conand, C. & Boissin, E.	2008	Brittle stars (Echinodermata: Ophiuroidea) from La Réunion and the systematic position of Ophiocanops Koehler, 1922		
+3136	McKnight D.G.	1967	Echinoderms from Cape Hallett, Ross Sea. New Zealand Journal of Marine and Freshwater Research 1(3): 314-323		
+139316	Lütken, C. F.; Mortensen, T.	1899	Reports on an exploration off the west coasts of Mexico, Central and Southern America and off the Galapagos Islands. XXV. The Ophiuridae. . Memoirs of the Museum of Comparative Zoology, 23(2), 97-208.		
+139317	Verrill, A. E.	1878	Art. 20. -- Notice of recent additions to the marine fauna of the eastern coast of North America, No. 1. American Journal of Science and Arts, 16(93), 207-215.		
+139358	Hertz, M.	1927	Die Ophiuroiden der Deutschen Südpolar-Expedition. Deutsche Südpolar-Expedition 1901-1903, 19. Zoologie, 11, 1-54.		
+139492	Tommasi, L.R.	1976	Ophiuroidea collected in the Peru-Chile Trench bu the USNS “Eltanin" during cruise III. Papéis Avulsos de Zoologia, Sao paulo, 29, 281-318.		
+139531	Djakonov, A.M.	1949	Key to the Echinoderms of the Far Eastern Seas. Izvestiya Tikhookeanskogo Instituta Rybnogo Khozyaistva i Okeanografii, 30, 4-127.		
+139564	Djakonov, A.M.	1930	Echiniden, Ophiuriden und Asteriden gesammelt von Prof. P.J. Schmidt bei den Riu-Kiu Inseln im Jahre 1926-1927. Zoologische Jahrbücher, 59, 233-252, pls 12, 13.		
+139591	Duncan, P.M.	1879	On some Ophiuroidea from the Korean Seas. Journal of the Linnean Society, 14(77), 445-482.		
+139616	Irimura, S.	1982	The brittle-stars of Sagami Bay. , 1-95, 1-47. Biological laboratory Imperial Household: Japan		
+139674	Ludwig, H.	1882	Verzeichnis der von Prof. E. van Beneden an der Küste von Brazilien gesammelten Echinodermen. Mem. couron. Acad. Belgique , 44(20), 1-26.		
+139704	Blake, D.B.	1975	A new west American Miocene species of the modern Australian ophiuroid Ophiocrossota. Journal of Paleontology, 49(3), 501-507.		
+139524	Danielssen, D.C.; Koren, J.	1877	Fra den norske Nordhavsexpedition: Echinodermes. Nyt Magazin for Naturvidenskaberne, 23(3), 45-83.		
+139640	Lütken, C.F.	1857	Oversigt over Grönlands Echinodermata samt over denne Dyreklasses geographiske og bathymetriske Udbredningsforhold. Thesis: Fakultet ved Kjöbenhavns Universitet, 1-109. Reitzels:		
+139641	McClendon, J.F.	1909	The ophiurans of the San Diego region. University of California Publications in Zoology, 6(3), 33-64.		
+139670	Jagt, J.	1990	Ophiurites eocaenus Leriche, 1931 (Ophiuroidea, Eocene, NW Belgium) revisited. Bulletin de l’Institut Royal des Sciences naturelles de Belgique, Science de la Terre, 60, 151-160.		
+139671	Vail, L.L.; Rowe, F.W.E.	1989	Status of the genera Ophiopeza and Ophiopsammus (Echinodermata: Ophiuroidea) in Australian waters with the description of a new species. Proceedings of the Linnean Society of N.S.W., 119(3), 267-288, figs 1-9.		
+139359	Semenova, T.M.; Mileikovsky, S.A.; Nesis, K.N.	1964	The morphology, distribution and seasonal incidence of the Ophiuroid larva of Ophiocten sericeum (Forbes) in the North West Atlantic, Norwegian Sea and Barents Sea Plankton. Okeanologiya, 4(4), 669-683.		
+139361	Koehler, R.	1906	Description des Ophiures nouvelles recueilles par le Travailleur et Talisman pendant les campagnes de 1880, 1881, 1882 et 1883. Memoires de la Societe zoologique de France, 19, 5-35.		
+139362	Müller, J.; Troschel, F.H.	1844	Beschreibung neuer Asteriden. Archiv für Naturgeschichte, 10(1), 178-185.		
+172340	Lepsius, R.G.	1878	Das Westliche Sud-Tirol: geologisch dargestellt. W. Hertz, Berlin, 1-375.		
+139365	Koehler, R.	1897	Echinodermes recueillis par “l'Investigator” dans l'Ocean Indien. I. Les Ophiures de mer profonde. Annales des Sciences Naturelles Zoologie, series 8, 4, 277-372, pl. 5-9.		
+139367	Koehler, R.	1898	Echinoides et Ophiures provenant des campagnes du yacht l'Hirondelle (Golfe de Gascogne, Acores, Terre-Nueve). Résultats des Campagnes scientifiques par Prince Albert I, Monaco, 12, 1-78, 9 pls.		
+139368	Loriol, P. de.	1893	Echinodermes de la Baie d'Amboine. Revue Suisse zool., 1, 359-426, pls 13-15.		
+139369	Philippi.	1860	Reise durch die Wüste Atacama.		
+139370	Brock, J.	1888	Die Ophiuridenfauna des indischen Archipels. Zeitschrift für wissenschaftliche Zoologie, 47, 465-539.		
+139371	Koehler, R.	1905	Ophiures de l'expédition du Siboga. Part 2. Ophiures littorales. Siboga Expeditie, 45b.		
+139372	Koehler, R.	1911	Mission Gruvel sur la côte occidentale d'Afrique (1909-10). Echinodermes. Ann. Inst. ocean., 2(5), 1-29, 3 pls.		
+139373	Philippi.	1858	Beschreibungen einiger neuer Seesterne aus dem Meere von Chiloe. Archiv für Naturgeschichte, 24(1), 264-268.		
+139374	Say T	1825	On the species of the Linnaean genus <i>Asterias</i> inhabiting the coast of the U.S. <i>Journal of the Academy of natural sciences of Philadelphia</i> 5:141-154.		
+139375	Koehler, R.	1913	Ophiures. Zoologische Jahrbücher Supplement, 2.		
+139376	Forbes, E.	1843	On the radiata of the eastern Mediterranean. Trans. Linn. Soc. London, 19: 143-153.		
+139377	Koehler, R.	1898	Echinoderms recueillis par l'Investigator dans l'Ocean Indien, II les Opiures littorales. Bulletin scientifique de la France et de la Belgique, 31, 55-126, pl. 2-5.		
+139378	Koehler, R.	1896	Note preliminaire sur les Ophiures des premières campagnes de la “Princesse Alice”. Mem. Soc. zool. France, 9, 241-253.		
+139379	Koehler, R.	1922	Ophiurans of the Philippine Seas and adjacent waters. Smithsonian Institution United States National Museum Bulletin, 100(5), 1-486.		
+139380	Endean, R.	1963	A new species of brittle-star (Echinodermata. Ophiuroidea) from northern New South Wales. Proceedings of the Linnean Society of New South Wales, 88(3), 295-297.		
+139383	Dyakonov, A.M.	1954	Ophiuroids of the USSR Seas. , 1-131. Izdatel’stvo Akademii Nauk SSSR: Moskva, Leningrad		
+139381	Mortensen, T.	1933	Papers from Dr. Th. Mortensen's Pacific Expedition 1914-16. 63. Biological observations on ophiurids, with descriptions of two new genera and four new species. Videnskabelige Meddelelser fra Dansk naturhistorisk Forening, 93, 171-195.		
+139382	Mortensen, T.	1933	Papers from Dr. Th. Mortensen's Pacific Expedition 1914-16. 66. The echinoderms of St. Helena (Other than crinoids). Videnskabelige Meddelelser fra Dansk naturhistorisk Forening, 93, 401-473, 3 pl.		
+139385	Koehler, R.	1906	Ophiures. Expeditions Scientifiques du Travailleur et du Talisman, 8, 245-311.		
+139386	Hendler, G.; Turner, R.L.	1987	Two new species of Ophiolepis (Echinodermata: Ophiuroidea) from the Caribbean Sea and Gulf of Mexico: with notes on ecology, reproduction, and morphology. Contributions in Science, 395, 1-14.		
+139388	Clark, A.M.	1965	Japanese and other ophiuroids from the collections of the Munich museum. Bulletin of the British Museum (Natural History), 13(2), 39-71, 1 pl.		
+139389	Djakonov, A.M.	1954	Ophiuroids of the USSR Seas. Tabl. anal. Faune USSR (Israel Program for Scientific Translation 1967, 55, 1-136, 47 figs, 1 pl. Izdatel'stvo Akademii Nauk SSSR: Moskva-Leningrad		
+139390	Murakami, S.	1942	Ophiurans of Izu, Japan. Journal of the Department of Agriculture, Kyusyu Imperial University, 7(1), 1-36, 12 figs.		
+139392	Loriol, P. de.	1893	Catalogue raisonné des Echinodermes recueillis par M.V. de Robillard à l'Ile Maurice. III. Ophiurides et Astrophytides. Mem. Soc. Phys. Hist. nat. Gèneve, 32(3), 1-63, pls 23-25.		
+139393	Lütken, C.F.	1872	Ophiuridarum novarum vel minus cognitarum descriptiones nonnullae. [Beskrivelse af nogle nye eller mindre bekjerdte Slangestjernerne] Med nogle Bemaerkninger om Selvdelingen hos Straaldyrene. Overs. K. danske Vidensk. Selsk. Forh., 77, 75-158, 2 pls.		
+139396	Peters, W.	1851	Übersicht der an der Küste von Mossambique eingesammelten Ophiuren, unter denen sich zwei neue Gattungen befinden. Bericht über die zur Bekanntmachung geeigneten Verhandlungen der Königlich Preussischen Akademie der Wissenschaften zu Berlin 1851, 463-466.		
+139401	Smith, E.A.	1876	Descriptions of two new species of Ophiocoma. Annals and Magazine of Natural History, series 4, 18(1), 39-40.		
+139402	Loriol, P. de.	1899	Notes pour servir a l'histoire des Echinodermes. VII. Mémoires de la Société de Physique et d'Historie Naturelle de Genève, 33(1), 1-34.		
+139403	Clark, H.L.	1917	Reports on the Scientific Results of the Albatross Expedition to the Tropical Pacific, 1899-1900 (Part 18). Reports on the Scientific results of the Albatross Expedition to the Eastern Tropical Pacific, 1904-1905 (Part 30). Ophiuroidea. Bulletin of the Museum of Comparative Zoology at Harvard, 61(12), 428-453.		
+139404	Murakami, S.	1943	Report on the Ophiurans of Palao, Caroline Islands. Journal of the Department of Agriculture, Kyusyu Imperial University, 7(4), 159-204, 205-222, 223-234.		
+139405	Ely, C.A.	1942	Shallow-water Asteroidea and Ophiuroidea of Hawaii. Bernice P. Bishop Museum Bulletin, 176, 1-63.		
+139456	Bell, T.J.	1902	Reports on the Natural History collections of the voyage of the Southern Cross, Echinoderms. , 214-220, 2 pl.		
+139457	Koehler, R.	1900	Note preliminaire sur les Echinides et les Ophiures de l'Expédition Antarctique Belge. Bull. Acad. Roy. Belgique, 11(3), 814-820.		
+139459	Smith, G.A.	1923	Report on the echinoderms collected during the voyage of the “Quest”. Ann. Mag. Nat. Hist., 9(12), 367-376, 3 figs.		
+139493	Clark, A.M.	1955	Echinodermata of the Gold Coast. Journal of the West African Science Association, 1, 16-56.		
+139494	Singletary, R.L.	1973	A new species of brittle star from Florida. Florida Scientist, 36(2-4), 175-178.		
+139406	Downey, M.E.	1967	Astronebris tatafilius (Euryale: Asteronychidae), a new genus and species of ophiuroid from the Aleutians, with a revised key to the family Asteronychidae. Proceedings of the Biological Society of Washington, 80, 41-46.		
+139407	Benham, W.B.	1909	Echinoderma (Science reports N.Z. Government Trawling Expedition). Records of the Canterbury Museum, 1(2), 83-116.		
+139408	Bell, F.J.	1917	Echinoderma, Part I. Actinogonidiata. Natural History Reports of the British Antarctic “Terra Nova” Expedition, Zoology, 4(1), 1-10.		
+139409	Savigny, J.-C.	1809	Explication sommaire des planches d’Echinodermes. Descr. de l'Egypte, 2, 205-212.		
+139410	Irimura, S.; Kubodera T.	1998	Ophiuroidea in the East China Sea. Memoirs of the National Science Museum, 31, 135-143.		
+139411	Irimura, S.; Yoshino, H.	1999	Ophioplocus giganteus, a new species of ophiuroidea from Okinawa Island, Southwestern Japan. Bulletin of the National Science Museum, 25(2), 143-148.		
+139412	Ziesenhenne, F.C.	1935	A new brittle star from Galapagos Islands. Allan Hancock Pacific Expedition, 2, 1-4, 1 pl.		
+139413	Farquhar, H.	1899	Description of a new ophiuran. Proceedings of the Linnaean Society N.S.W, 24, 187-189, pl.15.		
+139414	Koehler, R.	1922	Echinodermata: Ophiuroidea. Australasian Antarctic Expedition 1911-1914. Scientific Report Series C, 8(2), 5-98, pls 76-90.		
+139415	Irimura, S.	1993	Ophiostriatus sexradiatus, a new species of Ophiuroidea from the North Mariana Islands. Bulletin National Science Museum, Tokyo, Series A, 19(4), 161-164.		
+139416	Döderlein, L.	1902	Japanische Euryaliden. Zoologischer Anzeiger, 25, 320-326.		
+139417	Clark, H.L.	1914	The echinoderms of the Western Australian Museum. Records of the Western Australian Museum, 1(3), 132-173.		
+139418	Koehler, R.	1901	Note préliminaire sur quelques Ophiures nouvelles provenant des campagnes de la Princesse Alice. Bull. Soc. Zool. France, 26, 222-231.		
+139419	Koehler, R.	1908	Asteroidea and Echinoidea of the Scottish national Antarctic Expedition . Scottish National Antarctic Expedition. Report on the scientific results of the voyage of S.Y. Scotia during the years 1902, 1903, and 1904, 5(13), 193-313, 16 pl.		
+139420	Koehler, R.	1909	Echinodermes provenant des campagnes du yacht Princesse-Alice (Astéries, Ophiures, Echinides et Crinoïdes). Résultats des Campagnes Scientifiques Accomplies sur son Yacht par Albert 1er Prince Souverain de Monaco, 34, 1-317.		
+139422	Clark, H. L.	1940	Eastern Pacific Expeditions of the New York Zoological Society. XXI. Notes on Echinoderms from the West Coast of Central America. Zoologica, 25(3), 331-352.		
+139423	Le Conte, J.L.	1851	Zoological Notes. Proceedings of the Society of Natural History Philadelphia, 5, 317-320.		
+139424	Ziesenhenne, F.C.	1940	New Ophiurans of the Allan Hancock Pacific Expeditions. Allan Hancock Pacific Expeditions, 8(2), 5-58, 9 pls.		
+139425	Verrill, AE.,	1867	Notes on the Radiata in the Museum of Yale College, with descriptions of new genera and species. No. 2. Notes on the Echinoderms of Panama and the West Coast of America with descriptions of new genera and species.Transactions Connecticut Academy Arts & Sciences. 1(2): 251-322.		
+139427	Döderlein, L.	1930	Die Ophiuren der Deutschen Tiefsee-Expedition. 2. Euryale. Deutsche Tiefsee-Expedition 1898-1899, 22(6), 348-396, 3 pls.		
+139429	Clark, A.H.	1916	On a new starfish and five new brittle-stars from the Galapagos Islands. Annals and Magazine of natural History, Series 8, 18, 115-122.		
+139430	Castillo-Alárcon, J.	1968	Contribución al conocimient de los Ofiuroideos chilenos. Gayana Zool., 14, 1-63, 6 pl.		
+139431	Bernasconi, I.	1968	Equniodermos de las islas Marion y principe Eduardo con descripcion de una nueva especie de ofiuroideo. Physis, 28(76), 55-58.		
+139426	Clark, H.L.	1909	Scientific results of the trawling expedition of H.m.C.S. “Thetis” off the coast of New South Wales, in February and March 1898. Echinodermata. Memoirs of the Australian Museum, 4(2), 519-564.		
+139437	Koehler, R.	1912	Echinodermes (Asteries, Ophiures et Echinides). Deuxième Expèdition Antarctique Francaise 1908-1910 J. Charcot, 1-277. Masson et cie: Paris		
+139428	Döderlein, L.	1910	Asteroidea, Ophiuroidea, Echinoidea. In: Schultze, L. Zoologische und Anthropologische Ergebnisse einer Forschungsreise im westlichen und zentralen Südafrika ausgeführt 1903-1905 (Jenaer Denkschrift 16), 4(1), 246-258.		
+139433	McKnight, D.G.	1968	Some Echinoids and Ophiuroids from off Norfolk Island and from Wanganella Bank. N.Z. J. marine and Freshwater Research, 2(2), 204-13.		
+139435	Ayres, W. O.	1854	Descriptions of new species of Ophiuridae. Proceedings Boston Society Natural History, 4, 133-135, 248-250.		
+139436	Stimpson, W.	1854	Two new species of Ophiolepis, from the southern coast of the United States. Proc. Boston Soc. Nat. Hist., 4, 224-226.		
+139439	Ludwig, H.	1888	Ophiopteron elegans, eine neue, wahrscheinlich schwimmende Ophiuridenform. Zeitschrift für wissenschaftliche Zoologie, 47 (3), 459-464.		
+139440	Lyman, T.	1871	Supplement to the Ophiuridae and Astrophytidae. Illustrated Catalogue of the Museum of Comparative Zoölogy at Harvard College, 6, 1-17, pls 1, 2.		
+139441	Guille, A.; Wolff, W.J.	1984	Résultats biologiques de l'expedition Snellius Echinodermata: Ophiuroidea. Zoologische Verhandelingen. Rijksmuseum van naturlijke Historie te Leiden, 213, 1-39.		
+139442	Duncan, P.M.	1887	On the ophiuridae of the Mergui Archipelago, collected for the trustees of the Indian Museum, Calcutta, by Dr. John Anderson, F.R.S., Superintendent of the Museum. Linnean Society Journal of Zoology, 21, 85-106, 2 pl. & 107-120, 2 pl.		
+139443	Hoyle, M.A.	1884	Report on the Ophiuroidea of the Faröe Channel, mainly collected by H.M.S. "Triton" in August 1882, with some remarks on the distribution of the order. Proceedings of the Royal Physical Society, Edinburgh, 12, 707-730.		
+139444	Madsen, F.J.	1947	The Echinoderms collected by the "Skagerak" Expedition in the Eastern Atlantic 1946. Meddelanden från Göteborgs Kungliga Vetenskaps- och Vitterhets- Samhälles Handlingar, sjätte följden, Serie B, Band 5, No. 7, 5(7), 1-16.		
+139445	Ludwig, H.	1880	Morphologische Studien an Echinodermen - Neue Beiträge zur Anatomie der Ophiuren. Zeitschrift für wissenschaftliche Zoologie, 34, 57-89.		
+139446	Ludwig, H.	1866	1886?. Echinodermen des Beringsmeeres. Zoologische Jahrbücher Systematik, Geographie und Biologie der Thiere, 1, 275-296.		
+139447	Koehler, R.	1901	Zoologie - Échinides et Ophiures. Résultats du Voyage du S.Y. Belgica en 1897-1898-1899 sous le commandement de A. de Gerlache de Gomery, 1-42.		
+139448	Mortensen, T.	1926	Cambridge Expedition to the Suez Canal in 1924. 6 - Report on the Echinoderms. Transactions from the Zoological Society London, 22, 117-131.		
+139449	Koehler, R.	1906	Expédition Antarctique Francaise (1903-1905) - Échinodermes (Stéllérides, Ophiures et Échinides). Expédition Charcot, 1-41.		
+139450	Bell, F.J.	1881	?. Proc. Zool. Soc. Lond.		
+139451	Tommasi, L. R.	1968	Os ofiuroidea existentes nas coleçoes do Museu de Buenos Aires coletados de La Plata até 42°S. Papeis avulsos Zool. S. Paulo, 21(11), 115-124, 2 figs.		
+139455	Smith, E.A.	1876	Descriptions of species of Asteridae and Ophiuridae from Kerguelen Islands. Ann. Mag. Nat. Hist., 17(4), 105-113.		
+139452	Verrill, A.E.	1899	North American Ophiuroidea. I. Revision of certain families and genera of West Indian ophiurans. Transactions of the Connecticut Academy Arts and Sciences, 10(7), 301-371.		
+125945	McKnight, D.G.	1968	Some echinoderms from the Kermadec Islands. New Zealand Journal of Marine and Freshwater Research 2(3): 505-526.		
+125947	McKnight, D.G.	1975	Some echinoderms from the northern Tasman Sea. New Zealand Oceanographic Institute Records 2(5): 49-76.		
+172361	Salamon, M.A., Niedzwiedzki, R., Lach, R., Brachaniec, T. & Gorzelak, P.	2012	Ophiuroids discovered in the Middle Triassic hypersaline environment. PLOS ONE, 7(11), e49798.		
+125731	Liao, Y.	1982	Two new ophiurans from the Gulf of Beibuwan. Oceanologia et Limnologia Sinica 13(6): 562-569.		
+125305	John, D.D. and A.M. Clark.	1954	The "Rosaura" Expedition. 3. The Echinodermata. Bulletin of the British Museum (Natural History) Zoology 2: 139-162.		
+125736	Farquhar, H.	1907	Notes on New Zealand echinoderms; with description of a new species. Transaction of the New Zealand Institute 39: 123-130.		
+124971	Clark, H.L.	1913	Scientific results of the expedition to the Gulf of California in charge of C.H. Townsend, by the U.S. Fisheries Steamship "Albatross" in 1911, Cmdr. G.H. Burrage, USN Commanding  VIII. Echinoderms from Lower California with descriptions of new species:  supplementary report. Bulletin of the National Museum of Natural History 32(8): 185-236.		
+125355	Farquhar, H.	1897	A contribution to the history of New Zealand Echinoderms. Zoological Journal of the Linnean Society 26:186-198		
+129878	Koehler, R.	1908	Astéries, Ophiures et Échinides recueillis dans les mers australes par la “Scotia” (1902-1905). Zoologischer Anzeiger 32(6): 140-147.		
+129881	Hendler, G.	1995	New species of brittle stars from the western Atlantic, Ophionereis vittata, Amphioplus sepultus, and Ophiostigma siva, and the designation of a neotype for Ophiostigma isocanthum (Say) (Echinodermata: Ophiuroidea). Contributions in Science, Natural History Museum of Los Angeles County 458: 1-19.		
+131849	Koehler, R.	1907	Revision de la collection des Ophiures du Museum d'histoire Naturelle Paris. Bulletin Sciences de la France et de la Belgique 41: 279-351, 5 pls.		
+145895	Chabot, R. & Rossignol, A.	2003	Algues et faune du littoral du Saint-Laurent maritime: Guide d'identification. Institut des sciences de la mer de Rimouski, Rimouski; Pêches et Océans Canada (Institut Maurice-Lamontagne), Mont-Joli. 113 pages.		
+127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
+133468	Galathea II, Danish Deep Sea Expedition	1950	2		
+47811	Lyman, T.	1865	Ophiuridae and Astrophytidae. Illustrated Catalogue of the Museum of Comparative Zoology at Harvard College no. 1: 1-200.		
+42999	Koehler, R.	1904	Ophiures de l'expédition du Siboga. Part 1. Ophiures de mer profonde. Siboga Expeditie 45a.		
+42304	O'Hara, T.& Stöhr, S.	2006	Deep water Ophiuroidea (Echinodermata) of New Caledonia: Ophiacanthidae and Hemieuryalidae. Mémoire du Muséum national d'Histoire naturelle 193: 33-141.		
+42132	Delle Chiaje S.	1823	831. Memorie sulla storia e notomia degli animali senza vertebre del regno di Napoli. Napoli: Fratelli Fernandes (vol. 1), and Società Tipografica (vol. 2-4). Vol. 1,		
+139726	Clark, H. L.	1910	A new ophiuran from the West Indies. Proceedings of the U.S. Museum of Natural History, 37(1724), 665-666.		
+139727	de Blainville, H.M.	1834	Manuel d'actinologie ou de zoophytologie. 688p, 100 pls. Paris		
+41437	Jeffreys J.G.	1876	Preliminary report of the biological results of a cruise in H.M.S. <i>Valorous</i> to Davis Straits in 1875. <i>Proceedings of the Royal Society 25</i>:  177-237, pl. 2-4		
+42380	Koehler, R.	1921	Echinodermes. Faune de France, 1. Librairie de la Faculte des Sciences, Paris. 216 pp.		
+40540	Thompson W.	1840	Contributions towards a knowledge of the Mollusca Nudibranchia and Mollusca Tunicata of Ireland, with descriptions of some apparently new species of Invertebrata. <i>Annals of Natural History</i>, 5:  84-102, pl. 2		
+40480	Stimpson W.	1855	Descriptions of some new marine invertebrata. <i>Proceedings of the Academy of Natural Sciences, Philadelphia 7 (10)</i>:  385-395		
+39864	Lamarck J.-B. (M. de),	1801	Système des animaux sans vertèbres. <i>published by the author, and Deterville, Paris </i>:		
+10034			Smirnov I., The systematic list of brittle-stars of the Southern ocean (compilation), Zoological Institute of Russian Academy of Sciences		
+6850	Stöhr S.	2003	A new fissiparous amphiurid brittlestar (Echinodermata: Ophiuroidea) from southwest of Iceland. Sarsia: North Atlantic Marine Science 88 (6): 373-378.		
+6500	Price A.R.G. & F.W.E. Rowe	1996	Indian Ocean echinoderms collected during the Sinbad Voyage (1980-81): 3. Ophiuroidea and Echinoidea. Bull. Nat. Hist. Mus. Lond. (Zool.) 62(2): 71-82		
+6392	Clark, H.L.	1938	Echinoderms from Australia: an account of collections made in 1929 and 1932 <i>Mem. Mus. Comp. Zool. 55</i>: 1-596 (28 plates)		
+6354	Jangoux, M & C. Massin.	1986	Catalogue commenté des types d'Echinodermes actuels conservé dans les collections nationales belges, Bull. Inst. R. Sci. Nat. Belg. : Biologie (56): 83-97		
+6334	Döderlein, L.	1927	Indopacifische Euryalae. Abh. Bayer. Ak. Wiss. 31 (6): 1-105.		
+151690	Madsen, F.J.	1973	The Ophiodermatidae. Galathea Report 11: 133-143.		
+6343	Lyman, T.	1874	Ophiuridae and Astrophytidae: new and old, Bull. Mus. Comp. Zool., Harvard College, Cambridge, Mass., Vol. 3: 221-272, 7 pls		
+6319	Clark, A.M.	1968	Notes on some tropical Indo-Pacific ophiotrichids and ophiodermatids (Ophiuroidea). Bull. Br. Mus (nat. Hist) 16(7): 276-322.		
+6322	Ljungman, A.	1867	Ophiuroidea viventia huc usque cognita enumerat. Öfversigt af Kongl. Vetenskaps-Akademiens Forhandlingar 23(9): 303-336.		
+6349	Loisette, M.M. & J.I. Marshall	1983	Some aspects of the Zoogeography of Northwestern Australian Echinoderms (other than Holothurians), Bull. of Marine Science, 33(3): 671-684		
+6350	Tortonese, E.	1949	Echinodermi della Somalia Italiana, Ann. Mus. Civ. St. Nat. Genova 64: 30-42, 1pl		
+6351	Devaney, D.M.	1978	A review of the Genus <i>Ophiomastix</i> (Ophiuroidea : Ophiocomidae), Part II of a series of studies on Ophiocomid Brittlestars,  Micronesica 14(2): 273-359		
+6352	Fell, H.B.	1960	Synoptic Keys to the Genera of Ophiuroidea, Zoology Publications, Victoria University of Wellington, New Zealand, 26: 1-44		
+6305	Clark, A.H.	1964	Description of two new species of Ophiuroidea collected during the Snellius expedition. Zool. Meded. Leiden 39: 385-390.		
+6306	Clark, A.M.	1970	Notes on the family Amphiuridae (Ophiuroidea). Bull. Br. Mus. Nat. Hist. (Zool.) 19(1): 1-81.		
+6308	Clark, A.M.	1974	Notes on some echinoderms from southern Africa. Bulluetin of the British Museum of Natural History (Zoology) 26(6): 423-487, 3 pls, 16 figs, 1 map, 3 tables		
+6309	Clark H.L.	1909	Notes on some Australian and Indo-Pacific echinoderms. Bulletin of the Museum of Comparative Zoology 52: 107-135.		
+6310	Clark, H.L.	1939	Ophiuroidea. Scient. Rep. Murray Exped. 6: 29-136.		
+6311	Devaney, D.M.	1970	Studies on ophiocomid brittlestars. I. A new genus (Clarkcoma) of Ophiocominae with a re-evaluation of the genus Ophiocoma. Smithson. Contr. Zool. 51: 1-41.		
+6323	Bell, F.J.	1892	A contribution to the classification of ophiurids, with descriptions of some new and little-known forms. Proc. Zool. Soc. Lond., 1892, 175-183		
+6324	Clark, A.M. and J. Courtman-Stock.	1976	The echinoderms of southern Africa. Publ. No. 766. British Museum (Nat. Hist), London. 277 pp.		
+6286	Madsen, F.J.	1983	A review of the Ophioleucinae stat. rev. (Echinodermata, Ophiuroidea) with the erection of a new genus, Ophiostriatus. Steenstrupia 9(2): 29-69.		
+6293	Clark, A.M.	1980	Some Ophiuroidea from the Seychelles islands and Inhaca, Mozambique. Rev. Zool. Afr. 94(3): 533-558.		
+6262	Clark, A.M.	1977	The South African Museum's Meiring Naude cruises, part 4: Echinoderms. Ann. S. Afr. Mus. 73(6):; 133-147.		
+6269	Bell, F. J.	1909	Report on the echinoderma (other than holothurians) collected by Mr. J. Stanley Gardiner in the western parts of the Indian Ocean. Transactions of the Linnean Society of London. 2nd Series: Zoology 13, 17-22.		
+6273	Mortensen, T.	1933	Echinoderms of South Africa (Asteroidea and Ophiuroidea). Vidensk. Meddel. Kjobenhavn 93: 215-490.		
+6285	Baker, A.N.	1980	Euryalinid Ophiuroidea (Echinodermata) from Australia, New Zealand, and the south-west Pacific Ocean. New Zealand Journal of Zoology 7(1) 1980: 11-83.		
+6248	Balinsky, J.B.	1957	The Ophiuroidea of Inhaca Island. Ann. Natal Mus. 14: 1-33.		
+6250	Cherbonnier, G. & A. Guille	1978	Echinodermes: Ophiurides. Faune de Madagascar. No 48: iv +272pp.		
+6287	Paterson, G.L.J.	1985	The deep-sea Ophiuroidea of the north Atlantic Ocean. Bulletin of the British Museum (Natural History) Zoology 49(1): 1-162.		
+6130	Ludwig, H.	1899	Echinodermen des Sansibargebietes.  Abhandl. d. Senckenb. naturf. Ges., Bonn, Vol. 21(1): 537 - 563.		
+6338	Rowe, F.W.E & Gates, J.	1995	Echinodermata. In ‘Zoological Catalogue of Australia’. 33 (Ed A. Wells.) pp xiii + 510 (CSIRO Australia, Melbourne.)		
+6066	Richmond, M. (Ed.)	1997	A guide to the seashores of Eastern Africa and the Western Indian Ocean islands. Sida/Department for Research Cooperation, SAREC: Stockholm, Sweden. ISBN 91-630-4594-X. 448 pp.		
+6050	Tortonese, E.	1977	Report on Echinoderms from the gulf of Aqaba (Red Sea). Italian Journal of Zoology N.S. S. IX(12): 273-290.		
+6000	Humphreys, W.F.	1981	The echinoderms of Kenya's marine parks and adjacent regions. Koninklijk Museum voor Midden-Africa (Tervuren, Belgium) Zoologische Documentatie 19. 39 pp.		
+5987	Vine, P.	1986	Red Sea Invertebrates. Immel Publishing, London. 224 pp.		
+5951	Tortonese, E.	1980	Researches on the coast of Somalia. Littoral Echinodermata. Monitore zoologico italiano NS Supplemento XIII 5: 99-139.		
+5916	Clark, A.M. and F.W.E. Rowe.	1971	Monograph of Shallow-water Indo-West Pacific Echinoderms. Trustees of the British Museum (Natural History): London. x + 238 p. + 30 pls.		
+6113	Sloan, N.A., A.M. Clark & J.D. Taylor	1979	The Echinoderms of Aldabra and their habitats.  Bull. Br. Mus. Nat. Hist. (Zool.) 37 (2): 81- 128.		
+4179	Clarke, A.; Johnston, N.M.	2003	Antarctic marine benthic diversity. <i>Oceanogr. Mar. Biol. Ann. Rev. 41</i>: 47-114		
+3167	Studer T.	1876	Uber Echinodermen aus dem antarktischen Meere und zwei neue Seeigel von den Papua-Inseln gesammelt auf der Reise S.M.S. Corvette <i>Gazelle</i> um die Erde. Monatsbericht der Königlich-Preussischen Akademie der Wissenschaften zu Berlin 1876: 425-465  		
+3174	Koehler R.	1901	Expédition Antarctique Belge. Résultats du vogage du S.Y. "Belgica" en 1897-98-99.  Zoologie. Echinides et Ophiures: 1-42		
+3134	Mortensen T.	1925	On a small collection of echinoderms from the Antarctic Sea. Arkiv för Zoologie, 17A(31): 1-12		
+3139	Bell F.J.	1908	National Antarctic Expedition 1901-04. Echinoderma. Nat. History, Zoology ( London) IV: 1-16		
+172265	Allman, G.J.	1863	On a new fossil Ophiuridan, from Post-Pliocene strata of the valley of the Forth. Proceedings of the Royal Society of Edinburgh, 5, 101.		
+172269	Benecke, E.W.	1868	Über einige Muschelkalkablagerungen der Alpen. Geognostisch-paläontologische Beiträge, München, 2, 1-67.		
+3042	Pollock, L.W.	1998	A practical guide to the marine animals of northeastern North America. Rutgers University Press. New Brunswick, New Jersey & London. 367 pp.		
+2999	Linkletter, L.E.	1977	A checklist of marine fauna and flora of the Bay of Fundy. Huntsman Marine Laboratory, St. Andrews, N.B. 68 p.		
+2964	Gosner, K.L.	1971	Guide to identification of marine and estuarine invertebrates: Cape Hatteras to the Bay of Fundy. John Wiley & Sons, Inc. 693 p.		
+2965	Gosner,	1977	Gosner, 1977		
+2930	Brunel, P., Bosse, L. & Lamarche, G.	1998	Catalogue of the marine invertebrates of the estuary and Gulf of St. Lawrence. Canadian Special Publication of Fisheries and Aquatic Sciences, 126. 405 p.		
+2901			North-West Atlantic Ocean species (NWARMS)		
+2928	Bromley, J.E.C., and J.S. Bleakney.	1984	Keys to the fauna and flora of Minas Basin. National Research Council of Canada Report 24119. 366 p.		
+3072	Trott, T.J.	2004	Cobscook Bay inventory: a historical checklist of marine invertebrates spanning 162 years. Northeastern Naturalist (Special Issue 2): 261 - 324.		
+1648	Leloup, E.	1952	Contributions à l'étude de la faune belge: 19. Observation sur la crevette grise au large de la côte belge en 1949 [Contribution to the study on the Belgian fauna: 19. Observation on the brown shrimp along the Belgian coast in 1949]. <i>Med. K. Belg. Inst. Nat. Wet. 18(1)</i>: 1-28		
+83	Holtmann, S.E.; Groenewold, A.; Schrader, K.H.M.; Asjes, J.; Craeymeersch, J.A.; Duineveld, G.C.A.; van Bostelen, A.J.; van der Meer, J.	1996	Atlas of the zoobenthos of the Dutch continental shelf. Ministry of Transport, Public Works and Water Management: Rijswijk, The Netherlands. ISBN 90-369-4301-9. 243 pp.		
+1116	Leewis, R.	2002	Flora en fauna van de zee [Marine flora and fauna]. <i>Veldgids</i>, 16. KNNV Uitgeverij: Utrecht, The Netherlands. ISBN 90-5011-153-X. 320 pp.		
+1066	von Düben, M.W.; Koren, J.	1846	Öfversigt af Skandinaviens Echinodermer [Overview of Scandinavian Echinodermata]. <i>Kungl. Svenska Vetenskapsakademiens Handlingar 1844</i>: 229-328, plates VI-XI		
+6831			BIOCEAN		
+1125			Dewarumez, Jean-Marie		
+42			ITIS database		
+8	Linnaeus, C.	1758	Systema Naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis. Editio decima, reformata. Laurentius Salvius: Holmiae. ii, 824 pp.		
+685	Hayward, P.; Nelson-Smith, A.; Shields, C.	1999	Gids van kust en strand: flora en fauna [Coast and beach guide: flora and fauna]. Tirion: Baarn, Netherlands. ISBN 90-5210-327-5. 352, ill. pp.		
+1368	Hansson, H.G.	2001	Echinodermata, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+755	Eneman, E.	1984	Uit het Natuurhistorisch Archief [From the Natural History Archive]. <i>De Strandvlo 4(1)</i>: 4-17		
+23040	Stöhr, S., Segonzac, M.	2006	Two new genera and species of ophiuroid (Echinodermata) from hydrothermal vents in the East Pacific. Species Diversity 11: 7-32		
+9271	Streftaris, N.; Zenetos, A.; Papathanassiou, E.	2005	Globalisation in marine ecosystems: the story of non-indigenous marine species across European seas. <i>Oceanogr. Mar. Biol. Ann. Rev. 43</i>: 419-453		
+663	Howson, C.M.; Picton, B.E. (Ed.)	1997	The species directory of the marine fauna and flora of the British Isles and surrounding seas. <i>Ulster Museum Publication</i>, 276. The Ulster Museum: Belfast, UK. ISBN 0-948150-06-8. vi, 508 (+ cd-rom) pp.		
+9419	Müller, O.F.	1776	Zoologica Danicae Prodromus seu Animalium Daniae et Norvegiae indigenarum characters, nomine, et synonyma imprimis popularium. Havniae. XXXII, 274 pp.		
+43054	Hendler, G.	2005	Two new brittle star species of the genus Ophiothrix (Echinodermata: Ophiuroidea: Ophiotrichidae) from coral reefs in the Southern Caribbean Sea, with notes on their biology. Carribean Journal of Science 41(3): 583-599.		
+147019	Domantay, J.S. & Domantay, C.R.	1966	Studies on the classification and distribution of Philippine littoral Ophiuroidea (brittle stars). Philippine Journal of Science 95(1): 1-77.		
+47538	Blake, D.B. and R.B. Aronson.	1998	Eocene stelleroids (Echinodermata) at Seymour Island, Antarctic Peninsula. Journal of Paelontology 72(2): 339-353 		
+47490	McKnight D.G.	1993	Records of echinoderms (excluding holothurians) from the Norfolk Ridge and Three Kings Rise north of New Zealand. New Zealand Journal of Zoology 20: 165-190.		
+47579	Devaney, D.M.	1974	Shallow-water echinoderms from British Honduras, with a description of a new species of Ophiocoma (Ophiuroidea). Bulletin of Marine Science 24: 122-164.		
+130462	Madsen, F.J.	1970	West African Ophiuroids. Atlantidae Report 11: 151-243.		
+138534	Lane DJW, Marsh LM, VandenSpiegel D, Rowe FWE	2000	Echinoderm fauna of the South China Sea: an inventory and analysis of distribution patterns. The Raffles Bulletin of Zoology, Suppl. 8: 459-493.		
+47429	Fell, H.B.	1953	Echinoderms from the subantarctic islands of New Zealand: Asteroidea, Ophiuroidea, and Echinoidea. Records of the Dominion Museum 2: 73-111. 2 plates.		
+135070	Böhm, J.	1891	Die Kreidebildungen des Fürbergs und Sulzbergs bei Siegsdorf in Oberbayern. Palaeontographica, 38, 1–106.		
+172364	Shone, R.W.	1986	A new ophiuroid from the Sundays River Formation (Lower Cretaceous), South Africa. Journal of Paleontology, 60(4), 904-910.		
+46934	Risso, A.	1826	Histoire naturelle des principales productions de l'Europe Méridionale et particulièrement de celles des environs de Nice et des Alpes Maritimes. Paris: F.G. Levrault. Vol. 5: VIII, 1-403, 10 pls.		
+47417	Fell, H.B.	1958	Deep-sea echinoderms of New Zealand. Zoology Publications from Victoria University of Wellington 24: 1-40		
+172386	Yang, T.Y. & Nie, Z.T.	1982	New Jurassic ophiuroids from the Ngari area of Xizang (Tibet), China. Acta Palaeontologica Sinica, 21, 83-86.		
+172379	von Münster, G.	1839	Beschreibung einiger neuer Radiarien der Flöz-Formation. Beiträge zur Petrefactenkunde, 1, 85–90.		
+127069	Albuquerque, M. da N., Campos-Creasey L.S., Guille A.	2001	Two new species of Amphiuridae (Echinodermata, Ophiuroidea) from the southeastern coast of Brazil. Zoosystema 23(3): 591-604.		
+172376	Valette, A.	1915	Les ophiures de la craie des environs de Sens. Bulletin de la Société des science historiques et naturelles de l'Yonne, 68, 125-150.		
+172367	Taylor, B.J.	1966	Taxonomy and morphology of Echinodermata from the Aptian of Alexander Island. British Antarctic Survey Bulletin, 8, 1-18.		
+172368	Thuy, B. & Kroh, A.	2011	Barremian ophiuroids from the Serre de Bleyton (Drôme, SE-France). Annalen des Naturhistorischen Museum in Wien, Serie A, 113, 777-807.		
+127050	Benavides-Serrato, M. & O'Hara, T.D.	2008	A new species in the Ophiocoma erinaceus complex from the South-west Pacific Ocean (Echinodermata: Ophiuroidea: Ophiocomidae). Memoirs of Museum Victoria 65: 51-56.		
+129943	Clark AH	1917	Four new echinoderms from the West Indies. Proc. Biol. Soc. Washington 30:63-70.		
+125312	Clark, A.H.	1949	On a collection of sea-stars from the Philippine Islands. Proceedings of the Biological Society of Washington 62: 73-78.		
+125371	Clark, H.L.	1923	The Echinoderm fauna of South Africa.  Annals of the South African Museum, 13(7):221–435, pls. 8–23.		
+47755	Lütken, C.F.	1858	Additamenta ad historiam Ophiuridarum. Förste Afdelning. Det kongelige danske Videnskabernes Selskaps Skrifter. 5 Raekke, Naturvidenskabelig og mathematisk Afdelning, 5: 1-74, 2pls.		
+172365	Skwarko, S.K.	1963	A new Upper Cretaceous ophiuroid from Australia. Palaeontology, 6(3), 579-581.		
+139728	Murakami, S.	1944	Note on the Ophiurans of Amakusa, Kyusyu. Journal of the Department of Agriculture, Kyusyu Imperial University, 7(8), 259-280, pl. 1.		
+128964	McKnight.	2003	New brittle-stars (Echinodermata: Ophiuroidea) from New Zealand waters. Zootaxa 352: 1-36		
+172363	Schöndorf, F.	1913	Über einige Ophiuren aus der Trias von Oberschlesien und Thüringen. Jahrbuch der Preussischen geologischen Landesanstalt, 33, 215.		
+139391	Lyman, T.	1862	Descriptions of new Ophiuridae. Proc. Boston Soc. nat. Hist., 8, 75-86.		
+139534	Clark, A.H.	1919	A new genus and species of multibrachiate Ophiuran from the Caribbean Sea. Proceedings of the U.S. National Museum, 54.		
+139595	Engel, H.	1949	Ophioteresis beauforti nov. sp. Bijdragen tot de Dierkunde, 28, 140-143, 1 pl.		
+139623	Gibbs, P.E.; Clark, A.M.; Clark, C.M.	1976	Echinoderms from the northern region of the Great Barrier Reef, Australia. Bulletin of the British Museum (Natural History), 30(4), 102-144.		
+139678	Clark, H.L.	1925	Marine zoology of tropical central Pacific: Echinoderms other than sea-stars. Bulletin of the Bernice Pauahi Bishop Museum, 27, 89-111, pls 9-11.		
+139708	Murakami, S.	1943	Ophiurans from some gulfs and bays of Nippon. Journal of the Department of Agriculture, Kyusyu Imperial University, 7, ?.		
+139729	Guille, A; Vadon, C.	1985	Les Ophiures littorales de Nouvelle-Calédonie. Bull. Mus. natn. Hist. nat., Paris, 4e serie, section A, 7(1), 61-72.		
+172378	Villier, L.	2010	Asterozoans. Paleobiology Database Online Systematics Archive.		
+151591	Sutton, J.E.	1976	Partial revision of the genus Amphiodia (Ophiuroidea, Amphiuridae) from the west coast of North America. Thalassia Jugoslavica 12: 347-354.		
+151828			O'Hara, T. D. Museum of Victoria, Melbourne, Australia		
+132589	Mah, C.L.; McKnight, D.G.; Eagle, M.K.; Pawson, D.L.; Améziane, N.; Vance, D.J.; Baker, A.N.; Clark, H.E.S.; Davey, N.	2009	Phylum Echinodermata: sea stars, brittle stars, sea urchins, sea cucumbres, sea lilies, in: Gordon, D.P. (Ed.) (2009). New Zealand inventory of biodiversity: 1. Kingdom Animalia: Radiata, Lophotrochozoa, Deuterostomia.		
+124967	Clark, H.L.	1916	I. Report on the sea-lilies. starfishes, brittle-stars and sea-urchins obtained by the F.I.S. Endeavour on the coasts of Queensland, New South Wales, Tasmania, Victoria, South Australia, and Western Australia. Biological Results of the Fishing experiments carried on by the F.I.S. Endeavour 1909-1914, 4(1), 1-123.		
+124968	Clark, H.L.	1917	Reports on the scientific results of the expedition to the tropical Pacific in charge of Alexander agassiz, on the U.S. Fish Commission Steamer "Albatross" from August, 1899 to March, 1900, October, 1904 to March 1905.XVII. XXX. Ophiuroidea. Bulletin of the Museum of Comparative Zoology at Harvard College 61(12):  429-453.		
+124973	Clark, H.L.	1939	Two new ophiurans from the Smithsonian-Hartford Expedition, 1937. Proceedings of the United States National Museum 86(3054): 415-418		
+124976	Clark, H.L.	1908	Some Japanese and East Indian Echinoderms. Bulletin of the Museum of Comparative Zoology 51(11): 279-311.		
+172371	Thuy, B.	2011	Exceptionally well-preserved brittle stars from the Pliensbachian (Early Jurassic) of the French Ardennes. Palaeontology, 54(1), 215-233.		
+172388	Yang, T.Y., Yin, H.F., Lin, H.M.,	1979	Marine Triassic faunas from Shihchienfeng Group in the northern Weihe River Basin, Shaanxi Province. Acta Palaeontologica Sinica, 18 (5), 465-474.		
+172374	Toula, F.	1887	Über Aspidura raiblana nov. spec. Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften, 96, 361-369.		
+172380	Whitfield, R.P. & Hovey, E.O.	1906	Remarks on and descriptions of Jurassic fossils of the Black Hills. Bulletin of the American Museum of Natural History, 22, 389-402.		
+168984	Brünnich Nielsen, K.	1926	Kalken paa Saltholm. Danmarks feologiske Undersogelse 4, 1-23.		
+52063	Verrill, A.E.	1885	Notice of the remarkable marine fauna occupying the outer banks of the southern coast of New England. No. 11. <i>American Journal of Science and Arts</i>, 29: 149-157.		
+147425	Djakonov, A.M.	1952	Echinoderms from abyssal depth in the water around Kamtchatka. Issledovaniya dal'nevostochnykh morei: Investigations Far East Seas USSR. vol. 3, 116-130		
+147426	Guille, A.	1981	Echinodermes: Ophiurides. Mem. ORSTOM. vol. 91, 413-456		
+132821	Verrill, A.E.	1879	Notice of recent additions to the marine invertebrates of the northeastern coast of America, with descriptions of new genera and species, and critical remarks. Proc. U.S. Nat. Mus. 2: 165-205.		
+147424	Clark, A.M.	1952	Some echinoderms from Southern Africa. Transactions Royal Society of South Africa. 33, vol. 2, 193-221		
+132823	BODC	2009	Species list from the British Oceanographic Data Centre.		
+64102	Verrill, A.E.	1882	Notice of the remarkable marine fauna occupying the outer banks off the southern coast of New England, No. 3. American Journal of Science 23(134): 135-142.		
+147020	Domantay, J.S.	1957	Preliminary reports on the marine fauna of One Hundred Islands and vicinity, gulf of Lingayen, Pangasinan Province, Luzon, Philippines. Araneta Journal of Agriculture :24-46		
+68014	Sloan, N. A., Clark, A. M. & Taylor, J. D.	1979	The echinoderms of Aldabra and their habitats. Bulletin of the British Museum (Natural History) 37(2): 81-128.		
+147427	Ziesenhenne, F.C.	1951	A new brittlestar of the genus Astrophiura from Southern California. Bulletin of the Southern California Academy of Sciences. vol. 50 (1), 25-33		
+145273	Cherbonnier, G.	1959	Echinodermes de la Guyane francaise (Crinoides, Asterides, Ophiurides, Holothurides). (Note 4.) Bulletin du Muséum National d'Histoire Naturelle 2, 367-372.		
+151835	Kyte, M.A.	1969	A synopsis and key to the recent Ophiuroidea of Washington State and Southern British Columbia. Journal of the Fisheries Research Board of Canada 26: 1727-1741.		
+139571	Kingston, S.C.	1980	The Swain Reefs Expedition: Ophiuroidea. Records of the Australian Museum, 33(3), 123-147.		
+139574	Koehler, R.	1910	Astéries et Ophiures des iles Aru et Kei. Abhandlungen der Senckenbergischen Naturforschenden Gesellschaft, 33, 265-295.		
+139320	Koehler, R.	1907	Note preliminaire sur quelque Asteries et Ophiures provenant des compagnes de la Princesse Alice. Bulletin de l’Institut Oceanographique, 99, 1-47.		
+139321	Matsumoto, H.	1917	A monograph of Japanese Ophiuroidea, arranged according to a new classification. Journal of the College of Science, Imperial University, Tokyo, 38, 1-408.		
+139323	Müller, J.; Troschel, F.H.	1843	Neue Beiträge zur Kenntnis der Asteriden. Archiv für Naturgeschichte, 9(1), 113-131.		
+139394	Lamarck, J.B. de.	1816	Ordre Second. Radiaires Échinodermes. Histoire naturelle des animaux sans vertèbres, 2, 522-568.		
+139395	Clark, H.L.	1932	Echinodermata (other than Asteroidea) of the Great Barrier Reef Expedition, 1928-29. Scient. Rep. Gt. Barrier Reef Exped., 4, 197-239, 9 figs, 1 pl.		
+139397	Bell, F.J.	1884	Echinodermata. Report on the zoological collections made in the Indo-Pacific Ocean during the voyage of H.M.S. “Alert”, 1881-2, 117-177, 509-512, pls 8-17 & 45. London		
+139624	Hutton, F.W.	1872	Catalogue of the echinodermata of New Zealand, with diagnoses of the species. Colonial Museum and Geological Department, i-iv, 1-18.		
+139625	Koehler, R.	1895	Catalogue raisonné des échinodermes recueillis par M. Korotnev aux iles de la sonde. Mémoires de la Société zoologique de France, 8, 374-423.		
+139628	Bernasconi, I.; d'Agostino, M.M.	1975	Nueva especie de Ofiuroideo argentino Amphilepis sanmatiensis sp. nov. (Ophiuroidea, Amphilepidinae). Physis, Sección A, 34(89), 355-458.		
+139629	Bernasconi, I.; d'Agostino, M.M.	1973	Nueva especie de Ofiuroideo atartico, Ophiurolepis granulifera sp. nov. (Ophiuroidea, Ophiuridae). Physis, Sección A, 32(85), 263-266.		
+139680	Matsumoto.	1918	On a collection of ophiurans from Kinkwasan. Annotates Zool. Jap. Tokyo, 9.		
+139682	Tommasi, L. R.	1971	Equinodermes do Brasil. I. Sobre algumas novas espécies e outras pouco conhecidas, para o Brasil. Boletim do Instituto Oceanográfico, São Paulo, 20, 1-21.		
+139684	Clark, A.H.	1948	Two new starfishes and a new brittlestar from Florida and Alabama. Proceedings of the Biological Society of Washington, 61, 55-66.		
+139685	Clark, A.H.	1917	Two new astroradiate echinoderms from the Pacific coast of Colombia, and Ecuador. Proceedings of the Biological Society of Washington, 30, 171-174.		
+139709	Koehler, R.	1907	Ophiuroidea. In: Michaelsen, W.; Hartmeyer, R. Fauna Südwest-Australiens, 1(4), 241-254. Fischer: Jena		
+139501	Koehler, R.	1908	Astéries, Ophiures et Echinides de l'Expedition Antarctique National Ecossaise. Trans. R. Soc. Edinb., 46(3), 529-649.		
+139537	Verrill, A.E.	1876	?. U.S. National Museum Bulletin, 3, ?-74-?.		
+138561	Fell, H.B.	1961	The fauna of the Ross Sea. Part 1. Ophiuroidea. New Zealand Oceanographic Institute Memoir 18: 1-79, 19 pls.		
+139596	Koehler, R.	1927	Ophiures recueillies aux Iles Gilbert, Marshall et Fiji. Meddelanden från Göteborgs musei zoologiska avdelning, 43, 1-13, 1pl.		
+129882	Lambert, P. & Austin, W.C.	2007	Brittle stars, sea urchins and feather stars of British Columbia, Southeast Alaska and Puget Sound. Royal BC handbook. Victoria, Canada. 150pp.		
+129884	Agassiz JLR	1836	Prodrome d'une Monographie des Radiaires ou Echinodermes. Soc. Sci. Nat. Neuchâtel, Mém. 1 (1835):168-199, 5 pl.		
+132977	Guille, A.	1976	Echinodermes de la cöte catalane espagnole (Méditerranée) Amphiura lacazei nov. sp., ophiure nouvelle de la famille des Amphiuridae. Thalassia Jugoslavica 12 (1): 165-171.		
+126098	Clark, A.H.	1917	Three new starfishes and one new brittlestar from Chile. Proceedings of the Biological Society of Washington 30: 151-158		
+138591	Stöhr, S., Boissin, E., Chenuil, A.	2009	Potential cryptic speciation in Mediterranean populations of Ophioderma (Echinodermata: Ophiuroidea). Zootaxa 2071: 1-20.		
+139325	Litvinova, N. M.	1998	Two new species of the genus Ophiuraster (Ophiurinae, Ophiuroidea, Echinodermata) from French collections and some remarks on the genus. Zoosystema, 20(3), 439-444.		
+139398	Clark, A.H.	1934	A new genus of brittle stars from Puerto Rico. Smithsonian Miscellaneous Collections, 91(13), 1-3, pl. 1.		
+139502	Cherbonnier, G.	1962	Ophiures de l'Expédition Antarctique Belge (1960/61). Bull. Inst. r. Sc. nat. Belg., 38(37), 1-31, 8 pls.		
+139538	Shin, S; Rho, B J.	1989	Ophiacantha linea, a new brittlestar species from Cheju Island, Korea (Echinodermata, Ophiuroidea). KOREAN JOURNAL OF SYSTEMATIC ZOOLOGY, 2(2), 59-66.		
+139575	Fell, H.B.	1952	Echinoderms from Southern New Zealand. Zoology Publications from Victoria University College, 18, 1-37.		
+139597	Fell, H.B.	1951	Some Off-shore and Deep-Sea Ophiuroids from New Zealand Waters. Zoology Publications from Victoria University College, 13, 1-4.		
+139630	Bernasconi, I.; d'Agostino, M.M.	1977	Nueva especie de Ofiuroideo antartico, Ophiomastus trispinosus sp. nov. (Ophiuroidea, Ophiuridea). Physis, Sección A, 36(92), 65-67.		
+139686	Clark, A.H.	1921	A new Ophiuran of the genus Ophiopsila from southern California. Proceedings of the Biological Society of Washington, 34, 109-110.		
+139710	Michelin,.	1862	Notes sur l’Ille de la Réunion. Echinides et Stellerides. Annexe A, 2-6.		
+147432	Thomas, L.P.	1965	A new species of Ophiophragmus (Ophiuroidea: Echinodermata) from the Gulf of Mexico. Bulletin of Marine Science. vol. 15(4), 850-854		
+142484	Manso, C.L.C.	2010	Deep-water Ophiuroidea (Echinodermata) from off Chile in the Eastern South Pacific. Biota Neotropica 10(2): 185-199.		
+151826	Parslow R.E. & Clark, A.m.	1963	Ophiuroidea of the lesser Antilles. Studies on the Fauna of Curaçao and other Carribbean Islands 15(67): 24-50.		
+141390	Okanishi, M. & Fujita, T.	2009	A new species of Asteroschema (Echinodermata: Ophiuroidea: Asteroschematidae) from southwestern Japan. Species Diversity 14: 115-129		
+141392	Thomas, L.P.	1963	A redescription of the amphiurid brittlestar Ophiocnida cubana A.H. Clark, 1917. Proceedings of the Biological Society of Washington 76: 217-222.		
+141394	Clark, H.L.	1915	Catalogue of Recent ophiurans. Mem. Mus. Comp. Zool. 25(4): 163-376, 20 pls.		
+147433	Seno, J.; Irimura, S.	1968	Ophiuroidea collected by the Umitaka-Maru off Prince Harald coast, Antarctica, in 1957. Journal of the Tokyo University of Fisheries. vol. 55(1), 1-8		
+139693	Hess, H.	1960	Ophioderma escheri Heer aus dem unteren Lias der Schambelen (Kt. Aargau) und verwandte Lias-Ophiuren aus England und Deutschland. Eclogae geologicae Helvetiae, 53(2), 757-793.		
+139694	Phillips, J.	1829	Illustrations of the Geology of Yorkshire; or a description of the strata and organic remains of the Yorkshire Coast. Part 1. Printed for the author, York 1-192.		
+139695	Wright, T.	1866	A monograph on the British fossil Echinodermata from the Oolitic formations. 2/2 On the Ophiuroidea. Paleontologr. Society: London		
+139718	Clark, A.H.	1936	Reports on the collections obtained by the first Johnson Smithsonian deep-sea expedition to the Puerto Rican deep. Four new brittle stars from Puerto Rico. Smithsonian Miscellaneous Collections 91(24): 1-8.		
+139719	Rowe, F.W.E.; Pawson, D.L. .	1977	A catalogue of echinoderm type-specimens in the Australian Museum, Sydney. Records of the Australian Museum, 30(14), 337-364.		
+139632	Martens von, E.	1867	Über eine neue zwischen den Ophiuren und Euryalen die Mitte haltende Gattung von Seesternen, Hemieuryale. Sitzungsberichte der preussischen Akademie der Wissenschaften, physikalisch-mathematische Klasse, ?(?), 481-486.		
+139633	Mortensen, T.	1925	On some echinoderms from South Africa. Annals and Magazines of Natural History, series 9, 16, 146-154.		
+139580	Mortensen, T.	1940	Echinoderms from the Iranian Gulf. Asteroidea, Ophiuroidea, and Echinoidea. Danish Scientific Investigations in Iran, Part 2, 55-112.		
+139581	Clark, A.H.	1949	Ophiuroidea of the Hawaiian Islands. Bulletin of the Bernice P. Bishop Museum, 195, 3-133.		
+139584	Mortensen, T.	1933	Studies of Indo-Pacific Euryalids. Meddelande fra Dansk naturhistorisk Forening, 96 (2), 1-75.		
+139691	Hess, H.	1960	Über zwei Ophiuren (Ophiocoma ? rasmusseni n.sp. und Ophiotitanos tenuis Spencer) aus der englischen Kreide. Eclogae geologicae Helvetiae, 53(2), 747-757.		
+139697	Quenstedt, F.A.	1876	Petrefactenkunde Deutschlands: Erste Abtheilung, Vierter (4) Band, Echinodermen (Asteriden und Encriniden). Fues Verlag, Leipzig, 1-742.		
+139712	Guille, A.; Jangoux, M.	1978	Astérides et Ophiurides littorales de la region d'Amboine (Indonésie). Ann. Inst. Océanogr. Paris, 54, 47-74.		
+139713	Smith, E.A.	1878	Description of a remarkable new form of Ophiuridae from Ceylon. Annals and Magazine of Natural History, 5(1), 463-465.		
+139716	Matsumoto, H.	1912	Recent Protophiurae with revision of ophiuroid orders. Dobutsugaku Zasshi Tokyo (Zoological Magazine), 24(283), 263-269.		
+139540	Litvinova, NM; Smirnov, IS.	1981	A contribution to studying the genus Astrophiura (Echinodermata, Ophiuroidea). Zoologiceskij Zhurnal, 60, 626-629.		
+139541	Koehler, R.	1915	Description d’une nouvelle espéce d’Astrophiura, l’Astrophiura cavellar. Bull Inst Océanogr, 311, 1-15.		
+139546	Farquhar, H.	1900	On a new species of Ophiuroidea. Transactions of the New Zealand Institute, 32, 405.		
+139602	Marktanner-Turneretscher, G.	1887	Beschreibung neuer Ophiuriden und Bemerkungen zu bekannten. Annalen des k.k. naturhistorischen Hofmuseums, 2(4), 291-316.		
+139550	Belyaev, G.M.; Litvinova, N.M.	1976	The new and rare ophiuroid species from the Pacific and Indian Oceans. Trudy Instituta Okeanologii Akademija nauk CCCP, 99, 126-139.		
+139551	Hendler, G.; Bundrick, C.J.	2001	A new brooding brittle star from California (Echinodermata: Ophiuroidea: Amphiuridae). Contributions in Science Los Angeles, 486, 1-11.		
+139517	Baranova, Z.I.	1955	New species and subspecies of echinoderms from the Bering Sea. Trudy Zoologicheskogo Instituta Akademiya Nauk SSSR, 18, 334-342.		
+139507	Vadon, C.	1991	Echinodermata: Ophiuridae profonds de Nouvelle-Calédonie. Formes paedomorphes. Résultats des Campagnes MUSORSTOM, Vol. 8. Mém. Mus. natn. Hist. nat. (A), 151, 335-356.		
+139508	Fasmer, H.	1930	On the genus Anthophiura. Vidensk. Medd. dansk naturh. Foren, 90, 1-7.		
+139509	Guille, A.; Vadon, C.	1986	Ophiuridae l'océan Indien profond. Indo-Malayan Zoology, 3, 167-188.		
+139511	Verrill, A.E.	1869	New and imperfectly known Echinoderms and Corals. Proc. Boston Soc. Nat. Hist., 12, 381-391.		
+139598	Baker, A.N.	1974	New Species of Brittle-stars from New Zealand (Echinodermata: Ophiuroidea). Records of the Dominion Museum, 8(15), 247-266.		
+139599	Baker, A.N.	1977	Some Deep-sea Ophiuroidea from New Zealand. National Museum of New Zealand Records, 1(10), 149-160.		
+139601	Koehler, R.	1923	Sur quelques Ophiures des Côtes de l'Angola et du Cap. Meddelanden från Göteborgs musei zoologiska avdelning, 18, 1-17.		
+139603	Matsumoto, H.	1941	Report of the Biological Survey of Mutsu Bay. 36. Ophiuroidea of the Mutsu Bay and Vicinities. Science Reports of the Tôhoku Imperial University, 16(3), 331-344.		
+139604	Mortensen, T.	1912	Astrochalcis micropus n.sp. - a new Euryalid from the Philippines. Videnskabelige Meddelelser fra den Naturhistoriske Forening, København, 63, 257-259.		
+139605	Mortensen, T.	1910	Microphiura decipiens n. g. n. sp. - a remarkable new West Indian Ophiurid. Videnskabelige Meddelelser fra den Naturhistoriske Forening, København, 203-209.		
+139326	Ljungman, A. V.	1865	Tillägg till kännedom af Skandinaviens Ophiurider. Öfversigt af Kgl. Vetenskaps-Akademiens Förhandlingar 1863, 21(7), 359-367, pl. XV.		
+139328	Mortensen, T.	1920	Notes on some Scandinavian Echinoderms with descriptions of two new Ophiuroids. Videnskabelige Meddelser fra Dansk Naturhistorisk Forening i Kjøbenhavn, 72, 45-79.		
+139576	Ludwig, H.	1879	Die Echinodermen des Mittelmeeres. Mitteilungen aus der Zoologischen Station zu Neapel, 1, 523-580.		
+139578	Sars, G.O.	1872	Nye Echinodermer fra den norske kyst. Videnskabelige Selskabets Forhandlinger 1871, 1-31.		
+139331	Hotchkiss, F.H.	1982	Ophiuroidea (Echinodermata) from Carrie Bow Cay, Belize. Smithsonian Contributions to the Marine Sciences, 12, 387-412.		
+139332	Matsumoto, H.	1911	About Japanese Euryalidae. Dobutsugaku Zasshi Tokyo (Zoological Magazine), 23(277), 617-631.		
+139333	Matsumoto, H.	1912	About Japanese Astrophytidae. Dobuts. Z. Tokyo (Zoological Magazine), 24(282), 199-206.		
+139334	Lyman, T.	1878	Ophiurans. Reports on the dredging operations of the US coast survey Str. “Blake”. Bulletin of the Museum of Comparative Zoology, 5(9), 217-238, 3 pls.		
+139335	Hendler, G.	1988	Western Atlantic Ophiolepis (Echinodermata: Ophiuroidea): a description of O. pawsoni new species, and a key to the species. Bulletin of Marine Science, 42(2), 265-272.		
+139399	Farquhar, H.	1908	Description of a new ophiuroid. Transactions and Proceedings of the New Zealand Institute, 40, 108.		
+139504	Thomson, C. Wyville .	1878	The voyage of the “Challenger". The Atlantic. A preliminary account of the general results of the exploring voyage of H.M.S. “Challenger". , 1, 1-424.		
+139506	Reys, J.P.	1961	Deux Ophiures nouvelles: Amphipholis tissieri et Ophiomyces peresi. Recueil des Travaux de la Station Marine d'Endome, 36, 153-157.		
+139554	Forbes, E.	1852	Echinodermata of the British Tertiaries. , 1-36, pls 1-4. Palaeontographical Society: London		
+139579	Tommasi, L.R.	1970	Os Ofiuroides recentes do Brasil e de regioes Vizinhas. Contribuicoes Avulsas do Instituto Oceanografico, Univ. Sao Paulo, sér. Ocean Biol., 20, 1-146.		
+104262	Mortensen, T.	1936	Echinoidea and Ophiuroidea. Discovery Reports 12:109-348, pls. 1-9. (iii-1936). (Copepoda: 332).		
+131469	Hoggett, A.K.	1991	The genus Macrophiothrix (Ophiuroidea: Ophiotrichidae) in Australian waters. Invertebrate Taxonomy 4: 1077-1146.		
+132022	Devaney, D.M.	1974	Shallow-water asterozoans of Southeastern Polynesia II. Ophiuroidea. Micronesica 10(1): 105-204.		
+126099	Clark, A.H.	1939	Echinoderms of the Smithsonian-Hartford Expedition, 1937, with other West Indian records. Proceedings of the U.S. National Museum 86: 441-456.		
+126106	Clark, A.M.	1951	On some echinoderms in the British Museum (Natural History). Annals of the Magazine of Natural History 4: 1256-1268.		
+126100	Clark, A.H.	1939	Echinoderms (other than holothurians) collected on the presidential cruise of 1938. Smithsonian Miscellaneous Collections 98(11): 1-18.		
+126104	Clark, A.H.	1952	Echinoderms from the Marshall Islands. Proceedings of the U.S. National Museum 102: 265-303.		
+127051	Franklin, A.M. & O'Hara, T.D.	2008	A new species in the genus Ophiomyxa from South-west Australian waters (Echinodermatat: Ophiuroidea: Ophiomyxidae). Memoirs of Museum Victoria 65: 57-62		
+133519	Hagenow, F. von	1840	onographie der Rügen'schen Kreide-Versteinerungen, 2, Radiarien und Annulaten. N.Jb.Miner. 1840: 631-672, Taf. 9		
+131473	Turner, R.L.	1985	Microphiopholis, replacement name for Micropholis Thomas, 1966 (Ophiuroidea: Amphiuridae) NON Huxley, 1859 (Amphibia: Dissorophidae). Proceedings of the Biological Society of Wshington 98(4): 1028-1029.		
+147431	May, R.M.	1924	The Ophiurans of Monterey Bay. Proceedings of the California Academy of Sciences, 4th series. vol. 13(18)		
+147397	Kyte, M.A.	1977	Ophiacantha clypeata n. sp. from the Bering sea, with a redescription of Ophiacantha rhachophora Clark (Echinodermata: Ophiuroidea). Proceedings of the Biological Society of Washington 90(1): 55-60.		
+147410	Martinez, S. & Del Rio, C.J.	2008	A new, first fossil species of Ophioderma Müller and Troschel, 1842 (Echinodermata: Ophiuroidea) (Late Miocene, Argentina). Zootaxa 1841: 43-52		
+147430	Clark, A.H.	1916	A new brittle-star of the genus Ophiomitra from Southern Japan. Proceedings Biological Society of Washington. vol. 24, 225-226		
+147412			Unterwasser-Welt Ostsee		
+147429	Seno, J.; Irimura, S.	1968	Ophiuroidea collected from around the Ross Sea in 1964 with description of a new species. Journal of the Tokyo University of Fisheries, Special Edition 9: Reports on the Third Antarctic Expedition 1964-1965, of the T.S. Umitaka-Maru. vol. 5, 147-154		
+138624	Tommasi, L.R. & Abreu, J.	1974	Equinodermes do Brasil. IV. Sobre seis espécies novas de Ophiuroidea da região ao largo da Ilha Grande (RJ). Boletim do Instituto Oceanográfico, São Paulo 23: 17-32		
+129889	Bell FJ	1894	On the echinoderms collected during the voyage of H.M.S. Penguin and by H.M.S. Egeria, when surveying Macclesfield Bank. Proc. Zool. Soc. London 1894:392-413, pl. 23-27		
+139609	Thomas, L.P.	1967	The systematic position of Amphilimna (Echinodermata: Ophiuroidea). Proceedings of the Biological Society of Washington, 80, 123-130.		
+139610	Thomas, L.P.; Schoener, A.	1972	Growth changes in Amphilimna olivacea (Lyman) and the systematic status of Amphitarsus spinifer Schoener. Breviora, 387, 1-9.		
+139478	Clark, A.H.	1916	Ophiomaria, a new genus of Ophiurans from Southern South America and the adjacent portion of the Antarctic Continent. Journal Washington Academy of Science, 6, 385-387?.		
+139668	Koehler, R.	1897	Note sur les formes profondes d’Ophiures recueillies par >>l’Investigator<< dans l’Ocean Indien. Zoologischer Anzeiger, 531, 1-4.		
+139698	Hess, H.	1985	Schlangensterne und Seelilien aus dem unteren Lias von Hallau (Kanton Schaffhausen). Mitteilungen der Natruforschenden Gesellschaft Schaffhausen, 33, 1-15.		
+139479	Smith, E.A.	1877	Description of a new form of Ophiuridae from New Zealand. Ann. Mag. Nat. Hist. Series 15, 4, 305-309.		
+139480	Farquhar, H.	1901	Description of a new ophiurid. Trans. N.Z. Inst, 33, 250.		
+139485	Bell, F.J.	1888	Descriptions of four new species of Ophiurids. Proc. Zool. Soc. London, ?, 281-284, pl. 16.		
+139608	Schoener, A.	1967	Two new species of Amphitarsus (Ophiuroidea) from the western North Atlantic. Breviora, 269, 1-9.		
+139481	Farquhar, H.	1894	Description of a new species of Ophiuridae. Trans. N.Z. Inst. , 26, 109-111.		
+139482	Farquhar, H.	1897	A contribution to the history of N.Z. Echinoderms. Journal Linnean Society Zoology, 26.		
+139483	Hutton, F.W.	1878	Notes on some New Zealand Echinodermata, with description of new species. Transactions of the New Zealand Institute, 9, 305-308.		
+138506	Benham, W.B.	1911	Stellerids and echinids from the Kermadec Islands. Transactions of the New Zealand Institute 43: 140=-163.		
+139527	Baker, A.N.; Clark, H.E.S.; McKnight, D.G.	2001	New species of the brittlestar genus Astrogymnotes H.L. Clark, 1914, from New Zealand and Japan (Echinodermata: Ophiuroidea). Journal of the Royal Society of New Zealand, 31(2), 299-306.		
+139530	Hendler, G.; Peck, R.W.	1988	Ophiuroids off the deep end: Fauna of the Belizean fore-reef slope. In: Burke, R.D.; Mladenov, P.V.; Lambert, P.; Parsley, R.L. Echinoderm Biology, Proceedings of the sixth International Echinoderm Conference, 411-419.		
+139536	Verrill, A.E.	1884	Notice of the remarkable marine fauna occupying the outer banks off the southern coast of New England, No. 10. American Journal of Science, series 3, 28(article 29), 213-220? >324?.		
+139539	Fujita, T; Hendler, G.	2001	Description of a new species of Astrophiura (Echinodermata: Ophiuroidea) from Tosa Bay, Japan, and several of its remarkable anatomical characteristics. In: Fujita, T; Saito, H; Takeda, M. Deep-Sea Fauna and Pollutants in Tosa Bay. National Science Museum Monographs, 20, 263-281. National Science Museum: Tokyo		
+139543	McKnight, D.G.	2000	The Marine Fauna of New Zealand: Basket-stars and Snake-stars (Echinodermata: Ophiuroidea: Euryalinida). NIWA N Biodiversity Memoir, 115, 1-79. National Institute of Water and Atmospheric Research (NIWA): Wellington		
+139545	Studer, T.	1884	Verzeichnis der während der Reise S.M.S. “Gazelle” um die Erde, 1874-76 gesammelten Asteriden und Euryaliden. Abhandlungen der Preussischen Akademie der Wissenschaften, 2, 1-64.		
+139549	James, D.B.	1970	Studies on Indian echinoderms -4 On the brittle-stars Amphioplus gravelyi sp. nov. and Amphioplus depressus (Ljungman) from the Indian coasts. Journal of the Marine Biological Associtaion of India, 12(1&2), 139-145.		
+139553	James, D.B.	1982	Studies on Indian echinoderms - 9. Ophionereis andamanensis sp. nov. (Ophiuroidea: Ophionereidae) from Port Blair, Andamans. Journal of the marine biological Association of India, 24(1&2), 33-35.		
+139555	Hendler, G.	2002	Account of Ophionereis diabloensis, a new species of brittle star, and of O. amphilogus, with information on their brooding reproduction and distribution (Echinodermata: Ophiuroidea: Ophionereididae). Proceedings of the Biological Society of Washington, 115(1), 57-74.		
+139556	John, D.D.; Clark, A.M.	1954	The “Rosaura” expedition. 3. The echinodermata. Bulletin of the British Museum (Natural History) Zoology, 2, 139-162, pl. 6.		
+139557	Mortensen, T.	1913	Some new echinoderms from Greenland. Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening, 66: 37-43.		
+139559	Mortensen, T.	1934	Echinoderms from Hong Kong. Hong Kong Naturalist Suppl., 3, 3-14, 8 pls.		
+139560	Liao, Y.	1989	Two new species of the genus Amphilimna (Echinodermata: Ophiuroidea) from southern China. Chinese Journal of Ocenaology and Limnology, 7(4), 339-344.		
+139569	Verrill, A.E.	1871	Brief contributions to zoology from the museum of Yale College. XV. Descriptions of starfishes and ophiurans from the Atlantic coasts of America and Africa. American Journal of Science, ser. 3, 2, 130-133.		
+139570	Döderlein, L.	1898	Über einige epizoisch lebende Ophiuroidea. In: Semon, R. Zoologische Forschungsreisen in Australien und dem Malayischen Archipel. Denkschriften der Medicinisch-Naturwissenschaftlichen Gesellschaft zu Jena, 5, 483-488, pl. XXXVII.		
+131901	Irimura, S.	1981	Ophiurans from Tanabe Bay and its vicinity, with the description of a new species of Ophiocentrus. Publications of the Seto Marine Biological Laboratory 26 (1/3): 15-49.		
+139583	Ljungman, A.V.	1872	Förteckning öfver uti Vestindien af Dr A. Goës samt under korvetten Josefinas expedition i Atlantiska Oceanen samlade Ophiurider. Öfversigt af Kungliga Vetenskapsakademiens Förhandlingar 1871, 28(5), 615-658.		
+139585	Koehler, R.	1899	An account of the deep-sea Ophiuroidea collected by the Royal Indian Marine Survey Ship Investigator. , 1 (1), 1-74, pls I-XIV. Trustees of the Indian Museum: Calcutta		
+139586	Döderlein, L.	1911	Über japanische und andere Euryalae. Abhandlungen der math. phys. Klasse der K. Bayer Akademie der Wissenschaften, Suppl., 5 (2), 1-123.		
+139589	Nielsen, E.	1932	Papers from Dr. Th. Mortensen's Pacific Expedition 1914-1916 - 59. - Ophiurans from the Gulf of Panama, California, and the Strait of Georgia. Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening, 91, 241-346.		
+139593	Gislén, T.	1926	On the generic types of the ophiurid genus Ophiocentrus Ljungman (Amphiocnida Verrill). Göteborgs Kungliga Vetenskaps- och Vitterhets-Samhälles Handlingar. Fjärde Följden, 30(6), 1-16.		
+139606	Mortensen, T.	1911	Astroclon suensoni n. sp. - A new East Asiatic Euryalid. Videnskabelige Meddelelser fra den Naturhistoriske Forening, København, 63, 209-212.		
+140199	Kerckhof, F.	1987	From the Natural History Archive [Uit het Natuurhistorisch Archief]. De Strandvlo 7(1): 4-15		
+139464	Grube, A.E.	1868	Über einige seltenere oder neue Ophiuriden. Jahresberichte der schlesischen Gesellschaft für vaterländische Kultur, 45, 44-45.		
+139465	Grube, A.E.	1857	Diagnosen einiger neuer Echinodermen. Archiv für Naturgeschichte, 23, 340-344.		
+139466	Lyman, T.	1880	A structural feature hitherto unknown among echinodermata found in deep-sea ophiurans. Anniversary Memoirs of the Boston Society of Natural History, 1880, 1-12 pls 1-2.		
+139467	von Martens, E.	1879	Vorzeigung eines eigenthümlichen sechsarmigen Schlangensterns, Ophiothela dividua, sp.n. Sitzungsberichte der Gesellschaft Naturforschender Freunde zu Berlin, 1879, 127-130.		
+139468	de Loriol, P.	1900	Notes pour servir à l'étude des Echinodermes. VIII. Revue Suisse de Zoologie, 8, 55-96 pls 6-9.		
+139469	Koehler, R.	1910	Description d'Ophiures nouvelles provenant des dernières campagnes de l'Investigator dans l'Océan Indien. Records of the Indian Museum, 5(2), 83-88, pl. 5.		
+139471	Hill, A.	1940	A new genus of brittle stars, Amphicontus. Reports of the Allan Hancock Pacific Expedition, 1932-38, 8, 1-4, pl.1.		
+139472	Bush,.	1921	?. Publications of the Puget Sound Biological Station, 3(59).		
+139473	Clark, H.L.	1935	?. Annals and Magazine of Natural History (10), 15.		
+139474	Farquhar, H.	1913	On two new Echinoderms. Trans. N.Z. Inst. , 45, 212-215.		
+139475	Studer, T.	1882	Übersicht über die Ophiuriden, welche während der Reise S.M.S. “Gazelle" um die Erde 1874-76 gesammelt wurden. Phys. Abh. königl. Akad. Wiss. 1882, Berlin, 34, 1-37, 3 pls.		
+139476	Cherbonnier, G.	1957	Une Ophiure nouvelle de Méditerranée: Amphiura apicula nov. sp. Vie et Milieu, 8(2), 200-204.		
+139477	Mortensen, T.	1924	Echinoderms of New Zealand and the Auckland-Campbell Islands. II. Ophiuroidea. Papers from Dr Th. Mortensen's pacific Expedition (Vid. Medd. Dansk Naturh. Foren. 77, 20), 91-177, pls 3, 4.		
+139676	Caso, M.E.	1982	Especies del género Amphichondrius de la costa del Pacífico Americano. Descripción de una nueva especies del género Amphichondrius. Amphichondrius unamexici sp.nov. (Ophiuroidea). Anales del Instituto de Ciencias del Masr y Limnología, 1-6, 17 pls.		
+139679	Mortensen, T.; Stephenson, K.	1918	Papers from Dr. Th. Mortensen Pacific Expedition 1914-16 - On a gall-producing parasitic Copepod infesting an Ophiurid. Videnskabelige Meddelelser fra Dansk Naturhistorisk Forening, 69, 245-297.		
+139683	Mostler, H.; Krainer, K.	1993	Neue Ophiuren aus Liassischen Slope-Sedimenten der nördlichen Kalkalpen in der Umgebung von Lofer (Salzburg). Geologisch Paläontologische Mitteilungen Innsbruck, 19, 29-47.		
+139692	Hess, H.	1970	Ein neuer Schlangenstern (Aplocoma mutata n.sp.) aus dem Hettangien von Ceilhes (Hérault) und Bemerkungen über “Ophioderma” squamosa aus dem Muschelkalk. Eclogae geologicae Helvetiae, 63(3), 1059-1067.		
+139699	Enay, R.; Hess, H.	1962	Sur la découverte d’Ophiures (Ophiopetra lithographica ng.nsp.) dans le Jurrassique supérieur du Haut-Valrmomey (Jura méridional). Eclogae geologicae Helvetiae, 55(2), 657-673, pl. I-II.		
+139705	Borges, M.; Monteiro, A.M.G.; Amaral, A.C.Z.	2006	A new species of Ophiomisidium (Echinodermata: Ophiuroidea) from the continental shelf and slope off southern Brazil. Journal of the Marine Biological Association of the U.K., 86, 1449-1454.		
+139711	Alcock, A.	1893	Natural history notes from H.M. Indian Marine Survey steamer Investigator, Commander C.F. Oldham, R.N., commanding. Series 2, No 9. An account of the deep-sea collection made during the season of 1892–93. Journal of the Asiatic Society of Bengal, 62(2, 4), 169–184 pls 8–9.		
+139714	Litvinova. N.	1981	Brittle stars (Ophiuroidea). Benthos of the submarine mountains Marcus-Necker and adjacent Pacific regions, 113-131. Academy of Science of the USSR. P.P. Shirshov Institute of Oceanology:		
+139722	Caso, M.E.	1986	Descripcion de una nueva especie de ofiuroideo de la Bahia de Mazatlan, sin. Ophioderma sodipallaresi sp. nov y comparacion con Ophioderma variegatum Lütken. Anales del Instituto de Ciencias del Mar y Limnologia, 13(2), 223-247.		
+139724	Hess, H.; Meyer, C.A.	2008	A new ophiuroid (Geocoma schoentalensis sp. nov.) from the Middle Jurassic of northwestern Switzerland and remarks on the family Aplocomidae Hess 1965. Swiss Jorunal of Geosience, 101, 29-40.		
+139725	Storc, R.; Zitt, J.	2008	Late Turonian ophiuroids (Echinodermata) from the Bohemian Cretaceous Basin, Czech Republic. Bulletin of Geosciences, 83(2), 123-140.		
+172366	Stöhr, S., Jagt, J. W. M. & Klompmaker, A. A.	2010	Ophiura paucilepis, a new species of brittlestar (Echinodermata, Ophiuroidea) from the Pliocene of the southern North Sea Basin. Swiss Journal of Palaeontology, 130, 113-121.		
+172383	Wright, T.	1874	Petrefacten aus der Raethischen Stufe bei Hildesheim, II. Ophiurenreste. Zeitschrift der Deutschen geologischen Gesellschaft, 26, 821.		
+172387	Yang, T.-Y.	1960	On the discovery of a Scythian ophiuroid from Kueichou, China. Acta Palaeontologica Sinica, 8, 159-163.		
+138522	Fujita, T.; Ishida, Y. & Irimura, S.	2010	Ophiacanthidae (Echinodermata, Ophiuroidea) collected from the Sagami Sea, Central Japan: A preliminary report. In Harris, L.G.; Böttger, S.A.; Walker, C.W.; Lesser, M.P. (eds). Echinoderms: Durham: 193-197.		
+139337	Litvinova, N.M.	1992	Revision of the genus Ophiotholia (Echinodermata, Ophiuroidea. Zoologiceskij Zhjurnal , 71(3), 47-57.		
+139339	Paterson, G.L.J.	1980	A new abyssal genus of the family Ophiuridae (Echinodermata: Ophiuroidea). Bulletin of the British Museum of Natural History (Zoology), 38(4), 211-218.		
+139340	Paterson, G.L.J.; Baker, A.N.	1988	A revision of the genus Ophiambix (Echinodermata: Ophiuroidea) including the description of a new species. Journal of Natural History, 22, 1579-1590.		
+139343	Vadon, C.	1990	Ophiozonella novaecaledoniae n.sp. (Ophiuroidea, Echinodermata): description, ontogeny and phyletic position. Journal of natural History, 24, 165-179.		
+139350	Koehler, R.	1904	Ophiures nouvelles ou peu connues. Memoirs Societe Zoologique de France, 17, 54-119.		
+139458	Studer, T.	1885	Die Seesterne Südgeorgiens nach der Ausbeute der Deutschen Polar Station 1882-83. Jahrb. Wiss. Anst. Hamburg, 2, 143-166, 2 pl.		
+138937	Stöhr, S. & Muths, D.	2010	Morphological diagnosis of the two genetic lineages of Acrocnida brachiata (Echinodermata: Ophiuroidea) with description of a new species. Journal of the Marine Biology Association U.K. published online 10 Aug 2009.		
+139347	Hendler, G.	1996	Echinodermata collected at Rocas Alijos. In: Schmieder, R.W. Rocas Alijos, 319-338. Kluwer Academic Publishers: Dordrecht		
+139349	v. Düben, M.; Koren, J.	1844	Om Norriges hafsfauna. Öfversigt af Kongl. Vetenskaps-Akademiens förhandlingar 1844, 1(5), 110-115.		
+139453	Lyman, T.	1860	Descriptions of new Ophiuridae, belonging to the Smithsonian Institution and to the Museum of Comparative Zoology at Cambridge. Proceedings of the Boston Society of Natural History 1859-61, 7, 193-204.		
+139460	Koehler, R.	1911	Asteries, Ophiures et Echinides. Reports on the scientific investigations of the British Antarctic Expedition 1907-9, 2(4), 25-66, pls 4-8.		
+139484	Burfield, S.	1924	A new species and a new variety of ophiuroid, with notes on a collection of Ophiuroidea from the Sudanese Red Sea. Annals and Magagazine of Natural History, 9(13 (15)), 144-154, figs 1, 2.		
+139495	Koehler, R.	1914	Echinoderma I. Asteroidea, Ophiuroidea et Echinoidea. In: Michaelsen, W. Beiträge zur Kenntnis der Meeresfauna Westafrikas, 1(2), 127-303, pls 4-15. L. Friederichsen & Co.: Hamburg		
+139499	Clark, A.M.	1966	Echinoderms from the Red Sea, Part 2 (Crinoids, Ophiuroids, Echinoids and more Asteroids). (Israel South Red Sea Expedition, 1962, Reports) Sea Fisheries Research Station Haifa Bulletin, 41, 26-58.		
+139505	Cherbonnier, G.; Sibuet, M.	1972	Resultats Scientifique de la compagne Noratlante: Asterides et Ophiures. Bulletin du Museum National d'Histoire Naturell Paris 3e serie Zoologie No. 76, 102, 1333-1394.		
+139514	Cherbonnier, G.	1965	Note sur deux supposés nouvelles espéces d'ophiures des Mers d'Europe: Amphipholis tissieri Reys et Ophiomyces peresi Reys. Bulletin du Muséum National d'Histoire naturelle, series 2, 37(5), 844-847.		
+139515	Guille, A.	1972	Ophiures nouvelles ou inconnues de Méditerranée: Amphiura cherbonnieri sp. nov. et Amphiura securigera (Düben et Koren). Bulletin du Museum National d'Histoire Naturelle Paris 3e serie Zoologie No. 60, 81, 925-932.		
+139516	Cherbonnier, G.	1972	Amphioplus polymorphus n.sp., nouvelle espéce d'Ophiure (Échinoderme) des côtes malgaches. Bulletin du Museum National d'Histoire Naturelle Paris 3e serie Zoologie No. 24, 30, 285-290.		
+139521	Verrill, E.A.	1894	Descriptions of new starfishes and Ophiurans, with a revision of certain species formerly described; mostly from the collections made by the United States Commission of Fish and Fisheries. Proceedings US National Museum, 17, 245-297.		
+139607	Mortensen, T.	1913	On the alleged primitive ophiuroid Ophioteresis elegans Bell, with description of a new species of Ophiothela. Mindeskrift for Japetus Steenstrup, 1-18. Bianco Lunos Bogtrykkeri: Copenhagen		
+139615	Verrill, A.E.	1899	Report on the Ophiuroidea collected by the Bahama expedition in 1893. Bulletin from the Laboratories of Natural History of the State University of Iowa, 5(1), 1-86.		
+139617	Clark, H.L.	1941	Reports on the scientific results of the Atlantis expeditions to the West Indies, under the joint auspices of the University of Havana and Harvard University. The echinoderms (other than Holothurians). Memorias de la Sociedad cubana de Historia natural, “Felipe Poey”, 15(1), 1-154.		
+139619	Belloc, G.	1950	Catalogue des Types d'Echinodermes du Musée Océanographique de Monaco. Bulletin de l'Institut Océanographique, 976, 1-43.		
+139620	Clark, H.L.	1900	The Echinoderms of Porto Rico. Bulletin of the U.S. Fisheries Commision, 20(2), 232-263.		
+139621	Clark, H.L.	1923	Echinoderms from Lower California, with descriptions of new species: supplementary report. Bulletin of the American Museum of Natural History, 48(6), 147-163.		
+139622	Farran, G.P.	1913	The deep-water Asteroidea, Ophiuroidea and Echinoidea of the West Coast of Ireland. Department of Agriculture and technical instruction for Ireland, fisheries branch, scientific investigations 1912, 6, 1-66.		
+139627	Bernasconi, I.; d'Agostino, M.M.	1978	Equinodermos Antarticos. III. Ofiuroideos. 3) Ofiuroideos de Sandwich del Sur y Georgias del Sur. Revista Museo Argentino De Ciencias Naturales "Bernardino Rivadavia" e Intituto Nacional de Investigacion de las Cinecias Naturales. Hidrobiologia, 5(8), 201-218.		
+139631	Bernasconi, I.; d'Agostino, M.M.	1973	El genero Ophiomastus Lyman, 1878 y descripcion de una especie abisal, O. molinae Castillo, 1968 (Ophiuroidea, Ophiuridae). Physis, Sección A, 32(84), 197-202.		
+139635	Ziesenhenne, F.C.	1937	The Templeton Crocker Expedition. X. Echinoderms from the West Coast of Lower California, the Gulf of California and Clarion Island. Zoologica: Scientific Contributions New York Zoological Society, 22(3), 209-289.		
+139636	de Castro Manso, C.L.	1988	Uma nova espécie de Ophiactis (Echinodermata: Stelleroidea) da costa sudeste do Brasil. Revista Brasiliana Biologia, 48(2), 375-379.		
+139638	Grube, E.	1857	Beschreibungen neuer oder weniger bekannter Seesterne und Seeigel. Akademie, 27, 1-50.		
+139639	Cherbonnier, G.	1958	Echinodermes. Faune Marine des Pyrénées-Orientales, 2, 1-67.		
+139643	Clark, H.L.	1933	A Handbook of the Littoral Echinoderms of Porto Rico and the Other West Indian Islands. Scientific Survey of Porto Rico and the Virgin Islands, 16(1), 1-147. New York Academy of Sciences: New York		
+139644	Stöhr, S.	2001	Amphipholis linopneusti n.sp., a sexually dimorphic amphiurid brittle star (Echinodermata: Ophiuroidea), epizoic on a spatangoid sea urchin. In: Barker, M. Echinoderms 2000. Proceedings of the 10th International Echinoderm Conference, Dunedin, New Zealand, 317-322.		
+139645	Caso, M.E.	1979	Descripcion de una nueva especie de ofiuroideo de la Laguna de Terminos, Amphiodia guillermosoberoni sp. nov. Annales Centro Ciencias del Mar y Limnologia, Universidad Nal. Auton., Mexico, 6(2), 161-184.		
+139646	Mortensen, T.	1933	Ophiuroidea. The Danish Ingolf Expedition, 4(8), 1-121, pls 1-3.		
+139650	Mortensen, T.	1925	Echinodermes du Maroc et de Mauritanie. Bulletin de la société des sciences naturelles du Maroc, 5(4-5), 178-187.		
+139651	McKnight, D.G.	2003	A new species of Asterostegus (Echinodermata: Ophiuroidea) from the Cook Islands, South Pacific Ocean. Species Diversity, 8, 385-389.		
+139652	Belyaev, G.M.; Litvinova, N.M.	1972	New genera and species of deep-sea ophiuroidea. Moskovskogo Obshchestva Ispytatelej Prirody. Otdel Biologicheskii, 3, 5-20.		
+139653	Litvinova, N.M.	1975	Ophiuroids of the Caribbean and Gulf of Mexico collected during the 14th cruise of the R/V “Akademik Kurchatov”. Trudy Instituta Oceanologia, 100, 196-204.		
+139654	Litvinova, N.M.	1971	The brittle-stars of the genus Amphiophiura of the Pacific and Indian Oceans collected by Soviet Expeditions on the R/V “Vityaz” and “Akademician Kurchatov”. Trudy Instituta Okeanologii Akademija nauk CCCP, 92, 298-316.		
+139655	Litvinova, N.M.	1991	A new species of a rare genus Ophiohelus (Echinodermata, Ophiuroidea). Zoologicheskii Zhurnal, (6), 145-148.		
+139656	Litvinova, N.M.	1984	A remarkable new species of the genus Ophiopyrgus (Echinodermata, Ophiuroidea), with comments on this genus. Zoologicheskii Zhurnal, 68, 1585-1588.		
+139657	Litvinova, N.M.	1981	Ophiuroidea. In: Kuznetsov, A.P.; Mironov, A.N. Benthos of the submarine mountains Marcus -Necker and adjacent Pacific regions, 113-130. Academy of Sciences of the USSR P.P. Shirshov Institute of Oceanology: Moscow		
+139660	Duchassaing, P.	1850	?. Anim. rad. d. Antilles/Mem. Acd. Torino, 10?, 1-320.		
+139661	Lyman, T.	1872	?. Annales des Sciences Naturelles, series 5, Zoologie, 16(4).		
+139662	Clark, A.M.	1953	A revision of the genus Ophionereis. Proceedings of the Zoological Society of London, 123, 65-94.		
+139663	Liao, Yulin.	2004	Echinodermata: Ophiuroidea. Fauna Sinica, 40, 1-305. pl. I-VI. Science Press: Beijing		
+139664	Murakami, S.	1944	Report on the ophiurans from Ogasawara Islands and from off the Yeayama group, Nippon. Journal Department Agriculture Kyushu imperial University, 7(7-8), 235-257.		
+139665	Martens von, E.	1867	Über vier neue Schlangensterne (Ophiuren) des Kgl. zoologischen Museums. Monatsberichte der deutschen Akademie der Wissenschaften, Berlin, 1867, 345-348.		
+139666	Martens von, E.	1866	Ueber ostasiatische Echinodermen. Archiv für Naturgeschichte, 32(1): 57-88.		
+131476	Clark, A.M.	1967	Notes on the family Ophiotrichidae (Ophiuroidea). Annals and Magazine of Natural History, ser. 13, vol. ix: 637-655, pls X, XI		
+141249	Pawson, D. L., D. J. Vance, C. G. Messing, F. A. Solis-Marin, and C. L. Mah.	2009	Echinodermata of the Gulf of Mexico,		
+147411			PESI (A Pan-European Species directories Infrastructure) focal points		
+142079	Stöhr, S., Çinar, M.E. & Dagli, E.	2010	Brittle stars (Echinodermata: Ophiuroidea) from the southern coast of Turkey (eatsern Mediterranean): new records and revision of Amphiodia obtecta Mortensen, 1940. Zootaxa 2483:45-57.		
+163847	Clark, A.M. & Melville, R.V.	1976	Ophiolepis Müller & Troschel, 1840; request for designation of a type-species under the plenary powers. Z.N.(S.) 2097. Bulletin of Zoological Nomenclature 32: 268-269.		
+163858	Smith, A. B. & Crame, J. A.	2012	Echinoderm faunas from the Lower Cretaceous (Aptian-Albian) of Alexander Island, Antarctica. Palaeontology 55, 305-324.		
+163859	Stöhr, S., Sautya, S. & Ingole, B.	2012	Brittle stars (Echinodermata: Ophiuroidea) from seamounts in the Andaman Sea (Indian Ocean): first account, with descriptions of new species. Journal of the Marine Biological Association of the U.K. 92(5): 1195-1208.		
+163880	Litvinova, N.M.	2001	The ophiuroid genus Ophiomyces (Echinodermata, Ophiuroidea). In Kuznetsov, A.P. & Zezina, O.N. (eds) Composition and structure of the marine bottom biota: collected proceedings. 145-158. VNIRO Publishing House, Moscow.		
+149694	Okanishi, M. & Fujita, T.	2011	A taxonomic review of the genus Astrocharis Koehler (Echinodermata: Ophiuroidea: Asteroschematidae) with a description of a new species. Zoological Science 28: 148-157.		
+172271	Berry, C. T.	1941	Tertiary Ophiurans from Venezuela. Journal of Paleontology, 15 (1), 68-70.		
+172272	Berry, C. T.	1942	A new Ophiuran from the Eocene of New Jersey. Journal of Paleontology, 16 (3), 393-396.		

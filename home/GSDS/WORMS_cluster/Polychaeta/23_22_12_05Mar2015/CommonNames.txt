@@ -1,0 +1,218 @@
+AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
+130988	Australsk kalkrørsorm				Danish	142031	
+130988	mercierelle				French	163040	
+183196	ver léopard				French	163039	
+130375	néreis				French	9234	
+130116	glycère				French	9234	
+131074	sthénélais				French	9234	
+130357	nephtys				French	9234	
+130357	carput				French	9234	
+129868	arénicole				French	1116	
+131495	lanice				French	9234	
+131495	macaroni				French	9234	
+130359	nephtys				French	9234	
+130359	carput				French	9234	
+130967	sabelle-paon				French	1116	
+130967	sabelle				French	9269	
+334842	spirorbe boréal				French	145895	
+131171	nérine				French	9234	
+131035	protule lisse				French	9269	
+129840	aphrodite				French	1116	
+130269	magélone				French	9234	
+130494	ophélie				French	9234	
+131051	serpule commune				French	145894	
+131051	petite serpule				French	9269	
+131051	serpule rose				French	9269	
+130118	glycère				French	9234	
+130083	polymnie				French		
+130969	spirographe				French	163039	
+130279	vers bambou				French	163040	
+130866	hermelle				French	1116	
+130616	étéone				French	9234	
+130875	bispire				French	9269	
+130988	Australisk kalkrörsmask				Swedish	142031	
+152302	shumëketëshi i lagunave				Albanian	151643	
+130404	shumëketëshi pelagjik				Albanian	151643	
+129868	shumëketëshi i rërave				Albanian	151643	
+131035	krimbi qimefortë				Albanian	151643	
+131051	sérpula vermella				Catalan	163039	
+131051	cuc de closca				Catalan	163039	
+130969	espirògraf				Catalan	163039	
+130969	palmereta				Catalan	163039	
+131495	cuc paleta				Catalan	163039	
+131495	cuc constructor de sorra				Catalan	163043	
+130967	cuc de flor				Catalan	163039	
+130967	plomall de mar				Catalan	163039	
+129831	cuc de foc				Catalan	163039	
+152302	nereida				Polish	147411	
+131135	rogoża amerykańska				Polish	147411	
+130735	antinella				Polish	147411	
+129840	afrodyta tęczowa				Polish		
+129840	mysz morska				Polish		
+129840	złotorunka				Polish		
+130926	manjunkja				Polish	147411	
+129769	alkmarja				Polish	147411	
+129831	brandworm				Dutch	685	
+129867	zwarte wadpier				Dutch		
+129867	Franse tap				Dutch		
+129867	zwarte tap				Dutch		
+152302	veelkleurige zeeduizendpoot				Dutch		
+131141	slikkokerworm				Dutch	1116	
+152367	goudkammetje				Dutch	83	
+152367	kamkielworm				Dutch	83	
+130639	groene bladkieuwworm				Dutch	685	
+131141	franjeworm				Dutch	802	
+183196	luipaardworm				Dutch		
+130988	trompetkalkkokerworm				Dutch	685	
+130375	zager				Dutch	9234	
+334510	gestippelde dieseltreinworm				Dutch	140198	
+130404	gewone zeeduizendpoot				Dutch	685	
+131495	schelpkokerworm				Dutch	83	
+129868	zeepier				Dutch	1116	
+130359	zandzager				Dutch	9234	
+129868	wadpier				Dutch	685	
+131504	slijmkokerworm				Dutch	147411	
+130967	slijkkokerworm				Dutch	755	
+130967	waaierkokerworm				Dutch	147411	
+130967	pauwkokerworm				Dutch	1116	
+130967	pauwenstaartworm				Dutch	685	
+131035	witte waaierkokerworm				Dutch		
+131135	gewone groenworm				Dutch	149031	
+131051	kleine kalkkokerworm				Dutch		
+130801	geschubde zeerups				Dutch	1116	
+129840	fluwelen zeemuis				Dutch	685	
+181523	Oostzeegroenworm				Dutch	149031	
+129884	draadworm				Dutch	9234	
+130769	gladschubbige zeerups				Dutch	1116	
+129876	slangpier				Dutch	685	
+234850	ambergele zeeduizendpoot				Dutch		
+130616	groengele wadworm				Dutch	83	
+130866	zandkokerworm				Dutch	685	
+334772	wapenworm				Dutch	802	
+129914	perkamentworm				Dutch	83	
+130749	gekroesde zeerups				Dutch	83	
+129914	perkamentkokerworm				Dutch	685	
+234851	zager				Dutch		
+130357	zandzager				Dutch	9234	
+131495	zandkokerworm				Dutch	61	
+129868	fjæremark				Norwegian Bokmål	147411	
+131025	tretannmark				Norwegian Bokmål	147411	
+129831	vermocane				Italian		
+129831	verme di fuoco				Italian		
+129831	verme di mare				Italian		
+130967	verme pavone				Italian		
+131035	verme ciuffo bianco				Italian		
+131051	serpula				Italian		
+130969	spirografo				Italian		
+130969	ombrella di mare				Italian	163039	
+130867	Pümpwurm				German	147412	
+129831	Feuerwurm				German	163039	
+131141	gewöhnlicher Polydorawurm				German	147412	
+152367	Köcherwurm				German	83	
+130639	grüner Blattwurm				German	147412	
+130988	Tüten-Kalkröhrenwurm				German	142031	
+183196	Pantherwurm				German	163039	
+130989	Filigranwurm				German	147412	
+130404	brauner Seeringelwurm				German	147412	
+130355	Blindwurm				German	83	
+131495	Muschelsammlerin				German	83	
+129868	Wattwurm				German	1116	
+129868	Köderwurm				German	123768	
+131495	Sandröhrenwurm				German	123768	
+131495	Bäumchenröhrenwurm				German	9234	
+130359	Opalwurm				German	9234	
+130967	Pfauenfederwurm				German	1116	
+131035	weisser Kalkroehrenwurm				German		
+129840	Seemaus				German	1116	
+129840	Filzwurm				German	163039	
+131051	Kalkröhrenwurm				German	163043	
+130801	flacher Schuppenwurm				German	147412	
+129884	Kotpillenwurm				German	9234	
+130544	spindelförmige Owenie				German	83	
+130969	Schrauben Sabelle				German	163039	
+130769	gemeiner Schuppenwurm				German	147412	
+130866	Sandkoralle				German	1116	
+129914	Pergamentwurm				German	83	
+130113	Bart-Borstenwurm				German	147412	
+130989	filigranmark				Norwegian		
+129840	rato-do-mar				Portuguese		
+129840	mořská housenka				Czech		
+129840	afroditka plstnatá				Czech		
+131051	calcareous tubeworm 				English		
+131051	fan worm				English		
+131051	plume worm				English		
+131051	red tube worm				English		
+131051	tubeworm				English	10085	
+131051	serpulids				English	163043	
+131187	bee spionid				English	9234	
+129840	sea mouse				English	614	
+130408	ragworm				English	147411	
+130969	feather duster worm				English	147411	
+130544	tubeworm				English	10085	
+129876	gallery worm				English	10085	
+716016	Korean lugworm 				English	165448	
+130969	European fan worm				English	163039	
+130969	Mediterranean fanworm				English	152402	
+587954	shining bomber				English		
+587956	orange bomber				English		
+131183	bristleworm				English	10085	
+157320	bambooworm				English	2901	
+130279	bambou worm				English	163040	
+157555	sand-builder worm				English	2901	
+157555	reefworm				English	2901	
+130866	honeycomb worm				English	1116	
+130616	paddleworm				English	9234	
+736390	kingworm, greenhead, bronzehead, bullworms; juveniles: stumpies, standard beachworms and high-tiders				English	51288	
+234851	king ragworm				English	147411	
+130464	bristleworm				English	10085	
+129914	parchment worm				English	10085	
+129777	bristleworm				English	10085	
+131000	limy tubeworm				English	2901	
+130875	twin fan worm				English	147411	
+129769	tentacled lagoon worm				English	10085	
+130271	bristleworm				English	10085	
+130305	bambooworm				English	2901	
+130639	greenleaf worm				English	147411	
+131141	bristleworm				English	10085	
+155107	Johnston's ornate worm				English	2901	
+152367	trumpet worm				English	83	
+129867	black lugworm				English	147411	
+152302	estuary ragworm				English	147411	
+130867	Ross worm				English	10085	
+152302	ragworm				English	10085	
+129831	bearded fireworm				English		
+736295	wiry, white-headed wiry, wireworm, hairy Mary, hairy head, whisker, spider, greasyback, blackhead				English		
+130988	tube worm				English	163040	
+130988	Australian tubeworm				English	142031	
+183196	leopard worm				English	163039	
+130989	coral worm				English		
+129938	bristleworm				English	10085	
+130989	lacy tubeworm				English	2901	
+592089	Capitella sp. I				English	152490	
+130357	white catworm				English	9234	
+327027	slimy, redhead, bluey, bungum worm (only in South Australia)				English		
+129868	blow lugworm				English	147411	
+131495	sand mason worm				English		
+131038	coral worm				English	147411	
+129959	bristleworm				English	10085	
+131495	sand mason				English	83	
+129868	lugworm				English	1116	
+130359	catworm				English	9234	
+130967	peacock worm				English	1116	
+131035	red-spotted horseshoe				English		
+130485	lagoon sandworm				English	10085	
+129892	bristleworm				English	10085	
+129840	merihiiri				Finnish		
+131025	tretannmakk				Norwegian Nynorsk	147411	
+129868	fjøremakk				Norwegian Nynorsk	147411	
+131495	gusano albañil				Spanish	163039	
+130967	gusano empenachado				Spanish	163039	
+131035	prótula tubularia				Spanish		
+129840	ratón de mar				Spanish	163039	
+129840	topo de mar				Spanish	163039	
+129840	afrodita				Spanish	163039	
+131051	sérpula roja				Spanish	163039	
+131051	gusano tubícola serpentino				Spanish	163043	
+130969	plumero de mar				Spanish	163039	
+129831	gusano de fuego				Spanish	163039	
+130490	Офелія бікорніс				Ukrainian	147411	

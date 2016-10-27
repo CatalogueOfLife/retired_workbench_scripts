@@ -1,0 +1,369 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+178908	152865	Duploperaclistus		westbladi	Martens, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:178908	
+178891	178901	Reuterella		pleschinskayae	Timoshkin, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:178891	
+178978	143574	Mesostoma		auditivum	Du Plessis, 1874				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:178978	
+178979	143574	Mesostoma		morgiense	Du Plessis, 1876				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:178979	
+178980	143574	Otomesostoma		morgiense	von Graff, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:178980	
+178981	143574	Monotus		relictus	Zacharias, 1885				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:178981	
+178982	143574	Monotus		morgiensis	(Du Plessis, 1884)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:178982	
+178983	143574	Automolus		morgiensis	(Du Plessis, 1886)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:178983	
+178984	143574	Monotus		morgiense	Du Plessis, 1886				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:178984	
+178985	143574	Monotus		lacustris	Zacharias, 1890				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:178985	
+178986	143574	Automolus		morgiensis	Zschokke, 1900				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:178986	
+178731	143165	Placorhynchus		octaculeatus		dimorphis	Subspecies	Karling, 1947	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:178731	
+156221	143527	Planaria		unipunctata	Fabricus, 1826				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156221	
+156147	178893	Reuterella		baeckmanae	Timoshkin, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156147	
+156148	178893	Diplosiphon		baeckmanae	Timoshkin, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156148	
+156150	178894	Reuterella		grygieri	Timoshkin, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156150	
+156151	178895	Reuterella		kasteri	Timoshkin, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156151	
+156154	178896	Reuterella		lyudmilae	Timoshkin, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156154	
+156155	178897	Reuterella		martensi	Timoshkin, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156155	
+156156	178898	Reuterella		mazepovae	Timoshkin, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156156	
+156157	178899	Reuterella		nigmatullini	Timoshkin, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156157	
+156158	178900	Reuterella		nikitinae	Timoshkin, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156158	
+156161	178902	Reuterella		sabirovi	Timoshkin, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156161	
+156162	178903	Reuterella		saetosouncinata	Timoshkin, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156162	
+156163	178904	Reuterella		salemaai	Timoshkin, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156163	
+156164	178905	Reuterella		schetinnikovi	Timoshkin, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156164	
+156178	156177	Diplosiphon		ninae	Timoshkin, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156178	
+153576	153572	Monotus		hyalina	(Beneden, 1860)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153576	
+153646	153645	Monotus		lacteus	Gaimard, 1842-45				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153646	
+153660	143552	Monotus		lineatus	Graff L, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153660	
+153665	143552	Monocelis		lineata	Midelburg, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153665	
+153653	143552	Monocelis		lineata	(Müller OF, 1773)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153653	
+154099	154098	Monocelis		bipunctata	Leydig, 1854				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154099	
+154100	154098	Planaria		longiceps	Duges, 1830				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154100	
+154101	154098	Celidotus		bipunctata	(Leydig, 1854)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154101	
+154103	154098	Monotus		bipunctatus	(Leydig, 1854)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154103	
+154119	154114	Promonotus		pardus	Marcus, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154119	
+154134	154128	Promonotus		psilus	Marcus, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154134	
+154346	143568	Globuliphora		rufifrons	Westblad, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154346	
+154351	143558	Monocelis		hamata	Jensen, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154351	
+154353	154348	Automolus		hamatus	(Jensen, 1878)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154353	
+154354	154348	Automolus		horridus	Gamble, 1893				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154354	
+154355	154348	Automolus		hamatus	Maristo, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154355	
+154356	154348	Paramontus		hamatus	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154356	
+153659	143564	Monocelis		agilis	Schultze M, 1851				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153659	
+154257	143566	Monocelis		ophiocephala	Schmidt, 1861				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154257	
+396089	484405	Smithsoniarhynches		sherryeedae	Hochberg, 2004				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:396089	
+154900	143169	Prostomum		caledonicum	Claparède, 1861				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154900	
+154901	143169	Acrorhynchus		caledonicus	(Claperede, 1861)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154901	
+154904	143169	Polycystis	Acrorhynchus	caledonica	Meixner, 1924				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154904	
+154906	143170	Pseudopolycystis		inermis	Meixner, 1929				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154906	
+154907	143170	Acrorhynchus		robustus	Karling, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154907	
+154908	143170	Polycystis	Acrorhynchus	robusta	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154908	
+154966	154964	Austrorhynchus		pectatus	Karling, Mack-Fira & Dörjes, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154966	
+154968	154967	Austrorhynchus		pectatus		magnificus	Subspecies	Karling, 1972	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154968	
+154958	154957	Austrorhynchus		pectatus		pectatus	Subspecies	Karling, 1972	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154958	
+155002	155000	Torkarlingia		euxinica	Mack-Fira, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155002	
+155111	143183	Gyrator		helgolandicus	Attems, 1897				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155111	
+155112	143183	Gyratrix		attemsi	Graff, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155112	
+155132	143184	Derostoma		notops	Duges, 1828				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155132	
+155133	143184	Gyrator		hermaphroditus	Ehrenberg, 1835				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155133	
+155136	143184	Prostoma		lineare	Örsted, 1843				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155136	
+155137	143184	Prostoma		lineare	Schmidt, 1848				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155137	
+155138	143184	Prostomum		lineare	Schultze & Müller, 1857				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155138	
+155139	143184	Prostomum		furiosum	Schmidt, 1858				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155139	
+155140	143184	Gyrator		furiosus	Diesing, 1862				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155140	
+155141	143184	Gyrator		banaticum	Jensen, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155141	
+155142	143184	Gyrator		notops	Duges, 1828				nomen dubium	Unaccepted name	urn:lsid:marinespecies.org:taxname:155142	
+155143	143184	Gyratrix		albus	Siliman, 1884				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155143	
+155144	143184	Gyratrix		notops	Hallez, 1900				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155144	
+155145	143184	Gyratrix		arenarius	Evdonin, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155145	
+155146	143184	Prostomum		banaticum	Graff, 1875				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155146	
+155148	143184	Turbella		notops	Diesing, 1862				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155148	
+154731	143580	Itaspiella		armata	Ax, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154731	
+154732	154696	Itaspiella		armata		magna	Subspecies	Ax & Ax, 1967	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154732	
+154851	154850	Philosyrtis		germanica	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154851	
+154496	143573	Nematoplana		coelogynoporoides	Rieger & Ott, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154496	
+154735	143587	Otoplana		glandulosa	Ax, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154735	
+154817	143598	Parotoplana		truncaspina	Bedini & Papi, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154817	
+154835	143599	Otoplana		baltica	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154835	
+154836	152467	Otoplana		schulzi	(Ax, 1951)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154836	
+154872	143622	Psilosyrtis		rutilata					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154872	
+154873	481559	Psilosyrtis		santacruzensis	Ax & Ax, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154873	
+154865	143629	Postbursoplana		reisingeri	Ax, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154865	
+154447	154446	Archiloa		wilsoni	Stirewalt, Kepner & Ferguson, 1940				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154447	
+154839	143632	Otoplana		foliacea	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154839	
+154868	154867	Otoplana		fluviatilis	Gieysztor, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154868	
+154870	143634	Otoplana		subterranea	Ax, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154870	
+152612	152611	Archiloa		duplaculaeta	Ax & Armonies, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152612	
+152613	143518	Archiloa		endostyla	(Ax, 1959)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152613	
+152619	152618	Archiloa		papillosa	Ax, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152619	
+152622	152621	Archiloa		subtilis	Karling, Mack-Fira & Dörjes, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152622	
+152624	152623	Archiloa		vanderlandi	Martens & Curini-Galletti, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152624	
+152634	143526	Archiloa		spinosa	(Jensen, 1878)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152634	
+152635	143526	Archilopsis		inopinata	Martens, Curini-Galletti & Pucinelli, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152635	
+152645	143527	Automolus		unipunctatua	Graff, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152645	
+152653	143527	Monocelis		unipunctata	Fabricius, 1826				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152653	
+152654	143527	Archimonocelis		unipunctata	(Fabricius, 1826) Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152654	
+152659	143527	Archiloa		unipunctata	(Fabricius, 1826)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152659	
+152672	143527	Monotus		unipunctata	(Fabricius, 1826) Diesing, 1862				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152672	
+152472	143528	Monocelis		bathycola	Westblad, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152472	
+152473	143528	Archimonocelis		bathycola	(Westblad, 1952)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152473	
+152523	143490	Coelogynopora		aculeata	Ax, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152523	
+152536	143495	Coelogynopora		fontinalis	Steinbock & Reisinger, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152536	
+152746	152742	Minona		amnica	Ball & Hay, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152746	
+152762	481505	Duplominona		instanbulensis	Ax, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152762	
+152824	152821	Minona		tridens	Marcus, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152824	
+152866	152865	Duplominona		westbladi	Karling, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152866	
+152871	143544	Monocelis		hirudo	Levinsen, 1879				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152871	
+152872	143544	Monotus		hirudo	(Levinsen, 1879)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152872	
+152874	143544	Coleophora		hirudo	(Levinsen, 1879)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152874	
+152875	143544	Ectocotyla		hirudo	(Levinsen, 1879)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152875	
+152876	143544	Ectocotyla		paguri	Hyman, 1944				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152876	
+152675	143545	Monocelis		cirrifera	Meixner, 1943				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152675	
+152677	143545	Archiloa		cirrifera	(Meixner, 1943)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152677	
+152679	152678	Monocelis		scalopura	Marcus, 1949				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152679	
+152680	152678	Archiloa		scalapura	Karling, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152680	
+152588	152586	Coelogynopora		paracnida	Karling, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152588	
+143171	484608	Acrorhynchides		stylifera	Schockaert & Karling, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143171	
+143514	481503	Archilina		biselinifera	Martens & Curini-Galletti, 1994				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143514	
+143505	157970	Coelogynopora		schultzii	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143505	
+143508	481496	Coelogynopora		steinböcki	Sopott-Ehlers, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143508	
+143510	152582	Coleogynopora		visurgis	Sopott-Ehlers, 1989				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143510	
+143182	480845	Danorhynchus		goesoeensis	Karling, 1955				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143182	
+143115	143080	Cheliplana		glandulosa	de Beauchamp, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143115	
+143048	480589	Ethmorhynchus		anophtalmus	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143048	
+143141	143136	Karkinorhynchus		purpureus	Schilke, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143141	
+143186	155201	Lagenorhynchus		peresi	Brunet, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143186	
+143188	480857	Limipolycystis		curvituba	Schilke, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143188	
+143250	480857	Limirhynchus		curvitubo	Schilke, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143250	
+143172	485634	Acrorhynchus		bivittatus	(Uljanin, 1870)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143172	
+143200	480846	Polycystis		crocea	(Fabricius, 1826)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143200	
+143100	143095	Prognathorhynchus		stilofer	Schilke, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143100	
+143199	155559	Polycystis		contorta	Schockaert & Karling, 1975				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143199	
+143201	155562	Polycystis		dolichocephala	Pereyaslawzewa, 1892				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143201	
+143173	155562	Acrorhynchus		dolichocephalus	(Pereyaslawzewa, 1892)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143173	
+143210	155574	Polycystis		riedli	Karling, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143210	
+143208	480853	Polycystis		naegellii	Kölliker, 1845				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143208	
+143157	480836	Pontaralia		beklemishevi	Mack-Fira, 1968				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143157	
+143207	155618	Polycystis		mamertina	Graff, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143207	
+143258	480881	Proschizorhynchella		faeroeensis	(Meixner, 1938) Noldt, 1985				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143258	
+143259	163282	Proschizorhynchella		helgolandica	(Karling & L'Hardy, 1965)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143259	
+143287	143263	Schizorhynchoides		macrostylus	L'Hardy, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143287	
+143264	480878	Proschizorhynchus		anophtalmus	L`Hardy, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143264	
+143292	143265	Schizorhynchus		arenarius	de Beauchamp, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143292	
+143267	480879	Proschizorhynchus		gullmarensis		tricingulatus	Subspecies	Ax, 1959	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143267	
+143565	143564	Pseudomonocelis		cetinae	Meixner, 1943				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143565	
+152703	152696	Pristix		thelura	Marcus, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152703	
+152706	152696	Archiloa		thelura	(Marcus, 1951)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152706	
+153166	153161	Celidotus		anguilla	(Schmidt, 1857)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153166	
+153205	153195	Automolus		balanocephalus	Bohmig, 1902				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153205	
+153279	143550	Monocelis		assimilis	Jensen, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153279	
+152711	143556	Archiloa		otoplanoides	(Ax, 1951)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152711	
+152720	143557	Mesoda		septentrionalis	Sopott, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152720	
+152722	143557	Archilopsis		septentrionalis	Karling, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152722	
+152462	143587	Notocaryoplanella		glandulosa	(Ax, 1951)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152462	
+153005	153004	Minona		itaipus	(Marcus, 1950)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153005	
+153010	153006	Monocelis		oophagus	Friedmann, 1924				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153010	
+153023	153016	Minona		stimula	Ax & Ax, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153023	
+153029	143559	Monocelis		insularis	Meixner, 1928				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153029	
+153030	143559	Minona		insularis	(Meixner, 1928)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:153030	
+152593	152592	Vannuccia		hirutai	Tajika, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152593	
+152728	152726	Archiloa		juliae	Tajika, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152728	
+152736	152730	Archiloa		tajikai	Ax & Armonies, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:152736	
+485643	143169	Polycystis		caledonicus	(Meixner, 1924)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485643	
+485646	143170	Polycystis		robusta	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485646	
+485628	480841	Leucon		ornata	Graff, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485628	
+485629	480841	Leucon		ovatus	Leuckart, 1871				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485629	
+485630	480841	Leuconoplana		ornatus	(Uljanin, 1870)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485630	
+485631	480841	Leuconoplana		ovatus	Leuckart, 1871				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485631	
+485984	481504	Archiloa		duplaculeata	Ax & Armonies, 1990				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485984	
+485985	481501	Archiloa		scalopus	Marcus, 1949				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485985	
+485995	143527	Monocelis		spinosa	Jensen, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485995	
+487938	143178	Austrorhynchus		pectatus	Brunet, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487938	
+487822	154956	Austrorhynchus		pectatus		sporn	Subspecies	Karling, 1952	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487822	
+487820	154984	Austrorhynchus		pectatus		doppelt	Subspecies	Karling, 1952	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487820	
+487821	154957	Austrorhynchus		pectatus		einfach	Subspecies	Karling, 1952	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487821	
+487823	154988	Austrorhynchus		pectatus		stachel	Subspecies	Karling, 1952	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487823	
+485652	143106	Procheliplana		magnifica	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485652	
+487932	143247	Carcharodorhynchus		subterraneus	Fize, 1963				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487932	
+485653	143119	Rhinepera		divisa	Schilke, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485653	
+485654	143119	Rhinepera		marcusi	Karling, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485654	
+485650	143119	Cheliplana	Rhinepera	marcusi	(Karling, 1956)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485650	
+485657	143129	Rhinepera		vaginalis	Meixner, 1929				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485657	
+485651	143131	Cheliplana		curvocirra	Schilke, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485651	
+480590	155936	Paracicerina		elegans	Evdonin, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:480590	
+485990	152802	Minona		mica	Marcus, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485990	
+487818	143184	Gyratrix		hermaphroditus		hermaphroditus	Subspecies	Ehrenberg, 1831	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487818	
+485633	143184	Gyratrix		hermaphroditicus	Luther, 1918				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485633	
+485991	143545	Monocelis		cirrhosa	Marcus, 1949				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485991	
+486008	143580	Otoplana		helgolandica	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:486008	
+486006	143580	Otoplana		armata	Ax, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:486006	
+485659	143136	Karkinorhynchus	Karkinorhynchides	purpureus	Schilke, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485659	
+485661	143137	Karkinorhynchus	Karkinorhynchus	bruneti	Schilke, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485661	
+143286	143272	Schizorhynchoides		karlingi	Martens & Schockaert, 1981				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143286	
+143232	143231	Rogneda		westbladi		westbladi	Subspecies	Ax, 1956	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143232	
+143513	152597	Vannuccia		umbilica	Sopott, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143513	
+155726	143144	Utelga		aculeata	Ax, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155726	
+155728	143144	Itaipusa		aculeata	(Ax, 1959)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155728	
+155731	143145	Utsurus		camarguensis	Brunet, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155731	
+156021	156012	Diplosiphon		microstylus	Timoshkin, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156021	
+155707	156037	Acrorhynchus		baikalensis	Rubtzoff, 1929				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155707	
+155733	156037	Diplosiphon		baicalensis	(Rubtzoff, 1929) Evdonin, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155733	
+155816	143086	Gnathorhynchus		hastatus	Meixner, 1929				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155816	
+155744	155743	Utelga		uncinata	(Karling, 1978)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155744	
+155749	143147	Utelga		acerosa	Brunet, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155749	
+155751	143147	Itaipusa		acerosa	(Brunet, 1972)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155751	
+155756	155755	Utsurus		evelinae	Marcus, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155756	
+155759	143149	Utelga		scotica	Karling, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155759	
+155760	143149	Utelga		bocki	Karling, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155760	
+155761	143149	Itaipusa		scotica	(Karling, 1954)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155761	
+155763	143150	Utelga		similis	Brunet, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155763	
+155764	143150	Itaipusa		similis		similis	Subspecies	Karling, 1978	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155764	
+155765	143151	Acrorhynchus		sophiae	Graff, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155765	
+155767	143151	Koinocystis		sophiae	(Graff, 1905)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155767	
+155768	143151	Utelga		sophiae	(Graff, 1905)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155768	
+155769	143151	Itaipusa		sophiae	(Graff, 1905)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155769	
+155772	155771	Utelga		variodentata	Karling, Mack-Fira & Dörjes, 1972				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155772	
+155776	155775	Acrorhynchus		fluvialis	Sibiriakova, 1929				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155776	
+155777	155775	Koinocystis		fluvialis	(Sibiriakova, 1929)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155777	
+155782	155779	Acrorhynchus		neocomensis	(Fuhrmann, 1904)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155782	
+155783	155779	Koinocystis		neocomensis	Meixner, 1924				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155783	
+155784	143153	Utelga		chelifera	(Karling, 1954)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155784	
+156049	156048	Diplosiphon		livanovi	Timoshkin, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156049	
+155593	155592	Polycystis		yagana	Marcus, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155593	
+155594	155592	Macrorhynchus		yaganus	Evdonin, 1977				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155594	
+155817	143090	Gnathorhynchus		lobatus	(Ax, 1952)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155817	
+155318	143191	Polycystis		goettei	Bresslau, 1906				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155318	
+183495	157970	Coelogynopora		schulzei	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:183495	
+143590	143584	Orthoplana		filum	(Meixner, 1938)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143590	
+143600	152467	Otoplanella		schultzi	(Ax, 1951) Ax, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143600	
+143594	154853	Otoplana		circinnata	(Calandruccio, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143594	
+143611	143615	Parotoplana		progermaria	Ax, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143611	
+143591	143632	Orthoplana		foliacea	(Meixner, 1938)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143591	
+143637	481558	Xenotoplana		thyrrhenica	Ax, Weidemann & Ehlers, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:143637	
+485662	143138	Karkinorhynchus	Karkinorhynchus	lhardyi	Schilke, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485662	
+485663	143139	Karkinorhynchus	Karkinorhynchus	listensis	Schilke, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485663	
+485664	143140	Karkinorhynchus	Karkinorhynchus	primitivus	(Meixner, 1928)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485664	
+485625	155775	Koinocystis		fluviatus	(Sibiriakova, 1929)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485625	
+485647	480835	Polycystis		taeniophoris	Steinböck, 1933				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485647	
+485666	143142	Karkinorhynchus		megalopharynx	L'Hardy, 1966				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485666	
+485667	143142	Karkinorhynchides		megalopharynx	(L'Hardy, 1966)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485667	
+485658	143142	Karkinorhynchus	Karkinorhynchides	megalopharynx	(L'Hardy, 1966)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485658	
+485660	143143	Karkinorhynchus	Karkinorhynchides	tetragnathus	Ax & Schilke, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485660	
+485668	143143	Karkinorhynchides		tetragnathus	(Ax & Schilke, 1971)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485668	
+485623	178893	Diplosiphon		baekmanae	Timoshkin, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485623	
+487053	152692	Archiloa		gabriellae	Marcus, 1949				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487053	
+486005	152696	Pistrix		thelura	Marcus, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:486005	
+485998	143550	Monops		assimilis	Jensen, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485998	
+486000	143550	Monops		fuscus	Ørsted, 1843				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:486000	
+486004	143551	Monotocelis		gracilis	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:486004	
+486001	154254	Monops		lineatus	Diesing, 1862				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:486001	
+485994	154254	Monocelis		protractilis	Graff, 1874				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485994	
+485999	154254	Monops		elegans	Diesing, 1862				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485999	
+485996	154254	Monocelis		truncatus	Uljanin, 1870				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485996	
+486002	154142	Monops		spatulicauda	Diesing, 1862				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:486002	
+486007	143584	Otoplana		filum	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:486007	
+485649	155313	Limipolycystis		swedmarki	Karling, 1978				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485649	
+485642	155315	Polycystis		angarensis	Sibiriakova, 1929				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485642	
+485636	143191	Macrorhynchus		goetti	(Bresslau, 1906)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485636	
+485639	143191	Macrorhynchus		lemanus	(Du Plessis, 1874)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485639	
+485648	143191	Phonorhynchus		lemanus	(Du Plessis, 1895)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485648	
+486010	143574	Otomesostoma		morgiensis	(Du Plessis, 1876)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:486010	
+486009	143595	Otoplana		sicula	(Calandruccio, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:486009	
+155319	143191	Polycystis		roosevelti	Graff, 1911				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155319	
+155321	143191	Polycystis	Opisthocystis	goettei	Sekera, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155321	
+155323	143191	Macrorhynchus	Opisthocystis	goettei	Reisinger, 1926				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155323	
+155325	143191	Klattia		virginiensis	Kepner, Stirewalt & Ferguson, 1939				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155325	
+155935	155933	Blennorhynchus		egregius	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155935	
+155827	143095	Carcharodognathus		stilofer	(Schilke, 1970)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155827	
+155333	155332	Austrorhynchus		elixus	Marcus, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155333	
+155573	155551	Paulodora		felis		asymmetrica	Subspecies	Artois & Schockaert, 2001	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155573	
+155563	155562	Macrorhynchus		dolichocephala	Pereyaslawsewa, 1892				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155563	
+155570	155568	Zuccaria		fredelyna	Marcus, 1948				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155570	
+155572	155571	Polycystis		matarazzoi	(Marcus, 1948)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155572	
+155576	155575	Polycystis		subcontorta	Schockaert, 1982				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155576	
+155584	143197	Prostoma		helgolandicum	Metschnikow, 1865				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155584	
+155585	143197	Gyrator		helgolandicus	(Metschnikoff, 1865)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155585	
+155586	143197	Gyrator		danielsseni	Jensen, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155586	
+155587	143197	Prostomum		boreale	Mereschkowsky, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155587	
+155588	143197	Prostomum		girardi	Hallez, 1879				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155588	
+155589	143197	Macrorhynchus		helgolandicus	(Metschnikoff, 1865)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155589	
+155963	143165	Octaculeatus		dimorphis					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155963	
+155603	155602	Zuccaria		gabriellae	Marcus, 1948				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155603	
+155788	155787	Koinocystis		relicta	(Beklemischev, 1927)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155788	
+155789	155787	Utelga		relicta	(Beklemischev, 1927)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155789	
+155790	155787	Pontaralia		relicta	(Beklemischev, 1927)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155790	
+155612	155611	Gyrator		assimilis	Levinsen, 1879				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155612	
+155613	155611	Macrorhynchus		assimilis	(Levinsen, 1879)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155613	
+155614	155611	Polycystis		assimilis	(Levinsen, 1879)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155614	
+155615	155611	Phonorhynchus		assimilis	Meixner, 1925				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155615	
+155616	155611	Porrocystis		drygalskii	Reisinger, 1926				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155616	
+155619	155618	Prostomum		mamertinum	Graff, 1874				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155619	
+155625	155618	Gyrator	Progyrator	reticulatus	Sekera, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155625	
+485620	155690	Nannorhynchides		nigrescens	Evdonin, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485620	
+485626	143156	Parautelga		kielensis	Ax, 1960				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485626	
+231864	143605	Paratoplana		capitata	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:231864	
+231865	143608	Paratoplana		papii	Ax, 1956				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:231865	
+231866	143609	Paratoplana		primitiva	Ax, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:231866	
+485635	155562	Macrorhynchus		dolichocephalus	(Pereyaslawzewa, 1892)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485635	
+485624	155562	Koinocystis		dolicocephalus	(Pereyaslawzewa, 1892)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485624	
+485992	153006	Monocelis		oophaga	Friedmann, 1924				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485992	
+487937	152869	Peraclistus		itaipus	Westblad, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487937	
+485637	143197	Macrorhynchus		immundum	(Schmidt, 1857)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485637	
+485638	480853	Macrorhynchus		kefferstoni	Claparède, 1863				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485638	
+485627	155787	Acrorhynchus		relictus	Beklemischev, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485627	
+485645	155618	Polycystis		mamertinus	(Graff, 1874)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485645	
+487939	155618	Macrorhynchus		mamertinus	(Graff, 1874)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487939	
+485993	154379	Monocelis		orientalis	Beklemischev, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485993	
+487936	143563	Monocelis		unipunctata	Schultze M, 1851				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487936	
+485672	480880	Schizorhynchoides		atopus	(Marcus, 1950)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485672	
+487047	480880	Proschizorhynchus		atopus	Marcus, 1950				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487047	
+487529	143257	Proschizorhynchus		echinulatus	L'Hardy, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487529	
+487046	480881	Proschizorhynchus		faeroeensis	Steinböck, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487046	
+487528	163282	Proschizorhynchus		helgolandicus	Karling & L'Hardy, 1965				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487528	
+485669	143265	Paraschizorhynchus		arenarius	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485669	
+485670	143266	Paraschizorhynchus		mirabilis	Meixner, 1938				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485670	
+485997	143564	Monops		agilis	Schultze M, 1851				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485997	
+487931	143221	Rogneda		westbladi		westbladi	Subspecies	Brunet, 1965	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487931	
+485644	143224	Polycystis		hibernica	Southern, 1936				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485644	
+485674	480890	Schizorhynchoides		martae	Marcus, 1950				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485674	
+485673	480887	Schizorhynchoides		duplotestes	Meixner, 1928				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485673	
+485671	143289	Schizorhynchus		rarus	Ax, 1951				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485671	
+485622	155795	Anoplorhynchus		piger	Meixner, 1925				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485622	
+485983	152596	Vannuccia		hastata	Ax & Ax, 1974				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485983	
+485621	143104	Prognathorhynchus		anophthalmus	Meixner, 1929				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485621	
+485655	484609	Rhinepera		remanei	Meixner, 1928				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485655	
+485656	484610	Rhinepera		targa	Marcus, 1952				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485656	
+485989	481505	Minona		istanbulensis	Ax, 1959				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:485989	
+487819	484540	Polycystis		ali		f. california	Forma	Karling, 1986	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:487819	
+155626	155618	Polycystis		reticulatus	Micoletzki, 1910				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155626	
+155627	155618	Phonorhynchus		mamertinus	(Graff, 1874)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155627	
+155819	143103	Neognathorhynchus		longostilo	Schilke, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155819	
+155677	155676	Rogneda		westbladi		gallica	Subspecies	Ax, 1956	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155677	
+155671	143225	Macrorhynchus		minutus	(Uljanin, 1870)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155671	
+155672	143225	Polycystis		minuta	(Uljanin, 1870)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155672	
+155673	143226	Rogneda		patula	Watson, 2001				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155673	
+155674	143229	Polycystis		steueri	Steinböck, 1933				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155674	
+155675	143230	Polycystis		tripalmata	Beklemischev, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155675	
+155680	143233	Scanorhynchus		modestus	Evdonin, 1971				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155680	
+155797	155795	Jordania		stolzi	Sekera, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155797	
+155798	155795	Sekerana		stolzi	Strand, 1914				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155798	
+155800	155795	Anoplorhynchux		piger	Meixner, 1925				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155800	
+155704	155795	Polycystis		tenuis	Beklemischev, 1921				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155704	
+155681	143238	Typhlopolycystis		limicola	Schilke, 1970				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155681	
+155803	143159	Acrorhynchus		heinckei	Attems, 1897				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155803	
+155804	143159	Koinocystis		heinckei	(Attems, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155804	
+155805	143159	Utelga		heinckei	Karling, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155805	
+155807	143160	Utelga		heinckei	(Attems, 1897)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155807	
+155809	143161	Koinocystis		spinosa	Beklemischev, 1927				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155809	
+155810	143161	Utelga		spinosa	Karling, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155810	
+155811	143161	Pontaralia		spinosa	(Beklemischev, 1927)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155811	
+155937	143068	Koinocystis		tvaerminnensis	Karling, 1931				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155937	
+156051	156050	Diplosiphon		macrorhynchus	Timoshkin, 1986				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:156051	
+155622	485634	Macrorhynchus		mamertinus	Graff, 1882				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155622	
+155623	485634	Macrorhynchus		coeruleus	Fuhrmann, 1898				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155623	
+155217	480846	Macrorhynchus		croceus	(Fabricius, 1826)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155217	
+155220	480846	Gyrator		suboviformis	Ørsted, 1843				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155220	
+155299	480846	Gyrator		croceus	(Fabricius, 1826)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155299	
+155300	480846	Prostomum		steenstrupii	Schmidt, 1852				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155300	
+155301	480846	Gyrator		steenstrupii	(Schmidt, 1852)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155301	
+155302	480846	Gyrator		fabricii	Jensen, 1878				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155302	
+155304	480846	Planaria		crocea	Fabricius, 1826				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155304	
+155305	480847	Macrorhynchus		groenlandicus	(Levinsen, 1879)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155305	
+155567	485061	Polycystis		felis	Marcus, 1954				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155567	
+155605	480853	Prostoma		kefersteinii	Claparède, 1863				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155605	
+155606	480853	Rogneda		agilis	Uljanin, 1870				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155606	
+155607	480853	Macrorhynchus		naegelii	(Kölliker, 1845)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:155607	

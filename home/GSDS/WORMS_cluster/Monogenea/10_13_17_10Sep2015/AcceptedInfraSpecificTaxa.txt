@@ -1,0 +1,4 @@
+AcceptedTaxonID	ParentSpeciesID	InfraSpeciesEpithet	InfraSpeciesAuthorString	InfraSpeciesMarker	GSDNameStatus	Sp2000NameStatus	IsFossil	LifeZone	AdditionalData	LTSSpecialist	LTSDate	InfraSpeciesURL	GSDTaxonGUI	GSDNameGUI	
+518621	518620	affinis	(Mamaev, 1968)	Subspecies	accepted	Accepted name	0	marine		Gibson, David	2013-02-05 15:02:25	http://www.marinespecies.org/aphia.php?p=taxdetails&id=518621		urn:lsid:marinespecies.org:taxname:518621	
+119554	119581	blennii	Gaevskaya & Dmitrieva, 1967	Subspecies	accepted	Accepted name	0	marine		Harris, Philip	2006-01-13 10:00:16	http://www.marinespecies.org/aphia.php?p=taxdetails&id=119554		urn:lsid:marinespecies.org:taxname:119554	
+196407	196406	f. tomentosus	Amine & Euzet, 2005	Forma	accepted	Accepted name	0	marine		Harris, Philip	2006-05-02 16:13:09	http://www.marinespecies.org/aphia.php?p=taxdetails&id=196407		urn:lsid:marinespecies.org:taxname:196407	

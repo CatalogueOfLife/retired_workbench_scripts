@@ -1,0 +1,4391 @@
+﻿AcceptedTaxonID	DistributionElement	StandardInUse
+1191650	France	text
+1191656	Greece	text
+1191657	Afghanistan	text
+1191658	France; Belgium; Germany; Greece; Morocco; Portugal; Spain; Switzerland; Turkey; Yugoslavia; :	text
+1191663	Namibia	text
+1191665	USA	text
+1191666	USA	text
+1191667	USA	text
+1191678	Zimbabwe; Belgium; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Hungary; Ireland; Israel; Italy; Luxembourg; Poland; Spain; Switzerland; Yugoslavia; Canary Islands; USA; :	text
+1191679	Australia; Italy	text
+1191680	USA; Austria; Belgium; Czechoslovakia; Egypt; France; Germany; Italy; Spain; Switzerland; Mexico; :	text
+1191685	Mexico; USA	text
+1191700	India	text
+1191701	Italy; Bahrain; Israel; Morocco; Ascension Island; Canary Islands; Madeira; USA; Antilles; Cuba; Jamaica; Mexico; Nicaragua; Brazil; Colombia; Angola; Cameroon; Congo; Madagascar; Mozambique; Nigeria; Tanzania; Mascarene Islands; China; India; Indonesia; New Guinea; Taiwan; Thailand; Australia; Hawaii; :	text
+1191707	Seychelles; India; Madagascar; Aldabra Islands	text
+1191708	China	text
+1191718	Malaysia	text
+1191719	India	text
+1191721	Argentina	text
+1191722	India	text
+1191723	Mexico; USA; Antigua; Guatemala	text
+1191724	Europe; Algeria; Armenia; Ireland; Israel; Morocco; Tunisia; USSR; Yugoslavia; Ascension Island; Azores; Canary Islands; Saint Helena; USA; Central America; Cuba; Mexico; Chile; Uruguay; Angola; Zimbabwe; Afghanistan; India; Australia; New Zealand; Guam; Micronesia	text
+1191737	Angola	text
+1191738	Central America; Mexico	text
+1191740	Malaysia	text
+1191741	Taiwan; China	text
+1191742	Hawaii; Taiwan	text
+1191743	Japan; China; Taiwan	text
+1191745	Uae	text
+1191746	Mexico	text
+1191747	Belize	text
+1191749	Angola	text
+1191751	Mexico	text
+1191752	Mexico	text
+1191753	Mexico	text
+1191754	Mexico	text
+1191755	Mexico	text
+1191756	Cuba	text
+1191757	Angola	text
+1191758	China	text
+1191759	China	text
+1191772	Madagascar	text
+1191773	Madagascar	text
+1191774	Kenya	text
+1191775	Madagascar	text
+1191776	Congo; Nigeria; Togo	text
+1191777	Cuba; USA; Belize; Guatemala; Honduras; Mexico	text
+1191779	Angola; Congo; Mozambique; Nigeria; Tanzania; Zimbabwe	text
+1191780	Madagascar	text
+1191781	Madagascar	text
+1191782	Angola	text
+1191783	Madagascar; Iles Glorieuses	text
+1191784	Madagascar	text
+1191785	East Africa	text
+1191786	Madagascar	text
+1191787	Madagascar	text
+1191788	Madagascar	text
+1191793	Tanzania	text
+1191798	China	text
+1191800	India	text
+1191802	Taiwan; China	text
+1191803	Sri Lanka	text
+1191806	China	text
+1191808	New Guinea; Bismarck Archipelago; Indonesia; Samoa	text
+1191810	Brazil	text
+1191811	Galapagos	text
+1191812	Sri Lanka	text
+1191813	Sri Lanka; Malaysia	text
+1191814	Cameroon; Angola; Congo; Equatorial Guinea; Ivory Coast; Christmas Island	text
+1191816	Indonesia	text
+1191818	Indonesia	text
+1191820	Fiji; Christmas Island; Indonesia; Polynesia	text
+1191821	Tanzania	text
+1191822	Singapore	text
+1191823	Indonesia	text
+1191824	Brazil	text
+1191825	Sri Lanka; Great Britain; Indonesia	text
+1191826	Australia	text
+1191827	Seychelles; Chagos Archipelago	text
+1191828	Indonesia	text
+1191829	Australia	text
+1191830	Indonesia	text
+1191833	Brazil	text
+1191834	Paraguay	text
+1191836	Malaysia; Christmas Island; Indonesia; Singapore	text
+1191838	Sri Lanka	text
+1191839	Sri Lanka	text
+1191840	Sri Lanka	text
+1191842	Sri Lanka	text
+1191843	Indonesia	text
+1191844	Australia	text
+1191845	Sri Lanka	text
+1191846	Sri Lanka	text
+1191847	Aldabra Islands	text
+1191848	Tanzania	text
+1191850	Sri Lanka	text
+1191852	Sri Lanka	text
+1191853	Sri Lanka	text
+1191855	Ivory Coast; USA; Virgin Islands; Mexico; Panama; Trinidad; Brazil; French Guiana; Angola; Mascarene Islands; Sri Lanka; :	text
+1191860	Angola	text
+1191861	Bismarck Archipelago; Guam	text
+1191862	Chagos Archipelago	text
+1191863	Sri Lanka; Germany; Great Britain; USA; Cuba; Mexico; Panama; Brazil; Venezuela; Angola; Congo; Equatorial Guinea; Ivory Coast; Madagascar; Sierra Leone; Tanzania; Seychelles; Christmas Island; Indonesia; Australia; Polynesia; Tahiti; :	text
+1191864	Galapagos	text
+1191865	Brazil	text
+1191872	Seychelles	text
+1191874	Samoa	text
+1191875	Hawaii; Mexico; Fiji; Polynesia	text
+1191876	Christmas Island; Fiji	text
+1191879	Seychelles	text
+1191880	Seychelles	text
+1191881	Paraguay	text
+1191882	Bermuda Islands	text
+1191883	Samoa	text
+1191884	Barbados	text
+1191885	USA; Canada; :	text
+1191887	Seychelles	text
+1191888	USA; Mexico; Trinidad	text
+1191889	Indonesia	text
+1191891	Brazil	text
+1191892	Seychelles	text
+1191893	Sri Lanka	text
+1191894	Angola	text
+1191895	Chile	text
+1191896	Brazil	text
+1191897	USA	text
+1191899	Brazil	text
+1191901	Seychelles	text
+1191902	Ivory Coast; USA; Antigua; Cuba; Mexico; Panama; Puerto Rico; Trinidad; Brazil; French Guiana; Guyana; Suriname; Madagascar	text
+1191903	Seychelles	text
+1191904	Brazil	text
+1191905	Antilles; Equatorial Guinea; Chagos Archipelago; Reunion; Christmas Island; Indonesia; Japan; Galapagos; Hawaii; Melanesia; Micronesia	text
+1191907	Madagascar; Germany; Bermuda Islands; USA; Jamaica; Mexico; Argentina; Chile; Equatorial Guinea; East Africa; Ivory Coast; Chagos Archipelago; Mascarene Islands; Seychelles; Hong Kong; Indonesia; Japan; Australia; New Zealand; Norfolk Island; Fiji; Galapagos; Hawaii; Melanesia; Micronesia; Polynesia; Tonga	text
+1191910	Seychelles	text
+1191911	Sri Lanka	text
+1191912	Seychelles	text
+1191913	Australia; Equatorial Guinea; Christmas Island; Indonesia; Polynesia	text
+1191914	Australia	text
+1191916	Seychelles	text
+1191917	Seychelles	text
+1191918	Seychelles	text
+1191920	Aldabra Islands	text
+1191921	New Zealand	text
+1191922	Seychelles	text
+1191924	New Zealand	text
+1191926	Australia	text
+1191927	Seychelles	text
+1191928	Galapagos	text
+1191929	Seychelles	text
+1191931	Australia	text
+1191932	Australia	text
+1191933	Seychelles	text
+1191934	Lord Howe Island	text
+1191935	Brazil	text
+1191936	Seychelles	text
+1191937	Seychelles	text
+1191938	Australia	text
+1191940	Australia	text
+1191941	Jamaica	text
+1191942	Mexico	text
+1191943	Brazil	text
+1191944	Lord Howe Island	text
+1191945	Jamaica	text
+1191946	Jamaica	text
+1191947	Jamaica	text
+1191948	Chagos Archipelago	text
+1191949	Mauritius	text
+1191952	Polynesia	text
+1191954	Christmas Island	text
+1191956	Madagascar	text
+1191957	Mexico	text
+1191959	Jamaica	text
+1191960	Reunion	text
+1191961	Jamaica	text
+1191962	Mexico	text
+1191963	Madagascar	text
+1191966	Mexico	text
+1191967	Jamaica	text
+1191968	Jamaica	text
+1191969	Hawaii	text
+1191970	Fiji	text
+1191971	Mexico	text
+1191974	Hawaii; Polynesia	text
+1191975	Fiji	text
+1191976	Fiji	text
+1191977	Mauritius	text
+1191978	Fiji	text
+1191979	Melanesia; Polynesia	text
+1191980	Tonga	text
+1191981	Seychelles	text
+1191982	Fiji	text
+1191983	Samoa	text
+1191984	Tonga	text
+1191985	Galapagos; Hawaii; Melanesia; Polynesia	text
+1191986	Hawaii; Polynesia	text
+1191987	Fiji	text
+1191988	Hawaii; Christmas Island; Indonesia; Fiji; Micronesia; Polynesia	text
+1191989	Fiji	text
+1191990	Singapore; Seychelles	text
+1191991	Seychelles	text
+1191992	Fiji	text
+1191994	Fiji	text
+1191995	Fiji	text
+1191996	Guam; Micronesia; Christmas Island; Indonesia; Melanesia; Polynesia	text
+1191997	Fiji; Indonesia; Polynesia	text
+1191998	Fiji	text
+1191999	Fiji	text
+1192000	Fiji	text
+1192001	Reunion	text
+1192002	Tonga	text
+1192003	Indonesia	text
+1192004	Tonga	text
+1192005	Tonga	text
+1192006	Tonga	text
+1192008	Hawaii; Melanesia; Polynesia	text
+1192012	New Guinea	text
+1192013	Australia	text
+1192015	Jamaica; Lesser Antilles; USA; Mexico	text
+1192016	Mexico	text
+1192017	USA; Canada	text
+1192018	Mexico	text
+1192022	Norfolk Island	text
+1192023	Mexico	text
+1192024	Chile	text
+1192025	Norfolk Island	text
+1192026	France; Great Britain; Ireland; Madeira; USA; Argentina; Chile; Australia; New Zealand; :	text
+1192030	Chatham Islands	text
+1192031	Mexico	text
+1192032	Norfolk Island	text
+1192036	Sri Lanka	text
+1192040	Great Britain; Iles Glorieuses; Reunion; India; :	text
+1192041	Sri Lanka; China; Taiwan	text
+1192043	Colombia	text
+1192044	Norfolk Island	text
+1192045	Aldabra Islands	text
+1192046	Hawaii	text
+1192051	Congo; USA	text
+1192056	Seychelles; Madagascar	text
+1192059	Ivory Coast	text
+1192060	Germany; Belgium; Great Britain; Azores; Bermuda Islands; North America; USA; Mexico; Panama; Brazil; Paraguay; Angola; Congo; Ghana; Ivory Coast; Mascarene Islands; China; Malaysia; Taiwan; Australia; Pacific; Galapagos; Hawaii; :	text
+1192063	Mexico	text
+1192068	Congo; Angola; Equatorial Guinea; Ivory Coast; South Africa; Tanzania; India	text
+1192069	USA; Mexico	text
+1192070	Colombia	text
+1192071	Mexico	text
+1192072	Mexico	text
+1192073	New Zealand	text
+1192074	Jamaica	text
+1192075	Great Britain; USA; Angola; Congo; Ghana; :	text
+1192076	Kerguelen Islands; USA	text
+1192078	Jamaica; Mexico	text
+1192079	Mexico	text
+1192080	Madagascar	text
+1192081	USA	text
+1192082	Equatorial Guinea	text
+1192083	Mexico	text
+1192084	Galapagos; Mexico	text
+1192085	Micronesia; Christmas Island; Tonga	text
+1192086	Great Britain	text
+1192087	Togo	text
+1192088	Peru	text
+1192090	USA; Mexico	text
+1192094	Lord Howe Island	text
+1192098	MXS-CL	TDWG Level 4 code
+1192101	Chile	text
+1192102	Chile	text
+1192109	Madeira	text
+1192110	Tunisia; Israel	text
+1192111	Mexico	text
+1192112	Cyprus	text
+1192113	Europe; Saint Helena; Austria; Belgium; Cyprus; Czechoslovakia; France; Germany; Great Britain; Greece; Israel; Italy; Luxembourg; Morocco; Netherlands; Norway; Poland; Portugal; Switzerland; USSR; Azores; Gough Island; Madeira; USA; Chile; Australia; Hawaii; :	text
+1192116	Australia	text
+1192117	Cape Verde Islands	text
+1192118	Canary Islands	text
+1192121	Mexico	text
+1192122	Mexico	text
+1192123	Canary Islands	text
+1192124	Canary Islands	text
+1192125	world wide	text
+1192130	Cape Verde Islands; Azores	text
+1192131	Canary Islands	text
+1192134	Cape Verde Islands	text
+1192135	Galapagos	text
+1192136	Mexico	text
+1192137	Canary Islands	text
+1192139	Chile	text
+1192140	Madeira	text
+1192141	Ascension Island; Mexico	text
+1192142	Madeira	text
+1192143	Canary Islands	text
+1192144	Galapagos	text
+1192145	Canary Islands	text
+1192147	Galapagos; Mexico	text
+1192156	Angola; Tanzania; Zimbabwe	text
+1192158	India	text
+1192159	Europe; Iceland; Morocco; USSR; Azores; Canary Islands; Gough Island; Madeira; USA; Mexico; Congo; Guinea-bissau; Madagascar; Mozambique; Hong Kong; Japan; Taiwan; Australia; New Zealand; Subantarctic Islands Of New Zealand; :	text
+1192166	South Africa	text
+1192167	Angola	text
+1192169	Great Britain; Austria; Belgium; Czechoslovakia; Egypt; Finland; France; Germany; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Switzerland; USA; Argentina; South Africa; Australia; New Zealand; Norfolk Island; Subantarctic Islands Of New Zealand; :	text
+1192171	Algeria; Armenia; Austria; Belgium; Cyprus; Czechoslovakia; Egypt; Finland; France; Germany; Great Britain; Greece; Hungary; Israel; Italy; Luxembourg; Morocco; Netherlands; Poland; Portugal; Romania; Spain; Switzerland; Turkey; USSR; Yugoslavia; Canary Islands; Canada; USA; Mexico; Chile; Angola; Congo; Mozambique; Afghanistan; Japan; Korea; Australia; New Zealand; Tasmania; Hawaii; :	text
+1192173	Australia	text
+1192174	Tasmania; Australia	text
+1192176	Canary Islands	text
+1192179	USA	text
+1192181	Namibia	text
+1192187	Kenya	text
+1192188	Mexico	text
+1192189	Norfolk Island; New Zealand	text
+1192190	Angola	text
+1192191	Madagascar	text
+1192192	Europe; Cyprus; Egypt; Iceland; Israel; Morocco; Tunisia; USSR; Azores; Canary Islands; Madeira; Tristan Da Cunha; Canada; USA; Mexico; Tanzania; Crozet Islands; Kerguelen Islands; China; Japan; Taiwan; Australia; New Zealand; Subantarctic Islands Of New Zealand	text
+1192196	Angola	text
+1192197	Uae	text
+1192240	Colombia	text
+1192243	USA; Canada; Mexico	text
+1192244	USA; Canada	text
+1192245	India	text
+1192246	France; Austria; Belgium; Bulgaria; Czechoslovakia; Finland; Germany; Great Britain; Greece; Hungary; Ireland; Italy; Luxembourg; Malta; Morocco; Netherlands; Norway; Poland; Portugal; Romania; Spain; Switzerland; Turkey; USSR; Yugoslavia; Azores; Madeira; :	text
+1192249	Reunion	text
+1192250	China	text
+1192255	China	text
+1192256	China	text
+1192259	China	text
+1192260	Bhutan	text
+1192263	New Guinea	text
+1192264	New Guinea	text
+1192267	Angola	text
+1192268	Malaysia	text
+1192269	Malaysia	text
+1192270	Malaysia	text
+1192271	Gabon	text
+1192272	Philippines	text
+1192273	India	text
+1192274	India; Indonesia; Malaysia	text
+1192275	Sri Lanka	text
+1192276	Malaysia	text
+1192277	Equatorial Guinea	text
+1192278	New Guinea	text
+1192279	China	text
+1192280	Malaysia	text
+1192281	Sri Lanka	text
+1192282	Sri Lanka	text
+1192283	Singapore	text
+1192284	Indonesia	text
+1192285	Angola; Madagascar	text
+1192286	Malaysia	text
+1192287	New Guinea	text
+1192288	Malaysia	text
+1192289	Malaysia	text
+1192290	Australia; New Guinea	text
+1192291	Malaysia	text
+1192292	Singapore	text
+1192294	Borneo	text
+1192295	Nigeria	text
+1192296	Indonesia	text
+1192297	Sri Lanka	text
+1192298	Philippines	text
+1192299	New Guinea	text
+1192300	Singapore; Malaysia	text
+1192301	Malaysia	text
+1192302	Malaysia	text
+1192303	Singapore; Malaysia	text
+1192304	Madagascar	text
+1192305	Madagascar	text
+1192306	Sri Lanka	text
+1192307	Thailand	text
+1192308	Madagascar	text
+1192309	Angola	text
+1192314	Brazil	text
+1192315	Tanzania	text
+1192316	Argentina	text
+1192317	Brazil	text
+1192318	Brazil	text
+1192321	Brazil	text
+1192322	Bolivia	text
+1192323	Peru	text
+1192324	Brazil	text
+1192325	Japan	text
+1192326	Brazil	text
+1192327	Brazil	text
+1192328	Taiwan; China	text
+1192329	Brazil	text
+1192330	Brazil	text
+1192331	New Guinea	text
+1192332	Brazil	text
+1192333	Peru	text
+1192334	Peru	text
+1192335	Brazil	text
+1192336	Brazil	text
+1192337	Guatemala; Mexico	text
+1192338	Brazil	text
+1192339	Indonesia	text
+1192340	Brazil	text
+1192341	Brazil	text
+1192342	Brazil	text
+1192343	Brazil	text
+1192344	Brazil	text
+1192345	Brazil	text
+1192346	Indonesia	text
+1192347	Brazil	text
+1192356	Colombia	text
+1192357	Colombia	text
+1192358	Venezuela	text
+1192359	Costa Rica	text
+1192360	Bolivia	text
+1192361	Brazil	text
+1192362	Bolivia	text
+1192363	Brazil	text
+1192364	Brazil	text
+1192365	Venezuela	text
+1192402	China	text
+1192403	Philippines; Indonesia	text
+1192404	China	text
+1192407	India	text
+1192408	India	text
+1192409	Nepal	text
+1192410	China	text
+1192412	Jamaica	text
+1192413	Jamaica	text
+1192414	Peru	text
+1192415	Venezuela	text
+1192416	Brazil; Peru	text
+1192418	Brazil	text
+1192420	Brazil; Peru	text
+1192421	Jamaica	text
+1192422	Brazil	text
+1192423	Galapagos	text
+1192424	Brazil	text
+1192426	Brazil; Peru	text
+1192427	Peru	text
+1192428	Santo Domingo	text
+1192429	Peru	text
+1192430	Cuba	text
+1192434	Brazil	text
+1192435	Brazil; Peru	text
+1192436	Brazil	text
+1192437	Peru	text
+1192438	Peru	text
+1192439	Brazil	text
+1192440	Brazil	text
+1192441	Brazil	text
+1192442	Brazil; Peru	text
+1192443	Brazil	text
+1192444	Peru	text
+1192445	Peru	text
+1192447	Venezuela	text
+1192448	Venezuela	text
+1192484	Peru	text
+1192485	Brazil; Mexico; Peru	text
+1192486	Brazil	text
+1192487	Colombia	text
+1192488	Brazil	text
+1192489	Brazil	text
+1192490	Brazil	text
+1192491	Brazil	text
+1192503	China	text
+1192505	Trinidad	text
+1192506	Brazil	text
+1192507	Brazil	text
+1192508	Brazil; Peru	text
+1192509	Peru	text
+1192510	Ecuador	text
+1192511	Brazil	text
+1192512	Brazil	text
+1192513	Peru	text
+1192514	Venezuela	text
+1192515	Colombia	text
+1192516	Trinidad	text
+1192517	Brazil	text
+1192518	Venezuela	text
+1192519	French Guiana	text
+1192520	Brazil	text
+1192521	Brazil	text
+1192522	Brazil	text
+1192523	Mexico	text
+1192524	Brazil	text
+1192525	Brazil	text
+1192527	Brazil	text
+1192528	Brazil	text
+1192529	Panama	text
+1192530	Colombia	text
+1192531	Brazil	text
+1192532	Brazil	text
+1192533	Brazil	text
+1192534	Brazil	text
+1192535	Brazil	text
+1192539	Angola	text
+1192540	Mexico	text
+1192542	Panama	text
+1192543	Brazil	text
+1192544	Brazil	text
+1192545	Brazil	text
+1192546	Brazil	text
+1192547	Mexico	text
+1192548	Panama	text
+1192549	Panama	text
+1192550	Panama	text
+1192551	Brazil	text
+1192552	Peru	text
+1192553	Panama	text
+1192554	Angola	text
+1192555	Brazil	text
+1192560	Paraguay	text
+1192561	Peru; Brazil	text
+1192562	Brazil; Peru	text
+1192563	Brazil	text
+1192564	Peru	text
+1192565	Peru	text
+1192566	Brazil	text
+1192567	Peru	text
+1192570	Brazil	text
+1192571	Bolivia	text
+1192572	Brazil	text
+1192573	Costa Rica	text
+1192574	Peru	text
+1192575	Mexico	text
+1192576	Mexico	text
+1192577	Bolivia	text
+1192578	Guatemala; Mexico	text
+1192588	Peru	text
+1192590	Peru	text
+1192593	Brazil	text
+1192596	Brazil	text
+1192597	Peru	text
+1192598	Mexico	text
+1192599	Brazil	text
+1192600	Brazil	text
+1192601	Peru	text
+1192602	Belize	text
+1192603	Belize	text
+1192604	Bolivia	text
+1192605	Colombia	text
+1192606	Brazil	text
+1192607	Brazil	text
+1192608	Brazil	text
+1192609	Brazil	text
+1192610	Brazil	text
+1192611	Costa Rica	text
+1192612	Belize	text
+1192613	Brazil	text
+1192614	Peru	text
+1192615	Brazil	text
+1192616	Guatemala; Mexico	text
+1192617	Peru	text
+1192618	Brazil; Peru	text
+1192619	Mexico	text
+1192630	MXS-GR	TDWG Level 4 code
+1192635	Cuba	text
+1192636	Dominica	text
+1192637	Mexico	text
+1192638	Guyana	text
+1192639	Dominican Republic	text
+1192640	Dominica	text
+1192641	Cuba	text
+1192643	Puerto Rico	text
+1192644	Panama	text
+1192645	Puerto Rico	text
+1192650	Spain; Oman	text
+1192651	Mongolia	text
+1192652	Mexico; USA	text
+1192653	Mexico	text
+1192654	Yemen	text
+1192658	Mexico	text
+1192659	Venezuela	text
+1192660	Brazil	text
+1192661	Angola	text
+1192662	Brazil	text
+1192663	Jamaica	text
+1192664	Brazil	text
+1192665	Angola	text
+1192668	Brazil	text
+1192672	China	text
+1192674	Hawaii	text
+1192708	Indonesia	text
+1192709	India	text
+1192710	China	text
+1192711	China	text
+1192712	Taiwan; China	text
+1192713	China	text
+1192714	Nepal	text
+1192715	China	text
+1192716	Australia	text
+1192717	Europe; Austria; Belgium; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Portugal; Romania; Spain; Switzerland; USSR; Yugoslavia; Mongolia; Vietnam; :	text
+1192722	China	text
+1192723	Indonesia	text
+1192724	Angola; Congo; Equatorial Guinea	text
+1192725	India; Nepal	text
+1192726	China	text
+1192727	Madagascar	text
+1192728	Philippines	text
+1192729	Nepal	text
+1192730	China	text
+1192734	Madagascar	text
+1192735	Nepal	text
+1192736	Singapore; Indonesia; Malaysia	text
+1192738	India; China; Nepal	text
+1192740	Philippines	text
+1192741	China	text
+1192742	China	text
+1192743	Angola	text
+1192744	Philippines	text
+1192745	Seychelles	text
+1192746	Madagascar	text
+1192747	Taiwan; China; Japan	text
+1192748	China	text
+1192749	China	text
+1192750	Madagascar	text
+1192751	China	text
+1192752	Madagascar	text
+1192753	Madagascar	text
+1192754	Congo	text
+1192895	India	text
+1192897	Philippines	text
+1192898	Sri Lanka; India; Indonesia; Japan	text
+1192899	Indonesia	text
+1192900	India; Nepal	text
+1192901	Taiwan; China	text
+1192921	Angola; Tanzania	text
+1192922	South Africa	text
+1192923	China	text
+1192924	Taiwan; China	text
+1192925	China	text
+1192927	China	text
+1192928	China	text
+1192929	Sri Lanka	text
+1192930	China	text
+1192931	China	text
+1192932	China	text
+1192936	China	text
+1192937	India	text
+1192938	Bhutan	text
+1192939	Comores; Seychelles	text
+1192940	Indonesia; Christmas Island	text
+1192941	Indonesia	text
+1192942	Singapore	text
+1192944	Australia	text
+1192945	Australia	text
+1192947	Reunion; Tanzania	text
+1192948	Fiji	text
+1192949	Comores; Madagascar; Seychelles	text
+1192951	India	text
+1192952	Angola	text
+1192953	India	text
+1192954	Taiwan; China; Japan	text
+1192955	China	text
+1192956	Congo	text
+1192959	Bangladesh	text
+1192960	China	text
+1192961	Thailand	text
+1192962	China	text
+1192963	India	text
+1192965	Guinea	text
+1192966	India	text
+1192967	China	text
+1192968	India; Bhutan	text
+1192969	China	text
+1192970	Japan	text
+1192971	China	text
+1192972	China	text
+1192973	China	text
+1192974	Bhutan	text
+1193001	Azores; Italy; Portugal	text
+1193004	Taiwan; China	text
+1193006	Philippines	text
+1193008	Indonesia	text
+1193013	Kenya	text
+1193014	South Africa; USA; Angola; Congo; Mozambique; Nigeria	text
+1193018	Australia	text
+1193019	Australia	text
+1193020	Australia	text
+1193021	New Zealand	text
+1193023	Australia	text
+1193024	Australia	text
+1193025	Morocco	text
+1193026	Australia	text
+1193027	Australia	text
+1193029	New Zealand; Australia; Tasmania	text
+1193031	Australia	text
+1193032	Australia	text
+1193041	Venezuela	text
+1193042	Peru; Brazil	text
+1193045	Brazil	text
+1193047	Indonesia	text
+1193048	Sri Lanka; China; Indonesia; Japan; Taiwan	text
+1193052	Indonesia	text
+1193053	Australia	text
+1193054	China	text
+1193055	Indonesia	text
+1193059	New Guinea; Australia	text
+1193061	Hawaii; Hong Kong; Malaysia; Micronesia; Polynesia; Samoa	text
+1193062	Angola	text
+1193063	Congo; Nigeria	text
+1193064	Congo	text
+1193065	USA; American Virgin Islands; Cuba; Guatemala; Haiti; Jamaica; Mexico; Panama; Brazil; Suriname; Venezuela; Galapagos	text
+1193066	Guam; Micronesia	text
+1193067	Australia	text
+1193068	Cameroon	text
+1193069	Saint Helena	text
+1193070	Cape Verde Islands; Cyprus; Greece; Israel; Portugal; Tunisia; Azores; Madeira	text
+1193072	Mozambique; Bermuda Islands; USA; Guatemala; Mexico; Panama; Chile; Guianas; Venezuela; Indonesia; New Guinea; Easter Island; Hawaii; Melanesia; Micronesia; :	text
+1193074	Congo; Angola; Madagascar; South Africa	text
+1193075	Seychelles	text
+1193076	Madagascar	text
+1193077	Angola	text
+1193078	Madagascar	text
+1193079	Congo; Equatorial Guinea	text
+1193080	Reunion	text
+1193081	Kenya	text
+1193082	Mozambique; Angola	text
+1193084	Madagascar	text
+1193085	Equatorial Guinea	text
+1193086	Mexico; Galapagos	text
+1193087	Norfolk Island	text
+1193088	Congo	text
+1193089	Australia	text
+1193090	Cameroon	text
+1193091	Kenya	text
+1193092	Angola	text
+1193093	Angola	text
+1193095	Reunion; Mascarene Islands	text
+1193096	South Africa	text
+1193097	Norfolk Island; Philip Island	text
+1193098	Angola	text
+1193099	Angola	text
+1193100	India; Nepal	text
+1193102	Tasmania; Australia	text
+1193103	Congo; Equatorial Guinea	text
+1193104	Angola	text
+1193105	Congo	text
+1193107	Angola	text
+1193108	Seychelles	text
+1193112	Brazil	text
+1193113	Uganda; Angola; Congo; Nigeria	text
+1193114	Madagascar	text
+1193115	Indonesia	text
+1193116	Brazil	text
+1193117	Brazil	text
+1193118	Venezuela	text
+1193119	Dominican Republic	text
+1193120	Indonesia	text
+1193121	Kenya	text
+1193122	Madagascar	text
+1193123	Colombia	text
+1193124	Indonesia	text
+1193125	China	text
+1193126	Madagascar	text
+1193127	New Guinea	text
+1193128	Congo	text
+1193129	Micronesia	text
+1193130	Sri Lanka; China; Philippines; Taiwan	text
+1193131	Astove Atoll	text
+1193132	Great Britain; Austria; Belgium; Czechoslovakia; Denmark; Finland; France; Germany; Hungary; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Switzerland; USSR; Yugoslavia; USA; Mongolia	text
+1193133	Japan; Indonesia; Hawaii	text
+1193134	China	text
+1193135	Indonesia	text
+1193136	Indonesia	text
+1193137	Indonesia	text
+1193138	India	text
+1193139	Bermuda Islands	text
+1193140	China	text
+1193141	Angola	text
+1193142	China	text
+1193143	China	text
+1193144	Bahama Islands	text
+1193145	Paraguay; Bolivia	text
+1193146	Equatorial Guinea	text
+1193148	Malaysia	text
+1193149	China	text
+1193150	Madagascar	text
+1193151	Kenya; Angola; Benin; Congo; Equatorial Guinea; Tanzania; Togo	text
+1193154	Germany; Austria; Belgium; Bulgaria; Czechoslovakia; Denmark; Finland; France; Great Britain; Greece; Hungary; Ireland; Italy; Luxembourg; Morocco; Netherlands; Norway; Poland; Portugal; Romania; Spain; Sweden; Switzerland; USSR; Yugoslavia; Canary Islands; Madeira; Canada; USA; Mongolia; :	text
+1193161	Canary Islands	text
+1193162	Haiti	text
+1193163	Dominican Republic	text
+1193164	Mexico	text
+1193165	Argentina	text
+1193167	Jamaica	text
+1193168	China	text
+1193169	Chile	text
+1193171	Philippines	text
+1193172	China	text
+1193173	China	text
+1193174	Brazil	text
+1193175	Philippines	text
+1193176	China	text
+1193177	Brazil	text
+1193178	Brazil; Venezuela	text
+1193179	Indonesia	text
+1193180	Brazil	text
+1193181	Nepal	text
+1193182	Congo	text
+1193183	Colombia	text
+1193184	Jamaica	text
+1193185	USA	text
+1193187	Philippines	text
+1193188	Spain	text
+1193192	USA; Guatemala; Mexico	text
+1193193	China	text
+1193194	China	text
+1193195	China	text
+1193196	China	text
+1193198	Philippines	text
+1193199	Ivory Coast	text
+1193200	China	text
+1193201	Argentina	text
+1193202	France; Austria; Belgium; Bulgaria; Czechoslovakia; Finland; Germany; Hungary; Luxembourg; Norway; Poland; Spain; Switzerland; USSR; Yugoslavia; Mongolia	text
+1193204	China	text
+1193206	China	text
+1193207	China	text
+1193208	Mexico; Trinidad; Galapagos	text
+1193209	Costa Rica	text
+1193210	China	text
+1193211	Congo	text
+1193212	Uruguay	text
+1193213	Haiti	text
+1193214	Mexico; Panama	text
+1193215	Jamaica	text
+1193216	China	text
+1193217	China	text
+1193218	China	text
+1193219	China	text
+1193220	Indonesia	text
+1193221	Brazil	text
+1193222	Jamaica	text
+1193223	Cuba; Mexico	text
+1193224	Japan; China; Taiwan	text
+1193225	Europe; Austria; Belgium; Bulgaria; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Greece; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Portugal; Romania; Spain; Switzerland; Turkey; USSR; Yugoslavia; Azores; Bermuda Islands; Canary Islands; Madeira; Canada; USA; Mexico; Nicaragua; Japan; Mongolia; :	text
+1193234	New Zealand	text
+1193235	New Zealand	text
+1193236	China	text
+1193237	China	text
+1193238	China	text
+1193239	Canary Islands	text
+1193240	Taiwan; China	text
+1193241	China	text
+1193242	India	text
+1193244	Benin	text
+1193245	China	text
+1193248	Brazil	text
+1193249	Congo	text
+1193250	Japan; USA; China; Taiwan	text
+1193251	China	text
+1193252	Japan	text
+1193253	USA	text
+1193254	China	text
+1193255	Madagascar	text
+1193256	China	text
+1193257	Germany; Czechoslovakia; Finland; France; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Switzerland; USSR; Mongolia; :	text
+1193258	China	text
+1193259	Madagascar	text
+1193260	China	text
+1193261	India; Nepal; Bhutan	text
+1193262	Indonesia	text
+1193263	China	text
+1193264	China	text
+1193265	USA	text
+1193266	Nepal	text
+1193267	Mauritius; Seychelles	text
+1193268	Angola	text
+1193269	Jamaica	text
+1193270	China	text
+1193271	Cuba	text
+1193272	India	text
+1193273	Venezuela	text
+1193274	Tanzania; Madagascar	text
+1193275	Madagascar	text
+1193276	China	text
+1193277	Madagascar	text
+1193279	Jamaica	text
+1193280	Indonesia	text
+1193282	Japan	text
+1193283	Congo; Nigeria	text
+1193284	China	text
+1193287	India	text
+1193288	Indonesia	text
+1193290	USA	text
+1193291	Madagascar	text
+1193292	Argentina	text
+1193293	Angola; Nigeria	text
+1193294	New Guinea	text
+1193295	Japan	text
+1193296	Angola	text
+1193297	China	text
+1193298	Sri Lanka; Indonesia	text
+1193299	China	text
+1193300	USA	text
+1193301	Angola	text
+1193303	China	text
+1193304	USA	text
+1193305	Indonesia	text
+1193306	Indonesia	text
+1193308	China	text
+1193309	China	text
+1193310	China	text
+1193311	Indonesia	text
+1193312	China	text
+1193314	Mexico	text
+1193315	Mexico	text
+1193317	Brazil	text
+1193318	China	text
+1193319	Madagascar	text
+1193320	China	text
+1193321	Equatorial Guinea	text
+1193322	Malaysia	text
+1193324	Jamaica	text
+1193325	Singapore; China; India; Indonesia; Philippines; Taiwan; :	text
+1193329	China	text
+1193330	Jamaica	text
+1193331	USA	text
+1193334	Indonesia	text
+1193338	Spain	text
+1193339	Japan	text
+1193340	Bangladesh	text
+1193341	Brazil	text
+1193342	China	text
+1193343	Brazil	text
+1193344	Kenya	text
+1193345	China	text
+1193346	Italy	text
+1193348	China; Taiwan	text
+1193350	Puerto Rico	text
+1193351	Japan; China; Taiwan; USSR	text
+1193352	Pakistan	text
+1193353	Jamaica	text
+1193354	Brazil	text
+1193355	Paraguay	text
+1193356	Colombia; Venezuela	text
+1193357	Nepal	text
+1193359	China	text
+1193360	Madagascar	text
+1193361	Angola	text
+1193362	Malaysia; Indonesia	text
+1193363	Mexico	text
+1193364	Madagascar	text
+1193365	China	text
+1193366	China	text
+1193367	China	text
+1193368	Germany; Austria; Belgium; Bulgaria; Czechoslovakia; Denmark; Finland; France; Great Britain; Greece; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Sweden; Switzerland; USSR; Yugoslavia; :	text
+1193372	USA; Canada	text
+1193373	China	text
+1193374	China	text
+1193375	Taiwan; China	text
+1193376	Mexico	text
+1193377	Brazil	text
+1193378	USA; Canada	text
+1193381	Seychelles	text
+1193384	Australia	text
+1193385	Suriname	text
+1193386	China	text
+1193387	Cuba	text
+1193388	China	text
+1193389	China	text
+1193390	China	text
+1193391	China	text
+1193392	China	text
+1193399	Argentina	text
+1193400	Nepal	text
+1193401	Costa Rica	text
+1193402	Indonesia	text
+1193403	Indonesia	text
+1193404	Bolivia	text
+1193408	Japan	text
+1193409	Indonesia	text
+1193410	China	text
+1193411	Tanzania; Kenya; Zambia	text
+1193412	Madagascar	text
+1193413	Congo	text
+1193414	Costa Rica	text
+1193415	Christmas Island	text
+1193416	Madagascar	text
+1193418	Congo; Angola	text
+1193419	China	text
+1193420	Cameroon	text
+1193421	China	text
+1193422	Japan; China; Taiwan	text
+1193424	China	text
+1193425	Madagascar	text
+1193426	Haiti	text
+1193427	USA	text
+1193432	China	text
+1193434	Argentina	text
+1193435	China	text
+1193436	Cuba	text
+1193437	Colombia	text
+1193439	USA; Guatemala; Mexico	text
+1193440	Indonesia	text
+1193441	China	text
+1193443	China	text
+1193444	China	text
+1193446	Brazil	text
+1193447	Chile	text
+1193448	Argentina	text
+1193449	Seychelles	text
+1193450	Indonesia	text
+1193451	Mexico	text
+1193452	Cameroon	text
+1193454	China	text
+1193456	Argentina	text
+1193459	China	text
+1193460	China	text
+1193461	China	text
+1193462	China	text
+1193471	Madeira; Great Britain	text
+1193472	Australia	text
+1193473	Australia	text
+1193478	Australia	text
+1193481	Chile	text
+1193482	Chile; Argentina	text
+1193485	China	text
+1193486	China	text
+1193487	China	text
+1193488	Indonesia	text
+1193489	Sri Lanka; India	text
+1193490	China	text
+1193491	China	text
+1193492	China	text
+1193493	India	text
+1193494	China	text
+1193495	Australia	text
+1193496	China	text
+1193498	Europe; Austria; Belgium; Bulgaria; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Switzerland; USSR; Yugoslavia; :	text
+1193500	Brazil	text
+1193501	China	text
+1193502	China	text
+1193503	China	text
+1193504	China	text
+1193505	China	text
+1193506	China	text
+1193507	China	text
+1193508	China	text
+1193509	Singapore; Indonesia	text
+1193511	China	text
+1193532	Mascarene Islands	text
+1193534	East Africa; Tanzania	text
+1193535	Mozambique	text
+1193536	Christmas Island	text
+1193537	China	text
+1193539	China	text
+1193541	Madagascar	text
+1193542	Australia	text
+1193543	Indonesia	text
+1193544	Tasmania; Australia	text
+1193545	Japan; China; Taiwan	text
+1193546	China	text
+1193547	Australia	text
+1193548	China	text
+1193549	Kenya	text
+1193550	Singapore; Indonesia	text
+1193551	Madagascar	text
+1193552	Congo; Nigeria	text
+1193555	Fiji; Melanesia	text
+1193556	New Guinea; Japan; Fiji; Melanesia; Micronesia; Samoa	text
+1193557	Ivory Coast; Angola; Equatorial Guinea	text
+1193558	Angola; Togo	text
+1193559	Kenya; Angola	text
+1193560	Indonesia	text
+1193561	New Guinea	text
+1193562	Australia	text
+1193563	China	text
+1193564	China	text
+1193565	Congo; Angola; Benin	text
+1193566	New Zealand; Australia	text
+1193584	Mexico	text
+1193585	Bolivia	text
+1193586	Mexico	text
+1193587	Costa Rica	text
+1193588	Brazil	text
+1193589	Bolivia	text
+1193590	Venezuela	text
+1193591	Mexico; Brazil; Venezuela	text
+1193592	Panama	text
+1193593	Mexico	text
+1193594	Colombia	text
+1193595	Venezuela	text
+1193596	Brazil	text
+1193597	Venezuela	text
+1193598	USA; Canada	text
+1193599	Venezuela	text
+1193600	Venezuela	text
+1193601	USA	text
+1193603	Venezuela	text
+1193607	South Africa	text
+1193608	Angola	text
+1193609	Angola	text
+1193610	Cameroon; Nigeria	text
+1193612	Angola	text
+1193613	Congo; Angola; Ivory Coast; Uganda	text
+1193614	Angola	text
+1193616	Angola	text
+1193617	Guinea; Angola	text
+1193618	East Africa; Angola	text
+1193619	Congo; Angola; Guinea	text
+1193621	Angola	text
+1193625	Congo	text
+1193626	Angola	text
+1193628	Kenya; Angola; Tanzania	text
+1193629	Angola	text
+1193643	China	text
+1193644	Japan; China; Taiwan; USSR	text
+1193645	China	text
+1193646	China	text
+1193647	China	text
+1193648	China	text
+1193649	China	text
+1193650	China	text
+1193651	China	text
+1193652	China	text
+1193653	China	text
+1193654	China	text
+1193677	China	text
+1193678	Europe; Algeria; Austria; Belgium; Bulgaria; Cyprus; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Greece; Hungary; Ireland; Israel; Iran; Italy; Luxembourg; Morocco; Netherlands; Norway; Poland; Portugal; Spain; Switzerland; Tunisia; Turkey; USSR; Yugoslavia; Canary Islands; Madeira; Canada; USA; Mexico; Argentina; Brazil; Angola; Zambia; China; Japan; Mongolia; :	text
+1193685	Philippines	text
+1193686	Mexico; Brazil; Venezuela	text
+1193687	China	text
+1193688	China	text
+1193689	Singapore	text
+1193690	China	text
+1193707	Indonesia	text
+1193708	China	text
+1193709	China	text
+1193710	China	text
+1193711	China	text
+1193712	China	text
+1193713	China	text
+1193714	China	text
+1193715	China	text
+1193717	Indonesia	text
+1193718	Australia; Indonesia; New Guinea	text
+1193719	China	text
+1193720	China	text
+1193721	Sri Lanka	text
+1193722	China	text
+1193723	China	text
+1193724	China	text
+1193725	China	text
+1193726	China	text
+1193727	China	text
+1193728	China	text
+1193729	China	text
+1193730	China	text
+1193731	China	text
+1193732	China	text
+1193733	Philippines	text
+1193734	China	text
+1193735	Taiwan; China	text
+1193736	China	text
+1193737	China	text
+1193738	China	text
+1193739	China	text
+1193740	Taiwan; China	text
+1193741	China	text
+1193742	China	text
+1193743	China	text
+1193744	China	text
+1193745	China	text
+1193746	Europe; Austria; Belgium; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Switzerland; USSR; Yugoslavia; Mongolia; :	text
+1193754	Philippines; Malaysia	text
+1193755	Germany; Austria; Belgium; Bulgaria; Czechoslovakia; Denmark; Finland; France; Hungary; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Switzerland; USSR; Yugoslavia; :	text
+1193756	China	text
+1193757	China	text
+1193758	China	text
+1193759	Taiwan; China; Japan	text
+1193760	China	text
+1193761	China	text
+1193762	Nepal; Bhutan	text
+1193763	Japan; USSR	text
+1193764	Japan; USSR	text
+1193765	China	text
+1193766	China	text
+1193767	India; Bhutan; Nepal	text
+1193768	China	text
+1193769	China	text
+1193770	China	text
+1193771	Indonesia	text
+1193772	China	text
+1193773	China	text
+1193774	Japan	text
+1193775	China	text
+1193776	China	text
+1193777	Indonesia	text
+1193778	Bhutan	text
+1193779	Switzerland; Austria; Belgium; Czechoslovakia; Finland; France; Germany; Great Britain; Hungary; Italy; Luxembourg; Netherlands; Poland; Romania; Spain; USSR; Yugoslavia; Mongolia; :	text
+1193782	China	text
+1193783	Taiwan; China	text
+1193784	Malaysia	text
+1193785	China	text
+1193786	China	text
+1193787	Sri Lanka; Indonesia	text
+1193789	China	text
+1193790	China	text
+1193791	China	text
+1193792	China	text
+1193875	Philippines	text
+1193876	Mongolia	text
+1193877	Japan; China; Taiwan; USSR	text
+1193878	China	text
+1193879	China	text
+1193880	Malaysia	text
+1193881	Madagascar	text
+1193882	India	text
+1193883	Germany; Austria; Denmark; Finland; France; Great Britain; Hungary; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Switzerland; USSR; Mongolia; :	text
+1193887	Uganda; Angola; Equatorial Guinea	text
+1193890	Zimbabwe	text
+1193893	France; Algeria; Italy; Spain	text
+1193895	Angola	text
+1193896	Angola	text
+1193897	Angola; Congo	text
+1193898	Nepal; Bhutan	text
+1193899	Congo	text
+1193900	Brazil; Venezuela	text
+1193901	Venezuela	text
+1193902	Angola	text
+1193903	Brazil; Venezuela; Mexico	text
+1193904	Singapore; India	text
+1193907	Chile	text
+1193908	Brazil	text
+1193910	Venezuela	text
+1193911	North America; Canada; USA; Mexico	text
+1193916	Brazil	text
+1193918	Peru	text
+1193920	Brazil	text
+1193921	Cuba; Puerto Rico	text
+1193922	Brazil	text
+1193923	Brazil	text
+1193924	Peru; Bolivia	text
+1193925	Peru; Brazil	text
+1193926	Brazil	text
+1193927	Peru	text
+1193928	Ecuador	text
+1193929	Ecuador; Brazil	text
+1193930	Peru	text
+1193931	Brazil; Venezuela	text
+1193932	Brazil	text
+1193933	Brazil	text
+1193934	Brazil	text
+1193940	South Africa	text
+1193942	Madagascar	text
+1193943	Madagascar	text
+1193945	Madagascar	text
+1193946	China	text
+1193947	China	text
+1193948	Madagascar	text
+1193949	Madagascar	text
+1193950	Madagascar	text
+1193951	Madagascar	text
+1193952	Cameroon; Congo; Kenya; Tanzania	text
+1193953	China	text
+1193954	Madagascar	text
+1193955	Madagascar	text
+1193956	Philippines	text
+1193957	China	text
+1193958	Angola	text
+1193959	China	text
+1193960	China	text
+1193961	São Tomé Island	text
+1193962	Uganda	text
+1193963	Madagascar	text
+1193964	Madagascar	text
+1193965	China	text
+1193966	Madagascar	text
+1193967	Madagascar	text
+1193968	Congo; Angola; Equatorial Guinea	text
+1193969	Madagascar	text
+1193970	Taiwan; China	text
+1193971	China	text
+1193972	Congo	text
+1193975	Bhutan; China; India; Indonesia; Nepal	text
+1193976	Madagascar	text
+1193978	East Africa; Tanzania	text
+1193979	Japan; USSR	text
+1193981	Indonesia	text
+1193982	Madagascar	text
+1193983	Madagascar	text
+1193984	Madagascar	text
+1193985	Madagascar	text
+1193986	Madagascar	text
+1193987	Madagascar	text
+1193988	Bangladesh	text
+1193989	Madagascar	text
+1193990	Indonesia	text
+1193991	East Africa	text
+1193992	China	text
+1193993	Madagascar	text
+1193994	China	text
+1193995	China	text
+1193996	Madagascar	text
+1193997	Madagascar	text
+1193998	Kenya	text
+1193999	Madagascar	text
+1194000	China	text
+1194001	Congo; Uganda	text
+1194002	India; Bhutan; Indonesia; Malaysia	text
+1194003	China	text
+1194004	Madagascar	text
+1194005	China	text
+1194007	Madagascar	text
+1194008	Madagascar	text
+1194009	China	text
+1194010	China	text
+1194011	China	text
+1194012	Singapore	text
+1194013	Philippines	text
+1194014	Madagascar	text
+1194015	Madagascar	text
+1194016	China	text
+1194047	Madagascar	text
+1194048	Madagascar	text
+1194049	Madagascar	text
+1194050	Congo	text
+1194051	Angola	text
+1194052	Angola	text
+1194054	Congo; Angola	text
+1194055	Congo; Angola	text
+1194056	Madagascar	text
+1194057	Kenya	text
+1194058	Congo	text
+1194059	Congo	text
+1194060	Congo; Guinea	text
+1194061	Madagascar	text
+1194062	Madagascar	text
+1194063	East Africa; South Africa	text
+1194064	Nigeria	text
+1194065	Sierra Leone; Congo; Nigeria	text
+1194066	Congo	text
+1194067	Uganda; Congo	text
+1194068	Uganda	text
+1194070	Madagascar	text
+1194072	China	text
+1194073	China	text
+1194074	China	text
+1194096	New Guinea	text
+1194097	China	text
+1194098	Philippines	text
+1194099	Sri Lanka; Bismarck Archipelago; Indonesia; Malaysia; Singapore; Thailand	text
+1194101	China	text
+1194102	China	text
+1194103	Bhutan; China; India; Japan; Nepal; Singapore; Taiwan; Vietnam	text
+1194104	New Guinea	text
+1194105	Indonesia	text
+1194106	Australia	text
+1194107	New Guinea	text
+1194108	Australia; New Guinea	text
+1194109	New Guinea	text
+1194110	China	text
+1194111	New Guinea	text
+1194112	China	text
+1194113	China	text
+1194115	Australia	text
+1194116	China	text
+1194134	Philippines	text
+1194135	Philippines	text
+1194136	China	text
+1194139	Tanzania	text
+1194140	Tanzania	text
+1194141	Madagascar	text
+1194145	Indonesia	text
+1194150	VEN	TDWG Level 3 code
+1194150	Venezuela	text
+1194151	BOL	TDWG Level 3 code
+1194151	Bolivia	text
+1194152	36    	TDWG Level 2 code
+1194152	China	text
+1194153	VEN	TDWG Level 3 code
+1194153	Venezuela	text
+1194154	CUB	TDWG Level 3 code
+1194154	Cuba	text
+1194155	36    	TDWG Level 2 code
+1194155	China	text
+1194156	36    	TDWG Level 2 code
+1194156	China	text
+1194157	84    	TDWG Level 2 code
+1194157	Brazil	text
+1194159	COS	TDWG Level 3 code
+1194159	Costa Rica	text
+1194160	CLM	TDWG Level 3 code
+1194160	Colombia	text
+1194161	GUA	TDWG Level 3 code
+1194161	PAN	TDWG Level 3 code
+1194162	VEN	TDWG Level 3 code
+1194162	Venezuela	text
+1194163	36    	TDWG Level 2 code
+1194163	China	text
+1194164	Brazil	text
+1194164	BZC-GO	TDWG Level 4 code
+1194165	36    	TDWG Level 2 code
+1194165	China	text
+1194166	79    	TDWG Level 2 code
+1194166	Mexico	text
+1194167	VEN	TDWG Level 3 code
+1194167	Venezuela	text
+1194168	36    	TDWG Level 2 code
+1194168	China	text
+1194179	China	text
+1194180	China	text
+1194181	China	text
+1194182	Taiwan; China	text
+1194183	China	text
+1194184	China	text
+1194185	China	text
+1194186	Japan; USSR	text
+1194187	China	text
+1194191	USA; Canada	text
+1194194	Colombia	text
+1194198	Chile; Argentina	text
+1194207	PUE	TDWG Level 3 code
+1194208	MXT-CI	TDWG Level 4 code
+1194212	MXG-VC	TDWG Level 4 code
+1194223	Tanzania	text
+1194224	Micronesia	text
+1194225	Chile	text
+1194226	China	text
+1194227	Venezuela	text
+1194228	Indonesia	text
+1194229	Singapore; Malaysia	text
+1194230	Norfolk Island	text
+1194231	Seychelles; Aldabra Islands	text
+1194232	Solomon Islands	text
+1194234	Venezuela	text
+1194235	Mexico	text
+1194236	Argentina; Brazil; Colombia	text
+1194237	Australia	text
+1194238	New Zealand; Australia	text
+1194239	Bismarck Archipelago	text
+1194240	Hong Kong; South Africa; China; Christmas Island; Indonesia; Malaysia; Sri Lanka; :	text
+1194241	New Guinea	text
+1194242	Australia	text
+1194244	Lord Howe Island	text
+1194245	China	text
+1194246	Melanesia	text
+1194247	Australia	text
+1194254	Dominican Republic	text
+1194255	Bolivia	text
+1194256	Jamaica	text
+1194257	USA; Canada	text
+1194258	Germany; Austria; Belgium; France; Great Britain; Greece; Hungary; Italy; Luxembourg; Norway; Poland; Portugal; Romania; Spain; Switzerland; :	text
+1194259	Europe; Germany; Austria; Belgium; Bulgaria; Czechoslovakia; Denmark; Finland; France; Great Britain; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Sweden; Switzerland; USSR; Yugoslavia; Azores; Canada; USA; :	text
+1194268	China	text
+1194269	Colombia	text
+1194272	ARI	TDWG Level 3 code
+1194272	USA	text
+1194273	CAL	TDWG Level 3 code
+1194273	USA	text
+1194274	MXC-ME	TDWG Level 4 code
+1194275	MXE-HI	TDWG Level 4 code
+1194276	MXC-PU	TDWG Level 4 code
+1194277	GUA	TDWG Level 3 code
+1194278	MXC-ME	TDWG Level 4 code
+1194279	MXC-MO	TDWG Level 4 code
+1194280	MXE-NL	TDWG Level 4 code
+1194283	Santo Domingo; Jamaica; Puerto Rico; Trinidad	text
+1194286	New Guinea	text
+1194287	USSR; Italy; Azores; USA; Canada	text
+1194290	Philippines	text
+1194291	Madagascar	text
+1194292	Brazil	text
+1194293	Trinidad	text
+1194294	Mexico	text
+1194295	Colombia	text
+1194296	Trinidad	text
+1194297	Trinidad	text
+1194298	Galapagos	text
+1194299	Brazil	text
+1194300	Costa Rica	text
+1194301	Admiralty Islands	text
+1194302	Philippines	text
+1194303	Mexico	text
+1194304	Lord Howe Island	text
+1194305	Malaysia	text
+1194306	Indonesia; Christmas Island	text
+1194307	Indonesia	text
+1194308	USA	text
+1194309	Madagascar	text
+1194310	Sri Lanka	text
+1194311	Mauritius	text
+1194312	Madagascar	text
+1194313	China	text
+1194314	Indonesia	text
+1194315	China	text
+1194316	New Guinea	text
+1194317	Fiji	text
+1194318	Hong Kong; China	text
+1194319	New Zealand; Australia	text
+1194321	Brazil	text
+1194322	Reunion	text
+1194323	Samoa	text
+1194324	Taiwan; China	text
+1194325	Venezuela	text
+1194326	Vietnam	text
+1194327	Argentina	text
+1194330	China	text
+1194331	Solomon Islands	text
+1194338	New Caledonia	text
+1194339	Australia	text
+1194340	New Guinea	text
+1194341	New Zealand	text
+1194342	Australia	text
+1194343	Australia	text
+1194345	Chile	text
+1194346	New Caledonia	text
+1194347	New Guinea	text
+1194348	Australia	text
+1194349	New Zealand; Australia	text
+1194352	New Guinea	text
+1194353	Australia	text
+1194354	Solomon Islands	text
+1194356	Australia	text
+1194357	Australia	text
+1194359	Australia	text
+1194360	Australia	text
+1194361	New Zealand	text
+1194362	New Guinea	text
+1194363	Australia	text
+1194364	New Guinea	text
+1194365	New Guinea	text
+1194366	New Guinea	text
+1194367	Bismarck Archipelago	text
+1194368	Chile; Falkland Islands	text
+1194370	New Caledonia	text
+1194375	Kenya	text
+1194380	Congo; Angola; Ivory Coast	text
+1194381	Congo; Angola; Ivory Coast; Madagascar	text
+1194383	Congo	text
+1194384	Congo	text
+1194385	Nigeria	text
+1194386	Sri Lanka; Madagascar	text
+1194387	Cuba	text
+1194388	Micronesia	text
+1194389	Sri Lanka; Madagascar; Bangladesh; Indonesia; Australia	text
+1194390	USA; Jamaica; Mexico; Brazil	text
+1194391	Mexico; Brazil	text
+1194392	Australia	text
+1194392	QLD-QU	TDWG Level 4 code
+1194393	Angola	text
+1194394	Congo; Angola	text
+1194396	Angola	text
+1194397	French Guiana	text
+1194398	USA; Mexico	text
+1194399	Brazil	text
+1194401	Indonesia	text
+1194402	Angola; Ivory Coast	text
+1194403	Venezuela; Brazil; Colombia	text
+1194404	Brazil; Puerto Rico; Paraguay	text
+1194406	Brazil; Colombia	text
+1194407	French Guiana	text
+1194408	Mexico	text
+1194410	Australia	text
+1194410	QLD-QU	TDWG Level 4 code
+1194411	Brazil	text
+1194412	Brazil	text
+1194413	Reunion	text
+1194414	USA; Mexico; Brazil	text
+1194415	Angola; Madagascar	text
+1194416	Congo; Angola; Benin; Ivory Coast; Togo	text
+1194419	Brazil	text
+1194420	Brazil	text
+1194421	Mexico; USA; Jamaica; Brazil	text
+1194422	Brazil	text
+1194423	Mexico	text
+1194424	Brazil	text
+1194425	Brazil	text
+1194426	Angola; Ivory Coast	text
+1194427	Madagascar	text
+1194429	Brazil	text
+1194430	Brazil	text
+1194431	Brazil; Colombia	text
+1194432	Trinidad	text
+1194433	Ghana; Congo; Jamaica; Angola	text
+1194435	Brazil	text
+1194436	USA; Mexico; Bermuda Islands; Cuba	text
+1194437	Congo	text
+1194438	Panama; USA; Cuba	text
+1194439	Angola	text
+1194441	Angola	text
+1194444	Singapore; China; India; Indonesia; Taiwan	text
+1194446	Indonesia	text
+1194447	Micronesia; Galapagos	text
+1194448	Brazil	text
+1194449	East Africa	text
+1194451	Venezuela	text
+1194456	Brazil	text
+1194457	Brazil	text
+1194459	Panama	text
+1194460	Costa Rica	text
+1194461	Peru	text
+1194462	USA; Venezuela	text
+1194463	Peru	text
+1194464	Mexico	text
+1194465	Mexico	text
+1194466	Panama	text
+1194467	Mexico	text
+1194468	Mexico	text
+1194469	Venezuela	text
+1194471	Cuba; Mexico	text
+1194472	Mexico	text
+1194473	Mexico	text
+1194505	ECU	TDWG Level 3 code
+1194507	BZN-AM	TDWG Level 4 code
+1194511	USA; Canada	text
+1194513	Costa Rica; Mexico; Brazil; Guatemala; Trinidad	text
+1194518	Puerto Rico	text
+1194522	Bolivia	text
+1194523	Brazil	text
+1194524	Bolivia	text
+1194525	Peru	text
+1194526	Peru	text
+1194527	Colombia	text
+1194528	Peru	text
+1194529	Colombia	text
+1194532	Venezuela	text
+1194534	Jamaica	text
+1194535	USA	text
+1194536	Haiti	text
+1194537	USA	text
+1194538	Mexico	text
+1194539	Jamaica; Mexico	text
+1194540	Cuba	text
+1194542	Peru	text
+1194543	Brazil	text
+1194545	Peru	text
+1194546	Costa Rica	text
+1194547	Mexico	text
+1194548	Mexico	text
+1194550	Costa Rica	text
+1194551	Mexico	text
+1194552	USA; Mexico	text
+1194553	Costa Rica	text
+1194555	Colombia	text
+1194556	Panama	text
+1194559	Chile	text
+1194563	Colombia	text
+1194564	Venezuela	text
+1194566	China	text
+1194567	China	text
+1194569	Mexico	text
+1194569	MXC-DF	TDWG Level 4 code
+1194570	Mexico	text
+1194571	Brazil	text
+1194572	Mexico	text
+1194573	Kenya	text
+1194574	Tanzania; Congo; USA; Cuba; Mexico; Trinidad; Brazil; Peru; Angola; Uganda; Galapagos	text
+1194575	Mexico	text
+1194575	MXC-DF	TDWG Level 4 code
+1194576	Canada	text
+1194577	Colombia	text
+1194578	Mexico; USA	text
+1194579	Mexico	text
+1194581	Chile	text
+1194582	USA; Mexico	text
+1194583	USA; Canada	text
+1194584	Madagascar	text
+1194586	Congo	text
+1194587	Mozambique	text
+1194588	Cameroon; Congo	text
+1194590	Trinidad	text
+1194591	Canada; USA	text
+1194592	Mexico	text
+1194592	MXE-NL	TDWG Level 4 code
+1194595	Brazil	text
+1194596	Brazil	text
+1194597	France; Algeria; Austria; Cyprus; Czechoslovakia; Egypt; Greece; Hungary; Israel; Italy; Luxembourg; Morocco; Poland; Portugal; Romania; Spain; Switzerland; Tunisia; Turkey; Yugoslavia	text
+1194598	Guatemala	text
+1194599	Brazil	text
+1194600	Mexico	text
+1194601	Trinidad	text
+1194602	Lesser Antilles	text
+1194604	Mexico	text
+1194605	Mexico	text
+1194605	MXE-NL	TDWG Level 4 code
+1194606	Brazil	text
+1194608	Brazil	text
+1194609	Malaysia	text
+1194610	Mexico	text
+1194610	MXE-HI	TDWG Level 4 code
+1194611	Saudi Arabia	text
+1194612	Uganda	text
+1194613	Mexico	text
+1194614	Cameroon	text
+1194615	Brazil	text
+1194616	Puerto Rico	text
+1194619	Brazil	text
+1194620	Chile	text
+1194621	Galapagos; Ecuador	text
+1194622	Mexico; USA	text
+1194623	Mexico	text
+1194625	Mexico	text
+1194626	Chile	text
+1194627	ARI	TDWG Level 3 code
+1194628	Angola	text
+1194629	Mexico; USA	text
+1194631	Brazil	text
+1194633	USA; Canada	text
+1194636	Congo; Angola; Nigeria	text
+1194637	USA; Canada	text
+1194638	Mexico; Panama; Trinidad; Brazil	text
+1194639	Panama	text
+1194640	Mexico	text
+1194640	MXC-MO	TDWG Level 4 code
+1194641	Mexico	text
+1194642	Mexico	text
+1194643	Mexico	text
+1194643	MXG-VC	TDWG Level 4 code
+1194644	Mexico	text
+1194645	USA; Central America; Mexico; Ecuador	text
+1194646	Mexico	text
+1194648	Greece; Cyprus; Italy; Spain; Tunisia; Turkey	text
+1194649	Mexico	text
+1194650	Mexico	text
+1194651	Mexico	text
+1194653	Dominica	text
+1194654	Mexico	text
+1194656	Mexico	text
+1194656	MXC-DF	TDWG Level 4 code
+1194657	Mexico	text
+1194659	Pakistan; India	text
+1194660	Mexico	text
+1194663	Congo; Nigeria	text
+1194664	Ivory Coast; Angola; Congo	text
+1194665	Chile; USA; Mexico	text
+1194666	Mexico	text
+1194668	Congo	text
+1194669	Trinidad	text
+1194670	Mexico	text
+1194671	Colombia	text
+1194672	Mozambique; Nigeria	text
+1194673	Great Britain; Germany; Austria; Belgium; France; Italy; Morocco; Poland; Portugal; Romania; Spain; Switzerland; Azores; USA	text
+1194675	Italy	text
+1194676	Guatemala	text
+1194677	Ecuador	text
+1194678	Mexico	text
+1194678	MXT-CI	TDWG Level 4 code
+1194679	Mexico	text
+1194679	MXE-HI	TDWG Level 4 code
+1194680	Mexico	text
+1194681	China	text
+1194682	USA	text
+1194683	Mexico	text
+1194683	MXG-VC	TDWG Level 4 code
+1194684	Congo	text
+1194685	USA; Mexico	text
+1194686	Kenya	text
+1194687	Mongolia	text
+1194688	Congo	text
+1194690	USA; Mexico	text
+1194692	Angola	text
+1194693	Mexico	text
+1194694	GUA	TDWG Level 3 code
+1194694	Guatemala	text
+1194695	Colombia	text
+1194696	Pakistan	text
+1194698	Costa Rica	text
+1194699	Madagascar	text
+1194700	Peru	text
+1194701	Mexico	text
+1194702	USA	text
+1194703	Venezuela	text
+1194704	Brazil	text
+1194705	Mexico	text
+1194706	Brazil	text
+1194707	Mexico	text
+1194708	Mexico	text
+1194709	Brazil	text
+1194710	Canary Islands	text
+1194712	Spain	text
+1194713	Mexico	text
+1194714	Mexico	text
+1194715	China	text
+1194716	Angola	text
+1194717	Mexico	text
+1194717	MXS-OA	TDWG Level 4 code
+1194718	Mongolia	text
+1194719	Mexico	text
+1194720	Congo; Angola; Uganda	text
+1194721	Spain	text
+1194724	Mexico	text
+1194725	Costa Rica; Honduras; Panama; Trinidad	text
+1194727	Mexico	text
+1194727	MXS-MI	TDWG Level 4 code
+1194729	USA; Central America; Mexico	text
+1194730	China	text
+1194731	USA; Canada; Mexico; Panama; Hawaii; :	text
+1194732	USA	text
+1194733	Mexico	text
+1194734	Costa Rica	text
+1194735	Angola	text
+1194736	USA; France; Switzerland; Canada; Mexico; :	text
+1194739	USA; Canada	text
+1194740	Brazil	text
+1194741	Mexico	text
+1194743	Brazil	text
+1194744	Guatemala	text
+1194745	Brazil	text
+1194746	Europe; Algeria; Armenia; Egypt; Israel; Morocco; Tunisia; Turkey; USSR; Canary Islands; Madeira; Canada; USA; Mexico; Argentina; Chile; China; India; Japan; Malaysia; Mongolia; Nepal; Taiwan; Australia; Hawaii; Micronesia; :	text
+1194765	USA; Mexico	text
+1194766	Mexico; USA	text
+1194767	Mexico	text
+1194769	Trinidad; Peru	text
+1194770	Mexico	text
+1194770	MXE-DU	TDWG Level 4 code
+1194771	China	text
+1194772	USA; Mexico	text
+1194773	Mexico	text
+1194773	MXC-MO	TDWG Level 4 code
+1194774	Germany; Algeria; Austria; Belgium; Cyprus; Czechoslovakia; Finland; France; Great Britain; Greece; Hungary; Israel; Iran; Italy; Luxembourg; Morocco; Netherlands; Norway; Poland; Romania; Saudi Arabia; Spain; Switzerland; Tunisia; Turkey; USSR; Yugoslavia; Canary Islands; USA; Japan; Mongolia; Australia; :	text
+1194778	Mexico	text
+1194779	Mexico	text
+1194780	Kenya	text
+1194781	Mexico	text
+1194782	USA; Antilles; Guatemala; Honduras; Mexico; Nicaragua; :	text
+1194783	Colombia	text
+1194784	Mexico	text
+1194785	USA; Cuba; Puerto Rico; Mexico; Nicaragua; Neotropics; Colombia	text
+1194786	Russia; Switzerland	text
+1194787	USA	text
+1194790	China	text
+1194791	GUA	TDWG Level 3 code
+1194791	Guatemala	text
+1194792	Cuba; Mexico	text
+1194794	Switzerland	text
+1194796	Mexico	text
+1194797	GUA	TDWG Level 3 code
+1194797	Guatemala	text
+1194798	Angola	text
+1194799	Jamaica	text
+1194800	Mexico	text
+1194800	MXS-MI	TDWG Level 4 code
+1194801	India	text
+1194802	Mexico; USA	text
+1194803	Russia; Germany; Hungary; Italy; Romania; Switzerland; USSR; Mongolia	text
+1194804	Mexico	text
+1194805	Mexico	text
+1194806	Mozambique; Canary Islands; Cape Verde Islands; Madeira; USA; Cuba; Haiti; Jamaica; Mexico; Trinidad; Colombia; Angola; Madagascar; Mascarene Islands; India; Australia; Pacific	text
+1194809	Mexico	text
+1194810	Tanzania	text
+1194811	Brazil	text
+1194812	Canada; USA; Mexico	text
+1194813	Mexico	text
+1194813	MXS-OA	TDWG Level 4 code
+1194814	Ecuador	text
+1194815	Trinidad	text
+1194816	Mexico	text
+1194817	Venezuela	text
+1194819	Mexico	text
+1194820	Mexico	text
+1194820	MXT-CI	TDWG Level 4 code
+1194821	USA	text
+1194823	Brazil	text
+1194826	Mexico	text
+1194826	MXG-VC	TDWG Level 4 code
+1194827	USA	text
+1194831	Mexico	text
+1194832	GUA	TDWG Level 3 code
+1194832	Mexico	text
+1194833	Mexico	text
+1194834	Mexico	text
+1194871	MXS-GR	TDWG Level 4 code
+1194902	Brazil; Trinidad	text
+1194904	Peru	text
+1194905	Brazil	text
+1194908	China	text
+1194910	Angola	text
+1194911	Angola	text
+1194912	Congo	text
+1194913	China	text
+1194914	Ivory Coast; Angola; Congo; Nigeria; Senegal	text
+1194916	China	text
+1194917	Malaysia	text
+1194918	China	text
+1194919	China	text
+1194920	Japan; Germany; Hungary; Israel; Italy; Switzerland; USSR; Yugoslavia; Bermuda Islands; USA; Cuba; Jamaica; Mexico; Brazil; Chagos Archipelago; China; Korea; Taiwan; Pacific; Micronesia; Hawaii; :	text
+1194924	Indonesia	text
+1194925	Angola	text
+1194926	China	text
+1194927	Angola	text
+1194928	Mozambique; South Africa	text
+1194929	Congo	text
+1194930	China	text
+1194931	Angola	text
+1194932	USSR; Hungary; Italy; Romania; Switzerland; Yugoslavia; Mongolia; :	text
+1194957	Australia	text
+1194958	New Guinea	text
+1194959	Sri Lanka	text
+1194961	Australia	text
+1194962	Australia	text
+1194964	Malaysia	text
+1194965	India	text
+1194968	New Zealand; Ireland; Great Britain; Australia	text
+1194969	Malaysia; Australia; Reunion; Mascarene Islands; Christmas Island; Indonesia	text
+1194970	Malaysia	text
+1194971	Philippines; Malaysia	text
+1194972	India	text
+1194973	Italy; Guinea Bissau	text
+1194975	Madagascar	text
+1194976	Indonesia	text
+1194977	China	text
+1194978	Micronesia; Japan	text
+1194979	Europe; Algeria; Cyprus; Israel; Iran; Tunisia; USSR; Yugoslavia; Azores; Canary Islands; Gough Island; Madeira; Saint Helena; USA; Mexico; Chile; Venezuela; Congo; Kenya; Nigeria; South Africa; Tanzania; Zimbabwe; Mascarene Islands; India; Indonesia; Japan; Mongolia; Nepal; Australia; Norfolk Island; New Zealand; Pacific; Micronesia	text
+1194979	IRN	TDWG Level 3 code
+1194984	Malaysia	text
+1194985	Tasmania; Australia	text
+1194986	USA; Canada; Guatemala; Mexico; Australia; New Zealand; Subantarctic Islands Of New Zealand	text
+1194989	Australia	text
+1194990	Mexico	text
+1194991	Mexico	text
+1194992	Hong Kong; India; China; Indonesia; Malaysia; Vietnam; Australia; Pacific; :	text
+1194993	Malaysia	text
+1194994	Indonesia	text
+1194995	Congo; Indonesia	text
+1194996	Colombia; Venezuela	text
+1194997	Hong Kong; China; Indonesia	text
+1194998	Samoa	text
+1194999	New Zealand	text
+1195000	Malaysia	text
+1195001	New Guinea	text
+1195002	China	text
+1195003	Christmas Island; Fiji; Hawaii; Micronesia; Polynesia	text
+1195004	Vietnam	text
+1195005	India	text
+1195006	New Zealand	text
+1195007	New Guinea	text
+1195008	Australia	text
+1195009	Indonesia	text
+1195010	Australia	text
+1195011	Mexico	text
+1195012	China	text
+1195013	New Guinea	text
+1195014	Indonesia	text
+1195015	Australia	text
+1195016	Micronesia	text
+1195017	Comores; Seychelles	text
+1195018	Japan	text
+1195019	Mexico	text
+1195022	Hawaii; Pacific Islands; Easter Island; Melanesia; Micronesia; New Caledonia; Polynesia	text
+1195023	Philippines	text
+1195024	Malaysia; Melanesia	text
+1195025	Malaysia	text
+1195026	New Zealand	text
+1195027	Samoa	text
+1195028	Tanzania	text
+1195029	Australia	text
+1195030	Hawaii; Guam; Samoa	text
+1195031	Indonesia	text
+1195032	Nepal	text
+1195033	Hong Kong; Chagos Archipelago; China; Indonesia	text
+1195034	Indonesia; Malaysia	text
+1195035	Samoa	text
+1195036	Malaysia	text
+1195037	Norfolk Island	text
+1195038	Norfolk Island; Philip Island	text
+1195039	Philippines	text
+1195040	China	text
+1195041	Malaysia	text
+1195042	Tonga	text
+1195043	Tanzania	text
+1195044	Equatorial Guinea	text
+1195045	Congo	text
+1195046	Angola	text
+1195047	Madagascar; Aldabra Islands	text
+1195048	Benin	text
+1195049	Oman; Great Britain; Italy; Saudi Arabia; USA; Antilles; Cuba; Jamaica; Mexico; Nicaragua; Panama; Puerto Rico; Guianas; Venezuela; Angola; Congo; Ivory Coast; Madagascar; Togo; Aldabra Islands; Mascarene Islands; Japan; China; Indonesia; Malaysia; Australia; Pacific; Galapagos; Hawaii; Micronesia; :	text
+1195051	Micronesia	text
+1195052	Japan; Austria; Cyprus; Czechoslovakia; France; Germany; Greece; Hungary; Ireland; Israel; Italy; Luxembourg; Malta; Morocco; Romania; Spain; Switzerland; Yugoslavia; USA; Jamaica; Mexico; Chile; Colombia; Angola; Cameroon; Congo; Ethiopia; Madagascar; Mozambique; Tanzania; China; Hong Kong; Malaysia; Taiwan; Galapagos; Hawaii; :	text
+1195056	Mexico	text
+1195057	Madagascar	text
+1195058	France	text
+1195059	India; Fiji; Bismarck Archipelago; Melanesia	text
+1195060	Tasmania	text
+1195061	New Guinea	text
+1195062	Mexico	text
+1195063	Japan; Hawaii; Melanesia; Micronesia	text
+1195064	Hong Kong; Puerto Rico; China; Christmas Island; Indonesia; Taiwan; :	text
+1195065	Mexico	text
+1195066	Micronesia; Indonesia	text
+1195067	Australia	text
+1195068	Madagascar	text
+1195069	Congo; Madagascar; Nigeria	text
+1195070	Madagascar	text
+1195071	Hawaii; Melanesia; Polynesia	text
+1195072	Australia	text
+1195073	Ireland; Belgium; France; Great Britain; USA; :	text
+1195076	Cuba	text
+1195077	Sri Lanka	text
+1195078	Australia	text
+1195079	Madagascar; Mascarene Islands; Bangladesh; Cambodia; India; Malaysia	text
+1195080	Indonesia; Malaysia	text
+1195081	Malaysia	text
+1195082	China	text
+1195083	Jamaica	text
+1195084	Australia	text
+1195085	USA; Switzerland; Azores; Brazil; Angola; Congo; Tanzania; China; India; Japan; Micronesia; :	text
+1195089	India	text
+1195090	Brazil; Puerto Rico	text
+1195091	West Africa; Australia; Great Britain; Switzerland; Azores; USA; Mexico; Panama; Argentina; Brazil; Colombia; Congo; Madagascar; Tanzania; China; Hong Kong; Norfolk Island; Philip Island; Galapagos; Hawaii; :	text
+1195092	Indonesia	text
+1195093	Australia; Madeira	text
+1195094	Australia	text
+1195095	USA; Indonesia; Malaysia; Singapore; Micronesia	text
+1195096	Micronesia	text
+1195097	China	text
+1195098	Angola	text
+1195099	Micronesia	text
+1195100	Australia	text
+1195101	China	text
+1195102	Bermuda Islands; Hawaii; Melanesia; Micronesia; Polynesia	text
+1195103	Philippines; Malaysia	text
+1195104	Canary Islands; Morocco; Italy; Spain; Ascension Island; Azores; Bermuda Islands; Cape Verde Islands; Madeira; Saint Helena; USA; Peru	text
+1195106	Argentina	text
+1195107	Indonesia	text
+1195108	Malaysia	text
+1195109	Guadeloupe; USA; Antilles; Mexico; Puerto Rico; Guianas	text
+1195110	Malaysia	text
+1195111	Mexico	text
+1195112	Micronesia	text
+1195113	Indonesia	text
+1195114	Ivory Coast; Germany; Spain; USA; Antilles; Costa Rica; Cuba; Guatemala; Mexico; Trinidad; Suriname; Venezuela; Angola; Congo; Equatorial Guinea; Nigeria; Senegal; Indonesia; Philippines; :	text
+1195117	Bangladesh	text
+1195118	Mexico	text
+1195119	Fiji; Melanesia	text
+1195120	Australia	text
+1195121	Morocco; Chile; Algeria; Cyprus; France; Great Britain; Greece; Israel; Italy; Malta; Portugal; Spain; Switzerland; Yugoslavia; Canary Islands; USA; Mexico; Argentina; Guatemala; Australia; :	text
+1195123	Malaysia	text
+1195124	Malaysia	text
+1195127	Mexico	text
+1195128	Angola; Mascarene Islands; Antilles; Cuba; Jamaica; Mexico; Nicaragua; Venezuela; Madagascar; Nigeria; Senegal; Christmas Island	text
+1195129	Micronesia	text
+1195130	Armenia; USSR; Turkmenistan	text
+1195132	Bismarck Archipelago; Indonesia; New Guinea; Guam; Micronesia	text
+1195133	Malaysia	text
+1195134	Mexico	text
+1195135	Samoa	text
+1195153	Uae	text
+1195160	Mascarene Islands	text
+1195184	China	text
+1195185	China	text
+1195186	China	text
+1195188	China	text
+1195189	China	text
+1195190	China	text
+1195195	China	text
+1195197	Australia	text
+1195198	Norfolk Island; Philip Island	text
+1195199	China	text
+1195204	China	text
+1195205	Malaysia; India	text
+1195206	China	text
+1195207	Singapore	text
+1195208	China	text
+1195209	India	text
+1195210	Hong Kong; China; Indonesia; Malaysia	text
+1195211	China	text
+1195212	China	text
+1195213	China	text
+1195214	China	text
+1195215	China	text
+1195216	China	text
+1195217	China	text
+1195218	China	text
+1195219	China	text
+1195220	China	text
+1195221	China	text
+1195222	China	text
+1195223	China	text
+1195224	China	text
+1195225	India	text
+1195228	China	text
+1195229	China; Malaysia	text
+1195230	China	text
+1195231	China	text
+1195232	India	text
+1195233	India	text
+1195234	China	text
+1195235	China	text
+1195236	China	text
+1195244	Ecuador	text
+1195245	USA	text
+1195246	Guatemala	text
+1195247	Mexico	text
+1195248	Mexico	text
+1195249	Mexico	text
+1195250	Mexico	text
+1195251	Mexico	text
+1195252	Mexico	text
+1195253	Costa Rica	text
+1195254	Mexico	text
+1195255	Mexico	text
+1195256	USA	text
+1195258	Benin; Equatorial Guinea	text
+1195259	East Africa	text
+1195260	USA	text
+1195261	Europe; Austria; Belgium; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Greece; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Sweden; Switzerland; Turkey; USSR; Yugoslavia; Madeira; Canada; USA; Mongolia; :	text
+1195264	Angola	text
+1195266	Madagascar	text
+1195267	Indonesia; Christmas Island	text
+1195268	Indonesia	text
+1195269	Brazil; Mexico	text
+1195270	China	text
+1195271	China	text
+1195272	Congo; Angola; Nigeria	text
+1195273	Indonesia	text
+1195274	India	text
+1195275	China	text
+1195276	Australia	text
+1195277	Indonesia; Christmas Island; Malaysia	text
+1195280	French Polynesia	text
+1195281	Indonesia	text
+1195282	Malaysia	text
+1195283	India	text
+1195284	China	text
+1195285	China	text
+1195286	Cameroon; Nigeria	text
+1195287	China	text
+1195288	China	text
+1195289	Mexico	text
+1195290	Jamaica	text
+1195291	Malaysia; Indonesia	text
+1195292	Madagascar	text
+1195293	Great Britain	text
+1195294	Malaysia	text
+1195295	Malaysia	text
+1195296	New Guinea	text
+1195297	Kenya	text
+1195298	Saint Helena	text
+1195299	China	text
+1195300	New Guinea	text
+1195301	Germany; Great Britain; Austria; Belgium; Czechoslovakia; Finland; France; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Switzerland; USSR; Japan	text
+1195304	China	text
+1195305	Mexico	text
+1195306	Malaysia; Indonesia	text
+1195307	China	text
+1195308	Indonesia; Hawaii; Melanesia; Micronesia; Polynesia	text
+1195309	Australia	text
+1195310	China	text
+1195311	China	text
+1195312	Malaysia	text
+1195313	Vietnam	text
+1195314	Congo; Kenya; Nigeria	text
+1195315	Madagascar	text
+1195316	Australia	text
+1195317	China	text
+1195318	China	text
+1195319	Australia	text
+1195321	India	text
+1195322	Australia	text
+1195323	Hong Kong; China; Indonesia; USSR	text
+1195324	Chagos Archipelago	text
+1195325	Australia	text
+1195326	Japan; Malaysia	text
+1195327	Mexico	text
+1195328	Jamaica	text
+1195329	Madagascar	text
+1195330	Jamaica	text
+1195331	India	text
+1195332	Kenya	text
+1195334	China	text
+1195335	Malaysia	text
+1195336	Mexico	text
+1195337	China	text
+1195338	Angola; Kenya	text
+1195339	China	text
+1195341	Madagascar	text
+1195342	USA; Canada; Mexico	text
+1195343	USA; Canada; Mexico	text
+1195345	New Zealand; Australia	text
+1195348	China	text
+1195349	China	text
+1195350	Tasmania; Australia	text
+1195351	Djibouti	text
+1195352	China	text
+1195353	China	text
+1195354	New Zealand; France; Belgium; Great Britain; Italy; Spain; Yugoslavia; Azores; Canary Islands; Madeira; USA; Chile; Australia; Norfolk Island; Philip Island; Tasmania; Hawaii; :	text
+1195360	China	text
+1195361	USA	text
+1195362	Puerto Rico	text
+1195363	China	text
+1195364	Congo	text
+1195365	Jamaica	text
+1195366	New Zealand; Australia	text
+1195367	Colombia	text
+1195369	Madagascar	text
+1195370	Argentina	text
+1195371	Venezuela	text
+1195372	Bolivia	text
+1195373	Australia	text
+1195374	Brazil	text
+1195375	Indonesia	text
+1195376	China	text
+1195377	China	text
+1195379	Malaysia	text
+1195380	Tanzania	text
+1195381	Indonesia	text
+1195382	Indonesia	text
+1195383	Malaysia	text
+1195384	Germany; Austria; Belgium; Czechoslovakia; Finland; France; Great Britain; Greece; Hungary; Israel; Luxembourg; Netherlands; Poland; Romania; Spain; Switzerland; USSR; Yugoslavia; Mongolia; :	text
+1195386	China	text
+1195387	Ivory Coast; Bermuda Islands; Saint Helena; USA; Antilles; Cuba; Jamaica; Mexico; Panama; Guianas; Venezuela; Angola; Hong Kong; Japan; Malaysia; Philippines; Sri Lanka; Galapagos; Melanesia; Micronesia; Polynesia	text
+1195389	Peru; Bolivia	text
+1195390	Brazil	text
+1195391	Europe; Austria; Belgium; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Switzerland; Turkey; USSR; Yugoslavia; Azores; Canary Islands; Canada; Japan; Mongolia; :	text
+1195395	Hong Kong; China	text
+1195396	Brazil	text
+1195397	China	text
+1195398	China	text
+1195399	China	text
+1195400	China	text
+1195401	China	text
+1195402	Central America; Guadeloupe; Jamaica; Mexico; Panama; Trinidad; Colombia; Venezuela; Galapagos	text
+1195403	Hong Kong; China	text
+1195404	Japan	text
+1195405	China	text
+1195406	China	text
+1195407	Angola	text
+1195409	China	text
+1195410	Japan; Hong Kong; China; India; Macao; Malaysia; Nepal; Singapore; Taiwan; :	text
+1195411	Singapore; Malaysia; Indonesia; Seychelles; China	text
+1195412	Australia	text
+1195413	India	text
+1195414	China	text
+1195415	South Africa	text
+1195416	Singapore; Hong Kong; China; Indonesia; Hawaii; Melanesia; Polynesia; :	text
+1195417	Hong Kong; China	text
+1195418	USA; Bermuda Islands; Cuba; Mexico; Panama; Galapagos; :	text
+1195419	French Polynesia	text
+1195420	Taiwan; China	text
+1195421	Malaysia	text
+1195422	China	text
+1195423	France; Austria; Belgium; Czechoslovakia; Denmark; Finland; Germany; Great Britain; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Switzerland; USSR; Yugoslavia; Azores; Canada; USA; Mexico; Colombia; :	text
+1195429	Brazil	text
+1195430	New Guinea; Guam; Micronesia	text
+1195431	Australia	text
+1195432	Malaysia	text
+1195433	Colombia	text
+1195434	Brazil	text
+1195435	Australia	text
+1195436	Indonesia	text
+1195437	Togo	text
+1195438	China	text
+1195439	Brazil	text
+1195440	Spain	text
+1195442	Malaysia	text
+1195443	Mauritius	text
+1195444	Malaysia	text
+1195445	Indonesia; Hong Kong; China	text
+1195446	China	text
+1195447	China	text
+1195448	Jamaica	text
+1195449	China	text
+1195450	Malaysia	text
+1195451	Israel	text
+1195452	China	text
+1195535	Angola	text
+1195537	China	text
+1195538	Malaysia	text
+1195544	Hong Kong; China	text
+1195545	China	text
+1195550	Thailand	text
+1195551	China	text
+1195552	China	text
+1195568	New Guinea	text
+1195572	Australia	text
+1195573	Malaysia	text
+1195574	New Guinea	text
+1195575	Australia	text
+1195576	Sri Lanka; Bangladesh; Bismarck Archipelago; Indonesia; Malaysia; New Guinea	text
+1195578	Malaysia; Thailand	text
+1195579	Indonesia	text
+1195580	New Guinea	text
+1195581	New Guinea	text
+1195583	Philippines	text
+1195584	Philippines	text
+1195585	New Guinea	text
+1195586	New Guinea	text
+1195587	Philippines	text
+1195590	Christmas Island	text
+1195594	New Guinea	text
+1195596	New Guinea	text
+1195597	New Guinea	text
+1195598	New Guinea	text
+1195599	New Guinea	text
+1195600	New Guinea	text
+1195602	New Guinea	text
+1195604	New Guinea	text
+1195606	New Guinea	text
+1195607	New Guinea	text
+1195608	New Guinea	text
+1195609	New Guinea	text
+1195610	New Guinea	text
+1195612	New Guinea	text
+1195613	New Guinea	text
+1195619	Madeira	text
+1195620	Chile	text
+1195621	USA; Czechoslovakia; Finland; France; Germany; Great Britain; Ireland; Italy; Morocco; Netherlands; Poland; Portugal; Spain; Switzerland; USSR; Azores; Canary Islands; Madeira; Saint Helena; Peru; Angola; Mascarene Islands; :	text
+1195626	Madeira	text
+1195627	Great Britain; Algeria; Austria; Belgium; Cyprus; Czechoslovakia; Egypt; France; Germany; Greece; Hungary; Israel; Italy; Luxembourg; Morocco; Netherlands; Poland; Portugal; Spain; Switzerland; Tunisia; USSR; Yugoslavia; Canary Islands; USA; Mexico; :	text
+1195632	Madeira	text
+1195633	Spain; Portugal; Madeira	text
+1195637	Madeira	text
+1195685	China	text
+1195686	China	text
+1195687	Malaysia	text
+1195688	Malaysia	text
+1195689	Malaysia	text
+1195690	China	text
+1195691	India	text
+1195692	Malaysia	text
+1195693	Malaysia	text
+1195694	China; Japan	text
+1195695	Malaysia	text
+1195696	China	text
+1195699	Philippines; Malaysia	text
+1195700	Sri Lanka	text
+1195702	New Zealand; Australia; Tasmania	text
+1195704	China	text
+1195706	Australia	text
+1195707	Australia	text
+1195708	Australia	text
+1195710	Madagascar	text
+1195712	Caroline Islands; Micronesia	text
+1195713	Kenya	text
+1195714	Indonesia	text
+1195716	Hong Kong; China	text
+1195717	Mexico	text
+1195718	China	text
+1195719	Indonesia	text
+1195720	Malaysia	text
+1195721	China	text
+1195722	China	text
+1195723	Malaysia	text
+1195724	Indonesia	text
+1195725	India; Malaysia	text
+1195726	Japan	text
+1195727	New Guinea	text
+1195728	Malaysia	text
+1195729	China	text
+1195730	Malaysia	text
+1195731	Australia	text
+1195733	China	text
+1195734	China	text
+1195735	Malaysia	text
+1195736	China	text
+1195737	China	text
+1195738	Hong Kong; China	text
+1195739	Malaysia	text
+1195740	Madagascar	text
+1195741	Malaysia	text
+1195742	Micronesia	text
+1195743	Madagascar	text
+1195744	Australia	text
+1195745	Nepal	text
+1195746	Madagascar	text
+1195747	Madagascar	text
+1195748	China	text
+1195749	Malaysia	text
+1195750	Singapore; Madagascar; Sri Lanka; Indonesia	text
+1195751	China	text
+1195752	Indonesia	text
+1195753	China	text
+1195754	Tonga Islands	text
+1195755	Madagascar	text
+1195756	China	text
+1195757	China	text
+1195758	China	text
+1195759	Malaysia	text
+1195760	Indonesia	text
+1195761	Australia	text
+1195762	Jamaica	text
+1195763	Japan	text
+1195764	China	text
+1195765	New Guinea	text
+1195767	Malaysia	text
+1195768	Fiji	text
+1195769	Madagascar	text
+1195770	Uruguay	text
+1195771	Norfolk Island	text
+1195795	Fiji	text
+1195796	Fiji; Tonga Islands	text
+1195797	Fiji	text
+1195798	Christmas Island	text
+1195799	Fiji	text
+1195800	Fiji	text
+1195801	Fiji	text
+1195802	Fiji	text
+1195803	Fiji	text
+1195805	Indonesia; Malaysia	text
+1195806	China	text
+1195807	Polynesia	text
+1195808	Micronesia	text
+1195809	Singapore	text
+1195810	Micronesia	text
+1195811	Malaysia	text
+1195812	Malaysia; Singapore	text
+1195813	Hawaii; Australia	text
+1195814	French Polynesia	text
+1195815	Fiji; Tonga Islands	text
+1195816	French Polynesia	text
+1195817	Malaysia	text
+1195818	Malaysia	text
+1195819	China	text
+1195820	Malaysia	text
+1195821	Fiji	text
+1195822	Malaysia	text
+1195825	Australia	text
+1195826	Jamaica	text
+1195827	Micronesia	text
+1195828	Micronesia	text
+1195829	Micronesia	text
+1195830	Malaysia	text
+1195831	Australia	text
+1195832	Angola	text
+1195833	Lord Howe Island	text
+1195834	Togo	text
+1195835	Micronesia	text
+1195836	Micronesia	text
+1195837	Lord Howe Island	text
+1195838	Angola	text
+1195839	Angola	text
+1195840	Malaysia	text
+1195841	Equatorial Guinea	text
+1195842	Taiwan; China	text
+1195843	Fiji	text
+1195844	Angola	text
+1195845	Kenya	text
+1195846	Australia	text
+1195847	Congo	text
+1195848	Bangladesh	text
+1195849	Indonesia; Malaysia	text
+1195851	Guam	text
+1195852	Micronesia	text
+1195853	Australia	text
+1195854	Angola	text
+1195855	Malaysia	text
+1195856	Micronesia	text
+1195857	Micronesia	text
+1195858	Indonesia	text
+1195859	Malaysia	text
+1195860	Australia	text
+1195861	Japan	text
+1195862	Malaysia	text
+1195863	China	text
+1195864	Malaysia	text
+1195865	Samoa	text
+1195866	Indonesia	text
+1195867	Japan	text
+1195868	Australia	text
+1195869	Taiwan; China; Thailand	text
+1195870	Angola	text
+1195871	Indonesia; Malaysia	text
+1195872	Equatorial Guinea	text
+1195873	Malaysia	text
+1195874	New Zealand	text
+1195875	Australia	text
+1195876	Australia	text
+1195891	China	text
+1195892	Sri Lanka	text
+1195893	Taiwan; China	text
+1195900	Micronesia	text
+1195901	Fiji	text
+1195902	Mariana Islands; Micronesia; Polynesia	text
+1195903	Malaysia	text
+1195904	Malaysia	text
+1195905	China	text
+1195909	China	text
+1195910	Japan	text
+1195911	Sri Lanka; Indonesia; Malaysia	text
+1195912	Sri Lanka; Philippines	text
+1195913	Taiwan; China	text
+1195914	New Guinea; Malaysia	text
+1195916	China	text
+1195917	China; Malaysia	text
+1195920	Hong Kong; China; Christmas Island; Indonesia; Japan	text
+1195921	China	text
+1195923	Mozambique; Congo; Angola; Madagascar; South Africa	text
+1195924	New Guinea; Bismarck Archipelago	text
+1195925	China	text
+1195926	Seychelles	text
+1195927	USA; Ecuador; Indonesia; Cape Verde Islands; Cuba; Jamaica; Mexico; Panama; Puerto Rico; Colombia; French Guiana; Venezuela; Angola; Benin; Equatorial Guinea; Madagascar; Mozambique; Nigeria; South Africa; Togo; Mascarene Islands; Bhutan; China; India; Japan; Malaysia; Philippines; Singapore; Thailand; Galapagos; Hawaii; Melanesia; Micronesia; :	text
+1195934	Philippines	text
+1195935	Indonesia	text
+1195936	New Guinea	text
+1195937	Sri Lanka	text
+1195938	Malaysia	text
+1195939	India	text
+1195940	Taiwan; China	text
+1195941	Australia	text
+1195942	Malaysia	text
+1195943	East Africa	text
+1195944	Philippines	text
+1195945	Philippines	text
+1195946	Japan	text
+1195948	Nepal	text
+1195949	Sri Lanka	text
+1195950	Angola	text
+1195951	Japan	text
+1195952	Fiji; Melanesia; Micronesia	text
+1195954	Sri Lanka	text
+1195955	East Africa; Congo; Kenya; Angola	text
+1195956	Philippines	text
+1195957	Philippines	text
+1195958	Sri Lanka; Nepal	text
+1195959	China	text
+1195960	Singapore	text
+1195961	Philippines	text
+1195962	Indonesia	text
+1195963	Malaysia	text
+1195964	Indonesia	text
+1195966	Micronesia; USA; Guatemala; Mexico; Panama; Puerto Rico; Brazil; Suriname; Venezuela; Togo; Galapagos; Polynesia	text
+1195967	Indonesia	text
+1195968	Indonesia	text
+1195969	China	text
+1195970	China	text
+1195971	Australia	text
+1195972	Malaysia	text
+1195973	Sri Lanka	text
+1195988	Seychelles	text
+1195989	Seychelles	text
+1195990	Seychelles	text
+1195992	China	text
+1195993	India; Nepal; Bhutan	text
+1195994	China	text
+1195997	Brazil; Cuba; Jamaica; Mexico	text
+1195998	Brazil	text
+1195999	Brazil	text
+1196000	Venezuela	text
+1196001	Brazil	text
+1196003	Madagascar	text
+1196011	Romania; Cyprus; Greece; Israel; Italy	text
+1196012	Bulgaria	text
+1196015	Australia	text
+1196016	New Zealand	text
+1196018	New Zealand	text
+1196019	New Caledonia	text
+1196020	New Zealand	text
+1196021	Australia	text
+1196022	Australia	text
+1196023	Australia	text
+1196024	New Zealand	text
+1196025	New Zealand	text
+1196026	Australia	text
+1196027	New Zealand; Australia	text
+1196028	Macquarie Island; Subantarctic Islands Of New Zealand	text
+1196029	New Caledonia	text
+1196030	New Zealand	text
+1196032	New Guinea	text
+1196033	Australia	text
+1196034	Australia	text
+1196035	New Guinea	text
+1196036	New Caledonia	text
+1196037	Australia	text
+1196038	New Zealand	text
+1196039	New Zealand	text
+1196040	Australia	text
+1196041	New Caledonia	text
+1196042	Australia	text
+1196043	New Caledonia	text
+1196044	Australia	text
+1196045	Australia	text
+1196046	Australia	text
+1196047	New Caledonia	text
+1196049	New Guinea	text
+1196053	New Caledonia	text
+1196054	New Caledonia	text
+1196055	New Caledonia	text
+1196056	New Caledonia	text
+1196057	Australia	text
+1196058	New Caledonia	text
+1196059	New Caledonia	text
+1196060	New Caledonia	text
+1196061	New Zealand	text
+1196062	New Caledonia	text
+1196063	New Caledonia	text
+1196064	New Caledonia	text
+1196065	New Caledonia	text
+1196066	New Caledonia	text
+1196067	New Caledonia	text
+1196068	New Caledonia	text
+1196069	New Caledonia	text
+1196070	New Zealand	text
+1196071	New Caledonia	text
+1196072	New Caledonia	text
+1196073	New Caledonia	text
+1196074	New Caledonia	text
+1196075	New Caledonia	text
+1196076	New Caledonia	text
+1196077	New Caledonia	text
+1196078	New Caledonia	text
+1196079	New Caledonia	text
+1196080	New Zealand	text
+1196081	New Caledonia	text
+1196082	New Caledonia	text
+1196089	New Zealand	text
+1196090	New Zealand	text
+1196094	Australia	text
+1196096	Lord Howe Island	text
+1196100	China	text
+1196101	China	text
+1196103	China	text
+1196104	China	text
+1196142	Hawaii	text
+1196143	Hawaii	text
+1196144	Hawaii	text
+1196145	Hawaii	text
+1196147	Hawaii	text
+1196148	Hawaii	text
+1196149	Hawaii	text
+1196150	Hawaii	text
+1196151	Hawaii	text
+1196152	Hawaii	text
+1196153	Hawaii	text
+1196154	Hawaii	text
+1196155	Hawaii	text
+1196156	Hawaii	text
+1196157	Hawaii	text
+1196158	Hawaii	text
+1196159	Hawaii	text
+1196160	Hawaii	text
+1196161	Hawaii	text
+1196162	Hawaii	text
+1196166	Germany; Finland; Austria; Belgium; Czechoslovakia; Denmark; France; Great Britain; Greece; Hungary; Ireland; Italy; Luxembourg; Monaco; Morocco; Netherlands; Norway; Poland; Portugal; Romania; Spain; Switzerland; USSR; Yugoslavia; USA	text
+1196169	Australia	text
+1196170	Chile	text
+1196171	Chile	text
+1196173	Chile	text
+1196176	Finland; Germany; Austria; Belgium; Cyprus; Czechoslovakia; Denmark; France; Great Britain; Greece; Hungary; Ireland; Israel; Italy; Luxembourg; Morocco; Netherlands; Norway; Poland; Romania; Spain; Switzerland; Tunisia; USSR; Canada; USA; :	text
+1196182	Zambia	text
+1196183	Tanzania	text
+1196184	Germany; Austria; France; Greece; Italy; Spain; Switzerland; Yugoslavia	text
+1196185	Azores	text
+1196186	Sri Lanka	text
+1196187	Azores	text
+1196188	South Africa	text
+1196189	Canary Islands	text
+1196190	Canary Islands	text
+1196192	Great Britain; Algeria; Austria; Belgium; Cyprus; Czechoslovakia; Denmark; Finland; France; Germany; Greece; Hungary; Ireland; Israel; Italy; Luxembourg; Morocco; Netherlands; Norway; Poland; Portugal; Romania; Spain; Sweden; Switzerland; USSR; Yugoslavia; USA; Mongolia; :	text
+1196197	Tanzania	text
+1196198	Sri Lanka	text
+1196200	Morocco	text
+1196201	Canary Islands	text
+1196202	Argentina	text
+1196203	Tanzania	text
+1196204	Haiti	text
+1196205	Germany; Austria; Belgium; Finland; France; Great Britain; Greece; Hungary; Italy; Luxembourg; Netherlands; Norway; Poland; Spain; Switzerland; Turkey; Yugoslavia; Canada; :	text
+1196209	Germany; Tunisia; Algeria; Belgium; France; Hungary; Ireland; Morocco; Spain; Switzerland	text
+1196211	USA; Mexico	text
+1196212	Hong Kong; China	text
+1196213	North America; Austria; Belgium; Bulgaria; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Greece; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Sweden; Switzerland; USSR; Yugoslavia; Canada; USA; Mexico; :	text
+1196217	Algeria; Cyprus	text
+1196218	India	text
+1196219	Zimbabwe	text
+1196220	Peru	text
+1196223	France; Spain; Syria; Greece	text
+1196224	Spain	text
+1196225	Cyprus	text
+1196226	Germany; Austria; Bulgaria; Cyprus; Czechoslovakia; Finland; France; Greece; Hungary; Italy; Poland; Romania; Spain; Sweden; Switzerland; Turkey; USSR; Yugoslavia	text
+1196228	Spain; France; Armenia; Cyprus	text
+1196230	Spain	text
+1196231	Israel	text
+1196232	Turkmenistan	text
+1196233	Saudi Arabia; Israel	text
+1196236	Hawaii	text
+1196237	Hawaii	text
+1196238	Hawaii	text
+1196239	Hawaii	text
+1196240	Hawaii	text
+1196241	Hawaii	text
+1196242	Hawaii	text
+1196245	Australia	text
+1196249	Venezuela	text
+1196250	Jamaica	text
+1196252	Cuba	text
+1196254	China	text
+1196255	Finland; Austria; Belgium; Czechoslovakia; Germany; Great Britain; Greece; Luxembourg; Netherlands; Norway; Poland; Switzerland; USSR	text
+1196257	Italy	text
+1196258	France; Cyprus; Czechoslovakia; Germany; Italy; Morocco; Poland; Spain; Switzerland	text
+1196259	Germany; France; Belgium; Great Britain; Luxembourg; Poland; Spain; Switzerland; :	text
+1196266	Germany; Austria; Belgium; Czechoslovakia; Finland; France; Great Britain; Ireland; Italy; Luxembourg; Morocco; Norway; Poland; Romania; Spain; Sweden; Switzerland; Turkey; USSR; Yugoslavia; Canada; USA; Japan; Mongolia; :	text
+1196271	Crozet Islands	text
+1196272	Subantarctic Islands	text
+1196274	Australia; New Zealand	text
+1196275	Lord Howe Island	text
+1196277	Australia; Tasmania	text
+1196280	Hawaii; Argentina; Tasmania; Australia; France; Madeira; USA; Mexico; Chile; Kenya; South Africa; Zambia; Zimbabwe; New Zealand; Norfolk Island; Pacific	text
+1196290	New Zealand	text
+1196291	New Zealand; Subantarctic Islands Of New Zealand	text
+1196292	Australia	text
+1196293	Tasmania; Australia	text
+1196294	Lord Howe Island	text
+1196295	Australia	text
+1196296	Australia	text
+1196297	New Zealand; Subantarctic Islands Of New Zealand	text
+1196300	Angola	text
+1196301	Brazil; Mexico; Venezuela	text
+1196302	Brazil; Mexico	text
+1196303	Angola	text
+1196305	Brazil	text
+1196306	Brazil	text
+1196307	USA	text
+1196308	Australia	text
+1196310	Chile	text
+1196311	Chile	text
+1196312	Chile	text
+1196313	Chile	text
+1196314	Chile	text
+1196315	Chile	text
+1196316	Chile	text
+1196318	Australia; New Zealand	text
+1196320	Bolivia; Chile; Argentina	text
+1196322	Chile	text
+1196325	Canary Islands	text
+1196326	Greece; Algeria; Israel; Morocco; Canary Islands	text
+1196327	Italy	text
+1196330	Tunisia; Cyprus; Greece; Israel; Morocco	text
+1196332	France; Spain	text
+1196335	Canary Islands	text
+1196339	South Africa	text
+1196341	Japan	text
+1196343	Zimbabwe	text
+1196345	Australia	text
+1196346	Australia	text
+1196347	Australia	text
+1196349	Kenya	text
+1196351	Angola	text
+1196352	Turkmenistan	text
+1196353	Morocco	text
+1196354	Turkmenistan	text
+1196355	Djibouti; Sudan	text
+1196356	Spain	text
+1196358	South Africa	text
+1196359	Tunisia	text
+1196360	South Africa	text
+1196361	Kenya	text
+1196362	East Africa	text
+1196363	Japan	text
+1196364	France; Spain; Cyprus; Greece; Israel; Italy; Syria	text
+1196366	South Africa	text
+1196367	Angola	text
+1196368	Morocco; France; Algeria; Italy; Yugoslavia	text
+1196369	Gabon	text
+1196370	Italy	text
+1196371	Greece; Cyprus	text
+1196372	Switzerland; Austria; Hungary	text
+1196373	Kazakhstan; Turkmenistan	text
+1196374	Hong Kong; China; Japan; Taiwan	text
+1196375	Europe; France; Austria; Belgium; Germany; Great Britain; Hungary; Ireland; Luxembourg; Morocco; Netherlands; Norway; Poland; Portugal; Spain; Sweden; Switzerland; USSR; Canada; :	text
+1196378	South Africa	text
+1196379	Turkmenistan	text
+1196380	Morocco; Algeria; Tunisia; Canary Islands	text
+1196383	Germany; USA; Austria; Belgium; Czechoslovakia; Denmark; Finland; France; Great Britain; Hungary; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Switzerland; USSR; Yugoslavia; Canada; Japan; Mongolia; :	text
+1196385	Zimbabwe	text
+1196386	Zimbabwe	text
+1196387	South Africa	text
+1196388	South Africa	text
+1196389	South Africa	text
+1196390	East Africa; Kenya	text
+1196391	Angola	text
+1196392	Tanzania	text
+1196393	Tanzania	text
+1196394	Angola	text
+1196395	Zimbabwe; Tanzania	text
+1196396	Zimbabwe	text
+1196397	South Africa	text
+1196398	Cyprus	text
+1196399	Zimbabwe	text
+1196400	Europe; Armenia; Austria; Belgium; Bulgaria; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Hungary; Iceland; Ireland; Italy; Luxembourg; Morocco; Netherlands; Norway; Poland; Romania; Spain; Switzerland; USSR; Yugoslavia; Canada; USA; Japan; :	text
+1196413	Switzerland; Turkey	text
+1196414	Canary Islands	text
+1196415	Yemen	text
+1196416	China	text
+1196417	Morocco; Greece	text
+1196437	Uae	text
+1196439	South Africa	text
+1196440	South Africa	text
+1196441	South Africa	text
+1196443	South Africa	text
+1196445	Chile	text
+1196447	Kenya	text
+1196449	Germany; Tunisia; Cyprus; France; Greece; Italy; Morocco; Poland; Spain; Yugoslavia; Madeira; :	text
+1196451	South Africa	text
+1196452	South Africa	text
+1196453	Yemen; Uae	text
+1196454	South Africa	text
+1196455	South Africa	text
+1196456	Uae	text
+1196472	New Zealand	text
+1196480	South Africa	text
+1196481	Kenya	text
+1196482	Kenya	text
+1196483	South Africa	text
+1196491	Malaysia	text
+1196493	New Guinea	text
+1196494	Australia	text
+1196495	Philippines	text
+1196496	New Guinea	text
+1196497	New Guinea	text
+1196501	New Guinea; Bismarck Archipelago; Indonesia; Australia	text
+1196502	Argentina	text
+1196503	Brazil	text
+1196504	Congo	text
+1196505	Cameroon; Angola; Congo; Equatorial Guinea	text
+1196506	South Africa	text
+1196507	Mexico	text
+1196508	Galapagos	text
+1196509	Cuba	text
+1196510	USA	text
+1196512	China	text
+1196513	Hong Kong; China	text
+1196514	Congo	text
+1196515	Indonesia	text
+1196516	Guinea	text
+1196517	China	text
+1196518	India	text
+1196519	Sierra Leone; Congo; Angola; Nigeria	text
+1196520	USA; Canada	text
+1196523	Angola	text
+1196524	South Africa	text
+1196525	Fiji	text
+1196527	Japan; Fiji	text
+1196528	Brazil	text
+1196529	India	text
+1196530	Ivory Coast; Angola; Zimbabwe	text
+1196531	Costa Rica	text
+1196532	Brazil	text
+1196533	Venezuela	text
+1196534	Nepal; Bhutan	text
+1196535	Congo; Nigeria	text
+1196536	USA; Canada; Cuba; Mexico; Brazil	text
+1196538	Indonesia; Thailand	text
+1196539	Brazil	text
+1196540	Brazil	text
+1196541	Costa Rica; Mexico	text
+1196557	China; Indonesia; Japan; Philippines; Taiwan; Vietnam	text
+1196561	Haiti	text
+1196562	Singapore	text
+1196564	Indonesia	text
+1196572	Australia	text
+1196573	New Guinea	text
+1196576	Madagascar	text
+1196577	Angola	text
+1196578	French Polynesia	text
+1196579	Brazil	text
+1196582	Aldabra Islands	text
+1196583	Fiji	text
+1196584	Madagascar	text
+1196586	Angola; South Africa; Madagascar	text
+1196588	Solomon Islands	text
+1196590	Indonesia	text
+1196591	Fiji	text
+1196592	Australia; Kermadec Islands; New Zealand; Norfolk Island; Solomon Islands	text
+1196596	Philippines; Micronesia	text
+1196597	Equatorial Guinea	text
+1196598	New Caledonia	text
+1196599	Fiji	text
+1196600	New Guinea	text
+1196602	Christmas Island	text
+1196603	Madagascar	text
+1196604	Brazil	text
+1196605	Argentina	text
+1196606	Venezuela	text
+1196607	Jamaica	text
+1196609	Congo	text
+1196610	Indonesia	text
+1196611	Madagascar	text
+1196612	South Africa	text
+1196613	Cuba	text
+1196614	New Guinea	text
+1196615	Paraguay	text
+1196616	Portugal; France; Greece; Israel; Italy; Morocco; Spain; Azores; Canary Islands; Madeira; Saint Helena; USA	text
+1196618	Philippines	text
+1196619	New Guinea	text
+1196620	India	text
+1196621	Australia	text
+1196622	Fiji; Tonga	text
+1196623	Solomon Islands	text
+1196624	New Guinea	text
+1196625	Australia	text
+1196628	Vanuatu	text
+1196629	Australia	text
+1196630	Indonesia	text
+1196631	New Guinea; Bismarck Archipelago	text
+1196632	Seychelles; Madagascar	text
+1196634	Indonesia	text
+1196635	Nigeria	text
+1196636	Indonesia	text
+1196637	New Guinea	text
+1196638	Singapore; Malaysia	text
+1196639	Madagascar	text
+1196640	New Guinea; Bismarck Archipelago	text
+1196641	South Africa; Tanzania; Zimbabwe	text
+1196642	New Guinea	text
+1196643	Nigeria	text
+1196644	Solomon Islands	text
+1196645	Brazil	text
+1196646	Mexico; USA	text
+1196650	Seychelles	text
+1196651	Fiji	text
+1196652	Nigeria	text
+1196653	Madagascar	text
+1196654	French Polynesia	text
+1196655	Nigeria	text
+1196656	Fiji	text
+1196657	Madagascar	text
+1196658	Brazil	text
+1196659	New Guinea	text
+1196660	Brazil	text
+1196661	Madagascar	text
+1196662	New Guinea	text
+1196663	Australia	text
+1196664	Vanuatu; Bismarck Archipelago	text
+1196665	India	text
+1196666	New Guinea; Solomon Islands	text
+1196667	Singapore	text
+1196668	Fiji; French Polynesia; Tonga	text
+1196669	French Polynesia	text
+1196670	New Caledonia	text
+1196671	Jamaica	text
+1196672	Fiji	text
+1196673	New Guinea	text
+1196674	Vanuatu	text
+1196675	Samoa	text
+1196676	New Guinea	text
+1196677	Madagascar	text
+1196679	Madagascar	text
+1196680	Madagascar	text
+1196681	Santo Domingo	text
+1196682	Malaysia	text
+1196683	New Guinea	text
+1196684	Australia	text
+1196685	Sri Lanka; Malaysia	text
+1196687	New Guinea	text
+1196688	Brazil	text
+1196689	New Caledonia	text
+1196690	Fiji	text
+1196699	Singapore	text
+1196732	Nigeria	text
+1196733	Angola	text
+1196735	Madagascar	text
+1196736	Tanzania	text
+1196737	Saudi Arabia	text
+1196738	Morocco; Algeria	text
+1196739	Saint Helena	text
+1196741	Madagascar	text
+1196742	Indonesia	text
+1196743	India	text
+1196744	Europe; Austria; Belgium; Czechoslovakia; Finland; France; Germany; Greece; Hungary; Israel; Italy; Luxembourg; Morocco; Norway; Poland; Romania; Spain; Sweden; Switzerland; Turkey; USSR; Yugoslavia; Mongolia; :	text
+1196747	Cyprus	text
+1196748	Spain	text
+1196749	Angola	text
+1196750	Madagascar	text
+1196752	Angola	text
+1196753	Israel	text
+1196754	South Africa	text
+1196755	Kenya	text
+1196756	Sri Lanka; Japan	text
+1196757	Europe; Austria; Belgium; Czechoslovakia; Finland; France; Germany; Great Britain; Hungary; Ireland; Italy; Luxembourg; Morocco; Netherlands; Poland; Portugal; Romania; Spain; Switzerland; USSR; Yugoslavia; :	text
+1196760	Italy	text
+1196761	Tanzania; South Africa	text
+1196762	Kenya	text
+1196763	Tanzania	text
+1196768	Kenya	text
+1196769	Angola	text
+1196770	Nigeria; Burkina Faso	text
+1196773	Cameroon	text
+1196775	Zimbabwe; Congo	text
+1196776	China	text
+1196777	Angola	text
+1196779	Brazil	text
+1196781	Brazil	text
+1196782	Australia	text
+1196783	Venezuela	text
+1196784	Jamaica	text
+1196785	Venezuela	text
+1196786	Madagascar	text
+1196787	Australia	text
+1196788	Argentina	text
+1196791	Cuba	text
+1196792	Brazil	text
+1196793	USA	text
+1196794	Venezuela	text
+1196797	China	text
+1196798	Australia	text
+1196799	Cuba	text
+1196800	Brazil	text
+1196801	Australia	text
+1196802	Australia	text
+1196803	Brazil	text
+1196804	Mexico	text
+1196805	Brazil	text
+1196806	Cuba	text
+1196807	Australia; Norfolk Island	text
+1196810	Cuba	text
+1196811	USA	text
+1196812	Brazil	text
+1196813	Singapore	text
+1196814	Australia	text
+1196815	Australia	text
+1196816	Australia	text
+1196817	Chile	text
+1196818	Colombia	text
+1196819	Argentina	text
+1196820	Singapore	text
+1196821	Venezuela	text
+1196822	Argentina	text
+1196823	Venezuela	text
+1196824	Brazil	text
+1196825	USA; Canada	text
+1196827	USA	text
+1196829	USA	text
+1196830	Algeria	text
+1196831	Venezuela	text
+1196832	Australia	text
+1196833	USA	text
+1196834	Brazil	text
+1196835	Madagascar	text
+1196836	Mexico; USA	text
+1196837	Argentina	text
+1196838	Mexico	text
+1196839	Brazil	text
+1196840	Argentina	text
+1196842	Thailand	text
+1196843	South Africa	text
+1196845	Uruguay	text
+1196846	Madagascar	text
+1196847	USA	text
+1196849	USA	text
+1196850	Australia	text
+1196851	New Zealand; Australia	text
+1196852	Togo	text
+1196853	Madagascar	text
+1196856	Angola	text
+1196857	Chile	text
+1196858	Brazil	text
+1196859	North America; Canada; USA; Panama	text
+1196874	Europe; Austria; Belgium; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Sweden; Switzerland; USSR; Yugoslavia; Canada; USA; Mongolia; :	text
+1196883	Argentina	text
+1196884	Bolivia	text
+1196885	Great Britain; Austria; Belgium; Cyprus; Czechoslovakia; Finland; France; Germany; Greece; Hungary; Ireland; Israel; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Sweden; Switzerland; Turkey; USSR; Yugoslavia; Canary Islands; Canada; Korea; Mongolia; :	text
+1196888	China	text
+1196889	Burma	text
+1196890	China	text
+1196891	Chile	text
+1196892	Burma	text
+1196893	USA	text
+1196894	Germany; Czechoslovakia; Finland; France; Hungary; Italy; Netherlands; Poland; Romania; Sweden; Switzerland; USSR; :	text
+1196895	Japan; China; Taiwan; USSR	text
+1196896	Indonesia	text
+1196897	China	text
+1196898	Argentina	text
+1196899	Tanzania	text
+1196900	USA; Guatemala; Mexico	text
+1196901	Venezuela	text
+1196902	Vietnam	text
+1196903	Argentina	text
+1196904	USA; Canada; Mexico	text
+1196905	Argentina	text
+1196906	Costa Rica	text
+1196907	Columbia	text
+1196908	Tanzania	text
+1196914	USA	text
+1196916	Madagascar	text
+1196917	Madagascar	text
+1196918	Madagascar	text
+1196919	Brazil	text
+1196920	Madagascar	text
+1196921	Madagascar	text
+1196923	Angola	text
+1196924	Madagascar	text
+1196925	Madagascar	text
+1196926	Kenya	text
+1196928	China	text
+1196929	Madagascar	text
+1196930	Pakistan	text
+1196932	New Guinea	text
+1196934	USA; Canada; Guatemala; Mexico	text
+1196935	Colombia; Brazil	text
+1196936	USA; Mexico	text
+1196937	Galapagos	text
+1196938	USA; Panama	text
+1196941	USA	text
+1196942	USA	text
+1196943	USA	text
+1196946	Colombia	text
+1196948	Brazil	text
+1196950	New Guinea	text
+1196952	China	text
+1196955	New Guinea	text
+1196957	Indonesia	text
+1196958	Indonesia	text
+1196962	South Africa	text
+1196963	Australia	text
+1196964	Australia	text
+1196965	Australia	text
+1196966	Australia	text
+1196969	Indonesia	text
+1196970	Indonesia	text
+1196971	Singapore; Indonesia	text
+1196974	China	text
+1196975	China	text
+1196976	China	text
+1196977	Hong Kong; China; Korea	text
+1196978	China	text
+1196982	Hong Kong; China	text
+1196997	Finland; France; Germany; Hungary; Italy; Romania; Spain; Switzerland; USSR; Yugoslavia; Mongolia	text
+1197001	USSR	text
+1197018	China	text
+1197025	China	text
+1197027	China	text
+1197038	Australia	text
+1197039	Australia	text
+1197040	New Guinea	text
+1197046	Mexico	text
+1197047	Brazil	text
+1197048	Colombia	text
+1197049	Brazil	text
+1197050	Venezuela	text
+1197051	Colombia	text
+1197052	Brazil	text
+1197053	Venezuela	text
+1197054	Cuba	text
+1197056	Angola	text
+1197057	Brazil; Argentina	text
+1197058	Argentina	text
+1197059	Colombia	text
+1197060	Brazil	text
+1197061	China	text
+1197063	Colombia	text
+1197064	Peru	text
+1197068	Mexico	text
+1197069	Peru	text
+1197070	Brazil	text
+1197071	Uruguay	text
+1197072	Costa Rica	text
+1197073	Canada; USA; Costa Rica; Guatemala; Mexico; Nicaragua; Panama; Colombia; Venezuela; :	text
+1197079	USA; Canada; Cuba; Mexico; :	text
+1197085	Colombia	text
+1197086	Brazil	text
+1197090	Brazil	text
+1197092	New Guinea	text
+1197093	New Guinea	text
+1197094	New Guinea	text
+1197096	New Guinea	text
+1197097	New Guinea	text
+1197098	Nepal	text
+1197099	Indonesia; Malaysia	text
+1197100	New Guinea	text
+1197101	Bismarck Archipelago; Solomon Islands	text
+1197102	New Guinea	text
+1197105	New Guinea	text
+1197108	Brazil	text
+1197109	Brazil	text
+1197112	Philippines	text
+1197114	Brazil	text
+1197116	Colombia	text
+1197117	Costa Rica	text
+1197118	Brazil	text
+1197120	Mexico	text
+1197121	Brazil	text
+1197125	Guatemala; Mexico; Panama	text
+1197126	Congo	text
+1197127	Tanzania	text
+1197129	China	text
+1197130	China	text
+1197139	Germany; Austria; Bulgaria; France; Greece; Italy; Romania; Spain; Turkey; USSR; Yugoslavia	text
+1197143	Tunisia; Italy; Spain	text
+1197147	Singapore; Malaysia	text
+1197149	China	text
+1197151	China	text
+1197153	China	text
+1197154	Brazil	text
+1197155	China	text
+1197156	Indonesia	text
+1197157	India	text
+1197158	India	text
+1197159	China	text
+1197160	Philippines	text
+1197161	India; Malaysia; Nepal	text
+1197162	China	text
+1197163	China	text
+1197164	Peru; Panama; Brazil	text
+1197165	Taiwan; China	text
+1197166	China	text
+1197167	China	text
+1197168	New Guinea	text
+1197169	Malaysia; Burma; India; Indonesia; Singapore; Thailand; Vietnam	text
+1197170	China	text
+1197171	China	text
+1197172	China	text
+1197173	Vietnam	text
+1197174	Brazil; Mexico; Panama	text
+1197176	Taiwan; China	text
+1197178	Indonesia	text
+1197179	Panama	text
+1197180	Tanzania; Angola; Congo; Kenya; Nigeria; Sierra Leone	text
+1197184	Congo; Angola	text
+1197185	Europe; Austria; Belgium; Bulgaria; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Switzerland; USSR; Yugoslavia; Canary Islands; China; India; Mongolia; :	text
+1197189	Costa Rica	text
+1197190	China	text
+1197191	Brazil	text
+1197192	China	text
+1197193	Vietnam	text
+1197195	Japan	text
+1197196	Argentina	text
+1197198	China	text
+1197199	Indonesia	text
+1197202	Philippines	text
+1197203	Japan; Russia	text
+1197204	China	text
+1197206	Nepal	text
+1197207	China	text
+1197208	Malaysia	text
+1197209	Nepal	text
+1197210	China	text
+1197211	India	text
+1197212	India; Nepal	text
+1197213	Japan; India	text
+1197216	Costa Rica; Mexico; Nicaragua; Panama; Trinidad; Brazil; Colombia; French Guiana; Suriname; Venezuela	text
+1197219	China	text
+1197220	Paraguay	text
+1197222	China	text
+1197223	Singapore	text
+1197224	Angola	text
+1197225	China	text
+1197226	Brazil	text
+1197227	China	text
+1197228	China	text
+1197229	China	text
+1197230	China	text
+1197231	Brazil	text
+1197232	Colombia	text
+1197233	China	text
+1197234	China	text
+1197235	China	text
+1197236	Bhutan	text
+1197237	Japan	text
+1197238	China	text
+1197239	China	text
+1197240	Hong Kong; China; India	text
+1197241	Brazil	text
+1197242	China	text
+1197243	China	text
+1197244	Sri Lanka; Bhutan; China; India; Indonesia; Malaysia; Tibet; Vietnam	text
+1197245	South Africa; Congo; Kenya	text
+1197246	China	text
+1197247	Japan; China; Taiwan	text
+1197248	China	text
+1197249	China	text
+1197250	China	text
+1197251	China	text
+1197252	Japan	text
+1197253	Mozambique; Angola; Tanzania	text
+1197255	China	text
+1197256	China	text
+1197309	New Guinea	text
+1197312	Christmas Island	text
+1197315	Australia	text
+1197316	Indonesia	text
+1197321	Peru; Bolivia; Brazil	text
+1197324	Madagascar	text
+1197326	Mexico	text
+1197328	China	text
+1197330	Brazil	text
+1197331	China	text
+1197332	Argentina	text
+1197333	Brazil	text
+1197334	China	text
+1197335	China	text
+1197336	Brazil	text
+1197337	Argentina	text
+1197338	Paraguay	text
+1197340	China	text
+1197341	Brazil	text
+1197342	Bhutan	text
+1197343	Peru; Panama; Bolivia	text
+1197345	Brazil	text
+1197346	Indonesia	text
+1197347	Venezuela	text
+1197348	China	text
+1197349	China	text
+1197350	Angola	text
+1197351	Argentina	text
+1197352	Europe; Albania; Austria; Belgium; Bulgaria; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Greece; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Portugal; Romania; Spain; Switzerland; USSR; Yugoslavia; Nigeria; China; India; Japan; Korea; Mongolia; :	text
+1197360	Canada; USA; Mexico	text
+1197364	Bhutan; India	text
+1197365	China	text
+1197367	USA; Canada	text
+1197370	China	text
+1197371	Brazil	text
+1197372	Brazil	text
+1197373	China	text
+1197374	China	text
+1197375	China	text
+1197376	China	text
+1197377	China	text
+1197378	Mexico	text
+1197395	Bolivia	text
+1197396	Brazil	text
+1197397	Brazil	text
+1197399	Congo	text
+1197400	Nigeria; Togo	text
+1197401	South Africa	text
+1197402	Kenya	text
+1197403	Angola	text
+1197404	Angola	text
+1197405	Congo	text
+1197406	Tanzania	text
+1197407	Tanzania; South Africa; Mozambique; Uganda; Zimbabwe	text
+1197409	Congo	text
+1197411	Angola	text
+1197412	Angola	text
+1197413	Congo; Nigeria	text
+1197414	Congo; Angola	text
+1197415	Tanzania; Kenya; Angola; Equatorial Guinea; Nigeria	text
+1197416	Cameroon; Guinea; Nigeria	text
+1197417	Angola	text
+1197418	Angola	text
+1197421	Nigeria	text
+1197423	Indonesia	text
+1197424	China	text
+1197425	China	text
+1197426	Australia	text
+1197427	Japan; Taiwan; China	text
+1197430	Japan	text
+1197431	Singapore	text
+1197432	Tanzania	text
+1197433	New Guinea	text
+1197434	Singapore; China; India; Indonesia; Malaysia; Taiwan	text
+1197463	USA	text
+1197465	Finland; Belgium; Czechoslovakia; Germany; Hungary; Poland; Romania; Spain; USSR; Mongolia; :	text
+1197466	USA; Canada	text
+1197467	Italy	text
+1197468	Europe; Belgium; France; Germany; Great Britain; Greece; Italy; Netherlands; Poland; Romania; Spain; Switzerland; USSR; :	text
+1197471	USA; Canada	text
+1197477	Philippines	text
+1197478	Europe; Albania; Austria; Belgium; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Greece; Hungary; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Sweden; Switzerland; USSR; Yugoslavia; Korea; Mongolia; :	text
+1197481	USA	text
+1197482	Santo Domingo	text
+1197484	Philippines	text
+1197485	Philippines	text
+1197486	Philippines	text
+1197487	Morocco	text
+1197488	Algeria	text
+1197489	USA; Canada; Mexico; :	text
+1197491	Philippines	text
+1197493	Santo Domingo	text
+1197494	Philippines	text
+1197496	China	text
+1197497	China	text
+1197503	Costa Rica	text
+1197505	Peru	text
+1197506	Isle Of Wight	text
+1197507	China	text
+1197508	Malaysia	text
+1197509	Argentina	text
+1197510	Finland	text
+1197511	Vietnam	text
+1197512	China	text
+1197513	Congo	text
+1197514	Malaysia	text
+1197515	Argentina	text
+1197516	Argentina	text
+1197517	Sri Lanka	text
+1197518	Ecuador	text
+1197519	Argentina	text
+1197520	Costa Rica	text
+1197522	Vietnam	text
+1197525	China	text
+1197526	Estonia; USSR	text
+1197527	Taiwan; China	text
+1197528	Italy	text
+1197529	Brazil	text
+1197530	Congo	text
+1197531	Malaysia	text
+1197532	Argentina	text
+1197533	South Africa	text
+1197534	Angola; Kenya; Nigeria; South Africa	text
+1197535	Singapore	text
+1197536	Australia	text
+1197537	Indonesia	text
+1197538	Japan	text
+1197539	Indonesia	text
+1197540	Congo	text
+1197541	Brazil	text
+1197542	Vietnam	text
+1197543	Vietnam	text
+1197544	Indonesia	text
+1197545	Congo	text
+1197546	Philippines	text
+1197547	Australia	text
+1197553	China	text
+1197554	Argentina	text
+1197555	Nigeria	text
+1197556	Brazil	text
+1197557	India	text
+1197558	Sri Lanka	text
+1197559	Angola	text
+1197560	Australia	text
+1197561	Peru	text
+1197562	Japan	text
+1197563	Indonesia	text
+1197566	Indonesia	text
+1197567	Argentina; Brazil	text
+1197568	Brazil	text
+1197569	Brazil	text
+1197570	Indonesia	text
+1197571	Singapore	text
+1197572	India	text
+1197573	Taiwan; China	text
+1197574	Costa Rica	text
+1197575	Indonesia	text
+1197576	India	text
+1197577	Singapore	text
+1197578	Brazil	text
+1197580	Taiwan; China	text
+1197581	Japan	text
+1197583	Indonesia	text
+1197584	China	text
+1197585	Argentina	text
+1197586	Philippines	text
+1197587	Vietnam	text
+1197588	Brazil	text
+1197589	Argentina	text
+1197591	Brazil	text
+1197592	Indonesia	text
+1197593	Argentina	text
+1197594	Reunion	text
+1197595	Brazil	text
+1197596	Singapore	text
+1197597	Bhutan	text
+1197598	Hong Kong; China	text
+1197599	Venezuela	text
+1197600	Hong Kong; China	text
+1197601	Tanzania	text
+1197609	Madeira; Azores; Canary Islands	text
+1197611	Spain	text
+1197612	Madeira; France; Greece; Ireland; Italy; Morocco; Spain; Canary Islands	text
+1197620	Morocco	text
+1197621	Canary Islands	text
+1197625	Australia	text
+1197627	USA	text
+1197628	USA	text
+1197629	Mexico	text
+1197630	Mexico	text
+1197631	USA	text
+1197633	New Guinea; Samoa	text
+1197634	New Guinea	text
+1197635	Taiwan; China; Japan	text
+1197636	India	text
+1197637	Australia	text
+1197638	Australia	text
+1197639	Paraguay	text
+1197640	Australia	text
+1197641	Taiwan; China; Japan	text
+1197642	Australia	text
+1197647	China	text
+1197648	China	text
+1197657	New Guinea	text
+1197658	Fiji	text
+1197659	Fiji; Melanesia	text
+1197660	New Guinea	text
+1197661	New Hebrides	text
+1197662	New Hebrides	text
+1197663	New Guinea	text
+1197664	Tonga; Melanesia	text
+1197665	New Guinea	text
+1197666	Fiji; New Hebrides	text
+1197667	Fiji	text
+1197668	New Guinea	text
+1197669	Fiji; New Hebrides	text
+1197671	New Caledonia	text
+1197672	Fiji	text
+1197673	Sri Lanka; Malaysia	text
+1197674	Fiji; Melanesia; Polynesia	text
+1197676	Colombia	text
+1197677	Galapagos	text
+1197678	Cuba	text
+1197679	Cuba	text
+1197680	USA; Honduras; Mexico	text
+1197681	Cuba	text
+1197682	USA; Bermuda Islands	text
+1197687	Cuba; USA	text
+1197688	USA; Mexico	text
+1197689	Chile	text
+1197690	Cuba	text
+1197691	Galapagos	text
+1197693	Cuba	text
+1197694	Guadeloupe	text
+1197695	Colombia	text
+1197697	Bermuda Islands	text
+1197698	USA; Canada	text
+1197699	Jamaica	text
+1197700	Cuba	text
+1197701	Bermuda Islands	text
+1197703	Jamaica	text
+1197704	Cuba	text
+1197705	Brazil	text
+1197706	Jamaica	text
+1197707	Venezuela	text
+1197708	Brazil	text
+1197709	USA; Cuba	text
+1197710	Cuba	text
+1197711	Cuba	text
+1197713	Peru	text
+1197714	China	text
+1197715	USA	text
+1197716	China	text
+1197717	China	text
+1197718	Europe; Austria; Belgium; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Greece; Hungary; Ireland; Italy; Luxembourg; Morocco; Netherlands; Norway; Poland; Romania; Spain; Switzerland; USSR; Yugoslavia; USA; Korea; :	text
+1197721	Indonesia	text
+1197722	Indonesia	text
+1197723	China	text
+1197724	USA	text
+1197725	USA; Canada	text
+1197726	Austria; Bulgaria; Czechoslovakia; Finland; France; Germany; Great Britain; Greece; Hungary; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Switzerland; USSR; Yugoslavia; :	text
+1197729	Chile	text
+1197731	China	text
+1197732	China	text
+1197733	China	text
+1197734	China	text
+1197735	China	text
+1197737	Europe; Austria; Belgium; Cyprus; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Greece; Hungary; Ireland; Israel; Italy; Luxembourg; Netherlands; Norway; Poland; Portugal; Romania; Spain; Sweden; Switzerland; USSR; Yugoslavia; Canary Islands; :	text
+1197756	Chile	text
+1197757	Haiti	text
+1197758	Santo Domingo	text
+1197759	China	text
+1197760	Argentina	text
+1197772	Egypt	text
+1197773	Austria; Bulgaria; Cyprus; Czechoslovakia; France; Germany; Greece; Italy; Poland; Romania; Spain; Switzerland; Yugoslavia	text
+1197779	Brazil	text
+1197780	China	text
+1197781	Ecuador	text
+1197783	China	text
+1197789	Hawaii	text
+1197791	Madagascar	text
+1197792	Micronesia	text
+1197793	Seychelles	text
+1197794	Kenya	text
+1197795	Hawaii	text
+1197796	Hawaii	text
+1197798	South Africa	text
+1197799	Reunion	text
+1197800	Australia	text
+1197801	Mozambique	text
+1197803	Fiji; Tonga	text
+1197804	Tanzania	text
+1197805	Madagascar	text
+1197806	Melanesian Arcs Islands	text
+1197807	Angola	text
+1197808	Saudi Arabia; Yemen	text
+1197809	Cape Verde Islands	text
+1197810	Australia	text
+1197811	Reunion	text
+1197812	Mongolia	text
+1197813	Aldabra Islands	text
+1197814	Ivory Coast	text
+1197815	Kenya	text
+1197816	China	text
+1197817	Madagascar	text
+1197818	Hawaii	text
+1197819	Hawaii	text
+1197820	Hawaii	text
+1197821	Tanzania	text
+1197822	Hawaii	text
+1197823	Hawaii	text
+1197825	Hawaii	text
+1197826	Hawaii	text
+1197828	China	text
+1197829	Ecuador	text
+1197830	Australia	text
+1197832	Hawaii	text
+1197833	China	text
+1197834	Chile	text
+1197835	Hawaii	text
+1197836	Indonesia	text
+1197837	China	text
+1197838	Hawaii	text
+1197839	Australia	text
+1197840	Reunion	text
+1197841	Hawaii	text
+1197842	Hawaii	text
+1197845	Hawaii	text
+1197846	Hawaii	text
+1197847	Hawaii	text
+1197848	Australia	text
+1197849	Hawaii	text
+1197850	Australia	text
+1197852	Hong Kong; China; Indonesia	text
+1197853	Solomon Islands	text
+1197854	Hawaii	text
+1197855	Hawaii	text
+1197856	Kenya	text
+1197857	Tanzania	text
+1197858	Indonesia	text
+1197859	Seychelles	text
+1197860	Hawaii	text
+1197864	Madagascar	text
+1197865	Hawaii	text
+1197866	Cuba; USA; Jamaica; Mexico	text
+1197867	Angola	text
+1197868	Hawaii	text
+1197869	China	text
+1197870	Australia	text
+1197871	Madagascar	text
+1197873	Brazil	text
+1197875	Hawaii	text
+1197876	Madagascar	text
+1197878	Galapagos	text
+1197879	Hawaii	text
+1197880	Hawaii	text
+1197881	Japan	text
+1197882	Hawaii	text
+1197883	Hawaii	text
+1197884	Australia	text
+1197885	Israel	text
+1197888	Hawaii	text
+1197889	Kenya	text
+1197890	Aldabra Islands	text
+1197891	Hawaii	text
+1197892	Hawaii	text
+1197893	Madagascar	text
+1197894	Kenya	text
+1197895	Hawaii	text
+1197896	Japan	text
+1197898	Madagascar	text
+1197899	Brazil	text
+1197900	Hawaii	text
+1197901	Hawaii	text
+1197902	Hawaii	text
+1197903	Hawaii	text
+1197904	Australia	text
+1197905	Hawaii	text
+1197906	Hawaii	text
+1197908	USA; Canada; Mexico	text
+1197911	Madagascar	text
+1197912	Indonesia	text
+1197913	Australia	text
+1197914	Mauritius	text
+1197915	Hawaii	text
+1197916	Madagascar	text
+1197917	Brazil	text
+1197918	Hawaii	text
+1197920	Indonesia	text
+1197921	Indonesia	text
+1197922	Hawaii	text
+1197923	India	text
+1197924	Madagascar	text
+1197925	Hawaii	text
+1197929	Hawaii	text
+1197930	Hawaii	text
+1197931	Kenya	text
+1197932	Hawaii	text
+1197933	Hawaii	text
+1197934	Madagascar	text
+1197936	Hawaii	text
+1197937	Guatemala; Mexico; Panama	text
+1197938	Australia	text
+1197939	Malaysia	text
+1197940	Australia	text
+1197941	Hawaii	text
+1197942	Kenya	text
+1197943	Indonesia	text
+1197944	Hawaii	text
+1197945	Australia	text
+1197946	Tanzania; Equatorial Guinea	text
+1197947	Hawaii	text
+1197967	Mexico	text
+1197968	Bolivia	text
+1197969	USA	text
+1197970	USA	text
+1197971	Brazil	text
+1197972	Mexico	text
+1197973	Mexico	text
+1197974	Paraguay; Peru; Brazil	text
+1197975	Brazil	text
+1197976	Paraguay; Peru	text
+1197977	Venezuela	text
+1197978	Peru	text
+1197983	China	text
+1197996	Australia	text
+1197997	Australia	text
+1197998	Australia	text
+1197999	Australia	text
+1198000	Australia	text
+1198001	Australia	text
+1198002	Australia	text
+1198003	Australia	text
+1198004	Australia	text
+1198005	Australia	text
+1198006	Australia	text
+1198007	Australia	text
+1198011	USA; Canada	text
+1198012	Angola	text
+1198013	Hong Kong; China; India	text
+1198014	Hong Kong; Indonesia; China; Malaysia	text
+1198015	China	text
+1198016	Hong Kong; China	text
+1198017	Indonesia	text
+1198018	China	text
+1198019	China	text
+1198020	USA; Azores	text
+1198021	China	text
+1198022	Sri Lanka; Indochina	text
+1198023	Angola; Azores; USA; Brazil; Malaysia	text
+1198024	Togo	text
+1198025	Venezuela	text
+1198026	USA; Mexico	text
+1198027	India	text
+1198028	Nepal	text
+1198029	China	text
+1198030	Australia	text
+1198032	Hong Kong; China	text
+1198033	France; Spain	text
+1198034	Germany; Czechoslovakia; Finland; Poland; Switzerland; USSR; Mongolia	text
+1198035	Nepal	text
+1198037	Malaysia	text
+1198038	Argentina; Brazil	text
+1198039	China	text
+1198040	China	text
+1198041	China	text
+1198042	China	text
+1198043	Malaysia	text
+1198044	Germany; Austria; Czechoslovakia; Finland; Luxembourg; Romania; Switzerland; Mongolia; USSR; :	text
+1198045	USA; Hungary; Italy; Switzerland	text
+1198046	Germany; Austria; Belgium; Czechoslovakia; Finland; France; Great Britain; Greece; Hungary; Ireland; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Switzerland; USSR; Yugoslavia; Canada; USA; :	text
+1198049	Malaysia; Indonesia	text
+1198050	Malaysia	text
+1198051	Morocco	text
+1198053	Nepal	text
+1198055	Thailand	text
+1198056	Hong Kong; China; Japan	text
+1198057	USA	text
+1198058	China	text
+1198060	Indonesia	text
+1198061	Indonesia	text
+1198062	Taiwan; China	text
+1198063	China	text
+1198064	Angola; Nigeria; Tanzania	text
+1198065	Angola; USA; Cuba; Mexico; Puerto Rico; Trinidad; Brazil; Suriname; Madagascar; Nigeria; Togo; Reunion; China; Hong Kong; Malayasia; New Britain; New Guinea; Singapore; :	text
+1198066	Hong Kong	text
+1198067	Ecuador	text
+1198068	Angola	text
+1198069	Nepal	text
+1198070	Brazil	text
+1198071	USA; Canada	text
+1198072	Indonesia	text
+1198073	China	text
+1198074	China	text
+1198075	Brazil	text
+1198076	Indonesia	text
+1198077	Bhutan	text
+1198078	China	text
+1198079	China	text
+1198080	Europe; Austria; Belgium; Bulgaria; Czechoslovakia; Denmark; Finland; France; Germany; Great Britain; Greece; Hungary; Italy; Luxembourg; Netherlands; Norway; Poland; Romania; Spain; Sweden; Switzerland; USSR; Yugoslavia; Azores; Japan; Taiwan; :	text
+1198081	Japan	text
+1198084	Brazil	text
+1198085	USA; Canada; Guatemala; Mexico	text
+1198088	India	text
+1198089	China	text
+1198090	China	text
+1198091	China	text
+1198092	Jamaica	text
+1198093	China	text
+1198094	Kenya; Tanzania	text
+1198095	China	text
+1198098	Malaysia	text
+1198099	China	text
+1198100	China	text
+1198192	NEP	TDWG Level 3 code
+1198193	NEP	TDWG Level 3 code
+1198197	NEP	TDWG Level 3 code
+1198199	NEP	TDWG Level 3 code
+1198200	NEP	TDWG Level 3 code
+1198205	NEP	TDWG Level 3 code
+1198208	MXT-CI	TDWG Level 4 code
+1198209	MXE-NL	TDWG Level 4 code
+1198210	MXS-OA	TDWG Level 4 code
+1198211	MXT-CI	TDWG Level 4 code
+1198212	PER	TDWG Level 3 code
+1198213	MXT-CI	TDWG Level 4 code
+1198214	MXS-OA	TDWG Level 4 code
+1198215	MXE-NL	TDWG Level 4 code
+1198216	MXT-CI	TDWG Level 4 code
+1198217	MXT-CI	TDWG Level 4 code
+1198218	MXG-VC	TDWG Level 4 code
+1198219	GUA	TDWG Level 3 code
+1198220	MXC-PU	TDWG Level 4 code
+1198221	PER	TDWG Level 3 code
+1198222	MXT-CI	TDWG Level 4 code
+1198223	MXC-DF	TDWG Level 4 code
+1198224	MXE-HI	TDWG Level 4 code
+1198225	MXE-NL	TDWG Level 4 code
+1198226	MXG-VC	TDWG Level 4 code
+1198227	PER	TDWG Level 3 code
+1198228	MXE-NL	TDWG Level 4 code
+1198229	NIC	TDWG Level 3 code
+1198230	MXS-OA	TDWG Level 4 code
+1198231	HON	TDWG Level 3 code
+1198232	PER	TDWG Level 3 code
+1198233	MXE-TA	TDWG Level 4 code
+1198234	MXE-DU	TDWG Level 4 code
+1198235	PER	TDWG Level 3 code
+1198236	MXS-JA	TDWG Level 4 code
+1198311	Hong Kong; China	text
+1198312	Japan	text
+1198313	Sri Lanka	text
+1198314	Japan	text
+1198322	Uae	text
+1198324	JAP-HK	TDWG Level 4 code
+1198327	Brazil; Argentina	text
+1198330	Peru	text
+1198332	Brazil	text
+1198333	Brazil	text
+1198334	Brazil	text
+1198335	Peru	text
+1198336	Brazil	text
+1198337	Ecuador; Peru	text
+1198338	Brazil	text
+1198339	Central America	text
+1198340	Brazil	text
+1198343	Brazil	text
+1198344	Brazil; Panama; French Guiana; Suriname	text
+1198346	Colombia	text
+1198348	Ecuador; Brazil	text
+1198349	Panama	text
+1198350	Honduras	text
+1198351	Brazil; Bolivia	text
+1198353	Venezuela	text
+1198354	Brazil	text
+1198355	Brazil	text
+1198356	Panama	text
+1198357	Panama	text
+1198359	Peru	text
+1198360	Panama	text
+1198361	Peru; Mexico	text
+1198364	Peru	text
+1198371	Seychelles	text
+1198373	Tanzania; Mexico; Nicaragua; Angola; Benin; Congo; Equatorial Guinea; Ivory Coast; Nigeria; Togo; Aldabras; Seychelles; Indonesia; :	text
+1198374	Sri Lanka; China; USA; Guatemala; Mexico; Ivory Coast; Mascarene Islands; Bhutan; India; Indonesia; Japan; Malaysia; Nepal; Philippines; Singapore; Taiwan; Vietnam; Hawaii; Micronesia	text
+1198377	Madagascar	text
+1198378	Angola	text
+1198379	New Guinea; Singapore; Madagascar; Christmas Island; Indonesia; Malaysia; Samoa	text
+1198382	Thailand; Indonesia	text
+1198383	Mauritius; Mascarene Islands	text
+1198384	India	text
+1198386	Brazil	text
+1198387	China	text
+1198388	Madagascar	text
+1198389	USA; Mexico	text
+1198390	Sri Lanka; Antilles; Jamaica; Indonesia; Nepal; New Guinea; Philippines; Singapore; Taiwan; Thailand; Vietnam; Hawaii; Micronesia; Samoa	text
+1198391	India	text
+1198392	Australia	text
+1198393	Reunion	text
+1198396	China	text
+1198397	China	text
+1198398	China	text
+1198399	China	text
+1198400	China	text
+1198401	China	text
+1198402	China	text
+1198429	Trinidad	text
+1198430	Costa Rica	text
+1198431	Mexico	text
+1198433	Mexico	text
+1198435	Zimbabwe	text
+1198437	Chile	text
+1198441	Chile	text
+1198450	Panama; Mexico	text
+1198452	Mexico	text
+1198454	MYA	TDWG Level 3 code
+1198458	Italy	text
+1198460	Cyprus	text
+1198461	Greece	text
+1198463	Mexico	text
+1198470	Thailand	text
+1198471	Thailand	text
+1198472	China	text
+1198473	China	text
+1198475	West Malaysia	text
+1198480	Thailand	text
+1198483	Thailand	text
+1198484	Thailand	text
+1198486	Dominica	text
+1198487	Jamaica	text
+1198488	St. Lucia	text
+1198489	Martinique	text
+1198490	Jamaica	text
+1198492	Brazil; Mexico	text
+1198493	Mexico; Peru	text
+1198496	Venezuela	text
+1198497	Brazil	text
+1198498	Mexico	text
+1198501	Peru	text
+1198503	Costa Rica	text
+1198504	Venezuela	text
+1198505	Mexico	text
+1198506	Mexico	text
+1198507	Brazil	text
+1198508	Brazil	text
+1198509	Trinidad	text
+1198510	Mexico	text
+1198514	China	text
+1198515	China	text
+1198539	Singapore	text
+1198540	Singapore	text
+1198541	Singapore	text
+1198542	Malaysia; Singapore	text
+1198543	Malaysia; Singapore	text
+1198545	Angola	text
+1198546	Sri Lanka	text
+1198548	Indonesia	text
+1198549	Singapore	text
+1198550	Singapore	text
+1198559	Madagascar	text
+1198562	Angola; Nigeria	text
+1198563	Ivory Coast	text
+1198564	Madagascar	text
+1198567	Congo	text
+1198568	Madagascar	text
+1198569	Tanzania	text
+1198570	Madagascar	text
+1198571	China	text
+1198572	Madagascar	text
+1198573	Jamaica	text
+1198574	Madagascar	text
+1198575	Madagascar	text
+1198576	Madagascar	text
+1198577	Madagascar	text
+1198578	Madagascar	text
+1198580	China	text
+1198589	China	text
+1198590	China	text
+1198591	China	text
+1198594	Australia	text
+1198595	Malawi; Congo; Zambia	text
+1198597	Angola	text
+1198598	Kenya	text
+1198605	USA; Mexico	text
+1198606	Cuba; USA	text
+1198609	Spain	text
+1198611	Colombia	text
+1198613	Uae	text
+1198614	Angola	text
+1198615	South Africa	text
+1198616	Canary Islands	text
+1198617	Nepal	text
+1198618	Israel; Cyprus; Greece	text
+1198621	Sri Lanka; Indonesia	text
+1198622	Taiwan	text
+1198623	Japan; Taiwan	text
+1198625	Indonesia	text
+1198627	China	text
+1198628	Singapore	text
+1198629	China	text
+1198630	Singapore	text
+1198632	China	text
+1198636	Thailand	text
+1198637	Bhutan	text
+1198638	Tanzania	text
+1198639	Venezuela	text
+1198640	Angola	text
+1198653	Nepal	text
+1198654	China	text
+1198655	China	text
+1198656	China	text
+1198657	Australia	text
+1198658	Australia	text
+1198659	Philippines	text
+1198660	Sri Lanka	text
+1198661	Angola	text
+1198662	Sri Lanka	text
+1198663	Angola	text
+1198664	Philippines	text
+1198665	Sri Lanka	text
+1198668	Brazil	text
+1198669	Brazil	text
+1198670	Argentina	text
+1198671	Brazil	text
+1198672	Brazil	text
+1198673	Brazil	text
+1198675	Malaysia; Indonesia	text
+1198699	Tanzania; Angola; Zimbabwe	text
+1198700	Ivory Coast	text
+1198701	Singapore	text
+1198703	China	text
+1198704	Christmas Island	text
+1198705	Japan; USA; India	text
+1198706	China	text
+1198707	China	text
+1198710	Sri Lanka	text
+1198711	Sri Lanka	text
+1198712	Sri Lanka	text
+1198713	Indonesia	text
+1198715	Paraguay	text
+1198717	China	text
+1198725	Guyana	text
+1198726	Congo; Angola	text
+1198730	Brazil; Paraguay; Mexico; Colombia	text
+1198731	Singapore	text
+1198732	Angola	text
+1198734	USA; Mexico	text
+1198735	Angola	text
+1198736	Angola	text
+1198737	Madeira	text
+1198738	USA; Mexico	text
+1198740	Brazil	text
+1198741	Angola	text
+1198743	Congo; Madagascar; Canary Islands; USA; Cuba; Mexico; Brazil; Colombia; Angola; Ivory Coast; :	text
+1198746	USA; Mexico	text
+1198747	Brazil	text
+1198748	Brazil	text
+1198749	Brazil	text
+1198750	Madagascar	text
+1198751	USA	text
+1198753	Brazil	text
+1198754	South Africa	text
+1198756	Brazil	text
+1198759	Brazil	text
+1198761	Brazil	text
+1198763	Angola; Ivory Coast	text
+1198764	Congo	text
+1198765	USA	text
+1198767	Brazil	text
+1198768	USA; Mexico	text
+1198769	Congo; Angola; Ivory Coast	text
+1198770	Cuba; Mexico	text
+1198772	Angola	text
+1198774	Angola	text
+1198775	Italy; Austria; Belgium; France; Great Britain; Madeira; Argentina; South Africa; :	text
+1198777	Mozambique; Angola; Mexico	text
+1198778	Argentina	text
+1198780	Brazil	text
+1198781	Congo	text
+1198782	Angola	text
+1198783	India	text
+1198784	USA	text
+1198785	Paraguay; Brazil	text
+1198786	Cuba; Mexico	text
+1198788	Angola	text
+1198791	Mexico; USA	text
+1198792	Great Britain; Congo; Ivory Coast	text
+1198794	USA; Canada	text
+1198795	Sri Lanka	text
+1198796	Angola	text
+1198797	Cameroon	text
+1198798	Angola; Ivory Coast; Galapagos	text
+1198800	Brazil	text
+1198801	Venezuela	text
+1198803	Brazil	text
+1198804	Galapagos; USA; Ecuador	text
+1198805	India; Philippines	text
+1198806	Angola	text
+1198807	Angola	text
+1198808	Argentina	text
+1198820	Angola	text
+1198823	Argentina	text
+1198824	Spain	text
+1198825	Great Britain; Cape Verde Islands; Mexico; Senegal; :	text
+1198826	Colombia	text
+1198828	Chile	text
+1198829	Angola; Kenya	text
+1198831	Angola; Kenya	text
+1198832	Angola	text
+1198833	China	text
+1198834	Germany; Czechoslovakia; Greece; USSR	text
+1198837	Australia	text
+1198838	Canary Islands	text
+1198839	Gabon	text
+1198840	India	text
+1198841	USA; Germany; Great Britain; Austria; France; Spain; Switzerland; :	text
+1198842	Angola	text
+1198843	Colombia	text
+1198844	Reunion	text
+1198845	world wide	text
+1198852	Congo	text
+1198853	Mozambique	text
+1198855	USSR; Great Britain; Austria; Belgium; Cyprus; Czechoslovakia; Finland; France; Germany; Greece; Italy; Luxembourg; Morocco; Norway; Poland; Portugal; Spain; Switzerland; Yugoslavia; Canada; USA; Mexico; South Africa; China; Australia; :	text
+1198857	Canary Islands	text
+1198858	Chile	text
+1198859	Chile	text
+1198860	Malta; Spain	text
+1198862	Germany; Great Britain; Austria; Belgium; Cyprus; Czechoslovakia; Finland; France; Greece; Hungary; Ireland; Italy; Luxembourg; Morocco; Poland; Spain; Switzerland; Yugoslavia; Azores; Canada; USA; Chile; Japan; Australia; Campbell Island; New Zealand; :	text
+1198864	Great Britain; Algeria; Austria; Belgium; Cyprus; Czechoslovakia; Finland; France; Germany; Greece; Hungary; Israel; Italy; Luxembourg; Malta; Morocco; Netherlands; Poland; Portugal; Romania; Spain; Switzerland; Tunisia; Turkey; Yugoslavia; Canary Islands; Cape Verde Islands; Madeira; USA; Argentina; Chile; Angola; Madagascar; China; Japan; Mongolia; Australia; :	text
+1198873	Argentina	text
+1198874	USA; Mexico	text
+1198875	Colombia	text
+1198876	Angola	text
+1198877	Chile	text
+1198878	Argentina	text
+1198879	Angola; Ivory Coast	text
+1198880	Europe; Albania; Armenia; Austria; Bulgaria; Czechoslovakia; Egypt; France; Germany; Great Britain; Iran; Israel; Italy; Romania; Sweden; Switzerland; USSR; USA; Mozambique; Crozet Islands; China; Indonesia; Japan; Pakistan; New Zealand; Hawaii; :	text
+1198886	Greece	text
+1198887	China	text
+1198888	Europe; Colombia; Cyprus; Israel; Turkey; Azores; Cape Verde Islands; USA; Lesser Antilles; Cuba; Mexico; Nicaragua; Chile; Angola; Congo; Guinea-bissau; Madagascar; Mozambique; Senegal; Tanzania; Togo; Zimbabwe; Mascarene Islands; China; India; Indonesia; Japan; Korea; Philippines; Singapore; Thailand; Vietnam; Australia; Galapagos; New Hebrides	text
+1198891	Mozambique; Angola; Congo	text
+1198894	Colombia	text
+1198895	Taiwan; China	text
+1198896	Gabon	text
+1198897	Poland; Germany; Romania; USSR; USA; Mongolia	text
+1198899	Brazil; USA; Mexico	text
+1198900	Chile	text
+1198901	Mongolia	text
+1198903	Congo; Togo	text
+1198904	USA; Mexico; Venezuela	text
+1198905	Germany; Austria; Cyprus; France; Greece; Hungary; Italy; Morocco; Spain; Switzerland; Yugoslavia; :	text
+1198907	Kerguelen Islands	text
+1198908	Cyprus; Greece; Italy	text
+1198909	USA	text
+1198910	Chile	text
+1198911	Brazil	text
+1198912	Argentina; Chile	text
+1198913	Angola	text
+1198914	Angola	text
+1198915	Morocco	text
+1198916	Venezuela	text
+1198917	Angola; Equatorial Guinea	text
+1198918	Great Britain; France; Italy; Switzerland; Yugoslavia; Canary Islands; USA; Mexico; Angola; Congo; Australia; :	text
+1198919	Scilly Islands; France; Armenia; Great Britain; Greece; Italy; Morocco; Romania; Spain; USSR; Madeira	text
+1198921	Colombia	text
+1198922	Congo; Cape Verde Islands	text
+1198923	Mexico	text
+1198924	Chile	text
+1198925	Great Britain; Belgium; France; Morocco; Portugal; Spain	text
+1198927	USA; Mexico	text
+1198928	USA	text
+1198930	China	text
+1198931	Argentina	text
+1198932	Chile	text
+1198933	Chile	text
+1198934	Great Britain; Egypt	text
+1198935	Romania; Greece; Italy; Yugoslavia	text
+1198937	Mexico; Colombia	text
+1198938	Mexico	text
+1198939	Great Britain; Belgium; Czechoslovakia; Italy; Yugoslavia; USA; Congo; Zimbabwe; India; Indonesia; Australia; :	text
+1198940	Great Britain; Italy; Canary Islands; Cape Verde Islands; Madeira; :	text
+1198941	Germany; France; Hungary; Luxembourg; Switzerland; Yugoslavia	text
+1198942	USA; China	text
+1198943	USA; Mexico	text
+1198944	Chile	text
+1198945	Madagascar	text
+1198946	Great Britain; Austria; Czechoslovakia; Finland; France; Germany; Hungary; Israel; Italy; Luxembourg; Spain; Switzerland; Yugoslavia; USA; Japan; :	text
+1198949	Angola	text
+1198950	Morocco; Greece; Israel	text
+1198951	Kenya	text
+1198952	South Africa; USA	text
+1198953	Albania; Greece; Yugoslavia; Cyprus; Italy	text
+1198955	Angola; Kenya; Senegal	text
+1198956	Great Britain; Belgium; Czechoslovakia; Germany; Italy; Luxembourg; Switzerland; Yugoslavia; Azores; Tristan Da Cunha; Argentina; Chile; Australia; New Zealand; :	text
+1198957	Spain	text
+1198958	North America	text
+1198959	Tanzania	text
+1198960	Argentina	text
+1198961	Chile	text
+1198962	Great Britain; Cyprus; France; Greece; Israel; Italy; Morocco; Poland; Spain; Switzerland; Yugoslavia; Canary Islands; USA; Chile; Angola; Australia; :	text
+1198963	China	text
+1198964	Morocco; Cyprus; Greece; Portugal; Canary Islands	text
+1198965	Portugal; Spain	text
+1198966	Chile	text
+1198967	Germany; Armenia; Austria; Belgium; Bulgaria; Czechoslovakia; Finland; France; Hungary; Italy; Luxembourg; Morocco; Norway; Poland; Portugal; Romania; Spain; Sweden; Switzerland; USSR; Yugoslavia; Canary Islands; USA; Mongolia; :	text
+1198968	Chile	text
+1198969	China	text
+1198970	Australia	text
+1198971	Senegal	text
+1198972	South Africa; Congo; India	text
+1198974	Greece; France; Lebanon; Turkey; Yugoslavia	text
+1198975	USA	text
+1198976	Spain	text
+1198977	USA; Colombia	text
+1198978	China	text
+1198979	China	text
+1198997	Ascension Island	text
+1199003	Angola	text
+1199005	Madagascar	text
+1199006	New Hebrides; Reunion; Cyprus; Spain; Canary Islands; USA; Jamaica; Mexico; Nicaragua; Venezuela; Angola; Benin; Congo; Equatorial Guinea; Gabon; Ivory Coast; Togo; Mascarene Islands; Japan; :	text
+1199009	Equatorial Guinea	text
+1199010	Angola; Uganda	text
+1199014	India	text
+1199015	New Guinea; Guam	text
+1199016	Uganda	text
+1199018	Cuba	text
+1199019	Indonesia	text
+1199020	China	text
+1199021	Mexico	text
+1199022	Chile	text
+1199023	Australia	text
+1199024	Great Britain; Canary Islands	text
+1199025	Mexico	text
+1199026	Indonesia	text
+1199027	Colombia	text
+1199028	Congo; Angola; Nigeria; Senegal	text
+1199031	Christmas Island	text
+1199032	Guadeloupe	text
+1199034	India	text
+1199035	Taiwan; China; India; Hawaii; Micronesia	text
+1199037	Galapagos	text
+1199038	Angola	text
+1199039	Brazil	text
+1199040	Madagascar	text
+1199041	Fiji; Tonga	text
+1199042	USA; Central America; Belize; Guadeloupe; Guatemala; Jamaica; Mexico; Venezuela	text
+1199043	Madagascar	text
+1199044	Brazil	text
+1199045	Mariana Islands	text
+1199046	Indonesia	text
+1199047	Cuba	text
+1199048	Mexico; Panama	text
+1199049	Brazil; Venezuela	text
+1199050	Mexico	text
+1199051	Cuba	text
+1199052	Indonesia	text
+1199053	China	text
+1199054	Indonesia	text
+1199055	Angola	text
+1199056	Galapagos	text
+1199057	Senegal	text
+1199058	Fiji	text
+1199059	Jamaica	text
+1199060	Mexico	text
+1199066	Brazil	text
+1199068	Angola	text
+1199070	France; Greece; Israel; Spain; Canary Islands	text
+1199072	Galapagos	text
+1199073	Egypt; USA; Uae	text
+1199074	Angola	text
+1199075	Angola	text
+1199076	Ivory Coast; Angola; Madagascar; Senegal	text
+1199079	South Africa	text
+1199080	Ivory Coast; Angola; India; Senegal	text
+1199081	Brazil; Venezuela	text
+1199083	South Africa	text
+1199084	Australia	text
+1199085	Ivory Coast; Senegal; Christmas Island	text
+1199086	Congo; Angola	text
+1199087	Angola	text
+1199088	Angola	text
+1199089	Mariana Islands	text
+1199090	Mexico	text
+1199091	Mexico	text
+1199092	Mexico; USA	text
+1199093	Angola	text
+1199094	Mexico	text
+1199095	Indonesia	text
+1199096	Australia	text
+1199097	Madagascar	text
+1199098	Christmas Island	text
+1199099	Angola	text
+1199100	Madagascar	text
+1199101	Madagascar	text
+1199104	Angola	text
+1199105	India	text
+1199106	India	text
+1199107	Senegal	text
+1199108	South Africa	text
+1199109	Barbados; Senegal	text
+1199110	Uae	text
+1199112	Taiwan; China	text
+1199113	India	text
+1199115	Brazil	text
+1199121	Chile	text
+1199122	Chile	text
+1199123	Chile	text
+1199124	Chile	text
+1199125	Great Britain; Belgium; Finland; France; Germany; Ireland; Luxembourg; Norway; Switzerland; :	text
+1199127	Argentina; USA	text
+1199128	Chile	text
+1199129	Chile; Ascension Island	text
+1199130	Saint Helena	text
+1199131	Australia	text
+1199132	Angola	text
+1199133	Chile	text
+1199134	Chile	text
+1199135	Chile	text
+1222990	BZE-BA	TDWG Level 4 code
+1222991	BZN-PA	TDWG Level 4 code
+1223015	PER	TDWG Level 3 code
+1223196	VIE	TDWG Level 3 code
+1223199	BOL	TDWG Level 3 code
+1223203	CLM	TDWG Level 3 code
+1223204	CLM	TDWG Level 3 code
+1223229	CLM	TDWG Level 3 code
+1223230	CLM	TDWG Level 3 code
+1223232	CLM	TDWG Level 3 code
+1223233	CLM	TDWG Level 3 code
+1223239	MXG-VC	TDWG Level 4 code
+1223241	MXG-VC	TDWG Level 4 code
+1223242	CLM	TDWG Level 3 code
+1223243	CLM	TDWG Level 3 code
+1223246	MXS-OA	TDWG Level 4 code
+1223247	MXS-OA	TDWG Level 4 code
+1223248	MXS-OA	TDWG Level 4 code
+1223249	MXS-OA	TDWG Level 4 code
+1223250	CLM	TDWG Level 3 code
+1223259	BZC-MT	TDWG Level 4 code
+1223260	84    	TDWG Level 2 code
+1223262	BZC-GO	TDWG Level 4 code
+1223263	BZS-SC	TDWG Level 4 code
+1223267	ECU	TDWG Level 3 code
+1223268	ECU	TDWG Level 3 code
+1223269	BZN-RO	TDWG Level 4 code
+1223270	BZC-MT	TDWG Level 4 code
+1223271	BOL	TDWG Level 3 code
+1223275	BZE-BA	TDWG Level 4 code
+1223280	CLM	TDWG Level 3 code
+1223281	CLM	TDWG Level 3 code
+1223282	CLM	TDWG Level 3 code
+1223283	CLM	TDWG Level 3 code
+1223333	MXE-NL	TDWG Level 4 code
+1223342	MXT-CI	TDWG Level 4 code
+1223344	PER	TDWG Level 3 code
+1223345	PER	TDWG Level 3 code
+1223349	CLM	TDWG Level 3 code
+1223351	PER	TDWG Level 3 code
+1223352	PER	TDWG Level 3 code
+1223353	BZN-PA	TDWG Level 4 code
+1223354	BZN-PA	TDWG Level 4 code
+1223355	PER	TDWG Level 3 code
+1223356	CLM	TDWG Level 3 code
+1223405	BZN-AM	TDWG Level 4 code
+1223407	WIN-DO	TDWG Level 4 code
+1223409	PER	TDWG Level 3 code
+1223411	MXS-GR	TDWG Level 4 code
+1223412	MXT-CI	TDWG Level 4 code
+1223413	GUA	TDWG Level 3 code
+1223414	MXT-CI	TDWG Level 4 code
+1223418	MXS-OA	TDWG Level 4 code
+1223419	PER	TDWG Level 3 code
+1223420	MXC-MO	TDWG Level 4 code
+1223422	BZN-AM	TDWG Level 4 code
+1223424	PER	TDWG Level 3 code
+1223425	CLM	TDWG Level 3 code
+1223426	CLM	TDWG Level 3 code
+1223427	CLM	TDWG Level 3 code
+1223428	CLM	TDWG Level 3 code
+1223431	CLM	TDWG Level 3 code
+1223432	CLM	TDWG Level 3 code
+1223439	BZE-BA	TDWG Level 4 code
+1223440	BZE-BA	TDWG Level 4 code
+1223442	CLM	TDWG Level 3 code
+1223448	PAR	TDWG Level 3 code
+1223450	CLM	TDWG Level 3 code
+1223451	CLM	TDWG Level 3 code
+1223483	BAH	TDWG Level 3 code
+1223484	BAH	TDWG Level 3 code
+1223485	BAH	TDWG Level 3 code
+1223486	BAH	TDWG Level 3 code
+1223487	BAH	TDWG Level 3 code
+1223488	BAH	TDWG Level 3 code
+1223492	BZC-GO	TDWG Level 4 code
+1223561	JAP	TDWG Level 3 code
+1223572	CLM	TDWG Level 3 code
+1223587	BZE-BA	TDWG Level 4 code
+1223588	PER	TDWG Level 3 code
+1223589	MXS-JA	TDWG Level 4 code
+1223590	PER	TDWG Level 3 code
+1223591	PER	TDWG Level 3 code
+1223592	CLM	TDWG Level 3 code
+1223593	CLM	TDWG Level 3 code
+1223594	CLM	TDWG Level 3 code
+1223595	CLM	TDWG Level 3 code
+1223596	MXS-JA	TDWG Level 4 code
+1223598	CHC-YN	TDWG Level 4 code
+1223602	CHC-GZ	TDWG Level 4 code
+1223637	MLY-PM	TDWG Level 4 code
+1223638	MLY-PM	TDWG Level 4 code
+1223639	MLY-PM	TDWG Level 4 code
+1223640	MLY-SI	TDWG Level 4 code
+1223648	CLM	TDWG Level 3 code
+1223649	CLM	TDWG Level 3 code
+1223650	CLM	TDWG Level 3 code
+1223651	BZE-BA	TDWG Level 4 code
+1223652	BZN-AM	TDWG Level 4 code
+1223653	CLM	TDWG Level 3 code
+1223655	THA	TDWG Level 3 code
+1223656	THA	TDWG Level 3 code
+1223657	BOR-SB	TDWG Level 4 code
+1223659	CLM	TDWG Level 3 code
+1223664	JAP	TDWG Level 3 code
+1223909	CLS	TDWG Level 3 code
+1223910	QLD-QU	TDWG Level 4 code
+1223911	PUE	TDWG Level 3 code
+1223917	BZL-MG	TDWG Level 4 code
+1223921	BZN-TO	TDWG Level 4 code
+1223922	BZE-BA	TDWG Level 4 code
+1223923	THA	TDWG Level 3 code
+1223925	MXS-GR	TDWG Level 4 code
+1223926	ARI	TDWG Level 3 code
+1223927	ARI	TDWG Level 3 code
+1223928	GUA	TDWG Level 3 code
+1223932	GUA	TDWG Level 3 code
+1223933	NWM	TDWG Level 3 code
+1223934	MXE-SL	TDWG Level 4 code
+1223935	CAL	TDWG Level 3 code
+1223937	MXC-PU	TDWG Level 4 code
+1223938	MXE-NL	TDWG Level 4 code
+1223939	MXG-VC	TDWG Level 4 code
+1223940	TEX	TDWG Level 3 code

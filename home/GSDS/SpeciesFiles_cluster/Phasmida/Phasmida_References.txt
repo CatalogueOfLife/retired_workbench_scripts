@@ -1,0 +1,855 @@
+﻿ReferenceID	Authors	Year	Title	Source
+34228	Bragg	1993	The Phasmid Database: Changes to version 1	Phasmid Studies 2(1):33-34
+34231	Bragg	1996	Redescriptions, synonyms, and distributions of two species of Lonchodinae from Borneo: Lonchodes catori Kirby and Lonchodes hosei (Kirby)	Phasmid Studies 5(1):32-45
+34234	Brey	2001	Species Report PSG 213: Malacomorpha jamaicana (Redtenbacher, 1906)	Phasmid Studies 10(1):1-5
+34235	Brock	1993	List of stick and leaf-insect (Phasmatodea = Phasmida) type material in the Natural History Museum, published since Kirby's 1904 catalogue	Phasmid Studies 2(1):17-24
+34236	Brock	1996	Changes of taxonomy in giant stick-insects	Phasmid Studies 5(1):25-31
+34237	Brock	1997	Taxonomic changes relating to New Zealand stick insects	Phasmid Studies 6(1):21-23
+34238	Brock	1998	A new species of Phobaeticus Brunner von Wattenwyl, from the Philippines (Phasmatidae)	Phasmid Studies 6(2):43-45
+34240	Brock	2000[1999]	Studies in the genus Phalces Stål	Phasmid Studies 8(1/2):1-8
+34241	Zompro	2001	Note on Pseudodiacantha macklottii (de Haan, 1842)	Phasmid Studies 10(1):15-16
+34242	Zompro	2001	A new species of the genus Phanocles from Ecuador (Phasmatodea: Diapheromeridae: Diapheromerinae: Diapheromerini)	Phasmid Studies 10(1):17-18
+34243	Zompro	2003	Catalogue of type-material of the insect order Phasmatodea deposited in the Museum für Tierkunde, Dresden, Germany	Phasmid Studies 11(2):31-44
+34248	Hennemann	2003	The identity of Lonchodes geniculosus (Westwood, 1848) - a mistaken Lonchodinae from Malaysia and the description of the female (Phasmatodea: Phasmatidae: Lonchodinae)	Phasmid Studies 11(2):23-30
+34253	Hennemann	2002	A new species of Phanocles Stål, 1875, from Costa Rica (Phasmatodea: Diapheromeridae: Diapheromerinae: Diapheromerini)	Phasmid Studies 11(1):8-13
+34272	Brock & Cliquennois	2001[2000]	A review of the genus Medaura Stål, 1875 (Phasmatidae: Phasmatinae), including the description of a new species from Bangladesh	Phasmid Studies 9(1/2):11-26
+34276	Bragg	2005	A reassessment of some Bornean Lonchodinae and Aschiphasmatidae, with some lectotype designations, new synonyms, and the description of two new species	Phasmid Studies 13(1-2):11-29
+34277	Bragg	2005	A new species of the genus Baculofractum, the first record of the genus from Borneo	Phasmid Studies 13(1-2):31-37
+34279	Brock	2005	A new genus and four new species of South African stick insects	Phasmid Studies 12(1-2):25-37
+34283	Brock	1998	List of type specimens of stick-insects in the Zoölogisch Museum, Universiteit van Amsterdam.	Phasmid Studies 7(1):5-9
+34294	Zompro	2001	Caledoniophasma marshallae, a new genus and species of Phasmatodea	Phasmid Studies 10(2):29-33
+34296	Brock & Hasenpusch	2001[2000]	Cigarrophasma, a new genus of stick-insect (Phasmatidae) from Australia	Phasmid Studies 9(1&2):4-10
+34299	Bragg	1993	Some notes on Dinophasma guttigera (Westwood) from Borneo	Phasmid Studies 2(2):62-65
+34305	Bragg	2006	A review of Paraloxopsis Gunther, 1932 and a first description of the male and egg of Paraloxopsis korystes Gunther, 1932.	Phasmid Studies 14(1-2):1-11
+34306	Bragg	2006	A new subgenus of Orthomeria Kirby, 1904 and a new species from Danum Valley, Sabah.	Phasmid Studies 14(1-2):12-19
+34307	Brock	1998	The description of a new genus for a Jamaican stick-insect	Phasmid Studies 7(1):26-29
+34312	Brock	2000[1999]	Redescription of Mantis filiformes Fabricius (Phasmatidae: Bacteriinae)	Phasmid Studies 8(1&2):9-12
+34316	Zompro	2001	[Author's note of errors in New World revision]	Phasmid Studies 10(1&2):49
+34318	Bragg	2007	A redescription of Sosibia lysippus (Westwood, 1859)	Phasmid Studies 15(1&2):11-14
+34319	Hennemann	2007	Notes on the genera Andropromachus Carl, 1913 and Spinohirasea Zompro, 2001	Phasmid Studies 15(1&2):15-26
+34332	Bragg	2008	Notes on Necroscia affinis (Gray, 1835), Necroscia fragilis (Redtenbacher, 1908) and Necroscia pallida (Redtenbacher, 1908)	Phasmid Studies 17(1):16-26
+34339	Bresseel & Bushell	2009	A spectacular new species of Ophicrania Kaup, 1871, from Mindanao, Philippines (Phasmatodea, Phasmatidae, Platycraninae)	Phasmid Studies 17(2):59-65
+34341	Ho, G.W.C.	2013	Necroscia perplexus (Redtenbacher, 1908) comb. nov. (Phasmatodea: Diapheromeridae: Necrosciinae), a new species to China	Phasmid Studies 18(1&2):19-23
+34344	Huang, Y.S.	2013	Sinophasma hoenei formosanum Y.S. Huang, subsp. nov., a new subspecies of stick insect fromTaiwan (Phasmida: Diapheromeridae: Necrosciinae)	Phasmid Studies 18(1-2):39-51
+34348	Beccaloni	1993	A new species of Extatosoma Gray (Phasmatodea: Phasmatidae) from Papua New Guinea, with remarks on the species in this genus	Tijdschrift voor Entomologie 136(2):113-123
+34349	Bragg	1995	A review of the subfamily Korinninae (Phasmida: Pseudophasmatidae), with the description of a new species	Tijdschrift voor Entomologie 138(1):45-50
+34352	Berg	1899	Sobre algunos anisomórfidos chileno-argentinos	Comunicaciones del Museo Nacional de Buenos Aires 1(5):181-186
+34353	Bey-Bienko	1960	The first representative of Phasmoptera insects in the Soviet Far East	Doklady Academii Nauk SSSR 130(3):690-692
+34354	Bi & T. Li	1994	A new species of the genus Datames Stål (Phasmatodea: Bacillidae) from Guangxi	Entomotaxonomia 16(4):254-256
+34355	Chen, S.C., Z.H. Shang & Pei	2000	Two new species of walking stick (Phasmatodea: Phasmatidae) from Xizang and Yunnan, China	Entomotaxonomia 22(2):98-100
+34356	Chen, S.C. & Y.H. He	2000	Two new species of Phasmatodea (Phasmatodea: Anareolatae) from South China	Entomotaxonomia 22(1):17-19
+34357	Bi, W.N. Zhang & C.S.K. Lau	2001	Study of the Walking Stick Insects (Phasmatodea) and the genus Sipyloidea from Hong Kong District of China	Entomotaxonomia 23(4):253-258
+34358	Chen, S.C. & P.Y. Zhang	2008	Five New Species of Stick Insects from Yunnan  Province and Description of Male Cnipsomorpha  colorantis (Chen et He) (Phasmatodea:  Heteronemiidae,Phasmatidae)	Entomotaxonomia 30(4):245-254
+34359	Chen, S.C. & Pan	2009	A New Species of the Genus Cnipsomorpha  (Phasmatodea: Heteronemiidae) from Yunnan Province	Entomotaxonomia 31(2):85-87
+34360	Bi	1994	A new species of the genus Pharnacia Stai from Hainan Province of China (Phasmatidae: Phasmatinae)	Entomological Journal of East China (Entomol. J. E. China) 3(1):10-12, 3 figs
+34361	Chen, S.C. & Y.H. He	2001	Two new record genera and new species of Phasmatodea from China (Phasmatodea: Phasmatidae, Heteronemiidae)	Entomological Journal of East China (Entomol. J. E. China) 10(1):8-10
+34362	Bi	1995	Description of three new genera and three new species of Phasmatodea from Xizang, China (Phasmida: Pseudophasmatidae, Heteronemiidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 38(4):452-457
+34363	Cai	1989	Description of a new species of walking stick from China (Phasmatodea: Heteronemiidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 32(3):322-324
+34364	Chen, S.C.	1986	Notes on chinese Sinophasma Günther with descriptions of a new species. (Phasmida: Heteronemiidae: Necrosciinae)	Acta Entomologica Sinica (Acta Ent. Sinica) 29(1):85-88
+34365	Chen, S.C.	1991	A new species of Sinophasma Günther from Guizhou, China (Phasmida: Necrosciinae)	Acta Entomologica Sinica (Acta Ent. Sinica) 34(4):450-452
+34366	Chen, S.C.	1992	A new species of the genus Macellina (Phasmida: Heteronemiidae, Pachymorphinae)	Acta Entomologica Sinica (Acta Ent. Sinica) 35(1):72-74
+34367	Liu, S.L.	1990	A new species of leaf insect from China (Phasmatodea:Phylliidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 33(2):227-229
+34369	Liu, S.L. & Cai	1994	Descriptions of three new species of Micadina from China (Phasmatodea:Heteronemiidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 37(1):87-90
+34370	Chen, S.C. & Y.H. He	1993	A new species of the genus Baculum from Shaanxi, China (Phasmida: Phasmatidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 36(3):357-358
+34371	Chen, S.C. & Y.H. He	1994	Two new species of the genus Baculum from China (Phasmida: Phasmatidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 37(2):196-198
+34372	Chen, S.C. & Y.H. He	1995	A new species of the genus Baculum Saussure from Guangxi Province (Phasmida: Phasmatidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 38(4):458-459
+34373	Chen, S.C. & Y.H. He	1996	A new species of Cnipsus from Yunnan, China (Phasmida: Phasmatidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 39(3):268-288
+34374	Chen, S.C. & Y.H. He	1997	A new genus and new species of Heteronemiidae from Guangxi, China (Phasmatodea: Heteronemiidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 40(3):297-299
+34375	Chen, S.C. & Y.H. He	1994	Two new species of stick insects from Xizang Autonomous Region (Phasmatodea: Phasmatidae; Heteronemiidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 1(4):311-313
+34376	Chen, S.C.	1986	A new species of the genus Entoria Stål (Phasmida: Phasmatidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 29(4):401-404
+34377	Chen, S.C. & Y.H. He	1997	A new species of Prosentoria from Yunnan (Phasmatodea: Phasmatidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 40(2):183-184
+34378	Chen, S.C. & P.C. Chen	1999	A new species of Sinophasma from Viet Nam (Phasmatodea: Heteronemiidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 42(3):300-302
+34379	Chen, S.C. & Z.H. Shang	2002	Two new species of Baculum from Viet Nam (Phasmatodea: Phasmatidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 45:4-5 (supplement)
+34380	Chen, S.C. & Y.H. He	2002	Three new species of Carausius from Sichuan and Yunnan provinces, China (Phasmatodea: Heteronemiidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 45:1-3 (Supplement)
+34381	Chen, S.C. & J.J. Wang	1993	A new species of the genus Macellina Uvarov from Guangxi (Phasmida: Heteronemiidae)	Acta Entomologica Sinica (Acta Ent. Sinica) 36(4):472-474
+34383	Bolívar	1888	Enumération des Orthoptères de l´Île de Cuba	Mémoires de la Société zoologique de France 1:116-164
+34384	Bolívar	1889	Ortópteros de Africa del Museo de Lisboa	Journal de sciencias mathematicas, physicas e naturaes, Lisboa 1(2):73-112, 1pl
+34385	Bolívar	1906	Rectificationes y observaciones ortopterólogicas.	Boletín de la Real Sociedad española de historia natural, Madrid 6:384-393
+34386	Bolívar	1926	Datos complementarios sobre los Orthópteros de la Península Ibérica. Boletin de la R	Boletín de la Real Sociedad española de historia natural, Madrid 26:98-102
+34390	Bragg	1992	Phasmida from Bako National Park	Sarawak Museum Journal 43(64):295-319
+34391	Bragg	1992	The Phasmid Phenacephorus spinulosus (Hausleithner) from Borneo, including a description of the female	Entomologist’s monthly Magazine 128:185-192
+34392	Bragg	1995	The Phasmid genus Hoploclonia Stål from Borneo, including the description of two new species	Entomologist’s monthly Magazine 131:25-39
+34396	Karabag	1955	A new Phasmid (Orthoptera) from Turkey	Entomologist’s monthly Magazine 91:98
+34397	Bragg	1992	Illustrations and notes on the phasmid Diesbachia hellotis (Westwood) from Borneo, including a new synonym	Entomologist 111(2):95-101
+34399	Bragg	1995	The longest stick insect in the world, Pharnacia kirbyi (Brunner)	Entomologist 114(1):26-30
+34400	Gahan	1912	A new species of the genus Prisopus, considered especially in reference to the supposed aquatic habits of the genus	Entomologist 45(585):49-55
+34403	Bragg & Chan	1993	A new species of stick insect of the genus Lonchodes from Kinabalu, Sabah. (Phasmida: Heteronemiidae: Lonchodinae: Lonchodini)	Entomologist 112(3-4):176-186
+34408	Bragg	1993	New synonyms and new records of Phasmids (Insecta: Phasmida) in Borneo	Raffles Bulletin of Zoology 41(1):31-46
+34410	Bragg	1994	A review and key to the genus Phenacephorus Brunner (Insecta: Phasmida: Heteronemiidae: Lonchodinae), including the description of two new species	Zoologische Mededelingen, Leiden (Zool. Med. Leiden.) 68(22):231-248
+34411	Bragg	1995	A new species of Lopaphus Westwood, described from Borneo (Insecta: Phasmida: Heteronemiidae: Necrosciinae)	Zoologische Mededelingen, Leiden (Zool. Med. Leiden.) 69(9):105-111
+34412	Bragg	1996	Type specimens of Phasmida in the Nationaal Natuurhistorisch Museum, Leiden (Insecta: Phasmida)	Zoologische Mededelingen, Leiden (Zool. Med. Leiden.) 70(6):105-115
+34413	Bragg	1995	A new species of Nearchus (Insecta: Phasmida: Phasmatidae) from Borneo, and a description of the male of N. redtenbacheri	Zoologische Mededelingen, Leiden (Zool. Med. Leiden.) 69(21):273-279
+34414	Bragg	1995	A new species of Phenacephorus from Kalimantan	Zoologische Mededelingen, Leiden (Zool. Med. Leiden.) 69(16):203-208
+34415	Werner	1922		Zoologische Mededelingen, Leiden (Zool. Med. Leiden.)
+34416	Hennemann & Conle	2006	The genus Paracyphocrania Redtenbacher, 1908 (Phasmatodea: Phasmatinae: Phasmatini)	Zoologische Mededelingen, Leiden (Zool. Med. Leiden.) 80-4(9):91-101
+34418	Bragg	1998	A revision of the Heteropteryginae (Insecta: Phasmida: Bacillidae) of Borneo, with the description of a new genus and ten species	Zoologische Verhandelingen, Leiden 316:1-135
+34423	Brock	1998[1997]	Catalogue of stick-insect (Insecta: Phasmida) type material in the Museo Regionale di Scienze Naturali, Torino.	Bollettino del Museo Regionale di Scienze Naturali, Torino 15(2):299-310, pl. 1-2
+34425	Liana	1996	A note on the collection of Walkingsticks (Phasmatodea) in the Museum and Institute of Zoology of the Polish Academy of Sciences in Warsaw	Metaleptea 16(1):5
+34430	Brock	1995	Catalogue of Stick and Leaf-Insects (Insecta: Phasmida) associated with Peninsular Malaysia and Singapore	Malaysian Naturalist 49(2):83-102
+34434	Seow-Choen, Brock & Seow-En	1994	Notes on the Stick-insect Prisomera malaya (Stål) (Phasmida) in Singapore with a description of the male and egg	Malaysian Naturalist 48:59-65
+34435	Seow-Choen, Brock & Seow-En	1994	An introduction to the Stick and Leaf-insects of Singapore	Malaysian Naturalist 48(1):7-11
+34440	Cliquennois	2004	À propos des Gratidiini: notes critiques (Phasmatodea, Anareolatae	Bulletin de Phyllie 22:12-28
+34442	Cliquennois	2003	Matériel typique des Phasmes de Madagascar (Insecta, Phasmatodea)	Bulletin de Phyllie 17(3):3-15
+34473	Langlois	1996	L oeuf de Craspedonia gibbosa (Burmeister 1838)	Le Monde des Phasmes 43:3-8
+34487	Langlois & Lelong	1996		Le Monde des Phasmes 35
+34496	Cai	1987	A list of Chinese Phasmids with the key to subfamilies	Contributions from Tianjin Natural Museum 4:26-30
+34497	Liu, S.L.	1987	Two new species of genus Sinophasma (Phasmida: Heteronemiidae) of China	Contributions from Tianjin Natural Museum 4:1-3
+34498	Camousseight	1986	El genero Xeropsis Redtenbacher 1908 (Phasmatodea: Pseudophasmatidae)	Revista Chilena de Entomologica, Santiago (Rev. Chilena Ent.) 14:65-69
+34499	Camousseight	1995	Revisión taxonómica del género Agathemera (Phasmatodea: Pseudophasmatidae) en Chile	Revista Chilena de Entomologica, Santiago (Rev. Chilena Ent.) 22:35-53
+34504	Camousseight	2006[2005]	Redefinición del género Agathemera Stål, 1875 (Phasmatodea, Pseudophasmatidae)	Revista Chilena de Entomologica, Santiago (Rev. Chilena Ent.) 31:13-20
+34506	Camousseight	2010	Prisopus apteros n. sp. (Phasmatodea: Pseudophasmatidae) of Chile	Revista Chilena de Entomologica, Santiago (Rev. Chilena Ent.) 35:5-13
+34508	Camousseight	1988	Bacunculus cornutus comb. n. y B. blanchardi n. sp. de Chile (Insecta: Phasmatodea, Pseudophasmatidae)	Boletín del Museo Nacional de Historia Natural, Chile 41:117-123
+34513	Camousseight	2008	Paraxeropsis bicristata n. gen y n. sp. de  fásmido de Chile (Phasmatodea, Pseudophasmatidae)	Boletín del Museo Nacional de Historia Natural, Chile 57:109-117
+34514	Campos	1926	Una neuva espicie del genero Trychopeplus (Ortoptero de la fam. Phasmidae, subfam. Phibalosominae)	Revista del Colegio Nacional Vicente Rocafuerte, Guyaquil (23/24):15-18, pl
+34516	Cappe de Baillon, Favrelle & Vichet	1934	Parthenogenese et variation chez les Phasmes I. - Baculum artemis Westw., Carausius theiseni n. sp	Bulletin Biologique de la France et de la Belgique 68:109-166, pl. 10
+34519	Capra	1937	Due nuovi Ortotteri d´Italia, raccolti dal Dr. A. Andreini	Bollettino della Società Entomologica Italiana, Genova 69:102-107
+34529	Griffini	1899	Sul nome generico Phocylides avente doppio uso in entomologia	Zoologischer Anzeiger, Jena 22(580):89-91
+34530	Günther	1932	Die von Professor Dr. Winkler 1924/25 in Zentralborneo gesammelten Phasmoiden	Zoologischer Anzeiger, Jena 101(3):65-73
+34535	Zompro & Grösser	2003	A generic revision of the insect order Phasmatodea: The genera of the areolate stick insect family Phylliidae (Walking Leaves). (Insecta, Orthoptera)	Spixiana 26(2):129-141
+34536	Hennemann & Conle	2004		Spixiana 27(1)
+34537	Hennemann & Conle	2007	Studies on neotropical Phasmatodea IV. Jeremiodes, gen. nov., a new genus of the subfamily Cladomorphinae, and the description of two new species (Insecta, Phasmatodea, Cladomorphinae, Cladomorphini)	Spixiana 30(1):1-11
+34543	Günther	1953	Über die taxonomische Gliederung und die geographische Verbreitung der Insektenordnung der Phasmatodea	Beiträge zur Entomologie, Berlin 3(5):541-563
+34544	Kevan	1955	East African Blattodea, Phasmatodea and Orthoptera	Beiträge zur Entomologie, Berlin 5(5/6):472-485
+34546	Kevan & Knipper	1961	Geraldflüger aud Ostafrila (Orthopteroida, Dermapteroida und Blattopteroida)	Beiträge zur Entomologie, Berlin 11(3-4):356-413
+34611	Roy, P.	1987	Stick insects of Nagaland	The Phasmid Study Group Newsletter (PSG Newsletter) 30:5-7
+34613	Brock	2001	A note on the South African genus Phalces	The Phasmid Study Group Newsletter (PSG Newsletter) 85:6
+34621	Jennings	1991		The Phasmid Study Group Newsletter (PSG Newsletter) 46
+34629	Brock	2006	Notes on the Phasmida Species File	The Phasmid Study Group Newsletter (PSG Newsletter) 105:14
+34689	Brock	2007	Following in Thunberg's footsteps	The Phasmid Study Group Newsletter (PSG Newsletter) 109:12, also colour photos 1-2
+34707	Suzuki	2010	Japanese Stick Insects	The Phasmid Study Group Newsletter (PSG Newsletter) 123-124:4-8
+34722	Carrera	1960	Insecta amapaensia. Diapherodes gibbosa Burmeister, 1839, Tipo de um novo genero de Phasmida. Papeis avulsos de Department de zoologia	Secretaria de agricultura, Sao Paulo 14:99-104
+34726	Caudell	1906	Autolyca doylei, a new Phasmid from So. America	Entomological News 17:192-193
+34727	Hebard	1920	The genus Timema Scudder, with the description of a new species (Orthoptera, Phasmidae, Timeminae)	Entomological News 31(5):127-132
+34730	Rehn, J.A.G.	1907	A new walking-stick (Phasmidae) from British Honduras	Entomological News 18:229-230
+34731	Rehn, J.A.G.	1909	A new Walking-Stick of the genus Diapheromera from Mexico	Entomological News 20:212-215
+34732	Strohecker	1936	A new Timema from California (Orthoptera: Phasmidae)	Entomological News 47:267-268
+34739	Caudell	1903		Entomological News 13
+34748	Bradley & Galil	1977	The taxonomic arrangement of the Phasmatodea with keys to the subfamilies and tribes	Proceedings of the Entomological Society, Washington 79(2):176-208
+34749	Van den Bussche, Willig, Chesser & Waide	1988	Genetic variation and systematics of four taxa of neotropical walking sticks (Phasmatodea: Phasmatidae)	Proceedings of the Entomological Society, Washington 90(4):422-427
+34752	Conle, Hennemann & Perez-Gelabert	2006	Studies on Neotropical Phasmatodea III: A New Species of the Genus Anisomorpha Gray, 1835 (Phasmatodea: Pseudophasmatodae: Pseudophasmatinae) From Hispaniola	Proceedings of the Entomological Society, Washington 108(4):885-891
+34754	Caudell	1903	The Phasmidae, or Walkingsticks, of the United States	Proceedings of the United States National Museum 26:863-885
+34755	Caudell	1904	Two Orthoptera hitherto unrecorded from the United States	Proceedings of the United States National Museum 27:949-951
+34757	Caudell	1913	Results of the Yale Peruvian Expedition of 1911. Orthoptera (Exclusive of Acrididae)	Proceedings of the United States National Museum 44:347ff
+34758	Caudell	1914	Orthoptera of the Yale Dominican expedition of 1913	Proceedings of the United States National Museum 47:491-495
+34760	Rehn, J.A.G.	1912	Notes on African Orthoptera of the families Mantidae and Phasmidae in the U. S. National Museum with descriptions of new species	Proceedings of the United States National Museum 42:451-475
+34761	Caudell	1927	On a collection of orthopteroid insects from Java made by Owen Bryant and William Palmer in 1909	Proceedings of the United States National Museum 71(3):1-42
+34762	Caudell	1913	Notes on Nearctic Orthopterous insects 1. Nonsaltatorial forms	Proceedings of the United States National Museum 44:595-614
+34764	Caudell	1904	Orthoptera from southwestern Texas collected by the museum expeditions of 1903, 1904	Bulletin of the Brooklyn Institute 1(4):105-116, pl. 6, 7
+34765	Caudell	1904	On a collection of non-saltatorial Orthoptera from Paraguay	Journal of the New York Entomological Society 12(3):179-188
+34766	Caudell	1905	A new Bacunculus from Indiana	Journal of the New York Entomological Society 13:212
+34769	Davis	1923	A new Walking-stick insect from Eastern North America	Journal of the New York Entomological Society 31:52-55, pl. 10
+34775	Piza	1936	Um novo Phasmida do Brasil (Orth. )	Revista de Entomologia (Rev. de Entomologia) 6(1):98-100
+34776	Piza	1938	Novos Phasmidas do Brasil e da Argentina (Orth. )	Revista de Entomologia (Rev. de Entomologia) 9(1-2):1-11
+34777	Piza	1939	Dois novos Phasmidas do Brasil (Orth. )	Revista de Entomologia (Rev. de Entomologia) 10(2):444-446
+34778	Piza	1943	Um Proscopiida e um Phasmida novos do Brasil (Orth. )	Revista de Entomologia (Rev. de Entomologia) 14(1-2):287-291
+34780	Piza	1938	Os Phasmidas do Museo Paulista. III. Phasmidae, Cladoxerinae	Revista de Entomologia (Rev. de Entomologia) 8(1-2):40-44
+34781	Piza	1937	Os Phasmidas do Museu Paulista. II. Phasmidae, Phasminae	Revista de Entomologia (Rev. de Entomologia) 7(1):1-8
+34782	Piza	1936	Os Phasmidas do Museu Paulista. 1. Phasmidae, Bacillinae	Revista de Entomologia (Rev. de Entomologia) 6(2):280-292
+34784	Willemse, C.	1955	Description of a new species of Megacrania from Obi (Moluccas)	Treubia 23:41-46, pl. 3
+34785	Karny	1923	Zur Nomenklatur der Phasmoiden	Treubia 3(2):230-242
+34786	Weidner	1966	Die entomologischen Sammlungen des Zoologischen Staatsinstituts und Zoologischen Museums Hamburg. VI. Insecta III	Mitteilungen aus dem Hamburger Zoologischen Museum und Institut 63:209-264
+34789	Willemse, C.	1925	Contribution a la faune des Orthopteres des Nouvelles-Hebrides	Transactions of the Entomological Society, London 75:513-529, pl. 51
+34790	Gray, G.R.	1834	Descriptions of several species of Australian Phasmata	Transactions of the Entomological Society, London 1:45-46
+34793	Yang, J.	1995	Phyllium drunganum Yang a new species of Leaf Insect from Yunnan China (Phasmatodea: Phyllidae)	Journal of the Yunnan Agricultural University 10(1):18-22, figs. 1-3
+34808	Grösser	2002	Phyllium (Pulchriphyllium) asekiensis sp.nov.- eine neue Art aus Neuguinea (Phasmatodea - Phylliidae)	Arthropoda , 10(1):2-4
+34810	Hennemann	1999	Phasmidensteckbrief Nr. 6. Lopaphus sphalerus (Redtenbacher, 1908) (PSG 174)	Arthropoda 7(1):19
+34812	Zompro & Fritzsche	1999	Dares ziegleri n. sp. , eine neue Phasmide aus Thailand (Phasmatodea: Heteropterygidae: Obriminae: Datamini)	Arthropoda 7(1):10-12, Bild. 3
+34814	Fritzsche & Gitsaga	2000	Eine neue Parapachymorpha-Art aus Thailand (Insecta: Phasmatodea: Pachymorphinae)	Arthropoda 8(3):11-14
+34823	Zompro	2007	A new species of Lonchodes Gray 1835 from the Philippine Islands (Insecta: Phasmatodea: Lonchodinae)	Arthropoda 14(3-4):11-14
+34824	Grösser	2007	Eine neue Phyllium-Art von Halmahera, Nord Molukken (Phasmatodea: Phylliidae	Arthropoda 14(3-4):15-17
+34825	Zompro	2005	Katalog des Typen-Materials der Insektenordnung Phasmatodea im Staatlichen Museum für Naturkunde in Stuttgart	Arthropoda 13(4):2-15
+34827	Zompro & Fritzsche	2008	A new phasmid from Cuba Malacomorpha guamuhayaense n. sp. (Phasmatodea: Pseudophasmatidae)	Arthropoda 16(1):36-37
+34828	Grösser	2008	First description of a new species of Chitoniscus Stål, 1875, since 100 years (Phasmatodea: Phylliidae)	Arthropoda 16(1):32
+34829	Zompro	2008	Zwergformen der Phasmatodea - die Kleinsten unter den Riesen	Arthropoda 16(3):28-32
+34843	Zompro	2000[1999]	Neue Stabschrecken aus Thailand (Insecta: Phasmatodea)	TenDenZen Supplement 1999:49-60
+34844	Zompro	2000[1999]	Die Phasmidensammlung des Übersee-Museums Bremen	TenDenZen Supplement 1999:61-70
+34847	Zompro	2001	The type-material of Phasmatodea, described by Johann Jacob Kaup	Senckenbergiana biologica 81(1/2):133-145, 23 figs
+34852	Brock	1998	Studies on the stick-insect genus Eurycnema Audinet-Serville (Phasmida: Phasmatidae) with particular reference to Australian species	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 7:61-70
+34853	Brock	2000	A new species of Dajaca Brunner (Phasmida: Pseudophasmatidae) from Vietnam	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 9:1-3
+34854	Brock	2002	Studies on the Australasian stick-insect genus Extatosoma Gray (Phasmida: Phasmatidae: Tropidoderinae: Extatosomatini)	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 10(2):303-313
+34857	Huang, Y.S. & Brock	2001	A new species of Phasmotaenia Navas (Phasmida: Phasmatidae) from Taiwan	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 10(1):9-14
+34858	Tilgner, Camilo & Moxey	2000	A new species of Lamponius (Phasmida: Phasmatidae) from Puerto Rico	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 9:2000
+34859	Cliquennois & Brock	2004	Phasmids of Mauritius: Mauritiophasma n. gen., Monoiognosis n. gen., Epicharmus Stål 1875 and discussion on their remarkable eggs (Phasmatodea)	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 13(1):1-13
+34860	Jewell & Brock	2003[2002]	A review of New Zealand stick insects: new genera and synonymy, keys and a catalogue	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 11(2):189-197
+34861	Brock & Hasenpusch	2003[2002]	Studies on the Leaf Insects (Phylliidae) of Australia	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 11(2):199-205
+34864	Hsiung	2003	Two new species of Megacrania Kaup (Cheleutoptera: Phasmatidea) from the Admiralty Island	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 12(1):31-35
+34865	Hsiung	2002[2001]	Megacrania species in Indonesia (Cheleutoptera: Phasmatidae)	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 10(2):293-301
+34867	Vickery & Sandoval	2001	Descriptions of three new species of Timema (Phasmatoptera: Timematodea: Timematidae) and notes on three other species	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 10(1):53-61
+34868	Sandoval & Vickery	1998	Timema coffmani (Phasmatoptera: Timematodea) a new species from Arizona and description of the female of Timema ritensis	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 7:103-106
+34869	Vickery & Sandoval	1999	Two new species of Timema (Phasmatoptera: Timematodea: Timematidae), one parthenogenetic, in California	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 8:45-47
+34871	Brock	2006	Three new species of South African stick insects (Phasmida)	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 15(1):37-44
+34873	Brock	2000	Studies on Australian stick-insects of the family Heteronemiidae, subfamily Lonchodinae, including the description of a new species	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 9:51-55
+34876	Hsiung	2007	Revision of the genus Megacrania Kaup (Cheleutoptera: Phasmatidae)	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 16(2):207-221
+34877	Özdikmen & Darilmaz	2008	Redtenbacherus nom. nov., a replacement name for the preoccupied phasmid genus Ernodes Redtenbacher, 1908 (Phasmida: Phasmatidae)	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 17(1):35-36
+34879	Conle, Hennemann, Käch & Kneubühler	2009	Studies on neotropical Phasmatodea IX: Oreophoetes topoense n. sp. — a new colorful walking-stick from central Ecuador (Phasmatodea: Diapheromeridae: Diapheromerinae: Oreophoetini)	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 18(2):145-152
+34882	Hsiung	2011[2010]	Systematic study of Megacrania species of Malo, New Hebrides (Cheleutoptera: Phasmatidae)	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 19(2):381-385, pl. 16
+34884	Hennemann & Conle	2012	Studies on neotropical Phasmatodea XIV: revisions of the Central American  genera Hypocyrtus Redtenbacher, 1908 and Rhynchacris Redtenbacher, 1908  (Phasmatodea: “Anareolatae”: Xerosomatinae: Hesperophasmatini)	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 21(1):65-89
+34885	Hennemann & Conle	2012	Studies on neotropical Phasmatodea XIII: the genus Paracalynda Zompro,  2001 with notes on Eusermyleformia Bradler, 2009 (Insecta: Phasmatodea:  Diapheromerinae: Diapheromerini)	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 21(1):57-64
+34887	Bruner	1915	Preliminary catalogue of the orthopteroid insects of the Philippine Islands	University Studies of the University of Lincoln, Nebraska 15(2):195-281
+34888	Brunner von Wattenwyl	1868	Reisen im Inneren der Insel Viti Levu von Dr. Graeffe. Festschrift an die zürcherische Jugend	Naturforschende Gesellschaft, Zürich 70:1-48, 3 pls
+34890	Froggatt	1922	Description of a new Phasma belonging to the genus Extatosoma	Proceedings of the Linnean Society of New South Wales 47(3):344-345, pl. 38
+34891	Macleay	1882	On a species of Phasmidae destructive to Eucalypti	Proceedings of the Linnean Society of New South Wales 6(3):536-539
+34892	Macleay	1884	The insects of the Maclay-Coast, New Guinea	Proceedings of the Linnean Society of New South Wales 9(3):700-712
+34899	Uvarov	1936	New Orthoptera from Cyprus	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (10)18:505-506
+34903	Kirby	1889	Descriptions of new species of Phasmidae from Dominica, Santa Lucia, and Brazil (Theresopolis), in the collection of the British Museum	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (6)3:501-504
+34904	Kirby	1891	On the Phasmidae of Madagascar, with the description of a new genus and species in the collection of the British Museum	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (6)8:150-152
+34905	Kirby	1896	A list of the Orthoptera, Hymenoptera, and Hemiptera collected by Miss Kingsley on the River Ogové, with descriptions of some new genera and species	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (6)18:257-260, pl. 12
+34906	Kirby	1902	Descriptions of two new species of Bactrododema (Phasmidae) in the collection of the British Museum (Natural History)	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (7)9:448-449
+34907	Kirby	1904	Notes on Phasmidae in the collection of the British Museum (Natural History), South Kensington, with descriptions of new species. - No. 1	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (7)13:372-377
+34908	Kirby	1905	Description of a new species of Palophus from West Africa	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (7)15:279-281
+34914	Butler	1876	Preliminary notice of new species of Orthoptera and Hemiptera collected in the island of Rodriguez by the naturalists accompanying the Transit of Venus Expedition	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (4) 17:409-412
+34916	Uvarov	1939	New and less known Palaestinian Orthoptera	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (11)4:226-227
+34917	Uvarov	1944	A new Phasmid from Iraq (Orthoptera)	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (11)11:64-67
+34919	Wood-Mason	1877	On a small collection of orthopterous insects of the families Phasmidae and Mantidae from Australia and New Britain, with descriptions of four new species	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (4)20:74-77
+34920	Wood-Mason	1877	Description of a new species of Phasmidae from India	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (4)20:130-131
+34921	Wood-Mason	1878	Preliminary notice of a species of Phasmidae apparently possessing all the structural arrangements needed both for aerial and aquatic respiration	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (5)1:101-102
+34923	Wood-Mason	1877	Description of a new species of Phasmidae from the Malay Peninsula	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (4)19:487-488
+34924	Kirby	1889	Notes on the species of Phasmidae collected by Basil Thompson, Esq., in the Louisiade Archipelago	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) 6 4:229-231
+34925	Kirby	1896	Description of a new species of stick-insect (Phasmidae) from British Central Africa	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) 6 18:463464
+34926	Kirby	1904	Notes on Phasmidae in the collection of the British Museum (Natural History), South Kensington, with descriptions of new species. - No. II	Annals and Magazine of Natural History, London (Ann. Mag. Nat. Hist.) (7)13:429-449
+34928	Uvarov	1939	Studies in the Arabian Orthoptera. -II. New and little-known Mantidae and Phasmidae	Zoological Journal of the Linnean Society, London 40:556-559
+34930	Clark	1974	A note on Acrophylla wülfingii Redtenbacher (Insecta: Phasmidae) with a description of the male	Zoological Journal of the Linnean Society, London 54(3):253-256
+34935	Uvarov	1924	Some new and interesting Orthoptera in the collection of the Ministry of Agriculture, Cairo. Government Press, Cairo. Technical and Scientific Service	Bulletin of the Ministry of Agriculture Egypt, Technical Acientific Services (Bull. Minist. Agric. Egypt, Techn, Sci. Serv.) 41:1-41, pls. 1-3
+34936	Werner	1930	Notes préliminaires sur les Phasmides recuellis aux Indes Orientales Néerlandaises au cours du voyage de S. A. R. le Prince Léopold de Belgique	Bulletin & Annales de la Société Entomologique de Belgique 70:179-182
+34938	Wood-Mason	1875	On new or little-known species of Phasmidae, with a brief preliminary notice of the occurence of a clasping apparatus in the males throughout the family	Journal of the Asiatic Society Bengal (J. Asiatic Soc. Bengal) 44(3):215-220, pl. 16-17
+34939	Wood-Mason	1876	Description of a new species of Phasmidae	Journal of the Asiatic Society Bengal (J. Asiatic Soc. Bengal) 45(1):47-49, pl. 11
+34940	Wood-Mason	1877	Notes on Phasnidae	Journal of the Asiatic Society Bengal (J. Asiatic Soc. Bengal) 46:342-352, pl. 2-3
+34941	Wood-Mason	1879	Preliminary notice of a new genus (Parectatosoma) of Phasmidae from Madagascar, with brief descriptions of its two species	Journal of the Asiatic Society Bengal (J. Asiatic Soc. Bengal) 48(2):117-118
+34942	Wood-Mason	1873	On new or little known species of Phasmidae. Part I. -Genus Bacillus	Journal of the Asiatic Society Bengal (J. Asiatic Soc. Bengal) 42(2):45-56, pl. 5-7
+34943	Wood-Mason	1877	New and little known Insects collected in Upper Tenasserim. Orthoptera	Journal of the Asiatic Society Bengal (J. Asiatic Soc. Bengal) 46:160-163
+34948	Zompro	1995	Baculofractum n. gen. - ein neues Genus der Phasmida	Entomologische Zeitschrift (Entomol. Z.) 105(24):488-491
+34950	Zompro	1996	"Bemerkungen über philippinische Obriminen, mit einer Neubeschreibung (Phasmatodea: Heteropterygidae: Obriminae)	Entomologische Zeitschrift (Entomol. Z.) 106(11):450-456
+34951	Zompro	1997	Hermarchus leytensis n. sp. , eine neue Phasmide von den Philippinen	Entomologische Zeitschrift (Entomol. Z.) 107(1):38-40
+34952	Zompro	1998	Eine neue Gratidia-Art vom Mt. Elgon, Kenia (Phasmatodea)	Entomologische Zeitschrift (Entomol. Z.) 108(1):42-44
+34953	Zompro	1999	Microphasma, eine neue Stabschrecken-Gattung aus Sri Lanka (Phasmatodea: Pachymorphinae)	Entomologische Zeitschrift (Entomol. Z.) 109(3):124-127
+34959	Grösser	1991	Bemerkungen zur Gattung Phyllium in Neuguinea, mit einer Neubeschreibung (Phasmatodea: Phylliidae)	Entomologische Zeitschrift (Entomol. Z.) 101(15):278-282
+34960	Grösser	1992	Zwei neue Arten der Gattung Phyllium aus Neuguinea (Phasmatodea: Phylliidae)	Entomologische Zeitschrift (Entomol. Z.) 102(9):162-167
+34962	Hausleithner	1984	Eine neue Phyllium-Art aus Malaysia (Phasmatodea: Phylliidae)	Entomologische Zeitschrift (Entomol. Z.) 94(4):39-43
+34964	Hausleithner	1986	Die Eier einiger Baculum-Arten (Phasmida)	Entomologische Zeitschrift (Entomol. Z.) 96(9):122-128
+34969	Hausleithner	1992	Eine neue Menexenus-Art aus NE-Indien und Vorarbeiten zu einer Revision der Gattungen Menexenus und Neohirasea (Phasmatodea: Phasmatidae: Lonchodinae)	Entomologische Zeitschrift (Entomol. Z.) 102(22):423-434
+34974	Hennemann & Conle	1996	Symetriophasma brevitarsa n. gen. , n. sp. - eine neue Phasmidae aus Neuguinea (Phasmatodea: Eurycanthinae)	Entomologische Zeitschrift (Entomol. Z.) 106(11):457-460
+34978	Hennemann, Conle & Bruckner	1996	Phaenopharos herwaardeni n. sp - eine neue Phasmide aus Thailand und die Beschreibung der Eier von Phaenopharos struthioneus (Westwood 1859) (Phasmatodea: Phasmidae: Necrosciinae)	Entomologische Zeitschrift (Entomol. Z.) 106(4):153-159
+34979	Hennemann, Conle & Bruckner	1996	Dajaca nigrolineata n. sp. - eine neue Phasmide aus Myanmar (=Burma), mit Bemerkungen zu dem Genus Dajaca Brunner 1893 (Phasmatodea: Phasmatidae: Aschiphasmatinae)	Entomologische Zeitschrift (Entomol. Z.) 106(8):329-336
+34981	Zompro	2005	The first records of Korinnis Günther, 1932 from Thailand and from the Philippines, and the description of a new species of Pharnacia Stål, 1877 (Insecta: Phasmatodea)	Entomologische Zeitschrift (Entomol. Z.) 115(2):71-74
+34983	Hennemann, Gehler & Conle	1995	Katalog des im Museum für Naturkunde in Stuttgart vorhandenen Typusmaterials der Insektenordnung Phasmatodea	Entomologische Zeitschrift (Entomol. Z.) 105(16):435-439
+34984	Hausleithner	1987	Calynda brocki n. sp., eine neue Stabschrecke aus Costa Rica, und einige Bemerkungen zur Systematik des Genus Calynda Stål (Phasmida)	Entomologische Zeitschrift (Entomol. Z.) 97(13):177-192
+34986	Zompro	1998	Neue Phasmiden aus Venezuela und Ecuador (Phasmatodea).	Entomologische Zeitschrift (Entomol. Z.) 108(11):456-459, figs. 1-2
+34989	Hennemann & Conle	1997	Zwei neue Stabschrecken von den Philippinen (Phasmatodea)	Entomologische Zeitschrift (Entomol. Z.) 107(8):343-352
+34990	Zompro	1998	Stabschrecken von der Insel Utila, Honduras (Phasmatodea).	Entomologische Zeitschrift (Entomol. Z.) 108(5):212-216, figs. 1-8
+34991	Hennemann & Conle	1997	Eine bemerkenswerte neue Riesenstabschrecke aus Vietnam: Phobaeticus heusii n. sp. (Phasmatodea: Phasmatidae: Phasmatinae: Hermarchini)	Entomologische Zeitschrift (Entomol. Z.) 107(12):504[-509
+34992	Zompro	1998	Eine verkannte Planispectrum-Art aus Zentral-Borneo (Phasmatodea)	Entomologische Zeitschrift (Entomol. Z.) 108(2):83-84
+34999	Hennemann & Conle	2003	A new species of Theramenes Stal, 1875 (Phasmatodea: Heteropterygidae, Obriminae, Obrimini) from Panay Island, Philippines	Entomologische Zeitschrift (Entomol. Z.) 113(4):104-106
+35002	Zompro	1998	Neue Phasmiden aus Neuguinea (Insecta: Phasmatodea)	Reichenbachia 32(25):157-163
+35003	Zompro	2001	Philippine phasmids from the collection of the Staatliches Museum für Tierkunde, Dresden (Insecta: Phasmatodea)	Reichenbachia 34(5):49-56, figs. 1-18
+35007	Zompro	2000		VDA-aktuell 1/2000
+35017	Chopard	1952	Notes sur les Orthopteroides de Madagascar. IV. - Faune de la foret de Mousses du Tsaratanana	Mémoires de l'Institut Scientifique de Madagascar (E) 1:463-516
+35019	Dohrn	1910	Beitrag zu Kenntnis der Phasmiden	Stettiner Entomologische Zeitschrift 71:397-414
+35020	Günther	1944	Bemerkungen über indomalayische Stabheuschrecken (Orth. ), besonders die Gattung Haaniella Kby	Stettiner Entomologische Zeitschrift 105:68-79
+35021	Karsch	1896	Neue Orthopteren aus dem tropischen Afrika	Stettiner Entomologische Zeitschrift 57:242-412
+35022	Philippi	1865		Stettiner Entomologische Zeitschrift 26
+35023	Donskoff	1988	Phasmatodea de Nouvelle-Caledonie. 1. Nouvelles signalisations et description de Microcanachus n. gen. In: TILLIER, S. (ed.), Zoologia Neocaledonica, 1	Mémoires, Museum national d´Histoire naturelle, Paris (A )142:53-60,
+35032	Gerstaecker	1869	Beiträge zur Insektenfauna von Zanzibar. No. II. Orthoptera und Neuroptera	Archiv für Naturgeschichte 35(1):201-223
+35034	Giglio-Tos	1912	Pulchriphyllium schultzei n. sp. (Phasmid)	Entomologische Rundschau, Stuttgart 29(8):56-57
+35036	Giglio-Tos	1912	Species nouve di fasmidi raccolti dal Prof. L. Schultze nella Nuova Guinea	Entomologische Rundschau, Stuttgart 29(8):93-94
+35037	Giglio-Tos	1914	Results of the Abor Expedition 1911/12. Part V. XXXI. Orthoptera, III: Mantidae et Phasmidae	Records of the Indian Museum 8:415-423
+35038	Günther	1938	Neue und wenig bekannte Phasmoiden aus dem Indian Museum, Calcutta	Records of the Indian Museum 40:123-141
+35040	Hennemann & Conle	2006	A new species of Trachyaretaon Rehn & Rehn,  1939 from the Babuyan Islands, Philippines (Phasmatodea: Heteropterygidae, Obriminae, Obrimini).	Entomofauna 27(18):217-228
+35041	Gurney	1947	Notes on some remarkable Australasian walkingsticks, including a synopsis of the genus Extatosoma (Orthoptera: Phasmatidae)	Annals of the Entomological Society of America (Ann. Ent. Soc. Amer.) 40:373-396
+35043	Strohecker	1951	Three new species of North American Orthoptera	Annals of the Entomological Society of America (Ann. Ent. Soc. Amer.) 44(2):169-172
+35050	Günther	1928	Eine neue Stabheuschrecke aus Sumatra	Konowia 7:218-222
+35051	Günther	1933	Das Genus Apora Br. (Orth. Phasm. )	Konowia 11:260-265
+35052	Günther	1934	Beitrag zur Kenntnis malayisch-papuanischer Phasmoiden und Forficuliden	Konowia 13:283-289
+35053	Günther	1929	Die Phasmoiden der Deutschen Kaiserin Augusta-Fluss-Expedition 1912/13. Ein Beitrag zur Kenntnis der Phasmoidenfauna Neuguineas	Mitteilungen aus dem Zoologischen Museum, Berlin 14:600-747, pl. 1-7
+35054	Günther	1930	Neue und wenig bekannte Phasmoiden von Südamerika	Mitteilungen aus dem Zoologischen Museum, Berlin 15:559-570
+35055	Günther	1932	Beiträge zur Systematik und Geschichte der Phasmoidenfauna Ozeaniens	Mitteilungen aus dem Zoologischen Museum, Berlin 17:753-835
+35056	Günther	1935	Die von Gerd Heinrich 1930-32 auf Celebes gesammelten Phasmoiden	Mitteilungen aus dem Zoologischen Museum, Berlin 21(1):1-29, pl. 1-2
+35057	Günther	1932		Mitteilungen aus dem Zoologischen Museum, Berlin 18(2)
+35058	Günther	1932	2 neue Arten der Gattung Galactea Redt., mit allgemeinen Bemerkungen zu diesem Genus (Orth. Phasm.)	Mitteilungen der Deutschen Entomologischen Gesellschaft 3:149-158
+35059	Günther	1934	Eine neue Stabschrecke von Kalao Tua. Nebst Bemerkungen über ihre systematische Stellung und zoogeographische Stellung	Mitteilungen der Deutschen Entomologischen Gesellschaft 5:5-9
+35060	Günther	1937	Über einige Orthopteren von den Salomon-Inseln und von Vanikoro	Mitteilungen der Deutschen Entomologischen Gesellschaft 8(3):3-10
+35063	Günther	1933	Über eine kleine Sammlung von Phasmoiden und Forficuliden aus Melanesien	Verhandlungen der Naturforschenden Gesellschaft, Basel 44(2):151-161
+35064	Günther	1938	Orthoptera Celebica Sarasiniana. II. Phasmoidae	Verhandlungen der Naturforschenden Gesellschaft, Basel 49:54-92
+35065	Günther	1935[1934]	Phasmoiden von den Talaud-Inseln und von der Insel Morotai, mit kritischen Bemerkungen über einzelne Arten und einem zoogeographischen Anhang	Sitzungsberichte der Gesellschaft der Naturfreunde Freies Berlin 75-94
+35066	Klante	1975	Revision der geflügelten Kegelkopf-Stabheuschrecken von Borneo aus der Gattung Loxopsis Westw. (Insecta: Orthoptera, Phasmatoptera)	Sitzungsberichte der Gesellschaft der Naturfreunde Freies Berlin 15:84-102
+35069	Günther	1935	Über einige Phasmoiden aus der Sammlung des Herrn Dr. C. Willemse, Eijgelshoven	Natuurhistorisch Maandblad, Maastricht 24:123-126 & 138-140
+35070	Günther	1937	Die von Dr. Schlaginhaufen 1909 in Neuguinea gesammelten Phasmoiden (Orth. )	Vierteljahresschrift der Naturforschenden Gesellschaft, Zürich , 82:77-97, pl. 1
+35072	Günther	1942	Über Faktoren der Formendifferenzierung sowie ökonomische und luxurierende Typen bei Insekten	Photographie und Forschung , 3:315-325
+35074	Hebard	1919	Studies in the Dermaptera and Orthoptera of Colombia. Part I	Transactions of the American Entomological Society 45:89-178, pl. 16-23
+35075	Hebard	1921	Studies in the Dermaptera and Orthoptera of Colombia. Second paper	Transactions of the American Entomological Society 47:107-169, pl. 7-10
+35076	Hebard	1923[1922]	Studies in the Mantidae and Phasmidae of Panama	Transactions of the American Entomological Society 48:327-362, pl. 14-15
+35077	Hebard	1932	New species and records of Mexican Orthoptera	Transactions of the American Entomological Society 58:201-237
+35078	Hebard	1933	Studies in the Dermaptera and Orthoptera of Colombia. - Supplement to papers one to five	Transactions of the American Entomological Society 59:31-41, pl. 2-3
+35079	Hebard	1943	The Dermaptera and Orthopterous families Blattidae, Mantidae and Phasmidae of Texas	Transactions of the American Entomological Society 68:239-310, pl. 12-13
+35081	Rehn, J.A.G.	1903[1902]	A contribution to the knowledge of the Orthoptera of Mexico and Central America	Transactions of the American Entomological Society 29:1-34
+35082	Rehn, J.A.G.	1903	Notes on West Indian Orthoptera, with a list of the species known from the island of Porto Rico	Transactions of the American Entomological Society 29(2):129-136
+35083	Rehn, J.A.G.	1918	On Dermaptera and Orthoptera from South Eastern Brazil	Transactions of the American Entomological Society 44:191-192, pl. 10
+35084	Rehn, J.A.G.	1953	On two interesting Phasmids (Orthoptera: Phasmatidae) from coastal Peru	Transactions of the American Entomological Society 79:1-11, pl. 1
+35086	Rehn, J.W.H.	1937	On two species of Phasmidae from Colombia with the description of a new species (Orthoptera)	Transactions of the American Entomological Society 63:85-87, pl. 7
+35087	Rehn, J.W.H.	1938	Notes on the genus Haaniella with the description of a new species (Orthoptera: Phasmatidae)	Transactions of the American Entomological Society 64:367-371, pl. 14
+35088	Hebard	1934	Studies in Orthoptera which occur in North America north of the Mexican boundary. IV. Synonymy and a new species of the genus Diapheromera, (Phasmidae: Heteronemiinae)	Transactions of the American Entomological Society 60:281-293, pl. 20
+35089	Hebard	1937	Studies in Orthoptera which occur in North America, north of the Mexican boundary. VII. Notes and a new species of Timema, and a new race of Diapheromera velii, (Phasmidae)	Transactions of the American Entomological Society 63:347-354
+35090	Rehn, J.A.G. & Hebard	1938	New genera and species of West Indian Mantidae and Phasmidae (Orthoptera)	Transactions of the American Entomological Society 64:33-55, pl. 3-4
+35094	Hebard	1933	Notes on Panamanian Dermaptera and Orthoptera	Transactions of the American Entomological Society 59:103-144, pls. 6-7
+35095	Hebard	1923	Dermaptera and Orthoptera from the state of Sinaloa, Mexico. Part 1. Dermaptera and nonsaltatorial Orthoptera	Transactions of the American Entomological Society 48:157-196, pls 6-7
+35098	Karny	1910	Orthoptera	Denkschrift der naturwissenschaftlichen Gesellschaft, Jena 16:86-89
+35100	Zompro	2001	Redescription and New Synonymies of Heteronemia Gray, 1835 (Insecta: Phasmatodea) Transferred to the Suborder Areolatae	Studies on Neotropical Fauna and Environment 36(3):221-225, 13 figs
+35101	Zompro	2004	A key to the stick-insect genera of the 'Anareolatae' of the New World, with descriptions of several new taxa (Insecta: Phasmatodea)	Studies on Neotropical Fauna and Environment 39(2):133-144
+35104	Zompro	2002[2001]	Spinohirasea crassithorax, n. gen. n. sp., eine neue Stabschrecke aus Vietnam (Phasmatodea: Phasmatidae: Lonchodinae: Menexenini)	Bonner Zoologische Beiträge 50(1-2):67-72, figs
+35105	Zompro & Adis	2001	A new species of Phasmatodea of the genus Echetlus Stål	Revista de Agricultura, Piracicaba 76(2):291-297, fig. 1a-d
+35106	Piza	1985	A segunda espicie do gen. Oestrophora (Phasmatodea: Phylliidae)	Revista de Agricultura, Piracicaba 60(1):1-2
+35107	Piza	1985	Um novo Stratocles do Brasil (Phasmatodea-Phyllidae)	Revista de Agricultura, Piracicaba 60(2):101-102
+35108	Caudell	1918	On a collection of Orthoptera (exclusive of the Locustidae) made in central Peru by N. Iconnicoff and C. Schunke	Insecutor Inscitiae Menstruus 6(1-3):1-70, pl. 1-2
+35111	Hebard	1924	Studies in Dermaptera and Orthoptera of Ecuador	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 76:109-248, pl. 5-10
+35115	Otte	1978	The primary types of Orthoptera (Saltatoria, Mantodea, Phasmatodea and Blattodea) at the Academy of Natural Sciences of Philadelphia	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 130:26-87
+35117	Rehn, J.A.G.	1904	Studies in the Orthopterous family Phasmidae	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 56:38-107
+35118	Rehn, J.A.G.	1905	Notes on the Orthoptera of Costa Rica, with descriptions of new species	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 57:790
+35121	Rehn, J.A.G.	1911	Records and descriptions of African Mantidae and Phasmidae	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 63:319-335
+35122	Rehn, J.A.G.	1913	A contribution to the knowledge of the Orthoptera of Argentina	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 65(2):273-379
+35123	Rehn, J.A.G.	1920	Records and descriptions of Brazilian Orthoptera	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 72:214-293, pl. 10, 11
+35124	Rehn, J.A.G.	1947	Notes on the Phasmid genus Isagoras (Orthoptera: Phasmatidae: Pseudophasmatinae), with the description of six new species	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 99:1-19
+35125	Rehn, J.A.G.	1933	Dermaptera and Orthoptera of the De Schauensee South African Expedition, - Part I	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 85:39-51, pl. 1
+35127	Rehn, J.A.G. & Hebard	1907	Orthoptera from Northern Florida	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 59:279-395
+35128	Rehn, J.A.G. & Hebard	1909	An Orthopterological reconnoissance of the Southwestern United States. Part II: New Mexico and Western Texas	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 61:111-175
+35129	Rehn, J.A.G. & Hebard	1914	On the Orthoptera found in the Florida Keys and in extreme southern Florida. II	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 66:373-412
+35130	Rehn, J.A.G. & J.W.H. Rehn	1934[1933]	On certain species of the genus Phyllium (Orthoptera; Phasmidae)	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 85:411-427, pls. 16, 17
+35131	Rehn, J.A.G. & J.W.H. Rehn	1939[1938]	The Orthoptera of the Philippine Islands. Part I. - Phasmatidae: Obriminae	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 90:389-487, pls. 31-38
+35134	Rehn, J.A.G.	1907	Non-saltatorial and acridoid Orthoptera from Sapucay, Paraguay	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 59:151-192
+35138	Rehn, J.A.G.	1906	Descriptions of five new species of Orthoptera from Tonkin	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 58:279-292
+35139	Rehn, J.A.G.	1904	Notes on Orthoptera from northern and central Mexico	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 56:513-549
+35140	Rehn, J.A.G.	1938	A new procryptic Phasmid from Cuba (Orthoptera: Phasmatidae)	Proceedings of the Academy of Natural Sciences of Philadelphia (Proc. Acad. Nat. Sci. Philad.) 60:103-107
+35145	Grandidier	1869	Description d´une Phasmide du Zambese	Revue et Magazine de Zoologie (2)21:292-293
+35146	Saussure	1859	Orthoptera Nova Americana. (Diagnosis Praeliminares I)	Revue et Magazine de Zoologie (2)11:59-63
+35147	Saussure	1861	Orthoptera Nova Americana (Diagnosis Praeliminares) II	Revue et Magazine de Zoologie (2)13:126-212
+35148	Saussure	1868	Phasmidarum novarum species nonullae	Revue et Magazine de Zoologie (2)20:63-70
+35149	Giglio-Tos	1897	Viaggio del Dott. A. Borelli nel Chaco Boliviano e nella Republica Argentina. X. Ortotteri	Bollettino dei Musei di Zoologia ed Anatomia comparata della Royal Università di Torino 12(302):1-47
+35150	Giglio-Tos	1898	Viaggio del Dr. Enrico Festa nella Republica dell´Ecuador et regioni vicine. VI. Ortotteri	Bollettino dei Musei di Zoologia ed Anatomia comparata della Royal Università di Torino 13(311):1-108
+35151	Giglio-Tos	1910	Fasmidi esotici del R. Museo zoologico di Torino e del Museo civico di Storia naturale di Genova	Bollettino dei Musei di Zoologia ed Anatomia comparata della Royal Università di Torino 25(625):1-57
+35152	Griffini	1896	Orthotteri raccolti nel Darien dal Dott. E. Festa. II. Blattidi, Mantidi e Phasmidi	Bollettino dei Musei di Zoologia ed Anatomia comparata della Royal Università di Torino 11(236):1-12
+35153	Griffini	1897	Descrizione d una nuova Necroscide di Perak (peninsola di Malacca)	Bollettino dei Musei di Zoologia ed Anatomia comparata della Royal Università di Torino 12(307):1-3
+35154	Griffini	1898	Intorno al Phyllium geryon Gray	Bollettino dei Musei di Zoologia ed Anatomia comparata della Royal Università di Torino 13(312):1-4
+35155	Giglio-Tos	1900		Bollettino dei Musei di Zoologia ed Anatomia comparata della Royal Università di Torino 15(377):2
+35165	Hennemann	1998	Ein Beitrag zur Kenntnis der Phasmidenfauna von Sulawesi. Mit einem Katalog der bisher bekanntgewordenen Arten	Mitteilungen des Museums für Naturkunde, Berlin, Zoologische Reihe 74(1):95-128
+35166	Hennemann	1999	On two species of Phasmatodea in the collection of the Institut royal des Sciences naturelles de Belgique, including the description of a new species	Bulletin de la Societe Royale Belge d Entomologie 135(7-12):213-
+35167	Hennemann	2002	Notes on the Phasmatodea of Sri Lanka (Orthoptera)	Mitteilungen der Münchner Entomologischen Gesellschaft (Mitt. Münch. Ent. Ges.) 92:37-78
+35168	Hennemann & Conle	2004	Revision of the tribe Achriopterini Bradley & Galil, 1977, with the description of a new genus, three new species and a new subspecies from Madagascar.	Mitteilungen der Münchner Entomologischen Gesellschaft (Mitt. Münch. Ent. Ges.) 94
+35169	Hennemann & Conle	2003		Mitteilungen der Münchner Entomologischen Gesellschaft (Mitt. Münch. Ent. Ges.) 93
+35170	Hennemann & Conle	2007	Studies on Philippine Lonchodinae, with the description of two new genera and eleven new species (Phasmatodea: Phasmatidae: Lonchodinae)	Mitteilungen der Münchner Entomologischen Gesellschaft (Mitt. Münch. Ent. Ges.) 97 Suppl.:3-88
+35171	Hennemann & Conle	2007	Studies on neotropical Phasmatodea VII. Descriptions of a new genus and four new species of Diapheromerinae from Peru and Bolivia (Phasmatodea: Anareolatae: Diapheromeridae)	Mitteilungen der Münchner Entomologischen Gesellschaft (Mitt. Münch. Ent. Ges.) 97 Suppl.:89-112
+35176	Herwaarden	1998	A guide to the genera of stick- and leaf-Insects (Insecta: Phasmida) of New Guinea and the surrounding islands	Science in New Guinea 24(2):55-114
+35184	Cai & S.L. Liu	1990	Notes on Entoria (Phasmatodea: Phasmatidae) with descriptions of six new species from China	Oriental Insects 24:415-425
+35185	Hutton	1898	The Phasmidae of New Zealand	Transactions and Proceedings of the New Zealand Institute, Wellington 30:160-166
+35186	Hutton	1899	Revision of the New Zealand Phasmidae	Transactions and Proceedings of the New Zealand Institute, Wellington 31:50-59
+35187	Karsch	1898	Vorarbeiten zu einer Orthopterologie Ostafrikas. I. Die Gespenstheuschrecken, Phasmodea	Entomologische Nachrichten, Berlin 23:359-383
+35188	Kaup	1871	Über die Eier der Phasmiden	Berliner Entomologische Zeitung 15:17-24, pl. 1
+35189	Kaup	1871	Neue Phasmiden	Berliner Entomologische Zeitung 15:25-42, pl. 2
+35192	Brunner von Wattenwyl	1900	Insects and arachnids from Somaliland - Phasmatodea	Proceedings of the Zoological Society of London 1:37-38, pl. 2
+35194	Kaup	1866	Description of two new species of the genus Bacillus, Latr	Proceedings of the Zoological Society of London 1866:577-578
+35195	Kirby	1888	On the Insects (exclusive of Coleoptera and Lepidoptera) of Christmas Island	Proceedings of the Zoological Society of London 1888:546-555
+35198	Redtenbacher	1892		Proceedings of the Zoological Society of London 1892
+35204	Kirby	1896	On some new or rare Phasmidae in the collection of the British Museum	Transactions of the Linnean Society, London (Trans. Linn. Soc. Lond.) (2)6:447-475, pl. 39-40
+35205	Lichtenstein	1802	A dissertation on two natural genera hitherto confounded under the name of Mantis	Transactions of the Linnean Society, London (Trans. Linn. Soc. Lond.) 6(1):1-39, pl. 1-2
+35207	Bates	1865	Descriptions of fifty-two new species of Phasmidae from the collection of Mr W. Wilson Saunders, with remarks on the family	Transactions of the Linnean Society, London (Trans. Linn. Soc. Lond.) 25:321-359, pls. 44-46
+35208	Parkinson	1798	Description of the Phasma dilatatum	Transactions of the Linnean Society, London (Trans. Linn. Soc. Lond.) 4(1):190-192, pl.
+35210	Kirby	1884		Transactions of the Linnean Society, London (Trans. Linn. Soc. Lond.) (2) 6
+35212	Le Guillou	1841	Description des Orthopteres nouveaux, recueillis pendant son voyage de circumnavigation sur la corvette Zelee	Revue zoologique Sociâetâe Cuvierienne 292-295
+35218	Liu, S.L.	1993	A preliminary study on the genus Phyllium Illiger of China (Phasmatodea: Phylliidae)	Acta Zootaxonomica Sinica 18(2):201-212
+35220	Chen, S.C. & Y.H. He	1989	A new species of the genus Phraortes from Guangxi (Phasmida: Heteronemiidae)	Acta Zootaxonomica Sinica 14(3):340-342
+35222	Chen, S.C. & Y.H. He	1997	A new genus and new species of Phasmatodea from Yunnan, China (Phasmatodea: Heteronemiidae)	Acta Zootaxonomica Sinica 22(2):159-161
+35223	Chen, S.C. & Y.H. He	2000	Three new species of Phasmatodea from Shiwan Dashan, Guangxi (Phasmatodea: Heteronemiidae, Phasmatidae)	Acta Zootaxonomica Sinica 25(4):395-397
+35224	Chen, S.C. & Y.H. He	1994	Description of two new species of Phasmida from Yunnan and Guangxi, China (Phasmatodea: Phasmatidae: Heteronemiidae)	Acta Zootaxonomica Sinica 19(1):104-107
+35225	Chen, S.C. & Y.H. He	1997	Two new species of Baculum from Sichuan, China (Phasmida: Heteronemiidae)	Acta Zootaxonomica Sinica 22(1):54-56
+35226	Chen, S.C. & Y.H. He	1995	A new species of Trachythorax from Hainan, China (Phasmida: Phasmatidae)	Acta Zootaxonomica Sinica 20(2):197-199
+35228	Xu, F.L., M.F. Yang & Guo	2010	A new species of the genus Interphasma from China (Phasmatodea, Phasmatidae)	Acta Zootaxonomica Sinica 35(2):395-397
+35229	Ho, G.W.C.	2013	A new species and a new combination of the genus Entoria (Phasmatodea, Phasmatidae, Clitumninae) from Hainan, China	Acta Zootaxonomica Sinica 38(1):78-80
+35230	Ho, G.W.C.	2013	Taxonomy of Pachyscia Redtenbacher in China (Phasmatodea, Diapheromeridae, Necroscinae)	Acta Zootaxonomica Sinica 38(1):81-83
+35231	Lucas	1857	Phyllium magdelainei, Luc	Bulletin de la Société entomologique de France (3)5:147-148
+35232	Lucas	1869	Eurycantha calcarata	Bulletin de la Société entomologique de France (4)9:25-26
+35233	Lucas	1878	Une note sur une nouvelle espece d Orthopteres coureur de la famille des Phasmides	Bulletin de la Société entomologique de France (5)8:163
+35234	Lucas	1882	La note sur un Orthoptere de la famille des Phasmides	Bulletin de la Société entomologique de France (6)2:32
+35236	Bolívar	1919	Diagnosis d´Orthoptères nouveaux (Phasmidae, Locustidae) de l´Afrique tropicale	Bulletin de la Société entomologique de France 1919:241-243
+35237	Chopard	1919	Diagnoses d´espèces nouvelles d'Orthoptères	Bulletin de la Société entomologique de France 24:153-154
+35238	Pantel	1915	Sur le genre Clonopsis, nov. gen. (Orth. Phasmidae)	Bulletin de la Société entomologique de France 1915:95-96
+35239	Cliquennois & Brock	2002	Apterograeffea, un nouveau genre de Phasme de la Réunion et de l île Ronde (Phasmatodea, Platycraninae)	Bulletin de la Société entomologique de France 107(4):387-395
+35240	Langlois & Lelong	1998	Deux Phasmes de Guadeloupe: Melophasma antillarum (Caudell, 1914) n. comb. et Hesperophasma pavisae n. sp. (Phasmatodea)	Bulletin de la Société entomologique de France 103(5):451-455
+35241	Lelong & Langlois	1998	Lamponius lethargicus n. sp. , Pseudobacteria donskoffi n. sp. et Paraclonistria nigramala n. gen. , n. sp. : trois nouveaux Phasmes de Guadeloupe (Orthoptera, Phasmatodea)	Bulletin de la Société entomologique de France 103(3):245-254
+35242	Cliquennois	2005	Spathomorpha n. gen.: un nouveau genre de phasme de Madagascar (Phasmatodea, Anareolatae).   Spathomorpha n. gen.: a new genus of stick insect from Madagascar (Phasmatodea, Anareolatae)	Bulletin de la Société entomologique de France 110(2):113-124
+35243	Cliquennois & Brock	2004	Révision de la tribu des Monandropterini, incluant la description d’une nouvelle espèce d’Heterophasma de la Réunion (Phasmatodea, Tropidoderinae)	Bulletin de la Société entomologique de France 109(1):41-59
+35246	Cliquennois	2006	Revision partielle des Antongiliinae fondee sur l'etude des oeufs, comprenant la definition d'une nouvelle tribu et de quatre nouveaux genres (Phasmatodea). [French]	Bulletin de la Société entomologique de France 111(1):157-172
+35247	Lelong & Langlois	2005	Contribution a la connaissance des Phasmatodea de la Martinique [Contribution to the knowledge of Phasmatodea of Martinique]  	Bulletin de la Société entomologique de France 110(3):259-272
+35254	Cliquennois	2008	Notes synonymiques sur les Phasmes de Madagascar  (Phasmatodea)	Bulletin de la Société entomologique de France 113(4):427-433
+35255	Langlois & Lelong	2010	Contribution à la connaissance des Phasmatodea  de Dominique et de Sainte-Lucie	Bulletin de la Société entomologique de France 115(1):59-72
+35256	Langlois & Bellanger	2012	Inventaire des Phasmatodea de Tobago	Bulletin de la Société entomologique de France 117(1):91-110
+35259	Bellanger, Jourdan & Lelong	2012	Contribution à l'inventaire et à la biologie des Phasmatodea de Trinidad	Bulletin de la Société entomologique de France 117(4):483-502
+35260	Delfosse	2013	Une nouvelle espèce de Phasme du genre Trapezaspis  Redtenbacher, 1908, de l’île des Pins (Phasmatodea, Phasmatidae)	Bulletin de la Société entomologique de France 118(1):15-21
+35264	Bey-Bienko	1946	A new species of the genus Gratidia Stål (Phasmoidea) from Iran, with a list of palaearctic species of this genus	Proceedings of the Royal Entomological Society, London 15:74-76
+35265	Uvarov	1944	A New Zealand Phasmid (Orthoptera) established in the British Isles	Proceedings of the Royal Entomological Society, London 13:94-96
+35272	Mishchenko	1937		Proceedings of the Royal Entomological Society, London 6(6)
+35276	Montrouzier	1855	Essai sur la faune de l´ile de Woodlark ou Moiou	Annales des la Société d’agriculture de Lyon (2)7:1-5, 79-90
+35278	Moxey	1971	Notes on the Phasmatodea of the West Indies: Two new genera	Psyche 78(1-2):67-83
+35280	Scudder, S.H.	1893	Note	Psyche 6:372
+35281	Scudder, S.H.	1901	The species of Diapheromera (Phasmidae) found in the United States and Canada	Psyche 9:187-189
+35289	Bergerard & Wirth	2004	Predation-mediated mortality of early life stages: A field experiment with nymphs of an herbivorous stick insect (Metriophasma diocles)	Biotropica 36(3):424-428
+35295	Westwood	1864	Two new species of Phasmidae	Transactions of the Royal Entomological Society, London 2(3):16-17
+35297	Rainbow	1897	Description of two new Australian Phasmas, together with a synopsis of the Phasmidae in Australia	Records of the Australian Museum, Sydney 3:34-44, pls. 9- 10
+35298	Rehn, J.A.G.	1914	Orthoptera. I. Mantidae, Phasmidae, Acrididae, Tettigoniidae und Gryllidae aus dem Zentral-Afrikanischen Gebiet, Uganda und dem Ituri-Becken des Kongos	Wissenschaftliche Ergebnisse der Deutschen Zentral-Afrika-Expedition 1907-1908, Leipzig 5 (Zool) 5 Zool 3(1):1-223
+35299	Rehn, J.W.H.	1940	A new genus of walking-stick insect from Madagascar (Orthoptera: Phasmatidae: Acrophyllinae)	Notulae Naturae 65:1-4
+35300	Lit & Eusebio	2006	A new species of stick insect of the Philippine endemic genus Euobrimus Rehn & Rehn 1939 (Phasmatodea: Heteropterygidae: Obrimini)	Asia Life Sciences 15(1):99-105
+35301	Lit & Eusebio	2005	Two new species of Philippine stick insects of the genus Trachyaretaon Rehn and Rehn (Phasmatodea: Heteropterygidae: Obrimini)	Asia Life Sciences 14(1):75-84
+35303	Lit & Eusebio	2005	A list of Philippine stick-insects of the genus Tisamenus Stal 1875 (Phasmatodea: Heteropterygidae: Eubulidini) with descriptions of two new species from Luzon Island	Asia Life Sciences 14(2):207-215
+35307	Rentz	1978	A new parthenogenetic Timema from California	Pan-Pacific Entomologist 54:173-177
+35308	Strohecker	1966	New Timema from Nevada and Arizona (Phasmodea: Timemidae)	Pan-Pacific Entomologist 42(1):25-26
+35312	Salmon	1948	New genera, species and records of Orthoptera from the Three Kings Island New Zealand	Records of the Auckland Institute and Museum 3:301-308, pl. 56-59
+35313	Colenso	1882	On some new and undescribed species of New Zealand insects of the orders Orthoptera and Coleoptera	Transactions of the Royal Society, New Zealand 14:277-282
+35314	Colenso	1885	A description of some newly-discovered New Zealand insects believed to be new to science	Transactions of the Royal Society, New Zealand 17:151-155
+35315	Salmon	1954	A new genus and species of Phasmidae from New Zealand	Transactions of the Royal Society, New Zealand 82(1):161-168, pls. 7-9
+35316	Salmon	1955	The genus Acanthoxyla (Phasmidae)	Transactions of the Royal Society, New Zealand 82(5):1149-1156, pls. 44-47
+35320	Hausleithner	1991	Eine Phasmidenausbeute aus dem Gebiet des Mount Kinabalu, Borneo (Phasmatodea)	Nachrichten des entomologischen Vereins Apollo, N. F 11(4):217-236
+35321	Zompro & Hennemann	2001	A new species of Autolyca STÅL, 1875, from El Salvador (Insecta: Phasmatodea: Pseudophasmatidae, Anisomorphini)	Nachrichten des entomologischen Vereins Apollo, N. F 22(3):175-176, 7 figs
+35322	Hennemann & Conle	1998	Drei neue Arten der Gattung Thaumatobactron Günther, 1929 Phasmatodea: Phasmatidae, Eurycanthinae)	Nachrichten des entomologischen Vereins Apollo, N. F 19(3/4):299-307
+35327	Scali	1991[1989]	Un nuovo insetto stecco (Phasmatodea) della Sicillia: Bacillus grandii benazzi (n. subsp.)	Frustula entomologica 12:397-408
+35328	Scali	1996	Descrizione di due specie incipienti di insetti stecco (Phasmatodea) del complesso Leptynia attenuata Pantel: L. montana n. sp. e L. caprai n. sp	Redia 79(2):123-136
+35331	Seow-Choen, Brock & Seow-En	1994	The Stick Insects of Singapore	Singapore Scientist 70:10-14
+35332	Seow-Choen	1998	Crown and jewels of the forest: A study of phasmid heads.	Singapore Scientist 84:6-9
+35336	Seow-Choen, Seow-En & Seow-An	1994	Nature´s mimics	Nature Malaysiana 19(3):89-96
+35340	Hennemann & Conle	1997	Die Gattung Thaumatobactron, Günther 1929 mit der Beschreibung zwei neuer Arten aus Papua Neuguinea (Phasmatodea, Eurycanthidae)	Mitteilungen des Zoologischen Museums, Berlin 73(1):175-182
+35343	Shelford	1913	Orthoptères. Blattides, Mantides et Phasmides	Mission Amer. sud. Arc de meridien equatorial 10:57-62, pl. 3
+35344	Kuthy	1911	Orthoptera nova exotica in Museo Nationali Hungarico asservata	Annales historico-naturales Musei nationalis hungarici, Budapest 9:294-296
+35364	Cliquennois & Rabaey	2000		Phasma 10(40)
+35379	Bresseel & Hennemann	2008	Species report No.16: PSG 288 Phasmotaenia godeffrovi (Redtenbacher, 1908) uit Malaita, Solomon eilanden	Phasma 18(68):16-21
+35402	Abercrombie	2010	Kubah National Park	Phasma 20(77):7-9
+35403	Bollens & Krijns	2010	Collectietrip op der Filippijnen: deel 1	Phasma 20(77):10-18
+35427	Günther	1932	Phasmoiden des Kina Balu auf Borneo, aus dem Hamburger Zool. Museum	Wiener Entomologische Zeitschrift 49(4):313-320
+35428	Krauss, H.A.	1892	Dermaptera und Orthoptera aus Tunis. Gesammelt von Dr. A. König	Wiener Entomologische Zeitschrift 11:143-150
+35429	Redtenbacher	1889	Beiträge zur Orthopteren-Fauna von Turkmenien	Wiener Entomologische Zeitschrift 8:23-32
+35432	Rehn, J.A.G.	1906	The Orthoptera of the Bahamas	Bulletin of the NewYork Museum 22:113-115
+35433	Salfi	1925	Di una nuova sottospecie di Bacillus (Clonopsis) gallicus (Charp. )	Annuario del Museo Zoologico della R. Universitá di Napoli 5(12):1-3
+35434	Seow-Choen	1998	Phobaeticus lambirica, n. sp. , and Dajaca chani, n. sp.: new species of stick-insects from East Malaysia (Phasmida: Phasmatidae)	Serangga 3(1):39-48
+35435	Seow-Choen	1998	Pharnacia chiniensis n. sp. , a new species of stick-insect from Peninsular Malaysia (Phasmida: Phasmatidae)	Serangga 3(2):183-189
+35436	Seow-Choen	2000	Illustrated guide and key to the Haaniella (Phasmida: Bacillidae: Heteropteryginae) species of Malaysia	Serangga 5(1):149-164
+35437	Brock & Seow-Choen	2000	The Stick Insects (Insecta: Phasmida) of Hong Kong	Serangga 5(1):113-147
+35438	Seow-Choen	2004	Sosibia mohamedsaidi, a new species of stick insect, and a new record of male Sosibia aurita from Malaysia (Phasmoptera: Heteronemiidae: Necrosciinae)	Serangga 8(1-2):39-47
+35440	Seow-Choen	1998	List of stick-insects (Phasmida) in the collection of the Centre for Insect Systematics Universiti Kebangsaan Malaysia	Serangga 3(1):87-92
+35442	Bi	1993	Phasmatodea of Longqishan, Fujian Province. In:  HUANG, C. M. (ed.). The series of the bioresources expedition to the Longqi Mountain Nature Reserve. Animals of Longqi Mountain	China Forestry Publishing House, Beijing, China 35-40
+35445	Bolívar	1884	Insectos Neuropteros y Ortopteros. In: Arthropodos del Viaje al Pacifico. verificado de 1862 a 1865 por una comision de naturalistos enviado por el Gobierno Espanol	Madrid 1-114, pls. 1-3
+35450	Brancsik	1893	Species nova generis Marmessoidea Necroscidarum	Jahrbuch des Naturwissenschaftlichen Vereines des Trencsiner Comitats. 15-16:201, pl. 11
+35451	Brancsik	1893	Orthoptera nova africana	Jahresheft des Naturwissenschaftlichen Vereines des Trencsiner Comitates. (Jahresh. Naturwiss. Ver. Trencsin. Com.) 15-16:175-200, pls 4, 9-10
+35452	Brancsik	1898[1897]	Series Orthopterorum novorum	Jahresheft des Naturwissenschaftlichen Vereines des Trencsiner Comitates. (Jahresh. Naturwiss. Ver. Trencsin. Com.) 19-20:52-70, pl. 2
+35453	Brongniart	1892	Monographie du genre Palophus	Nouvelles archives du Museum d histoire naturelle, Paris 3(3):193-203
+35454	Brullé	1832	Insectes. Expedition Scientifique de Moree	Zoologie, Paris 3(1) Zool 2:1-29, 64-395, pls 1-22
+35458	Scali & B. Mantovani	1989	Updating of systematics and speciation mechanisms of Bacillus (Insecta, Phasmatodea)	Bollettino di Zoologia 56:87-98
+35462	Newport	1844	On the reproduction of lost parts in Myriapoda and Insecta	Philosophical Transactions of the Royal Society, London 288, pl. 14:4
+35464	Vickery	1983	Catalogue of Australian stick insects (Phasmida, Phasmatodea, Phasmatoptera, or Cheleutoptera)	CSIRO Australian division of Entomology, Technical Paper No 20 1-19
+35465	Werner	1934	Phasmiden aus Deli	Miscellanea Zoologica Sumatrana (Misc. Zool. Sumatrana) 81:1-3
+35466	Werner	1934	Mantides et Phasmides recueillis dans les Indes Orientales	Bulletin du Musée royal d'Histoire naturelle de Belgique (Bull. Mus. Hist. nat. Belg.) 10(22):1-5
+35467	Westwood	1835[1834]	Insectorum Arachnoidumque novorum Decades duo	Zoological Journal 5(20):440-453, pl. 22
+35468	Karny	1914	Schutzanpassungen der Heuschrecken	Jahresberichte des K. K. Maximilian-Gymnasiums in Wien (Jahresber. K. K. Maximilian-Gymnasium Wien) 1913/14:3-14
+35469	Zompro	2000	Designation of type-species of 13 Stick-Insect genera described by J. Redtenbacher (Insecta: Orthoptera: Phasmatodea)	Annalen des Naturhistorischen Museums, Wien 102B:93-96
+35470	Carl	1913	Phasmides nouveaux ou peu connus du Muséum de Genève	Revue suisse de Zoologie 21(1):1-56, pl. 21
+35471	Zompro	2002	A revision of Oreophoetes Rehn, 1904 (Insecta: Phasmatodea: Anareolatae: Diapheromeridae: Diapheromerinae: Oreophoetini)	Revue suisse de Zoologie 109(1):143-153, 17 figs
+35472	Günther	1934	Phasmoiden und Forficuliden von Java, den Kleinen Sundainseln und Nordaustralien	Revue suisse de Zoologie 41(34):525-537
+35473	Zompro	2001	A generic revision of the insect order Phasmatodea: The New World genera of the stick insect subfamily Diapheromeridae: Diapheromerinae = Heteronemiidae  Heteronemiinae sensu Bradley & Galil, 1977	Revue suisse de Zoologie 108(1):189-255
+35474	Zompro & Brock	2003	Catalogue of type-material of stick-insects housed in the Muséum d histoire naturelle, Geneva, with descriptions of some new taxa (Insecta: Phasmatodea)	Revue suisse de Zoologie 110(1):3-43, 62 figs
+35475	Zompro	2002	Catalogue of type material of the insect order Phasmatodea at the Zoologisches Museum der Universität Hamburg (Insecta: Orthoptera: Phasmatodea)	Mitteilungen des Hamburger Zoologischen Museums und Instituts 99:179-201
+35479	Chopard	1938	Mission scientifique de l´Omo, Tome IV, fascicule 33. Orthoptera. I. Dictyoptera, Phasmodea, Ensifera	Mem. Mus. Hist. Nat. Paris. (n. s.) 8:89-143
+35480	Ebner	1934[1933]	Wissenschaftliche Ergebnisse der mit der Unterstützung der Akademie der Wissenschaften in Wien aus der Erbschaft Treitl von F. Werner unternommenen zoologischen Expedition nach dem Anglo-ägyptischen Sudan (Kordofan) 1914. 28. Orthoptera B. (Dermaptera, Blattidae, Phasmidae)	Denkschriften der Akademie der Wissenschaften in Wien Mathematisch-Naturwissenschaftlische Klasse 103:211-222
+35482	Gerstaecker	1883	Beiträge zur Kenntnis der Orthopteren. Fauna Guinea's nach den von R. Buchholz während der Jahre 1872 bis 1875 daselbst gesammelten Arten	Mitt. Naturw. Ver. Neuvorpomm. (Mitteilungen des Naturwissenschaftlichen Vereins für Neuvorpommern) 14:39-102
+35483	Günther	1940	Über die Verbreitung einiger Insekten im Gebiete des Amazonenstromes und die Frage eines columbianischen Faunendistriktes in der brasilianischen Subregion	Archiv für Naturgeschichte N. F. 9:450-500
+35484	Gray, G.R.	1843	Description of several species of the genus Phyllium	Zoologist 1(1):117-123
+35485	Macgillivray	1860	Description of Prisopus carlottae, a new species of leaf insect	Zoologist 7141-7142
+35495	Hennemann & Conle	1999	Ladakhomorpha longipes gen.n., sp.n. - eine bemerkenswerte neue Phasmide aus Indien (Phasmatodea: Pachymorphinae)	Entomologica Basiliensia 21:13-17
+35498	Padewieth	1899	Orthoptera genuina des kroat Littorale und der Umgebung Fiumes	Glasnik Hravatskoga Naravoslovnoga Drustva 11:8-33
+35503	Bolívar	1897	Note Sur Taeniosoma sanchezi	Anales de la Sociedad española de historia natural 26:29-32
+35504	Pantel	1890	Notes orthopterologiques. II. Les phasmides d'Europe et des pays limitrophes	Anales de la Sociedad española de historia natural 19:371-404, pl. 4
+35507	Bolívar	1890	Diagnosis de Ortopteros nuevos	Anales de la Sociedad española de historia natural 19:299-334, pl. 1
+35508	Bolívar	1894	Ortopteros recogidos en las Azores por el Sr. Affonso Chaves	Anales de la Sociedad española de historia natural (2)3:70-77
+35509	Bolívar	1878		Anales de la Sociedad española de historia natural 7
+35510	Bolívar	1895	Mission scientifique de M. Ch. Alluaud aux íles Séchelles (Mars, Avril, May, 1892). Orthoptères. Appendix Orthoptères de la Réunion 6 mémoire	Annales de la Société Entomologique de France (Ann. Soc. entomol. Fr.) 64:372-375
+35512	Chopard	1911	Contribution a la faune des Orthoptères de la Guyane Française	Annales de la Société Entomologique de France (Ann. Soc. entomol. Fr.) 80:315-350
+35513	Coquerel	1861	Orthopteres de Bourbon et Madagascar	Annales de la Société Entomologique de France (Ann. Soc. entomol. Fr.) (4)1:495-500, pl. 9, 10
+35516	Finot	1898	Description d'un Phasme nouveau du genre Parectatosoma Wood-Mason	Annales de la Société Entomologique de France (Ann. Soc. entomol. Fr.) 66:585-588
+35519	Pantel	1917	Description de Carausius nouveaux (Orth. Phasmidae) et notes sur les Carausius de l´Inde Meridionale	Annales de la Société Entomologique de France (Ann. Soc. entomol. Fr.) 86:267-306 pl. 2
+35520	Saussure	1862[1861]	Etudes sur quelques orthoptères du musée de Genève nouveaux ou imparfaitement connus	Annales de la Société Entomologique de France (Ann. Soc. entomol. Fr.) (4)1:469-494, pls. 11-12
+35527	Cliquennois	2008	Révision des Anisacanthidae, famille endémique de phasmes de Madagascar (Phasmatodea : Bacilloidea)	Annales de la Société Entomologique de France (Ann. Soc. entomol. Fr.) n.s. 44(1):59-85
+35529	Günther	1932	Revision des Genus Lonchodes Gray (Orth. Phasm)	Eos 8:367-389
+35530	Günther	1943	Die Phasmoiden (Orthoptera) der „Borneo-Expedition Dr. Nieuwenhuis“ aus dem Stromgebiet des oberen Mahakam	Eos 19:149-172
+35534	Paulian	1960	Notes d´Entomologie Comoriene. I	Revista de entomologia de Mocambique 3:271-275
+35538	King, C.B.	1867	Exhibitions, etc	Proceedings of the Entomological Society, London 1867:78-80
+35542	Vickery	1997	Two new species in the genus Diapheromera (Phasmatoptera: Necroscioidea: Heteronemiidae: Heteronemiinae) from Baja California, Mexico	Canadian Entomologist 129(6):1141-1149
+35545	Rehn, J.A.G.	1902	Notes on some southern Californian Orthoptera	Canadian Entomologist 34:141-145
+35546	Scudder, S.H.	1895	Summary of the U. S. Phasmidae	Canadian Entomologist 27(2):29-30
+35548	Vickery	1993	Revision of Timema Scudder (Phasmatodea: Timematodea) including three new species	Canadian Entomologist 125:657-692
+35549	Vickery & Sandoval	1997	Timema bartmani (Phasmatoptera: Timematodea: Timematidae), a new species from southern California	Canadian Entomologist 129:933-936
+35551	Sandoval & Vickery	1996	Timema douglasi (Phasmatoptera: Timematodea), a new parthenogenetic species from southwestern Oregon and northwestern California, with notes on other species	Canadian Entomologist 128:79-84
+35554	Rehn, J.A.G.	1912	On a collection of Javanese Mantidae and Phasmidae (Orthoptera)	Notes from the Leyden Museum 35:121-131
+35555	Rehn, J.A.G.	1912	On some African Mantidae and Phasmidae in the collection of the Deutschen Entomologischen Museum	Archiv für Naturgeschichte, Berlin 78A:106-126
+35556	Schaum	1857	Beschreibung einer neuen Bacteria (B. bituberculata)	Monatsberichte der königlichen Preussischen Akademie der Wissenschaften zu Berlin 13:423-424
+35557	Schouteden	1916	Palophus leopoldi n. sp. (Orthoptera Phasmidae)	Revue zoologique africaine 4:265-268
+35558	Schouteden	1917	Un nouveau Palophus de l´Afrique Orientale Anglaise	Revue zoologique africaine 5:109-111
+35562	Schulthess	1899	La faune Entomologique du Delagoa. II. Orthopteres	Bull. Soc. Vaudaise Sci. Nat. Lausanne (Bull. Soc. Vaud. Sc. Nat.) 35:191-215, pl. 7-8
+35563	Schulthess	1911	Neue Orthoptera aus Transvaal	Mitteilungen der schweizerischen Entomologischen Gesellschaft 12:8-13
+35567	Scudder, S.H.	1875	Notes on Orthoptera from Northern Peru, collected by Professor James Orton	Proceedings of the Boston Society of Natural History 17:257-282
+35568	Scudder, S.H.	1896	List of exotic Orthoptera described by S. H. Scudder, 1868-1879, with a revision of their nomenclature	Proceedings of the Boston Society of Natural History 27:201-218
+35569	Scudder, S.H.	1869	Note on Diapheromera femorata	Proceedings of the Boston Society of Natural History 12:99
+35571	Scudder, S.H.	1900[1898]	Catalogue of the described Orthoptera of the United States and Canada	Proceedings of the Davenport Academy of Natural Sciences 8:1-101, pls. 1-3
+35574	Seow-Choen & Goh	1999	New records of stick insects from Pulau Tioman, Peninsular Malaysia, including description of a new species of Abrosoma (Phasmida: Pseudophasmatidae: Aschiphasmatinae)	Raffles Bulletin of Zoology, Suppl
+35587	Scali & Milani	2009	New Clonopsis stick insects from Morocco: The amphigonic C. felicitatis sp.n., the parthenogenetic C. soumiae sp.n., and two androgenetic taxa	Italian Journal of Zoology 76(3):291-305
+35588	Shiraki	1911	Phasmiden und Mantiden Japans	Annotationes zoologicae japonenses. Tokyo 7:291-315, pl. 12
+35589	Shiraki	1935	Orthoptera of the Japanese Empire (Part IV) Phasmidae	Memoirs of the Faculty of Science and Agriculture, Taihoku lmperial University, Formosa (Mem. Fac. Sci. Agr. Taihoku Imp. Univ, Formosa) 14(3):23-88, pl. 4-10
+35590	Sjöstedt	1909	Neue afrikanische Orthopteren	Entomologisk Tidskrift (Entomol. Tidskr.) 30:269-270
+35592	Zompro	2005	Catalogue of type-material of the insect order Phasmatodea, housed in the Museum für Naturkunde der Humboldt-Universität zu Berlin, Germany and in the Institut für Zoologie der Martin-Luther-Universität zin Halle (Saale), Germany	Mitteilungen des Museums für Naturkunde Berlin, Deutsche Entomologische Zeitschr 52(2):251-290
+35593	Serville	1831	Revue Méthodique des Insectes de l’ordre des Ortoptères	Annales des Sciences naturelles, Zool. Paris 22:28-29, 56-65
+35594	Thunberg	1815	Hemipterorum maxillosorum genera illustrata plurimisque novis speciebus ditata ac descripta	Mémoires de L'Académie Impériale des Sciences de St. Pétersbourg 5:211-301, pl. 3
+35597	Chopard	1955[1954]	La reserve naturelle integrale du Mont Nimba, IV. Chéleutoptères	Memoires de l'Institut Francais d'Afrique Noire 40(fasc.II):99-100
+35599	Sjöstedt	1913	Eine neue Phasmide Palophus titan	Svenska Vet. -Ak. Handl. Stockholm 50(6):3-8, pl. 1
+35600	Günther	1935	Phasmoiden aus Centralborneo. Gesammelt von Dr. Mjöberg 1925-26	Arkiv för Zoologi (9):1-29
+35601	Sjöstedt	1918	Results of Dr. E. Mjöberg´s Swedish Scientific Expeditions to Australia 1910-1913. 17. Mantidae und Phasmidae	Arkiv för Zoologi 11(19):1-61, pl. 1-7
+35602	Sjöstedt	1924	Zoological results of the Swedish Expedition to Central-Africa 1921. Insecta. 2. Mantodea und Phasmodea	Arkiv för Zoologi 16(6):1-20
+35603	Sjöstedt	1933	Orthopterentypen im Naturhistorischen Reichsmuseum zu Stockholm. 7. Phasmidae	Arkiv för Zoologi 25A(16):1-10
+35608	Stål	1858	Orthoptera och Hemiptera från södra Afrika	Öfversigt af Kongliga Vetenskaps-Akademiens Förhandlingar 15 / 16:307-321
+35609	Stål	1875	Recensio orthopterorum. Revue critique des Orthoptères décrits par Linné, DeGeer et Thunberg. 3.	Öfversigt af Kongliga Vetenskaps-Akademiens Förhandlingar 32:1-105
+35610	Stål	1876	Bidrag till södra Afrikas Orthopter-fauna	Öfversigt af Kongliga Vetenskaps-Akademiens Förhandlingar 3:29-76
+35611	Stål	1877	Orthoptera nova ex Insulis Philippinis descripsit	Öfversigt af Kongliga Vetenskaps-Akademiens Förhandlingar 34 (10):33-58
+35612	Stål	1875	Recherches sur le Système des Phasmides	Bihang till Kongliga Svenska Vetenskaps-Akademiens Handlingar 2(17):1-19
+35615	Stål	1877	Especes nouvelles de Phasmides	Annales de la Société entomologique de Belgique 20:62-69
+35616	Tepper	1887	Description of a supposed new species of Phasmidae	Transactions of the Royal Society of Southern Australia 9:112-113, pl. 6
+35617	Tepper	1903	List of described genera and species of the Australian and Polynesian Phasmidae (Spectre-insects)	Transactions of the Royal Society of Southern Australia 26:278-287
+35618	Tepper	1905	Insects collected in the North-Western region of South Australia proper by H. Basedow with descriptions of new species of Mantidae and Phasmidae. - No. 2	Transactions of the Royal Society of Southern Australia 29:23
+35622	Tinkham	1942	A new californian species of Timema (Phasmodea: Timemidae) with zoogeographical notes	Bulletin of the Southern California Academy of Sciences (Bull. S. Calif. Acad. Sci.) 41(2):72-79. pl. 14
+35623	Bi & T. Li	1991	Description of a new species and a new record of Phasmatodea from Guangxi, China (Phasmatodea: Heteronemiidae)	Contributions of Shanghai Institute of Entomology 10:106-108, 5 figs
+35624	Bi	1993[1992]	A new species of Phasmatodea from Xizang, China	Contributions of Shanghai Institute of Entomology 11:81-84
+35625	Bi & Lian	1991	A new species of the genus Baculum Saussure (Phasmatodea: Heteronemiidae)	Contributions of Shanghai Institute of Entomology 10:103–105
+35626	Bi	1990	Description of a new species of the genus Sinophasma Gunther (Phasmida: Heteronemiidae)	Contributions of Shanghai Institute of Entomology 9:151-154
+35629	Goudot	1843	Description de trois nouvelles especes d´Orthopteres de la famille des Phasmiens	Guerins Mag. Zool. Ins 13:1-5, pl. 125
+35630	Jolivet	1953	Lonchodidae (Cheleutoptera)	Expl. Parc National de L´Upemba, Miss White 17(3):50-58
+35638	Werner	1918	Eine neue Gespenstheuschrecke aus Sumatra	Verhandlungen der zoologisch-botanischen Gesellschaft, Wien 267-268
+35644	Günther	1940	Neue Stabheuschrecken (Phasmoiden) aus China (Ausbeuten J. Klapperich, Bonn, u. a. )	Decheniana 99B:237-248
+35646	Saussure	1869	Mélanges orthoptérologiques	Mém. Soc. Phys. Hist. Nat. Genève 20:227-326
+35649	Mazzini & Scali	1983	A scanning electron microscope study of the eggs of three stick insects species of Ramulus (Phasmatodea, Heteronemiidae) from Somalia	Monitore Zoologico Italiano Firenze (N. S.) 17:89-103
+35653	Brock & Shlagman	1994	The stick-insects (Phasmatodea) of Israel, including the description of a new species	Israel Journal of Entomology 28:101-117
+35660	Brunner von Wattenwyl	1893	Révision du Système des Orthoptères et description des espèces rapportées par M. Leonardo Fea de Birmanie	Annali del Museo Civico di Storia Naturale Giacomo Doria, Genova (2)13(33):1-230
+35662	Schulthess	1898	Orthoptères du pays des Somalis, recueillis par L. Robecchi-Brichetti en 1891 et par le Prince E. Ruspoli en 1892-1893 déterminés et décrits	Annali del Museo Civico di Storia Naturale Giacomo Doria, Genova (2) 19:161-216, pl. 2
+35668	John, Rentz & Contreras	1987	Extensive chromosome variation in the stick insect genus Sipyloidea Brunner von Wattenwyl (Phylliidae: Necrosciinae) within Australia, and descriptions of three new species	Invertebrata Taxonomi 1(6):620
+35677	Mantovani, B. & Scali	1993	Genetic structure and phyletic relationships of eastern Mediterranean Bacillus atticus Brunner (Insecta Phasmatodea): A biochemical study	Biochemical Genetics 31(9-10):343-362
+35679	Mantovani, B., Tinti & Scali	1995	Genetic structure and similarity relationships of the unisexual cyprian Bacillus (Insecta Phasmatodea)	Biologisches Zentralblatt. Leipzig. 114(3):299-306
+35698	Brock, Hennemann & B. Morgan	2009[2008]	Acanthomenexenus Brock & Hennemann, a new genus of stick insect, following discovery of the stunning male of Menexenus polyacanthus from Sangihe (Phasmida : Diapheromeridae : Lonchodinae)	Le Bulletin d'Arthropoda(36):3-15
+35707	Mantovani, B. & Scali	1985	L´uovo di tre specie di Bacillus (Insecta: Phasmatodea) del Mediterraneo orientale al microscopio elettronico a scansione (1)	Atti XIV Congresso Nazionale Italiano di Entomologia, Palermo, Erice, Bagheria 193-200
+35719	Beamer	1932	The giant walking-stick (Megaphasma dentricus (Stal.) found in Kansas	Journal of the Kansas Entomological Society 5(1):28
+35740	Bragg	1991	Nolimetangere a phasmid which can be touched!	Bulletin of the Amateur Entomologist’s Society 50(379):265-267
+35761	Bolívar	1896	Nota. Orthoptera amazonica	Actas de la Sociedad Española de Historia Natural 25:11-18
+35762	Zompro & Eusebio	2000	Phasmotaenia elongata n. sp., a new Stick Insect (Orthoptera: Phasmatodea) from the Philippine Islands	Philippine Entomologist 14(1):61-64, figs. 1-4
+35763	Zompro & Eusebio	2001	A new species of Stick Insect (Phasmatodea: Heteropterygidae: Obriminae: Obrimini) from Cebu Island, Philippines	Philippine Entomologist 15(1):23-25, figs. 1-3
+35765	Chen, S.C. & Y.H. He	1992	Micadina yingdensis new species: a new walking stick injurious forest pest from Guagdong Province	Forest Research 5(2):207-209
+35766	Chen, S.C. & Y.H. He	1995	A new species of the genus Paramyronides from Yunnan, China (Phasmatodea: Heteronemiidae)	Forest Research 8(6):658-659
+35768	Chen, S.C. & Y.H. He	1994	A new species of the genus Baculum from Sichuan, China (Phasmida: Phasmatidae)	Forest Research 7(3):311-312
+35769	Chen, S.C. & Yin	1995	Description of a new species of the genus Baculum from Yunnan, China (Phasmatodea: Phasmatidae)	Forest Research 8:10-11
+35770	Chen, S.C. & S.D. Xu	1994	A study on the Biological Characteristics and Control of Micadina yingdeensis	Forest Research 7(2):187-192
+35775	Conle & Hennemann	2002	Revision neotropischer Phasmatodea: Die Tribus Anisomorphini sensu Bradley & Galil 1977 (Insecta, Phasmatodea, Pseudophasmatidae)	Spixiana Suppl. 28:1-141, figs.
+35776	Hennemann & Conle	2003	Catalogue of type specimens of Phasmatodea (Insecta) deposited in the Staatliche Museum für Naturkunde in Stuttgart	Stuttgarter Beiträge zur Naturkunde, Serie A (Biologie) 651:1-8
+35777	Zompro	2007	Revision of Oncotophasma Rehn (Insecta: Phasmatodea: Diapheromeridae)	Stuttgarter Beiträge zur Naturkunde, Serie A (Biologie) 25(10):1-25
+35778	Kwon, Ha & S.W. Lee	1992	Classification of the order Phasmida from Korea	Nature and Life 22(2):43-58
+35786	Scudder, S.H.	1895		Ent. Notes 4:32
+35787	Bullini, L. & Nascetti	1987	Genetic and taxonomic studies on the genus Clonopsis, with the description of a new species (Phasmatodea, Bacillidae)	Bollettino dell´Istituto di Entomologia dell´Università di Bologna 41:325-353
+35788	Nascetti & L. Bullini	1981	Bacillus grandii n. sp. and B. whitei n. sp.: two new stick insects from Sicily (Cheleutoptera, Bacillidae)	Bollettino dell´Istituto di Entomologia dell´Università di Bologna 36:245-258
+35789	Nascetti & L. Bullini	1982	A new Phasmid from Italy: Bacillus atticus caprai (n. subsp. ) (Cheleutoptera, Bacillidae)	Fragmenta Entomologica 16(2):143-159
+35790	Nascetti & L. Bullini	1983[1980]	Differenziamento genetico e speciazone in fasmidi dei generi Bacillus e Clonopsis (Cheleutoptera, Bacillidae). Atti XII	Congresso Nazionale Italianao di Entomologia 2:215-223
+35791	Shelford	1909	Family Phasmidae	Biologia Centrali-Americana Insecta Orthoptera 2:343-377, pl. 5-8
+35793	Brock & Delfosse	2005	A list of Pantel's phasmid type material in the Muséum National d'Histoire Naturelle, Paris (Phasmida)	Revue française d'entomologie (nouvelle série) (Rev. fr. ent. (n.s.)) 27(2):49-56
+35794	Brock	2004	Taxonomic notes on giant southern African stick insects (Phasmida), including the description of a new Bactrododema species	Annals of the Transvaal Museum (Ann. Trans. Museum) 41:61-77
+35797	Brock	1995	A remarkable new genus of stick-insect (Insecta: Phasmida, Pseudophasmatidae) from Peninsular Malaysia	Malayan Nature Journal (Malayan Nat. Jour.) 49(1):31-35
+35799	Brock & Seow-Choen	1995	Notes on the Stick-Insect genus Abrosoma in Peninsular Malaysia (Insecta: Phasmida) with description of a new species	Malayan Nature Journal (Malayan Nat. Jour.) 49:21-29
+35814	Mishchenko	1941	The species of the genus Gratidia Stål in USSR (Phasmidae, Clitumnidae).	Mitteilungen der Akademie der Wissenschaften der Georgischen SSR (Mitteilungen d. Akademie d. Wiss. d. Georgischen SSR) 2 (1-2):145-148
+35826	Piza	1946	Un novo Phásmida Pachymorphinae do Brasil, emendas a chave para separação dos machos do gênero Acanthoderus e redistribução por subfamílias das espécies descritas pelo autor	Anais da Escola Superior de Agricultura “Luiz de Queiroz” Separato 34:149-156
+35827	Piza	1944	Cinco novas espécies de Phásmidas do Brazil	Anais da Escola Superior de Agricultura “Luiz de Queiroz” Separata 3:43-58
+35828	Piza	1977	Três novas espécies de Pseudophasma (Phasmatodea - Phyllidae)	Anais da Escola Superior de Agricultura “Luiz de Queiroz” 34:489-491
+35841	Philippi	1863	Verzeichniss der im Museum von Santiago befindlichen Chilenischen Orthopteren	Zeitschrift für die Gesammten Naturwissenschaften (Zeit. Gesammten Naturwiss.) 21(3-4):217-245
+35849	Taylor, P.E.	1862		Harper’s New mon. mag. 24(142)
+35852	Willemse, F.	1966	List of the types of Orthoptera in the collection of C. Willemse at the Natuurhistorisch Museum of Maastricht	Publicaties van het Natuurhistorisch Genootschap in Limburg (Publ. Natuurh. Genoot. Limburg) 16:43-73
+35862	Scali & B. Mantovani	1990		Proc. 53rd Congr. U.Z.I.
+35863	Bullini, L., Nascetti & A.P.B. Bullini	1984	A new stick-insect of hybrid origin: Bacillus lynceorum n. sp. (Cheleutoptera: Bacillidae)	Atti Accad. naz. Lincei Rend. (8)75(3-4):169-176, figs
+35871	Piza	1939	Phasmidas do Argentino de Sciencias Naturaes	Physis 17:113-116
+35875	Ingrisch	1999	Orthopteroid insects of Yemen	Esperiana 7:349-376, pls. on pp 736-739
+35879	Key	1960	Proposed addition of certain generic and specific names in the Family Phasmatidae (Class Insecta, Order Phasmatodea) to the official lists and indexes. Z.N.(S.) 1167	Bulletin of Zoological Nomenclature (Bull. Zool. Nomencl.) 17(6-8):235-240
+35883	Schulten	1995		Wandelnde Blätter, Stab- und Gespenstschrecken, Entomologische Mitteilungen aus dem Löbbecke-Museum and Aquazoo 3:1-132
+35895	Chen, S.C. & H.J. Wang	1993	Two new species of the genus Baculum from China (Phasmida: Phasmatidae)	Journal of Beijing Forestry University 2(1):41-44
+35896	Chen, S.C. & Y.H. He	1991	Four new species of Phraortes from China (Phasmida: Heteronemiidae)	Journal of Beijing Forestry University 13(1):18-23
+35897	Chen, S.C. & Y.H. He	1990	Baculum album - a new Walking Stick injurious to forests in Sichuan	Journal of Beijing Forestry University 12(4):54-56
+35898	Chen, S.C. & P.C. Chen	1997	Description of two new species and one unknown female of genus Sinophasma from Guangdong Province, China (Phasmatidae: Heteronemiidae)	Journal of Beijing Forestry University 6(2):93-99
+35899	Chen, P.C. & S.C. Chen	1996	A new species of Sinophasma from Guangxi, China (Phasmatodea: Heteronemiidae)	Journal of Beijing Forestry University 5(2):88-90
+35901	Chen, S.C. & Y.H. He	1996	New species of the genus Asceles from Yunnan, China (Phasmatodea: Heteronemiidae)	Journal of Beijing Forestry University 18(4):41-42
+35902	Chen, S.C. & Y.H. He	1994	Newly recorded genus and a new species of Heteronemiidae (Phasmatodea)	Journal of Beijing Forestry University 16(4):121-123
+35903	Chen, S.C. & Y.H. He	1993	A new species of the genus Phobaeticus from Anhui, China (Phasmida: Phasmatidae)	Journal of Beijing Forestry University 15(4):54-55
+35904	Chen, S.C. & Y.H. He	1995	A new species of the genus Paramyronides from China (Phasmida: Heteronemiidae)  	Journal of Beijing Forestry University 17(3):73-74
+35905	Chen, S.C.	1992	A new species of walking stick from Shanxi (Phasmida: Phasmatidae)	Journal of Beijing Forestry University 1(1):114-116
+35906	Chen, S.C. & Yin	1996	A new species of the family Phasmatidae from Yunnan, China (Phasmatodea: Phasmatidae)	Journal of Beijing Forestry University 18(1):59-60
+35908	Chen, S.C. & Y. Li	1999	The eggs of genus Baculum in China	Journal of Beijing Forestry University 21(6):52-57
+35919	Rentz & Weissman	1981	Faunal affinities, systematics, and bionomics of the Orthoptera of the California Channel Islands	University of California Publications in Entomology (Univ. Calif. Publs Ent.) 94:1-240
+35921	Piza	1981	Uma nova Prisopidea do Brasil (Phasmatodea-Phylliidae)	Escola Superior de Agricultura "Luiz de Queiroz"
+35922	Giebel	1861	Neue ostindische Schrecken	Z. Ges. Naturwiss. (1)28:111-121
+35923	Zhou, W.	1997	A new species of the genus Baculum from China (Phasmida: Phasmatidae)	Wuji Science Journal 13:6-7
+35924	Chen, P.C. & S.C. Chen	1998	A new species of genus Sinophasma (Phasmatidae: Heteronemiidae) from China	Entomologia Sinica 5(1):47-49
+35931	Vickery & Sandoval	1998	Timema monikensis, species nov. (Phasmatoptera: Timematodea: Timematidae), a new parthenogenetic species in California	Note, Lyman Entomological Museum and Research Laboratory (Lyman Ent. and Research Lab.) 22:1-3
+35933	Fischer von Waldheim	1834	Notice sur quelques Orthoptères et Nevroptères du Brésil	Bull. Soc. Imp. Nat. Moscou 7:322-330, pl. 7
+35945	Alfken	1901	Ergebnisse einer Reise nach dem Pacific. (Schauinsland 1896/97). Neue Orthopteren von Neu-Seeland und den Hawaiischen Inseln, nebst kritischen Bemerkungen zu einigen bekannten Arten	Abhandlungen des Naturwissenschaftlichen Vereins Bremen 141-152
+35956	Werner	1929	Phasmidae (Gesammelt v. W. Kükenthal in Westindien)	Zool. Jahrb. Suppl. 16:4-10
+35958	Hausleithner	1988	Die Eier einiger weiterer Baculum-Arten (Phasmida)	Ent. Z. Frankfurt 98(14):193-208
+35959	Hausleithner	1990	Parahyrtacus gorkomi n. gen, n. sp. - eine neue Stabschrecke von den Philippinen (Phasmatodea: Lonchodinae: Neopromachini	Ent. Z. Frankfurt 100 (15):282-289
+35961	Hausleithner	1986	Bemerkungen zu Phasgania sanguineoligatus und die Erstbaschreibung des Weibchens (Phasmida)	Ent. Z. Frankfurt 96(20):293-297
+35962	Hausleithner	1990		Ent. Z. Frankfurt 100(21)
+35963	Hausleithner	1985	Eine neue Stabschrecke aus Thailand: Baculum thai n. sp (Phasmatodea)	Ent. Z. Frankfurt 95(15):216-219
+35968	Goeze	1778		Entomologische Beytrage zu des Ritters Linne zwölfter Ausgabe des Natursystems (Ent. Beytr.) 2:1-352
+35970	Conle & Hennemann	2005	Studies on neotropical Phasmatodea 1: A remarkable new species of Peruphasma Conle & Hennemann, 2002 from Northern Peru (Phasmatodea: Pseudophasmatidae: Pseudophasmatinae)	Zootaxa 1068:59-68, incl. pl.
+35971	Hasenpusch & Brock	2006	Studies on the Australian stick insect genus Ctenomorpha Gray (Phasmida: Phasmatidae), with the description of a new large species	Zootaxa 1282:1-15
+35972	Conle	2006	Hennobrimus hennemanni n.gen. n.sp., a remarkable new genus and species of the tribe Obrimini from the Philippine Islands. (Phasmatodea: Heteropterygidae: Obriminae: Obrimini).	Zootaxa 1231:43-51
+35973	Hennemann & Conle	2006	Studies on the New Guinean giant stick insects of the tribe Stephanacridini Gunther, 1953, with the descriptions of a new genus and three new species of Stephanacris Redtenbacher, 1908 (Phasmatodea: 'Anareolatae').	Zootaxa 1283:1-24
+35974	Brock	2007	The Types of Phasmida in the Zoological Institute, Russian Academy of Sciences, St. Petersburg (ZMAS)	Zootaxa 1398:45-56
+35975	Murányi	2007	Peruphasma marmoratum, a remarkable new species of high montane Phasmatodea  (Pseudophasmatidae: Pseudophasmatinae) from the Venezuelan Andes	Zootaxa 1398:57-67
+35976	Hennemann & Conle	2006	Papuacocelus papuanus n. gen., n. sp. — a new Eurycanthinae from Papua New Guinea, with notes on the genus Dryococelus Gurney, 1947 and description of the egg  (Phasmatodea: Phasmatidae: Eurycanthinae)  FRANK H. HENNEMANN & OSKAR V. CONLE	Zootaxa 1375:31-49
+35977	Conle, Hennemann & Fontana	2007	Studies on neotropical Phasmatodea V: Notes on certain species of Pseudosermyle Caudell, 1903, with descriptions of three new species from Mexico (Phasmatodea: Diapheromeridae: Diapheromerinae: Diapheromerini)	Zootaxa 1496:31-51
+35978	Gottardo	2007	First record of the genus Dinophasma Uvarov from the Philippines (Phasmatodea: Aschiphasmatidae)	Zootaxa 1530:33–36
+35979	Hennemann, Conle, W. Zhang & Y. Liu	2008	Descriptions of a new genus and three new species of Phasmatodea from Southwest China (Insecta: Phasmatodea)	Zootaxa 1701:40-62
+35980	Hennemann, Conle & W. Zhang	2008	Catalogue of the Stick and Leaf-insects (Phasmatodea) of China, with a faunistic analysis, review of recent ecological and biological studies and bibliography (Insecta: Orthoptera: Phasmatodea	Zootaxa 1735:1-76
+35981	Conle, Hennemann & Perez-Gelabert	2008	Studies on neotropical Phasmatodea II:  Revision of the genus Malacomorpha Rehn, 1906,  with the descriptions of seven new species  (Phasmatodea: Pseudophasmatidae: Pseudophasmatinae)	Zootaxa 1748:1-64
+35982	Gottardo	2008	A new species of Korinnis Günther from the Philippines  (Phasmatodea: Prisopodidae: Korinninae)	Zootaxa 1917:61–64
+35984	Hennemann & Conle	2009	Studies on the genus Phasmotaenia Navás, 1907, with the descriptions of five new species from the Solomon Islands, a revised key to the species and notes on its geographic distribution (Phasmatodea: “Anareolatae”: Phasmatidae s. l.: Stephanacridini)	Zootaxa 2011:1-46
+35985	Conle, Hennemann, Ramírez-Mora & Quiróz	2009	Studies on neotropical Phasmatodea VIII: Revision of the genus Decidia Stål, 1875 with the description of a new species from Colombia  (Phasmatodea: Pseudophasmatidae: Pseudophasmatinae: Anisomorphini)	Zootaxa 2089:33–51
+35986	Hennemann, Conle, Gottardo & Bresseel	2009	On certain species of the genus Phyllium Illiger, 1798, with proposals for an intra-generic systematization and the descriptions of five new species from the Philippines and Palawan (Phasmatodea: Phylliidae: Phylliinae: Phylliini)	Zootaxa 2322:1–83
+35988	Hennemann & Conle	2011	Studies on neotropical Phasmatodea XIV: Generic revision and re-arrangement of the tribe Cladomorphini Brunner v. Wattenwyl, 1893, including the descriptions of five new genera and eighteen new species (Phasmatodea: "Anareolatae": Cladomorphinae)	Zootaxa
+35991	Bresseel	2012	First record of the genus Loxopsis from the Philippines with the discovery of two new species (Phasmida, Diapheromeridae, Necrosciinae)	Zootaxa 3326:49–61
+35992	Ho, G.W.C.	2012	Notes on the genera Sinophasma Günther, 1940 and Pachyscia Redtenbacher, 1908 (Phasmatodea: Diapheromeridae: Necrosciinae), with the description of four new species from China	Zootaxa 3495:57–72
+35994	Ho, G.W.C.	2013	Contribution to the knowledge of Chinese Phasmatodea I:  A review of Neohiraseini (Phasmatodea: Phasmatidae: Lonchodinae) from Hainan Province, China, with descriptions of one new genus, five new species and three new subspecies, and redescriptions of Pseudocentema Chen, He & Li and Qiongphasma Chen, He & Li	Zootaxa 3620(3):404–428
+36001	Zompro & Domenico	2005	Catalogue of the type material of Phasmatodea (Insecta) deposited in Brazilian Museums	Inheringia, sér. Zool., Porto Alegre 95(3):255-259
+36007	Guérin-Méneville	1838	Insectes du voyage de la Favourite	Mag. Zool. 8:1-80, pls. 225-238
+36008	Key	1957	Kentromorphic phases in three species of Phasmatodea	Australian Journal of Zoology (Australian J. Zool.) 5(3):247-284
+36009	Craddock	1972	Chromosonal diversity in the Australian Phasmatodea	Australian Journal of Zoology (Australian J. Zool.) 20:445-462
+36029	Buckley & Bradler	2010	Tepakiphasma ngatikuri, a new genus and species of stick insect (Phasmatodea) from the Far North of New Zealand	New Zealand Entomologist (New Zealand Entom.) 33:118-126
+36031	Chopard	1929		Bull. Soc. Hist. nat. Afr. N. 20
+36036	Lea	1902	Notes on some remarkable Tasmanian invertebrates	The Papers and Proceedings of the Royal Society of Tasmania (Proc. Soc. Tasmania) 1902:81-82
+36055	Werner	1908		Z. Jahrb. Syst. 27:97
+36058	Pylnov	1911		Rev. russ. ent. 11
+36062	Montealegre	1929	El Palote (Bacteria spatulata)	Rev. Chil. Hist. nat. (Rev. Ch. Hist. nat.) 32:49-54
+36063	Fox	1928		Circ. New Jers. Dept. Agric. 138
+36066	Shiraki	1933	Phasmidae: Megacrania	Dobutsugaku Zasshi 45(532-533):109
+36073	Bekuzin	1960		Ent. Obozr. 39
+36085	Zompro	2004	Johann Jakob Kaup as the founder of phasmatodean ootaxonomy	Darmstädter Beiträge zur Naturgeschichte 13:89-97
+36091	Zompro & Eusebio	2000	A new genus and species of stick insect (Phasmatodea: Heteronemiidae: Lonchodinae) from the Philippine Islands	Philipp. Ent. 14(2):131-135
+36093	Zompro	2003	Prisopus wolfgangjunki n.sp., a new species of Prisopus St. Fargeau & Audinet-Serville, 1827, from Brazil (Phasmatodea: Prisopodidae)	Amazoniana 17(3/4):509-511, figs. 1-2
+36095	Chen, S.C. & P.C. Chen	1997	A new species of Heteronemiidae from Guangxi (phasmatodea: Heteronemiidae)	Guangxi Sciences (Guangxi Sci.) 4(2):124-125
+36102	Gosse	1859		Lett. Alabama
+36103	Walsh, B.D.	1864	On phytophagic varieties and phytophagic species	Proc. Ent. Soc. Philad. 3:403-430
+36113	Chen, S.C. & Z. Chen	2000	Two new species of the genus Sosibia from Guangdong Province, China (Phasmatodea: Heteronemiidae)	Acta Scientiarum Naturalium Universitatis Sunyatseni 39(1):121-122
+36114	Chen, S.C., Y.H. He & Z. Chen	2000	Three new species of Phasmatodea from Guangdong, China (Phasmatodea: Phasmatidae: Heteronemiidae)	Acta Scientiarum Naturalium Universitatis Sunyatseni 39(4):128-130
+36115	Chen, S.C. & Z. Chen	2000	A new species of the genus Baculum from Guangdong, China (Phasmatodea: Phasmatidae)	Acta Scientiarum Naturalium Universitatis Sunyatseni 39(6):129-130
+36116	Yamasaki	1991	Occurrence of Megacrania alpheus (Cheleutoptera: Phasmatidae) on Iriomote-jima Island, the Ryukus	Proceedings Japanese Society of Systematics (Proc. Jpn Soc. Syst. Zool.) 44:49-56
+36122	Chen, S.C. & Y.H. He	1991	Three new species of Baculum attacking forest from China (Phasmida: Phasmatidae)	Scientia Silvae Sinicae 27(3):229-233
+36123	Chen, S.C. & Y.H. He	1995	Two new species of the genus Baculum found from Mt. Tianmu, Zhejiang, China (Phasmatodea: Phasmatidae)	Scientia Silvae Sinicae 31(3):220-222
+36124	Chen, S.C. & Y.H. He	1995	A new species of Sinophasma from Hainan, China (Phasmatodea: Heteronemiidae)	Scientia Silvae Sinicae 31(4):328-329
+36125	Chen, S.C. & Y.H. He	1994	A new species of the genus Sinophasma from Sichuan, China (Phasmatodea: Heteronemiidae)	Scientia Silvae Sinicae 30(2):124-125
+36126	Li, X., Bing, X. Xu, S. Chen & H. Li	2002	Study on the bionomics and control of Baculum chongxinense	Scientia Silvae Sinicae 38(6):159-163
+36130	Bolívar	1881	Estudio sobre algunos ortopteros de Museo de Varsovia	Notas Ent. 1881
+36141	Okada	1999		Nanafushi no Subete (All About Stick-Insects), Tonbo Shuppan Publishing, Osaka 1-56
+36143	Salmon	1991		The stick insects of New Zealand, Reed Books, New Zealand, Auckland 1-124
+36144	Say	1824		American Entomology or descriptions of the insects of North-America, Philadelphia Museum (A. Mitchell) 1:1-106, pls 1-18
+36146	Serville	1838[1839]		Histoire naturelle des Insectes. Orthoptères, Librarie Encyclopedique de Roret, Paris 1-776, pls 1-14
+36147	Thunberg	1784		Dissertatio Entomologica novas insectorum species, sistens, cujus partem tertiam cons. exper. facult. med. Upsal., Edman, Upsaliae
+36148	Boisduval	1835		Faune entomologique de l´Océan Pacifique, avec l´illustration des Insectes nouveaux, recueillis pendant le voyage de l'Astrolabe, Paris 2:267-716
+36149	Brock	1998		Catalogue of type-specimens of Stick- and Leaf-Insects in the Naturhistorisches Museum Wien (Insecta: Phasmida). Kataloge der wissenschaftlichen Sammlungen des Naturhistorischen Museums in Wien, Naturhistorischen Museum Wien 13(5):1-72
+36150	Burmeister	1838		Handbuch der Entomologie, T.C.F. Enslin, Berlin 2:457-756
+36151	Westwood	1848		The cabinet of Oriental Entomology., William Smith, London 1-88, pls 1-42
+36152	Wolcott	1948		The insects of Puerto Rico, J. Agricult. Univ. Puerto Rico. 33:1-975
+36154	Charpentier	1825		De Orthopteris Europaeis. Horae Entomologicae., A. Gosohorsky, Vratislava 1-259, pls 1-9
+36155	Charpentier	1845		Orthoptera descripta et depicta, Leop. Voss, Leipzig i-iv, pls 1-60 with each 2pp text
+36156	Fabricius	1775		Systema Entomologiae, sistens insectorum, classes, ordines, genera, species, adiectis, synonymis, locis, descriptionibus, observationibus, Korte, Flensburgi [Flensburg] & Lipsiae [Leipzig] 1-832 [Orth. 1-28]
+36157	Fabricius	1793		Entomologia Systematica Emendata et Aucta, secundum Classes, Ordines, Genera, Species, adjectis Synonymis, Locis, Observationibus, Descriptionibus, C.G. Proft, Hafniae [Copenhagen] 1-519 [Orth. 1-62]
+36158	Gray, G.R.	1833		The Entomology of Australia. The monograph of the genus Phasma, London
+36159	Gray, G.R.	1835		Synopsis of the species of insects belonging to the family of Phasmidae., Longman, Rees, Orme, Brown, Green & Longman, London 1-48
+36164	Olivier	1792		Encyclopédie Méthodique, ou par ordre de matières par un société de gens de lettres, de savans et d´artistes. Histoire Naturelle, Panckoucke, Paris 7
+36165	Latreille, Peletier de Saint Fargeau, Serville & Guérin-Méneville [Ed.]	1828		Encyclopédie Méthodique, ou par ordre de matières par un société de gens de lettres, de savans et d´artistes. Histoire Naturelle, Panckoucke, Paris 10:345-833
+36166	Peletier de Saint Fargeau & Serville 	1828		Encyclopédie Méthodique, ou par ordre de matières par un société de gens de lettres, de savans et d´artistes. Histoire Naturelle, Panckoucke, Paris 10:345-833
+36172	Seow-Choen	2000		An illustrated Guide to the Stick and Leaf Insects of Peninsular Malaysia and Singapore, Natural History Publications, (Borneo) Kota Kinabalu 1-173
+36174	Redtenbacher	1908		Die Insektenfamilie der Phasmiden. III. Phasmidae Anareolatae (Phibalosomini, Acrophyllini, Necrosciini)., Verlag Engelmann, Leipzig 3:339-589, pls 16-27
+36176	Sinéty	1901	Recherches sur la biologie et l´anatomie des Phasmes	Cellula, Joseph Van In & Cie, Lierre 19:1-164, pl. 1-5
+36183	Brunner von Wattenwyl	1882		Prodromus der europäischen Orthopteren, Verlag von Wilhelm Engelmann, Leipzig 1-466, pls 1-11
+36187	Sjöstedt	1909		Wissenschaftliche Ergebnisse der schwedischen zoologischen Expedition nach dem Kilimandjaro, dem Meru und den umgebenden Massaisteppen Deutsch-Ostafrikas, 1905-1906 unter Leitung von Prof. Dr. Yngve Sjöstedt. 17. Orthoptera. 4. Phasmodea, Stockholm 3:75
+36190	Brock	1991		Stick-insects of Britain, Europe and the Mediterranean., Fitzgerald Publishing, London 1-51
+36191	Brock	1999		Stick and Leaf Insects of Peninsular Malaysia and Singapore, Malaysian Nature Society, Kuala Lumpur 1-223
+36194	Brunner von Wattenwyl	1907	(Usually bound in one volume, Brunner & Redtenbacher 1906-08, published in three parts: Redtenbacher 1906, 1908; Brunner 1907)	Die Insektenfamilie der Phasmiden. II. Phasmidae Anareolatae (Clitumnini, Lonchodini, Bacunculini)., Verlag Engelmann, Leipzig Phasmiden:181-338, pls 7-15
+36196	Westwood	1841	Illustrations of new, rare and interesting exotic insects. London 1841-1843	The Arcana Museum of Nature, William Smith, London 1:Phasmids 26, pl. 8
+36197	Westwood	1843	Illustrations of two species of spectre insects. 1841-1843	The Arcana Museum of Nature, William Smith, London 2:phasmids 49-50, pl. 61
+36198	Perry	1811	Entomology	The Arcana Museum of Nature, William Smith, London
+36199	Westwood	1859		Catalogue of the orthopterous insects in the collection of the British Museum. Part I. Phasmidae., British Museum, London 1-196
+36200	Westwood	1874		Thesaurus Entomologicus Oxoniensis: or Illustrations of new, rare, and interesting Insects, for the most part coloured, in the collections presented to the University of Oxford by the Rev. F.W. Hope., McMillan and Co, London 1-205, pls 1-40 (phas. 173-174, pl. 32)
+36201	Drury	1773	Illustrations of Natural History. Vol. II	London, White, London 2:1-92, 50 pls
+36202	Kirby	1904		A synonymic catalogue of Orthoptera. 1. Orthoptera Euplexoptera, Cursoria et Gressoria. (Forficulidae, Hemimeridae, Blattidae, Mantidae, Phasmidae), The Trustees of the British Museum, London 1:1-501
+36205	Lichtenstein	1796		Catalogus Musei zoologici ditissimi Hamburgi, d III Februar 1796. Auctionis lege distrahendi. 3., Hamburg 1-222
+36206	McCoy	1882	Tropidoderus iodomus (McCoy), Tropidoderus rhodomus (McCoy). In: Prodromus of the zoology of Victoria	Natural History of Victoria. Prodromus of the Zoology of Victoria, or, figures and descriptions of living species of all classes of the Victorian indigenous Animals, Melbourne & London 7:33-37, pl. 69, 70
+36208	Palisot de Beauvois	1805	Orthoptéres	Insectes recueillis en Afrique et en Amérique, dans les Royaumea D´Oware et de Benin, a Saint-Domingue et dans les états-unis, Pendant les années 1786-1797., Paris
+36210	Stoll	1813		Natuurlyke en naar 't leeven naauwkeurig gekleurde afbeeldingen en beschryvingen der spooken, wandelende, bladen, zabelspringhaanen, krekels, treksprinkhaanen en kakkerlakken [Représentation exactement colorée d'après nature des spectres, des mantes, des sauterelles, des grillons, des criquets et des blattes], J.C. Sepp & Sohn, Amsterdam 1788-1813
+36212	Harz & Kaltenbach	1976	Die Orthopteren Europas III. Dr. W. Junk B. V	Die Orthopteren Europas III, Dr. W. Junk B. V., The Hague 3:1-434
+36216	Lucas	1862		Notes sur l´Ile de la Réunion, Paris 2:22
+36217	Linnaeus	1758		Systema Naturae per Regna tria Naturae secundum Classes, Ordines, Genera, Species, cum Characteribus, Differentiis, Synonymis, Locis (10th ed), Laurentius Salvius, Holmiae [Stockholm] 1-824
+36218	Lucas	1849		Exploration scientifique de l´Algerie pendant les annees 1840, 1841, 1842. Zoologie. Histoire naturelle des animaux articules. Les Orthopteres, Paris 3:1-39, pls 1-4
+36219	Guérin-Méneville	1829-1838		Iconographie du règne animal de G. Cuvier ou représentation d’après nature de l’une des espèces les plus remarquables, et souvent non encore figurées, de chaque genre d’animaux. Tome II, J. B. Baillère, Paris
+36221	Bragg	2001		Phasmids of Borneo, Natural History Publications, Kota Kinabalu, Sabah 1-771
+36223	Brock	2003	Rearing and Studying Stick and Leaf Insects. The Amateur Entomologist 22	Rearing and studying stick and leaf insects, The Amateur Entomologists' Society, London 22
+36227	Grösser	2001		Wandelnde Blätter. Ein Katalog aller bisher beschriebenen Phylliinae-Arten und deren Eier mit drei Neubeschreibungen. 1st Edition, Edition Chimaira, Frankfurt am Main 1-119
+36240	Zompro	2004		Revision of the genera of the Areolatae, including the status of Timema and Agathemera (Insecta, Phasmatodea), Goecke & Evers, Keltern-Weiler, Germany 1-327
+36257	Seow-Choen	2000		Illustrated Guide Stick and Leaf Insects Peninsular Malaysia and Singapore
+36260	Pallas	1772		Spicilegia zoologica, G.A. Lange, Berolini [Berlin] 1(9):1-36, 2 pls.
+36262	Gmelin	1789		Caroli a Linné, ... Systema Naturae per Regna Tria naturae, Secundum Classes, Ordines, Genera, Species, com Characteribus, Differentiis, Synonymis, Locis, J. B. Delamolliere, Lugduni [=Leiden] 1(4):1517-2224
+36263	Hutton	1881		Catalogues of the New Zealand Diptera, Orthoptera, Hymenoptera; with Descriptions of the Species, New Zealand Government Printer, Wellington 1-132
+36266	Vickery & Kevan	1986		The Insects and Arachnids of Canada. Part 14. The Grasshoppers, Crickets and Related Insects of Canada and Adjacent Regions, Agriculture Canada, Ottawa 14:1-981
+36269	Huang, Y.S.	2002		Phasmids in Taiwan, Bigtree Culture Enterprise Co. – Ltd, Taiwa 1-142
+36275	Redtenbacher	1906	Phasmidae Areolatae	Die Insektenfamilie der Phasmiden 1:1-180, pls 1-6
+36279	Chopard	1943		Faune de l’Empire Français
+36280	Rossi	1790		Fauna Etrusca sistens Insecta quae in provinciis Florentina et Pisana praesertim collegit., T. Maso, Liburni [Livorno] 1:1-272
+36281	Fabricius	1798		Supplementum Entomologiae Systematicae, Proft & Storch, Hafniae [Copenhagen] 1-572 [Orth. 183-196]
+36284	Seiler, C. & et al.	2000		Phasmiden Pflege und Zucht von Gespenstschrecken, Stabschrecken und Wandelnden Blattern im Terrarium
+36285	Jaeger	1854		Life N. Amer. Ins. 1854
+36289	Chen, S.C. & Y.H. He	1997	Phasmatodea: Phasmatidae and Heteronemiidae	Insects of the Three Gorge Reservoir area of Yangtze River 113-121
+36293	Cyrillo	1787		Entomologiae Neapolitanae specimen primum, Neapoli
+36301	DeGeer	1773		Mémoires pour servir à l'Histoire des Insectes, P. Hesselberg, Stockholm 3:1-696, 44 pls.
+36307	Fabricius	1787		Mantissa insectorum sistens eorum species nuper detectae adiectis characteribus genericis, differentiis specificis, emendationibus, observationibus, C.G. Proft, Hafniae [Copenhagen] 1:1-348 [Orth. 224-239]
+36309	Say	1824		Long Expedit. 2
+36321	Latreille	1806		Genera Crust. et Insectorum
+36323	Linnaeus	1763		Centuria Insectorum Rariorum 6
+36353	Schoeman	1985		Praying Mantids and Stick Insects, De Jager-Haum, Pretoria 1-47
+36403	Brock & Hasenpusch	2007		Studies on the Australian stick insects (Phasmida), including a checklist of species and bibliography, Zootaxa, Magnolia Press, Auckland 1570:1-84
+36409	Chen, S.C. & Y.H. He	1999	Three new species of Phasmatodea from Guangxi, China (Phasmida: Phasmatidae and Heteronemiidae)	Journal of Guangxi Academy of Sciences 15(2):84-86
+36410	Chen, S.C. & J.J. Wang	1998	A new species and a new record species of the genus Asceles (Phasmatodea: Heteronemiidae)	Journal of Guangxi Academy of Sciences 14(2):15-16
+36411	Chen, S.C. & J.J. Wang	1998	A new species of Aruanoidea Brunner attacking forest from Guangxi (Phasmatodea: Heteronemiidae)  	Journal of Guangxi Academy of Sciences 14(1):1-2
+36419	Tamayo Lorenzo	2007	Phenacephorus latifer: una neuva especie de la tribu Lonchodini de la isla de Borneo (Phasmatodea, Diapheromeridae, Lonchodinae)	Boletín Sociedad Entomológica Aragonesa 41:95-99
+36435	Chen, S.C. & Y.H. He	1993	Seven New Species of Phasmida in Mao’er Mountain of Guangxi  	Journal of the Guangxi Academy of Sciences 9(1):34-45
+36440	Lit & Eusebio	2008	A New Species of the Genus Pharnacia (Phasmatodea: Phasmatidae: Phasmatinae: Pharnaciini) on Mango Trees in Sibuyan Island with Notes on Stick Insects Found on Agricultural Crops  	The Philippine Agricultural Scientist 91(2):115-122
+36443	Grösser	2008		Wandelnde Blätter. Ein Katalog aller bisher beschriebenen Phylliinae-Arten und deren Eier mit drei Neubeschreibungen. 2nd Edition., Edition Chimaira, Frankfurt am Main 1-175
+36446	Gorochov & Berezin	2008	A new species of the genus Autolyca Stål (Phasmatoptera) from Mexico	Russian Entomological Journal 17(2):135–138
+36467	Hennemann & Conle	2008		Revision of Oriental Phasmatodea: The tribe Pharnaciini Günther, 1953, including the description of the world's longest insect, and a survey of the family Phasmatidae Gray, 1835 with keys to the subfamilies and tribes (Phasmatodea: "Anareolatae": Phasmatidae), Zootaxa 1906:1-316
+36509	Burmeister	1840	Audinet-Serville, historie naturelle des Orthopteres. Paris. 1839. 8 verglichen mit H. Burmeister, Handbuch d. Entomologie II. Bd. 2. Abth., 1. Halfte, (vulgo Orthoptera). Berlin 1838. 8	Germar’s Zeitschrift für die Entomologie 2:1-82.
+36510	Charpentier	1841	Einige Bemerkungen die Orthopteren betreffend, besonder in Bezug auf Burmeister's und Serville's Schriften über diese Insektenabteilung	Germar’s Zeitschrift für die Entomologie 3:283-321
+36539	Zou, E.H., Liang & Y.F. Zou	1991	Research on the biological characteristics and control of two new species in Baculum Saussure	Shaanxi Forest Science and Technology 4:32-34
+36550	Ichikawa & Okada	2008	Review of Japanese species of Micadina Redtenbacher (Phasmatodea, Diapheromeridae), with description of a new species	Tettigonia 9:13-31
+36551	Otte & Brock	2005		Phasmida Species File. Catalog of Stick and Leaf Insects of the world, The Insect Diversity Association at the Academy of Natural Sciences, Philadelphia 1-414
+36552	Chen, S.C. & Y.H. He	2008		Phasmatodea of China, China Forestry Publishing House 1-476, 12 pl.
+36579	Conle, Hennemann & Gutiérrez	2011		The Stick Insects of Colombia, Herstellung und Verlag: Books on Demand GmbH, Norderstedt 1-406
+36580	Leach	1814		The Zoological Miscellany: being descriptions of new or interesting animals, Nodder & Son, London 1:1-144
+36581	Gottardo	2011	Occurrence of the genus Ophicrania Kaup (Insecta: Phasmatodea) in Panay island (Philippines) and description of a new species	Comptes Rendus Biologies (C. R. Biologies) 334:320–326
+36582	Gottardo	2011	A new genus and new species of Philippine stick insects (Insecta: Phasmatodea) and phylogenetic considerations	Comptes Rendus Biologies (C. R. Biologies) 334:555–563
+36583	Gottardo & Heller	2012	An enigmatic new stick insect from the Philippine Islands  (Insecta: Phasmatodea)	Comptes Rendus Biologies (C. R. Biologies) 335:594-601
+36586	Ta & Hoang	2004	A new species of Nearchus Redtenbacher (Phasmatodea: Pasmatidae) from Vietnam	Tap chí SINH HOC 26(3A):15-18
+36590	Vera	2011	Estudio taxonómico del género Paraxeropsis Camousseight, 2008 (Insecta, Phasmatodea), con la descripción de P. camousseighti n. sp.	Gayana 75(1):71-80
+36591	Koçak & Kemal	2010	Nomenclatural note on the genus group name in Phasmida	Centre for Entomological Studies Ankara Miscellaneous Papers (Cent. ent. Stud., Misc. Pap.) 151:1
+36594	Mandal & Yadav	2010	Some phasmida (stick and leaf insects) of India	Records of the Zoological Survey of India Occasional Paper 318:1-64
+36608	Conle & Hennemann	2012	Studies of Neotropical Phasmatodea XII: Pseudophasma lakini sp. n. – a new stick insect from eastern Ecuador  (Phasmatodea: Pseudophasmatidae: Pseudophasmatinae)	Polish Journal of Entomology 81(1):3-10
+36613	Ho, G.W.C.	2012	Taxonomic study of the tribe Neohiraseini Hennemann & Conle, 2008 (Phasmida: Phasmatidae: Lonchodinae) in continental China	Entomologica Fennica (Entomol. Fennica) 23:215–226
+36614	Ho, G.W.C.	2012	A new species of Micadina Redtenbacher, 1908  (Phasmida: Necrosciinae) from Guangdong Province, China	Entomologica Fennica (Entomol. Fennica) 23:177-180
+36628	Kumagai & Fonseca	2009	Uma nova espécie de Cladomorphus Gray, 1835  (Phasmatidae, Cladomorphinae) de Minas Gerais, Brasil	Revista Brasileira de Entomologia 53(1):41-44
+36629	Pakage	2010	The exploiration of the diversity of stick insects Order Phasmida in the Natural Reserve of the Cyclops Mountains, Kabupaten Jayapura	Suara Serangga Papua (SUGAPA) 5(1):31-35
+36632	Bolívar 	1922	Orthoptères 	Voyage de M. Le Baron Maurice de Rothschild en Ethiopie et en Afrique orientale anglaise 1904-1905. Animaux Articulés, Imprimerie National, Paris 1:pp. 168-219, pl. 1
+36633	Carl 	1915	Phasmiden von Neu-Caledonien und den Loyalty-Inseln 	Forschungen in Neu-Caledonia, Zoologie (2)2(9):173-194
+36634	Werner 	1912	Mantodea und Phasmodea 	Die Fauna Südwest-Australiens. Ergebnisse der Hamburger südwest-australischen Forschungsreise 1905, Gustav Fischer, Jena 53-56
+36635	Rehn, J.A.G. In Second Report on Pacific Slope Orthoptera.	1905	Orthoptera. Second report on Pacific slope Orthoptera In Second Report on Pacific Slope Orthoptera.	Invertebrata Pacifica, Unknown 1:72-74
+36636	Haan, W. de 	1842	Bijdragen to de kennis der Orthoptera 	Verhandelingen over de Natuurlijke Geschiedenis der Nederlansche Overzeesche Bezittingen, In commissie bij S. en J. Luchtmans, en C.C. van der Hoek, Leiden 2:95-138
+36639	Blanchard 	1851	Ortopteros 	Historia fisica y politca de Chile, Museo de historia natural de Santiago, Paris & Chile 6:5-85, 1 pl.
+36640	Blanchard 	1853	Orthoptères 	Voyage de M. Dumont d´Urville au Pole Sud et dans l´Oceanie, Gide et J. Baudry, Paris 349-376, pl. 1-3
+36644	Brullé 	1835	Orthoptères 	Histoire naturelle des Insectes., Pillot, Paris 1-8, 80-117, 211-212, pls
+36647	Chen, S.C. & Y.H. He 	1992	Phasmida 	Iconography of forest insects in Hunan China, Academia Sinica & Huan Forest Institute, Hunan, China 42-49
+36653	Schaum 	1862		Naturwissenschaftliche Reise nach Mossambique., Verlag Georg Reimer, Berlin
+36660	Saussure 	1870-1872	Reserches zoologique pour servir à l'histoire de la faune l'Amérique Centrale et du Mexique, publ. sous la direction de M. Milne Edwards. Sixième partie 	Etudes sur les Myriapodes et les Insectes. Orthoptères., Imprimerie impériale, Paris 126-201, pl. 3-4
+36661	Günther 	1936	Phasmoiden und Acrydiinen (Orthoptera) von Holländisch Neu Guinea. Hauptsächlich aus den Ausbeuten der Herren Docters van Leeuwen (1926), van Heurn (1920), P. N. van Kampen und K.Gjellerup (1910) 	Nova Guinea, Résultats des Expéditions Scientifiques à la Nouvelle Guinée, Brill, Leide 17(3):323-352
+36664	Brock & Seow-Choen 	1999		Stick and Leaf Insects of Peninsular Malaysia and Singapore, Malaysian Nature Society, Kuala Lumpur
+36666	Sharp 	1898	Account of the Phasmidae, with notes on the eggs 	Zoological Results 2, Cambridge University Press 75-94, pl. 7-9
+36667	White, A. 	1846	Insects 	The Zoology of the Voyage of H.M.S. Erebus and Terror, 1. Insects of New Zealand, E.W. Janson, London
+36669	Bullini, L. 	1982		Mechanisms of Speciation
+36670	Chen, S.C. & Y.H. He In Systematic and Faunistic Research on Chinese Insects. Proceedings of 5th National Congress on Insect Taxonomy.	2000	Three New Genera and Two New Species of Heteronemiidae (Phasmatodea) from South China In Systematic and Faunistic Research on Chinese Insects. Proceedings of 5th National Congress on Insect Taxonomy.	China Agricultural Press, Beijing 31-35
+36671	Kirby 	1902	Phasmidae [in Orthoptera section] 	Insecta Transvaaliensia. A contribution to the knowledge of the Entomology of South Africa, H L Distant, London 42-48, pl. 2
+36672	Macleay 	1826[1827]	Annuloso, Catalogue of Insects, collected by Captain King, R.N. 	Narrative of a survey of the Intertropical, and Western Coasts of Australia performed between the years 1818 and 1822 2:438-469, Table B
+36673	Ferriere In Orthoptera, Phasmidae of the Seychelles.	1912	In Orthoptera, Phasmidae of the Seychelles.	Transactions of the Linnean Society, London (Trans. Linn. Soc. Lond.) 15(2)
+36674	Chopard In Phasmatodea from Northern Kenya.	1954	In Phasmatodea from Northern Kenya.	Entomologist 87
+36675	Günther 	1956		South African Animal life, results of the Lund University expedition in 1950-51., Almqvist & Wiksell, Stockholm
+36676	Liu, S.L. & Cai 	1992	Phasmatodea: Phasmatidae and Heteronemiidae 	Insects of the Hengduan Mountains Region, Sinica Press, Beijing 1:59-64
+36678	Chen, S.C. & Y.H. He 	1995		Insects of Baishanzu Mountain, Eastern China
+36679	Brock & Seow-Choen 	2000		An illustrated Guide to the Stick and Leaf Insects of Peninsular Malaysia and Singapore, Natural History Publications, (Borneo) Kota Kinabalu
+36680	Bi, S.C. Chen & Y.H. He 	1992	Phasmida 	Insects of Wuling Mountains Area, Southwestern China, Sinica Press, Beijing
+36681	Langlois & Lelong In Lamponius lethargicus n. sp. , Pseudobacteria donskoffi n. sp. et Paraclonistria nigramala n. gen. , n. sp. : trois nouveaux Phasmes de Guadeloupe (Orthoptera, Phasmatodea).	1998	In Lamponius lethargicus n. sp. , Pseudobacteria donskoffi n. sp. et Paraclonistria nigramala n. gen. , n. sp. : trois nouveaux Phasmes de Guadeloupe (Orthoptera, Phasmatodea).	Bulletin de la Société entomologique de France 103(3)
+36682	Brock In Catalogue of type-material of stick-insects housed in the Muséum d histoire naturelle, Geneva, with descriptions of some new taxa (Insecta: Phasmatodea).	2003	In Catalogue of type-material of stick-insects housed in the Muséum d histoire naturelle, Geneva, with descriptions of some new taxa (Insecta: Phasmatodea).	Revue suisse de Zoologie 110(1)
+36683	Gray, G.R. 	1832		The animal kingdom arranged in conformita with its organisation by the Baron Cuvier, Whittaker, London 15
+36684	Zompro 	2001		Wandelnde Blätter. Ein Katalog aller bisher beschriebenen Phylliinae-Arten und deren Eier mit drei Neubeschreibungen. 1st Edition, Edition Chimaira, Frankfurt am Main
+36685	Blanchard In Insectes Orthoptères.	1843	Insectes de l'Amerique Méridionale recueillis par M Alcide d'Orbigny In Insectes Orthoptères.	Voyage dans l'Amérique Méridionale, Paris 6(2):214-216
+36686	Zompro In Catalogue of type-material of stick-insects housed in the Muséum d histoire naturelle, Geneva, with descriptions of some new taxa (Insecta: Phasmatodea).	2003	In Catalogue of type-material of stick-insects housed in the Muséum d histoire naturelle, Geneva, with descriptions of some new taxa (Insecta: Phasmatodea).	Revue suisse de Zoologie 110(1)
+36688	Herbst 	1786		Arch. Ent.
+36689	Bi & Z.G. Wang In Insects of the Funiu Mountains Region (1).	1998	Three new species of Phasmatodea from Henan Province In Insects of the Funiu Mountains Region (1).	The Fauna and Taxonomy of Insects in Henan 2, China Agricultural Scientech Press 9-13
+36691	Chen, S.C. & Y. Li 	1999	Two new species of Baculum from Mt. Jijong, Henan (Phasmatodea: Phasmatidae) 	Insects of the Jigong Mountains Region, China, Agricultural Scientech Press, Beijing 7-10
+36692	Vickery In Descriptions of three new species of Timema (Phasmatoptera: Timematodea: Timematidae) and notes on three other species.	2001	In Descriptions of three new species of Timema (Phasmatoptera: Timematodea: Timematidae) and notes on three other species.	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 10(1)
+36693	Percheron 	1829-1838		Iconographie du règne animal de G. Cuvier ou représentation d’après nature de l’une des espèces les plus remarquables, et souvent non encore figurées, de chaque genre d’animaux. Tome II, J. B. Baillère, Paris
+36694	Chen, S.C. In Four new species of genus Baculum from Mt. Funiu, Henan (Phasmatodea: Phasmatidae). 	1999	In Four new species of genus Baculum from Mt. Funiu, Henan (Phasmatodea: Phasmatidae). 	Insects of the mountains Funiu and Dabie Regions, China, Agricultural Scientech Press, Beijing
+36697	Kaup & Heyden In Neue Phasmiden.	1871	In Neue Phasmiden.	Berliner Entomologische Zeitung 15
+36698	Bi In Phasmida. 	1992	In Phasmida. 	Insects of Wuling Mountains Area, Southwestern China, Sinica Press, Beijing
+36699	Chen, S.C. & Y.H. He In Phasmida. 	1992	In Phasmida. 	Insects of Wuling Mountains Area, Southwestern China, Sinica Press, Beijing
+36701	Redtenbacher In Orthopteren aus Australien und dem Malaysischen Archipel, gesammelt von Professor Dr Richard Semon. 	1902	In Orthopteren aus Australien und dem Malaysischen Archipel, gesammelt von Professor Dr Richard Semon. 	Zoologische Forschungsreisen in Australien und dem Malaysischen Archipel, 5., Jena 758
+36702	Werner In Beiträge zur Kenntnis der Land- und Sübwasserfauna Deutsch-Südwestafrikas (zur Zeit Mandat Südwest-Afrika). Ergebnisse der Hamburger deutsch-südwestafrikanischen Studienreise 1911.	1923	Mantodea und Phasmodea In Beiträge zur Kenntnis der Land- und Sübwasserfauna Deutsch-Südwestafrikas (zur Zeit Mandat Südwest-Afrika). Ergebnisse der Hamburger deutsch-südwestafrikanischen Studienreise 1911.	L. Friederichesen & Co, L. Friederichesen & Co, Hamburg 2:128-132
+36705	Chen, S.C. & Y.H. He 	2001	Phasmatodea 	Tian Mu Shan Kun Chong (Insects), Science Press, Beijing 117-121
+36707	Chen, S.C., Y.H. He & Y. Li 	2002	Phasmatodea 	Forest insects of Hainan, National Science Foundation of China, Sinica Press, Beijing 100-116
+36708	Chen, S.C. & Y.H. He In Phasmatodea. 	2002	In Phasmatodea. 	Forest insects of Hainan, National Science Foundation of China, Sinica Press, Beijing
+36711	Chen, S.C. & Y. Li In Phasmatodea. 	2002	In Phasmatodea. 	Forest insects of Hainan, National Science Foundation of China, Sinica Press, Beijing
+36713	Chen, S.C. & Ran 	2002	Phyllidae, Heteronemiidae and Phasmatidae 	Insect fauna from National Nature Reserve of Guizhou Province, I. Insects from Maolan landscape, Guizhou Science and Technology Publishing House, Guiyang 1:123-128
+36714	Seow-Choen, Grinang & Naming 	2004	Phasmds 	Sarawak Bau Limestone Biodiversity, Sarawak Museum Department. Sarawak Museum Journal, Volume 59, No 80, Kuching 391-401
+36715	Seow-Choen 	1999	The Phasmida 	State of the natural environment in Singapore, Nature Society, Singapore 68-76
+36716	Hasenpusch & Brock 	2007		Studies on the Australian stick insects (Phasmida), including a checklist of species and bibliography, Zootaxa, Magnolia Press, Auckland 1570
+36717	Tay & Seow-Choen 	1996	Relationship of Plant families and stick-insects in Peninsular Malaysia and Singapore 	Biodiversity and the Dynamics of Ecosystems, DIWPA Series 1:177-186
+36718	Chen, S.C. & H.J. Wang 	2005	Phasmatodea: Phasmatidae and Heteronemiidae 	Insect Fauna of Middle-West Qinling Range and South Mountains of Gansu Province, Sinica Press, Beijing 95-101
+36719	Bey-Bienko In On some orthopteroid insects from the preserve forest Tingushan in the province Kwantung, South China.	1959	In On some orthopteroid insects from the preserve forest Tingushan in the province Kwantung, South China.	Zoologiceskij Zhurnal (Zool. Zhurn.) 38(12)
+36720	Bi & Z.G. Wang In Insects of the Funiu Mountains Region (1).	1998	Phasmatodea In Insects of the Funiu Mountains Region (1).	The Fauna and Taxonomy of Insects in Henan 2, China Agricultural Scientech Press 210-211
+36722	Chen, S.C. & Y.H. He 	2004	Phasmatodea: Pseudophasmatidae, Phasmatidae, Heteronemiidae 	Insects from Mt. Shiwandashan Area of Guangxi, China Forestry Publishing House, Beijing
+36723	Chen, S.C. 	2002	A new species of Paraclitumnus from Henan 	Insects of the Mountains Taihang and Tongbai Regions., China Agricultural Scientech Press, Beijing 11-12
+36724	Chen, S.C. & Y.H. He 	2004	Phasmatodea: Heteronemiidae 	Insects of the Great Yarlung Zangbo Canyon of Xizang, China Science and Technology Publishing House, Beijing 26-27
+36728	Chen, S.C. In Phasmatodea. 	1999	Phasmatodea In Phasmatodea. 	Fauna of insects of the Fujian Province of China. Vol. 1., Fujian Science and Technology Publishing House, Fuzhou
+36729	Chen, S.C. & J. Xu 	2008		Phasmatodea of China, China Forestry Publishing House
+36731	Brock & Grösser 	2008		Wandelnde Blätter. Ein Katalog aller bisher beschriebenen Phylliinae-Arten und deren Eier mit drei Neubeschreibungen. 2nd Edition., Edition Chimaira, Frankfurt am Main
+36732	Thanasinchayakul In Identification of some Stick and Leaf Insects, (Order Phasmida) in Thailand.	2006	In Identification of some Stick and Leaf Insects, (Order Phasmida) in Thailand.	Kamphaengsean Academic Journal (Kamphaengsean Acad. J.) 4(3)
+36735	Bragg 	2008		Revision of Oriental Phasmatodea: The tribe Pharnaciini Günther, 1953, including the description of the world's longest insect, and a survey of the family Phasmatidae Gray, 1835 with keys to the subfamilies and tribes (Phasmatodea: "Anareolatae": Phasmatidae), Zootaxa 1906
+36742	Bresseel, Hennemann, Conle & Gottardo In On certain species of the genus Phyllium Illiger, 1798, with proposals for an intra-generic systematization and the descriptions of five new species from the Philippines and Palawan (Phasmatodea: Phylliidae: Phylliinae: Phylliini).	2009	In On certain species of the genus Phyllium Illiger, 1798, with proposals for an intra-generic systematization and the descriptions of five new species from the Philippines and Palawan (Phasmatodea: Phylliidae: Phylliinae: Phylliini).	Zootaxa 2322
+36743	Lit & Eusebio In A new species of triangular back stick insect (Phasmatodea: Heteropterygidae: Eubulidini: Tisamenus) from Mt. Kanlaon, Negros Occidental, Philippines.	2010	In A new species of triangular back stick insect (Phasmatodea: Heteropterygidae: Eubulidini: Tisamenus) from Mt. Kanlaon, Negros Occidental, Philippines.	Asia Life Sciences 19(2)
+36744	Lit & Eusebio In The new Spiny Stick Insect Stenobrimus lumad LIT & EUSEBIO, n. sp. (Phasmatodea: Heteropterygidae: Obriminae: Eubulidini) – The first Record of the Genus from Mindanao Island, The Philippines, and some Insights in the Conservation of Forest Arthropods.	2010	In The new Spiny Stick Insect Stenobrimus lumad LIT & EUSEBIO, n. sp. (Phasmatodea: Heteropterygidae: Obriminae: Eubulidini) – The first Record of the Genus from Mindanao Island, The Philippines, and some Insights in the Conservation of Forest Arthropods.	ARTHROPODA Generalis 1
+36753	Chen, S.C. & Y.H. He In Phasmatodea: Heteronemiidae and Phasmatidae. 	2006	In Phasmatodea: Heteronemiidae and Phasmatidae. 	Insects from Mt. Fanjingshan Landscape, Guizhou Science and Technology Publishing House, Guiyang
+36754	Cai In Phasmida. 	1993	Phasmida In Phasmida. 	Forest insects in Shandong China, China Forestry Publishing House, Beijing
+36809	Bresseel	2013	Comments on the genus Neoclides UVAROV, 1940 with the description of a new species (Phasmatodea: Diapheromerinae: Necrosciinae)	Polish Journal of Entomology 82:3-11
+36881	Ho, G.W.C.	2013	Contribution to the knowledge of Chinese Phasmatodea II: Review of the Dataminae Rehn & Rehn, 1939 (Phasmatodea: Heteropterygidae) of China, with descriptions of one new genus and four new species	Zootaxa 3669(3):201–222
+36882	Ho, G.W.C. & Brock In Contribution to the knowledge of Chinese Phasmatodea II: Review of the Dataminae Rehn & Rehn, 1939 (Phasmatodea: Heteropterygidae) of China, with descriptions of one new genus and four new species.	2013	In Contribution to the knowledge of Chinese Phasmatodea II: Review of the Dataminae Rehn & Rehn, 1939 (Phasmatodea: Heteropterygidae) of China, with descriptions of one new genus and four new species.	Zootaxa 3669(3)
+37927	Ho, G.W.C.	2013		Stick Insects of Hong Kong, Hong Kong Entomological Society
+37933	Ho, G.W.C.	2013	A new species of Entoria Stål, 1875 from Hong Kong (Phasmatodea: Phasmatidae: Clitumninae)	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 22(1):29-33
+37981	Ho, G.W.C.	2013	Remarks on the genus Necroscia (Phasmatodea, Diapheromeridae, Necrosciinae) from China, with two new records, one new synonym, and one new combination and key to the species	Journal of Orthoptera Research (Jour. of Orthoptera Res.) 22(1):21-27
+43471	Bresseel & Constant	2013	Phamartes coronatus gen. nov. sp. nov. a new genus and species of stick insect from Bach Ma National Park, central Vietnam (Phasmida, Diapheromeridae, Necrosciinae)	Zootaxa 3741(1):141-150
+43579	Bellanger & Conle	2013	A new stick insect from Costa Rica  (Phasmatodea, Pseudophasmatidae, Xerosomatinae)	Bulletin de la Société entomologique de France 118(4)
+43582	Scali, Milani & Passamonti	2013	Description and ecology of new Pijnackeria stick insects: four bisexual species and a triploid parthenogen with their phyletic relationships	Journal of Zoological Systematics and Evolutionary Research (J Zoolog Syst Evol Res) 51(3):213-226
+43594	Ho, G.W.C. & F. Shi	2013	A new species of the genus Interphasma Chen & He, 2008  (Phasmida: Clitumninae: Medaurini) from Sichuan, China	Zootaxa 3734(4):492–496
+43946	Bradler, J.A.  Robertson & M.F. Whiting	2014	A molecular phylogeny of Phasmatodea with emphasis  on Necrosciinae, the most species-rich subfamily  of stick insects	Systematic Entomology 39:205–222
+44121	Peletier de Saint Fargeau & Serville 	1825		Encyclopédie Méthodique, ou par ordre de matières par un société de gens de lettres, de savans et d´artistes. Histoire Naturelle, Panckoucke, Paris
+44122	Lamarck	1817		Histoire naturelle des animaux sans vertèbres, présentant les caractères généraux et particuliers de ces animaux, leur distribution, leurs classes, leurs familles, leurs genres, et la citation des principales espèces qui s’y rapportent; précédée d'une introduction offrant la détermination des caractères essentiels de l'animal, sa distinction du.. de la zoologie, Verdière, Paris 4:1-603
+44166	Brock 	2014	A new species of leaf insect (Phasmida: Phylliidae)  from West Papua, Indonesia 	Biodiversity, Biogeography and Nature Conservation in Wallacea and New Guinea, volume II 145-147, pl. 2-3
+44167	Ho, G.W.C.	2013	Micadina reni, a new species of Necrosciinae  (Phasmatodea: Diapheromeridae) from Anhui Province	Entomotaxonomia 35(4):245–248
+44178	Ho, G.W.C.	2014	Taxonomic note on the genus Megalophasma Bi, 1995 (Phasmida: Phasmatidae: Lonchodinae)	Bulletin of Hong Kong Entomological Society 6(1):15-18, figs
+44219	Ho, G.W.C.	2014	A new species of Sinophasma Günther, 1940 from Guangxi, China (Phasmida: Diapheromeridae: Necrosciinae)	Dtsch. Entomol. Z. 61(1):23–25
+44246	Ho, G.W.C., X-Y Liu, Bresseel & Constant	2014	Brockphasma spinifemoralis gen. et spec. nov.: a new phasmid genus and new species of Neohiraseini (Phasmida: Necrosciinae) from Vietnam	Zootaxa 3826(1):282-290
+44290	Scali, Milani & Passamonti	2012	Revision of the stick insect genus Leptynia: description of new taxa, speciation mechanism and phylogeography	Contributions to Zoology 81(1):25-42
+44501	Kamp & Hennemann	2014	A tiny new species of leaf insect (Phasmatodea, Phylliidae) from New Guinea	Zootaxa 3869(4):397–408
+44541	Cliquennois	2003	Une nouvelle espèce du genre Leiophasma de Mayotte (Phasmatodea, Pygirhynchinae ?)	Bulletin de la Société entomologique de France 108(4):413-418
+44968	Bresseel & Constant	2014	Giant Sticks from Vietnam and China, with three new taxa including the second longest insect known to date (Phasmatodea, Phasmatidae, Clitumninae, Pharnaciini)	European Journal of Taxonomy 104:1-38
+45028	Buckley, Myers & Bradler	2014	Revision of the stick insect genus Clitarchus Stål (Phasmatodea: Phasmatidae): new synonymies and two new species from northern New Zealand	Zootaxa 3900(4):451–482
+45042	Nicholls, Urquhart, J.B. Ward & Johns	1998	A List of Insect Primary Types held in Canterbury Museum,  Christchurch, New Zealand	Records of the Canterbury Museum (Rec. Cant. Mus.) 12(2):1-43
+45098	Conle, Hennemann & Perez-Gelabert	2014	Studies on neotropical Phasmatodea XV: a remarkable new  stick insect from highly montane habitats of Hispaniola  (Pseudophasmatidae: Xerosomatinae: Hesperophasmatini)  	Novitates Caribaea 7:28-36
+45189	Lit & Eusebio	2014	A new species of leaf insect (Phasmatodea: Phylliidae)  from Northern Luzon, Philippines	ARTHROPODA Generalis 5:1-11
+45479	Bresseel & Constant	2015	The new genus of stick insect Lobofemora from Vietnam, with the description of three new species (Phasmida: Phasmatidae: Clitumnini)	European Journal of Taxonomy 115:1–25
+45783	Saito	2015	Two new species of Phraortes from the Ryukyus, Japan  (Phasmatodea: Phasmatidae)	Journal of Entomological Science 1-6
+46103	Hennemann, Conle & Suzuki	2015	A study of the members of the tribe Phasmatini Gray, 1835,  that occur within the boundaries of Wallacea  (Phasmatodea: Phasmatidae: Phasmatinae: “Lanceocercata”)	Zootaxa 4008(1):1–74
+46176	Delfosse	2015	A new giant leaf insect species of the genus Phyllium  from Thailand (Phasmatodea, Phylliidae)	Bulletin de la Société entomologique de France 120(3):411-415
+46215	Delfosse	2015	A new stick-insect species from Ecuador in the genus Decidia Stål, 1875 (Insecta: Phasmatodea: Pseudophasmatidae)	Le Bulletin d'Arthropoda 48:22-27
+46276	Lit & Eusebio	2015	A new species of cone-headed stick insect  (Phasmatodea: Diapheromeridae: Loxopsis) from Samar Island, Philippines	ARTHROPODA Generalis 6:1-8
+46401	Ho, G.W.C. & B.L. Zhang	2013	Taxonomy of the genus Ramulus (Phasmatodea, Phasmatidae, Clitumninae) from Hainan, China	Acta Zootaxonomica Sinica 38(3):525-527
+46403	Ho, G.W.C. In Two new species of genus Scionecra (Phasmida: Diapheromeridae: Necrosciinae) from China and Vietnam.	2014	In Two new species of genus Scionecra (Phasmida: Diapheromeridae: Necrosciinae) from China and Vietnam.	Sichuan Journal of Zoology 33(5)
+46404	Ho, G.W.C. In Taxonomy of the genus Ramulus (Phasmatodea, Phasmatidae, Clitumninae) from Hainan, China.	2013	In Taxonomy of the genus Ramulus (Phasmatodea, Phasmatidae, Clitumninae) from Hainan, China.	Acta Zootaxonomica Sinica 38(3)
+46405	Ho, G.W.C. In Two New Species of Phasmida from China  (Diapheromeridae: Necrosciinae, Pachymorphinae).	2015	In Two New Species of Phasmida from China  (Diapheromeridae: Necrosciinae, Pachymorphinae).	Acta Scientiarum Naturalium Universitatis Sunyatseni 54(1)
+46406	Ho, G.W.C.	2013	Four new species of Diapheromeridae (Phasmatodea) from Hainan, China	Acta Zootaxonomica Sinica 38(4):820–824
+46407	Ho, G.W.C.	2015	A review of the genus Parasinophasma Chen et He (Phasmida: Diapheromeridae: Necrosciinae)	Acta Entomologica Sinica (Acta Ent. Sinica) 58(3):329-334
+46408	Ho, G.W.C.	2015	First record of the genus Entoria Stål, 1875 (Phasmida: Phasmatidae: Clitumninae) from Guangdong with  descriptions of two new species	Bulletin of Hong Kong Entomological Society 7(1):13-19
+46636	Valero & Ortiz	2015	Description and DNA barcoding of a new Iberian species of Pijnackeria (Scali, 2009) from Sierra Nevada, Spain (Phasmida: Diapheromeridae)	Zootaxa 4058(4):535–550
+47001	Vallotto, Bresseel, Heitzmann & Gottardo	2016	A black-and-red stick insect from the Philippines - observations on the external anatomy and natural history af a new species of <i>Orthomeria</i>	ZooKeys 559:35-57
+47579	Seow-Choen	2016		A taxonomic guide to the stick insects of Borneo, Natural History Publications (Borneo), Kota Kinabalu 1-454

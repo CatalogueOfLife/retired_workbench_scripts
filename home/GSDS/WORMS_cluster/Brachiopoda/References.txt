@@ -1,0 +1,72 @@
+ReferenceID	Authors	Year	Title	Details	
+1	Hayward, P.J.; Ryland, J.S. (Ed.)	1990	The marine fauna of the British Isles and North-West Europe: 1. Introduction and protozoans to arthropods		
+8	Linnaeus, C.	1758	Systema Naturae per regna tria naturae, secundum classes, ordines, genera, species, cum characteribus, differentiis, synonymis, locis	Editio decima, reformata. Laurentius Salvius: Holmiae. ii, 824 pp	
+42			ITIS database		
+80	de Kluijver, M. J.; Ingalsuo, S. S.; de Bruyne, R. H.	2000	Macrobenthos of the North Sea [CD-ROM]: 1. Keys to Mollusca and Brachiopoda	World Biodiversity Database CD-ROM Series. Expert Center for Taxonomic Identification (ETI): Amsterdam, The Netherlands. ISBN 3-540-14706-3. 1 cd-rom	
+663	Howson, C. M.; Picton, B. E.	1997	The species directory of the marine fauna and flora of the British Isles and surrounding seas	Ulster Museum Publication, 276. The Ulster Museum: Belfast, UK. ISBN 0-948150-06-8. vi, 508 (+ cd-rom) pp.	
+1372	Howson, C.M.	2001	Brachiopoda, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+2930	Brunel, P.; Bosse, L.; Lamarche, G.	1998	Catalogue of the marine invertebrates of the estuary and Gulf of St. Lawrence	Canadian Special Publication of Fisheries and Aquatic Sciences, 126. 405 p	
+3017	Meinkoth, N.A.	1981	Field guide to North American seashore creatures. The Audubon Society. Alfred A. Knopf. New York. 799 p.		
+6561	Branch, G.M. et al.	2002	Two Oceans. 5th impression. David Philip, Cate Town & Johannesburg.		
+6831			BIOCEAN		
+9270	Bowden, D. A.; Clarke, A.; Peck, L. S.; Barnes, D. K. A.	2006	Antarctic sessile marine benthos: colonisation and growth on artificial substrata over three years	MEPS. 316: 1-16	
+9419	Müller O.F. 	1776	Zoologiae Danicae Prodromus seu Animalium Daniae et Norvegiae indigenarum characteres, nomina, et synonyma imprimis popularium. 	Copenhagen, xii + 274 pp. Hafniae, Typiis Hallageriis, xxii + 274 pp.	
+10016	Emig, C.C.; Alvarez F.; Bitner M.A. (Ed)	2014	World Brachiopoda database		
+10085			BIOTIC		
+35711	Couthouy, J.P.,	1839	Descriptions of new species of Mollusca and shells, and remarks on several polypi found in Massachusetts Bay. Boston J. nat. Hist. 2 : 53-111.		
+40269	Philippi, R. A.	1844	Enumeratio molluscorum Siciliae cum viventium tum in tellure tertiaria fossilium, quae in itinere suo observavit. Volumen secundum continens addenda et emendanda, nec non comparationem faunae recentis Siciliae cum faunis aliarum terrarum et com fauna periodi tertiariae	Eduard Anton,  Halle [Halis Saxorum]. iv+303: 13-28	
+40295	Delle chiaie, S.; Poli, G. S.	1791	Testacea utriusque siciliae eorumque historia et anatome tabulis aeneis illustrata /		
+124402	Bitner M. A.	2008	New data on the recent brachiopods from the Fiji and Wallis and Futuna islands, South-West Pacific. Zoosystema 30 (2) : 419-461.		
+132586	Macfarlan, D.A.B.; Bradshaw, M.A.; Campbell, H.J.; Cooper, R.A.; Lee, D.E.; MacKinnon, D.I.; Waterhouse, J.B.; Wright, A.J.; Robinson, J.H.	2009	Phylum Brachiopoda: lamp shells, in: Gordon, D.P. (Ed.) (2009). New Zealand inventory of biodiversity: 1. Kingdom Animalia: Radiata, Lophotrochozoa, Deuterostomia.		
+137817	Smith, E. A.	1872	A list of species of shells from West Africa, with descriptions of those hitherto undescribed	i>Proceedings of the Zoological Society of London</i. 1871(727): 75	
+141262	Santagata, S. and J. W. Tunnell Jr.	2009	Brachiopoda of the Gulf of Mexico,		
+141454	Cooper G. A.,	1982	New brachiopoda from the Southern hemisphere and Cryoptopora from Oregon (Recent). Smiths. Contr. Paleobiol., 41, 1-43, 7 pls.		
+145894	Bousfield, E.L.	1964	Coquillages des cotes canadiennes de l'Atlantique.   > Musée national du Canada, Ottawa. 89 p.		
+147411			PESI (A Pan-European Species directories Infrastructure) focal points		
+152417	Liu J.Y. [Ruiyu] (ed.)	2008	Checklist of marine biota of China seas	China Science Press. 1267 pp	
+152804	Scacchi, A.	1833	Osservazioni zoologiche		
+156368	Bitner, M. A.	2011	Xenobrochus norfolkensis (Brachiopoda: Dyscoliidae), a new species from the Norfolk Ridge, New Caledonia, South-West Pacific.- Carnets de Géologie	Notebooks on Geology, Brest, Article. 2011(05): 203-211	
+156504	Hoffmann, J.; Lüter, C.	2010	Shell development in the thecidellinine brachiopods with description of a new recent genus	Special Papers in Palaeontology. 84: 137-160	
+162882	Jeffreys J. G.	1869	The deep-sea dredging expedition in H.M.S. “Porcupine”. Nature 1: 135-136.		
+163253	Álvarez F., Emig C. C., Roldán C. & J. M. Viéitez,	2005	Lophophorata: Phoronida, Brachiopoda. In: Fauna Ibérica, vol. 27. Museo de Ciencias Naturales, CSIC Madrid, 273 pp.		
+165516	Dyntaxa	2013	Swedish Taxonomic Database		
+166271	Bitner, M. A.; Melnik, J. P.; Zezina, O. N.	2013	New paedomorphic brachiopods from the abyssal zone of the north-eastern Pacific Ocean	Zootaxa. 3613(3): 281-288	
+168678	Simon, E.; Hoffmann, J.	2013	Discovery of Recent thecideide brachiopods (Order: Thecideida, Family: Thecideidae) in Sulawesi, Indonesian Archipelago, with implications for reproduction and shell size in the genus Ospreyella	Zootaxa. 3694(5): 401-433	
+168880	Lüter, C.; Wörheide, G.; Reitner, J.	2003	A new thecideid genus and species (Brachiopoda, Recent) from submarine caves of Osprey Reef (Queensland Plateau, Coral Sea, Australia)	Journal of Natural History. 37: 1423-1432	
+170619	Bitner, M. A.	2010	Biodiversity of shallow-water brachiopods from New Caledonia, SW Pacific, with description of a new species	Sci. Mar.. 74(4) : 643-657	
+170925	Simon, E.	2010	Argyrotheca furtiva n. sp. and Joania arguta (GRANT, 1983) two micromorphic megathyrid brachiopods (Terebratulida, Megathyridoidea) from the Indonesian Archipelago	Bull. Kon. Belg. Inst. Natuurwet. Biologie. 80: 277-295	
+171391	Bitner, M. A.	2009	Recent Brachiopoda from the Norfolk Ridge, New Caledonia, with description of four new species	Zootaxa. 2235: 1-39	
+171602	Hoffmann, J.; Lüter, C.	2009	Shell development, growth and sexual dimorphism in the Recent thecideide brachiopod Thecidellina meyeri sp. nov. from the Lesser Antilles, Caribbean	Journal of the Marine Biological Association of the United Kingdom. 89(3), 469-479	
+171603	Hoffmann, J.; Klann, M.; Matz, F.	2009	Recent thecideide brachiopods from the northern Great Barrier Reef, Australia (SW Pacific Ocean)	Zoosystematics and Evolution. 85(2): 341-349	
+171754	MacKinnon, D. I.; Long, S. L.	2009	A new species of the recent brachiopod genus Shimodaia (Laqueoidea: Terebratulida) from the South China Sea	Paleontological Research. 13(4): 309-317	
+172494	Bitner, M. A.; Cohen, B. L.; Long, S. L.; Richer de Forges, B.; Saito, M. 	2008	Gyrothyris williamsi sp. nov. and inter-relationships of some taxa from waters around New Zealand and the southern oceans (Rhynchonelliformea: Terebratelloidea)	Earth and Environmental Science Transactions of the Royal Society of Edinburgh. 98(3): 425-435	
+172680	Logan, A.; Bitner, M. A.	2013	New records of Recent Brachiopoda from the Red Sea with a description of a new species	Zootaxa. 3746(1): 161-174	
+173171	Logan, A.	2008	Holocene thecideide brachiopods from the north‐western Pacific Ocean: Systematics, life habits and ontogeny	Systematics and Biodiversity. 6(3): 405-413	
+173183	Lüter, C.; Hoffmann, J.; Logan, A.	2007	Cryptic speciation in the Recent thecideide brachiopod Thecidellina in the Atlantic and the Caribbean.	Earth and Environmental Science Transactions of the Royal Society of Edinburgh. 98(3): 405-413	
+173184	Lüter, C.	2008	Recent brachiopods collected during the deep-sea cruise SO 168 ZEALANDIA with the research vessel FS SONNE between Mt. Spong (Tasman Sea) and the Chatham Islands (Pacific) in 2002/2003	Fossils and Strata. 54: 311-320	
+173189	Mackinnon, D. I.; Hiller, N.; Long, S. L.; Marshall, B. A.	2008	Neoaemula, a new genus of platidiid brachiopod, with observations on species referred to the Recent platidiid brachiopod genus Amphithyris Thomson	Fossils and Strata. 54: 321-331	
+175675	Gmelin, J. F.,	1791	Caroli a Linné, systema naturae. Tomus 1, Pars VI, p. 3021–3910. Beer, Lipsiae (=Leipzig) see p. 3347		
+175676	Wood S. V.	1841	A catalogue of shells from the Crag	Annals and Magazine of Natural History. (1)6: 243-253	
+175682	Lovén, S.	1844	Index molluscorum litora Scandinaviae occidentalia habitantium	Kongl. Vetenskaps-Akademiens Förhandlinger. 1: 135-204 voir p. 183	
+176274	Logan, A.	1998	Recent Brachiopoda from the oceanographic expedition SEAMOUNT 2 to the north-eastern Atlantic in 1993	Zoosystema. 20(4): 549-562	
+176950	Höninghaus F. W.	1828	Beitrag zur Monographie der Gattung Crania.- Schüller, Krefeld, 12 p., 1 pl.		
+177347	Bitner, M. A.	2014	Living Brachiopods from French Polynesia, Central Pacific, with Descriptions of Two New Species 1	Pacific Science. 68(2): 245-265	
+191581	Nauendorf, A.; Wörheide, G.; Lüter, C.	2014	Revision of the brachiopod genus <em>Amphithyris</em> (Rhynchonelliformea: Platidiidae) with descriptions of two new species	Zootaxa. 3847(2): 221	
+191590	Zezina O.N.	2014	Deep-sea fauna of European seas: An annotated species check-list of benthic invertebrates living deeper than 2000 m in the seas bordering Europe. Brachiopoda	Invertebrate Zoology. Vol.11. No.1: 83–88 [in English]	
+192633	Trott, T. J.	2004	Cobscook Bay inventory: a historical checklist of marine invertebrates spanning 162 years	Northeastern Naturalist. 11, 261-324	
+192949	Fischer, P.; Œhlert D.-P.	1890	Diagnoses de nouveaux Brachiopodes	Journal de Conchyliologie, Paris. 38: 70-74	
+195717	Bitner M. A. & B. L. Cohen	2015	Congruence and conflict: case studies of morphotaxonomy versus rDNA gene tree phylogeny among articulate brachiopods (Brachiopoda: Rhynchonelliformea), with description of a new genus.	Zoological Journal of the Linnean Society. 173, 486–504.	
+196174	Seidel, R.; Lüter, C.	2014	Overcoming the fragility – X-ray computed micro-tomography elucidates brachiopod endoskeletons	Frontiers in Zoology. 11(1)	
+196247	Davidson T.	1886	A monograph of the Recent Brachiopoda (1887). Part II.	Transactions of the Linnean Society of London (2) 4 (Zoology) : 75-182, pl. 14-25.	
+196248	Fischer P., Œhlert D.-P.	1891	Brachiopodes. In: Expéditions scientifiques du « Travailleur » et du « Talisman » pendant les années 1880, 1881, 1882, 1883.	Expéditions Scientifiques du Travailleur et du Talisman, 1880-1883, Masson, Paris 2 : 1-140.	
+196665	Bitner, M. A.	2007	Recent brachiopods from the Austral Islands, French Polynesia, Southcentral Pacific	Zoosystema. 29:491–502	
+197521	Brunton, C.H.C.; Curry, G.B.	1979	British brachiopods. Keys and notes for the identification of the species	Synopses of the British fauna (New Series), N.S. 17. Academic Press: London. ISBN 0-12-137960-4.. 64 pp.	
+197838	MacKinnon, D. I. ; Long, S. L.	2000	Terebratula californiana Küster, 1844, and Reappraisal of West Coast North American Brachiopod Species Referred to the Genus Laqueus Dall, 1870		
+197878	Rojas A., Gracia A. & Patarroyo P.	2015	Brachiopods from off the San Bernardo Archipelago (Colombian Caribbean), with comments on specific synonymies in Tichosina Cooper, 1977	Zootaxa, 3914 (1).	
+200515	Logan, A.; Hoffmann, J.; Lüter, C.	2015	Checklist of Recent thecideoid brachiopods from the Indian Ocean and Red Sea, with a description of a new species of <em>Thecidellina</em> from Europa Island and a re-description of <em>T. blochmanni</em> Dall from Christmas Island	Zootaxa. 4013(2): 225-234	
+201082	Linnaeus C.	1767	Systema naturae per regna tria naturae : secundum classes, ordines, genera, species cum characteribus, differentiis, sinonimis, locis.	Salvii (Holmiae), 1 (2), p. 1153 (n°236).	
+201090	Emig, C. C.		Emig, C. C. <em>BrachNet.</em>	BrachNet	
+220650	Ng, T.	2015	Hong Kong Checklist of Marine Species		
+221039	Treatise on Invertebrate Paleontology	1997-2007	Part H revised, Brachiopoda.	Geological Society of America, Boulder; and University of Kansas Press, Lawrence,. vol. 1-6.	
+221247	Gmelin J. F.	1791	Caroli a Linné, systema naturae	Beer, Lipsiae (=Leipzig),. Tomus 1, Pars VI, p. 3021–3910	
+221249	Friele H.	1879	Jan Mayen Molusca from the Norvegian North Atl. Expedition in 1877	Nyt Magazin for Naturvidenskaberne. 24 (3), 221-226, 1 pl.	

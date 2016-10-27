@@ -1,0 +1,115 @@
+AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
+111355	siateczniki kolczasty				Polish	147411	
+111435	fals corall				Catalan	163039	
+111453	encaix de Venus				Catalan	163039	
+111453	encaix de Neptú				Catalan	163039	
+111453	punta de Neptú				Catalan	163043	
+111453	randa de Neptú				Catalan	163043	
+111435	falso corallo				Italian	163039	
+111453	trina di mare				Italian		
+111435	false coral				English	614	
+111435	false coral				English	163039	
+111355	hairy sea-mat				English	1116	
+111538	single horn bryozoan				English	163040	
+111351	an encrusting bryozoan				English	10085	
+472353	crystal moss-animal				English	147411	
+111250	scrupocellaria				English	1116	
+111062	snake's head coralline				English	614	
+111453	Neptunes' lace				English	163043	
+111367	hornwrack				English	10085	
+111367	greater horn wrack				English	123768	
+111411	sea mat				English	614	
+111411	lacy crust bryozoan				English		
+111673	trembling semat				English	10085	
+111673	trembling sea-mat				English	147411	
+111597	sechervil				English	10085	
+111600	jelly bryozoan				English	1116	
+111082	Ross				English	10085	
+111082	ross coral				English	614	
+111293	orange-peel bryozoan				English	147411	
+111355	pigget hindemosdyr				Danish	147411	
+111250	buskmosdyr				Danish	147411	
+111367	bredt bladmosdyr				Danish	147411	
+111621	pigget hindemosdyr				Danish	147411	
+111600	gelatinøst lædermosdyr				Danish	147411	
+111601	låddent lædermosdyr				Danish	147411	
+111604	omklamrende lædermosdyr				Danish	147411	
+111411	glat hindemosdyr				Danish	147411	
+111600	bryozoaire gélatineux				French	1116	
+111082	pentapore bois de cerf				French		
+111365	petite flustre				French	9269	
+111268	bryozoaire				French	9269	
+111268	pierreux orange				French	9269	
+111592	bryozoaire orange vif à points noirs				French	163040	
+111690	mousse blanche				French	9269	
+111411	membranipore				French	9269	
+111411	écorce marine				French	9269	
+111158	bugule brune				French	163040	
+111453	Dentelle de Neptune				French	163043	
+111453	Dentelle de Vénus				French		
+111367	grande flustre				French	9269	
+111367	flustre feuillue				French	9269	
+111254	bryozoaire inopiné				French	163040	
+111250	scrupocellaire				French	1116	
+111435	faux corail				French	163039	
+111355	ecorce pileuse				French	1116	
+111355	zottige Seerinde				German	1116	
+111435	Trugkoralle				German	163039	
+111453	Neptunschleier				German	163039	
+111367	grösses Blätter-Moostierchen				German	123768	
+111367	Blätter Moostierchen				German	147412	
+111621	rotdorniges Moostierchen				German	147412	
+111361	Paarzweig-Moostierchen				German	147412	
+111411	Seerinde				German	147412	
+111669	Stachel-Moostierchen				German	147412	
+111597	Aufrechtes Gallert Moostierchen				German	147412	
+111600	Gallert-Moostierchen				German	1116	
+111600	klammer Moostierchen				German	147412	
+111604	klammer Moostierchen				German	147412	
+111538	paars vogelkopmosdiertje				Dutch	163040	
+111254	onverwacht mosdiertje				Dutch		
+111351	zeevitrage				Dutch	1116	
+111351	zeekantwerk				Dutch	130048	
+111540	koehoornmosdiertje				Dutch	130048	
+111250	steencelpoliep				Dutch	1116	
+111250	steenmosdiertje				Dutch	130048	
+111158	paars vogelkopmosdiertje				Dutch	1071	
+111367	bladachtig hoornwier				Dutch	685	
+111367	breedbladig mosdiertje				Dutch	130048	
+111367	bladmosdiertje				Dutch	147411	
+111719	wrattig mosdiertje				Dutch	130048	
+111659	neetmosdiertje				Dutch	130048	
+111652	bekermosdiertje				Dutch	130048	
+111361	tweelingmosdiertje				Dutch	130048	
+111374	fijn hoornwier				Dutch	685	
+111374	wigbladig mosdiertje				Dutch	130048	
+111676	druifmosdiertje				Dutch	130048	
+111696	ivoormosdiertje				Dutch	130048	
+111706	geitenhoornmosdiertje				Dutch	130048	
+111411	fijne vliescelpoliep				Dutch	685	
+111411	ledermosdiertje				Dutch	130048	
+111669	blaascelpoliep				Dutch	755	
+111669	zijdemosdiertje				Dutch	130048	
+153730	grijze zeevinger				Dutch	130048	
+111597	bruine zeevinger				Dutch	130048	
+111597	doorschijnende zeevinger				Dutch	139287	
+111600	doorschijnende zeevinger				Dutch	685	
+111601	ruwe zeevinger				Dutch	685	
+111604	woekerende zeevinger				Dutch	685	
+111604	overwoekerend mosdiertje				Dutch	130048	
+111631	slangmosdiertje				Dutch	130048	
+111147	haarcelpoliep				Dutch	1116	
+111147	wimpermosdiertje				Dutch	130048	
+111147	haarmosdiertje				Dutch	147411	
+111365	smalbladig mosdiertje				Dutch	130048	
+111268	puimsteenmosdiertje				Dutch	130048	
+111760	purper mosdiertje				Dutch	130048	
+111355	harige vliescelpoliep				Dutch	685	
+111355	harig mosdiertje				Dutch	130048	
+111355	stjernemosdyr				Norwegian Bokmål	147411	
+111355	stjernemosdyr				Norwegian Nynorsk	147411	
+111435	coral falso				Spanish	163039	
+111453	encaje de Venus				Spanish	163043	
+111453	encaje de Neptuno				Spanish	163043	
+111082	cuerno de alce				Spanish	163039	
+111055	cuerno de alce				Spanish	163039	

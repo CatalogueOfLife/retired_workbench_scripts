@@ -19,8 +19,10 @@ UPDATE `scientific_names` SET `specialist_id` = NULL;
 
 UPDATE `scientific_names` SET `infraspecies_marker` = "forma" WHERE `infraspecies_marker` LIKE "f.%";
 UPDATE `scientific_names` SET `infraspecies_marker` = "var." WHERE `infraspecies_marker` LIKE "Variety";
-UPDATE `scientific_names` SET `infraspecies_marker` = "subsp." WHERE `infraspecies_marker` LIKE "Subspecies"; 
+UPDATE `scientific_names` SET `infraspecies_marker` = "subsp." WHERE `infraspecies_marker` LIKE "Subspecies";
+UPDATE `scientific_names` SET `infraspecies_marker` = "subsp." WHERE `infraspecies_marker` LIKE "ssp.";
 UPDATE `scientific_names` SET `sp2000_status_id` = 5 WHERE `sp2000_status_id` IS NULL AND `is_accepted_name` = 0; 
+
 
 #/*these replacements must go before 'Not assigned' otherwise it will delete 'assigned' and leave 'Not'*/
 #UPDATE `families` SET `family` = SUBSTRING_INDEX(`family`, ' ', 1) WHERE `family` LIKE "% %";

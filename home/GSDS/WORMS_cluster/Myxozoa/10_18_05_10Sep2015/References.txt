@@ -1,0 +1,8 @@
+ReferenceID	Authors	Year	Title	Details	
+1376	Karlsbakk, E.	2001	Myxozoa, <B><I>in</I></B>: Costello, M.J. <i>et al.</i> (Ed.) (2001). <i>European register of marine species: a check-list of the marine species in Europe and a bibliography of guides to their identification. Collection Patrimoines Naturels,</i> 50:		
+127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
+128171	Brickle, Kalavati & MacKenzie.	2006	Henneguya shackletoni sp. nov. (Myxosporea, Bivalvulida, Myxobolidae) from the Falklands mullet, Eleginops maclovinus (Cuvier) (Teleostei, Eleginopidae) in the Falkland Islands. Acta Parasitologica    Volume: 51    Issue: 1    Pages: 36-39		
+129661	Yokoyama, H.; Kawakami, H.; Yasuda, H.; Tanaka, S.	2003	Henneguya lateolabracis sp. n. (Myxozoa: Myxosporea), the causative agent of cardiac henneguyosis in Chinese sea bass Lateolabrax sp		
+167091	Cairns, S.D.; Gershwin, L.; Brook, F.J.; Pugh, P.; Dawson, E.W.; Ocaña O.V.; Vervoort, W.; Williams, G.; Watson, J.E.; Opresko, D.M.; Schuchert, P.; Hine, P.M.; Gordon, D.P.; Campbell, H.J.; Wright, A.J.; Sánchez, J.A.; Fautin, D.G.	2009	Phylum Cnidaria: corals, medusae, hydroids, myxozoans, in: Gordon, D.P. (Ed.) (2009). New Zealand inventory of biodiversity: 1. Kingdom Animalia: Radiata, Lophotrochozoa, Deuterostomia.		
+175124	Work, T. M.; Takata, G.; Whipps, C. M.; Kent, M. L.	2008	A new species of Henneguya (Myxozoa) in the big-eyed scad (Selar crumenophthalmus) from Hawaii		
+199031	Yokoyama, H.; Itoh, N. & Tanaka, S.	2005	Henneguya pagri n. sp. (Myxozoa: Myxosporea) causing cardiac henneguyosis in red sea bream, Pagrus major (Temminck & Schlegel)		

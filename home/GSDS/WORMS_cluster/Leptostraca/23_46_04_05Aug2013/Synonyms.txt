@@ -1,0 +1,5 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+149679	147144	Nebalia		typhlops	G.O. Sars, 1869				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:149679	
+459340	459291	Paranebalia		fortunata	Wakabara, 1976				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:459340	
+459293	513898	Nebalia		bipes		abyssicola	Subspecies	Fage, 1929	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:459293	
+459337	396650	Nebalia		longipes	Willemöes-Suhm, 1875				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:459337	

@@ -1,0 +1,29 @@
+ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
+221121	221006	Amphioxides		stenurus	Goldschmidt, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:221121	
+221120	221006	Amphioxides		valdiviae	Goldschmidt, 1905				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:221120	
+104905	221006	Asymetron		lucayanum					unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:104905	
+221009	221006	Asymmetron		caudatum	Willey, 1896				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:221009	
+221008	221006	Asymmetron		macricaudatum	Parker, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:221008	
+221007	221006	Asymmetron		orientale	Parker, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:221007	
+104904	104906	Amphioxus		lanceolatus	(Pallas, 1774)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:104904	
+214517	104906	Branchiostoma		haecklii	Franz, 1922				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:214517	
+214520	104906	Branchiostoma		lubricum	Costa, 1834				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:214520	
+852353	157858	Branchiostoma		marambaiense	Silva, 1980				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:852353	
+214523	221006	Branchiostoma		pelagicum	Gunther, 1889				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:214523	
+224125	214516	Branchiostoma		lanceolatum		belcheri	Subspecies	Tattersall, 1903	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:224125	
+104907	221006	Epigonichthys		lucayanum	(Andrews, 1893)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:104907	
+212959	221006	Epigonichthys		lucayanus	(Andrews, 1893)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:212959	
+221122	730523	Amphioxus		japonicus	Willey, 1897				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:221122	
+268128	266220	Assymetron		australis	Raffe, 1912				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:268128	
+268129	212958	Assymetron		maldivensis	(Forster Cooper, 1903)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:268129	
+221124	212957	Bathyamphioxus		franzi	Whitley, 1932				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:221124	
+214521	214516	Branchiostoma		minucauda	Whitley, 1932				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:214521	
+214519	730523	Branchiostoma		nakagawae	Jordan & Snyder, 1901				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:214519	
+224124	730523	Branchiostoma		belcheri		japonicum	Subspecies	(Willey, 1897)	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:224124	
+224126	730523	Branchiostoma		belcheri		tsingtauense	Subspecies	Tchang-Shi & Koo, 1936	unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:224126	
+212960	212957	Epigonichthys		pulchellus	Gunther, 1880				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:212960	
+221126	212958	Heteropleuron		agassizii	Parker, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:221126	
+221127	212957	Heteropleuron		hedleyi	Haswell, 1908				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:221127	
+221128	212958	Heteropleuron		maldivense	Forster Cooper, 1903				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:221128	
+221125	212958	Heteropleuron		parvum	Parker, 1904				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:221125	
+221129	104906	Limax		lanceolatus	Pallas, 1774				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:221129	
