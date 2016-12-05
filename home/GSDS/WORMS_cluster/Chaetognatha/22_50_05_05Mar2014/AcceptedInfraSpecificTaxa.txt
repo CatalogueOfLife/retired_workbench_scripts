@@ -1,3 +1,0 @@
-AcceptedTaxonID	ParentSpeciesID	InfraSpeciesEpithet	InfraSpeciesAuthorString	InfraSpeciesMarker	GSDNameStatus	Sp2000NameStatus	IsFossil	LifeZone	AdditionalData	LTSSpecialist	LTSDate	InfraSpeciesURL	GSDTaxonGUI	GSDNameGUI	
-379365	105464	atlantica	(Thompson, 1947)	Subspecies	accepted	Accepted name	0	marine		Thuesen, Erik V.	2009-01-02 20:41:35	http://www.marinespecies.org/aphia.php?p=taxdetails&id=379365		urn:lsid:marinespecies.org:taxname:379365	
-379366	105464	serratodentata	(Krohn, 1853)	Subspecies	accepted	Accepted name	0			Thuesen, Erik V.	2009-01-02 20:41:35	http://www.marinespecies.org/aphia.php?p=taxdetails&id=379366		urn:lsid:marinespecies.org:taxname:379366	

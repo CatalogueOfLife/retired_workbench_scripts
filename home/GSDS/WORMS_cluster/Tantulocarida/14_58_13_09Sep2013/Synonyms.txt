@@ -1,5 +1,0 @@
-ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
-366760	136613	Deoterthron		harrisoni	Boxshall & Lincoln, 1987				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:366760	
-366762	366761	Deoterthron		megacephala	Lincoln & Boxshall, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:366762	
-366759	366604	Deoterthron		aselloticola	Boxshall & Lincoln, 1983				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:366759	
-384630	366585	Australotantulus		lincolni	Boxshall, 1988				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:384630	

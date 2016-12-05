@@ -1,4 +1,0 @@
-AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
-378163	New Zealand Exclusive Economic Zone	Text		
-378165	Gulf of Mexico	Text		
-378167	Gulf of Mexico	Text		

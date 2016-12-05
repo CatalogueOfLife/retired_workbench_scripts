@@ -1,7 +1,0 @@
-AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
-137485	paranajs				Polish	147411	
-137577	langstaartkustworm				Dutch	132969	
-137571	Rurecznik				Polish	147411	
-137577	rurecznik				Polish	147411	
-137553	rurecznik				Polish	147411	
-137481	najada				Polish	147411	

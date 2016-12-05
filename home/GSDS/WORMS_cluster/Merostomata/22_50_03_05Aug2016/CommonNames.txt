@@ -1,3 +1,0 @@
-AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
-150514	horseshoe crab				English	1318	
-238270	tri-spine horseshoe crab				English	1318	

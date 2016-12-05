@@ -1,2 +1,0 @@
-ID	AcceptedTaxonID	Genus	SubGenusName	Species	AuthorString	InfraSpecies	InfraSpecificMarker	InfraSpecificAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUI	
-154520	101157	Priapulus		bicaudatus	(Koren & Danielsen, 1875)				unaccepted	Unaccepted name	urn:lsid:marinespecies.org:taxname:154520	

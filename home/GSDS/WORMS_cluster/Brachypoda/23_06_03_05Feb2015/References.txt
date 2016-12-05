@@ -1,5 +1,0 @@
-ReferenceID	Authors	Year	Title	Details	
-132563	Webber, W.R.; Fenwick, G.D.; Bradford-Grieve, J.M.; Eagar S.G.; Buckeridge, J.S.; Poore, G.C.B.; Dawson, E.W.; Watling, L.; Jones, J.B.; Wells, J.B.J.; Bruce, N.L.; Ahyong, S.T.; Larsen, K.; Chapman, M.A.; Olesen, J.; Ho, J.; Green, J.D.; Shiel, R.J.; Roc	2010	Phylum Arthropoda Subphylum Crustacea: shrimps, crabs, lobsters, barnacles, slaters, and kin, in: Gordon, D.P. (Ed.) (2010). New Zealand inventory of biodiversity: 2. Kingdom Animalia: Chaetognatha, Ecdysozoa, Ichnofossils.		
-141239	Martin, J. W.	2009	Cephalocarida and Mystacocarida (Crustacea) of the Gulf of Mexico,		
-175071	Shimomura, M.; Akiyama, T.	2008	Description of a new species of Cephalocarida, Sandersiella kikuchii, and redescription of S. acuminata Shiino based upon the type material		
-67824	Jones, M. L.	1961	Lightiella serendipita gen. nov., sp. nov., a cephalocarid from San Francisco Bay, California		

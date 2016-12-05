@@ -1,8 +1,0 @@
-ReferenceID	Authors	Year	Title	Details	
-105897	Ohtsuka, S.; Hanamura, Y.; Kase, T.	2002	A new species of Thetispelecaris (Crustacea: Peracarida) from submarine cave on Grand Cayman Island	Zoological Science Tokyo. 19(5), 611-624	
-127204	Bouchet, P.; Fontaine, B.	2009	List of new marine species described between 2002-2006. Census of Marine Life.		
-139278	Gutu, G.; Iliffe, T. M.	1998	Description of a new hirsutiid (n.g., n.sp.) and reassignement of this family from order Mictacea to the new order, Bochusacea (Crustacea, Peracrida)	Travaux du Muséum d'Histoire Naturelle "Grigore Antipa". 40: 93-120	
-139279	Just J. & G.C.B. Poore,	1988	Second record of Hirsutiidae (Peracarida: Mictacea): Hirsutia sandersetalia, new species, from southeastern Australia. Crustaceana 8(3): 483-488.		
-139280	Saunders, H. L.; Hessler, R. R.; Garner, S. P.	1985	Hirsutia bathyalis, a new unusual peracaridan crustacean from the tropical Atlantic	Journal of Crustacean Biology. 5(1), 30-57	
-158976	Jaume, D., G.A. Boxshall, & R.N. Bamber.	2006	A new genus from the continental slope off Brazil and the discovery of the first males in the Hirsutiidae (Crustacea: Peracarida: Bochusacea).	Zoological Journal of the Linnean Society. 148(2): 169-208	
-176957	Shimomura, M.; Fujita, Y.; Naruse, T.	2012	First record of the genus Thetispelecaris Gutu & Iliffe, 1998 (Crustacea: Peracarida: Bochusacea) from a submarine cave in the Pacific Ocean	In: Naruse, T., Chan, T.-Y., Tan, H.H., Ahyong, S.T. & Reimer, J.D. (2012) Scientific Results of the Marine Biodiversity Expedition — KUMEJIMA 2009. Zootaxa. 3367: 1-280	

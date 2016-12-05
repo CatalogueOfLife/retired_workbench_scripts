@@ -1,3 +1,0 @@
-AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
-141971	European waters (ERMS scope)	Text		
-141972	European waters (ERMS scope)	Text		

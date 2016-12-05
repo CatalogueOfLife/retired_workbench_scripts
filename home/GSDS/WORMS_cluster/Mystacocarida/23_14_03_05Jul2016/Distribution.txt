@@ -1,5 +1,0 @@
-AcceptedTaxonID	DistributionElement	StandardInUse	DistributionStatus	
-382769	West Australia	Text		
-408692	Gulf of Mexico	Text		
-120236	European waters (ERMS scope)	Text		
-120237	European waters (ERMS scope)	Text		

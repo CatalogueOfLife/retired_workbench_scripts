@@ -1,4 +1,0 @@
-AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
-104054	rhynchonella grise				French	145894	
-104062	bulldogskjell				Norwegian Bokmål	147411	
-104057	grånebbskjell				Norwegian Bokmål	147411	

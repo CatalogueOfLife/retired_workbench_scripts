@@ -1,2 +1,0 @@
-DatabaseFullName	DatabaseShortName	DatabaseVersion	ReleaseDate	AuthorsEditors	TaxonomicCoverage	GroupNameInEnglish	Abstract	Organisation	HomeURL	Coverage	Completeness	Confidence	LogoFileName	ContactPerson	
-World list of Rhombozoa	WoRMS Rhombozoa	2015-11-04	2015-11-04						http://www.marinespecies.org	Global					

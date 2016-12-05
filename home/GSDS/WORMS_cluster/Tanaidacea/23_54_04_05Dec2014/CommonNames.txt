@@ -1,4 +1,0 @@
-AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
-247737	Stanford's naaldkreeftje				Dutch	132969	
-136284	stor klotanglus				Danish	147411	
-136290	Апсеудопсіс Остроумова 				Ukrainian	147411	

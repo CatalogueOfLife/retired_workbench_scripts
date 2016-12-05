@@ -1,7 +1,0 @@
-AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
-101156	pigget pølseorm				Danish	147411	
-101156	skrytnik kolczasty				Polish	147411	
-101160	catus worm				English	2901	
-101160	frynsehalet pølseorm				Danish	147411	
-101160	frynsepølseorm				Norwegian Bokmål	147411	
-101160	frynsepølseorm				Norwegian Nynorsk	147411	

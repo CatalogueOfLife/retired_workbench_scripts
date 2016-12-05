@@ -1,6 +1,0 @@
-AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
-104054	rhynchonella grise				French	145894	
-104057	grånebbskjell				Norwegian Bokmål	147411	
-104056	lamp shell				English	2901	
-104056	platenebbskjell				Norwegian Bokmål	147411	
-104062	bulldogskjell				Norwegian Bokmål	147411	

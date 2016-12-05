@@ -1,8 +1,0 @@
-AcceptedTaxonID	ParentSpeciesID	InfraSpeciesEpithet	InfraSpeciesAuthorString	InfraSpeciesMarker	GSDNameStatus	Sp2000NameStatus	IsFossil	LifeZone	AdditionalData	LTSSpecialist	LTSDate	InfraSpeciesURL	GSDTaxonGUI	GSDNameGUI	
-459294	147032	bipes	(Fabricius, 1780)	Subspecies	accepted	Accepted name	0	marine		Mees, Jan	2010-02-24 11:08:24	http://www.marinespecies.org/aphia.php?p=taxdetails&id=459294		urn:lsid:marinespecies.org:taxname:459294	
-459295	147032	valida	Thiele, 1904	Subspecies	accepted	Accepted name	0	marine		Mees, Jan	2010-02-24 11:08:24	http://www.marinespecies.org/aphia.php?p=taxdetails&id=459295		urn:lsid:marinespecies.org:taxname:459295	
-390585	390565	brevicaudata	Ledoyer, 2002	Subspecies	accepted	Accepted name	0	marine		Mees, Jan	2010-02-24 11:08:24	http://www.marinespecies.org/aphia.php?p=taxdetails&id=390585		urn:lsid:marinespecies.org:taxname:390585	
-459305	421423	longicornis	Thomson, 1879	Subspecies	accepted	Accepted name	0	marine		Mees, Jan	2010-02-24 11:08:24	http://www.marinespecies.org/aphia.php?p=taxdetails&id=459305		urn:lsid:marinespecies.org:taxname:459305	
-459308	421423	soror	Thiele, 1904	Subspecies	accepted	Accepted name	0	marine		Mees, Jan	2010-02-24 11:08:24	http://www.marinespecies.org/aphia.php?p=taxdetails&id=459308		urn:lsid:marinespecies.org:taxname:459308	
-873455	421423	magellanica	Thiele, 1908	Subspecies	accepted	Accepted name	0	marine		Mees, Jan	2016-04-12 13:30:45	http://www.marinespecies.org/aphia.php?p=taxdetails&id=873455		urn:lsid:marinespecies.org:taxname:873455	
-396651	396650	neocaledoniensis	Ledoyer, 2000	Subspecies	accepted	Accepted name	0	marine		Mees, Jan	2012-02-07 13:34:04	http://www.marinespecies.org/aphia.php?p=taxdetails&id=396651		urn:lsid:marinespecies.org:taxname:396651	

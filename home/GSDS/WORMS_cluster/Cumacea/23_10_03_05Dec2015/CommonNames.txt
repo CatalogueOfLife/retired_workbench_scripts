@@ -1,2 +1,0 @@
-AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
-110487	pośródek pospolity				Polish	147411	

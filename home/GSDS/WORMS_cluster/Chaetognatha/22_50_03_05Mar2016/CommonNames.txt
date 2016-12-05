@@ -1,9 +1,0 @@
-AcceptedTaxonID	CommonName	TransliteratedName	Country	Area	Language	ReferenceID	
-105416	arrow worm				English	2901	
-105440	arrow worm				English	2901	
-105440	elegant arrow worm				English		
-105440	sierlijke pijlworm				Dutch	138645	
-105464	arrow worm				English	2901	
-105465	arrow worm				English	2901	
-105445	arrow worm				English	2901	
-105463	chambered arrow worm				English		
